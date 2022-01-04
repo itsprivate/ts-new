@@ -1,0 +1,72 @@
+{
+  "created_at": "Tue Jan 04 6:23:1 +0000 2022",
+  "id_str": "1478233770109157378",
+  "full_text": "Take an early look at the front page of The Wall Street Journal https://t.co/hnqxOQq0Ib https://t.co/6VTuYmezfB",
+  "display_text_range": [
+    0,
+    87
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/hnqxOQq0Ib",
+        "expanded_url": "https://on.wsj.com/3mQolty",
+        "display_url": "on.wsj.com/3mQolty",
+        "indices": [
+          64,
+          87
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1478233764329410600,
+        "id_str": "1478233764329410561",
+        "indices": [
+          88,
+          111
+        ],
+        "media_url": "http://pbs.twimg.com/media/FIO9xtHX0AEzvbY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FIO9xtHX0AEzvbY.jpg",
+        "url": "https://t.co/6VTuYmezfB",
+        "display_url": "pic.twitter.com/6VTuYmezfB",
+        "expanded_url": "https://twitter.com/WSJ/status/1478233770109157378/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 363,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1092,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 33,
+  "favorite_count": 108,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Jan 04 05:16:09 +0000 2022"
+}
