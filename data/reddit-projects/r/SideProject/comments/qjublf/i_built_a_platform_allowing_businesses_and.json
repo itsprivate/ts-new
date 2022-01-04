@@ -1,0 +1,78 @@
+{
+  "author": "Frajedo",
+  "original_created_utc": 1635701282,
+  "title": "I built a platform allowing businesses and individuals to share SMS Multi-Factor Authentication Codes",
+  "created_utc": 1635713351,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hello there Reddit!</p>\n\n<p>I just wanted to share with you a product I&#39;ve been working on for a while. The product is called GetMyMfa and is accessible at <a href=\"https://get.mymfa.io\">https://get.mymfa.io</a>. The objective of this project is to allow organizations to safely and easily share Multi-Factor Authentication codes for their Quality Assurance and Apple App Store review processes.</p>\n\n<p><strong>Where the idea came from:</strong></p>\n\n<p>I am currently working with multiple customers in the FSI domain (Financial Services Industry) and I am often required to perform tests in production and staging environments with multiple accounts. As production and staging accounts, these accounts are generally required to have at least an SMS 2FA system in place. When performing tests in such sensitive accounts, a single individual usually owns all phone numbers linked to these accounts and shares received MFA codes via a phone call with the various people performing tests in these accounts. I believe this represents a security concern and a bypass of the Multi-Factor Authentication principles.</p>\n\n<p>In addition, when submitting iOS applications to the App Store, Apple performs a human review process in which they need to login to the application. When MFA is enforced for all production accounts, Apple rejects the application unless a way is implemented to allow them to login. This often leaves developers with two options: Develop a front-end only demonstration mode, or bypass the MFA mechanism for a specific account.</p>\n\n<p><strong>Therefore, the project aims to:</strong></p>\n\n<ol>\n<li>Allow organizations to rent virtual phone numbers and have their SMS MFA codes be displayed in a private web interface;</li>\n<li>Organizations have fine-grained access control allowing them to control who can access their virtual phone numbers MFA Codes;</li>\n<li>Access granting to virtual phone numbers can be time-based.</li>\n</ol>\n\n<p><strong>With this project, I aim to help businesses to:</strong></p>\n\n<ol>\n<li>Avoid spending time in building a security login &quot;bypass&quot; (and all the security issues that often come with it);</li>\n<li>Avoid building a &quot;demonstration&quot; mode exclusively for Apple on their mobile applications;</li>\n<li>Avoid using public websites with public phone numbers accessible to anyone.</li>\n</ol>\n\n<p>What do you think? Would you use such product for your business in order to safely manage SMS Multi-Factor-Authentication sharing in production accounts? I would love hearing your feedback on the pros and cons you see about this product.</p>\n\n<p>All the best, </p>\n\n<p>Jonathan</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?auto=webp&s=ec4235d544619fb8f6306e7c2595b9ac1b86b23d",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?width=108&crop=smart&auto=webp&s=54dbe67623dbf8fb59006a2f99b1a9452e783139",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?width=216&crop=smart&auto=webp&s=7cde89c4f55cf9554def882020aaa27affc9c687",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?width=320&crop=smart&auto=webp&s=b9b8f6071a3e01004a8a539643562680a5138225",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?width=640&crop=smart&auto=webp&s=7e66022c113fdfef71e000585702405ccc5923a3",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?width=960&crop=smart&auto=webp&s=5badeb13fe768dcf7af25b409d68ae74232e3141",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/ZXd6wVEKf4kEWarQb6axeTNm8y_tz4A9QQZ2aZSTK5A.jpg?width=1080&crop=smart&auto=webp&s=b6f19568019fd163b7322dffa4dc7a9511418f76",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "CUWrrVwyCxaZAxaIUNkM-XIG9M1jJO-cEdh3QGaawBE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qjublf/i_built_a_platform_allowing_businesses_and/",
+  "subreddit": "SideProject",
+  "id": "qjublf",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hello there Reddit!\n\nI just wanted to share with you a product I've been working on for a while. The\nproduct is called GetMyMfa and is accessible at https://get.mymfa.io. The\nobjective of this project is to allow organizations to safely and easily share\nMulti-Factor Authentication codes for their…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redditの皆さん、こんにちは。\n\n私が以前から取り組んでいる製品を皆さんにご紹介したいと思います。その\nGetMyMfaという製品で、 https://get.mymfa.io からアクセスできます。\nこのプロジェクトの目的は、組織が安全かつ簡単にMFAを共有できるようにすることです。\n多要素認証のコードを安全かつ簡単に共有できるようにすることです...",
+      "title": "企業や個人がSMS多要素認証コードを共有できるプラットフォームを構築しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，Reddit!\n\n我只是想与你分享我已经工作了一段时间的产品。该产品名为 \"GetMyMfa\"，可通过。\n该产品被称为GetMyMfa，可在https://get.mymfa.io。\n这个项目的目的是允许组织安全和容易地分享\n多因素认证代码，为他们的...",
+      "title": "我建立了一个平台，允许企业和个人分享短信多因素验证码"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，Reddit!\n\n我只是想與你分享我已經工作了一段時間的產品。該產品名爲 \"GetMyMfa\"，可通過。\n該產品被稱爲GetMyMfa，可在https://get.mymfa.io。\n這個項目的目的是允許組織安全和容易地分享\n多因素認證代碼，爲他們的...",
+      "title": "我建立了一個平臺，允許企業和個人分享短信多因素驗證碼"
+    }
+  ]
+}

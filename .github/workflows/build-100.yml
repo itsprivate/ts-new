@@ -1,0 +1,20 @@
+name: Build 100 years ago Site
+on:
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - "i18n/i18next/zh/**"
+  #     - "i18n/post-resource/zh/reddit_--_reddit-100*.json"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          repository: itsprivate/100
+          event-type: redeploy

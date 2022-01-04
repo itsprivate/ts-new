@@ -1,0 +1,32 @@
+{
+  "author": "neomatrix248",
+  "original_created_utc": 1625491236,
+  "title": "No one seems to actually know what a smart contract is, yet are trying to explain them. Here's the actual explanation of what they are.",
+  "created_utc": 1625499826,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Smart contracts do not ensure payments went through, and they do not create decentralized casinos or banks.  In fact, they offer no guarantees about decentralization whatsoever.</p>\n\n<p>They CAN be used for these things, but what they really are is much simpler.</p>\n\n<p>Smart contracts are immutable scripts that exist on the blockchain.  They maintain a state (i.e. they store data) and they have functions that can be called.  That&#39;s it.</p>\n\n<p>The only way to interact with a smart contract is to call one of it&#39;s functions.  There are read-only functions that can be called on any Ethereum node to read some data out of the contract, and then there are functions you can call that modify data in some way, but those require sending a transaction and paying gas.</p>\n\n<p>You can use this functionality to do many things, but it is important to note that they do NOT ensure anything.  You can write backdoors into smart contracts.  Smart contracts can have admins that have the ability to yoink all the funds out of it.  There are categories of bugs that allow a malicious smart contract to attack other smart contracts if they can get that contract to call one of their functions.  </p>\n\n<p>Like all code, smart contracts can be written poorly or well.  The guarantees come from the implementation, not the nature of smart contracts themselves.  The same is true for banking software or other non-blockchain apps.</p>\n\n<p>The key difference is that the code for smart contracts is (mostly) immutable.  Once they are deployed, the code cannot be changed.  However, there are some exceptions to note:</p>\n\n<ul>\n<li>Smart contracts can be written so that they are destroyed by calling a destructor function.  After that, the contract becomes invalid and can&#39;t be interacted with</li>\n<li>A smart contract can be modular and call other smart contracts.  You can &quot;upgrade&quot; one smart contract by deploying a new modular component and pointing the old contract to the new one with updated functionality.</li>\n</ul>\n\n<p>Don&#39;t get caught up thinking that smart contracts are some amazing thing that solves all of our problems when it comes to creating safe, verified transactions.  They are just code, that&#39;s it.   People can still write shitty code.</p>\n</div><!-- SC_ON -->",
+  "score": 201,
+  "permalink": "/r/CryptoCurrency/comments/oe790p/no_one_seems_to_actually_know_what_a_smart/",
+  "subreddit": "CryptoCurrency",
+  "id": "oe790p",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Smart contracts do not ensure payments went through, and they do not create\ndecentralized casinos or banks. In fact, they offer no guarantees about\ndecentralization whatsoever.\n\nThey CAN be used for these things, but what they really are is much simpler.\n\nSmart contracts are immutable scripts that…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "スマートコントラクトは、支払いが確実に行われたかどうかを確認するものではなく、分散型のカジノや銀行を作るものでもありません。\n分散型のカジノや銀行ができるわけではありません。実際のところ、スマートコントラクトは分散化について何の保証もしません。\n分散化を保証するものではありません。\n\nスマートコントラクトはこれらの用途にも使えますが、その本質はもっとシンプルなものです。\n\nスマートコントラクトは、不変的なスクリプトであり、そのスクリプトは...",
+      "title": "スマートコントラクトが何であるかを実際に知っている人はいないようですが、説明しようとしています。ここでは、スマートコントラクトが何であるかについて、実際の説明をします。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "智能合约并不能确保付款顺利进行，也不能创建\n去中心化的赌场或银行。事实上，他们没有提供关于\n去中心化的任何东西。\n\n它们可以用来做这些事情，但它们真正的作用要简单得多。\n\n智能合约是不可变的脚本，它是一种 \"非接触式 \"的工具。",
+      "title": "似乎没有人真正知道什么是智能合约，却在试图解释它们。以下是关于它们是什么的实际解释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "智能合約並不能確保付款順利進行，也不能創建\n去中心化的賭場或銀行。事實上，他們沒有提供關於\n去中心化的任何東西。\n\n它們可以用來做這些事情，但它們真正的作用要簡單得多。\n\n智能合約是不可變的腳本，它是一種 \"非接觸式 \"的工具。",
+      "title": "似乎沒有人真正知道什麼是智能合約，卻在試圖解釋它們。以下是關於它們是什麼的實際解釋。"
+    }
+  ]
+}

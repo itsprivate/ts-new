@@ -1,0 +1,85 @@
+{
+  "created_at": "Mon Nov 29 23:35:52 +0000 2021",
+  "id_str": "1465449663570583558",
+  "full_text": "RT @nytimes: Israel's domestic intelligence agency has been granted temporary permission to access the phone data of people in the country…",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "nytimes",
+        "name": "The New York Times",
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 1007,
+  "favorite_count": 0,
+  "original_created_at": "Mon Nov 29 22:36:41 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Mon Nov 29 21:55:05 +0000 2021",
+    "id_str": "1465439194575253514",
+    "full_text": "Israel's domestic intelligence agency has been granted temporary permission to access the phone data of people in the country with confirmed cases of the Omicron variant for contact tracing. https://t.co/78ndtWqKvN",
+    "display_text_range": [
+      0,
+      214
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/78ndtWqKvN",
+          "expanded_url": "https://nyti.ms/3rjV8tL",
+          "display_url": "nyti.ms/3rjV8tL",
+          "indices": [
+            191,
+            214
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "The New York Times",
+      "screen_name": "nytimes",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png"
+    },
+    "retweet_count": 190,
+    "favorite_count": 396,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nytimes: イスラエルの国内情報機関が、国内の人々の電話データにアクセスする一時的な許可を得た...",
+      "retweeted_status_full_text": "イスラエルの国内諜報機関は、連絡先の追跡のために、オミクロン・バリアントの感染が確認された国内の人々の電話データにアクセスすることを一時的に許可された。https://t.co/78ndtWqKvN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nytimes: 以色列的国内情报机构已经获得临时许可，可以访问该国人民的电话数据...",
+      "retweeted_status_full_text": "以色列国内情报机构已经获得临时许可，可以访问该国已确认的Omicron变体病例的人的电话数据，用于追踪联系人。https://t.co/78ndtWqKvN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nytimes: 以色列的國內情報機構已經獲得臨時許可，可以訪問該國人民的電話數據...",
+      "retweeted_status_full_text": "以色列國內情報機構已經獲得臨時許可，可以訪問該國已確認的Omicron變體病例的人的電話數據，用於追蹤聯繫人。https://t.co/78ndtWqKvN"
+    }
+  ],
+  "source_updated_at": 1638524506014
+}

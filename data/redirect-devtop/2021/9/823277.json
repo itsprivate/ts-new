@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 823277,
+  "title": "Speed up Laravel in Docker by moving vendor directory",
+  "description": "By moving Composer's vendor directory outside of the project root, you can see noticeable improvements in responsible time.",
+  "readable_publish_date": "Sep 14",
+  "slug": "speed-up-laravel-in-docker-by-moving-vendor-directory-19b9",
+  "path": "/tylerlwsmith/speed-up-laravel-in-docker-by-moving-vendor-directory-19b9",
+  "url": "https://dev.to/tylerlwsmith/speed-up-laravel-in-docker-by-moving-vendor-directory-19b9",
+  "comments_count": 17,
+  "public_reactions_count": 58,
+  "collection_id": null,
+  "published_timestamp": "2021-09-14T07:20:41Z",
+  "positive_reactions_count": 58,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/823277.png",
+  "canonical_url": "https://dev.to/tylerlwsmith/speed-up-laravel-in-docker-by-moving-vendor-directory-19b9",
+  "created_at": "2021-09-16T15:58:56.969Z",
+  "edited_at": "2021-09-15T21:21:44Z",
+  "crossposted_at": null,
+  "published_at": "2021-09-14T07:20:41Z",
+  "last_comment_at": "2021-09-16T01:17:57Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "laravel",
+    "docker",
+    "php"
+  ],
+  "tags": [
+    "laravel",
+    "docker",
+    "php"
+  ],
+  "user": {
+    "name": "Tyler Smith",
+    "username": "tylerlwsmith",
+    "twitter_username": "tylerlwsmith",
+    "github_username": null,
+    "website_url": "https://deadhandmedia.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gxyw5f_9--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/68031/8a9c06d6-49f7-48a4-bbe8-d859874d382a.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--x5GK6YJt--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/68031/8a9c06d6-49f7-48a4-bbe8-d859874d382a.jpg"
+  },
+  "original_created_at": "2021-09-14T06:56:30Z",
+  "image": "https://dev.to/social_previews/article/823277.png",
+  "author": "Tyler Smith",
+  "author_url": "https://dev.to/tylerlwsmith",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Composerのベンダー・ディレクトリをプロジェクト・ルートの外に移動させることで、責任ある作業時間が顕著に改善されます。",
+      "title": "ベンダーディレクトリの移動によるDockerでのLaravelの高速化"
+    },
+    {
+      "locale": "zh",
+      "description": "通过将Composer的供应商目录移到项目根目录之外，你可以看到责任时间的明显改善。",
+      "title": "通过移动供应商目录来加快Laravel在Docker中的速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過將Composer的供應商目錄移到項目根目錄之外，你可以看到責任時間的明顯改善。",
+      "title": "通過移動供應商目錄來加快Laravel在Docker中的速度"
+    }
+  ]
+}

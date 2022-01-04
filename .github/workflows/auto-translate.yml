@@ -1,0 +1,65 @@
+name: Auto translate
+on:
+  workflow_dispatch:
+    inputs:
+      timeout:
+        description: "--timeout: minutes"
+        required: false
+        default: "-1"
+  schedule:
+    - cron: "45 */2 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "i18n/i18next/zh/translation*.json"
+      - "i18n/post-resource/en/*.json"
+jobs:
+  auto-translate:
+    runs-on: macos-latest
+    concurrency: auto-translate
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: "12"
+      - name: check files
+        uses: actions/github-script@v3
+        env:
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/translate-check-module.js`)
+            await syncResource()
+            return true
+      - name: install puppeteer
+        run: npm i puppeteer
+      - name: Translate
+        uses: ./.github/actions/translate
+        continue-on-error: true
+        with:
+          provider: deepl
+          secret_id: ${{ secrets.TENCENT_TRANSLATION_SECRET_ID }}
+          secret_key: ${{ secrets.TENCENT_TRANSLATION_SECRET_KEY }}
+          timeout: ${{ github.event.inputs.timeout || '-1'}}
+      - name: Sync to source
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-i18n-resource-module.js`)
+            await syncResource()
+            return true
+      - name: git add
+        run: git add .
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          labels: automerge
+          commit-message: "chore: new translation"
+          branch: i18n-auto-translation
+          delete-branch: true
+          title: New item update

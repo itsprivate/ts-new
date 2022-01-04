@@ -1,0 +1,78 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1624904958,
+  "title": "I configured a crypto trading bot to buy crypto based on Reddit post sentiment from relevant subreddits, it's running right now and just bought me Bitcoin. The code is open-sourced.",
+  "created_utc": 1624923044,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I mainly built this for fun, and as a coding challenge, as I&#39;m not sure how viable it would be to base my investing decisions based on the Reddit hive-mind. But having said that, I will test the tool out and see what it can do - who knows, maybe among all the shills and moon-farmers is where insight truly lives.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Here&#39;s a little bit about how it works:</strong> </p>\n\n<p>It&#39;s a trading bot that analyses reddit post sentiment and automatically buys the coins mentioned in the post. So it checks if the post title and body talk positively about x coin, and if that&#39;s the case it goes ham on that coin.</p>\n\n<p>But it only does this for coins I tell it to look out for: by default it will only check BTC and ETH but you can add any number of keywords. This is built in to discourage shill exploits.</p>\n\n<p>&#x200B;</p>\n\n<p>It also comes with several customisation options so you can choose how you want to use this:</p>\n\n<ol>\n<li>Which subreddits it should look for (by default it checks <a href=\"https://www.reddit.com/r/Cryptocurrency/\">r/Cryptocurrency</a> and a couple others)</li>\n<li>How to sort posts (hot by default)</li>\n<li>How many posts from each sub will be analysed (by default 10)</li>\n<li>What keywords it should be looking out for (default: Bitcoin and Ethereum)</li>\n<li>&#x200B;</li>\n</ol>\n\n<p>You can also specify how often to check for posts, as well as the size of each trade placed.</p>\n\n<p>I added a test mode so it can just simulate trades, so you can see how it would work in a live market, but without using real funds.</p>\n\n<p>&#x200B;</p>\n\n<p>I just let it run in test mode now and here&#39;s the output:</p>\n\n<p><code>New posts detected, fetching new posts...</code></p>\n\n<p><code>Found matching  keywords with the following sentiments: {&#39;BTC&#39;: 0.01482083333333333, &#39;ADA&#39;: 0.0}</code></p>\n\n<p><code>BTC sentiment is positive: 0.01482083333333333, preparing to buy...</code></p>\n\n<p><code>PLACING TEST ORDER</code></p>\n\n<p><code>Order created with 0.000439 on BTC</code></p>\n\n<p><code>Sentiment for ADA is negative or ADA is currently in portfolio</code></p>\n\n<p>Here&#39;s my test order stored locally so that I can track the results. It bought Bitcoin hah.</p>\n\n<p><code>{</code></p>\n\n<p><code>&quot;BTC&quot;: {</code></p>\n\n<p><code>&quot;symbol&quot;: &quot;BTCUSDT&quot;,</code></p>\n\n<p><code>&quot;price&quot;: &quot;34170.99000000&quot;,</code></p>\n\n<p><code>&quot;volume&quot;: 0.000439,</code></p>\n\n<p><code>&quot;time&quot;: 1624904258.977829</code></p>\n\n<p><code>}</code></p>\n\n<p><code>}</code></p>\n\n<p>You can also change the pairing to something other than USDT ;)</p>\n\n<p>&#x200B;</p>\n\n<p>And here&#39;s an example of how posts are being stored:</p>\n\n<p><code>{&quot;title&quot;: &quot;SafeDollar \\u2018stablecoin\\u2019 drops to $0 following $248 million DeFi exploit on Polygon&quot;, &quot;subreddit&quot;: &quot;Cryptocurrency&quot;, &quot;body&quot;: &quot;&quot;},</code></p>\n\n<p>It has no body as it&#39;s a link. Though you can see that it ignored SafeDollar and only picked BTC and ADA as these are two of the keywords I have chosen for it.</p>\n\n<p>&#x200B;</p>\n\n<p>The bot will also stop from buying or analysing posts while the same posts are in top/hot, to avoid re-buying on the same signal.</p>\n\n<p>&#x200B;</p>\n\n<p>Here&#39;s the GitHub repo for the project:</p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/reddit-cryptocurrency-trading\">https://github.com/CyberPunkMetalHead/reddit-cryptocurrency-trading</a></p>\n\n<p>And I also made a guide on how to set this up and get it running if you need more info:</p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/06/27/cryptocurrency-binance-trading-bot-that-analyses-reddit-sentiment/\">https://www.cryptomaton.org/2021/06/27/cryptocurrency-binance-trading-bot-that-analyses-reddit-sentiment/</a></p>\n</div><!-- SC_ON -->",
+  "score": 152,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?auto=webp&s=281ca225421d8a3d2f6ed1a040688f6d359f35d7",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?width=108&crop=smart&auto=webp&s=6f77141fb82bdb548dbd577e26e4dfff1d46f073",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?width=216&crop=smart&auto=webp&s=35be802d3ca9b8b1096e31ed19c1e808135c12ff",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?width=320&crop=smart&auto=webp&s=30bbab33898a47a7fb30358b1153f90ce36bdb8b",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?width=640&crop=smart&auto=webp&s=c72cc52263304176bfc533fb019bde3f46d4b133",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?width=960&crop=smart&auto=webp&s=a67b1dcda301a3e7bd76403b65afbd5189ccd8d3",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/YDmHj9UVq9jHA_oBfwIGLNrmDJF-gt_c6YJ3bfAKsd4.jpg?width=1080&crop=smart&auto=webp&s=aa627cbb542a54566409f046db2c2c80b99021cd",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "KrJANGLUJCO85xFwlhdmA2Wbv07Sh7orFyLLlCiKNuo"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/o9qasc/i_configured_a_crypto_trading_bot_to_buy_crypto/",
+  "subreddit": "CryptoCurrency",
+  "id": "o9qasc",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I mainly built this for fun, and as a coding challenge, as I'm not sure how\nviable it would be to base my investing decisions based on the Reddit hive-mind.\nBut having said that, I will test the tool out and see what it can do - who\nknows, maybe among all the shills and moon-farmers is where insight…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は主に楽しみながらコーディングに挑戦するためにこれを作ったのですが、Redditのハイブ・マインドに基づいて投資判断をすることがどれほど有効なのかわからないからです。\n投資判断をRedditのハイブマインドに基づいて行うことがどれほど有効なのかわからないからです。\nしかし、そうは言っても、このツールを試してみて、何ができるか見てみたいと思います。\nもしかしたら、すべての偽者やムーンファーザーの中に、洞察力があるかもしれませんからね。",
+      "title": "関連するsubredditsからのReddit投稿のセンチメントに基づいて暗号を購入する暗号取引ボットを設定しました。これは現在実行中で、ちょうどビットコインを購入しました。このコードはオープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我做这个主要是为了好玩，同时也是对编码的挑战，因为我不确定根据Reddit上的群心来做投资决策有多大的可行性。\n因为我不确定根据Reddit蜂巢式思维做出的投资决定是否可行。\n但话虽如此，我还是要测试一下这个工具，看看它能做什么。\n谁知道呢，也许在所有的骗子和月光族中，洞察力就在其中......",
+      "title": "我配置了一个加密货币交易机器人，根据相关子版块的Reddit帖子情绪购买加密货币，它现在正在运行，刚刚给我买了比特币。该代码是开源的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我做這個主要是爲了好玩，同時也是對編碼的挑戰，因爲我不確定根據Reddit上的羣心來做投資決策有多大的可行性。\n因爲我不確定根據Reddit蜂巢式思維做出的投資決定是否可行。\n但話雖如此，我還是要測試一下這個工具，看看它能做什麼。\n誰知道呢，也許在所有的騙子和月光族中，洞察力就在其中......",
+      "title": "我配置了一個加密貨幣交易機器人，根據相關子版塊的Reddit帖子情緒購買加密貨幣，它現在正在運行，剛剛給我買了比特幣。該代碼是開源的。"
+    }
+  ]
+}

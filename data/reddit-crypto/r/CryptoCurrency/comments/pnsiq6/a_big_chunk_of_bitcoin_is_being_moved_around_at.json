@@ -1,0 +1,32 @@
+{
+  "author": "LebornVsMikeShinoda",
+  "original_created_utc": 1631581225,
+  "title": "A big chunk of Bitcoin is being moved around at an alarminng rate",
+  "created_utc": 1631590237,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>45,000 BTC amounting to $2B being moved around several wallets in the last 12 hours. It made me curious about why this happened which is very unusual and I did my research. If the rumor is true then it is because FTX got hacked. </p>\n\n<p>They denied the allegation but the movement is really suspicious and even goes through several illegal Russian marketplace wallets (Hydra) and Bitcoin tumbler. Here&#39;s what I can found on Twitter</p>\n\n<p>Source: ncweaver twitter</p>\n\n<p>&quot; This is frankly bizarre, and I&#39;m convinced 90% certain that FTX got hacked. We are seeing a slug of $2B worth of Bitcoin being passed through a &quot;peeling chain&quot;, each step takes off a little (a few bucks to a couple thousand) with the rest remaining intact. Some of the peeled Bitcoin is to new wallets. Some is actually to very old active wallets (e.g. this: <a href=\"https://blockchair.com/bitcoin/address/3Q34R8mDakAhFDzrze8TCZcqjKtSuerc8E%E2%80%A6\">https://blockchair.com/bitcoin/address/3Q34R8mDakAhFDzrze8TCZcqjKtSuerc8E…</a> ) </p>\n\n<p>My suspicion: Stealing $2B in Bitcoin is easy. Laundering $2B is hard. But there is an advantage: FTX can&#39;t admit the theft... If FTX admits it they implode in a nanosecond as they are insolvent. So they keep quiet and deny. In the meantime, the thief&#39;s cashout strategy: Peel off Bitcoin. Some of it to just garbage wallets. Some of it is Robin Hodled and sent to existing wallets. Heck, waste most of it in the end, but keep about 1% and throw that through mixers, chain swaps, and other techniques. And keep doing it just $1k at a time. And walk away with with a huge paycheck. And if FTX dares complain, send the rest to 1BitcoinEaterAddressDontSendf59kuE. </p>\n\n<p>The alternate interpretation, that this is FTX in offline-signature mode doing some peeling, is lunacy. It would mean they didn&#39;t just move MOST of the slug into cold storage and split off the amount to distribute in a separate hunk first, which is frankly bizarre. Plus, peeling is O(N) time, so it takes forever. Doing a tree split is O(lg(N)) time to complete. Also, if this is an automated system that dumped a TON of signatures, they could easily stop the chain: Just have replacement transaction signed, just a little ahead (you have the TXID needed to do it), with a high fee. Now it goes to that transaction, and the chain dies. &quot;</p>\n\n<p>Would love to hear your thoughts.</p>\n\n<p>EDIT: The amount of bitcoin keep on dwindling. 44.5k now</p>\n</div><!-- SC_ON -->",
+  "score": 254,
+  "permalink": "/r/CryptoCurrency/comments/pnsiq6/a_big_chunk_of_bitcoin_is_being_moved_around_at/",
+  "subreddit": "CryptoCurrency",
+  "id": "pnsiq6",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "45,000 BTC amounting to $2B being moved around several wallets in the last 12\nhours. It made me curious about why this happened which is very unusual and I\ndid my research. If the rumor is true then it is because FTX got hacked.\n\nThey denied the allegation but the movement is really suspicious and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この12時間の間に、45,000BTC、金額にして20億ドルが複数のウォレットで移動しました。\n行われました。これは非常に珍しいことなので、なぜこのようなことが起こったのか興味を持ち、調べてみました。\n調べてみました。この噂が本当なら、FTXがハッキングされたからです。\n\n彼らは疑惑を否定しましたが、この動きは本当に疑わしいものであり、...",
+      "title": "ビットコインの大きな塊が驚くべき速さで移動している"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在过去12小时内，有45,000个BTC被转移到几个钱包中，金额为20亿美元。\n小时。这让我很好奇为什么会发生这种情况，这很不寻常，我\n我做了研究。如果传言是真的，那么就是因为FTX被黑了。\n\n他们否认了这一指控，但这一动向确实很可疑，而且...",
+      "title": "一大块比特币正以惊人的速度被四处转移"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在過去12小時內，有45,000個BTC被轉移到幾個錢包中，金額爲20億美元。\n小時。這讓我很好奇爲什麼會發生這種情況，這很不尋常，我\n我做了研究。如果傳言是真的，那麼就是因爲FTX被黑了。\n\n他們否認了這一指控，但這一動向確實很可疑，而且...",
+      "title": "一大塊比特幣正以驚人的速度被四處轉移"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "author": "WorldTraveller19",
+  "original_created_utc": 1625171741,
+  "title": "\"Read the Whitepaper\" they said, \"All will be OK\" they said",
+  "created_utc": 1625185837,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>So I have seen at least 7 (or is it 7,000?) posts and comments telling people to &quot;Read the whitepaper!&quot; and &quot;Do Your Own Research!&quot;.</p>\n\n<p>I completely agree with this advice and believe you should have some understanding about what you are investing your money into. Also, doing your own research (DYOR), has been a thing for a long time in regards to investing in stocks, bonds, commodities, etc. but I feel in the crypto community this seems to be presented as a new-fangled concept, but I digress.</p>\n\n<p>Back to the point. Since I like to be informed I did read the whitepapers for three projects I am interested in: Algorand, Stellar and Chainlink.</p>\n\n<p>WOW.</p>\n\n<p>Where to begin.</p>\n\n<p>I know a Whitepaper is not a 3-4 page summary, but in the above order they are 75 pages, 32 pages and 102 pages (they are actually a bit longer, but I only included the actual paper content in the above numbers, not the source citing). As a point of reference the 2020 Alphabet Annual report is 134 pages, Amazon&#39;s is 87 and Apple&#39;s is 105 (I like &quot;A&quot;s). </p>\n\n<p>But OK, DYOR takes time and is not meant to be a quick read you knock off on your mobile while taking a shit.</p>\n\n<p>But then I go through the whitepapers. The first few pages are higher level and make sense. Then quick enough we come to paragraphs such as this one (from Algorand):</p>\n\n<p>&quot;<em>Step 1: Block Proposal</em> </p>\n\n<p><em>Instructions for every user i ∈ PKr−k : User i starts his own Step 1 of round r as soon as he knows Br−1 .</em></p>\n\n<p><em>• User i computes Qr−1 from the third component of Br−1 and checks whether i ∈ SV r,1 or not.</em> </p>\n\n<p><em>• If i /∈ SV r,1 , then i stops his own execution of Step 1 right away.</em> </p>\n\n<p><em>• If i ∈ SV r,1 , that is, if i is a potential leader, then he collects the round-r payments that have been propagated to him so far and computes a maximal payset P AY r i from them. Next, he computes his “candidate block” Br i = (r, P AY r i , SIGi(Qr−1 ), H(Br−1 )). Finally, he computes the message m r,1 i = (Br i , esigi(H(Br i )), σ r,1 i ), destroys his ephemeral secret key skr,1 i , and then propagates m r,1 i .&quot;</em></p>\n\n<p>Now I realize I am sharing one segment out of context of the overall paper, but HOLY SHIT. This is supposed to be something a layman can easily understand? And in the case of Algorand it goes on like this for half of the 75 pages. JESUS CHRIST.</p>\n\n<p>I have two degrees in finance / accounting and have worked numerous roles in these fields for &gt;10 years. I don&#39;t tell you about my education and work experience to impress you (as I know just by saying I have an accounting degree you are already green with envy). I tell you these details about me to say as someone who works with numbers, equations, vague concepts, odd rules (google &quot;GAAP Disclosures&quot; if you have trouble falling asleep) I found these papers really really really hard to understand. I think I got a lot of it, but doubt I could pass a test on them.</p>\n\n<p>Now to my questions dear reader:</p>\n\n<ol>\n<li><p>Do many of you actually take the time to read the whole whitepaper for the projects you invest in?</p></li>\n<li><p>If you do, do you actually understand the whitepaper?</p></li>\n</ol>\n\n<p>If many of you answered &quot;yes&quot; to both 1 and 2 than I am just an idiot and that is how it is.</p>\n\n<p>I just started my crypto investment journey, but from now reading a few of the whitepapers I am wondering if I should bother calling it &quot;investing&quot; or really that I will just speculate in this asset class and hope for the best.</p>\n</div><!-- SC_ON -->",
+  "score": 152,
+  "permalink": "/r/CryptoCurrency/comments/obulso/read_the_whitepaper_they_said_all_will_be_ok_they/",
+  "subreddit": "CryptoCurrency",
+  "id": "obulso",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "So I have seen at least 7 (or is it 7,000?) posts and comments telling people to\n\"Read the whitepaper!\" and \"Do Your Own Research!\".\n\nI completely agree with this advice and believe you should have some\nunderstanding about what you are investing your money into. Also, doing your own\nresearch (DYOR),…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そこで私は、少なくとも7つ(7,000かな？)の投稿やコメントで、人々に\n\"ホワイトペーパーを読め！」「自分で調べろ！」というものです。\n\n私はこのアドバイスに全面的に賛成で、自分が何をしたいのかをある程度理解しておくべきだと考えています。\n自分が何にお金を投資しているのか、ある程度理解しておくべきだと思います。また、自分で調べること\nリサーチ（DYOR）、...",
+      "title": "\"Read the Whitepaper \"と言われ、\"All will be OK \"と言われました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因此，我已经看到至少7个（或者是7000个？）帖子和评论，告诉人们要\n\"阅读白皮书！\"和 \"做你自己的研究！\"。\n\n我完全同意这个建议，并认为你应该对你的投资有一些\n我完全同意这个建议，并相信你应该对你的钱投资在什么地方有一些了解。此外，做你自己的\n研究（DYOR），...",
+      "title": "他们说：\"阅读白皮书\"，\"一切都会好起来的\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因此，我已經看到至少7個（或者是7000個？）帖子和評論，告訴人們要\n\"閱讀白皮書！\"和 \"做你自己的研究！\"。\n\n我完全同意這個建議，並認爲你應該對你的投資有一些\n我完全同意這個建議，並相信你應該對你的錢投資在什麼地方有一些瞭解。此外，做你自己的\n研究（DYOR），...",
+      "title": "他們說：\"閱讀白皮書\"，\"一切都會好起來的\"。"
+    }
+  ]
+}

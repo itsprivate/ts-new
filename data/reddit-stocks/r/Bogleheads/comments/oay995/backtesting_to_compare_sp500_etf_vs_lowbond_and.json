@@ -1,0 +1,214 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "Bogleheads",
+  "selftext": "Hey everyone. I've always heard that indices which track the S&P500 offer a good mix of diversification but recently I've been told that's not the case and that a three-fund portfolio is the way to go. There's a lot of great info about that on here. So I decided to compare them and see how it looks.\n\n# Methodology\n\nI used backtesting with PortfolioVisualizer to compare a **100% SPY** approach (this is an ETF that tracks the S&P500 index), versus two three fund portfolios: a **Hi-bond portfolio** (40% total bond index, 30% total US stock, 30% total international stock), and a **Lo-Bond portfolio** (10% bond index, 45% US total stock, 45% total intl stock).\n\nThe assumptions here use the default parameters of PortfolioVisualizer: starting with 10K lumpsum, no other contributions, annual reballancing, and reinvesting dividends.  This covers the dotcom bubble as well as the 2008 crisis.\n\nThe assets in the three-fund portfolios are all Vanguard mutual funds. I chose these because they are generally older and allow covering further back in time. Specifically I was aiming for before the 2008 crisis. There are newer ETFs which cover similar indices with a more favorable lower expense ratio (ER), but these all go back to \\~2010. This is also why I chose SPY over VOO. Using lower ER options, which seem to generally be ETFs over mutual funds, will of course offer slight benefits over these exact options. The analysis runs from Jan 1997 to May 2021.\n\nThe high-bond portfolio is meant to replicate a two-fund portfolio breakdown of bonds/stocks at a 40:60 ratio, but because the recommended historical stock fund there has apparently been disctontinued and cannot be viewed on PortfolioVisualizer (VTWSX), I resorted to a three-fund stock with the same stock:bond ratio and equal split of domestic and intl stocks. I think this may slightly undervalue the stock allocation in that portfolio due to double stock fund ER hit. The low-bond portfolio is 10% bonds to 90% stocks, with equal weight of US to intl total stock allocation.\n\n# Results\n\nA more complete results slideshow is available on google slides: [https://docs.google.com/presentation/d/1vlA5Z8d1vqkBv4DvGd8p3RY3R9Am191UkSKwt3Aon8g/edit?usp=sharing](https://docs.google.com/presentation/d/1vlA5Z8d1vqkBv4DvGd8p3RY3R9Am191UkSKwt3Aon8g/edit?usp=sharing)\n\nThe portfolio comparison results are visualized below:\n\n&#x200B;\n\n[Portfolio Visualizer Results](https://preview.redd.it/gm69e95uce871.png?width=2180&format=png&auto=webp&s=cbdf65b22c47254acba659b3bd942b226d208e38)\n\n&#x200B;\n\nThe details of the three-fund portfolios are below:\n\n&#x200B;\n\n[Details of three-fund portfolios including tickers, allocations and expense ratios](https://preview.redd.it/g78vmbpvee871.png?width=2378&format=png&auto=webp&s=690be3898f6e283909cb430bb5eac8998d8f71ba)\n\n&#x200B;\n\n&#x200B;\n\n* These results indicate that **S&P500 have given the most returns over the whole time period**. This is primarily because it took off starting in 2014.\n* The high-stock three-fund portfolio outperformed the high-bond portfolio over the whole time course. This may be because there is significant overlap with the S&P500.\n* The high-bond portfolio performed best during the 2008 crash, until \\~2013.\n* I am not showing the details, but using ETFs with lower ER (ie VOO over SPY; and Vanguard ETFs over Vanguard mutual funds in the three-fund portfolio) is always slightly better. (these were not used in the main comparison because they don;t track back far enough in time).\n\n&#x200B;\n\n# Discussion and Followup Questions\n\nThese results indicate that if I had invested 10K in Jan 1997, I would have made more returns from an S&P500 index fund than a 3-fund strategy, this is true if I would have sold at almost any point of the time period except 2008-2013. If I had waited until May 2021, SPY clearly gives better returns largely because of  relative outperformance since 2014. For the rest of the historical record, the portfolios are more comparable. The high-bond portfolio dominates starting in 2008 through 2013, which seems consistent with a common intuition about bonds being relative safe harbors during times of crisis.\n\nThis naturally raises a few questions in my mind:\n\n* Is the S&P500 \"overpriced\" at this point?\n* What happened in 2014 and since then to drive the S&P500 overperformance?\n\n&#x200B;\n\n* Additionally, how would a 4-fund portfolio that also includes real-estate (REIT) compare here? I did not have time to followup on this, but this is a strategy some take.\n\n&#x200B;\n\nJust some concluding notes:\n\nHistorical data is better than no data, but it cannot predict the future. I am currently long VOO which is a S&P500 ETF that is almost identical in performance to SPY. I am not a financial advisor. Would love to hear your thoughts.",
+  "author_fullname": "t2_4lfgm6r3",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Backtesting to compare S&P500 ETF vs Low-bond and High-bond three-fund portfolios performance from 1997-2021",
+  "link_flair_richtext": [],
+  "subreddit_name_prefixed": "r/Bogleheads",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": null,
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "gm69e95uce871": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 62,
+          "x": 108,
+          "u": "https://preview.redd.it/gm69e95uce871.png?width=108&crop=smart&auto=webp&s=7702b74c26dd5aaa3d5809a2cd5fe221f209ea68"
+        },
+        {
+          "y": 124,
+          "x": 216,
+          "u": "https://preview.redd.it/gm69e95uce871.png?width=216&crop=smart&auto=webp&s=d912b4311a78a2e318c18630eb312c3a73a9cfce"
+        },
+        {
+          "y": 184,
+          "x": 320,
+          "u": "https://preview.redd.it/gm69e95uce871.png?width=320&crop=smart&auto=webp&s=13de6a68d3bef1912fd958e0218696af336f63c3"
+        },
+        {
+          "y": 369,
+          "x": 640,
+          "u": "https://preview.redd.it/gm69e95uce871.png?width=640&crop=smart&auto=webp&s=33e27a07de354feeb6efef380e7001766e394d47"
+        },
+        {
+          "y": 553,
+          "x": 960,
+          "u": "https://preview.redd.it/gm69e95uce871.png?width=960&crop=smart&auto=webp&s=8800811caf7ff37f5a8430f9252825b6d07d1be0"
+        },
+        {
+          "y": 623,
+          "x": 1080,
+          "u": "https://preview.redd.it/gm69e95uce871.png?width=1080&crop=smart&auto=webp&s=36a0f44b3d5b7f36b11cf8fd6c6242a5b589d7ef"
+        }
+      ],
+      "s": {
+        "y": 1258,
+        "x": 2180,
+        "u": "https://preview.redd.it/gm69e95uce871.png?width=2180&format=png&auto=webp&s=cbdf65b22c47254acba659b3bd942b226d208e38"
+      },
+      "id": "gm69e95uce871"
+    },
+    "g78vmbpvee871": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 47,
+          "x": 108,
+          "u": "https://preview.redd.it/g78vmbpvee871.png?width=108&crop=smart&auto=webp&s=5a2c5947564b12ebc738d11a03d8ba031daeda31"
+        },
+        {
+          "y": 95,
+          "x": 216,
+          "u": "https://preview.redd.it/g78vmbpvee871.png?width=216&crop=smart&auto=webp&s=2dca0a2289b74739df22ab928a22de22d8ef6dab"
+        },
+        {
+          "y": 141,
+          "x": 320,
+          "u": "https://preview.redd.it/g78vmbpvee871.png?width=320&crop=smart&auto=webp&s=59f6fc398b3a8768f0b36a5f8dd406e93641b667"
+        },
+        {
+          "y": 282,
+          "x": 640,
+          "u": "https://preview.redd.it/g78vmbpvee871.png?width=640&crop=smart&auto=webp&s=a24ea5a8634130fa14aa2b6ae8fd48277b7872ba"
+        },
+        {
+          "y": 423,
+          "x": 960,
+          "u": "https://preview.redd.it/g78vmbpvee871.png?width=960&crop=smart&auto=webp&s=2c0b56a36fe26d0441008067d37be84b122b0480"
+        },
+        {
+          "y": 476,
+          "x": 1080,
+          "u": "https://preview.redd.it/g78vmbpvee871.png?width=1080&crop=smart&auto=webp&s=c61db112af38758358d58f556d701ab1d7f80fd8"
+        }
+      ],
+      "s": {
+        "y": 1050,
+        "x": 2378,
+        "u": "https://preview.redd.it/g78vmbpvee871.png?width=2378&format=png&auto=webp&s=690be3898f6e283909cb430bb5eac8998d8f71ba"
+      },
+      "id": "g78vmbpvee871"
+    }
+  },
+  "name": "t3_oay995",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.81,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 50,
+  "total_awards_received": 1,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": null,
+  "can_mod_post": false,
+  "score": 50,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 1
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1625091462,
+  "link_flair_type": "text",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.Bogleheads",
+  "allow_live_comments": false,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone. I&#39;ve always heard that indices which track the S&amp;P500 offer a good mix of diversification but recently I&#39;ve been told that&#39;s not the case and that a three-fund portfolio is the way to go. There&#39;s a lot of great info about that on here. So I decided to compare them and see how it looks.</p>\n\n<h1>Methodology</h1>\n\n<p>I used backtesting with PortfolioVisualizer to compare a <strong>100% SPY</strong> approach (this is an ETF that tracks the S&amp;P500 index), versus two three fund portfolios: a <strong>Hi-bond portfolio</strong> (40% total bond index, 30% total US stock, 30% total international stock), and a <strong>Lo-Bond portfolio</strong> (10% bond index, 45% US total stock, 45% total intl stock).</p>\n\n<p>The assumptions here use the default parameters of PortfolioVisualizer: starting with 10K lumpsum, no other contributions, annual reballancing, and reinvesting dividends.  This covers the dotcom bubble as well as the 2008 crisis.</p>\n\n<p>The assets in the three-fund portfolios are all Vanguard mutual funds. I chose these because they are generally older and allow covering further back in time. Specifically I was aiming for before the 2008 crisis. There are newer ETFs which cover similar indices with a more favorable lower expense ratio (ER), but these all go back to ~2010. This is also why I chose SPY over VOO. Using lower ER options, which seem to generally be ETFs over mutual funds, will of course offer slight benefits over these exact options. The analysis runs from Jan 1997 to May 2021.</p>\n\n<p>The high-bond portfolio is meant to replicate a two-fund portfolio breakdown of bonds/stocks at a 40:60 ratio, but because the recommended historical stock fund there has apparently been disctontinued and cannot be viewed on PortfolioVisualizer (VTWSX), I resorted to a three-fund stock with the same stock:bond ratio and equal split of domestic and intl stocks. I think this may slightly undervalue the stock allocation in that portfolio due to double stock fund ER hit. The low-bond portfolio is 10% bonds to 90% stocks, with equal weight of US to intl total stock allocation.</p>\n\n<h1>Results</h1>\n\n<p>A more complete results slideshow is available on google slides: <a href=\"https://docs.google.com/presentation/d/1vlA5Z8d1vqkBv4DvGd8p3RY3R9Am191UkSKwt3Aon8g/edit?usp=sharing\">https://docs.google.com/presentation/d/1vlA5Z8d1vqkBv4DvGd8p3RY3R9Am191UkSKwt3Aon8g/edit?usp=sharing</a></p>\n\n<p>The portfolio comparison results are visualized below:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/gm69e95uce871.png?width=2180&amp;format=png&amp;auto=webp&amp;s=cbdf65b22c47254acba659b3bd942b226d208e38\">Portfolio Visualizer Results</a></p>\n\n<p>&#x200B;</p>\n\n<p>The details of the three-fund portfolios are below:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/g78vmbpvee871.png?width=2378&amp;format=png&amp;auto=webp&amp;s=690be3898f6e283909cb430bb5eac8998d8f71ba\">Details of three-fund portfolios including tickers, allocations and expense ratios</a></p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>These results indicate that <strong>S&amp;P500 have given the most returns over the whole time period</strong>. This is primarily because it took off starting in 2014.</li>\n<li>The high-stock three-fund portfolio outperformed the high-bond portfolio over the whole time course. This may be because there is significant overlap with the S&amp;P500.</li>\n<li>The high-bond portfolio performed best during the 2008 crash, until ~2013.</li>\n<li>I am not showing the details, but using ETFs with lower ER (ie VOO over SPY; and Vanguard ETFs over Vanguard mutual funds in the three-fund portfolio) is always slightly better. (these were not used in the main comparison because they don;t track back far enough in time).</li>\n</ul>\n\n<p>&#x200B;</p>\n\n<h1>Discussion and Followup Questions</h1>\n\n<p>These results indicate that if I had invested 10K in Jan 1997, I would have made more returns from an S&amp;P500 index fund than a 3-fund strategy, this is true if I would have sold at almost any point of the time period except 2008-2013. If I had waited until May 2021, SPY clearly gives better returns largely because of  relative outperformance since 2014. For the rest of the historical record, the portfolios are more comparable. The high-bond portfolio dominates starting in 2008 through 2013, which seems consistent with a common intuition about bonds being relative safe harbors during times of crisis.</p>\n\n<p>This naturally raises a few questions in my mind:</p>\n\n<ul>\n<li>Is the S&amp;P500 &quot;overpriced&quot; at this point?</li>\n<li>What happened in 2014 and since then to drive the S&amp;P500 overperformance?</li>\n</ul>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>Additionally, how would a 4-fund portfolio that also includes real-estate (REIT) compare here? I did not have time to followup on this, but this is a strategy some take.</li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p>Just some concluding notes:</p>\n\n<p>Historical data is better than no data, but it cannot predict the future. I am currently long VOO which is a S&amp;P500 ETF that is almost identical in performance to SPY. I am not a financial advisor. Would love to hear your thoughts.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2shb7",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "oay995",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "DepressionSux420",
+  "discussion_type": null,
+  "num_comments": 7,
+  "send_replies": false,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/Bogleheads/comments/oay995/backtesting_to_compare_sp500_etf_vs_lowbond_and/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/Bogleheads/comments/oay995/backtesting_to_compare_sp500_etf_vs_lowbond_and/",
+  "subreddit_subscribers": 78861,
+  "created_utc": 1625072421,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1625062662,
+  "the_new_excerpt": "Hey everyone. I've always heard that indices which track the S&P500 offer a good\nmix of diversification but recently I've been told that's not the case and that\na three-fund portfolio is the way to go. There's a lot of great info about that\non here. So I decided to compare them and see how it…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。S&P500に連動するインデックスは分散投資に適していると聞いてきました。\n分散していると聞いていましたが、最近はそうではなく、3つのファンドからなる\n3ファンドのポートフォリオを組むのが良いと言われました。これについては、ここに多くの素晴らしい情報があります。\nこちらをご覧ください。そこで、私はこの2つのファンドを比較して、どのような結果になるのか見てみることにしました。",
+      "title": "1997年から2021年にかけて、S&P500 ETFと低債券および高債券の3ファンド・ポートフォリオのパフォーマンスを比較するバックテスト"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。我一直听说追踪标准普尔500指数的指数提供了一个良好的多样化组合。\n但最近有人告诉我，情况并非如此，三个基金的投资组合才是王道。\n三个基金的投资组合才是王道。关于这一点，有很多很好的信息\n的信息。因此，我决定对它们进行比较，看看它们如何。",
+      "title": "通过回溯测试，比较1997-2021年S&P500 ETF与低债券和高债券三类基金组合的表现"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。我一直聽說追蹤標準普爾500指數的指數提供了一個良好的多樣化組合。\n但最近有人告訴我，情況並非如此，三個基金的投資組合纔是王道。\n三個基金的投資組合纔是王道。關於這一點，有很多很好的信息\n的信息。因此，我決定對它們進行比較，看看它們如何。",
+      "title": "通過回溯測試，比較1997-2021年S&P500 ETF與低債券和高債券三類基金組合的表現"
+    }
+  ],
+  "source_updated_at": 1625218968188
+}

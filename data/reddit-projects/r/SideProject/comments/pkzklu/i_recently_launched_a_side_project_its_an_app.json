@@ -1,0 +1,32 @@
+{
+  "author": "tonymamo",
+  "original_created_utc": 1631199885,
+  "title": "I recently launched a side project! It's an app that creates dynamic packing lists for outdoor adventures based on what activities you do on each trip. Looking for feedback and others that may be interested in joining the team!",
+  "created_utc": 1631216595,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Over the last year, some buddies and I have been working on a packing platform called <a href=\"https://getpackup.com/\">Packup</a>. We recently launched our public beta and are looking for feedback on the app itself, as well as other individuals that may be interested in helping on the development of the app!</p>\n\n<p>Our goal is to increase the safety and enjoyment of outdoor adventures by improving competency and preparedness. Our suite of trip preparation and packing tools, along with contributions from a community of passionate users aims to create an ecosystem where you can always be prepared for your outdoor excursions. Forgetting an important item can be embarrassing at best, or life threatening and dangerous depending on the circumstances. With packup, we will ensure that no item is left behind.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/inkaty05thm71.jpg?width=1169&amp;format=pjpg&amp;auto=webp&amp;s=21bf8625e878b9177382a47d666c789712736799\">The Trip Generator allows you to quickly build comprehensive packing lists for your trips by selecting tags, which will generate your packing list from your customizable database of items.</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/83k9vle6thm71.jpg?width=1116&amp;format=pjpg&amp;auto=webp&amp;s=e4c4a2ecf443c9e1d5299098135d804ee9cfda80\">An example of searching for the word avalanche in your gear closet to find associated items. Your avalanche probe is in there, and is tagged to generate for trips when you&#39;re ski touring or ice climbing. Endless customization available to users.</a></p>\n\n<p>We’ve been through dozens of prototypes, a full alpha testing period, and have received the help and feedback of hundreds of thoughtful and die-hard outdoor users, some of whom have been with us right from our first landing page. Many of the stories of forgotten items have been hilarious to hear from our early users.</p>\n\n<p>The site is built on Gatsby, including using NetlifyCMS for the blog portion. It&#39;s been a blast to build and learn new things so far. It utilizes Firebase for authentication, databases, and cloud functions; Redux for state management; styled-components for styling (fully responsive, so works just as well on phone as it does a large screen); Cloudinary for image management; Formik for forms; Algolia for search; the list goes on.</p>\n\n<p>We have the opportunity to take things a lot further with feedback and a larger development team, and have thought of some of the following feature areas that we could work on in the future:</p>\n\n<p>Minor Features</p>\n\n<ul>\n<li>Custom categorization and tags</li>\n<li>Trip sharing (Leave a plan with loved ones or brag to your friends)</li>\n<li>Weather APIs</li>\n<li>Offline capabilities</li>\n</ul>\n\n<p>Major Features</p>\n\n<ul>\n<li>Group trip planning, and shared lists between party members</li>\n<li>Search capabilities for regions or activity type</li>\n<li>Item weight module and total packed weight</li>\n</ul>\n\n<p>At this point, we&#39;ve validated that there is a market for this, and we are looking to grow the team, so we can ship more features, faster! If you consider yourself an outdoorsy person and are interested in the problem (and want to help build the solution!), we&#39;d love to chat with you about what that could look like. Get in touch with us at <a href=\"https://getpackup.com/contact\">https://getpackup.com/contact</a></p>\n\n<p>Thanks for taking a look!</p>\n</div><!-- SC_ON -->",
+  "score": 6,
+  "permalink": "/r/SideProject/comments/pkzklu/i_recently_launched_a_side_project_its_an_app/",
+  "subreddit": "SideProject",
+  "id": "pkzklu",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Over the last year, some buddies and I have been working on a packing platform\ncalled Packup [https://getpackup.com/]. We recently launched our public beta and\nare looking for feedback on the app itself, as well as other individuals that\nmay be interested in helping on the development of the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "去年から、仲間と一緒に梱包用のプラットフォームを作っています。\nPackup [https://getpackup.com/]を開発しました。先日、パブリックベータ版をリリースしました。\nアプリに対するフィードバックや、開発に協力してくれる人を募集しています。\nまた、このアプリの開発に協力してくれる人も募集しています。",
+      "title": "私は最近、サイドプロジェクトを立ち上げました。これは、アウトドアでの冒険のためのダイナミックなパッキングリストを、旅先でのアクティビティに基づいて作成するアプリです。フィードバックや、チームに参加してくれる人を募集しています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在过去的一年里，我和一些朋友一直在开发一个包装平台\n叫做Packup[https://getpackup.com/]。我们最近推出了我们的公开测试版，并\n我们正在寻找对该应用程序本身的反馈，以及其他可能对我们感兴趣的人。\n以及其他可能有兴趣帮助开发的人。",
+      "title": "我最近推出了一个副业! 这是一个应用程序，可以根据你在每次旅行中的活动，为户外探险创建动态包装清单。希望得到反馈和其他可能有兴趣加入这个团队的人!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在過去的一年裏，我和一些朋友一直在開發一個包裝平臺\n叫做Packup[https://getpackup.com/]。我們最近推出了我們的公開測試版，並\n我們正在尋找對該應用程序本身的反饋，以及其他可能對我們感興趣的人。\n以及其他可能有興趣幫助開發的人。",
+      "title": "我最近推出了一個副業! 這是一個應用程序，可以根據你在每次旅行中的活動，爲戶外探險創建動態包裝清單。希望得到反饋和其他可能有興趣加入這個團隊的人!"
+    }
+  ]
+}

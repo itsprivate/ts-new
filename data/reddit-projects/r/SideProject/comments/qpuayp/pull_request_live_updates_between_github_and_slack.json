@@ -1,0 +1,78 @@
+{
+  "author": "Ninjaspaceship",
+  "original_created_utc": 1636427110,
+  "title": "Pull request live updates between Github and Slack",
+  "created_utc": 1636483935,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>After programmers create a pull request on Github, they often post in Slack asking for approvals.</p>\n\n<p>Sometimes the Slack message is posted manually, other times Slack apps like the free one provided by Github automatically post these messages.</p>\n\n<p>Either way, these messages are static. If anything changes in the pull request, the message is the same.</p>\n\n<p>Wouldn&#39;t it be great if the Slack message automatically updated to reflect any changes to the pull request?</p>\n\n<p>That&#39;s what my side project <a href=\"https://pr.chat\">pr.chat</a> does. It automatically posts a message to your Slack room announcing a pull request. Then as the pull request is updated, approved or commented upon, the Slack message dynamically updates to reflect those changes.</p>\n\n<p>When <a href=\"https://pr.chat\">pr.chat</a> comes out of beta, it will be free for open source projects and paid for private repositories.</p>\n\n<h1>Beta testing</h1>\n\n<p>I need help beta testing. If you&#39;d like to try it out and help me squash bugs, message me.</p>\n\n<h1>Feature overview</h1>\n\n<p><strong>Slack message Announcing PR</strong></p>\n\n<p>First <a href=\"https://pr.chat\">pr.chat</a> posts a message in Slack announcing the PR. But instead of a boring text message with the PR title, you get an elegant rich message that is far more functional and pleasant to look at</p>\n\n<p><a href=\"https://preview.redd.it/ff5sd2lwfhy71.png?width=1168&amp;format=png&amp;auto=webp&amp;s=7323795166596513c8c1fff6e5c69030445cf7b4\">Slack message announcing new PR</a></p>\n\n<p><strong>Dashboard</strong></p>\n\n<p>The top part of the Slack message is a dashboard of all the relevant metadata about the PR: Who created the PR, the source and destination branches, labels and information about reviews: who was requested, what approvals or changes have been requested</p>\n\n<p><a href=\"https://preview.redd.it/maa5lanzfhy71.png?width=1162&amp;format=png&amp;auto=webp&amp;s=02f3031bd1d7843cc56323cc96039756775397ef\">Top of Slack message shows PR metadata</a></p>\n\n<p><strong>Description</strong></p>\n\n<p>The bottom part of the Slack message faithfully reproduces all of the formatting in the PR&#39;s description, so immediately you get to start reading what this PR is about without leaving Slack</p>\n\n<p><a href=\"https://preview.redd.it/jgo5b9y5ghy71.png?width=1426&amp;format=png&amp;auto=webp&amp;s=67a32825745c6bab19a9df1df41c82eab4545bc0\">PR description in Github</a></p>\n\n<p><a href=\"https://preview.redd.it/a0nkcnd7ghy71.png?width=1172&amp;format=png&amp;auto=webp&amp;s=ccf43a9354fbb3cfd2b7e7114250d95d81f2624f\">PR description recreated in Slack</a></p>\n\n<p><strong>Images</strong></p>\n\n<p>Even images that were added to the PR are added to the Slack message</p>\n\n<p><a href=\"https://i.redd.it/w3yhi7sfghy71.gif\">Images added to the PR are preserved</a></p>\n\n<p><strong>Dynamic Updates</strong></p>\n\n<p>The dashboard part of the Slack message will dynamically change as the PR is updated</p>\n\n<p><a href=\"https://i.redd.it/zhq074ubhhy71.gif\">The Slack message updates as the PR changes in Github</a></p>\n\n<p><strong>Comments from Github</strong></p>\n\n<p>When a comment is added to the PR in Github, it is added to the message&#39;s thread on Slack</p>\n\n<p><a href=\"https://preview.redd.it/9yjy1g9vhhy71.png?width=1142&amp;format=png&amp;auto=webp&amp;s=67c1f5746cd6a7c3f5dd4e8c464abb1293059107\">When a comment is added on Github</a></p>\n\n<p><a href=\"https://preview.redd.it/ws76npxxhhy71.png?width=930&amp;format=png&amp;auto=webp&amp;s=66b7a58ee3c8f26ea55c64a5be40adaa3cf896f9\">The comment is added to Slack in the message&#39;s thread</a></p>\n\n<p><strong>Comments from Slack</strong></p>\n\n<p>When a comment is added to the thread in Slack, it is added to the PR on Github</p>\n\n<p><a href=\"https://preview.redd.it/1uia97h7ihy71.png?width=918&amp;format=png&amp;auto=webp&amp;s=a890d4237512ba698b484cceb649c9437c0684ab\">When a comment is added to the Slack thread</a></p>\n\n<p><a href=\"https://preview.redd.it/p4e4zeaaihy71.png?width=1132&amp;format=png&amp;auto=webp&amp;s=357c6b9c312d74999aec8e6bd5cb3434f41ac4e6\">The comment is added to the PR on Github</a></p>\n\n<p><strong>Code Diffs</strong></p>\n\n<p>When there&#39;s a comment on specific code on Github, the Slack message thread will faithfully recreate it so it&#39;s easy to follow on Slack</p>\n\n<p><a href=\"https://preview.redd.it/u1v7vb8qihy71.png?width=1524&amp;format=png&amp;auto=webp&amp;s=7546ef705525d86a9296a43f98531cb4d6f8693b\">When a comment is added to a block of code</a></p>\n\n<p><a href=\"https://preview.redd.it/bubacuruihy71.png?width=1206&amp;format=png&amp;auto=webp&amp;s=aa59b4384b7fc11164c7dd509d8e6a3d2ff5cbe3\">The Slack thread includes both the comment and the code block</a></p>\n\n<p>Thank you for reading this far! I need help beta testing pr.chat If you&#39;d like to try it out and help me squash bugs, message me.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?auto=webp&s=0706b2efae25ebb900d59cad61418e3b01522368",
+          "width": 1283,
+          "height": 1165
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?width=108&crop=smart&auto=webp&s=d925791d5f2ca743d89c02e77ca05315bcc54034",
+            "width": 108,
+            "height": 98
+          },
+          {
+            "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?width=216&crop=smart&auto=webp&s=ce26dcce7716e9e50eccecd13ab76564af66c2ce",
+            "width": 216,
+            "height": 196
+          },
+          {
+            "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?width=320&crop=smart&auto=webp&s=321e810c22b6c0711bbf7815cbb03100901a1f0f",
+            "width": 320,
+            "height": 290
+          },
+          {
+            "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?width=640&crop=smart&auto=webp&s=0d57314b6fea2baab78657bf79a52999ceab2cf3",
+            "width": 640,
+            "height": 581
+          },
+          {
+            "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?width=960&crop=smart&auto=webp&s=0f7ce222af39c5af4f59085eb7ddcea8a101afd7",
+            "width": 960,
+            "height": 871
+          },
+          {
+            "url": "https://external-preview.redd.it/2GZCwC38TmFriVznblFrJUMpAekVnRkhCCTJBAw5dRc.jpg?width=1080&crop=smart&auto=webp&s=b648b8d99abbeaa0366fbc732046f9ae885a844c",
+            "width": 1080,
+            "height": 980
+          }
+        ],
+        "variants": {},
+        "id": "ikIhj68frXVFZvqvn1nyN3djkNCPZbWURUlRuJm1PZ8"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qpuayp/pull_request_live_updates_between_github_and_slack/",
+  "subreddit": "SideProject",
+  "id": "qpuayp",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "After programmers create a pull request on Github, they often post in Slack\nasking for approvals.\n\nSometimes the Slack message is posted manually, other times Slack apps like the\nfree one provided by Github automatically post these messages.\n\nEither way, these messages are static. If anything…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "プログラマーはGithubでプルリクエストを作成した後、Slackに投稿することがよくあります。\nに投稿して承認を求めます。\n\n手動で投稿する場合もあれば、Githubが提供する無料のSlackアプリのように\nのようなSlackアプリが自動的にメッセージを投稿することもあります。\n\nいずれにしても、これらのメッセージは静的なものです。何かあれば...",
+      "title": "GithubとSlack間のプルリクエストのライブアップデート"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "程序员在Github上创建一个拉动请求后，他们经常在Slack上发帖\n请求批准。\n\n有时Slack消息是手动发布的，有时Slack应用程序，如\nGithub提供的免费应用程序会自动发布这些信息。\n\n无论哪种方式，这些消息都是静态的。如果有什么...",
+      "title": "Github和Slack之间的拉动请求实时更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "程序員在Github上創建一個拉動請求後，他們經常在Slack上發帖\n請求批准。\n\n有時Slack消息是手動發佈的，有時Slack應用程序，如\nGithub提供的免費應用程序會自動發佈這些信息。\n\n無論哪種方式，這些消息都是靜態的。如果有什麼...",
+      "title": "Github和Slack之間的拉動請求實時更新"
+    }
+  ]
+}

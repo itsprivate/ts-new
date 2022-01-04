@@ -1,0 +1,79 @@
+{
+  "id": "316086",
+  "commentsCount": 2,
+  "createdAt": "2021-10-17T01:37:43.186Z",
+  "description": "Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.",
+  "featuredAt": "2021-10-16T07:41:12Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ce982bd7-7516-4c52-b862-9c4dba098390.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9aeff73f-92fb-4f10-8cf1-ba8652c9bc80.jpeg?auto=format",
+      "videoUrl": "https://www.youtube.com/watch?v=5-DNZFU9TOQ"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/1aa81aa7-6289-4996-9739-40f008e2f04a.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Create Go App",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/e7da6e6fef79ca?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/8cab9b77c0b39c?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Vic Shóstak",
+    "url": "https://www.producthunt.com/@vic_shostak?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "create-go-app",
+  "tagline": "Create a new production-ready project by one CLI command",
+  "url": "https://www.producthunt.com/posts/create-go-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 118,
+  "website": "https://www.producthunt.com/r/8cab9b77c0b39c?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-16T07:41:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1つのCLIコマンドを実行するだけで、バックエンド（Golang）、フロントエンド（JavaScript、TypeScript）、デプロイ自動化（Ansible、Docker）を備えた本番対応の新規プロジェクトを作成できます。コードを書くことと、ビジネスロジックを考えることに集中してください。あとはCLIにお任せください。",
+      "tagline": "1つのCLIコマンドで新しいプロダクションレディのプロジェクトを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "通过运行一条CLI命令，创建一个新的生产就绪的项目，包括后端（Golang）、前端（JavaScript、TypeScript）和部署自动化（Ansible、Docker）。专注于编写代码和思考业务逻辑! CLI会处理剩下的事情。",
+      "tagline": "通过一条CLI命令创建一个新的可生产的项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過運行一條CLI命令，創建一個新的生產就緒的項目，包括後端（Golang）、前端（JavaScript、TypeScript）和部署自動化（Ansible、Docker）。專注於編寫代碼和思考業務邏輯! CLI會處理剩下的事情。",
+      "tagline": "通過一條CLI命令創建一個新的可生產的項目"
+    }
+  ],
+  "source_updated_at": 1634895645753
+}

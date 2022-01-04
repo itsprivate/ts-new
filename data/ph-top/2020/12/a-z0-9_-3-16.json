@@ -1,0 +1,84 @@
+{
+  "id": "278314",
+  "commentsCount": 26,
+  "createdAt": "2020-12-18T08:47:54.485Z",
+  "description": "/^[a-z0-9_-]{3,16}$/ is a podcast where Eugene Kudashev shares some tips and tricks and useful regular expressions for day-to-day work",
+  "featuredAt": "2020-12-17T10:20:21Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/f255ea5d-c805-4991-84e5-04fb22f3a7a1.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://youtu.be/1PK0N1bcVO8"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7e04c4a8-17bf-4e49-b4ca-75e59f62f756.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c5adf5c5-b0a2-45e2-bba9-2c445ba06a03.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dd7fb09b-a3a5-4f09-a0a8-aff9e3f71f3e.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/73f4f963-00d1-4696-84a3-350147b2e65a.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "/^[a-z0-9_-]{3,16}$/",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/2fba62ff807b07?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/8f0364eb08e7c3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Vincent Denise",
+    "url": "https://www.producthunt.com/@yesnoornext?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "a-z0-9_-3-16",
+  "tagline": "A podcast about regular expressions",
+  "url": "https://www.producthunt.com/posts/a-z0-9_-3-16?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 246,
+  "website": "https://www.producthunt.com/r/8f0364eb08e7c3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Education"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2020-12-17T10:20:21Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "/^[a-z0-9_-]{3，16}$/是一个播客，尤金·库达舍夫(Eugene Kudashev)在其中分享一些技巧和技巧，以及日常工作中有用的正则表达式",
+      "tagline": "关于正则表达式的播客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "/^[a-z0-9_-]{3，16}$/是一個播客，尤金·庫達舍夫(Eugene Kudashev)在其中分享一些技巧和技巧，以及日常工作中有用的正則表達式",
+      "tagline": "關於正則表達式的播客"
+    }
+  ],
+  "source_updated_at": 1609261010797
+}

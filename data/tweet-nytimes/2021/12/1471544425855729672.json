@@ -1,0 +1,241 @@
+{
+  "created_at": "Fri Dec 17 9:31:45 +0000 2021",
+  "id": 1471544425855729700,
+  "id_str": "1471544425855729672",
+  "full_text": "Super Typhoon Rai brought heavy rain and flooding to the southeastern part of the Philippines on Thursday, displacing thousands over a large area. https://t.co/HQErmPRTtJ https://t.co/NTxyOPl6NI",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    170
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/HQErmPRTtJ",
+        "expanded_url": "https://nyti.ms/30D05mM",
+        "display_url": "nyti.ms/30D05mM",
+        "indices": [
+          147,
+          170
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1471542530537836500,
+        "id_str": "1471542530537836548",
+        "indices": [
+          171,
+          194
+        ],
+        "media_url": "http://pbs.twimg.com/media/FGv52jnWUAAkuZf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FGv52jnWUAAkuZf.jpg",
+        "url": "https://t.co/NTxyOPl6NI",
+        "display_url": "pic.twitter.com/NTxyOPl6NI",
+        "expanded_url": "https://twitter.com/nytimes/status/1471544425855729672/video/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "h": 400,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 400,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 400,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1471542530537836500,
+        "id_str": "1471542530537836548",
+        "indices": [
+          171,
+          194
+        ],
+        "media_url": "http://pbs.twimg.com/media/FGv52jnWUAAkuZf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FGv52jnWUAAkuZf.jpg",
+        "url": "https://t.co/NTxyOPl6NI",
+        "display_url": "pic.twitter.com/NTxyOPl6NI",
+        "expanded_url": "https://twitter.com/nytimes/status/1471544425855729672/video/1",
+        "type": "video",
+        "sizes": {
+          "large": {
+            "w": 600,
+            "h": 400,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 600,
+            "h": 400,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 400,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            5
+          ],
+          "duration_millis": 39839,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1471542530537836548/vid/720x900/WVydb8zmscx4nssE.mp4?tag=14"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1471542530537836548/vid/320x400/HuwRHnkf7GiHOJMi.mp4?tag=14"
+            },
+            {
+              "bitrate": 950000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1471542530537836548/vid/480x600/ITOjSWh9BuhN2SA1.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1471542530537836548/pl/nA-XStItXRVMC6tC.m3u8?tag=14&container=fmp4"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "title": "Super Typhoon Slams the Philippines",
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 807095,
+    "id_str": "807095",
+    "name": "The New York Times",
+    "screen_name": "nytimes",
+    "location": "New York City",
+    "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+    "url": "http://t.co/ahvuWqicF9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/ahvuWqicF9",
+            "expanded_url": "http://www.nytimes.com/",
+            "display_url": "nytimes.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/ghL9OoYKMM",
+            "expanded_url": "http://nyti.ms/2FVHq9v",
+            "display_url": "nyti.ms/2FVHq9v",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 51193680,
+    "friends_count": 861,
+    "listed_count": 211977,
+    "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+    "favourites_count": 18759,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 456790,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": true,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+    "profile_link_color": "607696",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 244,
+  "favorite_count": 522,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en",
+  "original_created_at": "Thu Dec 16 18:15:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "超大型台風12号（ライ）はフィリピン南東部に大雨と洪水をもたらし、広い範囲で数千人が避難した。https://t.co/HQErmPRTtJ https://t.co/NTxyOPl6NI。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "超级台风 \"莱伊 \"周四给菲律宾东南部地区带来大雨和洪水，在大片地区造成数千人流离失所。https://t.co/HQErmPRTtJ https://t.co/NTxyOPl6NI"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "超級颱風 \"萊伊 \"週四給菲律賓東南部地區帶來大雨和洪水，在大片地區造成數千人流離失所。https://t.co/HQErmPRTtJ https://t.co/NTxyOPl6NI"
+    }
+  ]
+}

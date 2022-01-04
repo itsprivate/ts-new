@@ -1,0 +1,69 @@
+{
+  "author": "TopWoodpecker7267",
+  "the_new_excerpt": "Full disclaimer: I own some ETH. I've seen a lot of posts here and in\n/r/ethereum talking about high fees. I've also seen a lot of extremely\nmisleading statements here and there about how high fees are right now and will\ntry and simplify things a bit. I'll do my best to remain impartial, and…",
+  "original_created_utc": 1612478835,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "充分声明：我拥有一些ETH。我在这里看到很多帖子，在\n/r/ethereum谈论高额的费用。我也看到了很多极其\n误导性的说法，说现在和将来的费用有多高。\n尽量把事情简单化一点 我会尽力保持公正，并... ...",
+      "title": "我们都知道ETH费用很高。以下是为什么会出现这种情况，如何省钱，以及今后如何应对。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "充分聲明：我擁有一些ETH。我在這裏看到很多帖子，在\n/r/ethereum談論高額的費用。我也看到了很多極其\n誤導性的說法，說現在和將來的費用有多高。\n儘量把事情簡單化一點 我會盡力保持公正，並... ...",
+      "title": "我們都知道ETH費用很高。以下是爲什麼會出現這種情況，如何省錢，以及今後如何應對。"
+    }
+  ],
+  "title": "We all know ETH fees are high. Here's why it's happening, how to save money, and what is being done about it going forward.",
+  "created_utc": 1612492704,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Full disclaimer: I own some ETH. I&#39;ve seen a lot of posts here and in <a href=\"/r/ethereum\">/r/ethereum</a> talking about high fees. I&#39;ve also seen a lot of extremely misleading statements here and there about how high fees are right now and will try and simplify things a bit. I&#39;ll do my best to remain impartial, and feel free to correct me and I&#39;ll edit my post. All plans are subject to change, the following is based on my current understanding and recollection of developer statements.</p>\n\n<blockquote>\n<p>What is happening?</p>\n</blockquote>\n\n<ul>\n<li><p>ETH fees are high right now. The best place to see gas costs (how much you&#39;ll need to pay for a transaction vs how quickly you want it) is here: <a href=\"https://ethgasstation.info/\">https://ethgasstation.info/</a></p></li>\n<li><p>Smart contracts and ERC-20 tokens consume much more gas than a basic transfer. While a typical transfer might be $3 a poorly written smart contract could consume $100 in gas. This variation leads to lots of confusion on various forums. An absolute metric crap ton of tokens run on ETH, so ETH being congested causes lots of downstream effects, tokens that consume lots of gas are disproportionately effected.</p></li>\n</ul>\n\n<blockquote>\n<p>Why is this happening?</p>\n</blockquote>\n\n<ul>\n<li><p><a href=\"https://txstreet.com/v/eth-btc\">Utilization is through the roof right now</a>. At post time ETH is achieving 16.14 TPS vs BTC&#39;s 4.00. Despite being 4 times faster the demand for on-chain (L1) transactions is overwhelming. At the bottom of <a href=\"https://ethgasstation.info/index.php\">this page, make sure to scroll down</a> you can see that blocks are at 100% right now. That means people are constantly outbidding each other to make it in.</p></li>\n<li><p>At post time <a href=\"https://ethgasstation.info/gasguzzlers.php\">Uniswap</a> is the biggest gas guzzler. People are using Decentralized Exchanges (dex&#39;es) a ton and its consuming a huge chunk of block space and people are paying a premium for it.</p></li>\n</ul>\n\n<blockquote>\n<p>How can I save money?</p>\n</blockquote>\n\n<ul>\n<li><p>ETH demand fluctuates heavily throughout the day, it&#39;s not uncommon for fees to drop 10x in an hour. If you are not in a hurry waiting a bit for a slow period and broadcasting a median gas transaction can save you a TON of money</p></li>\n<li><p>Some wallets/apps are designed to be super user friendly, and unfortunately they hardcode the fastest possible gas costs for a good user experience (UX). Unfortunately that&#39;s a very bad idea when gas is high and only causes rates to climb even more. EIP-1559 will fix this, more on that later</p></li>\n<li><p>Don&#39;t interact with smart contracts if you don&#39;t have to. It sucks, I know. But the fact is that using a smart contract is way more expensive than normal transactions. When gas is a fraction of a penny nobody cares, but its not right now and this is where we are. Last I checked, L1 <a href=\"https://ycharts.com/indicators/ethereum_average_transaction_fee\">ETH</a> transfers are still cheaper than <a href=\"https://ycharts.com/indicators/bitcoin_average_transaction_fee\">BTC</a>. Not much of a consolation, but it&#39;s not a <em>total</em> disaster yet. EDIT: It appears the last 2 days ETH has flipped BTC on transaction costs. $17 USD still seems really really high, as of post-time a $5 transaction would go through within a few minutes)</p></li>\n</ul>\n\n<blockquote>\n<p>What is being done about this? (sorted by est delivery date)</p>\n</blockquote>\n\n<ul>\n<li><p>Berlin upgrade: Est 1-2 months, will adjust gas costs of various transactions for certain core operations. Should help fees overall on many contracts.</p></li>\n<li><p>EIP-1559: Est &quot;this summer, but maybe Q3&quot;: A huge overhaul to the fee system. Block sizes are FLEXIBLE, targeting 50% full. When a block exceeds 50% full the base fee increases. When it drops below 50% the base fee decreases. Fees are burned (nice deflationary side effect). This means a few things: A) Spikes in transactions can make the next block instead of clogging the mem pool B) costs are MUCH more easy to calculate, and block include time estimation is much easier. C) The improved predictability/include time means shitty apps won&#39;t have a reason to set absurd fees for a good UX, driving &quot;gas inflation&quot; like we see now. There&#39;s a lot more to EIP-1559, but that&#39;s the gist of how it should impact transactions</p></li>\n<li><p>2.0 Phase 0: Already live, but the beacon chain won&#39;t impact 1.0 until &quot;the merge&quot;. Baseline TPS should be higher than 1.0, and its also environmentally friendly :)</p></li>\n<li><p>2.0 Phase 1: Est end of 2021, Sharding will first scale to 64 shards (eventually 1024) for a 64x scaling effect on the beacon chain. </p></li>\n<li><p>The Merge: Some call this Phase 1.5, but it is planned for 2022. This will move ETH 1.0 as a shard on to 2.0, and all finality will occur on the beacon chain. At this point ETH&#39;s core TPS should be 64-100x faster than what we have today</p></li>\n<li><p>2.0 Phase 2: Est end of 2022/2023, Execution Environments aka sharded smart contracts allow for smart contracts to share data across shards so that DeFi/Dex&#39;es etc benefit from 2.0&#39;s massive scalability</p></li>\n</ul>\n\n<blockquote>\n<p>What other out-of-order improvements are coming?</p>\n</blockquote>\n\n<ul>\n<li>Various L2 technologies are already live, and several smart contracts are upgrading to them now. This will let you pay on L1 to &quot;get in&quot;, then perform a lot of cheap transactions on L2. Right now every trade on uniswap clogs L1. When it runs on L2 all those trades are off-chain and gas fees are only driven up by deposits/withdrawals. This should have a massive impact on overall gas costs. The good news is the insane fees on some contracts act as an INCENTIVE to get L2 up and running faster.</li>\n</ul>\n\n<p>I know a lot of people are unhappy with the current situation, but a lot of progress has been made and a lot of exciting progress is on the horizon! I hope this post helps :)</p>\n</div><!-- SC_ON -->",
+  "score": 4655,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/RctOACxmtIN8FZpyvDzBsTqTKwCwYbh-9siwF_n5m34.jpg?auto=webp&s=944d838ed4cb4de680917e47cda88ab0f53104fb",
+          "width": 1024,
+          "height": 1024
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/RctOACxmtIN8FZpyvDzBsTqTKwCwYbh-9siwF_n5m34.jpg?width=108&crop=smart&auto=webp&s=b53ea6be867004cc204c02cb2b31daef7bc75815",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/RctOACxmtIN8FZpyvDzBsTqTKwCwYbh-9siwF_n5m34.jpg?width=216&crop=smart&auto=webp&s=f2aaa68004441a9ca29b562fc4aea2c2442920be",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/RctOACxmtIN8FZpyvDzBsTqTKwCwYbh-9siwF_n5m34.jpg?width=320&crop=smart&auto=webp&s=0983d49fcf351f286a59c85dcad845c8e434fad3",
+            "width": 320,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/RctOACxmtIN8FZpyvDzBsTqTKwCwYbh-9siwF_n5m34.jpg?width=640&crop=smart&auto=webp&s=9de237e47c5a5cf58531bb746ac91b77ac1a9e2b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/RctOACxmtIN8FZpyvDzBsTqTKwCwYbh-9siwF_n5m34.jpg?width=960&crop=smart&auto=webp&s=81322adbf3c885b521129dd13964843793a7ff1c",
+            "width": 960,
+            "height": 960
+          }
+        ],
+        "variants": {},
+        "id": "VuvvaHNl4zux_GTkGayqd6_6vzGPVmK1avxmxQnS-Jc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/lcshic/we_all_know_eth_fees_are_high_heres_why_its/",
+  "subreddit": "CryptoCurrency",
+  "id": "lcshic",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613123193189
+}

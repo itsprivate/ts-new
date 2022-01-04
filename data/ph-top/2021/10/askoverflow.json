@@ -1,0 +1,79 @@
+{
+  "id": "315461",
+  "commentsCount": 7,
+  "createdAt": "2021-10-11T12:18:27.566Z",
+  "description": "AskOverflow let you ask questions to StackOverflow without leaving your editor.",
+  "featuredAt": "2021-10-11T07:03:10Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b38a258b-7ea8-4eab-9328-178c17472c8b.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e7a53552-09ec-4de8-a3c3-e9818d291acf.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c96145dd-d0d4-4fa2-bfe1-35a432fea4a3.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "AskOverflow",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/5d1dcf5dd77931?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Visual Studio Marketplace",
+      "url": "https://www.producthunt.com/r/90f1c1173a2517?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Fabio Sabbion",
+    "url": "https://www.producthunt.com/@fabio_sabbion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "askoverflow",
+  "tagline": "Ask questions to StackOverflow directly from inside VS Code",
+  "url": "https://www.producthunt.com/posts/askoverflow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 137,
+  "website": "https://www.producthunt.com/r/90f1c1173a2517?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Text Editors"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-11T07:03:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AskOverflowでは、エディタを開いたままStackOverflowに質問をすることができます。",
+      "tagline": "VS Codeの中からStackOverflowに直接質問することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "AskOverflow让你在不离开编辑器的情况下向StackOverflow提出问题。",
+      "tagline": "直接从VS Code内部向StackOverflow提问"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AskOverflow讓你在不離開編輯器的情況下向StackOverflow提出問題。",
+      "tagline": "直接從VS Code內部向StackOverflow提問"
+    }
+  ],
+  "source_updated_at": 1634290798161
+}

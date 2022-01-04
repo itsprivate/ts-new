@@ -1,0 +1,79 @@
+{
+  "author": "rook785",
+  "the_new_excerpt": "The most important thing to understand with this “hack” is the difference\nbetween dark side and the person who demanded the ransom. “Dark side” is a\nransomware-as-a-service group. They charge 15% of the total ransom to design the\ncode that their client (aka affiliate) will then use to install on…",
+  "original_created_utc": 1623219130,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この「ハック」で最も重要なことは、ダークサイドと身代金要求者の違いです。\nダークサイドと身代金を要求した人の違いです。\"ダークサイド \"とは\nランサムウェア・アズ・ア・サービス（Ransomware-as-a-Service）のグループです。彼らは身代金総額の15％を請求して、クライアント（別名アフィリエイト）が使用するコードを設計します。\nそのコードをクライアント（つまりアフィリエイター）が使用して...",
+      "title": "誤解を招くタイトル - 「FBIがDarksideハッカーズのプライベートキーを取得」が誤りである理由と、実際に起こったことの詳細説明"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对于这个 \"黑客\"，最重要的事情是要了解\n黑方和要求赎金的人之间的区别。\"黑暗势力 \"是一个\n勒索软件即服务组织。他们收取总赎金的15%来设计代码。\n他们的客户（又称附属机构）将使用这些代码来安装在...",
+      "title": "误导性的标题--为什么 \"FBI获得了Darkside黑客的私人钥匙 \"是错误的，并详细解释了实际发生的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對於這個 \"黑客\"，最重要的事情是要了解\n黑方和要求贖金的人之間的區別。\"黑暗勢力 \"是一個\n勒索軟件即服務組織。他們收取總贖金的15%來設計代碼。\n他們的客戶（又稱附屬機構）將使用這些代碼來安裝在...",
+      "title": "誤導性的標題--爲什麼 \"FBI獲得了Darkside黑客的私人鑰匙 \"是錯誤的，並詳細解釋了實際發生的情況"
+    }
+  ],
+  "title": "Misleading titles - Why “FBI acquired Darkside Hackers Private Keys” is false, and a detailed explanation of what actually happened",
+  "created_utc": 1623249048,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The most important thing to understand with this “hack” is the difference between dark side and the person who demanded the ransom.  “Dark side” is a ransomware-as-a-service group. They charge 15% of the total ransom to design the code that their client (aka affiliate) will then use to install on tech (infrastructure / servers) and then reference to demand a ransom payment.</p>\n\n<p>Darkside’s model is unique. Because they solely provide the code, they aren’t at any risk themselves. They do not demand the ransom and have no contact with the victims.  The affiliates are usually insiders or individuals who have access to the ransomed servers but who lack the technical sophistication to develop the code on their own. </p>\n\n<p>Key emphasis in this case is the <em>lack of technical sophistication</em> of the affiliate / ransomer.</p>\n\n<p>Dark side vets the affiliate - almost certainly by getting their full information so that dark side can make sure the affiliate pays them dark side’s share of the ransom (15%) after it gets collected .</p>\n\n<p>The ransom was for 75 bitcoins. The FBI recovered 63.7.. which is exactly 85% of the ransom amount.  The FBI didn’t recover dark side’s 15%, they only recovered the technologically illiterate affiliate’s 85%... because the affiliate who demanded the ransom is an idiot.  His only value was being in a position to install the ransomware. </p>\n\n<p>The fbi’s warrant was for the northern district of California. That’s the location of multiple CEX headquarters (binance, Coinbase has an office there, etc).  It is apparent that the affiliate used one of these sites to try to fiat off ramp. You can see him moving his 85% of the funds to his own wallet. The wallet that received the BTC ransom is \nbc1qq2euq8pw950klpjcawuy4uj39ym43hs6cfsegq</p>\n\n<p>Dark side’s 15% hasn’t been recovered and won’t be. Unlike the dude who hired them, they aren’t idiots.  They’ve actually publicly apologized for this ransom and have vowed to better vet  future clients. (They have a low, but existent set of morals - no attacking schools, governments, hospitals, critical infrastructure, etc)</p>\n\n<p>Please ignore the media saying that the FBI hacked Bitcoin.. they didn’t. They used a warrant (linked below) to gain access to the affiliate’s funds on a <em>centralized exchange</em>.  Remember - not your keys, not your coins.  If the affiliate hadn’t moved his share of the btc to a centralized exchange then the FBI wouldn’t have been able to get them.</p>\n\n<p>There is significant misinformation out there about this. There are also people saying that this was a “false flag” attack... it wasn’t. Again, you can view the wallet and the transactions on the block chain explorer.</p>\n\n<p>Most of the confusion in the media and on Twitter comes from the failure to differentiate Dark Side - the programming RaaS group - from the affiliate, who had no technical knowledge and suffered the consequence by losing his BTC by doing something stupid (moving it to a KYC’d CEX) after he had done something even stupider (ransomed a huge company).  Confiscating this dude’s crypto is significantly less impressive than if the FBI had gotten Dark Side’s share... but the narrative has been set and it sounds a lot cooler to say that the FBI “hacked an elite group of Russian ransom ware hackers” ... but that isn’t what happened. Not even remotely.</p>\n\n<p>Please spread the word, not just to all the media sources that are using this to condemn Bitcoin, but also to all the Bitcoin investors that are literally making shit up to try to “defend bitcoin.”  The latter are particularly harmful to the currency because their misinformation is just as false as the media’s but they are seen as “speakers” for Bitcoin and are being caught in easily disprovable lies (no, dark side didn’t give the money back.. no, there’s no evidence that it was a false flag.. no, this doesn’t mean that your non-SHA256 crypto will “moon”... no, the fbi doesn’t have a quantum computer... no no no! If you don’t know what happened then please just don’t say anything!)</p>\n\n<p>*<em>Sources: *</em></p>\n\n<p>Primary, a security firm that had been keeping tabs on dark side: <a href=\"http://www.elliptic.co/blog/us-authorities-seize-darkside\">http://www.elliptic.co/blog/us-authorities-seize-darkside</a></p>\n\n<p>Useful article on Dark Side’s structure: <a href=\"https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html\">https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html</a></p>\n\n<p>Bitcoin wallet that received the ransom: <a href=\"https://www.blockchain.com/btc/address/bc1qq2euq8pw950klpjcawuy4uj39ym43hs6cfsegq\">https://www.blockchain.com/btc/address/bc1qq2euq8pw950klpjcawuy4uj39ym43hs6cfsegq</a></p>\n\n<p>FBI affidavit explaining the sequence of events: <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.cand.379840/gov.uscourts.cand.379840.1.0.pdf\">https://storage.courtlistener.com/recap/gov.uscourts.cand.379840/gov.uscourts.cand.379840.1.0.pdf</a></p>\n</div><!-- SC_ON -->",
+  "score": 326,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?auto=webp&s=efd3477fb822531b79e05ce7d00b4d15c18b2b16",
+          "width": 1972,
+          "height": 918
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?width=108&crop=smart&auto=webp&s=ae8319ed3142d369ba6a1bacbee19f2ec43577b9",
+            "width": 108,
+            "height": 50
+          },
+          {
+            "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?width=216&crop=smart&auto=webp&s=60cdcbbb6b28233d270550e07c2a21dbe7aec5b5",
+            "width": 216,
+            "height": 100
+          },
+          {
+            "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?width=320&crop=smart&auto=webp&s=ea44c5ec5c94a94d295bfcc292735fbe53087d0c",
+            "width": 320,
+            "height": 148
+          },
+          {
+            "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?width=640&crop=smart&auto=webp&s=1658c8b78f9424884ce491c9047c7870b65fcea4",
+            "width": 640,
+            "height": 297
+          },
+          {
+            "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?width=960&crop=smart&auto=webp&s=9ecd48f402b4b121a8f817399a69d577c1bbf5a0",
+            "width": 960,
+            "height": 446
+          },
+          {
+            "url": "https://external-preview.redd.it/QKAcbp9DiIPlhiTYzZ7ZX_ekM3lzaPmLbQenbfVFGf0.jpg?width=1080&crop=smart&auto=webp&s=7ffdb4e00f3a5d4ee18efcef97324b63b2f0ae00",
+            "width": 1080,
+            "height": 502
+          }
+        ],
+        "variants": {},
+        "id": "zzb_GNuhkD4QPlVfpLne_L9s80cAoPDiBhjOY0VGX4w"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/nvot7v/misleading_titles_why_fbi_acquired_darkside/",
+  "subreddit": "CryptoCurrency",
+  "id": "nvot7v",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1623404884257
+}

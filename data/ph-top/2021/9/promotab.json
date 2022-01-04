@@ -1,0 +1,75 @@
+{
+  "id": "313633",
+  "commentsCount": 11,
+  "createdAt": "2021-09-24T13:54:05.021Z",
+  "description": "This tiny tool uses a real Gmail account to check if your emails will land in the Primary inbox of a reader or if it's stuck in the promotions tab or SPAM folder.",
+  "featuredAt": "2021-09-24T08:12:23Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ede82660-763f-4149-a7a9-fe0520293ce4.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/46ce3df8-5a87-4386-931c-a0d943d5ddcb.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "PromoTab",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/6bac157a2cf177?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Jens Boje",
+    "url": "https://www.producthunt.com/@codeboje?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "promotab",
+  "tagline": "Check on which Gmail tab your email will land",
+  "url": "https://www.producthunt.com/posts/promotab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 139,
+  "website": "https://www.producthunt.com/r/6bac157a2cf177?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Email"
+        }
+      },
+      {
+        "node": {
+          "name": "Email Newsletters"
+        }
+      },
+      {
+        "node": {
+          "name": "Email Marketing"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-09-24T08:12:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この小さなツールは、実際のGmailアカウントを使って、あなたのメールが読者の一次受信箱に届くか、それともプロモーションタブやSPAMフォルダに詰まってしまうかをチェックします。",
+      "tagline": "Gmailのどのタブにメールが届くか確認する"
+    },
+    {
+      "locale": "zh",
+      "description": "这个小小的工具使用一个真实的Gmail账户来检查你的邮件是否会落入读者的初级收件箱，或者是否被卡在促销标签或SPAM文件夹中。",
+      "tagline": "检查你的电子邮件将落在哪个Gmail标签上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個小小的工具使用一個真實的Gmail賬戶來檢查你的郵件是否會落入讀者的初級收件箱，或者是否被卡在促銷標籤或SPAM文件夾中。",
+      "tagline": "檢查你的電子郵件將落在哪個Gmail標籤上"
+    }
+  ],
+  "source_updated_at": 1633081227516
+}

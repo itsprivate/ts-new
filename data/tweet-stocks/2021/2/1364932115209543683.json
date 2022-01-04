@@ -1,0 +1,81 @@
+{
+  "created_at": "Thu Feb 25 15:44:14 +0000 2021",
+  "id_str": "1364932115209543683",
+  "full_text": "GameStop is up 70% pre-market.  \n \n$GME https://t.co/z1hHy3DwEV",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "GME",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1364932113691271200,
+        "id_str": "1364932113691271168",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/media/EvE2hpMXYAAlSn4.png",
+        "media_url_https": "https://pbs.twimg.com/media/EvE2hpMXYAAlSn4.png",
+        "url": "https://t.co/z1hHy3DwEV",
+        "display_url": "pic.twitter.com/z1hHy3DwEV",
+        "expanded_url": "https://twitter.com/Stocktwits/status/1364932115209543683/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 680,
+            "h": 292,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 680,
+            "h": 292,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 292,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 48,
+  "favorite_count": 300,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Feb 25 13:35:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "GameStop盘前上涨70%。 \n \n$GME https://t.co/z1hHy3DwEV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "GameStop盤前上漲70%。 \n \n$GME https://t.co/z1hHy3DwEV"
+    }
+  ],
+  "source_updated_at": 1614937760914
+}

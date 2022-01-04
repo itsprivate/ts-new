@@ -1,0 +1,84 @@
+{
+  "created_at": "Fri Jan 22 9:18:31 +0000 2021",
+  "id_str": "1352544065649332231",
+  "full_text": "RT @adam3us: There was no #bitcoin double spend.\n\n Stop misreporting stuff, seriously.",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          26,
+          34
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "adam3us",
+        "name": "Adam Back",
+        "id": 213236426,
+        "id_str": "213236426",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 573,
+  "favorite_count": 0,
+  "original_created_at": "Fri Jan 22 09:10:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @adam3us: 没有#bitcoin%%的双重消费.\n\n 别再误报东西了，说真的。",
+      "retweeted_status_full_text": "没有#比特币%%的双重消费。\n\n 别再误报东西了，认真点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @adam3us: 沒有#bitcoin%%的雙重消費.\n\n 別再誤報東西了，說真的。",
+      "retweeted_status_full_text": "沒有#比特幣%%的雙重消費。\n\n 別再誤報東西了，認真點。"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Fri Jan 22 00:38:21 +0000 2021",
+    "id_str": "1352415268564250627",
+    "full_text": "There was no #bitcoin double spend.\n\n Stop misreporting stuff, seriously.",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            13,
+            21
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "user": {
+      "name": "Adam Back",
+      "screen_name": "adam3us",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/924365347217723392/GrGID0Uy_normal.jpg"
+    },
+    "retweet_count": 573,
+    "favorite_count": 3831
+  }
+}

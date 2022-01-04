@@ -1,0 +1,78 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1636907825,
+  "title": "Guys this is it: the crypto trading bot I built and shared with you a while back has finally made some profit",
+  "created_utc": 1636921838,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over 3 months of learning, testing and coding since I first started this project, and I am really excited to share this  latest update with you.</p>\n\n<p><strong>But first, just a bit of context on the project:</strong></p>\n\n<p>My inital idea was to create a crypto trading bot in Python, that constantly checks if a new listing is added on Binance, essentially by checking the total number of coins at any given time. I tried out different variations on this, end even increased the speed to buy within 0.1 seconds on a new coin being listed.</p>\n\n<p>The initial idea that I had, was to create a crypt trading bot in Python that looks at the Binance Announcement page, and places buy orders on new listings the moment they become available. The reason behind that is that a lot of new listings spike up a lot in the initial moments of the listing. </p>\n\n<p>I later realised that this spike originates outside of the Binance exchange, not at the time that Binance lists the coin, but rather, the moment they announce that they will list the coin.</p>\n\n<p>Here&#39;s an example of it:</p>\n\n<p><a href=\"https://preview.redd.it/9ik2kayg8lz71.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f6b493dbbd78abd278d78f759fdd18d9e06303cf\">CHESS</a></p>\n\n<p><a href=\"https://preview.redd.it/crcghe2i8lz71.png?width=608&amp;format=png&amp;auto=webp&amp;s=f247188850af13d5ae6373fa622e4ec9d1236077\">https://preview.redd.it/crcghe2i8lz71.png?width=608&amp;format=png&amp;auto=webp&amp;s=f247188850af13d5ae6373fa622e4ec9d1236077</a></p>\n\n<p>Right so with the strategy all nailed down, it took about another month of testing and optimisation before the bot would do anything interesting. But here we are, 3 months later with a functional trading bot that seems to be making decent gains on new listings (though it can be improved).</p>\n\n<p>&#x200B;</p>\n\n<p><strong>The results (so far):</strong></p>\n\n<p>So bear in mind that this only includes the latest iteration of the bot, before this update the bot was not profitable.</p>\n\n<p><a href=\"https://preview.redd.it/41zi3c3u8lz71.png?width=1312&amp;format=png&amp;auto=webp&amp;s=a74750722a8d210eb124159cd1fb879fc329f39a\">10&#37; on MOVR listing</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/t07pst819lz71.png?width=1578&amp;format=png&amp;auto=webp&amp;s=0d5ec2f8188c2a5ef8bbeb4de21175df7bd26fa2\">25&#37; on ENS listing</a></p>\n\n<p>It&#39;s still super early to tell whether the bot will be consistently profitable, but it&#39;s looking rather promising so far. The tool comes with a test mode so you can test it out without throwing real money at it.</p>\n\n<p>I would also like to thank everyone who has contributed to the codebase on GitHub, these profits would have not been possible without  your amazing contributions.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>If you want to find out more about how it all works, and how the tool became profitable:</strong> <a href=\"https://youtu.be/4gul6AqAoEo\">https://youtu.be/4gul6AqAoEo</a></p>\n\n<p>I also made a guide, so you can use this if you want to install and run this bot yourself. It comes with a test mode, so you don&#39;t have to throw real money at it:</p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/\">https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/</a></p>\n\n<p>Edit: \nSource code available here <a href=\"https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins\">https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins</a></p>\n</div><!-- SC_ON -->",
+  "score": 190,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?auto=webp&s=d86c1d6b3f0fba2c2a0d7cb5f29358ec9ebaf8cf",
+          "width": 1920,
+          "height": 1080
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?width=108&crop=smart&auto=webp&s=75ccbdae9032011a89ed0f15bbf0cefb3bcb71d8",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?width=216&crop=smart&auto=webp&s=b0a72c46169f9c180e71bc8d5da9aa6f35e2c7c3",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?width=320&crop=smart&auto=webp&s=4d8e508ebf3b5f065c971af68d749695cb9e691d",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?width=640&crop=smart&auto=webp&s=10cfdbdd948b98a2085f4ad7105042d053f1443e",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?width=960&crop=smart&auto=webp&s=0b7795b3695be9a040015c12e116a15c809435cf",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/i1JMGerZ69Oq44BdiTuK_jbCXBhAw0my7HvSeg2gzjI.png?width=1080&crop=smart&auto=webp&s=c033dfd46f5b4eb7a21b6371b4e7d99a21fa771a",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "xcZROz-4zidQk3ENhZsFLVrqtfgbX9enn4-Ik0nBMkc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/qttknh/guys_this_is_it_the_crypto_trading_bot_i_built/",
+  "subreddit": "CryptoCurrency",
+  "id": "qttknh",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "It's been over 3 months of learning, testing and coding since I first started\nthis project, and I am really excited to share this latest update with you.\n\nBut first, just a bit of context on the project:\n\nMy inital idea was to create a crypto trading bot in Python, that constantly\nchecks if a new…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このプロジェクトを始めてから、学習、テスト、コーディングに3ヶ月以上を費やしました。\nこのプロジェクトを始めてから3ヶ月以上が経ち、この最新情報を皆さんと共有できることをとても嬉しく思っています。\n\nその前に、このプロジェクトの背景を少しご紹介します。\n\n私の最初のアイデアは、Pythonで暗号化された取引ボットを作成することでした。\n新しい...",
+      "title": "みんな、これだよ：ちょっと前に作ってみんなに紹介したcrypto trading botがついに利益を出したんだ。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "自从我第一次开始这个项目以来，已经有3个多月的学习、测试和编码过程。\n这个项目，我真的很高兴与你分享这个最新的更新。\n\n但首先，要介绍一下这个项目的背景。\n\n我最初的想法是在Python中创建一个加密货币交易机器人，它不断地\n检查是否有一个新的...",
+      "title": "伙计们，这就是：我前段时间建立并与你们分享的加密货币交易机器人终于获得了一些利润。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "自從我第一次開始這個項目以來，已經有3個多月的學習、測試和編碼過程。\n這個項目，我真的很高興與你分享這個最新的更新。\n\n但首先，要介紹一下這個項目的背景。\n\n我最初的想法是在Python中創建一個加密貨幣交易機器人，它不斷地\n檢查是否有一個新的...",
+      "title": "夥計們，這就是：我前段時間建立並與你們分享的加密貨幣交易機器人終於獲得了一些利潤。"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "author": "SnooShortcuts7859",
+  "original_created_utc": 1631994263,
+  "title": "Why 21 Million Bitcoin?",
+  "created_utc": 1632047514,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Why exactly 21 million? Why not 20, 25 or even 100 million? How does this number come about?</p>\n\n<p>Well, this is a question that divides opinions, because Satoshi Nakamoto himself has never given a clear answer to this question. Some people think that the amount of Bitcoin was chosen so that if the entire world&#39;s money supply was represented in Bitcoin, 1 cent would be about 1 Satoshi. However, most people simply believe in some arbitrariness that comes with the fact that Satoshi wanted to set the average block time at 10 minutes and the so-called block subsidy was supposed to halve every 4 years or so.</p>\n\n<p>Coupled with an (equally arbitrarily set?) initial reward of 50 BTC per new block, you just end up with the 21 million BTC as the limit.</p>\n\n<p>Let&#39;s do some math 🙂</p>\n\n<p>6 blocks per hour x 24 hours per day x 365 days x 4 years = 210,240 blocks per cycle.</p>\n\n<p>However, since Nakamoto didn&#39;t want to choose such a &quot;crooked&quot; number for the cycle he rounded down to 210,000 blocks (that&#39;s the theory).</p>\n\n<p>The sum of all block subsidies adds up to infinity: 50 + 25 +12.5 + 6.25 +3.125 + .... = 100.</p>\n\n<p>So, in theory, we actually arrive at :</p>\n\n<p>210,000 blocks x 100 BTC = 21,000,000 BTC.</p>\n\n<p>However, there is one problem. And that is the Bitcoin protocol itself. In it, only eight decimal places are defined for Bitcoin.If halving the block subsidy results in the new subsidy having more than these eight decimal places, then, according to the Bitcoin source code, everything from the ninth place is simply truncated.</p>\n\n<p>If you calculate it to the end Bitcoin already reaches its maximum limit at 20,999,999.97690000 BTC. So there will never be 21 million Bitcoin. But it will be close</p>\n</div><!-- SC_ON -->",
+  "score": 152,
+  "permalink": "/r/CryptoCurrency/comments/pqt35f/why_21_million_bitcoin/",
+  "subreddit": "CryptoCurrency",
+  "id": "pqt35f",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Why exactly 21 million? Why not 20, 25 or even 100 million? How does this number\ncome about?\n\nWell, this is a question that divides opinions, because Satoshi Nakamoto himself\nhas never given a clear answer to this question. Some people think that the\namount of Bitcoin was chosen so that if the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜ2100万円なのか？なぜ2,000万でも2,500万でも、あるいは1億でもないのか？この数字はどうやって\nこの数字の由来は？\n\nこの質問は意見が分かれるところですが、それはサトシ・ナカモト自身がこの質問に明確な答えを出していないからです。\nサトシ・ナカモト自身がこの質問に明確な答えを出していないからです。と考える人もいます。\nビットコインの量が選ばれたのは、もし...",
+      "title": "なぜ2100万ビットコインなのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么正好是2100万？为什么不是2000万、2500万，甚至1亿？这个数字是如何\n来的？\n\n嗯，这是一个众说纷纭的问题，因为中本聪本人\n从来没有对这个问题给出过明确的答案。有些人认为，这个\n比特币的数量是这样选择的，如果...",
+      "title": "为什么是2100万比特币？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼正好是2100萬？爲什麼不是2000萬、2500萬，甚至1億？這個數字是如何\n來的？\n\n嗯，這是一個衆說紛紜的問題，因爲中本聰本人\n從來沒有對這個問題給出過明確的答案。有些人認爲，這個\n比特幣的數量是這樣選擇的，如果...",
+      "title": "爲什麼是2100萬比特幣？"
+    }
+  ]
+}

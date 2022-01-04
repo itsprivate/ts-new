@@ -1,0 +1,110 @@
+{
+  "created_at": "Wed Mar 10 15:43:46 +0000 2021",
+  "id_str": "1369640655664857099",
+  "full_text": "RT @BigTechAlert: 👥 @jack (CEO of Twitter and Square) is now following @100trillionUSD",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BigTechAlert",
+        "name": "Big Tech Alert",
+        "id": 1042038539800731600,
+        "id_str": "1042038539800731650",
+        "indices": [
+          3,
+          16
+        ]
+      },
+      {
+        "screen_name": "jack",
+        "name": "jack",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          20,
+          25
+        ]
+      },
+      {
+        "screen_name": "100trillionUSD",
+        "name": "PlanB",
+        "id": 918804624303382500,
+        "id_str": "918804624303382528",
+        "indices": [
+          71,
+          86
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
+  },
+  "retweet_count": 279,
+  "favorite_count": 0,
+  "original_created_at": "Wed Mar 10 13:25:53 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @BigTechAlert: 👥 @jack(Twitter和Square的CEO)现在正在关注@100trillionUSD。",
+      "retweeted_status_full_text": "👥 @jack（Twitter和Square的CEO）现在关注了@100trillionUSD。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BigTechAlert: 👥 @jack(Twitter和Square的CEO)現在正在關注@100trillionUSD。",
+      "retweeted_status_full_text": "👥 @jack（Twitter和Square的CEO）現在關注了@100trillionUSD。"
+    }
+  ],
+  "source_updated_at": 1615542591738,
+  "retweeted_status": {
+    "created_at": "Wed Mar 10 13:24:02 +0000 2021",
+    "id_str": "1369640190042595334",
+    "full_text": "👥 @jack (CEO of Twitter and Square) is now following @100trillionUSD",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jack",
+          "name": "jack",
+          "id": 12,
+          "id_str": "12",
+          "indices": [
+            2,
+            7
+          ]
+        },
+        {
+          "screen_name": "100trillionUSD",
+          "name": "PlanB",
+          "id": 918804624303382500,
+          "id_str": "918804624303382528",
+          "indices": [
+            53,
+            68
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "user": {
+      "name": "Big Tech Alert",
+      "screen_name": "BigTechAlert",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042038715764355072/OrNa6QBv_normal.jpg"
+    },
+    "retweet_count": 171,
+    "favorite_count": 2422
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "author": "MillennialBets",
+  "the_new_excerpt": "Basically, I became fed up with using Reddit's native search function to\nresearch on what people were saying on different stocks. If you've tried it,\nyou'll know what I mean. It's enough to make anyones eyes bleed searching for\nthe info they want.\n\nHow did I do it? Reddit does not have a limit on…",
+  "original_created_utc": 1623717196,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "基本的に、私はRedditのネイティブな検索機能を使って、様々な銘柄について人々が何を言っているかを調べることにうんざりしていました。\n人々が様々な銘柄について何を言っているのかを調査することにうんざりしていました。それを試したことがある人は\n使ったことがある人は、私の言っていることがわかると思います。欲しい情報を探すのに誰もが目を血走らせるほどです。\n欲しい情報を探すのに目が痛くなるほどです。\n\nどうやってやったか？Redditには制限がありません...",
+      "title": "Redditのネイティブ検索機能は株には向いていないので、Reddit内にTicker検索機能を作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "基本上，我已经厌倦了使用Reddit的本地搜索功能来研究人们对不同股票的看法。\n研究人们对不同股票的看法。如果你试过的话。\n你会明白我的意思。这足以让任何人在搜索时眼睛流血。\n他们想要的信息。\n\n我是怎么做到的？Reddit并没有限制...",
+      "title": "我在Reddit内创建了一个股票搜索功能，因为他们的原生搜索功能对股票来说很糟糕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "基本上，我已經厭倦了使用Reddit的本地搜索功能來研究人們對不同股票的看法。\n研究人們對不同股票的看法。如果你試過的話。\n你會明白我的意思。這足以讓任何人在搜索時眼睛流血。\n他們想要的信息。\n\n我是怎麼做到的？Reddit並沒有限制...",
+      "title": "我在Reddit內創建了一個股票搜索功能，因爲他們的原生搜索功能對股票來說很糟糕。"
+    }
+  ],
+  "title": "I created a Ticker Search Function within Reddit because their native search function sucks for stocks",
+  "created_utc": 1623726021,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Basically, I became fed up with using Reddit&#39;s native search function to research on what people were saying on different stocks. If you&#39;ve tried it, you&#39;ll know what I mean. It&#39;s enough to make anyones eyes bleed searching for the info they want.</p>\n\n<p>How did I do it? Reddit does not have a limit on the number of wiki pages you can create for a subreddit. So I created a database that catalogs all posts mentioning a ticker in the post title or body from the major investing subreddits. I then mirrored the database on the subreddit wiki.</p>\n\n<p>Each post is sorted by DD/Discussion/News/Misc. with the price of the stock near the time of the post.</p>\n\n<p>Here&#39;s an example of CRSR - <a href=\"https://www.reddit.com/r/MillennialBets/wiki/index/stocks/crsr\">https://www.reddit.com/r/MillennialBets/wiki/index/stocks/crsr</a></p>\n\n<p>An example of WISH - \n<a href=\"https://www.reddit.com/r/MillennialBets/wiki/index/stocks/wish\">https://www.reddit.com/r/MillennialBets/wiki/index/stocks/wish</a></p>\n\n<p>All you need to do is change the ticker at the end of the link and it will bring you to the page.</p>\n\n<p>The index page also sorts the stocks by alphabetical order as well as a ranker to see what&#39;s trending.</p>\n\n<p><a href=\"https://www.reddit.com/r/MillennialBets/wiki/index\">https://www.reddit.com/r/MillennialBets/wiki/index</a></p>\n\n<p>I personally use it all the time to see what&#39;s trending on the investing subreddits.\nLet me know if you have any suggestions or improvements!</p>\n</div><!-- SC_ON -->",
+  "score": 601,
+  "permalink": "/r/investing/comments/o01ano/i_created_a_ticker_search_function_within_reddit/",
+  "subreddit": "investing",
+  "id": "o01ano",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1624009742347
+}

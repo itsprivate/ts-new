@@ -1,0 +1,79 @@
+{
+  "author": "sheer1706",
+  "the_new_excerpt": "My Deep Dive Into Creating a Shitcoin\n\nTwo weeks ago I was dabbling around with Solidity, learning about ERC20 token\nstandards and smart contract programming. Then I decided to create my own\nshitcoin. What started off as fun way to get some hands on practice quickly\nbecame bigger than I expected.…",
+  "original_created_utc": 1621180533,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "クソコインを作るための私のディープダイブ\n\n2週間前、私はSolidityに手を出し、ERC20トークンの規格やスマート\n規格やスマートコントラクトのプログラミングについて学んでいました。そして、私は自分の\nshitcoinを作ることにしました。最初は楽しく実践するためのものでしたが、予想以上に大きなものになりました。\n思っていたよりも大きなものになりました....",
+      "title": "クソコインを作るための私の深層心理"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我对创建屎币的深入研究\n\n两周前，我正在接触Solidity，学习ERC20代币标准和智能合约编程。\n标准和智能合约编程。然后我决定创建我自己的\n屎币。一开始只是为了获得一些有趣的实践方法，但很快\n变得比我预期的要大....",
+      "title": "我对创建屎币的深入研究"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我對創建屎幣的深入研究\n\n兩週前，我正在接觸Solidity，學習ERC20代幣標準和智能合約編程。\n標準和智能合約編程。然後我決定創建我自己的\n屎幣。一開始只是爲了獲得一些有趣的實踐方法，但很快\n變得比我預期的要大....",
+      "title": "我對創建屎幣的深入研究"
+    }
+  ],
+  "title": "My Deep Dive Into Creating a Shitcoin",
+  "created_utc": 1621191433,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>My Deep Dive Into Creating a Shitcoin</strong></p>\n\n<p>Two weeks ago I was dabbling around with Solidity, learning about ERC20 token standards and smart contract programming. Then I decided to create my own shitcoin. What started off as fun way to get some hands on practice quickly became bigger than I expected. Let me take you on a journey.</p>\n\n<p><strong>Chapter 1 – Concept Stage</strong></p>\n\n<p>There are a few things to decide on from the get go. First I needed a name. Everything ‘Safe’ is pretty hyped at the moment. And this is crypto. Which in fact could be considered money. So what about… let’s say… ‘Safe Crypto And Money’. That’s a good one, and it has a fitting acronym: SCAM… I like it. Done! </p>\n\n<p>Now supply. In actuality supply is pretty arbitrary in a world where cryptos are divisible into the 18th decimal. But hey, psychology plays a role in this game as well. High supply cryptos tend to pump, because the price per unit is so small. And low supply cryptos tend to pump because of the scarcity narrative. Anyway, I couldn’t bother too much and settled for 100 million. Which is probably low on the shitcoin scale.</p>\n\n<p>Next ‘team tokens’, aka what I keep for me and my friends. I was determined to distribute large amounts of my token on Reddit (more about that further down), but every good shitcoin needs a solid team allocation. So I distributed 20% to friends and family. Because hey, that’s the spirit.</p>\n\n<p>A few things on token mechanics: I didn’t want any mint or freeze functions, and I wanted to keep the token pretty light-weight in general. So I went for a bare-bone implementation of ERC20 with little to no extras.</p>\n\n<p>A final item needed to be addressed in the concept stage: which network to deploy the token in. Obviously ERC20 is an Ethereum token standard. But this was just a fun project, and I didn’t wanna get poor on gas costs just deploying the token. So I went for Binance Smart Chain. That’s where all the shitcoin hype is taking place anyway at the moment. BSC is basically an Ethereum clone, with BEP20 being the equivalent of ERC20 on BSC. Pretty much anything that works on Ethereum works on BSC as well, so going for BSC didn’t require any extra work.</p>\n\n<p><strong>Chapter 2 – Writing and Deploying</strong></p>\n\n<p>I’m a software developer. So I do have programming experience. But I never worked with Solidity before. However, ERC20 tokens are pretty basic stuff in the world of smart contracts, and there are tons of examples and tutorials online. I was heavily influenced by this one:</p>\n\n<p><a href=\"https://www.toptal.com/ethereum/create-erc20-token-tutorial\">https://www.toptal.com/ethereum/create-erc20-token-tutorial</a></p>\n\n<p>I probably ignored about a dozen or so best practices when it comes to Solidity programming. But the whole thing is so basic, I’m pretty certain I didn’t include any huge smart contract vulnerabilities.</p>\n\n<p>When it comes to writing the source code and actually deploying the smart contract on the blockchain, a very common and handy tool is Remix:</p>\n\n<p><a href=\"http://remix.ethereum.org\">http://remix.ethereum.org</a></p>\n\n<p>It has a somewhat decent development environment, and you can connect it to your Metamask. Little side note: With BSC being an ETH clone, you can set your Metamask up to work on BSC as well. Here’s a guide on how to do that:</p>\n\n<p><a href=\"https://medium.com/stakingbits/setting-up-metamask-for-binance-smart-chain-bsc-921d9a2625fd\">https://medium.com/stakingbits/setting-up-metamask-for-binance-smart-chain-bsc-921d9a2625fd</a></p>\n\n<p>So with all that being set up, I was ready to bring my token to life. I clicked ‘Deploy’, waited for the transaction to go through… And BOOM! There it was. My own token. Sitting there on the blockchain…. Doing nothing. </p>\n\n<p>Next I went to bscscan.com (like etherescan, but for BSC… DUH!) and actually verified my smart contract. You do that by submitting your source code. Without verification smart contract are pretty much just a black box, even though they are one the blockchain. It is hard to tell what they actually do in detail. Submitting your source code is a crucial part to giving your project legitimacy. And it’s a crucial part of giving the community a chance to check your code for vulnerabilities.</p>\n\n<p>So with no further ado… I give to you… my token:</p>\n\n<p><a href=\"https://bscscan.com/address/0xdb78fcbb4f1693fdbf7a85e970946e4ce466e2a9#code\">https://bscscan.com/address/0xdb78fcbb4f1693fdbf7a85e970946e4ce466e2a9#code</a> </p>\n\n<p><strong>Chapter 3 – Distribution</strong></p>\n\n<p>A token just being a token, doing nothing, pretty quickly loses it’s appeal. With 20% of supply allocated to me and my friends we did few test transactions, sent tokens back and forth, and that was about it.</p>\n\n<p>I wanted to get people involved. There was no point in selling the token. So I decided to do a little post about how I created my own BEP20 token for fun and how I would airdrop 25% of total supply to the first 25 people to send me a PM. I submitted the post to <a href=\"https://www.reddit.com/r/binance\">r/binance</a> and <a href=\"https://www.reddit.com/r/bnbtrader\">r/bnbtrader</a> and was wondering if at least one or two people would actually be interested. </p>\n\n<p>What I didn’t expect were the 100 or so messages I received with people either asking for an airdrop or just generally being positive about the project. It was honestly so much fun. There was so much positivity about the whole thing, it totally made my day.</p>\n\n<p>At the end of the day my token had around 30 holders in total and suddenly it felt slightly less like a dead token sitting on the blockchain.</p>\n\n<p><strong>Chapter 4 – Making it Tradable</strong></p>\n\n<p>I think every solid token needs to be tradable. Of course centralized exchanges are completely out of the realm of possibilities. But we live in an era of DeFi. And everybody can list any token on decentralized exchanges (DEX), as long as they provide liquidity.</p>\n\n<p>On BSC the by far most popular DEX is Pancakeswap. If you use their website you can select a defined set of currencies from a drop down menu. But you can also just enter the contract address of any token out there on BSC and trade it, if there is liquidity.</p>\n\n<p>I went ahead and actually created a liquidity pool for my token. Which now meant there was a marketplace for it on the most popular DEX on BSC. A place to trade my token.</p>\n\n<p>And the funny thing is, bots picked it up right away and actually started trading it a bit back and forth for a few hours before they lost interest and went on to the next shiny thing.</p>\n\n<p>With my token at that point having about 50 or so holders and actually being traded, what started off as some programming practice, suddenly felt strangely real and legit.</p>\n\n<p><strong>Chapter 5 – Creating a Community</strong></p>\n\n<p>Right from the start, when I announced my first airdrop, people were asking me for a place to talk about the token. I thought that’s a fun idea, but didn’t really follow up on it. But after a few days of wondering if all of this is already going way too far, I decided to just go ahead and create a subreddit dedicated to my token. I invited everybody who wrote me a message about the airdrop and in no time the sub had more than 250 members, meme competitions, and active discussions. Of course 250 is no crazy number, but it still felt surreal to me.</p>\n\n<p>At this point I would like to invite you to take a look around <a href=\"https://www.reddit.com/r/scam_coin/\">https://np.reddit.com/r/scam_coin/</a> and check it out for yourself. I think it’s a fun place and a great little community.</p>\n\n<p><strong>Epilogue</strong></p>\n\n<p>In the end I’m blown away by how far this little fun project has already gone. It’s no Dogecoin, and not even Dogecoins little talked about brother. But SCAM coin is out there and people talk about it, which is already more than I would have ever expected. Right now there are about a 100 holders, the token is actively traded on Pancakeswap, and the community is very active. Who would have thought where this would be going. And who knows where it is still heading.</p>\n\n<p>Anyway, thanks for reading everybody. I hope you liked my little story. Enjoy your day! :)</p>\n</div><!-- SC_ON -->",
+  "score": 731,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?auto=webp&s=28fed4def2d2f15419ac68211ab9cc061a574576",
+          "width": 1720,
+          "height": 900
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?width=108&crop=smart&auto=webp&s=cc795bb59ec7017bf012494e4039ee61cdcf50c9",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?width=216&crop=smart&auto=webp&s=839ead0a5b2a2f503fa19dbd1c6036d6ff89933b",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?width=320&crop=smart&auto=webp&s=58eccc3537c83069b35532f6d1977482ebdf5ffb",
+            "width": 320,
+            "height": 167
+          },
+          {
+            "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?width=640&crop=smart&auto=webp&s=a882d850f406d9a8fc9152a7f944595ad668af31",
+            "width": 640,
+            "height": 334
+          },
+          {
+            "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?width=960&crop=smart&auto=webp&s=b8d5dfbd8f7027cdb6d6c3855b9c4a729cd1187c",
+            "width": 960,
+            "height": 502
+          },
+          {
+            "url": "https://external-preview.redd.it/QolzWMy8XZv0CLynAsSmsWcAX2_Z7ZuQBJ7wJcteipM.jpg?width=1080&crop=smart&auto=webp&s=f641093ee927908fe5714ed927e21906a86bd562",
+            "width": 1080,
+            "height": 565
+          }
+        ],
+        "variants": {},
+        "id": "bkYCqo-bdGTlchLDJNDJ_PLC164zC5_lExh-x23ITkM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ndragm/my_deep_dive_into_creating_a_shitcoin/",
+  "subreddit": "CryptoCurrency",
+  "id": "ndragm",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1621590799664
+}

@@ -1,0 +1,130 @@
+{
+  "created_at": "Fri May 07 13:38:26 +0000 2021",
+  "id_str": "1390656963130834944",
+  "full_text": "RT @_rospearce: The eastern sides of English cities tend to be poorer. This pattern can be traced back to the Industrial Revolution, when w…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_rospearce",
+        "name": "Rosamund Pearce",
+        "id": 2149815847,
+        "id_str": "2149815847",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 165,
+  "favorite_count": 0,
+  "original_created_at": "Fri May 07 13:17:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rospearce: イギリスの都市の東側は貧しい傾向にあります。このパターンは、産業革命の頃にさかのぼることができます。",
+      "retweeted_status_full_text": "イギリスの都市では、東側の方が貧しい傾向にあります。このパターンは、産業革命時に公害を東に吹き飛ばす風が吹いて、金持ちが西に逃げたことにさかのぼることができます。\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 英国城市的东边往往更穷。这种模式可以追溯到工业革命时期，当时英国人的生活水平很高。",
+      "retweeted_status_full_text": "英国城市的东边往往更穷。这种模式可以追溯到工业革命时期，当时风把污染往东吹，导致富人往西逃。\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 英國城市的東邊往往更窮。這種模式可以追溯到工業革命時期，當時英國人的生活水平很高。",
+      "retweeted_status_full_text": "英國城市的東邊往往更窮。這種模式可以追溯到工業革命時期，當時風把污染往東吹，導致富人往西逃。\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Thu May 06 14:26:23 +0000 2021",
+    "id_str": "1390311989319245824",
+    "full_text": "The eastern sides of English cities tend to be poorer. This pattern can be traced back to the Industrial Revolution, when winds blew pollution east, causing the rich to flee west.\n\n#dataviz https://t.co/8f5bLKzUoo https://t.co/Bgm11JK2eO",
+    "display_text_range": [
+      0,
+      213
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dataviz",
+          "indices": [
+            181,
+            189
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8f5bLKzUoo",
+          "expanded_url": "https://www.economist.com/graphic-detail/2021/05/08/the-legacy-of-victorian-era-pollution-still-shapes-english-cities",
+          "display_url": "economist.com/graphic-detail…",
+          "indices": [
+            190,
+            213
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1390304343924957200,
+          "id_str": "1390304343924957186",
+          "indices": [
+            214,
+            237
+          ],
+          "media_url": "http://pbs.twimg.com/media/E0tab0VUYAIFSqK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E0tab0VUYAIFSqK.jpg",
+          "url": "https://t.co/Bgm11JK2eO",
+          "display_url": "pic.twitter.com/Bgm11JK2eO",
+          "expanded_url": "https://twitter.com/_rospearce/status/1390311989319245824/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 318,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1848,
+              "h": 864,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 561,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Rosamund Pearce",
+      "screen_name": "_rospearce",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347589618305273856/RYXUODw2_normal.jpg"
+    },
+    "retweet_count": 165,
+    "favorite_count": 559,
+    "possibly_sensitive": false
+  }
+}

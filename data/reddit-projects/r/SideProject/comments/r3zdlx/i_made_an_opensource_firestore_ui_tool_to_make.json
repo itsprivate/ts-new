@@ -1,0 +1,154 @@
+{
+  "author": "cuthanh",
+  "original_created_utc": 1638087004,
+  "title": "I made an Open-source FireStore UI tool to make development with Firestore less pain!",
+  "created_utc": 1638095121,
+  "selftext_html": null,
+  "score": 8,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://preview.redd.it/jl0w2875oa281.gif?format=png8&s=2f7d9cb1368afed394e28e36b9f80af286de77af",
+          "width": 1280,
+          "height": 666
+        },
+        "resolutions": [
+          {
+            "url": "https://preview.redd.it/jl0w2875oa281.gif?width=108&crop=smart&format=png8&s=86083c494c58a55a829b564ba4279c8d612aee07",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://preview.redd.it/jl0w2875oa281.gif?width=216&crop=smart&format=png8&s=73724d82be8b99423d106ed2dd446b96d66aed20",
+            "width": 216,
+            "height": 112
+          },
+          {
+            "url": "https://preview.redd.it/jl0w2875oa281.gif?width=320&crop=smart&format=png8&s=f4ec1ca6923951835ce669516bd728881439d8b3",
+            "width": 320,
+            "height": 166
+          },
+          {
+            "url": "https://preview.redd.it/jl0w2875oa281.gif?width=640&crop=smart&format=png8&s=0c74a82abc720b5c5fb1077db952b597740f873e",
+            "width": 640,
+            "height": 333
+          },
+          {
+            "url": "https://preview.redd.it/jl0w2875oa281.gif?width=960&crop=smart&format=png8&s=8aa2009fd24a7b8b8f1e7b8d47a2df2f7bb4511e",
+            "width": 960,
+            "height": 499
+          },
+          {
+            "url": "https://preview.redd.it/jl0w2875oa281.gif?width=1080&crop=smart&format=png8&s=fb7278a2cfc29b5e9896d4878949816723dee68c",
+            "width": 1080,
+            "height": 561
+          }
+        ],
+        "variants": {
+          "gif": {
+            "source": {
+              "url": "https://preview.redd.it/jl0w2875oa281.gif?s=86900220a5209abd04634da4bb7a81c91917947a",
+              "width": 1280,
+              "height": 666
+            },
+            "resolutions": [
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=108&crop=smart&s=1e46ea8d48b06e073278f6b8483e9c93ee400c1f",
+                "width": 108,
+                "height": 56
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=216&crop=smart&s=dd82b29593802b7607e4725204b91d16ed38799e",
+                "width": 216,
+                "height": 112
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=320&crop=smart&s=a97ec0533fa3f1c2d2a232722912145665b45cc3",
+                "width": 320,
+                "height": 166
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=640&crop=smart&s=a1d9eeaed3526c17110fa14b5ab36f05a86b74ff",
+                "width": 640,
+                "height": 333
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=960&crop=smart&s=ad97d9af3361d1d310880b18efd818aa23aa2669",
+                "width": 960,
+                "height": 499
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=1080&crop=smart&s=e6985c046e45b7192c988cd412d92ab711a606b1",
+                "width": 1080,
+                "height": 561
+              }
+            ]
+          },
+          "mp4": {
+            "source": {
+              "url": "https://preview.redd.it/jl0w2875oa281.gif?format=mp4&s=8d3a5128ac39ec05ea8997238485694eaa5f9566",
+              "width": 1280,
+              "height": 666
+            },
+            "resolutions": [
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=108&format=mp4&s=a5c7d13269e4d29f61cecc8b6cfe1d759175a2bb",
+                "width": 108,
+                "height": 56
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=216&format=mp4&s=c97d11243b784eff8fe6fcb2dd926720a17675d4",
+                "width": 216,
+                "height": 112
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=320&format=mp4&s=6b98f01a35149249db46cf56009ec6b529c9cc7c",
+                "width": 320,
+                "height": 166
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=640&format=mp4&s=6aab22ddffbfc62b78f5956c411860cdb737e30e",
+                "width": 640,
+                "height": 333
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=960&format=mp4&s=a915a1613653a282feac095dd52bb733ea8c1a5d",
+                "width": 960,
+                "height": 499
+              },
+              {
+                "url": "https://preview.redd.it/jl0w2875oa281.gif?width=1080&format=mp4&s=cbe20295f2375838ec70fff4d31ebbc5fe13375d",
+                "width": 1080,
+                "height": 561
+              }
+            ]
+          }
+        },
+        "id": "oYgxjba7zqocOdPvRezXG7P65EONu_cTMWNdVfsIUZ4"
+      }
+    ],
+    "enabled": true
+  },
+  "permalink": "/r/SideProject/comments/r3zdlx/i_made_an_opensource_firestore_ui_tool_to_make/",
+  "subreddit": "SideProject",
+  "id": "r3zdlx",
+  "is_self": false,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オープンソースのFireStore UIツールを作って、Firestoreでの開発を楽にしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个开源的FireStore UI工具，使Firestore的开发不再那么痛苦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個開源的FireStore UI工具，使Firestore的開發不再那麼痛苦"
+    }
+  ]
+}

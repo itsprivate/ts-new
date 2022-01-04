@@ -1,0 +1,32 @@
+{
+  "author": "jcoinner",
+  "original_created_utc": 1636866191,
+  "title": "TAPROOT ACTIVE!",
+  "created_utc": 1636900246,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Block 709631 indicates &quot;active&quot;. I thought it was 709632 but I guess it&#39;s counted from zero? Caught me by surprise but getblockchaininfo says &quot;active&quot;... &quot;true&quot;.</p>\n\n<p>SO.... YAY!</p>\n\n<pre><code>btc getblockchaininfo | jq &quot;.blocks, .softforks .taproot .active&quot;\n709631\ntrue\n</code></pre>\n</div><!-- SC_ON -->",
+  "score": 161,
+  "permalink": "/r/Bitcoin/comments/qtijiv/taproot_active/",
+  "subreddit": "Bitcoin",
+  "id": "qtijiv",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Block 709631 indicates \"active\". I thought it was 709632 but I guess it's\ncounted from zero? Caught me by surprise but getblockchaininfo says \"active\"...\n\"true\".\n\nSO.... YAY!\n\nbtc getblockchaininfo | jq \".blocks, .softforks .taproot .active\"\n709631\ntrue\n",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ブロック709631は「アクティブ」と表示されています。709632だと思っていましたが、0からカウントされるのでしょうか？\nゼロからカウントされているのかな？意外だったのですが、getblockchaininfoでは \"active \"となっていますね。\n\"true \"と表示されています。\n\nSO.... イェーイ!\n\nbtc getblockchaininfo | jq \".blocks, .softforks .taproot .active\".\n709631\nトゥルー\n",
+      "title": "taproot active!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "709631区块表示 \"活动\"。我以为是709632，但我想它是\n从零开始计算的？让我大吃一惊的是，getblockchaininfo显示 \"激活\"...\n\"真\"。\n\nSO.... YAY!\n\nbtc getblockchaininfo | jq \".block, .softforks .taproot .active\"\n709631\n真\n",
+      "title": "自来水公司的活动!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "709631區塊表示 \"活動\"。我以爲是709632，但我想它是\n從零開始計算的？讓我大喫一驚的是，getblockchaininfo顯示 \"激活\"...\n\"真\"。\n\nSO.... YAY!\n\nbtc getblockchaininfo | jq \".block, .softforks .taproot .active\"\n709631\n真\n",
+      "title": "自來水公司的活動!"
+    }
+  ]
+}

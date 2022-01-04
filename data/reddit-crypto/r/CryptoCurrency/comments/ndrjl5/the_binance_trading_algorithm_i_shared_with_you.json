@@ -1,0 +1,79 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "I'm really happy that so many of you decided to contribute to the code, and make\nthis a better trading tool. The project is open source of course, and anyone can\nrun the bot on their machine :)\n\nThe bot was built to look at all the coins on Binance and pick the most volatile\nones in a given…",
+  "original_created_utc": 1621181262,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの方がコードに貢献してくださり、より良いトレーディングツールにしてくださったことをとても嬉しく思います。\nより良いトレーディングツールにしていきたいと思っています。このプロジェクトはもちろんオープンソースで、誰でも自分のマシンで\nボットを自分のマシンで動かすことができます :)\n\nボットはBinance上のすべてのコインを見て、与えられた時間内で最もボラティリティの高いものを選ぶように作られています。\n選んでくれます。",
+      "title": "先週ご紹介したbinanceの取引アルゴリズムは、現在200人以上のアクティブな開発者のコミュニティによって、大幅な改良が加えられています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我真的很高兴你们中的许多人决定为代码做出贡献，并使之成为一个更好的交易工具。\n这是一个更好的交易工具。这个项目当然是开放源代码的，任何人都可以\n在他们的机器上运行这个机器人 :)\n\n该机器人的建立是为了查看Binance上的所有硬币，并挑选出最不稳定的\n的币。",
+      "title": "我上周与你分享的binance交易算法现在有一个由200多名活跃的开发者组成的社区，为其添加了重大改进。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我真的很高興你們中的許多人決定爲代碼做出貢獻，並使之成爲一個更好的交易工具。\n這是一個更好的交易工具。這個項目當然是開放源代碼的，任何人都可以\n在他們的機器上運行這個機器人 :)\n\n該機器人的建立是爲了查看Binance上的所有硬幣，並挑選出最不穩定的\n的幣。",
+      "title": "我上週與你分享的binance交易算法現在有一個由200多名活躍的開發者組成的社區，爲其添加了重大改進。"
+    }
+  ],
+  "title": "The binance trading algorithm I shared with you last week now has a community of over 200 active developers, adding major improvements to it",
+  "created_utc": 1621197800,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m really happy that so many of you decided to contribute to the code, and make this a better trading tool. The project is open source of course, and anyone can run the bot on their machine :)</p>\n\n<p>The bot was built to look at all the coins on Binance and pick the most volatile ones in a given timeframe, in order to automatically buy the ones which are likely to keep increasing in price in the short-term at least.</p>\n\n<p>Here&#39;s more detailed breakdown of the main configuration:</p>\n\n<ul>\n<li>The bot will listen to changes in price across all Coins on Binance paired to USDT</li>\n<li>By default Margin (like BTCDOWNUSDT) and Fiat pairs are excluded</li>\n<li>The bot checks if the any coin has gone up by more than 3% in the last minute</li>\n<li>The bot will buy 15 USDT of the most volatile coins on Binance</li>\n<li>The bot will sell at 2% profit or 2% stop loss</li>\n</ul>\n\n<p>Now all these configurations above are customisable, you can input any values you like it you are interested in trying out a different strategy.</p>\n\n<p>The dev community has contributed with some more major updates like:</p>\n\n<ul>\n<li>Trailing stop loss - the stop loss will move up and follow the price -2% (configurable), which essentially allows the bot to maximise the profit in a bull run, as long as it continues</li>\n<li>Better testing - the bot is able so simulate real-life trades and store the output in a file to determine whether your configuration is profitable.</li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p>If you are interested in testing, using or contributing to the code here is the official GitHub Repo:</p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot\">https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot</a></p>\n\n<p>For a step-by-step guide on how to install and configure this bot for personal use: <a href=\"https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/\">https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/</a></p>\n\n<p>&#x200B;</p>\n\n<p>Thanks again to everyone getting involved in this!</p>\n</div><!-- SC_ON -->",
+  "score": 534,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?auto=webp&s=0671560ad8ab73889aeab84e818662670a993491",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?width=108&crop=smart&auto=webp&s=8289a4e7d5f70475873200aff3975e6cf23e9f0c",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?width=216&crop=smart&auto=webp&s=59c75e5f248a88598d11610d1d96cb7ed70d1c9e",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?width=320&crop=smart&auto=webp&s=329fb529d75369cdaef77e0ac756809f4bedf3b9",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?width=640&crop=smart&auto=webp&s=eb84ebb80b3b466c0204aff2068ba11e5847cc62",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?width=960&crop=smart&auto=webp&s=474392c6b5176725bc064e91657c79742050c0b5",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/lb2I12xCCvDXMTaSlMAu6BBriOwOLYboi2iWygDZiF8.jpg?width=1080&crop=smart&auto=webp&s=fea95ab02dffe44bbabad65d82ca6596de65dd01",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "qjsoo2JqveJkD7270RQ8bGUA02ujUP3WxKwltI3z6t0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ndrjl5/the_binance_trading_algorithm_i_shared_with_you/",
+  "subreddit": "CryptoCurrency",
+  "id": "ndrjl5",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1621590799664
+}

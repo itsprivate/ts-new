@@ -1,0 +1,79 @@
+{
+  "author": "SenatusSPQR",
+  "the_new_excerpt": "Originally posted by u/wezrule [/u/wezrule] here\n[https://np.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/].\n\n--------------------------------------------------------------------------------\n\nI'm proud to announce the Unity plugin which adds Nano support is now…",
+  "original_created_utc": 1617797606,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "元々はu/wezrule [/u/wezrule]が投稿したものです。\n[https://np.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/]をご覧ください。\n\n--------------------------------------------------------------------------------\n\nNanoサポートを追加するUnityプラグインを発表します...",
+      "title": "リリース】Unityゲーム開発者向けにNanoを提供開始 - 20億人のアクティブゲーマーにリーチ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "原文由u/wezrule[/u/wezrule]在此发布。\n[https://np.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/].\n\n--------------------------------------------------------------------------------\n\n我很自豪地宣布，增加Nano支持的Unity插件现在...",
+      "title": "[发布]Unity游戏开发者可使用Nano--活跃玩家达20亿人次"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "原文由u/wezrule[/u/wezrule]在此發佈。\n[https://np.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/].\n\n--------------------------------------------------------------------------------\n\n我很自豪地宣佈，增加Nano支持的Unity插件現在...",
+      "title": "[發佈]Unity遊戲開發者可使用Nano--活躍玩家達20億人次"
+    }
+  ],
+  "title": "[Release] Nano now available to Unity game developers - A reach of 2 billion active gamers",
+  "created_utc": 1617809486,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Originally posted by <a href=\"/u/wezrule\">u/wezrule</a> <a href=\"https://np.reddit.com/r/nanocurrency/comments/mm07aq/release_nano_now_available_to_unity_game/\">here</a>.</p>\n\n<hr/>\n\n<p>I&#39;m proud to announce the Unity plugin which adds Nano support is now available on the Unity asset store:</p>\n\n<p><a href=\"https://assetstore.unity.com/packages/tools/integration/nano-190960\">https://assetstore.unity.com/packages/tools/integration/nano-190960</a></p>\n\n<p>This enables 1.5 million Unity developers access to directly support Nano in their games. Features include:</p>\n\n<ul>\n<li>Creating private keys</li>\n<li>Save/Load encrypted password protected private keys on disk</li>\n<li>Building-block functions for processing blocks</li>\n<li>Helper functions for sending/receiving block and waiting for confirmation from the network</li>\n<li>Automatically pocketing pending blocks</li>\n<li>Watch changes for specific accounts using websockets and polling as a fallback mechanism.</li>\n<li>QRCode support for both payments and scanning private keys for payouts in arcade-style setups</li>\n<li>Multiplayer server side validation of payments with block hand-off</li>\n<li>Websocket server which allows listening to all confirmation callbacks (useful for visualisers)</li>\n<li>Listen for payments to single accounts, private key payouts and much more.</li>\n<li>node.js server as a proxy for communicating with the nano node</li>\n<li>Publically available server for quicker onboarding</li>\n<li>Demo level showing all features</li>\n<li>Tests for validating and converting between raw/nano</li>\n</ul>\n\n<p>Tested on all desktop (Linux, MacOS, Windows) &amp; mobile operating systems (Android/iOS) as well as browsers through WebGL.</p>\n\n<p>Video describing adding the plugin to a project and showing how the demo level works: <a href=\"https://youtu.be/Mvk6NRcGSGM\">https://youtu.be/Mvk6NRcGSGM</a></p>\n\n<p>More information available on the github, as well as all client/server side code: <a href=\"https://github.com/wezrule/unitynanoplugin\">https://github.com/wezrule/unitynanoplugin</a></p>\n\n<p>If Unreal Engine is your cup of tea, then I have a Unreal Engine plugin too: <a href=\"https://www.reddit.com/r/nanocurrency/comments/jktawj/released_unreal_engine_nano_plugin_v1/\">https://np.reddit.com/r/nanocurrency/comments/jktawj/released_unreal_engine_nano_plugin_v1/</a>  </p>\n\n<p>I welcome any external contributions to either repos.</p>\n</div><!-- SC_ON -->",
+  "score": 418,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?auto=webp&s=2392a5b7f4be469543d5e1060ff9bc6eab7f4af5",
+          "width": 1950,
+          "height": 1300
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?width=108&crop=smart&auto=webp&s=510da183f872f9b12a827947fe7a39ebcb175cb2",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?width=216&crop=smart&auto=webp&s=87ddc5c2f56114414d3fba4fc2b4e011a45f9a69",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?width=320&crop=smart&auto=webp&s=baf484799ca90cdc6ac47efa162d98b15dc22001",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?width=640&crop=smart&auto=webp&s=6473c552add3e3d415c1a6224bb6c9a02186d528",
+            "width": 640,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?width=960&crop=smart&auto=webp&s=891c55a1b1259767ab12f56ee8bac327d1c59626",
+            "width": 960,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/x1RrV33r9WdxHrMjIsHey5G7U4k-xB44APLkOaTfADY.jpg?width=1080&crop=smart&auto=webp&s=41abeaa711065d801948504cdb2e7900a6c6ef41",
+            "width": 1080,
+            "height": 720
+          }
+        ],
+        "variants": {},
+        "id": "YKk80gfk5E7WqPv4Lr7tv3QBLOGM1i-8jRXZBehsMgA"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mm0p0e/release_nano_now_available_to_unity_game/",
+  "subreddit": "CryptoCurrency",
+  "id": "mm0p0e",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617961876912
+}

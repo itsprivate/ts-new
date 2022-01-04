@@ -1,0 +1,86 @@
+{
+  "created_at": "Tue Jun 08 15:30:29 +0000 2021",
+  "id_str": "1402275232774299648",
+  "full_text": "They call it “Joints for Jabs.\" https://t.co/69JSKConlY https://t.co/D0QXKN8mDM",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/69JSKConlY",
+        "expanded_url": "https://nyti.ms/3pwCWu9",
+        "display_url": "nyti.ms/3pwCWu9",
+        "indices": [
+          32,
+          55
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1402275226805751800,
+        "id_str": "1402275226805751815",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/E3Xh46MWUAcUPWY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E3Xh46MWUAcUPWY.jpg",
+        "url": "https://t.co/D0QXKN8mDM",
+        "display_url": "pic.twitter.com/D0QXKN8mDM",
+        "expanded_url": "https://twitter.com/nytimes/status/1402275232774299648/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The New York Times",
+    "screen_name": "nytimes",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png"
+  },
+  "retweet_count": 164,
+  "favorite_count": 696,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Jun 08 14:44:03 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "彼らはそれを「Joints for Jabs」と呼んでいる。https://t.co/69JSKConlY https://t.co/D0QXKN8mDM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "他们称其为 \"Joints for Jabs\"。 https://t.co/69JSKConlY https://t.co/D0QXKN8mDM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "他們稱其爲 \"Joints for Jabs\"。 https://t.co/69JSKConlY https://t.co/D0QXKN8mDM"
+    }
+  ]
+}

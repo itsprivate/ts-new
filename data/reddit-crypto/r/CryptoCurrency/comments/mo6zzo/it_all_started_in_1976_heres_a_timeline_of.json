@@ -1,0 +1,54 @@
+{
+  "author": "reddito321",
+  "the_new_excerpt": "AutoMod removed the original post due to \"wrongly linking an user directly in\nthe post\". smh. Posting again.\n\n-\n\nTL;DR: Timeline of scientific papers and original ideas that ended up leading to\nBitcoin.\n\nAs pointed out by user mirza1h, Bitcoin was not the first cryptocurrency. I felt\ncompelled to…",
+  "original_created_utc": 1618069151,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "AutoModは、「誤ってユーザーを直接リンクしている」という理由で元の投稿を削除しました。\nという理由で削除されてしまいました。もう一度投稿します。\n\n-\n\nTL;DR:科学論文とオリジナルのアイデアの年表です。\nビットコイン。\n\nユーザーのmirza1hさんが指摘しているように、Bitcoinは最初の暗号通貨ではありません。私が感じたのは\n思わず...",
+      "title": "すべては1976年に始まった：サトシのブロックチェーン/ビットコインに行き着いた科学論文の年表を紹介します!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "AutoMod删除了原帖，原因是 \"错误地将用户直接链接到了\"。\n的帖子\"。又发帖了。\n\n-\n\nTL;DR：科学论文和原始想法的时间轴，最终导致了。\n比特币。\n\n正如用户mirza1h所指出的，比特币并不是第一种加密货币。我觉得\n不得不",
+      "title": "一切都始于1976年：这里有一条科学论文的时间轴，最终佐吉的区块链/比特币!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "AutoMod刪除了原帖，原因是 \"錯誤地將用戶直接鏈接到了\"。\n的帖子\"。又發帖了。\n\n-\n\nTL;DR：科學論文和原始想法的時間軸，最終導致了。\n比特幣。\n\n正如用戶mirza1h所指出的，比特幣並不是第一種加密貨幣。我覺得\n不得不",
+      "title": "一切都始於1976年：這裏有一條科學論文的時間軸，最終佐吉的區塊鏈/比特幣!"
+    }
+  ],
+  "title": "It all started in 1976: Here's a timeline of scientific papers that ended up with Satoshi's blockchain/Bitcoin!",
+  "created_utc": 1618094187,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>AutoMod removed the original post due to &quot;wrongly linking an user directly in the post&quot;. smh. Posting again.</p>\n\n<p>-</p>\n\n<p>TL;DR: Timeline of scientific papers and original ideas that ended up leading to Bitcoin.</p>\n\n<p>As pointed out by user mirza1h,  Bitcoin was not the first cryptocurrency. I felt compelled to share  some technical history with you people, in a very summarized way. Hope  you like!</p>\n\n<p><strong>[1976]</strong>, <strong>The Diffie–Hellman key exchange protocol</strong>:  This is the first known protocol to propose a private and a public key  in cryptography. Before that, two parties would needed to agree in  advance on which key would be used to decrypt a message. It&#39;s the  classical &quot;knock this <em>tip tip top</em>  pattern when you reach my door&quot; we see in old movies. After the  protocol, no previous agreement was needed. You can find the paper here:  <a href=\"https://ieeexplore.ieee.org/document/1055638/\">https://ieeexplore.ieee.org/document/1055638/</a></p>\n\n<p><strong>[1983], David Chaum&#39;s eCash</strong>: He published many papers about how to transfer value through the web. A full list can be found here: <a href=\"https://www.chaum.com/publications/\">https://www.chaum.com/publications/</a>.</p>\n\n<p><strong>[1980&#39;s], The Goldwasser-Micali-Rivest Digital Signature</strong>:  With the DH protocol, you could share your public keys and the other  party could decrypt your message, but there was no way for this other  party to verify if the message was actually sent by you. The papers  published in the 1980&#39;s by these authors fixed that. A nice paper from  them that summarizes everything can be found <a href=\"https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Digital%20Signatures/A_Digital_Signature_Scheme_Secure_Against_Adaptive_Chosen-Message_Attack.pdf\">here</a>.</p>\n\n<p><strong>[1997], Adam Back&#39;s HashCash:</strong>  The very first proof-of-work algorithm that was probably the biggest  inspiration for Satoshi. You can find all the related papers here: <a href=\"http://hashcash.org/papers/\">http://hashcash.org/papers/</a></p>\n\n<p><strong>[1998]</strong>, <strong>Wei Dai&#39;s B-money concept</strong>:  Traced out the very concept of what we know today as smart contracts  and exchange of value without the need of a third-party verification.  Read it here: <a href=\"http://www.weidai.com/bmoney.txt\">http://www.weidai.com/bmoney.txt</a></p>\n\n<p><strong>[2001], Liberty Reserve:</strong>  A centralized digital currency system based in Costa Rica. Shut down  due to tax implications and money laundering for criminal uses. More  info on their <a href=\"https://en.wikipedia.org/wiki/Liberty_Reserve\">Wikipedia page</a>.</p>\n\n<p><strong>[2005], Nick Szabo&#39;s Bit Gold:</strong>  I hardly doubt that Satoshi did not read Nick&#39;s idea and proposal (and  I&#39;m not sure if he/she/they ever mentioned it in their communications).  It&#39;s extremely similar to what Bitcoin is. Details can be found here: <a href=\"https://unenumerated.blogspot.com/2005/12/bit-gold.html\">https://unenumerated.blogspot.com/2005/12/bit-gold.html</a></p>\n\n<p>-</p>\n\n<p>There  would be a lot more to share, because science is cumulative: Maxwell&#39;s  electromagnetism needed Newton&#39;s calculus, Newton&#39;s calculus needed  Hasan Ibn al-Haytham&#39;s and others&#39; ideas; Einstein&#39;s photoelectric  effect needed Planck&#39;s energy quantization, which needed Clausius&#39;s and  Gibb&#39;s works on thermodynamics, so forth and so on.</p>\n\n<p>Some  say that Bitcoin is a technological fraud, because it poses nothing  new, i.e. all of its ideas were published before, these people forget  that the theory was published in <em>separate papers and perspectives.</em>  With this argument, we can pretty much say that Maxwell&#39;s  electromagnetism is a fraud. Why don&#39;t we say that? Because it works.  The same goes for Bitcoin.</p>\n\n<p>Godspeed and happy 60k!</p>\n\n<p>Contribuiton of user oGceaseless: Satoshi greatest contribution was to solve the Byzantine Generals Problem.</p>\n</div><!-- SC_ON -->",
+  "score": 258,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/o-Yq16CmbZYLfCx_y5VsD5fcOiaoLcN-zQO1j3qX2es.jpg?auto=webp&s=546795834d06ed5ac69b13898f1acf1fe4d9f163",
+          "width": 200,
+          "height": 200
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/o-Yq16CmbZYLfCx_y5VsD5fcOiaoLcN-zQO1j3qX2es.jpg?width=108&crop=smart&auto=webp&s=12189b1b4c622fc6ffad1be9c0a8f510d0f4e0d3",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "dljaZCngSNWfvfWM7FsQmbV4Fzs0y2sjrkCUp3agcqY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mo6zzo/it_all_started_in_1976_heres_a_timeline_of/",
+  "subreddit": "CryptoCurrency",
+  "id": "mo6zzo",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1618566614250
+}

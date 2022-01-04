@@ -1,0 +1,78 @@
+{
+  "author": "lilbugpal",
+  "original_created_utc": 1634859191,
+  "title": "Cardano is basically dead. People just don't realise it yet.",
+  "created_utc": 1634869097,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Cardano&#39;s throughput is currently incredibly low.</p>\n\n<p>The <strong><em>best case</em></strong> is 6.5tps. This is hardly more than Bitcoin.</p>\n\n<p>The worst case is significantly lower.</p>\n\n<p><a href=\"https://i.imgur.com/sIglkyi.jpeg\">https://i.imgur.com/sIglkyi.jpeg</a></p>\n\n<hr/>\n\n<p>This is not currently an issue, as Cardano&#39;s blocks are not full. They&#39;re currently sitting at about 30% full.</p>\n\n<p>However, if any adoption/usage of smart-contracts arises (DeFi, NFTs, etc) then Cardano is very quickly going to start hitting 100% full blocks, every single block.</p>\n\n<p>Cardano does not have a fee market, so when blocks are full, there&#39;s no way to ensure your transaction goes through. Got an important transaction that you need to be processed quickly? Big institution that needs to send 2 billion ADA? Bad luck, you can&#39;t pay more to ensure it goes through fast. </p>\n\n<p>This is an absolute hellscape.</p>\n\n<hr/>\n\n<p>Then there&#39;s this; <a href=\"https://github.com/input-output-hk/cardano-node/issues/3247\">https://github.com/input-output-hk/cardano-node/issues/3247</a></p>\n\n<p>Recently, some NFTs were causing spikes in Cardano&#39;s usage, causing bottlenecks for several hours, causing many peoples transactions to be &#39;dropped&#39;, because they could not be inserted into the mempool.</p>\n\n<p>In the comments, Duncan Coutts (one of Cardano&#39;s top devs) replied.</p>\n\n<p>His solution? They would decide which transactions are more important, and process them first... He has decided that NFTs are not important, and get low priority. Wow... wasn&#39;t this meant to be decentralised? Why are they making decisions about which transactions are more important? They should all be treated equally. <strong><em>THIS IS A HUGE CENTRALISATION RED FLAG.</em></strong> </p>\n\n<p>Then there&#39;s the mempool being overfilled. His solution? When the mempool is full, wallets need to keep attempting to submit the transaction to the mempool, over and over and over, possibly for days, until they successfully get it inserted... </p>\n\n<p>This means that when you send a transaction, you need to ensure your wallet stays connected to the internet - so it can keep trying to publish your transaction. If you send some ADA then turn off your computer/phone? Bad luck, your transaction wont go through. This is absolute insanity.</p>\n\n<p>This is all incredibly troubling.</p>\n\n<p>Again, this is not really an issue <strong><em>YET</em></strong>, because blocks/mempool are not consistently full yet. But they will be as soon as there&#39;s any significant level of smart-contract usage.</p>\n\n<hr/>\n\n<p>The solution to this is Cardanos Layer 2 scaling solution; Hydra. </p>\n\n<p>Unfortunately, Hydra is likely many years away, and until then, Cardano is basically dead in the water, unable to deal with any significant level of adoption of smart-contract usage.</p>\n</div><!-- SC_ON -->",
+  "score": 245,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?auto=webp&s=f19be9671423fd081541a7930448ed7ee70a46a9",
+          "width": 2400,
+          "height": 1350
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?width=108&crop=smart&auto=webp&s=371215bcf724c0e19c6c65513028a16e777ebddd",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?width=216&crop=smart&auto=webp&s=329eaf7f4afd981316d4a79f2a70a2ea543e3bac",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?width=320&crop=smart&auto=webp&s=01315b8c8906fa3fce8c5dabe2c1f91a6fca3988",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?width=640&crop=smart&auto=webp&s=335ccd2ddc2ac0750a71d05887be497e60d5008a",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?width=960&crop=smart&auto=webp&s=c49423d4cae222fe5a41a239734bf1d4413ac475",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/LNoIXKNQTZJGaDEDcLUBlLwaZf6jGrshI4gEkcmi04U.jpg?width=1080&crop=smart&auto=webp&s=bf69faf911c9cdb91fd01076bd2320fa3f49e16f",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "9zK4pZKR5XQWsgH2VT852yvxwR-ukaimA8aoMLDSe3o"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/qd49i1/cardano_is_basically_dead_people_just_dont/",
+  "subreddit": "CryptoCurrency",
+  "id": "qd49i1",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Cardano's throughput is currently incredibly low.\n\nThe best case is 6.5tps. This is hardly more than Bitcoin.\n\nThe worst case is significantly lower.\n\nhttps://i.imgur.com/sIglkyi.jpeg\n\n--------------------------------------------------------------------------------\n\nThis is not currently an issue,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Cardanoのスループットは現在信じられないほど低い。\n\nベストケースは6.5tpsです。これはビットコインよりもほとんど多くありません。\n\nワーストケースはかなり低い。\n\nhttps://i.imgur.com/sIglkyi.jpeg\n\n--------------------------------------------------------------------------------\n\nこれは現在問題になっていない、、、。",
+      "title": "カルダノは基本的に死んでいる。人々はまだそれに気付いていないだけです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Cardano的吞吐量目前低得惊人。\n\n最好的情况是6.5tps。这几乎不比比特币多。\n\n最坏的情况是明显更低。\n\nhttps://i.imgur.com/sIglkyi.jpeg\n\n--------------------------------------------------------------------------------\n\n目前这不是一个问题，...",
+      "title": "Cardano基本上已经死了。人们只是还没有意识到这一点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Cardano的吞吐量目前低得驚人。\n\n最好的情況是6.5tps。這幾乎不比比特幣多。\n\n最壞的情況是明顯更低。\n\nhttps://i.imgur.com/sIglkyi.jpeg\n\n--------------------------------------------------------------------------------\n\n目前這不是一個問題，...",
+      "title": "Cardano基本上已經死了。人們只是還沒有意識到這一點。"
+    }
+  ]
+}

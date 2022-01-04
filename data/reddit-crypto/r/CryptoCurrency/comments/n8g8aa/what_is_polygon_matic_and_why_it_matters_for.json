@@ -1,0 +1,74 @@
+{
+  "author": "mybackhurts771",
+  "the_new_excerpt": "WHAT IS POLYGON?\n\nPreviously known as Matic Network, Polygon is a framework for building\ninterconnected blockchain networks.\n\nIt seeks to address some of Ethereum's major limitations—including its\nthroughput, poor user experience (high speed and delayed transactions), and lack\nof community…",
+  "original_created_utc": 1620573273,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ポリゴンとは何ですか？\n\n以前はMatic Networkとして知られていたPolygonは、相互に接続されたブロックチェーンネットワークを構築するためのフレームワークです。\nポリゴンは、相互に接続されたブロックチェーンネットワークを構築するためのフレームワークです。\n\nポリゴンは、Ethereumの主な制限事項（スループット、ユーザーエクスペリエンスの低さ（高速通信）など）を解決しようとしています。\nスループットの低下、ユーザーエクスペリエンスの低下（高速でのトランザクションの遅延）、コミュニティの欠如などです。\nコミュニティの欠如などです。",
+      "title": "ポリゴン（MATIC）とは何か、なぜそれがイーサリアムにとって重要なのか"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "什么是Polygon？\n\nPolygon以前被称为Matic Network，是一个用于构建\n互联的区块链网络。\n\n它试图解决以太坊的一些主要限制--包括其\n吞吐量，糟糕的用户体验（高速和延迟交易），以及缺乏\n社区...",
+      "title": "什么是Polygon（MATIC）以及为什么它对以太坊很重要"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "什麼是Polygon？\n\nPolygon以前被稱爲Matic Network，是一個用於構建\n互聯的區塊鏈網絡。\n\n它試圖解決以太坊的一些主要限制--包括其\n吞吐量，糟糕的用戶體驗（高速和延遲交易），以及缺乏\n社區...",
+      "title": "什麼是Polygon（MATIC）以及爲什麼它對以太坊很重要"
+    }
+  ],
+  "title": "What is Polygon (MATIC) and Why It Matters for Ethereum",
+  "created_utc": 1620596489,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h2>What is Polygon?</h2>\n\n<p>Previously known as Matic Network, Polygon is a framework for building interconnected blockchain networks.</p>\n\n<p>It seeks to address some of Ethereum&#39;s major limitations—including its throughput, poor user experience (high speed and delayed transactions), and lack of community governance—using a novel sidechain solution.</p>\n\n<p>Rather than being a simple scaling solution like its predecessor Matic Network—which uses a technology known as Plasma to process transactions off-chain before finalizing them on the Ethereum main chain—Polygon is designed to be an entire platform designed for launching interoperable blockchains.</p>\n\n<p>Through Polygon, developers can launch preset blockchain networks with attributes tailored to their needs. These can be further customized with a growing range of modules, which allow developers to create sovereign blockchains with more specific functionality.</p>\n\n<h2>How does Polygon work?</h2>\n\n<p>Polygon&#39;s architecture can best be defined as a four-layer system composed of the Ethereum layer, security layer, Polygon networks layer, and execution layer.</p>\n\n<p>The Ethereum layer is essentially a set of <a href=\"https://decrypt.co/resources/smart-contracts\">smart contracts</a> which are implemented on Ethereum. These smart contracts handle things like transaction finality, staking, and communication between Ethereum and the various Polygon chains. The security layer runs side by side with Ethereum and provides a &quot;validators as a service&quot; role which allows chains to benefit from an additional layer of security. Both the Ethereum and Security layers are optional.</p>\n\n<p>Beyond this, there are two mandatory layers. The first is the Polygon networks layer, which is the ecosystem of blockchain networks built on Polygon. Each of these has its own community and is responsible for handling local consensus and producing blocks. The second is the Execution layer, which is Polygon&#39;s Ethereum Virtual Machine (EVM) implementation used for executing smart contracts.</p>\n\n<p>Chains launched on Polygon are capable of communicating both with one another and with the Ethereum main chain thanks to Polygon&#39;s arbitrary message passing capabilities. This will enable a variety of new use-cases, such as interoperable decentralized applications (<a href=\"https://decrypt.co/resources/dapps\">dapps</a>) and the simple exchange of value between diverse platforms.</p>\n\n<h2>​Polygon: Ethereum&#39;s Internet of Blockchains</h2>\n\n<p>Polygon is designed to facilitate a future where different blockchains no longer operate as closed-off siloes and proprietary communities, but instead as networks that fit into a broader interconnected landscape.</p>\n\n<p>Its long-term goal is to enable an open, borderless world in which users can seamlessly interact with decentralized products and services without first having to navigate through intermediaries or walled gardens. It aims to create a hub that different blockchains can easily plug into, while simultaneously overcoming some of their individual limitations—such as high fees, poor scalability, and limited security.</p>\n\n<p>Polygon uses a variety of technologies to achieve this expanded vision, these include:</p>\n\n<ul>\n<li><strong>POS Chain:</strong> Polygon&#39;s main chain is an Ethereum sidechain known as the Matic POS Chain, which adds a proof-of-stake (POS) security layer to blockchains launched on Polygon.</li>\n<li><strong>Plasma Chains:</strong> Polygon makes use of a scaling technology known as Plasma to move assets between the root chain and child chains via Plasma bridges.</li>\n<li><strong>ZK-rollups:</strong> An alternative scaling solution used to bundle a large number of transfers off-chain into a single transaction, using <a href=\"https://decrypt.co/22162/zero-knowledge-proofs-explained-learn-guide/\">zero-knowledge proofs</a> for the final public record on the Ethereum main chain.</li>\n<li><strong>Optimistic rollups:</strong> A solution that runs on top of Ethereum to facilitate near-instant transactions through the use of &quot;fraud proofs&quot;.</li>\n</ul>\n\n<p>As you might have noticed, Polygon intends to incorporate more than one scaling solution, in keeping with its goal of minimizing barriers to entry by attempting to reduce transaction fees to a bare minimum. By taking a multi-pronged approach to the issue of scaling, Polygon is hedging its bets, should any other scaling solution fail to accomplish its purpose.</p>\n\n<h2>What’s so special about it?</h2>\n\n<p>The Polygon project is one of the more recent attempts at blockchain interoperability and scaling, and is designed to address some of the perceived limitations of interoperability projects such as Polkadot and Cosmos.</p>\n\n<p>For one, it’s compatible with the Ethereum Virtual Machine, which makes it approachable to those accustomed to building apps on Ethereum and programming in Solidity; its rival Cosmos uses a WASM-based virtual machine.</p>\n\n<p>For another, Polygon&#39;s shared security model is entirely optional; sovereign platforms don&#39;t need to sacrifice any independence or flexibility for the sake of additional security if it is not needed. It also claims to be flexible enough to incorporate any scalability solution—beyond the current Plasma chains, ZK-rollups, and optimistic rollups planned.</p>\n\n<p>A variety of projects have already been launched that make use of Polygon&#39;s scaling technology, including:</p>\n\n<ul>\n<li><a href=\"https://www.easyfi.network/\">EasyFi</a> - a decentralized borrowing and lending platform with support for undercollateralized loans.</li>\n<li><a href=\"https://aavegotchi.com/\">Aavegotchi</a> - a <a href=\"https://decrypt.co/resources/defi-ultimate-beginners-guide-decentralized-finance\">DeFi</a> trading game based around non-fungible tokens (<a href=\"https://decrypt.co/resources/non-fungible-tokens-nfts-explained-guide-learn-blockchain\">NFTs</a>).</li>\n</ul>\n\n<h2>Where and How to Buy MATIC</h2>\n\n<p>The MATIC token is currently one of the top 50 largest cryptocurrencies by market capitalization and benefits from excellent liquidity. It is available to purchase and trade on a large number of cryptocurrency exchanges, including tier 1 platforms like <a href=\"https://blog.coinbase.com/polygon-matic-skale-network-skl-and-sushiswap-sushi-are-launching-on-coinbase-pro-460f410b3820\">Coinbase Pro</a>, Binance, Huobi Global, and Poloniex, as well as the popular decentralized exchange <a href=\"https://decrypt.co/resources/what-is-uniswap\">Uniswap</a>.</p>\n\n<p><a href=\"https://decrypt.co/resources/what-is-polygon-matic-and-why-it-matters-for-ethereum\">source</a></p>\n</div><!-- SC_ON -->",
+  "score": 508,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/pjKubliv39WkxZLp_LthwckQ0OZW-1Hhyyf6LNaG0xo.jpg?auto=webp&s=be50ba3a766f909fb6287683a3b4007aff29d0aa",
+          "width": 1024,
+          "height": 512
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/pjKubliv39WkxZLp_LthwckQ0OZW-1Hhyyf6LNaG0xo.jpg?width=108&crop=smart&auto=webp&s=550ea6f5be07bf812ccdd9ac056bfc577e5460f6",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/pjKubliv39WkxZLp_LthwckQ0OZW-1Hhyyf6LNaG0xo.jpg?width=216&crop=smart&auto=webp&s=8558edd688f508714d71d6e06cd6512f0320da17",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/pjKubliv39WkxZLp_LthwckQ0OZW-1Hhyyf6LNaG0xo.jpg?width=320&crop=smart&auto=webp&s=84c6161b602beeeb1d38d729286278dd4a041960",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/pjKubliv39WkxZLp_LthwckQ0OZW-1Hhyyf6LNaG0xo.jpg?width=640&crop=smart&auto=webp&s=78b7a78d6366a8956bc5b43c5e0639ca6593bb27",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/pjKubliv39WkxZLp_LthwckQ0OZW-1Hhyyf6LNaG0xo.jpg?width=960&crop=smart&auto=webp&s=bc51af3953d7a660b3742a608cd09dd29f93c374",
+            "width": 960,
+            "height": 480
+          }
+        ],
+        "variants": {},
+        "id": "nimvGKgf9wh6VqTov2z_czGEyun1WeT_GLB-y0dqXeI"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/n8g8aa/what_is_polygon_matic_and_why_it_matters_for/",
+  "subreddit": "CryptoCurrency",
+  "id": "n8g8aa",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620985990908
+}

@@ -1,0 +1,32 @@
+{
+  "author": "EngineE2505",
+  "original_created_utc": 1625396051,
+  "title": "I created a javascript game engine for the browser. What do you think about this?",
+  "created_utc": 1625398115,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>\n\n<p>I used to do web development, but then I decided to leave it as a hobby. <strong>One day I decided to make a game similar to Fallout 2 and Diablo.</strong> Then I thought why there are still no such games in the browser, even free ones.</p>\n\n<p><strong>I had never made any games or engines and had no idea where to start</strong>. Function by function, property by property, I slowly made the animation, then I optimized it. Then I screwed on the Pathfinding Algorithm. Something started to work out.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/7pi267jub6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=235c971c786e58b55f0a3bbf2e345dcffb518c62\">I was quietly trying to figure out how to get the character to move along the path</a></p>\n\n<p><a href=\"https://preview.redd.it/86342n0wb6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=10cbbfaaf88884bec6c3f67d0e29dec432641fb4\">Then I tried to get a lot of characters to move at the same time</a></p>\n\n<p>&#x200B;</p>\n\n<p><strong>The result is a small game engine that can be used to make a small game like Arcanum or Fallout</strong> quickly enough. And with a small alteration, you can do an old <strong>quest like Broken Sword</strong> or a small strategy. So I also made an admin panel for quickly creating levels.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/wrooq4axb6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=74541a9de65557d795ffad255f8b8279ea9da1a9\">In the engine, you can decorate objects on the level, as well as animate some of them</a></p>\n\n<p><a href=\"https://preview.redd.it/lvxawcwxb6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f1dc9ac38d5939eb99b16e10cb91cbcd4383c194\">Here I played a little with filters</a></p>\n\n<p>&#x200B;</p>\n\n<p>Of course, <strong>the hardest part was the optimization</strong>. I understood why the CPU is so heavily loaded, and I began to understand why, even in modern games, there is such a weak AI and so few moving objects at all. That is, it is not enough to create 50 characters on the page, it is necessary that they move at the same time and this all does not slow down. I began to understand a little which properties are loading more, which ones are not so much. And that was interesting enough.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/o9za0gq9c6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=4f2b4a844f699740f4bbf4abce6a68a8e35b775f\">I decided I needed to add shadows, it looks a little cooler with them. But you have to pay with performance</a></p>\n\n<p><a href=\"https://preview.redd.it/862hu960c6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=82304a12c4462f6f1fd6360396b2a66beb11baf1\">Then I made several dynamic light sources. And also I began to take into account the distance from the source to the object</a></p>\n\n<p>&#x200B;</p>\n\n<p>In one of the comments I was advised to upload the material to your channel. <strong>If someone is interested to know or ask something, please write. I will try to answer.</strong> I was also asked to record a video about the technical part, but I still can&#39;t decide exactly what to post about. Maybe you can advise.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/gaiqe3hve6971.png?width=1915&amp;format=png&amp;auto=webp&amp;s=304529c63754156f91f7c40fdfcfa66bffdc6efd\">This is how the level would roughly look if I decided to make it and I would not be lazy</a></p>\n\n<p><a href=\"https://preview.redd.it/8azqjmhzb6971.png?width=1920&amp;format=png&amp;auto=webp&amp;s=b6e388c9ec651d88ba8746c0e7c06aadeb5dff49\">Another example of a level</a></p>\n\n<p>&#x200B;</p>\n\n<p>Also, <strong>if anyone wants to watch the video, then go to the channel</strong>. Here are some links to the video.</p>\n\n<ul>\n<li>Level example......................<a href=\"https://www.youtube.com/watch?v=mqEBOV9UjKw\">https://www.youtube.com/watch?v=mqEBOV9UjKw</a></li>\n<li>A* algorithm........................<a href=\"https://www.youtube.com/watch?v=X7KnaQIgex0\">https://www.youtube.com/watch?v=X7KnaQIgex0</a></li>\n<li>Lights and Shadows............<a href=\"https://www.youtube.com/watch?v=bHEbgVHliUM\">https://www.youtube.com/watch?v=bHEbgVHliUM</a></li>\n<li>Motion implementation......<a href=\"https://www.youtube.com/watch?v=y6enC9pHpDs\">https://www.youtube.com/watch?v=y6enC9pHpDs</a></li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p><em>All images and sounds in the engine and video are used only for technology testing and for entertainment. Not for commercial gain. I respect the people who created them once.</em></p>\n</div><!-- SC_ON -->",
+  "score": 6,
+  "permalink": "/r/SideProject/comments/odi4nq/i_created_a_javascript_game_engine_for_the/",
+  "subreddit": "SideProject",
+  "id": "odi4nq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I used to do web development, but then I decided to leave it as a hobby. One day\nI decided to make a game similar to Fallout 2 and Diablo. Then I thought why\nthere are still no such games in the browser, even free ones.\n\nI had never made any games or engines and had no idea where to start.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以前はWeb制作をしていましたが、趣味の域を出そうと思いました。ある日\nFallout 2」や「Diablo」のようなゲームを作ろうと思いました。その時、なぜ\n無料のものも含めて、いまだにブラウザ上にそのようなゲームがないのはなぜだろうと考えました。\n\n私はゲームもエンジンも作ったことがなく、どこから手をつけていいのかわかりませんでした....",
+      "title": "ブラウザ用のjavascriptのゲームエンジンを作りました。これについてどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我曾做过网络开发，但后来我决定把它作为一种业余爱好。有一天\n我决定做一个类似于《辐射2》和《暗黑破坏神》的游戏。然后我想为什么\n浏览器中仍然没有这样的游戏，即使是免费游戏。\n\n我从来没有做过任何游戏或引擎，不知道从哪里开始....。",
+      "title": "我为浏览器创建了一个JavaScript游戏引擎。你怎么看这个问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我曾做過網絡開發，但後來我決定把它作爲一種業餘愛好。有一天\n我決定做一個類似於《輻射2》和《暗黑破壞神》的遊戲。然後我想爲什麼\n瀏覽器中仍然沒有這樣的遊戲，即使是免費遊戲。\n\n我從來沒有做過任何遊戲或引擎，不知道從哪裏開始....。",
+      "title": "我爲瀏覽器創建了一個JavaScript遊戲引擎。你怎麼看這個問題？"
+    }
+  ]
+}

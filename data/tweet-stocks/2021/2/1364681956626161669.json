@@ -1,0 +1,83 @@
+{
+  "created_at": "Wed Feb 24 22:36:56 +0000 2021",
+  "id_str": "1364681956626161669",
+  "full_text": "GameStop trading repeatedly paused as stock more than doubles on day: https://t.co/oUpQGQEaO8 https://t.co/t1OA1cm8Bm",
+  "display_text_range": [
+    0,
+    93
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/oUpQGQEaO8",
+        "expanded_url": "https://on.mktw.net/3dFrDMl",
+        "display_url": "on.mktw.net/3dFrDMl",
+        "indices": [
+          70,
+          93
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1364681954419957800,
+        "id_str": "1364681954419957761",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/media/EvBTAdSWYAET4qh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EvBTAdSWYAET4qh.jpg",
+        "url": "https://t.co/t1OA1cm8Bm",
+        "display_url": "pic.twitter.com/t1OA1cm8Bm",
+        "expanded_url": "https://twitter.com/MarketWatch/status/1364681956626161669/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 198,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1970,
+            "h": 574,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 350,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "MarketWatch",
+    "screen_name": "MarketWatch",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705601245596090368/Z6xUOnRg_normal.jpg"
+  },
+  "retweet_count": 74,
+  "favorite_count": 213,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Feb 24 21:01:47 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "GameStop交易屡屡暂停，股价当日涨幅超过一倍：https://t.co/oUpQGQEaO8。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "GameStop交易屢屢暫停，股價當日漲幅超過一倍：https://t.co/oUpQGQEaO8。"
+    }
+  ],
+  "source_updated_at": 1614332903825
+}

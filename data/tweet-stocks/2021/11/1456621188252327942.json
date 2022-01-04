@@ -1,0 +1,77 @@
+{
+  "created_at": "Fri Nov 05 18:48:59 +0000 2021",
+  "id_str": "1456621188252327942",
+  "full_text": "I can't imagine we'll see anything like this ever again https://t.co/QcsnIxaDkw",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1456620909406654500,
+        "id_str": "1456620909406654482",
+        "indices": [
+          56,
+          79
+        ],
+        "media_url": "http://pbs.twimg.com/media/FDb0_-WXEBIwEiL.png",
+        "media_url_https": "https://pbs.twimg.com/media/FDb0_-WXEBIwEiL.png",
+        "url": "https://t.co/QcsnIxaDkw",
+        "display_url": "pic.twitter.com/QcsnIxaDkw",
+        "expanded_url": "https://twitter.com/awealthofcs/status/1456621188252327942/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1094,
+            "h": 727,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 452,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1094,
+            "h": 727,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Ben Carlson",
+    "screen_name": "awealthofcs",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1355736088409726978/gp2HirZc_normal.jpg"
+  },
+  "retweet_count": 64,
+  "favorite_count": 388,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Nov 05 13:55:28 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "このようなものは二度と見られないだろう。https://t.co/QcsnIxaDkw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我无法想象我们会再次看到这样的事情 https://t.co/QcsnIxaDkw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我無法想象我們會再次看到這樣的事情 https://t.co/QcsnIxaDkw"
+    }
+  ],
+  "source_updated_at": 1636710070830
+}

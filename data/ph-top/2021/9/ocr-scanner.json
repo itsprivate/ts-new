@@ -1,0 +1,80 @@
+{
+  "id": "312405",
+  "commentsCount": 10,
+  "createdAt": "2021-09-19T05:11:16.512Z",
+  "description": "A Chrome extension to extract and translate text from images. All you need to do is to capture the region you want to translate in your current tab, the extension will then extract the text inside it and translate the text to your preferred language.",
+  "featuredAt": "2021-09-18T07:00:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/e6214055-71e7-47ca-b721-f87c6d658fa5.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://www.youtube.com/watch?v=a2F7Ro2YRRQ"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/62d44a7b-3aef-4fbd-817c-aabbf2911ca9.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/639c3cc3-196a-49a0-bcfe-a01cb6dfc3d3.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/98993b7d-ecd0-4eff-a86e-7ab60e347357.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "OCR Scanner",
+  "productLinks": [
+    {
+      "type": "Chrome",
+      "url": "https://www.producthunt.com/r/fae74a45f9ff2f?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Cat Vu",
+    "url": "https://www.producthunt.com/@nhat_cat_vu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "ocr-scanner",
+  "tagline": "Extract and translate text from image",
+  "url": "https://www.producthunt.com/posts/ocr-scanner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 134,
+  "website": "https://www.producthunt.com/r/fae74a45f9ff2f?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Chrome Extensions"
+        }
+      },
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-09-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "画像からテキストを抽出して翻訳するChrome拡張機能です。必要なのは、現在のタブで翻訳したい領域をキャプチャすることだけで、この拡張機能はその中のテキストを抽出し、好みの言語に翻訳します。",
+      "tagline": "画像からテキストを抽出して翻訳する"
+    },
+    {
+      "locale": "zh",
+      "description": "一个用于从图片中提取和翻译文本的Chrome扩展。你所需要做的就是在你当前的标签中捕捉你想要翻译的区域，然后该扩展将提取其中的文本并将文本翻译成你喜欢的语言。",
+      "tagline": "从图像中提取和翻译文本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個用於從圖片中提取和翻譯文本的Chrome擴展。你所需要做的就是在你當前的標籤中捕捉你想要翻譯的區域，然後該擴展將提取其中的文本並將文本翻譯成你喜歡的語言。",
+      "tagline": "從圖像中提取和翻譯文本"
+    }
+  ],
+  "source_updated_at": 1632476410534
+}

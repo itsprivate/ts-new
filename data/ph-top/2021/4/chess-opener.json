@@ -1,0 +1,90 @@
+{
+  "id": "291868",
+  "commentsCount": 6,
+  "createdAt": "2021-04-13T02:47:44.269Z",
+  "description": "By connecting an openings database to the Lichess API, and using that to fetch instructive opening information, such as statistics and top games, I was able to create a web application where users can easily explore, analyse and practice chess openings.",
+  "featuredAt": "2021-04-12T10:18:29Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/342413de-f848-4065-a8c2-37042ff20e9b.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/11c51fc3-18ca-4822-b5bb-9fa90831c013.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/773711b9-dcc5-4663-9702-fc13a2dc4581.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/31f65ee2-ce33-4cea-9738-d3f921e3733f.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/42f9ae06-3bed-4500-a7aa-f2ed88b6bb1a.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Chess Opener",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/6afe548b6bf1e1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Jordi Been",
+    "url": "https://www.producthunt.com/@jordib?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "chess-opener",
+  "tagline": "Easily explore, analyse and practice chess openings",
+  "url": "https://www.producthunt.com/posts/chess-opener?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 65,
+  "website": "https://www.producthunt.com/r/6afe548b6bf1e1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Board Games"
+        }
+      },
+      {
+        "node": {
+          "name": "Strategy games"
+        }
+      },
+      {
+        "node": {
+          "name": "Games"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-04-12T10:18:29Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープニングのデータベースをLichess APIに接続し、統計やトップゲームなどの有益なオープニング情報を取得するために使用することで、ユーザーが簡単にチェスのオープニングを探索、分析、練習できるウェブアプリケーションを作成することができました。",
+      "tagline": "チェスのオープニングを簡単に調べ、分析し、練習することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "通过将开局数据库连接到Lichess API，并使用它来获取指导性的开局信息，如统计和顶级游戏，我能够创建一个网络应用，用户可以轻松地探索、分析和练习国际象棋开局。",
+      "tagline": "轻松探索、分析和练习国际象棋开局。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過將開局數據庫連接到Lichess API，並使用它來獲取指導性的開局信息，如統計和頂級遊戲，我能夠創建一個網絡應用，用戶可以輕鬆地探索、分析和練習國際象棋開局。",
+      "tagline": "輕鬆探索、分析和練習國際象棋開局。"
+    }
+  ],
+  "source_updated_at": 1618566627388
+}

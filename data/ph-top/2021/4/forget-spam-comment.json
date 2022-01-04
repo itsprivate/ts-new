@@ -1,0 +1,70 @@
+{
+  "id": "291092",
+  "commentsCount": 24,
+  "createdAt": "2021-04-08T07:27:46.714Z",
+  "description": "To prevent spam comments plugin blocks the default action path (wp-comments-post.php) for bots and make it accessible over unique hash query string when a visitor scroll to leave a comment. This way it prevents automated spam comment done by bots.",
+  "featuredAt": "2021-04-07T09:28:07Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/9414be33-77c4-4258-9c4e-3eeb8b442852.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://youtu.be/uwIfk08GSwk"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ddb96114-6309-464a-9782-a1785f63a1e6.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6596b069-de6b-4386-8287-cfd8c5f90014.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Forget Spam Comment",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/b9c6a06c95cbf6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Gulshan Kumar",
+    "url": "https://www.producthunt.com/@thegulshankumar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "forget-spam-comment",
+  "tagline": "GDPR compliant anti-spam WordPess plugin",
+  "url": "https://www.producthunt.com/posts/forget-spam-comment?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 71,
+  "website": "https://www.producthunt.com/r/b9c6a06c95cbf6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "WordPress"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-04-07T09:28:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スパムコメントを防ぐために、プラグインはデフォルトのアクションパス（wp-comments-post.php）をボット用にブロックし、訪問者がコメントを残すためにスクロールしたときに、ユニークなハッシュクエリストリングでアクセスできるようにします。こうすることで、ボットによる自動化されたスパムコメントを防ぐことができます。",
+      "tagline": "GDPR準拠のスパム対策WordPessプラグイン"
+    },
+    {
+      "locale": "zh",
+      "description": "为了防止垃圾评论，该插件屏蔽了机器人的默认操作路径(wp-comments-post.php)，并在访客滚动留言时通过唯一的哈希查询字符串进行访问。这样就可以防止机器人自动完成的垃圾评论。",
+      "tagline": "符合GDPR的反垃圾WordPess插件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了防止垃圾評論，該插件屏蔽了機器人的默認操作路徑(wp-comments-post.php)，並在訪客滾動留言時通過唯一的哈希查詢字符串進行訪問。這樣就可以防止機器人自動完成的垃圾評論。",
+      "tagline": "符合GDPR的反垃圾WordPess插件。"
+    }
+  ],
+  "source_updated_at": 1617961888131
+}

@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 838413,
+  "title": "Why Docker is eating your disk space",
+  "description": "I learned recently, in less than ideal circumstances, that Docker doesn't do any log rotation by...",
+  "readable_publish_date": "Sep 23",
+  "slug": "why-docker-is-eating-your-disk-space-1g69",
+  "path": "/juhanakristian/why-docker-is-eating-your-disk-space-1g69",
+  "url": "https://dev.to/juhanakristian/why-docker-is-eating-your-disk-space-1g69",
+  "comments_count": 0,
+  "public_reactions_count": 45,
+  "collection_id": null,
+  "published_timestamp": "2021-09-23T20:08:11Z",
+  "positive_reactions_count": 45,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmECqcrM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eehrdisdn2p3r8d6lwjg.jpg",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kFu9Bg3a--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eehrdisdn2p3r8d6lwjg.jpg",
+  "canonical_url": "https://juhanajauhiainen.com/posts/why-docker-is-eating-all-your-diskspace",
+  "created_at": "2021-09-25T18:48:28.352Z",
+  "edited_at": "2021-09-23T20:18:04Z",
+  "crossposted_at": null,
+  "published_at": "2021-09-23T20:08:11Z",
+  "last_comment_at": "2021-09-23T20:08:11Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "docker",
+    "linux",
+    "webdev"
+  ],
+  "tags": [
+    "docker",
+    "linux",
+    "webdev"
+  ],
+  "user": {
+    "name": "Juhana Jauhiainen",
+    "username": "juhanakristian",
+    "twitter_username": "juhanakristian",
+    "github_username": "juhanakristian",
+    "website_url": "https://juhanajauhiainen.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BkEa6Aac--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/371942/a9fa8aab-29d8-4224-a364-31e1d89af5ac.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--yVsdSnCy--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/371942/a9fa8aab-29d8-4224-a364-31e1d89af5ac.jpg"
+  },
+  "original_created_at": "2021-09-23T20:08:11Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmECqcrM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eehrdisdn2p3r8d6lwjg.jpg",
+  "author": "Juhana Jauhiainen",
+  "author_url": "https://dev.to/juhanakristian",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、理想的とは言えない状況で、Dockerがログローテーションを行わないことを知りました...",
+      "title": "なぜDockerはあなたのディスクスペースを奪うのか"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我在不太理想的情况下了解到，Docker并没有做任何日志轮换，而是通过...",
+      "title": "为什么Docker会吃掉你的磁盘空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我在不太理想的情況下了解到，Docker並沒有做任何日誌輪換，而是通過...",
+      "title": "爲什麼Docker會喫掉你的磁盤空間"
+    }
+  ]
+}

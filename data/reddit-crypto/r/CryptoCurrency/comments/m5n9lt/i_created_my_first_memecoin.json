@@ -1,0 +1,64 @@
+{
+  "author": "SiON42X",
+  "the_new_excerpt": "Note: This is not an offering, shilling, or anything else. Just tech talk.\n\nI've dabbled in programming for years but I'm not very good at it... still, I\nwanted to learn more about tokens and contracts by creating my own token.\n\nI present to you: Avatar…",
+  "original_created_utc": 1615822351,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "注：这不是祭品，不是推销，也不是别的什么。只是技术上的谈资。\n\n我涉足编程多年，但我并不擅长编程......还是，我\n想通过创建自己的代币来学习更多关于代币和合约的知识。\n\n我向你介绍: 阿凡达...",
+      "title": "我创造了我的第一个memecoin!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "注：這不是祭品，不是推銷，也不是別的什麼。只是技術上的談資。\n\n我涉足編程多年，但我並不擅長編程......還是，我\n想通過創建自己的代幣來學習更多關於代幣和合約的知識。\n\n我向你介紹: 阿凡達...",
+      "title": "我創造了我的第一個memecoin!"
+    }
+  ],
+  "title": "I created my first memecoin!",
+  "created_utc": 1615836637,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Note</strong>: This is not an offering, shilling, or anything else. Just tech talk. </p>\n\n<p>I&#39;ve dabbled in programming for years but I&#39;m not very good at it... still, I wanted to learn more about tokens and contracts by creating my own token. </p>\n\n<p>I present to you: <a href=\"https://rinkeby.etherscan.io/token/0x4903f648abe73776125d035a5588b5110fefe9cd\">Avatar AANG</a></p>\n\n<p>It&#39;s only on rinkeby (testnet) because I&#39;m just screwing around. It&#39;s also completely horribly written, not making use of any industry-standard libraries like open-zeppelin because what fun is that. Still, I feel pretty accomplished and this was a great step to actually understanding a bit of the tokens and technologies I&#39;m putting my money into, and I only spent a day learning and toying with it. I&#39;d encourage anyone with some coding skills to try it!</p>\n\n<p>More details:</p>\n\n<ul>\n<li>The contract is named BaSingSe, because there is no bank in Ba Sing Se.</li>\n<li>3 billion tokens were minted on creation which I&#39;m the proud owner of. On the testnet, but still.</li>\n<li>Includes functions to delegate wallet actions (Air), transfer funds (Water), burn tokens (Fire), and store/retrieve SHA hashes (Earth)</li>\n</ul>\n\n<p>You can see the contract details on etherscan. I used Remix with Solidity 0.7.6. </p>\n\n<p>I was able to add my AANG to MetaMask, and even send some <a href=\"https://imgur.com/a/Ce4N43l\">to another test wallet</a>! From there, I wrote some quick Python code to interact with the test wallet and validate the amounts on Rinkeby:</p>\n\n<pre><code>wallet_test % cat test.py\nimport json\nimport hashlib\nfrom web3 import Web3\nfrom web3.middleware import geth_poa_middleware\nfrom dotenv import load_dotenv\nload_dotenv()\n\nimport os\nINFURA_ACCESS_TOKEN = os.getenv(&quot;INFURA_ACCESS_TOKEN&quot;)\nINFURA_PROJECT = os.getenv(&quot;INFURA_PROJECT&quot;)\nWALLET_ADDRESS = os.getenv(&quot;WALLET_ADDRESS&quot;)\nWALLET_PRIVATE_KEY = os.getenv(&quot;WALLET_PRIVATE_KEY&quot;)\nCONTRACT_ADDRESS = &quot;0x4903F648ABe73776125d035a5588b5110FefE9CD&quot;\nwith open(&#39;aang.json&#39;) as f:\n  CONTRACT_ABI = json.load(f)\n\ntestnet = &quot;https://:&quot; + INFURA_ACCESS_TOKEN + &quot;@rinkeby.infura.io/v3/&quot; + INFURA_PROJECT\nweb3 = Web3(Web3.HTTPProvider(testnet));\nweb3.middleware_onion.inject(geth_poa_middleware, layer=0)\nif web3.isConnected():\n  print(&quot;You are connected to the Ethereum test network.&quot;)\n\nbalance = web3.eth.getBalance(WALLET_ADDRESS)\nprint()\nprint(&quot;Current Balances&quot;)\nprint(&quot;----------------&quot;)\nprint(str(web3.fromWei(balance, &quot;ether&quot;)) + &quot; ETH&quot;)\n\nAANG = web3.eth.contract(address=CONTRACT_ADDRESS, abi=CONTRACT_ABI)\nprint(str(AANG.caller.balanceOf(WALLET_ADDRESS) / 1000000000000000000) + &quot; AANG&quot;)\nprint()\n</code></pre>\n\n<p>After running it, I got my results!</p>\n\n<pre><code>wallet_test % pipenv run python test.py\nLoading .env environment variables…\nYou are connected to the Ethereum test network.\n\nCurrent Balances\n----------------\n1.99433569 ETH\n1000.0 AANG\n</code></pre>\n\n<p>I know this probably isn&#39;t horribly impressive or exciting but it was really awesome to interact with blockchain and crypto at this level. I&#39;m excited to do more!</p>\n</div><!-- SC_ON -->",
+  "score": 515,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/HTtz4wJTZnBVBHyVYoaIrQzKaqx1Rt-xD853ZxjaEII.jpg?auto=webp&s=489f99727d5ff711415717c10d73f8c61d62b067",
+          "width": 718,
+          "height": 892
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/HTtz4wJTZnBVBHyVYoaIrQzKaqx1Rt-xD853ZxjaEII.jpg?width=108&crop=smart&auto=webp&s=cb1249114a2d9ff3acf48656663af4e139621fc7",
+            "width": 108,
+            "height": 134
+          },
+          {
+            "url": "https://external-preview.redd.it/HTtz4wJTZnBVBHyVYoaIrQzKaqx1Rt-xD853ZxjaEII.jpg?width=216&crop=smart&auto=webp&s=6045283f3dd3b275c1a71f0282089cd0c9f29f99",
+            "width": 216,
+            "height": 268
+          },
+          {
+            "url": "https://external-preview.redd.it/HTtz4wJTZnBVBHyVYoaIrQzKaqx1Rt-xD853ZxjaEII.jpg?width=320&crop=smart&auto=webp&s=5e6fa0565fa20055a9b940dfdc474e67462566b3",
+            "width": 320,
+            "height": 397
+          },
+          {
+            "url": "https://external-preview.redd.it/HTtz4wJTZnBVBHyVYoaIrQzKaqx1Rt-xD853ZxjaEII.jpg?width=640&crop=smart&auto=webp&s=3ee3ac4f0fb26c05c44a0c3ac226dc43a5f897a6",
+            "width": 640,
+            "height": 795
+          }
+        ],
+        "variants": {},
+        "id": "bUmfaCdiO3MibGeux_FvIkWHYZPy1vbB1q-JpyRvwDM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/m5n9lt/i_created_my_first_memecoin/",
+  "subreddit": "CryptoCurrency",
+  "id": "m5n9lt",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1616147378428
+}

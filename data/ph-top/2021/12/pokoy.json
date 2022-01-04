@@ -1,0 +1,79 @@
+{
+  "id": "324054",
+  "commentsCount": 7,
+  "createdAt": "2021-12-23T18:01:02.306Z",
+  "description": "App for Meditation. It uses your cognitive biases of time estimates and encourages you to meditate more often.",
+  "featuredAt": "2021-12-23T08:01:39Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6f99e765-a429-40af-933c-cc1110a341f7.jpeg?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3d8f448e-84e4-4e33-8142-65460fe03559.jpeg?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Pokoy",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/40a25230ccbf01?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/62c0209d7374c3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Martyn",
+    "url": "https://www.producthunt.com/@martyn_son?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "pokoy",
+  "tagline": "Fibonacci timer for meditation",
+  "url": "https://www.producthunt.com/posts/pokoy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 67,
+  "website": "https://www.producthunt.com/r/62c0209d7374c3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Web App"
+        }
+      },
+      {
+        "node": {
+          "name": "Meditation"
+        }
+      },
+      {
+        "node": {
+          "name": "Time Tracking"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-12-23T08:01:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "瞑想のためのアプリ。時間の見積もりというあなたの認知バイアスを利用し、より頻繁に瞑想するよう促してくれます。",
+      "tagline": "瞑想用フィボナッチタイマー"
+    },
+    {
+      "locale": "zh",
+      "description": "用于冥想的应用程序。它利用你对时间估计的认知偏差，鼓励你更经常地进行冥想。",
+      "tagline": "用于冥想的斐波那契计时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用於冥想的應用程序。它利用你對時間估計的認知偏差，鼓勵你更經常地進行冥想。",
+      "tagline": "用於冥想的斐波那契計時器"
+    }
+  ],
+  "source_updated_at": 1640338940437
+}

@@ -1,0 +1,285 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "  \n\n**Introduction**\n\nFor those of you that are living underneath a rock, options represent the contractual right to purchase or sell blocks of 100 shares in the underlying security. Because each option represents 100 shares, they often provide volatile leveraged like returns and are often used by either professional investors as part of a sophisticated investment strategy or by retail ~~gamblers~~ investors as a way to potentially gain massive amounts of money while putting up a relatively small amount.\n\nIn this post, I will walk you through the pricing fundamentals, the Greeks, and common option strategies. Hopefully, by the end of this post, you will stop losing all your money like a bunch of half-wits. Well, you probably still lose money, but at least you can act like a smartass about it.\n\n**Pricing Fundamentals**\n\nThis section is going to be focused on the fundamentals and theoretical aspects behind what gives an option value. Aka, that boomer shit.\n\nThere are two types of options: American and European. American options give the holder the right to exercise the option at any given time prior to the expiration date (cause freedom, that’s why). These options are the ones you typically buy from your broker. European options on the other hand are fucking gay because they only let you exercise at the expiry date and since none of you cucks ever bought an option from a Europoor before, I will focus solely on American options for this DD post.\n\n**Value Breakdown**\n\nEvery option, regardless if it’s a chad call or a gay put has two pricing components that justify it’s current market value: the intrinsic value and the speculative value. Let me explain via this equation:\n\n*Value = Intrinsic + Speculative Value*\n\nIntrinsic value is how ITM an option is, and the speculative value is the chances of it becoming even more ITM by the time to expiry. For example, assume a call option has a strike of $10 and the current price of the stock is $12. That would mean the intrinsic value is $2. However, the option expires in let’s say 3 months, and is being traded at $3. That would mean the additional 1-dollar difference above the $2 is the speculative value of the option. That $1 represents investors speculating the option will become even more ITM within that three months time frame.\n\nTaking that logic further we can derive the fundamental value for a call and put option as:\n\nCall = stock price – strike + speculative\n\nPut = strike – stock price + speculative\n\n**Leverage**\n\nNow that you know that a single option grants you exposure to multiple shares and the returns are therefore leveraged, you might be thinking to yourself oh gosh, I hope there is a way for me to calculate exactly how leveraged this option will be. Don’t worry, there is. You can calculate exactly how leveraged an option is via this equation:\n\n(Option Delta x Share Price) / Option price\n\n**Volatility**\n\nThis is the big one. If the market is a casino, then this is the bookie playing around with the odds on the board. So if you want to leave the casino with money and not another man’s dick in your hand, you need to know volatility cold. For options trading, there are two kinds of volatility: realized and unrealized.\n\n*Realized*\n\nAll you need to know is that realized volatility is the historic price movement of the stock. It is measured as the standard deviation (or deviation from average price) from the average price of a stock in a given time frame.\n\n*Unrealized Or Implied Volatility*\n\nThis is the most important of the two. To put it in simplest terms, IV is the expected magnitude of a stock’s future price changes expressed as an annual percentage.\n\nThis expected yearly price change can be expressed as the following:\n\n*1-Year Expected Range = stock price +/- (stock price x IV)*\n\nWhat is important with this formula is that it shows the riskier stocks usually have the higher IVs which will result in a larger annual expected range. Taking this a step further we can also visualize the expected stock price changes via standard deviations.\n\nAssuming most of you passed high school, a fair amount of you must be somewhat familiar with the normal distribution graph. We can demonstrate this with a graph of a normal distribution that shows a 1 standard deviation of the price movement of a stock that is trading at $100 with an IV of 25%. This means that with a standard deviation of 1 there is a 68% the stock will trade within the range of $75 - $125.\n\n&#x200B;\n\nhttps://preview.redd.it/1y132y4f4t771.png?width=685&format=png&auto=webp&s=853ece96eaa14f6877711ce07e2c2ea54759652d\n\nWe can also take it a step further and do a 2-standard deviation which will give us a representation of a stock’s fluctuation with a 95% confidence interval. In the chart below, still assuming a stock price of $100 and an IV of 25%, the range has doubled to $50 - $150. Remember, in statistics, we can go all the way to 3-standard deviations which is a confidence interval of 99.7% and that will mean a range of $25 - $175.\n\n&#x200B;\n\nhttps://preview.redd.it/6mg3o4xf4t771.png?width=675&format=png&auto=webp&s=3b1d816612808faea9f3033a18edbf5c0e372209\n\nNow that your high school nostalgia is out of the way, there is one more useful tidbit of knowledge I will show you.\n\nWe can also calculate the stock’s expected move over any period via this equation:\n\n&#x200B;\n\nhttps://preview.redd.it/6pf729pg4t771.png?width=325&format=png&auto=webp&s=7f73cbe0ad10dfbfc42b4dedca03f75b8d4d93c1\n\n\\*\\**19.1 is the square root of 365 or the days in a year. For Simplicity’s sake, I simplified the denominator.*\n\nThis way whenever you buy an option that doesn’t expire in one year exactly, you can still map out the expected price range as stated by option traders. That way, you know what you are getting into and be all surprised when a dick is shoved up your ass (unless you’re in to that, then call me).\n\n**Greeks**\n\nWhat you all need to know is that within the premiums of every option that you buy there are certain assumptions that are priced in, much like there are certain assumptions that are priced into a stock price. These assumptions are often represented by certain Greek letters and by understanding what they are and how they influence the option’s value, you can better understand what you are betting on and whether or not the risks are tilted in your favor.\n\nIn this part, I am going to talk about the four Greeks every last one of you degenerates must know by heart: Vega, Delta, Gamma, and Theta. And no, they aren’t the name of the fraternity your girlfriend goes to so that she can blow half the chads on campus. These guys are the ones that will determine whether you make actual life-changing money or move back to your mother’s basement while your new stepdad subtly judges you.\n\n**Vega (V):** This represents the change in option price per change in the option’s implied volatility. Vega is highest when the stock price is at the strike price and when the option is farther out from the expiration date.\n\nEx: Let’s assume the premium of an option is 7.5, IV is at 20% and vega at 0.12. If the IV moves up from 20 to 21.5, that is a 1.5 increase. The option price will increase by 1.5 x 0.12 = 0.18. 0.18 + 7.5 = 7.68\n\n**Delta (Δ):** Delta is a change in the option’s price due to a change in underlying stock price. Assuming we have a delta of 0.5, that means per every dollar the stock price goes up by, the option premium will go up by 50% of that change. Delta is often highest the farther ITM the option is and will often be the most volatile the closer the strike price is to the stock price. Call options have a delta of 0-1 while Puts have a negative delta of 0 – (-1). The absolute delta of an option also tells you the probability that the option will finish in the money.\n\n**Gamma (T):** Gamma is the rate of change in an option’s delta per 1-point move in the underlying’s share price. It is essentially the first derivative of delta and is used to gauge the price movement of an option relative to how far OTM or ITM it is. Taking this further, gamma is also the second derivative of an option’s price with respect to the underlying share’s price. This is because the delta is the first derivative of share price and since gamma is the first derivative of the delta, it is, therefore, the second derivative of the share price.\n\nWhenever you long an option, you have positive gamma exposure and when you short, you have negative gamma exposure.\n\nIt is also important to note that gamma approaches 0 the farther an option becomes OTM or ITM. Gamma is also at its highest when the strike is ATM.\n\n**Theta (O):** This Greek is probably the easiest to understand. Theta is the time decay of an option as it approaches its expiration date. This means that theta measures the constant and steady decrease in an intrinsic value for an option on a daily basis.\n\n**Delta Curve:**\n\nFor those of you that don’t know, the delta of an option is not stagnant, and its rate of change in accordance with share price changes is represented by the option’s gamma. You can actually map out the expected change in an option’s delta in accordance with the underlying share price via the delta curve.\n\nLet me show you the delta curve for a call option:\n\n&#x200B;\n\nhttps://preview.redd.it/dxzwnvwh4t771.png?width=566&format=png&auto=webp&s=2dd06ce979c5d1be575cab96f5f73342519a129c\n\nNote that the delta becomes more volatile as the option becomes ATM as the stock price rises before slowing that rate of change as the delta approaches 1 the deeper the option goes ITM. The delta will approach 1 because the absolute value of a delta represents the market’s expectation that the option will expire ITM so it makes sense that the more ITM an option becomes, the higher that percentage will be as it approaches 100%.\n\nWhen you look at the delta curve for a put option, you will find a lot of similarities with the call option delta:\n\n&#x200B;\n\nhttps://preview.redd.it/b3i8zgli4t771.png?width=639&format=png&auto=webp&s=ab2abacf875b84c0df9120c3950a16068839691e\n\nJust like with call options, the delta becomes more volatile as the option becomes ATM; however, remember that put options have a negative delta and because it becomes more ITM the lower the stock price is, a rising stock price will result in a delta approaching 0.\n\n**Equations**\n\n\\*\\*\\* *I got these equations from my CFA textbooks so the nomenclature for these option strategies might be different than what you are seeing on your brokerage page. Either way, you can just look at the descriptions I have made and figure out which strategies I am talking about.*\n\nTo wrap this up I am going to go through some popular options strategies that are often mentioned in investing subreddits. These descriptions will include what the option strategies entail, what will be their value at expiration, how much profit you can make, your maximum possible gain, how much money you can lose, and what price you need to be at in order to break even.\n\nFirst here is a list of the variables I will be using and what they represent.\n\nS0 : stock price at open\n\nST : stock price at close\n\nX : strike price\n\nCo : call premium\n\nPo : put premium\n\nXH : higher strike\n\nCL / PL: premium on call/put with a lower strike\n\nCH / PH: premium on call/put with a higher strike\n\n***Covered Call***\n\nThis is longing for a stock and selling an OTM call option on it. People often do this in order to increase the “yield” on investment, meaning they get to haul in some additional cash flow on their stock holdings. Benefits to this strategy include the cash flow you receive from selling calls and its ability to reduce the overall volatility in your portfolio. The downside is that because you sold calls, you limit your upside potential because if the stock price goes over the strike price, it would be assumed that the option you sold will be exercised; therefore, there is a ceiling on how much money you can earn.\n\nExpiration value: ST – Max\\[(ST – X), 0\\]\n\nProfit at expiration ST – Max\\[(ST – X), 0\\] – So + Co\n\nMax Gain (X – So) + Co\n\nMax Loss So – Co\n\nBreakeven Price: So – Co\n\n***Protective Put***\n\nThis is longing a stock and a put option on the stock that is usually OTM. The idea here is that the put option serve as a kind of insurance on your stock holdings. By purchasing puts, you limit yourself on how much money you can possibly lose which will serve you well whenever the market decides to hit the shitter and enters a correction. Another benefit to this strategy is that unlike covered calls, you still have unlimited upside potential on your stock holdings. The downside is the money you have to spend in order to insure your positions.\n\nExpiration value ST + Max\\[( X – ST), 0\\]\n\nProfit at expiration ST + Max\\[( X – ST), 0\\] – So – Po\n\nMax Gain ST – So – Po\n\nMax Loss: So – X + Po\n\nB.E price So + Po\n\n***Bull Call Spread***\n\nThis is a directional play with options. Meaning in this case you are betting that the stock will go up. Bull Calls is longing for a call option with a lower strike and at the same time selling a call option on the same stock with the same expiry date at a higher strike. Here you are trying to profit off the deltas in which the positive delta for the option with the lower strike will be greater than the delta for the option with the higher strike and as the stock price goes up, you can profit from the delta difference. A benefit to this strategy is that because you are selling an option as well as buying one, you can limit your cash outflow. A downside is that you also limit the amount of money you can gain with this strategy. You can also do this strategy with put options in which you sell puts with the higher strike and buy puts with the lower strikes. For simplicity’s sake, I will just list the equations for the strategy with call options.\n\nProfit at expiration Max( 0, ST – XL ) – Max(0, ST – XH) – CL + CH\n\nMax Profit XH – XL – CL + CH\n\nMax Loss CL – CH\n\nBE XL + CL – CH\n\n***Bear Put Spread***\n\nSimilar direction play just like Bull Calls but in this case you are betting the stock is going down. Here you are longing put options with the higher strike and selling puts with a lower strike. The expiration date must be the same for both options. The rationale of profiting off the Greeks and the pros and cons remain similar to Bull Calls.\n\nProfit at expiration Max(0, XH – ST) – Max(0, XL – ST) – PH + PL\n\nMax Profit XH – XL – PH + PL\n\nMax loss PH – PL\n\nBreakeven XH + PL – PH\n\n***Collar***\n\nThis strategy is used when you think a stock is going to trade in a certain range. Here you are longing the stock, longing an ITM protective put, and selling an OTM call. The idea is that the put will provide downside protection while the call provides a ceiling on how much money you can earn. The main benefit is that it allows you to buy protection while limiting your cash outflow since you sold a call. The downside is that upside is limited just like a covered call strategy.\n\nProfit at expiration (ST – So) + (XL – ST) – (ST – XH) – (Po – Co)\n\nMax profit XH – So – (Po – Co)\n\nMax loss So – XL + (Po – Co)\n\nBreakeven So + (Po / Co)\n\n***Straddle***\n\nThis is a directional play except over here you have no idea what the direction is. This strategy is ideal when betting on the general volatility of the stock without any idea on where the direction of the stock will go. Here you are longing both a call and a put on the same stock at the same expiration and at the same strike. The idea is that as the stock goes up or down, the delta of one option will slowly go to 1 while the other goes to 0 and you can profit off the gamma. The benefit to this is that you don’t need to bet as much in a certain direction, the downside however is that you are longing volatility and if the volatility does not reach high enough to what is priced into the premium, then you will lose money on both the call and the put as they both expire to 0.\n\nProfit Max(0, ST – X)\n\nMax profit = Co + Po\n\nMax loss Co + Po\n\nBreakeven X – (Co + Po) and X + (Co + Po)",
+  "author_fullname": "t2_2m0x2gmw",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 2,
+  "clicked": false,
+  "title": "A Beginner and Intermediate Guide To Options: Everything You Need To Know To Stop Losing Money Like A Complete Tard",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Discussion"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "question",
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "6mg3o4xf4t771": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 80,
+          "x": 108,
+          "u": "https://preview.redd.it/6mg3o4xf4t771.png?width=108&crop=smart&auto=webp&s=c85be56eed556e0a1ce0a1d5d32e480ae1a1b74a"
+        },
+        {
+          "y": 161,
+          "x": 216,
+          "u": "https://preview.redd.it/6mg3o4xf4t771.png?width=216&crop=smart&auto=webp&s=2e335ae499291e9016b196f5abc56566354a7d84"
+        },
+        {
+          "y": 238,
+          "x": 320,
+          "u": "https://preview.redd.it/6mg3o4xf4t771.png?width=320&crop=smart&auto=webp&s=952125bdfb1486fd68d8df544b674aed10bd1b59"
+        },
+        {
+          "y": 477,
+          "x": 640,
+          "u": "https://preview.redd.it/6mg3o4xf4t771.png?width=640&crop=smart&auto=webp&s=7dc65df52e6a89626cfc9df1bb0b5d28362f10bf"
+        }
+      ],
+      "s": {
+        "y": 504,
+        "x": 675,
+        "u": "https://preview.redd.it/6mg3o4xf4t771.png?width=675&format=png&auto=webp&s=3b1d816612808faea9f3033a18edbf5c0e372209"
+      },
+      "id": "6mg3o4xf4t771"
+    },
+    "dxzwnvwh4t771": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 74,
+          "x": 108,
+          "u": "https://preview.redd.it/dxzwnvwh4t771.png?width=108&crop=smart&auto=webp&s=87fe6134028f7e76cd66ce3635b371f6d22ffe57"
+        },
+        {
+          "y": 149,
+          "x": 216,
+          "u": "https://preview.redd.it/dxzwnvwh4t771.png?width=216&crop=smart&auto=webp&s=b6bf96ca260de6bcdea304af45c4167694625b14"
+        },
+        {
+          "y": 222,
+          "x": 320,
+          "u": "https://preview.redd.it/dxzwnvwh4t771.png?width=320&crop=smart&auto=webp&s=64875255d5a618d1441570a3a92711dd72fa6f95"
+        }
+      ],
+      "s": {
+        "y": 393,
+        "x": 566,
+        "u": "https://preview.redd.it/dxzwnvwh4t771.png?width=566&format=png&auto=webp&s=2dd06ce979c5d1be575cab96f5f73342519a129c"
+      },
+      "id": "dxzwnvwh4t771"
+    },
+    "1y132y4f4t771": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 80,
+          "x": 108,
+          "u": "https://preview.redd.it/1y132y4f4t771.png?width=108&crop=smart&auto=webp&s=46c129f2fc6935b29d8fe9f6cb185746a87a0c1a"
+        },
+        {
+          "y": 161,
+          "x": 216,
+          "u": "https://preview.redd.it/1y132y4f4t771.png?width=216&crop=smart&auto=webp&s=a4b79ce13a600c542a79b241990dbc6f1619c440"
+        },
+        {
+          "y": 238,
+          "x": 320,
+          "u": "https://preview.redd.it/1y132y4f4t771.png?width=320&crop=smart&auto=webp&s=6764a5fdf2598ea7dc8b0414e864abc864d1db80"
+        },
+        {
+          "y": 477,
+          "x": 640,
+          "u": "https://preview.redd.it/1y132y4f4t771.png?width=640&crop=smart&auto=webp&s=856b386affe6443f50c9d48b90c7b11d03c5d8ee"
+        }
+      ],
+      "s": {
+        "y": 511,
+        "x": 685,
+        "u": "https://preview.redd.it/1y132y4f4t771.png?width=685&format=png&auto=webp&s=853ece96eaa14f6877711ce07e2c2ea54759652d"
+      },
+      "id": "1y132y4f4t771"
+    },
+    "b3i8zgli4t771": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 66,
+          "x": 108,
+          "u": "https://preview.redd.it/b3i8zgli4t771.png?width=108&crop=smart&auto=webp&s=0d3dfeab9cacb28bae4699460256d7637bdaa9ad"
+        },
+        {
+          "y": 133,
+          "x": 216,
+          "u": "https://preview.redd.it/b3i8zgli4t771.png?width=216&crop=smart&auto=webp&s=f6d15701d7f19b3faa0e19c05b2f4e315ef9e978"
+        },
+        {
+          "y": 197,
+          "x": 320,
+          "u": "https://preview.redd.it/b3i8zgli4t771.png?width=320&crop=smart&auto=webp&s=7578ed607358f7b2f83041668fe80f1208728d2b"
+        }
+      ],
+      "s": {
+        "y": 395,
+        "x": 639,
+        "u": "https://preview.redd.it/b3i8zgli4t771.png?width=639&format=png&auto=webp&s=ab2abacf875b84c0df9120c3950a16068839691e"
+      },
+      "id": "b3i8zgli4t771"
+    },
+    "6pf729pg4t771": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 17,
+          "x": 108,
+          "u": "https://preview.redd.it/6pf729pg4t771.png?width=108&crop=smart&auto=webp&s=9ac2f7bab2e164626d1733dc1dd8902a860af7f4"
+        },
+        {
+          "y": 34,
+          "x": 216,
+          "u": "https://preview.redd.it/6pf729pg4t771.png?width=216&crop=smart&auto=webp&s=cf73a088296f15a02c6f88bb96ff0cb26a869ec8"
+        },
+        {
+          "y": 51,
+          "x": 320,
+          "u": "https://preview.redd.it/6pf729pg4t771.png?width=320&crop=smart&auto=webp&s=2f4e8aa354463eea505b333e1ef2dd08da7f20b9"
+        }
+      ],
+      "s": {
+        "y": 52,
+        "x": 325,
+        "u": "https://preview.redd.it/6pf729pg4t771.png?width=325&format=png&auto=webp&s=7f73cbe0ad10dfbfc42b4dedca03f75b8d4d93c1"
+      },
+      "id": "6pf729pg4t771"
+    }
+  },
+  "name": "t3_o8wqjy",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 20152,
+  "total_awards_received": 57,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": true,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "Discussion",
+  "can_mod_post": false,
+  "score": 20152,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 10,
+    "gid_2": 2
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1624827948,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Introduction</strong></p>\n\n<p>For those of you that are living underneath a rock, options represent the contractual right to purchase or sell blocks of 100 shares in the underlying security. Because each option represents 100 shares, they often provide volatile leveraged like returns and are often used by either professional investors as part of a sophisticated investment strategy or by retail <del>gamblers</del> investors as a way to potentially gain massive amounts of money while putting up a relatively small amount.</p>\n\n<p>In this post, I will walk you through the pricing fundamentals, the Greeks, and common option strategies. Hopefully, by the end of this post, you will stop losing all your money like a bunch of half-wits. Well, you probably still lose money, but at least you can act like a smartass about it.</p>\n\n<p><strong>Pricing Fundamentals</strong></p>\n\n<p>This section is going to be focused on the fundamentals and theoretical aspects behind what gives an option value. Aka, that boomer shit.</p>\n\n<p>There are two types of options: American and European. American options give the holder the right to exercise the option at any given time prior to the expiration date (cause freedom, that’s why). These options are the ones you typically buy from your broker. European options on the other hand are fucking gay because they only let you exercise at the expiry date and since none of you cucks ever bought an option from a Europoor before, I will focus solely on American options for this DD post.</p>\n\n<p><strong>Value Breakdown</strong></p>\n\n<p>Every option, regardless if it’s a chad call or a gay put has two pricing components that justify it’s current market value: the intrinsic value and the speculative value. Let me explain via this equation:</p>\n\n<p><em>Value = Intrinsic + Speculative Value</em></p>\n\n<p>Intrinsic value is how ITM an option is, and the speculative value is the chances of it becoming even more ITM by the time to expiry. For example, assume a call option has a strike of $10 and the current price of the stock is $12. That would mean the intrinsic value is $2. However, the option expires in let’s say 3 months, and is being traded at $3. That would mean the additional 1-dollar difference above the $2 is the speculative value of the option. That $1 represents investors speculating the option will become even more ITM within that three months time frame.</p>\n\n<p>Taking that logic further we can derive the fundamental value for a call and put option as:</p>\n\n<p>Call = stock price – strike + speculative</p>\n\n<p>Put = strike – stock price + speculative</p>\n\n<p><strong>Leverage</strong></p>\n\n<p>Now that you know that a single option grants you exposure to multiple shares and the returns are therefore leveraged, you might be thinking to yourself oh gosh, I hope there is a way for me to calculate exactly how leveraged this option will be. Don’t worry, there is. You can calculate exactly how leveraged an option is via this equation:</p>\n\n<p>(Option Delta x Share Price) / Option price</p>\n\n<p><strong>Volatility</strong></p>\n\n<p>This is the big one. If the market is a casino, then this is the bookie playing around with the odds on the board. So if you want to leave the casino with money and not another man’s dick in your hand, you need to know volatility cold. For options trading, there are two kinds of volatility: realized and unrealized.</p>\n\n<p><em>Realized</em></p>\n\n<p>All you need to know is that realized volatility is the historic price movement of the stock. It is measured as the standard deviation (or deviation from average price) from the average price of a stock in a given time frame.</p>\n\n<p><em>Unrealized Or Implied Volatility</em></p>\n\n<p>This is the most important of the two. To put it in simplest terms, IV is the expected magnitude of a stock’s future price changes expressed as an annual percentage.</p>\n\n<p>This expected yearly price change can be expressed as the following:</p>\n\n<p><em>1-Year Expected Range = stock price +/- (stock price x IV)</em></p>\n\n<p>What is important with this formula is that it shows the riskier stocks usually have the higher IVs which will result in a larger annual expected range. Taking this a step further we can also visualize the expected stock price changes via standard deviations.</p>\n\n<p>Assuming most of you passed high school, a fair amount of you must be somewhat familiar with the normal distribution graph. We can demonstrate this with a graph of a normal distribution that shows a 1 standard deviation of the price movement of a stock that is trading at $100 with an IV of 25%. This means that with a standard deviation of 1 there is a 68% the stock will trade within the range of $75 - $125.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/1y132y4f4t771.png?width=685&amp;format=png&amp;auto=webp&amp;s=853ece96eaa14f6877711ce07e2c2ea54759652d\">https://preview.redd.it/1y132y4f4t771.png?width=685&amp;format=png&amp;auto=webp&amp;s=853ece96eaa14f6877711ce07e2c2ea54759652d</a></p>\n\n<p>We can also take it a step further and do a 2-standard deviation which will give us a representation of a stock’s fluctuation with a 95% confidence interval. In the chart below, still assuming a stock price of $100 and an IV of 25%, the range has doubled to $50 - $150. Remember, in statistics, we can go all the way to 3-standard deviations which is a confidence interval of 99.7% and that will mean a range of $25 - $175.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/6mg3o4xf4t771.png?width=675&amp;format=png&amp;auto=webp&amp;s=3b1d816612808faea9f3033a18edbf5c0e372209\">https://preview.redd.it/6mg3o4xf4t771.png?width=675&amp;format=png&amp;auto=webp&amp;s=3b1d816612808faea9f3033a18edbf5c0e372209</a></p>\n\n<p>Now that your high school nostalgia is out of the way, there is one more useful tidbit of knowledge I will show you.</p>\n\n<p>We can also calculate the stock’s expected move over any period via this equation:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/6pf729pg4t771.png?width=325&amp;format=png&amp;auto=webp&amp;s=7f73cbe0ad10dfbfc42b4dedca03f75b8d4d93c1\">https://preview.redd.it/6pf729pg4t771.png?width=325&amp;format=png&amp;auto=webp&amp;s=7f73cbe0ad10dfbfc42b4dedca03f75b8d4d93c1</a></p>\n\n<p>**<em>19.1 is the square root of 365 or the days in a year. For Simplicity’s sake, I simplified the denominator.</em></p>\n\n<p>This way whenever you buy an option that doesn’t expire in one year exactly, you can still map out the expected price range as stated by option traders. That way, you know what you are getting into and be all surprised when a dick is shoved up your ass (unless you’re in to that, then call me).</p>\n\n<p><strong>Greeks</strong></p>\n\n<p>What you all need to know is that within the premiums of every option that you buy there are certain assumptions that are priced in, much like there are certain assumptions that are priced into a stock price. These assumptions are often represented by certain Greek letters and by understanding what they are and how they influence the option’s value, you can better understand what you are betting on and whether or not the risks are tilted in your favor.</p>\n\n<p>In this part, I am going to talk about the four Greeks every last one of you degenerates must know by heart: Vega, Delta, Gamma, and Theta. And no, they aren’t the name of the fraternity your girlfriend goes to so that she can blow half the chads on campus. These guys are the ones that will determine whether you make actual life-changing money or move back to your mother’s basement while your new stepdad subtly judges you.</p>\n\n<p><strong>Vega (V):</strong> This represents the change in option price per change in the option’s implied volatility. Vega is highest when the stock price is at the strike price and when the option is farther out from the expiration date.</p>\n\n<p>Ex: Let’s assume the premium of an option is 7.5, IV is at 20% and vega at 0.12. If the IV moves up from 20 to 21.5, that is a 1.5 increase. The option price will increase by 1.5 x 0.12 = 0.18. 0.18 + 7.5 = 7.68</p>\n\n<p><strong>Delta (Δ):</strong> Delta is a change in the option’s price due to a change in underlying stock price. Assuming we have a delta of 0.5, that means per every dollar the stock price goes up by, the option premium will go up by 50% of that change. Delta is often highest the farther ITM the option is and will often be the most volatile the closer the strike price is to the stock price. Call options have a delta of 0-1 while Puts have a negative delta of 0 – (-1). The absolute delta of an option also tells you the probability that the option will finish in the money.</p>\n\n<p><strong>Gamma (T):</strong> Gamma is the rate of change in an option’s delta per 1-point move in the underlying’s share price. It is essentially the first derivative of delta and is used to gauge the price movement of an option relative to how far OTM or ITM it is. Taking this further, gamma is also the second derivative of an option’s price with respect to the underlying share’s price. This is because the delta is the first derivative of share price and since gamma is the first derivative of the delta, it is, therefore, the second derivative of the share price.</p>\n\n<p>Whenever you long an option, you have positive gamma exposure and when you short, you have negative gamma exposure.</p>\n\n<p>It is also important to note that gamma approaches 0 the farther an option becomes OTM or ITM. Gamma is also at its highest when the strike is ATM.</p>\n\n<p><strong>Theta (O):</strong> This Greek is probably the easiest to understand. Theta is the time decay of an option as it approaches its expiration date. This means that theta measures the constant and steady decrease in an intrinsic value for an option on a daily basis.</p>\n\n<p><strong>Delta Curve:</strong></p>\n\n<p>For those of you that don’t know, the delta of an option is not stagnant, and its rate of change in accordance with share price changes is represented by the option’s gamma. You can actually map out the expected change in an option’s delta in accordance with the underlying share price via the delta curve.</p>\n\n<p>Let me show you the delta curve for a call option:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/dxzwnvwh4t771.png?width=566&amp;format=png&amp;auto=webp&amp;s=2dd06ce979c5d1be575cab96f5f73342519a129c\">https://preview.redd.it/dxzwnvwh4t771.png?width=566&amp;format=png&amp;auto=webp&amp;s=2dd06ce979c5d1be575cab96f5f73342519a129c</a></p>\n\n<p>Note that the delta becomes more volatile as the option becomes ATM as the stock price rises before slowing that rate of change as the delta approaches 1 the deeper the option goes ITM. The delta will approach 1 because the absolute value of a delta represents the market’s expectation that the option will expire ITM so it makes sense that the more ITM an option becomes, the higher that percentage will be as it approaches 100%.</p>\n\n<p>When you look at the delta curve for a put option, you will find a lot of similarities with the call option delta:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/b3i8zgli4t771.png?width=639&amp;format=png&amp;auto=webp&amp;s=ab2abacf875b84c0df9120c3950a16068839691e\">https://preview.redd.it/b3i8zgli4t771.png?width=639&amp;format=png&amp;auto=webp&amp;s=ab2abacf875b84c0df9120c3950a16068839691e</a></p>\n\n<p>Just like with call options, the delta becomes more volatile as the option becomes ATM; however, remember that put options have a negative delta and because it becomes more ITM the lower the stock price is, a rising stock price will result in a delta approaching 0.</p>\n\n<p><strong>Equations</strong></p>\n\n<p>*** <em>I got these equations from my CFA textbooks so the nomenclature for these option strategies might be different than what you are seeing on your brokerage page. Either way, you can just look at the descriptions I have made and figure out which strategies I am talking about.</em></p>\n\n<p>To wrap this up I am going to go through some popular options strategies that are often mentioned in investing subreddits. These descriptions will include what the option strategies entail, what will be their value at expiration, how much profit you can make, your maximum possible gain, how much money you can lose, and what price you need to be at in order to break even.</p>\n\n<p>First here is a list of the variables I will be using and what they represent.</p>\n\n<p>S0 : stock price at open</p>\n\n<p>ST : stock price at close</p>\n\n<p>X : strike price</p>\n\n<p>Co : call premium</p>\n\n<p>Po : put premium</p>\n\n<p>XH : higher strike</p>\n\n<p>CL / PL: premium on call/put with a lower strike</p>\n\n<p>CH / PH: premium on call/put with a higher strike</p>\n\n<p><strong><em>Covered Call</em></strong></p>\n\n<p>This is longing for a stock and selling an OTM call option on it. People often do this in order to increase the “yield” on investment, meaning they get to haul in some additional cash flow on their stock holdings. Benefits to this strategy include the cash flow you receive from selling calls and its ability to reduce the overall volatility in your portfolio. The downside is that because you sold calls, you limit your upside potential because if the stock price goes over the strike price, it would be assumed that the option you sold will be exercised; therefore, there is a ceiling on how much money you can earn.</p>\n\n<p>Expiration value: ST – Max[(ST – X), 0]</p>\n\n<p>Profit at expiration ST – Max[(ST – X), 0] – So + Co</p>\n\n<p>Max Gain (X – So) + Co</p>\n\n<p>Max Loss So – Co</p>\n\n<p>Breakeven Price: So – Co</p>\n\n<p><strong><em>Protective Put</em></strong></p>\n\n<p>This is longing a stock and a put option on the stock that is usually OTM. The idea here is that the put option serve as a kind of insurance on your stock holdings. By purchasing puts, you limit yourself on how much money you can possibly lose which will serve you well whenever the market decides to hit the shitter and enters a correction. Another benefit to this strategy is that unlike covered calls, you still have unlimited upside potential on your stock holdings. The downside is the money you have to spend in order to insure your positions.</p>\n\n<p>Expiration value ST + Max[( X – ST), 0]</p>\n\n<p>Profit at expiration ST + Max[( X – ST), 0] – So – Po</p>\n\n<p>Max Gain ST – So – Po</p>\n\n<p>Max Loss: So – X + Po</p>\n\n<p>B.E price So + Po</p>\n\n<p><strong><em>Bull Call Spread</em></strong></p>\n\n<p>This is a directional play with options. Meaning in this case you are betting that the stock will go up. Bull Calls is longing for a call option with a lower strike and at the same time selling a call option on the same stock with the same expiry date at a higher strike. Here you are trying to profit off the deltas in which the positive delta for the option with the lower strike will be greater than the delta for the option with the higher strike and as the stock price goes up, you can profit from the delta difference. A benefit to this strategy is that because you are selling an option as well as buying one, you can limit your cash outflow. A downside is that you also limit the amount of money you can gain with this strategy. You can also do this strategy with put options in which you sell puts with the higher strike and buy puts with the lower strikes. For simplicity’s sake, I will just list the equations for the strategy with call options.</p>\n\n<p>Profit at expiration Max( 0, ST – XL ) – Max(0, ST – XH) – CL + CH</p>\n\n<p>Max Profit XH – XL – CL + CH</p>\n\n<p>Max Loss CL – CH</p>\n\n<p>BE XL + CL – CH</p>\n\n<p><strong><em>Bear Put Spread</em></strong></p>\n\n<p>Similar direction play just like Bull Calls but in this case you are betting the stock is going down. Here you are longing put options with the higher strike and selling puts with a lower strike. The expiration date must be the same for both options. The rationale of profiting off the Greeks and the pros and cons remain similar to Bull Calls.</p>\n\n<p>Profit at expiration Max(0, XH – ST) – Max(0, XL – ST) – PH + PL</p>\n\n<p>Max Profit XH – XL – PH + PL</p>\n\n<p>Max loss PH – PL</p>\n\n<p>Breakeven XH + PL – PH</p>\n\n<p><strong><em>Collar</em></strong></p>\n\n<p>This strategy is used when you think a stock is going to trade in a certain range. Here you are longing the stock, longing an ITM protective put, and selling an OTM call. The idea is that the put will provide downside protection while the call provides a ceiling on how much money you can earn. The main benefit is that it allows you to buy protection while limiting your cash outflow since you sold a call. The downside is that upside is limited just like a covered call strategy.</p>\n\n<p>Profit at expiration (ST – So) + (XL – ST) – (ST – XH) – (Po – Co)</p>\n\n<p>Max profit XH – So – (Po – Co)</p>\n\n<p>Max loss So – XL + (Po – Co)</p>\n\n<p>Breakeven So + (Po / Co)</p>\n\n<p><strong><em>Straddle</em></strong></p>\n\n<p>This is a directional play except over here you have no idea what the direction is. This strategy is ideal when betting on the general volatility of the stock without any idea on where the direction of the stock will go. Here you are longing both a call and a put on the same stock at the same expiration and at the same strike. The idea is that as the stock goes up or down, the delta of one option will slowly go to 1 while the other goes to 0 and you can profit off the gamma. The benefit to this is that you don’t need to bet as much in a certain direction, the downside however is that you are longing volatility and if the volatility does not reach high enough to what is priced into the premium, then you will lose money on both the call and the put as they both expire to 0.</p>\n\n<p>Profit Max(0, ST – X)</p>\n\n<p>Max profit = Co + Po</p>\n\n<p>Max loss Co + Po</p>\n\n<p>Breakeven X – (Co + Po) and X + (Co + Po)</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "96f6c79e-b853-11e5-a4cb-0ebdf030e05d",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#800080",
+  "id": "o8wqjy",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "GushingGranny1",
+  "discussion_type": null,
+  "num_comments": 169,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/o8wqjy/a_beginner_and_intermediate_guide_to_options/",
+  "subreddit_subscribers": 10598970,
+  "created_utc": 1624807417,
+  "num_crossposts": 3,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1624799148,
+  "the_new_excerpt": "Introduction\n\nFor those of you that are living underneath a rock, options represent the\ncontractual right to purchase or sell blocks of 100 shares in the underlying\nsecurity. Because each option represents 100 shares, they often provide volatile\nleveraged like returns and are often used by either…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "はじめに\n\n岩の下で生活している人のために説明すると、オプションとは、10個のブロックを売買する契約上の権利のことです。\nオプションとは、対象となる有価証券を100株単位で購入または売却する契約上の権利です。\nオプションとは、対象となる有価証券を100株単位で売買する契約上の権利です。1 つのオプションが 100 株に相当するため、レバレッジを効かせたようなボラティリティの高いリターンが期待できます。\nレバレッジを効かせたようなリターンを得ることができるため、多くの場合は...",
+      "title": "初心者・中級者のためのオプションガイド 大損しないために知っておきたいオプションの基礎知識"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "简介\n\n对于那些生活在石头下面的人来说，期权代表着\n买入或卖出100股相关股票的合同权利。\n证券的合同权利。由于每个期权代表100股，它们通常提供波动性的\n由于每个期权代表100股，它们经常提供波动的、类似于杠杆的回报，并且经常被以下两种人使用",
+      "title": "期权的初级和中级指南。你需要知道的一切，让你不再像个完全的傻瓜一样输钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "簡介\n\n對於那些生活在石頭下面的人來說，期權代表着\n買入或賣出100股相關股票的合同權利。\n證券的合同權利。由於每個期權代表100股，它們通常提供波動性的\n由於每個期權代表100股，它們經常提供波動的、類似於槓桿的回報，並且經常被以下兩種人使用",
+      "title": "期權的初級和中級指南。你需要知道的一切，讓你不再像個完全的傻瓜一樣輸錢"
+    }
+  ],
+  "source_updated_at": 1625218971910
+}

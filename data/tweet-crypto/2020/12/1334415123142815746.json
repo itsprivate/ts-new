@@ -1,0 +1,151 @@
+{
+  "created_at": "Thu Dec 24 7:35:20 +0000 2020",
+  "id_str": "1334415123142815746",
+  "full_text": "RT @blockfolio: All of crypto twitter to bitcoin rn: https://t.co/3qhRpyEe9h",
+  "display_text_range": [
+    0,
+    76
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "blockfolio",
+        "name": "Blockfolio",
+        "id": 3983151149,
+        "id_str": "3983151149",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1333840379951657000,
+        "id_str": "1333840379951656962",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333840379951656962/pu/img/GTRELR_VD0HVgZoF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333840379951656962/pu/img/GTRELR_VD0HVgZoF.jpg",
+        "url": "https://t.co/3qhRpyEe9h",
+        "display_url": "pic.twitter.com/3qhRpyEe9h",
+        "expanded_url": "https://twitter.com/blockfolio/status/1333840419596226566/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1333840419596226600,
+        "source_status_id_str": "1333840419596226566",
+        "source_user_id": 3983151149,
+        "source_user_id_str": "3983151149"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 278,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Dec 03 08:32:12 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@block folio：所有加密推特到比特币rn：https://t.co/3qhRpyEe9h",
+      "retweeted_status_full_text": "所有加密推特到比特币rn：https://t.co/3qhRpyEe9h"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@block folio：所有加密推特到比特幣rn：https://t.co/3qhRpyEe9h",
+      "retweeted_status_full_text": "所有加密推特到比特幣rn：https://t.co/3qhRpyEe9h"
+    }
+  ],
+  "source_updated_at": 1609271718607,
+  "retweeted_status": {
+    "created_at": "Tue Dec 01 18:28:32 +0000 2020",
+    "id_str": "1333840419596226566",
+    "full_text": "All of crypto twitter to bitcoin rn: https://t.co/3qhRpyEe9h",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1333840379951657000,
+          "id_str": "1333840379951656962",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333840379951656962/pu/img/GTRELR_VD0HVgZoF.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333840379951656962/pu/img/GTRELR_VD0HVgZoF.jpg",
+          "url": "https://t.co/3qhRpyEe9h",
+          "display_url": "pic.twitter.com/3qhRpyEe9h",
+          "expanded_url": "https://twitter.com/blockfolio/status/1333840419596226566/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Blockfolio",
+      "screen_name": "blockfolio",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052694236053757952/wcfxl0GO_normal.jpg"
+    },
+    "retweet_count": 279,
+    "favorite_count": 1697,
+    "possibly_sensitive": false
+  }
+}

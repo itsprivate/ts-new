@@ -1,0 +1,78 @@
+{
+  "author": "team-burdy",
+  "original_created_utc": 1631807300,
+  "title": "OpenSource Headless CMS - 100% TypeScript",
+  "created_utc": 1631846472,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>We are excited to share an open source project that we&#39;ve been working on.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/kuiqbsfbzvn71.png?width=1946&amp;format=png&amp;auto=webp&amp;s=d55afe4e9dcd99b2a5dc19fa6869ffc1b17ea532\">Burdy CMS</a></p>\n\n<p>Meet <a href=\"https://burdy.io/\">Burdy</a> - a highly extensible and feature rich CMS written in <strong>TypeScript</strong>. It supports multiple database types (MySQL, MariaDB, PostgreSQL and SQLite). You can easily extend the code-base using the hook system, and quickly add your APIs (check our docs).</p>\n\n<p>Our stack consists of <strong>Node.js</strong> and <strong>React</strong>. We use Express for routing and Fluent UI library for UI components. For database models we chose TypeORM, simplifying your approach to writing new models.</p>\n\n<p>GitHub: <a href=\"https://github.com/burdy-io/burdy\">https://github.com/burdy-io/burdy</a></p>\n\n<p>Documentation: <a href=\"http://burdy.io/docs/\">https://burdy.io/docs/</a> (WIP)</p>\n\n<p><strong>Quick Start</strong></p>\n\n<p>It&#39;s simple, just run:</p>\n\n<pre><code>npx create-burdy-app my-project cd my-project npm run dev \n</code></pre>\n\n<p><strong>Main Out Of The Box Features</strong></p>\n\n<p>- <strong>Digital Asset Management</strong> - inspired by cloud applications look and feel (such as OneDrive) - structure your assets, edit them.</p>\n\n<p>- <strong>Pages</strong> - multi-level column view pages are supported for an easy way of structuring content, as well as content versioning.</p>\n\n<p>- <strong>Users</strong> - you can have permission based authoring experience using Burdy.</p>\n\n<p>- <strong>Content Types</strong> - we have 16 field types out of the box, and it&#39;s very simple to add your own ones (using few simple hooks).</p>\n\n<p>- <strong>Tags</strong> - categorise your posts and assets in multi-level fashion.</p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p>We are still working on documenting everything, and we hope you like our project. Please let us know your thoughts, as we plan to grow the community and tailor our product towards our users.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?auto=webp&s=cbad510a34e0c4249ed976b0f1de64c32f769f13",
+          "width": 2048,
+          "height": 1280
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?width=108&crop=smart&auto=webp&s=f580c1ae7b8f5e1d1a2e28d053568617ae1c671a",
+            "width": 108,
+            "height": 67
+          },
+          {
+            "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?width=216&crop=smart&auto=webp&s=94b9464f005cb92c02ed4b08c423faa432408cc0",
+            "width": 216,
+            "height": 135
+          },
+          {
+            "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?width=320&crop=smart&auto=webp&s=b2d76a89ac4f294bfca39c26010f922f54911372",
+            "width": 320,
+            "height": 200
+          },
+          {
+            "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?width=640&crop=smart&auto=webp&s=688842be271c5fff430b672eb342f2731826d2b9",
+            "width": 640,
+            "height": 400
+          },
+          {
+            "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?width=960&crop=smart&auto=webp&s=fa98f72dbdc0ba58811156ee61a18cd4d7f526d7",
+            "width": 960,
+            "height": 600
+          },
+          {
+            "url": "https://external-preview.redd.it/JZS4nfzuG3xe3bvuvTEwoGtIO10oYEmDk7I676pjEFY.jpg?width=1080&crop=smart&auto=webp&s=3de79052e46b399e1f513bcce408aba9f6da1d55",
+            "width": 1080,
+            "height": 675
+          }
+        ],
+        "variants": {},
+        "id": "YQWixA1gjx8sy0MQoDjL0zjvXnY5Rg_4EvUMEZX3310"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/ppfwjh/opensource_headless_cms_100_typescript/",
+  "subreddit": "SideProject",
+  "id": "ppfwjh",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hi everyone,\n\nWe are excited to share an open source project that we've been working on.\n\n\n\nBurdy CMS\n[https://preview.redd.it/kuiqbsfbzvn71.png?width=1946&format=png&auto=webp&s=d55afe4e9dcd99b2a5dc19fa6869ffc1b17ea532]\n\nMeet Burdy [https://burdy.io/] - a highly extensible and feature rich…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n今回は、私たちが取り組んでいるオープンソースプロジェクトをご紹介します。\n\n\n\nバーディCMS\n[https://preview.redd.it/kuiqbsfbzvn71.png?width=1946&format=png&auto=webp&s=d55afe4e9dcd99b2a5dc19fa6869ffc1b17ea532]\n\nBurdy [https://burdy.io/] は、拡張性が高く、豊富な機能を備えた...",
+      "title": "オープンソースのヘッドレスCMS - 100% TypeScript"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n我们很高兴与大家分享我们一直在做的一个开源项目。\n\n\n\n布尔迪CMS\n[https://preview.redd.it/kuiqbsfbzvn71.png?width=1946&format=png&auto=webp&s=d55afe4e9dcd99b2a5dc19fa6869ffc1b17ea532]\n\n满足Burdy [https://burdy.io/] - 一个高度可扩展和功能丰富的...",
+      "title": "开源无头CMS - 100% TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n我們很高興與大家分享我們一直在做的一個開源項目。\n\n\n\n布爾迪CMS\n[https://preview.redd.it/kuiqbsfbzvn71.png?width=1946&format=png&auto=webp&s=d55afe4e9dcd99b2a5dc19fa6869ffc1b17ea532]\n\n滿足Burdy [https://burdy.io/] - 一個高度可擴展和功能豐富的...",
+      "title": "開源無頭CMS - 100% TypeScript"
+    }
+  ]
+}

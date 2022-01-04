@@ -1,0 +1,91 @@
+{
+  "created_at": "Tue Mar 02 0:50:21 +0000 2021",
+  "id_str": "1366537201174069248",
+  "full_text": "RT @jack: 🏦 now open https://t.co/8MoWvUDny0",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/8MoWvUDny0",
+        "expanded_url": "https://squareup.com/us/en/press/square-financial-services-begins-banking-operations",
+        "display_url": "squareup.com/us/en/press/sq…",
+        "indices": [
+          21,
+          44
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "Investment Talk",
+    "screen_name": "InvestmentTalkk",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1357676311897071616/t3ILOzBV_normal.jpg"
+  },
+  "retweet_count": 2241,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Mar 01 23:53:52 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 🏦现在开放https://t.co/8MoWvUDny0。",
+      "retweeted_status_full_text": "🏦现在开放https://t.co/8MoWvUDny0。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 🏦現在開放https://t.co/8MoWvUDny0。",
+      "retweeted_status_full_text": "🏦現在開放https://t.co/8MoWvUDny0。"
+    }
+  ],
+  "source_updated_at": 1614937760936,
+  "retweeted_status": {
+    "created_at": "Mon Mar 01 23:08:51 +0000 2021",
+    "id_str": "1366525871054487553",
+    "full_text": "🏦 now open https://t.co/8MoWvUDny0",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8MoWvUDny0",
+          "expanded_url": "https://squareup.com/us/en/press/square-financial-services-begins-banking-operations",
+          "display_url": "squareup.com/us/en/press/sq…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "jack",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 1039,
+    "favorite_count": 5630,
+    "possibly_sensitive": false
+  }
+}

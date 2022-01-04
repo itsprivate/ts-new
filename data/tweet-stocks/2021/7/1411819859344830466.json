@@ -1,0 +1,81 @@
+{
+  "created_at": "Mon Jul 05 4:37:1 +0000 2021",
+  "id_str": "1411819859344830466",
+  "full_text": "This robot’s name is Oculus Prime \n\nhttps://t.co/lhBA3R9J84",
+  "display_text_range": [
+    0,
+    59
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1411781913518424000,
+        "id_str": "1411781913518424067",
+        "indices": [
+          36,
+          59
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411781913518424067/pu/img/NmSBeihXeeTcc_Rc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411781913518424067/pu/img/NmSBeihXeeTcc_Rc.jpg",
+        "url": "https://t.co/lhBA3R9J84",
+        "display_url": "pic.twitter.com/lhBA3R9J84",
+        "expanded_url": "https://twitter.com/zamaan_qureshi/status/1411782046524100612/video/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1411782046524100600,
+        "source_status_id_str": "1411782046524100612",
+        "source_user_id": 717156889310552000,
+        "source_user_id_str": "717156889310552064"
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 45,
+  "favorite_count": 383,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Jul 04 22:50:59 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "このロボットの名前は「Oculus Prime」。\n\nhttps://t.co/lhBA3R9J84"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这个机器人的名字是Oculus Prime \n\nhttps://t.co/lhBA3R9J84"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這個機器人的名字是Oculus Prime \n\nhttps://t.co/lhBA3R9J84"
+    }
+  ],
+  "source_updated_at": 1625823783531
+}

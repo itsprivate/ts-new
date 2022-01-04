@@ -1,0 +1,80 @@
+{
+  "id": "322053",
+  "commentsCount": 3,
+  "createdAt": "2021-12-07T12:32:56.742Z",
+  "description": "Create a private PostgreSQL database with a predefined structure & test data in the shortest time. No local installations or spinning up cloud instances. Choose a database type, and get a unique connection string right away.",
+  "featuredAt": "2021-12-07T08:11:05Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/b5214d51-88d8-4e95-a33a-acd9068407d8.jpeg?auto=format",
+      "videoUrl": "https://youtu.be/tP96HJQX7Hg"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ac20dd6b-5f57-472a-b650-a97614a6cf45.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3f9560b1-d237-43b2-9de9-c0010fe596fb.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "SQL playground",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/6adab4cd5900e5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Vladimir Lugovsky",
+    "url": "https://www.producthunt.com/@vladimir_lugovsky?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "sql-playground",
+  "tagline": "Free private sample PostgreSQL databases",
+  "url": "https://www.producthunt.com/posts/sql-playground?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 206,
+  "website": "https://www.producthunt.com/r/6adab4cd5900e5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-12-07T08:11:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "事前に定義された構造とテストデータを持つプライベートPostgreSQLデータベースを最短時間で作成します。ローカルにインストールしたり、クラウドのインスタンスを立ち上げたりする必要はありません。データベースの種類を選択し、固有の接続文字列をすぐに取得できます。",
+      "tagline": "無料のプライベートサンプルPostgreSQLデータベース"
+    },
+    {
+      "locale": "zh",
+      "description": "在最短的时间内创建一个具有预定义结构和测试数据的私有PostgreSQL数据库。没有本地安装或旋转云实例。选择一个数据库类型，并立即获得一个独特的连接字符串。",
+      "tagline": "免费的私人样本PostgreSQL数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在最短的時間內創建一個具有預定義結構和測試數據的私有PostgreSQL數據庫。沒有本地安裝或旋轉雲實例。選擇一個數據庫類型，並立即獲得一個獨特的連接字符串。",
+      "tagline": "免費的私人樣本PostgreSQL數據庫"
+    }
+  ],
+  "source_updated_at": 1639129321725
+}

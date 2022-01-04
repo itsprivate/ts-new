@@ -1,0 +1,91 @@
+{
+  "created_at": "Mon Jan 25 16:9:58 +0000 2021",
+  "id_str": "1353707483135619073",
+  "full_text": "I love the smell of mania in the morning. $GME\n\nchart via @ycharts https://t.co/SoaTRd5WRn",
+  "display_text_range": [
+    0,
+    66
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "GME",
+        "indices": [
+          42,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ycharts",
+        "name": "YCharts",
+        "id": 22869238,
+        "id_str": "22869238",
+        "indices": [
+          58,
+          66
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1353707435664539600,
+        "id_str": "1353707435664539666",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/media/EslVvZCXABIeAhQ.png",
+        "media_url_https": "https://pbs.twimg.com/media/EslVvZCXABIeAhQ.png",
+        "url": "https://t.co/SoaTRd5WRn",
+        "display_url": "pic.twitter.com/SoaTRd5WRn",
+        "expanded_url": "https://twitter.com/charliebilello/status/1353707483135619073/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 403,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 849,
+            "h": 503,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 849,
+            "h": 503,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 44,
+  "favorite_count": 267,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jan 25 14:13:09 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "我喜欢清晨躁动的味道。$GME\n\n图表通过 @ycharts https://t.co/SoaTRd5WRn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我喜歡清晨躁動的味道。$GME\n\n圖表通過 @ycharts https://t.co/SoaTRd5WRn"
+    }
+  ]
+}

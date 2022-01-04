@@ -1,0 +1,81 @@
+{
+  "created_at": "Sat Jan 02 19:15:4 +0000 2021",
+  "id_str": "1345404190231818243",
+  "full_text": "Bitcoin $32,000. $BTC https://t.co/55MOkOyAKs",
+  "display_text_range": [
+    0,
+    21
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "BTC",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1345403446904688600,
+        "id_str": "1345403446904688646",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/EqvVToRXEAYuXmI.png",
+        "media_url_https": "https://pbs.twimg.com/media/EqvVToRXEAYuXmI.png",
+        "url": "https://t.co/55MOkOyAKs",
+        "display_url": "pic.twitter.com/55MOkOyAKs",
+        "expanded_url": "https://twitter.com/charliebilello/status/1345404190231818243/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 420,
+            "h": 770,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 420,
+            "h": 770,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 371,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 56,
+  "favorite_count": 242,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Jan 02 16:18:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "比特币3.2万美元。https://t.co/55MOkOyAKs TC巴恩斯"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣3.2萬美元。https://t.co/55MOkOyAKs TC巴恩斯"
+    }
+  ],
+  "source_updated_at": 1610100755046
+}

@@ -1,0 +1,80 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1631362154,
+  "title": "My crypto trading algorithm made a profit by detecting and trading a new stablecoin listing on Binance within 0.1 seconds",
+  "created_utc": 1631374928,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been over a month now since I initially shared with you a tool that I had made in order to quickly buy into a new coin listing to take advantage of the initial surge in the price.</p>\n\n<p>Testing this algorithm out has been a real pain since I had to wait for a new coin to be listed each time, and only find that the script breaks or underperforms. But after all this trial and error I finally did it!</p>\n\n<p>Before I go explaining how the tool works as well as its performance, let me explain why I think that this particular strategy has some potential:</p>\n\n<p>As some of you may have noticed, many coins seem to go through to what I would like to call a &quot;lightning-pump&quot; during their first few seconds of being listed on an exchange.</p>\n\n<p>Have a look at ICP (you may put your pitchfork down, this chart is the perfect example):</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/grydy5mb6vm71.png?width=2650&amp;format=png&amp;auto=webp&amp;s=596562529af51ede5a02372819be454161f8fad6\">https://preview.redd.it/grydy5mb6vm71.png?width=2650&amp;format=png&amp;auto=webp&amp;s=596562529af51ede5a02372819be454161f8fad6</a></p>\n\n<p>In under a minute, the price of ICP shot up over 10 times, before slowly dipping into the void. Manually trading this 10x would be impossible, due to the speed required to catch this pump.</p>\n\n<p>So I decided I want to take advantage of this lightning pump by buying at the listing price and selling at the peak. I built a bot that would detect a new coin listing within 20 seconds, and improved it until it reached a speed of 0.1 seconds to place a trade from the moment a new coin is listed.</p>\n\n<p>Though even with this speed, it would pretty much buy at the top and sell a few % later. This is when I had the idea to reverse the orders. If we&#39;re catching a coin at its peak that doesn&#39;t mean we can&#39;t make a good profit with the tool.</p>\n\n<p>So I decided to configure the bot to place margin sell orders instead - and lo and behold it&#39;s now actually making a profit on new coin listings by placing sell orders and then quickly closing the position - all in under 1 second.</p>\n\n<p>What&#39;s mindblowing here is that it made 11% profit on a stablecoin listing. I didn&#39;t see this one coming I admit. It placed a sell order on USDP at 1.18 and old it at 1.05, go figure. There&#39;s still room for improvement but I&#39;m very happy that for now it seems to be profitable. USDP chart below for reference.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/px6zdi2j7vm71.png?width=2343&amp;format=png&amp;auto=webp&amp;s=aee8a9933fdd3f259f9f9379b7251d705d94b0f9\">https://preview.redd.it/px6zdi2j7vm71.png?width=2343&amp;format=png&amp;auto=webp&amp;s=aee8a9933fdd3f259f9f9379b7251d705d94b0f9</a></p>\n\n<p>I&#39;ll keep running it and see how it performs on regular coins, and report back with more results.</p>\n\n<p>For anyone interested in trying it out, I&#39;ve included a test mode that will simulate placing orders so there&#39;s no risk involved.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>EDIT: for those of you who asked for a youtube video explaining everything in more detail:</strong> <a href=\"https://youtu.be/h5xVXotTeE8\"><strong>https://youtu.be/h5xVXotTeE8</strong></a></p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Here&#39;s a step by step guide on how to build it as well as an in-depth anatomy of the code:</strong></p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/\">https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/</a></p>\n\n<p><strong>For the GitHub source code please go here:</strong></p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins\">https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins</a></p>\n\n<p>If you have any ideas on how to improve the stability or the speed of the code, please feel free to submit a PR.</p>\n</div><!-- SC_ON -->",
+  "score": 271,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/8825KAtT28_RFledQ-bV_S7Q91eOL8osRPrpunLRJ_g.jpg?auto=webp&s=4550a762d2431e13ed3c4a74ae8e378075629dd6",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/8825KAtT28_RFledQ-bV_S7Q91eOL8osRPrpunLRJ_g.jpg?width=108&crop=smart&auto=webp&s=83b0bf0279c962baf31e1c7cd2fee33b6ebecd6c",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/8825KAtT28_RFledQ-bV_S7Q91eOL8osRPrpunLRJ_g.jpg?width=216&crop=smart&auto=webp&s=0521daddef842ae0024fbc65783f67bcf577bd1f",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/8825KAtT28_RFledQ-bV_S7Q91eOL8osRPrpunLRJ_g.jpg?width=320&crop=smart&auto=webp&s=91f12435d9a750da03d16b9971a9e02295854f43",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "sP9iWfDI8xod6p4oNjenyHzh4G6xSq29lRRApoT0X9Q"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pm6age/my_crypto_trading_algorithm_made_a_profit_by/",
+  "subreddit": "CryptoCurrency",
+  "id": "pm6age",
+  "is_self": true,
+  "media": {
+    "type": "youtube.com",
+    "oembed": {
+      "provider_url": "https://www.youtube.com/",
+      "version": "1.0",
+      "title": "Crypto trading bot makes profit on new Binance stablecoin listing",
+      "type": "video",
+      "thumbnail_width": 480,
+      "height": 200,
+      "width": 356,
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/h5xVXotTeE8?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "author_name": "Cryptomaton",
+      "provider_name": "YouTube",
+      "thumbnail_url": "https://i.ytimg.com/vi/h5xVXotTeE8/hqdefault.jpg",
+      "thumbnail_height": 360,
+      "author_url": "https://www.youtube.com/channel/UCbJfyiBegEca-rd6DeLjK4Q"
+    }
+  },
+  "is_video": false,
+  "the_new_excerpt": "It's been over a month now since I initially shared with you a tool that I had\nmade in order to quickly buy into a new coin listing to take advantage of the\ninitial surge in the price.\n\nTesting this algorithm out has been a real pain since I had to wait for a new\ncoin to be listed each time, and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最初に、私が作ったツールをご紹介してから1ヶ月以上が経ちました。\n新規上場コインを素早く購入して、初期投資を活用するために作ったツールを紹介してから1ヶ月が経ちました。\n最初にこのツールを紹介してから1ヶ月以上が経ちました。\n\nこのアルゴリズムのテストは、毎回新しいコインが上場されるのを待たなければならなかったので、本当に苦痛でした。\nこのアルゴリズムのテストは、毎回、新しいコインが上場されるのを待たなければならないため、非常に骨の折れる作業となりました。",
+      "title": "私の暗号取引アルゴリズムは、Binanceに新規に上場した安定コインを0.1秒以内に検知して取引することで利益を上げました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "自从我最初与你们分享我的一个工具以来，已经过去了一个多月。\n为了快速买入一个新的硬币上市，以利用最初的价格飙升，我已经做了一个多月了。\n以利用价格的最初飙升。\n\n测试这个算法是一件非常痛苦的事情，因为我不得不等待一个新的\n币上市，而且...",
+      "title": "我的加密货币交易算法在0.1秒内检测到Binance上新上市的稳定币并进行交易，从而实现了盈利"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "自從我最初與你們分享我的一個工具以來，已經過去了一個多月。\n爲了快速買入一個新的硬幣上市，以利用最初的價格飆升，我已經做了一個多月了。\n以利用價格的最初飆升。\n\n測試這個算法是一件非常痛苦的事情，因爲我不得不等待一個新的\n幣上市，而且...",
+      "title": "我的加密貨幣交易算法在0.1秒內檢測到Binance上新上市的穩定幣並進行交易，從而實現了盈利"
+    }
+  ]
+}

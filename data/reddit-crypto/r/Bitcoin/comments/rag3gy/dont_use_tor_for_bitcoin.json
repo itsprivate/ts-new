@@ -1,0 +1,78 @@
+{
+  "author": "HeroicLife",
+  "original_created_utc": 1638820539,
+  "title": "Don't use Tor for Bitcoin",
+  "created_utc": 1638884090,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;For some time now, I&amp;#39;ve been getting reports from &lt;a href=\"https://walletrecovery.info/\"&gt;customers&lt;/a&gt; that Bitcoin mixers are stealing their coins.  I now have a pretty good guess what&amp;#39;s happening:&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;s common for Bitcoiners to use Tor to anonymize their activity.  Unfortunately, this has a major risk.&lt;/p&gt;\n\n&lt;p&gt;For several years now, an unknown attacker has been running malicious Tor nodes to steal users Bitcoin: &lt;a href=\"https://nusenu.medium.com/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac\"&gt;https://nusenu.medium.com/how-malicious-tor-relays-are-exploiting-users-in-2020-part-i-1097575c0cac&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Here is how the attack works:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;Attacker creates many Tor exit nodes so that up to a third of Tor nodes are operated by them.&lt;/li&gt;\n&lt;li&gt;Attacker looks for HTTP requests to crypto sites, especially Bitcoin mixers.  Nearly all crypto sites are HTTPS, but users usually do not type HTTPS:// before a web address.  Instead, they type the domain name and let the website redirect from HTTP to HTTPS.  The attacker strips out this redirect.&lt;/li&gt;\n&lt;li&gt;Because the website session is in plaintext, the attacker can dynamically replace Bitcoin addresses to his own.&lt;/li&gt;\n&lt;li&gt; Bitcoin deposits are redirected to the attacker. The victims blame the coin mixer.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;&lt;strong&gt;Solutions:&lt;/strong&gt; &lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;Website operators should use HSTS Preloading (&lt;a href=\"https://hstspreload.org/\"&gt;https://hstspreload.org/&lt;/a&gt;).  Most crypto websites do NOT currently do this.&lt;/li&gt;\n&lt;li&gt;Users should install HTTPS Everywhere &lt;a href=\"https://www.eff.org/https-everywhere\"&gt;https://www.eff.org/https-everywhere&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Users should check that websites connections are HTTPS://  Browser are getting better are warning about HTTP connections&lt;/li&gt;\n&lt;li&gt;Don&amp;#39;t use Tor for crypto.  Use a VPN instead.  You can pay for many VPN&amp;#39;s with Bitcoin.  Of course, you must trust that the VPN is non-malicious too.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 151,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?auto=webp&amp;s=9729b8c51fd325dd091de59a5550c66f12345ee6",
+          "width": 1200,
+          "height": 970
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=767f2bc64035f6d6cb2ecddcbd95c46974b1e053",
+            "width": 108,
+            "height": 87
+          },
+          {
+            "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6176d9cef2b4770208d69a85564c085711fad723",
+            "width": 216,
+            "height": 174
+          },
+          {
+            "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=90a4b4c584a1478f29a3672f1fc7da907aedfaed",
+            "width": 320,
+            "height": 258
+          },
+          {
+            "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aae91c8bc859faab081a019a876c7a9dc1284d07",
+            "width": 640,
+            "height": 517
+          },
+          {
+            "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=c32ebf61f45e2b50f0fb12cac9102deb839fb7e1",
+            "width": 960,
+            "height": 776
+          },
+          {
+            "url": "https://external-preview.redd.it/WZVm2UcFQM2xyBnwYKLazXibl7DvE-0SPX2sBZUjGT0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=76f8fe6bae6db2256f4776c6430feb2c01ff740e",
+            "width": 1080,
+            "height": 873
+          }
+        ],
+        "variants": {},
+        "id": "8j5ut2Zy3QbLgPt6hEft7YmiEiSx3Fii8KJ_W7qKNLE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/rag3gy/dont_use_tor_for_bitcoin/",
+  "subreddit": "Bitcoin",
+  "id": "rag3gy",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "For some time now, I've been getting reports from customers\n[https://walletrecovery.info/] that Bitcoin mixers are stealing their coins. I\nnow have a pretty good guess what's happening:\n\nIt's common for Bitcoiners to use Tor to anonymize their activity.\nUnfortunately, this has a major risk.\n\nFor…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以前から、お客様からご報告をいただいていたのですが\n[https://walletrecovery.info/]ビットコインミキサーにコインを盗まれているとのことです。I\n何が起きているのか、だいたいの見当がつきました。\n\nビットコイナーは、自分の活動を匿名化するためにTorを使うのが一般的です。\n残念ながら、これには大きなリスクがあります。\n\nそれは...",
+      "title": "ビットコインにはTorを使わない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一段时间以来，我一直收到客户的报告\n[https://walletrecovery.info/]说比特币混合器在偷他们的币。I\n现在我对发生的事情有了很好的猜测。\n\n比特币玩家使用Tor来匿名化他们的活动是很常见的。\n不幸的是，这有一个很大的风险。\n\n对于...",
+      "title": "不要为比特币使用Tor"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一段時間以來，我一直收到客戶的報告\n[https://walletrecovery.info/]說比特幣混合器在偷他們的幣。I\n現在我對發生的事情有了很好的猜測。\n\n比特幣玩家使用Tor來匿名化他們的活動是很常見的。\n不幸的是，這有一個很大的風險。\n\n對於...",
+      "title": "不要爲比特幣使用Tor"
+    }
+  ]
+}

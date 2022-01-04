@@ -1,0 +1,81 @@
+{
+  "created_at": "Sun Feb 14 16:49:43 +0000 2021",
+  "id_str": "1360962716886847489",
+  "full_text": "Bitcoin $49,000. $BTC https://t.co/Thr5nvwxlI",
+  "display_text_range": [
+    0,
+    21
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "BTC",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1360962666139951000,
+        "id_str": "1360962666139951107",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/EuMcVYvXIAMkGuk.png",
+        "media_url_https": "https://pbs.twimg.com/media/EuMcVYvXIAMkGuk.png",
+        "url": "https://t.co/Thr5nvwxlI",
+        "display_url": "pic.twitter.com/Thr5nvwxlI",
+        "expanded_url": "https://twitter.com/charliebilello/status/1360962716886847489/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 539,
+            "h": 1188,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 309,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 539,
+            "h": 1188,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 106,
+  "favorite_count": 371,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Feb 14 14:42:51 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "比特币49000美元。$BTC https://t.co/Thr5nvwxlI"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣49000美元。$BTC https://t.co/Thr5nvwxlI"
+    }
+  ],
+  "source_updated_at": 1613728637220
+}

@@ -1,0 +1,28 @@
+{
+  "author": "PWNWTFBBQ",
+  "the_new_excerpt": "Hey,\n\nI was watching GME and AMC all day like a hawk, and I had the advance charts\npopped open on my RH along with pricing graphs from barchart.com\n[https://barchart.com/] and yahoo finance. To begin this off, the first thing\nthat was weird was RH asking me to press an accept button in order to use…",
+  "original_created_utc": 1612485956,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿嘿\n\n我整天像个老鹰一样盯着GME和AMC，我有提前的图表\n在我的RH上弹出了来自barchart.com的价格图表。\n[https://barchart.com/]和雅虎财经。在开始的时候，首先要做的是\n奇怪的是RH要我按接受键才能使用... ...",
+      "title": "Robinhood伪造的GME蜡烛棒图数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿嘿\n\n我整天像個老鷹一樣盯着GME和AMC，我有提前的圖表\n在我的RH上彈出了來自barchart.com的價格圖表。\n[https://barchart.com/]和雅虎財經。在開始的時候，首先要做的是\n奇怪的是RH要我按接受鍵才能使用... ...",
+      "title": "Robinhood僞造的GME蠟燭棒圖數據"
+    }
+  ],
+  "title": "Robinhood Falsified Data of GME Candle stick graphs",
+  "created_utc": 1612492707,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey,</p>\n\n<p>I was watching GME and AMC all day like a hawk, and I had the advance charts popped open on my RH along with pricing graphs from <a href=\"https://barchart.com/\">barchart.com</a> and yahoo finance. To begin this off, the first thing that was weird was RH asking me to press an accept button in order to use their advance graph tool. Weird but ok.</p>\n\n<p>Throughout the day, I noticed that the GME advance chart on RH would often just break and needed a page reload. It was weird to me because I had multiple graphs up but it consistently was only the RH GME advance chart that kept on failing and also kept on kicking me out of RH. So I looked into it.</p>\n\n<p>The data RH is showing has been transformed from the original data. To make it even worse, the data transformations are located within the page source</p>\n\n<p>Raw data graph added of O,H,L,C versus time by source:</p>\n\n<p><a href=\"https://imgur.com/a/zEYELmB\"><del>https://imgur.com/a/zEYELmB</del></a></p>\n\n<p><a href=\"https://imgur.com/a/x2VwSPY\"><del>https://imgur.com/a/x2VwSPY</del></a></p>\n\n<p>Edit 1: Had to fix the AM to the PM</p>\n\n<p><a href=\"https://imgur.com/a/oYFJQTi\">https://imgur.com/a/oYFJQTi</a></p>\n\n<p>Edit 2: need to slow down to format my AM and PMs properly</p>\n\n<p>Overlay pictures of candel stick graphs:</p>\n\n<p><a href=\"https://imgur.com/a/9wC60Jr\">https://imgur.com/a/9wC60Jr</a></p>\n\n<p>The data transformations in the page source of the RH advance chart of GME:</p>\n\n<p><a href=\"https://imgur.com/a/8ETG5O0\">https://imgur.com/a/8ETG5O0</a></p>\n\n<p>I pumped this thing out as fast as I could without getting into further details.</p>\n\n<p>Tl;dr: RH is getting so desperate as to lying to us to our face now.</p>\n\n<p>Edit: As of 6:07 PM MST, RH decided to change their page source to hide this</p>\n\n<p><a href=\"https://imgur.com/a/e7jyRJk\">https://imgur.com/a/e7jyRJk</a></p>\n\n<p>Update: I sent a complaint to the SEC. I definitely have the page source code saved and uploaded to many different clouds. </p>\n</div><!-- SC_ON -->",
+  "score": 1697,
+  "permalink": "/r/investing/comments/lcv1w8/robinhood_falsified_data_of_gme_candle_stick/",
+  "subreddit": "investing",
+  "id": "lcv1w8",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613123198807
+}

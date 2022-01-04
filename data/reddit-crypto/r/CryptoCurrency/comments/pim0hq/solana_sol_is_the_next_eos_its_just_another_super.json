@@ -1,0 +1,58 @@
+{
+  "author": "anonbitcoinperson",
+  "original_created_utc": 1630878141,
+  "title": "Solana (SOL) is the next EOS. It's just another \"super node\" project where it takes a supercomputer to run a node and there is too much trust on solona the company.",
+  "created_utc": 1630889743,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>sorry for the re-post,  spelled solana wrong in the title and people couldn&#39;t get past that.</strong></p>\n\n<p>So there was so much hype around EOS how it did a bazillion TPS and was gonna overthrow ETH and all that.  Now its a ghost chain and the company that started it has like 200k in BTC and prolly that much in ETH.  Solana is hyped so much, but really the reason why it can do so many TPS and what not is because it takes a fucking supercomputer to run a node, and the project is centralized.    Please read this blog about what it takes to run a solona node:  <a href=\"https://blog.lopp.net/2021-altcoin-node-sync-tests/\">https://blog.lopp.net/2021-altcoin-node-sync-tests/</a> Some takeaways from the post:</p>\n\n<blockquote>\n<p>it takes a computer with AT LEAST 128gb of RAM to run a node (they recommend 256gb of RAM,  not disk space,  RAM)  </p>\n\n<p>you have to get data from trusted validators, and All four --trusted-validators are operated by Solana (like you can&#39;t do what you need to do to verify, you have to trust)  </p>\n\n<p>Solana is most likely running those trusted validators on google cloud</p>\n</blockquote>\n\n<p>Do your own research on this new coin.  <strong>For me, if the average person can&#39;t run a node,  its not decentralized.</strong></p>\n\n<p>EDIT:  I shopped around and if you want to get a computer to run a solana node, you will need to invest 5k to 10k USD.  Here are the specs: Hardware Recommendations#</p>\n\n<pre><code>CPU\n    12 cores / 24 threads, or more\n    2.8GHz, or faster\n    AVX2 instruction support (to use official release binaries, self-compile otherwise)\n    Support for AVX512f and/or SHA-NI instructions is helpful\n    The AMD Threadripper Zen3 series is popular with the validator community\nRAM\n    128GB, or more\n    Motherboard with 256GB capacity suggested\nDisk\n    PCIe Gen3 x4 NVME SSD, or better\n    Accounts: 500GB, or larger. High TBW (Total Bytes Written)\n    Ledger: 1TB or larger. High TBW suggested\n    OS: (Optional) 500GB, or larger. SATA OK\n    The OS may be installed on the ledger disk, though testing has shown better performance with the ledger on its own disk\n    Accounts and ledger can be stored on the same disk, however due to high IOPS, this is not recommended\n    The Samsung 970 and 980 Pro series SSDs are popular with the validator community\nGPUs\n    Not strictly necessary at this time\n    Motherboard and power supply speced to add one or more high-end GPUs in the future suggested\n</code></pre>\n\n<p>A good article on EOS not even being a blockchain:  <a href=\"https://www.blockchain-council.org/blockchain/is-eos-a-scam-and-not-a-blockchain/\">https://www.blockchain-council.org/blockchain/is-eos-a-scam-and-not-a-blockchain/</a></p>\n\n<h1>EDIT 2: when compared to a rasberry Pi, solana nodes are super computers,  sorry for the hyperbole</h1>\n</div><!-- SC_ON -->",
+  "score": 259,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/9z7LPNzQ6dLIrdOvTQgiLbXLsb27YBB2qXu7mbdpXrA.jpg?auto=webp&s=f75a696484d254ab07922599983774aebe1cc31d",
+          "width": 301,
+          "height": 235
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/9z7LPNzQ6dLIrdOvTQgiLbXLsb27YBB2qXu7mbdpXrA.jpg?width=108&crop=smart&auto=webp&s=68c25b3736e9c610ca3e44133b8bb1f885d5011f",
+            "width": 108,
+            "height": 84
+          },
+          {
+            "url": "https://external-preview.redd.it/9z7LPNzQ6dLIrdOvTQgiLbXLsb27YBB2qXu7mbdpXrA.jpg?width=216&crop=smart&auto=webp&s=e270a23481467a31409394c20082413291ed3aed",
+            "width": 216,
+            "height": 168
+          }
+        ],
+        "variants": {},
+        "id": "OGXfunxrbVVChBHfbcqTIlQDu40lY5eYcXzlCqxSnHY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pim0hq/solana_sol_is_the_next_eos_its_just_another_super/",
+  "subreddit": "CryptoCurrency",
+  "id": "pim0hq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "sorry for the re-post, spelled solana wrong in the title and people couldn't get\npast that.\n\nSo there was so much hype around EOS how it did a bazillion TPS and was gonna\noverthrow ETH and all that. Now its a ghost chain and the company that started\nit has like 200k in BTC and prolly that much in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "再投稿してすみません。タイトルのsolanaのスペルが間違っていて、それを見た人が\nした。\n\nEOSは10億TPSを達成したとか、ETHを打倒するとかで大騒ぎになっていましたね。\nETHを打倒するとか。今ではゴーストチェーンになっていて、それを始めた会社は\nBTCは20万ドルくらいで、おそらくそれくらいは...。",
+      "title": "ソラナ（SOL）は次のEOSです。ノードを動かすのにスーパーコンピュータが必要な「スーパーノード」プロジェクトの一つに過ぎず、ソラナという会社への信頼が高すぎるのです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "抱歉重发，标题中拼错了Solana，人们无法理解。\n错了。\n\n在EOS周围有很多人在炒作，说它的TPS有几十亿，要推翻ETH等等。\n推翻ETH之类的。现在，它是一个幽灵链，而启动它的公司\n它有大约20万的BTC和大概这么多的......",
+      "title": "索拉纳（SOL）是下一个EOS。这只是另一个 \"超级节点 \"项目，需要一台超级计算机来运行一个节点，而且人们对索罗纳这个公司有太多的信任。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "抱歉重發，標題中拼錯了Solana，人們無法理解。\n錯了。\n\n在EOS周圍有很多人在炒作，說它的TPS有幾十億，要推翻ETH等等。\n推翻ETH之類的。現在，它是一個幽靈鏈，而啓動它的公司\n它有大約20萬的BTC和大概這麼多的......",
+      "title": "索拉納（SOL）是下一個EOS。這只是另一個 \"超級節點 \"項目，需要一臺超級計算機來運行一個節點，而且人們對索羅納這個公司有太多的信任。"
+    }
+  ]
+}

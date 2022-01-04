@@ -1,0 +1,147 @@
+{
+  "created_at": "Mon Jun 14 15:37:30 +0000 2021",
+  "id_str": "1404452776948776965",
+  "full_text": "Paul Tudor Jones: \"I like bitcoin. #Bitcoin is math\" https://t.co/sutDQrkIHH",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bitcoin",
+        "indices": [
+          35,
+          43
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/sutDQrkIHH",
+        "expanded_url": "https://twitter.com/SquawkCNBC/status/1404424423277486084",
+        "display_url": "twitter.com/SquawkCNBC/sta…",
+        "indices": [
+          53,
+          76
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
+  },
+  "retweet_count": 799,
+  "favorite_count": 4920,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jun 14 14:56:50 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ポール・チューダー・ジョーンズ \"私はビットコインが好きだ。#ビットコインは数学だ」 https://t.co/sutDQrkIHH",
+      "quoted_status_full_text": "\"私が確実に知っている唯一のことは、#金に5%、#ビットコインに5%、現金に5%、商品に5%を持ちたいということです。\" 伝説的な投資家である@ptj_official氏は、https://t.co/9NoESxUYbN。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "保罗-图德-琼斯。\"我喜欢比特币。#比特币是数学 \"https://t.co/sutDQrkIHH",
+      "quoted_status_full_text": "\"我唯一确定的是我想有5%的#黄金，5%的#比特币，5%的现金，5%的商品，\"传奇投资者@ptj_official说。 https://t.co/9NoESxUYbN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "保羅-圖德-瓊斯。\"我喜歡比特幣。#比特幣是數學 \"https://t.co/sutDQrkIHH",
+      "quoted_status_full_text": "\"我唯一確定的是我想有5%的#黃金，5%的#比特幣，5%的現金，5%的商品，\"傳奇投資者@ptj_official說。 https://t.co/9NoESxUYbN"
+    }
+  ],
+  "source_updated_at": 1624009751690,
+  "quoted_status": {
+    "created_at": "Mon Jun 14 13:04:10 +0000 2021",
+    "id_str": "1404424423277486084",
+    "full_text": "\"The only thing that I know for certain is I want to have 5% in #gold, 5% in #bitcoin, 5% in cash, 5% in commodities,\" said legendary investor @ptj_official. https://t.co/9NoESxUYbN",
+    "display_text_range": [
+      0,
+      157
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "gold",
+          "indices": [
+            64,
+            69
+          ]
+        },
+        {
+          "text": "bitcoin",
+          "indices": [
+            77,
+            85
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ptj_official",
+          "name": "Paul Tudor Jones",
+          "id": 1316415211201540000,
+          "id_str": "1316415211201540096",
+          "indices": [
+            143,
+            156
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1404424287839309800,
+          "id_str": "1404424287839309831",
+          "indices": [
+            158,
+            181
+          ],
+          "media_url": "http://pbs.twimg.com/media/E32EkOqWUAU9Sr6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E32EkOqWUAU9Sr6.jpg",
+          "url": "https://t.co/9NoESxUYbN",
+          "display_url": "pic.twitter.com/9NoESxUYbN",
+          "expanded_url": "https://twitter.com/SquawkCNBC/status/1404424423277486084/video/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Squawk Box",
+      "screen_name": "SquawkCNBC",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197996990644310018/jBN0g0AI_normal.png"
+    },
+    "retweet_count": 476,
+    "favorite_count": 1583,
+    "possibly_sensitive": false
+  }
+}

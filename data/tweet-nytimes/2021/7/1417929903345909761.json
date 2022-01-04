@@ -1,0 +1,240 @@
+{
+  "created_at": "Thu Jul 22 1:46:4 +0000 2021",
+  "id": 1417929903345909800,
+  "id_str": "1417929903345909761",
+  "full_text": "Iran is facing a severe water shortage, caused by a drought worsened by climate change and government mismanagement. Demonstrators shouting, “I am thirsty!” have taken to the streets, demanding relief and that local officials resign. https://t.co/PJubP5CczO https://t.co/TeJAHlDRmw",
+  "truncated": false,
+  "display_text_range": [
+    0,
+    257
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/PJubP5CczO",
+        "expanded_url": "https://nyti.ms/2Ure9wD",
+        "display_url": "nyti.ms/2Ure9wD",
+        "indices": [
+          234,
+          257
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1417922702740967400,
+        "id_str": "1417922702740967441",
+        "indices": [
+          258,
+          281
+        ],
+        "media_url": "http://pbs.twimg.com/media/E61_urHXMAYsElf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E61_urHXMAYsElf.jpg",
+        "url": "https://t.co/TeJAHlDRmw",
+        "display_url": "pic.twitter.com/TeJAHlDRmw",
+        "expanded_url": "https://twitter.com/nytimes/status/1417929903345909761/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 600,
+            "h": 394,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 394,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 394,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1417922702740967400,
+        "id_str": "1417922702740967441",
+        "indices": [
+          258,
+          281
+        ],
+        "media_url": "http://pbs.twimg.com/media/E61_urHXMAYsElf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E61_urHXMAYsElf.jpg",
+        "url": "https://t.co/TeJAHlDRmw",
+        "display_url": "pic.twitter.com/TeJAHlDRmw",
+        "expanded_url": "https://twitter.com/nytimes/status/1417929903345909761/video/1",
+        "type": "video",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 600,
+            "h": 394,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 600,
+            "h": 394,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 600,
+            "h": 394,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 34735,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1417922702740967441/pl/fQIUHhVefQHJNywN.m3u8?tag=14"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1417922702740967441/vid/320x320/4I2MpHjoWw_ys2E_.mp4?tag=14"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1417922702740967441/vid/720x720/Jb5c_YH5kVFc1uEd.mp4?tag=14"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1417922702740967441/vid/540x540/r0toD_X8kYN6zL6x.mp4?tag=14"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 807095,
+    "id_str": "807095",
+    "name": "The New York Times",
+    "screen_name": "nytimes",
+    "location": "New York City",
+    "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+    "url": "http://t.co/ahvuWqicF9",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/ahvuWqicF9",
+            "expanded_url": "http://www.nytimes.com/",
+            "display_url": "nytimes.com",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/ghL9OoYKMM",
+            "expanded_url": "http://nyti.ms/2FVHq9v",
+            "display_url": "nyti.ms/2FVHq9v",
+            "indices": [
+              28,
+              51
+            ]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 50135303,
+    "friends_count": 838,
+    "listed_count": 210001,
+    "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+    "favourites_count": 18542,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": true,
+    "statuses_count": 440196,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": true,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+    "profile_link_color": "607696",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": true,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 264,
+  "favorite_count": 560,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en",
+  "original_created_at": "Wed Jul 21 19:30:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "イランは、気候変動と政府の不手際により悪化した干ばつの影響で、深刻な水不足に直面しています。私は喉が渇いている！」と叫ぶデモ隊が街頭に出て、救済と地元の役人の辞任を要求しています。 https://t.co/PJubP5CczO https://t.co/TeJAHlDRmw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "伊朗正面临着严重的缺水问题，干旱因气候变化和政府管理不善而加剧。喊着 \"我渴了！\"的示威者走上街头，要求救济，并要求当地官员辞职。https://t.co/PJubP5CczO https://t.co/TeJAHlDRmw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "伊朗正面臨着嚴重的缺水問題，乾旱因氣候變化和政府管理不善而加劇。喊着 \"我渴了！\"的示威者走上街頭，要求救濟，並要求當地官員辭職。https://t.co/PJubP5CczO https://t.co/TeJAHlDRmw"
+    }
+  ]
+}

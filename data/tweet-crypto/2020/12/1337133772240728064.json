@@ -1,0 +1,96 @@
+{
+  "created_at": "Thu Dec 24 7:35:20 +0000 2020",
+  "id_str": "1337133772240728064",
+  "full_text": "RT @novogratz: This might be the most important $BTC news of 2020.   An insurance company buys bitcoin for its general account.  This needs…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "BTC",
+        "indices": [
+          48,
+          52
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "novogratz",
+        "name": "Mike Novogratz",
+        "id": 19847181,
+        "id_str": "19847181",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 618,
+  "favorite_count": 0,
+  "original_created_at": "Thu Dec 10 20:35:08 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@novogratz：这可能是2020年最重要的巴恩斯TC新闻。一家保险公司为其普通账户购买比特币。这需要…",
+      "retweeted_status_full_text": "这可能是2020年最重要的巴恩斯TC新闻。一家保险公司为其普通账户购买比特币。这需要美联储的批准。这是一件大事。\n\nhttps://t.co/Zl68MM71LD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@novogratz：這可能是2020年最重要的巴恩斯TC新聞。一家保險公司爲其普通賬戶購買比特幣。這需要…",
+      "retweeted_status_full_text": "這可能是2020年最重要的巴恩斯TC新聞。一家保險公司爲其普通賬戶購買比特幣。這需要美聯儲的批准。這是一件大事。\n\nhttps://t.co/Zl68MM71LD"
+    }
+  ],
+  "source_updated_at": 1609271718618,
+  "retweeted_status": {
+    "created_at": "Thu Dec 10 19:32:04 +0000 2020",
+    "id_str": "1337117900013006849",
+    "full_text": "This might be the most important $BTC news of 2020.   An insurance company buys bitcoin for its general account.  This needs fed approval.  It’s a HUGE deal.   \n\nhttps://t.co/Zl68MM71LD",
+    "display_text_range": [
+      0,
+      185
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "BTC",
+          "indices": [
+            33,
+            37
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Zl68MM71LD",
+          "expanded_url": "https://blinks.bloomberg.com/news/stories/QL50S0073ND0",
+          "display_url": "blinks.bloomberg.com/news/stories/Q…",
+          "indices": [
+            162,
+            185
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Mike Novogratz",
+      "screen_name": "novogratz",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318663411471912960/4FNSTI46_normal.jpg"
+    },
+    "retweet_count": 617,
+    "favorite_count": 4299,
+    "possibly_sensitive": false
+  }
+}

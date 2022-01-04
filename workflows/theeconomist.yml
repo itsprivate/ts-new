@@ -1,0 +1,76 @@
+name: Sync economist Tweets to JSON files
+on:
+  twitter:
+    auth:
+      consumer_key: ${{ secrets.TWITTER_CONSUMER_KEY }}
+      consumer_secret: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+      access_token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      access_token_secret: ${{ secrets.TWITTER_ACCESS_SECRET }}
+    params:
+      - count: 200
+        screen_name: TheEconomist
+    config:
+      # force: true
+      exportOutputs: true
+      outputsMode: combine
+      format: |
+        const format = require(`${process.env.GITHUB_WORKSPACE}/scripts/format.js`)
+        item = format("tweet",item)
+        item.original_created_at = item.created_at;
+        function toTwitterDate(date) {
+          const daysOfWeek = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+          const monthShort = [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+          ];
+          const addZero = (num) => {
+            if (num < 10) {
+              return `0${num}`;
+            } else {
+              return `${num}`;
+            }
+          };
+
+          const twitterDate = `${daysOfWeek[date.getUTCDay()]} ${
+            monthShort[date.getUTCMonth()]
+          } ${addZero(
+            date.getUTCDate()
+          )} ${date.getUTCHours()}:${date.getUTCMinutes()}:${date.getUTCSeconds()} +0000 ${date.getUTCFullYear()}`;
+          return twitterDate;
+        }
+        item.created_at = toTwitterDate(new Date());
+        return item;
+      filterScript: |
+        const score = item.retweet_count*2 +item.favorite_count;
+        if(score>150){
+          return true
+        }
+        return false
+jobs:
+  savetwitterstocks:
+    name: Sync Tweets to JSON
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Tweet JSON
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.twitter.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const syncTweets = require(`${process.env.GITHUB_WORKSPACE}/scripts/sync-tweets`)
+            const result = await syncTweets({
+                dest : "data/tweet-economist",
+                name : "tweet-economist"
+            })
+            return result

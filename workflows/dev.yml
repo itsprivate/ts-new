@@ -1,0 +1,47 @@
+on:
+  poll:
+    url: https://dev.to/api/articles?top=3
+    requestConfig:
+      axios-retry:
+        retries: 3
+    config:
+      format: |
+        item.original_created_at = item.created_at;
+        item.created_at = new Date().toISOString()
+        item.image = item.cover_image || item.social_image;
+        item.tags = item.tag_list;
+        item.author = item.user.name;
+        item.author_url = `https://dev.to/${item.user.username}`
+        return item
+      # limit: 2
+      # force: true
+      filterScript: |
+        const score = item.comments_count*5 +item.positive_reactions_count;
+        if(score>40){
+          return true
+        }
+        return false
+      outputsMode: combine
+      exportOutputs: true
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create JSON
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.poll.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-default.module.js`)
+            await generateSources({
+                dest : "data/redirect-devtop",
+                name : "redirect-devtop",
+                idField : `id`,
+                type : "redirect",
+                isTranslateTag: false,
+                translationFields:['title','description']
+            })
+            return true

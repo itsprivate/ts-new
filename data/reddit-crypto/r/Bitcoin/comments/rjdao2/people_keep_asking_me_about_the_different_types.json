@@ -1,0 +1,78 @@
+{
+  "author": "primalfabric",
+  "original_created_utc": 1639851778,
+  "title": "People keep asking me about the different types of bitcoin addresses and what they mean. Here's a simple breakdown...",
+  "created_utc": 1639866985,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;A lot of people have been asking me about the different types of bitcoin addresses they see in wallets and the difference between each of them. Understandability, for a nontech person, it can be a bit confusing to see different types of addresses in their wallet and what all of it means. &lt;/p&gt;\n\n&lt;p&gt;Here is a simple breakthrough of the types of addresses you see in your bitcoin wallet. &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Legacy:&lt;/strong&gt; This is the original form of a bitcoin address that has been in existence ever since bitcoin. &lt;/p&gt;\n\n&lt;p&gt;A simple way to recognize these addresses is they all start with a &amp;quot;1&amp;quot;. &lt;/p&gt;\n\n&lt;p&gt;Example:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2 &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Issues:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Case-sensitive&lt;/li&gt;\n&lt;li&gt;High transaction fee due to the large size&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Segwit:&lt;/strong&gt; The second version of the bitcoin address helped save in transaction fees by reducing the transaction size. &lt;/p&gt;\n\n&lt;p&gt;All of these addresses start with &amp;quot;3&amp;quot;.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;em&gt;347N1Thc213QqfYCz3PZkjoJpNv5b14kBd&lt;/em&gt; &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Issues:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Case-sensitive&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Native Segwit:&lt;/strong&gt; The third edition of a bitcoin address. These addresses further reduce the fee and offer better usability by eliminating case sensitivity. They even offer an error-detection mechanism. &lt;/p&gt;\n\n&lt;p&gt;All addresses start with &amp;quot;bc1&amp;quot; &lt;/p&gt;\n\n&lt;p&gt;Example:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;em&gt;bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq&lt;/em&gt; &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;Issue:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;A bug was reported in its error detection mechanism&lt;/li&gt;\n&lt;li&gt;Not very common with crypto exchanges&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Bech32m:&lt;/strong&gt; An updated version of native segwit, bech32m fixes the error that was in its previous version plus it supports taproot [a latest bitcoin technology development]&lt;/p&gt;\n\n&lt;p&gt;Issues:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;It&amp;#39;s a new development so support is very limited.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Address compatibility:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;By design, all addresses are compatible with each other. It&amp;#39;s the wallets where the bitcoin address support varies.&lt;/p&gt;\n\n&lt;p&gt;Most popular wallets support all 3 address types, while some others only 1 or 2. It&amp;#39;s best to pick the wallet that supports all 3 and will also provide support for bech32m in the future. &lt;/p&gt;\n\n&lt;p&gt;As for the address, bech32/bech32m offers the lowest fee. &lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;Source:&lt;/em&gt; &lt;a href=\"https://blog.blockonomics.co/what-are-the-types-of-bitcoin-addresses-and-which-one-should-you-use-459cbe8ce46c\"&gt;&lt;em&gt;Blockonomics - Types of Bitcoin Addresses&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 189,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?auto=webp&amp;s=6718fcc59048111d1ab7e4033f9e8566c9663476",
+          "width": 1080,
+          "height": 700
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=6dbd40dab770d0fb081db2745875b733e461736b",
+            "width": 108,
+            "height": 70
+          },
+          {
+            "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=aa4a95e7c7af808e412baab71ec83fe039f0743b",
+            "width": 216,
+            "height": 140
+          },
+          {
+            "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c3f46fd3b448666559c26daefcb6600fe9421977",
+            "width": 320,
+            "height": 207
+          },
+          {
+            "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ddcaa1530649c7fed1323e1288da552de867d4af",
+            "width": 640,
+            "height": 414
+          },
+          {
+            "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=bf813f6f6c9189d8d8fe36894c182fe1e1047485",
+            "width": 960,
+            "height": 622
+          },
+          {
+            "url": "https://external-preview.redd.it/yN4t7hW1TeZkl5th1HQLiNqDqLQSQctPZzjBpH9K1gk.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d5b40a571572567665be17370f4c76dcf799e9b2",
+            "width": 1080,
+            "height": 700
+          }
+        ],
+        "variants": {},
+        "id": "rCjRgrxNle_98kxBkCxnXrv0i6-izHn-FWL99Rud1s8"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/rjdao2/people_keep_asking_me_about_the_different_types/",
+  "subreddit": "Bitcoin",
+  "id": "rjdao2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "A lot of people have been asking me about the different types of bitcoin\naddresses they see in wallets and the difference between each of them.\nUnderstandability, for a nontech person, it can be a bit confusing to see\ndifferent types of addresses in their wallet and what all of it means.\n\nHere is a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの方から、ビットコインの種類についてのご質問をいただきましたが\nウォレットで見かけるアドレスと、それぞれの違いについて。\n技術者でない人にとっては、ちょっとわかりにくいかもしれませんね。\nウォレットに表示されるアドレスの種類とその意味について\n\nここでは、...",
+      "title": "ビットコインのアドレスの種類とその意味について、よく質問されます。簡単に説明すると..."
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "很多人一直在问我关于他们在钱包里看到的不同类型的比特币\n地址，以及它们之间的区别。\n可以理解的是，对于一个非技术人员来说，在钱包里看到不同类型的地址，以及这些地址的含义，可能会让人有点困惑。\n不同类型的地址，以及这些地址意味着什么。\n\n这里有一个...",
+      "title": "人们一直在问我关于不同类型的比特币地址和它们的含义。这里有一个简单的分类..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "很多人一直在問我關於他們在錢包裏看到的不同類型的比特幣\n地址，以及它們之間的區別。\n可以理解的是，對於一個非技術人員來說，在錢包裏看到不同類型的地址，以及這些地址的含義，可能會讓人有點困惑。\n不同類型的地址，以及這些地址意味着什麼。\n\n這裏有一個...",
+      "title": "人們一直在問我關於不同類型的比特幣地址和它們的含義。這裏有一個簡單的分類..."
+    }
+  ]
+}

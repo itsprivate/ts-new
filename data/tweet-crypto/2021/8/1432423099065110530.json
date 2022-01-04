@@ -1,0 +1,85 @@
+{
+  "created_at": "Mon Aug 30 19:35:45 +0000 2021",
+  "id_str": "1432423099065110530",
+  "full_text": "#bitcoin fees (blue line) are low since this summer. This is not because of low transactions (low demand for blockspace), but because a large exchange (I will not say who) finally implemented segwit transactions. Segwit adoption (yellow line) is now ~80%. Expect fees to stay low. https://t.co/Lo1C1ONKp3",
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1432423096506540000,
+        "id_str": "1432423096506540033",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/E-D9N4tWYAE6lce.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E-D9N4tWYAE6lce.jpg",
+        "url": "https://t.co/Lo1C1ONKp3",
+        "display_url": "pic.twitter.com/Lo1C1ONKp3",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1432423099065110530/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 636,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 360,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1085,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 574,
+  "favorite_count": 4123,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Aug 30 19:20:54 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今年の夏以降、#bitcoin の手数料（青線）が低くなっています。これは取引量が少ない（ブロックスペースへの需要が少ない）からではなく、大手取引所（どことは言わない）がついにSegwit取引を導入したからです。Segwitの導入（黄色の線）は現在、～80％です。手数料が低いままであることを期待する。https://t.co/Lo1C1ONKp3"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#比特币费用（蓝线）自今年夏天以来一直很低。这不是因为交易量低（对区块空间的需求低），而是因为一个大型交易所（我不会说是谁）最终实施了segwit交易。Segwit的采用（黄线）现在是~80%。预计费用将保持低水平。https://t.co/Lo1C1ONKp3"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣費用（藍線）自今年夏天以來一直很低。這不是因爲交易量低（對區塊空間的需求低），而是因爲一個大型交易所（我不會說是誰）最終實施了segwit交易。Segwit的採用（黃線）現在是~80%。預計費用將保持低水平。https://t.co/Lo1C1ONKp3"
+    }
+  ],
+  "source_updated_at": 1630662027220
+}

@@ -1,0 +1,28 @@
+{
+  "author": "Kemba4Heisman",
+  "the_new_excerpt": "HOW DOES THIS WORK?\n\nThese forecasts are produced by machine learning models trained on past closing\nprice data. Essentially the models try to learn the underlying dynamics of the\nclosing price and then project future closing price based on that. They are by\ndefinition not sensitive to any company…",
+  "original_created_utc": 1614058653,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如何工作？\n\n这些预测是由机器学习模型根据过去的收盘价训练出来的。\n价格数据。本质上，模型试图学习基本的动态。\n收盘价，然后根据这个价格来预测未来的收盘价。它们是由\n定义对任何公司都不敏感...",
+      "title": "我开发了一个机器学习预测系统来预测未来的股票价格。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如何工作？\n\n這些預測是由機器學習模型根據過去的收盤價訓練出來的。\n價格數據。本質上，模型試圖學習基本的動態。\n收盤價，然後根據這個價格來預測未來的收盤價。它們是由\n定義對任何公司都不敏感...",
+      "title": "我開發了一個機器學習預測系統來預測未來的股票價格。"
+    }
+  ],
+  "title": "I developed a machine learning forecasting system to project future stock price.",
+  "created_utc": 1614120830,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>How does this work?</h1>\n\n<p>These forecasts are produced by machine learning models trained on past closing price data. Essentially the models try to learn the underlying dynamics of the closing price and then project future closing price based on that. They are by definition not sensitive to any company fundamentals or macroeconomic conditions. To limit the effects of this limitation, I am only showing short-term price forecasts (2 weeks). </p>\n\n<p>What you see below are the median forecasts projected by the model. In backtesting (evaluating forecasts against historical data), these forecasts missed the mark by an average of about 8\\%, with forecasts for larger companies being somewhat more accurate (closer to 5\\%). <strong>This is not investment advice</strong>. I currently hold no positions in any of the stocks described in this article. I view these forecasts as a stock screener that essentially does sophisticated technical analysis on hundreds of companies.  </p>\n\n<h1>Top projected risers</h1>\n\n<p>I am pretty skeptical of the magnitude of the projected increase for all of these. I&#39;ll talk about each of them here:</p>\n\n<ol>\n<li>ENPH (Enphase Energy Inc): 30.90 \\% projected 14-day return. This one seems particularly interesting. Enphase Energy is a solar energy company. The price has completely tanked in the last few days and I&#39;m not totally sure why. My best guess is that the republican attack on renewable energy in the wake of the texas energy fiasco is driving the price down a bit.<br/></li>\n<li>ANET (Arista Networks Incorporated): 22.42\\% projected 14-day return. ANET is a cloud computing company that sells cloud networking services worldwide. I am guessing the reason ANET is showing up here is because of the huge dip in price they saw today - looks like the machine learning algorithm expects them to continue on the trend they were on before the dip. </li>\n<li>OXY (Occidental Petroleum corp): 20.16\\% projected return - this model loves these guys, so do technical analysts. Fundamentals are much less rosy. Also fuck oil companies. </li>\n<li>WYNN (WYNN resorts LTD): 26.73\\% projected return - another one where my model and technical analysts disagree with the more fundamental folks. I&#39;m a little skeptical about this one.</li>\n<li>VLO (Valero Energy Corp): 20.50\\% projected returns - same story as OXY really. oil company that neural nets love and analysts hate and also that I hate. (again this is not investment advice, I hate oil companies because they are morally bankrupt and responsible for the ransacking of the planet and impending climate crisis). All my homies hate VLO.</li>\n</ol>\n\n<p>Also, yes they are not ordered by descending order of return. Yes it bothers me too and no I will not do anything about it.</p>\n\n<h1>Top projected fallers</h1>\n\n<p>Here you can see the top projected fallers. </p>\n\n<p>I won&#39;t go into these in as much detail but they are TWTR (Twitter), DISH (Dish Network), ILMN (Illumnia Inc), HST (Host Hotels and Resort Inc), COP (Conocophilips).\nMost of these companies have experienced huge price hikes in the last few weeks and it looks like my model is projecting a return to baseline for all of them.\nFor those of you into options trading - it looks like I may have found a way to make money while also sticking it to those rat bastards in the oil industry (COP). Again, this is not investment advice, I just hate oil. \nI don&#39;t even use it for cooking. \nMy food is disgusting but at least I can sleep at night.</p>\n\n<p>This was a super fun exercise! planning to post these somewhat regularly, particularly if people are interested!</p>\n\n<p>Edit: for all the remind me 14 day folks : you will be dissapointed lol. Like I said I think this is a useful stating point to identify companies with potentially good entry points. Like a technical analysis screener- I’ll try and include some figures next time so you can see what I mean</p>\n\n<p>Edit2: I hope y&#39;all bought ENPH this morning lol</p>\n</div><!-- SC_ON -->",
+  "score": 40,
+  "permalink": "/r/stocks/comments/lqaho5/i_developed_a_machine_learning_forecasting_system/",
+  "subreddit": "stocks",
+  "id": "lqaho5",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614332886308
+}

@@ -1,0 +1,77 @@
+{
+  "created_at": "Wed Dec 16 10:3:17 +0000 2020",
+  "id_str": "1338702927192526849",
+  "full_text": "THIS IS AMERICA\n https://t.co/I3A8JvIG88",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1338699159474294800,
+        "id_str": "1338699159474294784",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338699159474294784/pu/img/-4-zT-E_5caqXJiQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338699159474294784/pu/img/-4-zT-E_5caqXJiQ.jpg",
+        "url": "https://t.co/I3A8JvIG88",
+        "display_url": "pic.twitter.com/I3A8JvIG88",
+        "expanded_url": "https://twitter.com/VenturaReport/status/1338699357202214913/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1338699357202215000,
+        "source_status_id_str": "1338699357202214913",
+        "source_user_id": 976569885009485800,
+        "source_user_id_str": "976569885009485824"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
+  },
+  "retweet_count": 62,
+  "favorite_count": 279,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Dec 15 04:30:24 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "这是美国\nhttps://t.co/I3A8JvIG88"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這是美國\nhttps://t.co/I3A8JvIG88"
+    }
+  ],
+  "source_updated_at": 1609260496538
+}

@@ -1,0 +1,78 @@
+{
+  "author": "MinimalGravitas",
+  "the_new_excerpt": "Hi all,\n\nAs per the title, I'm planning to learn to write code, with the intention of\nbecoming more involved in the growing world of crypto, and more specifically\nDeFi. I'm taking a guess that there might be other people wanting to do the same\nand so thought I'd propose a kind of mutual motivation…",
+  "original_created_utc": 1624107916,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\nタイトルの通り、私はコードの書き方を学ぼうと思っています。\n成長する暗号の世界にもっと参加したいと思っています。\nDeFiです。同じようなことをしたい人が他にもいるのではないかと思っています。\nそこで、お互いのモチベーションを高めるための提案をしようと思いました。",
+      "title": "あなたは、プログラミングのバックグラウンドがない、または最小限のスタート地点から、コードを学び、暗号開発者になりたいですか？分散型の勉強会を作りましょう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n按照标题，我打算学习写代码，目的是为了\n越来越多地参与到日益增长的加密世界中，特别是\nDeFi。我猜想可能会有其他人想做同样的事情\n所以我想我应该提出一种相互激励的建议......",
+      "title": "你想从没有/最低限度的编程背景开始，学习编码并成为一名加密货币开发者吗？让我们组成一个分布式学习小组吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n按照標題，我打算學習寫代碼，目的是爲了\n越來越多地參與到日益增長的加密世界中，特別是\nDeFi。我猜想可能會有其他人想做同樣的事情\n所以我想我應該提出一種相互激勵的建議......",
+      "title": "你想從沒有/最低限度的編程背景開始，學習編碼併成爲一名加密貨幣開發者嗎？讓我們組成一個分佈式學習小組吧!"
+    }
+  ],
+  "title": "Do you want to learn to code and become a crypto developer, from a starting point of no/minimal background in programming? Lets form a distributed study group!",
+  "created_utc": 1624117038,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p>\n\n<p>As per the title, I&#39;m planning to learn to write code, with the intention of becoming more involved in the growing world of crypto, and more specifically DeFi. I&#39;m taking a guess that there might be other people wanting to do the same and so thought I&#39;d propose a kind of mutual motivation study group.</p>\n\n<p>I&#39;ve been aware of crypto for a few years, but other than some investments, throwing the occasional donation to Gitcoin grants and trying to share some opinions with the crypto community in various places I haven&#39;t been that involved. A situation that I&#39;m sure I&#39;m not alone in.</p>\n\n<p>My goals are to learn to develop dApps and contribute to the infrastructure that this new ecosystem is being built on, the barrier to this goal is my negligible knowledge of programming. My background is in physics and as such I&#39;ve had to learn a few tiny scraps of Python, but I&#39;ve used this so infrequently that it&#39;s really just trial and error. Effectively my knowledge level is zero. What I want to be able to do eventually is understand Solidity and probably JavaScript well enough that I can have a chance at deploying smart contracts that do what I expect them to do and therefore be part of building the DeFi future. In a dream success scenario I can eventually transition to working for a DAO, being paid on the blockchain as a developer!</p>\n\n<p>If that sounds similar to your position; if you&#39;re starting to feel like you want more from crypto than just speculating on the changing value of assets or moving liquidity around between pools; or even if you just want to be able to read smart contracts well enough to improve your chances of assessing possible projects to invest in, then please comment below.</p>\n\n<p>A lot of the inspiration for doing this comes from the excellent resource list posted by <a href=\"/u/SolorMining\">u/SolorMining</a> at: <a href=\"https://old.reddit.com/r/CryptoCurrency/comments/n5jz6w/want_to_become_a_crypto_developer_here_is_a_list/\">https://old.reddit.com/r/CryptoCurrency/comments/n5jz6w/want_to_become_a_crypto_developer_here_is_a_list/</a> . Much credit for his or her contributions!</p>\n\n<p>From that list I&#39;ve put together a rough plan for study. This is based on roughly 10h per week, which is what I have previously been able to set aside for part time, home based learning. If there&#39;s lots of interest from people with different amounts of time then we can change the timings, or have different study groups moving at different paces etc. I&#39;ve also not checked all of these courses for prerequisite knowledge or overlap, so there might be a much more logical order! Please let me know if this is the case! Anyway, here&#39;s a draft timeline:</p>\n\n<p><strong>Weeks 1 - 5</strong></p>\n\n<ul>\n<li>CS101: Introduction to Computer Science I (Saylor Academy)</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=6\">https://learn.saylor.org/course/view.php?id=6</a></p>\n\n<p><strong>Weeks 6 - 10</strong></p>\n\n<ul>\n<li>CS102: Introduction to Computer Science II (Saylor Academy)</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=64\">https://learn.saylor.org/course/view.php?id=64</a></p>\n\n<p><strong>Weeks 11 - 14</strong></p>\n\n<ul>\n<li>CS201: Elementary Data Structures (Saylor Academy)</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=66\">https://learn.saylor.org/course/view.php?id=66</a></p>\n\n<p><strong>Weeks 15 - 19</strong></p>\n\n<ul>\n<li>CS202: Discrete Structures</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=67\">https://learn.saylor.org/course/view.php?id=67</a></p>\n\n<p><strong>Weeks 20 - 24</strong></p>\n\n<ul>\n<li>CS302: Software Engineering</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=73\">https://learn.saylor.org/course/view.php?id=73</a></p>\n\n<p><strong>Week 25</strong></p>\n\n<ul>\n<li>Absolute Guide: Linux Tutorial for Beginners</li>\n</ul>\n\n<p><a href=\"https://www.bitdegree.org/course/linux-tutorial\">https://www.bitdegree.org/course/linux-tutorial</a></p>\n\n<ul>\n<li>Git Tutorial for Beginners: Master Version Control</li>\n</ul>\n\n<p><a href=\"https://www.bitdegree.org/course/git-tutorial-for-beginners\">https://www.bitdegree.org/course/git-tutorial-for-beginners</a></p>\n\n<p><strong>Week 26 - 27</strong></p>\n\n<ul>\n<li>A Beginner’s Guide to Open Source Software Development (LFD102)</li>\n</ul>\n\n<p><a href=\"https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/\">https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/</a></p>\n\n<p><strong>Week 28 - 29</strong></p>\n\n<ul>\n<li>A Beginner’s Guide to Linux Kernel Development (LFD103)</li>\n</ul>\n\n<p><a href=\"https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/\">https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/</a></p>\n\n<p><strong>Week 30 - 31</strong></p>\n\n<p>Fundamentals of Professional Open Source Management (LFC210)</p>\n\n<p><a href=\"https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management/\">https://training.linuxfoundation.org/training/fundamentals-of-professional-open-source-management/</a></p>\n\n<p><strong>Week 32 - 33</strong></p>\n\n<p>Blockchain: Understanding Its Uses and Implications (LFS170x)</p>\n\n<p><a href=\"https://training.linuxfoundation.org/training/blockchain-understanding-its-uses-and-implications/\">https://training.linuxfoundation.org/training/blockchain-understanding-its-uses-and-implications/</a></p>\n\n<p><strong>Weeks 34 - ??</strong></p>\n\n<p><a href=\"https://cryptozombies.io/en/course/\">https://cryptozombies.io/en/course/</a></p>\n\n<p>Or?</p>\n\n<p><a href=\"https://www.bitdegree.org/course/learn-solidity-space-doggos\">https://www.bitdegree.org/course/learn-solidity-space-doggos</a></p>\n\n<p><strong>Extras (maybe for people who are getting ahead to do in parallel?</strong></p>\n\n<ul>\n<li>Cryptography</li>\n</ul>\n\n<p><a href=\"https://www.khanacademy.org/computing/computer-science/cryptography\">https://www.khanacademy.org/computing/computer-science/cryptography</a></p>\n\n<ul>\n<li>Money and Banking</li>\n</ul>\n\n<p><a href=\"https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking\">https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking</a></p>\n\n<ul>\n<li>Options, Swaps, Futures, MBSs, CDOs, and other Derivatives</li>\n</ul>\n\n<p><a href=\"https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities\">https://www.khanacademy.org/economics-finance-domain/core-finance/derivative-securities</a></p>\n\n<ul>\n<li>PHIL102: Introduction to Critical Thinking and Logic</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=410\">https://learn.saylor.org/course/view.php?id=410</a></p>\n\n<ul>\n<li>PSYCH101: Introduction to Psychology</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=12\">https://learn.saylor.org/course/view.php?id=12</a></p>\n\n<ul>\n<li>SOC101: Introduction to Sociology</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=14\">https://learn.saylor.org/course/view.php?id=14</a></p>\n\n<ul>\n<li>PRDV009: Writing Grant Proposals</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=442\">https://learn.saylor.org/course/view.php?id=442</a></p>\n\n<p><strong>Additional basics/recaps</strong></p>\n\n<ul>\n<li>PRDV151: Bitcoin for Everybody (Could fit in before CS101 for those less familiar with blockchain tech?)</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=468\">https://learn.saylor.org/course/view.php?id=468</a></p>\n\n<ul>\n<li>Learn JavaScript (Could fit in after CS101?)</li>\n</ul>\n\n<p><a href=\"https://www.codecademy.com/learn/introduction-to-javascript\">https://www.codecademy.com/learn/introduction-to-javascript</a></p>\n\n<p><strong>Probably useful next steps/further depth?</strong></p>\n\n<ul>\n<li>CS402: Computer Communications and Networks</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=84\">https://learn.saylor.org/course/view.php?id=84</a></p>\n\n<ul>\n<li>CS403: Introduction to Modern Database Systems</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=93\">https://learn.saylor.org/course/view.php?id=93</a></p>\n\n<ul>\n<li>CS406: Information Security</li>\n</ul>\n\n<p><a href=\"https://learn.saylor.org/course/view.php?id=453\">https://learn.saylor.org/course/view.php?id=453</a></p>\n\n<p>Anyway, this is a long list, and beginning to end will probably take about a year, but I think for me personally the reward will be worth it, if you think that could apply to you to then please comment below. Who knows, if this gets much traction maybe it&#39;d be worth setting up a subreddit specifically for it, creating some POAPS or whatever other ideas we might come up with?</p>\n</div><!-- SC_ON -->",
+  "score": 233,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?auto=webp&s=c15f33a25e41d7afddc0bd491cf34bfd21f41313",
+          "width": 1200,
+          "height": 1200
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?width=108&crop=smart&auto=webp&s=c3482aca069cff56f833e6324af52e6a988cbbf0",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?width=216&crop=smart&auto=webp&s=bb6f4ce0ff7be46118b750b67613d0180610bb6b",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?width=320&crop=smart&auto=webp&s=6d87ba5b6fd11d5e9ca1278a528bbab206e7e909",
+            "width": 320,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?width=640&crop=smart&auto=webp&s=29ca721a56045066bd908a97637d67f6dbbbb53d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?width=960&crop=smart&auto=webp&s=13268f99f5b34a17112d71be76376f3197c48b96",
+            "width": 960,
+            "height": 960
+          },
+          {
+            "url": "https://external-preview.redd.it/3MzYHqI23tl_tHzyOCvxPG6GBx6aoXBbdRtrnSd0MFg.jpg?width=1080&crop=smart&auto=webp&s=db73f389decc337c325a13dba6589f50d84f32eb",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "variants": {},
+        "id": "iTXbeL5SdEBgxk9IPrqcNeys_ix4D60eQKR-_-42hzM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/o3foxr/do_you_want_to_learn_to_code_and_become_a_crypto/",
+  "subreddit": "CryptoCurrency",
+  "id": "o3foxr",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}

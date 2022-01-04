@@ -1,0 +1,32 @@
+{
+  "author": "Ornery_Maintenance_8",
+  "original_created_utc": 1633868854,
+  "title": "I just got hacked and lost more than 1k$ ...",
+  "created_utc": 1633880055,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR</strong>: <strong>This post is meant to raise awareness and to incentive everybody to take your online security serious. I am a software developer and I really know how these things work. It happend to me anyway due to a mixture of laziness and arrogance I guess. Dont be like me !</strong></p>\n\n<p>First thing that caught my attention was that I received a bunch of mails from an exchange I never used before. They said that I successfully verified and funded my account. I did not pay much attention to it because I get these kind of scams, where they pretend to be support of Paypal, Amazon or some exchange, all the time. But when I looked into it in the evening again, it started to worry me. The emails were not tagged as spam by my email provider. The sender address seemed legit and the quality of the mails was very good for being fake. So I started checking my accounts and it hit me like a stroke ...</p>\n\n<p>As I found out, the attack started already 6 days ago. They were inside all my email accounts and deleted all messages created by their activities. They were systematically overtaking and draining different accounts of mine and using cracked accounts to crack others. They basically got access to everything which was not secured via a 2FA application. Accounts with no 2FA or 2FA via SMS or mail were cracked.</p>\n\n<p>But how was this even possible ? The answer is laziness and arrogance of my side. I was using an old Win7 installation and the whole computer was full of all kinds of trash. I always wanted to reinstall the system but never did. One day before the attack begun was was to cheap to buy a partition manager for 30 bugs and used several free tools from questionable sources instead...</p>\n\n<p>... Hey, I am a PRO and absolutely able to distinguish between freeware and malware ... what could possibly go wrong ?</p>\n\n<p>This is probably how they got in and the old unupdated system full of security holes made it easy to exploit.</p>\n\n<p>After being cheap and arrogant infected my system with malware, laziness came into place. Of course I used the same few passwords over and over again. In the beginning, when I created most accounts, I was motivated to type the password every time. But after a while a lot of them somehow ended up being saved in my browser. For some more sensitive accounts I kept typing the password each time and not saving it but 2FA is a real pain in the ass, so I only had it on my most important accounts ... Needles to say that my saved passwords which included email accounts were the perfect collection for the attacker to start with and from that it was possible to recover the rest.</p>\n\n<p>Everything which was not 2FA application secured was cracked. 2FA email of course was useless because they had my email accounts. 2FA SMS which I had in one account was cracked by adding a new phone number which of course was theirs. First they emptied browser connected wallets like e.g. Metamask, DEX&#39;s and even the BAT&#39;s from my Brave browser. Afterwards they started draining accounts like online banking, Paypal, Amazon and so on. In the end they even tried to contact support of 2FA secured accounts and tried to remove the 2FA. Luckily, I noticed whats going on before that could happen.</p>\n\n<p>My total loss is a bit more than 1k$ but I think I still got away with a blue eye. It could have been a lot worse ... The accounts protected by a 2FA application, Ledger secured wallets and also my Monero GUI hot wallet withstood the attack. Big shoutout to the devs of those apps/devices !</p>\n\n<p>Now my System is freshly set up, perfectly updated and clean. I will never install anything from questionable source on this system. I will never save a password in my browser again. All my accounts have different passwords now. Basically all my accounts are now secured via 2FA application. This also includes my email accounts where I had neglected security so badly before. Hot-wallets of mine are not longer connected to my browser via Metamask or anything and I also ordered an additional Ledger for my &quot;less important&quot; hot wallets ...</p>\n\n<p>... I had to pay more than 1k$ to understand this necessity. Dont be like me and realize it for free.</p>\n\n<p>I hope this story is an Inspiration for some of you to close some holes. Enable 2FA with applications like FreeOTP, Google Authenticator or Authy. Use different passwords for different accounts. Dont save passwords in your browser. Dont leave Hot wallets connected to your browser. Secure especially your email accounts properly. Update your System. Dont install trash from questionable sources.</p>\n\n<p>EDIT: The most ugly thing is that feeling of paranoia which I have since all that ... I keep checking my accounts the whole day.</p>\n</div><!-- SC_ON -->",
+  "score": 193,
+  "permalink": "/r/CryptoCurrency/comments/q573cm/i_just_got_hacked_and_lost_more_than_1k/",
+  "subreddit": "CryptoCurrency",
+  "id": "q573cm",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "TL;DR: This post is meant to raise awareness and to incentive everybody to take\nyour online security serious. I am a software developer and I really know how\nthese things work. It happend to me anyway due to a mixture of laziness and\narrogance I guess. Dont be like me !\n\nFirst thing that caught my…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TL;DR: この投稿は、皆さんの意識を高め、オンライン・セキュリティに関心を持っていただくことを目的としています。\nこの投稿は、皆さんのオンライン・セキュリティに対する意識を高め、真剣に取り組んでいただくためのものです。私はソフトウェア開発者であり、これらの仕組みをよく知っています。\n私はソフトウェア開発者であり、これらの仕組みをよく知っています。怠慢と傲慢が入り混じった結果、このような事態になってしまいました。\n怠惰と傲慢が混ざった結果だと思います。私のようにならないでください。\n\n最初に気になったのは...",
+      "title": "ハッキングされて、1,000ドル以上失ってしまいました・・・。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TL;DR: 这篇文章的目的是提高人们的认识，并激励大家认真对待\n认真对待你的在线安全。我是一名软件开发人员，我真的知道如何\n这些东西是如何运作的。由于懒惰和傲慢的混合作用，我想它还是发生在我身上了。\n我猜是由于懒惰和傲慢。不要像我一样!\n\n引起我注意的第一件事是...",
+      "title": "我刚刚被黑了，损失了超过1千美元......"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TL;DR: 這篇文章的目的是提高人們的認識，並激勵大家認真對待\n認真對待你的在線安全。我是一名軟件開發人員，我真的知道如何\n這些東西是如何運作的。由於懶惰和傲慢的混合作用，我想它還是發生在我身上了。\n我猜是由於懶惰和傲慢。不要像我一樣!\n\n引起我注意的第一件事是...",
+      "title": "我剛剛被黑了，損失了超過1千美元......"
+    }
+  ]
+}

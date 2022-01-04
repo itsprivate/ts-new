@@ -1,0 +1,32 @@
+{
+  "author": "SurfingIguana",
+  "original_created_utc": 1628104756,
+  "title": "Crypto Markets and the optimal portfolio using the efficient frontier",
+  "created_utc": 1628140634,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi Everyone,</p>\n\n<p>Given how rapid the crypto markets are, I keep seeing people chasing the latest coin or constantly buying or selling the newest hot crypto. Some small % succeed (although I think a large part of that is luck) and the vast majority fails.</p>\n\n<p>To that end, I&#39;ve been working on app to compute the efficient frontier for a bunch of popular cryptocurrencies. Given that this forms the underpinnings of most finance -- I was hopeful people might find it useful when deciding what percentage of each coin to hold.</p>\n\n<p>I&#39;ve seen some other groups try to do something similar by also enticing people machine learning, ai, etc. Given that my own background is as a data scientist and statistician having worked in the finance space, I&#39;m skeptical. I work on neural nets, random forests, and other techniques for a living and they barely outperform an index. Hedge funds literally spend 10-100&#39;s of millions to beat the market and even then they seldom succeed (although I will admit there are 1 or 2 exceptions after decades of work).</p>\n\n<p>My goal is to avoid the hype -- I want to use the methodology established by Markowitz&#39;s Nobel Prize paper that forms the basis of Modern Portfolio Theory. The data is updated about monthly for two reasons: 1). trading all the time just generates a bunch of fees and this strategy is meant to be more of a diversified buy and hold so no need to constantly rebalance and 2) I&#39;m still getting some of the code working.</p>\n\n<p>Anyway, I&#39;ve gotten a preliminary version of this working using the statistical programming language R. I&#39;m not a web developer but I managed to get that R code up on the web using R Shiny and built in an authentication component using NodeJS (yes that took me some time!) on an AWS server. Authentication is done via <a href=\"https://auth0.com/\">Auth0</a> against a gmail account. This way I get no passwords (don&#39;t want the security headache) and can just whitelist users. Eventually I&#39;ll add other add ins like github/linkedin/facebook.</p>\n\n<p>If you&#39;re interested in being a part of the project: by helping to code, defraying some of the expenses of the build, providing feedback, etc let me know. Happy to talk here, discord, zoom, whatever.</p>\n\n<p>Thanks in advance!</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/dkhdvk7bkef71.png?width=3162&amp;format=png&amp;auto=webp&amp;s=1f962027a73ab2df4e14322e82c2f2b79f18e24b\">Efficient Frontier Plot. You can select which coins to compare too.</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/vzwgmujdkef71.png?width=2866&amp;format=png&amp;auto=webp&amp;s=09fadc671f99caf3741b268fd5cfbe4740b7029f\">Daily and Yearly annualized returns.</a></p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/lq4fj06fkef71.png?width=2790&amp;format=png&amp;auto=webp&amp;s=827c822f532124ce2d4f2218191b1674623044b8\">Covariance Matrix if you want to see how the coins interrelate.</a></p>\n\n<p>&#x200B;</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/oy03yj/crypto_markets_and_the_optimal_portfolio_using/",
+  "subreddit": "SideProject",
+  "id": "oy03yj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hi Everyone,\n\nGiven how rapid the crypto markets are, I keep seeing people chasing the latest\ncoin or constantly buying or selling the newest hot crypto. Some small % succeed\n(although I think a large part of that is luck) and the vast majority fails.\n\nTo that end, I've been working on app to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n暗号市場が急速に拡大している中で、最新のコインを追いかけたり、常に売買している人を見かけることがあります。\n最新のコインを追いかけたり、常に最新のホットな暗号を売買している人をよく見かけます。成功するのはごく一部で\n(が成功しても、大多数は失敗します。\n\nそのために、私はアプリで...",
+      "title": "暗号市場と効率的フロンティアによる最適ポートフォリオ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n鉴于加密货币市场的迅速发展，我一直看到人们在追逐最新的\n币或不断购买或出售最新的热门加密货币。一些小部分的人成功了\n(虽然我认为这其中有很大一部分是运气），而绝大多数是失败的。\n\n为此，我一直在努力开发应用程序，以...",
+      "title": "加密货币市场和使用有效边界的最佳投资组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n鑑於加密貨幣市場的迅速發展，我一直看到人們在追逐最新的\n幣或不斷購買或出售最新的熱門加密貨幣。一些小部分的人成功了\n(雖然我認爲這其中有很大一部分是運氣），而絕大多數是失敗的。\n\n爲此，我一直在努力開發應用程序，以...",
+      "title": "加密貨幣市場和使用有效邊界的最佳投資組合"
+    }
+  ]
+}

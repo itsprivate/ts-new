@@ -1,0 +1,65 @@
+{
+  "type_of": "article",
+  "id": 659936,
+  "title": "How to build a CDN (1/3): introduction and basic components",
+  "description": "If your projects have high traffic and you need to deliver a lot of static files, there is nothing ea...",
+  "readable_publish_date": "Apr  9",
+  "slug": "how-to-build-a-cdn-1-3-introduction-and-basic-components-345o",
+  "path": "/janreges/how-to-build-a-cdn-1-3-introduction-and-basic-components-345o",
+  "url": "https://dev.to/janreges/how-to-build-a-cdn-1-3-introduction-and-basic-components-345o",
+  "comments_count": 0,
+  "public_reactions_count": 42,
+  "collection_id": null,
+  "published_timestamp": "2021-04-09T09:37:07Z",
+  "positive_reactions_count": 42,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/659936.png",
+  "canonical_url": "https://dev.to/janreges/how-to-build-a-cdn-1-3-introduction-and-basic-components-345o",
+  "created_at": "2021-04-11T06:58:03.102Z",
+  "edited_at": "2021-04-10T09:31:36Z",
+  "crossposted_at": null,
+  "published_at": "2021-04-09T09:37:07Z",
+  "last_comment_at": "2021-04-09T09:37:07Z",
+  "tag_list": [
+    "webperf",
+    "devops",
+    "webdev",
+    "performance"
+  ],
+  "tags": [
+    "webperf",
+    "devops",
+    "webdev",
+    "performance"
+  ],
+  "user": {
+    "name": "Ján Regeš",
+    "username": "janreges",
+    "twitter_username": null,
+    "github_username": "janreges",
+    "website_url": "https://www.siteone.cz/",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pPgoTUx1--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/607877/b1fae9bb-0950-4ede-892a-649ca39f3dbf.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--MIfmDh42--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/607877/b1fae9bb-0950-4ede-892a-649ca39f3dbf.jpg"
+  },
+  "original_created_at": "2021-04-09T09:26:28Z",
+  "image": "https://dev.to/social_previews/article/659936.png",
+  "author": "Ján Regeš",
+  "author_url": "https://dev.to/janreges",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "トラフィックの多いプロジェクトで、大量の静的ファイルを配信する必要がある場合、これほど便利なものはありません。",
+      "title": "CDNの構築方法（1/3）：導入と基本コンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "如果您的项目具有高流量，并且您需要交付大量的静态文件，那么就没有什么比这更容易了。",
+      "title": "如何构建CDN（1/3）：介绍和基本组件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果您的項目具有高流量，並且您需要交付大量的靜態文件，那麼就沒有什麼比這更容易了。",
+      "title": "如何構建CDN（1/3）：介紹和基本組件。"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "created_at": "Mon Jan 25 14:12:49 +0000 2021",
+  "id_str": "1353697665540911106",
+  "full_text": "GameStop is up 55% pre-market.  \n \n$GME https://t.co/2dB7ylhq10",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "GME",
+        "indices": [
+          35,
+          39
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1353697663540146200,
+        "id_str": "1353697663540146176",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EslM2lCWMAAAzPB.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EslM2lCWMAAAzPB.jpg",
+        "url": "https://t.co/2dB7ylhq10",
+        "display_url": "pic.twitter.com/2dB7ylhq10",
+        "expanded_url": "https://twitter.com/Stocktwits/status/1353697665540911106/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 320,
+            "h": 288,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 320,
+            "h": 288,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 320,
+            "h": 288,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 50,
+  "favorite_count": 353,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jan 25 13:34:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "GameStop盘前涨55%。 \n \n$GME https://t.co/2dB7ylhq10"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "GameStop盤前漲55%。 \n \n$GME https://t.co/2dB7ylhq10"
+    }
+  ]
+}

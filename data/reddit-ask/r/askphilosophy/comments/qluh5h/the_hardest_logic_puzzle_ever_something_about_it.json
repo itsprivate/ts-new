@@ -1,0 +1,32 @@
+{
+  "author": "Executable66",
+  "original_created_utc": 1635946153,
+  "title": "\"The Hardest Logic Puzzle Ever\" - something about it is bothering me",
+  "created_utc": 1635990547,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://xkcd.com/blue_eyes.html\">https://xkcd.com/blue_eyes.html</a></p>\n\n<p>Was able to solve this last night, for those who haven&#39;t solved it and want to, I&#39;m going to spoil the heck out of the solution.</p>\n\n<p>My solution can be proved via induction as follows:</p>\n\n<p>(Base case) suppose there was one blue-eyed person and any amount of brown-eyed people.  When the guru states she can see someone with blue eyes, the blue eyed person can immediately identify themselves as that person and leaves the island that night.</p>\n\n<p>(Inductive step) Assume it is true that if you had N people with blue eyes, and any amount of people with brown eyes, that the people with blue eyes would leave on night N.</p>\n\n<p>Consider the case where you have N+1 people with blue eyes and any amount with brown eyes.  Let x be any of the N+1 with blue eyes.  They are able to see N people with blue eyes.  However, after night N, the N people they can see do not leave.  Using the assumption, they can deduce that there are not N people with blue eyes, but N+1, meaning they must have blue eyes.  So they leave night N+1.</p>\n\n<p>This is sufficient to prove that everyone with blue eyes leaves after an amount of nights equal to the amount of people with blue eyes.  This is all well and good, until you think more deeply about it: <strong>what the guru says is a statement that is already obviously true to everyone</strong>.</p>\n\n<p>And that&#39;s where this starts to get weird.  How is it possible that stating something obviously true could lead to a nonobvious conclusion about the state of the world?</p>\n\n<p>Because note this: the inductive step is true regardless of whether the guru speaks.  It&#39;s plainly true to the hyper-logical people in the statement of the problem.  What&#39;s important for the guru speaking is only <em>how it would effect the N=1 case</em>.</p>\n\n<p>What this seems to imply is that the fact the statement &quot;I can see someone with blue eyes&quot; <em>could</em> have contained non-obvious truth in some alternative version of reality, that it somehow translates to non-obvious truth in this one, even though it&#39;s obvious truth in this reality.  But that seems.. very strange??</p>\n\n<p>Please help!!</p>\n</div><!-- SC_ON -->",
+  "score": 101,
+  "permalink": "/r/askphilosophy/comments/qluh5h/the_hardest_logic_puzzle_ever_something_about_it/",
+  "subreddit": "askphilosophy",
+  "id": "qluh5h",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "https://xkcd.com/blue_eyes.html\n\nWas able to solve this last night, for those who haven't solved it and want to,\nI'm going to spoil the heck out of the solution.\n\nMy solution can be proved via induction as follows:\n\n(Base case) suppose there was one blue-eyed person and any amount of brown…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://xkcd.com/blue_eyes.html\n\nまだ解いたことのない方、解いてみたい方のために、昨夜解けました。\n解答のネタバレをしてしまいます。\n\n私の解答は以下のように帰納法で証明できます。\n\n(ベースケース)青い目の人が一人いて、茶色い目の人がいくらでもいたとします。",
+      "title": "\"The Hardest Logic Puzzle Ever\" - 何か気になりますね。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://xkcd.com/blue_eyes.html\n\n昨晚能够解决这个问题，对于那些还没有解决而又想解决的人。\n我将会破坏这个解决方案。\n\n我的解决方案可以通过归纳法证明如下。\n\n(基本情况）假设有一个蓝眼睛的人和任何数量的棕色...",
+      "title": "\"史上最难的逻辑谜题\"--有些东西让我感到不安"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://xkcd.com/blue_eyes.html\n\n昨晚能夠解決這個問題，對於那些還沒有解決而又想解決的人。\n我將會破壞這個解決方案。\n\n我的解決方案可以通過歸納法證明如下。\n\n(基本情況）假設有一個藍眼睛的人和任何數量的棕色...",
+      "title": "\"史上最難的邏輯謎題\"--有些東西讓我感到不安"
+    }
+  ]
+}

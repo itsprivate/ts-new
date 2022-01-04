@@ -1,0 +1,59 @@
+{
+  "author": "SweetPie123",
+  "the_new_excerpt": "This is a small overview of the different DLT's, for a deep dive into these\ntechnologies I can recommend reading whitepapers of the coins mentioned.\n\nBlockchain: transaction information is collected in 'blocks' and other blocks\nare building onto that creating a chain, blockchain. Each block has a…",
+  "original_created_utc": 1617113043,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是对不同DLT的一个小的概述，为了深入了解这些。\n技术，我可以推荐大家阅读上述币种的白皮书。\n\n区块链：交易信息被收集在 \"区块 \"和其他区块中。\n正在建立在这个基础上，创造了一个链，区块链。每个区块都有一个...",
+      "title": "并非你所有的币都是区块链，简单介绍一下不同类型的分布式账本技术。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是對不同DLT的一個小的概述，爲了深入瞭解這些。\n技術，我可以推薦大家閱讀上述幣種的白皮書。\n\n區塊鏈：交易信息被收集在 \"區塊 \"和其他區塊中。\n正在建立在這個基礎上，創造了一個鏈，區塊鏈。每個區塊都有一個...",
+      "title": "並非你所有的幣都是區塊鏈，簡單介紹一下不同類型的分佈式賬本技術。"
+    }
+  ],
+  "title": "Not all your coins are Blockchain; a short look at different types of Distributed Ledger Technology",
+  "created_utc": 1617169313,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><em>This is a small overview of the different DLT&#39;s, for a deep dive into these technologies I can recommend reading whitepapers of the coins mentioned.</em></p>\n\n<p><strong>Blockchain:</strong> transaction information is collected in &#39;blocks&#39; and other blocks are building onto that creating a chain, blockchain. Each block has a hash that identifies the transaction which will change in a different transaction if someone tries to alter it. Blockchain is transparent due to its public ledger which every node (or viewer) on the network has access to.</p>\n\n<p><a href=\"https://preview.redd.it/pofac3hl36q61.png?width=400&amp;format=png&amp;auto=webp&amp;s=737a17234c9b0b72b402673f859cfc2cbe218a96\">visual representation of how blockchain works</a></p>\n\n<p>- Participants get new tokens due to different consensus mechanisms; Staking or Mining for instance.</p>\n\n<p>- Known for scalability issues although this has become less of a problem due to new developments and L2 solutions.</p>\n\n<p>Most famous coins: Bitcoin, Ethereum, Cardano.</p>\n\n<p><strong>Scaling solution:</strong></p>\n\n<p><strong>Sharding:</strong> &#39;&#39;Sharding splits a blockchain company&#39;s entire network into smaller partitions, known as &quot;shards.&quot; Each shard is comprised of its own data, making it distinctive and independent when compared to other shards.&#39;&#39; This will solve common congestion issues blockchain is known for.</p>\n\n<p>Most famous coins: Harmony, Elrond, Zilliqa, Ethereum soon™.</p>\n\n<p><strong>Directed Acyclic Graphs (DAG):</strong></p>\n\n<p>DAG is a way of trying to fix the limitations of blockchain. This type of DLT relies on consensus algorithms. This simply said means that transactions are valid when the majority of the network supports it. Nodes are all equal, which requires teamwork (nodes all need to be updated and about the same strenght). The previous transaction validates the new transaction to achieve consensus.</p>\n\n<p><a href=\"https://preview.redd.it/n4fpb6k136q61.png?width=1280&amp;format=png&amp;auto=webp&amp;s=417725b5a95b119363c520bc269d6f591bce31f1\">Visual representation of how a DAG works.</a></p>\n\n<p>- Thanks to this structure DAG-based coins are better at scaling, cheap and TPS is extremely high.</p>\n\n<p>- The success of a transactions depends on its ability to validate two previous transactions.</p>\n\n<p>Most famous coins: IOTA, Nano, Avalanche, Dagcoin.</p>\n\n<p><strong>Hashgraph: &#39;&#39;Hashgraph</strong> is an decentralized consensus mechanism using the blockchain concepts of &quot;gossip,&quot; &quot;gossip about gossip&quot; and virtual voting&#39;. When only nodes have to achieve consensus using this these protocols it makes the process of completing a transaction way faster. I can recommend the site of Hedera Hashgraph if you&#39;re interested in how all these protocols work; <a href=\"https://hedera.com/learning/what-is-hedera-hashgraph\">link here</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/ou9r7r0e66q61.png?width=1600&amp;format=png&amp;auto=webp&amp;s=64b8a8a887f87bab83cf8d2e3e94ee92642b1310\">Blockhain VS Hashgraph.</a></p>\n\n<p>- extremely scalable &amp; high TPS due to the unique consensus mechanism.</p>\n\n<p>- Validation of transactions depends on consensus.</p>\n\n<p>Most famous coins: Hedera Hashgraph</p>\n\n<p><strong>Holochain:</strong> Holochain&#39;s goal is to change the structure of the internet as we know it, moving away from a server-client basis. You can see Holo as a combination of Bittorrent (p2p), blockchain and Github. This means that each node will run a chain of its own, operating autonomously from the network. So there will be no &#39;middle man&#39; as data storage is locally on your device.</p>\n\n<p><a href=\"https://preview.redd.it/wl1hr1s896q61.jpg?width=1125&amp;format=pjpg&amp;auto=webp&amp;s=3188ec7fa5915d0f5ec3755334f754595754977d\">Centralised data storage vs Holochain.</a></p>\n\n<p>- Unlimited TPS and scalability because each node runs its own ledger.</p>\n\n<p>- No network congestion, data is distributed amongst different nodes.</p>\n\n<p>Most famous coins: Holochain</p>\n</div><!-- SC_ON -->",
+  "score": 178,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/kupFaR2NAnnHCs1EVpQmg0gqQS1thNGbC1ivauiqVXs.png?auto=webp&s=9357f921d48fa1c9164eb22aa113d2cd2970a14e",
+          "width": 400,
+          "height": 267
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/kupFaR2NAnnHCs1EVpQmg0gqQS1thNGbC1ivauiqVXs.png?width=108&crop=smart&auto=webp&s=60774269d66cbf64a44cfe8695a6a03218237ffe",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/kupFaR2NAnnHCs1EVpQmg0gqQS1thNGbC1ivauiqVXs.png?width=216&crop=smart&auto=webp&s=f56f809bb4bcd9388d8edd4004fa23e68eb1472f",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/kupFaR2NAnnHCs1EVpQmg0gqQS1thNGbC1ivauiqVXs.png?width=320&crop=smart&auto=webp&s=22621dccd2661a7178abeae772b6324b32679dcf",
+            "width": 320,
+            "height": 213
+          }
+        ],
+        "variants": {},
+        "id": "tAiFhKHsLt0fKHfyuuBpwV66-FBZ2UVtuUJBog-CH_Y"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mggs6t/not_all_your_coins_are_blockchain_a_short_look_at/",
+  "subreddit": "CryptoCurrency",
+  "id": "mggs6t",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617357138669
+}

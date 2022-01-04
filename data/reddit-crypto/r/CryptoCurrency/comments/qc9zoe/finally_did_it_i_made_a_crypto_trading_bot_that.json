@@ -1,0 +1,32 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1634761247,
+  "title": "Finally did it: I made a crypto trading bot that automatically places orders on new listings before they get added on Binance",
+  "created_utc": 1634769222,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>So I&#39;ve been working on this project for about 2 months now, and I&#39;ve learned quite a bit about how new listings behave, and how important the Binance Annoucement page is.</p>\n\n<p>My inital idea was to create a crypto trading bot in Python, that constantly checks if a new listing is added on Binance, essentially by checking the total number of coins at any given time. I tried out different variations on this, end even increased the speed to buy within 0.1 seconds on a new coin being listed.</p>\n\n<p>After looking at the results, and talking to some of you on here, it turns out that the spike in the price upon listing the coin is actually the peak of the iceberg.</p>\n\n<p>The real activity seems to happen once Binance Announces that they will list the coin, and not upon the listing itself.</p>\n\n<p>Have a look at the chart for FIDA/USDT below, and the time Binance made the announcement:</p>\n\n<p><a href=\"https://preview.redd.it/q6bnt5noynu71.png?width=1536&amp;format=png&amp;auto=webp&amp;s=4b370c7cf601c57bf2c5cf19ffb9df8c6730d117\">FIDAUSDT</a></p>\n\n<p><a href=\"https://preview.redd.it/689yka0rynu71.png?width=677&amp;format=png&amp;auto=webp&amp;s=f70c90a371a9bddecf298ba6ec42837f8570485a\">https://preview.redd.it/689yka0rynu71.png?width=677&amp;format=png&amp;auto=webp&amp;s=f70c90a371a9bddecf298ba6ec42837f8570485a</a></p>\n\n<p>&#x200B;</p>\n\n<p>Looks like people are fomoing hard into new coins on different exchanges in anticipation of a Binance pump, ironically creating the pump themselves.</p>\n\n<p>So with that in mind, I built a crypto trading algorithm that listens to the Binance announcement page, and once there is an announcement for a new coin listing, the bot extracts the symbol of that coin and places a Buy order on Gate .io.</p>\n\n<p>The tool will automatically place buy and sell orders and it has a trailing stop loss feature, meaning that it should sell at the optimum time, in theory.</p>\n\n<p>I chose gate .io because according to what I&#39;ve seen and what some of you have said, this exchange seem to list many of the coins that later make it on Binance or other bigger exchanges.</p>\n\n<p>The tool is free to use for everyone, but I suggest running it in Test mode at first, as I still need to confirm that everything runs fine. Annoyingly, gate .io doesn&#39;t have a testnet which means I had to test the buy/sell logic by placing real trades - not ideal.</p>\n\n<p>But I&#39;ve included a test mode for the tool itself, so it won&#39;t actually call the gate .io API, it will just simulate the trades locally.</p>\n\n<p>I&#39;m currently waiting for new annoucements to test out the profitability and will report back. For anyone interested in the project or who may want to test this out themselves:</p>\n\n<p><strong>Here&#39;s a video overview of the tool and why it evolved to this:</strong> <a href=\"https://youtu.be/SsSgD0v16Kg\"><strong>https://youtu.be/SsSgD0v16Kg</strong></a></p>\n\n<p><strong>A guide on how to install and run this on your machine:</strong> <a href=\"https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/\"><strong>https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/</strong></a></p>\n\n<p><strong>And of course, the source code on GitHub:</strong> <a href=\"https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins\"><strong>https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins</strong></a></p>\n\n<p>&#x200B;</p>\n\n<p>PS: congrats on your gains to all hodlers today :)</p>\n</div><!-- SC_ON -->",
+  "score": 259,
+  "permalink": "/r/CryptoCurrency/comments/qc9zoe/finally_did_it_i_made_a_crypto_trading_bot_that/",
+  "subreddit": "CryptoCurrency",
+  "id": "qc9zoe",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "So I've been working on this project for about 2 months now, and I've learned\nquite a bit about how new listings behave, and how important the Binance\nAnnoucement page is.\n\nMy inital idea was to create a crypto trading bot in Python, that constantly\nchecks if a new listing is added on Binance,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このプロジェクトに取り組んで約2ヶ月になりますが、新規上場の動きや、Binanceの重要性について\n新規上場がどのように振る舞うか、またBinanceのAnnoucementページがどれほど重要かについて、かなりのことを学びました。\nAnnoucementページがいかに重要であるかを学びました。\n\n当初のアイデアは、Pythonで暗号化取引のボットを作成することでした。\nBinanceに新しいリストが追加されているかどうかを常にチェックして...",
+      "title": "やっとできました。Binanceに追加される前の新規上場銘柄に自動的に注文を出す暗号取引ボットを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以我已经在这个项目上工作了大约两个月，我已经了解了\n我已经了解了很多关于新上市项目的行为方式，以及Binance\n公告页面的重要性。\n\n我最初的想法是在Python中创建一个加密货币交易机器人，它不断地\n检查Binance上是否有新的挂牌，...",
+      "title": "终于做到了。我做了一个加密货币交易机器人，在Binance上的新上市项目被添加之前自动下单。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以我已經在這個項目上工作了大約兩個月，我已經瞭解了\n我已經瞭解了很多關於新上市項目的行爲方式，以及Binance\n公告頁面的重要性。\n\n我最初的想法是在Python中創建一個加密貨幣交易機器人，它不斷地\n檢查Binance上是否有新的掛牌，...",
+      "title": "終於做到了。我做了一個加密貨幣交易機器人，在Binance上的新上市項目被添加之前自動下單。"
+    }
+  ]
+}

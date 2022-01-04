@@ -1,0 +1,78 @@
+{
+  "author": "booleanlifeform",
+  "original_created_utc": 1631934838,
+  "title": "A Scaling Breakthrough for the Lightning Network",
+  "created_utc": 1631954149,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>John Law has just published a fascinating proposal to allow for much improved scaling of the Lightning Network.</p>\n\n<p><a href=\"https://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf\">https://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf</a></p>\n\n<p>This new protocol (named <strong>Inherited IDs</strong>) would completely replace the proposed Eltoo protocol, and greatly improves it by allowing multiple Lightning channels to be opened (or modified) with a single on-chain transaction, saving thousands or millions of transactions.</p>\n\n<p>This can be implemented via a Bitcoin soft fork.</p>\n\n<p>The proposal appears well thought-out and sensible at first glance, but perhaps my brain just isn&#39;t big enough to pinpoint any flaws in the proposal...</p>\n</div><!-- SC_ON -->",
+  "score": 166,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?auto=webp&s=5f6288230a85c2f2c11f03b6c3be1155dab67915",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?width=108&crop=smart&auto=webp&s=4c293ac021b7b52da7a887c44960e6035091003a",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?width=216&crop=smart&auto=webp&s=469dfd9f3e03c43cfef35f0b7a3eb768c32f592c",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?width=320&crop=smart&auto=webp&s=7db5b52180a7d5dac3a19773d266c1c7a918294b",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?width=640&crop=smart&auto=webp&s=f9fc80f43a0e993b7923a3637a50194a0c61f79e",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?width=960&crop=smart&auto=webp&s=642af6935aeddd453796924de33c2bfc0a307058",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/oqTF1t1-5uZfZo8an7e515-IhrrKh6KIH9sN4QEHdjY.jpg?width=1080&crop=smart&auto=webp&s=0776334f458efc071d213d0d7ca820c143e268b0",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "46s-OEpU0X_hh3qC_MPoK7Kre06-LkpPMVyhPhZJV90"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/pqepe4/a_scaling_breakthrough_for_the_lightning_network/",
+  "subreddit": "Bitcoin",
+  "id": "pqepe4",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "John Law has just published a fascinating proposal to allow for much improved\nscaling of the Lightning Network.\n\nhttps://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf\n\nThis new protocol (named Inherited IDs) would completely replace the proposed\nEltoo protocol, and greatly improves it by…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "John Law氏は、大幅に改善されたスケーリングを可能にする魅力的な提案を発表しました。\nライトニングネットワークのスケーリングを改善するための興味深い提案を発表しました。\n\nhttps://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf\n\nこの新しいプロトコル（Inherited IDsと命名）は、提案されているEltooプロトコルを完全に置き換え、以下のように大幅に改善します。\nEltooプロトコルを完全に置き換えるもので、以下のように大幅に改善します。",
+      "title": "ライトニングネットワークのスケーリングブレークスルー"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "约翰-劳刚刚发表了一个迷人的建议，允许大大改善\n规模的闪电网络。\n\nhttps://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf\n\n这个新的协议（名为 \"继承ID\"）将完全取代提议的\nEltoo协议，并通过以下方式大大改进它。",
+      "title": "闪电网络的规模化突破"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "約翰-勞剛剛發表了一個迷人的建議，允許大大改善\n規模的閃電網絡。\n\nhttps://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf\n\n這個新的協議（名爲 \"繼承ID\"）將完全取代提議的\nEltoo協議，並通過以下方式大大改進它。",
+      "title": "閃電網絡的規模化突破"
+    }
+  ]
+}

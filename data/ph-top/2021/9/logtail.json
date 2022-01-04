@@ -1,0 +1,85 @@
+{
+  "id": "313506",
+  "commentsCount": 4,
+  "createdAt": "2021-09-23T09:26:11.049Z",
+  "description": "ClickHouse-based SQL-compatible log management. Log more, pay less.",
+  "featuredAt": "2021-09-23T08:41:58Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6b431097-064e-4e04-b593-5cc38dd1dfd4.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5143a4d0-204a-4260-8c5e-a9933c451107.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b77220f8-c1a6-42fa-8878-81ad4ed4f9a8.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5b810795-f6e9-445f-a6fc-e90ee21b2013.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/34c4d900-52b6-4113-9176-f9f06cf7310e.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Logtail",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/2a7fae60ef10b0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Juraj Masár",
+    "url": "https://www.producthunt.com/@juraj_masar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "logtail",
+  "tagline": "Query your logs like you query your database",
+  "url": "https://www.producthunt.com/posts/logtail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 351,
+  "website": "https://www.producthunt.com/r/2a7fae60ef10b0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Maker Tools "
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-09-23T08:41:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ClickHouseベースのSQL互換のログ管理。より多くのログを、より少ない費用で。",
+      "tagline": "データベースを検索するように、ログを検索する"
+    },
+    {
+      "locale": "zh",
+      "description": "基于ClickHouse的SQL兼容的日志管理。记录更多，支付更少。",
+      "tagline": "像查询数据库一样查询你的日志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於ClickHouse的SQL兼容的日誌管理。記錄更多，支付更少。",
+      "tagline": "像查詢數據庫一樣查詢你的日誌"
+    }
+  ],
+  "source_updated_at": 1632476410433
+}

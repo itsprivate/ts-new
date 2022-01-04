@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 879716,
+  "title": "Beware of Promise.all",
+  "description": "In Javascript, Promise.all lets you execute a bunch of Promises in parallel and get an array of...",
+  "readable_publish_date": "Oct 28",
+  "slug": "beware-of-promiseall-3pph",
+  "path": "/jdorn/beware-of-promiseall-3pph",
+  "url": "https://dev.to/jdorn/beware-of-promiseall-3pph",
+  "comments_count": 4,
+  "public_reactions_count": 49,
+  "collection_id": null,
+  "published_timestamp": "2021-10-28T18:26:46Z",
+  "positive_reactions_count": 49,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/879716.png",
+  "canonical_url": "https://dev.to/jdorn/beware-of-promiseall-3pph",
+  "created_at": "2021-10-31T18:26:05.453Z",
+  "edited_at": null,
+  "crossposted_at": null,
+  "published_at": "2021-10-28T18:26:46Z",
+  "last_comment_at": "2021-10-30T20:33:36Z",
+  "reading_time_minutes": 2,
+  "tag_list": [
+    "javascript",
+    "typescript",
+    "performance"
+  ],
+  "tags": [
+    "javascript",
+    "typescript",
+    "performance"
+  ],
+  "user": {
+    "name": "Jeremy Dorn",
+    "username": "jdorn",
+    "twitter_username": null,
+    "github_username": "jdorn",
+    "website_url": null,
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QSQ9LlM2--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/737386/638a20e4-b2ad-40a5-a7a0-b1373e3303a8.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s---WxlYmid--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/737386/638a20e4-b2ad-40a5-a7a0-b1373e3303a8.jpeg"
+  },
+  "original_created_at": "2021-10-28T12:07:15Z",
+  "image": "https://dev.to/social_previews/article/879716.png",
+  "author": "Jeremy Dorn",
+  "author_url": "https://dev.to/jdorn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptでは、Promise.allを使うことで、たくさんのPromiseを並列に実行し、その結果の配列を得ることができます。",
+      "title": "Promise.allにご注意ください。"
+    },
+    {
+      "locale": "zh",
+      "description": "在Javascript中，Promise.all可以让你并行地执行一堆承诺，并获得一个数组。",
+      "title": "当心Promise.all"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Javascript中，Promise.all可以讓你並行地執行一堆承諾，並獲得一個數組。",
+      "title": "當心Promise.all"
+    }
+  ]
+}

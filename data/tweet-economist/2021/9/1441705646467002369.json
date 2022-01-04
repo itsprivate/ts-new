@@ -1,0 +1,86 @@
+{
+  "created_at": "Sat Sep 25 12:53:5 +0000 2021",
+  "id_str": "1441705646467002369",
+  "full_text": "Artificial intelligence is helping humans to make new kinds of art https://t.co/MLVs8gj7NH https://t.co/gi73I6sUEn",
+  "display_text_range": [
+    0,
+    90
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/MLVs8gj7NH",
+        "expanded_url": "https://econ.st/3i3TVBn",
+        "display_url": "econ.st/3i3TVBn",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1441704121560551400,
+        "id_str": "1441704121560551426",
+        "indices": [
+          91,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/FAH3pJtXoAE8zkx.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FAH3pJtXoAE8zkx.jpg",
+        "url": "https://t.co/gi73I6sUEn",
+        "display_url": "pic.twitter.com/gi73I6sUEn",
+        "expanded_url": "https://twitter.com/TheEconomist/status/1441705646467002369/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 720,
+            "h": 405,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 405,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 35,
+  "favorite_count": 84,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Sep 25 10:06:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "人工知能が人間に新しい芸術をもたらす https://t.co/MLVs8gj7NH https://t.co/gi73I6sUEn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "人工智能正在帮助人类制造新型艺术 https://t.co/MLVs8gj7NH https://t.co/gi73I6sUEn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "人工智能正在幫助人類製造新型藝術 https://t.co/MLVs8gj7NH https://t.co/gi73I6sUEn"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "created_at": "Tue Jun 15 21:35:45 +0000 2021",
+  "id_str": "1404910323556093960",
+  "full_text": "RT @jack: 🇪🇹#bitcoin",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          12,
+          20
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
+  },
+  "retweet_count": 567,
+  "favorite_count": 0,
+  "original_created_at": "Tue Jun 15 21:14:57 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: 🇪🇹#bitcoin",
+      "retweeted_status_full_text": "🇪🇹#bitcoin https://t.co/jQSnJr5bv8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 🇪🇹#比特币",
+      "retweeted_status_full_text": "🇪🇹#比特币 https://t.co/jQSnJr5bv8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 🇪🇹#比特幣",
+      "retweeted_status_full_text": "🇪🇹#比特幣 https://t.co/jQSnJr5bv8"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Tue Jun 15 20:57:11 +0000 2021",
+    "id_str": "1404905853111746562",
+    "full_text": "🇪🇹#bitcoin https://t.co/jQSnJr5bv8",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            2,
+            10
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jQSnJr5bv8",
+          "expanded_url": "https://twitter.com/projectmano/status/1404641097868062723",
+          "display_url": "twitter.com/projectmano/st…",
+          "indices": [
+            11,
+            34
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "jack",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 567,
+    "favorite_count": 3207,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Tue Jun 15 03:25:09 +0000 2021",
+      "id_str": "1404641097868062723",
+      "full_text": "THREAD - For the last 6 months or so, we have been trying to push the Ethiopian Gov. to consider mining and storing #Bitcoin to combat the rising inequalities &amp; global inflation. We now have mobilized like-minded Ethiopians to start Project Mano https://t.co/ZIaIYbElEt \n\n1/4",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              116,
+              124
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZIaIYbElEt",
+            "expanded_url": "http://projectmano.com",
+            "display_url": "projectmano.com",
+            "indices": [
+              250,
+              273
+            ]
+          }
+        ]
+      },
+      "user": {
+        "name": "Project Mano | ማኖ 🇪🇹",
+        "screen_name": "projectmano",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1404625008664719361/RpSqaZ-d_normal.jpg"
+      },
+      "retweet_count": 265,
+      "favorite_count": 1201,
+      "possibly_sensitive": false
+    }
+  }
+}

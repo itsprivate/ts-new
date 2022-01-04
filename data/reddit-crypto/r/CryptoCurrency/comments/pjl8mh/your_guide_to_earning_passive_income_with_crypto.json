@@ -1,0 +1,78 @@
+{
+  "author": "Nexion21",
+  "original_created_utc": 1631014252,
+  "title": "Your guide to earning passive income with Crypto - DeFi the right way.",
+  "created_utc": 1631075530,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Ladies and gentlemen,</p>\n\n<p>I am here today because of the post made by <a href=\"/u/thechadley\">/u/thechadley</a> <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/pitnji/using_cryptos_to_earn_passive_income_my/\">Using Cryptos to Earn Passive Income</a>. They have an excellent post on all the different options of passive income from crypto, and I wish to expand upon that post with concrete examples. Specifically, I will be focusing on Yield Farming in this post and Prestaking/Prefarming in the next post.</p>\n\n<p>This post will be two parts, Blue Chip and Small Cap farming. The only coins I’ll be mentioning here are stablecoins (USDC and DAI), ETH, and BTC. All protocols mentioned here will be on the Polygon ecosystem. Those wishing to use Avalanche, Solana, or Fantom ecosystems will benefit from this post as well.</p>\n\n<p><a href=\"https://medium.com/stakingbits/guide-to-using-the-matic-bridge-to-bridge-tokens-from-ethereum-to-polygon-c3e66cf3d334\">A guide on how to bridge funds from Ethereum to Polygon.</a> There are many ways to get onto the ecosystem, I’ll focus on what to do once you’re here.</p>\n\n<p><strong>Summary</strong></p>\n\n<p>With Blue Chip farming, your average returns will be about 10% APY, depending on what cryptos you own, and your risk level will be as close to 0% as it gets in DeFi. We will be using Aave and Curve, two of the largest DeFi protocols in crypto.</p>\n\n<p>With Small Cap farming, your average returns will be from 15%-50% APY, with a slightly higher risk factor. I won’t be sharing any projects that haven’t been thoroughly audited, as those will be in the next post about Prestaking/farming. In this section, you’ll be introduced to several protocols that you’ve likely never heard of before, but do not fret! They are fully audited by some of the most respected smart contract auditors in the sector. If the code is solid, your money is safe.</p>\n\n<p><strong>Blue Chip Farming Step 1 – Aave</strong></p>\n\n<p>Lets get started! As <a href=\"/u/thechadley\">/u/thechadley</a> mentioned, yield farming is not as complex as it seems. The very first thing you should do is check out <a href=\"https://app.aave.com/markets\">the Aave protocol website</a> and go to the Polygon section in the upper right. Here you can see all the assets you can deposit, and the massive <em>Four billion USD</em> of liquidity deposited, with another <em>$21 billion</em> on the Ethereum mainnet.</p>\n\n<p><a href=\"https://imgur.com/tNUu62v\">Scroll down a bit and you can see the WETH (wrapped Ether)</a>. You deposit your ETH here, and you’ll get ~0.2% APY in ETH, and ~1.4% APR in WMATIC, paid out continuously, which you can trade for more ETH if you wish. That’s about 2% APY returns just for supplying WETH to the protocol. Note: you can also supply stablecoins here for up to 14% APY. USDT cannot be used as collateral, so I recommend DAI/USDC.</p>\n\n<p>Once you’ve supplied your crypto, head on over to the Borrow section. Here, you can choose to borrow stablecoins, but I like to borrow BTC, as ETH and BTC generally trend together in terms of price. You can see on the borrow page that it costs ~0.35% APY to borrow, but you’re PAID 1.53% APR in WMATIC! You read that right, you’re PAID to borrow BTC! This incentive from the Polygon development team lasts through April of 2022 <a href=\"https://cryptobriefing.com/polygon-launches-40m-liquidity-mining-program-with-aave/\">source</a>.</p>\n\n<p>The risk here is getting liquidated (5% of your ETH will be used to close out your bitcoin position), which will happen if your Health Factor goes too low. With ETH, your Maximum LTV is 80%, so you can borrow up to 80% of the total value of your ETH in Bitcoin. $10,000 deposited? You can borrow $8,000. This would put you at 1.00 health factor, so you’re at a ridiculous risk of getting liquidated. I always keep my health factor above 1.3, but someone who isn’t paying attention to the markets as much would want to go safer, with 1.8 or higher.</p>\n\n<p>At this point, you’re getting about 1.5%+1.4% in WMATIC for a total of 2.9% APR and your bitcoin/ETH basically cancel each other out. Lets pump up these numbers a bit, eh?</p>\n\n<p><strong>Blue Chip Farming Step 2 – Curve</strong></p>\n\n<p>Now you’ve got your BTC, in the form of WBTC. Head on over to <a href=\"https://polygon.curve.fi\">https://polygon.curve.fi</a> where you will see a list of pools they have. In this case, we’re interested in the renBTC pool. <a href=\"https://renproject.io/\">Read up on renBTC here</a>. The base vAPY is .21%, and the rewards tAPY is currently 2.81% in CRV + 4.13% in WMATIC. So you’re directly paid 0.21% in BTC, and given a total of 6.94% APY in two other tokens. Now we’re at just about 8% APY, with the rewards from the bitcoin being deposited and staked with Curve and the WMATIC rewards from Aave, assuming you borrowed about 70% BTC against your ETH.</p>\n\n<p>You also have the option of depositing your WBTC into the “atricrypto3” pool for a huge 2.43% + ~21% in the two reward tokens, bringing you up to about 20% APY on your total ETH investment. I won’t cover the downside of LP farming in the blue chip section, but you can go ahead and <a href=\"https://finematics.com/impermanent-loss-explained/\">read up on Impermanent Loss (also known as Divergence Loss) here</a>.</p>\n\n<p>TL;DR: Blue chip farming with just ETH gets you a whopping 8% APY on your ETH and BTC with a negligible amount of risk. You can raise this APY by depositing stablecoins, but then you lose your upside of ETH. You also do protect yourself from market crashes.</p>\n\n<p><strong>Small Cap Farming: The Gains are Real</strong></p>\n\n<p>Lets start with an extension of the gains from the Blue Chip section. You may have noticed that you’re getting paid in CRV/WMATIC tokens daily, but those probably aren’t the tokens you’re trying to collect! You want BTC and ETH, not CRV and WMATIC (or maybe you do want CRV, I don’t judge). Enter: Autocompounding services.</p>\n\n<p>Autocompounders do the work for you, at minimal cost. They’ll take your rewards, exchange them for the coin you’re providing (in our case, WBTC), and re-stake that into the autocompounder. You can get better APY with faster compounding because the fees on polygon network are extremely low.</p>\n\n<p>You’ve got three big players here, with many others as well. I exclusively use <a href=\"https://adamant.finance/\">Adamant.finance</a>, but <a href=\"https://polygon.beefy.finance/#/\">Beefy.finance</a> is a great option as well. Check out Autofarm as well; they provide the same service as Beefy.</p>\n\n<p>You can check out the renBTC pool from curve on the beefy site, and you’re getting about 9% APY. Using Adamant.finance, you can get up to 14% APY with their vault boosting utilities, where you lock the native asset up for a specific amount of time and it boosts your returns. There’s quite a lot going on with Adamant, but just know you’re paid 70% in the original tokens (WBTC) and the other 30% is converted into a bonus amount of ADDY, which is vested for 90 days. If you originally were going to get 18% APY in BTC, you might get 14% APY in BTC and 12% in ADDY, for example.</p>\n\n<p><strong>Time to check out the other WBTC pool on Adamant!</strong></p>\n\n<p>You’ll notice a vault very similar to Curve’s, except this one has the name “Gravity” next to it. Gravity is a small cap Decentralized Exchange (DEX) and it is providing a significant amount of its native token, GFI, to entice liquidity to come to its marketplace. These kind of farms pop up frequently. The WBTC pool from gravity currently shows <strong>33% APY</strong> boostable to 50% APY!! You’ll notice that Gravity supplies many different pairs with similar APY, although these will trend down as more people provide liquidity. <a href=\"https://v1.gravityfinance.io/app/\">Check out their DEX here</a>, where you can provide liquidity in 50/50 renBTC/WBTC to get started.</p>\n\n<p>Gravity is the best one I can find right now, as it is quite new. There is also <a href=\"https://app.wault.finance/polygon/index.html\">Wault.finance</a>, <a href=\"https://exchange.dfyn.network/#/popular-farms\">exchange.Dfyn</a>, <a href=\"https://app.mai.finance/vaults\">Mai.Finance</a>, and many others.</p>\n\n<p>All of these can utilize autocompounding services such as Adamant or Beefy, which makes life easy and you can mostly set and forget for gains that are completely unheard of in traditional finance.</p>\n\n<p>I’m happy to answer questions, and I hope I’ve shown a bit more concrete examples of where you can put your crypto to good use.</p>\n\n<p>Stay tuned for part 2, where I’ll cover the real degenerate stuff. Medium/high risk, high reward.</p>\n</div><!-- SC_ON -->",
+  "score": 186,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?auto=webp&s=8a4ca539ef1e400660a06911ef9bbbbbe2380567",
+          "width": 1852,
+          "height": 713
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?width=108&crop=smart&auto=webp&s=f738bcba3441812478372d5d269e69cfc24e184b",
+            "width": 108,
+            "height": 41
+          },
+          {
+            "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?width=216&crop=smart&auto=webp&s=41c58f81f88ede278776a8cee167cc9c932a74f3",
+            "width": 216,
+            "height": 83
+          },
+          {
+            "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?width=320&crop=smart&auto=webp&s=db3900075eafea4ff5a67d284d92e10514429e0a",
+            "width": 320,
+            "height": 123
+          },
+          {
+            "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?width=640&crop=smart&auto=webp&s=0a55f676835c17af8773ddd26600ba194387367b",
+            "width": 640,
+            "height": 246
+          },
+          {
+            "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?width=960&crop=smart&auto=webp&s=c36f866f99183e78631a2405088d3ec0d9307c4f",
+            "width": 960,
+            "height": 369
+          },
+          {
+            "url": "https://external-preview.redd.it/pYlPQSBaW0cwgZqaZoej7bkz2tbwdyCQWCI7p2mrpb4.jpg?width=1080&crop=smart&auto=webp&s=30e77ff58e2cda742fbfab9a57e2f7bf0eabfeb6",
+            "width": 1080,
+            "height": 415
+          }
+        ],
+        "variants": {},
+        "id": "MaMyAWJs9xEsKb3kwT4AB69bSmv71_KeYGnJH1s_A7I"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pjl8mh/your_guide_to_earning_passive_income_with_crypto/",
+  "subreddit": "CryptoCurrency",
+  "id": "pjl8mh",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Ladies and gentlemen,\n\nI am here today because of the post made by /u/thechadley Using Cryptos to Earn\nPassive Income\n[https://www.reddit.com/r/CryptoCurrency/comments/pitnji/using_cryptos_to_earn_passive_income_my/].\nThey have an excellent post on all the different options of passive income…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、お待たせしました。\n\n私が今日ここに来たのは、/u/thechadleyさんが行った「Using Cryptos to Earn」という投稿がきっかけです。\nパッシブインカム\n[https://www.reddit.com/r/CryptoCurrency/comments/pitnji/using_cryptos_to_earn_passive_income_my/]です。\n彼らは、受動的収入のあらゆる異なる選択肢について、優れた投稿をしています...",
+      "title": "正しい方法でCrypto - DeFiで受動的な収入を得るためのあなたのガイド。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "女士们，先生们。\n\n我今天在这里是因为/u/thechadley发表的帖子《利用加密货币赚取\n被动收入\n[https://www.reddit.com/r/CryptoCurrency/comments/pitnji/using_cryptos_to_earn_passive_income_my/]。\n他们有一个很好的帖子，介绍了所有不同的被动收入的选择...",
+      "title": "你用加密货币赚取被动收入的指南 - DeFi的正确方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "女士們，先生們。\n\n我今天在這裏是因爲/u/thechadley發表的帖子《利用加密貨幣賺取\n被動收入\n[https://www.reddit.com/r/CryptoCurrency/comments/pitnji/using_cryptos_to_earn_passive_income_my/]。\n他們有一個很好的帖子，介紹了所有不同的被動收入的選擇...",
+      "title": "你用加密貨幣賺取被動收入的指南 - DeFi的正確方式。"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "created_at": "Fri Dec 03 12:27:22 +0000 2021",
+  "id_str": "1466499437816074243",
+  "full_text": "This week’s cartoon from KAL: https://t.co/vZOqGlwbJ4 https://t.co/n6CthaTBDb",
+  "display_text_range": [
+    0,
+    53
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/vZOqGlwbJ4",
+        "expanded_url": "https://econ.st/3Dk91ui",
+        "display_url": "econ.st/3Dk91ui",
+        "indices": [
+          30,
+          53
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1466499435693846500,
+        "id_str": "1466499435693846533",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/media/FFoNd4fXsAUlhOV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FFoNd4fXsAUlhOV.jpg",
+        "url": "https://t.co/n6CthaTBDb",
+        "display_url": "pic.twitter.com/n6CthaTBDb",
+        "expanded_url": "https://twitter.com/TheEconomist/status/1466499437816074243/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1280,
+            "h": 877,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 466,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 822,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 28,
+  "favorite_count": 96,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Dec 02 20:08:06 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今週のKALの漫画： https://t.co/vZOqGlwbJ4 https://t.co/n6CthaTBDb"
+    },
+    {
+      "locale": "zh",
+      "full_text": "本周KAL的漫画：https://t.co/vZOqGlwbJ4 https://t.co/n6CthaTBDb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "本週KAL的漫畫：https://t.co/vZOqGlwbJ4 https://t.co/n6CthaTBDb"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "created_at": "Thu Jan 07 17:7:16 +0000 2021",
+  "id_str": "1347212507010760711",
+  "full_text": "RT @Kantrowitz: BREAKING: Facebook blocks Trump from accessing his accounts indefinitely, per Zuckerberg. \"We believe the risks of allowing…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Kantrowitz",
+        "name": "Alex Kantrowitz",
+        "id": 33333620,
+        "id_str": "33333620",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 4683,
+  "favorite_count": 0,
+  "original_created_at": "Thu Jan 07 16:04:26 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@Kantrowitz：Breaking：根据扎克伯格的说法，Facebook阻止特朗普无限期访问他的账户。“我们相信允许…的风险",
+      "retweeted_status_full_text": "突破：根据扎克伯格的说法，Facebook无限期阻止特朗普访问他的账户。“我们认为，允许总统在此期间继续使用我们的服务的风险实在太大了。”https://t.co/8iXbkgDV9O https://t.co/IGmHkieG8L"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@Kantrowitz：Breaking：根據扎克伯格的說法，Facebook阻止特朗普無限期訪問他的賬戶。“我們相信允許…的風險",
+      "retweeted_status_full_text": "突破：根據扎克伯格的說法，Facebook無限期阻止特朗普訪問他的賬戶。“我們認爲，允許總統在此期間繼續使用我們的服務的風險實在太大了。”https://t.co/8iXbkgDV9O https://t.co/IGmHkieG8L"
+    }
+  ],
+  "source_updated_at": 1610706389003,
+  "retweeted_status": {
+    "created_at": "Thu Jan 07 15:51:55 +0000 2021",
+    "id_str": "1347209358531198979",
+    "full_text": "BREAKING: Facebook blocks Trump from accessing his accounts indefinitely, per Zuckerberg. \"We believe the risks of allowing the President to continue to use our service during this period are simply too great.\" https://t.co/8iXbkgDV9O https://t.co/IGmHkieG8L",
+    "display_text_range": [
+      0,
+      234
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8iXbkgDV9O",
+          "expanded_url": "https://www.facebook.com/zuck/posts/10112681480907401",
+          "display_url": "facebook.com/zuck/posts/101…",
+          "indices": [
+            211,
+            234
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1347209348854943700,
+          "id_str": "1347209348854943747",
+          "indices": [
+            235,
+            258
+          ],
+          "media_url": "http://pbs.twimg.com/media/ErI_w9SVkAMrMmW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ErI_w9SVkAMrMmW.jpg",
+          "url": "https://t.co/IGmHkieG8L",
+          "display_url": "pic.twitter.com/IGmHkieG8L",
+          "expanded_url": "https://twitter.com/Kantrowitz/status/1347209358531198979/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 559,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 868,
+              "h": 1056,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 868,
+              "h": 1056,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Alex Kantrowitz",
+      "screen_name": "Kantrowitz",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1140986869318082562/h4IAoJU9_normal.jpg"
+    },
+    "retweet_count": 2960,
+    "favorite_count": 8104,
+    "possibly_sensitive": false
+  }
+}

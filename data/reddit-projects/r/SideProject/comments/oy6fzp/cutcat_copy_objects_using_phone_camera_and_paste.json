@@ -1,0 +1,78 @@
+{
+  "author": "Personal_Tradition24",
+  "original_created_utc": 1628124233,
+  "title": "CutCat : copy objects using phone camera and paste them on a background Image",
+  "created_utc": 1628130957,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone,</p>\n\n<p>I&#39;m so happy to share with you a side project that I had just finished, it was inspired by a video of a similar app I saw online named ARCopy which lets you copy physical objects using your phone camera and paste the directly on a background Image. I was immediately blown by the video and decided to recreate it.</p>\n\n<p>The whole app can be divided into mainly 5 components;</p>\n\n<p>1 - Reactjs web interface</p>\n\n<p>2 - React Native mobile app</p>\n\n<p>3 - a service running OpenCV SIFT algorithm for pointing images on the screen</p>\n\n<p>4 - a service running a U^2 net pre-trained model for object detection</p>\n\n<p>5 - flask app for linking everything together and updating the Reactjs app using socket-io</p>\n\n<p>Although I didn&#39;t implement the SIFT algorithm or train the U^2 net myself, I&#39;m still proud of being able to finish this side project ! and I would love to get some feedback from all you guys :D</p>\n\n<p><a href=\"https://github.com/ansnoussi/CutCat\">https://github.com/ansnoussi/CutCat</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?auto=webp&s=1eee730d3714d7e82dbb30af611c6f453556ea90",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?width=108&crop=smart&auto=webp&s=4630cef85bbba202486237d16132d1e844105c1f",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?width=216&crop=smart&auto=webp&s=52f1965b2b15c1941af6a7d03bc0f8f33ba584d0",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?width=320&crop=smart&auto=webp&s=a656bc4205046af51965db3499cca71f68a6a6fa",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?width=640&crop=smart&auto=webp&s=619ff5a25f3191fdf4fa92d098e216a6af1177f0",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?width=960&crop=smart&auto=webp&s=b13ff4260f81dc5bd142c6170940b3b0f76163e6",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/j-4_bBM5o7OcdbXj-7E90TS1EEgwSEXec4oP_UbiZbM.jpg?width=1080&crop=smart&auto=webp&s=cf8e6cda9eed7f8536a14260225eb305e636683a",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "Yk8flfUsulS0qi_gTmsHvNVhB2TsGLvs4cjdn0DMwWA"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/oy6fzp/cutcat_copy_objects_using_phone_camera_and_paste/",
+  "subreddit": "SideProject",
+  "id": "oy6fzp",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hi everyone,\n\nI'm so happy to share with you a side project that I had just finished, it was\ninspired by a video of a similar app I saw online named ARCopy which lets you\ncopy physical objects using your phone camera and paste the directly on a\nbackground Image. I was immediately blown by the video…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n先日完成したばかりのサイドプロジェクトを皆様にご紹介できることをとても嬉しく思います。\nオンラインで見たARCopyという似たようなアプリのビデオに触発されました。\n携帯電話のカメラで物理的なオブジェクトをコピーして、背景画像に直接貼り付けることができます。\nというアプリに触発されました。私はそのビデオにすぐに魅了されました...",
+      "title": "CutCat : 携帯電話のカメラでオブジェクトをコピーして背景に貼り付ける Image"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n我很高兴与大家分享我刚刚完成的一个副业，它的灵感来自于我的一个类似应用程序的视频。\n它的灵感来自于我在网上看到的一个名为ARCopy的类似应用的视频，它可以让你用手机摄像头复制实体物体，并将方向粘贴到墙上。\n它可以让你用你的手机摄像头复制物理对象，并直接粘贴在一个\n背景图片上。我立即被这个视频所吸引...",
+      "title": "CutCat：使用手机摄像头复制物体并将其粘贴在背景图片上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n我很高興與大家分享我剛剛完成的一個副業，它的靈感來自於我的一個類似應用程序的視頻。\n它的靈感來自於我在網上看到的一個名爲ARCopy的類似應用的視頻，它可以讓你用手機攝像頭複製實體物體，並將方向粘貼到牆上。\n它可以讓你用你的手機攝像頭複製物理對象，並直接粘貼在一個\n背景圖片上。我立即被這個視頻所吸引...",
+      "title": "CutCat：使用手機攝像頭複製物體並將其粘貼在背景圖片上。"
+    }
+  ]
+}

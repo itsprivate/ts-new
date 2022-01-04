@@ -1,0 +1,91 @@
+{
+  "created_at": "Tue Jun 08 15:30:30 +0000 2021",
+  "id_str": "1402231747346108416",
+  "full_text": "Apple announced updates to several of its products, including a major changes of FaceTime that will give it Zoom-like features #WWDC21 #WSJWhatsNow https://t.co/3ChwIFKnqH",
+  "display_text_range": [
+    0,
+    147
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WWDC21",
+        "indices": [
+          127,
+          134
+        ]
+      },
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          135,
+          147
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1402228312395726800,
+        "id_str": "1402228312395726849",
+        "indices": [
+          148,
+          171
+        ],
+        "media_url": "http://pbs.twimg.com/media/E3W3svFWUAABSEZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E3W3svFWUAABSEZ.jpg",
+        "url": "https://t.co/3ChwIFKnqH",
+        "display_url": "pic.twitter.com/3ChwIFKnqH",
+        "expanded_url": "https://twitter.com/WSJ/status/1402231747346108416/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 28,
+  "favorite_count": 95,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Jun 08 11:51:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アップルは、FaceTimeを大幅に変更してZoomのような機能を持たせるなど、いくつかの製品のアップデートを発表しました #WWDC21 #WSJWhatsNow https://t.co/3ChwIFKnqH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "苹果公司宣布对其多项产品进行更新，包括对FaceTime进行重大修改，使其具有类似于Zoom的功能#WWDC21 #WSJWhatsNow https://t.co/3ChwIFKnqH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "蘋果公司宣佈對其多項產品進行更新，包括對FaceTime進行重大修改，使其具有類似於Zoom的功能#WWDC21 #WSJWhatsNow https://t.co/3ChwIFKnqH"
+    }
+  ]
+}

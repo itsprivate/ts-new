@@ -1,0 +1,33 @@
+{
+  "author": "jwinterm",
+  "the_new_excerpt": "This rule change would make the limit on the number of posts a coin is allowed\nto have in the top 50 be determined algorithmically. Currently BTC is allowed\nunlimited posts, ETH is allowed four posts, and all other coins are allowed two.\n\nThis rule proposes adopting a formula to determine the limit…",
+  "original_created_utc": 1620858063,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このルール変更は、1コインの投稿数の制限を\nこのルール変更は、コインがトップ50に入ることができる投稿数の制限を、アルゴリズムによって決定するものです。現在、BTCには\n無制限、ETHは4回、その他のコインは2回の投稿が認められています。\n\nこのルールでは、制限を決定するための計算式を採用することを提案しています...",
+      "title": "アルゴリズムによるコイン投稿数の制限"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这一规则的改变将使一个硬币被允许的帖子数量的限制\n币在前50名的数量限制是通过算法确定的。目前，BTC被允许\n无限的帖子，ETH被允许有四个帖子，而其他所有的币都被允许有两个。\n\n这条规则建议采用一个公式来确定限制...",
+      "title": "币帖数量的算法限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這一規則的改變將使一個硬幣被允許的帖子數量的限制\n幣在前50名的數量限制是通過算法確定的。目前，BTC被允許\n無限的帖子，ETH被允許有四個帖子，而其他所有的幣都被允許有兩個。\n\n這條規則建議採用一個公式來確定限制...",
+      "title": "幣帖數量的算法限制"
+    }
+  ],
+  "title": "Algorithmic limit for number of coin posts",
+  "created_utc": 1620925753,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This rule change would make the limit on the number of posts a coin is allowed to have in the top 50 be determined algorithmically. Currently BTC is allowed unlimited posts, ETH is allowed four posts, and all other coins are allowed two.</p>\n\n<p>This rule proposes adopting a formula to determine the limit for all coins based on marketcap.  The formula I&#39;ve come up with is: # of posts allowed = floor(10*R*(1+R<sup>-0.7</sup>))  where R is ratio of the coin&#39;s marketcap to total marketcap, and  outside top 10 we still enforce two posts per coin. This would look like  this currently for top 10 (from May 8th):</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/mv2xjykjlry61.png?width=590&amp;format=png&amp;auto=webp&amp;s=ad7c349ec9b29c43919fc914519a1108232deea0\">https://preview.redd.it/mv2xjykjlry61.png?width=590&amp;format=png&amp;auto=webp&amp;s=ad7c349ec9b29c43919fc914519a1108232deea0</a></p>\n\n<p><a href=\"https://www.reddit.com/poll/nb1414\">View Poll</a></p>\n</div><!-- SC_ON -->",
+  "score": 253,
+  "permalink": "/r/CryptoCurrency/comments/nb1414/algorithmic_limit_for_number_of_coin_posts/",
+  "subreddit": "CryptoCurrency",
+  "id": "nb1414",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1621590796929
+}

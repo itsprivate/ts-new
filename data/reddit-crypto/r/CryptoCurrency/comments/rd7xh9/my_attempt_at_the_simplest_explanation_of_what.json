@@ -1,0 +1,32 @@
+{
+  "author": "toyume",
+  "original_created_utc": 1639140593,
+  "title": "My attempt at the simplest explanation of what Loopring (LRC) is and why people say it's going to be massive (excluding GME stuff)",
+  "created_utc": 1639150462,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;h1&gt;Loopring starts with Ethereum’s massive size (and flaws)&lt;/h1&gt;\n\n&lt;p&gt;We first need to understand that ethereum is the most used blockchain today by far. It boasts the most developers, most decentralised apps and most exchanges by far. &lt;/p&gt;\n\n&lt;p&gt;Eth’s smart contracts enable the existence of DEXs (decentralised exchanges) which fill the role of banks so you and I can buy crypto using other crypto.&lt;/p&gt;\n\n&lt;p&gt;SushiSwap and Uniswap (DEXs built on ethereum) alone have a 24-hour trading volume of $3.5 billion. That’s a lot of activity!&lt;/p&gt;\n\n&lt;p&gt;Apps and DEXs on ethereum have basically recreated the traditional financial system we have now.&lt;/p&gt;\n\n&lt;h1&gt;But like a highway in constant rush hour, ethereum isn’t made to handle transactions by millions of people around the world simultaneously.&lt;/h1&gt;\n\n&lt;p&gt;Ethereum has a low TPS (transactions per second) of around 15 which makes it easy to get congested and traffic to build up.&lt;/p&gt;\n\n&lt;p&gt;Eventually each transaction will go through, but there are downsides.&lt;/p&gt;\n\n&lt;p&gt;And these are transaction fees, or gas.&lt;/p&gt;\n\n&lt;p&gt;Transactions need  A LOT of gas on ethereum, whether you’re doing something small like transferring from Wallet A to Wallet B, or something big like exchanging your family’s savings for tokens in Uniswap. &lt;/p&gt;\n\n&lt;p&gt;Look how huge ethereum’s fees are right now compared to other blockchains (smaller is better):&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Eth: $4 (on the “low” side)&lt;/li&gt;\n&lt;li&gt;Cardano: $0.27 (93% cheaper)&lt;/li&gt;\n&lt;li&gt;Tezos: $0.10 (97.5% cheaper)&lt;/li&gt;\n&lt;li&gt;Algorand: $0.002 (99.99% cheaper)&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;And here&amp;#39;s the speed difference in transactions per second (higher is better):&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Eth - 15 TPS&lt;/li&gt;\n&lt;li&gt;Tezos - 40 TPS (166% faster)&lt;/li&gt;\n&lt;li&gt;Cardano - 250 TPS (1,567% faster)&lt;/li&gt;\n&lt;li&gt;Algorand - 1,100 TPS (7,233% faster)&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;h1&gt;Loopring builds a highspeed skyway above ethereum’s congested highways&lt;/h1&gt;\n\n&lt;p&gt;And the name of this skyway is ‘zkRollup’.&lt;/p&gt;\n\n&lt;p&gt;One of the things zkRollups do is group hundreds of transactions and process them together instead of individually - and on a separate layer of the blockchain called Layer 2. &lt;/p&gt;\n\n&lt;p&gt;This new layer is capable of handling up to 2,000 transactions per second. &lt;/p&gt;\n\n&lt;p&gt;This means gas fees are slashed because:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Carpools (transaction bundles) are now available so there are less cars (transactions) causing traffic on the main highway (the Ethereum blockchain) &lt;/li&gt;\n&lt;li&gt;There’s also a carpool lane open for further decongestion (Layer 2)&lt;/li&gt;\n&lt;li&gt;Transaction speed on both layers is increased&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Less gas fees means developers can experiment and build apps and users can exchange tokens without spending a ton to further grow adoption. &lt;/p&gt;\n\n&lt;h1&gt;TLDR:&lt;/h1&gt;\n\n&lt;p&gt;Would you rather take the express skyway or commute through traffic congested highway every single day?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 350,
+  "permalink": "/r/CryptoCurrency/comments/rd7xh9/my_attempt_at_the_simplest_explanation_of_what/",
+  "subreddit": "CryptoCurrency",
+  "id": "rd7xh9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "LOOPRING STARTS WITH ETHEREUM’S MASSIVE SIZE (AND FLAWS)\n\nWe first need to understand that ethereum is the most used blockchain today by\nfar. It boasts the most developers, most decentralised apps and most exchanges\nby far.\n\nEth’s smart contracts enable the existence of DEXs (decentralised…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ループリングはイーサリアムの巨大なサイズ（と欠点）から始まる\n\nまず、イーサリアムが現在最も利用されているブロックチェーンであることを理解する必要があります。\n圧倒的に 最も多くの開発者、最も多くの分散型アプリ、最も多くの取引所を誇っています\nは圧倒的に少ない。\n\nEthのスマートコントラクトは、DEX（分散型...）の存在を可能にしている。",
+      "title": "Loopring(LRC)とは何か、なぜ人々が大規模になると言っているのか、最もシンプルに説明するための私の試み(GME関連を除く)"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "loopring从以太坊的巨大规模（和缺陷）开始\n\n我们首先需要了解，以太坊是目前使用最多的区块链，到目前为止\n迄今为止。它拥有最多的开发者、最多的去中心化应用和最多的交易所\n到目前为止。\n\n以太坊的智能合约使DEXs（去中心化的...",
+      "title": "我试图用最简单的方式解释什么是Loopring（LRC），以及为什么人们说它将会是巨大的（不包括GME的东西）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "loopring從以太坊的巨大規模（和缺陷）開始\n\n我們首先需要了解，以太坊是目前使用最多的區塊鏈，到目前爲止\n迄今爲止。它擁有最多的開發者、最多的去中心化應用和最多的交易所\n到目前爲止。\n\n以太坊的智能合約使DEXs（去中心化的...",
+      "title": "我試圖用最簡單的方式解釋什麼是Loopring（LRC），以及爲什麼人們說它將會是巨大的（不包括GME的東西）。"
+    }
+  ]
+}

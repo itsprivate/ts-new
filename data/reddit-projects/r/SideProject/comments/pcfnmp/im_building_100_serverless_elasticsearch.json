@@ -1,0 +1,32 @@
+{
+  "author": "everythingserverless",
+  "original_created_utc": 1630036654,
+  "title": "I'm building 100% Serverless Elasticsearch",
+  "created_utc": 1630119260,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m an SDE at AWS and for a while now I&#39;ve been working in my spare time on a side project to build a fully Serverless search engine. I decided to target Elasticsearch, being the most used search engine database out there. I am determined to fix, or at least improve where I can, on the following issues:</p>\n\n<ol>\n<li>Elasticsearch is incredibly annoying to configure. There are hundreds of settings and configurations to choose, and many of them are one way doors - for example, once you configure your shard count you cannot change it without a full migration to reindex your data into a new index.</li>\n<li>Similar to anything that isnt serverless, having to constantly monitor and worry about CPU, memory pressure and other metrics is something no one has time for in the real world. Elasticsearch has launched an autoscaling policy feature, but this will still hit issues for users who have big jumps in usage and leaves yet another complexity for the user to configure.</li>\n<li>Again, common to serverless is the issue of developers having to over-provision their instances and have unused capacity just sitting around - seems like a loss for everyone involved.</li>\n</ol>\n\n<p>I thought I&#39;d reach out to the community to see if anyone like me would like to see Serverless Search and whether they would find it useful in their applications.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/pcfnmp/im_building_100_serverless_elasticsearch/",
+  "subreddit": "SideProject",
+  "id": "pcfnmp",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I'm an SDE at AWS and for a while now I've been working in my spare time on a\nside project to build a fully Serverless search engine. I decided to target\nElasticsearch, being the most used search engine database out there. I am\ndetermined to fix, or at least improve where I can, on the following…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はAWSでSDEをしていますが、しばらく前から、空いた時間を利用して\n完全にサーバーレスな検索エンジンを構築するサイドプロジェクトに取り組んでいます。私は以下をターゲットにすることに決めました。\n検索エンジンのデータベースとして最も利用されているElasticsearchをターゲットにすることにしました。私は\n以下の点を修正するか、少なくとも改善できるところは改善したいと考えています...",
+      "title": "100%サーバーレスのElasticsearchを作っています"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是AWS的一名SDE，有一段时间我一直在利用业余时间做一个\n的副业，建立一个完全无服务器的搜索引擎。我决定将目标放在\nElasticsearch，因为它是目前使用最多的搜索引擎数据库。我\n决心修复或至少改进以下方面的问题......",
+      "title": "我正在构建100%的无服务器Elasticsearch"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是AWS的一名SDE，有一段時間我一直在利用業餘時間做一個\n的副業，建立一個完全無服務器的搜索引擎。我決定將目標放在\nElasticsearch，因爲它是目前使用最多的搜索引擎數據庫。我\n決心修復或至少改進以下方面的問題......",
+      "title": "我正在構建100%的無服務器Elasticsearch"
+    }
+  ]
+}

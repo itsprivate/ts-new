@@ -1,0 +1,342 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "I travelled specifically from Vancouver, BC, Canada to Munich, Germany to meet the MVIS CEO and to see their new Lidar in person...\n\nThe IAA has been open for the last 4 days, but I hadn’t been able to properly experience the MicroVision booth until now. I didn’t want to distract Sumit Sharma, Dr. Luce, and the other 3 MVIS staff who attended from their B2B (business to business) goals. However, today was the first day that the general public were allowed to enter the conference halls, and Dave Allen from IR gave us the green light to go visit the booth.\n\nWhen I arrived at the booth with /u/MusicMaleficent5870, Sumit and Dr. Luce were nowhere in sight. We nevertheless decided to go in and speak to the MVIS staff. I personally spoke with Jonathan C (who I believe is the Director of Digital Engineering, thx Linkedin stalking). Jonathan walked me through the booth while MM5870 kept the other two MVIS staff members occupied. I introduced myself as a moderator of the mvis reddit and handed him my gag card..\n\n&#x200B;\n\n[ gag business card ](https://preview.redd.it/2zfx6lvzukm71.jpg?width=3024&format=pjpg&auto=webp&s=b8d919fd1ec5803c6f78d7c5c186b60c299b19b9)\n\n# Live Lidar Demo\n\nAn important note Jonathan mentioned was that two A-Samples were actively scanning the booth. One directly above the live demo screens (that sits on the *in*famous block of wood which I couldn’t see even at a relative far distance), and one directly across from that in the back right hand corner.\n\nThe point of having two Lidars actively scanning is to showcase MicroVision’s proprietary active scan lock architecture which allows the A-Sample to actively block out 99% of outside interference (as communicated to shareholders on multiple occasions in past earnings calls). As per past earnings calls the active scan lock architecture is based on proprietary technologies proven in their applications used in the Hololens 2.\n\nIn short, the Active Scan lock synchronizes the “send” and “receiving” side of the Gen 5 MEMS just as the Hololens 2 displays are sync’d for the left and right eyes to prevent ocular discomfort (Sumit used a word I didn't recognize to describe that if the left eye and right eye images dont line up you get discomfort. I don’t have education or background in this so could barely keep up). Each Lidar sensor is encoded its own laser signals and excludes interference even from similar identical units.\n\nFor example that if you were stuck in an intersection with 20 cars, each with their own set of short-range lidar (SRL), mid-range lidar (MRL), and long-range lidar (LRL). The IR light pollution and interference will overwhelm other sensors that do not have this feature that MicroVision owns IP for.\n\n&#x200B;\n\n[ The second A-Sample live scanning acting as \\\\\"interference\\\\\" above the television which is showing the 1.8M Long Range Point Cloud. ](https://preview.redd.it/ien6mkf1vkm71.jpg?width=1440&format=pjpg&auto=webp&s=8cb12842300f04b56ebe7c9fd7577c29351b7307)\n\nIt was explained to me that there is a filter on the live lidar demo. The filter removes the reflection of the floor for aesthetic reasons. They said that if they kept the floor in the final image, you would have been overwhelmed by extra data, but by removing them, the live stream data can be more easily interpreted. Additionally, there are indoor Class 1 EU regs that I believe are in play which made MVIS sandbag their sensor a bit (if anyone was noticing it isn’t as sharp). Sumit says once all testing and certification is done there shouldn’t be any issues seen specifically in the demo booth unit.\n\nThis is also a phenomenon you will notice in future Lidar demos, because the lidar sensor acts similar to the human eye does when it sees a mirage. There is a critical angle after which, the light seems to bounce to infinity. Therefore, the sensor will not return images of the road surface (due to it being a planar surface). All content which is 3 dimensional continues to be detected until the full range as advertised.\n\n# Elvis has Entered the Booth\n\nDuring the middle of conversation with Jonathan, I noticed Sumit and Dr Luce exiting from a meeting room behind the booth with an unidentified gentleman. They had obviously finished a meeting, and one of the helpers came out to return the A-Sample and the Gen 5 mems mirror back into the display (they were not there when we arrived).\n\nSumit walked over, I introduced myself as “Jay” and he replied “Jay, nice to finally meet you, I’ve been waiting for you all day!” We arrived approximately 45 minutes before closing and I had been with Jonathan for approximately 15 minutes. Additionally, I had told Dave Allen I’d try to swing by later in the afternoon, so I expect Sumit knew we were coming to visit eventually.\n\nSumit then whisked /u/MusicMaleficent5870 and I away toward the live lidar demo to start our proper tour.\n\n# The MicroVision A-Sample\n\nSumit asked us what our backgrounds were to get a grasp of our level of technical knowledge. Suffice it to say, we communicated that it was low lol. One of the biggest things Sumit wanted us to walk away with was the story he was trying to convey to investors. The specific story for investors to recognizing the true value of MicroVision’s IP. The other story he’s trying to convey is the inevitability for customers (from my interpretation of his explanation).\n\nTo give you an example, he spoke briefly about the Hololens 2 and Microsoft. Microsoft spent *years* trying to improve the display of the Hololens 2. It got to the point where they finally realized Microsoft could not achieve it alone (even with a group of ex-MVIS engineers on their engineer team – this is my addition for color). Alex Kipman himself mentions this in one of his talks in Zurich/digital streams in 2020. Microsoft eventually had to approach MicroVision to get the job done because of MicroVision’s proprietary technology that they’ve built in the past couple of decades. He also believes that **they would have never won that $22 Billion Dollar contract without them** (which I agree with. The Hololens 1 was head-to-head with Magic Leap which ate the dust after the Hololens 2 was released).\n\n&#x200B;\n\n[ Microsoft's \\\\\"$22 Billion Dollar Contract\\\\\" ](https://preview.redd.it/5s1r48a5vkm71.jpg?width=934&format=pjpg&auto=webp&s=cdaec6c00acd3bc87406771b920045079ea5bb43)\n\nThis story of inevitability is what customers are starting to realize. If you want the best technology that solves your problems rather than creating further problems, you need to use MicroVision technology and IP (their family jewels). Their custom ASICs (which is available in a digital form) is one of the biggest advantages over competitors in the L2 and L2++ field like Tesla and Mobileye with their Camera only Neural Networks.\n\nSumit started to go down the rabbit hole into how Neural Networks work. He wouldn’t trust the safety of that technology with his family, and that we wouldn’t either if we read the disclaimers and fine print for cars who use these systems. This also aligns with Mobileye’s current plan in developing a secondary independent Radar + Lidar system to ensure there are true redundant safety systems for maximum passenger safety.\n\nThere is a joke Sumit likes to share from the Silicon Valley Episode “Hot Dog, Not Hot Dog” which helped us understand where he was coming from about Neural Networks.\n\n# The Family Jewels\n\nSumit believes that the ADAS market is going to go “gangbusters” sooner rather than later. See the bidding war currently happening between Magna and Qualcomm over Veoneer (who IAA placed side by side in the conference with Veoneer squished in the middle).\n\nMicroVision has a lot of key advantages with their proprietary custom ASICs. The way Sumit explained it to us was it comes down to basic math and physics. They can do things with edge computing faster and quicker than anyone else with their Family Jewels. **It comes from their custom OS that is built in their chips.** While Microvision is building their ADAS Lidar Sensors from an established foundation and decade’s worth of tech and IP, their friends Luminar are spending billions just to be able to do the same thing with no guarantee that they can do it better or quicker than how MVIS is doing it.\n\nLastly, one of the key praises that potential customers have been commenting on the A-Sample is how **slim in profile the A-Sample is** (Apologies for the photo, I should probably take it lower down).\n\n[ Cassette of Truth - Kanye West's \\\\\"Yeezus\\\\\"](https://preview.redd.it/278gj577vkm71.jpg?width=4032&format=pjpg&auto=webp&s=54eaf8c77f33d8cd7b98b594a74dc47ce23bad25)\n\n[ MicroVision A-Sample ](https://preview.redd.it/trskb249vkm71.jpg?width=4032&format=pjpg&auto=webp&s=de0bfd1d8dacce0f34aada825dab45be30581c7f)\n\nI plan to publish an album of photos sometime this week which compares the other lidars on display with MVIS’ A-Sample using the “cassette of truth” which I have been photographing to give an idea of the size of all the Lidar sensors. From my observation, MVIS is best in class from a profile aspect, all other lidar sensors are much taller in comparison.\n\n# The Lidar Product Suite\n\nSumit Sharma wants to generate more revenue. While the Hololens 2 currently does not produce enough volume for the time being,  **he believes that will change soon** with the new Lidar Product family.\n\nSumit also shared that they were getting a lot of requests for small NREs (non-recurring engineering) about, “hey we already have a product for short-range Lidar for the time being, can you make something for mid-range only, or maybe long-range only?”.  There was enough interest that it made sense for MicroVision perspective to produce the A-Sample which would be identical to their Dynamic View Lidar (DVL) hardware wise, but with limited features the customer require now to help generate that revenue.\n\nTheir Dynamic View Lidar is meant to be their premium/flagship lidar offering. Sumit also touched on the use case of the 905nm lasers which have a standard and secure supply chain unlike the 1550nm lasers which are either custom made or non-standard supply chains utilizing exotic materials (which Velodyne does a great job of explaining in this article: [https://velodynelidar.com/blog/guide-to-lidar-wavelengths/](https://velodynelidar.com/blog/guide-to-lidar-wavelengths/)).\n\nNot only do the lasers help MVIS scale, but with the launch of MicroVision’s fifth-generation MEMS to a 200-millimeter wafer silicon they control the whole process. They own their IP, and nobody else does. This gives them the ability to manufacture it the way they want. More control for MicroVision means more stability for customers.\n\n# True Value\n\nI was honestly surprised how in tune Sumit was to investors. He is also very aware of trader activity, but that is out of his hands. He’s here to get true value for MVIS long investors and the multiplier/upside is massive in his eyes.\n\nI came away from the 30minute discussion in awe to be honest. There was so much content packed into that meeting, and Sumit was exuding nothing but confidence. If there are any German investors in Munich, make sure you go visit the booth, it’s an excellent opportunity to share in the excitement and bullishness Sumit is currently feeling.\n\nGLTALs, it's 3:30am and i'm going to bed.\n\nTLDR - I travelled from Vancouver to Munich to meet the CEO of MVIS and to see their new Lidar product to compete against the other companies. I am bullish.",
+  "author_fullname": "t2_42fgi",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 10,
+  "clicked": false,
+  "title": "MicroVision Booth Tour at IAA 2021 Munich - Meeting MVIS CEO Sumit Sharma",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "2zfx6lvzukm71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 108,
+          "x": 108,
+          "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=108&crop=smart&auto=webp&s=eab255402c0a2f822bb14d9fb16120552963603a"
+        },
+        {
+          "y": 216,
+          "x": 216,
+          "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=216&crop=smart&auto=webp&s=eb9b65d0a27e7d9dc9ee9abed29e0a5b9c4e2a2a"
+        },
+        {
+          "y": 320,
+          "x": 320,
+          "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=320&crop=smart&auto=webp&s=5bb9f151aa689f9d116ffd9f07533c699151be3c"
+        },
+        {
+          "y": 640,
+          "x": 640,
+          "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=640&crop=smart&auto=webp&s=0986d4b4edc13140011b0bfdc47e267a203f272a"
+        },
+        {
+          "y": 960,
+          "x": 960,
+          "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=960&crop=smart&auto=webp&s=c0b635b7456187551e71cd24e2006d72272ddf2a"
+        },
+        {
+          "y": 1080,
+          "x": 1080,
+          "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=1080&crop=smart&auto=webp&s=8f4dc4dfb6b481c407871a4c5846df53da1a2b32"
+        }
+      ],
+      "s": {
+        "y": 3024,
+        "x": 3024,
+        "u": "https://preview.redd.it/2zfx6lvzukm71.jpg?width=3024&format=pjpg&auto=webp&s=b8d919fd1ec5803c6f78d7c5c186b60c299b19b9"
+      },
+      "id": "2zfx6lvzukm71"
+    },
+    "ien6mkf1vkm71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 115,
+          "x": 108,
+          "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=108&crop=smart&auto=webp&s=98893f404bff87165eb0ee281f744ae71f63f9f4"
+        },
+        {
+          "y": 231,
+          "x": 216,
+          "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=216&crop=smart&auto=webp&s=227ade882237601b366f144c312c46f0d8014bd3"
+        },
+        {
+          "y": 342,
+          "x": 320,
+          "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=320&crop=smart&auto=webp&s=c824411e54dad548c0b24cd62d2ddefa33c52eb2"
+        },
+        {
+          "y": 684,
+          "x": 640,
+          "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=640&crop=smart&auto=webp&s=fabf1b7a573799210f0b6305bba27a7f633ab323"
+        },
+        {
+          "y": 1026,
+          "x": 960,
+          "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=960&crop=smart&auto=webp&s=ae0126d6c28585ddcd37177764ffaf16e689c179"
+        },
+        {
+          "y": 1155,
+          "x": 1080,
+          "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=1080&crop=smart&auto=webp&s=ce67d2b10ef7a6a239e9743fc6d41f3796fcab83"
+        }
+      ],
+      "s": {
+        "y": 1540,
+        "x": 1440,
+        "u": "https://preview.redd.it/ien6mkf1vkm71.jpg?width=1440&format=pjpg&auto=webp&s=8cb12842300f04b56ebe7c9fd7577c29351b7307"
+      },
+      "id": "ien6mkf1vkm71"
+    },
+    "5s1r48a5vkm71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 75,
+          "x": 108,
+          "u": "https://preview.redd.it/5s1r48a5vkm71.jpg?width=108&crop=smart&auto=webp&s=0fe93d00b594306181c7ccddfa3920d5ab0a111d"
+        },
+        {
+          "y": 151,
+          "x": 216,
+          "u": "https://preview.redd.it/5s1r48a5vkm71.jpg?width=216&crop=smart&auto=webp&s=f0bcd560b68f28225b9c849c8ef2e2dfc8607f24"
+        },
+        {
+          "y": 224,
+          "x": 320,
+          "u": "https://preview.redd.it/5s1r48a5vkm71.jpg?width=320&crop=smart&auto=webp&s=b061e9104cc1835f9fe7de5e64b26c68db903b24"
+        },
+        {
+          "y": 449,
+          "x": 640,
+          "u": "https://preview.redd.it/5s1r48a5vkm71.jpg?width=640&crop=smart&auto=webp&s=2cf1ebe1a5df8846d71f65622c1e9d214c1e68d3"
+        }
+      ],
+      "s": {
+        "y": 656,
+        "x": 934,
+        "u": "https://preview.redd.it/5s1r48a5vkm71.jpg?width=934&format=pjpg&auto=webp&s=cdaec6c00acd3bc87406771b920045079ea5bb43"
+      },
+      "id": "5s1r48a5vkm71"
+    },
+    "trskb249vkm71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 51,
+          "x": 108,
+          "u": "https://preview.redd.it/trskb249vkm71.jpg?width=108&crop=smart&auto=webp&s=12585809f53e5ea1af54c0d4d90817ac39ecaeed"
+        },
+        {
+          "y": 102,
+          "x": 216,
+          "u": "https://preview.redd.it/trskb249vkm71.jpg?width=216&crop=smart&auto=webp&s=e1b2ceebb696e9790d4a2214c6d6ded7df38f72d"
+        },
+        {
+          "y": 151,
+          "x": 320,
+          "u": "https://preview.redd.it/trskb249vkm71.jpg?width=320&crop=smart&auto=webp&s=b76fe012bbd993354c0c363aadfb384fab023a34"
+        },
+        {
+          "y": 302,
+          "x": 640,
+          "u": "https://preview.redd.it/trskb249vkm71.jpg?width=640&crop=smart&auto=webp&s=b86243ec839b3bdb63fba565fe27308968af6c9c"
+        },
+        {
+          "y": 454,
+          "x": 960,
+          "u": "https://preview.redd.it/trskb249vkm71.jpg?width=960&crop=smart&auto=webp&s=93d07e80c038eb54f31cb17d112c9c77b1401937"
+        },
+        {
+          "y": 511,
+          "x": 1080,
+          "u": "https://preview.redd.it/trskb249vkm71.jpg?width=1080&crop=smart&auto=webp&s=4aaf4b6455624b09695b2973635f52c7b4ecd0f4"
+        }
+      ],
+      "s": {
+        "y": 1908,
+        "x": 4032,
+        "u": "https://preview.redd.it/trskb249vkm71.jpg?width=4032&format=pjpg&auto=webp&s=de0bfd1d8dacce0f34aada825dab45be30581c7f"
+      },
+      "id": "trskb249vkm71"
+    },
+    "278gj577vkm71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 51,
+          "x": 108,
+          "u": "https://preview.redd.it/278gj577vkm71.jpg?width=108&crop=smart&auto=webp&s=5ea2b95cd5fe11861202f1e48cae7c90682ddf19"
+        },
+        {
+          "y": 102,
+          "x": 216,
+          "u": "https://preview.redd.it/278gj577vkm71.jpg?width=216&crop=smart&auto=webp&s=3810f417f65ddb0772e7194953a5911a2456dd5e"
+        },
+        {
+          "y": 151,
+          "x": 320,
+          "u": "https://preview.redd.it/278gj577vkm71.jpg?width=320&crop=smart&auto=webp&s=de39977d7cf5a9b2b290265e79a28cb96a3baf7f"
+        },
+        {
+          "y": 302,
+          "x": 640,
+          "u": "https://preview.redd.it/278gj577vkm71.jpg?width=640&crop=smart&auto=webp&s=ba9dd0a3fb546f7b8ec82ea81cc6f34b3f6f5468"
+        },
+        {
+          "y": 454,
+          "x": 960,
+          "u": "https://preview.redd.it/278gj577vkm71.jpg?width=960&crop=smart&auto=webp&s=cc7e1f1c7f1a3cda2245c5385173fcf53657f26b"
+        },
+        {
+          "y": 511,
+          "x": 1080,
+          "u": "https://preview.redd.it/278gj577vkm71.jpg?width=1080&crop=smart&auto=webp&s=35b11f55c1f23880fd233019a69cfe68d9cb0de3"
+        }
+      ],
+      "s": {
+        "y": 1908,
+        "x": 4032,
+        "u": "https://preview.redd.it/278gj577vkm71.jpg?width=4032&format=pjpg&auto=webp&s=54eaf8c77f33d8cd7b98b594a74dc47ce23bad25"
+      },
+      "id": "278gj577vkm71"
+    }
+  },
+  "name": "t3_plb2ye",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 1274,
+  "total_awards_received": 93,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1274,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "",
+  "edited": 1631240023,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 11,
+    "gid_2": 10,
+    "gid_3": 3
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1631236942,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I travelled specifically from Vancouver, BC, Canada to Munich, Germany to meet the MVIS CEO and to see their new Lidar in person...</p>\n\n<p>The IAA has been open for the last 4 days, but I hadn’t been able to properly experience the MicroVision booth until now. I didn’t want to distract Sumit Sharma, Dr. Luce, and the other 3 MVIS staff who attended from their B2B (business to business) goals. However, today was the first day that the general public were allowed to enter the conference halls, and Dave Allen from IR gave us the green light to go visit the booth.</p>\n\n<p>When I arrived at the booth with <a href=\"/u/MusicMaleficent5870\">/u/MusicMaleficent5870</a>, Sumit and Dr. Luce were nowhere in sight. We nevertheless decided to go in and speak to the MVIS staff. I personally spoke with Jonathan C (who I believe is the Director of Digital Engineering, thx Linkedin stalking). Jonathan walked me through the booth while MM5870 kept the other two MVIS staff members occupied. I introduced myself as a moderator of the mvis reddit and handed him my gag card..</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/2zfx6lvzukm71.jpg?width=3024&amp;format=pjpg&amp;auto=webp&amp;s=b8d919fd1ec5803c6f78d7c5c186b60c299b19b9\"> gag business card </a></p>\n\n<h1>Live Lidar Demo</h1>\n\n<p>An important note Jonathan mentioned was that two A-Samples were actively scanning the booth. One directly above the live demo screens (that sits on the <em>in</em>famous block of wood which I couldn’t see even at a relative far distance), and one directly across from that in the back right hand corner.</p>\n\n<p>The point of having two Lidars actively scanning is to showcase MicroVision’s proprietary active scan lock architecture which allows the A-Sample to actively block out 99% of outside interference (as communicated to shareholders on multiple occasions in past earnings calls). As per past earnings calls the active scan lock architecture is based on proprietary technologies proven in their applications used in the Hololens 2.</p>\n\n<p>In short, the Active Scan lock synchronizes the “send” and “receiving” side of the Gen 5 MEMS just as the Hololens 2 displays are sync’d for the left and right eyes to prevent ocular discomfort (Sumit used a word I didn&#39;t recognize to describe that if the left eye and right eye images dont line up you get discomfort. I don’t have education or background in this so could barely keep up). Each Lidar sensor is encoded its own laser signals and excludes interference even from similar identical units.</p>\n\n<p>For example that if you were stuck in an intersection with 20 cars, each with their own set of short-range lidar (SRL), mid-range lidar (MRL), and long-range lidar (LRL). The IR light pollution and interference will overwhelm other sensors that do not have this feature that MicroVision owns IP for.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/ien6mkf1vkm71.jpg?width=1440&amp;format=pjpg&amp;auto=webp&amp;s=8cb12842300f04b56ebe7c9fd7577c29351b7307\"> The second A-Sample live scanning acting as \\&quot;interference\\&quot; above the television which is showing the 1.8M Long Range Point Cloud. </a></p>\n\n<p>It was explained to me that there is a filter on the live lidar demo. The filter removes the reflection of the floor for aesthetic reasons. They said that if they kept the floor in the final image, you would have been overwhelmed by extra data, but by removing them, the live stream data can be more easily interpreted. Additionally, there are indoor Class 1 EU regs that I believe are in play which made MVIS sandbag their sensor a bit (if anyone was noticing it isn’t as sharp). Sumit says once all testing and certification is done there shouldn’t be any issues seen specifically in the demo booth unit.</p>\n\n<p>This is also a phenomenon you will notice in future Lidar demos, because the lidar sensor acts similar to the human eye does when it sees a mirage. There is a critical angle after which, the light seems to bounce to infinity. Therefore, the sensor will not return images of the road surface (due to it being a planar surface). All content which is 3 dimensional continues to be detected until the full range as advertised.</p>\n\n<h1>Elvis has Entered the Booth</h1>\n\n<p>During the middle of conversation with Jonathan, I noticed Sumit and Dr Luce exiting from a meeting room behind the booth with an unidentified gentleman. They had obviously finished a meeting, and one of the helpers came out to return the A-Sample and the Gen 5 mems mirror back into the display (they were not there when we arrived).</p>\n\n<p>Sumit walked over, I introduced myself as “Jay” and he replied “Jay, nice to finally meet you, I’ve been waiting for you all day!” We arrived approximately 45 minutes before closing and I had been with Jonathan for approximately 15 minutes. Additionally, I had told Dave Allen I’d try to swing by later in the afternoon, so I expect Sumit knew we were coming to visit eventually.</p>\n\n<p>Sumit then whisked <a href=\"/u/MusicMaleficent5870\">/u/MusicMaleficent5870</a> and I away toward the live lidar demo to start our proper tour.</p>\n\n<h1>The MicroVision A-Sample</h1>\n\n<p>Sumit asked us what our backgrounds were to get a grasp of our level of technical knowledge. Suffice it to say, we communicated that it was low lol. One of the biggest things Sumit wanted us to walk away with was the story he was trying to convey to investors. The specific story for investors to recognizing the true value of MicroVision’s IP. The other story he’s trying to convey is the inevitability for customers (from my interpretation of his explanation).</p>\n\n<p>To give you an example, he spoke briefly about the Hololens 2 and Microsoft. Microsoft spent <em>years</em> trying to improve the display of the Hololens 2. It got to the point where they finally realized Microsoft could not achieve it alone (even with a group of ex-MVIS engineers on their engineer team – this is my addition for color). Alex Kipman himself mentions this in one of his talks in Zurich/digital streams in 2020. Microsoft eventually had to approach MicroVision to get the job done because of MicroVision’s proprietary technology that they’ve built in the past couple of decades. He also believes that <strong>they would have never won that $22 Billion Dollar contract without them</strong> (which I agree with. The Hololens 1 was head-to-head with Magic Leap which ate the dust after the Hololens 2 was released).</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/5s1r48a5vkm71.jpg?width=934&amp;format=pjpg&amp;auto=webp&amp;s=cdaec6c00acd3bc87406771b920045079ea5bb43\"> Microsoft&#39;s \\&quot;$22 Billion Dollar Contract\\&quot; </a></p>\n\n<p>This story of inevitability is what customers are starting to realize. If you want the best technology that solves your problems rather than creating further problems, you need to use MicroVision technology and IP (their family jewels). Their custom ASICs (which is available in a digital form) is one of the biggest advantages over competitors in the L2 and L2++ field like Tesla and Mobileye with their Camera only Neural Networks.</p>\n\n<p>Sumit started to go down the rabbit hole into how Neural Networks work. He wouldn’t trust the safety of that technology with his family, and that we wouldn’t either if we read the disclaimers and fine print for cars who use these systems. This also aligns with Mobileye’s current plan in developing a secondary independent Radar + Lidar system to ensure there are true redundant safety systems for maximum passenger safety.</p>\n\n<p>There is a joke Sumit likes to share from the Silicon Valley Episode “Hot Dog, Not Hot Dog” which helped us understand where he was coming from about Neural Networks.</p>\n\n<h1>The Family Jewels</h1>\n\n<p>Sumit believes that the ADAS market is going to go “gangbusters” sooner rather than later. See the bidding war currently happening between Magna and Qualcomm over Veoneer (who IAA placed side by side in the conference with Veoneer squished in the middle).</p>\n\n<p>MicroVision has a lot of key advantages with their proprietary custom ASICs. The way Sumit explained it to us was it comes down to basic math and physics. They can do things with edge computing faster and quicker than anyone else with their Family Jewels. <strong>It comes from their custom OS that is built in their chips.</strong> While Microvision is building their ADAS Lidar Sensors from an established foundation and decade’s worth of tech and IP, their friends Luminar are spending billions just to be able to do the same thing with no guarantee that they can do it better or quicker than how MVIS is doing it.</p>\n\n<p>Lastly, one of the key praises that potential customers have been commenting on the A-Sample is how <strong>slim in profile the A-Sample is</strong> (Apologies for the photo, I should probably take it lower down).</p>\n\n<p><a href=\"https://preview.redd.it/278gj577vkm71.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=54eaf8c77f33d8cd7b98b594a74dc47ce23bad25\"> Cassette of Truth - Kanye West&#39;s \\&quot;Yeezus\\&quot;</a></p>\n\n<p><a href=\"https://preview.redd.it/trskb249vkm71.jpg?width=4032&amp;format=pjpg&amp;auto=webp&amp;s=de0bfd1d8dacce0f34aada825dab45be30581c7f\"> MicroVision A-Sample </a></p>\n\n<p>I plan to publish an album of photos sometime this week which compares the other lidars on display with MVIS’ A-Sample using the “cassette of truth” which I have been photographing to give an idea of the size of all the Lidar sensors. From my observation, MVIS is best in class from a profile aspect, all other lidar sensors are much taller in comparison.</p>\n\n<h1>The Lidar Product Suite</h1>\n\n<p>Sumit Sharma wants to generate more revenue. While the Hololens 2 currently does not produce enough volume for the time being,  <strong>he believes that will change soon</strong> with the new Lidar Product family.</p>\n\n<p>Sumit also shared that they were getting a lot of requests for small NREs (non-recurring engineering) about, “hey we already have a product for short-range Lidar for the time being, can you make something for mid-range only, or maybe long-range only?”.  There was enough interest that it made sense for MicroVision perspective to produce the A-Sample which would be identical to their Dynamic View Lidar (DVL) hardware wise, but with limited features the customer require now to help generate that revenue.</p>\n\n<p>Their Dynamic View Lidar is meant to be their premium/flagship lidar offering. Sumit also touched on the use case of the 905nm lasers which have a standard and secure supply chain unlike the 1550nm lasers which are either custom made or non-standard supply chains utilizing exotic materials (which Velodyne does a great job of explaining in this article: <a href=\"https://velodynelidar.com/blog/guide-to-lidar-wavelengths/\">https://velodynelidar.com/blog/guide-to-lidar-wavelengths/</a>).</p>\n\n<p>Not only do the lasers help MVIS scale, but with the launch of MicroVision’s fifth-generation MEMS to a 200-millimeter wafer silicon they control the whole process. They own their IP, and nobody else does. This gives them the ability to manufacture it the way they want. More control for MicroVision means more stability for customers.</p>\n\n<h1>True Value</h1>\n\n<p>I was honestly surprised how in tune Sumit was to investors. He is also very aware of trader activity, but that is out of his hands. He’s here to get true value for MVIS long investors and the multiplier/upside is massive in his eyes.</p>\n\n<p>I came away from the 30minute discussion in awe to be honest. There was so much content packed into that meeting, and Sumit was exuding nothing but confidence. If there are any German investors in Munich, make sure you go visit the booth, it’s an excellent opportunity to share in the excitement and bullishness Sumit is currently feeling.</p>\n\n<p>GLTALs, it&#39;s 3:30am and i&#39;m going to bed.</p>\n\n<p>TLDR - I travelled from Vancouver to Munich to meet the CEO of MVIS and to see their new Lidar product to compete against the other companies. I am bullish.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "plb2ye",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "s2upid",
+  "discussion_type": null,
+  "num_comments": 235,
+  "send_replies": false,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/plb2ye/microvision_booth_tour_at_iaa_2021_munich_meeting/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/plb2ye/microvision_booth_tour_at_iaa_2021_munich_meeting/",
+  "subreddit_subscribers": 10819447,
+  "created_utc": 1631283566,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1631236942,
+  "the_new_excerpt": "I travelled specifically from Vancouver, BC, Canada to Munich, Germany to meet\nthe MVIS CEO and to see their new Lidar in person...\n\nThe IAA has been open for the last 4 days, but I hadn’t been able to properly\nexperience the MicroVision booth until now. I didn’t want to distract Sumit\nSharma, Dr.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、MVISのCEOに会い、彼らの新しいライダーを直接見るために、カナダのバンクーバーからドイツのミュンヘンまで特別な旅をしました。\nMVISのCEOに会い、彼らの新しいLidarを直接見るために...。\n\nIAAは4日前から開催されていますが、私は今までマイクロビジョンのブースをきちんと見ることができませんでした。\nこれまでマイクロビジョンのブースをきちんと見ることができませんでした。Sumit氏の気を引きたくなかったので\nSharma, Dr....",
+      "title": "IAA2021ミュンヘンでのマイクロビジョンブースツアー - MVIS CEO Sumit Sharmaとの出会い"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我专门从加拿大不列颠哥伦比亚省的温哥华赶到德国慕尼黑，与MVIS的首席执行官会面，并亲自参观他们的新激光雷达。\nMVIS的首席执行官，并亲自参观他们的新激光雷达。\n\n在过去的4天里，IAA一直在开放，但直到现在，我还没有能够正确地\n感受MicroVision的展台，直到现在。我不想让苏米特分心\nSharma, Dr....",
+      "title": "MicroVision在2021年慕尼黑IAA展会上的展位参观 - 与MVIS CEO Sumit Sharma会面"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我專門從加拿大不列顛哥倫比亞省的溫哥華趕到德國慕尼黑，與MVIS的首席執行官會面，並親自參觀他們的新激光雷達。\nMVIS的首席執行官，並親自參觀他們的新激光雷達。\n\n在過去的4天裏，IAA一直在開放，但直到現在，我還沒有能夠正確地\n感受MicroVision的展臺，直到現在。我不想讓蘇米特分心\nSharma, Dr....",
+      "title": "MicroVision在2021年慕尼黑IAA展會上的展位參觀 - 與MVIS CEO Sumit Sharma會面"
+    }
+  ],
+  "source_updated_at": 1631871571928
+}

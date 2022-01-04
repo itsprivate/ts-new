@@ -1,0 +1,28 @@
+{
+  "author": "Liopleurod0n",
+  "the_new_excerpt": "I did some backtesting with the data from the beginning of 1995 to this year,\nand found that if you hold GE from the beginning of 1995 to the end of 1998,\nMSFT from the beginning of 1999 to the end of 2000, then GE from 2001 to 2004,\nXOM 2005 to 2011, AAPL 2012 to 2018, MSFT 2019 to 2020 and switch…",
+  "original_created_utc": 1613217629,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我用1995年初到今年的数据做了一些回测。\n并发现，如果你从1995年开始到1998年年底持有GE。\n从1999年初到2000年底，MSFT，然后从2001年到2004年，GE。\nXOM 2005年至2011年，AAPL 2012年至2018年，MSFT 2019年至2020年，并转...",
+      "title": "目前只有持有世界上市值最大的公司，似乎在过去的25年里，以较大的优势战胜了标普500指数基金。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我用1995年初到今年的數據做了一些回測。\n並發現，如果你從1995年開始到1998年年底持有GE。\n從1999年初到2000年底，MSFT，然後從2001年到2004年，GE。\nXOM 2005年至2011年，AAPL 2012年至2018年，MSFT 2019年至2020年，並轉...",
+      "title": "目前只有持有世界上市值最大的公司，似乎在過去的25年裏，以較大的優勢戰勝了標普500指數基金。"
+    }
+  ],
+  "title": "Only holding the company with the largest market cap in the world at the moment seems to beat the S&P 500 index fund by a large margin for the past 25 year.",
+  "created_utc": 1613223611,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I did some backtesting with the data from the beginning of 1995 to this year, and found that if you hold GE from the beginning of 1995 to the end of 1998, MSFT from the beginning of 1999 to the end of 2000, then GE from 2001 to 2004, XOM 2005 to 2011, AAPL 2012 to 2018, MSFT 2019 to 2020 and switch to AAPL at the beginning of this year, the total return is more than 1800%, which is quite a bit higher than SPY at about 750%.</p>\n\n<p>This is without considering dividends and only switch holding at the end of year the dethroning happened. SPY should perform quite a bit better with dividends but I doubt the return would be that much better. On top of that, my backtesting is done with portfolio adjustment happens only at the end of the year. If the switching is done on the month the dethroning happened, the total return might be quite a bit better but I had some trouble finding data.</p>\n\n<p>My current ideas of why this works is that when a company becomes the one with largest market cap in the world, it usually still have some growth potential, while it gets dethroned when the decline has just started or it could also still be growing, just not as fast as the new market cap king. So only holding the largest market cap company allows the investor to enjoy greater than average growth and suffer less decline in the long run.</p>\n\n<p>My backtesting data is the in table below:</p>\n\n<table><thead>\n<tr>\n<th align=\"left\">Period</th>\n<th align=\"left\">Holding</th>\n<th align=\"left\">Purchasing price</th>\n<th align=\"left\">Selling price</th>\n<th align=\"left\">Return</th>\n<th align=\"left\">Aggregate return</th>\n<th align=\"left\">SPY</th>\n<th align=\"left\">SPY aggregate return</th>\n</tr>\n</thead><tbody>\n<tr>\n<td align=\"left\">1995-1998</td>\n<td align=\"left\">GE</td>\n<td align=\"left\">8.13</td>\n<td align=\"left\">32.68</td>\n<td align=\"left\">301.97%</td>\n<td align=\"left\">301.97%</td>\n<td align=\"left\">45.7~123.37</td>\n<td align=\"left\">169.96%</td>\n</tr>\n<tr>\n<td align=\"left\">1999-2000</td>\n<td align=\"left\">MSFT</td>\n<td align=\"left\">34.9</td>\n<td align=\"left\">21.69</td>\n<td align=\"left\">-37.85%</td>\n<td align=\"left\">149.82%</td>\n<td align=\"left\">132</td>\n<td align=\"left\">188.84%</td>\n</tr>\n<tr>\n<td align=\"left\">2001-2004</td>\n<td align=\"left\">GE</td>\n<td align=\"left\">44.94</td>\n<td align=\"left\">35.09</td>\n<td align=\"left\">-21.92%</td>\n<td align=\"left\">95.06%</td>\n<td align=\"left\">118.16</td>\n<td align=\"left\">158.56%</td>\n</tr>\n<tr>\n<td align=\"left\">2005-2011</td>\n<td align=\"left\">XOM</td>\n<td align=\"left\">51.02</td>\n<td align=\"left\">84.76</td>\n<td align=\"left\">66.13%</td>\n<td align=\"left\">224.06%</td>\n<td align=\"left\">131.32</td>\n<td align=\"left\">187.35%</td>\n</tr>\n<tr>\n<td align=\"left\">2012-2018</td>\n<td align=\"left\">AAPL</td>\n<td align=\"left\">14.62</td>\n<td align=\"left\">39.44</td>\n<td align=\"left\">169.77%</td>\n<td align=\"left\">774.21%</td>\n<td align=\"left\">269.93</td>\n<td align=\"left\">490.66%</td>\n</tr>\n<tr>\n<td align=\"left\">2019-2020</td>\n<td align=\"left\">MSFT</td>\n<td align=\"left\">99.55</td>\n<td align=\"left\">222.42</td>\n<td align=\"left\">123.43%</td>\n<td align=\"left\">1853.21%</td>\n<td align=\"left\">375.31</td>\n<td align=\"left\">721.25%</td>\n</tr>\n<tr>\n<td align=\"left\">2021</td>\n<td align=\"left\">AAPL</td>\n<td align=\"left\">133.52</td>\n<td align=\"left\">135.37</td>\n<td align=\"left\">1.39%</td>\n<td align=\"left\">1880.27%</td>\n<td align=\"left\">392.64</td>\n<td align=\"left\">759.17%</td>\n</tr>\n</tbody></table>\n\n<p>&#x200B;</p>\n</div><!-- SC_ON -->",
+  "score": 634,
+  "permalink": "/r/investing/comments/lizajk/only_holding_the_company_with_the_largest_market/",
+  "subreddit": "investing",
+  "id": "lizajk",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613728621133
+}

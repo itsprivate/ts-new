@@ -1,0 +1,115 @@
+{
+  "created_at": "Thu Sep 16 19:42:57 +0000 2021",
+  "id_str": "1438582157610569738",
+  "full_text": "RT @elonmusk: @JeffBezos @SpaceX Thank you",
+  "display_text_range": [
+    0,
+    42
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "elonmusk",
+        "name": "Elon Musk",
+        "id": 44196397,
+        "id_str": "44196397",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "JeffBezos",
+        "name": "Jeff Bezos",
+        "id": 15506669,
+        "id_str": "15506669",
+        "indices": [
+          14,
+          24
+        ]
+      },
+      {
+        "screen_name": "SpaceX",
+        "name": "SpaceX",
+        "id": 34743251,
+        "id_str": "34743251",
+        "indices": [
+          25,
+          32
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 2058,
+  "favorite_count": 0,
+  "original_created_at": "Thu Sep 16 19:14:48 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Thu Sep 16 17:20:21 +0000 2021",
+    "id_str": "1438553356520378374",
+    "full_text": "@JeffBezos @SpaceX Thank you",
+    "display_text_range": [
+      19,
+      28
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JeffBezos",
+          "name": "Jeff Bezos",
+          "id": 15506669,
+          "id_str": "15506669",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "SpaceX",
+          "name": "SpaceX",
+          "id": 34743251,
+          "id_str": "34743251",
+          "indices": [
+            11,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "user": {
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438003019887611905/MnOz3sOj_normal.jpg"
+    },
+    "retweet_count": 1123,
+    "favorite_count": 33233
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: @JeffBezos @SpaceX ありがとうございます。",
+      "retweeted_status_full_text": "JeffBezos @SpaceX ありがとうございました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: @JeffBezos @SpaceX 谢谢你",
+      "retweeted_status_full_text": "@JeffBezos @SpaceX 谢谢你"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: @JeffBezos @SpaceX 謝謝你",
+      "retweeted_status_full_text": "@JeffBezos @SpaceX 謝謝你"
+    }
+  ],
+  "source_updated_at": 1632476405282
+}

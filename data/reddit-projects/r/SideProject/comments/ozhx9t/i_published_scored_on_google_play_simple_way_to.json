@@ -1,0 +1,63 @@
+{
+  "author": "TotemaT",
+  "original_created_utc": 1628291753,
+  "title": "I published Scored! on Google Play - Simple way to keep track of anything countable",
+  "created_utc": 1628333706,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey all,</p>\n\n<h1>TL:DR</h1>\n\n<p>I published a free &amp; ad-free Flutter app named Scored! for Android and Web. You can find the apk on <a href=\"https://play.google.com/store/apps/details?id=be.tteo.scored\">Google Play</a>, the Web app <a href=\"https://scored.gitlab.io/#/\">here</a> and the sources on <a href=\"https://gitlab.com/scored/scored.gitlab.io\">Gitlab</a>.</p>\n\n<h1>Long version</h1>\n\n<p>Years ago (in 2016!), I published my very first Android app, Scored!, made in Java then rewritten in Kotlin.</p>\n\n<p>A few years later, I discovered Flutter and decided to update my app and rewrite everything in Flutter! At that point, I still had never advertised it outside of a few friends. </p>\n\n<p>A couple more years later (a couple months back), I decided to upgrade to Flutter 2 and rewrote everything once again (because the whole flow and design is different from the previous version). </p>\n\n<p>And now, I&#39;m trying to advertise it a bit! (I&#39;m not advertising it to make money, it&#39;s a free and ad-free app, I would just like to see other people using my app :) ) </p>\n\n<p>The app is meant to be a simple way to keep count of anything. I mostly made it because I used to play board games a lot and a lot of those don&#39;t really have a way to keep track of the scores. Even though that was the base idea, Scored! can be used to keep track of anything countable. </p>\n\n<p>The first version had no history, meaning you&#39;d lose everything once you closed the app. For the v2, I wanted to have an easy way to access my previous games, which was then added to the app as the main screen.</p>\n\n<h1>Additional info for the devs</h1>\n\n<ul>\n<li>The app is written in <a href=\"https://flutter.dev/\">Flutter</a></li>\n<li>I&#39;m using <a href=\"https://github.com/hivedb/hive\">HiveDB</a> for the history part, I thought I&#39;d use SQLite, but I decided to try something I didn&#39;t know (and don&#39;t use at work)</li>\n<li>I&#39;m also using <a href=\"https://pub.dev/packages/provider\">Provider</a> to handle the language and dark mode toggles</li>\n<li>I&#39;m deploying on web using Gitlab CI and on the PlayStore using <a href=\"https://fastlane.tools/\">Fastlane</a></li>\n<li>The app has been tested on macOS and would probably also work on windows, linux and iOS, even though the design is made using Material Design widgets. But I don&#39;t build those version. (Because I don&#39;t have an Apple developer license, nor a windows/linux computer to build on)</li>\n<li>Everything is on the <a href=\"https://gitlab.com/scored/scored.gitlab.io\">Gitlab repository</a></li>\n</ul>\n\n<p>I&#39;m interested in any question, suggestion, remark,... you might have 👍</p>\n\n<p>Thanks for reading, and thanks a lot to anyone who tries Scored!!</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/whuANTVSRC9EEvIUS7FV17r5-HZGDHC341cUZPxGYzs.jpg?auto=webp&s=f49e89bebdec14488a07ac51e024ca15ac4ea48e",
+          "width": 512,
+          "height": 250
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/whuANTVSRC9EEvIUS7FV17r5-HZGDHC341cUZPxGYzs.jpg?width=108&crop=smart&auto=webp&s=8bd3cd1c7f16a5153b42236b364f9af4abc3d6dc",
+            "width": 108,
+            "height": 52
+          },
+          {
+            "url": "https://external-preview.redd.it/whuANTVSRC9EEvIUS7FV17r5-HZGDHC341cUZPxGYzs.jpg?width=216&crop=smart&auto=webp&s=4ffb1bec84bdecb046eaf378b81e4a06f62185be",
+            "width": 216,
+            "height": 105
+          },
+          {
+            "url": "https://external-preview.redd.it/whuANTVSRC9EEvIUS7FV17r5-HZGDHC341cUZPxGYzs.jpg?width=320&crop=smart&auto=webp&s=8d79be99a270a686f49d856c7dd8ec2dfd84ec73",
+            "width": 320,
+            "height": 156
+          }
+        ],
+        "variants": {},
+        "id": "iNt0kB535cS0ZUzJtGOhNWN56dszGacaa3UFoJEESbU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/ozhx9t/i_published_scored_on_google_play_simple_way_to/",
+  "subreddit": "SideProject",
+  "id": "ozhx9t",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hey all,\n\n\nTL:DR\n\nI published a free & ad-free Flutter app named Scored! for Android and Web. You\ncan find the apk on Google Play\n[https://play.google.com/store/apps/details?id=be.tteo.scored], the Web app here\n[https://scored.gitlab.io/#/] and the sources on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n\nTL:DR\n\n私は無料で広告なしのFlutterアプリ「Scored！」をAndroidとWebで公開しました。このアプリは\napkはGoogle Playにあります。\n[https://play.google.com/store/apps/details?id=be.tteo.scored]、ウェブアプリはこちら\n[https://scored.gitlab.io/#/]、ソースは...",
+      "title": "Google Playで「Scored！」を公開しました - シンプルに数えられるものを記録する方法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，大家好。\n\n\nTL:DR\n\n我发布了一个免费和无广告的Flutter应用程序，名为Scored！用于Android和Web。你\n你可以在Google Play上找到这个apk\n[https://play.google.com/store/apps/details?id=be.tteo.scored]，网络应用在这里\n[https://scored.gitlab.io/#/]，而源代码则在...",
+      "title": "我在Google Play上发布了《得分！》--用简单的方法来记录任何可计算的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，大家好。\n\n\nTL:DR\n\n我發佈了一個免費和無廣告的Flutter應用程序，名爲Scored！用於Android和Web。你\n你可以在Google Play上找到這個apk\n[https://play.google.com/store/apps/details?id=be.tteo.scored]，網絡應用在這裏\n[https://scored.gitlab.io/#/]，而源代碼則在...",
+      "title": "我在Google Play上發佈了《得分！》--用簡單的方法來記錄任何可計算的東西"
+    }
+  ]
+}

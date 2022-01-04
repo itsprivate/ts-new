@@ -1,0 +1,89 @@
+{
+  "id": "307247",
+  "commentsCount": 11,
+  "createdAt": "2021-08-07T14:19:12.042Z",
+  "description": "PH100 updates you on ProductHunt launches that reach 100 upvotes. These are considered 🔥🔥🔥. Available on Telegram and as an auto-updating Airtable base. Each launch is analyzed on the TimeTo100, Maker, CommentUpvoteRatio & more. Get access on https://www.ph100.club",
+  "featuredAt": "2021-08-07T10:48:49Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/892fc7d5-3fda-4cec-bb32-dced0871cbaa.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/05bfce3a-f553-423f-ab5e-82189908ad4a.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9297f51c-3068-4708-bb9b-05496c7e4165.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0b8c9f96-7352-4ab2-ab54-8ebaaa318c93.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "PH100",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/e961e9182f9308?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/d734f8db00bf59?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Jim Raptis",
+    "url": "https://www.producthunt.com/@draptis?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 4,
+  "reviewsRating": 5,
+  "slug": "ph100",
+  "tagline": "Unofficial bot to alert you when PH launches get 100 upvotes",
+  "url": "https://www.producthunt.com/posts/ph100?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 193,
+  "website": "https://www.producthunt.com/r/d734f8db00bf59?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Telegram"
+        }
+      },
+      {
+        "node": {
+          "name": "Product Hunt"
+        }
+      },
+      {
+        "node": {
+          "name": "Maker Tools "
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-08-07T10:48:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PH100では、ProductHuntが100 upvoteを達成した際に更新されます。これらは🔥🔥🔥とみなされます。TelegramとAirtableベースで自動更新されます。各ローンチはTimeTo100、メーカー、CommentUpvoteRatioなどで分析されます。https://www.ph100.club にアクセスしてください。",
+      "tagline": "PHの起動時に100 upvotesを獲得すると警告する非公式のボットです。"
+    },
+    {
+      "locale": "zh",
+      "description": "PH100为您更新ProductHunt推出的达到100个赞的信息。这些被认为是🔥🔥。可在Telegram和自动更新的Airtable基础上使用。每一次发布都会被分析为时间到100，制造者，评论投票率和更多。在 https://www.ph100.club 上获得访问权",
+      "tagline": "非官方机器人在PH启动时提醒你获得100个支持率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PH100爲您更新ProductHunt推出的達到100個讚的信息。這些被認爲是🔥🔥。可在Telegram和自動更新的Airtable基礎上使用。每一次發佈都會被分析爲時間到100，製造者，評論投票率和更多。在 https://www.ph100.club 上獲得訪問權",
+      "tagline": "非官方機器人在PH啓動時提醒你獲得100個支持率"
+    }
+  ],
+  "source_updated_at": 1628847706340
+}

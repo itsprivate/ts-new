@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Aug 26 21:41:15 +0000 2021",
+  "id_str": "1431005221145174016",
+  "full_text": "RT @LynAldenContact: One of the most interesting ways to visualize bitcoin's adoption is via a polar coordinates chart, such as @clockwork_…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LynAldenContact",
+        "name": "Lyn Alden",
+        "id": 823766058909761500,
+        "id_str": "823766058909761536",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 1184,
+  "favorite_count": 0,
+  "original_created_at": "Thu Aug 26 21:26:46 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Thu Aug 26 20:59:05 +0000 2021",
+    "id_str": "1430998256977383428",
+    "full_text": "One of the most interesting ways to visualize bitcoin's adoption is via a polar coordinates chart, such as @clockwork_parts has done. \n\nThe logarithmic radius represents bitcoin's price, while the angle represents time. https://t.co/NDuVOppHUJ",
+    "display_text_range": [
+      0,
+      219
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "clockwork_parts",
+          "name": "clockwork · partners",
+          "id": 1314570022451253200,
+          "id_str": "1314570022451253248",
+          "indices": [
+            107,
+            123
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1430994093564473300,
+          "id_str": "1430994093564473348",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/E9vpi96XsAQz9bZ.png",
+          "media_url_https": "https://pbs.twimg.com/media/E9vpi96XsAQz9bZ.png",
+          "url": "https://t.co/NDuVOppHUJ",
+          "display_url": "pic.twitter.com/NDuVOppHUJ",
+          "expanded_url": "https://twitter.com/LynAldenContact/status/1430998256977383428/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 666,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 711,
+              "h": 696,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 711,
+              "h": 696,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Lyn Alden",
+      "screen_name": "LynAldenContact",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1366094142405812234/LCWXc4QQ_normal.jpg"
+    },
+    "retweet_count": 167,
+    "favorite_count": 701,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @LynAldenContact ビットコインの普及状況を視覚化する最も興味深い方法の一つは、@clockwork_...のような極座標図によるものです。",
+      "retweeted_status_full_text": "ビットコインの普及状況を視覚化する最も興味深い方法の一つが、@clockwork_parts氏が行ったような極座標チャートです。\n\n対数の半径はビットコインの価格を、角度は時間を表しています。https://t.co/NDuVOppHUJ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @LynAldenContact: 将比特币采用情况可视化的最有趣的方法之一是通过极坐标图，如@clockwork_...",
+      "retweeted_status_full_text": "将比特币的采用可视化的最有趣的方法之一是通过极坐标图，比如@clockwork_parts所做的。\n\n对数半径代表比特币的价格，而角度则代表时间。https://t.co/NDuVOppHUJ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @LynAldenContact: 將比特幣採用情況可視化的最有趣的方法之一是通過極座標圖，如@clockwork_...",
+      "retweeted_status_full_text": "將比特幣的採用可視化的最有趣的方法之一是通過極座標圖，比如@clockwork_parts所做的。\n\n對數半徑代表比特幣的價格，而角度則代表時間。https://t.co/NDuVOppHUJ"
+    }
+  ],
+  "source_updated_at": 1630662027216
+}

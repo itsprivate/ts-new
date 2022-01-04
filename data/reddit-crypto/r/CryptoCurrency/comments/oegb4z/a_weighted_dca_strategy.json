@@ -1,0 +1,78 @@
+{
+  "author": "TeddyousGreg",
+  "original_created_utc": 1625519008,
+  "title": "A weighted DCA strategy",
+  "created_utc": 1625539355,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This sub loves DCA and we also love buying dips. So I thought I&#39;d share the algorithm that I use for my weighted DCA strategy. DCA allows us to buy more units at lower prices due to even payments at each time period but what if we alter the payment size depending on the asset price? This will allow us to buy even more assets at lower prices, especially in a crabbing market with BTC pissing about between 30-40K for the past month or so. I&#39;ll apply this strategy to BTC but I personally use it with all of the assets that I am accumulating. Let&#39;s get to it.</p>\n\n<p>Before we start, we need to decide on some parameters, namely:</p>\n\n<p>- the maximum price we want to pay for BTC, P_max;</p>\n\n<p>- the minimum price we assume BTC may reach during the period, P_min;</p>\n\n<p>- minimum payment each period, D_min;</p>\n\n<p>- maximum payment each period, D_max.</p>\n\n<p>Say I have $10000 that I want to invest over the next 6 months, but  I&#39;m willing to put it in within the next 2 months if prices are low enough. Then, if I&#39;m making weekly purchases, my minimum and maximum payments would be 10000/26 = 384.61 and 10000/13=769.23, lets round to $385 and $770.</p>\n\n<p>A reasonable max price to pay for BTC would be $40000, and a floor guess of $20000.</p>\n\n<p>So we want a function that will increase as price decreases. We could pick a simple linear function, but we want to conserve funds if prices are close to our max buy price. We use a function of the form</p>\n\n<p><a href=\"https://preview.redd.it/ctallz702g971.png?width=912&amp;format=png&amp;auto=webp&amp;s=a30a6d06221d715489631d9078643a11acec5ac3\">https://preview.redd.it/ctallz702g971.png?width=912&amp;format=png&amp;auto=webp&amp;s=a30a6d06221d715489631d9078643a11acec5ac3</a></p>\n\n<p>So as the price decreases, we can increase our purchase amount exponentially. Now, we can define a parameter that allows us to control how aggressive we want to be. The more aggressive we are, the more we buy as the price decreases and wait if the price is higher. If the price decreased slightly from our maximum buy of $40000 to $39000, an aggressive buyer wouldn&#39;t increase the amount they are buying. If we wanted to be neutral an aggression parameter of 50% would mean that if the price was $30000, we&#39;d buy about $577.5 on that given day (halfway between our minimum and maximum purchase amounts).</p>\n\n<p>So how can we use our aggression parameter? Well, we can define the point between $20000 and $40000 at which we would make a buy of $577.5 (the halfway spot of daily purchase). The more aggressive we are, the closer we&#39;d like this spot to be to $20000.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/9v7cx76z3g971.png?width=2013&amp;format=png&amp;auto=webp&amp;s=5d43688d35a758b9e03536f42a157d092e2a2818\">https://preview.redd.it/9v7cx76z3g971.png?width=2013&amp;format=png&amp;auto=webp&amp;s=5d43688d35a758b9e03536f42a157d092e2a2818</a></p>\n\n<p>If we give ourselves an aggression value of 80%, this point will be 80% of the distance from P_max towards P_min. This is the point where we make a purchase of size midway between minimum and maximum daily buy.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/6x7phtjz4g971.png?width=1282&amp;format=png&amp;auto=webp&amp;s=12a6c7d348b8c24f06f30c4b9e329172f1ad78a6\">https://preview.redd.it/6x7phtjz4g971.png?width=1282&amp;format=png&amp;auto=webp&amp;s=12a6c7d348b8c24f06f30c4b9e329172f1ad78a6</a></p>\n\n<p>Okay so with an aggression factor of 80%, we have three points that we can fit our quadratic curve to, finding our parameter vector β. We can see that it&#39;s much more aggressive than a linear line between $20,000 and $40,000. Here we have a price between $228 at P_max and $457 at P_min.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/fa7q6nxx5g971.png?width=1214&amp;format=png&amp;auto=webp&amp;s=e6629d8e8dfa43f6c7c2cfecc06ea173d4870dd4\">https://preview.redd.it/fa7q6nxx5g971.png?width=1214&amp;format=png&amp;auto=webp&amp;s=e6629d8e8dfa43f6c7c2cfecc06ea173d4870dd4</a></p>\n\n<p>This aggression parameter is a trade-off between taking advantage of larger price drops and making larger purchases altogether. We don’t know whether the price will drop down to (or below) $20000, if it does, our average price will be dramatically reduced, but if it doesn&#39;t, we&#39;ll be holding a lot less BTC.</p>\n\n<p>So, how would this strategy have faired over the past two months? I&#39;m bearish on BTC and even I think 80% aggression is a bit high. Running the model with 70% aggression parameter, aiming to inject $10000 over a maximum of 2 months and a minimum of 1 month gives us the parameters:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/hhdktrr58g971.png?width=873&amp;format=png&amp;auto=webp&amp;s=6f85073095094c02965a50b314a5a96ca57554af\">https://preview.redd.it/hhdktrr58g971.png?width=873&amp;format=png&amp;auto=webp&amp;s=6f85073095094c02965a50b314a5a96ca57554af</a></p>\n\n<p>with these parameters over the past two months. The buy amounts are:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/oew8m363eg971.png?width=1200&amp;format=png&amp;auto=webp&amp;s=e76ea5cc03e2d60a4576831b69f743ec1067e37d\">https://preview.redd.it/oew8m363eg971.png?width=1200&amp;format=png&amp;auto=webp&amp;s=e76ea5cc03e2d60a4576831b69f743ec1067e37d</a></p>\n\n<p>We can see that the adapted strategy takes advantage of the lower prices. The average price of the standard DCA strategy is $38,550, whereas that of the weighted DCA is $38,400. Not a huge amount of difference. But we can see that the price doesn&#39;t go near the expected floor.</p>\n\n<p>What if the price of BTC continued in a downward trend?</p>\n\n<p>Creating a simple random walk, where BTC drops 1000 with probability 0.8 and increases 1000 with probability 0.2, we can create compare the two strategies:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/xrhfh106hg971.png?width=1414&amp;format=png&amp;auto=webp&amp;s=a9ae9fc7298fc2ea48476b259236619c21f47c84\">https://preview.redd.it/xrhfh106hg971.png?width=1414&amp;format=png&amp;auto=webp&amp;s=a9ae9fc7298fc2ea48476b259236619c21f47c84</a></p>\n\n<p>This is where the weighted strategy comes into its element. Admittedly, with a set amount of capital, the weighted DCA will run out of money before the end of the time period. Despite this, the aggressive strategy still picked up more BTC and at a lower price (0.35 BTC at an average price of 28613 vs 0.3 BTC at a price of 33506).</p>\n\n<p>If a fast drop happened towards the beginning of the period followed by a recovery of the price, we should see the weighted-DCA take advantage of the temporary lower price:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/1k2rde90kg971.png?width=1422&amp;format=png&amp;auto=webp&amp;s=a60c4a9bcc311965bd448c96973754efbac05e3b\">https://preview.redd.it/1k2rde90kg971.png?width=1422&amp;format=png&amp;auto=webp&amp;s=a60c4a9bcc311965bd448c96973754efbac05e3b</a></p>\n\n<p>Again, the weighted DCA uses up its capital much quicker but accumulates at much better prices. The weighted DCA picks up 0.485 BTC at $20,387 whereas the standard DCA accumulates 0.39 at $25,640. The difference in performance here is stark here as this (manhandled) situation is one where the weighted-DCA will be most powerful.</p>\n\n<p>So, over a long period, what will do better? We&#39;ll see, I&#39;m running this method now and will compare it to standard DCA once we achieve the next all-time high. But in this crabby market, it is doing slightly better than DCA.</p>\n\n<p>&#x200B;</p>\n\n<p>If you guys are interested, I&#39;ll create a google sheet where you can play around with your own values. Even if you don&#39;t want to follow it by the book, it could be good as a sanity check whenever you&#39;re making a large purchase.</p>\n\n<p>&#x200B;</p>\n\n<p>Edit: just whipped up a little sheet with the payment calculator. It&#39;s super bare and I&#39;ll all some tabs tomorrow with maybe a price simulator or something.</p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/10WeRuCixKe9P2igF55NMdhl8fuIhS18lAVh9mUeEdoU/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/10WeRuCixKe9P2igF55NMdhl8fuIhS18lAVh9mUeEdoU/edit?usp=sharing</a></p>\n</div><!-- SC_ON -->",
+  "score": 188,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?auto=webp&s=785f7478881e58ea6a8d7d3eba5b49c67eaca80a",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?width=108&crop=smart&auto=webp&s=4eaeeefe63d7c83aaba077ad9da16d7420d33a33",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?width=216&crop=smart&auto=webp&s=98fb9460b0fd9bb9556e1c1fe74f2df829326f00",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?width=320&crop=smart&auto=webp&s=7d4e0cff8727eab3b310a429ad7897fa1a781e04",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?width=640&crop=smart&auto=webp&s=cc2505837cf9dee686e1a1336ba2cc51744aaa1f",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?width=960&crop=smart&auto=webp&s=cec32268c755816ab462c4160db5772927d6a23a",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/Tgm_hAWXdG_8DpOsGpHejdvZ76Ybv_CRLnyWrs1X8vQ.jpg?width=1080&crop=smart&auto=webp&s=d13a96f773c70e4824faaec8f65b535f147e289f",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "rZkjuNeVuAiq_h-nVtJZmCrNsg5u9ls5jc9ftB_h-hA"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/oegb4z/a_weighted_dca_strategy/",
+  "subreddit": "CryptoCurrency",
+  "id": "oegb4z",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "This sub loves DCA and we also love buying dips. So I thought I'd share the\nalgorithm that I use for my weighted DCA strategy. DCA allows us to buy more\nunits at lower prices due to even payments at each time period but what if we\nalter the payment size depending on the asset price? This will allow…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このサブはDCAが大好きで、ディップを買うのも大好きです。そこで、私の加重DCA戦略に使用しているアルゴリズムをご紹介します。\nアルゴリズムを紹介します。DCAでは、より多くのユニットを低価格で購入することができます。\nDCAでは、各期間の支払いが均等になるため、より多くのユニットを低価格で購入することができます。\n資産価格に応じて支払い額を変更したらどうでしょうか？これにより、...",
+      "title": "重みのあるDCA戦略"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这个子喜欢DCA，我们也喜欢买蘸酱。所以我想我应该分享一下\n我使用的加权DCA策略的算法。DCA使我们能够以较低的价格购买更多\n单位，因为每个时间段的付款都是均匀的，但如果我们\n根据资产价格来改变付款规模呢？这将允许...",
+      "title": "一个加权的DCA战略"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這個子喜歡DCA，我們也喜歡買蘸醬。所以我想我應該分享一下\n我使用的加權DCA策略的算法。DCA使我們能夠以較低的價格購買更多\n單位，因爲每個時間段的付款都是均勻的，但如果我們\n根據資產價格來改變付款規模呢？這將允許...",
+      "title": "一個加權的DCA戰略"
+    }
+  ]
+}

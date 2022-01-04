@@ -1,0 +1,32 @@
+{
+  "author": "pseudoHappyHippy",
+  "original_created_utc": 1627454986,
+  "title": "Cold wallets explained: an easy-to-follow breakdown of what cold wallets are actually doing, and why and how they provide increased security over hot wallets",
+  "created_utc": 1627468417,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>You&#39;ve probably heard that the point of a physical wallet is to have a place that knows your private keys that is never connected to the internet. This is (at least partially) correct, but it&#39;s a bit more complicated than that. Really, a hard wallet is an offline transaction signer. Let&#39;s go into a bit more detail.</p>\n\n<p>&#x200B;</p>\n\n<p>With a software wallet that you have on your computer, since it knows your private key(s), it can be targeted by malware. There could even be a screen spy virus or a keylogger that records your wallet telling you the seed phrase that first time that you generate it. In general, since your computer has internet access, it is a target. Ideally, if you want to sleep like a baby at night, your keys/seed should never be known by any machine that is ever connected to the internet.</p>\n\n<p>&#x200B;</p>\n\n<p>A hardware wallet is always offline. When you want to send crypto from your hardware wallet, you set the transaction up using a software on your PC (like Ledger Live), but you can&#39;t actually sign the transaction and send it on your PC, because that software doesn&#39;t know your key (that software might feel like a wallet, but it absolutely is not, because it is not in possession of you private key(s)). Instead, to actually send the transaction, you attach your hardware wallet to your PC with a USB, and you press a physical button on it to confirm you want it to sign the transaction. You might think that to do this, it must send your private key through the USB to the software on your PC, but it doesn&#39;t. It signs the transaction on the physical device itself, using the private key, then sends the signed transaction through the USB to the software, which then sends it off into the network. A signed transaction can been seen by all without danger; it&#39;s just the private key that does the signing that must stay private.</p>\n\n<p>&#x200B;</p>\n\n<p>So, really a hardware wallet is just a transaction signer. It is an offline object that adds your private key signature to transactions when you tell it to, and then it sends those transactions through a USB. Your private keys and seed therefore never appear on your PC screen, are never typed by your PC keyboard, and are never known by any drive on your PC, or by any entity that has internet access.</p>\n\n<p>&#x200B;</p>\n\n<p>If you decided to go the &quot;paper wallet&quot; route of literally just memorizing your keys, or writing them on paper, rather than having a hardware or software wallet, the problem is that to actually make an outbound transaction, you would have to use any one of a hundred different online tools or executable applications or whatever to actually type in your key or seed and the details of the transaction, because you can&#39;t interface directly between your brain and the blockchain. Now, you&#39;re back in the original situation of having an online machine see your private key (in reality, it&#39;s a bit more complex than this; there are workarounds that allow you to do this relatively safely, but I don&#39;t want to complicate this too much).</p>\n\n<p>&#x200B;</p>\n\n<p>So, a hardware wallet is not only an offline place to store your keys/seed, it also does the signing for you, in a fully offline air-gapped way, which cuts out any middleman kind of application knowing your seed/keys, and therefore removes all vulnerabilities from the process.</p>\n\n<p>&#x200B;</p>\n\n<p>I hope this helps some peoples&#39; understand of hot and cold wallets!</p>\n</div><!-- SC_ON -->",
+  "score": 203,
+  "permalink": "/r/CryptoCurrency/comments/ot4lio/cold_wallets_explained_an_easytofollow_breakdown/",
+  "subreddit": "CryptoCurrency",
+  "id": "ot4lio",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "You've probably heard that the point of a physical wallet is to have a place\nthat knows your private keys that is never connected to the internet. This is\n(at least partially) correct, but it's a bit more complicated than that. Really,\na hard wallet is an offline transaction signer. Let's go into a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "物理的な財布の意味は、インターネットに接続されていない、自分の秘密鍵を知っている場所を持つことだと聞いたことがあるでしょう。\n物理的な財布の意義は、インターネットに接続されていない、あなたの秘密鍵を知っている場所を持つことだと聞いたことがあるでしょう。これは\n(少なくとも部分的には）正しいのですが、もう少し複雑です。本当にそうです。\nハードウォレットとは、オフラインの取引署名者のことです。ここでは、ハードウォレットの概要について説明します。",
+      "title": "コールドウォレットの説明：コールドウォレットが実際に何をしているのか、なぜ、どのようにしてホットウォレットよりも高いセキュリティを提供するのかをわかりやすく説明します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你可能听说过，实体钱包的意义在于有一个知道你的私钥的地方，并且永远不与互联网连接。\n知道你的私钥的地方，并且永远不会连接到互联网。这一点是\n(至少是部分正确的，但它比这更复杂。真的。\n硬钱包是一个离线交易签名器。让我们进入一个...",
+      "title": "冷钱包解释：简单明了地分析了冷钱包的实际作用，以及为什么和如何提供比热钱包更高的安全性"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你可能聽說過，實體錢包的意義在於有一個知道你的私鑰的地方，並且永遠不與互聯網連接。\n知道你的私鑰的地方，並且永遠不會連接到互聯網。這一點是\n(至少是部分正確的，但它比這更復雜。真的。\n硬錢包是一個離線交易簽名器。讓我們進入一個...",
+      "title": "冷錢包解釋：簡單明瞭地分析了冷錢包的實際作用，以及爲什麼和如何提供比熱錢包更高的安全性"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 870560,
+  "title": "Haskell Quicksort in JavaScript",
+  "description": "Haskell has a particularly elegant implementation of the quicksort algorithm:    qs :: (Ord a) =&gt;...",
+  "readable_publish_date": "Oct 20",
+  "slug": "haskell-quicksort-in-javascript-3lma",
+  "path": "/weeksseth/haskell-quicksort-in-javascript-3lma",
+  "url": "https://dev.to/weeksseth/haskell-quicksort-in-javascript-3lma",
+  "comments_count": 20,
+  "public_reactions_count": 49,
+  "collection_id": null,
+  "published_timestamp": "2021-10-20T21:48:22Z",
+  "positive_reactions_count": 49,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I7uV0GEB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73t2cq5bzgx2z8ufng8q.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F138g3yP--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73t2cq5bzgx2z8ufng8q.png",
+  "canonical_url": "https://dev.to/weeksseth/haskell-quicksort-in-javascript-3lma",
+  "created_at": "2021-10-21T17:08:56.125Z",
+  "edited_at": "2021-10-21T15:51:18Z",
+  "crossposted_at": null,
+  "published_at": "2021-10-20T21:48:22Z",
+  "last_comment_at": "2021-10-21T16:30:05Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "haskell",
+    "javascript",
+    "functional"
+  ],
+  "tags": [
+    "haskell",
+    "javascript",
+    "functional"
+  ],
+  "user": {
+    "name": "Caleb Weeks",
+    "username": "weeksseth",
+    "twitter_username": null,
+    "github_username": "weeksseth",
+    "website_url": "https://sethcalebweeks.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uf02DlkN--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/354758/8451e41d-2b5c-41b8-aea9-aababbb9e55f.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--uKGlzhBe--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/354758/8451e41d-2b5c-41b8-aea9-aababbb9e55f.jpg"
+  },
+  "original_created_at": "2021-10-20T21:48:22Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I7uV0GEB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73t2cq5bzgx2z8ufng8q.png",
+  "author": "Caleb Weeks",
+  "author_url": "https://dev.to/weeksseth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Haskellには、特にエレガントなquicksortアルゴリズムの実装があります： qs :: (Ord a) =&gt;...",
+      "title": "JavaScriptでのHaskell Quicksort"
+    },
+    {
+      "locale": "zh",
+      "description": "Haskell有一个特别优雅的quicksort算法的实现：qs :: (Ord a) =&gt; ...",
+      "title": "JavaScript中的Haskell Quicksort"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Haskell有一個特別優雅的quicksort算法的實現：qs :: (Ord a) =&gt; ...",
+      "title": "JavaScript中的Haskell Quicksort"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "author": "danielrp00",
+  "the_new_excerpt": "Yes, you read that well. Scientists discovered back in 2012 that it's possible\nto create and operate logic gates (transistors) with swarms of soldier crabs\n[https://interestingengineering.com/crabs-could-run…",
+  "original_created_utc": 1620870380,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "はい、よく読みましたね。2012年に科学者たちが発見したのは\n兵隊カニの大群で論理ゲート（トランジスタ）を作って操作できることを発見しました。\n[https://interestingengineering.com/crabs-could-run...",
+      "title": "イーサリアムとビットコインのマイニングに必要なカニの数を、すべてカニで計算してみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "是的，你读得很好。科学家们早在2012年就发现有可能\n用成群的兵蟹创造和操作逻辑门（晶体管）。\n[https://interestingengineering.com/crabs-could-run...",
+      "title": "我计算了一下，在以太坊和比特币上挖矿需要多少只螃蟹，完全靠螃蟹。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "是的，你讀得很好。科學家們早在2012年就發現有可能\n用成羣的兵蟹創造和操作邏輯門（晶體管）。\n[https://interestingengineering.com/crabs-could-run...",
+      "title": "我計算了一下，在以太坊和比特幣上挖礦需要多少隻螃蟹，完全靠螃蟹。"
+    }
+  ],
+  "title": "I calculated how many crabs you need for mining Ethereum and Bitcoin entirely on crabs",
+  "created_utc": 1620913428,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Yes, you read that well. <a href=\"https://interestingengineering.com/crabs-could-run-doom#:%7E:text=%22Scientists%20have%20also%20successfully%20built,to%20store%20a%20single%20tweet\">Scientists discovered back in 2012 that it&#39;s possible to create and operate logic gates (transistors) with swarms of soldier crabs</a>.  I discovered this recently and inmediatly thought &#39;hey, there&#39;s a GPU supply shortage but not a crab supply shortage. What if mining on crabs is the next pro move?&#39; So I had to make some maths. I&#39;m going to tell you how many crabs you need for making a 1GH/s hashrate crab Ethereum mining rig. Let&#39;s go:</p>\n\n<p>An RTX 3080 has a hashrate of approximately 100 MH/s (ethash). That means we need x10 RTX 3080 for achieving 1 GH/s. Wait, do we?</p>\n\n<p>The RTX 3080&#39;s chip GA102-200-K1-A1 has 28.3 billion transistors. We need 10 of them for achieving our hashrate goal so that means we need at least 283 billion transistors.</p>\n\n<p>It takes 80 soldier crabs to create and operate a transistor. 283.000.000.000 x 80 = 22.640.000.000.000</p>\n\n<p>You need 22.640.000.000.000 soldier crabs for mining ETH at a 1GH/s hashrate. Easy right?</p>\n\n<p>But there&#39;s more! I also calculated how many crabs you need for mining BTC:</p>\n\n<p>A Bitmain Antminer S19 Pro uses a 5nm architecture chip and gets a 110 TH/s hashrate. A conventional chip&#39;s surface size is 14,062 cm^2. <a href=\"https://en.wikichip.org/wiki/5_nm_lithography_process\">In a 5nm architecture chip there are approximately 230.000.000 transistors per square milimeter</a>. 14,062 cm^2 equals 14.062 mm^2. 14.062 * 230.000.000 = 3.234.260.000.000. There are approximately 3.234.260.000.000 transistors in an Antminer S19 Pro. That means we would need 3.234.260.000.000*80 = 258.740.800.000.000.000 crabs for mining BTC at a 110 TH/s hashrate. </p>\n\n<p>&#39;How do you keep such an amount of crabs cool? Thats a lot of heat!&#39; You might be thinking. Well, good news! Crabs are totally water proof so you can submerge them in the ocean. Voilá! </p>\n\n<p>You can also use this knowledge for building a CGPU  (Crab Graphics Processing Unit) for gaming. Who needs GPUs? Go get some crabs!</p>\n</div><!-- SC_ON -->",
+  "score": 221,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/67rApBUeckgBB5f4IiGb13xo1Ucfx-NpIrOQQmJVYbw.jpg?auto=webp&s=1b572ceb5cedd6df9500ceb4f62a93758984609a",
+          "width": 864,
+          "height": 486
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/67rApBUeckgBB5f4IiGb13xo1Ucfx-NpIrOQQmJVYbw.jpg?width=108&crop=smart&auto=webp&s=72bd7df83ff2ce23afd159f07d93f3df818764f5",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/67rApBUeckgBB5f4IiGb13xo1Ucfx-NpIrOQQmJVYbw.jpg?width=216&crop=smart&auto=webp&s=968aa8324734b9779c41e782682965d22290943e",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/67rApBUeckgBB5f4IiGb13xo1Ucfx-NpIrOQQmJVYbw.jpg?width=320&crop=smart&auto=webp&s=6370dd84038ab8d191165412d7eed77e127c8f68",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/67rApBUeckgBB5f4IiGb13xo1Ucfx-NpIrOQQmJVYbw.jpg?width=640&crop=smart&auto=webp&s=2909a715affded4abbaa7d4ea3eab5f5bfb91dd4",
+            "width": 640,
+            "height": 360
+          }
+        ],
+        "variants": {},
+        "id": "6Jdf0Anr5jskziFXx_F0GPat1xnhAofdAZRgi84yZh4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/nb5fhn/i_calculated_how_many_crabs_you_need_for_mining/",
+  "subreddit": "CryptoCurrency",
+  "id": "nb5fhn",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1621590796930
+}

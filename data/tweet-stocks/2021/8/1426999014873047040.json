@@ -1,0 +1,77 @@
+{
+  "created_at": "Sun Aug 15 23:42:48 +0000 2021",
+  "id_str": "1426999014873047040",
+  "full_text": "They actually released this https://t.co/eCHTo8HuOi",
+  "display_text_range": [
+    0,
+    27
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1426999011542769700,
+        "id_str": "1426999011542769666",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/E824ClnXIAIxWDH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E824ClnXIAIxWDH.jpg",
+        "url": "https://t.co/eCHTo8HuOi",
+        "display_url": "pic.twitter.com/eCHTo8HuOi",
+        "expanded_url": "https://twitter.com/The_Real_Fly/status/1426999014873047040/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 435,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 852,
+            "h": 545,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 852,
+            "h": 545,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 40,
+  "favorite_count": 430,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Aug 15 20:07:32 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "実際にリリースされたのはこのhttps://t.co/eCHTo8HuOi。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "他们实际上发布了这个https://t.co/eCHTo8HuOi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "他們實際上發佈了這個https://t.co/eCHTo8HuOi"
+    }
+  ],
+  "source_updated_at": 1629452487281
+}

@@ -1,0 +1,80 @@
+{
+  "id": "309354",
+  "commentsCount": 14,
+  "createdAt": "2021-08-23T00:45:19.438Z",
+  "description": "I was tired of pressing ⌘ + i all the time so I built this! It monitors clicks, and arrow key presses to keep track of the currently selected file. It displays all the metadata found in the menu bar or in the panel inspector.",
+  "featuredAt": "2021-08-22T09:44:25Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2dbf5743-f68a-4332-937b-da1cdfeaff08.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/abfaf07f-b94c-43bf-84f2-e46431733237.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4024535d-d92a-4416-aa6c-4b07f084f6aa.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ade1207c-3b71-4d9e-87b9-be5c6892298a.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Informant",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/512930a6794035?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Ty Irvine",
+    "url": "https://www.producthunt.com/@tyirvine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "informant",
+  "tagline": "Inspect files on macOS with a single click.",
+  "url": "https://www.producthunt.com/posts/informant?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 145,
+  "website": "https://www.producthunt.com/r/512930a6794035?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-08-22T09:44:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ずっと⌘＋iを押すのが面倒だったので、これを作りました クリックや矢印キーの操作を監視し、現在選択されているファイルを追跡します。メニューバーやパネルインスペクタにあるすべてのメタデータを表示します。",
+      "tagline": "macOS上のファイルをワンクリックで検査します。"
+    },
+    {
+      "locale": "zh",
+      "description": "我厌倦了一直按⌘+i，所以我做了这个! 它监测点击和方向键的按下，以跟踪当前选定的文件。它显示在菜单栏或面板检查器中发现的所有元数据。",
+      "tagline": "只需一次点击就能检查macOS上的文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我厭倦了一直按⌘+i，所以我做了這個! 它監測點擊和方向鍵的按下，以跟蹤當前選定的文件。它顯示在菜單欄或面板檢查器中發現的所有元數據。",
+      "tagline": "只需一次點擊就能檢查macOS上的文件。"
+    }
+  ],
+  "source_updated_at": 1630057197642
+}

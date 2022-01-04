@@ -1,0 +1,73 @@
+{
+  "author": "Zarkorix",
+  "original_created_utc": 1629880587,
+  "title": "Harmony ONE - a deep dive",
+  "created_utc": 1629901860,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>Solving the Blockchain Quadrilemma</h1>\n\n<p>Harmony ONE is the world&#39;s first sharded proof-of-stake (PoS) blockchain network, which attempts to solve the &quot;blockchain <strong>quad</strong>rilemma&quot; - the ability of a network to be simultaneously scalable, secure, decentralised <em>but also private</em> <a href=\"https://blog.harmony.one/harmony-keynote-scaling-privacy-secure-staking-radical-fairness/\">(Source)</a>. For those unfamiliar: sharding is a way to partition the network into independently acting entities. ONE places heavy emphasis on interoperability and cross-chain finance.</p>\n\n<p>ONE&#39;s transactions per second (TPS) is 2k, with a 2s finality. In terms of finality, this ranks ONE toward the very top. 2s finality is achieved using an improved version of Practical Byzantine Fault Tolerance, known as Fast BFT (FBFT) - built and pioneered by ONE <a href=\"https://blog.harmony.one/2-seconds-block-time-on-harmony-mainnet/\">(Source)</a>. ONE currently operates 4 shards, each with 250 nodes and each adding 500 TPS. ONE ultimately aims to scale to 2000 shards - supporting 1m TPS <a href=\"https://www.asiablockchainreview.com/ask-me-anything-with-harmonyone/\">(Source)</a>. Transactions cost 0.000025 ONE (~$0.0000027) and ONE is currently experiencing ~800,000-1m transactions per day. To put that into perspective, ETH and ALGO process 1.5m and 1m respectively.</p>\n\n<p><strong>Main Conclusion</strong>: ONE is a fast and scalable &quot;Blockchain 3.0&quot; project.</p>\n\n<h1>Effective Proof-of-Stake &amp; Decentralisation</h1>\n\n<p>ONE uses effective proof-of-stake (EPoS) as a consensus mechanism, which employs economic incentives and cryptographic randomness to achieve decentralisation + security <a href=\"https://docs.harmony.one/home/general/technology/effective-proof-of-stake#:%7E:text=Harmony%20is%20one%20of%20the,a%20fully%20sharded%20PoS%20architecture.&amp;text=Harmony&#x27;s%20Effective%20Proof%2Dof%2DStake,achieves%20both%20security%20and%20decentralization\">(Source)</a>. EPoS differs from regular, delegated PoS (dPoS) in a number of ways, including:</p>\n\n<ul>\n<li>APY % and rewards are proportional to the <em>effective</em> stake, not the <em>actual</em> stake - ensuring rewards are fairly distributed. Small stakers are disproportionately rewarded with higher APY %, and large stakers are <em>heavily</em> penalised. The latter, importantly, incentivises large validators to run multiple nodes - a key component to ONE&#39;s decentralisation model (see below).</li>\n<li>ONE randomly allocates 250 nodes to each shard in an unbiased, unpredictable manner using a verifiable delay function (VDF). A large validator, running multiple nodes, is, therefore, unable to carry out an attack since their nodes are likely to be distributed among multiple shards. Following the conclusion of each epoch (~18h), the nodes on each shard are shuffled once again.</li>\n</ul>\n\n<p>Running a ONE node is technically permissionless and a minimum of 10,000 ONE (~$1100) is required <a href=\"https://docs.harmony.one/home/network/validators/creating-a-validator\">(Source)</a>. In reality, because of the limited number of validator spots (due to operating only 4 shards at present), the pragmatic amount is likely ~$40-50,000+ worth of ONE - a steep entry price, although lower than the 32 ETH ($110k) required by ETH 2.0. Places are bid upon, and successful bids become &#39;elected&#39; validators.</p>\n\n<p>It&#39;s important to note that sharding is not yet battle-tested and is a relatively new technology.</p>\n\n<p><strong>Main Conclusion</strong>: ONE&#39;s EPoS consensus mechanism, combined with randomised shard membership, improves upon dPoS and its drive toward centralisation over time.</p>\n\n<h1>Staking Rewards, Governance &amp; Tokenomics</h1>\n\n<p>ONE currently offers staking with an average APY of ~9% (depending on which validator you choose). However, the staked coins are not liquid - there is a lockup period of 7 epochs (~5.25 days), although you can re-delegate to a new validator after 1 epoch. ONE launched a network governance app in Mar 2021 - where elected validators submit and vote on proposals <a href=\"https://blog.harmony.one/introducing-the-harmony-network-governance-app/\">(Source)</a>. <strong>A major point of concern here is that only validators can vote i.e. delegators are at the mercy of their validator&#39;s choices.</strong></p>\n\n<p>ONE has a current maximum supply of ~13,000,000,000 (13b) coins, and ~83% of the supply is circulating. However, akin to ETH/ETH2.0, ONE has no fixed total supply. Instead, it has a ~3% annual issuance and 441m ONE are added per year. This is to ensure a simple and predictable return for all stakers. <strong>Critically, all ONE transaction fees are burnt</strong> - which, like EIP-1559 for ETH, may lead to zero inflation with high network usage.</p>\n\n<p><strong>Main Conclusion</strong>: ONE offers highly competitive staking APYs and is exploring a limited form of decentralised governance.</p>\n\n<h1>Bridges, Developers &amp; Ecosystem</h1>\n\n<p>A key tenet of ONE&#39;s philosophy is cross-bridge finance and interoperability. ONE connects <em>any</em> PoW or PoS network in a fully trustless and highly gas-efficient manner.</p>\n\n<p>In addition to its own Harmony Virtual Machine (HVM), ONE is fully Ethereum Virtual Machine (EVM) compatible - so it not only acts as a blockchain in its own right but also as a Layer-2 solution for ETH with rapid finality on Ethereum (~6m) and lower bridge gas-fees (~400 gas per tx) <a href=\"https://medium.com/harmony-one/harmony-as-interoperable-layer-2-for-ethereum-47c10c9b68c8\">(Source)</a>. For the sake of perspective, all pre-existing L2 solutions for ETH offer considerably slower finality: ZKSync (16m), Validium (9m), Optimism (5-7d), Polygon (3.5h). ETH developers + DApps are able to instantly migrate to ONE, without code change, and enjoy faster execution of the EVM. An example of an ETH DApp that has already been ported to ONE is Lympho.</p>\n\n<p>ONE also operates a bridge to BSC and in Q3-Q4 2021, ONE will launch a fully operational bridge to BTC. To further facilitate this, ONE offers wrapped &quot;harmonized&quot; versions of major tokens (e.g. 1BTC).</p>\n\n<p>~68-70 DApps currently operate on ONE, including yield farms, DEXs and DeFi protocols - all of which enjoy high TVL. Sushiswap, the second most popular DEX, recently launched on and partnered with ONE - bringing $2m in liquidity mining rewards and $100,000 as prizes in a joint hackathon <a href=\"https://blog.harmony.one/sushi-and-harmony-announce-full-stack-partnership-with-4m-in-incentives/\">(Source)</a>. In addition, ONE has seen ~$600,000 in NFT sales, from ~2300 artists.</p>\n\n<p>As with many protocols, ONE is integrated with LINK, Polygon, Aave, and a myriad of stablecoins and on-ramps <a href=\"https://harmonynews.one/partnerships-and-praise-for-harmony/\">(Source)</a>.</p>\n\n<p><strong>Main Conclusion</strong>: ONE is intimately connected with all major blockchains, and can act as an interoperability hub.</p>\n\n<h1>Privacy</h1>\n\n<p>To solve the 4th aspect of the blockchain quadrilemma, ONE is integrated with and is funding multiple privacy solutions and will be one of the first projects to deploy <strong>private</strong>, <strong>cross-chain transactions</strong>. Such efforts include partnerships with Webb <a href=\"https://blog.harmony.one/privacy-on-harmony-powered-by-webb/\">(Source)</a>, Incognito Wallet <a href=\"https://blog.incognito.org/privacy-mode-for-one-tokens/\">(Source)</a> and Raze <a href=\"https://medium.com/harmony-one/harmony-partners-with-raze-network-11272c01733a\">(Source)</a> - the latter will allow private transactions with the entire DOT ecosystem.</p>\n\n<p><strong>Main Conclusion</strong>: ONE, along with other projects, is pioneering the concept of cross-chain privacy.</p>\n\n<h1>Where does ONE fit and what&#39;s next?</h1>\n\n<p>ALGO, ZIL, ETH 2.0, ADA, SOL, XTZ, FTM, AVAX, ATOM, DOT etc. - ONE is trying to compete in a very crowded space. Despite spectacular technology and efforts to facilitate private cross-chain transactions, ONE, in my opinion, is struggling to find an identity - a unique feature that makes it stand out. Coupled with a lack of advertising and a limited number of major partnerships, <strong>these are the major drawbacks of ONE.</strong></p>\n\n<p>However, ONE may be about to distinguish itself: ONE&#39;s team acknowledges that accessibility and ease of use are major barriers to mass adoption. They&#39;re addressing this in two ways:</p>\n\n<ul>\n<li>ONE offers .one domains as unique NFTs. Any user is able to claim a domain (e.g. <a href=\"https://Zarkorix.one\">Example.one</a>) and use this as a public key for receiving transactions. A similar feature is available for ETH and other projects, however, unlike ETH - domains are available for the tiny cost of a single transaction.</li>\n<li>Setting up a wallet, storing a seed key, ensuring the correct TX addresses etc. are tasks far beyond the technical capabilities of many. In Q3-Q4 2021, <strong>ONE is launching a new on-chain wallet that is seed key-less</strong>, but which remains cryptographically secure and can be restored in a more familiar manner (i.e. with an authenticator) <a href=\"https://docs.harmony.one/home/network/wallets/1wallet\">(Source)</a>.</li>\n</ul>\n\n<p>Using these two approaches, ONE aims to onboard 1M users in 2021.</p>\n\n<p>For the remainder of 2021, ONE&#39;s roadmap also includes launching digital identity protocols, a bridge to DOT and BTC, cross-chain NFTs, options for a truly private wallet and more: <a href=\"https://medium.com/harmony-one/interoperability-with-on-chain-bridges-and-wallets-e8d2c18c126f\">(Source)</a></p>\n\n<p><strong>Final Conclusion</strong>: ONE has fantastic technology and a solid team, but it must distinguish itself and acquire major partnerships before it can be considered a premiere chain.</p>\n</div><!-- SC_ON -->",
+  "score": 200,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/XxcsdV4cKbSa7oimnur1N1J2fbfeTv1valpAMD3-6dI.jpg?auto=webp&s=f98a0b0dbf0995c5f9092e53f8b3f9e1b5e213ce",
+          "width": 960,
+          "height": 540
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/XxcsdV4cKbSa7oimnur1N1J2fbfeTv1valpAMD3-6dI.jpg?width=108&crop=smart&auto=webp&s=673aa80bff96549abe539ec19fa1c37fe818336f",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/XxcsdV4cKbSa7oimnur1N1J2fbfeTv1valpAMD3-6dI.jpg?width=216&crop=smart&auto=webp&s=a74c130c3a2144cbd2f52e9138751125ca4dcbe7",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/XxcsdV4cKbSa7oimnur1N1J2fbfeTv1valpAMD3-6dI.jpg?width=320&crop=smart&auto=webp&s=e3fa4bcc2688a08b77b404c58a9f16bef91ac89a",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/XxcsdV4cKbSa7oimnur1N1J2fbfeTv1valpAMD3-6dI.jpg?width=640&crop=smart&auto=webp&s=5affb77952d7b1c2b291860c317344a50d0605f7",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/XxcsdV4cKbSa7oimnur1N1J2fbfeTv1valpAMD3-6dI.jpg?width=960&crop=smart&auto=webp&s=bc511c2d5b899e21998825c63808004b73738456",
+            "width": 960,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "INHxrzKDOYzp0f4Y1bYKyLaj1E8uGc4i8Oah9cRfG_c"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pb74tm/harmony_one_a_deep_dive/",
+  "subreddit": "CryptoCurrency",
+  "id": "pb74tm",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "SOLVING THE BLOCKCHAIN QUADRILEMMA\n\nHarmony ONE is the world's first sharded proof-of-stake (PoS) blockchain\nnetwork, which attempts to solve the \"blockchain quadrilemma\" - the ability of a\nnetwork to be simultaneously scalable, secure, decentralised but also…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ブロックチェーンの四重苦を解決する\n\nHarmony ONEは、世界初のシャード化されたPoS（proof-of-stake）ブロックチェーンネットワークです。\nブロックチェーン・クアドリレンマ」を解決しようとするネットワークです。\nこれは、ネットワークがスケーラブルで安全で分散化されていると同時に、...",
+      "title": "Harmony ONE - ディープダイブ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "解决区块链的四难问题\n\nHarmony ONE是世界上第一个分片的股权证明（PoS）区块链网络。\n网络，它试图解决 \"区块链四难问题\" - 一个网络能够同时具有可扩展性、安全性、去中心化以及\n它试图解决 \"区块链四难问题\"--即一个网络能够同时具有可扩展性、安全性、去中心化以及...",
+      "title": "Harmony ONE - 深入研究"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "解決區塊鏈的四難問題\n\nHarmony ONE是世界上第一個分片的股權證明（PoS）區塊鏈網絡。\n網絡，它試圖解決 \"區塊鏈四難問題\" - 一個網絡能夠同時具有可擴展性、安全性、去中心化以及\n它試圖解決 \"區塊鏈四難問題\"--即一個網絡能夠同時具有可擴展性、安全性、去中心化以及...",
+      "title": "Harmony ONE - 深入研究"
+    }
+  ]
+}

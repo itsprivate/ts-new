@@ -1,0 +1,74 @@
+{
+  "author": "Asuram",
+  "the_new_excerpt": "I saw the post yesterday\n[https://np.reddit.com/r/CryptoCurrency/comments/lk2rtw/the_ultimate_guide_to_earning_passive_income_with/]\nabout some basics in crypto, but also saw people mentioning in the comments\nabout how they were missing a few good points like yield and liquidity farming.\nI just…",
+  "original_created_utc": 1613400796,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我昨天看到这个帖子\n[https://np.reddit.com/r/CryptoCurrency/comments/lk2rtw/the_ultimate_guide_to_earning_passive_income_with/]\n关于加密技术中的一些基础知识，但也看到人们在评论中提到了。\n关于他们是如何错过了几个好点 像收益率和流动性养殖。\n我只是...",
+      "title": "Defi的基本指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我昨天看到這個帖子\n[https://np.reddit.com/r/CryptoCurrency/comments/lk2rtw/the_ultimate_guide_to_earning_passive_income_with/]\n關於加密技術中的一些基礎知識，但也看到人們在評論中提到了。\n關於他們是如何錯過了幾個好點 像收益率和流動性養殖。\n我只是...",
+      "title": "Defi的基本指南"
+    }
+  ],
+  "title": "Basic Guide to Defi",
+  "created_utc": 1613471869,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I saw the post <a href=\"https://np.reddit.com/r/CryptoCurrency/comments/lk2rtw/the_ultimate_guide_to_earning_passive_income_with/\">yesterday</a> about some basics in crypto, but also saw people mentioning in the comments about how they were missing a few good points like yield and liquidity farming. I just wanted to make a small TLDR of stuff</p>\n\n<h1><strong>Terms <sup>In</sup> <sup>no</sup> <sup>specific</sup> <sup>order</sup></strong></h1>\n\n<p><strong>Liquidity Pools (LP)</strong> --&gt; LP  are used to enable traders to transfer funds from one coin to another in a decentralized way. Generally speaking, one would put 2 or more coins into a pool contract where it will collect a small percent of fees spent from transitioning from 1 coin to another. An example would be, if I wanted to trade between Ethereum and Dai, I would be putting in my Ethereum and pulling out some Dai from the pool, minus a small percentage that goes to the people who are supplying liquidity to the pool</p>\n\n<p><strong>Automated Market Makers (AMM)</strong>--&gt;Most DEFI applications run on an AMM . These are any application where people interact with smart contracts instead of interacting with a centralized company. An exchange like Binance matches buyers and sellers to make a trade, while Uniswap uses their liquidity pools  </p>\n\n<p><strong>Governance Tokens</strong> --&gt;Because most DEFI applications, are well decentralized, they use a token as a form of voting power. If you own 5 UNI tokens, you have 5 votes power in the network. This allows for the community to decide the direction of the protocol instead of a central company managing it</p>\n\n<p><strong>Decentralized Autonomous Organization (DAO)</strong> --&gt; For the same reason above. It allows a group of people to run an organization in a decentralized way where everything is open source that can be viewed\\</p>\n\n<p><strong>Oracles</strong> --&gt; Oracles are third-party information service providers that send external real-world data to a blockchain protocol. Oracles can be decentralized and rely on numerous data sets, or centralized and controlled by a single entity</p>\n\n<p><strong>Lending</strong> --&gt; I don&#39;t believe there is a cool name for this, but to summarize. You stake your coins into a protocol which people can lend out from. You gain a portion of the interest they are paying to borrow your crypto (They are paying 10% interest to borrow and you gain 8%, with the remaining 2% going back to the protocol). These rates vary depending on multiple factors, such as volume, liquidity, volatility, etc.  This works in a trustless manner, because to do this, the borrower must deposit collateral to obtain a loan equal to a % of what they deposited. If they deposited 1000 USD in ETH, they may be only able borrow up to 750 DAI. If what they borrowed went up, their ratio may go down with the chance for their deposit to get liquidated as to protect the loaners.  While it seems silly at first to basically deposit 1000 USD to only receive 750 back, one could use it to hedge themselves, save money by not participating in a taxable event, or simply withdraw money from the crypto space without actually selling their investment. </p>\n\n<h1><strong>Liquidity Mining</strong></h1>\n\n<p>The short and dirty of liquidity mining is, by depositing a token, you gain more of the token back. This gain is either from participating in a LP and receiving the portion of the trading fees, loaning out your money to others and collecting the interest</p>\n\n<h1><strong>Yield Mining/ Yield Farming</strong></h1>\n\n<p>Now this is more . . . complicated? The TLDR of it is by participating in a LP, you may get a token back showing your stake in the pool. You could then put THAT token into another LP, adding another layer to you providing liquidity. The best way would be to give an example. </p>\n\n<p>Say you first start off with 1000 Dai and you put it into Curve (an AMM). Depending on which pool you put it in, you will get a curve token back (for the sake of it, I&#39;m using the Y pool so ima call it yCrv) while gaining APY (lets just say 10%). You then take the yCrv and could deposit it into yearn.finance, gaining another 10% APY. Finally, you could then supply liquidity on uniswap by putting your yearn tokens you got for depositing yCrv into a LP for another 10%. You have now leveraged your initial token 3 times across 3 different protocols for a bigger yield. </p>\n\n<p>Another form of this is simply getting governance tokens in addition to your APY reward. Example being Curve gives  10% APY for staking, but also gives you an additional 10% in Curves DAO or Governance token. </p>\n\n<h1><strong>Now for some DEFI Applications</strong><sup><sup><sup><sup>Please</sup></sup></sup></sup> <sup><sup><sup><sup>don&#39;t</sup></sup></sup></sup> <sup><sup><sup><sup>be</sup></sup></sup></sup> <sup><sup><sup><sup>mad</sup></sup></sup></sup> <sup><sup><sup><sup>at</sup></sup></sup></sup> <sup><sup><sup><sup>me</sup></sup></sup></sup> <sup><sup><sup><sup>if</sup></sup></sup></sup> <sup><sup><sup><sup>I</sup></sup></sup></sup> <sup><sup><sup><sup>didn&#39;t</sup></sup></sup></sup> <sup><sup><sup><sup>mention</sup></sup></sup></sup> <sup><sup><sup><sup>your</sup></sup></sup></sup> <sup><sup><sup><sup>favorite</sup></sup></sup></sup></h1>\n\n<p><strong>AMM</strong> </p>\n\n<ul>\n<li><p>Uniswap (UNI)--&gt; bread and butter. Trade this coin for that. Their LP are 50/50 split between 2 tokens</p></li>\n<li><p>Balancer (BAL)--&gt; Similar to uniswap, but their LP allow for up to 8 different tokens without requiring a 50/50 split</p></li>\n<li><p>Curve (CRV)--&gt; AMM that specializes in only stablecoins and provides incentive to trade the stable coin the pool is low on to self balance</p></li>\n<li><p>1Inch (1INCH)--&gt; Another AMM, but they focus on aggregating the prices from all AMM to try and match you with the best one. <em>Tends to be uniswap or itself</em></p></li>\n</ul>\n\n<p><strong>Lending Protocols</strong></p>\n\n<ul>\n<li><p>Aave (AAVE, used to be called LEND)--&gt; Put coin in, get interest rate that varies</p></li>\n<li><p>Compound (COMP) --&gt; Same as above but less assets locked into protocol and less coins offering to be borrowed or loaned</p></li>\n<li><p>Oasis/Maker (MKR and DAI) --&gt; I put these both here because while they are different, they are run by the same organization. You can deposit any asset voted on by the maker DAO into a vault, and generate DAI from it, which is how DAI is able to maintain its stable price without being explicitly tied to USD. You can then pay back the DAI you borrowed to retrieve what you stored in the vault. </p></li>\n</ul>\n\n<h1><strong>Cool shit that I couldn&#39;t find somewhere else to put</strong></h1>\n\n<ul>\n<li><p>Augur --&gt; It is betting. What it really is a prediction market. Someone could put a bet saying the weather will be 0 tomorrow and it would generate 2 tokens. A yes it is, or No it isn&#39;t. When the duration is over, the money staked from the loosing side will go to the wining side. You could also buy a bet and sell it because it is all tokenized. </p></li>\n<li><p>Flash Loans --&gt; Out of everything on this list, I have NEVER touched this. The basic summary is you can borrow almost any amount of money without collateral, but it has to be returned in the same block. If I saw eth was worth 2k on Uniswap but 1950 on 1inch, I could borrow as much as I want to buy as much ETH from 1inch as I could, then sell it all on Uniswap for a 5% profit, then return the money back to the flash loan provider in the same transaction. Its cool, but I have not found opportunities to do it myself</p></li>\n<li><p>Nexus Mutual --&gt; Similar to Augur but more focused on &quot;Will x event happen&quot;. You can buy insurance policies on certain events happening to cover X amount of crypto, and if that event happens, you will be payed out after a vote by their DAO. The cool thing about this, is you don&#39;t NEED to have whatever you are insuring. If you are insuring that the Curve contract will fail for 5 ETH, it doesn&#39;t matter if you never used Curve or not, you will still get your payout since you bought a policy. </p></li>\n<li><p>PoolTogether --&gt; This is my literal favorite project and it is so small tiny and cute. You basically can buy lottery tickets with whatever pool currency is (1 ticket= 1 Dai), and you hope to win. But the great thing about this is <strong>you cannot lose your money</strong>. All of the winnings are generated by the interest gained from all the lottery tickets in the pool, so if you buy 1 ticket, that ticket remains in the pool until YOU take it out yourself, giving you a chance to win every single week. It is just a no loss lottery, great for gambling addicts like myself. </p></li>\n<li><p>Synthetix --&gt; Synthetic assets on the blockchain. Their sGold token could give you exposure to the gold market without actually buying a traditional index for it</p></li>\n</ul>\n\n<p><strong>Wallets cause I forgot until the end</strong></p>\n\n<ul>\n<li>Personally, I use argent because my friend got me on it and I don&#39;t feel like paying over 200 in gas to move all my holdings to another wallet, but its pretty nice with its built in DEFI features. </li>\n<li>Another one I think is good is Math Wallet, which holds multiple chains and allows you to interact with DEFI applications not just on the ETH blockchain</li>\n<li>I use Zerion as a layer 2 to my wallet. I don&#39;t actually bother opening it that often unless I need to use walletconnect to initialize a connection to a DEFI application. Zerions interface is pretty nice and does the price tracking for you so you can see your gains and loss in different coins while also tracking historical trade prices you preformed. Anyone can check theirs now by using their addres or ENS</li>\n</ul>\n\n<h1><strong>Closure</strong></h1>\n\n<p>None of this was financial advise. I have used every single application or term mentioned here (except flash loans), and my current holdings are as followed</p>\n\n<ul>\n<li>XOR, XRT, ETH, DIA, AKRO, RING, MKR, COMP, RWS</li>\n<li>Providing liquidity to the UNI/ETH pool on Uniswap</li>\n<li>Providing liquidity for UNI on Compound</li>\n<li>Providing liquidity from Curve on Yearn because I am poor and am not going to pay the gas fee to move it\n#<strong>Good Resources</strong></li>\n<li><a href=\"https://defipulse.com/defi-list/\">Defi Pulse</a></li>\n<li><a href=\"https://defiprime.com/\">Defi Prime</a></li>\n<li><a href=\"https://defirate.com/\">Defi Rate</a></li>\n</ul>\n\n<h1><strong>BIG EDIT SIGN</strong></h1>\n\n<ul>\n<li>By depositing collateral into a lending protocol so you can borrow, you are also GAINING APY on whatever you deposited. If you deposit ETH to withdraw DAI, you are gaining an APY on your ETH, while paying a APR on DAI</li>\n<li>While you may see there are high APR for borrowing, most lending protocols also allow users to accumulate governance tokens for borrowing, since they are taking part in the ecosystem. Using <a href=\"https://compound.finance/governance/comp\">Compounds Distribution</a> as an example, users gain about 4% for either lending or borrowing back in the form of COMP governance tokens, which have their own value. Looking at from that perspective, loaning DAI will reward 10% APY with an additional 4% APY in the form of COMP, while borrowing will cost 13% APR, but 4% of their debt is returned to them in COMP</li>\n</ul>\n</div><!-- SC_ON -->",
+  "score": 180,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?auto=webp&s=11af380fc0d0b418851d40ff5fea87742d2751f3",
+          "width": 2226,
+          "height": 1320
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?width=108&crop=smart&auto=webp&s=ef4b2bab86719c32566f4c31b770551392623305",
+            "width": 108,
+            "height": 64
+          },
+          {
+            "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?width=216&crop=smart&auto=webp&s=da34408b02ec9f565eb6a7efb8af2a6d0a4cf2aa",
+            "width": 216,
+            "height": 128
+          },
+          {
+            "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?width=320&crop=smart&auto=webp&s=5c4f942d5c31177591a99accec99acd5aa7a3e94",
+            "width": 320,
+            "height": 189
+          },
+          {
+            "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?width=640&crop=smart&auto=webp&s=679501f40490a6654f0799bd0440f8ce00c3aa2e",
+            "width": 640,
+            "height": 379
+          },
+          {
+            "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?width=960&crop=smart&auto=webp&s=3bc6c5456add7a04a3af50cfb379c33698a59f3f",
+            "width": 960,
+            "height": 569
+          },
+          {
+            "url": "https://external-preview.redd.it/zo-2UqFHQTtynOiU4zv2HKrbZwcEGkaA9_FUudNom8w.jpg?width=1080&crop=smart&auto=webp&s=defa269dae724b0106a909b84ed11ef2460e967f",
+            "width": 1080,
+            "height": 640
+          }
+        ],
+        "variants": {},
+        "id": "E1nblXM5kneeHBzM1UURhj8ymnq7SPpJCstiDhXQk_k"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/lkf6hu/basic_guide_to_defi/",
+  "subreddit": "CryptoCurrency",
+  "id": "lkf6hu",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613728619117
+}

@@ -1,0 +1,77 @@
+{
+  "created_at": "Fri Apr 09 9:53:27 +0000 2021",
+  "id_str": "1380456734725173248",
+  "full_text": "Spurious correlation is always a concern for statistical models, but good out-of-sample performance eases this concern. https://t.co/8WBb54KCLA",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1380455773151625200,
+        "id_str": "1380455773151625216",
+        "indices": [
+          120,
+          143
+        ],
+        "media_url": "http://pbs.twimg.com/media/EyhdNjLXAAAwCN0.png",
+        "media_url_https": "https://pbs.twimg.com/media/EyhdNjLXAAAwCN0.png",
+        "url": "https://t.co/8WBb54KCLA",
+        "display_url": "pic.twitter.com/8WBb54KCLA",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1380456734725173248/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1722,
+            "h": 954,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 377,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 665,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
+  },
+  "retweet_count": 358,
+  "favorite_count": 2491,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Apr 09 09:45:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "統計モデルでは、スプリアスな相関関係が常に懸念されますが、サンプル外のパフォーマンスが良いと、この懸念が軽減されます。https://t.co/8WBb54KCLA"
+    },
+    {
+      "locale": "zh",
+      "full_text": "杂散相关总是统计模型的一个顾虑，但良好的样本外性能缓解了这种顾虑。https://t.co/8WBb54KCLA。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "雜散相關總是統計模型的一個顧慮，但良好的樣本外性能緩解了這種顧慮。https://t.co/8WBb54KCLA。"
+    }
+  ],
+  "source_updated_at": 1618566624939
+}

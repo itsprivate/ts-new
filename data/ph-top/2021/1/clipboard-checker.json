@@ -1,0 +1,74 @@
+{
+  "id": "282049",
+  "commentsCount": 12,
+  "createdAt": "2021-01-24T20:17:30.367Z",
+  "description": "Clipboard checker is an open source set it and forget it chrome extension that scans any text you copy in your browser to determine if malicious content has been added or changed.",
+  "featuredAt": "2021-01-24T08:00:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/15bfe87f-dd83-40ca-9335-f54f6ca21a3d.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://www.youtube.com/watch?v=gO98i4BbthM&feature=emb_title"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d56b01e9-7a96-472b-b5cb-3b5ba3864d9c.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fe747896-0b9d-4b7d-8c0d-010392736e2a.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/294f8fea-8d04-4f2a-aef3-f7c8720976d7.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Clipboard Checker",
+  "productLinks": [
+    {
+      "type": "Chrome",
+      "url": "https://www.producthunt.com/r/72ce652621a9ea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Marijn Roukens",
+    "url": "https://www.producthunt.com/@marijnroukens?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 13,
+  "reviewsRating": 5,
+  "slug": "clipboard-checker",
+  "tagline": "Keep your clipboard safe from JS injections.",
+  "url": "https://www.producthunt.com/posts/clipboard-checker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 50,
+  "website": "https://www.producthunt.com/r/72ce652621a9ea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Chrome Extensions"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-01-24T07:16:05Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "剪贴板检查器是一个开源的设置并忘记它的chrome扩展，它可以扫描你在浏览器中复制的任何文本，以确定是否有恶意内容被添加或更改。",
+      "tagline": "保护你的剪贴板不被JS注入。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "剪貼板檢查器是一個開源的設置並忘記它的chrome擴展，它可以掃描你在瀏覽器中複製的任何文本，以確定是否有惡意內容被添加或更改。",
+      "tagline": "保護你的剪貼板不被JS注入。"
+    }
+  ]
+}

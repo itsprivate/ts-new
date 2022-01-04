@@ -1,0 +1,63 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1630156039,
+  "title": "The trading algorithm I made can now detect a new coin within 0.3 seconds of it being listed on Binance",
+  "created_utc": 1630164837,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been about two weeks now since I initially shared with you a tool that I had made in order to quickly buy into a new coin listing to take advantage of the initial surge in the price.</p>\n\n<p>I&#39;ve spent the past two weeks, debugging, fixing and optimising this code to get it to a level where it actually works. It&#39;s been a challenge to test since I have to wait for a new coin order and then check if it broke or not, but I think I finally got there.</p>\n\n<p>Before I go explaining how the tool works, let me explain why I think that this particular strategy has some potential:</p>\n\n<p>As some of you may have noticed, many coins seem to go through to what I would like to call a &quot;lightning-pump&quot; during their first few seconds of being listed on an exchange.</p>\n\n<p>Have a look at ICP (you may put your pitchfork down, this chart is the perfect example):</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/renmiomwk3k71.png?width=2650&amp;format=png&amp;auto=webp&amp;s=74818add410e844f684bb0b0f0c43475de26a2f1\">chart for ICP</a></p>\n\n<p>In under a minute, the price of ICP shot up over 10 times, before slowly dipping into the void. Manually trading this 10x would be impossible, due to the speed required to catch this pump.</p>\n\n<p>So I started building a bot that would detect new coin listings in about 20 seconds of them being listed on Binance.</p>\n\n<p>It soon became quite clear that 20 seconds is way too slow to take advantage of the pump so I had to make it quicker.</p>\n\n<p>The second improvement enabled the trading algorithm to find a new coin and place a buy order in about 5 seconds. This was better but not great.</p>\n\n<p>Finally, I decided to remove all the breaks and just call the Binance API like crazy. Full steam ahead.</p>\n\n<p>The bot is now able to detect a new coin listing in 0.3 seconds and place an order. There haven&#39;t been any new coins listed after I made this improvement so I will let it run and share my results once I have them.</p>\n\n<p>I&#39;ve also fixed any bugs that were caught by some of you that decided to test this out so thanks for that!</p>\n\n<p>For anyone interested in trying it out, I&#39;ve included a test mode that will simulate placing orders so there&#39;s no risk involved.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Here&#39;s a step by step guide on how to build it as well as an in-depth anatomy of the code:</strong></p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/\">https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/</a></p>\n\n<p><strong>For the GitHub source code please go here:</strong></p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins\">https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins</a></p>\n\n<p>If you have any ideas on how to improve the stability or the speed of the code, please feel free to submit a PR.</p>\n\n<p>&#x200B;</p>\n\n<p><strong>Edit:</strong></p>\n\n<p><strong>For those of you who asked for a YouTube video before - here you go!</strong> <a href=\"https://youtu.be/mIa9eQDhubs\"><strong>https://youtu.be/mIa9eQDhubs</strong></a></p>\n</div><!-- SC_ON -->",
+  "score": 937,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/JR6jCzTDXHIxrvohGqNUngEy15WCOlxRMcsSWUox3Eg.jpg?auto=webp&s=a3645b20a8a2856c07afdf9e7dad17cbe8926a4b",
+          "width": 603,
+          "height": 937
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/JR6jCzTDXHIxrvohGqNUngEy15WCOlxRMcsSWUox3Eg.jpg?width=108&crop=smart&auto=webp&s=8f2b16b1744b723d7e6a5d00633a3336674c1707",
+            "width": 108,
+            "height": 167
+          },
+          {
+            "url": "https://external-preview.redd.it/JR6jCzTDXHIxrvohGqNUngEy15WCOlxRMcsSWUox3Eg.jpg?width=216&crop=smart&auto=webp&s=add6eb499896ff3e64c10c7f8594890f4d32634b",
+            "width": 216,
+            "height": 335
+          },
+          {
+            "url": "https://external-preview.redd.it/JR6jCzTDXHIxrvohGqNUngEy15WCOlxRMcsSWUox3Eg.jpg?width=320&crop=smart&auto=webp&s=8e435a4b6b8b20b8766dc61b3cddd514f280c2bc",
+            "width": 320,
+            "height": 497
+          }
+        ],
+        "variants": {},
+        "id": "0LZtMtPP8AbWxS3yNOlXvElW0AuLtEksSRO_eZQo7yg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pd9gct/the_trading_algorithm_i_made_can_now_detect_a_new/",
+  "subreddit": "CryptoCurrency",
+  "id": "pd9gct",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "It's been about two weeks now since I initially shared with you a tool that I\nhad made in order to quickly buy into a new coin listing to take advantage of\nthe initial surge in the price.\n\nI've spent the past two weeks, debugging, fixing and optimising this code to get\nit to a level where it…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最初に私が作ったツールをご紹介してから約2週間が経ちました。\n新規上場コインを素早く購入して、初期投資のメリットを得るために作ったツールを紹介してから数週間が経ちました。\n私が作ったツールを紹介してから約2週間が経ちました。\n\nこの2週間、私はこのコードをデバッグし、修正し、最適化してきました。\nコードを最適化しています。",
+      "title": "私が作った取引アルゴリズムは、新しいコインがBinanceに掲載されてから0.3秒以内に検出できるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "自从我最初与你们分享我为了快速买入新的钱币上市而制作的一个工具以来，现在已经有大约两周的时间了。\n为了快速买入新上市的硬币，以利用价格的最初飙升，我制作了一个工具。\n以利用价格的最初飙升。\n\n在过去的两个星期里，我一直在调试、修复和优化这段代码，以使其达到\n它达到了一个水平，使其能够...",
+      "title": "我做的交易算法现在可以在新币在Binance上市的0.3秒内检测到它"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "自從我最初與你們分享我爲了快速買入新的錢幣上市而製作的一個工具以來，現在已經有大約兩週的時間了。\n爲了快速買入新上市的硬幣，以利用價格的最初飆升，我製作了一個工具。\n以利用價格的最初飆升。\n\n在過去的兩個星期裏，我一直在調試、修復和優化這段代碼，以使其達到\n它達到了一個水平，使其能夠...",
+      "title": "我做的交易算法現在可以在新幣在Binance上市的0.3秒內檢測到它"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "created_at": "Thu Jan 28 19:40:9 +0000 2021",
+  "id_str": "1354870553652449283",
+  "full_text": "Traders and others are taking to Twitter after Robinhood restricted trades on $GME and $AMC. \"This is unacceptable,\" @AOC tweeted.\n\nhttps://t.co/rt8iF4X17s",
+  "display_text_range": [
+    0,
+    155
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "GME",
+        "indices": [
+          78,
+          82
+        ]
+      },
+      {
+        "text": "AMC",
+        "indices": [
+          87,
+          91
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "AOC",
+        "name": "Alexandria Ocasio-Cortez",
+        "id": 138203134,
+        "id_str": "138203134",
+        "indices": [
+          117,
+          121
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/rt8iF4X17s",
+        "expanded_url": "https://on.mktw.net/2KXZK6j",
+        "display_url": "on.mktw.net/2KXZK6j",
+        "indices": [
+          132,
+          155
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "MarketWatch",
+    "screen_name": "MarketWatch",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/705601245596090368/Z6xUOnRg_normal.jpg"
+  },
+  "retweet_count": 92,
+  "favorite_count": 382,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jan 28 19:14:46 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "在Robinhood限制了$GME和$AMC的交易后，交易员和其他人都在Twitter上进行交易。\"这是不可接受的，\"@AOC在推特上说。\n\nhttps://t.co/rt8iF4X17s"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在Robinhood限制了$GME和$AMC的交易後，交易員和其他人都在Twitter上進行交易。\"這是不可接受的，\"@AOC在推特上說。\n\nhttps://t.co/rt8iF4X17s"
+    }
+  ],
+  "source_updated_at": 1612518568683
+}

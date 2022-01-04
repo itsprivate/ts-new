@@ -1,0 +1,138 @@
+{
+  "created_at": "Fri Jul 02 18:34:35 +0000 2021",
+  "id_str": "1410908238552391684",
+  "full_text": "RT @_rospearce: I designed my first double-page #dataviz for The Economist!\n\nIt depicts our new 'Normalcy index', which tracks the world's…",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "dataviz",
+        "indices": [
+          48,
+          56
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_rospearce",
+        "name": "Rosamund Pearce",
+        "id": 2149815847,
+        "id_str": "2149815847",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 76,
+  "favorite_count": 0,
+  "original_created_at": "Fri Jul 02 10:28:32 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Fri Jul 02 10:11:01 +0000 2021",
+    "id_str": "1410903833442717698",
+    "full_text": "I designed my first double-page #dataviz for The Economist!\n\nIt depicts our new 'Normalcy index', which tracks the world's return to pre-pandemic life &gt;&gt; https://t.co/Iko6totfJN https://t.co/1sIUMoZco1",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dataviz",
+          "indices": [
+            32,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Iko6totfJN",
+          "expanded_url": "https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms",
+          "display_url": "economist.com/graphic-detail…",
+          "indices": [
+            160,
+            183
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1410895125685866500,
+          "id_str": "1410895125685866497",
+          "indices": [
+            184,
+            207
+          ],
+          "media_url": "http://pbs.twimg.com/media/E5SBpD3WEAEreLU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E5SBpD3WEAEreLU.jpg",
+          "url": "https://t.co/1sIUMoZco1",
+          "display_url": "pic.twitter.com/1sIUMoZco1",
+          "expanded_url": "https://twitter.com/_rospearce/status/1410903833442717698/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 926,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2042,
+              "h": 1576,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 525,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Rosamund Pearce",
+      "screen_name": "_rospearce",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347589618305273856/RYXUODw2_normal.jpg"
+    },
+    "retweet_count": 76,
+    "favorite_count": 551,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rospearce: 『エコノミスト』誌で、初めて2ページの#データビズをデザインしました。\n\nこれは、私たちの新しい「正常性指数」を描いたもので、世界の...",
+      "retweeted_status_full_text": "エコノミスト』誌で初めてダブルページの#datavizをデザインしました。\n\nパンデミック前の生活に戻ったかどうかを追跡する、私たちの新しい「正常性指数」が描かれています &gt;&gt; https://t.co/Iko6totfJN https://t.co/1sIUMoZco1"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 我为《经济学人》设计了我的第一个双页#dataviz!\n\n它描述了我们新的 \"正常指数\"，该指数追踪了世界上的...",
+      "retweeted_status_full_text": "我为《经济学人》设计了我的第一个双页#dataviz!\n\n它描绘了我们新的 \"正常指数\"，追踪世界恢复到大流行前的生活&gt;&gt; https://t.co/Iko6totfJN https://t.co/1sIUMoZco1"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 我爲《經濟學人》設計了我的第一個雙頁#dataviz!\n\n它描述了我們新的 \"正常指數\"，該指數追蹤了世界上的...",
+      "retweeted_status_full_text": "我爲《經濟學人》設計了我的第一個雙頁#dataviz!\n\n它描繪了我們新的 \"正常指數\"，追蹤世界恢復到大流行前的生活&gt;&gt; https://t.co/Iko6totfJN https://t.co/1sIUMoZco1"
+    }
+  ]
+}

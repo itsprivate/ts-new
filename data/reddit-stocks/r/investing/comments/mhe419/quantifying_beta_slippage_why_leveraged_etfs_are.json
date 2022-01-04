@@ -1,0 +1,33 @@
+{
+  "author": "SorenLantz",
+  "the_new_excerpt": "(results linked below)\n\nIf you are somewhat familiar with leveraged ETFs you have no doubt heard the\nmany warnings that surround them. Warnings involving phrases like \"decaying\nvalue\" or \"daily rebalancing\". However, you, like I, may have also noticed that\nall of these warnings use hypothetical…",
+  "original_created_utc": 1617220117,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "(结果链接如下)\n\n如果你对杠杆ETF有点熟悉，你无疑已经听说了围绕它们的许多警告。\n围绕它们的许多警告。警告涉及 \"价值衰减 \"或 \"每日再平衡 \"等短语。\n价值 \"或 \"每日重新平衡 \"等警告。然而，你和我一样，可能也注意到了\n所有这些警告都使用假设性的...",
+      "title": "量化贝塔的滑动（为什么杠杆ETF没有你想象的那么可怕？）"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "(結果鏈接如下)\n\n如果你對槓桿ETF有點熟悉，你無疑已經聽說了圍繞它們的許多警告。\n圍繞它們的許多警告。警告涉及 \"價值衰減 \"或 \"每日再平衡 \"等短語。\n價值 \"或 \"每日重新平衡 \"等警告。然而，你和我一樣，可能也注意到了\n所有這些警告都使用假設性的...",
+      "title": "量化貝塔的滑動（爲什麼槓桿ETF沒有你想象的那麼可怕？）"
+    },
+    {
+      "locale": "ja",
+      "the_new_excerpt": "(結果は下記にリンク)\n\nレバレッジドETFをある程度知っている人なら、間違いなく聞いたことがあるはずです。\n多くの警告を発している。このような警告は、\"decaying\"（腐敗）、\"decaying\"（衰退）のようなフレーズで\n価値」「日々のリバランス」。しかし、私もそうですが、皆さんもお気づきかもしれません。\nこれらの警告はすべて、仮定の話である。",
+      "title": "ベータ・スリッページの定量化（レバレッジドETFが思ったほど怖くはない理由）"
+    }
+  ],
+  "title": "Quantifying Beta Slippage (Why Leveraged ETFs are Not as Scary as You Might Think)",
+  "created_utc": 1617258094,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>(results linked below)</p>\n\n<p>If you are somewhat familiar with leveraged ETFs you have no doubt heard the many warnings that surround them. Warnings involving phrases like &quot;decaying value&quot; or &quot;daily rebalancing&quot;. However, you, like I, may have also noticed that all of these warnings use hypothetical examples to show why leveraged ETFs are risky. These examples will be scenarios such as &quot;daily SP500 returns oscillate between +10% and -10% for 50 days&quot;; scenarios which are incredibly unlikely to occur in the actual market. Additionally, any novice trader can check the graphs of TQQQ and QQQ and see that (as of today) they would have outperformed QQQ if they had bought and held TQQQ at <em>any</em> point before September 2020. So what to do with leveraged ETFs?</p>\n\n<p>All of the fears relating to leveraged ETFs are neatly captured in the term &quot;Beta Slippage&quot;: Beta (volatility) + Slippage (difference from expectation). It is true that the trend and volatility of a market/sector directly impacts the performance of leveraged ETFs based on them. But are all leveraged ETFs inevitably victims of Beta Slippage as some articles would imply?</p>\n\n<p>To answer these questions I set out to quantify Beta Slippage for the top 25 (by NAV) leveraged ETFs, and see if the fears were justified or overblown.</p>\n\n<p>If you aren&#39;t curious about how this was done, the results spreadsheet is linked at the bottom.</p>\n\n<p>If you are:</p>\n\n<p>I used TD Ameritrade&#39;s API to get price data for leveraged ETFs and their underlying securities. I then looked at all of the possible 1-day, 1-week, 1-month, and 1-year holding timeframes a trader could have held the ETF for. I then found, for each timeframe, the return of the underlying security. I then calculated the return of an ideal leveraged ETF using the return of the underlying security and the ETF&#39;s leverage factor. This ideal leveraged ETF perfectly scales performance over any timeframe. Finally, I found the % difference between the price of the actual leveraged ETF and the price of the ideal ETF. I called this % difference Beta Slippage, as I could not find a formula for it elsewhere.</p>\n\n<p>So, in short, the results in the data show the average % difference between an actual leveraged ETF and its perfectly leveraged version (no beta slippage) if you hold it over various timeframes.</p>\n\n<p>Please take a look at the data, let me know how you think it could be improved!</p>\n\n<p>I could not find exact indices for some of the underlying funds so I had to settle for ETF versions of them, also some symbols had very limited data so take that into account.</p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1uR8sy1O-t1oKGTwjAoeNPXC45L6aT-ZEvMkqINfXfNs/edit#gid=1273321998\">Quantifying Beta Slippage</a></p>\n</div><!-- SC_ON -->",
+  "score": 58,
+  "permalink": "/r/investing/comments/mhe419/quantifying_beta_slippage_why_leveraged_etfs_are/",
+  "subreddit": "investing",
+  "id": "mhe419",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617357141499
+}

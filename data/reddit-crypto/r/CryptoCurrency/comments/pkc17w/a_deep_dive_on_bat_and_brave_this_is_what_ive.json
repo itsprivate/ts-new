@@ -1,0 +1,63 @@
+{
+  "author": "IsaacNewton1643",
+  "original_created_utc": 1631112692,
+  "title": "A deep dive on BAT and Brave this is what I've learned.",
+  "created_utc": 1631184103,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Basic Attention Token (BAT) is used in the Brave browser to help prevent ad fraud, protect the users privacy/data, while paying a revenue share to the users who opt into the notification ads. It&#39;s unique because it is privacy preserving, brave doesn&#39;t know what ad you saw, only that you saw an ad. I believe they don&#39;t even know when you saw it. They have a unique way of knowing almost nothing about their users. Your browser locally selects the ad notification from a catalog of text ads served daily, what it selects is based off what your it, locally, thinks your would like to see. </p>\n\n<p>This hasn&#39;t been too profitable for them at smaller scales but based on comments their CEO made I believe they are either at profitability or close. Their userbase is growing rapidly 36m+ monthly active users and more than doubling each year. With the increase in userbase they have been able to build up their ad catalog from more mainstream brands. Self serve ads is the coming eventually, but for their size the vetting process and a few other things make it unrealistic right now, but... Soon they I believe are going to add self serve for content creators, like YouTubers, etc. Because that is easier to be vetted and will give them time to ramp up the platform as it grows.</p>\n\n<p>It&#39;s currently almost at max circulation, 1.49 billion out of 1.5 billion total supply. Currently going for $0.75, market cap $1.1 billion. All time high was ~$1.60 in May.</p>\n\n<p>I want to talk a bit about Braves other products than ads because it is  fundamentally intertwined with BAT and they are going to be adding functionality to some of their products soon. They were the <a href=\"https://brave.com/ipfs-support/\">first browser to support IPFS</a>, Interplanetary File System. It is a cool protocol still in development that essentially makes a unique address for each file, or webpage, or instance of a webpage. And if it is hosted somewhere on the internet you will eventually be served that file or webpage. This is different than a file being located on a central server, where if the company who owns the server goes down the content is lost forever. Anyone can host a node and host whatever they want. This has unique applications for a lot of things, especially NFTs, essentially making it so as long as there is one copy of your NFT hosted somewhere, maybe even by you, you will never lose it. <a href=\"https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs\">Here</a> is an article about IPFS and NFTs, I think it has much greater potential but it&#39;s just one application, I&#39;ve been looking at braves GitHub and they are constantly improving their IPFS integration, I expect great things.</p>\n\n<p>They also have support for .eth and unstoppable domains, which is also cool.</p>\n\n<p>A few months ago Brave made public that they were launching their own <a href=\"https://brave.com/search/\">search engine</a>. It&#39;s privacy preserving, like Duckduckgo, but unlike Duckduckgo Brave Search has its own index, and Duckduckgo relies on Bing for results. It also is still in beta and currently has no ads, but when it does that just opens up another way for Brave to utilize BAT.</p>\n\n<p>Another product Brave has is a VPN on iOS, they will be expanding to Android and desktop, not sure when but they&#39;re working on it. They haven&#39;t added it yet but I believe eventually they are planning adding the possibility of paying for your VPN with BAT. So this adds more functionally for BAT and could also drive up adoption of rewards. Currently the opt in rate on rewards is like 20-25% of users. They didn&#39;t say exactly, but it is &quot;low twenties&quot;.</p>\n\n<p>Now there is one more update coming soon, their native wallet. I think this is the one I&#39;ve been anticipating the most. Their wallet is going to have an easy crypto on ramp, I believe through Wyre. It will have a dex aggregator, NFT support, easy access to defi etc. There will also be some sort of incentive for BAT holders. I&#39;m not sure what, they have been vague but there will be something. I&#39;m imagining it will be something like discounts for using BAT for the fees with swap similar to BNB on binance, but really I don&#39;t know. I&#39;ve been watching them work on it in GitHub from almost the start and the wallet looks good. \nWhat I&#39;m excited the most about is it will be in all Brave browsers, putting that 36m+ userbase 2 clicks from a crypto on ramp, being able to see their NFTs, and all the benefits crypto offers. It also won&#39;t be an extension, like meta mask. Brave is working on being the userlayer of Web 3.0 and crypto. And with that size of userbase which has been more than doubling each year, and innovative products, I think they will succeed.</p>\n\n<p>If you want more info about whatever I can say more, I&#39;ve got pictures and videos of the wallet but I&#39;m not used to posting from mobile, I can link to reports from Dentsu, IPG and Goldman Sachs, or grayscales investments in BAT but I&#39;m tired so I&#39;ll just do it upon request or you can search for it. </p>\n\n<p>I got into BAT cause I used Brave for years then in January I finally opted into rewards and finally realized how innovative it was. Basically I really like the browser and it led me to invest in it, the  I went down a rabbit hole of stalking all their employees on twitter, browsing their GitHub for upcoming developments, reading research papers/reports to learn as much as I coulld.</p>\n\n<p>Edit:\nDecided to add some links </p>\n\n<p>Link to Goldman Sachs report on crypto, brave is mentioned 3 times in it. It&#39;s pretty big so ctrl-f to find it.\n <a href=\"https://mobile.twitter.com/lukemulks/status/1409590931641167874?s=19\">https://mobile.twitter.com/lukemulks/status/1409590931641167874?s=19</a>\nBasically calls Brave/BAT an example of Web 3.0</p>\n\n<p>Dentsu/Brave report</p>\n\n<p><a href=\"https://brave.com/ad-choosers/\">https://brave.com/ad-choosers/</a></p>\n\n<p>A link talking about the Magna/IPG report</p>\n\n<p><a href=\"https://adage.com/article/digital-marketing-ad-tech-news/consumers-want-control-not-ad-blocking-online-advertising/2352021\">https://adage.com/article/digital-marketing-ad-tech-news/consumers-want-control-not-ad-blocking-online-advertising/2352021</a></p>\n\n<p>Here is a link to a Twitter thread from Lulks VP of Business Ops showing updates on the wallet from GitHub. He does these periodically.\n<a href=\"https://twitter.com/lukemulks/status/1430562393067638787?s=19\">https://twitter.com/lukemulks/status/1430562393067638787?s=19</a></p>\n\n<p>Here is a link to a recording of yesterday&#39;s community call. Luke Mulks hosts these every week. He posts info on his Twitter announcing when it is happening. They are a great way to learn what is happening with BAT. Next week /might/ have someone from the search team.</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=Dc1tC3SwBg0\">https://m.youtube.com/watch?v=Dc1tC3SwBg0</a></p>\n</div><!-- SC_ON -->",
+  "score": 158,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/CXMKI04wbURY0ZM8Ssx74sWX6LowCeXzHoLk0trT6lg.jpg?auto=webp&s=371f003e4a9feb59a437f78d56364d8aff084630",
+          "width": 600,
+          "height": 320
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/CXMKI04wbURY0ZM8Ssx74sWX6LowCeXzHoLk0trT6lg.jpg?width=108&crop=smart&auto=webp&s=618825b26a83469109d4e5befedd314cc4a91c0e",
+            "width": 108,
+            "height": 57
+          },
+          {
+            "url": "https://external-preview.redd.it/CXMKI04wbURY0ZM8Ssx74sWX6LowCeXzHoLk0trT6lg.jpg?width=216&crop=smart&auto=webp&s=67f404c6a50e317a62a698c6355697da5c05c30a",
+            "width": 216,
+            "height": 115
+          },
+          {
+            "url": "https://external-preview.redd.it/CXMKI04wbURY0ZM8Ssx74sWX6LowCeXzHoLk0trT6lg.jpg?width=320&crop=smart&auto=webp&s=816630030458d0ae0f62eccd26a3ab2cf65c68ef",
+            "width": 320,
+            "height": 170
+          }
+        ],
+        "variants": {},
+        "id": "nWoI_zDyfE30T_L7hqwogoTkPyzy9VT_Of24RfP9ylQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pkc17w/a_deep_dive_on_bat_and_brave_this_is_what_ive/",
+  "subreddit": "CryptoCurrency",
+  "id": "pkc17w",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Basic Attention Token (BAT) is used in the Brave browser to help prevent ad\nfraud, protect the users privacy/data, while paying a revenue share to the users\nwho opt into the notification ads. It's unique because it is privacy preserving,\nbrave doesn't know what ad you saw, only that you saw an ad. I…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Basic Attention Token（BAT）は、Braveブラウザで使用されており、広告の防止に役立ちます。\n広告詐欺を防止し、ユーザーのプライバシーやデータを保護し、通知広告を選択したユーザーに収益を支払うために\n広告詐欺を防ぎ、ユーザーのプライバシーやデータを保護し、通知広告に同意したユーザーに収益を支払うために使用されます。ユニークなのは、プライバシーが守られていることです。\nbraveは、あなたがどんな広告を見たかは知らず、あなたが広告を見たことだけを知っています。I...",
+      "title": "BATとBraveの深堀り......これが私の学んだことです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "基本注意力令牌（BAT）在Brave浏览器中使用，以帮助防止广告欺诈，保护用户的隐私/数据，同时向用户支付收入份额。\n欺诈，保护用户的隐私/数据，同时向选择通知广告的用户支付收入份额\n选择进入通知广告的用户支付收入份额。它的独特之处在于它是保护隐私的。\nBrave不知道你看到了什么广告，只知道你看到了一个广告。I...",
+      "title": "对BAT和Brave的深入研究，这是我的心得。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "基本注意力令牌（BAT）在Brave瀏覽器中使用，以幫助防止廣告欺詐，保護用戶的隱私/數據，同時向用戶支付收入份額。\n欺詐，保護用戶的隱私/數據，同時向選擇通知廣告的用戶支付收入份額\n選擇進入通知廣告的用戶支付收入份額。它的獨特之處在於它是保護隱私的。\nBrave不知道你看到了什麼廣告，只知道你看到了一個廣告。I...",
+      "title": "對BAT和Brave的深入研究，這是我的心得。"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "author": "UpvoteBeast",
+  "original_created_utc": 1638013877,
+  "title": "The fraud continues - Craig Wright just purposely stole Bitcons from Kleiman and submitted a provably fake email into evidence in the Kleiman-Wright case",
+  "created_utc": 1638023445,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Craig Wright&#39;s fraud continues. Yesterday, he <a href=\"https://youtu.be/SJpj0zj35zQ\">submitted into evidence</a> an email he says was from Dave Kleiman to Uyen Nguyen asking her to be a director of his &#39;bitcoin company&#39; in <strong>late 2012</strong>.</p>\n\n<p>It is provably fake.</p>\n\n<p><strong>Craig didn&#39;t realize that the email&#39;s PGP signature includes a signing timestamp along with the ID of the key used as metadata.</strong> Was the email actually sent <strong>in 2012</strong>? Let&#39;s find out!</p>\n\n<p>The beginning of the signature is as follows: iQEcBAEBAgAGBQJTH+uQAAoJELiFsXrEW+0bCacH/3K</p>\n\n<p>Converted to hex, it&#39;s: 89 01 1c 04 01 01 02 00 06 05 02 <em>53 1f eb 90</em> 00 0a 09 10 <strong>b8 85 b1 7a c4 5b ed 1b</strong> 09 a7 07 ff 72</p>\n\n<p>We <a href=\"https://tools.ietf.org/html/rfc4880\">know</a> how to find the long ID of the key used and the timestamp of the signature. I&#39;ve bolded the ID and italicized the timestamp. Looking on the MIT keyserver, we can <a href=\"https://i.imgur.com/5ooGihN.png\">find the fake* key</a>. <strong>The timestamp of the signature is 1394600848, which is March 12, 2014, two weeks before Craig filed to install Uyen as a director of Dave&#39;s old company, and almost a year after Dave died!</strong></p>\n\n<p>We can double-check with gpg -vv<br/>\n. Transcribe the email and paste it in. Here&#39;s the output:</p>\n\n<pre><code>:signature packet: algo 1, keyid B885B17AC45BED1B version 4, created 1394600848, md5len 0, sigclass 0x01 digest algo 2, begin of digest 09 a7 hashed subpkt 2 len 4 (sig created 2014-03-12) subpkt 16 len 8 (issuer key ID B885B17AC45BED1B) \n</code></pre>\n\n<p>(I&#39;ll note, as an aside, that Dave apparently spelled his name incorrectly and put a typo in the subject.)</p>\n\n<p>*The fake key has the same pref-hash-algos as Craig&#39;s fake keys, and were never updated.</p>\n</div><!-- SC_ON -->",
+  "score": 202,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?auto=webp&s=17a02228b78032188a9217340269a046e321e38f",
+          "width": 1492,
+          "height": 442
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?width=108&crop=smart&auto=webp&s=c8c2c21a80d095134d6c33343155d59a85559f7f",
+            "width": 108,
+            "height": 31
+          },
+          {
+            "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?width=216&crop=smart&auto=webp&s=c1321c2adecde0a692c7af880d1d87daf6a45dd6",
+            "width": 216,
+            "height": 63
+          },
+          {
+            "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?width=320&crop=smart&auto=webp&s=8b404cd6e4a18c578a57545c819915cbd3de4225",
+            "width": 320,
+            "height": 94
+          },
+          {
+            "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?width=640&crop=smart&auto=webp&s=15d83582cb75d7725c8dbacf3b48fce33cc200c7",
+            "width": 640,
+            "height": 189
+          },
+          {
+            "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?width=960&crop=smart&auto=webp&s=d8437e2db2971590d9e416461e35f77e005c61d2",
+            "width": 960,
+            "height": 284
+          },
+          {
+            "url": "https://external-preview.redd.it/W3FbbBbjUejZwmPNbqmODUWehPXwOPEd0V6320PnqYE.png?width=1080&crop=smart&auto=webp&s=80fb79cc130a127800ebbbebba8733f936d89330",
+            "width": 1080,
+            "height": 319
+          }
+        ],
+        "variants": {},
+        "id": "u6W_jbRpWV2G0ZIu0Ems-CaKFFGFbF_qNbtpF8Jjd84"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/r3c20h/the_fraud_continues_craig_wright_just_purposely/",
+  "subreddit": "Bitcoin",
+  "id": "r3c20h",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Craig Wright's fraud continues. Yesterday, he submitted into evidence\n[https://youtu.be/SJpj0zj35zQ] an email he says was from Dave Kleiman to Uyen\nNguyen asking her to be a director of his 'bitcoin company' in late 2012.\n\nIt is provably fake.\n\nCraig didn't realize that the email's PGP signature…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "クレイグ・ライトの不正行為は続いています。昨日、彼は証拠として\n[https://youtu.be/SJpj0zj35zQ] デイブ・クライマンからウイエン・グエンに宛てたとする電子メールを証拠として提出した。\nNguyenに、2012年後半に自分の「ビットコイン会社」の取締役になってほしいと頼んだとする電子メールを証拠として提出した。\n\nこれは明らかに偽物です。\n\nクレイグは、このメールのPGP署名が...",
+      "title": "Craig Wright氏は、Kleiman氏からBitconsを故意に盗み、Kleiman-Wright事件の証拠として、明らかに偽の電子メールを提出しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "克雷格-赖特的欺诈行为仍在继续。昨天，他提交了作为证据的\n[https://youtu.be/SJpj0zj35zQ]一封他说是Dave Kleiman发给Uyen\nNguyen，要求她在2012年底成为他的'比特币公司'的董事。\n\n这可以证明是假的。\n\n克雷格没有意识到，这封邮件的PGP签名...",
+      "title": "欺诈仍在继续--克雷格-赖特刚刚故意从克莱曼那里偷取了比特币，并在克莱曼-赖特案中提交了一封可证明的假电子邮件作为证据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "克雷格-賴特的欺詐行爲仍在繼續。昨天，他提交了作爲證據的\n[https://youtu.be/SJpj0zj35zQ]一封他說是Dave Kleiman發給Uyen\nNguyen，要求她在2012年底成爲他的'比特幣公司'的董事。\n\n這可以證明是假的。\n\n克雷格沒有意識到，這封郵件的PGP簽名...",
+      "title": "欺詐仍在繼續--克雷格-賴特剛剛故意從克萊曼那裏偷取了比特幣，並在克萊曼-賴特案中提交了一封可證明的假電子郵件作爲證據。"
+    }
+  ]
+}

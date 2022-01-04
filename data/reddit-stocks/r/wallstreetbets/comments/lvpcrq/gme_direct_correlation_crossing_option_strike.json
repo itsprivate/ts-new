@@ -1,0 +1,64 @@
+{
+  "author": "afreshstart20",
+  "the_new_excerpt": "We can all agree that most technicals are out the window. Track your MA's and\nMACD all you want, but unless you're day trading that ain't doing shit to tell\nthis story right now. Today I've seen a whole new wave of people dropping pure\nmisinformation and demonstrating an overall lack of…",
+  "original_created_utc": 1614645079,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们都同意，大多数技术性的东西都被淘汰了。追踪你的MA和\nMACD是你想要的，但除非你是日内交易，否则什么都不用说了\n这个故事现在。今天，我已经看到了一个全新的浪潮，人们滴纯粹的\n误导，并显示出整体缺乏... ...",
+      "title": "GME直接相关。交叉期权行使价与即时跟进量的关系"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們都同意，大多數技術性的東西都被淘汰了。追蹤你的MA和\nMACD是你想要的，但除非你是日內交易，否則什麼都不用說了\n這個故事現在。今天，我已經看到了一個全新的浪潮，人們滴純粹的\n誤導，並顯示出整體缺乏... ...",
+      "title": "GME直接相關。交叉期權行使價與即時跟進量的關係"
+    }
+  ],
+  "title": "GME Direct Correlation: Crossing Option Strike Price and Immediate followup volume",
+  "created_utc": 1614690383,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>We can all agree that most technicals are out the window. Track your MA&#39;s and MACD all you want, but unless you&#39;re day trading that ain&#39;t doing shit to tell this story right now. Today I&#39;ve seen a whole new wave of people dropping pure misinformation and demonstrating an overall lack of understanding in the most basic of trading knowledge (people excited that calls expired ITM on a Monday... I&#39;m looking at you). Instead of shunning these people away or. making them feel dumb, I wanted to take an abstract look at how this general idea could actually be a positive indicator.</p>\n\n<p>I don&#39;t know shit about finance or anything along those lines, but I like looking at numbers. If you like numbers, this is for you. If you&#39;re looking for advice... I have none to offer at all.</p>\n\n<p>So anyway... most people are in general agreement that the spike last week has covered by MM delta hedging. The price movement started right when the price hit $55:</p>\n\n<p><a href=\"https://preview.redd.it/pnhp2zkjeik61.png?width=835&amp;format=png&amp;auto=webp&amp;s=b1308265360d3f9fea21087dd6c04df4e4f12fe7\">https://preview.redd.it/pnhp2zkjeik61.png?width=835&amp;format=png&amp;auto=webp&amp;s=b1308265360d3f9fea21087dd6c04df4e4f12fe7</a></p>\n\n<p>Looking at the options chain last week (keep in mind, these numbers were taken right before close and will exclude any contracts exercised prior), there were a total of 18,610 contracts ITM at $55, or 1,861,000 shares. The volume in the proceeding 5 minutes jumped to over 4,000,000 shares.</p>\n\n<p>The movement that lead up to closing saw the price touch $90. Looking at the open interest of contracts with strikes of $56 to $90, we have an additional 22,148 contract ITM (2,214,800 shares). The next candle following this trigger jumped to a volume of 18,000,000. Looking at the chart, this pattern continues with a larger-than-normal spike following each new milestone/strike price (until Friday, that is). Although a good portion of the volume was renewed hype and FOMO (with some institutional assistance al a Bruce&#39;s thesis), this is a steady pattern that indicates hedging of some degree on Wednesday and Thursday.</p>\n\n<p>Now the fun part you smooth brains have been waiting for. Today, we saw similar action at $120 - once it held on the candle for a moment, there was an immediate spike to &gt;2m in volume. At $120, there are 29,960 contracts ITM (2.9m shares).</p>\n\n<p>Looking at the data from last week and this week, we see that those spikes correlate directly to the number of ITM contracts, using 2/24 as an example:</p>\n\n<p><a href=\"https://preview.redd.it/47fops6seik61.png?width=670&amp;format=png&amp;auto=webp&amp;s=99e443a21e5f186dc6b2bc30e63d98b6e83ccd04\">https://preview.redd.it/47fops6seik61.png?width=670&amp;format=png&amp;auto=webp&amp;s=99e443a21e5f186dc6b2bc30e63d98b6e83ccd04</a></p>\n\n<p>I&#39;ll admit, this is very speculative. Although it is data driven, the sample size is too small and my patience is too thin. But using these jumps as a point of reference... we may know where to expect algo driven volume...</p>\n\n<p>To recap real quick, with today&#39;s close at $120 there are 29,960 weekly contracts ITM. You&#39;ll notice these spikes correlated with 3000+ jumps in ITM open interest, meaning we&#39;d see a spike if we cross $125 heading to $130... <strong>OH. WAIT. THAT IS EXACTLY WHAT HAPPENED TODAY.</strong></p>\n\n<p>Crossing this strike price directly corresponds with the jump in volume from 680k to 2.8m (again)</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/cspssj72fik61.png?width=613&amp;format=png&amp;auto=webp&amp;s=8d1be76bb8607d752917c8ae8ec9129ce11cd461\">https://preview.redd.it/cspssj72fik61.png?width=613&amp;format=png&amp;auto=webp&amp;s=8d1be76bb8607d752917c8ae8ec9129ce11cd461</a></p>\n\n<p><a href=\"https://preview.redd.it/b5t30f9yeik61.png?width=534&amp;format=png&amp;auto=webp&amp;s=fd3ddd5af45d46eb565b32f6f0f8bfa20a67214e\">https://preview.redd.it/b5t30f9yeik61.png?width=534&amp;format=png&amp;auto=webp&amp;s=fd3ddd5af45d46eb565b32f6f0f8bfa20a67214e</a></p>\n\n<p><strong>This means the next algo-driven hedging will happen on a small scale from $135-$145</strong> (where there are an addition ~2000 contracts)... however, <strong>THIS WILL PUSH IT TO $150</strong>. At $150, there are another 4,000 contracts that would be ITM. Using the very smooth brained math from our table above, this would give us a 150-200% boost in volume as the $150&#39;s are hedged. Keep in mind, we&#39;ll already be at higher volume from the $140 run, so that moment will be something to behold.</p>\n\n<p><strong>TL;DR</strong> MY THEORY: Organically reaching new ITM strikes causes algo based hedging and an immediate spike in volume proportionate to the number of new ITM calls. Also, the domino theory is correct - based on hedging volume surrounding additional ITM options, breaking $140 should propel it to $150 which will be like dropping a match in a puddle of rocket fuel.</p>\n\n<p>This isn&#39;t actual DD. Just my ADHD medication making me sexually attracted to numbers, and it helps when people watch.</p>\n\n<p>Edit- spelling</p>\n\n<p>ETA - I think this reflects a change in strategy overall. While this could still overlap with what some call a gamma squeeze (t+2 covering of the previous week’s ITM calls), I think they are hedging up front more aggressively... giving us Delta Squeezes instead.</p>\n</div><!-- SC_ON -->",
+  "score": 2797,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/gZljn3e-CS_TQEHs-AhWlOV3pCr0AX0DMBjmKLz5low.png?auto=webp&s=94749d1996e5b3adff4fcb6b01157467c6aaa3c1",
+          "width": 835,
+          "height": 514
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/gZljn3e-CS_TQEHs-AhWlOV3pCr0AX0DMBjmKLz5low.png?width=108&crop=smart&auto=webp&s=cf8dc9f4fbfd296bc190ec87194739bc16e22de4",
+            "width": 108,
+            "height": 66
+          },
+          {
+            "url": "https://external-preview.redd.it/gZljn3e-CS_TQEHs-AhWlOV3pCr0AX0DMBjmKLz5low.png?width=216&crop=smart&auto=webp&s=d5acf4ebbbea183d90992841c898cd69ae3a5bbe",
+            "width": 216,
+            "height": 132
+          },
+          {
+            "url": "https://external-preview.redd.it/gZljn3e-CS_TQEHs-AhWlOV3pCr0AX0DMBjmKLz5low.png?width=320&crop=smart&auto=webp&s=ce7abf68e03c7934fe2f90d455f12eda3f92f770",
+            "width": 320,
+            "height": 196
+          },
+          {
+            "url": "https://external-preview.redd.it/gZljn3e-CS_TQEHs-AhWlOV3pCr0AX0DMBjmKLz5low.png?width=640&crop=smart&auto=webp&s=436f05353f7b6eaadd45194c24a4c1ae9b2c52d0",
+            "width": 640,
+            "height": 393
+          }
+        ],
+        "variants": {},
+        "id": "vPV-DooyT5thAoR7OJHK1-WDGA3CErPtXq-mVY-Z7go"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/wallstreetbets/comments/lvpcrq/gme_direct_correlation_crossing_option_strike/",
+  "subreddit": "wallstreetbets",
+  "id": "lvpcrq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614937755503
+}

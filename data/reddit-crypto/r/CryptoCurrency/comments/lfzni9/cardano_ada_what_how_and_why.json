@@ -1,0 +1,74 @@
+{
+  "author": "mrkez",
+  "the_new_excerpt": "Since a lot of people asked for a more deeply and easy explanation about Cardano\nand what it has to offer in my last post, I’ve tried to explain each point from\nan easier point of view. Also, I’m not trying to shill Cardano, but IMO it’s one\nof the best projects to invest in. This research was…",
+  "original_created_utc": 1612865995,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "由于很多人要求对卡达诺进行更深入、更简单的解释。\n以及它所提供的服务，在我的上一篇文章中，我已经尝试着解释了每一个点，从\n一个简单的观点。另外，我并不是想推销卡达诺，但我认为它是一个。\n的最佳投资项目。此次调研是...",
+      "title": "卡达诺（ADA）--是什么、如何和为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "由於很多人要求對卡達諾進行更深入、更簡單的解釋。\n以及它所提供的服務，在我的上一篇文章中，我已經嘗試着解釋了每一個點，從\n一個簡單的觀點。另外，我並不是想推銷卡達諾，但我認爲它是一個。\n的最佳投資項目。此次調研是...",
+      "title": "卡達諾（ADA）--是什麼、如何和爲什麼？"
+    }
+  ],
+  "title": "Cardano (ADA) - What, How and Why?",
+  "created_utc": 1612881658,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Since a lot of people asked for a more deeply and easy explanation about Cardano and what it has to offer in my last post, I’ve tried to explain each point from an easier point of view. Also, I’m not trying to shill Cardano, but IMO it’s one of the best projects to invest in. This research was possible not only thanks to me, but also to other users who constantly try to show the benefits of Cardano while explaining it in a way almost everyone can understand.</p>\n\n<p>I can do this for other projects (ETH, DOT, however I think you don’t need to understand what ETH is capable of, I might do something along the way about the 2.0 rollout), if you are interested in that, just comment below.</p>\n\n<p>I hope this is seen as a contribution to the community, especially for new members since we’ve been having an superb influx. I want to promote debates and discussions and I will always focus on it, so I hope I’m doing this the right way.</p>\n\n<p>&#x200B;</p>\n\n<p>For those that don&#39;t know the project, here&#39;s what Cardano offers:</p>\n\n<p>Most decentralized and secure, Blockchain to date once D=0 in March 2021.</p>\n\n<p>It is already one of the most active chains. <a href=\"https://messari.io/screener/most-active-chains-DB01F96B\">Check the transaction volume 24h and its fees</a>, you can compare the transaction volume and fees with ETH and BTC’s fees to have an idea.</p>\n\n<p>You can check its roadmap <a href=\"https://roadmap.cardano.org/en/\">here</a>.</p>\n\n<p>Fast, robust, built to scale, on-chain democracy through voting, open to all - In a Proof of Stake system, users &quot;vote&quot; for a block solution. The power of this vote is proportional to how much cryptocurrency they stake.</p>\n\n<p>Under PoS, a person who owns 10 coins has 10 times more &quot;voting power&quot; than someone who owns a single coin. If the person holding 10 coins votes that block A is correct, while the minority coin holder votes on block B, block A will be chosen as the new blockchain tip.</p>\n\n<p>Advanced PoS cryptocurrencies such as Cardano offer an additional possibility: users can delegate their voting power to other users. It&#39;s like forming a &quot;political action group&quot; during elections. A single user may not have much power, but they gather in groups in order to influence the elections.</p>\n\n<p>The best network stack, meta-data implementation in the industry. Extended-EUTXO, fantastic UI/user experience through fullnode/lightnode wallets, cold staking through your own wallets. The UTXO model is a core pillar of the open accounting system that Cardano is based on. While understanding the model is non-intuitive at first, it is helpful to think of a metaphor to get a better grasp of how UTXO works. In this case, the thought of a tree with many branches growing from the previous branch is a helpful thought. Through this UTXO method, it is very easy to keep track of ownership of funds. While Bitcoin invented UTXO’s use in a blockchain setting, Cardano is building and evolving on this model by incorporating smart contracts into UTXO, while also offering scalability, sustainability, and interoperability with other legacy systems and blockchains. This creates powerful, decentralized ways to securely model financial contracts and send money in an open and distributed blockchain like Cardano.</p>\n\n<p>Hard Fork Combinator, seamless upgrades/hardforks. A combinator is a technical term used to indicate the combination of certain processes or things. In the case of Cardano, a hard fork combinator combines protocols, thereby enabling the Byron-to-Shelley transition without system interruption or restart. It ensures that Byron and Shelley ledgers appear as one ledger. Shifting from BFT to Ouroboros does not require all nodes to update simultaneously. Instead, nodes can update gradually, in fact, some can run Byron blocks, others - Shelley blocks.</p>\n\n<p>The hard fork combinator is designed to enable the combination of several protocols, without having to make significant adjustments. The current Cardano chain combines Byron and Shelley blocks, and after future transitions, it will also combine Goguen, Basho, and Voltaire blocks - all as a single property. This combinator facilitates the transition from Shelley to Goguen and beyond by simplifying the previous Byron-to-Shelley evolution.</p>\n\n<p>Cross chain and cross code communication for interoperability with little to no cons.</p>\n\n<p>NATIVE Assets + ERC20 Bridge converter. Actually done right, nothing like simple “wrapped assets”.</p>\n\n<p>Native-Assets capable of benefiting from the EUTXO, integration with projects treated as first class citizens, capable of using all of the tools built on ADA without custom integration/smart-contracts.</p>\n\n<p>Fantastic well thought out strategic partnerships, with the goal of providing decentralized finance to those who need it the most. (<a href=\"https://cryptoslate.com/iohk-on-the-brink-of-securing-a-massive-cardano-government-contract-in-africa/\">Africa - Ethiopia deal</a>).</p>\n\n<p>Verifiable <a href=\"https://www.youtube.com/watch?v=fGGV4fzV2Z8\">KEVM Solidity contracts</a>. (It will do everything Ethereum does better, literally, more secure smart-contracts through K, without miners/fees, fast transactions.)</p>\n\n<p>Mantis framework, smart-contract deployment without code.</p>\n\n<p>Supply-chain tracking (Beef-chain).</p>\n\n<p>For verifiable products, tracking and authenticity validation on-chain.</p>\n\n<p>It’s own smart-contract language next to KEVM.</p>\n\n<p>Plutus smart-contract language, in development for years by the same people who created “Haskel” used by Entrepreneurs and Banking systems over the world, as well as Java and Go.</p>\n\n<p>Plutus cross language supporta, multiple smart contract languages, anything can be added as a supported language thanks to the Mantis Framework. IELE think: (Java, lua, rust, C++, C# ..)</p>\n\n<p>Built to run Lightning/Hydra from the base layers/foundation.</p>\n\n<p>Ada’s <a href=\"https://cardanians-io.medium.com/hydra-cardano-scalability-solution-36b05ddc91cf\">hydrascaling</a> is unlimited tps. Goes up by 1k with each pool. So at current pool count ada will scale to over 1.4 million tps up to n. Even the base layer right now is 10X faster than eth.</p>\n\n<p><a href=\"https://cryptoslate.com/how-iohk-will-put-developers-in-charge-of-oracles-on-cardano/\">Multi oracle</a> solution. Developers have no shortage of choices and it will allow any additional oracle providers to integrate.</p>\n\n<p><a href=\"https://iohk.io/en/research/library/papers/soniczero-knowledge-snarks-from-linear-size-universal-and-updateable-structured-reference-strings/\">Sonic, snarks</a> in the near future as well.</p>\n\n<p>Community voting for funding projects from the built in treasury, as incentives for developers to pitch their idea to the community before receiving funding.</p>\n\n<p>(Already happening, over 100 million dollars in the Cardano Treasury and growing every Epoch.)</p>\n\n<p>Decentralized reusable identity, provided through use of verifiable entities.</p>\n\n<p>153000+ User delegates</p>\n\n<p>Decentralization incentives, stable roi without required hardware or electricity, no lockup.</p>\n\n<p>Decentralized voting through the built in wallets, that provides rewards as an incentive to participate and use your voting rights - Delegating stake pays out rewards in ada, but the actual amount you receive will change depending on several factors.</p>\n\n<p>For example, delegating to a pool which has a relatively small amount of ada staked to it—or where the pool operator has set a mediocre rewards percentage—is likely to result in fewer rewards over time.</p>\n\n<p>1450+ Nodes/Validators/Pools - In order to vote for every single block that&#39;s created, users would need to keep their wallets (full nodes) online 24x7.The Cardano system wouldn&#39;t be able to wait for users to decide to turn on their PC&#39;s at random times.</p>\n\n<p>Imagine the entire ADA network locking up, waiting for Johnny to get home to restart his ADSL modem somewhere across the world just so he could verify a block! It just wouldn&#39;t work.</p>\n\n<p>To solve this problem, PoS gets one more letter as a prefix : D. DPoS stands for Delegated Proof of Stake and, as the name suggests, it means users can delegate their votes to someone else. Say Johnny has 1 million ADA coins just sitting on his wallet. These coins have vote power in Cardano network decisions, but as we know Johnny is terrible at keeping his computer running. So he delegates his 1 million ADA to a staking <em>pool</em>. The staking pool is a well-administered, secure and high speed Cardano full node which runs 24x7, 365 days a year. A Cardano staking pool is still just a regular full node though!</p>\n\n<p>71.6% Supply delegated.<br/>\n100% decentralization is expected to be achieved in March 2021.</p>\n\n<p>Built on solid foundations by some of the best people in the industry, who have been working/planning this for over half a decade.</p>\n\n<p>Incredibly strong and passionate community, mature, focused on providing the best/the most secure tech in a user-friendly way, that is both fair and provides long term sustainability.  </p>\n\n<p>edit: grammar errors</p>\n</div><!-- SC_ON -->",
+  "score": 206,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?auto=webp&s=50ab115b5da3bbbd224a6ef0864e28f7512f89d8",
+          "width": 1440,
+          "height": 718
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?width=108&crop=smart&auto=webp&s=5ae6089b739e88df88d264a376ff26e7e8a534df",
+            "width": 108,
+            "height": 53
+          },
+          {
+            "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?width=216&crop=smart&auto=webp&s=f09ecc094c6daf217a4308d4b15ad979fa29383a",
+            "width": 216,
+            "height": 107
+          },
+          {
+            "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?width=320&crop=smart&auto=webp&s=c9eab2f726859511b727d65c9897c34b2f12ddbe",
+            "width": 320,
+            "height": 159
+          },
+          {
+            "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?width=640&crop=smart&auto=webp&s=1c871d3fad608d2db6a631e99570ba315af2a0ce",
+            "width": 640,
+            "height": 319
+          },
+          {
+            "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?width=960&crop=smart&auto=webp&s=3fa68ade572aea0f7641083a0f9227c1ada94a5a",
+            "width": 960,
+            "height": 478
+          },
+          {
+            "url": "https://external-preview.redd.it/VcKoooToYnJxuIhTK1j3KlBv4y1G3PuNk6JYtcqkPAY.jpg?width=1080&crop=smart&auto=webp&s=9448d316875379d0de38dedc85a21256a256d1b7",
+            "width": 1080,
+            "height": 538
+          }
+        ],
+        "variants": {},
+        "id": "M8QfQn6DHJDEkwVrYxOvNsZo7gX0ONqp2xYTSV7EFRE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/lfzni9/cardano_ada_what_how_and_why/",
+  "subreddit": "CryptoCurrency",
+  "id": "lfzni9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613123197350
+}

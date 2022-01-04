@@ -1,0 +1,81 @@
+{
+  "created_at": "Fri Jan 08 13:57:7 +0000 2021",
+  "id_str": "1347525554208206850",
+  "full_text": "Bitcoin $41,000. Running out of room in this table. $BTC https://t.co/TVsx5ahhad",
+  "display_text_range": [
+    0,
+    56
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "BTC",
+        "indices": [
+          52,
+          56
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1347525481042731000,
+        "id_str": "1347525481042731008",
+        "indices": [
+          57,
+          80
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErNfSRdW4AAYwZH.png",
+        "media_url_https": "https://pbs.twimg.com/media/ErNfSRdW4AAYwZH.png",
+        "url": "https://t.co/TVsx5ahhad",
+        "display_url": "pic.twitter.com/TVsx5ahhad",
+        "expanded_url": "https://twitter.com/charliebilello/status/1347525554208206850/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 421,
+            "h": 950,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 301,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 421,
+            "h": 950,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 96,
+  "favorite_count": 430,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jan 08 12:48:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "比特币4.1万美元。这张桌子的空间快用完了。https://t.co/TVsx5ahhad TC巴恩斯"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣4.1萬美元。這張桌子的空間快用完了。https://t.co/TVsx5ahhad TC巴恩斯"
+    }
+  ],
+  "source_updated_at": 1610706389007
+}

@@ -1,0 +1,33 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "I had an amazing time working on this project, and some redditors have been so\nengaged with it that they we have now established a developer community and to\nkeep improving the algorithm.\n\nThe algorithm analyses all the coins on Binance and tries to pick out the ones\nwith the highest probability of…",
+  "original_created_utc": 1621532564,
+  "title": "This is probably the most complex cryptocurrency trading algorithm that I have worked on, and it detects potential moonings accross all Binance coins - oh and it's open source",
+  "created_utc": 1621549896,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I had an amazing time working on this project, and some redditors have been so engaged with it that they we have now established a developer community and to keep improving the algorithm.</p>\n\n<p>The algorithm analyses all the coins on Binance and tries to pick out the ones with the highest probability of a strong bullish movement. This is done by taking into account the price difference. If the price of a coin has surged in the past few minutes, the bot will take this as a buying signal. This is based on riding the trend strategies.</p>\n\n<p>&#x200B;</p>\n\n<p>The algorithm has a many configuration options such as:</p>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>The ability to select what to pair your coins to (by default USDT)</li>\n<li>Amount to spend on each trade</li>\n<li>Maximum number of coins that can be hold by the bot</li>\n<li>How much does a coin need to gain (in %) before the bot buys</li>\n<li>Stop Loss / Take Profit </li>\n<li>Trailing Stop loss</li>\n<li>Simulated live trading and more features to come</li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p>It&#39;s essentially a tool that you can customise as much as you want, but it also comes with a pre-defined strategy. </p>\n\n<p>&#x200B;</p>\n\n<p>Anyway, here&#39;s the source code if you&#39;re comfortable with Python:</p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot\">https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot</a></p>\n\n<p>&#x200B;</p>\n\n<p>And if you need a step-by step guide on how to install and configure the bot, you can use this: </p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/\">https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/</a></p>\n</div><!-- SC_ON -->",
+  "score": 711,
+  "permalink": "/r/CryptoCurrency/comments/nh6kty/this_is_probably_the_most_complex_cryptocurrency/",
+  "subreddit": "CryptoCurrency",
+  "id": "nh6kty",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1622197381658,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はこのプロジェクトに取り組むのに素晴らしい時間を過ごしました。\nこの度、開発者コミュニティを立ち上げることができました。\nアルゴリズムの改良を続けています。\n\nこのアルゴリズムは、Binanceにあるすべてのコインを分析し、その中から最も優れたコインを選び出そうとするものです。\nの確率が最も高い。",
+      "title": "これはおそらく私が手がけた中で最も複雑な暗号通貨取引アルゴリズムで、Binanceの全コインにわたって潜在的なムーニングを検出します - そしてオープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在这个项目上度过了一段美妙的时光，一些红客对这个项目的参与度很高，他们现在已经建立了一个开发者社区。\n我们现在已经建立了一个开发者社区，并将继续改进算法。\n不断改进算法。\n\n该算法分析了Binance上的所有硬币，试图挑选出那些\n具有最高概率的硬币。",
+      "title": "这可能是我所研究的最复杂的加密货币交易算法，它在所有Binance币中检测潜在的月光--哦，它是开源的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在這個項目上度過了一段美妙的時光，一些紅客對這個項目的參與度很高，他們現在已經建立了一個開發者社區。\n我們現在已經建立了一個開發者社區，並將繼續改進算法。\n不斷改進算法。\n\n該算法分析了Binance上的所有硬幣，試圖挑選出那些\n具有最高概率的硬幣。",
+      "title": "這可能是我所研究的最複雜的加密貨幣交易算法，它在所有Binance幣中檢測潛在的月光--哦，它是開源的。"
+    }
+  ]
+}

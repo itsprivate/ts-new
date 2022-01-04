@@ -1,0 +1,146 @@
+{
+  "created_at": "Mon Oct 04 18:47:49 +0000 2021",
+  "id_str": "1445086386592358409",
+  "full_text": "RT @jack: how much?",
+  "display_text_range": [
+    0,
+    19
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack⚡️",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 20632,
+  "favorite_count": 0,
+  "original_created_at": "Mon Oct 04 18:00:17 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Mon Oct 04 17:34:42 +0000 2021",
+    "id_str": "1445079948432117778",
+    "full_text": "how much? https://t.co/fH0zXw7rV9",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fH0zXw7rV9",
+          "expanded_url": "https://twitter.com/chadloder/status/1445072650720591875",
+          "display_url": "twitter.com/chadloder/stat…",
+          "indices": [
+            10,
+            33
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "jack⚡️",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 11044,
+    "favorite_count": 39931,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Mon Oct 04 17:05:42 +0000 2021",
+      "id_str": "1445072650720591875",
+      "full_text": "Someone nuked the DNS A and AAA records for Facebook, Instagram, and WhatsApp 🤭 https://t.co/8TaU2eR1mm",
+      "display_text_range": [
+        0,
+        79
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1445072648166277000,
+            "id_str": "1445072648166277130",
+            "indices": [
+              80,
+              103
+            ],
+            "media_url": "http://pbs.twimg.com/media/FA3t6syVgAo40X8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FA3t6syVgAo40X8.jpg",
+            "url": "https://t.co/8TaU2eR1mm",
+            "display_url": "pic.twitter.com/8TaU2eR1mm",
+            "expanded_url": "https://twitter.com/chadloder/status/1445072650720591875/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 720,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "user": {
+        "name": "@jack lets nazis target my family",
+        "screen_name": "chadloder",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1390734860449288193/GK2lltlb_normal.jpg"
+      },
+      "retweet_count": 9450,
+      "favorite_count": 25261,
+      "possibly_sensitive": false
+    }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: どれくらい？",
+      "retweeted_status_full_text": "How much? https://t.co/fH0zXw7rV9"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 多少钱？",
+      "retweeted_status_full_text": "多少钱？https://t.co/fH0zXw7rV9"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 多少錢？",
+      "retweeted_status_full_text": "多少錢？https://t.co/fH0zXw7rV9"
+    }
+  ],
+  "source_updated_at": 1633686000094
+}

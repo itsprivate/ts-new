@@ -1,0 +1,32 @@
+{
+  "author": "phoosball",
+  "original_created_utc": 1631089183,
+  "title": "Why Solana Metrics are Disingenuous",
+  "created_utc": 1631118831,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Solana prominently features its supposed high transaction volume, low block time, and low transaction costs on its website and has aggressively marketed on that basis. Unfortunately, none of the metrics hold up to scrutiny.</p>\n\n<ul>\n<li><p>First, consensus voting is included in the transaction count (I don&#39;t think anyone else does this) and comprises the majority of all transactions on the network.</p></li>\n<li><p>Second, it&#39;s true that Solana’s block time is fast, but this is very different from transaction finality. It usually takes several blocks before the transaction is included in a block and committed to consensus state.</p></li>\n<li><p>The cornerstone technical innovation of Solana, Proof of History, addresses a problem that other DLTs don&#39;t even have to begin with. Namely, blocks must be produced serially, so Proof of History introduces a verifiable delay to synchronize the timing of block production.</p></li>\n<li><p>Solana makes a further security tradeoff in order to achieve low latency. Not only does it have a leader, but the leader is also known in advance! This makes it uniquely susceptible to denial of service.</p></li>\n<li><p>Finally, the low transaction fee advertised by Solana is a gimmick. It doesn&#39;t cover the real cost of operating the network and must be subsidized by inflationary staking rewards.</p></li>\n</ul>\n\n<p>I should also mention that blockchains are leader-based networks. The leader (block producer) gets to decide which transactions are included and in what order. This lack of fairness is a huge problem for decentralized exchanges, which is Solana&#39;s target market and biggest use case.</p>\n</div><!-- SC_ON -->",
+  "score": 194,
+  "permalink": "/r/CryptoCurrency/comments/pk6cg5/why_solana_metrics_are_disingenuous/",
+  "subreddit": "CryptoCurrency",
+  "id": "pk6cg5",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Solana prominently features its supposed high transaction volume, low block\ntime, and low transaction costs on its website and has aggressively marketed on\nthat basis. Unfortunately, none of the metrics hold up to scrutiny.\n\n * First, consensus voting is included in the transaction count (I don't…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ソラナは、高トランザクション量、低ブロック数を特徴としています。\n取引量の多さ、ブロックタイムの短さ、取引コストの低さをウェブサイトで強調し、積極的に宣伝してきました。\n積極的に販売してきました。残念ながら、どの指標も精査に耐えうるものではありません。\n\n * まず、コンセンサス投票は取引数に含まれています（私は...）。",
+      "title": "ソラナの指標はなぜ無意味なのか"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Solana在其网站上突出宣传其所谓的高交易量、低区块时间和低交易成本。\n块时间和低交易成本，并在此基础上进行了积极的营销。\n并在此基础上进行了积极的营销。不幸的是，这些指标都经不起推敲。\n\n * 首先，共识投票被包括在交易计数中（我不...",
+      "title": "为什么索拉纳指标是虚伪的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Solana在其網站上突出宣傳其所謂的高交易量、低區塊時間和低交易成本。\n塊時間和低交易成本，並在此基礎上進行了積極的營銷。\n並在此基礎上進行了積極的營銷。不幸的是，這些指標都經不起推敲。\n\n * 首先，共識投票被包括在交易計數中（我不...",
+      "title": "爲什麼索拉納指標是虛僞的？"
+    }
+  ]
+}

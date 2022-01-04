@@ -1,0 +1,78 @@
+{
+  "author": "halzen627",
+  "original_created_utc": 1631160533,
+  "title": "Rocket Pool mainnet launch date announced for October 6th! An overview of the Rocket Pool protocol and the importance of decentralised staking pools in maintaining the health, security, and decentralisation of Ethereum.",
+  "created_utc": 1631202190,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>TLDR;</h1>\n\n<p>Rocket Pool has just announced it’s mainnet launch date for October 6th! Permissionless, fully decentralised, and non-custodial liquid staking will be possible on Ethereum with as little as 0.01 ETH. Rocket Pool allows for a large network of node operators around the world, with no single centralised points of failure. Stakers and node operators maintain custody of their funds, and withdrawals are smart contract enforced, so there is no need to trust a third party with your ETH or the withdrawal keys.</p>\n\n<p>We have seen there is enormous demand for staking pools that allow you to stake with less than 32 ETH. A decentralised staking pool like Rocket Pool is integral to the health, decentralisation, and security of the overall network, because without this option, we will likely see continued concentration of staked ETH on centralised competitors. Whilst it is extremely important in its contribution to the ongoing decentralisation of Ethereum, it should also be noted that Rocket Pool is designed to allow stakers and node operators to maximise their returns, allowing for greater opportunities and staking yields.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/mz1fgffr4em71.png?width=1262&amp;format=png&amp;auto=webp&amp;s=d8c7943fcedd553f960150872d5db6051016ca2e\">https://preview.redd.it/mz1fgffr4em71.png?width=1262&amp;format=png&amp;auto=webp&amp;s=d8c7943fcedd553f960150872d5db6051016ca2e</a></p>\n\n<h1>Who can stake ETH using Rocket Pool?</h1>\n\n<p>In Rocket Pool, there are two types of users.</p>\n\n<p>- “Stakers” are able to stake any amount, with as little as 0.01 ETH. In a super simple 1-click process, with the ability to keep funds on your hardware (or any other) wallet the entire time, they can deposit ETH and receive rETH (staked ETH on Rocket Pool) in return. The value of rETH = ETH + staking rewards. It will become more valuable than ETH over time, as staking rewards accrue.</p>\n\n<p>- “Node operators” with at least 16 ETH, and 1.6 ETH worth of RPL as insurance collateral, plus the appropriate hardware and technical knowledge, can run a node on the Rocket Pool network (I will note that although there is a learning curve to becoming a node operator, Rocket Pool simplifies this process in comparison to solo staking, and you can practice on the Prater testnet before committing to this responsibility on mainnet). Node operators perform all the same duties as a normal 32 ETH staking validator on Ethereum, with the difference being that in Rocket Pool, it will be made up of 16 ETH of their own personal funds, matched with 16 ETH from the rETH staking pool, before being staked on Ethereum.</p>\n\n<p>&#x200B;</p>\n\n<h1>What does this mean and why should I care?</h1>\n\n<p>It is the first permissionless, fully decentralised, open source, and non-custodial, liquid staking pool on Ethereum. That&#39;s a lot of buzz words! They are important though. These principles are fundamental to maintaining the ethos and security of Ethereum itself, the health of the Ethereum network, and to protect stakers from the inherent risks of centralisation. There are other staking options available on centralised exchanges and liquid staking providers, however, these are not permissionless and decentralised. For those who are profit maximalists, it will also be possible to earn higher returns in Rocket Pool.</p>\n\n<p>&#x200B;</p>\n\n<p><em>“Permissionless” and “fully decentralised”</em></p>\n\n<p>- In the Rocket Pool network, <strong>anybody with the required amount of ETH and RPL can be a node operator</strong>, the Rocket Pool team doesn’t choose or give permission to a select few operators, which allows for a large, <em>decentralised</em> network of node operators all around the world. Rocket Pool supports all four ETH2 clients (Lighthouse, Prsym, Nimbus, and Teku), and selection of which client a node operator chooses is random by default, encouraging diversity and decentralisation amongst ETH2 clients. This means <strong>there isn’t a single point of failure</strong> for this network of validators, which mitigates risk for Rocket Pool stakers, and also protects the health and resilience of the Ethereum network.</p>\n\n<p>- By comparison, centralised exchanges are some of the single biggest staking entities on Ethereum, and if they had an intentional or unintentional fault in their centralised systems, it could mean a large portion of validators across the Ethereum network could all go down simultaneously. In this example, it represents a <em>single point of failure</em>. Some centralised exchanges may decentralise their design to some degree, e.g by using multiple staking operators, however the end result still remains heavily centralised.</p>\n\n<p>- Similarly, other liquid staking competitors are also largely centralised in design, with <em>a small set of permissioned node operators</em> that they select to participate in their network. Whilst this is in an improvement vs a centralised exchange, which improves the relative health of the network, it is still essentially centralised and vulnerable in this way. In contrast, Rocket Pool will allow for a large, decentralised network of node operators all over the world.</p>\n\n<p>&#x200B;</p>\n\n<p><em>“Non-custodial”, or “not your keys, not your crypto”</em></p>\n\n<p>- <strong>rETH holders can stake whilst maintaining custody of their own funds</strong> and simply storing rETH on their hardware wallet or other wallet of their choice.</p>\n\n<p>- <strong>Withdrawals by node operators are smart contract enforced</strong>, there is no need for node operators to trust the Rocket Pool team or another third party with their withdrawal keys, and no need for rETH holders to trust the node operators to return their share of ETH back to the network – this process is built into the system.</p>\n\n<p>&#x200B;</p>\n\n<p><em>“Liquid staking”</em></p>\n\n<p>- <strong>&quot;Stakers&quot; holding rETH (staked ETH on Rocket Pool), will not have their ETH locked until withdrawals are enabled following the merge</strong>. It will remain liquid, meaning they will be able to simply swap it back for ETH on the Rocket Pool website or on a decentralised exchange (their rETH will now be redeemable for the original amount of ETH + the accrued ETH staking rewards). The merge, also known as part of ETH 2.0, is when Ethereum will transition from proof-of-work, to a proof-of-stake consensus mechanism. You can read more about this at <a href=\"https://ethmerge.com/\">https://ethmerge.com/</a>.</p>\n\n<p>- For those concerned about gas costs, you should also be able to trade rETH on a decentralised exchange on a layer 2 solution such as Arbitrum or Optimism, where gas costs will be cheap (for more information about current layer 2 adoption as it becomes more established, see <a href=\"https://l2beat.com/\">https://l2beat.com/</a>)</p>\n\n<p>&#x200B;</p>\n\n<p><em>“Higher returns”</em></p>\n\n<p>- Following the merge to proof-of-stake, lucrative priority fees and MEV rewards will go to staking validators rather than miners, which is expected to considerably increase the Ethereum staking APY. <strong>Rocket Pool has designed the protocol to fairly distribute these rewards to both &quot;stakers&quot; holding rETH, and &quot;node operators&quot;</strong>. It remains to be seen how other staking competitors will approach this, and whether they will similarly share this value to stakers on their platforms.</p>\n\n<p>- <strong>&quot;Node operators&quot; will earn a greater ROI staking ETH on a node inside the protocol vs outside of it</strong>, due to earning the staking APY on their own ETH + a commission (approximately 10%) of the staking rewards on the matched 16 ETH that they are staking on behalf of rETH holders + RPL rewards based on the level of RPL insurance collateral they have provided (greater RPL insurance collateralisation = greater RPL rewards, and also more safety and security for the Rocket Pool protocol).</p>\n\n<p>- As mentioned, approximately 10% of the earned staking rewards from rETH holders will go to node operators as a commission for performing all the required staking duties on their behalf. This means <strong>rETH holders keep approximately 90% of the staking rewards. It is much more competitive than other centralised exchange alternatives</strong>, such as Coinbase which takes a fee of 25% of staking rewards (stakers keep 75% of their rewards), and Kraken which takes a fee of 15% of staking rewards (stakers keep 85% of their rewards).</p>\n\n<p>- &quot;Stakers&quot; in Rocket Pool will be able to store their staked ETH, or rETH, in their own wallet. This will allow for a range of opportunities to <strong>earn further yield by utilising rETH in defi protocols</strong> (e.g. by depositing rETH as collateral to take out a loan). rETH has been designed to be compatible in defi protocols. Importantly, the amount of rETH tokens you hold will remain the same over time, it will just increase in value relative to ETH as staking rewards accrue. This is a different design that achieves the same outcome of tracking and accruing rewards. Other liquid staking derivatives use a rebasing model, where rewards slowly drip in to your address over time and the number of staked ETH tokens you hold increases. The rebasing model can be problematic if it is incompatible for use within some defi protocols, as rewards are not easily attributable to the individual user when they are in a smart contract alongside a large pool of funds from various other users.</p>\n\n<p>&#x200B;</p>\n\n<p>This is a huge milestone for Rocket Pool, and a truly important development to maintain the decentralisation and security of the Ethereum network.</p>\n\n<p>&#x200B;</p>\n\n<p>For a comparison of staking services differentiated by characteristics such as custodial vs non-custodial, and centralised vs decentralised, see: <a href=\"https://beaconcha.in/stakingServices\">https://beaconcha.in/stakingServices</a>. For a more detailed explanation of the Rocket Pool protocol, see this series of blog posts from the team: <a href=\"https://medium.com/rocket-pool\">https://medium.com/rocket-pool</a>.</p>\n\n<p>&#x200B;</p>\n\n<p><em>Am I shilling my own bags? I support Rocket Pool and I own some RPL for the reasons discussed above. I believe this protocol is important for the health and decentralisation of Ethereum. I have also made every effort to keep this post accurate and factual, please let me know if there are any errors within it.</em></p>\n</div><!-- SC_ON -->",
+  "score": 153,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?auto=webp&s=b255d7ce75226e768ff13671f655244f58c1aa30",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?width=108&crop=smart&auto=webp&s=227615e423fa7257bca61fd4f5c9295240900184",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?width=216&crop=smart&auto=webp&s=196df3b6f2d8cf96918f8faf99a606e4a5ef2d3c",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?width=320&crop=smart&auto=webp&s=0d8c0c85d053ec7416985d9a29cc516d106f4068",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?width=640&crop=smart&auto=webp&s=bb3a6f492c48a6cb5faab219149e82fe15a58ac6",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?width=960&crop=smart&auto=webp&s=187a688ea53ed5dfb4825db6bb92add9217613ad",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/VlVA7rvg755jz-hbjA35DpMxnZyl9C1uMSV8ZCab1co.jpg?width=1080&crop=smart&auto=webp&s=d4ab9a4af1a8c08eb41593d9095f4621efb4ac24",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "_kQENMn1rJvMKHFBSTW83kqNIpfuYxRE4CIWLAu-Gn8"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pkqdcn/rocket_pool_mainnet_launch_date_announced_for/",
+  "subreddit": "CryptoCurrency",
+  "id": "pkqdcn",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "TLDR;\n\nRocket Pool has just announced it’s mainnet launch date for October 6th!\nPermissionless, fully decentralised, and non-custodial liquid staking will be\npossible on Ethereum with as little as 0.01 ETH. Rocket Pool allows for a large\nnetwork of node operators around the world, with no single…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TLDRです。\n\nRocket Poolはメインネットの立ち上げ日を10月6日と発表しました!\nパーミッションレス、完全分散型、非親告罪のリキッドステーキングがEthereum上でわずかな時間で可能になります。\nイーサリアムで0.01ETHという少額で可能になります。Rocket Poolでは、大規模な\nRocket Poolは、世界中のノードオペレーターの大規模なネットワークを構築し、単一の...",
+      "title": "ロケットプールのメインネットの開始日が10月6日に決定！？Rocket Poolプロトコルの概要と、Ethereumの健全性、安全性、分散性を維持するための分散型ステーキングプールの重要性について。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TLDR;\n\nRocket Pool刚刚宣布了它的主网启动日期为10月6日!\n无权限、完全去中心化和非托管的液体赌注将在以太坊上实现，并将于2012年1月1日开始。\n可以在以太坊上使用低至0.01的ETH。火箭池允许一个大型的\n遍布全球的节点运营商网络，没有单一的节点。",
+      "title": "火箭池主网启动日期宣布为10月6日! 对Rocket Pool协议的概述以及去中心化的赌注池在维护以太坊的健康、安全和去中心化方面的重要性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TLDR;\n\nRocket Pool剛剛宣佈了它的主網啓動日期爲10月6日!\n無權限、完全去中心化和非託管的液體賭注將在以太坊上實現，並將於2012年1月1日開始。\n可以在以太坊上使用低至0.01的ETH。火箭池允許一個大型的\n遍佈全球的節點運營商網絡，沒有單一的節點。",
+      "title": "火箭池主網啓動日期宣佈爲10月6日! 對Rocket Pool協議的概述以及去中心化的賭注池在維護以太坊的健康、安全和去中心化方面的重要性。"
+    }
+  ]
+}

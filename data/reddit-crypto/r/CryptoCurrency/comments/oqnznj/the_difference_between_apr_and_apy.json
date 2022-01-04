@@ -1,0 +1,32 @@
+{
+  "author": "Hsiang7",
+  "original_created_utc": 1627125042,
+  "title": "The difference between APR and APY",
+  "created_utc": 1627141733,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>A lot of people here are staking their crypto, so I assume most of you have encountered these terms before, but a lot of people don&#39;t really understand the difference between the two. As such I thought I would explain the difference as simply as possible.</p>\n\n<p><strong>APR = Annual Percentage Rate</strong></p>\n\n<p>This is the amount you can approximately expect the initial amount of money to get in interest over one year. For example, if you staked $1000 worth of ETH and got an APR of 6%, you would expect to have about $1,060 by the end of the year:</p>\n\n<p>$1000 x (1.06) = $1060 </p>\n\n<p>However, this is assuming that you only get one payment at the end of the year of $60 for a year&#39;s worth of interest, and we all know that by staking crypto, you get payments more often than that. Some get interest payments every week, or even every day. Now let&#39;s assume you receive interest payments daily. The amount of interest you get every day is the APR divided by 365, since there are 365 days in a year. So your daily interest rate is:</p>\n\n<p>6%/365 days = 0.01643836% every day in interest</p>\n\n<p>So after one day, you will have:</p>\n\n<p>$1000 x (1 + 0.06/365) = $1,000.16438</p>\n\n<p>Now, on the second day, it will give you the same 0.01643836% in daily interest, but it won&#39;t use the $1000 you put in initially, it will give you interest based on how much you currently have staked, which is now $1,000.16438 after one day. So after you get your interest payment on the second day, you will have:</p>\n\n<p>$1,000.16438 x (1 + 0.06/365) = $1,000.32879</p>\n\n<p>It will then use the number you have after two days to calculate the interest you will receive for the third day. Notice how every day, the amount of money you have is increasing, and as a result the amount of money you receive in interest increases every day. This is called <em>compound interest</em>, and that&#39;s where APY comes in. </p>\n\n<p><strong>APY = Annual Percentage Yield</strong></p>\n\n<p>This is the amount of interest you receive in a year taking into account compound interest. In other words, this is the how much interest you will receive taking into account you will be getting payments throughout the year. So if you have an APR like we said of 6%, and you receive interest payments daily, your APY is calculated as such:</p>\n\n<p>APY = (1 + 0.06/365)<sup>365</sup> - 1 = 6.18313106779%</p>\n\n<p>So in one year, you&#39;re actually getting 6.18313106779% in interest, not just the 6% that the APR said you were getting. So after one year you would have:</p>\n\n<p>$1000 x (1.0618313106779) = $1,061.83</p>\n\n<p><strong>To Sum Up</strong></p>\n\n<p>Amount you will have after one year according to APR: </p>\n\n<p>$1060</p>\n\n<p>Amount you will have after one year according to APY: </p>\n\n<p>$1,061.83</p>\n\n<p>As you can see the numbers are not the same. APY just gives you a more accurate indicator as to how much you can expect to receive in interest by the end of the year. </p>\n\n<p><strong>So which is better: 6% APR or 6% APY?</strong></p>\n\n<p>If you noticed, the percentage I calculated in APY is higher than the percent APR said you would be getting:</p>\n\n<p>6% APR = 6.18313106779% APY (with daily payments)</p>\n\n<p>So,  if you have the option to choose between 6% APR and 6% APY with the same frequency of payments in a year (in this case daily payments),  always choose 6% APR, since that comes out to be higher than 6% APY. </p>\n\n<p>Sorry for the length of this post, but I hope it helps some people.</p>\n</div><!-- SC_ON -->",
+  "score": 161,
+  "permalink": "/r/CryptoCurrency/comments/oqnznj/the_difference_between_apr_and_apy/",
+  "subreddit": "CryptoCurrency",
+  "id": "oqnznj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "A lot of people here are staking their crypto, so I assume most of you have\nencountered these terms before, but a lot of people don't really understand the\ndifference between the two. As such I thought I would explain the difference as\nsimply as possible.\n\nAPR = Annual Percentage Rate\n\nThis is the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここでは多くの人が暗号をステークしているので、ほとんどの人がこれらの用語に遭遇したことがあると思います。\nこの言葉を聞いたことがあると思いますが、多くの人はこの2つの違いをよく理解していません。\nこの2つの違いを理解していない人が多いのです。そのため、この違いをできるだけ簡単に説明したいと思います。\nなるべく簡単に説明したいと思います。\n\nAPR＝アニュアル・パーセンテージ・レート\n\nこれは、...",
+      "title": "APRとAPYの違いについて"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这里有很多人在为他们的加密货币做赌注，所以我想你们中的大多数人以前都遇到过这些术语。\n遇到过这些术语，但很多人并不真正了解\n两者之间的区别。因此，我想我将尽可能简单地解释两者的区别。\n尽可能的简单解释一下。\n\nAPR = 年度百分比率\n\n这是指...",
+      "title": "APR和APY的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這裏有很多人在爲他們的加密貨幣做賭注，所以我想你們中的大多數人以前都遇到過這些術語。\n遇到過這些術語，但很多人並不真正瞭解\n兩者之間的區別。因此，我想我將盡可能簡單地解釋兩者的區別。\n儘可能的簡單解釋一下。\n\nAPR = 年度百分比率\n\n這是指...",
+      "title": "APR和APY的區別"
+    }
+  ]
+}

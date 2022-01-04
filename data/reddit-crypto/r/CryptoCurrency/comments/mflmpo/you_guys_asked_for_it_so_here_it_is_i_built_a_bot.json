@@ -1,0 +1,64 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "In my last post, you guys were interested in my bot project that buys Bitcoin\nwhen Elon tweets about it so here it is!\n\nThe bot was initially designed to buy Bitcoin when Elon Musk tweets about,\nregardless of the sentiment of the tweet. I have shared it with some smaller\ncommunities, and there was…",
+  "original_created_utc": 1617009994,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在我上一篇文章中，你们对我的购买比特币的机器人项目很感兴趣。\n当埃隆在推特上说起它时，所以它在这里!\n\n这个机器人最初是为了购买比特币而设计的，当埃隆-马斯克在推特上说起。\n不管微博的情绪如何。我已经和一些小\n社区，而且有...",
+      "title": "你们要求的，所以就在这里。我做了一个机器人，当埃隆-马斯克在推特上说起它的时候，就会买入比特币，并且把它开源化了"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在我上一篇文章中，你們對我的購買比特幣的機器人項目很感興趣。\n當埃隆在推特上說起它時，所以它在這裏!\n\n這個機器人最初是爲了購買比特幣而設計的，當埃隆-馬斯克在推特上說起。\n不管微博的情緒如何。我已經和一些小\n社區，而且有...",
+      "title": "你們要求的，所以就在這裏。我做了一個機器人，當埃隆-馬斯克在推特上說起它的時候，就會買入比特幣，並且把它開源化了"
+    }
+  ],
+  "title": "You guys asked for it so here it is: I built a bot that buys Bitcoin when Elon Musk Tweets about it and open sourced it",
+  "created_utc": 1617017886,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>In my last post, you guys were interested in my bot project that buys Bitcoin when Elon tweets about it so here it is!</p>\n\n<p>The bot was initially designed to buy Bitcoin when Elon Musk tweets about, regardless of the sentiment of the tweet. I have shared it with some smaller communities, and there was some great feedback on it regarding the main concern - what if Elon tweets: &quot;Bitcoin is too high imo&quot; and the bot buys at the wrong time. </p>\n\n<p>So I found an API that would help me analyse the tweet sentiment, and integrated this into the code. The bot will now only buy Bitcoin when Elon Tweets, if the sentiment of his tweet is positive. </p>\n\n<p>I have tested the functionality and the bot is quite stable, but I haven&#39;t tested how profitable (if at all) it would actually be, so if you&#39;re interested in testing it, please share the results with us! :)</p>\n\n<p>The bot was built mostly for fun, and I wouldn&#39;t encourage you to trade with it on a live account! But if you want to have some fun with it and try it out on a demo account, here you go:</p>\n\n<p>Article and guide: <a href=\"https://www.cryptomaton.org/2021/03/21/program-a-trading-bot-to-buy-bitcoin-when-musk-tweets-about-it/\">https://www.cryptomaton.org/2021/03/21/program-a-trading-bot-to-buy-bitcoin-when-musk-tweets-about-it/</a></p>\n\n<p>GitHub Repo: <a href=\"https://github.com/CyberPunkMetalHead/bitcoin-bot-buy-if-elon-tweets/blob/main/buy-crypto-if-elon-mentions-crypto.py\">https://github.com/CyberPunkMetalHead/bitcoin-bot-buy-if-elon-tweets/blob/main/buy-crypto-if-elon-mentions-crypto.py</a></p>\n</div><!-- SC_ON -->",
+  "score": 9585,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/z0OxbOJBz1g3DujqtR_6J646cP9mulL6fB1uzc2kqe8.jpg?auto=webp&s=74a0ea20df5e3bc8800e3ede2e4018c7742a6eef",
+          "width": 773,
+          "height": 165
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/z0OxbOJBz1g3DujqtR_6J646cP9mulL6fB1uzc2kqe8.jpg?width=108&crop=smart&auto=webp&s=f90af553f622b07006443781b3b58288cd89a0c6",
+            "width": 108,
+            "height": 23
+          },
+          {
+            "url": "https://external-preview.redd.it/z0OxbOJBz1g3DujqtR_6J646cP9mulL6fB1uzc2kqe8.jpg?width=216&crop=smart&auto=webp&s=2061b70017289578d529278a21103e62f2af34b3",
+            "width": 216,
+            "height": 46
+          },
+          {
+            "url": "https://external-preview.redd.it/z0OxbOJBz1g3DujqtR_6J646cP9mulL6fB1uzc2kqe8.jpg?width=320&crop=smart&auto=webp&s=c97fa6cff68e660c2cac641f5ad3ecb8c32e8a73",
+            "width": 320,
+            "height": 68
+          },
+          {
+            "url": "https://external-preview.redd.it/z0OxbOJBz1g3DujqtR_6J646cP9mulL6fB1uzc2kqe8.jpg?width=640&crop=smart&auto=webp&s=afd2fa61d44d937eca34744cbcbf5b7d5da52b62",
+            "width": 640,
+            "height": 136
+          }
+        ],
+        "variants": {},
+        "id": "diTmogSAHbzgxUc4ouy5XPzMtDhVLLZ-jao-RcIYwao"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mflmpo/you_guys_asked_for_it_so_here_it_is_i_built_a_bot/",
+  "subreddit": "CryptoCurrency",
+  "id": "mflmpo",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617357137120
+}

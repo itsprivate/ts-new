@@ -1,0 +1,77 @@
+{
+  "created_at": "Sun Oct 03 13:40:26 +0000 2021",
+  "id_str": "1444653048752640003",
+  "full_text": "Models can be useful without using all variables (for s2f eg demand, macro, adoption) or without capturing black swan events (for s2f eg Covid, China, Elon).\nModel below uses only 1 variable (Temp). Other variables just cause variance and black swans are just outliers (eg 87,125) https://t.co/crrCWH0Gjl",
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1444650202833559600,
+        "id_str": "1444650202833559559",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/FAxttJSXIAcTUKU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FAxttJSXIAcTUKU.jpg",
+        "url": "https://t.co/crrCWH0Gjl",
+        "display_url": "pic.twitter.com/crrCWH0Gjl",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1444653048752640003/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 419,
+            "h": 407,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 419,
+            "h": 407,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 419,
+            "h": 407,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 216,
+  "favorite_count": 2569,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Oct 03 13:18:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "モデルは、すべての変数を使用しなくても有用であり（s2fの場合：需要、マクロ、採用）、ブラックスワンイベントを捉えなくても有用である（s2fの場合：Covid、中国、Elon）。\n下のモデルでは、1つの変数（Temp）のみを使用しています。他の変数は単に分散の原因となり、ブラックスワンは単なる外れ値（例：87,125） https://t.co/crrCWH0Gjl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "模型可以在不使用所有变量的情况下发挥作用（对s2f来说，如需求、宏观、采用），或者不捕捉黑天鹅事件（对s2f来说，如Covid、中国、Elon）。\n下面的模型只使用一个变量（温度）。其他变量只是造成变异，黑天鹅只是异常值（如87,125） https://t.co/crrCWH0Gjl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "模型可以在不使用所有變量的情況下發揮作用（對s2f來說，如需求、宏觀、採用），或者不捕捉黑天鵝事件（對s2f來說，如Covid、中國、Elon）。\n下面的模型只使用一個變量（溫度）。其他變量只是造成變異，黑天鵝只是異常值（如87,125） https://t.co/crrCWH0Gjl"
+    }
+  ],
+  "source_updated_at": 1633686000315
+}

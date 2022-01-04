@@ -1,0 +1,84 @@
+{
+  "created_at": "Sun Jun 06 0:0:39 +0000 2021",
+  "id_str": "1401316654445776897",
+  "full_text": "Orange is the new green. The Spanish city of Seville is turning its leftover oranges into electricity. Here’s how. #WSJWhatsNow https://t.co/CGD7oMSAz9",
+  "display_text_range": [
+    0,
+    127
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          115,
+          127
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1377274298986070000,
+        "id_str": "1377274298986070016",
+        "indices": [
+          128,
+          151
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ex0QNJCW8AI_xq_.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ex0QNJCW8AI_xq_.jpg",
+        "url": "https://t.co/CGD7oMSAz9",
+        "display_url": "pic.twitter.com/CGD7oMSAz9",
+        "expanded_url": "https://twitter.com/WSJ/status/1401316654445776897/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 34,
+  "favorite_count": 106,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Jun 05 23:15:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "オレンジは新しい緑です。スペインのセビリア市では、余ったオレンジを電気に変えています。その方法をご紹介します。#WSJWhatsNow https://t.co/CGD7oMSAz9"
+    },
+    {
+      "locale": "zh",
+      "full_text": "橙色是新的绿色。西班牙塞维利亚市正在将其吃剩的橙子变成电力。这就是方法。#WSJWhatsNow https://t.co/CGD7oMSAz9"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "橙色是新的綠色。西班牙塞維利亞市正在將其喫剩的橙子變成電力。這就是方法。#WSJWhatsNow https://t.co/CGD7oMSAz9"
+    }
+  ]
+}

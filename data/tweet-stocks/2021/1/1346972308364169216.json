@@ -1,0 +1,81 @@
+{
+  "created_at": "Thu Jan 07 4:51:25 +0000 2021",
+  "id_str": "1346972308364169216",
+  "full_text": "Bitcoin $37,000. The beat goes on... $BTC https://t.co/LJyyUXmDoj",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "BTC",
+        "indices": [
+          37,
+          41
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1346972164566757400,
+        "id_str": "1346972164566757376",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErFoDA9XMAAYDZ0.png",
+        "media_url_https": "https://pbs.twimg.com/media/ErFoDA9XMAAYDZ0.png",
+        "url": "https://t.co/LJyyUXmDoj",
+        "display_url": "pic.twitter.com/LJyyUXmDoj",
+        "expanded_url": "https://twitter.com/charliebilello/status/1346972308364169216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 420,
+            "h": 869,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 420,
+            "h": 869,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 329,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 57,
+  "favorite_count": 258,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jan 07 00:09:58 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "比特币3.7万美元。节拍还在继续..。https://t.co/LJyyUXmDoj TC巴恩斯"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣3.7萬美元。節拍還在繼續..。https://t.co/LJyyUXmDoj TC巴恩斯"
+    }
+  ],
+  "source_updated_at": 1610100755296
+}

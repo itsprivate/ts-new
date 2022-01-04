@@ -1,0 +1,33 @@
+{
+  "author": "lleti",
+  "the_new_excerpt": "A huge amount of buzz was set up around Shikokuaido (SHOKK)'s launch today, with\na tonne of telegram channels et. al claiming that it's the newest coin release\nfrom SHIB's team, which recently got listed on Binance, boasting well over $1bn\nin market cap.\n\nThere was no proof behind that one, but…",
+  "original_created_utc": 1620761229,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "四国海道（SHOKK）が今日発売されたことで、大量の話題が提供されました。\nSHOKKは、SHIBのチームからリリースされた最新のコインであると、大量のテレグラムチャンネルなどで主張されています。\n最近Binanceに上場し、10億ドル以上の時価総額を誇るSHIBのチームからリリースされた最新のコインだと、大量の電報チャンネルなどで話題になっています。\nと主張しています。\n\n根拠はありませんが...。",
+      "title": "シーズン中の混乱時には、当たり前のラグが当たり前でなくなることがあります。これは、四国海道伊能の静かなラグのセッティングです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "围绕着Shikokuaido (SHOKK)今天的发布，已经形成了大量的讨论。\n大量的电报频道等都声称这是SHIB团队最新发布的币种。\nSHIB的团队最近在Binance上市，拥有超过10亿美元的市值。\n的市值。\n\n这背后没有证据，但...",
+      "title": "在淡季的大混乱中，明显的地毯有时看起来并不明显：这里是四国堂井野的安静地毯是如何设置的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "圍繞着Shikokuaido (SHOKK)今天的發佈，已經形成了大量的討論。\n大量的電報頻道等都聲稱這是SHIB團隊最新發布的幣種。\nSHIB的團隊最近在Binance上市，擁有超過10億美元的市值。\n的市值。\n\n這背後沒有證據，但...",
+      "title": "在淡季的大混亂中，明顯的地毯有時看起來並不明顯：這裏是四國堂井野的安靜地毯是如何設置的。"
+    }
+  ],
+  "title": "During altseason pandemonium, obvious rugs sometimes don't look obvious: here's how Shikokuaido Ino's quiet rug was set up.",
+  "created_utc": 1620765400,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>A huge amount of buzz was set up around Shikokuaido (<strong>SHOKK</strong>)&#39;s launch today, with a tonne of telegram channels et. al claiming that it&#39;s the newest coin release from SHIB&#39;s team, which recently got listed on Binance, boasting well over $1bn in market cap.</p>\n\n<p>There was no proof behind that one, but given their telegram was set to restrict all inbound messages, there was no way for anyone to ask pre-launch. The launch obviously followed with the usual &quot;ALL FUD WILL BE BANNED&quot; warning.</p>\n\n<p>So, most people&#39;s fears around a rug would&#39;ve been quickly assauged, as the LP burn was almost immediately posted in the channel. So, a coin that&#39;s burned the LP, and even renounced ownership couldn&#39;t rug, right?</p>\n\n<p>Anyway, Shikokuaido pulled one of the oldest tricks in the book, and honestly, people could be forgiven for not checking during the pandemonium of trying to get in on the first green candle.</p>\n\n<p>Here&#39;s the wallet which launched Shikokuaido:</p>\n\n<hr/>\n\n<p><code>0xec0bf0e934d092d31e769e8c9722ffbaa582db3b?a=0xdfd09bc459f6adb06de6ddc1fd4d38862a4ef5e2</code></p>\n\n<ul>\n<li><p>32.5% of the coins minted went directly to private wallets (developer/friends of the dev etc)</p></li>\n<li><p>35% of the coins went to Vitalik</p></li>\n<li><p>37% of the coins went into the Liquidity Pool</p></li>\n</ul>\n\n<p>So, with a 35% Vitalik burn, that means that out of the remaining supply;</p>\n\n<ul>\n<li><p>46.8% are held by the developers (there was no pre-sale, this was a &quot;fair launch&quot;)</p></li>\n<li><p>53.2% entered in to circulation</p></li>\n</ul>\n\n<hr/>\n\n<p>So, the current bouncy price action can pretty much be explained by the fact that 46.8% of these coins will be entering circulation via Uniswap, with a payment in ETH being returned.</p>\n\n<p>Unfortunately, while this one already mixes in the slow-rug dev wallets along with the misleading supply via pre-launch burn mechanics, it&#39;s got a few more in there too.</p>\n\n<p>Rather than being a standard Safemoon fork, this one was forked from one of the Charity Coins - so, while ownership was renounced, <strong>this one has a &quot;charity wallet&quot; which it reflects a heavy percentage of tokens in to.</strong> This wallet address, and the fee that&#39;s paid into it can be changed at any time via the Contract page.</p>\n\n<p>Lastly, for the full round-off; <strong>this contract also has a blacklist function in place</strong>. Meaning that your address can instantly be blacklisted from selling, or transferring any tokens. This is (poorly) disguised as the function <code>AddBotToBlacklist(address a)</code>, assumedly in an attempt to persuade people that it would only work on bots. As a note, a contract cannot tell if a wallet belongs to a bot, or a human. It just blacklists any address entered there.</p>\n\n<hr/>\n\n<p>Obviously, you&#39;ll be instantly banned from Shikokuaido&#39;s telegram group if you mention any of the above functionality. Their developers reached out to myself after pinning a post in another Telegram group I&#39;m an admin on, claiming that they banned me &quot;by mistake&quot; after pointing out the supply rug.</p>\n\n<p>With gas fees via Uniswap now easily surpassing $300-400 per tx, and this particular coin being held at it&#39;s current pricing levels via the slow-supply rug, people who entered with a low amount of cash may find it difficult to exit without substantial losses - however, substantial losses are better than 100% losses, as this contract has been set up to ensure.</p>\n\n<p>Altseason is absolute mayhem - and scams are rife, left right and center. If you&#39;re buying into a surprise-launch token without being able to read the contract, or do not at least have confirmed/validated information on the team launching it (doxxed via official website &amp; a history of other projects where relevant), you can assume in 99% of the cases that you&#39;re being set up for a rug, and will never see your money again.</p>\n\n<p>Community/Meme tokens can be awesome experiences in crypto, especially if it&#39;s your first entry into the marketplace - but they&#39;re also the tokens that are most often set up to rug people who may be naive, or overly trusting towards crypto. <strong>Please be careful, and only ape in responsibly with bags that you&#39;re willing to lose.</strong></p>\n</div><!-- SC_ON -->",
+  "score": 2095,
+  "permalink": "/r/CryptoCurrency/comments/na5cll/during_altseason_pandemonium_obvious_rugs/",
+  "subreddit": "CryptoCurrency",
+  "id": "na5cll",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620985992430
+}

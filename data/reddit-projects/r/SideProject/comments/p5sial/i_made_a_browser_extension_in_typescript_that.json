@@ -1,0 +1,88 @@
+{
+  "author": "z0cccccc",
+  "original_created_utc": 1629158775,
+  "title": "I made a browser extension in Typescript that lets you view the Reddit comments of any YouTube Video or web page.",
+  "created_utc": 1629170130,
+  "selftext_html": null,
+  "score": 8,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?format=pjpg&auto=webp&s=f01cae8fb203f1f626e74dd793589db29fdfe107",
+          "width": 1920,
+          "height": 1080
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?width=108&crop=smart&format=pjpg&auto=webp&s=4e42eb06da30b4fc293777f7f88188f18097506a",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?width=216&crop=smart&format=pjpg&auto=webp&s=ee0541180f264be32aa6588ddfe9d02760079e91",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?width=320&crop=smart&format=pjpg&auto=webp&s=f3c0910a745663596f8ccb08877e67c53964f7f4",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?width=640&crop=smart&format=pjpg&auto=webp&s=e6040b81cc0cfcba7c19d0aa31be84ec6fb6170f",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?width=960&crop=smart&format=pjpg&auto=webp&s=68be42425bf3cd346b7d892a14b0f85dc69a30a7",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/Kjc6CHjKgVF42yc-mpBxnlr7E4lkrY4KAurmsbuOQ54.png?width=1080&crop=smart&format=pjpg&auto=webp&s=4183ca498f30d54042349b0a940cd8bbdf2c42c8",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "H-Sc7uwh5DErNu9Z8CGcHnsVmhvUe4OUcqrWfTwsZe0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/p5sial/i_made_a_browser_extension_in_typescript_that/",
+  "subreddit": "SideProject",
+  "id": "p5sial",
+  "is_self": false,
+  "media": {
+    "reddit_video": {
+      "bitrate_kbps": 4800,
+      "fallback_url": "https://v.redd.it/qiq795op6th71/DASH_1080.mp4?source=fallback",
+      "height": 1080,
+      "width": 1920,
+      "scrubber_media_url": "https://v.redd.it/qiq795op6th71/DASH_96.mp4",
+      "dash_url": "https://v.redd.it/qiq795op6th71/DASHPlaylist.mpd?a=1631762130%2CNWQzNTJiY2Q0MzhmNzUyOTYxY2EwODVmOGM1MWUwNDgyOWQyMTJjZDlhZjM4YjRlZjFkMmJmNThkNTdhYmY4MQ%3D%3D&v=1&f=sd",
+      "duration": 44,
+      "hls_url": "https://v.redd.it/qiq795op6th71/HLSPlaylist.m3u8?a=1631762130%2CMzdmOGNkNTAyNWEwYTY1ODVmYmEwZjM2MzQ4ZTI0MzE1YTkwMWExOTUyNmNiYjJiMzFmZDNmM2UwNzk5ZmZhNQ%3D%3D&v=1&f=sd",
+      "is_gif": true,
+      "transcoding_status": "completed"
+    }
+  },
+  "is_video": true,
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTube動画やWebページのRedditコメントを見ることができるブラウザ拡張機能をTypescriptで作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我用Typescript做了一个浏览器扩展，可以让你查看任何YouTube视频或网页的Reddit评论。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用Typescript做了一個瀏覽器擴展，可以讓你查看任何YouTube視頻或網頁的Reddit評論。"
+    }
+  ]
+}

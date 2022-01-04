@@ -1,0 +1,79 @@
+{
+  "author": "SenatusSPQR",
+  "the_new_excerpt": "As a self-declared Nano expert and writer of longwinded articles\n[https://senatusspqr.medium.com/], mostly about Nano, I figure I'm in an\nexcellent position to give an overview of what Nano is, what it aims to do, why\nit might be going up in price, and why I'm so enthusiastic about it.\n\n\nNANO'S…",
+  "original_created_utc": 1618742229,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自称ナノの専門家であり、長文の記事を書く者として\n[https://senatusspqr.medium.com/]を書いていますが、主にNanoに関するものです。\nNanoとは何か、何を目的としているのか、なぜ価格が上昇しているのか、そしてなぜ私がこれほどまでに夢中になっているのかについて、概要を説明するのに最適な立場にいると考えている。\n私は、Nanoとは何か、何を目的としているのか、なぜ価格が上がるのか、なぜ私がそれに熱中しているのかについて、概要を説明するのに最適な立場にいると思います。\n\n\nNANOの...",
+      "title": "ナノとは？現在のトップゲイナーのファンダメンタルズに関するショート（およびロング）です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "作为一个自称是纳米专家和长篇文章作者的人，我想说的是\n[https://senatusspqr.medium.com/]，主要是关于Nano的，我想我在一个。\n优秀的位置，可以概述什么是Nano，它的目标是什么，为什么要这样做？\n可能会涨价，以及为什么我对它如此热衷。\n\n\n纳诺的...",
+      "title": "什么是纳米？关于目前涨幅居前的基本面的短线（和长线）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "作爲一個自稱是納米專家和長篇文章作者的人，我想說的是\n[https://senatusspqr.medium.com/]，主要是關於Nano的，我想我在一個。\n優秀的位置，可以概述什麼是Nano，它的目標是什麼，爲什麼要這樣做？\n可能會漲價，以及爲什麼我對它如此熱衷。\n\n\n納諾的...",
+      "title": "什麼是納米？關於目前漲幅居前的基本面的短線（和長線）。"
+    }
+  ],
+  "title": "What is Nano? The short (and long) on the fundamentals of the current top gainer.",
+  "created_utc": 1618771152,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>As a self-declared Nano expert and writer of <a href=\"https://senatusspqr.medium.com/\">longwinded articles</a>, mostly about Nano, I figure I&#39;m in an excellent position to give an overview of what Nano is, what it aims to do, why it might be going up in price, and why I&#39;m so enthusiastic about it.</p>\n\n<h1>Nano&#39;s value proposition in short</h1>\n\n<p><strong>Nano is the fastest decentralized way to transfer value, and does so feelessly. It&#39;s secure, energy efficient, with game theory behind it that leads to it becoming ever more decentralized.</strong></p>\n\n<h1>How does Nano accomplish this?</h1>\n\n<p>Nano was designed from the ground up to be as efficient as possible, and to avoid centralization at all costs. It&#39;s efficient, because no resources are wasted on competitive block solving. Rather, Nano uses <a href=\"https://docs.nano.org/what-is-nano/overview/\">Open Representative Voting</a>. In Open Representative Voting, everyone can be a representative (validator), anyone can vote for any representative, change votes at any time, instantly, feelessly, and 1 Nano = 1 Vote.</p>\n\n<p>This is combined with Nano&#39;s architecture, being a Directed Acyclic Graph (DAG). Rather than one blockchain, with big blocks where transactions are collected and then verified, Nano works asynchronously. Everyone has their own blockchain, as soon as you add a block to your blockchain it&#39;s broadcast to the network. As soon as a representative sees this, they will vote on the transaction, and broadcast it further. Again, no waste, just pure efficiency. This high efficiency also leads to Nano&#39;s extremely low energy usage, with the best estimates pegging Nano at roughly <a href=\"https://i.imgur.com/2uViWf2.png\">6 million times higher energy efficiency than Bitcoin</a>.</p>\n\n<p>Because of this high efficiency and no artificial delays, Nano transactions are subsecond. Cost to validate is extremely low - meaning representatives can easily be run for $50. This is good, as Nano is feeless and fixed supply, meaning there are no monetary rewards for node operators. This often leads to people thinking there are no incentives to run nodes, which I debunk <a href=\"https://senatusspqr.medium.com/how-nanos-lack-of-fees-provides-all-the-right-incentives-ee7be4d2b5e8\">in this article</a>. In short, exchanges trading Nano, merchants using Nano, and big Nano holders are all incentivized to run nodes to keep the network online, to trustlessly verify that the $10 million deposit to their exchange is confirmed, or to simply have direct access. This isn&#39;t just theoretical, <a href=\"https://nanocharts.info/\">Nanocharts</a> provides a nice overview of nodes being run.</p>\n\n<h1>Incentivizing decentralization</h1>\n\n<p>Without fees and without inflation, there is no centralisation over time. There are no miners reaping rewards which they can reinvest, there are no economies of scale leading to <a href=\"https://medium.com/@clemahieu/emergent-centralization-due-to-economies-of-scale-83cc85a7cbef\">emergent centralization</a>. For validators, there is no reason to want to have a large share of consensus power, because this only <em>decreases</em> the value of Nano and therefore their holdings. They, and anyone holding Nano, wants consensus to be spread out. With everyone holding Nano incentivised to contribute to decentralisation, the incentives are aligned and cooperative.</p>\n\n<h1>Nano as a store of value</h1>\n\n<p>Because of Nano&#39;s instant and feeless value proposition, it&#39;s ideal as money. It offers merchants a way to have instant and feeless payments, from anywhere in the world, that they can then keep in Nano or instantly convert into fiat currency with no volatility risk (since it&#39;s instant). This focus on payments sometimes causes people to overlook Nano&#39;s other strengths. For example, Nano is at the theoretical limit of a <a href=\"https://senatusspqr.medium.com/why-nano-is-the-ultimate-store-of-value-and-reserve-currency-3b0318844bc8\">perfect store of value</a>. It’s almost limitlessly divisible (up  to 30 decimals) and limitlessly transferrable (no fees). Crypto&#39;s security comes from decentralisation, and decentralisation is incentivised on a protocol level. Attacking Nano’s consensus is difficult because it’s extremely hard to acquire a large share of supply, and because once you have done so you have every incentive not to attack it.</p>\n\n<p>Nano’s scalability means that the move to a 2nd stage (claims on hard money —  central institutions) in Nano might not ever be needed or at least far less necessary, because Nano gives us a form of hard money that improves on gold by being globally transferrable, trustlessly, instantly, feelessly, with no loss of matter and incredible divisibility, in a scalable manner.</p>\n\n<h1>Spam resistance</h1>\n\n<p>One of the final remaining criticisms of Nano was that it was spammable. While this was first of all theoretically a misunderstanding, as Nano used cost-based prioritization just like in Bitcoin and such, it was practically a fair point as the recent spam attack showed. However, and this is perhaps what is causing the recent price surge, Nano&#39;s developers have come up with a new prioritization method which is very innovative and deserves a post of its own, so <a href=\"https://np.reddit.com/r/CryptoCurrency/comments/msrjr5/nanos_latest_innovation_feeless_spamresistance/\">see the earlier post on it here</a>. In short, in the new system, to even outspam small holders (10 Nano, $100) transacting regularly (twice a day), would require an investment of roughly 42 million Nano ($420 million).</p>\n\n<p>With this spam resistance going live somewhere before the end of this month, some of Nano&#39;s last criticisms should be gone. That&#39;s not to say there is nothing left to improve - more efficient storage is still being explored, the protocol can be further optimised to increase TPS further, and as Nano scales by hardware better hardware being used by nodes will further increase throughput.</p>\n\n<p>In its current state, Nano genuinely does seem to be the future of money. It&#39;s not only a near-perfect store of value, it&#39;s hard to think of how to further improve on its characteristics as money given instant and feeless transfers. It&#39;s FUD-proof in terms of centralization, it&#39;s FUD-proof in terms of energy usage, and because of this has built up a huge base of enthusiastic supporters.</p>\n\n<h1>Conclusion</h1>\n\n<p>I hope this post helped inform those that didn&#39;t yet know about Nano or its characteristics, and I would love to discuss any of the claims I make in this post. Everything I&#39;ve said can be verified, which I&#39;d of course urge anyone to do. </p>\n\n<p>Thanks for reading!</p>\n</div><!-- SC_ON -->",
+  "score": 534,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?auto=webp&s=1b82927f5ca188253b933228aa798871df3ec944",
+          "width": 1147,
+          "height": 915
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?width=108&crop=smart&auto=webp&s=5c6e69c2e417003c4735643a46caa4fc1fd6749e",
+            "width": 108,
+            "height": 86
+          },
+          {
+            "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?width=216&crop=smart&auto=webp&s=b8105c48c0317129302f78c29b5c28b8359af272",
+            "width": 216,
+            "height": 172
+          },
+          {
+            "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?width=320&crop=smart&auto=webp&s=6da9447d2ec9906ff37e47ec9621a54e51a94bb2",
+            "width": 320,
+            "height": 255
+          },
+          {
+            "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?width=640&crop=smart&auto=webp&s=239f04fc01f3b347b3a192fb3e9963f274886a5a",
+            "width": 640,
+            "height": 510
+          },
+          {
+            "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?width=960&crop=smart&auto=webp&s=37b4bf42909d3c8f7fe250f23810f0fa77815ccd",
+            "width": 960,
+            "height": 765
+          },
+          {
+            "url": "https://external-preview.redd.it/UDj_BdWEyUxboZJ0EPx8Kvnx5TCxJgJqSl7b_e5HXkM.png?width=1080&crop=smart&auto=webp&s=e70507d5cd620f01ce5320efcf8a96107a28edd0",
+            "width": 1080,
+            "height": 861
+          }
+        ],
+        "variants": {},
+        "id": "9drkM6mDwh8whJiFy1L5iVh0TevCnFp4ciupV8b64kE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mtafkq/what_is_nano_the_short_and_long_on_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "mtafkq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619171519560
+}

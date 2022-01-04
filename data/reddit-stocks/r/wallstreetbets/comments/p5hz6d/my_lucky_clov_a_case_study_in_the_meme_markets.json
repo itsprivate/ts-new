@@ -1,0 +1,332 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "# A case study in the meme market’s Epileptic Squeezures and why the market is ready for another.\n\n**Alright folks! So you've heard CLOV looks good for an epic run... and oh boy does it!**\n\n**I have a full write up broken into multiple parts and I’m spending quite a bit of time on this, I hope you find it useful! If there is any organizational changes I can make to allow reading it easier, please let me know. If you find any piece of information wrong, please point it out but also explain. I’ve spent a lot of time learning about the market since the meme stocks started what they’ve been doing. It’s fascinating, and I’ve learned so much. Lost money, made money, but am overall better for the education! I don’t know everything and I am open to counter arguments and more details where I may have missed some. Thanks!**\n\n***The brief summary of data:*** *CLOV option open interest on 8/20 (the number of contracts open for calls/puts) is absolutely enormous. For perspective, this Friday has a typical number of contracts for the stock. We see 77,006 calls and 31,986 puts (0.42 ratio) expiring, 8/13.*\n\n*FRIDAY 08/20 HOWEVER, we have jaw dropping 306,424 calls, and 72,752 puts (0.24 ratio). This puts us right on track for a GAMMA SQUEEZE (details further down).*\n\n*Earnings report showed a surprise beat on revenue (+100%), critical for growth stocks. We are at a local minimum value on the stock, so with a great earnings report, investors are eager to buy the stock. We saw this on 08/12 after earnings with the insane amount of volume (147.4million, vs the avg. of 29.22 million) fighting for the price around $9 a share.*\n\n*These factors, plus 25% short interest (who doesn't love hearing that), mean that CLOV is ripe for a major mind melting squeeze beginning the week of the Futures contract rollover dates beginning on the Futures First Notice Day, August 26. The futures contracts are a key piece of this meme stock puzzle that many have been trying to solve.*\n\n*This will likely peak before Sept. 9 due to futures rollover dates. Unless we see insane price action reaching margin call levels, which considering the DTCC's updated Uncleared Margin Rules (phase 5) going into effect on Sept 1st. is expected to cause a spike in margin calls.*\n\n***TLDR: CLOV go moon before Sept 9, buy shares. Buy calls 09/03 @ $10 and 9/10 @ whatever strike suits you.***\n\nFor the long version, read on!\n\n**Table of Contents:**\n\n1. What the hell is a gamma squeeze?\n2. How will we recognize a gamma squeeze? How long can it take to play out?\n3. FTDS\n4. **Futures Contracts Rollover Dates –  Triple Witching Rollover Edition and we're in a Ford Bronco**\n\n***What the hell is a gamma squeeze and how do you predict one is going to happen?***\n\nA gamma squeeze is a product of the derivatives (calls/puts) market. Usually this is a rare event, but with growing accessibility to the markets by retail investors, it is becoming more common. (*Tin foil hat*: this will not last forever, they will nerf this feature at some point).\n\n***What causes the gamma squeeze?*** Unusually high call option open interest + Rise in share price + Market Maker Delta hedging.\n\nDelta hedging is when market makers buy and sell shares in a stock to remain delta neutral. See, a Hedge fund (market maker) is intended to provide liquidity, and help you buy and sell shares. But they don't want to be on the bad side of a trade, so they remain delta neutral.\n\nDelta is a value that affects the option price on calls and puts. It is directly related to the rate of change in stock price. So if you have a call option with a delta of 0.1, a market maker needs to buy 10 shares to hedge. A delta of 0.5 would be 50 shares, and the max delta is 1.0 or 100 shares (this would be deep in the money) The more call options open (open interest), the more market makers have to do this.\n\nAs you might be figuring out, if the market makers have to buy shares to delta hedge, and there are an immense amount of call options open, then the buying action from market makers to delta hedge can and WILL drive up the price. As retail investors continue to buy shares and the price climbs, market makers must also buy shares to delta hedge. This causes a snowballing effect called the gamma squeeze. We saw this happen with so many stocks now (AMC in June, CLOV in June).\n\nGamma is the value that measures the rate of change in delta. So the faster the price changes, the higher the delta, and gamma runs higher as delta changes faster. Hence why it is termed a gamma squeeze.\n\n***How will we recognize a gamma squeeze happening? How long can it take to play out?***\n\nThe timeline for a gamma squeeze can be longer than you think. It is driven by multiple factors, and the intensity of each of these factors adds pressure to the overall squeeze. It can be broken into a few parts:\n\n***Share buying***\n\nAs shares are bought causing a rise in the stock price, market makers must hedge by buying shares as delta rises. The faster the rise in stock price due to buying pressure, the faster delta increases and the more shares need to be purchased by market makers. This is due to the need to deliver these shares the following week as more calls become in the money. More on this below.\n\n***Call Buying***\n\nThe more calls bought, the more shares must be purchased to delta hedge. If I purchase the $8 strike for 08/20 expiration, that call has a delta right now of 0.6. This means the market maker will purchase 60 shares to hedge against this.\n\nIn one respect, I think you can view buying calls as a way to effectively move the market as though you purchased that many shares, for a fraction of the price – hence the fact it is a leveraged bet. The current value of the call option is $59, however it would cost you $492.6 to buy $60 shares to have the same effect. (That said, please do not just YOLO call options, I’m doing a mix of calls and shares).\n\n***Call Options Expiring ITM and their delivery***\n\nThe more calls that expire ITM on Friday, the more this impacts the price of the stock the following week. If you weren’t aware, options expiring ITM must have their shares delivered to the exerciser of the contract by T+2. If the call writer is short the stock, they must buy the stock on the market. As a result, we usually see a surge in stock price following options expiration if a large number of calls expire ITM. This surge in stock price causes a surge in delta, which further compounds the rise in price as market makers buy shares to hedge delta. It’s this T+2 option delivery, combined with futures rollover dates, that I believe is going to help catalyze the next run.\n\nIn the case of CLOV, there are absolutely staggering numbers of calls at various strikes on 08/20. See the following table from Barchart to see the numbers yourself.\n\n&#x200B;\n\n[Open Interest on 08\\/20 for CLOV strikes $1-$17.50](https://preview.redd.it/2z331r8mjqh71.jpg?width=1160&format=pjpg&auto=webp&s=124414fbc8a6314411691481a022d9df3185cfac)\n\n***Closing Short Sales***\n\nAs share price increases and borrowable shares dwindle, the borrow fee for short positions rises. Eventually this becomes untenable for short sellers and they must purchase shares to close their positions. We’ve beaten the short squeeze scenario to death in this subreddit, so I won’t go into more details. Just for data, the most recently reported (08/10) short interest on fintel shows 22.48% of the float is short, though Ortex estimates this has increased as of Friday 08/13 to 25.58% (go figure after that price action we saw on Friday). Short sales have likely been used to suppress price prior to the massive buy up necessary due to futures contracts (see below).\n\n***FTDS – Failures-to-deliver***\n\nCLOV shares that failed to deliver in the first two weeks of July is a staggering number. There were 46 million shares that failed to deliver. Compare to the 22million in June, vs the 6 million in May. These shares must be delivered. FTD data for the second half of July should be available on 08/16.\n\n46 million shares out of the public float of 133.76 million = 34.3% of the entire stocks’ float failed to deliver in the first two weeks of July.\n\n&#x200B;\n\n[FTDs for CLOV. Massive Spike in early July during the consistent drop in stock value](https://preview.redd.it/jo34i1g2kqh71.jpg?width=1830&format=pjpg&auto=webp&s=4433d9ee3994dcbd16e6ac84951894a8fa099204)\n\nHigh number of shares that fail to deliver usually indicates high amounts of short selling. Additionally, after the 30th of June, it appears that skyrocketing FTDs is correlated to a consistently falling share price that sees no Tuesday recovery due to options delivery. You can see a spike each Tuesday in June due to this, followed by a drop in share value.\n\n***READ! Futures Contracts Rollover – THIS IS ABSOLUTELY CRITICAL!***\n\nFor me, this was the last piece of the puzzle on figuring out what is going on with the meme stocks. The Triple Witching day is well known, and happens when futures expiration meets quarterly option expirations, but the timeframe for equity rollover was completely unknown to me.\n\nOn 9/9 the next futures contract rollover date happens. There is evidence that much of the meme stock activity is due to someone on the bad end of a futures basket that included many of the \"meme\" stocks we love so much today.\n\nEach major run up has been just before the futures rollover date on many more stocks than CLOV. Some of those companies show movies, other sell stuff to gamers. I don’t want to name them and get flagged for removal.\n\nThe last futures rollover date was 6/10, the week that was the peak of our last meme circus. CLOV’s peak was seen on 6/9, and the futures rollover happened the following day. CLOV stock never recovered.\n\nFurthermore, if you look at the following table I stole from /u/criand without permission (the futures info is his DD, thanks dude, you’re a fucking hero)\n\n&#x200B;\n\n&#x200B;\n\nhttps://preview.redd.it/0qtzon9pjqh71.png?width=679&format=png&auto=webp&s=c066103e8c7bf7ea71274f397bb33a7d57923dfc\n\n&#x200B;\n\n[Critical dates in the June 2nd - June 9th Squeeze](https://preview.redd.it/mllu0qaqjqh71.png?width=1547&format=png&auto=webp&s=6da4572dbed718075d9ad28ebce7b9b195f6bb90)\n\nWe can see that the beginning of rollovers started on May 25th, the same day we started to see CLOV climb up from $7.01/share. The following week it closed on Friday, 6/4 at $9.12/share\n\nThe next Monday 06/7, it rips up to $11.92 by close, followed by a run to a close of $22.15 on Tuesday the 06/08. Wednesday 06/09 saw a high of $28.85 and a close of $16.92, ending the squeeze. You may ask yourself why it took so long for it to run up like this? The objective is to cover at the very last minute and avoid retail traders piling on to make the problem worse. If retail traders were to push the value of the stock higher each week allowing more calls to end ITM, through the buying of shares and ITM and ATM call options, then this run will end up moving sooner and moving higher. This is the exact scenario they want to avoid, and why you have never heard this information until now.\n\n**What to look for in confirmation?**\n\nMarket maker algorithms generally move prices to max-pain. This is where option writers are hurt the most and the least impact is placed on the market maker. When we end above the max pain level (which for 08/20 is $9.00) it puts more calls ITM, which usually leads to increased price action the following week as shares are bought to deliver for options contracts.\n\nIf it closes over $9 a share this Friday, that puts an additional 20,952 call options ITM. If we go over $10, this adds another 32,382 calls ITM. The more shares purchased this week by retail, plus the more AT THE MONEY AND IN THE MONEY CALLS will put pressure on this gamma squeeze to get started. The higher the price ends this Friday, the higher this event goes.\n\n**How to cause the most impact on the stock price:**\n\nIf you plan to participate, I suggest buying shares and ITM or ATM call options. One method of acquiring shares is buying a call option. If you by a call option for 8/20, the $8 strike is $59. The current share price is $8.21. If you purchase the option and choose to exercise it, you can have the effect of the call’s delta forcing market makers to buy shares to hedge, plus when you exercise you can acquire 100 shares and force a higher price on Tuesday during options delivery.\n\nMy strategy involves deep ITM calls this week which I will exercise on Friday. I have the $6 strike call which will allow me to call away 100 shares for $6 each. I chose this as the shares did manage to reach $7.01 in May before the run, and I want to make sure I don’t end up OTM. I also have the 09/03 call for the $10 strike, and the 09/10 call for the $11 strike. I do not plan to exercise these calls, and instead sell them during a bullish run up during their week of expiration.\n\nGood luck, have fun, and set yourself up to get out of this 9-5 bullshit, we deserve better!\n\n&#x200B;\n\nI'll leave you with one last bullish bit of sentiment, straight from the DTCC:\n\n&#x200B;\n\nhttps://preview.redd.it/vl3d8cwsjqh71.jpg?width=750&format=pjpg&auto=webp&s=b818ae75767a341f2512a2324ddc68455eb0ae72",
+  "author_fullname": "t2_58uw12u",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 3,
+  "clicked": false,
+  "title": "My Lucky CLOV - A case study in the meme market’s Epileptic Squeezures and why the market is ready for another.",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "0qtzon9pjqh71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 37,
+          "x": 108,
+          "u": "https://preview.redd.it/0qtzon9pjqh71.png?width=108&crop=smart&auto=webp&s=29c2232e54ae1ab3f5998bdb52fbb7f3ee3aedee"
+        },
+        {
+          "y": 75,
+          "x": 216,
+          "u": "https://preview.redd.it/0qtzon9pjqh71.png?width=216&crop=smart&auto=webp&s=b2673e86729a173930ae1c59174ab2bff744ea34"
+        },
+        {
+          "y": 111,
+          "x": 320,
+          "u": "https://preview.redd.it/0qtzon9pjqh71.png?width=320&crop=smart&auto=webp&s=bcd2bace9467e813f1a012a8fc44155ca05f3ad5"
+        },
+        {
+          "y": 223,
+          "x": 640,
+          "u": "https://preview.redd.it/0qtzon9pjqh71.png?width=640&crop=smart&auto=webp&s=61596760a54749c932115b1969f58cc532364ff7"
+        }
+      ],
+      "s": {
+        "y": 237,
+        "x": 679,
+        "u": "https://preview.redd.it/0qtzon9pjqh71.png?width=679&format=png&auto=webp&s=c066103e8c7bf7ea71274f397bb33a7d57923dfc"
+      },
+      "id": "0qtzon9pjqh71"
+    },
+    "jo34i1g2kqh71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 47,
+          "x": 108,
+          "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=108&crop=smart&auto=webp&s=a45647f850a6cc0fb87ce13ab9c2011942734b79"
+        },
+        {
+          "y": 95,
+          "x": 216,
+          "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=216&crop=smart&auto=webp&s=8635fc86d96ee8799a93b8d8ccee13ddb7a1a05c"
+        },
+        {
+          "y": 141,
+          "x": 320,
+          "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=320&crop=smart&auto=webp&s=4b6fa1f3f5efadc1346cdcd79a8bdd6e7a3e0a90"
+        },
+        {
+          "y": 282,
+          "x": 640,
+          "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=640&crop=smart&auto=webp&s=2d57b1bd3f2be4b3bc08701fec841defbdd38eba"
+        },
+        {
+          "y": 423,
+          "x": 960,
+          "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=960&crop=smart&auto=webp&s=d290fc35d293395cdce3334ab968a658f4af5186"
+        },
+        {
+          "y": 476,
+          "x": 1080,
+          "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=1080&crop=smart&auto=webp&s=726bedfd6751d39e949b8dfc2b4078abd5dfbacd"
+        }
+      ],
+      "s": {
+        "y": 807,
+        "x": 1830,
+        "u": "https://preview.redd.it/jo34i1g2kqh71.jpg?width=1830&format=pjpg&auto=webp&s=4433d9ee3994dcbd16e6ac84951894a8fa099204"
+      },
+      "id": "jo34i1g2kqh71"
+    },
+    "mllu0qaqjqh71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 57,
+          "x": 108,
+          "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=108&crop=smart&auto=webp&s=46f2b3aa84587a4b27759bbdb3305049831ff944"
+        },
+        {
+          "y": 115,
+          "x": 216,
+          "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=216&crop=smart&auto=webp&s=4f10c06bd2b081e5ce69ed59c88c034ab5400852"
+        },
+        {
+          "y": 170,
+          "x": 320,
+          "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=320&crop=smart&auto=webp&s=4191fa82c7b7b7b7c925dad9678da48835874f8b"
+        },
+        {
+          "y": 341,
+          "x": 640,
+          "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=640&crop=smart&auto=webp&s=d9d9c285934725aeb7118cc636c870fef76b480f"
+        },
+        {
+          "y": 512,
+          "x": 960,
+          "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=960&crop=smart&auto=webp&s=9cd54d17172aaa2647c1e1978f96931f3e242d80"
+        },
+        {
+          "y": 576,
+          "x": 1080,
+          "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=1080&crop=smart&auto=webp&s=19728174c3c72efbcd9574db285cfece8689ce6a"
+        }
+      ],
+      "s": {
+        "y": 826,
+        "x": 1547,
+        "u": "https://preview.redd.it/mllu0qaqjqh71.png?width=1547&format=png&auto=webp&s=6da4572dbed718075d9ad28ebce7b9b195f6bb90"
+      },
+      "id": "mllu0qaqjqh71"
+    },
+    "vl3d8cwsjqh71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 143,
+          "x": 108,
+          "u": "https://preview.redd.it/vl3d8cwsjqh71.jpg?width=108&crop=smart&auto=webp&s=aee4b10a652a6290f2e2d6e2e986b30955a2561b"
+        },
+        {
+          "y": 287,
+          "x": 216,
+          "u": "https://preview.redd.it/vl3d8cwsjqh71.jpg?width=216&crop=smart&auto=webp&s=cd3cec4f8473050418fc3e3f8b42bf82efa8845e"
+        },
+        {
+          "y": 425,
+          "x": 320,
+          "u": "https://preview.redd.it/vl3d8cwsjqh71.jpg?width=320&crop=smart&auto=webp&s=e8f5281e7883b1474cb6984618c0d6bb3c9c915b"
+        },
+        {
+          "y": 850,
+          "x": 640,
+          "u": "https://preview.redd.it/vl3d8cwsjqh71.jpg?width=640&crop=smart&auto=webp&s=a2bcf1f16c644a9867f275dd2718d5355b0b2734"
+        }
+      ],
+      "s": {
+        "y": 997,
+        "x": 750,
+        "u": "https://preview.redd.it/vl3d8cwsjqh71.jpg?width=750&format=pjpg&auto=webp&s=b818ae75767a341f2512a2324ddc68455eb0ae72"
+      },
+      "id": "vl3d8cwsjqh71"
+    },
+    "2z331r8mjqh71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/jpg",
+      "p": [
+        {
+          "y": 72,
+          "x": 108,
+          "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=108&crop=smart&auto=webp&s=13faa1ae90d52c54fd3ef3ade915b90623de785c"
+        },
+        {
+          "y": 145,
+          "x": 216,
+          "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=216&crop=smart&auto=webp&s=cb3ed5678c5b4a208a274caa1f9a58a8c6c0586e"
+        },
+        {
+          "y": 215,
+          "x": 320,
+          "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=320&crop=smart&auto=webp&s=c80da1775c851069ab3acf85b19052c521734e59"
+        },
+        {
+          "y": 430,
+          "x": 640,
+          "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=640&crop=smart&auto=webp&s=3f63e2a1a3fcbabfbc2e02143b91555bf7a3a579"
+        },
+        {
+          "y": 646,
+          "x": 960,
+          "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=960&crop=smart&auto=webp&s=992088502d27bda11df5fe29251f411f46e807a2"
+        },
+        {
+          "y": 727,
+          "x": 1080,
+          "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=1080&crop=smart&auto=webp&s=2ef86841c3186129106794a69ff47303f7b4f4e8"
+        }
+      ],
+      "s": {
+        "y": 781,
+        "x": 1160,
+        "u": "https://preview.redd.it/2z331r8mjqh71.jpg?width=1160&format=pjpg&auto=webp&s=124414fbc8a6314411691481a022d9df3185cfac"
+      },
+      "id": "2z331r8mjqh71"
+    }
+  },
+  "name": "t3_p5hz6d",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.88,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 1672,
+  "total_awards_received": 56,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": true,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1672,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 11,
+    "gid_2": 3,
+    "gid_3": 1
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1629126585,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>A case study in the meme market’s Epileptic Squeezures and why the market is ready for another.</h1>\n\n<p><strong>Alright folks! So you&#39;ve heard CLOV looks good for an epic run... and oh boy does it!</strong></p>\n\n<p><strong>I have a full write up broken into multiple parts and I’m spending quite a bit of time on this, I hope you find it useful! If there is any organizational changes I can make to allow reading it easier, please let me know. If you find any piece of information wrong, please point it out but also explain. I’ve spent a lot of time learning about the market since the meme stocks started what they’ve been doing. It’s fascinating, and I’ve learned so much. Lost money, made money, but am overall better for the education! I don’t know everything and I am open to counter arguments and more details where I may have missed some. Thanks!</strong></p>\n\n<p><strong><em>The brief summary of data:</em></strong> <em>CLOV option open interest on 8/20 (the number of contracts open for calls/puts) is absolutely enormous. For perspective, this Friday has a typical number of contracts for the stock. We see 77,006 calls and 31,986 puts (0.42 ratio) expiring, 8/13.</em></p>\n\n<p><em>FRIDAY 08/20 HOWEVER, we have jaw dropping 306,424 calls, and 72,752 puts (0.24 ratio). This puts us right on track for a GAMMA SQUEEZE (details further down).</em></p>\n\n<p><em>Earnings report showed a surprise beat on revenue (+100%), critical for growth stocks. We are at a local minimum value on the stock, so with a great earnings report, investors are eager to buy the stock. We saw this on 08/12 after earnings with the insane amount of volume (147.4million, vs the avg. of 29.22 million) fighting for the price around $9 a share.</em></p>\n\n<p><em>These factors, plus 25% short interest (who doesn&#39;t love hearing that), mean that CLOV is ripe for a major mind melting squeeze beginning the week of the Futures contract rollover dates beginning on the Futures First Notice Day, August 26. The futures contracts are a key piece of this meme stock puzzle that many have been trying to solve.</em></p>\n\n<p><em>This will likely peak before Sept. 9 due to futures rollover dates. Unless we see insane price action reaching margin call levels, which considering the DTCC&#39;s updated Uncleared Margin Rules (phase 5) going into effect on Sept 1st. is expected to cause a spike in margin calls.</em></p>\n\n<p><strong><em>TLDR: CLOV go moon before Sept 9, buy shares. Buy calls 09/03 @ $10 and 9/10 @ whatever strike suits you.</em></strong></p>\n\n<p>For the long version, read on!</p>\n\n<p><strong>Table of Contents:</strong></p>\n\n<ol>\n<li>What the hell is a gamma squeeze?</li>\n<li>How will we recognize a gamma squeeze? How long can it take to play out?</li>\n<li>FTDS</li>\n<li><strong>Futures Contracts Rollover Dates –  Triple Witching Rollover Edition and we&#39;re in a Ford Bronco</strong></li>\n</ol>\n\n<p><strong><em>What the hell is a gamma squeeze and how do you predict one is going to happen?</em></strong></p>\n\n<p>A gamma squeeze is a product of the derivatives (calls/puts) market. Usually this is a rare event, but with growing accessibility to the markets by retail investors, it is becoming more common. (<em>Tin foil hat</em>: this will not last forever, they will nerf this feature at some point).</p>\n\n<p><strong><em>What causes the gamma squeeze?</em></strong> Unusually high call option open interest + Rise in share price + Market Maker Delta hedging.</p>\n\n<p>Delta hedging is when market makers buy and sell shares in a stock to remain delta neutral. See, a Hedge fund (market maker) is intended to provide liquidity, and help you buy and sell shares. But they don&#39;t want to be on the bad side of a trade, so they remain delta neutral.</p>\n\n<p>Delta is a value that affects the option price on calls and puts. It is directly related to the rate of change in stock price. So if you have a call option with a delta of 0.1, a market maker needs to buy 10 shares to hedge. A delta of 0.5 would be 50 shares, and the max delta is 1.0 or 100 shares (this would be deep in the money) The more call options open (open interest), the more market makers have to do this.</p>\n\n<p>As you might be figuring out, if the market makers have to buy shares to delta hedge, and there are an immense amount of call options open, then the buying action from market makers to delta hedge can and WILL drive up the price. As retail investors continue to buy shares and the price climbs, market makers must also buy shares to delta hedge. This causes a snowballing effect called the gamma squeeze. We saw this happen with so many stocks now (AMC in June, CLOV in June).</p>\n\n<p>Gamma is the value that measures the rate of change in delta. So the faster the price changes, the higher the delta, and gamma runs higher as delta changes faster. Hence why it is termed a gamma squeeze.</p>\n\n<p><strong><em>How will we recognize a gamma squeeze happening? How long can it take to play out?</em></strong></p>\n\n<p>The timeline for a gamma squeeze can be longer than you think. It is driven by multiple factors, and the intensity of each of these factors adds pressure to the overall squeeze. It can be broken into a few parts:</p>\n\n<p><strong><em>Share buying</em></strong></p>\n\n<p>As shares are bought causing a rise in the stock price, market makers must hedge by buying shares as delta rises. The faster the rise in stock price due to buying pressure, the faster delta increases and the more shares need to be purchased by market makers. This is due to the need to deliver these shares the following week as more calls become in the money. More on this below.</p>\n\n<p><strong><em>Call Buying</em></strong></p>\n\n<p>The more calls bought, the more shares must be purchased to delta hedge. If I purchase the $8 strike for 08/20 expiration, that call has a delta right now of 0.6. This means the market maker will purchase 60 shares to hedge against this.</p>\n\n<p>In one respect, I think you can view buying calls as a way to effectively move the market as though you purchased that many shares, for a fraction of the price – hence the fact it is a leveraged bet. The current value of the call option is $59, however it would cost you $492.6 to buy $60 shares to have the same effect. (That said, please do not just YOLO call options, I’m doing a mix of calls and shares).</p>\n\n<p><strong><em>Call Options Expiring ITM and their delivery</em></strong></p>\n\n<p>The more calls that expire ITM on Friday, the more this impacts the price of the stock the following week. If you weren’t aware, options expiring ITM must have their shares delivered to the exerciser of the contract by T+2. If the call writer is short the stock, they must buy the stock on the market. As a result, we usually see a surge in stock price following options expiration if a large number of calls expire ITM. This surge in stock price causes a surge in delta, which further compounds the rise in price as market makers buy shares to hedge delta. It’s this T+2 option delivery, combined with futures rollover dates, that I believe is going to help catalyze the next run.</p>\n\n<p>In the case of CLOV, there are absolutely staggering numbers of calls at various strikes on 08/20. See the following table from Barchart to see the numbers yourself.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/2z331r8mjqh71.jpg?width=1160&amp;format=pjpg&amp;auto=webp&amp;s=124414fbc8a6314411691481a022d9df3185cfac\">Open Interest on 08/20 for CLOV strikes $1-$17.50</a></p>\n\n<p><strong><em>Closing Short Sales</em></strong></p>\n\n<p>As share price increases and borrowable shares dwindle, the borrow fee for short positions rises. Eventually this becomes untenable for short sellers and they must purchase shares to close their positions. We’ve beaten the short squeeze scenario to death in this subreddit, so I won’t go into more details. Just for data, the most recently reported (08/10) short interest on fintel shows 22.48% of the float is short, though Ortex estimates this has increased as of Friday 08/13 to 25.58% (go figure after that price action we saw on Friday). Short sales have likely been used to suppress price prior to the massive buy up necessary due to futures contracts (see below).</p>\n\n<p><strong><em>FTDS – Failures-to-deliver</em></strong></p>\n\n<p>CLOV shares that failed to deliver in the first two weeks of July is a staggering number. There were 46 million shares that failed to deliver. Compare to the 22million in June, vs the 6 million in May. These shares must be delivered. FTD data for the second half of July should be available on 08/16.</p>\n\n<p>46 million shares out of the public float of 133.76 million = 34.3% of the entire stocks’ float failed to deliver in the first two weeks of July.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/jo34i1g2kqh71.jpg?width=1830&amp;format=pjpg&amp;auto=webp&amp;s=4433d9ee3994dcbd16e6ac84951894a8fa099204\">FTDs for CLOV. Massive Spike in early July during the consistent drop in stock value</a></p>\n\n<p>High number of shares that fail to deliver usually indicates high amounts of short selling. Additionally, after the 30th of June, it appears that skyrocketing FTDs is correlated to a consistently falling share price that sees no Tuesday recovery due to options delivery. You can see a spike each Tuesday in June due to this, followed by a drop in share value.</p>\n\n<p><strong><em>READ! Futures Contracts Rollover – THIS IS ABSOLUTELY CRITICAL!</em></strong></p>\n\n<p>For me, this was the last piece of the puzzle on figuring out what is going on with the meme stocks. The Triple Witching day is well known, and happens when futures expiration meets quarterly option expirations, but the timeframe for equity rollover was completely unknown to me.</p>\n\n<p>On 9/9 the next futures contract rollover date happens. There is evidence that much of the meme stock activity is due to someone on the bad end of a futures basket that included many of the &quot;meme&quot; stocks we love so much today.</p>\n\n<p>Each major run up has been just before the futures rollover date on many more stocks than CLOV. Some of those companies show movies, other sell stuff to gamers. I don’t want to name them and get flagged for removal.</p>\n\n<p>The last futures rollover date was 6/10, the week that was the peak of our last meme circus. CLOV’s peak was seen on 6/9, and the futures rollover happened the following day. CLOV stock never recovered.</p>\n\n<p>Furthermore, if you look at the following table I stole from <a href=\"/u/criand\">/u/criand</a> without permission (the futures info is his DD, thanks dude, you’re a fucking hero)</p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/0qtzon9pjqh71.png?width=679&amp;format=png&amp;auto=webp&amp;s=c066103e8c7bf7ea71274f397bb33a7d57923dfc\">https://preview.redd.it/0qtzon9pjqh71.png?width=679&amp;format=png&amp;auto=webp&amp;s=c066103e8c7bf7ea71274f397bb33a7d57923dfc</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/mllu0qaqjqh71.png?width=1547&amp;format=png&amp;auto=webp&amp;s=6da4572dbed718075d9ad28ebce7b9b195f6bb90\">Critical dates in the June 2nd - June 9th Squeeze</a></p>\n\n<p>We can see that the beginning of rollovers started on May 25th, the same day we started to see CLOV climb up from $7.01/share. The following week it closed on Friday, 6/4 at $9.12/share</p>\n\n<p>The next Monday 06/7, it rips up to $11.92 by close, followed by a run to a close of $22.15 on Tuesday the 06/08. Wednesday 06/09 saw a high of $28.85 and a close of $16.92, ending the squeeze. You may ask yourself why it took so long for it to run up like this? The objective is to cover at the very last minute and avoid retail traders piling on to make the problem worse. If retail traders were to push the value of the stock higher each week allowing more calls to end ITM, through the buying of shares and ITM and ATM call options, then this run will end up moving sooner and moving higher. This is the exact scenario they want to avoid, and why you have never heard this information until now.</p>\n\n<p><strong>What to look for in confirmation?</strong></p>\n\n<p>Market maker algorithms generally move prices to max-pain. This is where option writers are hurt the most and the least impact is placed on the market maker. When we end above the max pain level (which for 08/20 is $9.00) it puts more calls ITM, which usually leads to increased price action the following week as shares are bought to deliver for options contracts.</p>\n\n<p>If it closes over $9 a share this Friday, that puts an additional 20,952 call options ITM. If we go over $10, this adds another 32,382 calls ITM. The more shares purchased this week by retail, plus the more AT THE MONEY AND IN THE MONEY CALLS will put pressure on this gamma squeeze to get started. The higher the price ends this Friday, the higher this event goes.</p>\n\n<p><strong>How to cause the most impact on the stock price:</strong></p>\n\n<p>If you plan to participate, I suggest buying shares and ITM or ATM call options. One method of acquiring shares is buying a call option. If you by a call option for 8/20, the $8 strike is $59. The current share price is $8.21. If you purchase the option and choose to exercise it, you can have the effect of the call’s delta forcing market makers to buy shares to hedge, plus when you exercise you can acquire 100 shares and force a higher price on Tuesday during options delivery.</p>\n\n<p>My strategy involves deep ITM calls this week which I will exercise on Friday. I have the $6 strike call which will allow me to call away 100 shares for $6 each. I chose this as the shares did manage to reach $7.01 in May before the run, and I want to make sure I don’t end up OTM. I also have the 09/03 call for the $10 strike, and the 09/10 call for the $11 strike. I do not plan to exercise these calls, and instead sell them during a bullish run up during their week of expiration.</p>\n\n<p>Good luck, have fun, and set yourself up to get out of this 9-5 bullshit, we deserve better!</p>\n\n<p>&#x200B;</p>\n\n<p>I&#39;ll leave you with one last bullish bit of sentiment, straight from the DTCC:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/vl3d8cwsjqh71.jpg?width=750&amp;format=pjpg&amp;auto=webp&amp;s=b818ae75767a341f2512a2324ddc68455eb0ae72\">https://preview.redd.it/vl3d8cwsjqh71.jpg?width=750&amp;format=pjpg&amp;auto=webp&amp;s=b818ae75767a341f2512a2324ddc68455eb0ae72</a></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "p5hz6d",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "ChemaKyle",
+  "discussion_type": null,
+  "num_comments": 244,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/p5hz6d/my_lucky_clov_a_case_study_in_the_meme_markets/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/p5hz6d/my_lucky_clov_a_case_study_in_the_meme_markets/",
+  "subreddit_subscribers": 10744689,
+  "created_utc": 1629170133,
+  "num_crossposts": 2,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1629126585,
+  "the_new_excerpt": "A CASE STUDY IN THE MEME MARKET’S EPILEPTIC SQUEEZURES AND WHY THE MARKET IS\nREADY FOR ANOTHER.\n\nAlright folks! So you've heard CLOV looks good for an epic run... and oh boy\ndoes it!\n\nI have a full write up broken into multiple parts and I’m spending quite a bit\nof time on this, I hope you find it…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ミーム市場のてんかんのような発作のケーススタディと、なぜ市場が次の準備をしているのか？\nの準備ができています。\n\nさてさて、皆さん。CLOVは大暴れすると聞いていましたが...なんということでしょう\nその通りです!\n\n私は、複数のパートに分かれた完全なレポートを作成しており、これにかなりの時間を費やしています。\nこの記事にはかなりの時間を費やしています。",
+      "title": "My Lucky CLOV - ミーム市場のEpileptic Squeezuresのケーススタディと、なぜ市場が次の準備をしているのかについて。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一个关于备忘录市场的癫痫性挤压的案例研究，以及为什么市场已经准备好了另一个案例。\n准备再来一次。\n\n好了，伙计们 所以你已经听说CLOV看起来很好，会有一个史诗般的运行......哦，男孩\n它确实是这样的!\n\n我有一个完整的写法，分为多个部分，我花了相当多的\n的时间，我希望你能找到它......",
+      "title": "我的幸运CLOV--备忘录市场的癫痫性挤压案例研究，以及为什么市场已经准备好了另一个案例。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一個關於備忘錄市場的癲癇性擠壓的案例研究，以及爲什麼市場已經準備好了另一個案例。\n準備再來一次。\n\n好了，夥計們 所以你已經聽說CLOV看起來很好，會有一個史詩般的運行......哦，男孩\n它確實是這樣的!\n\n我有一個完整的寫法，分爲多個部分，我花了相當多的\n的時間，我希望你能找到它......",
+      "title": "我的幸運CLOV--備忘錄市場的癲癇性擠壓案例研究，以及爲什麼市場已經準備好了另一個案例。"
+    }
+  ],
+  "source_updated_at": 1629452486947
+}

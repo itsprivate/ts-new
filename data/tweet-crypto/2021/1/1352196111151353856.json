@@ -1,0 +1,79 @@
+{
+  "created_at": "Fri Jan 22 13:45:34 +0000 2021",
+  "id_str": "1352196111151353856",
+  "full_text": "RT @fluffypony: I'm hosting the Bitcoin whitepaper, as distributed by Satoshi under the MIT license with the original Bitcoin code, on this…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "fluffypony",
+        "name": "Riccardo Spagni",
+        "id": 386728215,
+        "id_str": "386728215",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 458,
+  "favorite_count": 0,
+  "original_created_at": "Thu Jan 21 10:07:30 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @fluffypony：我主持的比特币白皮书，是聪聪在麻省理工学院授权下发布的，有原始比特币代码，在这...",
+      "retweeted_status_full_text": "我在这个网站上托管了Satoshi在MIT授权下发布的比特币白皮书与原始比特币代码。\nhttps://t.co/1FoHqgyd4C"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @fluffypony：我主持的比特幣白皮書，是聰聰在麻省理工學院授權下發布的，有原始比特幣代碼，在這...",
+      "retweeted_status_full_text": "我在這個網站上託管了Satoshi在MIT授權下發布的比特幣白皮書與原始比特幣代碼。\nhttps://t.co/1FoHqgyd4C"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Thu Jan 21 09:46:27 +0000 2021",
+    "id_str": "1352190813636325378",
+    "full_text": "I'm hosting the Bitcoin whitepaper, as distributed by Satoshi under the MIT license with the original Bitcoin code, on this site:\nhttps://t.co/1FoHqgyd4C",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1FoHqgyd4C",
+          "expanded_url": "http://craigwrightisnotsatoshi.com",
+          "display_url": "craigwrightisnotsatoshi.com",
+          "indices": [
+            130,
+            153
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Riccardo Spagni",
+      "screen_name": "fluffypony",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1350068824096256003/yUS9kWdf_normal.jpg"
+    },
+    "retweet_count": 458,
+    "favorite_count": 2344,
+    "possibly_sensitive": false
+  }
+}

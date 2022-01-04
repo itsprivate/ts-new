@@ -1,0 +1,58 @@
+{
+  "author": "Linus_Naumann",
+  "original_created_utc": 1629291207,
+  "title": "Parallel realities and IOTAs breakthrough “Multiverse consensus\"",
+  "created_utc": 1629297136,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Fun fact about our universe: There is no objective time. Every observer experiences their own duration and series of events, depending on their relative speeds to each other. Even the <strong>order of events</strong> gets blurred: Two events that happens simultaneously for one observer can happen one-after-another for the other (see <a href=\"https://en.wikipedia.org/wiki/Ladder_paradox\">ladder-paradox</a>). </p>\n\n<p>Why am I telling you this on a crypto-currency subreddit? Because within distributed ledgers (like blockchains or DAGs) there is also <strong>no objective series of events</strong>. Each node in the network experiences its very own order of transactions. And believe it or not: This relativity of time is the reason you pay fees on your Bitcoin transactions. </p>\n\n<p><strong>Time-relative networks are vulnerable to double-spends</strong></p>\n\n<p>Distributed networks are made up of nodes that tell to each other their opinion on the ledger-state. So when a node wants to issue a transaction it starts by telling it´s neighboring nodes about it. They  then forward it to their neighbors and so on – information ripples through the network. This form of communication is called “gossip” and is highly scalable. However, a fundamental side-effect is that the time and order of transactions becomes relative. Each node sees its own version of reality, just like observers in the physical universe. Problem: This opens up vulnerabilities for double-spends.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/p1us2cq5z3i71.png?width=1597&amp;format=png&amp;auto=webp&amp;s=4ea88f0a184713b6c4ada9a9191525e915d1cd37\">Fig.1: Classical double-spend: Node A spends the same funds twice, each time telling only node B or node C about each transaction. Node A and B find out about the double-spend via gossiping, however they cannot agree on which transaction came first.</a></p>\n\n<p><strong>Crude but working solution: Pay someone to deal with conflicts</strong></p>\n\n<p>To this day, no blockchain found a solution to constructively work with relativity of time. Instead, the double-spend problem is universally solved in a rather simplistic way: Slow down the network and organize it into artificial checkpoints, aka “blocks”, in order to synchronize opinions. The problem is that these blocks do not evolve naturally out of the distributed ledger. Instead an outside entity is needed to arbitrarily define them. This entity is called a “leader” and is usually determined by proof-of-work (miners) or proof-of-stake (stakers). They make sure to create a block with no internal conflicts.</p>\n\n<p>And it works: this method solves the double-spend problem. However, it also comes with several high costs:</p>\n\n<p><strong>Problem 1: Leaders slow everything down</strong></p>\n\n<p>Finding a leader costs time. Instead of having a continuous and smooth flow of transactions, the network gets stopped in fixed intervals (block-times). Only AFTER a block is fully validated the next batch of transactions can be processed. </p>\n\n<p><strong>Problem 2: Leaders want your money</strong></p>\n\n<p>Miners and stakers can only be trusted, because we count on their financial self-interest. This financial interest must be continuously satisfied by fees and/or token inflation. Fees however run exactly contrary to the usability of the network: They are a direct incentive to NOT use the network and they destroy many possible use-cases (see <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/oyhntm/the_hidden_goldmine_nocoin_dlt_and_iotas_feeless/\">No-coin DLT use-cases</a>). </p>\n\n<p><strong>Problem 3: Leaders are middle-men</strong> </p>\n\n<p>As long as regular nodes cannot directly write transactions into the ledger themselves, but instead have to pay thirds parties (miners/stakers), cryptocurrencies are not really what Satoshi originally envisioned: “peer-to-peer electronic cash”. There will always be a lot less leaders (for example mining-pools) than nodes on the network (in Bitcoin 4 mining-pools control 51% of hash-power..). This has serious long-term problems which are discussed <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/p2bmz6/unpopular_opinion_bitcoin_did_not_get_rid_of_the/\">here</a>.</p>\n\n<p><strong>IOTAs radical idea: Accept relativity of time, throw out miners/stakers</strong></p>\n\n<p>One of the fundamental concepts of IOTA is to NOT insist on a total order of transactions. This single decision has immediate and strong consequences on the network:</p>\n\n<p>· <strong>Feeless</strong> (Since there are no leaders that need to get paid)</p>\n\n<p>· <strong>Fast</strong> (Since there is no need to wait for blocks to be validated)</p>\n\n<p>· <strong>Green</strong> (Since there is no competitive PoW)</p>\n\n<p>· <strong>Decentralized</strong> (Because ALL nodes are leaders, not only a few).</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/pzytqs49z3i71.png?width=1525&amp;format=png&amp;auto=webp&amp;s=57fbc05a05885e58e0fe3cc9311b0de07788d813\">Fig.2: Blockchains cannot effectively scale, because they force the natural flow of transactions into fixed-sized blocks. IOTAs Tangle allows all nodes to freely write transactions into the ledger at all times.</a></p>\n\n<p><strong>But how are double-spends resolved?</strong></p>\n\n<p>Short answer: Democracy</p>\n\n<p>Longer answer: IOTA developed a completely new “leaderless consensus”, which is based on <strong>parallel-reality based ledger states</strong> and <strong>on-tangle voting</strong> (aka “Multiverse consensus”).</p>\n\n<p>Parallel-reality based ledger state allows every node to have its own opinion about the order of transactions on the network. This means that at every point in time there are actually many versions of the IOTA ledger: One “reality” for every node. These realities can even be in conflict with each other! </p>\n\n<p>In consequence the network effectively splits whenever a conflict arises (similar to the <a href=\"https://en.wikipedia.org/wiki/Many-worlds_interpretation\">many-worlds</a> interpretation of quantum physics). In order to merge back together into one shared reality nodes have to find the heaviest branch in the network – exactly like in “heaviest-chain wins” consensus in blockchains.</p>\n\n<p>But how to find the heaviest branch/reality? In blockchains the longest chain is easy to spot: Leaders simply post their hashed blocks and nodes count who has the longest chain. In multiverse-consensus however the heaviest branch is found via on-tangle voting.</p>\n\n<p>Nodes vote on which reality they most believe in by gossiping with other nodes. However, a simple “one node, one vote” democracy could easily be gamed, since everyone can cheaply create as many nodes (and therefore votes) as they want. Therefore, a secret ingredient is necessary to protect the network. This ingredient is called “consensus Mana” (cMana) and it is earned by nodes by processing value transactions in the network (so “more useful” nodes have a more important opinions).</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://i.redd.it/bcqi246kz3i71.gif\">Fig. 3: A conflict splits the network into two or more “realities”. The reality that amasses the majority of cMana behind it is the “heaviest branch”. All honest nodes will merge back into this branch by dropping any conflicting opinions. Source:  https://v2.iota.org/how-it-works/decentralized </a></p>\n\n<p>Over time, one reality of the network will amass 51% of cMana behind it and will therefore become the heaviest branch. All honest nodes will acknowledge this fact and will drop their conflicting opinions in order to merge back together. This method can lead to incredibly complex multiverse-structures, (for example when new conflicts arise inside already split realities), however there will always emerge exactly one reality that is approved by the majority of cMana. Conflicts are therefore resolved “on-the-run”, without leaders and without any fees.</p>\n\n<p><strong>How far is IOTA in achieving this vision?</strong></p>\n\n<p>IOTA is currently in a “beta” stage (called IOTA 1.5 or “Chrysalis”). Value transactions on the mainnet are still centralized under the coordinator-node run by the IOTA Foundation. Pure data-transactions are fully decentralized though.</p>\n\n<p>The fully decentralized “IOTA 2.0 DevNet” is already running since several months, however it is not yet feature-complete and remains under construction. You can watch the DevNet live here: <a href=\"https://v2.iota.org/visualizer\">https://v2.iota.org/visualizer</a></p>\n</div><!-- SC_ON -->",
+  "score": 174,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/drqlqrP3mJZG9tQe5sm9D1aGiQYkfLEwNmHtmXW46SU.jpg?auto=webp&s=03607f9239b4cc9f370ac920fbfa73ea36d3e53a",
+          "width": 250,
+          "height": 508
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/drqlqrP3mJZG9tQe5sm9D1aGiQYkfLEwNmHtmXW46SU.jpg?width=108&crop=smart&auto=webp&s=54444b71b748e00c04f64db8e987dc64b4169e5a",
+            "width": 108,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/drqlqrP3mJZG9tQe5sm9D1aGiQYkfLEwNmHtmXW46SU.jpg?width=216&crop=smart&auto=webp&s=46e73b367b85f9110e5096eb7e92c6f30913fd9b",
+            "width": 216,
+            "height": 432
+          }
+        ],
+        "variants": {},
+        "id": "8oyA0wWKTfmS1sDH6AJuaSEWB4dnryFBvhfNLIfYuCM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/p6qk3h/parallel_realities_and_iotas_breakthrough/",
+  "subreddit": "CryptoCurrency",
+  "id": "p6qk3h",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Fun fact about our universe: There is no objective time. Every observer\nexperiences their own duration and series of events, depending on their relative\nspeeds to each other. Even the order of events gets blurred: Two events that\nhappens simultaneously for one observer can happen one-after-another…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私たちの宇宙についての楽しい事実。客観的な時間はありません。すべての観察者は\n互いの相対速度に応じて、それぞれの時間と一連の出来事を経験します。\n互いの相対的な速度に応じて、それぞれの時間と一連の出来事を経験します。イベントの順序さえも曖昧になります。二つの出来事が\nある観測者にとっては同時に起こる2つの出来事が、別の観測者にとっては次々と起こる...。",
+      "title": "パラレルリアリティとIOTAの突破口 \"マルチバースコンセンサス\""
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "关于我们宇宙的有趣事实。没有客观的时间。每个观察者\n都会经历他们自己的时间和一系列的事件，这取决于他们的相对\n彼此的速度。甚至事件的顺序也变得模糊不清。对一个观察者来说同时发生的两个事件\n对一个观察者来说是同时发生的，但对另一个观察者来说可能是相继发生的......",
+      "title": "平行现实和IOTA突破了 \"多元宇宙共识\""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "關於我們宇宙的有趣事實。沒有客觀的時間。每個觀察者\n都會經歷他們自己的時間和一系列的事件，這取決於他們的相對\n彼此的速度。甚至事件的順序也變得模糊不清。對一個觀察者來說同時發生的兩個事件\n對一個觀察者來說是同時發生的，但對另一個觀察者來說可能是相繼發生的......",
+      "title": "平行現實和IOTA突破了 \"多元宇宙共識\""
+    }
+  ]
+}

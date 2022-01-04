@@ -1,0 +1,81 @@
+{
+  "created_at": "Thu Dec 17 1:6:32 +0000 2020",
+  "id_str": "1339329860674711554",
+  "full_text": "Bitcoin $21,000. $BTC https://t.co/FcsKi471PE",
+  "display_text_range": [
+    0,
+    21
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "BTC",
+        "indices": [
+          17,
+          21
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1339329684782329900,
+        "id_str": "1339329684782329856",
+        "indices": [
+          22,
+          45
+        ],
+        "media_url": "http://pbs.twimg.com/media/EpZBQJKWMAAUFyO.png",
+        "media_url_https": "https://pbs.twimg.com/media/EpZBQJKWMAAUFyO.png",
+        "url": "https://t.co/FcsKi471PE",
+        "display_url": "pic.twitter.com/FcsKi471PE",
+        "expanded_url": "https://twitter.com/charliebilello/status/1339329860674711554/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 418,
+            "h": 548,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 418,
+            "h": 548,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 418,
+            "h": 548,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 69,
+  "favorite_count": 271,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Dec 16 22:01:36 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "比特币2.1万美元。https://t.co/FcsKi471PE TC巴恩斯"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "比特幣2.1萬美元。https://t.co/FcsKi471PE TC巴恩斯"
+    }
+  ],
+  "source_updated_at": 1609260496540
+}

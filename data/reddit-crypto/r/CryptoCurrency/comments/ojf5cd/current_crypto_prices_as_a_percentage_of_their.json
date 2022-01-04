@@ -1,0 +1,78 @@
+{
+  "author": "cfg17291",
+  "original_created_utc": 1626181450,
+  "title": "Current crypto prices as a percentage of their All Time Highs",
+  "created_utc": 1626197440,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been looking into getting real time data on crypto prices for some Python code, and thought I&#39;d make a quick graphic for some well-known coins about their current price (13 July 2021) compared to their all time high prices.</p>\n\n<p>The code uses the Python <a href=\"https://pypi.org/project/cryptocompare/\">cryptocompare</a> module. I included Tether as a joke, and not sure which exact exchange(s) the API extracts, but according to them it reached 1.66 at some point...</p>\n\n<p>Let me know what you think and if there are any coins you&#39;d like to see in any future posts that I&#39;ve missed out here.</p>\n\n<p><a href=\"https://i.imgur.com/YeKGMvX.png\">https://i.imgur.com/YeKGMvX.png</a></p>\n</div><!-- SC_ON -->",
+  "score": 155,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?auto=webp&s=aa8e0ce6d361adb8588af931963a5d368ea6f76f",
+          "width": 3232,
+          "height": 3695
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?width=108&crop=smart&auto=webp&s=5db995b297cae020365fd23002bd359574a0bf2c",
+            "width": 108,
+            "height": 123
+          },
+          {
+            "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?width=216&crop=smart&auto=webp&s=c21d92a48cc0fa0b202907a14fa205ef0d482bae",
+            "width": 216,
+            "height": 246
+          },
+          {
+            "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?width=320&crop=smart&auto=webp&s=9ba85d245d5f8b13a1454f78372600561fb6b21b",
+            "width": 320,
+            "height": 365
+          },
+          {
+            "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?width=640&crop=smart&auto=webp&s=5d5429340b1f4a8150dd36f63f267267a6dd4556",
+            "width": 640,
+            "height": 731
+          },
+          {
+            "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?width=960&crop=smart&auto=webp&s=f61be3d4577783aef35c3813df8c4af6f094e653",
+            "width": 960,
+            "height": 1097
+          },
+          {
+            "url": "https://external-preview.redd.it/Yqdk6T4JgCQuGsh_1jWL3Cv0MfBecKql1jBKh0hQ0LQ.png?width=1080&crop=smart&auto=webp&s=8386c6cea5fb68b69d6e8991b8a3f5919131c2b4",
+            "width": 1080,
+            "height": 1234
+          }
+        ],
+        "variants": {},
+        "id": "vm9vhD9tgju0FTi9ErxwDL7wL_oRvlDQNfEoKvZXYSw"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ojf5cd/current_crypto_prices_as_a_percentage_of_their/",
+  "subreddit": "CryptoCurrency",
+  "id": "ojf5cd",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I've been looking into getting real time data on crypto prices for some Python\ncode, and thought I'd make a quick graphic for some well-known coins about their\ncurrent price (13 July 2021) compared to their all time high prices.\n\nThe code uses the Python cryptocompare…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるPythonコードのために、暗号価格のリアルタイムデータを得ることを検討していました。\n有名なコインの現在の価格（2021年7月13日）と過去の高値との比較を簡単に図にしてみました。\n現在の価格（2021年7月13日）と過去の最高値との比較を簡単に図にしてみました。\n\nコードにはPython cryptocompare...",
+      "title": "現在の暗号価格の史上最高値に対する割合"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我一直在研究为一些Python代码获取加密货币价格的实时数据。\n代码，并认为我应该为一些著名的硬币做一个快速的图形，关于它们的\n目前的价格（2021年7月13日）与它们的历史最高价格相比。\n\n该代码使用Python cryptocompare...",
+      "title": "当前加密货币价格占其历史最高点的百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我一直在研究爲一些Python代碼獲取加密貨幣價格的實時數據。\n代碼，並認爲我應該爲一些著名的硬幣做一個快速的圖形，關於它們的\n目前的價格（2021年7月13日）與它們的歷史最高價格相比。\n\n該代碼使用Python cryptocompare...",
+      "title": "當前加密貨幣價格佔其歷史最高點的百分比"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "A while ago, I posted about a crypto trading bot that I coded and decided to\nopen source my code and share with the crypto community. A lot of you had great\nfeedback for me to add into the bot in order to improve its functionality. So I\nadded some new features in, for more flexibility.\n\nHere's a…",
+  "original_created_utc": 1618470939,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "少し前に、私がコーディングした暗号取引ボットについて投稿しましたが、そのコードをオープンソース化して暗号コミュニティと共有することにしました。\nコードをオープンソース化し、暗号コミュニティで共有することにしました。多くの方から素晴らしいフィードバックをいただきました。\nボットの機能を向上させるために追加したいという素晴らしいフィードバックをいただきました。そこで私は\n柔軟性を高めるために、いくつかの新機能を追加しました。\n\nここでは、その一部をご紹介します。",
+      "title": "オープンソースで開発した暗号取引ボットの機能を向上させました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "前段时间，我发布了一个我编码的加密交易机器人，并决定将其用于\n开源我的代码，并与加密社区分享。你们中的很多人都有很好的\n反馈意见，让我添加到机器人中，以改善其功能。所以我\n增加了一些新的功能，更加灵活。\n\n这里是一个...",
+      "title": "我已经改进了功能，如果我编码和开源的加密交易机器人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "前段時間，我發佈了一個我編碼的加密交易機器人，並決定將其用於\n開源我的代碼，並與加密社區分享。你們中的很多人都有很好的\n反饋意見，讓我添加到機器人中，以改善其功能。所以我\n增加了一些新的功能，更加靈活。\n\n這裏是一個...",
+      "title": "我已經改進了功能，如果我編碼和開源的加密交易機器人。"
+    }
+  ],
+  "title": "I have improved the functionality if the crypto trading bot that I coded and open sourced",
+  "created_utc": 1618512910,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>A while ago, I posted about a crypto trading bot that I coded and decided to open source my code and share with the crypto community. A lot of you had great feedback for me to add into the bot in order to improve its functionality. So I added some new features in, for more flexibility.</p>\n\n<p>Here&#39;s a quick breakdown of what the core features are:</p>\n\n<ol>\n<li>The bot will be trading Bitcoin automatically if the price has increased by more than 3% in the last 10 minutes.</li>\n<li>The bot has a stop loss of 5% and a take profit of 8%</li>\n</ol>\n\n<p>And here are some additional features that I added from your feedback:</p>\n\n<ol>\n<li>The stop loss, take profit and crypto selected are now easily configurable</li>\n<li>The price threshold (default at 3) is also easily customisable</li>\n<li>The bot now has an option to open sell positions</li>\n</ol>\n\n<p>Many of you have mentioned that you would like to test the opposite scenario, so instead of buying after a quick surge, to sell instead. I have added this in as well, so you can experiment with this feature. :)</p>\n\n<p>The code is available on GitHub and there is also a step-by-step guide you can follow if you&#39;re new to trading bots or Python.</p>\n\n<p>GitHub Repo: <a href=\"https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha\">https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha</a></p>\n\n<p>Article and Guide: <a href=\"https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/\">https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/</a></p>\n</div><!-- SC_ON -->",
+  "score": 167,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?auto=webp&s=3ec2a58037d1ad0411d794a0729fecfb8de8fcba",
+          "width": 400,
+          "height": 400
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=108&crop=smart&auto=webp&s=8ef711314feeb52b3b74d67faa40f88795973045",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=216&crop=smart&auto=webp&s=7ea3e873a2e1b2eb82e18e5dca581b6e50653ead",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=320&crop=smart&auto=webp&s=e7ff450aa94e7aa5bceaa8f01e64782252bfad12",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "W8cED8o4BU1lBQr3ao_LTxG-YGu3yqJV1UHHb4-AB6E"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mr9mio/i_have_improved_the_functionality_if_the_crypto/",
+  "subreddit": "CryptoCurrency",
+  "id": "mr9mio",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619171517790
+}

@@ -1,0 +1,73 @@
+{
+  "type_of": "article",
+  "id": 845494,
+  "title": "Simplify Your Code: Replace Nested If-Else with Guards",
+  "description": "Nested if-else statements can make it unnecessarily complicated to reason about the different...",
+  "readable_publish_date": "Sep 29",
+  "slug": "javascript-refactoring-in-action-replace-nested-if-else-with-guards-41nl",
+  "path": "/p42/javascript-refactoring-in-action-replace-nested-if-else-with-guards-41nl",
+  "url": "https://dev.to/p42/javascript-refactoring-in-action-replace-nested-if-else-with-guards-41nl",
+  "comments_count": 12,
+  "public_reactions_count": 55,
+  "collection_id": null,
+  "published_timestamp": "2021-09-29T16:17:43Z",
+  "positive_reactions_count": 55,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2SDSfwuN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nor0f7ikpo3plom98mkj.jpg",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T-qtKXWR--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nor0f7ikpo3plom98mkj.jpg",
+  "canonical_url": "https://p42.ai/blog/2021-09-29/javascript-refactoring-in-action-replace-nested-if-else-with-guards",
+  "created_at": "2021-09-30T21:22:08.636Z",
+  "edited_at": "2021-09-29T18:20:22Z",
+  "crossposted_at": null,
+  "published_at": "2021-09-29T16:17:43Z",
+  "last_comment_at": "2021-09-30T19:23:18Z",
+  "reading_time_minutes": 2,
+  "tag_list": [
+    "vscode",
+    "webdev",
+    "javascript",
+    "typescript"
+  ],
+  "tags": [
+    "vscode",
+    "webdev",
+    "javascript",
+    "typescript"
+  ],
+  "user": {
+    "name": "Lars Grammel",
+    "username": "lgrammel",
+    "twitter_username": "lgrammel",
+    "github_username": "lgrammel",
+    "website_url": "http://p42.ai",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---wniJYqi--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/537354/d5ad24c2-a2b1-412e-8f2e-339879c22b22.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--pM5JpYgP--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/537354/d5ad24c2-a2b1-412e-8f2e-339879c22b22.jpg"
+  },
+  "organization": {
+    "name": "P42",
+    "username": "p42",
+    "slug": "p42",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bJMzZukY--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/3811/db3bedab-1e4b-46e0-bd6c-c7bc1c673f70.png",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--S_2967XV--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/3811/db3bedab-1e4b-46e0-bd6c-c7bc1c673f70.png"
+  },
+  "original_created_at": "2021-09-29T15:41:36Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2SDSfwuN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nor0f7ikpo3plom98mkj.jpg",
+  "author": "Lars Grammel",
+  "author_url": "https://dev.to/lgrammel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "if-else文の入れ子になっていると、それぞれの文の意味を考えるのが不必要に難しくなります。",
+      "title": "コードをシンプルに。入れ子になったIf-Elseをガードで置き換える"
+    },
+    {
+      "locale": "zh",
+      "description": "嵌套的if-else语句会使推理不同的问题变得不必要的复杂。",
+      "title": "简化你的代码。用卫士取代嵌套的If-Else"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嵌套的if-else語句會使推理不同的問題變得不必要的複雜。",
+      "title": "簡化你的代碼。用衛士取代嵌套的If-Else"
+    }
+  ]
+}

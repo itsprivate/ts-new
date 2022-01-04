@@ -1,0 +1,81 @@
+{
+  "created_at": "Fri Jan 29 21:50:8 +0000 2021",
+  "id_str": "1355260964959121412",
+  "full_text": "GameStop was up 1,644% in January.  \n \n$GME https://t.co/ru9as7jwMx",
+  "display_text_range": [
+    0,
+    43
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "GME",
+        "indices": [
+          39,
+          43
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1355260962899636200,
+        "id_str": "1355260962899636230",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/Es7aqk-WMAYkxH1.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Es7aqk-WMAYkxH1.jpg",
+        "url": "https://t.co/ru9as7jwMx",
+        "display_url": "pic.twitter.com/ru9as7jwMx",
+        "expanded_url": "https://twitter.com/Stocktwits/status/1355260964959121412/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 669,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1588,
+            "h": 885,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 379,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 118,
+  "favorite_count": 654,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jan 29 21:06:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "1月份，GameStop上涨了1644%。 \n \n$GME https://t.co/ru9as7jwMx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "1月份，GameStop上漲了1644%。 \n \n$GME https://t.co/ru9as7jwMx"
+    }
+  ],
+  "source_updated_at": 1612518568910
+}

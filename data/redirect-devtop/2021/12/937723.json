@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 937723,
+  "title": "Como emular um iOS no Linux utilizando Docker",
+  "description": "Depois de várias tentativas sem sucesso, enfim consegui virtualizar um macOS para fazer testes em um...",
+  "readable_publish_date": "Dec 28",
+  "slug": "como-emular-um-ios-no-linux-utilizando-docker-3l75",
+  "path": "/ianito/como-emular-um-ios-no-linux-utilizando-docker-3l75",
+  "url": "https://dev.to/ianito/como-emular-um-ios-no-linux-utilizando-docker-3l75",
+  "comments_count": 1,
+  "public_reactions_count": 44,
+  "collection_id": null,
+  "published_timestamp": "2021-12-28T21:47:12Z",
+  "positive_reactions_count": 44,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6VxsrIGv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01245diaafj64alxtsoc.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FpbvpRAw--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01245diaafj64alxtsoc.png",
+  "canonical_url": "https://dev.to/ianito/como-emular-um-ios-no-linux-utilizando-docker-3l75",
+  "created_at": "2021-12-29T18:12:15.934Z",
+  "edited_at": "2021-12-28T22:07:20Z",
+  "crossposted_at": null,
+  "published_at": "2021-12-28T21:47:12Z",
+  "last_comment_at": "2021-12-29T18:10:35Z",
+  "reading_time_minutes": 9,
+  "tag_list": [
+    "linux",
+    "ios",
+    "virtualization",
+    "xcode"
+  ],
+  "tags": [
+    "linux",
+    "ios",
+    "virtualization",
+    "xcode"
+  ],
+  "user": {
+    "name": "Iaan Mesquita",
+    "username": "ianito",
+    "twitter_username": "_ianito",
+    "github_username": "ianitow",
+    "website_url": "https://github.com/ianitow",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tBZag8ng--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/651949/5e513019-76b8-4340-85d5-2ebf4d1b2961.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--EhcvSACt--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/651949/5e513019-76b8-4340-85d5-2ebf4d1b2961.jpeg"
+  },
+  "original_created_at": "2021-12-27T15:56:46Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6VxsrIGv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01245diaafj64alxtsoc.png",
+  "author": "Iaan Mesquita",
+  "author_url": "https://dev.to/ianito",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何度か失敗した後、ようやくmacOSを仮想化してテストを実行することに成功しました。",
+      "title": "Dockerを使用してLinuxでiOSを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "经过几次不成功的尝试，我终于成功地虚拟了一个macOS，以便在一台电脑上运行测试。",
+      "title": "如何利用Docker在Linux上运行iOS？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "經過幾次不成功的嘗試，我終於成功地虛擬了一個macOS，以便在一臺電腦上運行測試。",
+      "title": "如何利用Docker在Linux上運行iOS？"
+    }
+  ]
+}

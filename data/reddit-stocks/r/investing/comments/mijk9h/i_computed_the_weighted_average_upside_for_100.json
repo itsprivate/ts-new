@@ -1,0 +1,38 @@
+{
+  "author": "brtzsnr",
+  "the_new_excerpt": "Final data\nhttps://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&single=true\n\n * ETFs holdings from: https://stockanalysis.com/etf/VTI/holdings/\n * Price and analyst target prices from\n  …",
+  "original_created_utc": 1617367333,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "最后数据\nhttps://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&single=true\n\n * ETFs持有量来自：https://stockanalysis.com/etf/VTI/holdings/\n * 价格和分析师的目标价格\n  …",
+      "title": "我计算了>100只ETF的加权平均涨幅。下面是结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "最後數據\nhttps://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&single=true\n\n * ETFs持有量來自：https://stockanalysis.com/etf/VTI/holdings/\n * 價格和分析師的目標價格\n  …",
+      "title": "我計算了>100只ETF的加權平均漲幅。下面是結果。"
+    },
+    {
+      "locale": "ja-JA",
+      "the_new_excerpt": "最終データ\nhttps://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&single=true\n\n * ETFs holdings from: https://stockanalysis.com/etf/VTI/holdings/\n * 価格とアナリストの目標価格は以下から\n  ...",
+      "title": "100以上のETFの加重平均アップサイドを計算してみました。その結果がこちらです。"
+    },
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最終データ\nhttps://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&single=true\n\n * ETFs holdings from: https://stockanalysis.com/etf/VTI/holdings/\n * 価格とアナリストの目標価格は以下から\n  ...",
+      "title": "100以上のETFの加重平均アップサイドを計算してみました。その結果がこちらです。"
+    }
+  ],
+  "title": "I computed the weighted average upside for >100 ETFs. Here are the results.",
+  "created_utc": 1617399746,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Final data\n<a href=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&amp;single=true\">https://docs.google.com/spreadsheets/d/e/2PACX-1vSHYOrzy3HGojElLunLrGh-Td0blaeAMSBzICbTrJJGsAfHxxCQizw52ddauP9EawPJ-_OK3XqTaxwq/pubhtml?gid=0&amp;single=true</a></p>\n\n<ul>\n<li>ETFs holdings from:\n<a href=\"https://stockanalysis.com/etf/VTI/holdings/\">https://stockanalysis.com/etf/VTI/holdings/</a></li>\n<li>Price and analyst target prices from <a href=\"https://finviz.com/screener.ashx?v=152&amp;c=1,2,3,7,9,33,34,59,65,69&amp;t=AAPL\">https://finviz.com/screener.ashx?v=152&amp;c=1,2,3,7,9,33,34,59,65,69&amp;t=AAPL</a></li>\n<li>I also used GOOGLEFINANCE to fetch some of the prices. Seems that stockanalysis, finviz and googlefinance don&#39;t always agree which investment product a ticker represents (e.g. TILT) so there can be some data mistakes.</li>\n<li>mostly works for companies listed on US exchanges</li>\n</ul>\n\n<p>I did this for my amusement, it&#39;s not investment advice.</p>\n\n<p>For some ETFs that saw a huge dip, e.g. ARKK or ARKW, the computed target was close to the historical maximum, so I wonder how much price bias is there in the target price published by analysts (i.e., analysists try to reason current price, rather than coming up with a proper valuation).</p>\n\n<p>I&#39;m going to track this for a while to see how useful this information is.</p>\n\n<p>Edit: I explained here how I computed the table: <a href=\"https://reddit.com/r/investing/comments/mijk9h/i_computed_the_weighted_average_upside_for_100/gt563uy\">https://reddit.com/r/investing/comments/mijk9h/i_computed_the_weighted_average_upside_for_100/gt563uy</a>. tl;dr:  ETF&#39;s upside is computed from the allocation weighted upside of the individual stocks comprising the ETF.</p>\n</div><!-- SC_ON -->",
+  "score": 102,
+  "permalink": "/r/investing/comments/mijk9h/i_computed_the_weighted_average_upside_for_100/",
+  "subreddit": "investing",
+  "id": "mijk9h",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617961877880
+}

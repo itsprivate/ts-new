@@ -1,0 +1,156 @@
+{
+  "created_at": "Fri Jul 30 15:47:57 +0000 2021",
+  "id_str": "1421134539951333377",
+  "full_text": "RT @BrentToderian: There’s infrastructure, and then there’s Dutch infrastructure. https://t.co/Gjken1k5A5",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BrentToderian",
+        "name": "Brent Toderian",
+        "id": 480196886,
+        "id_str": "480196886",
+        "indices": [
+          3,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1421002483665555500,
+        "id_str": "1421002483665555456",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/E7hqOufVUAAyN6a.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E7hqOufVUAAyN6a.jpg",
+        "url": "https://t.co/Gjken1k5A5",
+        "display_url": "pic.twitter.com/Gjken1k5A5",
+        "expanded_url": "https://twitter.com/BrentToderian/status/1421002489222946819/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1074,
+            "h": 1343,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1421002489222946800,
+        "source_status_id_str": "1421002489222946819",
+        "source_user_id": 480196886,
+        "source_user_id_str": "480196886"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 70970,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jul 30 15:44:12 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Fri Jul 30 06:59:29 +0000 2021",
+    "id_str": "1421002489222946819",
+    "full_text": "There’s infrastructure, and then there’s Dutch infrastructure. https://t.co/Gjken1k5A5",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1421002483665555500,
+          "id_str": "1421002483665555456",
+          "indices": [
+            63,
+            86
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7hqOufVUAAyN6a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7hqOufVUAAyN6a.jpg",
+          "url": "https://t.co/Gjken1k5A5",
+          "display_url": "pic.twitter.com/Gjken1k5A5",
+          "expanded_url": "https://twitter.com/BrentToderian/status/1421002489222946819/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1074,
+              "h": 1343,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Brent Toderian",
+      "screen_name": "BrentToderian",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225177797833846784/FfyoUA0b_normal.jpg"
+    },
+    "retweet_count": 2280,
+    "favorite_count": 17252,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BrentToderian: インフラには、オランダのインフラがあります。https://t.co/Gjken1k5A5",
+      "retweeted_status_full_text": "インフラがあって、オランダのインフラがある。https://t.co/Gjken1k5A5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BrentToderian: There's infrastructure, and then there's Dutch infrastructure. https://t.co/Gjken1k5A5",
+      "retweeted_status_full_text": "有基础设施，就有荷兰的基础设施。https://t.co/Gjken1k5A5。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BrentToderian: There's infrastructure, and then there's Dutch infrastructure. https://t.co/Gjken1k5A5",
+      "retweeted_status_full_text": "有基礎設施，就有荷蘭的基礎設施。https://t.co/Gjken1k5A5。"
+    }
+  ],
+  "source_updated_at": 1628242944741
+}

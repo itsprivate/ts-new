@@ -1,0 +1,33 @@
+{
+  "author": "sggts04",
+  "the_new_excerpt": "Context: I am a developer usually doing Backend Web Development and/or\nScripting. I recently got interested in this space and the tech really amazed\nme, naturally I started looking at developing in this space.\n\nI am surprised how easy it is to create and deploy something even on a L2\nMainnet without…",
+  "original_created_utc": 1619772625,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コンテキストです。私は開発者で、通常はバックエンドのウェブ開発および/またはスクリプティングを行っています。\nスクリプティングを行っています。最近、この分野に興味を持ち、その技術には本当に驚かされました。\n驚いたので、この分野での開発を検討し始めました。\n\nL2メインネット上でも、何かを作って展開するのがとても簡単なことに驚きました。\nメインネット上でさえも...",
+      "title": "開発者である私でさえ、資本金ゼロでも（Maticを使った無料のガス）トークンを作成し、デプロイすることが簡単にできることに驚いています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "语境。我是一名开发人员，通常从事后端网络开发和/或\n脚本。我最近对这个领域感兴趣，这个技术真的让我很吃惊。\n很自然地，我开始关注这个领域的开发。\n\n我感到惊讶的是，即使是在二级市场上创建和部署一些东西也是如此容易。\n主网，而不需要...",
+      "title": "即使是作为一个开发者，我也惊讶于创建和部署代币是如此简单，甚至是零资本（使用Matic的免费气体）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "語境。我是一名開發人員，通常從事後端網絡開發和/或\n腳本。我最近對這個領域感興趣，這個技術真的讓我很喫驚。\n很自然地，我開始關注這個領域的開發。\n\n我感到驚訝的是，即使是在二級市場上創建和部署一些東西也是如此容易。\n主網，而不需要...",
+      "title": "即使是作爲一個開發者，我也驚訝於創建和部署代幣是如此簡單，甚至是零資本（使用Matic的免費氣體）。"
+    }
+  ],
+  "title": "Even as a developer, I am surprised how easy it is to Create and Deploy a Token, even with zero capital(free gas using Matic)",
+  "created_utc": 1619803373,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Context: I am a developer usually doing Backend Web Development and/or Scripting. I recently got interested in this space and the tech really amazed me, naturally I started looking at developing in this space.</p>\n\n<p>I am surprised how easy it is to create and deploy something even on a L2 Mainnet without any money involved, I literally followed these steps:</p>\n\n<ul>\n<li>Connect Metamask to official Matic Wallet site which airdrops 0.1 Matic(enough to pay for tons of transactions).</li>\n<li>Copy paste an ERC-20 Template from OpenZeppelin</li>\n<li>Edit the template to change token name, symbol and max supply.</li>\n<li>Go to Remix Online IDE, add the code, and perform literally two clicks to compile the code and deploy it to Polygon(Matic) Mainnet.</li>\n<li>Boom, I had the tokens in Matic Mainnet in my wallet.</li>\n<li>Went to Quickswap and created a liquidity pool for my token using the remaining airdropped Matic.</li>\n</ul>\n\n<p>And Boom, for absolutely free, I now had Tokens on Matic Mainnet, which even had a little value because I created a trading pair on Quickswap.</p>\n\n<p>BTW, Quickswap is basically the Uniswap fork on Matic.</p>\n\n<p><strong>No shilling,</strong> <strong>since you can&#39;t buy unless you have the contract address anyway</strong>, but here&#39;s some screenshots from Metamask and Quickswap:</p>\n\n<p><a href=\"https://preview.redd.it/j4xqc3hrw9w61.png?width=208&amp;format=png&amp;auto=webp&amp;s=a4ca8a56f529173707428854d629aed4eced249a\">Metamask Balance</a></p>\n\n<p><a href=\"https://preview.redd.it/4ytipsvuw9w61.png?width=673&amp;format=png&amp;auto=webp&amp;s=c799c3931e79f96b45600b8f054ef6c4679f06cb\">Quickswap Pool</a></p>\n\n<p>If anything, this should tell you how easy it is to create a token and deploy it, and you should be a little cautious of any new random token which may seem promising.</p>\n\n<p>PS: Don&#39;t ask me why PZD, I don&#39;t know lol.</p>\n\n<p>PPS: Same steps exist for any network, be it Ethereum, Binance Smart Chain, xDai, Fantom etc. Just that Matic had super low fees and I had free 0.1 Matic airdropped from their site so I went with it.</p>\n</div><!-- SC_ON -->",
+  "score": 279,
+  "permalink": "/r/CryptoCurrency/comments/n1pryd/even_as_a_developer_i_am_surprised_how_easy_it_is/",
+  "subreddit": "CryptoCurrency",
+  "id": "n1pryd",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620380961457
+}

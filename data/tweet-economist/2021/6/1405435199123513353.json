@@ -1,0 +1,86 @@
+{
+  "created_at": "Thu Jun 17 9:31:3 +0000 2021",
+  "id_str": "1405435199123513353",
+  "full_text": "Cape Town is one of the most beautiful cities in the world. It’s also one of the most dangerous https://t.co/TJSGkVFoOH https://t.co/FCph5guqvh",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/TJSGkVFoOH",
+        "expanded_url": "https://econ.st/3gDlsIi",
+        "display_url": "econ.st/3gDlsIi",
+        "indices": [
+          96,
+          119
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1405435086053519400,
+        "id_str": "1405435086053519361",
+        "indices": [
+          120,
+          143
+        ],
+        "media_url": "http://pbs.twimg.com/media/E4Eb3HfXwAAdSm-.png",
+        "media_url_https": "https://pbs.twimg.com/media/E4Eb3HfXwAAdSm-.png",
+        "url": "https://t.co/FCph5guqvh",
+        "display_url": "pic.twitter.com/FCph5guqvh",
+        "expanded_url": "https://twitter.com/TheEconomist/status/1405435199123513353/video/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 36,
+  "favorite_count": 81,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jun 17 08:00:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ケープタウンは、世界で最も美しい都市のひとつです。また、最も危険な都市の一つでもあります。https://t.co/TJSGkVFoOH https://t.co/FCph5guqvh"
+    },
+    {
+      "locale": "zh",
+      "full_text": "开普敦是世界上最美丽的城市之一。它也是最危险的城市之一 https://t.co/TJSGkVFoOH https://t.co/FCph5guqvh"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "開普敦是世界上最美麗的城市之一。它也是最危險的城市之一 https://t.co/TJSGkVFoOH https://t.co/FCph5guqvh"
+    }
+  ]
+}

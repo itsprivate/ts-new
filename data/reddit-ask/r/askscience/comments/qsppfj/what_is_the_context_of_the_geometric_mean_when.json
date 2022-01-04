@@ -1,0 +1,32 @@
+{
+  "author": "Demon_Prongles",
+  "original_created_utc": 1636765631,
+  "title": "What is the context of the geometric mean when the 50 ohm compromise for impedance matching was determined?",
+  "created_utc": 1636820170,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I had wished to understand why transmission lines and other electrical systems typically use 50ohm loads for impedance. Everywhere I look online, websites just repeat the facts that this is derived from taking the values that provide highest power transfer (30 ohms), lowest power loss (77 ohms), finding the arithmetic mean (53.5) and geometric mean (48), and 50 is a compromise between them. </p>\n\n<p>There’s a lot of other history and data on various other values, but I’m hung up on why geometric mean was considered. I understand the arithmetic mean more intuitively as a midway point between these two ideals, but I can’t wrap my head around the purpose of the latter. I have only seen the GM used in basic geometry for triangle side ratios or for certain statistical growth scenarios so I don’t have a good image of its use in this real world application; is there a connection with the trigonometry of RF waves and reactive components, or something simpler?</p>\n</div><!-- SC_ON -->",
+  "score": 111,
+  "permalink": "/r/askscience/comments/qsppfj/what_is_the_context_of_the_geometric_mean_when/",
+  "subreddit": "askscience",
+  "id": "qsppfj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I had wished to understand why transmission lines and other electrical systems\ntypically use 50ohm loads for impedance. Everywhere I look online, websites just\nrepeat the facts that this is derived from taking the values that provide\nhighest power transfer (30 ohms), lowest power loss (77 ohms),…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、送電線などの電気システムがなぜ\nインピーダンスに50Ωの負荷を使用する理由を知りたいと思っていました。ネットで調べてみると、どこのサイトでも\nこれは、最も高い電力伝達を可能にする値（30オーム）、最も低い電力損失を可能にする値（77オーム）...\n最高の電力伝送（30オーム）、最低の電力損失（77オーム）、...。",
+      "title": "インピーダンスマッチングのための50Ωの妥協点を決めたときの幾何平均値の文脈はどのようなものですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我曾希望了解为什么传输线和其他电气系统\n通常使用50欧姆负载的阻抗。我在网上看到的每个地方，网站都只是\n都在重复这样的事实：这是从提供最高功率传输的数值中得出的\n最高功率传输（30欧姆），最低功率损失（77欧姆），...",
+      "title": "在确定阻抗匹配的50欧姆折衷方案时，几何平均值的背景是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我曾希望瞭解爲什麼傳輸線和其他電氣系統\n通常使用50歐姆負載的阻抗。我在網上看到的每個地方，網站都只是\n都在重複這樣的事實：這是從提供最高功率傳輸的數值中得出的\n最高功率傳輸（30歐姆），最低功率損失（77歐姆），...",
+      "title": "在確定阻抗匹配的50歐姆折衷方案時，幾何平均值的背景是什麼？"
+    }
+  ]
+}

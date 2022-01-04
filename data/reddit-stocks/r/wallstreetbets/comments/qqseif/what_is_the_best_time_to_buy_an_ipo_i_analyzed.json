@@ -1,0 +1,623 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": " Given the growing hype surrounding the [$65 Billion Rivian IPO](https://www.cnbc.com/2021/11/05/rivian-raises-ipo-price-range-and-could-now-be-worth-up-to-65-billion.html) \\[1\\], I felt this is the perfect time to follow up on my [first analysis on IPOs](https://www.reddit.com/r/wallstreetbets/comments/ny6wpp/i_analyzed_3600_ipos_over_the_past_two_decades_to/). In the previous analysis, we realized that the majority of gains were made from the listing itself and those who invested on listing day gained a measly 1.3%. \n\n[ ](https://preview.redd.it/f4e0nywl7ry71.png?width=950&format=png&auto=webp&s=5c9bb06a416c3cdedcd34b3e91c6f43af1e97f8b)\n\nIn most cases, [less than 10% of the total IPO](https://money.usnews.com/investing/investing-101/articles/how-to-buy-ipo-stock-at-its-offer-price) is allocated to retail investors. Adding to this, a multitude of other factors such as your brokerage account, account balance, the historical trading pattern will all contribute to whether you get the IPO shares or not in the end \\[2\\].\n\nGiven that the chances of you making it into the IPO allotment are bleak, what I wanted to analyze is, if we miss the IPO bus,\n\n**What is the best time to buy into a recently IPO’d stock?**\n\nShould it be on the listing day itself or should you wait a day, week, or even a month for all the hype surrounding the IPO to die down and the stock to come back to its “real” valuation \\[3\\]?\n\n[ ](https://preview.redd.it/n5wmym9n7ry71.png?width=1728&format=png&auto=webp&s=a3106183b0670cb5c790d5034bf7ee76a4ca194b)\n\n**Data**\n\nI have leveraged the same data source (iposcoop.com) that I used last time. They have documented almost all the IPOs from 2000. But for this analysis, I also needed stock price-related information for periods long after the stock had been listed in the market.\n\nThe stock price information was obtained using Yahoo Finance. After all the quality checks, we are left with 1,063 IPOs from 2000-2020. All the data used in the analysis has been shared through a Google sheet at the end.\n\n \n\n[ ](https://preview.redd.it/9skwwgan7ry71.png?width=1728&format=png&auto=webp&s=9789e067c476b12b7b962d587c002320623c388b)\n\n**Analysis**\n\nSince the idea is to find the best time to invest in an IPO, we have to compare the returns for multiple time periods. I calculated the one month and one year returns in case you had invested on the day of the IPO as well as if you had invested in the stock after\n\n1. One day\n2. One week\n3. One month\n\nThe returns are then compared against each other to find the optimal time to invest in the stock after it has IPO’d. The returns were finally benchmarked against SPY to see if it makes sense to put in all these efforts - only to maybe underperform the market!\n\nhttps://preview.redd.it/w2qnh2an7ry71.png?width=1728&format=png&auto=webp&s=6e659778bbe8aaf8893f5d6f2ea21288ef4b7a71\n\n **Results** \n\n[ All calculations are done using the adjusted closing price  ](https://preview.redd.it/vknekrzo7ry71.png?width=730&format=png&auto=webp&s=7fe4c5b99687e881d342df706a16fcd0ac0f255f)\n\nSurprisingly, the gains you would have made from the IPOs are inversely proportional to the amount of time you waited for your investment. On average **the most amount of return is obtained by someone who invested on the day of the IPO itself**. The more amount of time you wait for your investment, the lesser your return is!\n\nBut what if you are not interested in the short-term returns? What if you are a buy-and-hold type of investor?\n\n[ ](https://preview.redd.it/uazvvt0q7ry71.png?width=730&format=png&auto=webp&s=38ff88f577596544308b493f072d66240507cc7d)\n\nIf you are a long-term investor, **you would be better off buying the IPO after waiting for a week**, as it generated the most amount of return. But what is interesting is that waiting a week for the hype to die down would only increase your return by 9%. Waiting any further would only ***decrease your overall return.***\n\nSo if you are planning on buying into an IPO but did not get an allocation at the listing price, you can wait a week so as to see how it performs in the market, avoid any large swings that the first week might cause, and still come out on top over the long run!\n\nNow, let’s compare the performance of IPO stocks against SPY. After all, even though you are getting a good return on your investment, if it does not beat the market, you would have been better off just investing it in SPY rather than doing all this research on IPOs.\n\n[ ](https://preview.redd.it/ehviuevq7ry71.png?width=900&format=png&auto=webp&s=880c9f18392da5832a239819b38cd6dc04893875)\n\nIPOs’ returns on average ***beat the market*** over the last two decades. The trends are similar to the ones observed earlier with the delta over the market return depending on how much time you waited before investing into the IPO and generating the highest amount of delta by waiting one week from the day of the IPO.\n\nNow it would be amiss not to discuss the inherent risks associated with investing in an IPO. Out of the 1,063 IPO’s in our analysis, only 62% of them gained in value and only a measly 29% of the IPOs beat the market over the long run. The outperformance over the market is coming due to a few outliers (Tesla - 25,000%+, Shopify - 5800%+, etc.) If you miss out on the top 1% of successful IPOs, your returns would be much lesser than the market. \n\n[ ](https://preview.redd.it/5np1iman7ry71.png?width=1728&format=png&auto=webp&s=ed89afca9e90fdc3288899fcab548a8155beecdc)\n\n**Limitations**\n\nThe above analysis comes with some limitations that you should be aware of before trying to replicate the strategy\n\n1. The number of IPOs in the analysis is approximately 1/3rd of the total IPOs which occurred during 2000-2020 \\[4\\]. I don’t think this is a major concern since our sample of 1000+ stocks would be much more than enough to give statistical significance to our analysis.\n2. Another limitation is that the delta that you are observing here might just be due to the additional risk that you are taking by buying into lesser-known/small-cap companies. The risk-adjusted return might give a different result.\n3. Continuing from the above point, we are currently in a massive bull run with ATH being broken every week. So the additional risk you are taking will be well rewarded but the outcome might look different if we do the same analysis in the middle of a bear market.\n\n[ ](https://preview.redd.it/qk5hm49s7ry71.png?width=1728&format=png&auto=webp&s=77fe292757c841d6ecd666b499a9315e48595f25)\n\n**Conclusion**\n\nBuying into an IPO is an exciting prospect. Our analysis proves that even if you miss out on getting the IPO allocation, it’s still possible to beat the market by investing after the stock is listed on the market.\n\nAs I [explained in my last post on IP](https://www.reddit.com/r/wallstreetbets/comments/ny6wpp/i_analyzed_3600_ipos_over_the_past_two_decades_to/)O, investment banks are incentivized to slightly underprice while listing (unless it’s a really popular company) so that the IPO issue is 100% subscribed (their fees are dependent on a successful IPO) \\[5\\].\n\nWhatever the case may be, if you are planning on holding on to the IPO only for a short period of time, you can maximize your returns by investing in the IPO as soon as it’s listed whereas if you are a long term investor who is planning to hold on to the stock for a very long time, its better to wait a week or so for the stock price to settle before making your move!\n\nAnalysis Sheet containing all the data: [here](https://docs.google.com/spreadsheets/d/1QqRNZEsTfgG6f8GfI-n6qBAai9wrUA47hFMYg6tz098/edit?usp=sharing)\n\nUntil next week…\n\n[ ](https://preview.redd.it/inx7eq9s7ry71.png?width=1728&format=png&auto=webp&s=bd82af6c741804d784b964b632a1af10ae31eb0c)\n\n**Footnotes**\n\n\\[1\\] The company has [only built and delivered 56](https://insideevs.com/news/542908/rivian-production-numbers-first-month/) vehicles as of Oct21. If Rivian IPO’d at $65 Billion, it means that each vehicle it delivered added more than $1 Billion in value to its shareholders. A similarly valued Ford delivered 4.1 Million vehicles in 2020. Truly wild times we are living in!\n\n\\[2\\] Brokerages tend to allocate IPO shares to their premium clients - [In the case of TD Ameritrade](https://www.tdameritrade.com/investment-products/IPOs.html), your account must have a value of at least $250,000 or have completed 30 trades in the last 3 months.\n\n\\[3\\] Take the examples of Robinhood and Coinbase IPO. Robinhood tanked on listing day losing 8% only to rally almost 100% in the next one week before coming back down to near its IPO pricing. Coinbase also had a wild ride on listing day with the share price going as high as $429 before crashing back down to \\~$310.\n\n\\[4\\] The major limitation was the absence of financial data in Yahoo Finance for certain stocks.\n\n\\[5\\] There are a lot of contradictory opinions regarding this with [some research](https://www.sciencedirect.com/science/article/abs/pii/S0275531918309280) showcasing that IPO’s are usually undervalued while [others argue](https://academic.oup.com/rfs/article-abstract/17/3/811/1612977?redirectedFrom=PDF) that IPOs are overvalued. I guess you can twist data however you want to tell your story.\n\nhttps://preview.redd.it/ohspvw9s7ry71.png?width=1728&format=png&auto=webp&s=b152439751b7c5cba562695a713a9c1d89b2a8f6\n\n *Disclaimer: I am not a financial advisor. Please do your own research before investing.*",
+  "author_fullname": "t2_q15pxyy",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 2,
+  "clicked": false,
+  "title": "What is the best time to buy an IPO? - I analyzed 1,000+ IPO's over the last two decades! Here are the results!",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "thumbnail_height": 52,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "qk5hm49s7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=108&crop=smart&auto=webp&s=2bb4f03fbcd85f856f621877c90195f2251bbe53"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=216&crop=smart&auto=webp&s=270306373c891ee79e0586d8a95bb00f66a4cc98"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=320&crop=smart&auto=webp&s=ea99e88e4aa66efa9d2a868fab2ca7615d68f12e"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=640&crop=smart&auto=webp&s=4c8d8a3db043f81d83f664cb972b5336f9defa46"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=960&crop=smart&auto=webp&s=b296e26b337cf1f8833bb2001e45d564edea873e"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=1080&crop=smart&auto=webp&s=e585372226fb3b948511c935a4a4390f8426fc9c"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/qk5hm49s7ry71.png?width=1728&format=png&auto=webp&s=77fe292757c841d6ecd666b499a9315e48595f25"
+      },
+      "id": "qk5hm49s7ry71"
+    },
+    "9skwwgan7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/9skwwgan7ry71.png?width=108&crop=smart&auto=webp&s=022663228e16a6f2935c4900fb47924a1be6f7b4"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/9skwwgan7ry71.png?width=216&crop=smart&auto=webp&s=6054d38b7e5cf0bc9ebc697ee6dc9fcbf6e480c7"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/9skwwgan7ry71.png?width=320&crop=smart&auto=webp&s=152a3a6eade1b38f6fffab382e28a314770b0c10"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/9skwwgan7ry71.png?width=640&crop=smart&auto=webp&s=d0d9ea9d240453b8d3f983dceaf79917bbc67469"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/9skwwgan7ry71.png?width=960&crop=smart&auto=webp&s=09606031bec36cb076559831b3e190403b9167b5"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/9skwwgan7ry71.png?width=1080&crop=smart&auto=webp&s=c6a593ddce836273bc9b6c17a48038b817e86204"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/9skwwgan7ry71.png?width=1728&format=png&auto=webp&s=9789e067c476b12b7b962d587c002320623c388b"
+      },
+      "id": "9skwwgan7ry71"
+    },
+    "f4e0nywl7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 40,
+          "x": 108,
+          "u": "https://preview.redd.it/f4e0nywl7ry71.png?width=108&crop=smart&auto=webp&s=3556826a3cad7f144d66da6d1ed6ba4f6a4f192a"
+        },
+        {
+          "y": 80,
+          "x": 216,
+          "u": "https://preview.redd.it/f4e0nywl7ry71.png?width=216&crop=smart&auto=webp&s=cea2b34a3eb692354c363aaed981fee8c0f948eb"
+        },
+        {
+          "y": 119,
+          "x": 320,
+          "u": "https://preview.redd.it/f4e0nywl7ry71.png?width=320&crop=smart&auto=webp&s=a8d18a4c0820e70f00367994f3d599890adae2ae"
+        },
+        {
+          "y": 239,
+          "x": 640,
+          "u": "https://preview.redd.it/f4e0nywl7ry71.png?width=640&crop=smart&auto=webp&s=2e73ef6e0d1255e202a2e8106cdc2578866f62d8"
+        }
+      ],
+      "s": {
+        "y": 356,
+        "x": 950,
+        "u": "https://preview.redd.it/f4e0nywl7ry71.png?width=950&format=png&auto=webp&s=5c9bb06a416c3cdedcd34b3e91c6f43af1e97f8b"
+      },
+      "id": "f4e0nywl7ry71"
+    },
+    "w2qnh2an7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=108&crop=smart&auto=webp&s=853f3c86ab78305cef3b728df06e1c5755533819"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=216&crop=smart&auto=webp&s=6b5a671fb652edb9c925ab986baf0a91c92cd115"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=320&crop=smart&auto=webp&s=e5877b37b7c760c391120d3dcebd6d0c35a7d4dc"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=640&crop=smart&auto=webp&s=9b773a40555e7f6e1d8b223671d00d2f92da2455"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=960&crop=smart&auto=webp&s=99026e3e117bf202630404eb6e2c7aa002f29f9c"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=1080&crop=smart&auto=webp&s=24bed2060d78f1ee0b9ba0e67ebd2d131227493c"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/w2qnh2an7ry71.png?width=1728&format=png&auto=webp&s=6e659778bbe8aaf8893f5d6f2ea21288ef4b7a71"
+      },
+      "id": "w2qnh2an7ry71"
+    },
+    "5np1iman7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/5np1iman7ry71.png?width=108&crop=smart&auto=webp&s=0d44cd85aa7e9c6bdd6597e6ffc2b20ca8422b53"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/5np1iman7ry71.png?width=216&crop=smart&auto=webp&s=de3cda729fcc8e2edba82ed7f1ae6731a7cfe511"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/5np1iman7ry71.png?width=320&crop=smart&auto=webp&s=85d1e65e060d181aaf478658120be4324d2d67a4"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/5np1iman7ry71.png?width=640&crop=smart&auto=webp&s=09d78d5176cd0496e8bb01c90a95d92da56dc9f0"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/5np1iman7ry71.png?width=960&crop=smart&auto=webp&s=bfc4111fca16743f6e53ae4c193549a8c1cce392"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/5np1iman7ry71.png?width=1080&crop=smart&auto=webp&s=98292e0f0abc52db6d51d15bcf862cb5def7c2eb"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/5np1iman7ry71.png?width=1728&format=png&auto=webp&s=ed89afca9e90fdc3288899fcab548a8155beecdc"
+      },
+      "id": "5np1iman7ry71"
+    },
+    "vknekrzo7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 27,
+          "x": 108,
+          "u": "https://preview.redd.it/vknekrzo7ry71.png?width=108&crop=smart&auto=webp&s=52c49d0cbd88cbd5357754e751a8e9dda8b4e9a7"
+        },
+        {
+          "y": 55,
+          "x": 216,
+          "u": "https://preview.redd.it/vknekrzo7ry71.png?width=216&crop=smart&auto=webp&s=7bd2745f216aaebd0b89301ebb4beddc14c18f40"
+        },
+        {
+          "y": 82,
+          "x": 320,
+          "u": "https://preview.redd.it/vknekrzo7ry71.png?width=320&crop=smart&auto=webp&s=b89cb88bff4b3f0480fb907ab710d618d4bad300"
+        },
+        {
+          "y": 164,
+          "x": 640,
+          "u": "https://preview.redd.it/vknekrzo7ry71.png?width=640&crop=smart&auto=webp&s=1f6182d0b22d9bafcae7767faea33e21a1927674"
+        }
+      ],
+      "s": {
+        "y": 188,
+        "x": 730,
+        "u": "https://preview.redd.it/vknekrzo7ry71.png?width=730&format=png&auto=webp&s=7fe4c5b99687e881d342df706a16fcd0ac0f255f"
+      },
+      "id": "vknekrzo7ry71"
+    },
+    "uazvvt0q7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 32,
+          "x": 108,
+          "u": "https://preview.redd.it/uazvvt0q7ry71.png?width=108&crop=smart&auto=webp&s=95d3f523f815abfd648f36c3886ef6abf21acba2"
+        },
+        {
+          "y": 65,
+          "x": 216,
+          "u": "https://preview.redd.it/uazvvt0q7ry71.png?width=216&crop=smart&auto=webp&s=f008a965a4bc9d7ff81f91ef497085678674ea18"
+        },
+        {
+          "y": 96,
+          "x": 320,
+          "u": "https://preview.redd.it/uazvvt0q7ry71.png?width=320&crop=smart&auto=webp&s=dcaff7232de7fbdf3b247eb47c9b45babd9f7bb7"
+        },
+        {
+          "y": 192,
+          "x": 640,
+          "u": "https://preview.redd.it/uazvvt0q7ry71.png?width=640&crop=smart&auto=webp&s=26159ff5f5911d43b02f674bcf7675038b5d3654"
+        }
+      ],
+      "s": {
+        "y": 220,
+        "x": 730,
+        "u": "https://preview.redd.it/uazvvt0q7ry71.png?width=730&format=png&auto=webp&s=38ff88f577596544308b493f072d66240507cc7d"
+      },
+      "id": "uazvvt0q7ry71"
+    },
+    "inx7eq9s7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=108&crop=smart&auto=webp&s=965c3e8ca70f6352acd67f6e565eae08133955b4"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=216&crop=smart&auto=webp&s=8c9e67c47c11ac1fc589be51bf2f7ed0df032f4b"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=320&crop=smart&auto=webp&s=f9acf3c6a2258d84fab2c232c79c71a5f23212f8"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=640&crop=smart&auto=webp&s=8797e658c34147d05b9fbeef5f81106d1f55c4c8"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=960&crop=smart&auto=webp&s=acc8a37b1fd4276cc5e5f5e83c6d339094b7d86f"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=1080&crop=smart&auto=webp&s=eee015333a5a8a85bd0cd18dacf2927cd953a69a"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/inx7eq9s7ry71.png?width=1728&format=png&auto=webp&s=bd82af6c741804d784b964b632a1af10ae31eb0c"
+      },
+      "id": "inx7eq9s7ry71"
+    },
+    "n5wmym9n7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=108&crop=smart&auto=webp&s=1692dd3114c4eed53d72abcc46ac8f1f4f904157"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=216&crop=smart&auto=webp&s=302b1c560954b78b96f60d5419f96919bc1cdf6d"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=320&crop=smart&auto=webp&s=85d4ada588a377aabdcfdf3f52bbae593727b129"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=640&crop=smart&auto=webp&s=4cbd2a359bcaeb39921146cee8018c7f6ee7caa5"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=960&crop=smart&auto=webp&s=0cd0a65078990fe9df44f1d7462e427d4a8d4495"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=1080&crop=smart&auto=webp&s=d7bee16d16b98b128624604668fd403609a27c7b"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/n5wmym9n7ry71.png?width=1728&format=png&auto=webp&s=a3106183b0670cb5c790d5034bf7ee76a4ca194b"
+      },
+      "id": "n5wmym9n7ry71"
+    },
+    "ohspvw9s7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=108&crop=smart&auto=webp&s=a9e9fb007e39a35e1d0d9741cbe871ea1f338052"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=216&crop=smart&auto=webp&s=7af8398443beea9835a1cd841c840daf16057e12"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=320&crop=smart&auto=webp&s=73d82445b6857dab0f3920d517ebfc7761466750"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=640&crop=smart&auto=webp&s=2b64242f0e121697eced889cd42bf5c5b1557216"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=960&crop=smart&auto=webp&s=b412ca7f11c1b9cc77399ea746bdf2c3871fc069"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=1080&crop=smart&auto=webp&s=5338daaf78fe72412262a68843a71bd862a5f3b0"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/ohspvw9s7ry71.png?width=1728&format=png&auto=webp&s=b152439751b7c5cba562695a713a9c1d89b2a8f6"
+      },
+      "id": "ohspvw9s7ry71"
+    },
+    "ehviuevq7ry71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 25,
+          "x": 108,
+          "u": "https://preview.redd.it/ehviuevq7ry71.png?width=108&crop=smart&auto=webp&s=00472d0efa218f7be251e5b140d5ada26d2562e5"
+        },
+        {
+          "y": 51,
+          "x": 216,
+          "u": "https://preview.redd.it/ehviuevq7ry71.png?width=216&crop=smart&auto=webp&s=7dace64422d68d3926a9cca38fa4de6eca57f153"
+        },
+        {
+          "y": 76,
+          "x": 320,
+          "u": "https://preview.redd.it/ehviuevq7ry71.png?width=320&crop=smart&auto=webp&s=1de03a7d6acac6466306031ffb4e352e930985a4"
+        },
+        {
+          "y": 152,
+          "x": 640,
+          "u": "https://preview.redd.it/ehviuevq7ry71.png?width=640&crop=smart&auto=webp&s=4d52f91fbb667997f50971a58b032785e8ca7f1f"
+        }
+      ],
+      "s": {
+        "y": 215,
+        "x": 900,
+        "u": "https://preview.redd.it/ehviuevq7ry71.png?width=900&format=png&auto=webp&s=880c9f18392da5832a239819b38cd6dc04893875"
+      },
+      "id": "ehviuevq7ry71"
+    }
+  },
+  "name": "t3_qqseif",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.97,
+  "author_flair_background_color": "#373c3f",
+  "ups": 1664,
+  "total_awards_received": 29,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": "28fbe25a-7c59-11ea-965e-0e0a65cd3f97",
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1664,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "https://b.thumbs.redditmedia.com/-Ztq74pcQ8aAjipJR0CP-cxZ5JGjiUuiGbH--NYIXIc.jpg",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Anal(yst)"
+    }
+  ],
+  "gildings": {
+    "gid_1": 5,
+    "gid_2": 2
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "subreddit_type": "public",
+  "created": 1636543975,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Given the growing hype surrounding the <a href=\"https://www.cnbc.com/2021/11/05/rivian-raises-ipo-price-range-and-could-now-be-worth-up-to-65-billion.html\">$65 Billion Rivian IPO</a> [1], I felt this is the perfect time to follow up on my <a href=\"https://www.reddit.com/r/wallstreetbets/comments/ny6wpp/i_analyzed_3600_ipos_over_the_past_two_decades_to/\">first analysis on IPOs</a>. In the previous analysis, we realized that the majority of gains were made from the listing itself and those who invested on listing day gained a measly 1.3%. </p>\n\n<p><a href=\"https://preview.redd.it/f4e0nywl7ry71.png?width=950&amp;format=png&amp;auto=webp&amp;s=5c9bb06a416c3cdedcd34b3e91c6f43af1e97f8b\"> </a></p>\n\n<p>In most cases, <a href=\"https://money.usnews.com/investing/investing-101/articles/how-to-buy-ipo-stock-at-its-offer-price\">less than 10% of the total IPO</a> is allocated to retail investors. Adding to this, a multitude of other factors such as your brokerage account, account balance, the historical trading pattern will all contribute to whether you get the IPO shares or not in the end [2].</p>\n\n<p>Given that the chances of you making it into the IPO allotment are bleak, what I wanted to analyze is, if we miss the IPO bus,</p>\n\n<p><strong>What is the best time to buy into a recently IPO’d stock?</strong></p>\n\n<p>Should it be on the listing day itself or should you wait a day, week, or even a month for all the hype surrounding the IPO to die down and the stock to come back to its “real” valuation [3]?</p>\n\n<p><a href=\"https://preview.redd.it/n5wmym9n7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=a3106183b0670cb5c790d5034bf7ee76a4ca194b\"> </a></p>\n\n<p><strong>Data</strong></p>\n\n<p>I have leveraged the same data source (iposcoop.com) that I used last time. They have documented almost all the IPOs from 2000. But for this analysis, I also needed stock price-related information for periods long after the stock had been listed in the market.</p>\n\n<p>The stock price information was obtained using Yahoo Finance. After all the quality checks, we are left with 1,063 IPOs from 2000-2020. All the data used in the analysis has been shared through a Google sheet at the end.</p>\n\n<p><a href=\"https://preview.redd.it/9skwwgan7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=9789e067c476b12b7b962d587c002320623c388b\"> </a></p>\n\n<p><strong>Analysis</strong></p>\n\n<p>Since the idea is to find the best time to invest in an IPO, we have to compare the returns for multiple time periods. I calculated the one month and one year returns in case you had invested on the day of the IPO as well as if you had invested in the stock after</p>\n\n<ol>\n<li>One day</li>\n<li>One week</li>\n<li>One month</li>\n</ol>\n\n<p>The returns are then compared against each other to find the optimal time to invest in the stock after it has IPO’d. The returns were finally benchmarked against SPY to see if it makes sense to put in all these efforts - only to maybe underperform the market!</p>\n\n<p><a href=\"https://preview.redd.it/w2qnh2an7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=6e659778bbe8aaf8893f5d6f2ea21288ef4b7a71\">https://preview.redd.it/w2qnh2an7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=6e659778bbe8aaf8893f5d6f2ea21288ef4b7a71</a></p>\n\n<p><strong>Results</strong> </p>\n\n<p><a href=\"https://preview.redd.it/vknekrzo7ry71.png?width=730&amp;format=png&amp;auto=webp&amp;s=7fe4c5b99687e881d342df706a16fcd0ac0f255f\"> All calculations are done using the adjusted closing price  </a></p>\n\n<p>Surprisingly, the gains you would have made from the IPOs are inversely proportional to the amount of time you waited for your investment. On average <strong>the most amount of return is obtained by someone who invested on the day of the IPO itself</strong>. The more amount of time you wait for your investment, the lesser your return is!</p>\n\n<p>But what if you are not interested in the short-term returns? What if you are a buy-and-hold type of investor?</p>\n\n<p><a href=\"https://preview.redd.it/uazvvt0q7ry71.png?width=730&amp;format=png&amp;auto=webp&amp;s=38ff88f577596544308b493f072d66240507cc7d\"> </a></p>\n\n<p>If you are a long-term investor, <strong>you would be better off buying the IPO after waiting for a week</strong>, as it generated the most amount of return. But what is interesting is that waiting a week for the hype to die down would only increase your return by 9%. Waiting any further would only <strong><em>decrease your overall return.</em></strong></p>\n\n<p>So if you are planning on buying into an IPO but did not get an allocation at the listing price, you can wait a week so as to see how it performs in the market, avoid any large swings that the first week might cause, and still come out on top over the long run!</p>\n\n<p>Now, let’s compare the performance of IPO stocks against SPY. After all, even though you are getting a good return on your investment, if it does not beat the market, you would have been better off just investing it in SPY rather than doing all this research on IPOs.</p>\n\n<p><a href=\"https://preview.redd.it/ehviuevq7ry71.png?width=900&amp;format=png&amp;auto=webp&amp;s=880c9f18392da5832a239819b38cd6dc04893875\"> </a></p>\n\n<p>IPOs’ returns on average <strong><em>beat the market</em></strong> over the last two decades. The trends are similar to the ones observed earlier with the delta over the market return depending on how much time you waited before investing into the IPO and generating the highest amount of delta by waiting one week from the day of the IPO.</p>\n\n<p>Now it would be amiss not to discuss the inherent risks associated with investing in an IPO. Out of the 1,063 IPO’s in our analysis, only 62% of them gained in value and only a measly 29% of the IPOs beat the market over the long run. The outperformance over the market is coming due to a few outliers (Tesla - 25,000%+, Shopify - 5800%+, etc.) If you miss out on the top 1% of successful IPOs, your returns would be much lesser than the market. </p>\n\n<p><a href=\"https://preview.redd.it/5np1iman7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=ed89afca9e90fdc3288899fcab548a8155beecdc\"> </a></p>\n\n<p><strong>Limitations</strong></p>\n\n<p>The above analysis comes with some limitations that you should be aware of before trying to replicate the strategy</p>\n\n<ol>\n<li>The number of IPOs in the analysis is approximately 1/3rd of the total IPOs which occurred during 2000-2020 [4]. I don’t think this is a major concern since our sample of 1000+ stocks would be much more than enough to give statistical significance to our analysis.</li>\n<li>Another limitation is that the delta that you are observing here might just be due to the additional risk that you are taking by buying into lesser-known/small-cap companies. The risk-adjusted return might give a different result.</li>\n<li>Continuing from the above point, we are currently in a massive bull run with ATH being broken every week. So the additional risk you are taking will be well rewarded but the outcome might look different if we do the same analysis in the middle of a bear market.</li>\n</ol>\n\n<p><a href=\"https://preview.redd.it/qk5hm49s7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=77fe292757c841d6ecd666b499a9315e48595f25\"> </a></p>\n\n<p><strong>Conclusion</strong></p>\n\n<p>Buying into an IPO is an exciting prospect. Our analysis proves that even if you miss out on getting the IPO allocation, it’s still possible to beat the market by investing after the stock is listed on the market.</p>\n\n<p>As I <a href=\"https://www.reddit.com/r/wallstreetbets/comments/ny6wpp/i_analyzed_3600_ipos_over_the_past_two_decades_to/\">explained in my last post on IP</a>O, investment banks are incentivized to slightly underprice while listing (unless it’s a really popular company) so that the IPO issue is 100% subscribed (their fees are dependent on a successful IPO) [5].</p>\n\n<p>Whatever the case may be, if you are planning on holding on to the IPO only for a short period of time, you can maximize your returns by investing in the IPO as soon as it’s listed whereas if you are a long term investor who is planning to hold on to the stock for a very long time, its better to wait a week or so for the stock price to settle before making your move!</p>\n\n<p>Analysis Sheet containing all the data: <a href=\"https://docs.google.com/spreadsheets/d/1QqRNZEsTfgG6f8GfI-n6qBAai9wrUA47hFMYg6tz098/edit?usp=sharing\">here</a></p>\n\n<p>Until next week…</p>\n\n<p><a href=\"https://preview.redd.it/inx7eq9s7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=bd82af6c741804d784b964b632a1af10ae31eb0c\"> </a></p>\n\n<p><strong>Footnotes</strong></p>\n\n<p>[1] The company has <a href=\"https://insideevs.com/news/542908/rivian-production-numbers-first-month/\">only built and delivered 56</a> vehicles as of Oct21. If Rivian IPO’d at $65 Billion, it means that each vehicle it delivered added more than $1 Billion in value to its shareholders. A similarly valued Ford delivered 4.1 Million vehicles in 2020. Truly wild times we are living in!</p>\n\n<p>[2] Brokerages tend to allocate IPO shares to their premium clients - <a href=\"https://www.tdameritrade.com/investment-products/IPOs.html\">In the case of TD Ameritrade</a>, your account must have a value of at least $250,000 or have completed 30 trades in the last 3 months.</p>\n\n<p>[3] Take the examples of Robinhood and Coinbase IPO. Robinhood tanked on listing day losing 8% only to rally almost 100% in the next one week before coming back down to near its IPO pricing. Coinbase also had a wild ride on listing day with the share price going as high as $429 before crashing back down to ~$310.</p>\n\n<p>[4] The major limitation was the absence of financial data in Yahoo Finance for certain stocks.</p>\n\n<p>[5] There are a lot of contradictory opinions regarding this with <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0275531918309280\">some research</a> showcasing that IPO’s are usually undervalued while <a href=\"https://academic.oup.com/rfs/article-abstract/17/3/811/1612977?redirectedFrom=PDF\">others argue</a> that IPOs are overvalued. I guess you can twist data however you want to tell your story.</p>\n\n<p><a href=\"https://preview.redd.it/ohspvw9s7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=b152439751b7c5cba562695a713a9c1d89b2a8f6\">https://preview.redd.it/ohspvw9s7ry71.png?width=1728&amp;format=png&amp;auto=webp&amp;s=b152439751b7c5cba562695a713a9c1d89b2a8f6</a></p>\n\n<p><em>Disclaimer: I am not a financial advisor. Please do your own research before investing.</em></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?auto=webp&s=e94099c1922b8307ab24ceb4a1f4dc32b34b3045",
+          "width": 4000,
+          "height": 2667
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?width=108&crop=smart&auto=webp&s=af8280a630c67dd8551bcf64ab5734f69441b642",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?width=216&crop=smart&auto=webp&s=866993baa50a0912a69c10c74b39a33a322eb095",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?width=320&crop=smart&auto=webp&s=dc3ab6b912e1ea3050c43cfc6bf10295d0f049d1",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?width=640&crop=smart&auto=webp&s=0186fcf6a99b4df510cd4bea829cc31a073d723e",
+            "width": 640,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?width=960&crop=smart&auto=webp&s=485129a6506b8e5cf99abc810cdc1fc6026d367c",
+            "width": 960,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/MMhJIL-UajrY655C8_NK7c_OjRzcVnkH-hmasz-STzI.jpg?width=1080&crop=smart&auto=webp&s=210a0563357984b9712331bdc3138809103d0018",
+            "width": 1080,
+            "height": 720
+          }
+        ],
+        "variants": {},
+        "id": "diWKBvvk0hJngDty2dlh-JaSLkL6DbMX_eGbAhc-cL0"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Anal(yst)",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "mod_note": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "num_reports": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "qqseif",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "nobjos",
+  "discussion_type": null,
+  "num_comments": 124,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "light",
+  "permalink": "/r/wallstreetbets/comments/qqseif/what_is_the_best_time_to_buy_an_ipo_i_analyzed/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/qqseif/what_is_the_best_time_to_buy_an_ipo_i_analyzed/",
+  "subreddit_subscribers": 11130338,
+  "created_utc": 1636570909,
+  "num_crossposts": 2,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1636543975,
+  "the_new_excerpt": "Given the growing hype surrounding the $65 Billion Rivian IPO\n[https://www.cnbc.com/2021/11/05/rivian-raises-ipo-price-range-and-could-now-be-worth-up-to-65-billion.html]\n[1], I felt this is the perfect time to follow up on my first analysis on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "650億円規模のRivianのIPOに向けて高まる注目を受けて\n[https://www.cnbc.com/2021/11/05/rivian-raises-ipo-price-range-and-could-now-be-worth-up-to-65-billion.html]\n[1]の最初の分析に続く絶好の機会であると感じました...",
+      "title": "IPOを購入するのに最適なタイミングとは？- 私は過去20年間で1,000以上のIPOを分析しました! その結果は以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "鉴于围绕650亿美元的Rivian IPO的炒作越来越多\n[https://www.cnbc.com/2021/11/05/rivian-raises-ipo-price-range-and-could-now-be-worth-up-to-65-billion.html]\n[1]，我觉得这是一个完美的时间来跟进我的第一个分析，对...",
+      "title": "什么是购买新股的最佳时机？- 我在过去20年里分析了1000多宗IPO! 下面是结果!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "鑑於圍繞650億美元的Rivian IPO的炒作越來越多\n[https://www.cnbc.com/2021/11/05/rivian-raises-ipo-price-range-and-could-now-be-worth-up-to-65-billion.html]\n[1]，我覺得這是一個完美的時間來跟進我的第一個分析，對...",
+      "title": "什麼是購買新股的最佳時機？- 我在過去20年裏分析了1000多宗IPO! 下面是結果!"
+    }
+  ],
+  "source_updated_at": 1636710069244
+}

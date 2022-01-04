@@ -1,0 +1,66 @@
+name: Actionsflow
+on:
+  repository_dispatch:
+  workflow_dispatch:
+    inputs:
+      include:
+        description: "--include: workflow file filter, you can use glob format to filter your workflows, the default value is empty value, means no filter will be using"
+        required: false
+        default: ""
+      force:
+        description: "--force: whether force to run workflow, true or false"
+        required: false
+        default: "false"
+      verbose:
+        description: "--verbose: debug workflow, true or false"
+        required: false
+        default: "false"
+  # schedule:
+  #   - cron: "*/5 * * * *"
+  # push:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    concurrency: actionsflow
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run Actionsflow
+        uses: actionsflow/actionsflow-action@v1
+        with:
+          using: local
+          args: "build --include ${{ github.event.inputs.include || ''}} -f ${{github.event.inputs.force=='true' && 'true' || 'false'}} --verbose ${{github.event.inputs.verbose=='true' && 'true' || 'false'}}"
+          json-secrets: ${{ toJSON(secrets) }}
+          json-github: ${{ toJSON(github) }}
+      - name: Setup act
+        uses: actionsflow/setup-act-for-actionsflow@v1
+        with:
+          version: 0.2.25
+      - name: Run act
+        continue-on-error: true
+        run: act --workflows ./dist/workflows --secret-file ./dist/.secrets --eventpath ./dist/event.json --env-file ./dist/.env -P ubuntu-latest=actionsflow/act-environment:v1 -P ubuntu-18.04=actionsflow/act-environment:v1 --bind
+      # - run: sleep 5
+      # - run: ls -l
+      # - run: git status
+      # - uses: EndBug/add-and-commit@v5 # You can change this to use a specific version
+      #   with:
+      #     message: "chore: new item"
+      #     push: false
+      - name: chown
+        run: sudo chown -R $USER:$USER ./
+      - name: git config
+        run: git config --global user.name "github-actions[bot]" && git config --global user.email github-actions-bot@users.noreply.github.com
+      - name: git add
+        run: git add .
+      - run: git status
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          labels: automerge
+          commit-message: "chore: new item"
+          committer: "github-actions[bot] <github-actions-bot@users.noreply.github.com>"
+          author: "github-actions[bot] <github-actions-bot@users.noreply.github.com>"
+          branch: new-item
+          delete-branch: true
+          title: New item update

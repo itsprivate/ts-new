@@ -1,0 +1,47 @@
+{
+  "author": "MeiBanFa",
+  "original_created_utc": 1638202630,
+  "title": "PSA: Always keep at least 1 DOT in your Polkadot wallet or you will lose everything!",
+  "created_utc": 1638225674,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Polkadot is a bit strange in many ways and most of it is not explained in a way that is obvious to non-programmers.</p>\n\n<p>(For example, I could not figure out why I couldn&#39;t see my funds in my wallet until someone explained to me the difference between polkadot. js the app/site and polkadot. js the extension. This was not explained in the official documentation, which shows how to set up the extension, but doesn&#39;t mention that it is not a full wallet, like MetaMask, Phantom, Temple, etc.)</p>\n\n<p>But the &quot;feature&quot; of reaping deserves special attention and should be understood by anyone (potentially) involved in the DOT ecosystem:</p>\n\n<p>If you have less than 1 DOT in a wallet all the coins in that wallet will be burned and gone forever.</p>\n\n<p>This means that if you have alt-coins in that wallet as well as some DOT and you decide to send that DOT to an exchange for trading, you will lose all your alt-coins, no matter what they are worth. Unless you leave at least 1 DOT behind.</p>\n\n<p>Just something to be aware of.</p>\n\n<p><strong>EDIT</strong>: A few commenters have pointed out that I may be wrong regarding the burning of coins other than DOT (or KSM, when on Kusama) and that only the DOT (KSM) gets burnt, whereas other coins can be retrieved once the account has been activated again. I cannot confirm this, as I have not tried it out and the official documentation is not super clear on this, in my opinion.</p>\n\n<p>In <a href=\"https://support.polkadot.network/support/solutions/articles/65000168651-what-is-the-existential-deposit-\">this</a> document it says:</p>\n\n<p>&quot;On the Polkadot network, an address is only active when it holds a minimum amount, currently set at 1 DOT (and 0.0000333333 KSM on the Kusama network). This minimum amount is called the Existential Deposit (ED). (...)</p>\n\n<p>If you are sending all (or almost all) of your funds out of an account, which will result in the remaining balance going under the ED, the account will be reaped and any remaining funds will be burned</p>\n\n<p>An account can be reactivated anytime, however, this will not bring back any previously burned funds&quot;</p>\n\n<p>This, in combination with information I got on Discord, made it sound like the only currencies that can serve as ED are DOT and KSM, but that <strong>everything</strong> gets burnt when the DOT balance drops below the ED. If that is not the case I am happy to be corrected. But I do think that this should be made much clearer in the way the documentation is written.</p>\n</div><!-- SC_ON -->",
+  "score": 202,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/GFls1J09jT2KcCSIGuW6a9qnKtjvlNSeMZPqduAu7lU.jpg?auto=webp&s=604be015c600bb360f10768617eac755a6da3fa4",
+          "width": 100,
+          "height": 50
+        },
+        "resolutions": [],
+        "variants": {},
+        "id": "gVSUhA4DXF4PMSHF6iPJnqazAVxjPmEolrLmdozK62o"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/r4z9wx/psa_always_keep_at_least_1_dot_in_your_polkadot/",
+  "subreddit": "CryptoCurrency",
+  "id": "r4z9wx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Polkadot is a bit strange in many ways and most of it is not explained in a way\nthat is obvious to non-programmers.\n\n(For example, I could not figure out why I couldn't see my funds in my wallet\nuntil someone explained to me the difference between polkadot. js the app/site\nand polkadot. js the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Polkadotは多くの点でちょっと変わっていて、そのほとんどがプログラマーではない人にもわかるように説明されていません。\nプログラマーでない人にもわかるように説明されていません。\n\n(例えば、なぜ財布の中の資金が見えないのか、誰かがポルカドットの違いを説明してくれるまでわかりませんでした。\nアプリ/サイトのpolkadot.jsと本体のpolkadot.jsの違いを誰かが説明してくれるまでは\nとPolkadot.js the...",
+      "title": "PSA: Polkadotの財布には常に最低1つのDOTを入れておかないと、全てを失ってしまいます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Polkadot在很多方面都有点奇怪，而且大部分都没有以非程序员明显的方式来解释\n对非程序员来说是显而易见的。\n\n(例如，我无法理解为什么我无法看到我钱包里的资金。\n直到有人向我解释Polkadot.js这个应用/网站与Polkadot.js之间的区别。\n和polkadot.js的区别。",
+      "title": "PSA：在你的Polkadot钱包里至少要保留1个DOT，否则你会失去所有东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Polkadot在很多方面都有點奇怪，而且大部分都沒有以非程序員明顯的方式來解釋\n對非程序員來說是顯而易見的。\n\n(例如，我無法理解爲什麼我無法看到我錢包裏的資金。\n直到有人向我解釋Polkadot.js這個應用/網站與Polkadot.js之間的區別。\n和polkadot.js的區別。",
+      "title": "PSA：在你的Polkadot錢包裏至少要保留1個DOT，否則你會失去所有東西。"
+    }
+  ]
+}

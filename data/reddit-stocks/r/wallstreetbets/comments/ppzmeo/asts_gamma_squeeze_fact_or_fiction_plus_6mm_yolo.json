@@ -1,0 +1,389 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "There has been a lot of talk about a so-called gamma squeeze in $ASTS. Let’s unpack these crazy claims by people who write about 4K porn, Interstellar travel, Lord of the Rings, and other things.  We’ll find out soon enough what happens. At least we can have a teachable moment? \n\n**WHAT’S A GAMMA SQUEEZE?**\n\nPeople around these parts like to talk about a “gamma” squeeze as if they actually know what they are talking about. Do they actually talk Greek? “Gamma” is a Greek. To understand gamma, you need to understand another Greek, called “delta,” and not the airline. An option has a “delta,” or a relationship between the change in price of the option vs. a change in the underlying stock price.  \n\n&#x200B;\n\nhttps://preview.redd.it/maed9zgx82o71.png?width=467&format=png&auto=webp&s=6355a5f52e2db58560b1cf814f97e43ede3e3e7e\n\nGamma is the change in the delta for a change in the stock price. Got that? Yep, it’s a second derivative. Math. The delta of an option changes as it moves in relation to the strike price. As it moves closer (and above) the strike, the delta increases up until it hits 100%. But the sensitivity of the change in delta also moves based on the time to expiry. As an option nears expiry, the delta of the option becomes more sensitive to a change in the underlying stock price\n\nFor an option expiring in a day, especially near the strike price, the gamma is really high and really hard to hedge if you are a market maker\n\nHere is an example of what happens to the same option if valued at August 16th vs. September 17th (same strike etc). The delta is lower, but the gamma is way higher. This is an explosive combination\n\n&#x200B;\n\nhttps://preview.redd.it/uewoi9mz82o71.png?width=624&format=png&auto=webp&s=9ab7c8cd6d653d71adf73f18364f792443171e8c\n\n \n\n**Why does this matter? Let’s understand the Land of Patagonia Vests, e.g. a trader’s life.**  \n\nhttps://preview.redd.it/ouc3q30292o71.png?width=624&format=png&auto=webp&s=c31a4b45790073112e24761f5b5ea78f12b0e9df\n\nWhen you look at option open interest, the open contracts are generally held by the buyside (investors), with the street (sell side) having written the contracts. This means the street is short gamma. As shares move up, they have to buy more shares to be hedged. When the gamma is basically off the charts at expiry, on a high volatility stock, the trader has a huge risk of getting stuffed with a large short position. The fear of the trader is not being able to buy an offsetting long if the shares settle above the strike\n\nhttps://preview.redd.it/m8gl8zx492o71.png?width=624&format=png&auto=webp&s=e6f8420e76da6ed515ff74fa7520b076a570b714\n\nThe problem for traders is this huge open interest of \\~13K contracts (12.5s and 15s), or roughly 1,300,000 shares equivalent. If the shares close above $12.50 and $15.00, those options will get exercised and right now, the trader would be severely underhedged and have to short the shares to the owner of the option. Come Monday, the trader would have to cover that short (by buying). \n\nhttps://preview.redd.it/1a1ijrv692o71.png?width=624&format=png&auto=webp&s=3ab2caa0edf15dd14dac0a1e28efadf85214e02e\n\nThe problem comes with the fact that it could be hard to source those shares. As shown above, there is already a reasonable short interest in $ASTS and I currently see a borrow fee rate of 5%, which makes it fairly hard to borrow. This is where things can be scary if you are short. \n\nNow, I don’t remember in my career seeing a lot of these sort of supernovas upon options expiry, but what has changed is this: an uncontrolled mob of retail traders trying to destroy Wall Street.\\* \n\n*\\*PS, God bless retail traders.* *Please don’t hurt me.* \n\nhttps://preview.redd.it/gkn5hfu892o71.png?width=624&format=png&auto=webp&s=5878135aaa4a681ff990175e409399abf3d20f2a\n\n**What does the chart tell us?**\n\nThe other thing the trader would look at is the chart. Am I scared of a chart or not? Well, this chart is SCARY to short. You’ve got a gap at $17 to fill, a stock that just went above its 200dma and has clearly found downside support after testing\n\nhttps://preview.redd.it/7rnbjjxa92o71.png?width=624&format=png&auto=webp&s=94c4852b0d67d010cd7d4f3576f9a38a432c5635\n\n**Update on my $6 Million YOLO:**\n\nOne thing that irritates me is this idea that I would pump and dump. For the record, since my original YOLO I have sold two (2) shares (down from 500,401 shares to 500,399 shares). I sell 1 share with a market order when the stock really sucks as my sacrifice to the stock gods. Did it work? Look, here we are…\n\n&#x200B;\n\nhttps://preview.redd.it/suv516qc92o71.png?width=624&format=png&auto=webp&s=1944c2e116d200cee8f2f72a850473d84f9d9e76\n\nhttps://preview.redd.it/ye2y8f8d92o71.png?width=399&format=png&auto=webp&s=22c348ff87fffec2e1a2d4b749c3048666985d9b",
+  "author_fullname": "t2_akyb6pqp",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 1,
+  "clicked": false,
+  "title": "🚀👩‍🚀🛰💎 $ASTS: Gamma Squeeze, Fact or Fiction? Plus $6MM YOLO Update 🚀👩‍🚀🛰💎",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "ouc3q30292o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 63,
+          "x": 108,
+          "u": "https://preview.redd.it/ouc3q30292o71.png?width=108&crop=smart&auto=webp&s=d6b57b1c94bbeedad8c6b324d1cdbe6a9f718507"
+        },
+        {
+          "y": 126,
+          "x": 216,
+          "u": "https://preview.redd.it/ouc3q30292o71.png?width=216&crop=smart&auto=webp&s=287ad6e5ba0b34d5c6783c5c71a470eef9a105d9"
+        },
+        {
+          "y": 186,
+          "x": 320,
+          "u": "https://preview.redd.it/ouc3q30292o71.png?width=320&crop=smart&auto=webp&s=715a1aac8212c44bb97d77d7a131d2e4260b27e4"
+        }
+      ],
+      "s": {
+        "y": 364,
+        "x": 624,
+        "u": "https://preview.redd.it/ouc3q30292o71.png?width=624&format=png&auto=webp&s=c31a4b45790073112e24761f5b5ea78f12b0e9df"
+      },
+      "id": "ouc3q30292o71"
+    },
+    "m8gl8zx492o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 47,
+          "x": 108,
+          "u": "https://preview.redd.it/m8gl8zx492o71.png?width=108&crop=smart&auto=webp&s=46d5a372e1800f9d089cd8c0e402af0ce74de7af"
+        },
+        {
+          "y": 95,
+          "x": 216,
+          "u": "https://preview.redd.it/m8gl8zx492o71.png?width=216&crop=smart&auto=webp&s=b23a72edc041802fcb718f5338e96941d7cbcee7"
+        },
+        {
+          "y": 141,
+          "x": 320,
+          "u": "https://preview.redd.it/m8gl8zx492o71.png?width=320&crop=smart&auto=webp&s=9398a645cd9b82131a7e3a1b9ad28671d601f0d8"
+        }
+      ],
+      "s": {
+        "y": 276,
+        "x": 624,
+        "u": "https://preview.redd.it/m8gl8zx492o71.png?width=624&format=png&auto=webp&s=e6f8420e76da6ed515ff74fa7520b076a570b714"
+      },
+      "id": "m8gl8zx492o71"
+    },
+    "gkn5hfu892o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/gkn5hfu892o71.png?width=108&crop=smart&auto=webp&s=29378f342c8f0f3c4a14649f105b9a1afad6a555"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/gkn5hfu892o71.png?width=216&crop=smart&auto=webp&s=468dcfb6ebf758b9da572110a68818152a945d8f"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/gkn5hfu892o71.png?width=320&crop=smart&auto=webp&s=9a40bbc3eb5afdb1520392381440f09e9344b695"
+        }
+      ],
+      "s": {
+        "y": 352,
+        "x": 624,
+        "u": "https://preview.redd.it/gkn5hfu892o71.png?width=624&format=png&auto=webp&s=5878135aaa4a681ff990175e409399abf3d20f2a"
+      },
+      "id": "gkn5hfu892o71"
+    },
+    "suv516qc92o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 64,
+          "x": 108,
+          "u": "https://preview.redd.it/suv516qc92o71.png?width=108&crop=smart&auto=webp&s=9de8482777108163b27daaeacfba6aef3721963e"
+        },
+        {
+          "y": 129,
+          "x": 216,
+          "u": "https://preview.redd.it/suv516qc92o71.png?width=216&crop=smart&auto=webp&s=b23a5bca4a3afe8cbcbb62a5f1c58baae72b7c72"
+        },
+        {
+          "y": 192,
+          "x": 320,
+          "u": "https://preview.redd.it/suv516qc92o71.png?width=320&crop=smart&auto=webp&s=e02a16e866cf7ad89093b57a780f798d51da245c"
+        }
+      ],
+      "s": {
+        "y": 375,
+        "x": 624,
+        "u": "https://preview.redd.it/suv516qc92o71.png?width=624&format=png&auto=webp&s=1944c2e116d200cee8f2f72a850473d84f9d9e76"
+      },
+      "id": "suv516qc92o71"
+    },
+    "1a1ijrv692o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 50,
+          "x": 108,
+          "u": "https://preview.redd.it/1a1ijrv692o71.png?width=108&crop=smart&auto=webp&s=7a5ad27ec8460b0f2be7b5209736fc34c3e1823b"
+        },
+        {
+          "y": 101,
+          "x": 216,
+          "u": "https://preview.redd.it/1a1ijrv692o71.png?width=216&crop=smart&auto=webp&s=2a53d24e786aebd143472ac7840d825efa2fa472"
+        },
+        {
+          "y": 149,
+          "x": 320,
+          "u": "https://preview.redd.it/1a1ijrv692o71.png?width=320&crop=smart&auto=webp&s=48c4e2f55a6fdbd163626478514297c832969edb"
+        }
+      ],
+      "s": {
+        "y": 292,
+        "x": 624,
+        "u": "https://preview.redd.it/1a1ijrv692o71.png?width=624&format=png&auto=webp&s=3ab2caa0edf15dd14dac0a1e28efadf85214e02e"
+      },
+      "id": "1a1ijrv692o71"
+    },
+    "ye2y8f8d92o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 216,
+          "x": 108,
+          "u": "https://preview.redd.it/ye2y8f8d92o71.png?width=108&crop=smart&auto=webp&s=f8461b5ddd5c6aea8d5b2469c82666b06e674fd0"
+        },
+        {
+          "y": 432,
+          "x": 216,
+          "u": "https://preview.redd.it/ye2y8f8d92o71.png?width=216&crop=smart&auto=webp&s=ada8a8118714171508d45fbb453d292fc05c5a1b"
+        },
+        {
+          "y": 640,
+          "x": 320,
+          "u": "https://preview.redd.it/ye2y8f8d92o71.png?width=320&crop=smart&auto=webp&s=bdb4f0ca6e20770d864ffcc6e023c904a2cb2b51"
+        }
+      ],
+      "s": {
+        "y": 864,
+        "x": 399,
+        "u": "https://preview.redd.it/ye2y8f8d92o71.png?width=399&format=png&auto=webp&s=22c348ff87fffec2e1a2d4b749c3048666985d9b"
+      },
+      "id": "ye2y8f8d92o71"
+    },
+    "uewoi9mz82o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 77,
+          "x": 108,
+          "u": "https://preview.redd.it/uewoi9mz82o71.png?width=108&crop=smart&auto=webp&s=180397640264df6711e46bfc2ce6162aa8d1547a"
+        },
+        {
+          "y": 155,
+          "x": 216,
+          "u": "https://preview.redd.it/uewoi9mz82o71.png?width=216&crop=smart&auto=webp&s=a4a6bfd157741e420e7184d2eec48487e08e6f9a"
+        },
+        {
+          "y": 229,
+          "x": 320,
+          "u": "https://preview.redd.it/uewoi9mz82o71.png?width=320&crop=smart&auto=webp&s=9b5b587683fea45264d9be2abd7a125c92d1f506"
+        }
+      ],
+      "s": {
+        "y": 448,
+        "x": 624,
+        "u": "https://preview.redd.it/uewoi9mz82o71.png?width=624&format=png&auto=webp&s=9ab7c8cd6d653d71adf73f18364f792443171e8c"
+      },
+      "id": "uewoi9mz82o71"
+    },
+    "maed9zgx82o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 135,
+          "x": 108,
+          "u": "https://preview.redd.it/maed9zgx82o71.png?width=108&crop=smart&auto=webp&s=855c8d59ebdf46b930dc7f81b42e3a75a56a3700"
+        },
+        {
+          "y": 271,
+          "x": 216,
+          "u": "https://preview.redd.it/maed9zgx82o71.png?width=216&crop=smart&auto=webp&s=e4fd8d7e430e32b7181f8efc18fb18b8abda6a72"
+        },
+        {
+          "y": 402,
+          "x": 320,
+          "u": "https://preview.redd.it/maed9zgx82o71.png?width=320&crop=smart&auto=webp&s=95798164e313d1d425764898e67e3d2e91627d2f"
+        }
+      ],
+      "s": {
+        "y": 588,
+        "x": 467,
+        "u": "https://preview.redd.it/maed9zgx82o71.png?width=467&format=png&auto=webp&s=6355a5f52e2db58560b1cf814f97e43ede3e3e7e"
+      },
+      "id": "maed9zgx82o71"
+    },
+    "7rnbjjxa92o71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 40,
+          "x": 108,
+          "u": "https://preview.redd.it/7rnbjjxa92o71.png?width=108&crop=smart&auto=webp&s=240ec553bee868bb6cbe97e2e4848f550c780f7e"
+        },
+        {
+          "y": 80,
+          "x": 216,
+          "u": "https://preview.redd.it/7rnbjjxa92o71.png?width=216&crop=smart&auto=webp&s=0c08171df4aad7117cec78ee18e7686cdf0b8a62"
+        },
+        {
+          "y": 118,
+          "x": 320,
+          "u": "https://preview.redd.it/7rnbjjxa92o71.png?width=320&crop=smart&auto=webp&s=990ce4901224ec3ace9f218f0ed77016fc7d4fc1"
+        }
+      ],
+      "s": {
+        "y": 232,
+        "x": 624,
+        "u": "https://preview.redd.it/7rnbjjxa92o71.png?width=624&format=png&auto=webp&s=94c4852b0d67d010cd7d4f3576f9a38a432c5635"
+      },
+      "id": "7rnbjjxa92o71"
+    }
+  },
+  "name": "t3_ppzmeo",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.96,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 1404,
+  "total_awards_received": 41,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1404,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {
+    "gid_1": 1,
+    "gid_2": 1,
+    "gid_3": 2
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1631883329,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>There has been a lot of talk about a so-called gamma squeeze in $ASTS. Let’s unpack these crazy claims by people who write about 4K porn, Interstellar travel, Lord of the Rings, and other things.  We’ll find out soon enough what happens. At least we can have a teachable moment? </p>\n\n<p><strong>WHAT’S A GAMMA SQUEEZE?</strong></p>\n\n<p>People around these parts like to talk about a “gamma” squeeze as if they actually know what they are talking about. Do they actually talk Greek? “Gamma” is a Greek. To understand gamma, you need to understand another Greek, called “delta,” and not the airline. An option has a “delta,” or a relationship between the change in price of the option vs. a change in the underlying stock price.  </p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/maed9zgx82o71.png?width=467&amp;format=png&amp;auto=webp&amp;s=6355a5f52e2db58560b1cf814f97e43ede3e3e7e\">https://preview.redd.it/maed9zgx82o71.png?width=467&amp;format=png&amp;auto=webp&amp;s=6355a5f52e2db58560b1cf814f97e43ede3e3e7e</a></p>\n\n<p>Gamma is the change in the delta for a change in the stock price. Got that? Yep, it’s a second derivative. Math. The delta of an option changes as it moves in relation to the strike price. As it moves closer (and above) the strike, the delta increases up until it hits 100%. But the sensitivity of the change in delta also moves based on the time to expiry. As an option nears expiry, the delta of the option becomes more sensitive to a change in the underlying stock price</p>\n\n<p>For an option expiring in a day, especially near the strike price, the gamma is really high and really hard to hedge if you are a market maker</p>\n\n<p>Here is an example of what happens to the same option if valued at August 16th vs. September 17th (same strike etc). The delta is lower, but the gamma is way higher. This is an explosive combination</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/uewoi9mz82o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=9ab7c8cd6d653d71adf73f18364f792443171e8c\">https://preview.redd.it/uewoi9mz82o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=9ab7c8cd6d653d71adf73f18364f792443171e8c</a></p>\n\n<p><strong>Why does this matter? Let’s understand the Land of Patagonia Vests, e.g. a trader’s life.</strong>  </p>\n\n<p><a href=\"https://preview.redd.it/ouc3q30292o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=c31a4b45790073112e24761f5b5ea78f12b0e9df\">https://preview.redd.it/ouc3q30292o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=c31a4b45790073112e24761f5b5ea78f12b0e9df</a></p>\n\n<p>When you look at option open interest, the open contracts are generally held by the buyside (investors), with the street (sell side) having written the contracts. This means the street is short gamma. As shares move up, they have to buy more shares to be hedged. When the gamma is basically off the charts at expiry, on a high volatility stock, the trader has a huge risk of getting stuffed with a large short position. The fear of the trader is not being able to buy an offsetting long if the shares settle above the strike</p>\n\n<p><a href=\"https://preview.redd.it/m8gl8zx492o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=e6f8420e76da6ed515ff74fa7520b076a570b714\">https://preview.redd.it/m8gl8zx492o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=e6f8420e76da6ed515ff74fa7520b076a570b714</a></p>\n\n<p>The problem for traders is this huge open interest of ~13K contracts (12.5s and 15s), or roughly 1,300,000 shares equivalent. If the shares close above $12.50 and $15.00, those options will get exercised and right now, the trader would be severely underhedged and have to short the shares to the owner of the option. Come Monday, the trader would have to cover that short (by buying). </p>\n\n<p><a href=\"https://preview.redd.it/1a1ijrv692o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=3ab2caa0edf15dd14dac0a1e28efadf85214e02e\">https://preview.redd.it/1a1ijrv692o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=3ab2caa0edf15dd14dac0a1e28efadf85214e02e</a></p>\n\n<p>The problem comes with the fact that it could be hard to source those shares. As shown above, there is already a reasonable short interest in $ASTS and I currently see a borrow fee rate of 5%, which makes it fairly hard to borrow. This is where things can be scary if you are short. </p>\n\n<p>Now, I don’t remember in my career seeing a lot of these sort of supernovas upon options expiry, but what has changed is this: an uncontrolled mob of retail traders trying to destroy Wall Street.* </p>\n\n<p><em>\\</em>PS, God bless retail traders.* <em>Please don’t hurt me.</em> </p>\n\n<p><a href=\"https://preview.redd.it/gkn5hfu892o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=5878135aaa4a681ff990175e409399abf3d20f2a\">https://preview.redd.it/gkn5hfu892o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=5878135aaa4a681ff990175e409399abf3d20f2a</a></p>\n\n<p><strong>What does the chart tell us?</strong></p>\n\n<p>The other thing the trader would look at is the chart. Am I scared of a chart or not? Well, this chart is SCARY to short. You’ve got a gap at $17 to fill, a stock that just went above its 200dma and has clearly found downside support after testing</p>\n\n<p><a href=\"https://preview.redd.it/7rnbjjxa92o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=94c4852b0d67d010cd7d4f3576f9a38a432c5635\">https://preview.redd.it/7rnbjjxa92o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=94c4852b0d67d010cd7d4f3576f9a38a432c5635</a></p>\n\n<p><strong>Update on my $6 Million YOLO:</strong></p>\n\n<p>One thing that irritates me is this idea that I would pump and dump. For the record, since my original YOLO I have sold two (2) shares (down from 500,401 shares to 500,399 shares). I sell 1 share with a market order when the stock really sucks as my sacrifice to the stock gods. Did it work? Look, here we are…</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/suv516qc92o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=1944c2e116d200cee8f2f72a850473d84f9d9e76\">https://preview.redd.it/suv516qc92o71.png?width=624&amp;format=png&amp;auto=webp&amp;s=1944c2e116d200cee8f2f72a850473d84f9d9e76</a></p>\n\n<p><a href=\"https://preview.redd.it/ye2y8f8d92o71.png?width=399&amp;format=png&amp;auto=webp&amp;s=22c348ff87fffec2e1a2d4b749c3048666985d9b\">https://preview.redd.it/ye2y8f8d92o71.png?width=399&amp;format=png&amp;auto=webp&amp;s=22c348ff87fffec2e1a2d4b749c3048666985d9b</a></p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "ppzmeo",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "thekookreport",
+  "discussion_type": null,
+  "num_comments": 106,
+  "send_replies": false,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/wallstreetbets/comments/ppzmeo/asts_gamma_squeeze_fact_or_fiction_plus_6mm_yolo/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/ppzmeo/asts_gamma_squeeze_fact_or_fiction_plus_6mm_yolo/",
+  "subreddit_subscribers": 10843595,
+  "created_utc": 1631897459,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1631883329,
+  "the_new_excerpt": "There has been a lot of talk about a so-called gamma squeeze in $ASTS. Let’s\nunpack these crazy claims by people who write about 4K porn, Interstellar\ntravel, Lord of the Rings, and other things. We’ll find out soon enough what\nhappens. At least we can have a teachable moment?\n\nWHAT’S A GAMMA…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "$ASTSのいわゆるガンマ・スクイーズが話題になっています。ここでは\n4Kポルノやインターステラー・トラベル、ロード・オブ・ザ・リングなどについて書いている人たちのこの狂った主張を解き明かしてみよう。\n旅行、ロード・オブ・ザ・リングなどについて書いている人たちのクレイジーな主張を解き明かしてみましょう。をすぐに見つけることができるだろう。\n何が起こるか。少なくとも、私たちは教えられる瞬間を持つことができますか？\n\nガンマ線とは？",
+      "title": "🚀👩🛰💎 $ASTS: Gamma Squeeze, Fact or Fiction? Plus $6MM YOLO Update 🚀👩🚀🛰💎」を公開しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有很多关于$ASTS的所谓伽玛挤压的讨论。让我们\n让我们来解读一下那些写4K色情、星际旅行、《魔戒》、和《中国的故事》的人的这些疯狂说法。\n旅行、《指环王》和其他东西的人的疯狂说法。我们很快就会发现什么\n会发生什么。至少我们可以有一个可教的时刻？\n\n什么是伽马...",
+      "title": "🚀🚀🚀💎 $ASTS: 伽马挤压，事实还是虚构？加上6百万美元的YOLO更新 🚀🚀🚀🛰💎"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有很多關於$ASTS的所謂伽瑪擠壓的討論。讓我們\n讓我們來解讀一下那些寫4K色情、星際旅行、《魔戒》、和《中國的故事》的人的這些瘋狂說法。\n旅行、《指環王》和其他東西的人的瘋狂說法。我們很快就會發現什麼\n會發生什麼。至少我們可以有一個可教的時刻？\n\n什麼是伽馬...",
+      "title": "🚀🚀🚀💎 $ASTS: 伽馬擠壓，事實還是虛構？加上6百萬美元的YOLO更新 🚀🚀🚀🛰💎"
+    }
+  ],
+  "source_updated_at": 1632476402382
+}

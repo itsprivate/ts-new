@@ -1,0 +1,77 @@
+{
+  "created_at": "Mon May 24 1:58:42 +0000 2021",
+  "id_str": "1396606271646838786",
+  "full_text": "It’s been a minute https://t.co/UKy8GXaTEQ",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1396602166333300700,
+        "id_str": "1396602166333300741",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/E2G6RVDWYAUSOD6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E2G6RVDWYAUSOD6.jpg",
+        "url": "https://t.co/UKy8GXaTEQ",
+        "display_url": "pic.twitter.com/UKy8GXaTEQ",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1396606271646838786/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 12,
+  "favorite_count": 619,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun May 23 23:17:37 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "It's been a minute https://t.co/UKy8GXaTEQ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "已经过了一分钟https://t.co/UKy8GXaTEQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "已經過了一分鐘https://t.co/UKy8GXaTEQ"
+    }
+  ],
+  "source_updated_at": 1622197393340
+}

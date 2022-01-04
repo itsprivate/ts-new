@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 700123,
+  "title": "Understanding the Node.js Event Loop",
+  "description": "JavaScript is single-threaded, so how does it handle asynchronous code without blocking the main thre...",
+  "readable_publish_date": "May 17",
+  "slug": "understanding-the-node-js-event-loop-242d",
+  "path": "/thawkin3/understanding-the-node-js-event-loop-242d",
+  "url": "https://dev.to/thawkin3/understanding-the-node-js-event-loop-242d",
+  "comments_count": 0,
+  "public_reactions_count": 44,
+  "collection_id": null,
+  "published_timestamp": "2021-05-17T12:39:07Z",
+  "positive_reactions_count": 44,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GW8xxW8O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6e4xjtcr2w3f31oogsg.jpeg",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7GrEEcHd--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6e4xjtcr2w3f31oogsg.jpeg",
+  "canonical_url": "https://dev.to/thawkin3/understanding-the-node-js-event-loop-242d",
+  "created_at": "2021-05-19T02:37:03.572Z",
+  "edited_at": "2021-05-17T14:24:41Z",
+  "crossposted_at": null,
+  "published_at": "2021-05-17T12:39:07Z",
+  "last_comment_at": "2021-05-17T12:39:07Z",
+  "reading_time_minutes": 8,
+  "tag_list": [
+    "javascript",
+    "node",
+    "webdev",
+    "heroku"
+  ],
+  "tags": [
+    "javascript",
+    "node",
+    "webdev",
+    "heroku"
+  ],
+  "user": {
+    "name": "Tyler Hawkins",
+    "username": "thawkin3",
+    "twitter_username": null,
+    "github_username": "thawkin3",
+    "website_url": "http://tylerhawkins.info",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--So7RHAjU--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/344735/70749f3f-334b-4414-a6e2-ca8dd8a89f3a.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--woUdpBAT--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/344735/70749f3f-334b-4414-a6e2-ca8dd8a89f3a.jpeg"
+  },
+  "original_created_at": "2021-05-16T21:19:49Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GW8xxW8O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6e4xjtcr2w3f31oogsg.jpeg",
+  "author": "Tyler Hawkins",
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptはシングルスレッドですが、メインスレッドをブロックせずに非同期コードを処理するにはどうすればいいのでしょうか？",
+      "title": "Node.jsのイベントループについて"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是单线程的，那么它是如何处理异步代码而不阻塞主线程的呢...",
+      "title": "了解Node.js的事件循环"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是單線程的，那麼它是如何處理異步代碼而不阻塞主線程的呢...",
+      "title": "瞭解Node.js的事件循環"
+    }
+  ]
+}

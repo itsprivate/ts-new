@@ -1,0 +1,79 @@
+{
+  "author": "ibelite",
+  "the_new_excerpt": "I have always heard that the best time to buy bitcoin for a Dollar Cost Avg\nstrategy was on Monday's. I wanted to check this for myself so I ran a back\ntest.\n\nUsing data from Sep 2020 through April 2021, here are my takeaways:\n\n 1. The best day to buy bitcoin is actually on Sunday at ~9pm or 1pm…",
+  "original_created_utc": 1618020624,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ドルコストアベレージ戦略でビットコインを購入するのに最適な時期は、いつも月曜日だと聞いていました。\n戦略でビットコインを購入するには、月曜日が最適だと聞いていました。これを自分で確認してみたかったので、バックテストを行ってみました。\nテストを行いました。\n\n2020年9月から2021年4月までのデータを使って、私が得たものは以下の通りです。\n\n 1. ビットコインを購入するのに最適な日は、実は日曜日の午後9時か午後1時であることがわかりました。",
+      "title": "ビットコインを売買するのに最適な曜日・時間帯は？バックテストで調べてみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我一直听说，买比特币的最佳时机是美元成本 Avg\n策略是在周一的。我想亲自检查一下，所以我跑了一个回。\n测试。\n\n利用2020年9月到2021年4月的数据，以下是我的心得。\n\n 1. 买入比特币的最佳日子其实是在周日晚上9点或1点左右......",
+      "title": "买卖比特币的最佳日期和时间是什么？我做了一个回溯测试来了解"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我一直聽說，買比特幣的最佳時機是美元成本 Avg\n策略是在週一的。我想親自檢查一下，所以我跑了一個回。\n測試。\n\n利用2020年9月到2021年4月的數據，以下是我的心得。\n\n 1. 買入比特幣的最佳日子其實是在週日晚上9點或1點左右......",
+      "title": "買賣比特幣的最佳日期和時間是什麼？我做了一個回溯測試來了解"
+    }
+  ],
+  "title": "What is the best day and time to buy/sell Bitcoin? I ran a backtest to find out",
+  "created_utc": 1618047029,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I have always heard that the best time to buy bitcoin for a Dollar Cost Avg strategy was on Monday&#39;s. I wanted to check this for myself so I ran a back test.</p>\n\n<p>Using data from Sep 2020 through April 2021, here are my takeaways:</p>\n\n<ol>\n<li>The best day to buy bitcoin is actually on <strong>Sunday</strong> at ~9pm or 1pm EST</li>\n<li>The best day to sell bitcoin is on <strong>Saturday</strong> at ~7am and and 3pm EST</li>\n<li>If you build a strategy that buys on Sunday and sells on Saturday, it does <strong>NOT</strong> beat buy and hold however buying on Sunday&#39;s will give you a lower cost basis.</li>\n<li>I published this analysis to <a href=\"https://easyupload.io/w2258w\">https://easyupload.io/w2258w</a> for anyone interested in the data</li>\n</ol>\n\n<p>The first pivot table shows the count of day and time for the 31 weeks between Sep 2020 and April where the price was smallest during the week while the second pivot table shows where the price was largest during the week.</p>\n\n<p><a href=\"https://preview.redd.it/lt8q9krc79s61.png?width=1784&amp;format=png&amp;auto=webp&amp;s=3bd4724bd76d645ea61a8aaa6919495827db32db\">https://preview.redd.it/lt8q9krc79s61.png?width=1784&amp;format=png&amp;auto=webp&amp;s=3bd4724bd76d645ea61a8aaa6919495827db32db</a></p>\n</div><!-- SC_ON -->",
+  "score": 485,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?auto=webp&s=e98f6e1359056b639d7d282dd23c6eaf40330f2f",
+          "width": 1784,
+          "height": 994
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=108&crop=smart&auto=webp&s=33015ba2dccbb9c247af7e4fb013d632a2fbf3a1",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=216&crop=smart&auto=webp&s=20bd9f75b2d25f40b67709be89973fddfa5964a7",
+            "width": 216,
+            "height": 120
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=320&crop=smart&auto=webp&s=036c972568b92a848b41a18a6ee2911fd5da91e4",
+            "width": 320,
+            "height": 178
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=640&crop=smart&auto=webp&s=eb037c156db77b0e15e5d6df01050725c4d4f1f1",
+            "width": 640,
+            "height": 356
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=960&crop=smart&auto=webp&s=970c6973c47b83c5ca55b23d3ed3ad3740da374c",
+            "width": 960,
+            "height": 534
+          },
+          {
+            "url": "https://external-preview.redd.it/0nAMDxmwj7DLXLXsLQAvw-QPcobp_zIYwBC0yFW7cGM.png?width=1080&crop=smart&auto=webp&s=b0d8e090cb9951efe63bf0d84cddb7393d1587e2",
+            "width": 1080,
+            "height": 601
+          }
+        ],
+        "variants": {},
+        "id": "AwocZsSEIULLvOnPLA09-s7m4K2EguoMwt6iM7A_oNs"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mnvxer/what_is_the_best_day_and_time_to_buysell_bitcoin/",
+  "subreddit": "CryptoCurrency",
+  "id": "mnvxer",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1618566614243
+}

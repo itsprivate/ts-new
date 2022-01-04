@@ -1,0 +1,85 @@
+{
+  "id": "298718",
+  "commentsCount": 6,
+  "createdAt": "2021-06-08T08:31:56.808Z",
+  "description": "With a simple command (/motion @user1 @user2 @user3), we'll take care of checking for everyone's calendar conflicts, timezones, ensuring everyone agrees, and automatically schedule the meeting. 3x faster than checking calendar + chatting back and forth.",
+  "featuredAt": "2021-06-08T07:01:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ea9be4d5-6256-4f02-bb6b-1ebffb6d9685.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/892bf315-e727-4957-b42c-191e117fa247.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c2c9a4ab-0bce-4b07-8d88-d299a8040c77.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a4e5f420-a56c-4423-aa74-dab805d4e284.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Motion Slack App",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/e7e4582105aafd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Kat Manalac",
+    "url": "https://www.producthunt.com/@katmanalac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "motion-slack-app",
+  "tagline": "Easiest way to agree on a meeting time in Slack",
+  "url": "https://www.producthunt.com/posts/motion-slack-app?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 498,
+  "website": "https://www.producthunt.com/r/e7e4582105aafd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Slack"
+        }
+      },
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Calendar and Scheduling"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-06-08T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単なコマンド（/motion @user1 @user2 @user3）を入力するだけで、全員のカレンダーのコンフリクトやタイムゾーンをチェックし、全員が同意した上で、自動的にミーティングのスケジュールを決定します。カレンダーをチェックしてチャットでやりとりするよりも3倍速くなります。",
+      "tagline": "Slackで会議の時間を決める最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "通过一个简单的命令（/motion @user1 @user2 @user3），我们将负责检查每个人的日历冲突、时区，确保每个人都同意，并自动安排会议。比检查日历+来回聊天快3倍。",
+      "tagline": "在Slack中商定会议时间的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過一個簡單的命令（/motion @user1 @user2 @user3），我們將負責檢查每個人的日曆衝突、時區，確保每個人都同意，並自動安排會議。比檢查日曆+來回聊天快3倍。",
+      "tagline": "在Slack中商定會議時間的最簡單方法"
+    }
+  ],
+  "source_updated_at": 1623404898539
+}

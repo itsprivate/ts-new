@@ -1,0 +1,171 @@
+{
+  "created_at": "Fri Sep 24 18:48:30 +0000 2021",
+  "id_str": "1441470696404701186",
+  "full_text": "RT @_rossbrennan: SpaceEx",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_rossbrennan",
+        "name": "Ross Brennan",
+        "id": 1546345802,
+        "id_str": "1546345802",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 15332,
+  "favorite_count": 0,
+  "original_created_at": "Fri Sep 24 18:32:49 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Fri Sep 24 15:55:49 +0000 2021",
+    "id_str": "1441431185205481474",
+    "full_text": "SpaceEx https://t.co/nesX0NetTu",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nesX0NetTu",
+          "expanded_url": "https://twitter.com/PageSix/status/1441412040640241675",
+          "display_url": "twitter.com/PageSix/status…",
+          "indices": [
+            8,
+            31
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Ross Brennan",
+      "screen_name": "_rossbrennan",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/520238171632971776/syBoIRAC_normal.jpeg"
+    },
+    "retweet_count": 1397,
+    "favorite_count": 15214,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Fri Sep 24 14:39:45 +0000 2021",
+      "id_str": "1441412040640241675",
+      "full_text": "#BREAKING #EXCLUSIVE: Elon Musk and Grimes break up after three years together https://t.co/bw4NK5EyUx https://t.co/R1FKb56AIg",
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BREAKING",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "EXCLUSIVE",
+            "indices": [
+              10,
+              20
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bw4NK5EyUx",
+            "expanded_url": "https://trib.al/26rac5q",
+            "display_url": "trib.al/26rac5q",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1441412038316593200,
+            "id_str": "1441412038316593156",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/FADsnKbVEAQ4PPp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FADsnKbVEAQ4PPp.jpg",
+            "url": "https://t.co/R1FKb56AIg",
+            "display_url": "pic.twitter.com/R1FKb56AIg",
+            "expanded_url": "https://twitter.com/PageSix/status/1441412040640241675/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 799,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 799,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "user": {
+        "name": "Page Six",
+        "screen_name": "PageSix",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/966373011875090439/4InOFhcn_normal.jpg"
+      },
+      "retweet_count": 1208,
+      "favorite_count": 8797,
+      "possibly_sensitive": false
+    }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @_rossbrennan SpaceEx",
+      "retweeted_status_full_text": "SpaceEx https://t.co/nesX0NetTu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rossbrennan: 空间站",
+      "retweeted_status_full_text": "SpaceEx https://t.co/nesX0NetTu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rossbrennan: 空間站",
+      "retweeted_status_full_text": "SpaceEx https://t.co/nesX0NetTu"
+    }
+  ],
+  "source_updated_at": 1633081224357
+}

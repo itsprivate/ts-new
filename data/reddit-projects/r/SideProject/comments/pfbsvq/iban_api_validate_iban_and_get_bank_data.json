@@ -1,0 +1,78 @@
+{
+  "author": "samymassoud",
+  "original_created_utc": 1630434622,
+  "title": "IBAN API - Validate IBAN and get bank data",
+  "created_utc": 1630481709,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been working on this side project for a while finally, I&#39;ve decided to release it publicly.</p>\n\n<p>The use of this API is to validate Bank IBAN and get the mandatory information from it, such as Bank Name, address, BIC, and SEPA information if available.</p>\n\n<p>The <a href=\"https://ibanapi.com\">IBAN API</a> has now more than 100 active users and growing organically daily.</p>\n\n<p>Please let me know what do you think about the service and if any feature needs to be added to it.</p>\n\n<p><a href=\"https://ibanapi.com\">https://ibanapi.com</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?auto=webp&s=2779c4ef1e0261eccf7ad4f3340e3804a5e095a2",
+          "width": 2354,
+          "height": 1256
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?width=108&crop=smart&auto=webp&s=d0a764328908f2d9425fd4afbfa8929df119f52d",
+            "width": 108,
+            "height": 57
+          },
+          {
+            "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?width=216&crop=smart&auto=webp&s=8349c21ae5349b7d9c2d5e12dada1fd8a83c9816",
+            "width": 216,
+            "height": 115
+          },
+          {
+            "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?width=320&crop=smart&auto=webp&s=1f83f2acd0d357ff6a4403e46821520868746c18",
+            "width": 320,
+            "height": 170
+          },
+          {
+            "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?width=640&crop=smart&auto=webp&s=084bc08f793880d8d6fc3a98d1a72a315aac091c",
+            "width": 640,
+            "height": 341
+          },
+          {
+            "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?width=960&crop=smart&auto=webp&s=8573ac9f2661bc46a18ee7727390c4c71d3ffa33",
+            "width": 960,
+            "height": 512
+          },
+          {
+            "url": "https://external-preview.redd.it/IB5eYIPgqBUQ6oLVliFxD61dAo01T4O1YflgqmAT7rk.jpg?width=1080&crop=smart&auto=webp&s=999343fd7b345a5e7191a7caec36efb727584f41",
+            "width": 1080,
+            "height": 576
+          }
+        ],
+        "variants": {},
+        "id": "idqha9BzDOGyRQj532mlwhXuHWk0ddYc8eA5Y60FMCw"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/pfbsvq/iban_api_validate_iban_and_get_bank_data/",
+  "subreddit": "SideProject",
+  "id": "pfbsvq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I've been working on this side project for a while finally, I've decided to\nrelease it publicly.\n\nThe use of this API is to validate Bank IBAN and get the mandatory information\nfrom it, such as Bank Name, address, BIC, and SEPA information if available.\n\nThe IBAN API [https://ibanapi.com] has now…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このサイドプロジェクトは、ずっと前から取り組んでいたのですが、ついに実行することにしました。\nを公開します。\n\nこのAPIの用途は、銀行のIBANを検証し、必須情報を取得することです。\n銀行名、住所、BIC、もしあればSEPA情報など。\n\nIBAN API [https://ibanapi.com]は、現在...",
+      "title": "IBAN API - IBANを検証し、銀行データを取得します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经在这个副业上工作了一段时间，最后我决定将其公开发布。\n公开发布它。\n\n这个API的用途是验证银行的IBAN，并从中获取必要的信息。\n如银行名称、地址、BIC和SEPA信息（如有）。\n\nIBAN API [https://ibanapi.com] 现在已经...",
+      "title": "IBAN API - 验证IBAN并获得银行数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經在這個副業上工作了一段時間，最後我決定將其公開發布。\n公開發布它。\n\n這個API的用途是驗證銀行的IBAN，並從中獲取必要的信息。\n如銀行名稱、地址、BIC和SEPA信息（如有）。\n\nIBAN API [https://ibanapi.com] 現在已經...",
+      "title": "IBAN API - 驗證IBAN並獲得銀行數據"
+    }
+  ]
+}

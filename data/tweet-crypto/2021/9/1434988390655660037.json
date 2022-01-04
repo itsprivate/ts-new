@@ -1,0 +1,77 @@
+{
+  "created_at": "Mon Sep 06 22:40:4 +0000 2021",
+  "id_str": "1434988390655660037",
+  "full_text": "Just when you thought it was invalidated. https://t.co/Lsa0YiMfRN",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1434988167590031400,
+        "id_str": "1434988167590031365",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434988167590031365/pu/img/S9v2qay6j5Br6xHN.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434988167590031365/pu/img/S9v2qay6j5Br6xHN.jpg",
+        "url": "https://t.co/Lsa0YiMfRN",
+        "display_url": "pic.twitter.com/Lsa0YiMfRN",
+        "expanded_url": "https://twitter.com/s2fmultiple/status/1434988390655660037/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "S2F Multiple",
+    "screen_name": "s2fmultiple",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207019096929378305/ByF8xn6J_normal.jpg"
+  },
+  "retweet_count": 354,
+  "favorite_count": 2873,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Sep 06 21:14:27 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "無効になったと思ったら、https://t.co/Lsa0YiMfRN。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "就在你认为它已经失效的时候。https://t.co/Lsa0YiMfRN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "就在你認爲它已經失效的時候。https://t.co/Lsa0YiMfRN"
+    }
+  ],
+  "source_updated_at": 1631266805780
+}

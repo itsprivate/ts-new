@@ -1,0 +1,89 @@
+{
+  "id": "300529",
+  "commentsCount": 11,
+  "createdAt": "2021-06-17T10:00:39.103Z",
+  "description": "Komodor is a Kubernetes-native platform that empowers developers and on-call teams to troubleshoot efficiently and independently. By providing a centralized view of all code,configurations, and 3rd-party app changes across the entire k8s stack,",
+  "featuredAt": "2021-06-17T07:01:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/d184377e-5af4-4fa0-9e8e-1bf26ab7e82b.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://www.youtube.com/watch?v=dpPAGX-MAyY"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c526956f-8379-4986-845e-28bb9122b9f4.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3b5c2eef-0b37-4b0e-b515-2914ac76a5f9.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4a159c65-ee01-4252-8c98-870ae88f3563.gif?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/95259a8b-bee7-4207-a588-9198fd5277f8.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Komodor",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/fc3a5780ea189e?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/726145da878129?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Ben Lang",
+    "url": "https://www.producthunt.com/@benln?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "komodor",
+  "tagline": "The Kubernetes native troubleshooting platform",
+  "url": "https://www.producthunt.com/posts/komodor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 405,
+  "website": "https://www.producthunt.com/r/726145da878129?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-06-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Komodor は、開発者やオンコールチームが効率的かつ独立してトラブルシューティングできるようにする Kubernetes ネイティブのプラットフォームです。k8sスタック全体のコード、設定、サードパーティアプリの変更点を一元的に把握することができます。",
+      "tagline": "Kubernetesネイティブトラブルシューティングプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Komodor是一个Kubernetes原生平台，使开发人员和随叫随到的团队能够高效、独立地进行故障排除。通过提供对整个k8s堆栈的所有代码、配置和第三方应用程序变化的集中查看。",
+      "tagline": "Kubernetes原生故障排除平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Komodor是一個Kubernetes原生平臺，使開發人員和隨叫隨到的團隊能夠高效、獨立地進行故障排除。通過提供對整個k8s堆棧的所有代碼、配置和第三方應用程序變化的集中查看。",
+      "tagline": "Kubernetes原生故障排除平臺"
+    }
+  ],
+  "source_updated_at": 1624614210338
+}

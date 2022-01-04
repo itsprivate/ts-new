@@ -1,0 +1,80 @@
+{
+  "id": "309645",
+  "commentsCount": 5,
+  "createdAt": "2021-08-24T22:07:55.102Z",
+  "description": "Article Editor made for complex rich content, which should look the same as on the site page or in the application. It works on iframe, so you can connect any frontend framework to it to display styles, for example, Bootstrap, Bulma, etc.",
+  "featuredAt": "2021-08-24T07:09:10Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a705659b-93ec-4df2-8d17-39241bc89a0e.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fdbb00bd-dba8-48ba-aace-a4aa547c15b6.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b3e11a4e-787f-47d3-b436-1eb008df3278.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/578fa440-b58f-404f-bb91-9332dca4de42.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Article Editor",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/a5b861a58ddfe7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Aleksei Baranov",
+    "url": "https://www.producthunt.com/@imperavi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "article-editor",
+  "tagline": "Article is a powerful text editor for creating rich content",
+  "url": "https://www.producthunt.com/posts/article-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 74,
+  "website": "https://www.producthunt.com/r/a5b861a58ddfe7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Design Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-08-24T07:09:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Article Editorは、複雑なリッチコンテンツのために作られたもので、サイトのページやアプリケーションと同じように見える必要があります。iframeで動作するので、BootstrapやBulmaなどのフロントエンドフレームワークを接続してスタイルを表示することができます。",
+      "tagline": "Articleは、リッチコンテンツを作成するための強力なテキストエディタです。"
+    },
+    {
+      "locale": "zh",
+      "description": "文章编辑器是为复杂丰富的内容而制作的，它应该看起来与网站页面或应用程序中的内容相同。它在iframe上工作，所以你可以将任何前端框架连接到它，以显示样式，例如Bootstrap、Bulma等。",
+      "tagline": "文章是一个强大的文本编辑器，用于创建丰富的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "文章編輯器是爲複雜豐富的內容而製作的，它應該看起來與網站頁面或應用程序中的內容相同。它在iframe上工作，所以你可以將任何前端框架連接到它，以顯示樣式，例如Bootstrap、Bulma等。",
+      "tagline": "文章是一個強大的文本編輯器，用於創建豐富的內容"
+    }
+  ],
+  "source_updated_at": 1630057197632
+}

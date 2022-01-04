@@ -1,0 +1,32 @@
+{
+  "author": "synthetic_emu",
+  "original_created_utc": 1640883318,
+  "title": "Dashnote.app - My note taking/task tracking side project",
+  "created_utc": 1640897209,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;Project Link:&lt;/strong&gt; &lt;a href=\"http://dashnote.app/\"&gt;&lt;strong&gt;dashnote.app&lt;/strong&gt;&lt;/a&gt;&lt;br/&gt;\nOver the last 6 months I&amp;#39;ve spent my free time here and there building a note taking/task tracking app for myself. I&amp;#39;ve used quite a few existing products for taking notes and tracking to-do&amp;#39;s in the past, but none were exactly what I was looking for. They didn&amp;#39;t have the right set of features, the UI was confusing, I didn&amp;#39;t feel like paying for a monthly subscription, etc. Yeah I know it&amp;#39;s cliché.  &lt;/p&gt;\n\n&lt;p&gt;Even if the perfect app did exist, having one I built from scratch seemed more enticing since I would be able to experiment, tune it exactly to my liking, and maybe publish it some day. And so, while waiting at an airport in August, I created a new directory, ran &amp;quot;git init&amp;quot;, and started coding.&lt;/p&gt;\n\n&lt;p&gt;Earlier this week I realized how far the project had come along, and that I&amp;#39;d been using it on a daily basis for a few months already. I think it&amp;#39;s reached reached a point where it might be worth sharing. I spent some time adding all the surrounding pieces (domain name, landing page, account confirmation/password reset emails, etc.) so others could give it a try, and got it to a point where it&amp;#39;s less painful to look at.&lt;/p&gt;\n\n&lt;p&gt;In its current form, it&amp;#39;s pretty similar to SimpleNote&amp;#39;s web client. You create an account, write basic text based notes, and sync changes in realtime to other clients. Notes can have embedded TODOs that track duration and state. For now, it only works on a desktop web browser (I had some trouble with touch screen keyboard weirdness), but am planning to eventually support mobile browsers.&lt;br/&gt;\nSome features I&amp;#39;m planning to add as time goes on include:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Sharing notes between accounts/public notes&lt;/li&gt;\n&lt;li&gt;Recurring Tasks and smart suggestions about what to do next&lt;/li&gt;\n&lt;li&gt;Task analytics (how long you spend doing various things over time)&lt;/li&gt;\n&lt;li&gt;Other types of notes (for example drawings, Excalidraw diagrams, or spreadsheets)&lt;/li&gt;\n&lt;li&gt;Cross-platform support (desktop and mobile apps)&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Happy to answer questions about the tech stack, how it works, and how it got to this point. I&amp;#39;m considering turning it into a real product if I get time some day, but for now it&amp;#39;s just something I&amp;#39;m building on the side.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Disclaimer:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;This is my first time sharing this, so there are likely bugs/issues I may haven&amp;#39;t run into yet. I work on operating systems IRL and only do web stuff as a hobby, so the design/appearance will probably be very basic compared to other projects on here :)&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/rs6bdx/dashnoteapp_my_note_takingtask_tracking_side/",
+  "subreddit": "SideProject",
+  "id": "rs6bdx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Project Link: dashnote.app [http://dashnote.app/]\nOver the last 6 months I've spent my free time here and there building a note\ntaking/task tracking app for myself. I've used quite a few existing products for\ntaking notes and tracking to-do's in the past, but none were exactly what I was\nlooking…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "プロジェクトリンク： dashnote.app [http://dashnote.app/]\nこの6ヶ月間、私はあちこちの空き時間を使ってメモ帳を作りました。\n自分用のタスク管理アプリです。私はこれまで、以下のような既存の製品を使用してきました。\nしかし、私が求めていたものはありませんでした。\nを探している...",
+      "title": "Dashnote.app - 私のメモ書き/タスクトラッキングのサイドプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "项目链接：dashnote.app [http://dashnote.app/]\n在过去的6个月里，我在这里和那里花了我的空闲时间为自己建立一个笔记\n笔记/任务跟踪应用程序。我已经使用了不少现有的产品，用于\n笔记和跟踪待办事项的现有产品，但没有一个是我想要的。\n准确的东西...",
+      "title": "Dashnote.app - 我的笔记/任务跟踪副业"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "項目鏈接：dashnote.app [http://dashnote.app/]\n在過去的6個月裏，我在這裏和那裏花了我的空閒時間爲自己建立一個筆記\n筆記/任務跟蹤應用程序。我已經使用了不少現有的產品，用於\n筆記和跟蹤待辦事項的現有產品，但沒有一個是我想要的。\n準確的東西...",
+      "title": "Dashnote.app - 我的筆記/任務跟蹤副業"
+    }
+  ]
+}

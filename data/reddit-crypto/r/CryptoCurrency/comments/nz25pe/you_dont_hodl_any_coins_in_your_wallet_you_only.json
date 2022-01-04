@@ -1,0 +1,69 @@
+{
+  "author": "cascading_disruption",
+  "the_new_excerpt": " * Your cryptocurrency is not in your wallet, it's on the blockchain\n * a blockchain is the network of nodes (=computers/servers) that\n   * run open-source software to be able to participate in distributed\n     decentralized blockchain/network\n   * must reach agreement=consensus reading the current…",
+  "original_created_utc": 1623607520,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": " * 暗号通貨は財布の中ではなく、ブロックチェーン上にあります。\n * ブロックチェーンとは、次のようなノード（＝コンピューター／サーバー）のネットワークです。\n   * ブロックチェーンとは、分散型ブロックチェーン/ネットワークに参加できるオープンソースソフトウェアを実行するノード（＝コンピュータ/サーバー）のネットワークです。\n     分散型のブロックチェーン/ネットワーク\n   * 現在の...を読んで合意＝コンセンサスに達する必要があります。",
+      "title": "ウォレット内のコインをHODLするのではなく、秘密鍵を所有しているだけ／ウォレットの仕組み"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": " *你的加密货币不在你的钱包里，它在区块链上\n *区块链是由节点（=计算机/服务器）组成的网络，这些节点\n   *运行开源软件，能够参与到分布式的\n     去中心化的区块链/网络\n   *必须达成协议=共识，读取当前的...",
+      "title": "你不会在你的钱包里HODL任何硬币，你只拥有一个私钥/钱包如何工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": " *你的加密貨幣不在你的錢包裏，它在區塊鏈上\n *區塊鏈是由節點（=計算機/服務器）組成的網絡，這些節點\n   *運行開源軟件，能夠參與到分佈式的\n     去中心化的區塊鏈/網絡\n   *必須達成協議=共識，讀取當前的...",
+      "title": "你不會在你的錢包裏HODL任何硬幣，你只擁有一個私鑰/錢包如何工作"
+    }
+  ],
+  "title": "You don't HODL any coins in your wallet, you only own a private key / how wallets work",
+  "created_utc": 1623636963,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><ul>\n<li><strong>Your cryptocurrency</strong> is not in your wallet, it&#39;<strong>s on the blockchain</strong></li>\n<li><strong>a blockchain is the network of</strong> nodes (=<strong>computers</strong>/servers) that\n\n<ul>\n<li>run open-source software to be able to participate in distributed decentralized blockchain/network</li>\n<li>must reach agreement=consensus reading the current state of the network even in the presence of malicious nodes</li>\n</ul></li>\n<li>a <strong>wallet is software that interacts with the network</strong> (via APIs, or wallet back-end)\n\n<ul>\n<li>there are <strong>no coins in your wallet</strong></li>\n<li>you own a “<strong>private key</strong>” ( public and private keys are closely linked to each other)\n\n<ul>\n<li>One private key can generate several public keys (or receiving addresses)</li>\n<li>Only the owner of the corresponding private key can access the info sent on the publicly available addresses </li>\n<li>It’s  possible to recover the public key if you own the private key. However, it’s (almost) impossible to find the private key using only the public key</li>\n</ul></li>\n<li>when <strong>you submit a transaction and send it to the blockchain</strong> via your wallet, you <strong>sign it with your private key</strong>\n\n<ul>\n<li>nodes just have to look at each transaction and <strong>check whether the source  account matches the signature that is sent with a transaction</strong> (multi-sig is a bit more complicated though)</li>\n</ul></li>\n</ul></li>\n<li><strong>Software wallets</strong> will ask you for a password, and will use symmetric cryptography to <strong>encrypt your secret key and store it somewhere on your computer/phone</strong>\n\n<ul>\n<li>when  you want to log into your wallet, you enter that password again and it  takes the data it stored earlier and decrypts it, getting back the  original secret key that it can use to sign and submit transactions</li>\n</ul></li>\n<li><strong>Hardware wallets work by generating a secret key for you and keeping it secret from everyone,  including you</strong>\n\n<ul>\n<li>Instead of your device sending your secret key out to  create a signature for a transaction, the <strong>wallet</strong> software you interact with <strong>must send the transaction to the HW wallet, which then signs the  transaction and sends the signature back to the wallet</strong> software</li>\n<li>none of your account data EXCEPT your secret key is actually stored inside the HW wallet</li>\n</ul></li>\n<li><strong>if you lose your private key, you lose your funds</strong></li>\n<li>o<strong>nly complete ownership of your private keys allows you true financial freedom</strong></li>\n<li><strong>crypto only digitally exist on the blockchain, being associated with a set of “public/private keys”</strong>\n\n<ul>\n<li><strong>if  you don’t own your “private key”, then you  don’t own your crypto assets</strong>, since you can’t unlock or manage them -&gt; “<strong><em>Not your keys, Not your crypto</em></strong><strong>”</strong></li>\n</ul></li>\n</ul>\n\n<p>References:</p>\n\n<p><a href=\"https://www.ledger.com/academy/basic-basics/owning-and-using-it/i-bought-my-first-crypto-now-what\">https://www.ledger.com/academy/basic-basics/owning-and-using-it/i-bought-my-first-crypto-now-what</a></p>\n\n<p><a href=\"https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key\">https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key</a></p>\n\n<p><a href=\"https://medium.com/@stellarguard/stellar-whats-in-your-wallet-1b07b8f7123a\">https://medium.com/@stellarguard/stellar-whats-in-your-wallet-1b07b8f7123a</a></p>\n</div><!-- SC_ON -->",
+  "score": 327,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/vX21wRJTbih4K1e-YgRKeEBO2diyoB43k1s8WBfkNbE.jpg?auto=webp&s=9e640a962078de476765c07322c6997a00de51c2",
+          "width": 810,
+          "height": 1002
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/vX21wRJTbih4K1e-YgRKeEBO2diyoB43k1s8WBfkNbE.jpg?width=108&crop=smart&auto=webp&s=6adf1f2a2db1a05d250081d6673ab1e75a67e710",
+            "width": 108,
+            "height": 133
+          },
+          {
+            "url": "https://external-preview.redd.it/vX21wRJTbih4K1e-YgRKeEBO2diyoB43k1s8WBfkNbE.jpg?width=216&crop=smart&auto=webp&s=09f3cfcfb20ed5ef432ae97149615b57af58982b",
+            "width": 216,
+            "height": 267
+          },
+          {
+            "url": "https://external-preview.redd.it/vX21wRJTbih4K1e-YgRKeEBO2diyoB43k1s8WBfkNbE.jpg?width=320&crop=smart&auto=webp&s=c77a2c7941dec385c20d69375bedb5fc6ddd226f",
+            "width": 320,
+            "height": 395
+          },
+          {
+            "url": "https://external-preview.redd.it/vX21wRJTbih4K1e-YgRKeEBO2diyoB43k1s8WBfkNbE.jpg?width=640&crop=smart&auto=webp&s=17f0d97374b3562e853939925e283a1989bfa1a4",
+            "width": 640,
+            "height": 791
+          }
+        ],
+        "variants": {},
+        "id": "sgRqLlG5sX6ebb3KvhGmtOaoKQjn7YFuJNGRR5f60T0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/nz25pe/you_dont_hodl_any_coins_in_your_wallet_you_only/",
+  "subreddit": "CryptoCurrency",
+  "id": "nz25pe",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1624009738584
+}

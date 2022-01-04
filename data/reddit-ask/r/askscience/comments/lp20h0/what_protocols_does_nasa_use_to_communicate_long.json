@@ -1,0 +1,27 @@
+{
+  "author": "melbogia",
+  "the_new_excerpt": "I am looking at https://mars.nasa.gov/mars2020/spacecraft/rover/communications/\nwhich talks about how the rover communicated with Earth, which is through the\norbiter.\n\nI am trying to figure what protocol does the orbiter use? Is it TCP/UDP, or\nsomething else? Naively I’d assume TCP since the orbiter…",
+  "original_created_utc": 1613928725,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在看https://mars.nasa.gov/mars2020/spacecraft/rover/communications/\n其中谈到漫游车是如何与地球进行通信的，这就是通过。\n轨道器。\n\n我想知道轨道器使用什么协议？是TCP/UDP，还是\n其他的东西？我天真地认为是TCP，因为轨道器... ...",
+      "title": "美国航天局用什么协议进行远距离通信？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在看https://mars.nasa.gov/mars2020/spacecraft/rover/communications/\n其中談到漫遊車是如何與地球進行通信的，這就是通過。\n軌道器。\n\n我想知道軌道器使用什麼協議？是TCP/UDP，還是\n其他的東西？我天真地認爲是TCP，因爲軌道器... ...",
+      "title": "美國航天局用什麼協議進行遠距離通信？"
+    }
+  ],
+  "title": "What protocol(s) does NASA use to communicate long distances?",
+  "created_utc": 1613949906,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I am looking at <a href=\"https://mars.nasa.gov/mars2020/spacecraft/rover/communications/\">https://mars.nasa.gov/mars2020/spacecraft/rover/communications/</a> which talks about how the rover communicated with Earth, which is through the orbiter. </p>\n\n<p>I am trying to figure what protocol does the orbiter use? Is it TCP/UDP, or something else? Naively I’d assume TCP since the orbiter would need to resend packets that were lost in space and never made it to Earth.</p>\n</div><!-- SC_ON -->",
+  "score": 128,
+  "permalink": "/r/askscience/comments/lp20h0/what_protocols_does_nasa_use_to_communicate_long/",
+  "subreddit": "askscience",
+  "id": "lp20h0",
+  "is_self": true,
+  "media": null,
+  "is_video": false
+}

@@ -1,0 +1,28 @@
+{
+  "created_at": "2021-03-29T20:23:16.569Z",
+  "title": "&& operator chains (and –|, possibly) generates unoptimizable LLVM IR",
+  "url": "https://github.com/rust-lang/rust/issues/83623",
+  "author": "est31",
+  "points": 228,
+  "num_comments": 45,
+  "_tags": [
+    "story",
+    "author_est31",
+    "story_26620048",
+    "front_page"
+  ],
+  "objectID": "26620048",
+  "original_created_at": "2021-03-29T11:20:31.000Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "&&操作链（和-|，可能）会产生不可优化的LLVM IR。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "&&操作鏈（和-|，可能）會產生不可優化的LLVM IR。"
+    }
+  ],
+  "source_updated_at": 1617357154147,
+  "image": "https://avatars.githubusercontent.com/u/5430905?s=400&v=4"
+}

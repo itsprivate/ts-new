@@ -1,0 +1,130 @@
+{
+  "created_at": "Sun Jan 02 17:46:45 +0000 2022",
+  "id_str": "1476898773800521734",
+  "full_text": "RT @adam3us: i am curious if people commenting on s2f know that price volatility is typically calculated as standard deviation, or standard…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "adam3us",
+        "name": "Adam Back",
+        "id": 213236426,
+        "id_str": "213236426",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 153,
+  "favorite_count": 0,
+  "original_created_at": "Fri Dec 31 12:51:21 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Fri Dec 31 12:37:34 +0000 2021",
+    "id_str": "1476895304783904770",
+    "full_text": "i am curious if people commenting on s2f know that price volatility is typically calculated as standard deviation, or standard deviation of natural log (aka LN). given annualized #bitcoin volatility .BVOL = 90% or higher at times https://t.co/4j5YUzafeN https://t.co/rlPR7HJKrm",
+    "display_text_range": [
+      0,
+      253
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            179,
+            187
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4j5YUzafeN",
+          "expanded_url": "https://www.bitmex.com/app/index/.BVOL",
+          "display_url": "bitmex.com/app/index/.BVOL",
+          "indices": [
+            230,
+            253
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1476895110260535300,
+          "id_str": "1476895110260535299",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/media/FH78RyGXMAMOmzI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FH78RyGXMAMOmzI.jpg",
+          "url": "https://t.co/rlPR7HJKrm",
+          "display_url": "pic.twitter.com/rlPR7HJKrm",
+          "expanded_url": "https://twitter.com/adam3us/status/1476895304783904770/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 478,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 816,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 271,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Adam Back",
+      "screen_name": "adam3us",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1364645619705511936/IGTT_tnL_normal.jpg"
+    },
+    "retweet_count": 153,
+    "favorite_count": 1299,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @adam3us: S2Fにコメントしている人たちは、価格変動が通常、標準偏差として計算されることを知っているのだろうかと気になる。",
+      "retweeted_status_full_text": "s2fにコメントしている人たちは、価格変動が通常、標準偏差、または自然対数（別名LN）の標準偏差として計算されることを知っているのか気になります。年率換算した#bitcoin volatility .BVOL = 90% or higher at times https://t.co/4j5YUzafeN https://t.co/rlPR7HJKrm。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @adam3us: 我很好奇，在S2f上发表评论的人是否知道，价格波动通常是以标准差计算的，或者说是以标准...",
+      "retweeted_status_full_text": "我很好奇，在S2f上发表评论的人是否知道，价格波动通常以标准差或自然对数（又称LN）的标准差计算。鉴于年化#比特币波动率.BVOL=90%或更高的时间https://t.co/4j5YUzafeN https://t.co/rlPR7HJKrm"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @adam3us: 我很好奇，在S2f上發表評論的人是否知道，價格波動通常是以標準差計算的，或者說是以標準...",
+      "retweeted_status_full_text": "我很好奇，在S2f上發表評論的人是否知道，價格波動通常以標準差或自然對數（又稱LN）的標準差計算。鑑於年化#比特幣波動率.BVOL=90%或更高的時間https://t.co/4j5YUzafeN https://t.co/rlPR7HJKrm"
+    }
+  ]
+}

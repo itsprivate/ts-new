@@ -1,0 +1,32 @@
+{
+  "author": "ophusdev",
+  "original_created_utc": 1634312020,
+  "title": "Unshortit.com is online!",
+  "created_utc": 1634319131,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hello <a href=\"/r/SideProject\">r/SideProject</a>!</p>\n\n<p>This is <a href=\"https://unshortit.com/\">https://unshortit.com/</a>, my side project.</p>\n\n<p>I get a lot of mails with short links and can&#39;t tell if the links are good or not. So with this site I can see the preview of the remote connection without browsing. <strong>Sounds cool!</strong> </p>\n\n<p>This also allowed me to delve into some technologies during development.</p>\n\n<p>For curious the tech stack is:</p>\n\n<ul>\n<li>Python with <a href=\"https://fastapi.tiangolo.com/\">FastApi</a> and <a href=\"https://docs.celeryproject.org/en/stable/getting-started/introduction.html\">Celery</a> </li>\n<li>ReactJs and TailwindCSS</li>\n<li>Docker-compose with a 4 containers:\n\n<ul>\n<li>FastApi application</li>\n<li>Celery worker</li>\n<li>Redis</li>\n<li>Nginx</li>\n</ul></li>\n</ul>\n\n<p>I am interested in hearing your views or advice. If you have other questions, please ask them, I will try to answer them.</p>\n\n<p>Oh, and using the website!</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://i.redd.it/wldpbtpkfmt71.gif\">https://i.redd.it/wldpbtpkfmt71.gif</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/q8qx6k/unshortitcom_is_online/",
+  "subreddit": "SideProject",
+  "id": "q8qx6k",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hello r/SideProject [/r/SideProject]!\n\nThis is https://unshortit.com/, my side project.\n\nI get a lot of mails with short links and can't tell if the links are good or\nnot. So with this site I can see the preview of the remote connection without\nbrowsing. Sounds cool!\n\nThis also allowed me to delve…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、r/SideProject [/r/SideProject]!\n\n私のサイドプロジェクトである https://unshortit.com/ です。\n\n私は短いリンクを持つメールをたくさん受け取り、そのリンクが良いものかどうかを見分けることができません。\n判断できません。そこで、このサイトでは、リモート接続のプレビューを\n参照することなく、リモート接続のプレビューを見ることができます。Sounds cool!\n\nまた、これにより、私は掘り下げて...",
+      "title": "Unshortit.comはオンラインです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，r/SideProject [/r/SideProject]!\n\n这就是https://unshortit.com/，我的副业项目。\n\n我收到了很多带有短链接的邮件，但我不知道这些链接是好是坏。\n么好。因此，有了这个网站，我可以看到远程连接的预览，而不用\n浏览。听起来很酷!\n\n这也使我能够深入了解...",
+      "title": "Unshortit.com上线了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，r/SideProject [/r/SideProject]!\n\n這就是https://unshortit.com/，我的副業項目。\n\n我收到了很多帶有短鏈接的郵件，但我不知道這些鏈接是好是壞。\n麼好。因此，有了這個網站，我可以看到遠程連接的預覽，而不用\n瀏覽。聽起來很酷!\n\n這也使我能夠深入瞭解...",
+      "title": "Unshortit.com上線了!"
+    }
+  ]
+}

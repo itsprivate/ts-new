@@ -1,0 +1,32 @@
+{
+  "author": "Breaking-Bad",
+  "original_created_utc": 1633255106,
+  "title": "Impermanent loss while providing liquidity explained.",
+  "created_utc": 1633267851,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This was one of the things I had the most trouble understanding as an early crypto enthusiast because I thought I understood it but I didn&#39;t really. So let me attempt to explain it in the easiest possible way.</p>\n\n<p>Let&#39;s say you are providing liquidity for <strong>ETH/BNB</strong> pairing.</p>\n\n<p>You have 3 options,</p>\n\n<p>Add ETH only to the liquidity pool</p>\n\n<p>Add BNB only.</p>\n\n<p>Add both ETH and BNB</p>\n\n<p>For simplicity lets assume 1 ETH ($4000) = 10 BNB ($400 *10)</p>\n\n<p>NOW, you add <strong>1 ETH</strong> to the pool.</p>\n\n<p>Half of it will be automatically converted to BNB at the time of transaction.</p>\n\n<p>So you will have <strong>0.5 ETH</strong> and <strong>5 BNB</strong> in the pool, at the start of the contract/transaction.</p>\n\n<p>Now, lets say ETH L2 is announced and ETH goes up <strong>2x</strong> to <strong>$8000</strong> each. Meanwhile, BNB has not moved as much, and is still at the original price of $400.</p>\n\n<p>Ok, so this is the important part. If you had just held your 1 ETH which has gone from $4000 to $8000, your gain would have been\n<strong>$4000</strong>.</p>\n\n<p>However, since your 1ETH got converted half to BNB at the start, to provide a 50/50 ratio, without any further balancing (coming later), you had 0.5 ETH (currently worth 8000 x 0.5 = <strong>$4000</strong>) and 5 BNB (currently worth 400 x5 = $<strong>2000</strong>)</p>\n\n<p>So, if you had held on to your original 1 ETH it would be worth $8000, but now you only have 0.5 ETH and 5 BNB totalling $6000.</p>\n\n<p>To further complicate things, any liquidity pool tries to maintain a 50/50 ratio. So, instead of getting back 0.5 ETH and 5 BNB, that we had originally put in, the pool will have rebalanced to something like 0.375 ETH ($3,000) and 7.5 BNB ($3000) to keep things at a 50/50 ratio.</p>\n\n<p>So, when you redeem your tokens, you will get back 0.375 ETH and 7.5 BNB. After putting in $4000 you are getting back $6000, since ETH went up in value. But if you had held onto your 1 ETH and did nothing you would have $8000.</p>\n\n<p>Now, the question is, why would anyone add liquidity? The simple answer is you get a certain APY%, so if ETH had not 2x&#39;d in value, or if ETH and BNB had both 2x&#39;d, you would have made 20% or 30% APY for providing liquidity.</p>\n</div><!-- SC_ON -->",
+  "score": 186,
+  "permalink": "/r/CryptoCurrency/comments/q0etgo/impermanent_loss_while_providing_liquidity/",
+  "subreddit": "CryptoCurrency",
+  "id": "q0etgo",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "This was one of the things I had the most trouble understanding as an early\ncrypto enthusiast because I thought I understood it but I didn't really. So let\nme attempt to explain it in the easiest possible way.\n\nLet's say you are providing liquidity for ETH/BNB pairing.\n\nYou have 3 options,\n\nAdd ETH…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、私が初期の頃、最も理解に苦しんだことのひとつです。\n自分では理解しているつもりでも、実際には理解していなかったからです。そこで\n可能な限り簡単な方法で説明してみます。\n\n例えば、ETH/BNBペアの流動性を提供しているとします。\n\nあなたには3つのオプションがあります。\n\nETHを追加する...",
+      "title": "リクイディティを提供しながら、非永続的な損失を説明。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是我早期最难以理解的事情之一。\n因为我以为我了解它，但其实我并不了解。所以让我\n我试图以最简单的方式来解释它。\n\n假设你正在为ETH/BNB配对提供流动性。\n\n你有3个选择。\n\n添加ETH...",
+      "title": "在提供流动性的同时解释了无常的损失。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是我早期最難以理解的事情之一。\n因爲我以爲我瞭解它，但其實我並不瞭解。所以讓我\n我試圖以最簡單的方式來解釋它。\n\n假設你正在爲ETH/BNB配對提供流動性。\n\n你有3個選擇。\n\n添加ETH...",
+      "title": "在提供流動性的同時解釋了無常的損失。"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "author": "stoolpigeonfucker",
+  "original_created_utc": 1634894441,
+  "title": "Letting users pay and withdraw money",
+  "created_utc": 1634913127,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>For the sake of this example, imagine I am creating a website where users can pay money to participate in a competition. If they win, they will receive some money. Now, if a user wants to withdraw their money, what&#39;s the best way to implement this?</p>\n\n<p>Using Stripe it&#39;s easy for a user to pay, but for a user to withdraw money they would have to set up a Stripe account with a company. I&#39;ve never used anything else to handle payments so I&#39;m a bit lost what would be the best way to accomplish this.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/qdd3gd/letting_users_pay_and_withdraw_money/",
+  "subreddit": "SideProject",
+  "id": "qdd3gd",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "For the sake of this example, imagine I am creating a website where users can\npay money to participate in a competition. If they win, they will receive some\nmoney. Now, if a user wants to withdraw their money, what's the best way to\nimplement this?\n\nUsing Stripe it's easy for a user to pay, but for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今回の例では、ユーザーがお金を払うことができるウェブサイトを作っているとします。\nユーザーがお金を払ってコンテストに参加できるサイトを作るとします。優勝すると、いくらかのお金を受け取ることができます。\nお金を受け取ることができます。ユーザーがそのお金を引き出したい場合、どのように実装するのがベストでしょうか？\n実装するにはどうすればよいでしょうか？\n\nStripeを使うと、ユーザーは簡単に支払いができますが、...",
+      "title": "ユーザーがお金を払ったり、引き出したりすること"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在这个例子中，假设我正在创建一个网站，用户可以在那里\n付钱参加一个比赛。如果他们赢了，他们将收到一些\n钱。现在，如果一个用户想提取他们的钱，什么是最好的方式？\n实现这一点？\n\n使用Stripe，用户很容易支付，但对于...",
+      "title": "让用户支付和提取资金"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在這個例子中，假設我正在創建一個網站，用戶可以在那裏\n付錢參加一個比賽。如果他們贏了，他們將收到一些\n錢。現在，如果一個用戶想提取他們的錢，什麼是最好的方式？\n實現這一點？\n\n使用Stripe，用戶很容易支付，但對於...",
+      "title": "讓用戶支付和提取資金"
+    }
+  ]
+}

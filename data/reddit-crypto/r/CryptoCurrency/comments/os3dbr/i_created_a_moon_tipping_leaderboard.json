@@ -1,0 +1,32 @@
+{
+  "author": "ominous_anenome",
+  "original_created_utc": 1627319847,
+  "title": "I Created a Moon Tipping Leaderboard!",
+  "created_utc": 1627335648,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: I built a Moon Tipping Leaderboard for <a href=\"/r/CryptoCurrency\">r/CryptoCurrency</a>!  <strong>This is my own personal attempt and not an official leaderboard. The data used for this goes up to</strong> <strong>7/23/21, the day of the Moon migration to Arbitrum.</strong></p>\n\n<p>For context (and for those who missed it), last week I made a <a href=\"https://np.reddit.com/r/CryptoCurrency/comments/oq7hes/introducing_moongraph_an_interactive/\">post</a> about MoonGraph, a searchable network graph visualization tool I made for Moon transactions between Redditors. </p>\n\n<p><a href=\"https://preview.redd.it/a72kogy68ld71.png?width=1066&amp;format=png&amp;auto=webp&amp;s=45d4a35af0ecfb6e0b89932c4367a259b25f2137\">MoonGraph Interactive Visualization. Much better to use on Desktop than Mobile</a></p>\n\n<p>At the end of that post I said my next step was to try and create a Moon Tipping Leaderboard, and here is my first attempt!</p>\n\n<p><strong><em>How do you define a tip?</em></strong></p>\n\n<ul>\n<li>I define a tip as a transaction of a whole number of Moons (from 1 to 100) between two addresses that I can verifiably link to Reddit usernames</li>\n<li>Anything more than 100 moons and I assume this was a purchase or transfer</li>\n<li>I doubt people send many tips that aren&#39;t whole number values. A few Redditors who had many non-whole number transactions confirmed this when I messaged them.</li>\n<li>I can only link an address to a Reddit username from the Moon Distribution CSV files. So if you tipped someone not on that list, unfortunately it won&#39;t count in my leaderboard for now.</li>\n</ul>\n\n<p><strong><em>How’d you get this data? How accurate are the Results? What do you include as a Transaction/Tip?</em></strong></p>\n\n<ul>\n<li>Please refer to my previous MoonGraph post for the answers to these question!</li>\n</ul>\n\n<p><strong><em>Why’d you do this?</em></strong></p>\n\n<ul>\n<li>We have a Moon-earning leaderboard, but no Moon-tipping leaderboard. I personally think we should acknowledge those who tipped the most users in the community, since that&#39;s really the main thing you can do with Moons right now.</li>\n</ul>\n\n<h1>Moon Tipping Leaderboard</h1>\n\n<p><strong>I ranked Redditors based on the number of distinct Reddit users he or she has tipped</strong>. This way it would be harder to &quot;game&quot; by a user with alt accounts or two different users sending moons back and forth. It also recognizes users who spread moons around the most. Here are the top 15!</p>\n\n<p><a href=\"https://preview.redd.it/eklw3qvc8ld71.png?width=432&amp;format=png&amp;auto=webp&amp;s=4607169c4285e90191d02beed25ab53c41e00ab1\">Moon Tipping Leaderboard! Data up to 7/23/21</a></p>\n\n<h1>Other Moon Tipping Graphs &amp; Stats</h1>\n\n<p>Based on my definition, there have been 16,517 Moon Tips between Redditors to date!</p>\n\n<p><a href=\"https://preview.redd.it/ix07mknf8ld71.png?width=582&amp;format=png&amp;auto=webp&amp;s=462d48e30d8732dc5fbf2b56dd0584d7f179a6cf\">Up and to the Right!</a></p>\n\n<p><a href=\"https://preview.redd.it/xgqvka5i8ld71.png?width=575&amp;format=png&amp;auto=webp&amp;s=0d44521c6a80809c232b5500d860a458e93729a8\">Most Redditors tip 1Moon</a></p>\n\n<p>Some additional fun stats I found (using my definition of a tip):</p>\n\n<ul>\n<li>As of 7/23/21, 142,663 Moons have been tipped between Redditors</li>\n<li>9,669 unique Redditors have been tipped</li>\n<li>2,868 unique Redditors have tipped someone</li>\n<li>The average tip amount is ~8.64 Moons</li>\n<li>If we are only looking at tips in the last month, the top 3 would be <a href=\"/u/lisnewbs\">u/lisnewbs</a>, <a href=\"/u/ilikethetech_100\">u/ilikethetech_100</a>, and <a href=\"/u/SolorMining\">u/SolorMining</a> with 123, 109, and 104 users tipped respectively!</li>\n</ul>\n\n<p><strong><em>What’s Next?</em></strong></p>\n\n<p>The future of this leaderboard depends a lot on the Arbitrum migration. Since Moon transactions are no longer visible on Rinkeby, I need to scratch all the code I had written and see if there’s a new API I can use to get the transaction data. If you have any pointers on how to get Moon transaction data on Arbitrum, let me know!</p>\n\n<p>I will certainly give it my best effort to maintain this leaderboard, if people find it interesting.</p>\n\n<p>Also, if you want to know where you rank, leave a comment and i&#39;ll do my best to respond!</p>\n</div><!-- SC_ON -->",
+  "score": 175,
+  "permalink": "/r/CryptoCurrency/comments/os3dbr/i_created_a_moon_tipping_leaderboard/",
+  "subreddit": "CryptoCurrency",
+  "id": "os3dbr",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "TL;DR: I built a Moon Tipping Leaderboard for r/CryptoCurrency\n[/r/CryptoCurrency]! This is my own personal attempt and not an official\nleaderboard. The data used for this goes up to 7/23/21, the day of the Moon\nmigration to Arbitrum.\n\nFor context (and for those who missed it), last week I made a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TL;DR: r/CryptoCurrencyのMoon Tipping Leaderboardを作ってみました。\n[/r/CryptoCurrency]! これは私の個人的な試みであり、公式のリーダーボードではありません。\nリーダーボードではありません。これに使用したデータは、Arbitrumに月が移行した日である7/23/21までのものです。\nアービトラムへの移行の日です。\n\n先週の記事では、月の通貨を使って...",
+      "title": "Moon Tipping Leaderboardを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TL;DR: 我为r/CryptoCurrency建立了一个月亮小费排行榜\n[/r/CryptoCurrency]! 这是我个人的尝试，并不是一个官方的\n排行榜。这方面的数据一直到7/23/21，即月球迁移到Arbitrum的那一天\n迁移到Arbitrum。\n\n作为背景（对于那些错过的人来说），上周我做了一个...",
+      "title": "我创建了一个月球小费排行榜!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TL;DR: 我爲r/CryptoCurrency建立了一個月亮小費排行榜\n[/r/CryptoCurrency]! 這是我個人的嘗試，並不是一個官方的\n排行榜。這方面的數據一直到7/23/21，即月球遷移到Arbitrum的那一天\n遷移到Arbitrum。\n\n作爲背景（對於那些錯過的人來說），上週我做了一個...",
+      "title": "我創建了一個月球小費排行榜!"
+    }
+  ]
+}

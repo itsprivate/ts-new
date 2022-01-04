@@ -1,0 +1,78 @@
+{
+  "author": "rroobbbb",
+  "original_created_utc": 1638046783,
+  "title": "The real Satoshi Nakamoto?",
+  "created_utc": 1638088682,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve always wondered who Satoshi Nakamoto is and why he made bitcoin and has not touched his 55b fortune yet. I&#39;ve read a lot about it and I&#39;m fairly sure it isn&#39;t Craig Wright, who claims to be Satoshi Nakamoto and sued <a href=\"https://bitcoin.org/\">bitcoin.org</a> (and won) for copyright infringements for sharing the bitcoin whitepaper (lol).</p>\n\n<p>But that leaves the question, who is Satoshi Nakamoto?</p>\n\n<p>At the start of this year, a research article was published called &quot;Len Sassaman and Satoshi: a Cyberpunk History&quot;. Here is a link to the article: <a href=\"https://evanlhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10\">https://evanlhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10</a>. It&#39;s quite long, around a 20 minute read, but really interesting. For the people who can&#39;t or don&#39;t want to read the entire thing, I&#39;ll summarize the most important parts here, it&#39;s still a long read, but I&#39;ve removed about 2/3.</p>\n\n<p>________________________________________</p>\n\n<p>- Embedded on every single node of the bitcoin network there is a obituary to Len Sassaman. Hacked into the transaction data, it&#39;s a memorial to Len Sassaman, a man essentially immortalized in the blockchain itself. I&#39;ve tried copy pasting the code in this post but the layout gets all messed up so here is a link: <a href=\"https://pastebin.com/raw/BUB3dygQ\">https://pastebin.com/raw/BUB3dygQ</a></p>\n\n<p>- By all accounts, Len was on track to be one of the most important cryptographers of his time. But on July 3rd, 2011, he tragically took his own life at 31, following a long battle with depression and functional neurological disorders.</p>\n\n<p>His death coincided with the disappearance of the world’s most famous cypherpunk: Satoshi Nakamoto. Only 2 months before Len died, Satoshi sent his/their final communication (<a href=\"https://bitcointalk.org/index.php?topic=2228.msg29479#msg29479\">https://bitcointalk.org/index.php?topic=2228.msg29479#msg29479</a>):</p>\n\n<p><em>&#39; I&#39;ve moved on to other things and probably won&#39;t be around in the future&#39;</em></p>\n\n<p>- Len was a true Cypherpunk— equal parts brilliant, irreverent, and idealistic. He devoted his life to defending personal freedoms through cryptography, working as a developer on PGP encryption and open-source privacy technology, as well as an academic cryptographer researching P2P networks under blockchain inventor David Chaum. Even in his youth, Len was a self-taught technologist who gravitated towards cryptography and protocol development. Despite living in small-town Pennsylvania, by 18 Len was on the <a href=\"https://web.archive.org/web/20111002192432/http:/securehomes.esat.kuleuven.be/%7Elsassama/\">Internet Engineering Task Force</a> responsible for the TCP/IP protocol underlying the internet and later the Bitcoin network.</p>\n\n<p>- At Network Associates, Len worked on PGP alongside Hal Finney. Finney was the second PGP developer and helped create the RFC 4880 standard for OpenPGP interoperability. He was also <strong>t</strong>he earliest and most important contributor to Bitcoin after Satoshi:</p>\n\n<ul>\n<li>Finney was the first person other than Satoshi to contribute to Bitcoin’s code and to run a bitcoin node. (<a href=\"https://nitter.net/halfin/status/1110302988?lang=en\">https://nitter.net/halfin/status/1110302988?lang=en</a>)</li>\n<li>Finney was <a href=\"https://nakamotoinstitute.org/bitcoin-and-me/\">the first recipient of Bitcoin</a> (sent from Satoshi himself).</li>\n<li>Finney invented the concept of <a href=\"https://nakamotoinstitute.org/finney/rpow/index.html\">Reusable Proofs of Work</a> which Bitcoin’s mining is based on.</li>\n<li>Satoshi corresponded with Finney <a href=\"https://medium.com/r?url=https%3A%2F%2Fonline.wsj.com%2Fpublic%2Fresources%2Fdocuments%2Ffinneynakamotoemails.pdf\">extensively </a>even before Bitcoin’s release. In one of their last posts, Satoshi <a href=\"https://satoshi.nakamotoinstitute.org/posts/bitcointalk/541/\">publicly intimated</a> their respect for Finney.</li>\n</ul>\n\n<p>Unsurprisingly, Finney is one of the most popular candidates for Satoshi, though this implies that Finney faked his extensive email interactions with Satoshi and simultaneously contributed to Bitcoin under both his real name and a separate fake identity. Finney would also continue to work on Bitcoin well after Satoshi had “moved on” in 2011. Len and Finney shared one very rare and relevant skillset: they both were developers of the remailer technology that was a precursor to Bitcoin.</p>\n\n<p>- After high school, Len worked to support his family and never had the chance to attend college. In spite of this, in 2004 he secured his “dream job” as a researcher and Ph.D. candidate at COSIC, the <a href=\"https://en.wikipedia.org/wiki/COSIC\">Computer Security and Industrial Cryptography Research Group</a> of K.U. Leuven in Belgium.</p>\n\n<p>Len’s Ph.D. advisor at COSIC was none other than “father of digital currency” David Chaum. While Chaum laid the groundwork for the entire Cypherpunk movement and all cryptocurrencies, few could claim to have worked with him directly.</p>\n\n<p>A few of Chaum’s relevant accomplishments:</p>\n\n<ul>\n<li>The invention of cryptocurrency in his 1983 paper <em>“</em><a href=\"https://medium.com/@chamirachid/on-blind-signatures-for-untraceable-payments-by-david-chaum-275bbd6e1546\"><em>Blind Signatures for Untraceable Payments</em></a><em>”</em>.</li>\n<li>The invention of the blockchain, with his <a href=\"https://ieeexplore.ieee.org/document/8674176\">1982 dissertation</a> including code for all but one element of the blockchain detailed in the Bitcoin whitepaper.</li>\n<li>The creation of the first electronic cash system with his company <a href=\"https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf\">Digicash</a>. Anonymous payment between digital pseudonyms was central to this vision.</li>\n</ul>\n\n<p>While Digicash failed (partially due to a reliance on centralized systems), Chaum wanted to create a second digital currency that would offer a combination of anonymity and practicality.</p>\n\n<p>While many saw its failure as proof that digital cash was infeasible, Satoshi defended the <a href=\"https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/threads/1/\">“old Chaumian currencies”</a> while acknowledging the issues caused by centralization.</p>\n\n<blockquote>\n<p><em>A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990’s. I hope it’s obvious</em> <em>it was only the centrally controlled nature of those systems that doomed them.</em></p>\n</blockquote>\n\n<p>- Since COSIC was based in Leuven, Len was living in Belgium during Bitcoin’s development. This is salient given that a number of facts suggest that Satoshi was based in Europe — the primary focus of an early inquiry by <a href=\"https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency\">The New Yorker</a>.</p>\n\n<p>Satoshi’s writing exhibits spelling and word choices idiosyncratic of British English such as *“*bloody difficult”, “flat”, “maths”, grey”, as well as the dd/mm/yyyy date format. However, Satoshi also refers to <a href=\"https://medium.com/r?url=https%3A%2F%2Fplan99.net%2F%7Emike%2Fsatoshi-emails%2Fthread1.html\">Euros rather than pounds</a>.</p>\n\n<p>Bitcoin’s Genesis Block also included a headline from that day’s copy of <a href=\"https://news.bitcoin.com/wp-content/uploads/2020/11/genblock.jpg\"><em>The Times</em></a> newspaper <em>(“The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”).</em> This headline was specific to the print version, which was only circulated in the UK and Europe. In 2009, <em>The Times</em> was a Top 10 newspaper in Belgium and “<a href=\"https://en.wikipedia.org/wiki/The_Times\">heavily used by scholars and researchers </a>because of its widespread availability in libraries and its detailed index”.</p>\n\n<p>These clues leave us with a paradox: they suggest Satoshi was European, yet someone with the requisite skillset and exposure to Bitcoin’s primary influences would likely have been American. Much of the Cypherpunk community coalesced conferences and meetups, part of why a disproportionate number hailed from America and especially SF. The jobs where one could have gained cutting-edge professional infosec and crypto experience were similarly concentrated in the US.</p>\n\n<p>Strangely enough, Len used the very same British English as Satoshi even though he was American (see original article for pictures).</p>\n\n<p><a href=\"https://medium.com/@insearchofsatoshi/the-time-zones-of-satoshi-nakamoto-aa40f035178f\">Analysis </a>of Satoshi’s posting history suggests they were a European ‘night owl’ who worked on Bitcoin after returning from a job or school during the day. At one point, Satoshi also <a href=\"https://bitcointalk.org/index.php?topic=43.msg346#msg346\">stated </a>that an increase in mining difficulty happened “yesterday”, which would not have been true if they lived in the US.</p>\n\n<p>And when we examine Len’s tweet history, we see that timestamps of Satoshi’s <a href=\"https://news.bitcoin.com/new-research-suggests-satoshi-nakamoto-lived-in-london-creating-bitcoin/\">posts and code commits</a> correspond closely to Len’s own hours of late-night activity. (see link and original article)</p>\n\n<p>- While not the first cryptocurrency, Bitcoin was the first to be based on a fully P2P, distributed network. The importance of this is emphasized in Satoshi’s very first reference to Bitcoin:</p>\n\n<p><em>I’ve been working on a new electronic cash system that’s fully peer-to-peer, with no trusted third party</em></p>\n\n<p>In order to build Bitcoin, Dan Kaminsky <a href=\"https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency\">stated </a>that Satoshi would have needed to “understand economics, cryptography, and P2P networking”, and Len had an unusually early and intimate exposure to all 3, along with their application to digital currency.</p>\n\n<p>- While in SF, Len <a href=\"https://www.seattletimes.com/business/bittorrent-file-sharing-program-floods-the-web/\">lived and collaborated with Bram Cohen</a>, creator of most widely used P2P protocol: BitTorrent. During this period (2000–2002), Bram developed a revolutionary P2P network called<a href=\"https://www.salon.com/2000/10/09/mojo_nation/\"> MojoNation</a> which used a digital currency of “Mojo tokens”, making it one of the first digital currencies to see a working public release.</p>\n\n<p>- When Len’s passed away in 2011, it represented a huge loss for the Cypherpunk and the tech community at large, a fact reflected in the huge outpouring of memories and sympathy that followed. One comment in particular still stands out to me: a Hacker News post from “pablos08”.</p>\n\n<blockquote>\n<p><em>I became friends with Len and we were coconspirator cypherpunks at a time when that was a wild frontier. We were reimagining our world, riddled with cryptosystems that would mathematically enforce the freedoms that we treasured. Anonymous remailers to preserve speech without fear of retribution; onion routers to ensure nobody could censor the internet;</em> <em>digital cash to enable a radically free economy. We have schemes to decentralize &amp; distribute everything.</em></p>\n</blockquote>\n</div><!-- SC_ON -->",
+  "score": 152,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?auto=webp&s=2f64dd22245b5f81e8e9b35e8ac3430cb955cb7b",
+          "width": 1280,
+          "height": 550
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?width=108&crop=smart&auto=webp&s=fb1864f113c23b46108a4c81d61f1333e3c584e0",
+            "width": 108,
+            "height": 46
+          },
+          {
+            "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?width=216&crop=smart&auto=webp&s=467a82a4421fd17164b02de1e67e1b1f7899d2b1",
+            "width": 216,
+            "height": 92
+          },
+          {
+            "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?width=320&crop=smart&auto=webp&s=b408ab09fa8b5f237e1f6bb01876dc49575c4ce1",
+            "width": 320,
+            "height": 137
+          },
+          {
+            "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?width=640&crop=smart&auto=webp&s=34540042ffd549c7701e80c8ec4fc1c4494c31ef",
+            "width": 640,
+            "height": 275
+          },
+          {
+            "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?width=960&crop=smart&auto=webp&s=b04c30f5bc19a1419c74daa71f24e4b5f63040cd",
+            "width": 960,
+            "height": 412
+          },
+          {
+            "url": "https://external-preview.redd.it/2zD-KlFF87oKu_DnZBSsfDhtTJV57Pic9onmP5VllA0.jpg?width=1080&crop=smart&auto=webp&s=703b880c754d2ab3eff8ed62ee7d3cae6d54613f",
+            "width": 1080,
+            "height": 464
+          }
+        ],
+        "variants": {},
+        "id": "9rebvrNBAix3HGOsLjq0lh7fUJEyR0tPQPzjvNq54Lw"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/r3mtep/the_real_satoshi_nakamoto/",
+  "subreddit": "CryptoCurrency",
+  "id": "r3mtep",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I've always wondered who Satoshi Nakamoto is and why he made bitcoin and has not\ntouched his 55b fortune yet. I've read a lot about it and I'm fairly sure it\nisn't Craig Wright, who claims to be Satoshi Nakamoto and sued bitcoin.org\n[https://bitcoin.org/] (and won) for copyright infringements for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "サトシ・ナカモトとは何者なのか、なぜ彼はビットコインを作ったのか、彼の55億円の財産にまだ手をつけていないのか、いつも不思議に思っていました。\nなぜ彼はビットコインを作り、550億円の財産に手をつけていないのか。いろいろと読んでみましたが、サトシ・ナカモトであると主張しているクレイグ・ライトではないと確信しています。\nサトシ・ナカモトと名乗り、bitcoin.orgを訴えたCraig Wright氏ではないと思います。\n[https://bitcoin.org/] を著作権侵害で訴えた（そして勝訴した）クレイグ・ライトではないと確信しています...",
+      "title": "本物のサトシ・ナカモト？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我一直想知道中本聪是谁，为什么他创造了比特币，却还没有\n他为什么创造了比特币却没有动用他的550亿财富。我读了很多关于这个问题的文章，我相当肯定它是\n不是克雷格-莱特，他声称自己是中本聪并起诉了bitcoin.org\n[https://bitcoin.org/]（并赢得了）版权侵权，因为...",
+      "title": "真正的中本聪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我一直想知道中本聰是誰，爲什麼他創造了比特幣，卻還沒有\n他爲什麼創造了比特幣卻沒有動用他的550億財富。我讀了很多關於這個問題的文章，我相當肯定它是\n不是克雷格-萊特，他聲稱自己是中本聰並起訴了bitcoin.org\n[https://bitcoin.org/]（並贏得了）版權侵權，因爲...",
+      "title": "真正的中本聰？"
+    }
+  ]
+}

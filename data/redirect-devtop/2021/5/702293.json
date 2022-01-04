@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 702293,
+  "title": "Using the useReducer Hook in React with TypeScript ",
+  "description": "The `useReducer` hook is an alternative to the `useState` hook and is preferable when you have complex state logic or when your next state depends on your previous state.",
+  "readable_publish_date": "May 19",
+  "slug": "using-the-usereducer-hook-in-react-with-typescript-27m1",
+  "path": "/craigaholliday/using-the-usereducer-hook-in-react-with-typescript-27m1",
+  "url": "https://dev.to/craigaholliday/using-the-usereducer-hook-in-react-with-typescript-27m1",
+  "comments_count": 3,
+  "public_reactions_count": 36,
+  "collection_id": null,
+  "published_timestamp": "2021-05-19T00:03:24Z",
+  "positive_reactions_count": 36,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/702293.png",
+  "canonical_url": "https://dev.to/craigaholliday/using-the-usereducer-hook-in-react-with-typescript-27m1",
+  "created_at": "2021-05-21T18:07:43.824Z",
+  "edited_at": null,
+  "crossposted_at": null,
+  "published_at": "2021-05-19T00:03:24Z",
+  "last_comment_at": "2021-05-20T20:22:22Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "typescript",
+    "react",
+    "webdev",
+    "beginners"
+  ],
+  "tags": [
+    "typescript",
+    "react",
+    "webdev",
+    "beginners"
+  ],
+  "user": {
+    "name": "Craig Holliday",
+    "username": "craigaholliday",
+    "twitter_username": "TheMrHolliday",
+    "github_username": "themisterholliday",
+    "website_url": "https://koalatea.io/",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4i3rLP_q--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/142477/4f19b723-92c3-4fd4-9f1e-f7fb8d50baba.png",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--fzAt4vJh--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/142477/4f19b723-92c3-4fd4-9f1e-f7fb8d50baba.png"
+  },
+  "original_created_at": "2021-05-18T23:58:37Z",
+  "image": "https://dev.to/social_previews/article/702293.png",
+  "author": "Craig Holliday",
+  "author_url": "https://dev.to/craigaholliday",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useReducer`フックは、`useState`フックの代替で、複雑なステートロジックを持っている場合や、次のステートが前のステートに依存する場合に好適です。",
+      "title": "ReactでuseReducerフックをTypeScriptで使う "
+    },
+    {
+      "locale": "zh",
+      "description": "`useReducer'钩子是`useState'钩子的替代品，当你有复杂的状态逻辑或者你的下一个状态取决于你的上一个状态时，这个钩子更受欢迎。",
+      "title": "用TypeScript在React中使用useReducer钩子 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "`useReducer'鉤子是`useState'鉤子的替代品，當你有複雜的狀態邏輯或者你的下一個狀態取決於你的上一個狀態時，這個鉤子更受歡迎。",
+      "title": "用TypeScript在React中使用useReducer鉤子 "
+    }
+  ]
+}

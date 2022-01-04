@@ -1,0 +1,33 @@
+{
+  "author": "slepyhed",
+  "the_new_excerpt": "Many of us consider it common knowledge that SMS based 2FA is not secure. But as\nI recently found out, this knowledge actually not all that common.\n\nMy niece bought some bitcoin on Coinbase back in mid-2017. Since then, I have\nadvised her multiple times about properly securing her account and/or…",
+  "original_created_utc": 1620302414,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの人は、SMSを使った2FAは安全ではないというのが常識だと思っています。しかし\n私は最近、この常識が実はそれほど一般的ではないことに気づきました。\n\n私の姪は、2017年の半ばにCoinbaseでビットコインを購入しました。それ以来、私は彼女に\nそれ以来、私は彼女にアカウントを適切に保護するよう何度もアドバイスしてきました...",
+      "title": "PSA: SMSベースの2FAに頼ってはいけません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们中的许多人认为，基于短信的2FA是不安全的，这是常识。但由于\n我最近发现，这种知识实际上并不那么普遍。\n\n我的侄女早在2017年中就在Coinbase上买了一些比特币。从那时起，我已经\n多次建议她妥善保护她的账户和/或...",
+      "title": "PSA: 不要依赖基于短信的2FA来保护你的交易所账户"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們中的許多人認爲，基於短信的2FA是不安全的，這是常識。但由於\n我最近發現，這種知識實際上並不那麼普遍。\n\n我的侄女早在2017年中就在Coinbase上買了一些比特幣。從那時起，我已經\n多次建議她妥善保護她的賬戶和/或...",
+      "title": "PSA: 不要依賴基於短信的2FA來保護你的交易所賬戶"
+    }
+  ],
+  "title": "PSA: Don't rely on SMS based 2FA to secure your exchange account",
+  "created_utc": 1620348107,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Many of us consider it common knowledge that SMS based 2FA is not secure. But as I recently found out, this knowledge actually not all that common.</p>\n\n<p>My niece bought some bitcoin on Coinbase back in mid-2017. Since then, I have advised her multiple times about properly securing her account and/or taking custody. I could see her eyes glaze over each time I brought it up. She did eventually buy a Ledger wallet, but unfortunately, she never withdrew to it. Nor did she set up app-based 2FA, or even move her bitcoin into the Coinbase vault.</p>\n\n<p>You can probably guess how the story goes. Yesterday she called me, told me that her bitcoin had been withdrawn from her account, and asked how to get it back. Turns out, she had been SIM swapped, the hacker used SMS to reset her coinbase password and withdraw her bitcoin, and was attempting to transfer more money from her bank account to buy more.</p>\n\n<p>Please, don&#39;t be like my niece. It&#39;s painful to see. If you insist on keeping your bitcoin on an exchange, at the very least, set up 2FA with Google Authenticator, Authy, or some other 2FA app (I use AndOTP). If your exchange has a cold storage vault, use it.</p>\n\n<p>Even better, take a little time to learn and understand how to safely take custody of your bitcoin with a reputable hardware wallet.</p>\n</div><!-- SC_ON -->",
+  "score": 182,
+  "permalink": "/r/Bitcoin/comments/n65m9n/psa_dont_rely_on_sms_based_2fa_to_secure_your/",
+  "subreddit": "Bitcoin",
+  "id": "n65m9n",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620985985212
+}

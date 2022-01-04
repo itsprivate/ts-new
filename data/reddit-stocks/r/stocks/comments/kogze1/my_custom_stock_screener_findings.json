@@ -1,0 +1,28 @@
+{
+  "author": "SorenLantz",
+  "the_new_excerpt": "THE METRIC\n\nI recently had an idea for a metric to be used to find hot stocks. I call the\nmetric \"Price Elasticity\" and it is comprised of two numbers: upturn elasticity\nand downturn elasticity.\n\n * Upturn elasticity: the average % change in a stock on market up days\n * Downturn elasticity: the…",
+  "original_created_utc": 1609528327,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "指标\n\n我最近有了一个想法，可以用一个指标来寻找热门股票。我打电话给\n度量“价格弹性”，它由两个数字组成：上行弹性\n和低迷的弹性。\n\n*上行弹性：股票在市场上涨日的平均百分比变化\n*低迷弹性：…",
+      "title": "我的自定义股票筛选结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "指標\n\n我最近有了一個想法，可以用一個指標來尋找熱門股票。我打電話給\n度量“價格彈性”，它由兩個數字組成：上行彈性\n和低迷的彈性。\n\n*上行彈性：股票在市場上漲日的平均百分比變化\n*低迷彈性：…",
+      "title": "我的自定義股票篩選結果"
+    }
+  ],
+  "title": "My Custom Stock Screener Findings",
+  "created_utc": 1609550992,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>The Metric</h1>\n\n<p>I recently had an idea for a metric to be used to find hot stocks. I call the metric &quot;Price Elasticity&quot; and it is comprised of two numbers: upturn elasticity and downturn elasticity.</p>\n\n<ul>\n<li>Upturn elasticity: the average % change in a stock on market up days</li>\n<li>Downturn elasticity: the average % change in a stock on market down days</li>\n</ul>\n\n<p>Using these numbers and a few additional basic requirements (like positive EPS and at least 31 days of trading history), my screener found 99 stocks out of about 5700 searched that have good to exceptional price elasticities. (the list of these stocks is linked below and also <a href=\"https://drive.google.com/file/d/1NsbQ42oo6i3kYUWf96Tw5yK3LD04L1CR/view?usp=sharing\">here</a>)</p>\n\n<h1>What makes for good price elasticity numbers?</h1>\n\n<p>I made two classifications for stocks with good price elasticity data.</p>\n\n<ol>\n<li><strong>Irrational</strong> - Upturn elasticity &gt; 1, Downturn elasticity &lt; 0</li>\n<li><strong>Responsible</strong> - Upturn elasticity &gt; 1, 0 &lt; Downturn elasticity &lt; 1</li>\n</ol>\n\n<p>With any stock I want an upturn elasticity &gt; 1, meaning that the stock tends to move higher than the market when the market goes up. The &quot;Irrational&quot; classification gets its name because if a stock&#39;s downturn elasticity is negative this means the stock, on average, moves up when the market goes down. So a stock that moves higher than the market when the market goes up and also moves up when the market goes down is classified as &quot;Irrational&quot;. These stocks tend to have less trading history and are very volatile.</p>\n\n<p>Then there are &quot;Responsible&quot; stocks which like Irrational stocks move higher than the market when the market goes up. Unlike Irrational stocks though, Responsible stocks move lower when the market moves lower. The reason I still consider them good is because their downturn elasticity is &lt;1 and &gt;0, meaning that, while they do move down with the market, they move down to a lesser degree.</p>\n\n<p>Some popular stocks picked up by the screener include: AMD, ADSK, ETSY, NFLX, NVDA, SHOP and TSLA. Many of the other stocks have lower market caps and could be interesting value / growth plays given they too made the cut.</p>\n\n<h1>Link to the 99 stocks found:</h1>\n\n<p><a href=\"https://drive.google.com/file/d/1NsbQ42oo6i3kYUWf96Tw5yK3LD04L1CR/view?usp=sharing\">https://drive.google.com/file/d/1NsbQ42oo6i3kYUWf96Tw5yK3LD04L1CR/view?usp=sharing</a></p>\n\n<p>&#x200B;</p>\n\n<p>I have no idea if there is merit to my Price Elasticity metric (or if it has already been &quot;invented&quot;) but it was a fun project and the screener found some interesting stocks I would have never discovered otherwise. The validity of the metric is entirely based on the assumption that past trends indicate future performance, and for those looking to beat the market the trends of these 99 stocks should be very appealing. I made the screener using Python3 and TD Ameritrade&#39;s API. Of the stocks in that list I am currently holding AMD, CAMT, EPAM, and NLOK.</p>\n\n<p>Edit: Happy New Year</p>\n</div><!-- SC_ON -->",
+  "score": 45,
+  "permalink": "/r/stocks/comments/kogze1/my_custom_stock_screener_findings/",
+  "subreddit": "stocks",
+  "id": "kogze1",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1610100748519
+}

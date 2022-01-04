@@ -1,0 +1,94 @@
+{
+  "id": "294121",
+  "commentsCount": 2,
+  "createdAt": "2021-04-29T08:41:58.860Z",
+  "description": "Notea is a Self hosted Note taking app stored on S3, that you can deploy with one click to Vercel, AWS, or deploy with Docker 🐳. It supports storage in Amazon S3, MinIO, Aliyun OSS and others. It's powered by TypeScript 🚀 and loves Mark Down.",
+  "featuredAt": "2021-04-29T07:04:36Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c94a02d7-83cd-4eb8-aa5d-f3189e39a55f.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9011b547-b09d-4338-9fa2-172733fbd171.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2b5791da-28ee-4796-baf8-f936aadd488c.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/896059dd-a06c-4219-a940-46fb5953b4a1.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Notea",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/75eb02ead4dc47?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/9fb437acd85f3b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Bharadwaj Giridhar",
+    "url": "https://www.producthunt.com/@goforbg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 3.3,
+  "slug": "notea",
+  "tagline": "Free self-hosted open source note taking app, like Notion",
+  "url": "https://www.producthunt.com/posts/notea?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 336,
+  "website": "https://www.producthunt.com/r/9fb437acd85f3b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Note"
+        }
+      },
+      {
+        "node": {
+          "name": "Spreadsheets"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-04-29T07:04:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Noteaは、S3に保存されているSelf hosted Note taking appで、ワンクリックでVercelやAWSにデプロイしたり、Docker🐳でデプロイすることができます。Amazon S3、MinIO、Aliyun OSSなどのストレージに対応しています。これはTypeScript🚀で動いており、Mark Downが大好きです。",
+      "tagline": "Notionのような、無料のセルフホスト型オープンソースノートアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Notea是一个存储在S3上的自我托管的笔记应用程序，你可以一键部署到Vercel、AWS，或用Docker🐳部署。它支持亚马逊S3、MinIO、阿里云OSS等的存储。它由TypeScript🚀驱动，喜欢Mark Down。",
+      "tagline": "免费的自我托管的开源笔记应用程序，如Notion"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notea是一個存儲在S3上的自我託管的筆記應用程序，你可以一鍵部署到Vercel、AWS，或用Docker🐳部署。它支持亞馬遜S3、MinIO、阿里雲OSS等的存儲。它由TypeScript🚀驅動，喜歡Mark Down。",
+      "tagline": "免費的自我託管的開源筆記應用程序，如Notion"
+    }
+  ],
+  "source_updated_at": 1619776225595
+}

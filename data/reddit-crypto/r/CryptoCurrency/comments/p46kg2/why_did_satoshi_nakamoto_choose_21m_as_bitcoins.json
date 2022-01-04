@@ -1,0 +1,78 @@
+{
+  "author": "milonuttigrain",
+  "original_created_utc": 1628941657,
+  "title": "Why Did Satoshi Nakamoto Choose 21M as Bitcoin’s Maximum Supply?",
+  "created_utc": 1628958820,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Bitcoin is famous for being a deflationary currency. Its total circulating supply is capped at 21M and can never be altered. Although many have discussed the reasons for instituting a maximum cap, few know about why Satoshi chose 21M as the benchmark.</p>\n\n<p>Luckily, we have many documents from the early days of Bitcoin to better understand this question. For starters, the total number of satoshis in circulation (21M BTC x 100,000,000) is an IEEE floating-point number. This makes computation far easier which is why these numbers are commonly used in computer operating systems.</p>\n\n<p>Essentially, 21M was chosen because <strong>it makes computation simpler</strong>. 21 is also a triangular number which makes it especially attractive. For example, if you were to stack 6 blocks on 5 blocks on 4 blocks, and so on, you could create an equilateral triangle of 21 blocks total.</p>\n\n<p>However, there are other reasons for the 21M benchmark. In an archived message from Satoshi, the mysterious Bitcoin founder calls it a “difficult choice because once the network is going it’s locked in and we’re stuck with it.” Here is his full statement on the matter:</p>\n\n<p>“If you imagine it being used for some fraction of world commerce, then there’s only going to be 21 million coins for the whole world, so it would be worth much more per unit. Values are 64-bit integers with 8 decimal places, so 1 coin is represented internally as 100000000. There’s plenty of granularity if typical prices become small. For example, if 0.001 is worth 1 Euro, then it might be easier to change where the decimal point is displayed, so if you had 1 Bitcoin it’s now displayed as 1000, and 0.001 is displayed as 1.”</p>\n\n<p>Judging from these early writings, Satoshi actively entertained the possibility of Bitcoin being a world currency. However, the elusive question of “why 21M?” can ultimately come down to the fact that a number had to be chosen, and <strong>21M possessed all the easily-calculable dimensions which made it the ideal candidate</strong>. The choice to make 21M the cap was, therefore, partly-rationalized and partly made arbitrarily.</p>\n\n<p><a href=\"https://beincrypto.com/why-did-satoshi-nakamoto-choose-21m-as-bitcoins-maximum-supply/\">Source: Anton Lucian and Kyle Baird (Beincrypto.com)</a></p>\n</div><!-- SC_ON -->",
+  "score": 197,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?auto=webp&s=3c74bddaec829d4e05fcc02a4978496a141353d9",
+          "width": 1140,
+          "height": 570
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?width=108&crop=smart&auto=webp&s=1a34798b578ce33ae59ca195f50f577cfca071c1",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?width=216&crop=smart&auto=webp&s=64da0c22ef84245d76855071f7348a29090227bd",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?width=320&crop=smart&auto=webp&s=0d898d09a47397ceeeb3e5ee214c32501d6c22dc",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?width=640&crop=smart&auto=webp&s=4eaad0e74943ce3b821a2b4e7b354f79701c749d",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?width=960&crop=smart&auto=webp&s=68791ab25b755b05e29f6d0739d0ad0deb1aab87",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/l33DR91GDpkcu2wplpfnWAETy16QKTDS5lXkhZCm34c.jpg?width=1080&crop=smart&auto=webp&s=bce9e61ccfc7e07373d0b4f69e4214fd9fbb517b",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "54n7XW6uEWGWcqbiTDQOEtth4jpr5XilyQXqQvWg-JE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/p46kg2/why_did_satoshi_nakamoto_choose_21m_as_bitcoins/",
+  "subreddit": "CryptoCurrency",
+  "id": "p46kg2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Bitcoin is famous for being a deflationary currency. Its total circulating\nsupply is capped at 21M and can never be altered. Although many have discussed\nthe reasons for instituting a maximum cap, few know about why Satoshi chose 21M\nas the benchmark.\n\nLuckily, we have many documents from the early…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインは、デフレ通貨として有名です。流通量の上限は\n流通量の上限は2,100万枚で、決して変更することができません。上限を設けた理由は多くの人が議論していますが\n議論されていますが、なぜサトシが21Mを基準にしたのかはあまり知られていません。\nを基準にした理由はあまり知られていません。\n\n幸いなことに、私たちは初期の頃の多くの文書を持っています...",
+      "title": "サトシ・ナカモトはなぜビットコインの最大供給量を2,100万個にしたのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币因是一种通货紧缩的货币而闻名。它的总流通量\n它的总流通量上限为2,100万个，而且永远不会被改变。尽管许多人已经讨论过\n的原因，但很少有人知道为什么中本聪选择21M\n作为基准。\n\n幸运的是，我们有许多来自早期的文件...",
+      "title": "为什么中本聪选择21M作为比特币的最大供应量？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣因是一種通貨緊縮的貨幣而聞名。它的總流通量\n它的總流通量上限爲2,100萬個，而且永遠不會被改變。儘管許多人已經討論過\n的原因，但很少有人知道爲什麼中本聰選擇21M\n作爲基準。\n\n幸運的是，我們有許多來自早期的文件...",
+      "title": "爲什麼中本聰選擇21M作爲比特幣的最大供應量？"
+    }
+  ]
+}

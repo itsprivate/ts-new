@@ -1,0 +1,68 @@
+{
+  "author": "yashg",
+  "original_created_utc": 1625388021,
+  "title": "I launched pdfmark.com an HTML to PDF API",
+  "created_utc": 1625391298,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I have launched <strong>PDFMark</strong>. It is an HTML to PDF conversion API. PDF generation is a requirement for many companies. Programmers often need to generate PDF documents programmatically for things like invoice, tickets, reports, account statements etc. There are several free and paid libraries for generating PDFs but all have some quirks. The free ones are language specific, are not updated frequently and only provide basic functionality. Paid ones are too expensive and cost thousands of dollars.</p>\n\n<p>PDFMark uses headless Chrome to generate PDF. For those who don&#39;t know, headless Chrome is essentially regular Chrome used programmatically. It is accessed via a library called Puppeteer which is written in NodeJS. PDFMark exposes a simple REST API which the developers can call from any programming language. The API takes care of all the hard part about generating PDF document from HTML or URL. It handles the headless Chrome and Puppeteer so that the end user can simply focus on their core application development and not worry about generating PDF documents.</p>\n\n<p>PDFMark not only generates PDF documents, but it also saves them on cloud and distributes it to the end user via a CDN.</p>\n\n<p>Check out <a href=\"https://pdfmark.com\">pdfmark.com</a>. See the demo and sign up if you would like to use it in your projects.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/qUI-z5uPBGUOkIiiiEY8NCFhlIyLoXaipkYh_ARZ0RU.jpg?auto=webp&s=071aa01b842a836300a9010c998291e28eff8eba",
+          "width": 800,
+          "height": 450
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/qUI-z5uPBGUOkIiiiEY8NCFhlIyLoXaipkYh_ARZ0RU.jpg?width=108&crop=smart&auto=webp&s=3fd76c5aa561a1119e10bfc7f3502afb46fb5e2a",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/qUI-z5uPBGUOkIiiiEY8NCFhlIyLoXaipkYh_ARZ0RU.jpg?width=216&crop=smart&auto=webp&s=6463eada5db5803e7c29bd9c1a7d397d0699e461",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/qUI-z5uPBGUOkIiiiEY8NCFhlIyLoXaipkYh_ARZ0RU.jpg?width=320&crop=smart&auto=webp&s=5d9209c6977ccf555805784a530ce9cb3f191818",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/qUI-z5uPBGUOkIiiiEY8NCFhlIyLoXaipkYh_ARZ0RU.jpg?width=640&crop=smart&auto=webp&s=a19b8d4ef7b8171041b2368f802419589637cf73",
+            "width": 640,
+            "height": 360
+          }
+        ],
+        "variants": {},
+        "id": "nHuU4MNlqfV914GRujIAtvyP9dZS-pHCJl-5U4VGymM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/odge4r/i_launched_pdfmarkcom_an_html_to_pdf_api/",
+  "subreddit": "SideProject",
+  "id": "odge4r",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I have launched PDFMark. It is an HTML to PDF conversion API. PDF generation is\na requirement for many companies. Programmers often need to generate PDF\ndocuments programmatically for things like invoice, tickets, reports, account\nstatements etc. There are several free and paid libraries for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "PDFMarkを発表しました。これは、HTMLからPDFへの変換APIです。PDFの生成は\n多くの企業で必要とされています。プログラマーはしばしば、請求書、チケット、リ\nドキュメントをプログラムで生成する必要があります。\n明細書などです。PDFを作成するための無料および有料のライブラリがいくつかあります。",
+      "title": "HTML to PDF APIのpdfmark.comを立ち上げました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经推出了PDFMark。它是一个HTML到PDF的转换API。PDF的生成是\n是许多公司的要求。程序员经常需要以编程方式生成PDF\n文件，如发票、票据、报告、账户、报表等。\n报表等。有几个免费和付费的库用于生成PDF。",
+      "title": "我推出了pdfmark.com一个HTML转PDF的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經推出了PDFMark。它是一個HTML到PDF的轉換API。PDF的生成是\n是許多公司的要求。程序員經常需要以編程方式生成PDF\n文件，如發票、票據、報告、賬戶、報表等。\n報表等。有幾個免費和付費的庫用於生成PDF。",
+      "title": "我推出了pdfmark.com一個HTML轉PDF的API"
+    }
+  ]
+}

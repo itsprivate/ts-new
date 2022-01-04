@@ -1,0 +1,84 @@
+{
+  "created_at": "Wed Nov 24 12:54:6 +0000 2021",
+  "id_str": "1463477505155682308",
+  "full_text": "NASA launched its first planetary defense mission on a SpaceX rocket designed to deflect a distant asteroid, a technique that could one day prevent an apocalyptic collision with Earth #WSJWhatsNow https://t.co/jOBooKFVHp",
+  "display_text_range": [
+    0,
+    196
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          184,
+          196
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1463464295291887600,
+        "id_str": "1463464295291887627",
+        "indices": [
+          197,
+          220
+        ],
+        "media_url": "http://pbs.twimg.com/media/FE9GT3kWQAM2WPg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FE9GT3kWQAM2WPg.jpg",
+        "url": "https://t.co/jOBooKFVHp",
+        "display_url": "pic.twitter.com/jOBooKFVHp",
+        "expanded_url": "https://twitter.com/WSJ/status/1463477505155682308/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 51,
+  "favorite_count": 112,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Nov 24 12:00:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "NASAは初の惑星防衛ミッションをSpaceX社のロケットで打ち上げました。遠くにある小惑星の軌道をそらすことを目的としていますが、この技術はいつか地球との大惨事の衝突を防ぐことができるでしょう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "美国宇航局用SpaceX火箭发射了第一个行星防御任务，旨在偏转遥远的小行星，这项技术有朝一日可以防止与地球发生灾难性的碰撞#WSJWhatsNow https://t.co/jOBooKFVHp"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國宇航局用SpaceX火箭發射了第一個行星防禦任務，旨在偏轉遙遠的小行星，這項技術有朝一日可以防止與地球發生災難性的碰撞#WSJWhatsNow https://t.co/jOBooKFVHp"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "295918",
+  "commentsCount": 8,
+  "createdAt": "2021-05-23T04:45:32.640Z",
+  "description": "A Python package to copy all your Kindle highlights and notes to a database in Notion. Plug in your Kindle device to your PC to run this script. Requires Python 3.9+ installed on your system.",
+  "featuredAt": "2021-05-22T15:30:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/47f2c1d4-936c-4251-a12c-1af02e057af0.gif?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b41df6a8-9b55-4f3a-aea1-2a0914b6cb23.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d0dcaa9c-a5e9-49c4-94a3-ee277aad23be.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/08a4936d-dd82-4ce7-8ba0-d52f458eed49.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Kindle2Notion",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/4d90079ef16343?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Jeffrey Jacob",
+    "url": "https://www.producthunt.com/@dullblackwall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "kindle2notion",
+  "tagline": "Export your Kindle clippings to a Notion database",
+  "url": "https://www.producthunt.com/posts/kindle2notion?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 191,
+  "website": "https://www.producthunt.com/r/4d90079ef16343?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Kindle"
+        }
+      },
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Open Source"
+        }
+      },
+      {
+        "node": {
+          "name": "Writing Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Note"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      },
+      {
+        "node": {
+          "name": "Books"
+        }
+      },
+      {
+        "node": {
+          "name": "Side Projects"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-05-22T15:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "KindleのすべてのハイライトやメモをNotionのデータベースにコピーするPythonパッケージです。このスクリプトを実行するには、Kindle デバイスを PC に接続します。システムにPython 3.9+がインストールされている必要があります。",
+      "tagline": "Kindleの切り抜きをNotionのデータベースに書き出す"
+    },
+    {
+      "locale": "zh",
+      "description": "一个Python软件包可以将你所有的Kindle亮点和笔记复制到Notion的数据库中。将你的Kindle设备插入你的电脑来运行这个脚本。需要在你的系统上安装Python 3.9以上。",
+      "tagline": "将你的Kindle剪报导出到Notion数据库中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個Python軟件包可以將你所有的Kindle亮點和筆記複製到Notion的數據庫中。將你的Kindle設備插入你的電腦來運行這個腳本。需要在你的系統上安裝Python 3.9以上。",
+      "tagline": "將你的Kindle剪報導出到Notion數據庫中"
+    }
+  ],
+  "source_updated_at": 1622197395817
+}

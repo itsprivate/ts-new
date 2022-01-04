@@ -1,0 +1,23 @@
+name: crp
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**"
+      - "i18n/i18next/zh/**"
+      - "i18n/post-resource/zh/reddit_--_reddit-crypto*.json"
+      - "i18n/post-resource/zh/tweet_--_tweet-crypto*.json"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          repository: itsprivate/universe
+          event-type: redeploy
+          client-payload: '{"project": "${{github.workflow}}"}'

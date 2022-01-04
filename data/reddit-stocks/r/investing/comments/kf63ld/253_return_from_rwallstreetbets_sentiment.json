@@ -1,0 +1,28 @@
+{
+  "author": "extremelyobservant",
+  "the_new_excerpt": "TL;DR - Made $12k, Sharpe ratio of 2.2, and only had my positions fall by 9% at\nthe worst from January to September, where the S&P only grew ~5% and had a\ndrawdown of ~30%.\n\nEDIT: sorry everyone, reddit cut off half my posted when originally posted,\nsource code and fun links now added,…",
+  "original_created_utc": 1608238658,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TL；DR赚了12000美元，夏普比率为2.2，我的头寸只在\n最糟糕的是1月至9月，标准普尔指数仅增长约5%，\n下降了大约30%。\n\n编辑：对不起，Reddit在我最初发帖的时候删掉了一半的帖子，\n现在添加了源代码和有趣的链接，…",
+      "title": "25.3%来自r/wallstreetbets情绪分析的回报-包括源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TL；DR賺了12000美元，夏普比率爲2.2，我的頭寸只在\n最糟糕的是1月至9月，標準普爾指數僅增長約5%，\n下降了大約30%。\n\n編輯：對不起，Reddit在我最初發帖的時候刪掉了一半的帖子，\n現在添加了源代碼和有趣的鏈接，…",
+      "title": "25.3%來自r/wallstreetbets情緒分析的回報-包括源代碼"
+    }
+  ],
+  "title": "25.3% return from r/wallstreetbets Sentiment Analysis - source code included",
+  "created_utc": 1608253515,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR - Made $12k, Sharpe ratio of 2.2, and only had my positions fall by 9% at the worst from January to September, where the S&amp;P only grew ~5% and had a drawdown of ~30%.</p>\n\n<p>EDIT: sorry everyone, reddit cut off half my posted when originally posted, source code and fun links now added, enjoy</p>\n\n<h1>Process</h1>\n\n<p>I posted this strategy on Quantopian and Quantconnect a couple months ago but thought y&#39;all might like it.</p>\n\n<p>This algorithm searches this subreddit looking for posts related to the stocks SPCE, LULU, CCL, and SDC (these stocks are popular there). Then it conducts a sentiment analysis of the comments in the identified post and stores the values in a data frame. </p>\n\n<p>Stocks are ranked by those most popular to least popular, and then automatically bought in proportion to their relative popularity (or sold in proportion to their relative un-popularity).</p>\n\n<p>Retail investor participation in the market is at an <a href=\"https://www.marketwatch.com/story/retail-investor-exposure-to-stock-market-is-at-an-all-time-high-td-ameritrade-2018-01-08\">all-time high</a>, and there are plenty of simple stock analysis tools to help small investors make informed decisions. If the general sentiment from retail investors is up, then they could be purchasing the underlying equity.</p>\n\n<p>Here are the links to the <a href=\"https://www.dropbox.com/s/qydhy62v08tw4em/Reddit_Sentiment_Equity.csv?dl=0\">csv file</a> generated from the <a href=\"https://www.dropbox.com/s/9em352b0q8qzjt5/RedditStockSentiment-Copy1%20%281%29.py?dl=0\">Reddit sentiment analysis</a> program.</p>\n\n<h1>Results</h1>\n\n<p>After just a few months: $12k, 9% max drop. I recognize this is too short a time to know if this is a good long-term strategy. Turns out the wild hive mind of <a href=\"/r/wallstreetbets\">r/wallstreetbets</a> either has blessed foresight or is great at pumping stocks.</p>\n\n<p>What stocks should we do next to max those gains?</p>\n\n<h1>Github</h1>\n\n<p>Anonymized source code (don&#39;t want to share my personal GitHub): <a href=\"https://www.dropbox.com/s/9em352b0q8qzjt5/RedditStockSentiment-Copy1%20%281%29.py?dl=0\">https://www.dropbox.com/s/9em352b0q8qzjt5/RedditStockSentiment-Copy1%20%281%29.py?dl=0</a></p>\n\n<p>I&#39;m also planning to make a self-hosted version of this you can invest in if you don&#39;t want to code it yourself or keep an eye on it at <a href=\"https://getquantbase.com\">getquantbase.com</a>. Also have some pretty charts of this algorithm if you scroll to the bottom. Cheers</p>\n</div><!-- SC_ON -->",
+  "score": 148,
+  "permalink": "/r/investing/comments/kf63ld/253_return_from_rwallstreetbets_sentiment/",
+  "subreddit": "investing",
+  "id": "kf63ld",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1609260493076
+}

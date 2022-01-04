@@ -1,0 +1,78 @@
+{
+  "author": "simplelifestyle",
+  "original_created_utc": 1636773657,
+  "title": "Everybody here should read this: UNDERSTANDING TAPROOT IN A SIMPLE WAY. The highly-anticipated upgrade is set to roll out over the weekend, changing Bitcoin for the better.",
+  "created_utc": 1636803150,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><blockquote>\n<p>Understanding exactly what about the Bitcoin network implementing Taproot changes is necessary for understanding why the changes were needed. Taproot is the combination of many Bitcoin Improvement Proposals (BIPs) resulting in a soft fork of Bitcoin’s blockchain. A soft fork is a proposed upgrade that over time is adopted as the only blockchain, meaning the old one will cease to operate once the new one (in this case, Taproot) is fully adopted.</p>\n\n<p><strong>WHAT DOES TAPROOT DO</strong>?</p>\n\n<p>The improvements can be broken down into three categories, each affecting the other, and each necessary to the final construct. Taproot successfully increases security, and also allows flexibility and scalability with the introduction of a new language that is ever expanding. The three categories of changes to summarize are as follows:</p>\n\n<p><strong>1) Schnorr Signatures (BIP 340)</strong></p>\n\n<p>This new form of signature allows for superior security, lower fees, and flexible multi-signature transactions. How?</p>\n\n<p>· SigHash (Signature Hash) is applied to the transactions, meaning that once a SigHash is applied, the information becomes immutable (unchangeable). If the information is changed, the transaction loses validity. Nothing can be changed without destroying the SigHash. Previously, a small amount of information could be changed through “malleability” that would not result in the transaction losing its validity. Speaking of signatures …</p>\n\n<p>· Key and Signature Aggregation allows for the aggregation of public keys and signatures. This means if you have a transaction with 10 people, previously you would need 10 public keys, 10 signatures, and a verifier would have to verify each key and signature. With key and signature aggregation, we can make all 10 public keys into one key, and all 10 signatures, into one signature. The verifier now only has to do this once, instead of 10 times. This is where a lot of computational processing occurs.</p>\n\n<p>· Superior Security is achieved in the aggregation process because on-chain heuristics (data tracked) will not be able to discern the difference between a multisignature and single-signature transaction, allowing for more privacy.</p>\n\n<p>· Batch Verification is added on from the aggregation mentioned above, as now we can “batch” together multiple transactions, to verify them together, as opposed to one at a time. Basically, this is just “bulk verification,” and also leads to fewer resources being spent.</p>\n\n<p><strong>2) Taproot (BIP 341)</strong></p>\n\n<p>The entire update is named after this portion because this is how the new system integrates with the old one.</p>\n\n<p>· Bitcoin Script Update allows the scripting language to use Schnorr signatures and integrates the Merkelized Alternative Script Trees (MAST).</p>\n\n<p>· Pay-To-Taproot (P2TR) gives the freedom of choice. You can use either Schnorr signatures or the Merkle root provided in MAST. Satisfy the requirements of your choosing, which allows for cleaner transaction processing when the Merkle tree may not be needed.</p>\n\n<p>(MAST) summarizes the possible scripts that are needed to unlock a bitcoin, instead of requiring all the possible scripts for the transaction. The single-script hash provided by MAST actually represents several scripts. To spend a bitcoin, you need only provide your script, and provide proof that your script is held in the Merkle root. Previously, it would have taken far more scripts and extended verification.</p>\n\n<p><strong>3) Tapscript</strong> </p>\n\n<p><em>Transcript</em> is a collection of “opcodes,” which are essentially just lines of codes that execute commands on the Bitcoin protocol that have been updated to make way for the new changes installed by Taproot. It can be referred to as a language, but it is more like an update to Bitcoin Script.</p>\n\n<p>· Bitcoin Script has a 10,000-byte script size limit which will be removed, allowing for vastly larger scripts, or Taproot contracts. It also removes the cap for “opcodes,” which allows for more flexibility for increased features and coding in the future.</p>\n\n<p>· This removal of script size and unfettered growth available in scripting allows a clear path to smart contracts.</p>\n\n<p><strong>WHY IS IT IMPORTANT?</strong></p>\n\n<p>Security is the lifeblood of every Bitcoiner. Unwilling to shake their core beliefs of hard, sound money, the Bitcoin community paced themselves to make sure the Layer 1 (Bitcoin protocol) was immutable, efficient, and proven to be 100% secure before “upgrading.” Other platforms rushed to Layer 2 (open applications built on the original protocol) while Bitcoin held off on further developments until base-layer security was an undeniable certainty. Because of this, some argue that Bitcoin had lost the race to developing smart contract capability, and products like Ethereum emerged as first to market, changing the way we look at decentralized applications.</p>\n\n<p>Taproot has evened the playing field. Bitcoin now has a clear path to deployment of smart contracts, decentralized autonomous organizations, and more. Products like the Lightning Network have already shown that fast and reliable transactions can still be backed with an immutable ledger, even without the access that Taproot will give developers of the future.</p>\n\n<p>Bitcoin is stepping into a broader world with applications that we cannot imagine in a way that it simply could not before. This newfound developer freedom and systemic efficiency for the miners will drive more great minds to the protocol, fostering new ideas which will help the network continue to flourish.</p>\n</blockquote>\n\n<p><a href=\"https://bitcoinmagazine.com/technical/understanding-taproot-in-a-simple-way\">https://bitcoinmagazine.com/technical/understanding-taproot-in-a-simple-way</a></p>\n</div><!-- SC_ON -->",
+  "score": 167,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?auto=webp&s=1a5eb0a8896d6dbc5d5bd35675e1f577d702ff81",
+          "width": 1200,
+          "height": 644
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?width=108&crop=smart&auto=webp&s=1e42078baa817e937315c14407ee845e75fbd2c1",
+            "width": 108,
+            "height": 57
+          },
+          {
+            "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?width=216&crop=smart&auto=webp&s=bf192b01a28a9a310a30129b107332b1d5d11e2a",
+            "width": 216,
+            "height": 115
+          },
+          {
+            "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?width=320&crop=smart&auto=webp&s=f48677223e4525c6b27445fed6791000a6412048",
+            "width": 320,
+            "height": 171
+          },
+          {
+            "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?width=640&crop=smart&auto=webp&s=101906cc886ed6860f34dabb1812024a74d77db5",
+            "width": 640,
+            "height": 343
+          },
+          {
+            "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?width=960&crop=smart&auto=webp&s=7d70ce2ffc01df3c213632407a0f9f75735e8c6f",
+            "width": 960,
+            "height": 515
+          },
+          {
+            "url": "https://external-preview.redd.it/b8no47ce7QJPWkB8s8FpgGBPCIkLW03v84qwH7QsX0k.jpg?width=1080&crop=smart&auto=webp&s=c249701922b5caa4f4e39bd3537231fa3d701bc5",
+            "width": 1080,
+            "height": 579
+          }
+        ],
+        "variants": {},
+        "id": "kgmPHW38q8tf231FCOwbi4AJvfAS6rTedtQ_EXogHlc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/qss4rq/everybody_here_should_read_this_understanding/",
+  "subreddit": "Bitcoin",
+  "id": "qss4rq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "> Understanding exactly what about the Bitcoin network implementing Taproot\n> changes is necessary for understanding why the changes were needed. Taproot is\n> the combination of many Bitcoin Improvement Proposals (BIPs) resulting in a\n> soft fork of Bitcoin’s blockchain. A soft fork is a proposed…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "> タップルートを導入したビットコインネットワークの特徴を正確に理解することは\n> を実装したビットコインネットワークのどこがどう変わったのかを正確に理解することは、なぜその変更が必要だったかを理解するために必要です。タプルートは\n> 多くのビットコイン改善提案（BIP）を組み合わせて、ビットコインのブロックチェーンを\n> ビットコインのブロックチェーンをソフトフォークしたものです。ソフトフォークとは、提案された...",
+      "title": "ここにいる全員がこれを読むべきだ。タップルートをシンプルに理解するために 待望のアップグレードは、週末にロールアウトされ、ビットコインをより良い方向に変えます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "> 了解比特币网络到底是什么在实施Taproot\n> 的变化，是理解为什么需要这些变化的必要条件。Taproot是\n> 许多比特币改进提案（BIPs）的组合，导致一个\n> 比特币区块链的软分叉。软分叉是一个拟议的...",
+      "title": "这里的每个人都应该阅读这个。以简单的方式了解Taproot。这个备受期待的升级将在周末推出，为比特币带来更好的改变。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "> 瞭解比特幣網絡到底是什麼在實施Taproot\n> 的變化，是理解爲什麼需要這些變化的必要條件。Taproot是\n> 許多比特幣改進提案（BIPs）的組合，導致一個\n> 比特幣區塊鏈的軟分叉。軟分叉是一個擬議的...",
+      "title": "這裏的每個人都應該閱讀這個。以簡單的方式瞭解Taproot。這個備受期待的升級將在週末推出，爲比特幣帶來更好的改變。"
+    }
+  ]
+}

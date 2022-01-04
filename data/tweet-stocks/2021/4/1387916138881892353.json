@@ -1,0 +1,77 @@
+{
+  "created_at": "Fri Apr 30 1:18:30 +0000 2021",
+  "id_str": "1387916138881892353",
+  "full_text": "Facebook is doing slightly more revenue than Twitter https://t.co/bvf1FLlXsR",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1387915942684934100,
+        "id_str": "1387915942684934150",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/media/E0LeMkXWQAYR7yc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E0LeMkXWQAYR7yc.jpg",
+        "url": "https://t.co/bvf1FLlXsR",
+        "display_url": "pic.twitter.com/bvf1FLlXsR",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1387916138881892353/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 483,
+            "h": 427,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 483,
+            "h": 427,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 483,
+            "h": 427,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 73,
+  "favorite_count": 990,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Apr 29 23:46:08 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "フェイスブックはツイッターよりもわずかに収益を上げている https://t.co/bvf1FLlXsR"
+    },
+    {
+      "locale": "zh",
+      "full_text": "Facebook的收入比Twitter略高https://t.co/bvf1FLlXsR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "Facebook的收入比Twitter略高https://t.co/bvf1FLlXsR"
+    }
+  ],
+  "source_updated_at": 1620380972313
+}

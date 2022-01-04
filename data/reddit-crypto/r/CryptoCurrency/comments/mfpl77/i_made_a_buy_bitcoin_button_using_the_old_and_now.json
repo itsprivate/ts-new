@@ -1,0 +1,74 @@
+{
+  "author": "rayfin",
+  "the_new_excerpt": "Hello and happy Monday.\n\nA few weeks ago, with the help of a couple online resources, I made a \"Buy\nBitcoin Button\". First, a little backstory about these buttons for those that\naren't familiar with them.\n\nYears ago, Amazon released \"Dash [https://en.wikipedia.org/wiki/Amazon_Dash]\"\nbuttons. These…",
+  "original_created_utc": 1617024525,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，周一快乐。\n\n几周前，在几个在线资源的帮助下，我做了一个 \"买\"。\n比特币按钮\"。首先，关于这些按钮的一些背景故事，为那些\n并不熟悉他们。\n\n几年前，亚马逊发布了 \"Dash[https://en.wikipedia.org/wiki/Amazon_Dash]\"\n按钮。这些...",
+      "title": "我用旧的、现在已经停用的亚马逊Dash按钮做了一个 \"购买比特币按钮\"。这是一个字面上的按钮，当按下时，购买比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，週一快樂。\n\n幾周前，在幾個在線資源的幫助下，我做了一個 \"買\"。\n比特幣按鈕\"。首先，關於這些按鈕的一些背景故事，爲那些\n並不熟悉他們。\n\n幾年前，亞馬遜發佈了 \"Dash[https://en.wikipedia.org/wiki/Amazon_Dash]\"\n按鈕。這些...",
+      "title": "我用舊的、現在已經停用的亞馬遜Dash按鈕做了一個 \"購買比特幣按鈕\"。這是一個字面上的按鈕，當按下時，購買比特幣。"
+    }
+  ],
+  "title": "I made a \"Buy Bitcoin Button\" using the old and now defunct Amazon Dash Buttons. It's literally a button, that when pressed, buys Bitcoin.",
+  "created_utc": 1617066747,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hello and happy Monday.</p>\n\n<p>A few weeks ago, with the help of a couple online resources, I made a &quot;Buy Bitcoin Button&quot;. First, a little backstory about these buttons for those that aren&#39;t familiar with them.</p>\n\n<p>Years ago, Amazon released &quot;<a href=\"https://en.wikipedia.org/wiki/Amazon_Dash\">Dash</a>&quot; buttons. These little IoT devices allowed users to press a large button on them and they would instantly place an order for the product that the button represented. For example if using the Bounty paper towels Dash button, if you were out of paper towels, you could press the button on the little gadget to get more. Pressing this button would trigger an Amazon order of a pre-selected quantity of Bounty paper towels. They also made buttons for many things including Cliff bars, Tampax, etc. The buttons were essentially free when first launched. I believe they cost $5, but also came with a $5 credit towards your first purchase of the product the button represented. Anyways, I ended up getting 6 of them, because they were basically free, and why the hell not?</p>\n\n<p>Fast forward a few years and I think I only used them a few times. While a neat idea, they had some flaws, such as if the item you had configured to buy or quantity, was no longer in stock or the price was now more expansive than your local store, etc. The product failed. Amazon no longer supports these devices. I&#39;ve had mine sitting in a tech junk drawer for years.</p>\n\n<p>But that doesn&#39;t mean they&#39;re dead! You can use them for fun things, such as buying crypto! To get started, you&#39;ll need an old Amazon Dash button. If you don&#39;t have one, maybe you can find one on eBay.</p>\n\n<p>Next, you&#39;ll need a Linux box. You&#39;ll use this Linux machine to run a &quot;fake&quot; Amazon Dash service and a script to make the actual Bitcoin purchase. I used a Raspberry Pi 4 to accomplish this task.</p>\n\n<p>Now this is where the fun begins. Visit this <a href=\"https://github.com/Nekmo/amazon-dash\">Python Amazon Dash GitHub repo</a>.</p>\n\n<p>This is where you&#39;ll run the &quot;fake&quot; Amazon Dash service on your own network. Normally, when pressing the Amazon Dash button, the button makes a call out to Amazon&#39;s web servers. Well, they&#39;re dead now and we don&#39;t want that to happen anyways. So, you need to run a service on your own network that looks for an Amazon Dash button and intercepts outgoing calls to Amazon.</p>\n\n<p>Clone the GitHub repo, follow all of the instructions to setup and configure your Amazon Dash button. Make sure the program can see and find your Dash button.</p>\n\n<p>You&#39;ll notice that you can configure your Dash buttons to do various things here from IFTTT recipes to various smart home commands, to web calls, to local scripts. For the purpose of this tutorial, we&#39;re going to want to use the system command option. We&#39;ll edit this later.</p>\n\n<p>Now that we have a control over an Amazon Dash button, it&#39;s time to implement actually buying Bitcoin. Next, you&#39;ll need to have an exchange account with an exchange that allows purchases to be made via API. You&#39;ll then use the API to create a command line script that executes a market buy order on the exchange that you chose. For this example, I chose Coinbase Pro and their API.</p>\n\n<p>You&#39;ll want to clone this <a href=\"https://github.com/kdmukai/gdax_bot\">GDAX Bot GitHub repo</a> if you have a Coinbase account. If not, you&#39;ll need to find a similar script for your exchange and configure it.</p>\n\n<p>Once you have the script cloned, you&#39;ll need to configure it with your Coinbase Pro API information. You&#39;ll need to visit your Coinbase Pro account and select API settings, create a new API, configure the permissions, and enter all of the API keys into the GDAX Bot variables.</p>\n\n<p>This script allows you to buy any Crypto from Coinbase Pro for any fiat amount that you specify. In my example, I am using BTC-USD for a specified market order amount of $100 USD.</p>\n\n<p>I would highly recommend testing this with the Coinbase Pro <a href=\"https://public.sandbox.pro.coinbase.com/\">SANDBOX</a>. You&#39;ll need to create a separate Sandbox API key. You&#39;ll need to add money to your Sandbox account if you haven&#39;t already. The linked bank accounts aren&#39;t really yours, so enter a large amount and become a millionaire. It&#39;s just test data.</p>\n\n<p>Once you have GDAX Bot configured, you can attempt to try a command line test. Here is my example command:</p>\n\n<p><code>python3 gdax_bot.py BTC-USD BUY 100 USD -sandbox -c gdax_bot_settings-local.conf</code></p>\n\n<p>You&#39;ll want to then visit the Coinbase Pro orders section and wait for your order to show up and be executed. It can take a few minutes on the Sandbox.</p>\n\n<p>Next, you&#39;ll need to create a script for buying Bitcoin. I created the following script named <a href=\"https://buyBTC.sh\">buyBTC.sh</a>.</p>\n\n<p><code>vim buyBTC.sh</code></p>\n\n<p>Enter:</p>\n\n<p><code>echo &quot;Time: $(date)&quot; &gt;&gt; /home/pi/gdax_bot/debug.log</code><br/>\n<code>python3 /home/pi/gdax_bot/gdax_bot.py BTC-USD BUY 100 USD -sandbox -c home/pi/gdax_bot_settings-local.conf &gt;&gt; /home/pi/gdax_bot/debug.log</code></p>\n\n<p>Save the script. And then make it executable.</p>\n\n<p><code>chmod +x buyBTC.sh</code></p>\n\n<p>You can then test the script by running it.</p>\n\n<p><code>./buyBTC.sh</code></p>\n\n<p>The script should create a debug.log output file that you can use to troubleshoot if needed.  If everything goes according to plan, you should get another buy order on the Coinbase Pro Sandbox. Again, at least on Sandbox, this can take a few minutes.</p>\n\n<p>Lastly, we need to tie it all together. Edit your <code>/etc/amazon-dash.yaml</code> file again to point to the script that you made to buy Bitcoin. In my example, this is the buyBTC.sh script that we just made.</p>\n\n<p><code>cmd: /home/pi/gdax_bot/./buyBTC.sh # Command to execute</code></p>\n\n<p>Now, when pressing the Amazon Dash button, the Amazon Dash daemon that you created and tested in the beginning will execute the buyBTC script. This script will then fire off the GDAX Bot command to buy your specified amount of BTC from Coinbase Pro. If the order does not show up, view your debug.log file.</p>\n\n<p>You can customize as many Amazon Dash buttons as you&#39;d like for as many Buy Crypto buttons as you&#39;d like. You can create as many buy scripts as you&#39;d like for as many buttons as you have. Please test each one accordingly with the sandbox API for your exchange of choice.</p>\n\n<p>Now that the fun is out of the way, I&#39;d like to say that this guy is strictly only for fun. I never implemented these personally outside of Sandbox. I only used this as a proof of concept so I could say hey honey, look at me, I can press this button and buy magical internet money, pretty cool huh? (The wife wasn&#39;t as impressed as I was, your mileage may vary.)</p>\n\n<p><strong>If you decide to implement this in production, please note that I will not be held responsible for any accidental button pushes. This will 100% buy whatever you have configured to buy. Please use this at your own risk.</strong></p>\n\n<p>&#x200B;</p>\n\n<p>Edit: I used my Photoshop skills on my old buttons. <a href=\"https://i.imgur.com/3SOa9Th.jpg\">Enjoy</a>.</p>\n</div><!-- SC_ON -->",
+  "score": 202,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?auto=webp&s=772af9e5e259729288fe21b650c43b1ee8769445",
+          "width": 3024,
+          "height": 4032
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?width=108&crop=smart&auto=webp&s=ac0da368e26d8b5b950d503f9f2f9c78ae695a4b",
+            "width": 108,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?width=216&crop=smart&auto=webp&s=cfb0a4152cb5431221e923031f63aa0906daf54b",
+            "width": 216,
+            "height": 288
+          },
+          {
+            "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?width=320&crop=smart&auto=webp&s=a906b267073a1d011b83cb0d55c8d24c97552232",
+            "width": 320,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?width=640&crop=smart&auto=webp&s=9c8cfcce9a72828ab088718211ac12f5d1b29c69",
+            "width": 640,
+            "height": 853
+          },
+          {
+            "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?width=960&crop=smart&auto=webp&s=7209aab36d40f1c384ceb78ca380dd3d47aeb5eb",
+            "width": 960,
+            "height": 1280
+          },
+          {
+            "url": "https://external-preview.redd.it/gQQ0l4YTqVe9XrNYhsZ360m1CaWJJ-Ui6LILEFjq2yA.jpg?width=1080&crop=smart&auto=webp&s=0ace2bc88960180da01e9a1616585e3f3a0f5d45",
+            "width": 1080,
+            "height": 1440
+          }
+        ],
+        "variants": {},
+        "id": "U05B_t_taBR2RMm0L0fSN3LbsTdRu7Wax8pMmGhzGWs"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mfpl77/i_made_a_buy_bitcoin_button_using_the_old_and_now/",
+  "subreddit": "CryptoCurrency",
+  "id": "mfpl77",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617357138657
+}

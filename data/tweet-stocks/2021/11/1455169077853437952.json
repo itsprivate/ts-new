@@ -1,0 +1,85 @@
+{
+  "created_at": "Mon Nov 01 14:36:21 +0000 2021",
+  "id_str": "1455169077853437952",
+  "full_text": "The Dow hits 36,000 for the first time, 21 years after the \"Dow 36,000\" book was released in 1999. $DJIA https://t.co/0pwTFxePoV",
+  "display_text_range": [
+    0,
+    104
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "DJIA",
+        "indices": [
+          99,
+          104
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1455168922450382800,
+        "id_str": "1455168922450382849",
+        "indices": [
+          105,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/media/FDHMbNbX0AETUz8.png",
+        "media_url_https": "https://pbs.twimg.com/media/FDHMbNbX0AETUz8.png",
+        "url": "https://t.co/0pwTFxePoV",
+        "display_url": "pic.twitter.com/0pwTFxePoV",
+        "expanded_url": "https://twitter.com/charliebilello/status/1455169077853437952/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 538,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 672,
+            "h": 849,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 672,
+            "h": 849,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 161,
+  "favorite_count": 565,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Nov 01 13:45:18 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "1999年に「Dow 36,000」が発売されてから21年目にして、ダウが初めて36,000を達成しました。$DJIA https://t.co/0pwTFxePoV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "道琼斯指数首次达到36,000点，这是在1999年《道琼斯指数36,000点》一书发行21年之后。$DJIA https://t.co/0pwTFxePoV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "道瓊斯指數首次達到36,000點，這是在1999年《道瓊斯指數36,000點》一書發行21年之後。$DJIA https://t.co/0pwTFxePoV"
+    }
+  ],
+  "source_updated_at": 1636105293710
+}

@@ -1,0 +1,78 @@
+{
+  "author": "Fittiboy",
+  "original_created_utc": 1629036691,
+  "title": "Lightning Addresses are a thing now!",
+  "created_utc": 1629091838,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Zebedee CTO André Neves has built <a href=\"https://github.com/andrerfneves/lightning-address\">a spec</a> for <a href=\"https://lightningaddress.com\">lightning addresses</a>.</p>\n\n<p>For example, I can now receive payments not only at [<a href=\"mailto:fittiboy@lntxbot.com\">fittiboy@lntxbot.com</a>](mailto:<a href=\"mailto:fittiboy@lntxbot.com\">fittiboy@lntxbot.com</a>), and [<a href=\"mailto:fitti@zbd.gg\">fitti@zbd.gg</a>](mailto:<a href=\"mailto:fitti@zbd.gg\">fitti@zbd.gg</a>), but also at my own domain, [<a href=\"mailto:tips@fitti.io\">tips@fitti.io</a>](mailto:<a href=\"mailto:tips@fitti.io\">tips@fitti.io</a>). There are many ways to set this up, from fully custodial (lntxbot and zebedee), to fully self-hosted (my <a href=\"https://fitti.io\">fitti.io</a> domain). There are also steps in between.</p>\n\n<p>You can set up some DNS records and use fiatjaf&#39;s <a href=\"https://bridgeaddr.fiatjaf.com/\">bridge server</a> to use your own domain and node, but have the server handle the requests.</p>\n\n<p>You can also use fiatjaf&#39;s <a href=\"https://github.com/fiatjaf/satdress\">satdress</a> server and either self-host – using your own domain and node – or  use someone else&#39;s instance (like <a href=\"https://ln.fitti.io\">ln.fitti.io</a>). In the latter case, you use their domain, but your own node.</p>\n\n<p>This builds on top of lnurl&#39;s lnurl-pay subprotocol, which makes it very easy to implement.</p>\n\n<p>The amazing part about this is that it seamlessly opens up the ability for sats to flow between different platforms. You could use your Zebedee wallet to send [<a href=\"mailto:jack@twitter.com\">jack@twitter.com</a>](mailto:<a href=\"mailto:jack@twitter.com\">jack@twitter.com</a>) some sats because he retweeted you and you gained some followers. You could send sats to [<a href=\"mailto:someone@strike.me\">someone@strike.me</a>](mailto:<a href=\"mailto:someone@strike.me\">someone@strike.me</a>), instead of having to go to <a href=\"https://strike.me/someone\">strike.me/someone</a> first, and generating an invoice. Like what &quot;username&quot; said in a Telegram group? [<a href=\"mailto:username@lntxbot.com\">username@lntxbot.com</a>](mailto:<a href=\"mailto:username@lntxbot.com\">username@lntxbot.com</a>) is already a thing, you can already send to that from lntxbot and LNbits!</p>\n\n<p>I can easily see this gaining a lot of traction, especially since &quot;Paying to static internet identifiers&quot; (the <em>sending</em> part of this protocol) is part of the <a href=\"https://github.com/fiatjaf/lnurl-rfc/blob/luds/16.md\">lnurl-rfc</a> now, and Zebedee is immediately implementing it.</p>\n\n<p>Let me actually demonstrate how trivial this is for services to implement.</p>\n\n<p>Sending to [<a href=\"mailto:username@example.org\">username@example.org</a>](mailto:<a href=\"mailto:username@example.org\">username@example.org</a>):</p>\n\n<ol>\n<li>Look up <a href=\"https://example.org/.well-known/lnurlp/username\">https://<strong><em>example.org</em></strong>/.well-known/lnurlp/<strong><em>username</em></strong></a></li>\n<li>Pay to the lnurl-pay link you found in step 2</li>\n</ol>\n\n<p>Receiving at [<a href=\"mailto:username@example.org\">username@example.org</a>](mailto:<a href=\"mailto:username@example.org\">username@example.org</a>):</p>\n\n<ol>\n<li>Serve your lnurl-pay link at <a href=\"https://example.org/.well-known/lnurlp/username\">https://<strong><em>example.org</em></strong>/.well-known/lnurlp/<strong><em>username</em></strong></a></li>\n</ol>\n\n<p>Since I already had lnurl-pay links set up on <a href=\"https://fitti.io\">fitti.io</a> via <a href=\"https://github.com/lnbits/lnbits\">LNbits</a>, it took <em>me less than 10 minutes</em> to read the spec and implement it.</p>\n</div><!-- SC_ON -->",
+  "score": 165,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?auto=webp&s=1a52b0a4d710cc9acd0ff4b914b415e29d147c32",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?width=108&crop=smart&auto=webp&s=21829990f285471c3ddb0439ab3876f5c101e189",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?width=216&crop=smart&auto=webp&s=81217784d87c0d8d6b0aac39ecb41d8726da23a3",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?width=320&crop=smart&auto=webp&s=b3989373067e8445962bc0e9b2cf1b325c862e11",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?width=640&crop=smart&auto=webp&s=bef304c9dfa3f4139192631d33880742b10e5d83",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?width=960&crop=smart&auto=webp&s=9aee431bb72398d4179cc1bc29a2f8e2adb68648",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/cNKbXxsJs16ucxINFgqsPuYg-kdccAi83_chhJYr60Q.jpg?width=1080&crop=smart&auto=webp&s=636212983cea21560fbfa536bab32de107ac1bc0",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "yXJMplD5D8SvCktQPhrHV0j2u_i6jWCxASDXAPNXzPo"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/p4u6sv/lightning_addresses_are_a_thing_now/",
+  "subreddit": "Bitcoin",
+  "id": "p4u6sv",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Zebedee CTO André Neves has built a spec\n[https://github.com/andrerfneves/lightning-address] for lightning addresses\n[https://lightningaddress.com].\n\nFor example, I can now receive payments not only at\n[fittiboy@lntxbot.com](mailto:fittiboy@lntxbot.com), and\n[fitti@zbd.gg](mailto:fitti@zbd.gg), but…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ZebedeeのCTOであるAndré Neves氏が構築したスペック\n[https://github.com/andrerfneves/lightning-address] ライトニングアドレスの\n[https://lightningaddress.com]を開発しました。\n\n例えば、支払いを受け取ることができるようになっただけでなく\n[fittiboy@lntxbot.com](mailto:fittiboy@lntxbot.com), および\n[fitti@zbd.gg](mailto:fitti@zbd.gg)だけでなく、...",
+      "title": "ライトニングアドレスは、今では当たり前になっています"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Zebedee首席技术官André Neves已经建立了一个规格\n[https://github.com/andrerfneves/lightning-address]的闪电地址\n[https://lightningaddress.com]。\n\n例如，我现在不仅可以在以下地点收到付款\n[fittiboy@lntxbot.com](mailto:fittiboy@lntxbot.com), 和\n[fitti@zbd.gg](mailto:fitti@zbd.gg)，而且...",
+      "title": "现在有了闪电地址这个东西!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Zebedee首席技術官André Neves已經建立了一個規格\n[https://github.com/andrerfneves/lightning-address]的閃電地址\n[https://lightningaddress.com]。\n\n例如，我現在不僅可以在以下地點收到付款\n[fittiboy@lntxbot.com](mailto:fittiboy@lntxbot.com), 和\n[fitti@zbd.gg](mailto:fitti@zbd.gg)，而且...",
+      "title": "現在有了閃電地址這個東西!"
+    }
+  ]
+}

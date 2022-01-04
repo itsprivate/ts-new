@@ -1,0 +1,54 @@
+{
+  "author": "Robindinho",
+  "the_new_excerpt": "TLDR: You can use the link to download a template excel file that allows you to\ninput profit taking levels based on your risk and predicted bitcoin, ethereum\netc price that you give with a 95% confidence interval.\n\nLink:\nGoogle…",
+  "original_created_utc": 1619083129,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TLDR: このリンクからテンプレートとなるエクセルファイルをダウンロードして、以下のことができます。\n予測したビットコインやイーサリアムなどの価格を95％の信頼区間で計算し、リスクに応じた利益確定レベルを入力することができます。\nなどの価格に基づいて利益確定レベルを入力することができます。\n\nリンク\nGoogle...",
+      "title": "正規分布に基づいた出口戦略計算機を作りましたので、どなたでも無料でお使いいただけます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TLDR: 你可以使用该链接下载一个模板excel文件，允许你\n根据你的风险和预测的比特币、以太坊等价格输入获利水平，并给出95%的置信区间。\n等的价格，并给出95%的置信区间。\n\n链接。\n谷歌...",
+      "title": "我做了一个基于正态分布的退出策略计算器，它可以免费供大家使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TLDR: 你可以使用該鏈接下載一個模板excel文件，允許你\n根據你的風險和預測的比特幣、以太坊等價格輸入獲利水平，並給出95%的置信區間。\n等的價格，並給出95%的置信區間。\n\n鏈接。\n谷歌...",
+      "title": "我做了一個基於正態分佈的退出策略計算器，它可以免費供大家使用。"
+    }
+  ],
+  "title": "I made an exit strategy calculator based on the normal distribution and it's free for all to use.",
+  "created_utc": 1619106691,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>TLDR: You can use the link to download a template excel file that allows you to input profit taking levels based on your risk and predicted bitcoin, ethereum etc price that you give with a 95% confidence interval.  </p>\n\n<p>Link:<br/>\nGoogle Docs: <a href=\"https://docs.google.com/spreadsheets/d/1ldQFAnK1VQODfIZUI_mfm3368V2GGAcaxsii_QtEpcs/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1ldQFAnK1VQODfIZUI_mfm3368V2GGAcaxsii_QtEpcs/edit?usp=sharing</a><br/>\nMediafire:<br/>\n<a href=\"https://www.mediafire.com/file/mnlnv8ys8x07rsi/Crypto_Normal_Distribution_Model.xlsx/file\">https://www.mediafire.com/file/mnlnv8ys8x07rsi/Crypto_Normal_Distribution_Model.xlsx/file</a>  </p>\n\n<p>Many of us here don&#39;t yet have a solid exit strategy so I have devised a model based on the normal distribution. Even between institutions, no one can decide the predicted bitcoin price for the end of this bull cycle, so giving users a 95% confidence interval for where they believe bitcoin will peak is crucial.  </p>\n\n<p>Users input their predicted bitcoin price (or equivalent for each asset) and their expected 95% confidence interval. You can then choose at which risk levels you want to take profits, e.g. I want to sell 10% when the probability of being at peak price is 50%, another 10% at probability of peak price being 60%, etc.  </p>\n\n<p>Using probability, the total expected sales of the asset based on the prices you sell at and how much, allow us to calculate both a cash profit/loss (not including leftover crypto which hasn&#39;t been sold). To add further value, users can predict what % the market will crash to (set to 40% as default). From this, a total P/L can then be calculated, including both realised value (from crypto sold) and crypto left over after the crash.  </p>\n\n<p>Hope this is helpful to some of those looking for an exit strategy based on probability and risk, rather than psychological many &#39;crypto influencers&#39; suggest.  </p>\n\n<p>Feel free to leave comments for potential improvement and other tools you may like to see.</p>\n</div><!-- SC_ON -->",
+  "score": 342,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/cmLH5_KhNpwuUXn0_L5DIhSm5epCL070q6Txqz5c5Ro.jpg?auto=webp&s=27cae616f896fab4438f69a43f28967881f190c7",
+          "width": 192,
+          "height": 192
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/cmLH5_KhNpwuUXn0_L5DIhSm5epCL070q6Txqz5c5Ro.jpg?width=108&crop=smart&auto=webp&s=a59d442517fe2a7de37b209f6f0f99373690086f",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "zcxtbc2oJ6aU3Oi_qaGrQRE7Yp7xzBH4hoZq-RlMgdA"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mw0v8x/i_made_an_exit_strategy_calculator_based_on_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "mw0v8x",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619776207018
+}

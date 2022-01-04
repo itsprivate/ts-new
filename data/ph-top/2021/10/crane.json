@@ -1,0 +1,100 @@
+{
+  "id": "316466",
+  "commentsCount": 2,
+  "createdAt": "2021-10-19T14:19:38.741Z",
+  "description": "Crane is a docker image builder to approach light-weight ML users who want to expand a container image with custom apt/conda/pip packages without writing any Dockerfile.",
+  "featuredAt": "2021-10-19T07:01:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/176b8618-e1ab-4110-bac6-43674ae4dae3.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7733313c-7bf8-4eb1-ae9e-2b7fe93163c2.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3fcb93c2-0543-4774-9390-ae88ac47d913.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/54f4482c-35de-488a-9467-3a5ebfa4054a.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/878e1560-1354-44a9-a063-8559d1ee39ea.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Crane",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/1ca542e2ac17f2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Aaron Huang",
+    "url": "https://www.producthunt.com/@aar0ntw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 1,
+  "reviewsRating": 5,
+  "slug": "crane",
+  "tagline": "An easy and beautiful way to build container images",
+  "url": "https://www.producthunt.com/posts/crane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 78,
+  "website": "https://www.producthunt.com/r/1ca542e2ac17f2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Windows"
+        }
+      },
+      {
+        "node": {
+          "name": "Mac"
+        }
+      },
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Craneは、Dockerfileを書かずにカスタムのapt/conda/pipパッケージでコンテナイメージを拡張したいライトウェイトなMLユーザーにアプローチするためのdockerイメージビルダーです。",
+      "tagline": "コンテナイメージを簡単かつ美しく構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Crane是一个docker镜像生成器，以接近轻量级的ML用户，他们想用定制的apt/conda/pip包来扩展容器镜像，而无需编写任何Dockerfile。",
+      "tagline": "构建容器图像的一种简单而漂亮的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Crane是一個docker鏡像生成器，以接近輕量級的ML用戶，他們想用定製的apt/conda/pip包來擴展容器鏡像，而無需編寫任何Dockerfile。",
+      "tagline": "構建容器圖像的一種簡單而漂亮的方式"
+    }
+  ],
+  "source_updated_at": 1634895645752
+}

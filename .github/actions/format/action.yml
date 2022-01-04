@@ -1,0 +1,13 @@
+name: "Hello World"
+description: "Greet someone and record the time"
+inputs:
+  function: # id of input
+    description: "function"
+    required: true
+    default: "reddit"
+outputs:
+  success: # id of output
+    description: "The time we greeted you"
+runs:
+  using: "node12"
+  main: "dist/index.js"

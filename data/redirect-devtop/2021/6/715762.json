@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 715762,
+  "title": "Why local development for serverless is an anti-pattern",
+  "description": "Developing locally when building a serverless application is not only tiresome and hard to do its actually bad for you",
+  "readable_publish_date": "Jun 2",
+  "slug": "why-local-development-for-serverless-is-an-anti-pattern-1d9b",
+  "path": "/garethmcc/why-local-development-for-serverless-is-an-anti-pattern-1d9b",
+  "url": "https://dev.to/garethmcc/why-local-development-for-serverless-is-an-anti-pattern-1d9b",
+  "comments_count": 27,
+  "public_reactions_count": 50,
+  "collection_id": null,
+  "published_timestamp": "2021-06-02T07:56:03Z",
+  "positive_reactions_count": 50,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/715762.png",
+  "canonical_url": "https://dev.to/garethmcc/why-local-development-for-serverless-is-an-anti-pattern-1d9b",
+  "created_at": "2021-06-03T12:21:27.516Z",
+  "edited_at": "2021-06-02T08:08:19Z",
+  "crossposted_at": null,
+  "published_at": "2021-06-02T07:56:03Z",
+  "last_comment_at": "2021-06-03T12:10:43Z",
+  "reading_time_minutes": 7,
+  "tag_list": [
+    "serverless",
+    "aws",
+    "testing"
+  ],
+  "tags": [
+    "serverless",
+    "aws",
+    "testing"
+  ],
+  "user": {
+    "name": "Gareth McCumskey",
+    "username": "garethmcc",
+    "twitter_username": "garethmcc",
+    "github_username": "garethmcc",
+    "website_url": "https://gareth.mccumskey.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6F474LyT--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/101010/3404384c-52b3-4893-90f7-5478758704a1.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--ToZKG6Cu--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/101010/3404384c-52b3-4893-90f7-5478758704a1.jpeg"
+  },
+  "original_created_at": "2021-06-02T07:42:42Z",
+  "image": "https://dev.to/social_previews/article/715762.png",
+  "author": "Gareth McCumskey",
+  "author_url": "https://dev.to/garethmcc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーレスアプリケーションを構築する際にローカルで開発することは、面倒で大変なだけでなく、実は体にも良くありません。",
+      "title": "サーバーレスのローカル開発がアンチパターンである理由"
+    },
+    {
+      "locale": "zh",
+      "description": "在构建无服务器应用程序时，在本地开发不仅令人厌烦，而且很难做到，实际上对你不利。",
+      "title": "为什么无服务器的本地开发是一种反模式？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在構建無服務器應用程序時，在本地開發不僅令人厭煩，而且很難做到，實際上對你不利。",
+      "title": "爲什麼無服務器的本地開發是一種反模式？"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+on:
+  script:
+    path: ./scripts/poll-new-issues.js
+    config:
+      # limit: 3
+      # every: "35 10 * * *"
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: print
+        run: echo 'Send ${{on.script.outputs.type }} message ${{ on.script.outputs.message }}'
+      - name: Send a telegram message
+        id: telegram
+        if: on.script.outputs.type=="telegram" && on.script.outputs.telegram_chat_id
+        uses: appleboy/telegram-action@v0.1.0
+        continue-on-error: true
+        with:
+          # to: "-1001462218950"
+          to: ${{ on.script.outputs.telegram_chat_id }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          format: html
+          message: |
+            ${{ on.script.outputs.message }}
+      - name: Generate a sent flag
+        if: on.script.outputs.type=="telegram" && on.script.outputs.telegram_chat_id
+        uses: actions/github-script@v3
+        env:
+          ITEM_ID: ${{on.script.outputs.id}}
+          ITEM_STATUS: ${{ steps.telegram.success }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const set = require(`${process.env.GITHUB_WORKSPACE}/scripts/set.js`)
+            const t = new Date().toISOString()
+            const status = process.env.ITEM_STATUS=='true'?'success':"failure"
+            await set('data/db/issue-sent.json',process.env.ITEM_ID,{
+              s: status,
+              t:t
+            })
+            return true
+      - name: sleep for ifttt
+        if: on.script.outputs.type=="ifttt"
+        run: sleep 2m
+      - name: Send a message to ifttt
+        id: ifttt
+        if: on.script.outputs.type=="ifttt"
+        continue-on-error: true
+        uses: actionsflow/ifttt-webhook-action@v1
+        with:
+          key: ${{secrets.IFTTT_KEY}}
+          event: ${{ on.script.outputs.event }}
+          value1: ${{ on.script.outputs.message }}
+      - name: Generate a sent flag for ifttt
+        if: on.script.outputs.type=="ifttt"
+        uses: actions/github-script@v3
+        env:
+          ITEM_ID: ${{on.script.outputs.id}}
+          ITEM_STATUS: ${{ steps.ifttt.success }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const set = require(`${process.env.GITHUB_WORKSPACE}/scripts/set.js`)
+            const t = new Date().toISOString()
+            const status = process.env.ITEM_STATUS=='true'?'success':"failure"
+            await set('data/db/issue-sent.json',process.env.ITEM_ID,{
+              s:status,
+              t:t
+            })
+            return true

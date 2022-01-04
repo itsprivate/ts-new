@@ -1,0 +1,133 @@
+{
+  "created_at": "Fri Jan 22 9:18:31 +0000 2021",
+  "id_str": "1352544577283088386",
+  "full_text": "RT @aantonop: Today there were headlines about a \"double-spend\" in #bitcoin! Many took that to mean that bitcoin has a catastrophic flaw (i…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          67,
+          75
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "aantonop",
+        "name": "Andreas M. Antonopoulos",
+        "id": 1469101279,
+        "id_str": "1469101279",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 341,
+  "favorite_count": 0,
+  "original_created_at": "Fri Jan 22 09:12:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT@aantonop。今天的头条新闻是关于#比特币的 \"双倍消费\"%! 很多人认为这意味着比特币有一个灾难性的缺陷（即...",
+      "retweeted_status_full_text": "今天有头条新闻说#比特币%%的 \"双花\"！这意味着比特币有灾难性的缺陷（没有）或网络不安全（没有）或比特币有某种程度的损坏（没有）。许多人认为这意味着比特币有一个灾难性的缺陷（它没有）或网络不安全（它是）或比特币在某种程度上被打破（它不是）。揭穿FUD：https://t.co/TjB8t1NJf9 https://t.co/BQ66WYkJHc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@aantonop。今天的頭條新聞是關於#比特幣的 \"雙倍消費\"%! 很多人認爲這意味着比特幣有一個災難性的缺陷（即...",
+      "retweeted_status_full_text": "今天有頭條新聞說#比特幣%%的 \"雙花\"！這意味着比特幣有災難性的缺陷（沒有）或網絡不安全（沒有）或比特幣有某種程度的損壞（沒有）。許多人認爲這意味着比特幣有一個災難性的缺陷（它沒有）或網絡不安全（它是）或比特幣在某種程度上被打破（它不是）。揭穿FUD：https://t.co/TjB8t1NJf9 https://t.co/BQ66WYkJHc"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Fri Jan 22 03:08:08 +0000 2021",
+    "id_str": "1352452964468871170",
+    "full_text": "Today there were headlines about a \"double-spend\" in #bitcoin! Many took that to mean that bitcoin has a catastrophic flaw (it doesn't) or the network is not secure (it is) or that bitcoin is somehow broken (it's not). Debunking the FUD: https://t.co/TjB8t1NJf9 https://t.co/BQ66WYkJHc",
+    "display_text_range": [
+      0,
+      261
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            53,
+            61
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TjB8t1NJf9",
+          "expanded_url": "https://youtu.be/hixM4u7ep58?t=352",
+          "display_url": "youtu.be/hixM4u7ep58?t=…",
+          "indices": [
+            238,
+            261
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1352452961285382100,
+          "id_str": "1352452961285382152",
+          "indices": [
+            262,
+            285
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsTgzXzXIAg0EZT.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsTgzXzXIAg0EZT.jpg",
+          "url": "https://t.co/BQ66WYkJHc",
+          "display_url": "pic.twitter.com/BQ66WYkJHc",
+          "expanded_url": "https://twitter.com/aantonop/status/1352452964468871170/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Andreas M. Antonopoulos",
+      "screen_name": "aantonop",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201322457912795137/F2IOy2T5_normal.jpg"
+    },
+    "retweet_count": 341,
+    "favorite_count": 1208,
+    "possibly_sensitive": false
+  }
+}

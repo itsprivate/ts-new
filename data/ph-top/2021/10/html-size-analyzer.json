@@ -1,0 +1,70 @@
+{
+  "id": "315557",
+  "commentsCount": 4,
+  "createdAt": "2021-10-12T21:21:19.222Z",
+  "description": "This tool parses HTML code to identify what causes bloated document responses. For example, you might find that there are large inline images or that there's a big chunk of JSON for hydrating a single-page app.",
+  "featuredAt": "2021-10-12T09:03:59Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/207b4989-cc46-4cdf-a2e7-bb0fb62f81d0.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/95bf3f7b-d2d3-42ea-80e4-ad96db29bda2.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/e56ed31d-9a57-4f7b-939d-8151822ffef3.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "HTML Size Analyzer",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/2e83a6da7cdcdf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Matt Zeunert",
+    "url": "https://www.producthunt.com/@mattzeunert?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "html-size-analyzer",
+  "tagline": "Identify the cause of bloated HTML code",
+  "url": "https://www.producthunt.com/posts/html-size-analyzer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 69,
+  "website": "https://www.producthunt.com/r/2e83a6da7cdcdf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-12T09:03:59Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このツールは、HTMLコードを解析して、ドキュメントのレスポンスが肥大化する原因を特定します。例えば、大きなインライン画像があったり、シングルページのアプリをハイドレートするための大きなJSONの塊があったりするかもしれません。",
+      "tagline": "肥大化したHTMLコードの原因究明"
+    },
+    {
+      "locale": "zh",
+      "description": "这个工具分析HTML代码，以确定导致臃肿的文档响应的原因。例如，你可能会发现有大的内联图片，或者有一大块JSON用于水化单页的应用程序。",
+      "tagline": "找出臃肿的HTML代码的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個工具分析HTML代碼，以確定導致臃腫的文檔響應的原因。例如，你可能會發現有大的內聯圖片，或者有一大塊JSON用於水化單頁的應用程序。",
+      "tagline": "找出臃腫的HTML代碼的原因"
+    }
+  ],
+  "source_updated_at": 1634290798178
+}

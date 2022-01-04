@@ -1,0 +1,64 @@
+{
+  "author": "Liberosist",
+  "the_new_excerpt": "I'm sure we've seen the memes about \"3rd gen blockchains\". Let me present a\nthesis that said 3rd gen blockchains are superseded by rollups.\n\nFor a deep dive into rollups, I'd highly recommend reading: An Incomplete Guide\nto Rollups (vitalik.ca)…",
+  "original_created_utc": 1619323744,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "第3世代ブロックチェーン」のミームを目にしたことがあると思います。を提示させていただきます。\n第3世代ブロックチェーンはロールアップに取って代わられると言ったテーゼです。\n\nロールアップの深堀については、ぜひ読んでいただきたいと思います。アン・インコンプリート・ガイド\nto Rollups (vitalik.ca)...",
+      "title": "意見 ロールアップは第4世代のブロックチェーン"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我相信我们已经看到了关于 \"第三代区块链 \"的备忘录。让我提出一个\n的论文，说第三代区块链被卷轴所取代。\n\n如果想深入了解卷积，我强烈推荐阅读。不完整的指南\nto Rollups (vitalik.ca)...",
+      "title": "意见。卷轴是第四代区块链"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我相信我們已經看到了關於 \"第三代區塊鏈 \"的備忘錄。讓我提出一個\n的論文，說第三代區塊鏈被卷軸所取代。\n\n如果想深入瞭解卷積，我強烈推薦閱讀。不完整的指南\nto Rollups (vitalik.ca)...",
+      "title": "意見。卷軸是第四代區塊鏈"
+    }
+  ],
+  "title": "Opinion: Rollups are 4th gen blockchains",
+  "created_utc": 1619355165,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m sure we&#39;ve seen the memes about &quot;3rd gen blockchains&quot;. Let me present a thesis that said 3rd gen blockchains are superseded by rollups.</p>\n\n<p>For a deep dive into rollups, I&#39;d highly recommend reading:  <a href=\"https://vitalik.ca/general/2021/01/05/rollup.html\">An Incomplete Guide to Rollups (vitalik.ca)</a></p>\n\n<p>But I&#39;ll attempt to offer a more digestible if less technically accurate overview of rollups - I know there are plenty of oversimplifications here that can be nitpicked, but I believe this is the best way to get the message across. I think too many people are sleeping on the revolutionary nature of rollups and I&#39;ll try to explain why this is where most blockchain activity will live in the near and distant future.</p>\n\n<p>First, let&#39;s break down smart contract blockchains. Broadly speaking, they have:</p>\n\n<ol>\n<li>Execution layer: This is where the VM lives and transactions are processed.</li>\n<li>Data layer: This is where block data is stored for posterity.</li>\n<li>Consensus layer: This is where the blockchain comes to consensus.</li>\n</ol>\n\n<p>Today, all blockchains have to do all three, and that can lead to significant inefficiencies. For example, Ethereum and Bitcoin have strong consensus layers several orders of magnitude more decentralized and secure than any other blockchain. However, their execution and data layers are also strongly bottlenecked by the consensus layer, thus leading to very limited throughput. Conversely, a blockchain like EOS, BSC and Solana have very strong execution and data layers and offer high TPS, but to achieve this they have very weak consensus layers that&#39;ll always tend towards centralization. There are, of course, differing compromises to the trilemma for different blockchains - it&#39;s a spectrum. But only Bitcoin and Ethereum lie towards the extreme end of massive decentralization and high security.</p>\n\n<p>What if a blockchain could split up duties and get the best of all worlds? This is where rollups are revolutionary. Think of rollups as a new type of blockchain which divides up work leveraging the strengths of two (or more) different chains. A rollup has its own execution layer to process high TPS, uses the consensus layer of a different chain with a strong consensus layer, and splits up data layer between itself and the different chain. The net result is for the first time ever we get a blockchain experience with high TPS but is also complemented by high security and decentralization. You know how Apple designs their products but contracts manufacturing to Foxconn because they simply do it better and cheaper? Likewise, rollups do what they do best - fast execution layers; while contracting a portion of data and all of consensus to a different chain that does it better than they ever could.</p>\n\n<p>Currently, Ethereum offers by far the most secure and decentralized consensus layer that can support this construction, and once The Merge goes live later this year, things will get even more interesting. Currently, beacon chain has 120,000 validators already, and we&#39;ll surely see something like 500,000 validators post-Merge when it drives the Ethereum execution layer. This is in stark contrast to other high TPS chains which restrict their validators to a few thousand at most - two orders of magnitude difference, while some go as low as a few dozen. This is why all rollups are currently live on Ethereum, at least until a blockchain offers a better consensus layer. Currently, Ethereum has a limited data layer, but with data sharding coming after The Merge, it will also have the best data layer in the industry - offering 1.3 MB/s - thus becoming the de-facto standard home for rollups. Please note that we have multiple rollups live on Ethereum currently: zkSync, dYdX, Loopring, ImmutableX*, DeversiFi, Optimism (albeit whitelisted to Synthetix) etc.  - all offering thousands of TPS with gas fees so low that they are subsidized by most of these rollups to be effectively zero gas for the end user.</p>\n\n<p>How about some numbers? Currently, the L1 Ethereum chain does 55 TPS for ETH transfers, but much less for complex smart contracts, for an average of about 17-20 TPS. With rollups, we&#39;re seeing anywhere between 1,000 to 5,000 TPS. With data sharding, we&#39;ll see this increase to 25,000 to 100,000 TPS. This is scalability far beyond any L1 can offer on its own, while at the same time not materially sacrificing decentralization and security. Of course, we could see a different L1 offer a better consensus and data layer than Ethereum, but at this time no one is even attempting it. The key projects to look out for are Optimism, Arbitrum, zkSync 2.0, StarkNet and Polygon - all plan to offer generalized, programmable rollups this summer. Worth noting that Optimism has actually been live on mainnet since January, though they take a conservative whitelisted approach and currently only have Synthetix live, with Uniswap V3 lined up next soon after the May 5th L1 deployment. There are, of course, significant differences between these rollups, but that&#39;s for another post.</p>\n\n<p>So, my recommendation for alternate L1s would be to either:</p>\n\n<ol>\n<li>Become an Ethereum rollup. Leverage all the benefits of your execution layer and VM, without resorting a compromised consensus layer like you currently do. This is a win-win scenario for the industry.</li>\n<li>Create a better consensus layer than Ethereum: have hundreds of thousands of validators, validating in a non-delegated and permissionless manner, offer massive data availability and offering unforeseen benefits over Ethereum. Do this, and rollups will contract you instead of Ethereum to do their data and consensus work.</li>\n<li>Aggressively market your chain so the technical deficiencies can be overlooked.</li>\n<li>Find a niche that can&#39;t be satisfied by a rollup. </li>\n</ol>\n\n<p>&#x200B;</p>\n\n<p><em>\\</em>While I tried to simplify things as much as possible, I think it&#39;s important to note that DeversiFi and ImmutableX are technically validium and not rollups, where the data layer is entirely off-chain instead of being split.*</p>\n</div><!-- SC_ON -->",
+  "score": 260,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/yeAR3TjTmf6IGHLvgTOIDPY41IYs5Qj_wnvoc3p4NT0.jpg?auto=webp&s=cbae1d20df1bdac5bf79770b4a951bda2f1dca6b",
+          "width": 411,
+          "height": 481
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/yeAR3TjTmf6IGHLvgTOIDPY41IYs5Qj_wnvoc3p4NT0.jpg?width=108&crop=smart&auto=webp&s=b6ec7bc708a69a7bba5465683dbcaab0f84c558c",
+            "width": 108,
+            "height": 126
+          },
+          {
+            "url": "https://external-preview.redd.it/yeAR3TjTmf6IGHLvgTOIDPY41IYs5Qj_wnvoc3p4NT0.jpg?width=216&crop=smart&auto=webp&s=96ae1f13b66a9c201175906c7088e43a113fc6dc",
+            "width": 216,
+            "height": 252
+          },
+          {
+            "url": "https://external-preview.redd.it/yeAR3TjTmf6IGHLvgTOIDPY41IYs5Qj_wnvoc3p4NT0.jpg?width=320&crop=smart&auto=webp&s=5fcae6cb35d37d5260a7a472d2f9a69b716e5873",
+            "width": 320,
+            "height": 374
+          }
+        ],
+        "variants": {},
+        "id": "-mHAt1E9iofFQODaVZDTIsvP-05gk2Pk-qkt4OAON2g"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/my0h9s/opinion_rollups_are_4th_gen_blockchains/",
+  "subreddit": "CryptoCurrency",
+  "id": "my0h9s",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619776210443
+}

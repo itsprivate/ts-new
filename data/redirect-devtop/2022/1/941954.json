@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 941954,
+  "title": "Implement a load balancer in Golang",
+  "description": "Overview   This article is a translation of Golangでロードバランサーを実装する  This article is the 24th...",
+  "readable_publish_date": "Jan 1",
+  "slug": "implement-a-load-balancer-in-golang-8gj",
+  "path": "/bmf_san/implement-a-load-balancer-in-golang-8gj",
+  "url": "https://dev.to/bmf_san/implement-a-load-balancer-in-golang-8gj",
+  "comments_count": 0,
+  "public_reactions_count": 41,
+  "collection_id": null,
+  "published_timestamp": "2022-01-01T15:00:22Z",
+  "positive_reactions_count": 41,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O89eJigk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt7km3dfocrmtg0wov4y.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ma2qADZS--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt7km3dfocrmtg0wov4y.png",
+  "canonical_url": "https://dev.to/bmf_san/implement-a-load-balancer-in-golang-8gj",
+  "created_at": "2022-01-03T19:11:46.358Z",
+  "edited_at": "2022-01-01T15:00:35Z",
+  "crossposted_at": null,
+  "published_at": "2022-01-01T15:00:22Z",
+  "last_comment_at": "2022-01-01T15:00:22Z",
+  "reading_time_minutes": 7,
+  "tag_list": [
+    "go",
+    "loadbalancer",
+    "roundrobin"
+  ],
+  "tags": [
+    "go",
+    "loadbalancer",
+    "roundrobin"
+  ],
+  "user": {
+    "name": "Kenta Takeuchi",
+    "username": "bmf_san",
+    "twitter_username": "bmf_san",
+    "github_username": "bmf-san",
+    "website_url": "https://bmf-tech.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0ryqXDHv--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/542109/de527e15-c23d-4856-aa03-421667bc3783.png",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--N1Ar2eN2--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/542109/de527e15-c23d-4856-aa03-421667bc3783.png"
+  },
+  "original_created_at": "2022-01-01T15:00:22Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O89eJigk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt7km3dfocrmtg0wov4y.png",
+  "author": "Kenta Takeuchi",
+  "author_url": "https://dev.to/bmf_san",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 この記事はGolangでロードバランサーを実装するための翻訳です この記事は24番目の...",
+      "title": "Golangでロードバランサーを実装する"
+    },
+    {
+      "locale": "zh",
+      "description": "概述 本文是对Golangでロードバランサーを実装する的翻译 本文是第24个...",
+      "title": "在Golang中实现一个负载平衡器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 本文是對Golangでロードバランサーを実裝する的翻譯 本文是第24個...",
+      "title": "在Golang中實現一個負載平衡器"
+    }
+  ]
+}

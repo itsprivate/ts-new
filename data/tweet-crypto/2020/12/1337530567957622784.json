@@ -1,0 +1,81 @@
+{
+  "created_at": "Thu Dec 24 7:35:20 +0000 2020",
+  "id_str": "1337530567957622784",
+  "full_text": "#bitcoin supply shortage incoming https://t.co/WluW2PWNpa",
+  "display_text_range": [
+    0,
+    33
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1337530503902208000,
+        "id_str": "1337530503902208005",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337530503902208005/pu/img/c26nRis7Crz7u_iX.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337530503902208005/pu/img/c26nRis7Crz7u_iX.jpg",
+        "url": "https://t.co/WluW2PWNpa",
+        "display_url": "pic.twitter.com/WluW2PWNpa",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1337530567957622784/video/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 640,
+            "h": 640,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 717,
+  "favorite_count": 5393,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Dec 11 22:51:52 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币供应短缺即将到来的https://t.co/WluW2PWNpa"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣供應短缺即將到來的https://t.co/WluW2PWNpa"
+    }
+  ],
+  "source_updated_at": 1609271718620
+}

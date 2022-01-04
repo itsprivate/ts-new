@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 936005,
+  "title": "Node.js and Redis deployed in Docker containers, using Docker Compose - then load-balancing the Node.js servers with Nginx",
+  "description": "This article contains two main stages: (1) Containerizing a Node.js server application and a Redis...",
+  "readable_publish_date": "Dec 24",
+  "slug": "nodejs-and-redis-deployed-in-docker-containers-using-docker-compose-then-load-balancing-the-nodejs-servers-with-nginx-4omc",
+  "path": "/marcelkatz/nodejs-and-redis-deployed-in-docker-containers-using-docker-compose-then-load-balancing-the-nodejs-servers-with-nginx-4omc",
+  "url": "https://dev.to/marcelkatz/nodejs-and-redis-deployed-in-docker-containers-using-docker-compose-then-load-balancing-the-nodejs-servers-with-nginx-4omc",
+  "comments_count": 0,
+  "public_reactions_count": 44,
+  "collection_id": null,
+  "published_timestamp": "2021-12-24T21:35:16Z",
+  "positive_reactions_count": 44,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/936005.png",
+  "canonical_url": "https://dev.to/marcelkatz/nodejs-and-redis-deployed-in-docker-containers-using-docker-compose-then-load-balancing-the-nodejs-servers-with-nginx-4omc",
+  "created_at": "2021-12-27T18:47:57.513Z",
+  "edited_at": "2021-12-25T01:03:22Z",
+  "crossposted_at": null,
+  "published_at": "2021-12-24T21:35:16Z",
+  "last_comment_at": "2021-12-24T21:35:16Z",
+  "reading_time_minutes": 13,
+  "tag_list": [
+    "docker",
+    "node",
+    "redis",
+    "nginx"
+  ],
+  "tags": [
+    "docker",
+    "node",
+    "redis",
+    "nginx"
+  ],
+  "user": {
+    "name": "marcelkatz",
+    "username": "marcelkatz",
+    "twitter_username": null,
+    "github_username": "marcelkatz",
+    "website_url": null,
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3LKnN_4--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/461728/b3eaafc7-959c-4def-8b52-aec2c44ec1f5.JPG",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--vB-tPos5--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/461728/b3eaafc7-959c-4def-8b52-aec2c44ec1f5.JPG"
+  },
+  "original_created_at": "2021-12-24T21:33:49Z",
+  "image": "https://dev.to/social_previews/article/936005.png",
+  "author": "marcelkatz",
+  "author_url": "https://dev.to/marcelkatz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事には大きく分けて2つのステージがあります。(1)Node.jsサーバアプリケーションとRedis...をコンテナ化する。",
+      "title": "Node.jsとRedisをDockerコンテナにデプロイし、Docker Composeを使用 - Node.jsサーバをNginxでロードバランシング"
+    },
+    {
+      "locale": "zh",
+      "description": "本文包含两个主要阶段。(1) 容器化一个Node.js服务器应用程序和一个Redis...",
+      "title": "使用Docker Compose将Node.js和Redis部署在Docker容器中，然后用Nginx对Node.js服务器进行负载平衡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文包含兩個主要階段。(1) 容器化一個Node.js服務器應用程序和一個Redis...",
+      "title": "使用Docker Compose將Node.js和Redis部署在Docker容器中，然後用Nginx對Node.js服務器進行負載平衡。"
+    }
+  ]
+}

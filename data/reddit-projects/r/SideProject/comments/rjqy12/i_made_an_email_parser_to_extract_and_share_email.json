@@ -1,0 +1,32 @@
+{
+  "author": "zeer0dotcom",
+  "original_created_utc": 1639896012,
+  "title": "I made an email parser to extract and share email attachments",
+  "created_utc": 1639904382,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Link - &lt;a href=\"https://moogle.cc/nirvaancms.html\"&gt;https://moogle.cc/nirvaancms.html&lt;/a&gt; &lt;/p&gt;\n\n&lt;p&gt;I was getting tired of uploading content to S3 before using it on my project so I built a system to extract attachments from emails and store it in a public location. &lt;/p&gt;\n\n&lt;p&gt;With this, you simply email the attachments to a specific email address and we do the rest.&lt;/p&gt;\n\n&lt;p&gt;Every attachment is given its own link which you can directly in your code or projects.&lt;/p&gt;\n\n&lt;p&gt;Link - &lt;a href=\"https://moogle.cc/nirvaancms.html\"&gt;https://moogle.cc/nirvaancms.html&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/rjqy12/i_made_an_email_parser_to_extract_and_share_email/",
+  "subreddit": "SideProject",
+  "id": "rjqy12",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Link - https://moogle.cc/nirvaancms.html\n\nI was getting tired of uploading content to S3 before using it on my project so\nI built a system to extract attachments from emails and store it in a public\nlocation.\n\nWith this, you simply email the attachments to a specific email address and we\ndo the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "リンク - https://moogle.cc/nirvaancms.html\n\nプロジェクトで使用する前にS3にコンテンツをアップロードするのに疲れてしまったので\nメールから添付ファイルを抽出して公開保存するシステムを構築しました。\nの場所にあります。\n\nこれを使えば、特定のメールアドレスに添付ファイルを送るだけで、私たちが\nを行う。",
+      "title": "メールの添付ファイルを抽出して共有するためのメールパーサーを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "链接 - https://moogle.cc/nirvaancms.html\n\n我已经厌倦了在我的项目中使用内容之前将其上传到S3，所以\n我建立了一个系统，从电子邮件中提取附件并将其存储在一个公共的\n位置。\n\n有了这个系统，你只需将附件发到一个特定的电子邮件地址，我们就可以\n做到这一点...",
+      "title": "我做了一个电子邮件分析器来提取和分享电子邮件附件"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "鏈接 - https://moogle.cc/nirvaancms.html\n\n我已經厭倦了在我的項目中使用內容之前將其上傳到S3，所以\n我建立了一個系統，從電子郵件中提取附件並將其存儲在一個公共的\n位置。\n\n有了這個系統，你只需將附件發到一個特定的電子郵件地址，我們就可以\n做到這一點...",
+      "title": "我做了一個電子郵件分析器來提取和分享電子郵件附件"
+    }
+  ]
+}

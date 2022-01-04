@@ -1,0 +1,105 @@
+{
+  "created_at": "Fri Jun 18 18:33:23 +0000 2021",
+  "id_str": "1405595019088740355",
+  "full_text": "#WSJWhatsNow: Companies holding bitcoin in their treasuries, like Tesla, face an accounting risk. @paulvigna explains. https://t.co/ucCHy0QvYv https://t.co/yXZ1iYgv7K",
+  "display_text_range": [
+    0,
+    142
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "paulvigna",
+        "name": "Paul Vigna",
+        "id": 22680719,
+        "id_str": "22680719",
+        "indices": [
+          98,
+          108
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ucCHy0QvYv",
+        "expanded_url": "https://on.wsj.com/3wF40Ks",
+        "display_url": "on.wsj.com/3wF40Ks",
+        "indices": [
+          119,
+          142
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1405592358570401800,
+        "id_str": "1405592358570401797",
+        "indices": [
+          143,
+          166
+        ],
+        "media_url": "http://pbs.twimg.com/media/E4GrGdcX0AgR12p.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E4GrGdcX0AgR12p.jpg",
+        "url": "https://t.co/yXZ1iYgv7K",
+        "display_url": "pic.twitter.com/yXZ1iYgv7K",
+        "expanded_url": "https://twitter.com/WSJ/status/1405595019088740355/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 39,
+  "favorite_count": 73,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jun 17 18:35:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "#WSJWhatsNow テスラのように国債にビットコインを保有している企業は、会計上のリスクに直面しています。@paulvigna が説明しています。 https://t.co/ucCHy0QvYv https://t.co/yXZ1iYgv7K"
+    },
+    {
+      "locale": "zh",
+      "full_text": "#WSJWhatsNow: 持有比特币的公司，如特斯拉，面临会计风险。@paulvigna解释道。https://t.co/ucCHy0QvYv https://t.co/yXZ1iYgv7K"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#WSJWhatsNow: 持有比特幣的公司，如特斯拉，面臨會計風險。@paulvigna解釋道。https://t.co/ucCHy0QvYv https://t.co/yXZ1iYgv7K"
+    }
+  ]
+}

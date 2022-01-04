@@ -1,0 +1,32 @@
+{
+  "author": "rgnet1",
+  "original_created_utc": 1626637268,
+  "title": "You hear about Lightning all the time, but did you ever use it? Just do it. It proves bitcoin is already able to be the world's payment network.",
+  "created_utc": 1626680083,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s easy to become skeptical of pronouncements about massive new developments that are caveated with &quot;and the real world applications will get there eventually.&quot;  For example, the Lightning Network as secure off-chain settlement to solve Bitcoin&#39;s scaleability. Always sounded reasonable, but many, many years have passed since initial proposals and nothing ever seemed here or stable.</p>\n\n<p>Someone tipped me with lnbot the other day for a comment posted, and I thought as knowledgable as I&#39;ve been about bitcoin for a long time, I have no idea how to claim something that is legitimately built on the bitcoin network.</p>\n\n<p>So I do a little investigating for a Lightning compatible wallet. Critical for me is:</p>\n\n<ul>\n<li>open source</li>\n<li>non-custodial</li>\n</ul>\n\n<p>Came across the usual lists of recommended wallets and dug deeper into Muun.  I am blown away.  Not only does it meet those two criteria, it&#39;s just simple, fast, and does exactly what I didn&#39;t think would be possible with LN - it makes it so you <em>don&#39;t have to think about it</em>.</p>\n\n<p>I click &quot;Receive&quot;, I click &quot;Lightning&quot; and just like any bitcoin transaction, you get a QR code and I withdrew my sats from the lntipbot. That&#39;s cool and all but what&#39;s important is how can someone get their on-chain bitcoin onto Lightning, so it&#39;s ready for its actual use case of buying coffee and whatnot.  I have to set up a channel right? Or find someone to open a channel with? I have to manage how long the channel&#39;s open? Invoices? Eh? Bitcoin&#39;s simplicity vanishes... but no!</p>\n\n<p>Muun&#39;s whole philosophy is you get <strong>one</strong> balance. So I hit &quot;Receive&quot;, then &quot;Bitcoin&quot;, then I send like $10 worth to it. Now suddenly, my Muun wallet has a balance of the tip from before and the btc I just sent, no distinction. I don&#39;t know what&#39;s on chain, off chain, but <strong>it doesn&#39;t matter</strong>! </p>\n\n<p>I then hit &quot;Send&quot;, &quot;Lightning&quot; and deposit $5 into the Reddit lntipbot. It works! I definitely didn&#39;t have $5 of LN balance, but it sends instantly all the same.</p>\n\n<p><em>This is how it&#39;s meant to be.</em> The security, distributed protection, and rigid scarcity of Bitcoin, but versatility to handle microtransactions globally. The only reason bitcoin is not every country&#39;s default currency is people&#39;s ignorance and the intentional or unintentional misinformation spewed by those with power to lose. </p>\n\n<p>It&#39;s worked since 2008. It works even better now. The technology is here. You don&#39;t need complex custodial financial constructs like ETFs and derivatives to own it as an investment and you don&#39;t need 1,000s of other pointless cryptos to use it for small payments. Try Muun or some other Lightning wallet and start using it. This just feels game changing, and it shouldn&#39;t have taken me getting a Reddit tip to figure that out.</p>\n</div><!-- SC_ON -->",
+  "score": 156,
+  "permalink": "/r/Bitcoin/comments/omxq35/you_hear_about_lightning_all_the_time_but_did_you/",
+  "subreddit": "Bitcoin",
+  "id": "omxq35",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "It's easy to become skeptical of pronouncements about massive new developments\nthat are caveated with \"and the real world applications will get there\neventually.\" For example, the Lightning Network as secure off-chain settlement\nto solve Bitcoin's scaleability. Always sounded reasonable, but many,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "大規模な新開発の発表には懐疑的になりがちです。\n大規模な新開発についての発表で、「実際のアプリケーションはいずれそこに到達するだろう」という言葉で締めくくられていると\nという言葉には懐疑的になりがちです。例えば、ビットコインのスケーラビリティを解決するために、オフチェーンで安全に決済するライトニングネットワーク\nは、ビットコインのスケーラビリティを解決するためのものです。常に合理的に聞こえましたが、多くの...",
+      "title": "Lightningはよく耳にしますが、使ったことはありますか？とにかくやってみてください。ビットコインがすでに世界の決済ネットワークになれることを証明している。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们很容易对那些以 \"我不知道 \"为借口的大规模新发展的声明持怀疑态度。\n很容易对那些以 \"现实世界的应用最终会达到 \"为前提的大规模新发展的声明持怀疑态度。\n最终。\" 例如，闪电网络作为安全的链外结算\n来解决比特币的可扩展性。听起来总是很合理，但许多人，...",
+      "title": "你经常听说 \"闪电\"，但你有没有使用过它？就去做吧。它证明了比特币已经能够成为世界上的支付网络。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們很容易對那些以 \"我不知道 \"爲藉口的大規模新發展的聲明持懷疑態度。\n很容易對那些以 \"現實世界的應用最終會達到 \"爲前提的大規模新發展的聲明持懷疑態度。\n最終。\" 例如，閃電網絡作爲安全的鏈外結算\n來解決比特幣的可擴展性。聽起來總是很合理，但許多人，...",
+      "title": "你經常聽說 \"閃電\"，但你有沒有使用過它？就去做吧。它證明了比特幣已經能夠成爲世界上的支付網絡。"
+    }
+  ]
+}

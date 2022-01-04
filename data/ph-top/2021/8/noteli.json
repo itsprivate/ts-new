@@ -1,0 +1,84 @@
+{
+  "id": "310518",
+  "commentsCount": 7,
+  "createdAt": "2021-08-31T12:59:02.276Z",
+  "description": "Noteli is an Open Source CLI tool made especially for note-taking. Noteli is built using powers of TypeScript and security of Auth0 with MongoDB. Noteli would help developers to take notes quickly from the shell without wasting time through GUI :P",
+  "featuredAt": "2021-08-31T07:00:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/02edb9a1-b1ce-4f60-bc8e-22f487eaa239.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://youtu.be/GjddqepNroo"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/dcdf8699-49f8-4a3f-978c-0468725a8347.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/989a6ff9-5bd3-4e46-8ec6-9c5e56fabf92.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Noteli",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/f81bc3862c372a?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/0c8209210d0cd7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Sahil Pabale",
+    "url": "https://www.producthunt.com/@sahilpabale?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 1,
+  "reviewsRating": 5,
+  "slug": "noteli",
+  "tagline": "An open source CLI tool to take notes",
+  "url": "https://www.producthunt.com/posts/noteli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 120,
+  "website": "https://www.producthunt.com/r/0c8209210d0cd7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-08-31T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Noteliは、メモを取るために作られたオープンソースのCLIツールです。Noteliは、TypeScriptのパワーとAuth0のセキュリティ、そしてMongoDBを使って作られています。Noteliは、開発者がGUIで時間を浪費することなく、シェルから素早くメモを取るのに役立ちます :P",
+      "tagline": "メモを取るためのオープンソースのCLIツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Noteli是一个开源的CLI工具，专门用于记笔记。Noteli是使用TypeScript的力量和Auth0的安全与MongoDB建立的。Noteli将帮助开发者从外壳上快速做笔记，而不需要通过GUI来浪费时间：P",
+      "tagline": "一个开源的CLI工具来做笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Noteli是一個開源的CLI工具，專門用於記筆記。Noteli是使用TypeScript的力量和Auth0的安全與MongoDB建立的。Noteli將幫助開發者從外殼上快速做筆記，而不需要通過GUI來浪費時間：P",
+      "tagline": "一個開源的CLI工具來做筆記"
+    }
+  ],
+  "source_updated_at": 1630662030136
+}

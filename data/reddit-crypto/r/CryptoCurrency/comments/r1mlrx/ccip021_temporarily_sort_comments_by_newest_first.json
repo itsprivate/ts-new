@@ -1,0 +1,32 @@
+{
+  "author": "CryptoChief",
+  "original_created_utc": 1637810346,
+  "title": "CCIP-021 - Temporarily sort comments by newest first after a post is submitted.",
+  "created_utc": 1637840353,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h3>Summary</h3>\n\n<p>This proposal is for sorting comments by newest first after a post is submitted. The intended goal is to level the playing field between early bird low-effort comments and more meaningful high-effort comments by limiting visibility for the former.</p>\n\n<h3>Problem Statement</h3>\n\n<p>After a post is submitted, the first comments tend to be low-effort. Most of them are simple trite remarks or jokes about the parent post which tend not to offer much originality or value. Users who make these comments are probably only seeking attention or farming moons and often receive numerous upvotes just for being first. Users who make more meaningful comments first take time to even notice the post and additional time to write a comment.</p>\n\n<h3>Solution</h3>\n\n<p>After a submission has been posted, temporarily set the suggested comment sorting to newest first. After 15 minutes(more or less), the suggested sorting will be switched to top comments first. This change should give later comments an advantage over early comments. Since every comment will be treated the same for a set amount of time, it might also encourage users to post more top-level comments and therefore increase the odds of triggering a discussion.</p>\n\n<p>The 15-minute time limit will be tweaked by the mod team for optimization. The reader will always have the option to change his/her own suggested sort to something else.</p>\n\n<h3>Concerns</h3>\n\n<p>The first two items in the following list are concerns given by <a href=\"/u/CryptoMaximalist\">u/CryptoMaximalist</a> in the <a href=\"https://www.reddit.com/r/CryptoCurrencyMeta/comments/p0xprp/idea_for_the_first_few_hours_comment_sorting_is/hdqrwkp\">CCMeta thread</a>, which I have paraphrased. The last one is mine.</p>\n\n<ul>\n<li><p>Hiding comment scores for a longer period of time may be considered as an alternative method or additional measure for achieving this goal. However, this idea would have to be submitted as a separate proposal. Currently, scores are hidden for 5 minutes. Contest mode is a controlled option for hiding scores, but it also collapses lower-level comments and might hamper discussion.</p></li>\n<li><p>Many Reddit clients do not respect suggested sorting and allow the user to override them.</p></li>\n<li><p>My own minor concern would be the potential for incentivizing more spam in the top-level comments, since farmers would be fighting for visibility. Rate-limits could be required.</p></li>\n</ul>\n\n<p>Thanks for your attention.</p>\n\n<hr/>\n\n<p>FYI, if you wonder why this poll looks familiar, that&#39;s because it&#39;s a repost from a poll submitted a month ago which didn&#39;t pass. The reason is likely because the time span was set to 3 days instead of 7. The time span for this poll is set to 7 days.</p>\n\n<hr/>\n\n<p><a href=\"https://www.reddit.com/poll/r1mlrx\">View Poll</a></p>\n</div><!-- SC_ON -->",
+  "score": 158,
+  "permalink": "/r/CryptoCurrency/comments/r1mlrx/ccip021_temporarily_sort_comments_by_newest_first/",
+  "subreddit": "CryptoCurrency",
+  "id": "r1mlrx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "SUMMARY\n\nThis proposal is for sorting comments by newest first after a post is submitted.\nThe intended goal is to level the playing field between early bird low-effort\ncomments and more meaningful high-effort comments by limiting visibility for the\nformer.\n\n\nPROBLEM STATEMENT\n\nAfter a post is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "概要\n\nこの提案は、投稿後にコメントを新しいものから順に並べるものです。\n意図した目的は、早い者勝ちで労力のかからないコメントと、意味のあるコメントとの間の競争条件を平準化することです。\nコメントの可視性を制限することで、早い者勝ちの低努力コメントと、意味のある高努力コメントの\n前者の可視性を制限することで、早起きの低労力コメントと意味のある高労力コメントの間の競争を公平にすることです。\n\n\n問題提起\n\n投稿された後...",
+      "title": "CCIP-021 - 投稿されたコメントを一時的に新しい順に並べ替える。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "摘要\n\n这个建议是为了在帖子提交后，按最新的先进行分类。\n其目的是为了在早起的低努力的评论和更有意义的高努力的评论之间建立公平的竞争环境。\n的评论和更有意义的高努力的评论之间的公平竞争，限制前者的可见度。\n前者。\n\n\n问题陈述\n\n在一个帖子提交后...",
+      "title": "CCIP-021 - 在帖子提交后，暂时按最新的评论排序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "摘要\n\n這個建議是爲了在帖子提交後，按最新的先進行分類。\n其目的是爲了在早起的低努力的評論和更有意義的高努力的評論之間建立公平的競爭環境。\n的評論和更有意義的高努力的評論之間的公平競爭，限制前者的可見度。\n前者。\n\n\n問題陳述\n\n在一個帖子提交後...",
+      "title": "CCIP-021 - 在帖子提交後，暫時按最新的評論排序。"
+    }
+  ]
+}

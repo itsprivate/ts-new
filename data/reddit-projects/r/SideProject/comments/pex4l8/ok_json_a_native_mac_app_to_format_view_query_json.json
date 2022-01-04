@@ -1,0 +1,78 @@
+{
+  "author": "idoknowsomething",
+  "original_created_utc": 1630377806,
+  "title": "OK JSON - A native Mac app to format, view, query JSON",
+  "created_utc": 1630420263,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>OK JSON is my new app that I&#39;ve been working on in the last couple months.</p>\n\n<p>Due to the recent events with regard to native apps switching to Electron, I would like to emphasize that OK JSON is built with AppKit, with the exceptions of the In-App purchase page and preferences, which is built with SwiftUI.</p>\n\n<p>OK JSON is a JSON formatter and viewer, well suited for developers who need to work with JSON frequently, especially web developers. With OK JSON, you can view JSON in a tree view with beautiful syntax highlight.</p>\n\n<h1>Features:</h1>\n\n<ol>\n<li>Format JSON in Pasteboard with keyboard shortcut.</li>\n<li>View JSON in tree view with beautiful syntax highlight.</li>\n<li>Query with JSONPath and compare with JSON Patch.</li>\n<li>Various ways to open JSON documents.</li>\n</ol>\n\n<p><a href=\"https://preview.redd.it/8kdtfwicwlk71.png?width=2560&amp;format=png&amp;auto=webp&amp;s=fde84e78ba6550c07fa531ae0c25f8ac9aa0e31d\">Main Window</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/b7zb7iufwlk71.png?width=2560&amp;format=png&amp;auto=webp&amp;s=4791db5e027bfc1ad9d8b05e3374283e522d5dbc\">JSONPath Wndow</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/mnyx47krylk71.png?width=2560&amp;format=png&amp;auto=webp&amp;s=49468f7031cbcde454c35df648e91fae91961be5\">More Features</a></p>\n\n<h1>Website</h1>\n\n<p><a href=\"https://okjson.app/\">OK JSON - Format and View JSON with Native Mac App</a></p>\n\n<p><a href=\"https://apps.apple.com/app/id1576121509\">Download OK JSON on Mac App Store</a></p>\n</div><!-- SC_ON -->",
+  "score": 6,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?auto=webp&s=9b1edac5990503d9470c6ff3d07e788e3a5d8c2b",
+          "width": 2560,
+          "height": 1600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?width=108&crop=smart&auto=webp&s=adf8af053707d5174d86a0f94f88b52b0c8c1fcf",
+            "width": 108,
+            "height": 67
+          },
+          {
+            "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?width=216&crop=smart&auto=webp&s=d9b3ad0110ceea2573dd8632197f595f985d5203",
+            "width": 216,
+            "height": 135
+          },
+          {
+            "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?width=320&crop=smart&auto=webp&s=da4847acbebe6c75fb5c8b13bbf57ba851d3bd14",
+            "width": 320,
+            "height": 200
+          },
+          {
+            "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?width=640&crop=smart&auto=webp&s=762c6f7cf3bd36e9f677ae2d4fe00ae17149d2eb",
+            "width": 640,
+            "height": 400
+          },
+          {
+            "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?width=960&crop=smart&auto=webp&s=552376ec57ef5cb0350a463ee98e6f8a6c78a34d",
+            "width": 960,
+            "height": 600
+          },
+          {
+            "url": "https://external-preview.redd.it/gy7zqX8gilW2h-pm6bWsReJiN4jefMikABPeb2f02iw.jpg?width=1080&crop=smart&auto=webp&s=85794876eb7ee551fae0f87a48817f1b408c833b",
+            "width": 1080,
+            "height": 675
+          }
+        ],
+        "variants": {},
+        "id": "Xs1HLbnuZIxHwZMFAmHbzy5DL_pu4o6EvCdMSQaJltk"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/pex4l8/ok_json_a_native_mac_app_to_format_view_query_json/",
+  "subreddit": "SideProject",
+  "id": "pex4l8",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "OK JSON is my new app that I've been working on in the last couple months.\n\nDue to the recent events with regard to native apps switching to Electron, I\nwould like to emphasize that OK JSON is built with AppKit, with the exceptions\nof the In-App purchase page and preferences, which is built with…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "OK JSONは、ここ2ヶ月ほど取り組んできた私の新しいアプリです。\n\nネイティブアプリのElectronへの切り替えに関する最近の出来事のために、私は\n強調したいのは、OK JSONはAppKitで作られているということです。\nOK JSONはAppKitで構築されていますが、例外としてアプリ内購入ページと環境設定は...",
+      "title": "OK JSON - JSONのフォーマット、表示、クエリを行うMac用ネイティブアプリケーション"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "OK JSON是我在过去几个月里一直在做的新应用。\n\n由于最近发生的关于本地应用程序转换到Electron的事件，我\n我想强调的是，OK JSON 是用 AppKit 构建的，除了\n的应用内购买页面和偏好是用AppKit构建的。",
+      "title": "OK JSON - 一个原生的Mac应用程序，用于格式化、查看、查询JSON。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "OK JSON是我在過去幾個月裏一直在做的新應用。\n\n由於最近發生的關於本地應用程序轉換到Electron的事件，我\n我想強調的是，OK JSON 是用 AppKit 構建的，除了\n的應用內購買頁面和偏好是用AppKit構建的。",
+      "title": "OK JSON - 一個原生的Mac應用程序，用於格式化、查看、查詢JSON。"
+    }
+  ]
+}

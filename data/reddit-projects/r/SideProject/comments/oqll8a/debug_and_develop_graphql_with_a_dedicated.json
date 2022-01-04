@@ -1,0 +1,53 @@
+{
+  "author": "wjd1991",
+  "original_created_utc": 1627112990,
+  "title": "Debug and develop GraphQL with a dedicated network inspector",
+  "created_utc": 1627136387,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I just released a big update to the GraphQL network inspector on the chrome store. It&#39;s been getting a steady increase of users over the last few months so I thought it was worth investing some more time into improving the tool.</p>\n\n<p>It&#39;s free to use and provides a much more pleasant experience than the default network dev tool.</p>\n\n<p>After some user feedback I have added:</p>\n\n<ul>\n<li>Light/Dark mode</li>\n<li>Query search/filtering</li>\n<li>Response size and time</li>\n<li>Preserve log checkbox</li>\n</ul>\n\n<p>We have over 2000 developers getting great value from this. So please check it out and let me know what you think.</p>\n\n<p>Here&#39;s a link to the chrome store:<a href=\"https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln?hl=en-GB\">https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln?hl=en-GB</a></p>\n\n<p><a href=\"https://preview.redd.it/1hjamlc894d71.png?width=920&amp;format=png&amp;auto=webp&amp;s=0b91f76d7ca4fc9d7e0326a132eb2182a44a1956\">https://preview.redd.it/1hjamlc894d71.png?width=920&amp;format=png&amp;auto=webp&amp;s=0b91f76d7ca4fc9d7e0326a132eb2182a44a1956</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/SIyX94EClKyYyCGKU0G40e_p-uii5GsYAroNnlPBwnA.jpg?auto=webp&s=333a8afa73df294c0624888f36e213301bf8ab4e",
+          "width": 128,
+          "height": 128
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/SIyX94EClKyYyCGKU0G40e_p-uii5GsYAroNnlPBwnA.jpg?width=108&crop=smart&auto=webp&s=50f86e59f170827603a5aa1b8eb5243d3e2519ad",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "WSEx7uigBnCqjeZPAjPWlLQzIS1CEYzoQ7JfdioW9tg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/oqll8a/debug_and_develop_graphql_with_a_dedicated/",
+  "subreddit": "SideProject",
+  "id": "oqll8a",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I just released a big update to the GraphQL network inspector on the chrome\nstore. It's been getting a steady increase of users over the last few months so\nI thought it was worth investing some more time into improving the tool.\n\nIt's free to use and provides a much more pleasant experience than the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "GraphQLネットワークインスペクターの大きなアップデートをchrome\nストアにアップしました。ここ数ヶ月でユーザー数が着実に増えてきたので\nこのツールの改良にもう少し時間をかける価値があると考えました。\n\nこのツールは無料で使用でき、従来のツールよりもはるかに快適な操作性を提供します。",
+      "title": "専用のネットワークインスペクターでGraphQLのデバッグと開発を行う"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚发布了Chrome上的GraphQL网络检查器的一个重要更新。\n商店上的GraphQL网络检查器的重大更新。在过去的几个月里，它的用户一直在稳步增加，所以\n我认为值得投入更多时间来改进这个工具。\n\n它的使用是免费的，并且提供了一个比以往更愉快的体验。",
+      "title": "用专门的网络检测器调试和开发GraphQL"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛發佈了Chrome上的GraphQL網絡檢查器的一個重要更新。\n商店上的GraphQL網絡檢查器的重大更新。在過去的幾個月裏，它的用戶一直在穩步增加，所以\n我認爲值得投入更多時間來改進這個工具。\n\n它的使用是免費的，並且提供了一個比以往更愉快的體驗。",
+      "title": "用專門的網絡檢測器調試和開發GraphQL"
+    }
+  ]
+}

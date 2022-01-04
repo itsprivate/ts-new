@@ -1,0 +1,32 @@
+{
+  "author": "Inevitable-Lobster-6",
+  "original_created_utc": 1626586897,
+  "title": "I built a mock API generator: Phoney",
+  "created_utc": 1626643548,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>A few months ago, I built a tool to generate fake data based on a JSON payload(<a href=\"https://fakeapi.amalshaji.com\">fakeapi</a>). FakeAPI worked fine, but a major downside was that a JSON payload must be sent as a post request to receive data. This is not good for someone emulating any other HTTP methods.</p>\n\n<p>So I decided to build <a href=\"https://phoney.ml\">Phoney</a>. <strong>Phoney</strong> is a mock API generator that lets you create apps to manage endpoints. Features of phoney:</p>\n\n<ul>\n<li>Create apps to manage your endpoints</li>\n<li>Create endpoints that return data in a custom format</li>\n<li>Default API key authentication support</li>\n<li>All methods, GET, POST, PUT, and DELETE, are supported.</li>\n<li>Dynamic endpoints supported</li>\n<li>Swagger UI for each app.</li>\n<li>Built-in JSON editor for creating endpoint schema</li>\n<li>Supported response codes, 200, 201, and 202</li>\n<li>Syntax highlighting for JSON schema</li>\n<li>Light/Dark theme switch</li>\n</ul>\n\n<p>App: <a href=\"https://phoney.ml\">https://phoney.ml</a></p>\n\n<p>Documentation: <a href=\"https://docs.phoney.ml\">https://docs.phoney.ml</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/omkkw7/i_built_a_mock_api_generator_phoney/",
+  "subreddit": "SideProject",
+  "id": "omkkw7",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "A few months ago, I built a tool to generate fake data based on a JSON\npayload(fakeapi [https://fakeapi.amalshaji.com]). FakeAPI worked fine, but a\nmajor downside was that a JSON payload must be sent as a post request to receive\ndata. This is not good for someone emulating any other HTTP…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "数ヶ月前、私はJSONに基づいて偽のデータを生成するツールを作りました。\nペイロードに基づいてフェイクデータを生成するツールを作りました(fakeapi [https://fakeapi.amalshaji.com])。FakeAPIは問題なく動作しましたが、大きな欠点として\n大きな欠点は、データを受け取るためにJSONペイロードをポスト・リクエストとして送らなければならないことでした。\nデータを受信しなければならないことです。これは、他のHTTPをエミュレートしている人にとっては良くないことですね...。",
+      "title": "モックのAPIジェネレーターを作ってみた Phoney"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "几个月前，我建立了一个工具来生成基于JSON的虚假数据\npayload(fakeapi [https://fakeapi.amalshaji.com])。FakeAPI工作得很好，但一个主要的缺点是\n但一个主要的缺点是，JSON有效载荷必须作为一个post请求发送，以接收\n数据。这对模拟其他HTTP的人来说不是好事...",
+      "title": "我建立了一个模拟的API生成器。伪装"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "幾個月前，我建立了一個工具來生成基於JSON的虛假數據\npayload(fakeapi [https://fakeapi.amalshaji.com])。FakeAPI工作得很好，但一個主要的缺點是\n但一個主要的缺點是，JSON有效載荷必須作爲一個post請求發送，以接收\n數據。這對模擬其他HTTP的人來說不是好事...",
+      "title": "我建立了一個模擬的API生成器。僞裝"
+    }
+  ]
+}

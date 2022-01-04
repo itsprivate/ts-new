@@ -1,0 +1,78 @@
+{
+  "author": "SenatusSPQR",
+  "original_created_utc": 1634305671,
+  "title": "2miners payouts analysis 15/10/2021: Nano and BTC payouts keep growing, bigger miners pick ETH/BTC while smaller miners pick Nano",
+  "created_utc": 1634380802,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Since 2miners is kind enough to publish their miner stats online (<a href=\"https://eth.2miners.com/miners\">https://eth.2miners.com/miners</a>) I decided to do a quick analysis on it. For those out of the loop, 2miners recently decided to give miners the option to be paid out in Nano and BTC rather than just ETH, to allow their users to have cheaper txs using BTC or have free transactions using Nano. <a href=\"https://2miners.com/blog/how-to-get-payouts-for-ethereum-mining-without-fees/\">See this article for more information</a>.</p>\n\n<p><a href=\"https://preview.redd.it/wufhjg0zbmt71.png?width=1980&amp;format=png&amp;auto=webp&amp;s=234731c5f375bcbf248004fedd0a73cafe792f43\">2miners.com - payouts now available in Nano</a></p>\n\n<p>Since adding Nano/BTC as a payment option the number of miners that choose Nano and BTC has been growing quickly. I did an analysis today and hope to repeat it soon, so we can see how this further develops. It&#39;s now ~4-5 days ago that Nano/BTC payouts were added.</p>\n\n<h1>So, the stats when I did this analysis.</h1>\n\n<p>Total miners: 47,217.</p>\n\n<p>Total hashrate: 21.89 TH/s</p>\n\n<p>ETH-paid miners: 43,302</p>\n\n<p>Nano-paid miners: 2,146</p>\n\n<p>BTC-paid miners: 1,769</p>\n\n<p>Average ETH hashrate per worker: 0.485227 GH/s</p>\n\n<p>Average BTC hashrate per worker: 0.322993 GH/s</p>\n\n<p>Average Nano hashrate per worker: 0.178527 GH/s</p>\n\n<p>Nano share in total hashrate: 1.77%</p>\n\n<h1>Conclusion</h1>\n\n<p>The number of miners choosing to be paid out in Nano and BTC is increasing rapidly from ~500 each on day 1 to ~2150/1750 on day 4/5.</p>\n\n<p>Predictably yet interestingly, <strong>those choosing Nano as their payout method tend to be smaller miners</strong>. This makes a lot of sense. Smaller miners are paid less, and therefore any fixed fee has a larger impact on them. This also illustrates Nano&#39;s appeal in a broader sense - with increasing fees on both Bitcoin and Ethereum, Nano becomes ever more attractive. I&#39;d expect that if more services more to offering payments in ETH/BTC/Nano, fees on ETH and BTC increase further, making Nano ever more interesting.</p>\n\n<p>To those interested I&#39;d suggest looking at the raw data on <a href=\"https://eth.2miners.com/miners\">https://eth.2miners.com/miners</a>. I&#39;ll try to repeat this analysis in a week or so, to see what&#39;s changed. For now exciting times for Nano, and it&#39;s awesome to see such true usage.</p>\n</div><!-- SC_ON -->",
+  "score": 151,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?auto=webp&s=a100b28cb82db35e132df8d365c478aced6a9c48",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?width=108&crop=smart&auto=webp&s=28a0ec1bfb66f3a5992f5f46fe135735792750e3",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?width=216&crop=smart&auto=webp&s=bb5e2e873bfa18d0b6919ed4da3037f0b738a680",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?width=320&crop=smart&auto=webp&s=fe68f95fc23e61d69e215c6beaefe73733547111",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?width=640&crop=smart&auto=webp&s=401318b0f8050b177675574d416c7971be5e7248",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?width=960&crop=smart&auto=webp&s=7760dc51cab76e2568ffb4ec41722b344dc15bc0",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/zCwtlLi4N75XlSSQPL3jSgnuiNxrrGRUy0WNTVMCDMI.jpg?width=1080&crop=smart&auto=webp&s=0dd8cf9487914428203e350dd1c9e49eafaa901d",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "Rco6yAq7vBvXlbnpxz7JpqZPs_LjZsCtaesx_pWMb28"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/q8ot9e/2miners_payouts_analysis_15102021_nano_and_btc/",
+  "subreddit": "CryptoCurrency",
+  "id": "q8ot9e",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Since 2miners is kind enough to publish their miner stats online\n(https://eth.2miners.com/miners) I decided to do a quick analysis on it. For\nthose out of the loop, 2miners recently decided to give miners the option to be\npaid out in Nano and BTC rather than just ETH, to allow their users to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "2minersが親切にもマイナーの統計をオンラインで公開しているので\n(https://eth.2miners.com/miners)で簡単な分析をしてみることにしました。ループの外にいる人のために\nのために、2minersは最近、マイナーにナノ単位で支払われるオプションを与えることを決定しました。\nETHだけではなく、NanoとBTCで支払われるオプションを与えることにしました。",
+      "title": "2miners ペイアウト分析 15/10/2021: NanoとBTCのペイアウトは増え続け、大規模マイナーはETH/BTCを選び、小規模マイナーはNanoを選ぶ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "由于2miners很好地在网上公布了他们的矿工统计资料\n(https://eth.2miners.com/miners)，我决定对其进行一次快速分析。对于\n对于那些不了解情况的人来说，2miners最近决定让矿工们选择以纳米币和BTC而不仅仅是ETH来支付。\n以纳米币和BTC支付，而不仅仅是ETH，以使他们的用户能够...",
+      "title": "2miners赔款分析15/10/2021。Nano和BTC的报酬不断增长，大矿工选择ETH/BTC而小矿工选择Nano"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "由於2miners很好地在網上公佈了他們的礦工統計資料\n(https://eth.2miners.com/miners)，我決定對其進行一次快速分析。對於\n對於那些不瞭解情況的人來說，2miners最近決定讓礦工們選擇以納米幣和BTC而不僅僅是ETH來支付。\n以納米幣和BTC支付，而不僅僅是ETH，以使他們的用戶能夠...",
+      "title": "2miners賠款分析15/10/2021。Nano和BTC的報酬不斷增長，大礦工選擇ETH/BTC而小礦工選擇Nano"
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "Bogleheads",
+  "selftext": "",
+  "user_reports": [],
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Do Hedge Funds beat the market? - I analyzed the performance of 5000+ Hedge Funds over the past 24 years and benchmarked it against SP500. Here are the results!",
+  "link_flair_richtext": [],
+  "subreddit_name_prefixed": "r/Bogleheads",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": null,
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "name": "t3_p0g4yj",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 89,
+  "total_awards_received": 0,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "author_fullname": "t2_b3pfg",
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": null,
+  "can_mod_post": false,
+  "score": 89,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {},
+  "content_categories": null,
+  "is_self": false,
+  "mod_note": null,
+  "crosspost_parent_list": [
+    {
+      "approved_at_utc": null,
+      "subreddit": "market_sentiment",
+      "selftext": "**Preamble** \n\nHedge Funds are a controversial breed of companies. On one hand, you have [Michael Burry’s Scion Capital returning 489%](https://en.wikipedia.org/wiki/Michael_Burry) shorting the housing market and on the other hand, you have [Melvin Capital losing 53%](https://en.wikipedia.org/wiki/GameStop_short_squeeze#Losses_by_short_sellers) of its investment value in 1 month following them shorting GameStop. Adding to this, most hedge funds have an eye-watering 2 and 20 fee structure -> What this means is that they will take 2% of your investment value and 20% of your profits every year as management fees \\[1\\].\n\nEven with these significant risk factors and hefty fees, the total assets managed by Hedge Funds have grown year on year and is [now over $3.8 Trillion](https://www.statista.com/statistics/271771/assets-of-the-hedge-funds-worldwide/#:~:text=Assets%20under%20management%20of%20hedge%20funds%20worldwide%201997%2D2020&text=In%202020%2C%20the%20value%20reached,managers%20in%20the%20United%20States.). Given that you need to be an institutional or accredited investor to invest directly in a hedge fund \\[2\\], it begs the question\n\n**Do Hedge funds beat the market?** \n\n**Data**\n\nThe individual performance data of hedge funds are extremely hard to get \\[3\\]. For this analysis, I would be using the Barclay Hedge Fund Index that calculates the average return \\[4\\] of 5,878 Hedge Funds. The data is available from 1997. \n\nThis dataset was also used by [American Enterprise Institute in their analysis](https://www.aei.org/carpe-diem/the-sp-500-index-out-performed-hedge-funds-over-the-last-10-years-and-it-wasnt-even-close/), so the data must be accurate. All the data used in this analysis is shared as a Google sheet at the end. \n\n**Result**\n\n[ ](https://preview.redd.it/vmpy8zcqx4g71.png?width=882&format=png&auto=webp&s=34d95c255172a88b2016c1c1f231b819c9572970)\n\nS&P500 has beaten the hedge funds summarily with it returning a whopping 222% more than the hedge fund over the last 24 years \\[5\\]. This difference becomes even more drastic if you consider the last 10 years. During 2011-2020, SPY has returned 265% vs the average hedge fund returns of just 60%. \n\nThis awesome visualization by AEI shows the enormous difference in returns over the last 10 years. \n\n[ ](https://i.redd.it/g7ikrmxsx4g71.gif)\n\nIf you are wondering about the impact of this on the average investor (who will not be able to invest in a Hedge fund due to the stringent capital requirements), these above returns correlate directly with the returns of [Fund of Funds (FOF)](https://www.investopedia.com/terms/f/fundsoffunds.asp). FOFs usually invest in a wide variety of Hedge funds and do not have the capital requirements required by a normal Hedge fund so that anyone can invest in it.\n\nThe catch here is that you will be paying the management fee for both FOFs as well as the Hedge Funds. This implies that your net return would be even lower than directly investing in the Hedge Fund. This becomes apparent as if you consider the last 24 years, on average FOFs (Barclay Fund of Funds index), returned 233.1% (\\~390% less than avg Hedge Fund) vs SPY returning 846%! \n\n**Warren Buffet’s take of Hedge Funds**\n\nIn 2007, Warren Buffet had entered into a famous bet that an unmanaged, low-cost S&P 500 stock index fund would out-perform an actively managed group of high-cost hedge funds over the ten-year period from 2008 to 2017 when performance was measured net of fees, costs, and expenses. The result was similar to the above with S&P 500 beating all the actively managed funds by a significant margin. This is what he wrote to the investors in his annual letter\n\n&#x200B;\n\n>A number of smart people are involved in running hedge funds. But to a great extent their efforts are self-neutralizing, and their IQ will not overcome the costs they impose on investors. Investors, on average and over time, will do better with a low-cost index fund than with a group of funds of funds.  \n>  \n>  \nPerformance comes, performance goes. Fees never falter\n\n&#x200B;\n\nWhile I don’t completely agree with this view that it’s impossible for Hedge Funds to beat the market (The famous [Medallion Fund of Renaissance Technologies](https://ofdollarsanddata.com/medallion-fund/) \\[6\\] have returned 39% annualized returns (net of fees) compared to S&P 500‘s \\~8%  annualized returns over the last 30 years). But, it seems that on average Hedge Funds do return lesser than the stock market benchmark! \n\n**An alternative view**\n\nIt would be now easy to conclude now that Hedge funds are pointless and the people who invest them in at not savvy investors. But, \n\n[ ](https://i.redd.it/8ayguk66y4g71.gif)\n\nGiven that the investors who invest in Hedge Funds usually are high net worth individuals having their own Financial Advisors or Pension Funds having teams of analysts evaluating their investments, why would they still invest in Hedge Funds that have considerably lesser returns than SPY?  \n\nThe answer lies in [diversification and risk mitigation](https://www.investopedia.com/articles/03/121003.asp). \n\n[ ](https://preview.redd.it/cey22vp7y4g71.png?width=1020&format=png&auto=webp&s=bb1d917c2a1e5367b450cfd984bc42fd5351a21f)\n\nThe above chart showcases the performance comparison between S&P 500 and Hedge Fund over the last two decades. We know that SPY had outperformed the hedge funds. But what is interesting is what happens during market crashes. \n\nIn the 2000-2002 period where the market consistently had negative returns (Dotcom bubble) in the range of -10 to -22%, hedge funds were still net positive. Even in the 2008 Financial crisis, the difference in losses between SPY and hedge funds was a staggering 15%. \n\nThis chart also showcases the important fact that most hedge funds are actually hedged pretty well in reality \\[7\\]. We only usually hear about outliers such as Michael Burry’s insane bet or how Bill Hwang of Archegos Capital lost $20B in two days which biases our entire outlook about hedge funds. To put this in perspective, over the period from January 1994 to March 2021, volatility (annualized standard deviation) of the S&P 500 was about 14.9% while the volatility of the aggregated hedge funds was only about 6.79% \\[8\\].\n\nWhile you and I might care about the extra returns of SPY, I guess when you have 100’s of Millions of dollars, it becomes more important to conserve your funds rather than to chase a few extra percentage points of returns in SPY.\n\n**Conclusion**\n\nI started off the analysis with the expectation that Hedge Funds would easily be beating the market so as to justify their exorbitant fee structure. As we can see from the analysis, on average they don’t beat the market but provide sophisticated methods of diversification for big funds and HNI’s. \n\nEven if you want some effective diversification, it would be much better to invest directly with established hedge funds rather than going for Fund of Funds as with the latter, most of your returns would be taken by the two-tiered fee structure. \n\nWhat this means for the average investor is that in almost all cases, you would get a better return on your investment over the long run by just investing in a low-cost index fund. Replicating what pension funds and HNI’s do might not be the best strategy for your portfolio.   \n\n&#x200B;\n\nGoogle sheet containing all the data used in this analysis: [Here](https://docs.google.com/spreadsheets/d/1nOQPyHdRNaRSv-c04iBRndvsgMDP78uSLKbxMwGWkeo/edit?usp=sharing)\n\n&#x200B;\n\n**Footnotes**\n\n\\[1\\] To signify the impact of this fee, let’s take the following e.g. if you invest $100K into a hedge fund and at the end of the year, your fund grows to $120K, they would charge you $2K (2%) + $4K (20% of the profit) for a total of $6K. Even if they lose money, they will still charge you $2K for managing your money. Vanguard SP500 ETF would charge you $30 for the same!\n\n\\[2\\] Minimum initial investments for hedge funds usually range from $100,000 to $2 million and you can only withdraw funds when you’ve invested a certain amount of money during specified times of the year. You also need to have a minimum net worth of $1 million and your annual income should amount to more than $200,000.\n\n\\[3\\] Barclayhedge provides data for the performance of individual hedge funds but it costs somewhere between $10-30K. I like you guys, but not that much :P! \n\n\\[4\\] The returns are average not weighted average based on the asset under management so it’s representative of the individual returns of the Hedge funds and does not bias the analysis due to the size of the Hedge Fund. \n\n\\[5\\] Please note that the SPY returns are not net of fees. But this would be inconsequential as a low-cost Vanguard index fund has fees as low as 0.03%. The returns shown for hedge funds are net of fees. \n\n\\[6\\] To put the performance of Medallion Fund in perspective (its considered as the greatest money-making machine of all time), $1 invested in the Medallion Fund from 1988-2018 would have grown to over $20,000 (net of fees) while $1 invested in the S&P 500 would have only grown to $20 over the same time period.  Even a $1 investment in Warren Buffett’s Berkshire Hathaway would have *only* grown to $100 during this time.   \n\n\\[7\\] For e.g., some hedge funds by inexpensive long-dated put options that hedges against a sudden market downturn. While this would ultimately make their net return lower in a bull market, in case of a huge crash, they would still be positive. [This](https://thehedgefundjournal.com/fat-tails/) article discusses more on fat tail risks in the market and how hedging is done.  \n\n\\[8\\] The volatility is calculated using [Credit Suisse Hedge Fund Index](https://lab.credit-suisse.com/#/en/index/HEDG/HEDG/performance). \n\nDisclaimer: I am not a financial advisor!",
+      "author_fullname": "t2_q15pxyy",
+      "saved": false,
+      "mod_reason_title": null,
+      "gilded": 0,
+      "clicked": false,
+      "title": "Do Hedge Funds beat the market? - I analyzed the performance of 5000+ Hedge Funds over the past 24 years and benchmarked it against SP500. Here are the results!",
+      "link_flair_richtext": [],
+      "subreddit_name_prefixed": "r/market_sentiment",
+      "hidden": false,
+      "pwls": null,
+      "link_flair_css_class": null,
+      "downs": 0,
+      "top_awarded_type": null,
+      "hide_score": false,
+      "media_metadata": {
+        "g7ikrmxsx4g71": {
+          "status": "valid",
+          "e": "AnimatedImage",
+          "m": "image/gif",
+          "p": [
+            {
+              "y": 50,
+              "x": 108,
+              "u": "https://preview.redd.it/g7ikrmxsx4g71.gif?width=108&crop=smart&format=png8&s=482dc422491b6eb7ef3b3766d0ad6db9065681f8"
+            },
+            {
+              "y": 100,
+              "x": 216,
+              "u": "https://preview.redd.it/g7ikrmxsx4g71.gif?width=216&crop=smart&format=png8&s=6f8f093291bb5b3d67393a0bbbb396466d006aca"
+            },
+            {
+              "y": 149,
+              "x": 320,
+              "u": "https://preview.redd.it/g7ikrmxsx4g71.gif?width=320&crop=smart&format=png8&s=83f717ca70421e476f11296cd733c1b03c5c2311"
+            },
+            {
+              "y": 299,
+              "x": 640,
+              "u": "https://preview.redd.it/g7ikrmxsx4g71.gif?width=640&crop=smart&format=png8&s=073351a8179d4bde801358638ac6a36647b67cb2"
+            }
+          ],
+          "s": {
+            "y": 374,
+            "gif": "https://i.redd.it/g7ikrmxsx4g71.gif",
+            "mp4": "https://preview.redd.it/g7ikrmxsx4g71.gif?format=mp4&s=4bdcf391ea33b4a5d7bb53e3b5195185ba7bc37c",
+            "x": 800
+          },
+          "id": "g7ikrmxsx4g71"
+        },
+        "cey22vp7y4g71": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/png",
+          "p": [
+            {
+              "y": 42,
+              "x": 108,
+              "u": "https://preview.redd.it/cey22vp7y4g71.png?width=108&crop=smart&auto=webp&s=1beab2f7370b165d95f856a00e3101534a460b3f"
+            },
+            {
+              "y": 84,
+              "x": 216,
+              "u": "https://preview.redd.it/cey22vp7y4g71.png?width=216&crop=smart&auto=webp&s=8e4ee059da917302ce3c9ffecb4edbd3d1fe36d7"
+            },
+            {
+              "y": 125,
+              "x": 320,
+              "u": "https://preview.redd.it/cey22vp7y4g71.png?width=320&crop=smart&auto=webp&s=0194b0e081ebc3fc3c684a2093cc4662cf0d26ef"
+            },
+            {
+              "y": 250,
+              "x": 640,
+              "u": "https://preview.redd.it/cey22vp7y4g71.png?width=640&crop=smart&auto=webp&s=cea118989434f441db0b0675660cb6b8ca8061c4"
+            },
+            {
+              "y": 375,
+              "x": 960,
+              "u": "https://preview.redd.it/cey22vp7y4g71.png?width=960&crop=smart&auto=webp&s=3e9c90c9515baee3507652b6adfbfef3724da17f"
+            }
+          ],
+          "s": {
+            "y": 399,
+            "x": 1020,
+            "u": "https://preview.redd.it/cey22vp7y4g71.png?width=1020&format=png&auto=webp&s=bb1d917c2a1e5367b450cfd984bc42fd5351a21f"
+          },
+          "id": "cey22vp7y4g71"
+        },
+        "vmpy8zcqx4g71": {
+          "status": "valid",
+          "e": "Image",
+          "m": "image/png",
+          "p": [
+            {
+              "y": 29,
+              "x": 108,
+              "u": "https://preview.redd.it/vmpy8zcqx4g71.png?width=108&crop=smart&auto=webp&s=bd27b5d03a71912a73d570a1b7540ec1a49649bd"
+            },
+            {
+              "y": 58,
+              "x": 216,
+              "u": "https://preview.redd.it/vmpy8zcqx4g71.png?width=216&crop=smart&auto=webp&s=2e0addde3c7499b6b03c1343f60fe62a98942328"
+            },
+            {
+              "y": 86,
+              "x": 320,
+              "u": "https://preview.redd.it/vmpy8zcqx4g71.png?width=320&crop=smart&auto=webp&s=622eb58c03b027b75f549701948fcfa42760fc77"
+            },
+            {
+              "y": 173,
+              "x": 640,
+              "u": "https://preview.redd.it/vmpy8zcqx4g71.png?width=640&crop=smart&auto=webp&s=c8a92053599609585b26ff2a08fc2d0ad934c7e1"
+            }
+          ],
+          "s": {
+            "y": 239,
+            "x": 882,
+            "u": "https://preview.redd.it/vmpy8zcqx4g71.png?width=882&format=png&auto=webp&s=34d95c255172a88b2016c1c1f231b819c9572970"
+          },
+          "id": "vmpy8zcqx4g71"
+        },
+        "8ayguk66y4g71": {
+          "status": "valid",
+          "e": "AnimatedImage",
+          "m": "image/gif",
+          "p": [
+            {
+              "y": 54,
+              "x": 108,
+              "u": "https://preview.redd.it/8ayguk66y4g71.gif?width=108&crop=smart&format=png8&s=1ef451f12835b7d82167128ee152ff0bfeb69fc0"
+            },
+            {
+              "y": 108,
+              "x": 216,
+              "u": "https://preview.redd.it/8ayguk66y4g71.gif?width=216&crop=smart&format=png8&s=a54a6b5f7755cee47a6610c67a4b1571f8a83d25"
+            },
+            {
+              "y": 160,
+              "x": 320,
+              "u": "https://preview.redd.it/8ayguk66y4g71.gif?width=320&crop=smart&format=png8&s=ffd3aea7ad6f3b357a73e532be2cf15096f0e96d"
+            }
+          ],
+          "s": {
+            "y": 250,
+            "gif": "https://i.redd.it/8ayguk66y4g71.gif",
+            "mp4": "https://preview.redd.it/8ayguk66y4g71.gif?format=mp4&s=467cac13f3d38ef4fe7f0f48ddc6cff3ca4c5acf",
+            "x": 500
+          },
+          "id": "8ayguk66y4g71"
+        }
+      },
+      "name": "t3_p0emqj",
+      "quarantine": false,
+      "link_flair_text_color": "dark",
+      "upvote_ratio": 0.98,
+      "author_flair_background_color": null,
+      "subreddit_type": "restricted",
+      "ups": 113,
+      "total_awards_received": 5,
+      "media_embed": {},
+      "author_flair_template_id": null,
+      "is_original_content": false,
+      "user_reports": [],
+      "secure_media": null,
+      "is_reddit_media_domain": false,
+      "is_meta": false,
+      "category": null,
+      "secure_media_embed": {},
+      "link_flair_text": null,
+      "can_mod_post": false,
+      "score": 113,
+      "approved_by": null,
+      "is_created_from_ads_ui": false,
+      "author_premium": true,
+      "thumbnail": "",
+      "edited": false,
+      "author_flair_css_class": null,
+      "author_flair_richtext": [],
+      "gildings": {},
+      "content_categories": null,
+      "is_self": true,
+      "mod_note": null,
+      "created": 1628429256,
+      "link_flair_type": "text",
+      "wls": null,
+      "removed_by_category": null,
+      "banned_by": null,
+      "author_flair_type": "text",
+      "domain": "self.market_sentiment",
+      "allow_live_comments": false,
+      "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Preamble</strong> </p>\n\n<p>Hedge Funds are a controversial breed of companies. On one hand, you have <a href=\"https://en.wikipedia.org/wiki/Michael_Burry\">Michael Burry’s Scion Capital returning 489%</a> shorting the housing market and on the other hand, you have <a href=\"https://en.wikipedia.org/wiki/GameStop_short_squeeze#Losses_by_short_sellers\">Melvin Capital losing 53%</a> of its investment value in 1 month following them shorting GameStop. Adding to this, most hedge funds have an eye-watering 2 and 20 fee structure -&gt; What this means is that they will take 2% of your investment value and 20% of your profits every year as management fees [1].</p>\n\n<p>Even with these significant risk factors and hefty fees, the total assets managed by Hedge Funds have grown year on year and is <a href=\"https://www.statista.com/statistics/271771/assets-of-the-hedge-funds-worldwide/#:%7E:text=Assets%20under%20management%20of%20hedge%20funds%20worldwide%201997%2D2020&amp;text=In%202020%2C%20the%20value%20reached,managers%20in%20the%20United%20States.\">now over $3.8 Trillion</a>. Given that you need to be an institutional or accredited investor to invest directly in a hedge fund [2], it begs the question</p>\n\n<p><strong>Do Hedge funds beat the market?</strong> </p>\n\n<p><strong>Data</strong></p>\n\n<p>The individual performance data of hedge funds are extremely hard to get [3]. For this analysis, I would be using the Barclay Hedge Fund Index that calculates the average return [4] of 5,878 Hedge Funds. The data is available from 1997. </p>\n\n<p>This dataset was also used by <a href=\"https://www.aei.org/carpe-diem/the-sp-500-index-out-performed-hedge-funds-over-the-last-10-years-and-it-wasnt-even-close/\">American Enterprise Institute in their analysis</a>, so the data must be accurate. All the data used in this analysis is shared as a Google sheet at the end. </p>\n\n<p><strong>Result</strong></p>\n\n<p><a href=\"https://preview.redd.it/vmpy8zcqx4g71.png?width=882&amp;format=png&amp;auto=webp&amp;s=34d95c255172a88b2016c1c1f231b819c9572970\"> </a></p>\n\n<p>S&amp;P500 has beaten the hedge funds summarily with it returning a whopping 222% more than the hedge fund over the last 24 years [5]. This difference becomes even more drastic if you consider the last 10 years. During 2011-2020, SPY has returned 265% vs the average hedge fund returns of just 60%. </p>\n\n<p>This awesome visualization by AEI shows the enormous difference in returns over the last 10 years. </p>\n\n<p><a href=\"https://i.redd.it/g7ikrmxsx4g71.gif\"> </a></p>\n\n<p>If you are wondering about the impact of this on the average investor (who will not be able to invest in a Hedge fund due to the stringent capital requirements), these above returns correlate directly with the returns of <a href=\"https://www.investopedia.com/terms/f/fundsoffunds.asp\">Fund of Funds (FOF)</a>. FOFs usually invest in a wide variety of Hedge funds and do not have the capital requirements required by a normal Hedge fund so that anyone can invest in it.</p>\n\n<p>The catch here is that you will be paying the management fee for both FOFs as well as the Hedge Funds. This implies that your net return would be even lower than directly investing in the Hedge Fund. This becomes apparent as if you consider the last 24 years, on average FOFs (Barclay Fund of Funds index), returned 233.1% (~390% less than avg Hedge Fund) vs SPY returning 846%! </p>\n\n<p><strong>Warren Buffet’s take of Hedge Funds</strong></p>\n\n<p>In 2007, Warren Buffet had entered into a famous bet that an unmanaged, low-cost S&amp;P 500 stock index fund would out-perform an actively managed group of high-cost hedge funds over the ten-year period from 2008 to 2017 when performance was measured net of fees, costs, and expenses. The result was similar to the above with S&amp;P 500 beating all the actively managed funds by a significant margin. This is what he wrote to the investors in his annual letter</p>\n\n<p>&#x200B;</p>\n\n<blockquote>\n<p>A number of smart people are involved in running hedge funds. But to a great extent their efforts are self-neutralizing, and their IQ will not overcome the costs they impose on investors. Investors, on average and over time, will do better with a low-cost index fund than with a group of funds of funds.  </p>\n\n<p>Performance comes, performance goes. Fees never falter</p>\n</blockquote>\n\n<p>&#x200B;</p>\n\n<p>While I don’t completely agree with this view that it’s impossible for Hedge Funds to beat the market (The famous <a href=\"https://ofdollarsanddata.com/medallion-fund/\">Medallion Fund of Renaissance Technologies</a> [6] have returned 39% annualized returns (net of fees) compared to S&amp;P 500‘s ~8%  annualized returns over the last 30 years). But, it seems that on average Hedge Funds do return lesser than the stock market benchmark! </p>\n\n<p><strong>An alternative view</strong></p>\n\n<p>It would be now easy to conclude now that Hedge funds are pointless and the people who invest them in at not savvy investors. But, </p>\n\n<p><a href=\"https://i.redd.it/8ayguk66y4g71.gif\"> </a></p>\n\n<p>Given that the investors who invest in Hedge Funds usually are high net worth individuals having their own Financial Advisors or Pension Funds having teams of analysts evaluating their investments, why would they still invest in Hedge Funds that have considerably lesser returns than SPY?  </p>\n\n<p>The answer lies in <a href=\"https://www.investopedia.com/articles/03/121003.asp\">diversification and risk mitigation</a>. </p>\n\n<p><a href=\"https://preview.redd.it/cey22vp7y4g71.png?width=1020&amp;format=png&amp;auto=webp&amp;s=bb1d917c2a1e5367b450cfd984bc42fd5351a21f\"> </a></p>\n\n<p>The above chart showcases the performance comparison between S&amp;P 500 and Hedge Fund over the last two decades. We know that SPY had outperformed the hedge funds. But what is interesting is what happens during market crashes. </p>\n\n<p>In the 2000-2002 period where the market consistently had negative returns (Dotcom bubble) in the range of -10 to -22%, hedge funds were still net positive. Even in the 2008 Financial crisis, the difference in losses between SPY and hedge funds was a staggering 15%. </p>\n\n<p>This chart also showcases the important fact that most hedge funds are actually hedged pretty well in reality [7]. We only usually hear about outliers such as Michael Burry’s insane bet or how Bill Hwang of Archegos Capital lost $20B in two days which biases our entire outlook about hedge funds. To put this in perspective, over the period from January 1994 to March 2021, volatility (annualized standard deviation) of the S&amp;P 500 was about 14.9% while the volatility of the aggregated hedge funds was only about 6.79% [8].</p>\n\n<p>While you and I might care about the extra returns of SPY, I guess when you have 100’s of Millions of dollars, it becomes more important to conserve your funds rather than to chase a few extra percentage points of returns in SPY.</p>\n\n<p><strong>Conclusion</strong></p>\n\n<p>I started off the analysis with the expectation that Hedge Funds would easily be beating the market so as to justify their exorbitant fee structure. As we can see from the analysis, on average they don’t beat the market but provide sophisticated methods of diversification for big funds and HNI’s. </p>\n\n<p>Even if you want some effective diversification, it would be much better to invest directly with established hedge funds rather than going for Fund of Funds as with the latter, most of your returns would be taken by the two-tiered fee structure. </p>\n\n<p>What this means for the average investor is that in almost all cases, you would get a better return on your investment over the long run by just investing in a low-cost index fund. Replicating what pension funds and HNI’s do might not be the best strategy for your portfolio.   </p>\n\n<p>&#x200B;</p>\n\n<p>Google sheet containing all the data used in this analysis: <a href=\"https://docs.google.com/spreadsheets/d/1nOQPyHdRNaRSv-c04iBRndvsgMDP78uSLKbxMwGWkeo/edit?usp=sharing\">Here</a></p>\n\n<p>&#x200B;</p>\n\n<p><strong>Footnotes</strong></p>\n\n<p>[1] To signify the impact of this fee, let’s take the following e.g. if you invest $100K into a hedge fund and at the end of the year, your fund grows to $120K, they would charge you $2K (2%) + $4K (20% of the profit) for a total of $6K. Even if they lose money, they will still charge you $2K for managing your money. Vanguard SP500 ETF would charge you $30 for the same!</p>\n\n<p>[2] Minimum initial investments for hedge funds usually range from $100,000 to $2 million and you can only withdraw funds when you’ve invested a certain amount of money during specified times of the year. You also need to have a minimum net worth of $1 million and your annual income should amount to more than $200,000.</p>\n\n<p>[3] Barclayhedge provides data for the performance of individual hedge funds but it costs somewhere between $10-30K. I like you guys, but not that much :P! </p>\n\n<p>[4] The returns are average not weighted average based on the asset under management so it’s representative of the individual returns of the Hedge funds and does not bias the analysis due to the size of the Hedge Fund. </p>\n\n<p>[5] Please note that the SPY returns are not net of fees. But this would be inconsequential as a low-cost Vanguard index fund has fees as low as 0.03%. The returns shown for hedge funds are net of fees. </p>\n\n<p>[6] To put the performance of Medallion Fund in perspective (its considered as the greatest money-making machine of all time), $1 invested in the Medallion Fund from 1988-2018 would have grown to over $20,000 (net of fees) while $1 invested in the S&amp;P 500 would have only grown to $20 over the same time period.  Even a $1 investment in Warren Buffett’s Berkshire Hathaway would have <em>only</em> grown to $100 during this time.   </p>\n\n<p>[7] For e.g., some hedge funds by inexpensive long-dated put options that hedges against a sudden market downturn. While this would ultimately make their net return lower in a bull market, in case of a huge crash, they would still be positive. <a href=\"https://thehedgefundjournal.com/fat-tails/\">This</a> article discusses more on fat tail risks in the market and how hedging is done.  </p>\n\n<p>[8] The volatility is calculated using <a href=\"https://lab.credit-suisse.com/#/en/index/HEDG/HEDG/performance\">Credit Suisse Hedge Fund Index</a>. </p>\n\n<p>Disclaimer: I am not a financial advisor!</p>\n</div><!-- SC_ON -->",
+      "likes": null,
+      "suggested_sort": null,
+      "banned_at_utc": null,
+      "view_count": null,
+      "archived": false,
+      "no_follow": false,
+      "is_crosspostable": false,
+      "pinned": false,
+      "over_18": false,
+      "all_awardings": [
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 150,
+          "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Thank you stranger. Shows the award.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 2,
+          "static_icon_height": 2048,
+          "name": "Helpful",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 2048,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+        },
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 125,
+          "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&height=16&auto=webp&s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&height=32&auto=webp&s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&height=48&auto=webp&s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&height=64&auto=webp&s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&height=128&auto=webp&s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "When you come across a feel-good thing.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 2,
+          "static_icon_height": 2048,
+          "name": "Wholesome",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&height=16&auto=webp&s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&height=32&auto=webp&s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&height=48&auto=webp&s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&height=64&auto=webp&s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&height=128&auto=webp&s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 2048,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png"
+        },
+        {
+          "giver_coin_reward": 0,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 80,
+          "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+          "penny_donate": 0,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&height=16&auto=webp&s=73a23bf7f08b633508dedf457f2704c522b94a04",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&height=32&auto=webp&s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&height=48&auto=webp&s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&height=64&auto=webp&s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&height=128&auto=webp&s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Everything is better with a good hug",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 1,
+          "static_icon_height": 2048,
+          "name": "Hugz",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&height=16&auto=webp&s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&height=32&auto=webp&s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&height=48&auto=webp&s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&height=64&auto=webp&s=85527145e0c4b754306a30df29e584fd16187636",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&height=128&auto=webp&s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": "PNG",
+          "icon_height": 2048,
+          "penny_price": 0,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png"
+        }
+      ],
+      "awarders": [],
+      "media_only": false,
+      "can_gild": false,
+      "spoiler": false,
+      "locked": false,
+      "author_flair_text": null,
+      "treatment_tags": [],
+      "visited": false,
+      "removed_by": null,
+      "num_reports": null,
+      "distinguished": null,
+      "subreddit_id": "t5_3yltjx",
+      "author_is_blocked": false,
+      "mod_reason_by": null,
+      "removal_reason": null,
+      "link_flair_background_color": "",
+      "id": "p0emqj",
+      "is_robot_indexable": true,
+      "report_reasons": null,
+      "author": "nobjos",
+      "discussion_type": null,
+      "num_comments": 26,
+      "send_replies": true,
+      "whitelist_status": null,
+      "contest_mode": false,
+      "mod_reports": [],
+      "author_patreon_flair": false,
+      "author_flair_text_color": null,
+      "permalink": "/r/market_sentiment/comments/p0emqj/do_hedge_funds_beat_the_market_i_analyzed_the/",
+      "parent_whitelist_status": null,
+      "stickied": false,
+      "url": "https://www.reddit.com/r/market_sentiment/comments/p0emqj/do_hedge_funds_beat_the_market_i_analyzed_the/",
+      "subreddit_subscribers": 26339,
+      "created_utc": 1628429256,
+      "num_crossposts": 1,
+      "media": null,
+      "is_video": false
+    }
+  ],
+  "created": 1628434649,
+  "link_flair_type": "text",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.market_sentiment",
+  "allow_live_comments": false,
+  "selftext_html": null,
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "url_overridden_by_dest": "/r/market_sentiment/comments/p0emqj/do_hedge_funds_beat_the_market_i_analyzed_the/",
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2shb7",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "p0g4yj",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "Mr3k",
+  "discussion_type": null,
+  "num_comments": 1,
+  "send_replies": false,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "crosspost_parent": "t3_p0emqj",
+  "author_flair_text_color": null,
+  "permalink": "/r/Bogleheads/comments/p0g4yj/do_hedge_funds_beat_the_market_i_analyzed_the/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "/r/market_sentiment/comments/p0emqj/do_hedge_funds_beat_the_market_i_analyzed_the/",
+  "subreddit_subscribers": 86678,
+  "created_utc": 1628448578,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1628434649,
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヘッジファンドは市場に勝てるのか？- 私は、過去24年間の5000以上のヘッジファンドのパフォーマンスを分析し、SP500と比較してみました。その結果は以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "title": "对冲基金是否战胜了市场？- 我分析了5000多个对冲基金在过去24年中的表现，并以SP500为基准。下面是结果!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對沖基金是否戰勝了市場？- 我分析了5000多個對沖基金在過去24年中的表現，並以SP500爲基準。下面是結果!"
+    }
+  ],
+  "source_updated_at": 1628847697154
+}

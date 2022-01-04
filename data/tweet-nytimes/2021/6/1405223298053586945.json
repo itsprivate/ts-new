@@ -1,0 +1,86 @@
+{
+  "created_at": "Wed Jun 16 20:53:59 +0000 2021",
+  "id_str": "1405223298053586945",
+  "full_text": "Breaking News: More than 600,000 people in the U.S. are known to have died of Covid-19, a once-unthinkable number, 10 times the death toll that Donald Trump once predicted as president. https://t.co/PPwJMig7bf https://t.co/fXdGZYPy32",
+  "display_text_range": [
+    0,
+    209
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/PPwJMig7bf",
+        "expanded_url": "https://nyti.ms/2SFpBUb",
+        "display_url": "nyti.ms/2SFpBUb",
+        "indices": [
+          186,
+          209
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1405223296224792600,
+        "id_str": "1405223296224792576",
+        "indices": [
+          210,
+          233
+        ],
+        "media_url": "http://pbs.twimg.com/media/E4BbJImVEAAGj9Q.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E4BbJImVEAAGj9Q.jpg",
+        "url": "https://t.co/fXdGZYPy32",
+        "display_url": "pic.twitter.com/fXdGZYPy32",
+        "expanded_url": "https://twitter.com/nytimes/status/1405223298053586945/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The New York Times",
+    "screen_name": "nytimes",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png"
+  },
+  "retweet_count": 249,
+  "favorite_count": 510,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Jun 16 17:58:36 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "速報です。米国では60万人以上がコヴィド-19で死亡したことがわかっており、かつてドナルド・トランプ氏が大統領として予測した死亡者数の10倍という、かつては考えられなかった数字となっている。https://t.co/PPwJMig7bf https://t.co/fXdGZYPy32"
+    },
+    {
+      "locale": "zh",
+      "full_text": "突发新闻。据了解，美国有60多万人死于Covid-19，这是一个曾经难以想象的数字，是唐纳德-特朗普作为总统曾经预测的死亡人数的10倍。https://t.co/PPwJMig7bf https://t.co/fXdGZYPy32"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "突發新聞。據瞭解，美國有60多萬人死於Covid-19，這是一個曾經難以想象的數字，是唐納德-特朗普作爲總統曾經預測的死亡人數的10倍。https://t.co/PPwJMig7bf https://t.co/fXdGZYPy32"
+    }
+  ]
+}

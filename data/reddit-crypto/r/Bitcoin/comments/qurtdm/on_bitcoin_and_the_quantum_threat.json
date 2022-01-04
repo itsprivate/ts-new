@@ -1,0 +1,63 @@
+{
+  "author": "lilw0lf",
+  "original_created_utc": 1637014102,
+  "title": "On bitcoin and the quantum threat",
+  "created_utc": 1637048292,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Disclaimer:</strong> I&#39;m a physicist, but by no means an expert. Just a strong interest in both quantum computing and cryptography. I&#39;ve also simplified a lot of concepts, because they are complex and don&#39;t fundamentally bring anything more to the discussion</p>\n\n<p><strong>Introduction</strong>\n&nbsp;</p>\n\n<p>With IBM announcing their new quantum chip with 127 qubits, I thought i&#39;d clear any misunderstandings concerning quantum computing as a threat to cryptocurrencies and cryptography as a whole. For this, we need to do a quick physics and cryptography recap.</p>\n\n<p><strong>The physics</strong>\n&nbsp;</p>\n\n<p>Qubits form the fundamental unit of quantum information, just like the bit is the fundamental unit of information in classical computing. Classicaly, the bit may take 2 values, either a 1 or a 0. In a quantum system, the qubit may be in a coherant superposition of both states. If this seems counterintuitive to you, I highly recommend the computerphile <a href=\"https://www.youtube.com/watch?v=kv-YXKRUheQ\">video</a> on superposition, which will give you a much more intuitive notion of superposition. Quantum computing has an edge over classical computing via the implementation of quantum algorithms, which perform better than classical algorithms for a certain class of problems.</p>\n\n<p><strong>The cryptography</strong>\n&nbsp;</p>\n\n<p>Cryptographic functions are used in different ways in the bitcoin protocol. I won&#39;t get into too much detail as it is beyond the scope of this piece, but will go over two main functions.</p>\n\n<p>1st - The public-private key pair. When you generate your seed phrase, you&#39;re creating a public-private key pair. These are interesting because both can be used to encrypt or decrypt a message, and consequently, to prove ownership of something. For example:</p>\n\n<ul>\n<li>Alice has both a public and private key</li>\n<li>Alice encrypts her message using the private key</li>\n<li>Alice shares her public key to the world</li>\n<li>Bob takes Alice&#39;s public key to decrypt Alice&#39;s message</li>\n<li>Bob therefore knows Alice is the one who wrote the message</li>\n</ul>\n\n<p>We can see how this can be used in the bitcoin protocol. Simply put, each UTXO belongs to an address (which is derived from your public key, more on that later) and can only be spent by the holder of the corresponding private key (by signing the transaction).</p>\n\n<p>2nd - The hash function. Hash functions are used for the proof of work part, where to mint a block, a hash of pending transactions and a nonce is generated (this is a gross simplification). The first person to generate a hash with a leading number of 0&#39;s may add his block to the blockchain and gather the rewards. Difficulty is adjusted by adding or removing the amount of leading 0&#39;s, and is a function of the total hash power of the network. Hash functions are also used to derive your wallet address by taking the SHA256 hash of the public key, and then taking the RIPEMD-160 hash of the previously SHA256 hashed output. A hash of a hash.</p>\n\n<p><strong>The Threat ?</strong>\n&nbsp;</p>\n\n<p>SHA256 is a time-tested hashing algorithm, which is widely thought to be secure and quantum resistant. Therefore, both mining and freshly generated wallets are immune to any attack, quantum or not. The issue comes when spending UTXO&#39;s. When you spend your bitcoin, you are broadcasting your public key to the network. In a classical world, this wouldn&#39;t be an issue, as computing the private key from a public key is an NP problem, i.e it is computationally too expensive to solve with a classical computer. This is where Shor&#39;s algorithm comes along. In 1994, Peter Shor showed that prime factorization can be performed in polynomial time using a quantum computer. In other words, with sufficient logical qubits, one could derive the private key from a public key. Even though ECDSA, the digital signature algorithm which is used in the bitcoin protocol, uses elliptical curves, both class of problems have similar properties which makes elliptical curve cryptography vulnerable to Shor&#39;s algorithm.</p>\n\n<p><strong>Now for the reality check</strong>\n&nbsp;</p>\n\n<p>IBM&#39;s computer is comprised of 127 PHYSICAL qubits, which are subject to decoherance. Simply put, these qubits don&#39;t behave like the idealised LOGICAL qubits. It is my understanding that a true implementation of Shor&#39;s algorithm was not able to factor out the number 35 see <a href=\"https://crypto.stackexchange.com/questions/59795/largest-integer-factored-by-shors-algorithm\">here</a> and <a href=\"https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.012305\">here</a>. You can access the paper using scihub to find the quote in the article &quot;Eventually, the algorithm fails to factor N = 35. This is due to the cumulative errors coming from the increasing number of two-qubit gates necessary to implement the more complex MEF needed for this case&quot;.</p>\n\n<p>Furthermore, modern software wallets can generate a prohibitively large amount of private keys from a single seed phrase. This means that if Alice has 1 Bitcoin and sends Bob 0.1 Bitcoin, the remaining 0.9 are moved along as well to another address, in a manner which is completely transparent to Alice. With an average time of 10 minutes between minted blocks, this would leave very little time for an attacker to steal funderus (provided the transaction i included in the next block). It should be noted that in 2018, there were approximately 30 % of bitcoins with &quot;public&quot; public keys <a href=\"https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Dragos-Ilie-Making-Bitcoin-Quantum-Resistant-(Iain-Steward-and-the-Centre-for-Cryptcurrency-Research-and-Engineering\">source</a>.pdf)</p>\n\n<p><strong>Does this mean Bitcoin is safe for ever ??</strong>\n&nbsp;</p>\n\n<p>Definitely not. Although according to most predictions we are still year if not decades away from breaking ECDSA, measures should be taken to implement quantum resistant digital signatures. One can hope that it will be implemented in the coming years through a BIP. I hope I&#39;ve clear up any misunderstanding with bitcoin and quantum computing, and hopefully quantum resistant digital signatures will be implemented in the coming years</p>\n</div><!-- SC_ON -->",
+  "score": 163,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/4aMIeA15KBtkwVRDH2yTVTUJqn1RaVR0mbSTt0KMldo.jpg?auto=webp&s=5679e9d28e40f84380f6b65fa96fe9ea46ac1525",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/4aMIeA15KBtkwVRDH2yTVTUJqn1RaVR0mbSTt0KMldo.jpg?width=108&crop=smart&auto=webp&s=1f62857dc7bdb6438baa55d979f1d26cbebad90f",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/4aMIeA15KBtkwVRDH2yTVTUJqn1RaVR0mbSTt0KMldo.jpg?width=216&crop=smart&auto=webp&s=e87aa4802f815130f67501ba9dc07d685c66ca56",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/4aMIeA15KBtkwVRDH2yTVTUJqn1RaVR0mbSTt0KMldo.jpg?width=320&crop=smart&auto=webp&s=a460783d35f5068ccfa335c23ef171665e22b3cb",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "GgHsnHxAnkVA0CTKKs3O_2R1Z-tqHok5NCJQ3uWuRFU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/qurtdm/on_bitcoin_and_the_quantum_threat/",
+  "subreddit": "Bitcoin",
+  "id": "qurtdm",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Disclaimer: I'm a physicist, but by no means an expert. Just a strong interest\nin both quantum computing and cryptography. I've also simplified a lot of\nconcepts, because they are complex and don't fundamentally bring anything more\nto the discussion\n\nIntroduction  \n\nWith IBM announcing their new…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "免責事項：私は物理学者ですが、決して専門家ではありません。ただ、量子コンピュータの両方に強い関心を\n量子コンピューティングと暗号技術に強い関心を持っています。また、多くの概念を単純化しました。\nまた、多くの概念を簡略化しています。なぜなら、それらは複雑で、基本的には議論に何の役にも立たないからです。\n議論を深めることができないからです。\n\nはじめに  \n\nIBMが発表した新しい...",
+      "title": "ビットコインと量子の脅威について"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "声明：我是一名物理学家，但绝不是专家。只是对量子计算和密码学有强烈的兴趣\n对量子计算和密码学都有强烈的兴趣。我也简化了很多\n的概念，因为它们很复杂，而且从根本上说并没有给我们带来更多的东西。\n讨论的内容\n\n简介  \n\n随着IBM宣布他们的新...",
+      "title": "关于比特币和量子威胁"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "聲明：我是一名物理學家，但絕不是專家。只是對量子計算和密碼學有強烈的興趣\n對量子計算和密碼學都有強烈的興趣。我也簡化了很多\n的概念，因爲它們很複雜，而且從根本上說並沒有給我們帶來更多的東西。\n討論的內容\n\n簡介  \n\n隨着IBM宣佈他們的新...",
+      "title": "關於比特幣和量子威脅"
+    }
+  ]
+}

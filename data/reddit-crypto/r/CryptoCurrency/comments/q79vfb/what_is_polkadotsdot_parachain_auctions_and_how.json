@@ -1,0 +1,78 @@
+{
+  "author": "Business-Typical",
+  "original_created_utc": 1634127368,
+  "title": "What is Polkadots(DOT) Parachain Auctions And How YOU Can Participate.",
+  "created_utc": 1634168006,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>As someone who’s new to Polkadot I must admit I don’t know a lot about it. So I decided to do a little research about DOT and it’s parachain auction. Granted, this isn’t the most in depth post on the matter, i hope this will help give an explanation of what the Parachain auctions are and create some more DOT shills to shitpost like me. This is broken up into 3 sections, so bear with me. </p>\n\n<h1><strong>What is Polkadot:</strong></h1>\n\n<blockquote>\n<p>Polkadot is a network protocol that allows arbitrary data, not just tokens, to be transferred across blockchains. \nThis means Polkadot is a true multi-chain application environment where things like cross-chain registries and cross-chain computation are possible.\nPolkadot can transfer this data across public, open, permissionless blockchains as well as private, permissioned blockchains.\nThis makes it possible to build applications that get permissioned data from a private blockchain and use it on a public blockchain. For instance, a school&#39;s private, permissioned academic records chain could send a proof to a degree-verification smart contract on a public chain.</p>\n</blockquote>\n\n<p>Polkadot was founded by the <a href=\"https://web3.foundation\">Web3 Foundation</a> ,a Swiss Foundation. Its founders are <a href=\"https://en.m.wikipedia.org/wiki/Gavin_Wood\">Dr. Gavin Wood</a> ,Robert Habermeier and Peter Czaban.</p>\n\n<p>Circulating Supply-987M</p>\n\n<p>Total Supply-1.1B</p>\n\n<p>No Max Supply</p>\n\n<p>Issue Date-August 2020</p>\n\n<p>Proof-Of-Stake 🥩</p>\n\n<h1><strong>What are Parachain Auctions:</strong></h1>\n\n<p>First, let’s get certain nomenclature established. The example following will be from Kusamas parachain auction. </p>\n\n<p>-As you know, blockchain technology is a decentralized distributed ledger that records the provenance of a digital asset. This data is unable to be modified. </p>\n\n<p>-Parachains are individual layer-1 blockchains that run in parallel on Polkadot, connected to the Polkadot Relay Chain and secured by its validator set. Any type of data or assets can be sent between Parachains. Parachains connect to the Relay Chain by leasing a parachain slot via auctions, by being granted a slot by Polkadot governance as a common good chain (Parachain slots reserved for functionality that benefits the ecosystem as a whole. Such as Statemint) <a href=\"https://github.com/paritytech/statemint\">Statemint</a> or by connecting as a parathread (An idea for parachains to temporarily participate in Polkadot security without needing to lease a dedicated parachain slot by economically sharing the resource of a parachain slot.) \nParachains can also connect to external networks such as Bitcoin and Ethereum using cross-network bridges. </p>\n\n<blockquote>\n<p>Candle auctions are a variant of open auctions where bidders submit bids that are increasingly higher and the highest bidder at the conclusion of the auction is considered the winner.\nWhen candle auctions are used online, they require a random number to decide the moment of termination.\nParachain slot auctions differ slightly from a normal candle auction in that it does not use the random number to decide the duration of its opening phase. Instead, it has a known open phase and will be retroactively determined (at the normal close) to have ended at some point in the past during the ending phase. So during the open phase, bids will continue to be accepted, but later bids have higher probability of losing since the retroactively determined close moment may be found to have preceded the time that a bid was submitted.</p>\n</blockquote>\n\n<p>-BABE (Blind Assignment for Blockchain Extension) is the block production mechanism that runs between the validator nodes and determines the authors of new blocks. BABE assigns block production slots to validators according to stake and using the Polkadot randomness cycle. \nValidators in Polkadot will participate in a lottery in every slot that will tell them whether or not they are the block producer candidate for that slot. Because of this randomness mechanism, multiple validators could be candidates for the same slot. Other times, a slot could be empty, resulting in inconsistent block time.</p>\n\n<p>-To become a parachain on Polkadot a project has to win a Slot Auction, with the max duration they can lease on it being 2 years. A full slot is divided into 8 lease periods making the minimum that a project can lease 3 months. \nA parachain slot is a scarce resource on Polkadot and only a limited number will be available. The goal is to eventually have 100 parachain slots available on Polkadot, split between parachains and the parathread pool.\nThe parachain slots will be sold according to an unpermissioned Candle Auction. </p>\n\n<p><strong>The Auction:</strong>\nKusama and Polkadot use Candle Auctions for open blockchain implementation. Once the auction starts, project teams will place their bids. At a block number the candle auction starts and continues for a fixed duration. The projects can keep updating their bids with the auction winning block randomly picked from the candle auction phase. Whichever team has the highest bid is declared the winner. </p>\n\n<p>“The following example will showcase the randomness mechanics of the candle auction for the ninth auction on Kusama. Keep in mind that the candle phase has a uniform termination profile and has an equal probability of ending at any given block, and the termination block cannot be predicted before or during the auction.”</p>\n\n<blockquote>\n<p>Auction 9 starts at <code>block 9362014.</code> \nThe auction has a full duration equal to block <code>9362014</code> + <code>72000</code>. Here, <code>block 72000</code> is the &quot;ending period&quot;, which is divided into <strong>3600 samples of 20 blocks.</strong> Figuratively, the candle is lit, and the candle phase lasts for 72,000 blocks. </p>\n\n<p>The winning sample during the ending period turned out to have the index <code>1078.</code> \nSample 1078 refers to the winner as of <code>block 9362014</code> + <code>21560</code>, which equals <code>block 9383574.</code> </p>\n\n<p>The parent block was a new BABE session in the &#39;Logs&#39;, which updated the randomness that was used to select that sample index. \nYou&#39;d be able to inspect the state at the end of <code>block 9434277</code> and see the sample indices with an archive node. The digest in the &#39;Logs&#39; of <code>9434277</code> is decodable and contains the random value as well as the BABE authorities. </p>\n</blockquote>\n\n<p>“As a result, the winner of this auction did not turn out to be the highest bid during the full duration.”</p>\n\n<h1><strong>What you can do:</strong></h1>\n\n<p>Crowdloan-A mechanism for potential parachains to temporarily source tokens to win an auction for a parachain slot. Tokens gathered in this way are programmatically returned to the lender after the lease period is over or the crowdloan period ends.</p>\n\n<p>Using Kusama as an example, most parachains ran a crowdloan before the auctions began and would likely do the same on Polkadot. Supporting a crowdloaning campaign is a good way to support Parachains, since they tend to reward supporters of their crowdloans with their native token.\nYou yourself would loan DOT to whatever parachain or multiple parachains to support them in their auction. You would be rewarded with their native token. After 2 years, the original DOT you lent out will be returned. The only thing you would be giving up are the staking rewards you would have received in DOT had you been staking DOT. </p>\n\n<p>You can participate through: </p>\n\n<p>-The teams website</p>\n\n<p>-An exchange (Kraken, Binance, KuCoin)</p>\n\n<p>-A wallet (Polkawallet, Fearless) </p>\n\n<p>You can also read up on the Parachain projects, such as Acala, Phala, Moonbeam, and Astar.</p>\n\n<p><a href=\"https://parachains.info/auctions#tab-network-polkadot\">Crowdloan And Auction Monitor</a></p>\n\n<p><a href=\"https://polkadot.js.org/apps/#/explorer\">Contributions To Crowdloans</a></p>\n\n<hr/>\n\n<p>Sources:</p>\n\n<p><a href=\"https://polkadot.network/about/\">Polkadot Network</a></p>\n\n<p><a href=\"https://wiki.polkadot.network/docs/learn-auction\">Parachain Slot Auctions</a></p>\n\n<p><a href=\"https://wiki.polkadot.network/docs/learn-crowdloans#supporting-a-crowdloan-campaign\">Crowdloaning</a></p>\n</div><!-- SC_ON -->",
+  "score": 163,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?auto=webp&s=7c3d67c34f02a002667b5bbebd2697325b2ee52e",
+          "width": 1920,
+          "height": 1080
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?width=108&crop=smart&auto=webp&s=3e5d53fa8c9040c26cf7af9f687a450b9d92ddc9",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?width=216&crop=smart&auto=webp&s=3fb39c3d9f84f1271ba9caf84f67b07a84e07146",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?width=320&crop=smart&auto=webp&s=0f7a7bc11571190b634affa7a1d98c09896e55e3",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?width=640&crop=smart&auto=webp&s=c4951eba0836004e52b83158101cce2af0ff2895",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?width=960&crop=smart&auto=webp&s=4c68a5cd1466906e7e6716ceda5eb0840c5bf96b",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/6VhKKHBW7kFEWCP0eanWVq7K39yUaFlNpyUMXU9BCY0.jpg?width=1080&crop=smart&auto=webp&s=45af2d485217d0203ef5270b8cb77379aa2094d8",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "LuLb-TZUxJ1GBdy9SFSxe9oVmDSOnYteqidvdiaAGqg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/q79vfb/what_is_polkadotsdot_parachain_auctions_and_how/",
+  "subreddit": "CryptoCurrency",
+  "id": "q79vfb",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "As someone who’s new to Polkadot I must admit I don’t know a lot about it. So I\ndecided to do a little research about DOT and it’s parachain auction. Granted,\nthis isn’t the most in depth post on the matter, i hope this will help give an\nexplanation of what the Parachain auctions are and create some…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ポルカドットに初めて触れる者として、正直なところ、ポルカドットのことをあまり知りません。そこで私は\nDOTとパラチェン・オークションについて少し調べてみることにしました。分かった。\nこれは、この問題に関する最も深い投稿ではありませんが、これがパラチェインオークションの説明の一助になればと思います。\nこの記事がパラチェインオークションとは何かを説明する一助となれば幸いです。",
+      "title": "Polkadots(DOT) Parachain Auctionsとは何か、そしてあなたはどうやって参加できるのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "作为一个刚接触Polkadot的人，我必须承认我对它了解不多。所以我\n决定对DOT和它的parachain拍卖做一个小小的研究。同意。\n这不是关于这个问题的最深入的帖子，我希望这将有助于给出一个\n解释什么是帕拉夏恩拍卖，并创造一些...",
+      "title": "什么是Polkadots(DOT) Parachain Auctions以及你如何参与。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "作爲一個剛接觸Polkadot的人，我必須承認我對它瞭解不多。所以我\n決定對DOT和它的parachain拍賣做一個小小的研究。同意。\n這不是關於這個問題的最深入的帖子，我希望這將有助於給出一個\n解釋什麼是帕拉夏恩拍賣，並創造一些...",
+      "title": "什麼是Polkadots(DOT) Parachain Auctions以及你如何參與。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "author": "President_Wolfe",
+  "the_new_excerpt": "Last night I looked into SNDL and started comparing activities across the\nvarious markets that I could find, two for NASDAQ and FINRA's off-exchanges\nvolumes. I sort of expected the relative volumes to be comparable in ratio, but\nthey're not.\n\nNo, in fact there is some SERIOUS delay in tracking when…",
+  "original_created_utc": 1613113323,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "昨天晚上我看了一下SNDL，开始对比各地的活动。\n各种市场，我可以找到，两个纳斯达克和金融业监管局的场外交易\n量。我有点以为相对量的比例是相当的，但。\n他们不是。 - 不，事实上有一些严重的延迟跟踪，当...\n\n不，事实上，有一些严重的延迟 跟踪时... ...",
+      "title": "我想我找到了用纳斯达克PSX和FINRA交易量来预测跌幅的方法，也许我真的是自闭症。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "昨天晚上我看了一下SNDL，開始對比各地的活動。\n各種市場，我可以找到，兩個納斯達克和金融業監管局的場外交易\n量。我有點以爲相對量的比例是相當的，但。\n他們不是。 - 不，事實上有一些嚴重的延遲跟蹤，當...\n\n不，事實上，有一些嚴重的延遲 跟蹤時... ...",
+      "title": "我想我找到了用納斯達克PSX和FINRA交易量來預測跌幅的方法，也許我真的是自閉症。"
+    }
+  ],
+  "title": "I Think I Found A Way To Predict Dips with NASDAQ PSX and FINRA Volume, Or Maybe I Really Am Autistic",
+  "created_utc": 1613140098,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Last night I looked into SNDL and started comparing activities across the various markets that I could find, two for NASDAQ and FINRA&#39;s off-exchanges volumes. I sort of expected the relative volumes to be comparable in ratio, but they&#39;re not.</p>\n\n<p>No, in fact there is some SERIOUS delay in tracking when markets start to swell up in short volume. If you look at Figure 1 you can see that they don&#39;t really seem to follow each other at all most of the time.</p>\n\n<p>Except, when the different market volumes DO start to overlap and follow each other, THAT is when we see the larger dips in stock prices for those days!</p>\n\n<p>&#x200B;</p>\n\n<p>Now if you look at Jan 27th and Feb 10th in Figure 1 you&#39;ll see that NASDAQ PSX short volume peaked high, and FINRA and NASDAQ Boston synced up and peaked the very next day.</p>\n\n<p><a href=\"https://preview.redd.it/2dj8tyjpqzg61.png?width=569&amp;format=png&amp;auto=webp&amp;s=99aba3f5759d0272c401877acdef93cfea37e73d\">Figure 1: Jan28th and Feb 11th were the largest dips, and also when NASDAQ B and FINRA short volumes started to sync up! </a></p>\n\n<p>Yes, it is really easy with hindsight 20/20 to say &quot;OH YEA IT WAS IN THE DATA RIGHT THERE&quot; but I noticed something from another &quot;penny stock&quot; and made the same plot for the different volumes in the market.</p>\n\n<p><a href=\"https://preview.redd.it/f5a16zi7tzg61.png?width=657&amp;format=png&amp;auto=webp&amp;s=d631425582fb2593c9041ecc90805bdd2e231861\">Figure 2: Same plot for different stock, showing similar trends as SNDL.</a></p>\n\n<p>Here, we again see the THREE DIFFERENT MARKETS dont usually line up, but when THEY DO START TO SYNC, the price has the largest dips the next day!</p>\n\n<p>So if this is correct, than it&#39;s possible to see dip the next day <strong>IF the NASDAQ PSX ShortVolume and FINRA Short Volume begin to move together</strong> towards a peak. We&#39;ll see tomorrow, but I think this will show a drop tomorrow of over 20%</p>\n\n<p>&#x200B;</p>\n\n<p><strong>TLDR:</strong></p>\n\n<ul>\n<li>Using only 2 data points(stocks) I was able to draw a trendline!</li>\n<li>If different markets start to sync up in volumes, the next day seems to have the largest dips in share price.</li>\n<li>IF my shit analysis is correct, than Boaty Stock is going to crash by over 30% tomorrow, MAYBE</li>\n</ul>\n\n<p><strong>Edit 1:</strong> Added the links to where you can find the volume txt files, but I&#39;ve been having issues with the FINRA site, have to clear the browser sometimes or it takes you to a login screen.</p>\n\n<p><a href=\"ftp://ftp.nasdaqtrader.com/files/shortsaledata/daily/\">NASDAQ Volume Files I&#39;m Using</a><a href=\"http://regsho.finra.org/regsho-Index.html\">FINRA Volumes Files I&#39;m Using</a></p>\n\n<p>&#x200B;</p>\n\n<p><strong>Edit 2:</strong> Was asked to see how my &quot;theory&quot; checks out with today&#39;s dip in TLRY:</p>\n\n<p><a href=\"https://preview.redd.it/h5yrk8dof0h61.png?width=524&amp;format=png&amp;auto=webp&amp;s=f7c89947359119453a375ee37a56578d524a18ed\">Edit 2.5: Updated the TLRY data out to Jan 11th, and HOLY SHIT! Only Time the 3 markets sync up and peak is when the price plummets!</a></p>\n\n<p><a href=\"https://preview.redd.it/a01t7j8q41h61.png?width=458&amp;format=png&amp;auto=webp&amp;s=a9ae45aa3c1bccc557f410a210ff331bd4039297\">Edit 2.75: TESLA, this janky ass theory seems to hold for TSLA?!</a></p>\n\n<p><strong>Edit 3:</strong> As of 4:25am, BoatyMcBoatFace -<strong>16% !!! 5am -13%, 9am -20%, 9:25am -13%</strong></p>\n</div><!-- SC_ON -->",
+  "score": 3540,
+  "permalink": "/r/wallstreetbets/comments/li5vch/i_think_i_found_a_way_to_predict_dips_with_nasdaq/",
+  "subreddit": "wallstreetbets",
+  "id": "li5vch",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613728627606
+}

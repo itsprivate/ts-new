@@ -1,0 +1,65 @@
+{
+  "id": "319858",
+  "commentsCount": 7,
+  "createdAt": "2021-11-16T13:04:31.394Z",
+  "description": "Specify a page URL, get words and letters count, find keywords and keyword count. See the average reading time of the page text.",
+  "featuredAt": "2021-11-16T08:02:19Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ec8212ca-a009-45c2-a2e5-9e0b9f4fcb23.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c738d1b9-fb3c-4caa-9175-218b03d74677.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "InspectContent",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/c13e72d4b8bd9f?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Annie Gharibian",
+    "url": "https://www.producthunt.com/@annie_gharibian?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "inspectcontent",
+  "tagline": "Inspect content of any URL",
+  "url": "https://www.producthunt.com/posts/inspectcontent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 100,
+  "website": "https://www.producthunt.com/r/c13e72d4b8bd9f?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-11-16T08:02:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ページのURLを指定して、単語や文字数を取得したり、キーワードやキーワード数を調べたりすることができます。ページテキストの平均読了時間を見る。",
+      "tagline": "任意のURLのコンテンツを検査"
+    },
+    {
+      "locale": "zh",
+      "description": "指定一个页面的URL，获得字数和字母数，查找关键词和关键词数。查看页面文本的平均阅读时间。",
+      "tagline": "检查任何URL的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "指定一個頁面的URL，獲得字數和字母數，查找關鍵詞和關鍵詞數。查看頁面文本的平均閱讀時間。",
+      "tagline": "檢查任何URL的內容"
+    }
+  ],
+  "source_updated_at": 1637314894100
+}

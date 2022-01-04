@@ -1,0 +1,76 @@
+{
+  "created_at": "Sat Nov 13 11:32:36 +0000 2021",
+  "id_str": "1459468630022930432",
+  "full_text": "Here's today's front page of The Wall Street Journal https://t.co/Y731RPOOes",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1459468625878950000,
+        "id_str": "1459468625878949889",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/media/FEES-45XoAEB_1b.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FEES-45XoAEB_1b.jpg",
+        "url": "https://t.co/Y731RPOOes",
+        "display_url": "pic.twitter.com/Y731RPOOes",
+        "expanded_url": "https://twitter.com/WSJ/status/1459468630022930432/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 353,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 622,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1062,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 39,
+  "favorite_count": 86,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Nov 13 10:30:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "本日のウォール・ストリート・ジャーナルの一面です。https://t.co/Y731RPOOes"
+    },
+    {
+      "locale": "zh",
+      "full_text": "以下是《华尔街日报》今天的头版https://t.co/Y731RPOOes"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "以下是《華爾街日報》今天的頭版https://t.co/Y731RPOOes"
+    }
+  ]
+}

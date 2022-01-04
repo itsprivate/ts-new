@@ -1,0 +1,69 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "So you guys may have seen some of my previous posts, where I shared several open\nsourced crypto trading algorithms that I coded. Many of you asked if they have\nbeen backtested and how that would work.\n\nSo I created this quick tool to help you assess the profitablity of your trading\nstrategy of…",
+  "original_created_utc": 1623587895,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以前、私がコーディングしたオープンソースの暗号取引アルゴリズムをいくつか紹介した記事をご覧になったことがあると思います。\n私がコーディングしたオープンソースの暗号取引アルゴリズムを紹介しました。多くの方から、それらがバックテストされているのか\nバックテストされているのか、それはどのように機能するのか、という質問が多く寄せられました。\n\nそこで、あなたの取引戦略の収益性を評価するのに役立つクイックツールを作成しました。\n戦略の...",
+      "title": "ヒストリカルデータのバックテストを使って、収益性の高い取引戦略を見つけるのに役立つツールをコーディングしました、いつものようにオープンソースです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以，你们可能已经看到了我以前的一些帖子，在那里我分享了我编码的几个开放性的\n编码的加密货币交易算法。你们中的许多人问，他们是否已经\n是否经过回测，以及如何进行回测。\n\n因此，我创建了这个快速工具，以帮助你评估你的交易策略的盈利能力。\n的策略。",
+      "title": "我为你们准备了另一个工具--我编了一个工具，帮助你们利用历史数据的回溯测试找到一个有利可图的交易策略，一如既往地开放源代码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以，你們可能已經看到了我以前的一些帖子，在那裏我分享了我編碼的幾個開放性的\n編碼的加密貨幣交易算法。你們中的許多人問，他們是否已經\n是否經過回測，以及如何進行回測。\n\n因此，我創建了這個快速工具，以幫助你評估你的交易策略的盈利能力。\n的策略。",
+      "title": "我爲你們準備了另一個工具--我編了一個工具，幫助你們利用歷史數據的回溯測試找到一個有利可圖的交易策略，一如既往地開放源代碼。"
+    }
+  ],
+  "title": "I got another one for you guys - I coded a tool to help you find a profitable trading strategy using backtesting on historical data, as always it's open source",
+  "created_utc": 1623604044,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>So you guys may have seen some of my previous posts, where I shared several open sourced crypto trading algorithms that I coded. Many of you asked if they have been backtested and how that would work. </p>\n\n<p>So I created this quick tool to help you assess the profitablity of your trading strategy of trading bot if you&#39;re using one.</p>\n\n<p>Backtesting is a way of feeding your current trading strategy to a script that applies it on historical data, in order to determine how successful it could be in the future.</p>\n\n<p>Past performance does not always guarantee future returns, but it&#39;s good practice to test your strategy (or trading algorithm) before you go ham.</p>\n\n<p>The script downloads historical data for a coin of your choice, and at an interval of your choosing. This is then used by the script to determine how profitable a strategy can be, and whether it has the potential to beat a buy and hold.</p>\n\n<p>At the end of the testing phase, the tool will generate a plot showing each trade and final balance.</p>\n\n<p><a href=\"https://preview.redd.it/keifsz3901571.png?width=3604&amp;format=png&amp;auto=webp&amp;s=5cbcf4bc64e2e23772b30de9fa10854d0543a1a5\">https://preview.redd.it/keifsz3901571.png?width=3604&amp;format=png&amp;auto=webp&amp;s=5cbcf4bc64e2e23772b30de9fa10854d0543a1a5</a></p>\n\n<p>Working with historical data since the start of this year, I fed it a simple strategy - buy if the price is up 1% in the last minute. Sell at 10% gain or 5% loss - but you can customise these parameters yourself. This strategy made a marginal loss on ICPUSDT, but then this is probably not the best coin to test on since it&#39;s been in decline ever since it was listed on Binance.</p>\n\n<p>&#x200B;</p>\n\n<p>Here&#39;s the same strategy on NANOUSDT, seems like we&#39;re $800 in profit.</p>\n\n<p><a href=\"https://preview.redd.it/14sp9zum21571.png?width=3618&amp;format=png&amp;auto=webp&amp;s=7c890929565f7d5c4feb273a23e2425f8e1f28ec\">https://preview.redd.it/14sp9zum21571.png?width=3618&amp;format=png&amp;auto=webp&amp;s=7c890929565f7d5c4feb273a23e2425f8e1f28ec</a></p>\n\n<p>Happy Testing!</p>\n\n<p>Here&#39;s the guide on how to implement it:</p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/\">https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/</a></p>\n\n<p>And here&#39;s the repo if you&#39;re a python wizard:</p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/backtesting-for-cryptocurrency-trading\">https://github.com/CyberPunkMetalHead/backtesting-for-cryptocurrency-trading</a></p>\n</div><!-- SC_ON -->",
+  "score": 1040,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/qJMAzpj-Lun9mmjJgO8P8LQxWr0lyzMLUHspn0Dm0T8.jpg?auto=webp&s=5064e45345c641170d270996e441cdaa4e8a4371",
+          "width": 767,
+          "height": 615
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/qJMAzpj-Lun9mmjJgO8P8LQxWr0lyzMLUHspn0Dm0T8.jpg?width=108&crop=smart&auto=webp&s=b7ce7845fda0d102d6b81dc62ce5213bab57cc50",
+            "width": 108,
+            "height": 86
+          },
+          {
+            "url": "https://external-preview.redd.it/qJMAzpj-Lun9mmjJgO8P8LQxWr0lyzMLUHspn0Dm0T8.jpg?width=216&crop=smart&auto=webp&s=52aa7acf65eaac23d7c30eddf76b8b52ea026f69",
+            "width": 216,
+            "height": 173
+          },
+          {
+            "url": "https://external-preview.redd.it/qJMAzpj-Lun9mmjJgO8P8LQxWr0lyzMLUHspn0Dm0T8.jpg?width=320&crop=smart&auto=webp&s=865399effae8098fb49917ce37c3f61402157c9e",
+            "width": 320,
+            "height": 256
+          },
+          {
+            "url": "https://external-preview.redd.it/qJMAzpj-Lun9mmjJgO8P8LQxWr0lyzMLUHspn0Dm0T8.jpg?width=640&crop=smart&auto=webp&s=263a2ff2555bf2d0a458bfd3e6df1b47f7d4e1f2",
+            "width": 640,
+            "height": 513
+          }
+        ],
+        "variants": {},
+        "id": "je8v6we_ZKxCVu5Ik4VGe3uI-vh-f4YkOVr4RSkfPZU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/nyvezo/i_got_another_one_for_you_guys_i_coded_a_tool_to/",
+  "subreddit": "CryptoCurrency",
+  "id": "nyvezo",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1624009738581
+}

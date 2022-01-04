@@ -1,0 +1,53 @@
+{
+  "author": "Blendzi0r",
+  "original_created_utc": 1633879872,
+  "title": "Everyone is talking about BTC ETF but Bitcoin is also about to be upgraded for the first time in 4 years. What is Taproot.",
+  "created_utc": 1633901442,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>In 2017, Segregated Witness (SegWit) soft fork was performed and it was the last upgrade to the Bitcoin’s network until today. It was also a controversial upgrade which lead to a hard fork (Bitcoin Cash was born). However, Taproot is supported by the great majority of miners and it is expected to activate via soft fork on November 16th this year.</p>\n\n<p><strong>Taproot includes three Bitcoin Improvement Proposals</strong> (BIPs) that improve network’s privacy, security and scalability (scalability is, to put it simply, how many transactions per second the network can handle):</p>\n\n<ol>\n<li><strong>BIP340</strong> introduces <strong>Schnorr digital signature scheme</strong> on top of the current Elliptic Curve Digital Signature Algorithm (ECDSA). In short, Schnorr reduces Bitcoin’s data load, improves privacy and speeds up transaction verifications. Cryptographers generally agree that Schnorr is better than ECDSA in almost every way with virtually no trade-offs.</li>\n<li><strong>BIP341</strong> introduces <strong>Taproot</strong> – a privacy improvement that <strong>makes smart contracts more efficient and private</strong> (e.g. only relevant parts of the contract will be revealed. Today, all information is revealed, even that regarding the parts of the contract which weren’t fulfilled).</li>\n<li><strong>BIP342</strong> introduces <strong>Tapscript</strong> – a reformed version of Bitcoin’s scripting language that enables schnort/taproot transactions and <strong>makes future Bitcoin upgrades easier</strong>.</li>\n</ol>\n\n<p>Those improvements will result in cheaper transactions and will enable creating complex smart contracts. But their main feature is <strong>making multisig transactions and complex smart contracts indistinguishable from standard transactions</strong> via key aggregation (this will also tackle the main problem of the Lightning Network – privacy).</p>\n\n<p><strong>Why is it called Taproot?</strong></p>\n\n<p><a href=\"https://preview.redd.it/gzb9pl8w5ns71.png?width=588&amp;format=png&amp;auto=webp&amp;s=93ccbf99d80c0274795120f3a4c80f732f777a12\">https://preview.redd.it/gzb9pl8w5ns71.png?width=588&amp;format=png&amp;auto=webp&amp;s=93ccbf99d80c0274795120f3a4c80f732f777a12</a></p>\n\n<p>(A) is how it works today, (B) is how it will work after Taproot activation. Signature verification is the most computationally intensive operation in a script because signatures are verified individually (A). By allowing for signature batch verification (B), Bitcoin can realize its efficiency improvements. <strong>This will open up the possibility of Bitcoin-based Decentralized Autonomous Organizations (DAOs) and other Decentralized Finance (DeFi) applications</strong>.</p>\n\n<p>It is also worth pointing out that if Taproot was active and widely adopted in April, when bitcoin transaction fees reached an all-time high, it would have most likely allowed everyone to successfully transfer any number of bitcoins.</p>\n\n<p><strong>TLDR:</strong> Taproot will increase the number of transactions per second that can be made on Bitcoin, upgrade the network’s security and privacy, enable complex DeFi smart contracts and help with the main issue of Lightning Network by increasing its privacy. Taproot improves Bitcoin’s viability not only as a store of value, but also (especially) as a medium of exchange.</p>\n\n<p>More information can be found here: <a href=\"https://kraken.docsend.com/view/9e9y7may8526z934\">https://kraken.docsend.com/view/9e9y7may8526z934</a></p>\n</div><!-- SC_ON -->",
+  "score": 180,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/cCMtEvwLHjLVRLTGu7UTFucXde1gJGhcLUbTmVxf65w.jpg?auto=webp&s=b9f3e1d9fb921b1055d764324a4c8f769091d9a0",
+          "width": 193,
+          "height": 250
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/cCMtEvwLHjLVRLTGu7UTFucXde1gJGhcLUbTmVxf65w.jpg?width=108&crop=smart&auto=webp&s=af1b96e8881be979a98ca6e62479f3bb1d835a8e",
+            "width": 108,
+            "height": 139
+          }
+        ],
+        "variants": {},
+        "id": "ue_Lg6CrJ9Wl5aNr2VQhehla8kOVnF12LzN6pTIHkYw"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/q5a8z8/everyone_is_talking_about_btc_etf_but_bitcoin_is/",
+  "subreddit": "CryptoCurrency",
+  "id": "q5a8z8",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "In 2017, Segregated Witness (SegWit) soft fork was performed and it was the last\nupgrade to the Bitcoin’s network until today. It was also a controversial\nupgrade which lead to a hard fork (Bitcoin Cash was born). However, Taproot is\nsupported by the great majority of miners and it is expected to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "2017年にSegregated Witness（SegWit）ソフトフォークが行われ、それが今日までの最後の\n今日までビットコインのネットワークのアップグレードを行ってきました。また、物議を醸していた\nハードフォーク（Bitcoin Cashの誕生）につながったアップグレードでもあります。しかし、タプルートは\n大多数のマイナーに支持されており、今後も期待されています...",
+      "title": "みんなBTC ETFの話をしていますが、ビットコインも4年ぶりにアップグレードされようとしています。タップルートとは。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "2017年，隔离见证（SegWit）软分叉被执行，这是比特币网络的最后一次升级，直到到现在为止。\n它是比特币网络的最后一次升级，直到今天。这也是一个有争议的\n这也是一次有争议的升级，导致了硬分叉（比特币现金诞生）。然而，Taproot是\n得到了绝大多数矿工的支持，预计它将会...",
+      "title": "大家都在谈论BTC ETF，但比特币也即将在4年内首次升级。什么是Taproot。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "2017年，隔離見證（SegWit）軟分叉被執行，這是比特幣網絡的最後一次升級，直到到現在爲止。\n它是比特幣網絡的最後一次升級，直到今天。這也是一個有爭議的\n這也是一次有爭議的升級，導致了硬分叉（比特幣現金誕生）。然而，Taproot是\n得到了絕大多數礦工的支持，預計它將會...",
+      "title": "大家都在談論BTC ETF，但比特幣也即將在4年內首次升級。什麼是Taproot。"
+    }
+  ]
+}

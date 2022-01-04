@@ -1,0 +1,85 @@
+{
+  "created_at": "Fri Aug 06 21:35:43 +0000 2021",
+  "id_str": "1423751169067950082",
+  "full_text": "S&amp;P 500 closed at an all-time high for the 44th time this year. $SPX https://t.co/DNbqDRvOYx",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "SPX",
+        "indices": [
+          68,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1423751139045040000,
+        "id_str": "1423751139045040128",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/E8IuHhtWYAAOs_T.png",
+        "media_url_https": "https://pbs.twimg.com/media/E8IuHhtWYAAOs_T.png",
+        "url": "https://t.co/DNbqDRvOYx",
+        "display_url": "pic.twitter.com/DNbqDRvOYx",
+        "expanded_url": "https://twitter.com/charliebilello/status/1423751169067950082/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 461,
+            "h": 486,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 461,
+            "h": 486,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 461,
+            "h": 486,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 222,
+  "favorite_count": 730,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Aug 06 21:01:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "S&S;P 500は今年44回目の史上最高値で取引を終了しました。$SPX https://t.co/DNbqDRvOYx"
+    },
+    {
+      "locale": "zh",
+      "full_text": "S&amp;P 500指数今年第44次收于历史新高。$SPX https://t.co/DNbqDRvOYx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "S&amp;P 500指數今年第44次收於歷史新高。$SPX https://t.co/DNbqDRvOYx"
+    }
+  ],
+  "source_updated_at": 1628847703261
+}

@@ -1,0 +1,71 @@
+{
+  "type_of": "article",
+  "id": 742779,
+  "title": "Serverless at (Team) Scale ",
+  "description": "Reduce complexity, cognitive load, and deployment times by splitting cloud infrastructure from lambda code, using CloudFormation Outputs to share resources, and use SSM to play nice with Terraform and other IaC tools.",
+  "readable_publish_date": "Jun 29",
+  "slug": "serverless-at-team-scale-a8",
+  "path": "/aws-builders/serverless-at-team-scale-a8",
+  "url": "https://dev.to/aws-builders/serverless-at-team-scale-a8",
+  "comments_count": 5,
+  "public_reactions_count": 56,
+  "collection_id": null,
+  "published_timestamp": "2021-06-29T13:16:20Z",
+  "positive_reactions_count": 56,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xuiGK1Mx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5exwq6nax4943b99wdwb.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-3laiOq--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5exwq6nax4943b99wdwb.png",
+  "canonical_url": "https://dev.to/aws-builders/serverless-at-team-scale-a8",
+  "created_at": "2021-07-01T08:42:50.612Z",
+  "edited_at": "2021-06-30T15:26:56Z",
+  "crossposted_at": null,
+  "published_at": "2021-06-29T13:16:20Z",
+  "last_comment_at": "2021-07-01T06:23:58Z",
+  "reading_time_minutes": 6,
+  "tag_list": [
+    "serverless",
+    "aws",
+    "terraform"
+  ],
+  "tags": [
+    "serverless",
+    "aws",
+    "terraform"
+  ],
+  "user": {
+    "name": "AJ Stuyvenberg",
+    "username": "astuyve",
+    "twitter_username": "astuyve",
+    "github_username": "astuyve",
+    "website_url": "https://aaronstuyvenberg.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6zI2ZbmA--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/95513/6c4971eb-1d0f-49b0-84ee-76c654015f6c.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--BYPcB1Uo--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/95513/6c4971eb-1d0f-49b0-84ee-76c654015f6c.jpeg"
+  },
+  "organization": {
+    "name": "AWS Community Builders ",
+    "username": "aws-builders",
+    "slug": "aws-builders",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zmOZQNzv--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2794/88da75b6-aadd-4ea1-8083-ae2dfca8be94.png",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--vWmcJ-ty--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2794/88da75b6-aadd-4ea1-8083-ae2dfca8be94.png"
+  },
+  "original_created_at": "2021-06-29T13:06:33Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xuiGK1Mx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5exwq6nax4943b99wdwb.png",
+  "author": "AJ Stuyvenberg",
+  "author_url": "https://dev.to/astuyve",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドインフラをラムダコードから分離し、CloudFormation Outputsを使用してリソースを共有し、SSMを使用してTerraformや他のIaCツールとうまく連携させることで、複雑性、認知的負荷、デプロイメント時間を削減します。",
+      "title": "Serverless at (Team) Scale "
+    },
+    {
+      "locale": "zh",
+      "description": "通过将云基础设施与lambda代码分开，使用CloudFormation Outputs来共享资源，并使用SSM与Terraform和其他IaC工具打好关系，从而降低复杂性、认知负荷和部署时间。",
+      "title": "无服务器的（团队）规模 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過將雲基礎設施與lambda代碼分開，使用CloudFormation Outputs來共享資源，並使用SSM與Terraform和其他IaC工具打好關係，從而降低複雜性、認知負荷和部署時間。",
+      "title": "無服務器的（團隊）規模 "
+    }
+  ]
+}

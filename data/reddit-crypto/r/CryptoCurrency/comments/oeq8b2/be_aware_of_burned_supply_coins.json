@@ -1,0 +1,32 @@
+{
+  "author": "Cookiesnap",
+  "original_created_utc": 1625557227,
+  "title": "Be aware of burned supply coins",
+  "created_utc": 1625568231,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I’ve seen there is a bit of confusion on understanding why coins that are just deployed burn 50% or 99% of their supply. Some people say to increase scarcity. Sadly not, if they wanted a scarce coin they would have deployed it already with a low supply, so the answer is another: To hide their whales.</p>\n\n<p>If i deploy a coin on BSC with 100m supply and burn 50% of it as soon as it’s deployed, and own 10m of it myself, my wallet will be listed as having 10% of the supply while i have actually 20% of it, since BSCscan keeps in account also the burn address in the whole supply pool. </p>\n\n<p>If i deploy a 100m supply coin and hold 100k of it while burning 99% of the supply then my 100k will be listed as “only” 0.1% of the supply while i actually hold 10% of the circulating supply (the remaining 1 mil). And so on.</p>\n\n<p>So beware of coins that burn their supply as soon as they are deployed.</p>\n</div><!-- SC_ON -->",
+  "score": 181,
+  "permalink": "/r/CryptoCurrency/comments/oeq8b2/be_aware_of_burned_supply_coins/",
+  "subreddit": "CryptoCurrency",
+  "id": "oeq8b2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I’ve seen there is a bit of confusion on understanding why coins that are just\ndeployed burn 50% or 99% of their supply. Some people say to increase scarcity.\nSadly not, if they wanted a scarce coin they would have deployed it already with\na low supply, so the answer is another: To hide their…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "展開されたばかりのコインが、なぜ50％や99％も燃えてしまうのかを理解するには、少し混乱があるようですね。\n展開されたばかりのコインが、その供給量の50％や99％を燃やしてしまう理由については、ちょっとした混乱があるようです。希少性を高めるためと言う人もいます。\n残念ながらそうではありません。希少性の高いコインが欲しいのであれば、供給量の少ないコインをすでに展開しているはずです。\n少ない供給量で展開しているはずですから、答えは別です。その答えは別のものです。",
+      "title": "燃やしたコインを意識する"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经看到，在理解为什么刚刚部署的硬币会有一些困惑\n部署的硬币烧掉50%或99%的供应。有些人说是为了增加稀缺性。\n可悲的是，如果他们想要一个稀缺的硬币，他们就会已经用\n低的供应量，所以答案是另一个。为了隐藏他们的...",
+      "title": "注意烧毁的供应硬币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經看到，在理解爲什麼剛剛部署的硬幣會有一些困惑\n部署的硬幣燒掉50%或99%的供應。有些人說是爲了增加稀缺性。\n可悲的是，如果他們想要一個稀缺的硬幣，他們就會已經用\n低的供應量，所以答案是另一個。爲了隱藏他們的...",
+      "title": "注意燒燬的供應硬幣"
+    }
+  ]
+}

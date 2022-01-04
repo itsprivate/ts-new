@@ -1,0 +1,54 @@
+on:
+  rss:
+    url: https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en
+    parserConfig:
+      customFields:
+        item:
+          - source
+    config:
+      format: |
+        let source = "Unknown";
+        if(typeof item.source === "string"){
+          source = item.source;
+        }
+        if(typeof item.source !== "string" && item.source && item.source.$ && item.source.$.url){
+          source=item.source.$.url
+        }
+        const titleSuffix = ` - ${source}`
+        if(item.title && source && item.title.endsWith(titleSuffix)){
+          item.title = item.title.slice(0,Math.abs(titleSuffix.length) * -1)
+        }
+        item.original_created_at = item.isoDate;
+        item.created_at = new Date().toISOString()
+        const uniqueId = helpers.createContentDigest(item.link)
+        item.original_guid = item.guid;
+        item.id = uniqueId;
+        item.guid = uniqueId;
+        item.tags = [source];
+        return item
+      limit: 3
+      # force: true
+      outputsMode: combine
+      exportOutputs: true
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create JSON
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.rss.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-default.module.js`)
+            await generateSources({
+                isTranslateTag: false,
+                dest : "data/redirect-newstop",
+                name : "redirect-newstop",
+                idField : `id`,
+                isGetMeta: true,
+                type : "redirect",
+            })
+            return true

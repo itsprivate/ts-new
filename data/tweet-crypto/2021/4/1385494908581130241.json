@@ -1,0 +1,146 @@
+{
+  "created_at": "Fri Apr 23 8:35:54 +0000 2021",
+  "id_str": "1385494908581130241",
+  "full_text": "RT @saifedean: More than two years after this model was published, the price continues to track the model's predictions with astonishing pr…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "saifedean",
+        "name": "Saifedean.com",
+        "id": 18469669,
+        "id_str": "18469669",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
+  },
+  "retweet_count": 417,
+  "favorite_count": 0,
+  "original_created_at": "Fri Apr 23 07:25:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @saifedean: このモデルが発表されてから2年以上が経過しましたが、価格はモデルの予測を驚くほど忠実に再現しています...",
+      "retweeted_status_full_text": "このモデルが発表されてから2年以上が経過しましたが、価格はモデルの予測と驚くべき精度で一致しています。https://t.co/bb5lgQVI29"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @saifedean: 在这个模型发布两年多后，价格继续跟踪模型的预测，价格令人吃惊。",
+      "retweeted_status_full_text": "在这个模型发表两年多后，价格继续以惊人的精确度跟踪模型的预测。https://t.co/bb5lgQVI29。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saifedean: 在這個模型發佈兩年多後，價格繼續跟蹤模型的預測，價格令人喫驚。",
+      "retweeted_status_full_text": "在這個模型發表兩年多後，價格繼續以驚人的精確度跟蹤模型的預測。https://t.co/bb5lgQVI29。"
+    }
+  ],
+  "source_updated_at": 1619776222070,
+  "retweeted_status": {
+    "created_at": "Fri Apr 23 04:59:08 +0000 2021",
+    "id_str": "1385458194454097920",
+    "full_text": "More than two years after this model was published, the price continues to track the model's predictions with astonishing precision. https://t.co/bb5lgQVI29",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bb5lgQVI29",
+          "expanded_url": "https://twitter.com/s2fmultiple/status/1385454714876092417",
+          "display_url": "twitter.com/s2fmultiple/st…",
+          "indices": [
+            133,
+            156
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Saifedean.com",
+      "screen_name": "saifedean",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362635264158552067/CSsOKrBd_normal.jpg"
+    },
+    "retweet_count": 172,
+    "favorite_count": 888,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Fri Apr 23 04:45:19 +0000 2021",
+      "id_str": "1385454714876092417",
+      "full_text": "Stock-to-Flow Multiple (463d)\n2021-04-22, 23:59 UTC\n\nln(actual / model)\n\nActual price: $51,882.06\nModel price: $50,924.35\nS2F multiple: 0.02 https://t.co/vQQxeRdWy2",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1385454694756012000,
+            "id_str": "1385454694756012032",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/EzoftFVUUAAetfh.png",
+            "media_url_https": "https://pbs.twimg.com/media/EzoftFVUUAAetfh.png",
+            "url": "https://t.co/vQQxeRdWy2",
+            "display_url": "pic.twitter.com/vQQxeRdWy2",
+            "expanded_url": "https://twitter.com/s2fmultiple/status/1385454714876092417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1600,
+                "h": 960,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 408,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "user": {
+        "name": "S2F Multiple",
+        "screen_name": "s2fmultiple",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207019096929378305/ByF8xn6J_normal.jpg"
+      },
+      "retweet_count": 59,
+      "favorite_count": 310,
+      "possibly_sensitive": false
+    }
+  }
+}

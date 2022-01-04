@@ -1,0 +1,84 @@
+{
+  "id": "283125",
+  "commentsCount": 4,
+  "createdAt": "2021-02-02T22:33:19.824Z",
+  "description": "Data tables are all over the internet, especially Wikipedia. sqanything lets you query the HTML tables in all your open Chrome tabs with SQL. You can send the results of your query to Google Sheets or just send all the tables on a web page to Google Sheets.",
+  "featuredAt": "2021-02-02T13:37:45Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/570ebe8d-1b86-4fe5-b160-8ee9b8bd4a9c.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b0df60be-bd1a-4790-99db-62d47ba34841.gif?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/715cce25-77bc-4b1a-a893-a35a0bf89088.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/07b1b5a9-106f-4af8-a55b-45eda0615810.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://www.youtube.com/watch?v=U0-D6TCtPVU&feature=youtu.be"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/317b55f3-6402-490d-85a7-1656240a40e8.gif?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "sqanything",
+  "productLinks": [
+    {
+      "type": "Chrome",
+      "url": "https://www.producthunt.com/r/2a8d82ed2faffa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Alex Iskold",
+    "url": "https://www.producthunt.com/@alexiskold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 1,
+  "reviewsRating": 5,
+  "slug": "sqanything",
+  "tagline": "Query any data tables on the Web with SQL",
+  "url": "https://www.producthunt.com/posts/sqanything?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 92,
+  "website": "https://www.producthunt.com/r/2a8d82ed2faffa?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Chrome Extensions"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-02-02T13:37:45Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "sqanything可以让你用SQL查询所有打开的Chrome标签页中的HTML表格。你可以将查询结果发送到Google Sheets，或者只是将网页上的所有表格发送到Google Sheets。",
+      "tagline": "使用SQL查询网络上的任何数据表。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "sqanything可以讓你用SQL查詢所有打開的Chrome標籤頁中的HTML表格。你可以將查詢結果發送到Google Sheets，或者只是將網頁上的所有表格發送到Google Sheets。",
+      "tagline": "使用SQL查詢網絡上的任何數據表。"
+    }
+  ]
+}

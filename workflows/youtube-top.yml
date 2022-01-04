@@ -1,0 +1,49 @@
+on:
+  youtube:
+    playlist_id:
+      - PLrEnWoR732-BHrPp_Pm8_VleD68f9s14-
+    config:
+      # limit: 2
+      # force: true
+      active: false
+      outputsMode: combine
+      exportOutputs: true
+      format: |
+        function findHashtags(searchText) {
+          searchText = searchText || '';
+          const regexp = /\B\#\w\w+\b/g;
+          let result = searchText.match(regexp);
+          if (result) {
+            return result.map((item) => {
+              return item.trim().slice(1);
+            });
+          } else {
+            return [];
+          }
+        }
+        item.original_created_at = item.isoDate;
+        item.created_at = new Date().toISOString()
+        item.tags = findHashtags(item.description)
+        return item
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create JSON
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.youtube.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-default.module.js`)
+            await generateSources({
+                dest : "data/youtube-top",
+                name : "youtube-top",
+                idField : `videoId`,
+                type : "youtube",
+                isTranslateTag: false,
+                translationFields:['title']
+            })
+            return true

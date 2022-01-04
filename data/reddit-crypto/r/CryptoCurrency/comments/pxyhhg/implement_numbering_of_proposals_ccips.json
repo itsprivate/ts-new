@@ -1,0 +1,32 @@
+{
+  "author": "w00tangel",
+  "original_created_utc": 1632931359,
+  "title": "Implement numbering of proposals (CCIPs)",
+  "created_utc": 1633016663,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Summary</strong></p>\n\n<p>Each official governance poll in <a href=\"https://new.reddit.com/r/CryptoCurrency\">r/CryptoCurrency</a> will get a short code by which we can address it. </p>\n\n<p>All previously passed proposals will be assigned a number by moderators such as CCIP 0001 for the first proposal that ever passed and this one would probably become CCIP 0014.</p>\n\n<p>All approved CCIPs for governance polls will be assigned a number by mods before they are posted as official governance polls.</p>\n\n<p><strong>Problem Statement</strong></p>\n\n<p>At the moment, it is very hard to reference a specific governance poll or proposal when discussing it. If a member of this community was to ask, for example:</p>\n\n<p>&quot;Do mods earn MOONs for posts they make? It is kind of unfair since they can sticky their posts and comments.&quot;</p>\n\n<p>Right now you would have to write something like:</p>\n\n<p>&quot;There was this one governance poll that made changes to this, you can probably find it by searching for it&quot;</p>\n\n<p>Or you can spend some time to find the list of passed polls, copy a link to it, come back to the original post and link to the poll that addressed this.</p>\n\n<p><strong>Solution</strong></p>\n\n<p>Inspired by the way other crypto communities solved this issue, we would like to introduce numerated short code names for each governance polls that would make them easier to reference in discussions. For a bit of history, please refer to this article on Bitcoin&#39;s <a href=\"https://en.bitcoin.it/wiki/Bitcoin_Improvement_Proposals\">BIP 0001</a>.</p>\n\n<p>The proposed solution is that each of the previously passed governance polls gets a short code name assigned by moderators such as CCIP 0001 for the first proposal that ever passed and this one you are reading right now would probably become CCIP 0014.</p>\n\n<p>This will make it easier to reference and find a specific proposal by searching for it by its short code.</p>\n\n<p>The list of passed proposals can be found <a href=\"https://www.reddit.com/r/CryptoCurrency/wiki/moons_wiki#wiki_proposals_that_have_passed_and_are_in_effect\">here</a>.</p>\n\n<p>Should this proposal pass, beginning with proposals in Moon Week 19 all new approved governance polls will be assigned a CCIP number by mods before they are posted as official governance polls so we will be able to easily reference even the failed proposals.</p>\n\n<p>Should we ever revisit a failed proposal, the new poll will be assigned a new CCIP number.</p>\n\n<p><strong>Concerns</strong></p>\n\n<p>The only concerns expressed by the community during the pre-proposal discussions was regarding the acronym for these short code names.</p>\n\n<p>There were two suggestions that had majority of supporters: CCIP (stands for <a href=\"https://new.reddit.com/r/CryptoCurrency\">r/CryptoCurrency</a> Improvement Proposal) and MIP (MOONs Improvement Proposal).</p>\n\n<p>In a poll after this proposal was taken into consideration for official governance poll, the majority vote has suggested we should go with CCIP.</p>\n\n<p>To see the evolution of this proposal in <a href=\"https://new.reddit.com/r/CryptoCurrencyMeta\">r/CryptoCurrencyMeta</a>, follow this link: <a href=\"https://np.reddit.com/r/CryptoCurrencyMeta/comments/pslxkw/brainstorming_thread_short_code_for_governance/\">Brainstorming thread - Short code for governance polls</a></p>\n\n<p><a href=\"https://www.reddit.com/poll/pxyhhg\">View Poll</a></p>\n</div><!-- SC_ON -->",
+  "score": 209,
+  "permalink": "/r/CryptoCurrency/comments/pxyhhg/implement_numbering_of_proposals_ccips/",
+  "subreddit": "CryptoCurrency",
+  "id": "pxyhhg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Summary\n\nEach official governance poll in r/CryptoCurrency\n[https://new.reddit.com/r/CryptoCurrency] will get a short code by which we can\naddress it.\n\nAll previously passed proposals will be assigned a number by moderators such as\nCCIP 0001 for the first proposal that ever passed and this one would…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "概要\n\nr/CryptoCurrencyの各公式ガバナンス投票\n[https://new.reddit.com/r/CryptoCurrency]では、ショートコードを使って\nコードが発行されます。\n\n過去に可決されたすべての提案には、モデレーターによって以下のような番号が割り当てられます。\nCCIP 0001は最初に可決されたプロポーザルで、このプロポーザルは...",
+      "title": "提案のナンバリング（CCIP）の実施"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "摘要\n\nr/CryptoCurrency中的每个官方治理投票\n[https://new.reddit.com/r/CryptoCurrency]将得到一个简短的代码，我们可以通过它来\n处理它。\n\n所有以前通过的提案将被版主分配一个编号，例如\nCCIP 0001代表第一个通过的提案，这个提案将...",
+      "title": "落实提案的编号（CCIPs）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "摘要\n\nr/CryptoCurrency中的每個官方治理投票\n[https://new.reddit.com/r/CryptoCurrency]將得到一個簡短的代碼，我們可以通過它來\n處理它。\n\n所有以前通過的提案將被版主分配一個編號，例如\nCCIP 0001代表第一個通過的提案，這個提案將...",
+      "title": "落實提案的編號（CCIPs）。"
+    }
+  ]
+}

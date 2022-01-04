@@ -1,0 +1,63 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1630413554,
+  "title": "I finally did it! My crypto trading bot successfully bought a new coin within 0.2 seconds of it being listed on Binance",
+  "created_utc": 1630424523,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been a pain to optimise and test out this strategy but I finally managed to successfully place a buy order on a newly listed coin.</p>\n\n<p>The testing has probably been the most difficult part of the whole process. Every time I would start the algorithm, I would have to wait there for days at a time before it does anything. Then Binance decides to list a new coin, and the script breaks. Go in and fix the error, re-start the script.</p>\n\n<p>Rinse and repeat this a few times over two weeks, it was tedious and required a lot of patience but I fucking did it. I can now confidently call the script functional (with some minor bugs that I will fix in the coming days).</p>\n\n<p><strong>So here&#39;s what actually happened:</strong></p>\n\n<p>The algorithm detected GNO as a new listing yesterday at 6:00AM UTC, and placed a buy order at 6:00.02. The order was placed at 394 USDT and GNO peaked at 418 but the entry price was closer to 300.</p>\n\n<p>It seems that even with 0.2s speed of execution the tool is still too slow to buy at the listed price and needs additional improvements.</p>\n\n<p>It ended up selling at 3% loss - which might not seem like an achievement, but I am personally very happy with the fact that it actually works, and this gives me a good base to make the necessary improvements in order to optimise this strategy.</p>\n\n<p>I do think that, if optimised correctly this tool can actually work very well. I will keep making improvements and report back. If you&#39;re curious to know more about how the bot works and how this buy order performed, I just made a new video explaining all of that in more detail: <a href=\"https://youtu.be/kWndcvWuMzI\"><strong>https://youtu.be/kWndcvWuMzI</strong></a></p>\n\n<p><strong>And for those who asked for the guide, here you go:</strong> <a href=\"https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/\">https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/</a></p>\n\n<p>Edit:</p>\n\n<p>The code is open source and available to everyone to use: <a href=\"https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins\">https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins</a></p>\n\n<p>Thanks <a href=\"/u/steks13\">/u/steks13</a> for improving the speed of execution buddy!</p>\n</div><!-- SC_ON -->",
+  "score": 247,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/MHStQBlBspEBdYJu86MNVtLWsTnKqjLkyyrfpD_FXRU.jpg?auto=webp&s=09c9574c19e484b918403833093f5a2dd16a2ed0",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/MHStQBlBspEBdYJu86MNVtLWsTnKqjLkyyrfpD_FXRU.jpg?width=108&crop=smart&auto=webp&s=0b8cb2268a15ab9a9da4a0bf1664ac06faa8af88",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/MHStQBlBspEBdYJu86MNVtLWsTnKqjLkyyrfpD_FXRU.jpg?width=216&crop=smart&auto=webp&s=becfb389b4d6af541163a320fd16cbaf7a0b864d",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/MHStQBlBspEBdYJu86MNVtLWsTnKqjLkyyrfpD_FXRU.jpg?width=320&crop=smart&auto=webp&s=3e793a76e75530fbeceb65b449c59fb8bb9220e9",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "qRWwhsTd5mBzyrGl3jKtKFB5DQv0NnzLHK-2M18Ea8c"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pf5008/i_finally_did_it_my_crypto_trading_bot/",
+  "subreddit": "CryptoCurrency",
+  "id": "pf5008",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "It's been a pain to optimise and test out this strategy but I finally managed to\nsuccessfully place a buy order on a newly listed coin.\n\nThe testing has probably been the most difficult part of the whole process.\nEvery time I would start the algorithm, I would have to wait there for days at a\ntime…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この戦略を最適化してテストするのに苦労しましたが、最終的には\n新たに上場したコインに買い注文を出すことに成功しました。\n\nテストは、このプロセス全体の中で最も困難な部分だったと思います。\nアルゴリズムを起動するたびに、何日も待たされることになりました。\n何日も待たなければなりませんでした...。",
+      "title": "ついにやりました！（笑 私の暗号取引ボットは、新しいコインがBinanceに掲載されてから0.2秒以内に購入することに成功しました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "优化和测试这个策略是一件很痛苦的事情，但我最终成功地\n在一个新上市的硬币上成功下了一个买单。\n\n测试可能是整个过程中最困难的部分。\n每次我启动算法时，我都要在那里等上好几天。\n时间...",
+      "title": "我终于做到了! 我的加密货币交易机器人在一个新币在Binance上市后的0.2秒内成功买入该币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "優化和測試這個策略是一件很痛苦的事情，但我最終成功地\n在一個新上市的硬幣上成功下了一個買單。\n\n測試可能是整個過程中最困難的部分。\n每次我啓動算法時，我都要在那裏等上好幾天。\n時間...",
+      "title": "我終於做到了! 我的加密貨幣交易機器人在一個新幣在Binance上市後的0.2秒內成功買入該幣"
+    }
+  ]
+}

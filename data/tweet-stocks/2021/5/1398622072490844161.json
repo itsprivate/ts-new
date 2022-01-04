@@ -1,0 +1,77 @@
+{
+  "created_at": "Sat May 29 13:24:10 +0000 2021",
+  "id_str": "1398622072490844161",
+  "full_text": "Ladies and gentlemen, the weekend. https://t.co/EubSCmPUEo",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1398622010666803200,
+        "id_str": "1398622010666803201",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/E2jnTvjWYAEjMRj.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E2jnTvjWYAEjMRj.jpg",
+        "url": "https://t.co/EubSCmPUEo",
+        "display_url": "pic.twitter.com/EubSCmPUEo",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1398622072490844161/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 745,
+            "h": 757,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 669,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 745,
+            "h": 757,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 278,
+  "favorite_count": 3285,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat May 29 12:47:41 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "皆さん、週末です。https://t.co/EubSCmPUEo"
+    },
+    {
+      "locale": "zh",
+      "full_text": "女士们，先生们，周末了。https://t.co/EubSCmPUEo"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "女士們，先生們，週末了。https://t.co/EubSCmPUEo"
+    }
+  ],
+  "source_updated_at": 1622804305164
+}

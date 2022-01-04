@@ -1,0 +1,121 @@
+{
+  "created_at": "Mon May 31 18:17:12 +0000 2021",
+  "id_str": "1399402978835042305",
+  "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+  "display_text_range": [
+    0,
+    1
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/Qf9WjZXVFA",
+        "expanded_url": "https://twitter.com/HedgeyeREITs/status/1399400186502340610",
+        "display_url": "twitter.com/HedgeyeREITs/s…",
+        "indices": [
+          2,
+          25
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
+  },
+  "retweet_count": 262,
+  "favorite_count": 2517,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon May 31 16:30:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+      "quoted_status_full_text": "$MARA https://t.co/CGidsjZgP4"
+    },
+    {
+      "locale": "zh",
+      "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+      "quoted_status_full_text": "$MARA https://t.co/CGidsjZgP4"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "🟩 https://t.co/Qf9WjZXVFA",
+      "quoted_status_full_text": "$MARA https://t.co/CGidsjZgP4"
+    }
+  ],
+  "source_updated_at": 1622804305188,
+  "quoted_status": {
+    "created_at": "Mon May 31 16:19:38 +0000 2021",
+    "id_str": "1399400186502340610",
+    "full_text": "$MARA https://t.co/CGidsjZgP4",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "MARA",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1399400182983364600,
+          "id_str": "1399400182983364619",
+          "indices": [
+            6,
+            29
+          ],
+          "media_url": "http://pbs.twimg.com/media/E2urDVVXEAsaYDa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E2urDVVXEAsaYDa.jpg",
+          "url": "https://t.co/CGidsjZgP4",
+          "display_url": "pic.twitter.com/CGidsjZgP4",
+          "expanded_url": "https://twitter.com/HedgeyeREITs/status/1399400186502340610/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 828,
+              "h": 1792,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Rob Simone, CFA - REITRob",
+      "screen_name": "HedgeyeREITs",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1372608651333099523/S7EvpoQp_normal.jpg"
+    },
+    "retweet_count": 39,
+    "favorite_count": 367,
+    "possibly_sensitive": false
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "I have recently started coding my own crypto trading bots, as a way to remove\nemotional impulses from my trading strategy and have tested a few designs with\nvarious degrees of success.\n\nI have recently been testing this particular bot with different coins and got\nsome interesting results. While it…",
+  "original_created_utc": 1616862571,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我最近开始给自己的加密交易机器人编码，以此来消除自己的错误。\n我的交易策略中的情绪冲动，并测试了一些设计与\n不同程度的成功。\n\n我最近一直在用不同的硬币测试这个特殊的机器人，并得到了\n一些有趣的结果。虽然它...",
+      "title": "我正在分享我的第一个加密交易机器人的代码，所以你可以建立你自己的"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我最近開始給自己的加密交易機器人編碼，以此來消除自己的錯誤。\n我的交易策略中的情緒衝動，並測試了一些設計與\n不同程度的成功。\n\n我最近一直在用不同的硬幣測試這個特殊的機器人，並得到了\n一些有趣的結果。雖然它...",
+      "title": "我正在分享我的第一個加密交易機器人的代碼，所以你可以建立你自己的"
+    }
+  ],
+  "title": "I'm sharing the code of my first crypto trading bot, so you can build your own",
+  "created_utc": 1616873428,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I have recently started coding my own crypto trading bots, as a way to remove emotional impulses from my trading strategy and have tested a few designs with various degrees of success. </p>\n\n<p>I have recently been testing this particular bot with different coins and got some interesting results. While it underperformed on Bitcoin, it actually came in profit during a week of live-testing on XLM. </p>\n\n<p>Here are parameters that I set for the bot:</p>\n\n<ul>\n<li>The bot will be trading Bitcoin automatically if the price has increased by more than 3% in the last 10 minutes. </li>\n<li><p>We will have a stop loss of 5% and take profit of 8% - this can be improved with a trailing-stop functionality. </p>\n\n<p>Have you ever traded with a crypto bot or built one yourself? Let me know your thoughts!</p></li>\n</ul>\n\n<p>And of course, here is a guide you can follow to build your own along with the open-sourced code:</p>\n\n<p>Guide: <a href=\"https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/\">https://www.cryptomaton.org/2021/03/14/how-to-code-your-own-crypto-trading-bot-python/</a></p>\n\n<p>GitHub repo: <a href=\"https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha\">https://github.com/CyberPunkMetalHead/Bitcoin-Surge-Trading-Alpha</a></p>\n</div><!-- SC_ON -->",
+  "score": 1230,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?auto=webp&s=23f846e17317b371e1dffc425b7d5ca8fb867db6",
+          "width": 1024,
+          "height": 730
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=108&crop=smart&auto=webp&s=d279c588487505d6cb40d05c6bb5006bc17c4a77",
+            "width": 108,
+            "height": 76
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=216&crop=smart&auto=webp&s=939d6f7ded8a6a87e66efb50733f265c2402a924",
+            "width": 216,
+            "height": 153
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=320&crop=smart&auto=webp&s=44baae2413c889bc89e4bc19311231d04d0631ba",
+            "width": 320,
+            "height": 228
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=640&crop=smart&auto=webp&s=c47bbf7a2c0ec9a6c0693b6c989f634e2f89ac4d",
+            "width": 640,
+            "height": 456
+          },
+          {
+            "url": "https://external-preview.redd.it/mRUu2RIGeSn2XwJ-bYC1VnTXGd5_SaYsG4AKGxUuFf8.jpg?width=960&crop=smart&auto=webp&s=e1a743d3ea2ae29a8f9bb4662edb9e714590f432",
+            "width": 960,
+            "height": 684
+          }
+        ],
+        "variants": {},
+        "id": "B_7jdusw5wmO3zksa1i3TEbRQ7hFDk7NmpxM1D81nHI"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/meh6ve/im_sharing_the_code_of_my_first_crypto_trading/",
+  "subreddit": "CryptoCurrency",
+  "id": "meh6ve",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617357137108
+}

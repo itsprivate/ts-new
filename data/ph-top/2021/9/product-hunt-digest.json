@@ -1,0 +1,80 @@
+{
+  "id": "313642",
+  "commentsCount": 5,
+  "createdAt": "2021-09-24T13:54:05.021Z",
+  "description": "A simple open-source product that generates a daily digest of top performing products on Product Hunt directly to your Slack.",
+  "featuredAt": "2021-09-24T11:08:17Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4c9d3513-74f1-4c66-b42f-a96f0cf40a78.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/92663cdc-76f1-441b-abe4-0504c72455f9.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Product Hunt Digest",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/656cf6ff1d97f5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Ran Ribenzaft",
+    "url": "https://www.producthunt.com/@ranrib?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "product-hunt-digest",
+  "tagline": "An unofficial daily digest of top products from PH to Slack",
+  "url": "https://www.producthunt.com/posts/product-hunt-digest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 259,
+  "website": "https://www.producthunt.com/r/656cf6ff1d97f5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Slack"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      },
+      {
+        "node": {
+          "name": "Product Hunt"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-09-24T11:08:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Product Huntのトップパフォーマンス商品のダイジェストを毎日Slackに直接生成するシンプルなオープンソース製品です。",
+      "tagline": "PHからSlackまでのトップ製品の非公式なデイリーダイジェスト"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的开源产品，每天都会将Product Hunt上表现最好的产品摘要直接生成到你的Slack中。",
+      "tagline": "从PH到Slack的顶级产品的非官方每日摘要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的開源產品，每天都會將Product Hunt上表現最好的產品摘要直接生成到你的Slack中。",
+      "tagline": "從PH到Slack的頂級產品的非官方每日摘要"
+    }
+  ],
+  "source_updated_at": 1633081227515
+}

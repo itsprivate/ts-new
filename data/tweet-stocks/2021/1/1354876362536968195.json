@@ -1,0 +1,151 @@
+{
+  "created_at": "Thu Jan 28 19:40:9 +0000 2021",
+  "id_str": "1354876362536968195",
+  "full_text": "RT @FordFischer: ITS HAPPENING! This guy just got on the metro next to me. https://t.co/4tself4Tgy",
+  "display_text_range": [
+    0,
+    98
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FordFischer",
+        "name": "Ford Fischer",
+        "id": 2327592480,
+        "id_str": "2327592480",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1354870557163057200,
+        "id_str": "1354870557163057155",
+        "indices": [
+          75,
+          98
+        ],
+        "media_url": "http://pbs.twimg.com/media/Es13l-RW8AM7Rm4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Es13l-RW8AM7Rm4.jpg",
+        "url": "https://t.co/4tself4Tgy",
+        "display_url": "pic.twitter.com/4tself4Tgy",
+        "expanded_url": "https://twitter.com/FordFischer/status/1354870565505560576/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1354870565505560600,
+        "source_status_id_str": "1354870565505560576",
+        "source_user_id": 2327592480,
+        "source_user_id_str": "2327592480"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
+  },
+  "retweet_count": 317,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jan 28 19:37:51 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @福特-费舍尔：我发生了! 这家伙刚上了我旁边的地铁。https://t.co/4tself4Tgy。",
+      "retweeted_status_full_text": "我发生了！这家伙刚上了我旁边的地铁，https://t.co/4tself4Tgy。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @福特-費舍爾：我發生了! 這傢伙剛上了我旁邊的地鐵。https://t.co/4tself4Tgy。",
+      "retweeted_status_full_text": "我發生了！這傢伙剛上了我旁邊的地鐵，https://t.co/4tself4Tgy。"
+    }
+  ],
+  "source_updated_at": 1612518568683,
+  "retweeted_status": {
+    "created_at": "Thu Jan 28 19:14:49 +0000 2021",
+    "id_str": "1354870565505560576",
+    "full_text": "ITS HAPPENING! This guy just got on the metro next to me. https://t.co/4tself4Tgy",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1354870557163057200,
+          "id_str": "1354870557163057155",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/Es13l-RW8AM7Rm4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Es13l-RW8AM7Rm4.jpg",
+          "url": "https://t.co/4tself4Tgy",
+          "display_url": "pic.twitter.com/4tself4Tgy",
+          "expanded_url": "https://twitter.com/FordFischer/status/1354870565505560576/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Ford Fischer",
+      "screen_name": "FordFischer",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303390039683084293/ywJM_sBw_normal.jpg"
+    },
+    "retweet_count": 162,
+    "favorite_count": 727,
+    "possibly_sensitive": true
+  }
+}

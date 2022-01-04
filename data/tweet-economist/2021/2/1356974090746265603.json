@@ -1,0 +1,101 @@
+{
+  "created_at": "Wed Feb 03 14:48:3 +0000 2021",
+  "id_str": "1356974090746265603",
+  "full_text": "In 2020, @TheEIU's Democracy Index fell to the lowest average since it began in 2006 #DemoIndex https://t.co/SnP78MA7eu https://t.co/XVQ0uSZbES",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DemoIndex",
+        "indices": [
+          85,
+          95
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "TheEIU",
+        "name": "The Economist Intelligence Unit",
+        "id": 29994840,
+        "id_str": "29994840",
+        "indices": [
+          9,
+          16
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/SnP78MA7eu",
+        "expanded_url": "https://econ.st/3cAYl0P",
+        "display_url": "econ.st/3cAYl0P",
+        "indices": [
+          96,
+          119
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1356974079451013000,
+        "id_str": "1356974079451013120",
+        "indices": [
+          120,
+          143
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EtTwvFcXIAAr1dC.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EtTwvFcXIAAr1dC.jpg",
+        "url": "https://t.co/XVQ0uSZbES",
+        "display_url": "pic.twitter.com/XVQ0uSZbES",
+        "expanded_url": "https://twitter.com/TheEconomist/status/1356974090746265603/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 750,
+            "h": 750,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 750,
+            "h": 750,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 93,
+  "favorite_count": 187,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Feb 03 14:33:29 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "2020年，@EIU的民主指数跌至2006年开始以来的最低平均值#DemoIndex https://t.co/SnP78MA7eu https://t.co/XVQ0uSZbES。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "2020年，@EIU的民主指數跌至2006年開始以來的最低平均值#DemoIndex https://t.co/SnP78MA7eu https://t.co/XVQ0uSZbES。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "author": "Billy-Klein",
+  "the_new_excerpt": "Hey guys, for my Bachelor Thesis I am working with GARCH-Models, that is a tool\nfor Time Series Analysis of a given Dataset to predict future Volatility.\n\nBeforehand, one problem with PLTR is that I don't have enough data because the\nstock is pretty new, so when I take the adjusted daily closing…",
+  "original_created_utc": 1614118258,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，对于我的学士论文，我正在使用GARCH-模型，这是一个工具。\n用于给定数据集的时间序列分析，以预测未来的波动率。\n\n在此之前，PLTR的一个问题是，我没有足够的数据，因为我没有足够的数据。\n股票是相当新的，所以当我把调整后的每日收盘... ...",
+      "title": "$PLTR波动率预测和价格范围 - 2月24日，星期三"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，對於我的學士論文，我正在使用GARCH-模型，這是一個工具。\n用於給定數據集的時間序列分析，以預測未來的波動率。\n\n在此之前，PLTR的一個問題是，我沒有足夠的數據，因爲我沒有足夠的數據。\n股票是相當新的，所以當我把調整後的每日收盤... ...",
+      "title": "$PLTR波動率預測和價格範圍 - 2月24日，星期三"
+    }
+  ],
+  "title": "$PLTR Volatility Forecast and Price Range - Wed, 24 Feb",
+  "created_utc": 1614142594,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys, for my Bachelor Thesis I am working with GARCH-Models, that is a tool for Time Series Analysis of a given Dataset to <strong>predict future Volatility</strong>.</p>\n\n<p>Beforehand, one problem with PLTR is that I don&#39;t have enough data because the stock is pretty new, so when I take the adjusted daily closing prices I only have 100 time steps, a better forecast would use around 1000-2000 data points.</p>\n\n<p>Nevertheless, we assume that the returns of our time series follow a normal distribution with zero mean and a finite variance.</p>\n\n<p>When finally fitting our given data set to a GARCH(1,1) model we get an <strong>Expected Volatility for tomorrow&#39;s closing price of 7.47%.</strong></p>\n\n<p><strong>That means our closing price tomorrow has a high likelihood to be in the range of 24.75 USD to 28.75 USD (about 68% chance), with higher probability of the price being centered around the middle and less probability the further we move away.</strong></p>\n\n<p>That means if the price drops much below that range, there is a high chance of going back up, and when the price goes really high, there is a high chance of going back down again and land in those ranges given above for tomorrow&#39;s close.</p>\n\n<p>So, there are certain IF&#39;s in my assumptions and lack of data, but nevertheless I just wanted to throw this in and write it down, maybe it helps someone.</p>\n\n<p><strong>Edit: Don&#39;t forget that this is just about modeling volatility and nothing else. Since returns are almost random it is very unlikely to give an exact forecast for tomorrow&#39;s return!</strong></p>\n\n<p><strong>The higher the volatility, the larger the range of tomorrow&#39;s expected closing price, so you may have an idea about how much you can realistically gain or lose in a single day.</strong></p>\n</div><!-- SC_ON -->",
+  "score": 58,
+  "permalink": "/r/stocks/comments/lquj16/pltr_volatility_forecast_and_price_range_wed_24/",
+  "subreddit": "stocks",
+  "id": "lquj16",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614332886313
+}

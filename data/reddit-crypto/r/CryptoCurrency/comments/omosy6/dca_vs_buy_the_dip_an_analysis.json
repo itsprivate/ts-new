@@ -1,0 +1,32 @@
+{
+  "author": "Wargizmo",
+  "original_created_utc": 1626607748,
+  "title": "DCA vs Buy the Dip - an analysis",
+  "created_utc": 1626644542,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, I&#39;ve read many posts recommending various strategies for buying over the past year or so, and an overwhelming number of them involve DCA (Dollar cost averaging) or &quot;buying the dip&quot;. So I decided to look at historical data for Bitcoin over the previous 5 years (from July 18 2016 until today) to see how each strategy compared to each other.</p>\n\n<p><strong>What is DCA?</strong></p>\n\n<p>Dllar cost averaging is where you simply invest a regular amount into an asset over time using equal payments. For example $100 per week. The theory behind it is that you automatically buy when an asset is cheap, which more than makes up for the buying when the asset is expensive. </p>\n\n<p><strong>What is buying the dip?</strong></p>\n\n<p>Buying the dip involves saving your money until the market experiences a significant downturn. In crypto land, this usually involves waiting until a crash and then buying up an asset at a lower price in the hopes that it will eventually return to equilibrium.</p>\n\n<p><strong>Method</strong></p>\n\n<p>Using historical price data, I pitted a standard dollar cost averaging strategy against two &#39;buy the dip&#39; strategies.</p>\n\n<p><strong>1) DCA strategy:</strong></p>\n\n<p>I &#39;bought&#39; $100 worth of bitcoin per week for 5 years.</p>\n\n<p>Results:</p>\n\n<p>Total spent: <strong>$26,600</strong></p>\n\n<p>Bitcoin bought: <strong>9.0742</strong></p>\n\n<p>Total value (as of 18 July 2021): <strong>$286,907.11</strong></p>\n\n<p>% returns: <strong>+1079%</strong></p>\n\n<p><strong>2) Buy the dip at 10%</strong></p>\n\n<p>$100 saved and put in a pot each week. When the price dropped 10% below the 7 day moving average (the average price for the past 7 days) I used all the saved money to buy Bitcoin. <em>(using historical data, this could be calculated by looking at whether the &#39;low&#39; price for the day was more than 10% lower than the MA for the past 7 days and then &#39;buying&#39; bitcoin at a price of the MA minus 10%)</em> </p>\n\n<p>Results:</p>\n\n<p>Total spent: <strong>$26,300 (with $300 left over)</strong></p>\n\n<p>Dips bought: <strong>79</strong></p>\n\n<p>Total BTC bought: <strong>7.9769</strong></p>\n\n<p>Total value (as of 18 July 2021): <strong>$252,514.74</strong> (including leftover $)</p>\n\n<p>% returns: <strong>+949%</strong></p>\n\n<p><strong>3) Buy the dip at 20%</strong></p>\n\n<p>$100 saved and put in a pot each week. When the price dropped 20% below the 7 day moving average (the average price for the past 7 days) I used all the saved money to buy Bitcoin. </p>\n\n<p>Total spent: <strong>$26,200 (with $400 left over)</strong></p>\n\n<p>Dips bought: <strong>23</strong></p>\n\n<p>Total BTC bought: <strong>9.0340</strong></p>\n\n<p>Total value (as of 18 July 2021): <strong>$286,036.14</strong> (including leftover $)</p>\n\n<p>% returns: <strong>+1075%</strong></p>\n\n<p><strong>Conclusion:</strong></p>\n\n<p>While this is only a couple of many possible Buy The Dip strategies, so far it doesn&#39;t seem that saving up and buying after a crash offers any significan benefit over just investing regularly over a period of time, in fact returns were weaker for both dip buying strategies. One reason for this, is it&#39;s impossible to tell how big or small a dip would be, so buying will often be too early at 10% when the price drops further, or a buying opportunity missed if you wait for it to dip 20%. Nevertheless there is merit to both strategies, and I will challenge anyone on the forum to find a Buy The Dip strategy that offers significantly better returns than DCA over a long time period. </p>\n\n<p><strong>Further notes:</strong></p>\n\n<p>- I will post the link to the spreadsheet data in the comments. This post was ghosted before so no one could see it and I think the reason was the links.</p>\n\n<p>- I decided to use the 7 day moving average as it would give a reasonable price to compare the dip to, 7 days means that no matter what day in the cycle you are, your data will be 5 weekdays and 2 weekend days. Using single day data proved to be a bad idea because a &#39;dip&#39; could just be a dump following a 1 day pump, we wanted an actual dip compared to an expected price. </p>\n\n<p>- Historical price data was sourced from investing dot com website.</p>\n</div><!-- SC_ON -->",
+  "score": 155,
+  "permalink": "/r/CryptoCurrency/comments/omosy6/dca_vs_buy_the_dip_an_analysis/",
+  "subreddit": "CryptoCurrency",
+  "id": "omosy6",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hi all, I've read many posts recommending various strategies for buying over the\npast year or so, and an overwhelming number of them involve DCA (Dollar cost\naveraging) or \"buying the dip\". So I decided to look at historical data for\nBitcoin over the previous 5 years (from July 18 2016 until today)…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。ここ1年ほど、様々な買い方を推奨する記事を読んできました。\nここ1年ほど、様々な買い方を推奨する記事を読んできましたが、その中で圧倒的に多かったのがDCA（ドルコスト平均法）や「ディップを買う」というものでした。\n平均化）や「ディップを買う」というものが圧倒的に多いですね。そこで私は、ビットコインの過去のデータを見てみることにしました。\n過去5年間のビットコイン（2016年7月18日から今日まで）...",
+      "title": "DCA vs Buy the Dip - 分析"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好，在过去一年多的时间里，我读了很多推荐各种购买策略的帖子。\n过去一年左右的时间里，我读了很多推荐各种买入策略的帖子，其中绝大多数都涉及DCA（美元成本平均法）或\n平均法）或 \"买跌停\"。因此，我决定看一下以下历史数据\n比特币过去5年的历史数据（从2016年7月18日到今天）...",
+      "title": "DCA与买入Dip--分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好，在過去一年多的時間裏，我讀了很多推薦各種購買策略的帖子。\n過去一年左右的時間裏，我讀了很多推薦各種買入策略的帖子，其中絕大多數都涉及DCA（美元成本平均法）或\n平均法）或 \"買跌停\"。因此，我決定看一下以下歷史數據\n比特幣過去5年的歷史數據（從2016年7月18日到今天）...",
+      "title": "DCA與買入Dip--分析"
+    }
+  ]
+}

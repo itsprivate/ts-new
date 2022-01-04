@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 687881,
+  "title": "Ditch For... Loops - How to Use ES6 Array Methods to Loop Over An Array",
+  "description": "Do you remember something like this?    var text;  for (i = 0; i &lt; 5; i++) {   text += \"The number...",
+  "readable_publish_date": "May  4",
+  "slug": "ditch-for-loops-how-to-use-es6-array-methods-to-loop-over-an-array-1jnh",
+  "path": "/ubahthebuilder/ditch-for-loops-how-to-use-es6-array-methods-to-loop-over-an-array-1jnh",
+  "url": "https://dev.to/ubahthebuilder/ditch-for-loops-how-to-use-es6-array-methods-to-loop-over-an-array-1jnh",
+  "comments_count": 3,
+  "public_reactions_count": 41,
+  "collection_id": null,
+  "published_timestamp": "2021-05-04T21:06:21Z",
+  "positive_reactions_count": 41,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--27q6Tu-f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5egvzbb1rh3fl5vb3sz.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NwzC-XWg--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5egvzbb1rh3fl5vb3sz.png",
+  "canonical_url": "https://ubahthebuilder.tech/ditch-for-loops-how-to-use-es6-array-methods-to-loop-over-an-array",
+  "created_at": "2021-05-06T18:43:54.569Z",
+  "edited_at": "2021-05-04T21:21:42Z",
+  "crossposted_at": null,
+  "published_at": "2021-05-04T21:06:21Z",
+  "last_comment_at": "2021-05-06T11:06:40Z",
+  "reading_time_minutes": 4,
+  "tag_list": [
+    "webdev",
+    "programming",
+    "javascript",
+    "tutorial"
+  ],
+  "tags": [
+    "webdev",
+    "programming",
+    "javascript",
+    "tutorial"
+  ],
+  "user": {
+    "name": "Kingsley Ubah",
+    "username": "ubahthebuilder",
+    "twitter_username": "UbahTheBuilder",
+    "github_username": null,
+    "website_url": "https://ubahthebuilder.tech",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YUCq1yeb--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/546743/8a7e748b-565e-4457-aaf0-29b97caad1e5.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--3tWrgLOF--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/546743/8a7e748b-565e-4457-aaf0-29b97caad1e5.jpg"
+  },
+  "original_created_at": "2021-05-04T21:06:21Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--27q6Tu-f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5egvzbb1rh3fl5vb3sz.png",
+  "author": "Kingsley Ubah",
+  "author_url": "https://dev.to/ubahthebuilder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんなことを覚えていませんか？ var text; for (i = 0; i &lt; 5; i++) { text += \"The number....",
+      "title": "Ditch For... ループ - ES6の配列メソッドを使って配列をループさせる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你还记得这样的事情吗？ var text; for (i = 0; i &lt; 5; i++) { text += \"The number...",
+      "title": "抛弃For... 循环 - 如何使用ES6数组方法在数组上循环操作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你還記得這樣的事情嗎？ var text; for (i = 0; i &lt; 5; i++) { text += \"The number...",
+      "title": "拋棄For... 循環 - 如何使用ES6數組方法在數組上循環操作"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1638712325,
+  "title": "I made a crypto trading bot that takes advantage of Kucoin listing announcements",
+  "created_utc": 1638729143,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;As some of you have noticed, new listings tend to spike up quite a bit once they are announced on a big exchange. The aim of this tool is to take advantage of this initial spike, at the moment that the announcement is made, not once the listing is actually trade-able on the exchange.&lt;/p&gt;\n\n&lt;p&gt;The reason behind it is that, once the announcement is made, the coin is not immediately trade-able on the exchange, and usually takes a few hours for the exchange to set the listing live.&lt;/p&gt;\n\n&lt;p&gt;The tool allows you to take advantage of this by listening to Kucoin announcements, and then placing a trade on gateio. I chose gateio because they are more relaxed with coin listing, although they&amp;#39;re janky af. This means that what Kucoin and Binance WILL list, is probably already listed on there.&lt;/p&gt;\n\n&lt;p&gt;I made a similar tool for Binance, and while it does have the potential to be profitable, the script must run on a Tokyo VPS in order to take compete in a more competitive environment.&lt;/p&gt;\n\n&lt;p&gt;Using Kucoin announcements instead, seems to be a lot less time-bound in order to be able to make a profit.&lt;/p&gt;\n\n&lt;p&gt;Here some of the inital testing results by user busyuqboy:&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/0k32qv61bq381.jpg?width=600&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=8dc67850ba32a04dee1ea291e39e2619911b4a71\"&gt;https://preview.redd.it/0k32qv61bq381.jpg?width=600&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=8dc67850ba32a04dee1ea291e39e2619911b4a71&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/6cqlep12bq381.jpg?width=600&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=070650aa116a990a261b818c34c5a8a963c5fe6a\"&gt;https://preview.redd.it/6cqlep12bq381.jpg?width=600&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=070650aa116a990a261b818c34c5a8a963c5fe6a&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;In both of these test cases the algorithm would have actually been able to catch a relatively nice spike. The two locations represent the VPS&amp;#39; location and speed of execution.&lt;/p&gt;\n\n&lt;p&gt;I have started running this in live mode and report back with my results. Wish me luck!&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;Here&amp;#39;s a video where I explain all of this in more detail: &lt;a href=\"https://youtu.be/qU8wcBRGihI\"&gt;https://youtu.be/qU8wcBRGihI&lt;/a&gt;. If you like this project and want to follow its progress you can always subscribe to my youtube channel ;)&lt;/p&gt;\n\n&lt;p&gt;I made the tool open source so that anyone can play around with it if they wish: &lt;a href=\"https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins\"&gt;https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Here&amp;#39;s a step-by-step guide on how to set the bot up:  &lt;a href=\"https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/\"&gt;https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 251,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/UhK0UnSIprICdcgSb5NXioRx3Hht7CtRv64fwlf-Bk0.jpg?auto=webp&amp;s=44ce543ded5cbe2c1fbe53800b7f10c51c3587c8",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/UhK0UnSIprICdcgSb5NXioRx3Hht7CtRv64fwlf-Bk0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c02f2f5fa86fd79612a7ba7f5b17192f8eafbf5b",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/UhK0UnSIprICdcgSb5NXioRx3Hht7CtRv64fwlf-Bk0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b83a41b5d721fc632c56840d55dcaa586bef75e9",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/UhK0UnSIprICdcgSb5NXioRx3Hht7CtRv64fwlf-Bk0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d06d9e6947e519dc2f4e1f1b53e0e2bfd059c7ad",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "wrhPkXm-uZ9KB0l7yQOsPDvi0iENcKSZFiqcnfCdfvs"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/r9g5ka/i_made_a_crypto_trading_bot_that_takes_advantage/",
+  "subreddit": "CryptoCurrency",
+  "id": "r9g5ka",
+  "is_self": true,
+  "media": {
+    "type": "youtube.com",
+    "oembed": {
+      "provider_url": "https://www.youtube.com/",
+      "version": "1.0",
+      "title": "Crypto Trading bot: how to buy Kucoin and Binance new coin listings early",
+      "type": "video",
+      "thumbnail_width": 480,
+      "height": 200,
+      "width": 356,
+      "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/qU8wcBRGihI?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+      "author_name": "Cryptomaton",
+      "provider_name": "YouTube",
+      "thumbnail_url": "https://i.ytimg.com/vi/qU8wcBRGihI/hqdefault.jpg",
+      "thumbnail_height": 360,
+      "author_url": "https://www.youtube.com/channel/UCbJfyiBegEca-rd6DeLjK4Q"
+    }
+  },
+  "is_video": false,
+  "the_new_excerpt": "As some of you have noticed, new listings tend to spike up quite a bit once they\nare announced on a big exchange. The aim of this tool is to take advantage of\nthis initial spike, at the moment that the announcement is made, not once the\nlisting is actually trade-able on the exchange.\n\nThe reason…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "お気づきの方もいらっしゃると思いますが、新規上場は一旦するとかなり急騰する傾向があります。\nは、大きな取引所で発表されます。このツールの狙いは、このような状況を利用することです。\nこの最初の急上昇は、発表された後ではなく、発表された瞬間に起こります。\n実際に取引所で取引できるようになります。\n\nその理由は...",
+      "title": "Kucoinの上場発表を利用したcrypto trading botを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "正如你们中的一些人已经注意到的，新的上市项目一旦在大的交易所公布，往往会有相当大的涨幅。\n在一个大的交易所公布。这个工具的目的是要利用\n在公告发布的那一刻，利用这种最初的飙升，而不是一旦\n而不是一旦上市就可以在交易所进行交易。\n\n其原因是...",
+      "title": "我做了一个加密货币交易机器人，利用Kucoin上市公告的优势"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "正如你們中的一些人已經注意到的，新的上市項目一旦在大的交易所公佈，往往會有相當大的漲幅。\n在一個大的交易所公佈。這個工具的目的是要利用\n在公告發布的那一刻，利用這種最初的飆升，而不是一旦\n而不是一旦上市就可以在交易所進行交易。\n\n其原因是...",
+      "title": "我做了一個加密貨幣交易機器人，利用Kucoin上市公告的優勢"
+    }
+  ]
+}

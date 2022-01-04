@@ -1,0 +1,53 @@
+{
+  "author": "sheer1706",
+  "original_created_utc": 1624464064,
+  "title": "Break My Contract, Steal My Money - A Solidity Riddle",
+  "created_utc": 1624491396,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I’ve been dabbling around with Solidity and smart contracts over the past couple of weeks. And the more I learn, the more fascinating the topic becomes to me. To share my fascination, and to create awareness for smart contract vulnerabilities, I decided to create a Solidity riddle. Play along and break the code to get access to the deposited tokens :)</p>\n\n<p><strong>How Does It Work?</strong></p>\n\n<p>Basically, I created a smart contract with a built-in security exploit, and I deployed it on Binance Smart Chain (BSC). I then deposited a few tokens into the contract. The challenge is to gain access and withdraw them to a wallet that you control. How you do that, is up to you. I know at least one solution to the problem, but there might be more. There are no real rules here. The smart contract is out there and public, and whoever manages to withdraw the tokens wins and can keep them.</p>\n\n<p><strong>Why BSC?</strong></p>\n\n<p>Solidity is the most common language used to develop smart contracts for the Ethereum Virtual Machine (EVM). However, BSC is essentially just a clone of Ethereum. And almost anything that works on Ethereum, works on BSC as well. With fees being so much lower on BSC, and this just being a fun little challenge, I decided to go for BSC.</p>\n\n<p>Now, I am aware that lower fees on BSC come at a cost. BSC is a lot less decentralized. But this is not an ideological statement. This is just a fun challenge to play around with Solidity, and it shouldn’t cost an arm and a leg to participate.</p>\n\n<p><strong>Show Me The Contract Already!</strong></p>\n\n<p>Alright, enough talking. Let’s cut straight to the chase. Here’s the contract:</p>\n\n<p><a href=\"https://bscscan.com/address/0xaa57213f5c0154619713537e99b8dfd923c6e3ef\">[</a>event over, code can be found here: <a href=\"https://github.com/scamcoincrypto/solidity-riddles/blob/main/hackable.sol\">https://github.com/scamcoincrypto/solidity-riddles/blob/main/hackable.sol</a>]</p>\n\n<p>It currently holds 25,000 tokens, worth about 20$ on the open market. The exploitable contract is verified on BscScan and can be analyzed to find the solution to the challenge.</p>\n\n<p>I’m honestly excited to see how long it will take for someone to gain access :)</p>\n\n<p><strong>What Tools Should I Use?</strong></p>\n\n<p>You will need a BSC wallet and (depending on your approach) a Solidity compiler for this challenge. You can use any BSC compatible wallet, but I recommend Metamask, although it needs to be set up to work on BSC first. Here’s how to do that:</p>\n\n<p><a href=\"https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain\">https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain</a></p>\n\n<p>The most common IDE for Solidity development is probably Remix. It’s a web tool with an integrated Solidity Compiler. You can connect it with Metamask to deploy your smart contracts on-chain. Here’s where you find Remix:</p>\n\n<p><a href=\"https://remix.ethereum.org/\">https://remix.ethereum.org/</a></p>\n\n<p><strong>Closing Remarks</strong></p>\n\n<p>I put the contract on GitHub as well. If anybody wants to fork it, copy it, or even propose changes to increase the difficulty, feel free to do so:</p>\n\n<p><a href=\"https://github.com/scamcoincrypto/solidity-riddles\">https://github.com/scamcoincrypto/solidity-riddles</a></p>\n\n<p>Other than that, there’s not much left to say. Have fun with the challenge! And if you find the solution, I would love for you to write a little post about it.</p>\n\n<p>&#x200B;</p>\n\n<p><em>edit: Two people have approached me with a solution. Unfortunately, I underestimated the gas cost for breaking the contract. So I withdrew the reward and am sharing it between the two of them.</em></p>\n</div><!-- SC_ON -->",
+  "score": 158,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/zqJ2ke1jIw-RIgn186r7bvgwKH7sjPPdPUJuh1R5sGo.jpg?auto=webp&s=f23ae916fb15c24bb2852bdd084462ddf7d4ff83",
+          "width": 122,
+          "height": 122
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/zqJ2ke1jIw-RIgn186r7bvgwKH7sjPPdPUJuh1R5sGo.jpg?width=108&crop=smart&auto=webp&s=74c3efe367cdd6fc7f48d289abbe152e843c169d",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "OyQ2U3Z5ETil50U6i6-F3QrfEg0GLBwrzHOtcymHxMY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/o6fshx/break_my_contract_steal_my_money_a_solidity_riddle/",
+  "subreddit": "CryptoCurrency",
+  "id": "o6fshx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I’ve been dabbling around with Solidity and smart contracts over the past couple\nof weeks. And the more I learn, the more fascinating the topic becomes to me. To\nshare my fascination, and to create awareness for smart contract\nvulnerabilities, I decided to create a Solidity riddle. Play along and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここ数週間、Solidityとスマートコントラクトに手を出してきました。\nをしています。そして、学べば学ぶほど、このテーマは私にとって魅力的なものになっています。私の魅力を共有し\n私の魅力を伝え、スマートコントラクトの脆弱性に対する認識を高めるために\nスマートコントラクトの脆弱性を認識してもらうために、Solidityの謎解きゲームを作ることにしました。一緒に遊んでみてください...",
+      "title": "Break My Contract, Steal My Money - A Solidity Riddle"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在过去的几周里，我一直在涉猎Solidity和智能合约。\n几周来，我一直在接触Solidity和智能合约。我学得越多，这个话题对我来说就越有吸引力。为了\n为了分享我的魅力，并建立对智能合约的认识\n漏洞，我决定创造一个Solidity谜语。一起玩吧。",
+      "title": ""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在過去的幾周裏，我一直在涉獵Solidity和智能合約。\n幾周來，我一直在接觸Solidity和智能合約。我學得越多，這個話題對我來說就越有吸引力。爲了\n爲了分享我的魅力，並建立對智能合約的認識\n漏洞，我決定創造一個Solidity謎語。一起玩吧。",
+      "title": ""
+    }
+  ]
+}

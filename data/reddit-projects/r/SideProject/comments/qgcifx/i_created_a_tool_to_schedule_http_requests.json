@@ -1,0 +1,32 @@
+{
+  "author": "bio_172",
+  "original_created_utc": 1635272058,
+  "title": "I created a tool to schedule HTTP requests",
+  "created_utc": 1635302311,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>In my last project, I was struggling to create and monitor cron jobs.</p>\n\n<p>So, instead of creating hundreds of standalone scrips and executing them with cron, I decided to turn those scripts into multiple endpoints. Next, I created a single service that I could schedule HTTP requests to those endpoints and monitor its execution. No more scripts, now everything is endpoints that I can run manually at any time  😊</p>\n\n<p>I turned this scheduler service into a Micro-SaaS so you don&#39;t have to build it yourself: <a href=\"http://beew.io/\">beew.io</a> 🎉</p>\n\n<p>btw, feedbacks are welcome. 😃</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/qgcifx/i_created_a_tool_to_schedule_http_requests/",
+  "subreddit": "SideProject",
+  "id": "qgcifx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "In my last project, I was struggling to create and monitor cron jobs.\n\nSo, instead of creating hundreds of standalone scrips and executing them with\ncron, I decided to turn those scripts into multiple endpoints. Next, I created a\nsingle service that I could schedule HTTP requests to those endpoints…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "前回のプロジェクトでは、cronジョブの作成と監視に苦労しました。\n\nそこで、何百ものスタンドアロンのスクリプトを作成し、それをcronで実行する代わりに\ncronで実行する代わりに、それらのスクリプトを複数のエンドポイントにすることにしました。次に、HTTPリクエストをスケジュールできる\n次に、これらのエンドポイントへのHTTPリクエストをスケジュールするために、単一のサービスを作成しました。",
+      "title": "HTTPリクエストをスケジュールするツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在我的上一个项目中，我在创建和监控cron作业方面遇到了困难。\n\n因此，我决定把这些脚本变成多个端点，而不是创建数百个独立的脚本并通过\ncron，我决定把这些脚本变成多个端点。接下来，我创建了一个\n单个服务，我可以安排HTTP请求到这些端点...",
+      "title": "我创建了一个工具来安排HTTP请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在我的上一個項目中，我在創建和監控cron作業方面遇到了困難。\n\n因此，我決定把這些腳本變成多個端點，而不是創建數百個獨立的腳本並通過\ncron，我決定把這些腳本變成多個端點。接下來，我創建了一個\n單個服務，我可以安排HTTP請求到這些端點...",
+      "title": "我創建了一個工具來安排HTTP請求"
+    }
+  ]
+}

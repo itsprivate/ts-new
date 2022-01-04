@@ -1,0 +1,79 @@
+{
+  "author": "Liberosist",
+  "the_new_excerpt": "Apologies for the slightly clickbaity headline, but it's actually true.\n\nThe alpha version of zkSync 2.0 is now live on testnet\n[https://medium.com/matter-labs]. Most of the crypto world seems to be sleeping\non zkSync 2.0 - this is without any doubt the most advanced smart contract\nplatform ever…",
+  "original_created_utc": 1622527538,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "少々くだけた見出しで申し訳ないが、これは実際に事実である。\n\nzkSync 2.0のアルファ版がテストネットで公開されました。\n[https://medium.com/matter-labs]. 暗号の世界ではほとんどの人がzkSyncに注目しているようです。\nzkSync 2.0はこれまでで最も先進的なスマートコントラクトプラットフォームであることは間違いありません。\nこれまでで最も先進的なスマートコントラクトプラットフォームです。",
+      "title": "zkSync 2.0のご紹介です。2021年に100,000TPSを実現する先進の次世代スマートコントラクトプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对这个略带点击率的标题表示歉意，但这实际上是事实。\n\nzkSync 2.0的alpha版本现在在testnet上运行。\n[https://medium.com/matter-labs]。大多数的加密世界似乎都在沉睡\n睡觉 - 这无疑是最先进的智能合约\n平台...",
+      "title": "zkSync 2.0。先进的下一代智能合约平台，在2021年提供100,000个TPS"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對這個略帶點擊率的標題表示歉意，但這實際上是事實。\n\nzkSync 2.0的alpha版本現在在testnet上運行。\n[https://medium.com/matter-labs]。大多數的加密世界似乎都在沉睡\n睡覺 - 這無疑是最先進的智能合約\n平臺...",
+      "title": "zkSync 2.0。先進的下一代智能合約平臺，在2021年提供100,000個TPS"
+    }
+  ],
+  "title": "zkSync 2.0: An advanced next-gen smart contract platform that delivers 100,000 TPS in 2021",
+  "created_utc": 1622586172,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Apologies for the slightly clickbaity headline, but it&#39;s actually true.</p>\n\n<p>The alpha version of <a href=\"https://medium.com/matter-labs\">zkSync 2.0 is now live on testnet</a>. Most of the crypto world seems to be sleeping on zkSync 2.0 - this is without any doubt the most advanced smart contract platform ever released. Bold statement? By the way, I know why it&#39;s not being shilled to kingdom come - because it doesn&#39;t have a token yet and thus there&#39;s no incentive to form shill armies. But there will be a zkSync token - this is your opportunity to get some serious &quot;alpha&quot; before the token comes and said shill armies form.</p>\n\n<p>zkSync 2.0 is the first programmable ZK rollup. StarkNet is the other one, though it&#39;s releasing after zkSync 2.0. I like to joke <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/my0h9s/opinion_rollups_are_4th_gen_blockchains/\">rollups are &quot;4th gen blockchains&quot;</a> but this is actually true - this is the greatest revolution in blockchain tech since the #2-project-that-shall-not-be-named in 2015 and will cause a paradigm shift through the industry. More bold statements? Here&#39;s why.</p>\n\n<p>I&#39;m not going to dive into how rollups work, as it&#39;s covered in the post linked above, but in a nutshell, these are new blockchain constructions that upend the blockchain trilemma by offering massive scalability, decentralization and security. You get the same uncompromised security and decentralization of L1 - in this case #2-project-that-shall-not-be-named - but now with great scalability. zkSync 2.0 will scale to 1,000 to 5,000 TPS, depending on the complexity of the transaction. zkSync 2.0 is an LLVM-based smart contract platform that natively supports Rust (not yet, but on the roadmap), Zinc (their Rust-like programming language) and importantly EVM programming languages like Solidity, Yul and Vyper. You can directly deploy code from EVM chains like Ethereum with minimal changes. Unlike optimistic rollups, ZK rollups like zkSync 2.0 have instant withdrawals and objective finality limited only by batch frequency. Optimistic rollups are great tech, but ZK rollups are once-in-a-generation magical tech that takes things to the next level.</p>\n\n<p>So where does the 100,000 TPS come from? This is the clever bit. zkSync 2.0 also has its own consensus mechanism for data availability, called zkPorter, that can significantly accelerate throughput without being bottlenecked by L1. So while zkSync 2.0 does up to 1,000 to 5,000 TPS in rollup mode, it&#39;ll accelerate to 25,000 to 100,000 TPS in zkPorter mode. Of course, you&#39;re relying on zkSync&#39;s consensus mechanism, so it&#39;s much less secure or decentralized than rollups which leverage L1. Users can opt in to either zkPorter or zkRollup - zkPorter offers negligible cost but lower security; while zkRollup mode offers maximum security and still low cost. zkPorter is actually still more secure than other L1s, as worst case your funds can only be confiscated, but not stolen or spent.</p>\n\n<p>So what does this mean for the end user? Very cheap gas fees, with a very similar user experience to the #2-project-that-shall-not-be-named. You have the choice between zk Rollup (low gas fees, let&#39;s say $0.3, with the maximum possible security) or zk Porter (negligible fees, let&#39;s say $0.003, though with lower security but still greater than sidechains and other L1s). It&#39;s important to note, however, that this is tech on the absolute bleeding-edge and will need time to be battle-tested.</p>\n\n<p>Here&#39;s when things get very, very interesting. With data sharding in 2022, the #2-project-that-shall-not-be-named will bring massive data availability directly to L1. So you&#39;ll get 100,000+ TPS on the ZK rollup without any compromises whatsoever! So you&#39;ll get your negligible fees backed fully by the massive security and decentralization of the by-then-possibly-#1-project-that-shall-not-be-named.</p>\n\n<p>Finally, before you say &quot;Oh, but my pet chain does 1 million TPS!&quot;. Oh, no, it doesn&#39;t, it actually does 7 TPS. Artificially inflating TPS number using state channels - which can theoretically do infinite TPS - is a complete lie. By this logic Bitcoin can do 1 billion TPS - Lightning is also a state channel, and there&#39;s nothing stopping two parties from exchanging 1 billion transactions ad nauseum. Yes, I&#39;m deliberately oversimplifying things - it&#39;s to make a point.</p>\n\n<p>zkSync 2.0 is set to launch this summer, if all goes well, with the zkPorter option set for fall. There&#39;s stiff competition for zkSync 2.0, with Arbitrum, Optimistic Ethereum and StarkNet all releasing in similar timeframes (Arbitrum is first, of course), with the likes of OMGX and Polygon possibly joining the fray as well. The rollup space is <em>the</em> place where the most intense competition is happening - this will dictate the crypto markets over the coming months.</p>\n</div><!-- SC_ON -->",
+  "score": 158,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?auto=webp&s=8601ce2038592fe43da4ebe21262adc644fac15d",
+          "width": 1080,
+          "height": 1080
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?width=108&crop=smart&auto=webp&s=7af97695b4e1cc13ef22857b6aeabcd1569b6948",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?width=216&crop=smart&auto=webp&s=6031ab0d2ff3ec4f676487199c755444c4a445f7",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?width=320&crop=smart&auto=webp&s=be189deda0acdc93780391e9ae1dd62f26d2aac5",
+            "width": 320,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?width=640&crop=smart&auto=webp&s=34797667fd667a4a6c70e34ad2ed86b188961c93",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?width=960&crop=smart&auto=webp&s=eb92c69b24e742738ea9270295858b8a7ca3f0aa",
+            "width": 960,
+            "height": 960
+          },
+          {
+            "url": "https://external-preview.redd.it/eQwv6AfxAkQS-CnzME07iZOO8kGVGl5I404MRm_xp7Y.jpg?width=1080&crop=smart&auto=webp&s=18eedb0f40168f5ff39d1fb871ae223484d1a3a7",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "variants": {},
+        "id": "to9SB_a_EBsc7eNfTZF2Kcx60Rr27ydEtI0DIY9Jc7U"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/npn5pa/zksync_20_an_advanced_nextgen_smart_contract/",
+  "subreddit": "CryptoCurrency",
+  "id": "npn5pa",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1622804297930
+}

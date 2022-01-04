@@ -1,0 +1,68 @@
+{
+  "author": "TheImminentFate",
+  "original_created_utc": 1630653279,
+  "title": "There are a lot of posts about market cap popping up again, so I’m repeating this information about using the free-float cap instead",
+  "created_utc": 1630683738,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>TL;DR - The <a href=\"https://www.investopedia.com/terms/f/freefloatmethodology.asp\">free-float</a> market cap can be more accurate as it ignores the lack of influence from locked or lost coins.</strong> </p>\n\n<p><strong>Edit: free-float cap isn’t a perfect metric either (and can fluctuate a lot), but this is more to highlight that market cap in general is a pretty poor tool for measuring potential value.</strong></p>\n\n<p>&#x200B;</p>\n\n<p>Market cap is a pretty straightforward calculation: you take a coin&#39;s current value, and multiply it by its circulating supply, and you&#39;ve got the market capitalization of the coin; that is, the <em>total value of all outstanding assets should they be available for sale right now.</em></p>\n\n<p>See the catch? How about an example.</p>\n\n<p>I create a new token. Let&#39;s call it Rugpull (RGP), with a maximum supply of 1 million tokens. I list it on Uniswap, and I make the first (and only) trade at $10 for 10 tokens. </p>\n\n<p>That token now has a spot price of $1. By using our calculation above, $1 per token multiplied by all available tokes = $1,000,000 market cap. We&#39;ve done it, we&#39;re rich!</p>\n\n<p>What the market cap doesn&#39;t account for is <em>liquidity</em>. Sure, RGP is valued at $1 per coin by the people buying it, but you&#39;re the only trading it. It is still completely worthless, but it has a market cap of $1 million. Hell, you could pump the market cap to a billion by trading a single token for $1000. The point being that liquid supply needs to be considered in determining a coin&#39;s value. </p>\n\n<p>This isn&#39;t an issue for most major coins of course. With billions of dollars flowing in and out of trades, the problem becomes almost invisible, but that doesn&#39;t mean it isn&#39;t there. Just keep this in mind. </p>\n\n<p>In the same vein, market cap doesn&#39;t account for locked coins, such as those staked away. It <em>does</em> account for unmined coins by not including them in the calculation, but as far as online tools are concerned, every coin that has been minted is considered liquid and therefore suitable for inclusion in calculations. </p>\n\n<p>We&#39;ll use a real coin as an example of this problem here; Cardano. Love it or hate it, it&#39;s a good example of the problem with market cap calculations (plus the data was easier to find than for other coins because it&#39;s all over the news right now). </p>\n\n<p>As of two weeks ago, just over 32 billion coins were in circulation, at a cost of $2.50 per coin. That&#39;s a tidy market cap of <strong>$79.8 billion.</strong> Pretty good. <strong>If Cardano were to have the market cap of Bitcoin ($883 billion), each coin would be worth $27.50</strong>. A bit more sobering for those who think it could 100x over the next 5 years. </p>\n\n<p><strong><em>However:</em></strong> just over 70% of all Cardano is staked at present. This reduces our true circulating supply to 10.6 billion coins, and <em>that</em> at a price of $2.50 yields what is known as the <a href=\"https://www.investopedia.com/terms/f/freefloatmethodology.asp\">free-float market cap.</a> We ignore locked-in shares (and strictly speaking we should also remove those held by the cardano foundation internally) and yields our true tradeable supply. </p>\n\n<p>The free-float market cap would be closer to <strong>$26.4 billion, and thus if Cardano were to reach Bitcoin&#39;s market cap, each coin would be worth $83.25.</strong> </p>\n\n<p><em>Two quick notes: Staked ADA is technically liquid since it can be withdrawn at any time, but “technically liquid” only counts if it’s actually being used. While it’s not being used, it’s still considered locked, however by virtue of it being easy to unstake, the free-float cap can fluctuate wildly as a result. Also I should strictly speaking use Bitcoin’s free-float market cap for this calculation too, but I don’t know how many coins are permanently lost. Different estimates put it between 5-20% of the total supply.</em></p>\n\n<p>&#x200B;</p>\n\n<p>Now if we go back to our Rugpull token, we see the free-float market cap is $1 * 10 coins = $10. Much more realistic (though still overstated because of the liquidity problem)</p>\n\n<p>The eagle-eyed among you will notice a hole in this method too; but it&#39;s just another tool in your belt to avoid falling prey to RGP.</p>\n</div><!-- SC_ON -->",
+  "score": 159,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/7VgNpD7wxH_vGxuIOk1C78IQTGy8c7I-uaIPBe0kgMU.jpg?auto=webp&s=29d3977ab970219a71dc262dc5c55eb1ad7c773e",
+          "width": 680,
+          "height": 440
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/7VgNpD7wxH_vGxuIOk1C78IQTGy8c7I-uaIPBe0kgMU.jpg?width=108&crop=smart&auto=webp&s=dfc9113abae1066cd1d404b4592067f13afc3019",
+            "width": 108,
+            "height": 69
+          },
+          {
+            "url": "https://external-preview.redd.it/7VgNpD7wxH_vGxuIOk1C78IQTGy8c7I-uaIPBe0kgMU.jpg?width=216&crop=smart&auto=webp&s=4076c58b980cda0c920c848d390d0cd89fbc8914",
+            "width": 216,
+            "height": 139
+          },
+          {
+            "url": "https://external-preview.redd.it/7VgNpD7wxH_vGxuIOk1C78IQTGy8c7I-uaIPBe0kgMU.jpg?width=320&crop=smart&auto=webp&s=106e8864bcbf9153d09c8a509fb92263dbe62be9",
+            "width": 320,
+            "height": 207
+          },
+          {
+            "url": "https://external-preview.redd.it/7VgNpD7wxH_vGxuIOk1C78IQTGy8c7I-uaIPBe0kgMU.jpg?width=640&crop=smart&auto=webp&s=445fa32c42e9d9dbd8fe8f90b1cd4837357b5999",
+            "width": 640,
+            "height": 414
+          }
+        ],
+        "variants": {},
+        "id": "d9Wy01Ib0GzmrbNfb3EHGdczkc8cceWVM-Oq1_Qvvac"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ph071v/there_are_a_lot_of_posts_about_market_cap_popping/",
+  "subreddit": "CryptoCurrency",
+  "id": "ph071v",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "TL;DR - The free-float\n[https://www.investopedia.com/terms/f/freefloatmethodology.asp] market cap can\nbe more accurate as it ignores the lack of influence from locked or lost coins.\n\nEdit: free-float cap isn’t a perfect metric either (and can fluctuate a lot),\nbut this is more to highlight that…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TL;DR - フリーフロートの\n[https://www.investopedia.com/terms/f/freefloatmethodology.asp] マーケットキャップは\nは、ロックされたコインや失われたコインによる影響のなさを無視しているため、より正確になります。\n\n編集：フリーフロートキャップも完璧な指標ではありません（そして大きく変動します）。\nしかし、これはそのことを強調するためのものです...。",
+      "title": "マーケットキャップについての投稿がまたたくさん出てきているので、代わりにフリーフロートキャップを使うという情報を繰り返しています"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TL;DR - 自由流通股\n[https://www.investopedia.com/terms/f/freefloatmethodology.asp] 市值可以\n更准确，因为它忽略了锁定或丢失硬币的影响。\n\n编辑：自由流通市值也不是一个完美的衡量标准（可以有很大的波动）。\n但这更多是为了强调这一点...",
+      "title": "有很多关于市值的帖子又冒出来了，所以我重复一下这个关于用自由浮动市值代替的信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TL;DR - 自由流通股\n[https://www.investopedia.com/terms/f/freefloatmethodology.asp] 市值可以\n更準確，因爲它忽略了鎖定或丟失硬幣的影響。\n\n編輯：自由流通市值也不是一個完美的衡量標準（可以有很大的波動）。\n但這更多是爲了強調這一點...",
+      "title": "有很多關於市值的帖子又冒出來了，所以我重複一下這個關於用自由浮動市值代替的信息"
+    }
+  ]
+}

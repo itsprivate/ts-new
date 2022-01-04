@@ -1,0 +1,73 @@
+{
+  "created_at": "Mon Apr 12 19:35:49 +0000 2021",
+  "id_str": "1381685615092174852",
+  "full_text": "RT @jimcramer: pay me in bitcoin!!",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jimcramer",
+        "name": "Jim Cramer",
+        "id": 14216123,
+        "id_str": "14216123",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
+  },
+  "retweet_count": 2935,
+  "favorite_count": 0,
+  "original_created_at": "Mon Apr 12 19:08:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jimcramer: ビットコインで払ってくれ！！。",
+      "retweeted_status_full_text": "ビットコインで支払ってください!"
+    },
+    {
+      "locale": "zh",
+      "full_text": "",
+      "retweeted_status_full_text": "用比特币付给我！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "",
+      "retweeted_status_full_text": "用比特幣付給我！!"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Mon Apr 12 12:50:36 +0000 2021",
+    "id_str": "1381590574512373765",
+    "full_text": "pay me in bitcoin!!",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "user": {
+      "name": "Jim Cramer",
+      "screen_name": "jimcramer",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1236072767621128192/3dtWV42k_normal.jpg"
+    },
+    "retweet_count": 2935,
+    "favorite_count": 20044
+  }
+}

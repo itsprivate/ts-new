@@ -1,0 +1,32 @@
+{
+  "author": "vrungelru",
+  "original_created_utc": 1627642116,
+  "title": "New Guitar School project (we're trying to make things different)",
+  "created_utc": 1627655483,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi there!</p>\n\n<p>As a side project I&#39;m helping my guitar teacher (he wants to remain anonymous by now, so I will call him SGP) to build a new guitar school. I am in charge of the technical part and helping a bit with the promotion. The problem we (mostly SGP &#39;cause I&#39;m not a musician... developers gotta develop)))) are trying to solve is to change the way people think about guitar music. They should take it much more seriously and keep focus on the results they want to achieve. Not to learn how to play another guitar lick or song, but to learn how to play everything you want, the way you want.</p>\n\n<p>What do we have so far:</p>\n\n<ul>\n<li>More than 220 exercises with detailed explanations and tabs (Guitar Pro). All of them are organised by topics and will help you master some particular technical problem(s).</li>\n<li>Basic progress tracking tools (keep track of TODO/ATTEMPTED/COMPLETED lessons and your daily activity).</li>\n<li>Very beginning of the blog.</li>\n</ul>\n\n<p>Future plans:</p>\n\n<ul>\n<li>Audio/video mostly. As it hard to explain music using just text. SGP is obsessed with the quality, that&#39;s why it takes so long to deliver it...</li>\n<li>Add more exercises to the current topics and introduce the new ones.</li>\n<li>Keep writing blog articles (SGP has a lot to say).</li>\n<li>Keep working on the progress tracking tools as they are very basic right now (current idea is to add something like &quot;Learning Diary&quot; where you can upload your audio files and share them with other users).</li>\n</ul>\n\n<p>Here is the link: <a href=\"https://learn.slowguitarplayer.com\">https://learn.slowguitarplayer.com</a></p>\n\n<p>You can use &quot;reddit&quot; (no quotes) promo code to get $10 OFF for monthly subscription.</p>\n\n<p>Some tech details for anyone who is interested :)</p>\n\n<ul>\n<li>FE: Node 14 + Next.js + Auth0 + Chakra UI + alphaTab</li>\n<li>BE: Python 3.9 + uWSGi + Flask + SQLAlchemy + PostgreSQL</li>\n<li>Infra: Ubuntu 20.04 + Ansible + Caddy + Docker</li>\n</ul>\n\n<p>I would really appreciate any feedback/questions (both business and technical) about this project. Also it would nice to hear about your experience with other guitar schools (if you&#39;ve tried any).</p>\n\n<p>I get desperate at times due to the current workload at my main job, but trying to be positive and keep pushing :)</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/p41sde48nbe71.jpg?width=640&amp;format=pjpg&amp;auto=webp&amp;s=27cd89af0fc7d81fc22db1f4172c072503e378ca\">Not only a human being can be a great musician (SGP&#39;s cat) ;)</a></p>\n</div><!-- SC_ON -->",
+  "score": 6,
+  "permalink": "/r/SideProject/comments/ouia52/new_guitar_school_project_were_trying_to_make/",
+  "subreddit": "SideProject",
+  "id": "ouia52",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hi there!\n\nAs a side project I'm helping my guitar teacher (he wants to remain anonymous by\nnow, so I will call him SGP) to build a new guitar school. I am in charge of the\ntechnical part and helping a bit with the promotion. The problem we (mostly SGP\n'cause I'm not a musician... developers gotta…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n私はサイドプロジェクトとして、私のギターの先生を手伝っています（彼は今まで匿名を希望していたので\nSGPと呼ぶことにします）が新しいギター教室を作るのを手伝っています。私が担当しているのは\n技術的な部分を担当していて、プロモーションを少し手伝っています。問題は僕ら（主にSGP\n私はミュージシャンではないので・・・開発者が・・・。",
+      "title": "ギタースクールの新企画（異質なものを作ろうとしている"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好!\n\n作为一个辅助项目，我正在帮助我的吉他老师（他希望通过以下方式保持匿名）。\n所以我就叫他SGP）建立一个新的吉他学校。我负责的是\n我负责技术部分，并在推广方面提供一些帮助。我们的问题是（主要是SGP\n因为我不是音乐家......开发商得......",
+      "title": "新的吉他学校项目（我们正在努力使事情变得不同）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好!\n\n作爲一個輔助項目，我正在幫助我的吉他老師（他希望通過以下方式保持匿名）。\n所以我就叫他SGP）建立一個新的吉他學校。我負責的是\n我負責技術部分，並在推廣方面提供一些幫助。我們的問題是（主要是SGP\n因爲我不是音樂家......開發商得......",
+      "title": "新的吉他學校項目（我們正在努力使事情變得不同）。"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "created_at": "Wed Sep 29 12:28:1 +0000 2021",
+  "id_str": "1443153782070816774",
+  "full_text": "Why do languages die? https://t.co/DAPVwyWfql https://t.co/nSaV5XU0zG",
+  "display_text_range": [
+    0,
+    45
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/DAPVwyWfql",
+        "expanded_url": "https://econ.st/2WnKQvQ",
+        "display_url": "econ.st/2WnKQvQ",
+        "indices": [
+          22,
+          45
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1443153636431995000,
+        "id_str": "1443153636431994886",
+        "indices": [
+          46,
+          69
+        ],
+        "media_url": "http://pbs.twimg.com/media/FAcctvyXoAMbwA-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FAcctvyXoAMbwA-.jpg",
+        "url": "https://t.co/nSaV5XU0zG",
+        "display_url": "pic.twitter.com/nSaV5XU0zG",
+        "expanded_url": "https://twitter.com/TheEconomist/status/1443153782070816774/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 720,
+            "h": 405,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 405,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 37,
+  "favorite_count": 83,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Sep 29 10:00:48 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "なぜ言語は死ぬのか？ https://t.co/DAPVwyWfql https://t.co/nSaV5XU0zG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "为什么语言会死亡？https://t.co/DAPVwyWfql https://t.co/nSaV5XU0zG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "爲什麼語言會死亡？https://t.co/DAPVwyWfql https://t.co/nSaV5XU0zG"
+    }
+  ]
+}

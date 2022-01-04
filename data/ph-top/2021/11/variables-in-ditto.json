@@ -1,0 +1,90 @@
+{
+  "id": "320040",
+  "commentsCount": 4,
+  "createdAt": "2021-11-18T17:45:19.331Z",
+  "description": "Variables in Ditto take care of interpolating dynamic values in product text. 🎨 With Variables, you can indicate where dynamic strings, numbers, and links live in your designs. 🤖 Variables get automatically formatted for developers.",
+  "featuredAt": "2021-11-18T08:01:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/055e04e2-1c40-4cc3-8ad6-26d939d47a9d.jpeg?auto=format",
+      "videoUrl": "https://youtu.be/76PGtG4JG1Y"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6a2ce654-02de-4025-b6ba-537565b986c4.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/76b53c71-ef45-42f2-9370-1711e0405454.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/843a4289-fa3b-470f-b402-6ebf9cf8d15d.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/6d56b991-1ca1-4d74-b75c-33fda23472b1.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Variables in Ditto",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/9616fd7ee8f6cb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Michael Seibel",
+    "url": "https://www.producthunt.com/@mwseibel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "variables-in-ditto",
+  "tagline": "Dynamic strings in designs, {{auto-formatted}} for devs",
+  "url": "https://www.producthunt.com/posts/variables-in-ditto?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 115,
+  "website": "https://www.producthunt.com/r/9616fd7ee8f6cb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Design Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "User Experience"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-11-18T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dittoの変数は、製品テキストの動的な値の補間を行います。変数を使えば、デザインの中で動的な文字列、数字、リンクをどこに置くかを示すことができます。変数は開発者向けに自動的にフォーマットされます。",
+      "tagline": "デザインでは動的な文字列、開発では{{auto-formatted}}。"
+    },
+    {
+      "locale": "zh",
+      "description": "Ditto中的变量负责处理产品文本中的动态值插值。🎨 通过变量，你可以指出动态字符串、数字和链接在设计中的位置。🤖 变量会自动为开发者提供格式化。",
+      "tagline": "设计中的动态字符串，{{自动格式化}}的设计人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ditto中的變量負責處理產品文本中的動態值插值。🎨 通過變量，你可以指出動態字符串、數字和鏈接在設計中的位置。🤖 變量會自動爲開發者提供格式化。",
+      "tagline": "設計中的動態字符串，{{自動格式化}}的設計人員"
+    }
+  ],
+  "source_updated_at": 1637919686645
+}

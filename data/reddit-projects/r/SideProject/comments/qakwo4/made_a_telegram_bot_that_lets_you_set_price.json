@@ -1,0 +1,63 @@
+{
+  "author": "_rittik",
+  "original_created_utc": 1634557113,
+  "title": "Made a Telegram Bot that lets you set price alerts for your Amazon products",
+  "created_utc": 1634562298,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Link to the bot:</strong> <a href=\"https://telegram.me/PriceA1ertBot\"><strong>https://telegram.me/PriceA1ertBot</strong></a></p>\n\n<p>A Telegram chatbot that helps you set price alerts for amazon products. The bot checks the price of your watchlisted products every hour and sends you an alert message when it reaches the target price. It is developed using the <a href=\"https://github.com/eternnoir/pyTelegramBotAPI\">pyTelegramBotAPI</a> and Google Sheets API and deployed on Replit. (learning to use documentation has really helped me a lot in my coding journey)</p>\n\n<p>I had started learning python at the beginning of this year and this is one of my few big projects that I’m really proud of.</p>\n\n<p><strong>How it works?</strong></p>\n\n<ol>\n<li>You send an Amazon URL to the bot</li>\n<li>It checks whether it is a valid Amazon product URL.</li>\n<li>Then it asks you for a price alert.</li>\n<li>Finally using the Google Sheets API it adds the details of your product to an excel sheet.</li>\n<li>It checks every hour if the product has reached the alert price.</li>\n<li>Once it reaches the alert price the bot sends you an alert message.</li>\n</ol>\n\n<p>I’ve linked the GitHub repo below, since I’m relatively new to programming I’d appreciate it if you give me any constructive feedback on my code and where I could improve and maybe a star if you think this project is helpful :)</p>\n\n<p><a href=\"https://github.com/rittikbasu/pricealert-telegrambot\">Link to GitHub</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/_pxPo_kxrQ5IfOEL-_D8hPe9tFnO7LPYEwWIHwNYfHs.jpg?auto=webp&s=02fca73c8846203905204c522525467b197e84c6",
+          "width": 320,
+          "height": 320
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/_pxPo_kxrQ5IfOEL-_D8hPe9tFnO7LPYEwWIHwNYfHs.jpg?width=108&crop=smart&auto=webp&s=b78d791a1479095e3a6baa14f731f02a3c4c0a13",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/_pxPo_kxrQ5IfOEL-_D8hPe9tFnO7LPYEwWIHwNYfHs.jpg?width=216&crop=smart&auto=webp&s=fa2f1c2a5f620c41773ace8e24a50adfc2d1d485",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/_pxPo_kxrQ5IfOEL-_D8hPe9tFnO7LPYEwWIHwNYfHs.jpg?width=320&crop=smart&auto=webp&s=f90aa2a8755cdc4447db2207f033263b02321bbf",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "Tbc5STk_bcbMLA0S-TDSJ1AEsTp67EExBtAK00whDKQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qakwo4/made_a_telegram_bot_that_lets_you_set_price/",
+  "subreddit": "SideProject",
+  "id": "qakwo4",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Link to the bot: https://telegram.me/PriceA1ertBot\n\nA Telegram chatbot that helps you set price alerts for amazon products. The bot\nchecks the price of your watchlisted products every hour and sends you an alert\nmessage when it reaches the target price. It is developed using the\npyTelegramBotAPI…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ボットへのリンク： https://telegram.me/PriceA1ertBot\n\namazon商品の価格アラート設定を支援するTelegramチャットボットです。ボットは\nウォッチリストに登録した商品の価格を1時間ごとにチェックし、目標価格に達したら\n目標価格に達するとアラートメッセージを送信します。このボットの開発には\npyTelegramBotAPI...",
+      "title": "Amazonの商品に価格アラートを設定できるTelegram Botを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该机器人的链接：https://telegram.me/PriceA1ertBot\n\n一个Telegram聊天机器人，帮助你为亚马逊产品设置价格提醒。该机器人\n每小时检查你的观察清单上的产品的价格，并在达到目标价格时向你发送警报信息。\n当它达到目标价格时，向你发送警报信息。它是用\npyTelegramBotAPI...",
+      "title": "做了一个Telegram机器人，让你为你的亚马逊产品设置价格提醒"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該機器人的鏈接：https://telegram.me/PriceA1ertBot\n\n一個Telegram聊天機器人，幫助你爲亞馬遜產品設置價格提醒。該機器人\n每小時檢查你的觀察清單上的產品的價格，並在達到目標價格時向你發送警報信息。\n當它達到目標價格時，向你發送警報信息。它是用\npyTelegramBotAPI...",
+      "title": "做了一個Telegram機器人，讓你爲你的亞馬遜產品設置價格提醒"
+    }
+  ]
+}

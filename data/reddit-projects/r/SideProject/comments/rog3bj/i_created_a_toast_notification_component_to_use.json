@@ -1,0 +1,78 @@
+{
+  "author": "abdmmar",
+  "original_created_utc": 1640461632,
+  "title": "I created a toast notification component to use on whatever JavaScript frameworks you used",
+  "created_utc": 1640482720,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;👋🏻 Hi There&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve recently learned about web components and trying to build a simple component to understand how it works. I&amp;#39;ve loved react-hot-toast so I&amp;#39;m trying to recreate it using web components and share it to npm so I can reuse it on my other projects who don&amp;#39;t use React. Turns out it looks pretty interesting since it&amp;#39;s framework agnostic and can use in any framework javascript you like. So if you need a notification component, maybe you can try it and tell me how it works. Here are a couple of features that are included on wc-toast:&lt;/p&gt;\n\n&lt;p&gt;✍🏻 Easy to use\n🌏 Use anywhere you like - React? Vue? Svelte? Everywhere!\n👋🏻 Emoji and SVG Support\n🎨 Customizable\n🚥 Promise API\n✅ Accessible - Tested using Windows 10 Narrator\n🍃 Lightweight - Only ~3.6KB Minified+Gzipped including styles\n💙 Dark Mode&lt;/p&gt;\n\n&lt;p&gt;💾 Repository:\n&lt;a href=\"https://github.com/abdmmar/wc-toast\"&gt;https://github.com/abdmmar/wc-toast&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;💻 Demo\n&lt;a href=\"https://abdmmar.github.io/wc-toast/\"&gt;https://abdmmar.github.io/wc-toast/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Any review, issues, and feedback on how it could be improved or any addition would be appreciated!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?auto=webp&amp;s=a6c33d20623a91ff6a3d63a8332c63bd3e8c544a",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=efd32502a686a42a1ec8e7d2334c93838351abf0",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e4b36e358851b48916bd94d063037eb899fa0883",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d7910455d8e300e56a1b909c2169e2fc1c0a0b7b",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8472e7a4ed4df62f3b15871865fca2500ce9648d",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=88181e91fdfa5ac5ec6c2a6689547ac836842eec",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/LnUL7QpBgkQ6iloqVxmk9ChAw5KeXi0Q3mgkXx5yAZw.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=125e53c1925664f973d22af09b6107acd6f54abe",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "UGx7HdkPYkG3TH9cZ2qCoe8_bxL6yBWpL-8zYA2KaT4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/rog3bj/i_created_a_toast_notification_component_to_use/",
+  "subreddit": "SideProject",
+  "id": "rog3bj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "👋🏻 Hi There\n\nI've recently learned about web components and trying to build a simple\ncomponent to understand how it works. I've loved react-hot-toast so I'm trying\nto recreate it using web components and share it to npm so I can reuse it on my\nother projects who don't use React. Turns out it…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "👋🏻 こんにちわ\n\n最近、ウェブコンポーネントについて学び、簡単なものを作ろうとしています。\nコンポーネントがどのように動作するかを理解するために 私はreact-hot-toastが大好きです。\nウェブコンポーネントを使って再現し、npmで共有することで\nReactを使わない他のプロジェクト。結局のところ、それは...",
+      "title": "トースト通知コンポーネントを作成し、使用したJavaScriptフレームワークで使用できるようにしました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "👋🏻你好\n\n我最近了解了网络组件并试图建立一个简单的\n组件来了解它是如何工作的。我很喜欢react-hot-toast，所以我正在尝试\n使用web组件重新创建它，并将其分享到npm，这样我就可以在我的\n其他不使用React的项目上重用。结果发现它...",
+      "title": "我创建了一个敬酒通知组件，可以在你使用的任何JavaScript框架上使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "👋🏻你好\n\n我最近了解了網絡組件並試圖建立一個簡單的\n組件來了解它是如何工作的。我很喜歡react-hot-toast，所以我正在嘗試\n使用web組件重新創建它，並將其分享到npm，這樣我就可以在我的\n其他不使用React的項目上重用。結果發現它...",
+      "title": "我創建了一個敬酒通知組件，可以在你使用的任何JavaScript框架上使用"
+    }
+  ]
+}

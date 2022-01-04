@@ -1,0 +1,32 @@
+{
+  "author": "lukeroge",
+  "original_created_utc": 1625450292,
+  "title": "Some cool things Stellar/XLM can do (without smart contracts!)",
+  "created_utc": 1625474422,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Many blockchains are implementing pretty awesome features using smart contracts. Multisig, custom tokens, exchanges, anchored currencies (wBTC/Tether/USDC) and more. These are great, but in practice they do currently have some downsides for day-to-day use - there can be issues with unpredictable gas prices and contract security.</p>\n\n<p>I find that one thing Stellar excels in is implementing useful features like those mentioned above as native features of the protocol. So for those who don&#39;t know, here are some of the things Stellar can do right now natively:</p>\n\n<ul>\n<li><p><a href=\"https://developers.stellar.org/docs/issuing-assets/\">Custom assets/tokens</a>. The creator can either make them free to use and trade, or can apply certain restrictions at creation time. These restrictions can include the ability of the token creator to limit <a href=\"https://developers.stellar.org/docs/issuing-assets/control-asset-access/\">who is able to hold the token</a>, and the ability for the token creator to &quot;<a href=\"https://developers.stellar.org/docs/glossary/clawback/\">claw back</a>&quot; assets from other accounts. These features wont be needed (or enabled) for most assets, but they&#39;re critical to allow certain regulated assets to be issued on the Stellar network, like CBDCs and bonds/shares.</p></li>\n<li><p><a href=\"https://developers.stellar.org/docs/anchoring-assets/\">Anchored assets</a>. Stellar has a standard protocol design for anchored assets to have on/off ramps to the Stellar network. This means, for example, if you are holding a USD-anchored asset in your Stellar wallet, you can directly interface with the issuer of that asset from your wallet to withdraw it as real USD.</p></li>\n<li><p><a href=\"https://developers.stellar.org/docs/glossary/decentralized-exchange/\">Exchange/trade assets</a>. The Stellar network acts as a decentralized exchange (DEX) that allows you to trade and convert any assets on the network. Any account can place buy or sell orders for assets on this exchange, at any price. This system works the same as a limit order on a traditional exchange, like Coinbase or Kraken.</p></li>\n<li><p><a href=\"https://developers.stellar.org/docs/glossary/decentralized-exchange/#cross-asset-payments\">Cross-asset payments</a>. Stellar supports a feature called path payments, which allows a user to send a payment using any asset they have, and have that automatically converted to an asset which the receiver accepts. This uses the decentralized exchange feature I previously mentioned. A good example is provided below, from the Stellar documentation: <em>&quot;Suppose you are holding sheep and want to buy something from a store that only accepts wheat. You can create a payment in Stellar that will automatically convert your sheep into wheat. It goes through the sheep/wheat orderbook and converts your sheep at the best available rate.&quot;</em></p></li>\n<li><p><a href=\"https://developers.stellar.org/docs/glossary/multisig/\">Multi-signature accounts</a>. Stellar accounts start out with a single private key used to approve all transactions, but more keys can be added with a simple operation. In addition, the &quot;weight&quot; of each key can be changed, and the &quot;required weight&quot; for certain kinds of transactions can be set, allowing for some pretty advanced combinations of required keys.</p></li>\n</ul>\n\n<p>Those are just a few of the more interesting features that I&#39;ve discovered that Stellar has. If you&#39;d like to explore a bit more, I&#39;d recommend trying out <a href=\"https://quest.stellar.org/\">Stellar Quest</a>, which teaches quite a lot about Stellar through a series of challenges.</p>\n</div><!-- SC_ON -->",
+  "score": 165,
+  "permalink": "/r/CryptoCurrency/comments/odxmif/some_cool_things_stellarxlm_can_do_without_smart/",
+  "subreddit": "CryptoCurrency",
+  "id": "odxmif",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Many blockchains are implementing pretty awesome features using smart contracts.\nMultisig, custom tokens, exchanges, anchored currencies (wBTC/Tether/USDC) and\nmore. These are great, but in practice they do currently have some downsides for\nday-to-day use - there can be issues with unpredictable gas…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くのブロックチェーンでは、スマートコントラクトを使ってかなり素晴らしい機能を実装しています。\nマルチシグ、カスタムトークン、取引所、アンカリングされた通貨（wBTC/テザー/USDC）など\nなどがあります。これらは素晴らしいものですが、実際には以下のようなデメリットがあります。\n予測不可能なガスの問題があります...",
+      "title": "Stellar/XLMができるクールなこと（スマートコントラクトなしで！）。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "许多区块链正在使用智能合约实现相当棒的功能。\n多重认证、自定义代币、交易所、锚定货币（wBTC/Tether/USDC）等等。\n更多。这些都很好，但在实践中，它们目前确实有一些缺点，如\n日常使用--可能存在不可预测的气体问题......",
+      "title": "Stellar/XLM可以做的一些很酷的事情（没有智能合约！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "許多區塊鏈正在使用智能合約實現相當棒的功能。\n多重認證、自定義代幣、交易所、錨定貨幣（wBTC/Tether/USDC）等等。\n更多。這些都很好，但在實踐中，它們目前確實有一些缺點，如\n日常使用--可能存在不可預測的氣體問題......",
+      "title": "Stellar/XLM可以做的一些很酷的事情（沒有智能合約！）。"
+    }
+  ]
+}

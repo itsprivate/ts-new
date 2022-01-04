@@ -1,0 +1,73 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1628244029,
+  "title": "I've been using a trading bot that buys coins based on what reddit thinks about them for over a month now, here are the results",
+  "created_utc": 1628260390,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I coded a crypto trading bot that buys cryptocurrency based on how reddit feels about that particular coin, with a specific criteria:</p>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>The coin needs to be in top 40 by marketcap</li>\n<li>No Stablecoins</li>\n</ul>\n\n<p>With that in mind, I created  a bot that looks at reddit posts from various different subreddits, looks for keywords matching any of the top 40 coins by mcap, and tries to analyse if the title or the description of the post is positive. The only condition here is that the post needs to be in top 10 hot in order for it to be taken into account.</p>\n\n<p>&#x200B;</p>\n\n<p>With that in mind, here are the results:</p>\n\n<p>&#x200B;</p>\n\n<p>The bot bought the following coins:  BTC ETH ALGO XLM ADA SOL LINK DOGE MATIC XTZ LTC VET DAI CAKE DOT EOS AAVE XMR MKR ATOM.</p>\n\n<p>Apart from a couple, there are all coins that I would invest into myself, so it appears that the reddit hivemind is wiser than I thought!</p>\n\n<p>&#x200B;</p>\n\n<p>Here&#39;s a chart for daily % changes for each coin:</p>\n\n<p><a href=\"https://preview.redd.it/p9ig600lmpf71.png?width=1646&amp;format=png&amp;auto=webp&amp;s=ac957a16dbc3678b3b33bc0296fee77c17ae27e2\">https://preview.redd.it/p9ig600lmpf71.png?width=1646&amp;format=png&amp;auto=webp&amp;s=ac957a16dbc3678b3b33bc0296fee77c17ae27e2</a></p>\n\n<p>And here&#39;s a scatter plot for the same:</p>\n\n<p><a href=\"https://preview.redd.it/109iwxj3mpf71.png?width=1608&amp;format=png&amp;auto=webp&amp;s=22be79fc48fcf96dfdd3d32f41e55787a279ba3c\">https://preview.redd.it/109iwxj3mpf71.png?width=1608&amp;format=png&amp;auto=webp&amp;s=22be79fc48fcf96dfdd3d32f41e55787a279ba3c</a></p>\n\n<p>1 month in, and bought before the most recent dip as you can see in the charts and I am on an average of 11% profit.</p>\n\n<p>Can you imagine that? I made 11% profit by using a bot that buys based on what we discuss here every day!  If anything, this means that the quality of coins talked about in this subreddit decent enough for an algorithm to pick that up and make profitable investments with it, and for that I want to say thank you!</p>\n\n<p>I forgot to mention that the tool can be used in test or live mode so if you&#39;re keen to figure out how it works here&#39;s a guide I wrote on it:</p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/07/10/coding-a-crypto-trading-algorithm-that-analyses-reddit-sentiment/\">https://www.cryptomaton.org/2021/07/10/coding-a-crypto-trading-algorithm-that-analyses-reddit-sentiment/</a></p>\n</div><!-- SC_ON -->",
+  "score": 267,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Ri_BdTkyB5uLQe7a1CDPdwG-cq8sm2rpNiELHuhmUE0.jpg?auto=webp&s=e3efd3f0a1c6b154f845f2514225f0cb803d3cad",
+          "width": 1024,
+          "height": 520
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Ri_BdTkyB5uLQe7a1CDPdwG-cq8sm2rpNiELHuhmUE0.jpg?width=108&crop=smart&auto=webp&s=73329640873af721eaf77c3843e84a0cd40df333",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/Ri_BdTkyB5uLQe7a1CDPdwG-cq8sm2rpNiELHuhmUE0.jpg?width=216&crop=smart&auto=webp&s=765edcc343f4d821debfc1d3b903e7053c5c04ac",
+            "width": 216,
+            "height": 109
+          },
+          {
+            "url": "https://external-preview.redd.it/Ri_BdTkyB5uLQe7a1CDPdwG-cq8sm2rpNiELHuhmUE0.jpg?width=320&crop=smart&auto=webp&s=95ce54187484a4560f0a8ebed1380cca25acffb2",
+            "width": 320,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/Ri_BdTkyB5uLQe7a1CDPdwG-cq8sm2rpNiELHuhmUE0.jpg?width=640&crop=smart&auto=webp&s=c50289f0c8592f0c01cead24fc263445ea4223a3",
+            "width": 640,
+            "height": 325
+          },
+          {
+            "url": "https://external-preview.redd.it/Ri_BdTkyB5uLQe7a1CDPdwG-cq8sm2rpNiELHuhmUE0.jpg?width=960&crop=smart&auto=webp&s=0115d41220c8c6214fd30ce4be31f43b527c61ea",
+            "width": 960,
+            "height": 487
+          }
+        ],
+        "variants": {},
+        "id": "1Mg0nlMutGykSe8cUrKqvo9ynwst3Vad6Wpb3PclNBo"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/oz3myy/ive_been_using_a_trading_bot_that_buys_coins/",
+  "subreddit": "CryptoCurrency",
+  "id": "oz3myy",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I coded a crypto trading bot that buys cryptocurrency based on how reddit feels\nabout that particular coin, with a specific criteria:\n\n\n\n * The coin needs to be in top 40 by marketcap\n * No Stablecoins\n\nWith that in mind, I created a bot that looks at reddit posts from various\ndifferent subreddits,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、redditが特定のコインについてどう感じているかに基づいて暗号通貨を購入する暗号取引ボットをコーディングしました。\n特定の基準で、特定のコインに対するredditの評価に基づいて暗号通貨を購入するbotをコーディングしました。\n\n\n\n * コインはマーケットキャップでトップ40に入る必要があります。\n * ステーブルコインでないこと\n\nこれを念頭に置いて、様々なサブレディットからredditの投稿を見るボットを作りました。\n様々なsubredditsからredditの投稿を見て、...",
+      "title": "私は、redditの評価に基づいてコインを購入するトレーディング・ボットを1ヶ月以上使用してきました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我编写了一个加密货币交易机器人，根据Reddit对该特定硬币的感觉购买加密货币。\n币的感觉，并有一个特定的标准。\n\n\n\n * 该币必须是市值前40的币种\n *没有稳定币\n\n考虑到这一点，我创建了一个机器人，该机器人会查看reddit上的各种帖子\n不同的subreddits的帖子，...",
+      "title": "我一直在使用一个交易机器人，根据reddit对它们的看法来购买硬币，现在已经超过一个月了，以下是结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我編寫了一個加密貨幣交易機器人，根據Reddit對該特定硬幣的感覺購買加密貨幣。\n幣的感覺，並有一個特定的標準。\n\n\n\n * 該幣必須是市值前40的幣種\n *沒有穩定幣\n\n考慮到這一點，我創建了一個機器人，該機器人會查看reddit上的各種帖子\n不同的subreddits的帖子，...",
+      "title": "我一直在使用一個交易機器人，根據reddit對它們的看法來購買硬幣，現在已經超過一個月了，以下是結果"
+    }
+  ]
+}

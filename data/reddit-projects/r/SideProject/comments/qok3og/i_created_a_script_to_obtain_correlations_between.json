@@ -1,0 +1,78 @@
+{
+  "author": "kanposu",
+  "original_created_utc": 1636272455,
+  "title": "I created a script to obtain correlations between stocks and build an optimized portfolio.",
+  "created_utc": 1636287184,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I wrote this to help me build a portfolio with a target return and minimum variance. The idea is from a portfolio construction class I was taking, but the lack of tools available to actually build such a portfolio baffled me, so I made a simple python script for that purpose.</p>\n\n<p><a href=\"https://github.com/rdgpcampos/Correlation-and-minimum-variance-portfolio.git\">https://github.com/rdgpcampos/Correlation-and-minimum-variance-portfolio.git</a></p>\n\n<p>Example input:</p>\n\n<p>Stock tickers: ABMD,AAPL,EBAY,NI,MNST,CPRT,ENPH,FAST,CNC,WRB,FTNT,KEY,IPG,HRL,ROL,CDNS,LYV</p>\n\n<p>Span: 2010-2020</p>\n\n<p><a href=\"https://preview.redd.it/px60850zs4y71.png?width=591&amp;format=png&amp;auto=webp&amp;s=fccb4c79efe9b146c2b57aae14236c1ec66637cc\">https://preview.redd.it/px60850zs4y71.png?width=591&amp;format=png&amp;auto=webp&amp;s=fccb4c79efe9b146c2b57aae14236c1ec66637cc</a></p>\n\n<p>Target return: 13.0%</p>\n\n<p><a href=\"https://preview.redd.it/yono4vmxs4y71.png?width=560&amp;format=png&amp;auto=webp&amp;s=fbdbd0067a8e36cfde089bddb78abd8cb61888b0\">https://preview.redd.it/yono4vmxs4y71.png?width=560&amp;format=png&amp;auto=webp&amp;s=fbdbd0067a8e36cfde089bddb78abd8cb61888b0</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?auto=webp&s=be341696eed64293853f6cb0670ffad90f940044",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?width=108&crop=smart&auto=webp&s=2584c67064f04c1845d1c3bb93b7a9f0777de6c7",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?width=216&crop=smart&auto=webp&s=b930ae82b8c30bcbfdcde9e1e24b290a04a10fc8",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?width=320&crop=smart&auto=webp&s=65c3bd21a94c557cca5537c5e85d9cdc6e7ab020",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?width=640&crop=smart&auto=webp&s=30ba6f586d99aae8ef020a3780d832c3f0f40de1",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?width=960&crop=smart&auto=webp&s=e1d9fe92ab47002a7dfba384cc060abe3640d28a",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/xCek2Kuo_2uNFItC504o-NLLwirGcPWl2MKDAYIS76g.jpg?width=1080&crop=smart&auto=webp&s=afb67228df1c477f181c87ab9c09f31831439e63",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "A5qirqiRoZOrGyhNqLz2P0M6jxtHvOQFrxCF9T3bwW4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qok3og/i_created_a_script_to_obtain_correlations_between/",
+  "subreddit": "SideProject",
+  "id": "qok3og",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I wrote this to help me build a portfolio with a target return and minimum\nvariance. The idea is from a portfolio construction class I was taking, but the\nlack of tools available to actually build such a portfolio baffled me, so I made\na simple python script for that…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、目標リターンと最小分散のポートフォリオを構築するために書きました。\n分散である。このアイデアは、私が受講していたポートフォリオ構築のクラスから来ています。\n実際にそのようなポートフォリオを構築するためのツールがないことに困惑したので、そのためのシンプルなpythonスクリプトを作りました。\nそのためにシンプルなpythonスクリプトを作りました。",
+      "title": "銘柄間の相関関係を取得し、最適なポートフォリオを構築するスクリプトを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我写这个是为了帮助我建立一个具有目标收益和最小方差的投资组合。\n差异。这个想法来自于我正在上的投资组合构建课，但缺乏实际构建这种投资组合的工具让我感到困惑。\n但缺乏实际构建这种投资组合的工具让我很困惑，所以我做了一个\n一个简单的python脚本...",
+      "title": "我创建了一个脚本，以获得股票之间的相关性并建立一个优化的投资组合。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我寫這個是爲了幫助我建立一個具有目標收益和最小方差的投資組合。\n差異。這個想法來自於我正在上的投資組合構建課，但缺乏實際構建這種投資組合的工具讓我感到困惑。\n但缺乏實際構建這種投資組合的工具讓我很困惑，所以我做了一個\n一個簡單的python腳本...",
+      "title": "我創建了一個腳本，以獲得股票之間的相關性並建立一個優化的投資組合。"
+    }
+  ]
+}

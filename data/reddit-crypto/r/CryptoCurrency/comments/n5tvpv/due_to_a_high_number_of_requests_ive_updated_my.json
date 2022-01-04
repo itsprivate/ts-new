@@ -1,0 +1,59 @@
+{
+  "author": "Fly115",
+  "the_new_excerpt": "I previously posted a download link to my excel spreadsheet that I made for\ntracking my crypto portfolio. It supported the top 1000 coins. However I had\nmany people message me asking how they could add support for more coins. I guess\nyou guys really like your shitcoins and small caps.\n\nSo I decided…",
+  "original_created_utc": 1620257825,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以前、私の暗号ポートフォリオを追跡するために作成したエクセル・スプレッドシートのダウンロード・リンクを掲載しました。\n私の暗号ポートフォリオを追跡するために作ったエクセルシートのダウンロードリンクを掲載しました。これは、上位1000のコインをサポートしています。しかし、私は\n多くの人からメッセージをもらい、どうすればもっと多くのコインに対応できるのかを尋ねられました。思うに\nあなた方は本当にクソコインやスモールキャップが好きなんですね。\n\nそこで、私は...",
+      "title": "リクエストが多かったので、私のcrypto追跡スプレッドシートを更新し、トップ5000のcrypto（ムーンを含む）に対応しました。このスプレッドシートはあなたの暗号を追跡し、あなたの利益、損失、過去のポジションを記録します。クリプトプライス バージョン14"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我之前发布了一个下载链接到我的excel电子表格，我做这个表格是为了\n追踪我的加密货币组合。它支持前1000个硬币。然而，我有\n许多人给我留言，问我如何能增加对更多硬币的支持。我想\n你们真的很喜欢你们的垃圾币和小盘币。\n\n所以我决定...",
+      "title": "由于大量的要求，我已经更新了我的加密货币跟踪电子表格，现在支持前5000种加密货币（包括月球）。这个电子表格跟踪你的加密货币，并记录你的收益、损失和历史头寸。加密指数第14版"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我之前發佈了一個下載鏈接到我的excel電子表格，我做這個表格是爲了\n追蹤我的加密貨幣組合。它支持前1000個硬幣。然而，我有\n許多人給我留言，問我如何能增加對更多硬幣的支持。我想\n你們真的很喜歡你們的垃圾幣和小盤幣。\n\n所以我決定...",
+      "title": "由於大量的要求，我已經更新了我的加密貨幣跟蹤電子表格，現在支持前5000種加密貨幣（包括月球）。這個電子表格跟蹤你的加密貨幣，並記錄你的收益、損失和歷史頭寸。加密指數第14版"
+    }
+  ],
+  "title": "Due to a high number of requests, I've updated my crypto tracking spreadsheet to now support the top 5000 crypto (moons included). This spreadsheet tracks your crypto and keeps a record of your gains, losses and historical positions. Cryptoprices version 14",
+  "created_utc": 1620271979,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I previously posted a download link to my excel spreadsheet that I made for tracking my crypto portfolio. It supported the top 1000 coins. However I had many people message me asking how they could add support for more coins. I guess you guys really like your shitcoins and small caps. </p>\n\n<p>So I decided to update it with 5000 of the top coins from coingecko and post it again for anyone who is interested. Yes it even supports live prices for <a href=\"/r/cryptocurrency\">r/cryptocurrency</a> moons. </p>\n\n<p>The main reason that I didn&#39;t have all these coins previously is because it really slows down the refresh time while its importing all the new data. To deal with this I made it adjustable so that you can choose how many coins to import (0-5000). If you only want live prices for the top 100 then set this cell to 100, if you want more then you can have more, you will just have to wait a few more seconds each time you press refresh. </p>\n\n<p>There is a handful of other minor changes and bug fixes. </p>\n\n<p>The spreadsheet now also measure your trading gain/loss in BTC not just fiat. So you can see how well your alts are doing versus just holding BTC.</p>\n\n<p>The spreadsheet now logs the amount of coins you held over time, not just the fiat value of those coins. This should help a tax time if you are diligent at saving the spreadsheet after each trade (just update the portfolio tab with your new coins and save the spreadsheet). </p>\n\n<p>It also lets you input fiat purchases of any crypto now (no longer limited to 3).</p>\n\n<p>some screenshots;</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/2iz5i2z5zdx61.png?width=1846&amp;format=png&amp;auto=webp&amp;s=664340e0e4f78426d7ea6e76d55acf711790221e\">https://preview.redd.it/2iz5i2z5zdx61.png?width=1846&amp;format=png&amp;auto=webp&amp;s=664340e0e4f78426d7ea6e76d55acf711790221e</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/3cco3o5czdx61.png?width=1358&amp;format=png&amp;auto=webp&amp;s=65aaa707797c52d15f656f9ac32e7061c4046025\">https://preview.redd.it/3cco3o5czdx61.png?width=1358&amp;format=png&amp;auto=webp&amp;s=65aaa707797c52d15f656f9ac32e7061c4046025</a></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/xzzphdtjzdx61.png?width=1434&amp;format=png&amp;auto=webp&amp;s=b5fb706fc439ddecd40eead507ea5a7be308f95d\">https://preview.redd.it/xzzphdtjzdx61.png?width=1434&amp;format=png&amp;auto=webp&amp;s=b5fb706fc439ddecd40eead507ea5a7be308f95d</a></p>\n\n<p>Still has moon maths, regret calculator and lots of charts</p>\n\n<p><a href=\"https://preview.redd.it/ing8hwyozdx61.png?width=1842&amp;format=png&amp;auto=webp&amp;s=65b27a8b2b430927cd888f2df3b76d7edf2edf72\">https://preview.redd.it/ing8hwyozdx61.png?width=1842&amp;format=png&amp;auto=webp&amp;s=65b27a8b2b430927cd888f2df3b76d7edf2edf72</a></p>\n\n<p>Download link</p>\n\n<p><a href=\"https://www.mediafire.com/file/wc24a9bgxiaxhep/Cryptoprices14-_for_others.xlsm/file\">https://www.mediafire.com/file/wc24a9bgxiaxhep/Cryptoprices14-_for_others.xlsm/file</a></p>\n\n<p>previous version for reference and so you can see i&#39;m not trying to scam or give you malware. Of course you shouldn&#39;t trust me and should scan the file for malware anyway (i.e <a href=\"https://virustotal.com\">virustotal.com</a>). It does contain external connections and macros which are required for fetching crypto prices and exchange rates from coingecko.com</p>\n\n<p><a href=\"https://www.reddit.com/r/CryptoCurrency/comments/mrv04i/i_made_a_crypto_tracking_spreadsheet_with_live/?utm_source=share&amp;utm_medium=web2x&amp;context=3\">https://www.reddit.com/r/CryptoCurrency/comments/mrv04i/i_made_a_crypto_tracking_spreadsheet_with_live/?utm_source=share&amp;utm_medium=web2x&amp;context=3</a></p>\n</div><!-- SC_ON -->",
+  "score": 588,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Md-sIA7AlnbOia8IlFzr666cOUzromSeo_XAEzw2p1o.jpg?auto=webp&s=9c178ba23e822ad7380a22d89ebceec38ad0fcdd",
+          "width": 250,
+          "height": 250
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Md-sIA7AlnbOia8IlFzr666cOUzromSeo_XAEzw2p1o.jpg?width=108&crop=smart&auto=webp&s=31645fff6f2b26dbed89d064fbc2b078c2426ff8",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Md-sIA7AlnbOia8IlFzr666cOUzromSeo_XAEzw2p1o.jpg?width=216&crop=smart&auto=webp&s=33066040b21fb5c115253b07eb6ab20b80f1ffa1",
+            "width": 216,
+            "height": 216
+          }
+        ],
+        "variants": {},
+        "id": "GQJixmBvhL3NAf0YH1cO41cnNcXtKpa2RwWBq1vdPQc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/n5tvpv/due_to_a_high_number_of_requests_ive_updated_my/",
+  "subreddit": "CryptoCurrency",
+  "id": "n5tvpv",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620380965855
+}

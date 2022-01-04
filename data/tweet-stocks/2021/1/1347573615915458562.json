@@ -1,0 +1,73 @@
+{
+  "created_at": "Sat Jan 16 13:22:22 +0000 2021",
+  "id_str": "1347573615915458562",
+  "full_text": "Sentiment check https://t.co/zPAzLxYWZZ",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1347573325590098000,
+        "id_str": "1347573325590097952",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErOKzMSW8CA8hDY.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ErOKzMSW8CA8hDY.jpg",
+        "url": "https://t.co/zPAzLxYWZZ",
+        "display_url": "pic.twitter.com/zPAzLxYWZZ",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1347573615915458562/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 422,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1060,
+            "h": 658,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1060,
+            "h": 658,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 69,
+  "favorite_count": 975,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jan 08 15:59:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "情感检查https://t.co/zPAzLxYWZZ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "情感檢查https://t.co/zPAzLxYWZZ"
+    }
+  ],
+  "source_updated_at": 1611311231102
+}

@@ -1,0 +1,77 @@
+{
+  "created_at": "Wed Oct 20 18:47:34 +0000 2021",
+  "id_str": "1450856752669462529",
+  "full_text": "\"Cable is dead.\" https://t.co/zK8PB38nbU",
+  "display_text_range": [
+    0,
+    16
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1450856732394238000,
+        "id_str": "1450856732394237959",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/media/FCJ6gtpXsAcpH5q.png",
+        "media_url_https": "https://pbs.twimg.com/media/FCJ6gtpXsAcpH5q.png",
+        "url": "https://t.co/zK8PB38nbU",
+        "display_url": "pic.twitter.com/zK8PB38nbU",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1450856752669462529/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 615,
+            "h": 363,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 615,
+            "h": 363,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 615,
+            "h": 363,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 87,
+  "favorite_count": 885,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Oct 20 16:09:40 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "\"Cable is dead.\" https://t.co/zK8PB38nbU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "\"电缆已经死了。\" https://t.co/zK8PB38nbU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"電纜已經死了。\" https://t.co/zK8PB38nbU"
+    }
+  ],
+  "source_updated_at": 1634895643204
+}

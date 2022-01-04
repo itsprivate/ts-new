@@ -1,0 +1,78 @@
+{
+  "author": "Maleficent_Plankton",
+  "original_created_utc": 1630679832,
+  "title": "I investigated how many coins you can actually buy with 20, $100, and $1000 on 11 US crypto platforms, accounting for both fees and the spread",
+  "created_utc": 1630719185,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Results</strong>: <a href=\"https://i.imgur.com/sUhXAQe.png\">https://i.imgur.com/sUhXAQe.png</a></p>\n\n<p><strong>Summary</strong>:</p>\n\n<ul>\n<li><strong>Top Tier</strong>: Kraken Pro &gt; Gemini ActiveTrader &gt; Coinbase Pro &gt; Binance US (Basic)</li>\n<li><strong>Mid-Top Tier</strong>: BlockFi, Kraken (normal) [, Robinhood, PayPal]</li>\n<li><strong>Mid-Bottom Tier</strong>: FTX US</li>\n<li><strong>Bottom Tier</strong>: Coinbase (normal), Gemini (normal)</li>\n<li>(<strong>Not compared</strong>: Binance (Advanced and International), Nexo, Celsius, Voyager, CDC)</li>\n</ul>\n\n<hr/>\n\n<p>These charts compare how each platform differs for total costs, which include <strong>both fees and the hidden spread</strong>. While fees are usually reported by the platforms, you can only determine the actual spread and spot price by making/simulating a purchase.</p>\n\n<p>I took a look at how many coins (BTC, ETH, ADA, LTC, LINK, USDC, USDT) you can buy with $20, $100, and $1000 in USD on 11 different platforms available in the US. To do so, I had to open accounts, go through full KYC, and fund each account with at least $1000 to preview each purchase. Results are the average of 3 trials designed to minimize price fluctuations. (Methodology included at bottom of post.)</p>\n\n<p>This post only covers purchasing coins from Fiat and stablecoins. It does not cover swaps and withdrawals, which are a different topic and subject to different fees.</p>\n\n<p>There are 2 tables in the image:</p>\n\n<ul>\n<li><strong>1st table</strong>: Amount of coins purchased using $20, $100, $1000 USD (or the platform&#39;s stablecoin). Higher is better.</li>\n<li><strong>2nd table</strong>: Percent fewer coins received compared to the best rate among the listed exchanges. Lower is better.</li>\n</ul>\n\n<p><strong>Commentary</strong>:</p>\n\n<ul>\n<li>Not surprisingly, fee differences are more pronounced for smaller purchases than for larger purchases. Differences could vary up to 8% for $20 purchases but only up to 2% for $1000 purchases.</li>\n<li><strong>Kraken Pro</strong>, <strong>Gemini ActiveTrader</strong>, and <strong>Coinbase Pro</strong> had the best rates. However, their normal (Level 1) counterparts had much worse rates. There&#39;s such a huge difference that they must be making so much money from casual investors using the non-Pro versions.</li>\n<li>Since <strong>Gemini/Gemini AT</strong> also offers 10 free monthly withdrawals, it often considered the best choice for funding other off-platform accounts. The downside of Gemini is that it has a limited selection of coins. You also have to enable ActiveTrade in the settings to be able to use it. It&#39;s very simple to enable and disable ActiveTrade in the settings. Unlike Coinbase Pro, Gemini and Gemini AT share the same account balance. Compared to Coinbase Pro and Kraken Pro, Gemini AT&#39;s UI was much easier to use. (Gemini AT was the only platform in my table that didn&#39;t include fees within the subtotal, so I had to subtract the coin value of the fees manually.)</li>\n<li><strong>Kraken Pro</strong> is a relatively-new platform that shares an account balance with normal Kraken. I don&#39;t think they advertise this website anywhere, so it&#39;s somewhat hidden as if it were early-access. The fees are much, much lower than that of any other platform across the board. I feel like the UI is a bit basic since it&#39;s only used for trading and not account management. I like that both Kraken and Kraken Pro show the most precision during purchases among all the platforms. I don&#39;t have accurate way of measuring it, but Binance&#39;s Advanced trading platform should have rates just as good as Kraken Pro, if not marginally better.</li>\n<li><strong>Kraken (normal)</strong> was ok for low-value purchases, but it doesn&#39;t get discounts for high-value purchases. You&#39;re basically paying the same 1.5%-2% fees no matter the amount. It shares the same balance as Kraken Pro, so you might as well use the Pro site for trading.</li>\n<li><strong>Coinbase Pro</strong> also has excellent rates, but its website is a bit convoluted. One thing I didn&#39;t like is that it&#39;s the only Level 2 platform in the chart that has separate balances for its normal and Pro versions. You can transfer funds between Coinbase Pro and Coinbase without fees, but I always end up having dust leftover, which is painful for anyone with OCD.</li>\n<li><strong>Binance US</strong> has a minimum of $20 per transaction. Rates were a little worse than Coinbase Pro&#39;s. It has a smaller selection of coins and features than its bigger international version, but it&#39;s still a big selection. Note that these rates are for their Basic trading platform with 0.5% taker fees, not the Advanced version with 0.1% taker fees. The <strong>Advanced version</strong> should perform almost identically to Kraken Pro based on its reported fees and a couple of test purchases. The differences are almost as small as minute-to-minute price fluctuations. (Unfortuantely, there isn&#39;t a way to preview purchases for the Advanced version, and I&#39;m not going to make 50+ purchases just to test it, so I&#39;ve left that version out of the chart. You can assume their rates are identical.)</li>\n<li><strong>BlockFi</strong> did impressively well considering that it&#39;s a lending platform instead of a dedicated exchange. They also offer 1 free stablecoin and 1 free non-stablecoin withdrawal monthly. Its lending interest rates have fallen recently compared to other lending platforms like Celsius, Ledn, Nexo, etc., so a lot of their customers are currently eyeing other lending platforms.</li>\n<li><strong>PayPal</strong> and <strong>Robinhood</strong> offer very few coins. Ignoring all the drama about storing &quot;NYKNYC&quot; crypto on those platforms and how RH treats their customers, their rates are quite good and on par with that of Binance US and Coinbase Pro. Perhaps this is a preview of what will happen when large, centralized financial institutions join in the competition.</li>\n<li><strong>FTX US</strong> has the worst website UI among the Level 2 trading platforms I examined. For small purchases, purchasing power was only displayed to 1 significant figure, making it practically useless for determining value. $20 of BTC was showing up as the same as $24 of BTC: 0.0004. It also lacked a lot of alt coins found on Binance US and Coinbase. For small purchases, it had much worse rates than all other Level 2 trading platforms, but it was on par for larger purchases. Their website&#39;s search is also broken. I can&#39;t recommend them when they have these many issues.</li>\n<li><strong>Coinbase (normal)</strong> and <strong>Gemini (normal)</strong> were the opposites of their Pro versions and had the highest fees. I&#39;m surprised how big of a difference there was. So if you want to avoid fees, don&#39;t use the normal versions of their exchange for purchasing coins. There is one thing I really like about Coinbase: you can occasionally earn free coins from taking short 2-4 minute lessons on random coins.</li>\n</ul>\n\n<p><strong>Other platforms I left out</strong>:</p>\n\n<ul>\n<li><strong>Voyager</strong> is a mobile-open app (like crypto.com), and I&#39;m not a fan of mobile-only apps. Unfortunately, I wasn&#39;t able to trade on it because my account is still being verified after so many days. Their app said that it could take up to 12 weeks, and I can&#39;t wait that long.</li>\n<li><strong>Nexo</strong> has one of the nicest-looking websites and highest lending interest rates. I only took 10 minutes for them to approval advanced verification once I completed it. Unfortunately, I have to do a $10+ wire transfer (in addition to bank fees) from my bank to fund the account since ACH isn&#39;t yet available. So Nexo runs in the same issue as Celsius Network where it&#39;s better to fund your account from coins transferred from other platforms with free withdrawals (e.g. Gemini or BlockFi).</li>\n<li>For <strong>Celsius Network</strong>, you have to go through a 3rd-party, Gem, which charges the most ridiculously-high fees ($30 fee for buying $10 of coins--I&#39;m not joking). So instead, everyone just transfers their coins to Celsius from other platforms. It would be unfair to blame them for their 3rd-party provider. FWIW, it&#39;s great that Celsius doesn&#39;t charge trading or transfer fees. I&#39;ve chosen not to compare Nexo and Celsius until they support ACH or a better way for funding accounts directly from fiat.</li>\n<li>I listed <strong>Crypto.com</strong>, a mobile-only app, in the <a href=\"https://i.imgur.com/q8zOGtc.png\">original comparison</a> but removed it because a few members of their community were salty <del>that I was including their expensive 3% for buying coins via debit</del> or <del>that they were at the bottom of the list</del> or <del>that I was not using ACH push from my own bank&#39;s website to fund my account</del> or that I was not using their trading exchange, which isn&#39;t available in the US. Every time I fixed something, they found something else to complain about. So to avoid descending into a bottomless pit, I&#39;ve left them out of this comparison.</li>\n</ul>\n\n<p><strong>Methodology</strong>: For each set, I determined the final amount of coins, including the cost of fees and spread, that I would receive for spending $x on each of the crypto platforms. I repeated this 3 times per set (and averaged) to normalize for price fluctuations, each time randomizing the order of platforms. Price fluctuations were within 0.1% per trial because I could finish a set within a minute. Repeat again for each of the 7 coins and each dollar amount ($20, $100, $1000) for a total of ~160 sets. For Level 2 trading platforms, I used the market price. I did notice that the spot price floated +/- 0.05% between most Level 2 platforms, so it&#39;s pointless to try to get anymore precision than 0.1%. One platform might be more expensive than the other by 0.05% and then cheaper the next moment. The &quot;USDC*&quot; column actually represents USDC / BUSD / GUSD (i.e. any sponsored stablecoin of that platform). I also didn&#39;t use any discounts you get from staking platform-specific tokens or from promotions. It&#39;s not perfect, and I&#39;ll make corrections when appropriate.</p>\n</div><!-- SC_ON -->",
+  "score": 153,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?auto=webp&s=b9c6a432f428d9ae8bbd31f0e42b56ab4f44c745",
+          "width": 1184,
+          "height": 644
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?width=108&crop=smart&auto=webp&s=e691ff799aef5bd543acadd8cc728809da740968",
+            "width": 108,
+            "height": 58
+          },
+          {
+            "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?width=216&crop=smart&auto=webp&s=11681ebae709bf22a9aee4ea2897b4723c9ea92b",
+            "width": 216,
+            "height": 117
+          },
+          {
+            "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?width=320&crop=smart&auto=webp&s=bce599d9a84151dde447e8a87f12a294ea67d6a4",
+            "width": 320,
+            "height": 174
+          },
+          {
+            "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?width=640&crop=smart&auto=webp&s=89e57ed23a3676b3026ac7e7a676cdcdc4b4245f",
+            "width": 640,
+            "height": 348
+          },
+          {
+            "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?width=960&crop=smart&auto=webp&s=ac19ae49343ed171088a16094fe39d344216fc2c",
+            "width": 960,
+            "height": 522
+          },
+          {
+            "url": "https://external-preview.redd.it/nfdMSbWTgH7-RiR9lxOp-QpvZnRkGfALl5SYgnBbyLM.png?width=1080&crop=smart&auto=webp&s=d3c47ddb77c41e0120d32a7bdfe35161d1a87a23",
+            "width": 1080,
+            "height": 587
+          }
+        ],
+        "variants": {},
+        "id": "GNJHk9r7VoxG5UkqC1izFdQhwZiXt84A0zUmGc_Gie0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ph6f24/i_investigated_how_many_coins_you_can_actually/",
+  "subreddit": "CryptoCurrency",
+  "id": "ph6f24",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Results: https://i.imgur.com/sUhXAQe.png\n\nSummary:\n\n * Top Tier: Kraken Pro > Gemini ActiveTrader > Coinbase Pro > Binance US\n   (Basic)\n * Mid-Top Tier: BlockFi, Kraken (normal) [, Robinhood, PayPal]\n * Mid-Bottom Tier: FTX US\n * Bottom Tier: Coinbase (normal), Gemini (normal)\n * (Not compared:…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "結果： https://i.imgur.com/sUhXAQe.png\n\n概要\n\n * Top Tier: Kraken Pro > Gemini ActiveTrader > Coinbase Pro > Binance US\n   (基本)\n * Mid-Top Tier: BlockFi, Kraken (normal) [, Robinhood, PayPal] です。\n * Mid-Bottom Tier: FTX US\n * 最下層 Coinbase (normal), Gemini (normal)\n * （比較対象外：...",
+      "title": "米国の11の暗号プラットフォームで、20ドル、100ドル、1000ドルで実際に買えるコインの数を、手数料とスプレッドの両方を考慮して調査しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "结果: https://i.imgur.com/sUhXAQe.png\n\n摘要。\n\n * 最高级别。Kraken Pro > Gemini ActiveTrader > Coinbase Pro > Binance US\n   (基本)\n * 中高层。BlockFi, Kraken (normal) [, Robinhood, PayPal] 。\n * 中下层。FTX US\n * 底层。Coinbase (normal), Gemini (normal)\n * （未比较：...",
+      "title": "我调查了在11个美国加密货币平台上用20美元、100美元和1000美元实际能买到多少个币，其中包括费用和点差。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "結果: https://i.imgur.com/sUhXAQe.png\n\n摘要。\n\n * 最高級別。Kraken Pro > Gemini ActiveTrader > Coinbase Pro > Binance US\n   (基本)\n * 中高層。BlockFi, Kraken (normal) [, Robinhood, PayPal] 。\n * 中下層。FTX US\n * 底層。Coinbase (normal), Gemini (normal)\n * （未比較：...",
+      "title": "我調查了在11個美國加密貨幣平臺上用20美元、100美元和1000美元實際能買到多少個幣，其中包括費用和點差。"
+    }
+  ]
+}

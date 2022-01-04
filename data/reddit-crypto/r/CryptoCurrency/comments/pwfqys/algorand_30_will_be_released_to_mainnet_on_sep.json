@@ -1,0 +1,32 @@
+{
+  "author": "Suthekingg",
+  "original_created_utc": 1632744792,
+  "title": "Algorand 3.0 will be released to MainNet on Sep 29th!",
+  "created_utc": 1632761869,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>Highlights</h1>\n\n<p>This release features the 1.0 version of AVM, extending Algorand&#39;s smart contract capabilities for even greater composability. Highlights in this release include:</p>\n\n<ul>\n<li>Application transactions: the ability for smart contracts to execute transactions on directly on chain.</li>\n<li>App cost pooling: larger contract size, by combining the budgets across an application group.</li>\n<li>Increased account smart contract limit to 50</li>\n<li>More smart contract opcodes to improve composability (inner transaction references, verify ECDSA, log, and others)</li>\n</ul>\n\n<h1>Changes</h1>\n\n<ol>\n<li>AVM</li>\n</ol>\n\n<ul>\n<li>Added\n\n<ul>\n<li>Add GroupID as an accessible global field in AVM </li>\n<li>Add opcodes for dynamically indexing into Txn array fields</li>\n<li>Implement verify ECDSA secp256k1 opcodes</li>\n<li>Introduce itxn to get inner transaction results</li>\n<li>Smart contracts can issue transactions </li>\n<li>loads and stores opcodes that take scratch slot from stack</li>\n</ul></li>\n<li>Changed\n\n<ul>\n<li>Better naming for extract opcodes</li>\n<li>Check if tx_field can be set with tables instead of switch </li>\n<li>Dry run should return opcode cost used</li>\n<li>Ensure that AssetCreator is not used before proto.LogicSigVersion=5 and unify field handling </li>\n<li>Expose nonparticipation txn field in teal</li>\n<li>Increase max app opt ins to 50</li>\n<li>Make config.MaxLogCalls dependent on some consensus param</li>\n<li>Use math.bits intrinsics to simplify addw/mulw opcodes</li>\n</ul></li>\n<li>Fixed\n\n<ul>\n<li>Ensure disassemble/reassemble cycle works in testProg </li>\n<li>Increase coverage in AVM code and bug fix in account fields of tx_field </li>\n</ul></li>\n</ul>\n\n<ol>\n<li>Goal</li>\n</ol>\n\n<ul>\n<li><p>Changed  </p>\n\n<ul>\n<li>Display app address in goal app info<br/>\n&amp; show logs are binary in REST API </li>\n<li>Display extra pages in goal info commands </li>\n</ul></li>\n<li><p>Fixed  </p>\n\n<ul>\n<li>Fix enumeration bug with using Ledger Nano S and goal </li>\n</ul></li>\n</ul>\n\n<ol>\n<li>Ledger</li>\n</ol>\n\n<ul>\n<li>Added\n\n<ul>\n<li>Add ledger.GetBlockAddresses() </li>\n</ul></li>\n<li>Changed\n\n<ul>\n<li>Fix overriding consensus parameters in evaluator. </li>\n<li>Simplify startEvaluator()<br/></li>\n</ul></li>\n</ul>\n\n<ol>\n<li>Network</li>\n</ol>\n\n<ul>\n<li>Fixed\n\n<ul>\n<li>Fix ParseHostOrURL and enable expect tests </li>\n</ul></li>\n</ul>\n\n<ol>\n<li>Tools</li>\n</ol>\n\n<ul>\n<li>Changed\n\n<ul>\n<li>Improve error message in update.sh when updater is corrupt </li>\n<li>Netgoal - add account balance range </li>\n</ul></li>\n</ul>\n\n<ol>\n<li>Tests</li>\n</ol>\n\n<ul>\n<li>Changed\n\n<ul>\n<li>Per-client RAM measurement scripts </li>\n<li>Split expect tests into separate circleci group </li>\n</ul></li>\n<li>Fixed\n\n<ul>\n<li>Data race in tests: TestApplicationsUpgradeOverREST race</li>\n<li>Disable deadlock for netgoal</li>\n<li>Fix TestStartAndStop</li>\n<li>Fix auto-gen tests </li>\n<li>Fix goalNodeTest.exp</li>\n<li>Fix issue with checking RUN_EXPECT when listing packages</li>\n<li>Fix partition recovery tests</li>\n<li>Fix pingpong teal test</li>\n<li>Fixed a typo in e2e.sh for integration tests</li>\n<li>Update pingpong transaction sending logic</li>\n</ul></li>\n</ul>\n\n<ol>\n<li>Other</li>\n</ol>\n\n<ul>\n<li>Changed\n\n<ul>\n<li>Add comments for protocol hash IDs and tags</li>\n<li>Checking CircleCI tests run once and only once</li>\n<li>Fix go vet issues</li>\n<li>Limit the number of buckets in verifiedTransactionCache<br/>\nto 3</li>\n<li>Remove codegen from travis file</li>\n</ul></li>\n</ul>\n</div><!-- SC_ON -->",
+  "score": 226,
+  "permalink": "/r/CryptoCurrency/comments/pwfqys/algorand_30_will_be_released_to_mainnet_on_sep/",
+  "subreddit": "CryptoCurrency",
+  "id": "pwfqys",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "HIGHLIGHTS\n\nThis release features the 1.0 version of AVM, extending Algorand's smart\ncontract capabilities for even greater composability. Highlights in this release\ninclude:\n\n * Application transactions: the ability for smart contracts to execute\n   transactions on directly on chain.\n * App cost…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "主な特徴\n\n今回のリリースでは、AVMの1.0バージョンを採用し、Algorandのスマートコントラクト機能を拡張しました。\nスマートコントラクトの機能を拡張し、より高いコンポーザビリティを実現しました。このリリースのハイライト\nは以下の通りです。\n\n * アプリケーション・トランザクション：スマートコントラクトがチェーン上で直接トランザクションを実行する機能。\n   アプリケーショントランザクション：スマートコントラクトが直接チェーン上でトランザクションを実行する機能。\n * アプリコスト...",
+      "title": "Algorand 3.0は9月29日にMainNetにリリースされます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "内容提要\n\n该版本具有1.0版本的AVM，扩展了Algorand的智能\n合约的能力，以实现更高的可组合性。该版本的亮点\n包括。\n\n * 应用交易：智能合约能够直接在链上执行交易。\n   应用交易：智能合约能够直接在链上执行交易。\n * 应用成本：智能合约能够直接在链上执行交易。",
+      "title": "Algorand 3.0将于9月29日发布到MainNet!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "內容提要\n\n該版本具有1.0版本的AVM，擴展了Algorand的智能\n合約的能力，以實現更高的可組合性。該版本的亮點\n包括。\n\n * 應用交易：智能合約能夠直接在鏈上執行交易。\n   應用交易：智能合約能夠直接在鏈上執行交易。\n * 應用成本：智能合約能夠直接在鏈上執行交易。",
+      "title": "Algorand 3.0將於9月29日發佈到MainNet!"
+    }
+  ]
+}

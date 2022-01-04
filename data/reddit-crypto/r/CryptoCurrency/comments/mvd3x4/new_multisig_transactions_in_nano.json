@@ -1,0 +1,79 @@
+{
+  "author": "SenatusSPQR",
+  "the_new_excerpt": "Multi-signature in Nault [https://nault.cc/multisig] is now available in web and\ndesktop app!\n\n * A full step-by-step Nault guide here\n   [https://docs.nault.cc/2021/04/20/multisig.html]\n * And a live video demo…",
+  "original_created_utc": 1619002505,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Naultのマルチシグネチャー [https://nault.cc/multisig]がウェブとデスクトップアプリで利用可能になりました。\nデスクトップアプリで利用できるようになりました。\n\n * 完全なステップバイステップのNaultガイドはこちら\n   [https://docs.nault.cc/2021/04/20/multisig.html]\n * ライブ・ビデオ・デモも...",
+      "title": "新着情報 ナノにおけるマルチシグ・トランザクション"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Nault的多重签名[https://nault.cc/multisig]现在可以在网页和\n桌面应用程序!\n\n * 一个完整的步骤Nault指南在这里\n   [https://docs.nault.cc/2021/04/20/multisig.html]\n * 和一个现场视频演示...",
+      "title": "新的。纳米技术中的多义词交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Nault的多重簽名[https://nault.cc/multisig]現在可以在網頁和\n桌面應用程序!\n\n * 一個完整的步驟Nault指南在這裏\n   [https://docs.nault.cc/2021/04/20/multisig.html]\n * 和一個現場視頻演示...",
+      "title": "新的。納米技術中的多義詞交易"
+    }
+  ],
+  "title": "New: Multisig transactions in Nano",
+  "created_utc": 1619044319,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Multi-signature in</strong> <a href=\"https://nault.cc/multisig\"><strong>Nault</strong></a> <strong>is now available in web and desktop app!</strong></p>\n\n<ul>\n<li>A full step-by-step Nault guide <a href=\"https://docs.nault.cc/2021/04/20/multisig.html\">here</a></li>\n<li>And a <a href=\"https://youtu.be/cSfeQKP4PJE\">live video demo</a></li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/pr8dt90h6iu61.png?width=1565&amp;format=png&amp;auto=webp&amp;s=3a9dd5ba08f6e2e177f0cdfda7d332193b99bfa5\">https://preview.redd.it/pr8dt90h6iu61.png?width=1565&amp;format=png&amp;auto=webp&amp;s=3a9dd5ba08f6e2e177f0cdfda7d332193b99bfa5</a></p>\n\n<p><strong>What is multisig?</strong></p>\n\n<p>Multi-signature is a way for multiple participants to own one private key each and combining them in a way so that only one common account is used to store the funds. Each participant only needs to know their particular key. Then by exchanging safe cryptographic data between the participants, a block signature is produced that can publish the corresponding block to the network.</p>\n\n<p>More info in the original <a href=\"https://np.reddit.com/r/nanocurrency/comments/mdjno1/release_nano_multisig_is_finally_here_enabling/\">multisig post for Keytools</a></p>\n\n<p><strong>New multisig features in Nault:</strong></p>\n\n<ul>\n<li>Multisig generator</li>\n<li>Multi-tab mode: To make the data sharing process automatic if using local browser tabs for all private keys used on the same machine</li>\n<li>Integrated with current remote signing workflow allowing the block to be published</li>\n<li>Fully compatible with Keytools multisig: Can use one Nault and one Keytools since the data format is the same</li>\n<li>Semi compatible with the <a href=\"https://plasmapower.github.io/musig-nano/\">original musig</a>: Can&#39;t use it it parallell but the multisig account is created the same way and funds can be recovered if Nault and Keytools would stop existing</li>\n<li>Full offline support meaning no private keys ever need to be exposed</li>\n</ul>\n\n<p><strong>Additional feature:</strong></p>\n\n<ul>\n<li><a href=\"https://nault.cc/keygenerator\">Keypair generator</a> for secure seed/ mnemonic/ private key (paper wallet)</li>\n</ul>\n\n<p><strong>Important Note:</strong></p>\n\n<p>The current multisig implementation is still M of M meaning if you lose any private keys the multisig account will be worthless. In the future, there will be M of N which means if you have 5 keys you can lose 2 of them. Simply not yet possible. But there is an example in Nault for how to share keys between 3 participants to <strong>simulate M of N</strong>:</p>\n\n<ul>\n<li>User 1 generates key A and B. Shares key A with user 2 and key B with user 3.</li>\n<li>User 2 generates key C and shares it with user 3.</li>\n<li>User 1 will own A and B. User 2 will own A and C. User 3 will own B and C.</li>\n</ul>\n\n<p>By doing this you ensure no single user can take the funds but also ensure that one user can lose both their keys and still allow full recovery among the remaining two. Just a bit more complicated.</p>\n\n<p><strong>Final Note:</strong></p>\n\n<p>Nault is using the <a href=\"https://github.com/PlasmaPower/musig-nano\">musig library</a> made by PlasmaPower, so thanks again to him!</p>\n\n<p>If anyone wants to validate the code, the wasm binary used <a href=\"https://github.com/Nault/Nault/blob/master/src/assets/lib/musig-nano/musig_nano.wasm.b64\">here</a> can be validated using <a href=\"https://github.com/Nault/Nault/blob/master/src/assets/lib/musig-nano/build-or-validate_musig_wasm.sh\">this</a>.</p>\n</div><!-- SC_ON -->",
+  "score": 158,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?auto=webp&s=fd3751ed3773d33dd94e48a79f7740c4ee78e281",
+          "width": 1565,
+          "height": 825
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?width=108&crop=smart&auto=webp&s=b17c398c4b283a2e043d51a98fc96a051f5e2edf",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?width=216&crop=smart&auto=webp&s=c579bbc49fe4bebaf5b1c42731d3488a6c376091",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?width=320&crop=smart&auto=webp&s=90784b8e2d87f08d1595d90b1d7fdf111a96d73b",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?width=640&crop=smart&auto=webp&s=34fd1b5695c93ffb8794974607be6706f8b4e47a",
+            "width": 640,
+            "height": 337
+          },
+          {
+            "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?width=960&crop=smart&auto=webp&s=c9cd896fe2800c1d1f8de51d4a75d8a30b50fdea",
+            "width": 960,
+            "height": 506
+          },
+          {
+            "url": "https://external-preview.redd.it/83x-Vu3xkoLmEkKJPOLgMuznxhPLL-tcVtCFLkqXHkE.png?width=1080&crop=smart&auto=webp&s=aa3a91fb0e5dbf3d144a72c8f0fa0b281390db8e",
+            "width": 1080,
+            "height": 569
+          }
+        ],
+        "variants": {},
+        "id": "z08_yVFaXlwNbBT3ZamKlb0jDky6ELfodtrD6zuw9S0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mvd3x4/new_multisig_transactions_in_nano/",
+  "subreddit": "CryptoCurrency",
+  "id": "mvd3x4",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619171523339
+}

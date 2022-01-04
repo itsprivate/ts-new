@@ -1,0 +1,81 @@
+{
+  "created_at": "Fri Jan 08 13:57:5 +0000 2021",
+  "id_str": "1347536468777046016",
+  "full_text": "#bitcoin is 22 ounces of gold .. and rising https://t.co/LXQ8QvuwmC",
+  "display_text_range": [
+    0,
+    43
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1347536253978370000,
+        "id_str": "1347536253978370049",
+        "indices": [
+          44,
+          67
+        ],
+        "media_url": "http://pbs.twimg.com/media/ErNpFVxXYAEGLpi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ErNpFVxXYAEGLpi.jpg",
+        "url": "https://t.co/LXQ8QvuwmC",
+        "display_url": "pic.twitter.com/LXQ8QvuwmC",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1347536468777046016/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1093,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 363,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 641,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 348,
+  "favorite_count": 2198,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jan 08 13:31:44 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "#比特币 是22盎司黄金。和不断上升的https://t.co/LXQ8QvuwmC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "#比特幣 是22盎司黃金。和不斷上升的https://t.co/LXQ8QvuwmC"
+    }
+  ],
+  "source_updated_at": 1610706389218
+}

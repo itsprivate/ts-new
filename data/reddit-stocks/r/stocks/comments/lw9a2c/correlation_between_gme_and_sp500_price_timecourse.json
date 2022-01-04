@@ -1,0 +1,28 @@
+{
+  "author": "makaros622",
+  "the_new_excerpt": "I did a simple correlation analysis and I found that there is a significant (at\nthe limit; p=0.05) negative correlation (rho= -0.319) between the GME and S&P500\nprice.\n\nPython Code:\n\nimport numpy as np, pandas as pd, matplotlib.pyplot as plt\nfrom scipy.stats import pearsonr\n\nsp500 =…",
+  "original_created_utc": 1614710477,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我做了一个简单的相关性分析，我发现，有一个显著（在\n极限；p=0.05）GME与S&P500指数负相关（rho=-0.319）。\n价格。\n\nPython代码。\n\nimport numpy as np, pandas as pd, matplotlib.pyplot as plt。\n从scipy.stats导入pearsonr。\n\nSP500=...",
+      "title": "GME与S&P500价格时间进程的相关性"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我做了一個簡單的相關性分析，我發現，有一個顯著（在\n極限；p=0.05）GME與S&P500指數負相關（rho=-0.319）。\n價格。\n\nPython代碼。\n\nimport numpy as np, pandas as pd, matplotlib.pyplot as plt。\n從scipy.stats導入pearsonr。\n\nSP500=...",
+      "title": "GME與S&P500價格時間進程的相關性"
+    }
+  ],
+  "title": "Correlation between GME and S&P500 price time-course",
+  "created_utc": 1614720086,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>I did a simple correlation analysis and I found that there is a significant (at the limit;  p=0.05) negative correlation (rho= -0.319) between the GME and S&amp;P500 price.</strong></p>\n\n<p>Python Code:</p>\n\n<pre><code>import numpy as np, pandas as pd, matplotlib.pyplot as plt\nfrom scipy.stats import pearsonr\n\nsp500 = pd.read_csv(&quot;GSPC.csv&quot;)\nsp500 = sp500[&#39;Close&#39;]\nsp500 = (sp500 - sp500.mean()) / sp500.std()\n\ngme = pd.read_csv(&quot;GME.csv&quot;)\ngme = gme[&#39;Close&#39;]\ngme = (gme - gme.mean()) / gme.std()\n\nplt.figure(dpi=100)\nplt.plot(gme, label=&#39;gme&#39;)\nplt.plot(sp500, label=&#39;sp500&#39;)\nplt.legend()\n\ncorr, pvalue = pearsonr(gme, sp500)\nprint(&quot;The correlation is {0} and the p-value is {1}&quot;.format(corr, pvalue))\n\nThe correlation is -0.31913841654250047 and the p-value is 0.05082054652651055\n</code></pre>\n\n<h2>Data</h2>\n\n<p>The data consists the historical price time-courses of GME and SP500 index starting from the 1st of January 2021 downloaded from yahoo finance website.</p>\n\n<p>Data: <a href=\"https://easyupload.io/m/x9o13b\">https://easyupload.io/m/x9o13b</a></p>\n\n<p>Results: <a href=\"https://ibb.co/g9ydrMv\">https://ibb.co/g9ydrMv</a></p>\n\n<p>&#x200B;</p>\n\n<p>Thoughts?</p>\n\n<p>&#x200B;</p>\n\n<p>EDIT: Thanks for the Helpful Award!!</p>\n</div><!-- SC_ON -->",
+  "score": 157,
+  "permalink": "/r/stocks/comments/lw9a2c/correlation_between_gme_and_sp500_price_timecourse/",
+  "subreddit": "stocks",
+  "id": "lw9a2c",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614937744913
+}

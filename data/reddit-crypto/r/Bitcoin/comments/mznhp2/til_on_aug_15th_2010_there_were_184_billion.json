@@ -1,0 +1,79 @@
+{
+  "author": "DerpDolphin2017",
+  "the_new_excerpt": "This was the first any only time the bitcoin core has been hacked (please tell\nme if I'm wrong about that). And it was spectacular. At 6:08 pm that day, Jeff\nGarzik (on the bitcoin core dev team) reported that \"The \"value out\" in this\nblock #74638 is quite strange: 92,233,720,368.54 BTC?\" An…",
+  "original_created_utc": 1619527018,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、ビットコインコアがハッキングされた最初で唯一のケースです（私が間違っていたら教えてください）。\n私が間違っていたら教えてください）。) そして、それは壮絶なものでした。その日の午後6時8分に、ジェフ\nGarzik（ビットコインコア開発チーム）は、「このブロックの \"バリューアウト \"は\n92,233,720,368.54BTC？\" と報告しています。アン...",
+      "title": "2010年8月15日には1840億ビットコインが存在していました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是第一次也是唯一一次比特币核心被黑（如果我说错了请告诉我\n如果我说错了请告诉我）。) 而且它很壮观。在当天下午6点08分，杰夫\nGarzik（比特币核心开发团队）报告说：\"这个#74638区块的 \"出值\"\n区块#74638相当奇怪：92,233,720,368.54 BTC？\" 一个...",
+      "title": "2010年8月15日，有1840亿比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是第一次也是唯一一次比特幣核心被黑（如果我說錯了請告訴我\n如果我說錯了請告訴我）。) 而且它很壯觀。在當天下午6點08分，傑夫\nGarzik（比特幣核心開發團隊）報告說：\"這個#74638區塊的 \"出值\"\n區塊#74638相當奇怪：92,233,720,368.54 BTC？\" 一個...",
+      "title": "2010年8月15日，有1840億比特幣。"
+    }
+  ],
+  "title": "TIL on Aug 15th 2010 there were 184 billion Bitcoins",
+  "created_utc": 1619572845,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This was the first any only time the bitcoin core has been hacked (please tell me if I&#39;m wrong about that).  And it was spectacular.  At 6:08 pm that day, Jeff Garzik (on the bitcoin core dev team) reported that <em>&quot;The &quot;value out&quot; in this block #74638 is quite strange: 92,233,720,368.54 BTC?&quot;</em> An attacker had taken advantage of an unforeseen check transaction overflow error. </p>\n\n<p>2.5 hours later Gavin Andresen had a patch to fix it.  30 minutes after that Satoshi posted the patch the devs ended up using.  But how do they implement this major change in the code (which includes instructions to ignore all existing blocks after #74637) without hard forking to a shorter version of the block chain?  Satoshi asked everyone to stop generating blocks, but it was pointed out that the community was just too big and distributed by this time to expect quick voluntary action on anything.  Satoshi then gave step by step instructions on how to create a new blockchain by applying the patch and then downloading a backup of the blockchain to block #74,000 and restarting the client to restore the remainder of the blocks, ignoring anything after the last &quot;good&quot; block.</p>\n\n<p>Then it was a race to generate blocks faster with the patched code than the original block chain, which was still generating blocks of its own.  The core code with the longest chain would ultimately win.  This was no small task.  Implementing the new chain with the patched code was not as simple as pushing an &quot;Update&quot; button.  It would take some time and effort from a lot of miners to fix this problem.</p>\n\n<p>By 2:00 am the next morning it finally looked as though the new block chain had more hashing power than the old one.  After just 50 blocks were generated, the new chain took the lead.  Fortunately there were devs and users active on the forum who had a relatively large amount of hashing power. </p>\n\n<p>I find it fascinating how brittle the early days of bitcoin were.  I had just always assumed that once the core was published, it was a Satoshi Magic done deal.</p>\n\n<p><a href=\"https://bitcointalk.org/index.php?topic=823.0\">https://bitcointalk.org/index.php?topic=823.0</a></p>\n</div><!-- SC_ON -->",
+  "score": 173,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?auto=webp&s=0348b2d94399d024ed2b6006df00380aef49a74f",
+          "width": 1201,
+          "height": 631
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?width=108&crop=smart&auto=webp&s=60f62f71f7e2e92c83abcb34824445a02ba2c014",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?width=216&crop=smart&auto=webp&s=a20f569402382b1abd532390167909c1db6fd2f2",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?width=320&crop=smart&auto=webp&s=3c37e3c4b32e542aab1f09912a07491598302632",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?width=640&crop=smart&auto=webp&s=02acd33b5ea864970a5506f0ecdafdb2d11e84d5",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?width=960&crop=smart&auto=webp&s=f960c8b244d989c78b19330dc19a5ad344cf942d",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/s22TkrjRc32-9whGDPcsYBrPBkCL-zVNztez0mFpKTM.jpg?width=1080&crop=smart&auto=webp&s=503defa963b20dac3e0bcb98192e9d1a38cbaab0",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "QNIjT7kJjPb8JgqY4OQ8qbkO5QeVWHVBUTFmJARSmCs"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/mznhp2/til_on_aug_15th_2010_there_were_184_billion/",
+  "subreddit": "Bitcoin",
+  "id": "mznhp2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619776205694
+}

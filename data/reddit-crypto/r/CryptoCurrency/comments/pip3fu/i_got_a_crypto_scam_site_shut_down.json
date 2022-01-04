@@ -1,0 +1,32 @@
+{
+  "author": "PMmesomehappiness",
+  "original_created_utc": 1630889585,
+  "title": "I got a Crypto scam site shut down!",
+  "created_utc": 1630906212,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>A couple days ago I made this <a href=\"https://np.reddit.com/r/CryptoCurrency/comments/pf1guv/phishing_scam_to_gain_access_to_wallets_targeting/?utm_source=share&amp;utm_medium=web2x&amp;context=3\">post</a> about a Crypto scam I&#39;d found on reddit.</p>\n\n<p>This phishing scam involved bots who contact people posting in cryptocurrency forums and supply them with a link to a phishing site claiming it will fix their problem. The eventual goal is to have the victim input their seed phrase or private key.</p>\n\n<p>Despite this being a fairly obvious scam it&#39;s always the most vulnerable that fall for it and I found myself pretty annoyed there wasn&#39;t much I could do to stop it from happening. I&#39;d reported it to google Safe Browsing but after a day I found the site was still accessible with no problem, so I decided to channel my inner Jim Browning and do a little research.</p>\n\n<p>I took the websites IP and did a search of public DNS records, through this I was able to find the domain registrar that the site was hosted with, NameCheap based in the US. I also had a look through their HTML and found the very first line indicated the site was copied using a tool from a previous website that had already been banned by Chrome.</p>\n\n<p>So I visited NameCheap and reached out to their support staff detailing the site and my evidence against it. Today they got back to me, confirming the site violated their policy and it was immediately taken offline!</p>\n\n<p>I know this is a small victory but it feels awesome to know that you managed to have an entire scam site taken offline and that this will disrupt who ever is responsible at least for some period of time.</p>\n\n<p>Feel free to do the same if you find something like that, despite making me feel like Neo it really wasn&#39;t that difficult and the more people that do it the larger the impact.</p>\n</div><!-- SC_ON -->",
+  "score": 161,
+  "permalink": "/r/CryptoCurrency/comments/pip3fu/i_got_a_crypto_scam_site_shut_down/",
+  "subreddit": "CryptoCurrency",
+  "id": "pip3fu",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "A couple days ago I made this post\n[https://np.reddit.com/r/CryptoCurrency/comments/pf1guv/phishing_scam_to_gain_access_to_wallets_targeting/?utm_source=share&utm_medium=web2x&context=3]\nabout a Crypto scam I'd found on reddit.\n\nThis phishing scam involved bots who contact people posting in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "数日前にこんな投稿をしました。\n[https://np.reddit.com/r/CryptoCurrency/comments/pf1guv/phishing_scam_to_gain_access_to_wallets_targeting/?utm_source=share&utm_medium=web2x&context=3]\nredditで見つけた暗号詐欺について投稿しました。\n\nこのフィッシング詐欺は、ボットが投稿者に連絡を取り、...",
+      "title": "私はCrypto詐欺のサイトをシャットダウンしました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "几天前，我发了这个帖子\n[https://np.reddit.com/r/CryptoCurrency/comments/pf1guv/phishing_scam_to_gain_access_to_wallets_targeting/?utm_source=share&utm_medium=web2x&context=3]\n关于我在reddit上发现的一个加密货币骗局。\n\n这个网络钓鱼骗局涉及机器人，他们与发布在...",
+      "title": "我让一个加密货币诈骗网站被关闭了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "幾天前，我發了這個帖子\n[https://np.reddit.com/r/CryptoCurrency/comments/pf1guv/phishing_scam_to_gain_access_to_wallets_targeting/?utm_source=share&utm_medium=web2x&context=3]\n關於我在reddit上發現的一個加密貨幣騙局。\n\n這個網絡釣魚騙局涉及機器人，他們與發佈在...",
+      "title": "我讓一個加密貨幣詐騙網站被關閉了!"
+    }
+  ]
+}

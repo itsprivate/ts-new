@@ -1,0 +1,85 @@
+{
+  "created_at": "Wed Aug 11 20:35:35 +0000 2021",
+  "id_str": "1425548931212222468",
+  "full_text": "S&amp;P 500 closed at an all-time high for the 46th time this year. $SPX https://t.co/kmZbhY8cDz",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "SPX",
+        "indices": [
+          68,
+          72
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1425548907006906400,
+        "id_str": "1425548907006906376",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/media/E8iRLZQX0AgNn-N.png",
+        "media_url_https": "https://pbs.twimg.com/media/E8iRLZQX0AgNn-N.png",
+        "url": "https://t.co/kmZbhY8cDz",
+        "display_url": "pic.twitter.com/kmZbhY8cDz",
+        "expanded_url": "https://twitter.com/charliebilello/status/1425548931212222468/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 460,
+            "h": 485,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 460,
+            "h": 485,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 460,
+            "h": 485,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 226,
+  "favorite_count": 903,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Aug 11 20:05:25 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "S&S;P 500は、今年46回目の史上最高値で取引を終了しました。$SPX https://t.co/kmZbhY8cDz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "S&amp;P 500指数今年第46次收于历史新高。$SPX https://t.co/kmZbhY8cDz"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "S&amp;P 500指數今年第46次收於歷史新高。$SPX https://t.co/kmZbhY8cDz"
+    }
+  ],
+  "source_updated_at": 1628847703277
+}

@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 886782,
+  "title": "Cascade of doom: JIT, and how a Postgres update led to 70% failure on a critical national service",
+  "description": "The UK coronavirus dashboard is the primary data reporting service for the COVID-19 pandemic in the...",
+  "readable_publish_date": "Nov 13",
+  "slug": "cascade-of-doom-jit-and-how-a-postgres-update-led-to-70-failure-on-a-critical-national-service-3f2a",
+  "path": "/xenatisch/cascade-of-doom-jit-and-how-a-postgres-update-led-to-70-failure-on-a-critical-national-service-3f2a",
+  "url": "https://dev.to/xenatisch/cascade-of-doom-jit-and-how-a-postgres-update-led-to-70-failure-on-a-critical-national-service-3f2a",
+  "comments_count": 3,
+  "public_reactions_count": 35,
+  "collection_id": null,
+  "published_timestamp": "2021-11-13T16:16:43Z",
+  "positive_reactions_count": 35,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--okeUw3DY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5ardd9fumpal52vmq6q.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P8jjFbEf--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5ardd9fumpal52vmq6q.png",
+  "canonical_url": "https://dev.to/xenatisch/cascade-of-doom-jit-and-how-a-postgres-update-led-to-70-failure-on-a-critical-national-service-3f2a",
+  "created_at": "2021-11-14T17:20:34.641Z",
+  "edited_at": "2021-11-14T11:09:43Z",
+  "crossposted_at": null,
+  "published_at": "2021-11-13T16:16:43Z",
+  "last_comment_at": "2021-11-14T15:13:58Z",
+  "reading_time_minutes": 14,
+  "tag_list": [
+    "postgres",
+    "sql",
+    "performance",
+    "azure"
+  ],
+  "tags": [
+    "postgres",
+    "sql",
+    "performance",
+    "azure"
+  ],
+  "user": {
+    "name": "Pouria Hadjibagheri",
+    "username": "xenatisch",
+    "twitter_username": "Pouriaaa",
+    "github_username": "xenatisch",
+    "website_url": null,
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eEWffS6L--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/743949/40e18d40-41f2-4889-8548-4c5134782255.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--gYoqp5Xt--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/743949/40e18d40-41f2-4889-8548-4c5134782255.jpeg"
+  },
+  "original_created_at": "2021-11-03T13:57:11Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--okeUw3DY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5ardd9fumpal52vmq6q.png",
+  "author": "Pouria Hadjibagheri",
+  "author_url": "https://dev.to/xenatisch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "英国のコロナウイルス・ダッシュボードは、COVID-19パンデミックの主要なデータ報告サービスです。",
+      "title": "運命のカスケード JIT、そしてPostgresのアップデートがいかにして重要な国家サービスの70％の障害につながったか"
+    },
+    {
+      "locale": "zh",
+      "description": "英国冠状病毒仪表板是COVID-19大流行病的主要数据报告服务。",
+      "title": "厄运连连。JIT，以及一个Postgres的更新如何导致一个关键的国家服务的70%的故障"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "英國冠狀病毒儀表板是COVID-19大流行病的主要數據報告服務。",
+      "title": "厄運連連。JIT，以及一個Postgres的更新如何導致一個關鍵的國家服務的70%的故障"
+    }
+  ]
+}

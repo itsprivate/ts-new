@@ -1,0 +1,85 @@
+{
+  "created_at": "Mon Nov 08 4:42:20 +0000 2021",
+  "id_str": "1456464851904180253",
+  "full_text": "Now deleted tweet $PFE https://t.co/0uv3eVzbqr",
+  "display_text_range": [
+    0,
+    22
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "PFE",
+        "indices": [
+          18,
+          22
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1456464848632623000,
+        "id_str": "1456464848632623125",
+        "indices": [
+          23,
+          46
+        ],
+        "media_url": "http://pbs.twimg.com/media/FDZnECqXMBUVLS-.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FDZnECqXMBUVLS-.jpg",
+        "url": "https://t.co/0uv3eVzbqr",
+        "display_url": "pic.twitter.com/0uv3eVzbqr",
+        "expanded_url": "https://twitter.com/The_Real_Fly/status/1456464851904180253/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1230,
+            "h": 1561,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 536,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 946,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 36,
+  "favorite_count": 227,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Nov 05 03:34:15 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今は削除されたツイート $PFE https://t.co/0uv3eVzbqr"
+    },
+    {
+      "locale": "zh",
+      "full_text": "现已删除的推文 $PFE https://t.co/0uv3eVzbqr"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "現已刪除的推文 $PFE https://t.co/0uv3eVzbqr"
+    }
+  ],
+  "source_updated_at": 1636710070830
+}

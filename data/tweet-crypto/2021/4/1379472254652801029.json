@@ -1,0 +1,186 @@
+{
+  "created_at": "Tue Apr 06 16:50:47 +0000 2021",
+  "id_str": "1379472254652801029",
+  "full_text": "RT @jack: Announcing CCI #bitcoin https://t.co/cT3AQf0op7",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "bitcoin",
+        "indices": [
+          25,
+          33
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/cT3AQf0op7",
+        "expanded_url": "https://twitter.com/crypto_council/status/1379463363760156674",
+        "display_url": "twitter.com/crypto_council…",
+        "indices": [
+          34,
+          57
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365332744990060546/0G6DqQlc_normal.jpg"
+  },
+  "retweet_count": 876,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Apr 06 16:33:09 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: CCIを発表 #bitcoin https://t.co/cT3AQf0op7",
+      "retweeted_status_full_text": "CCIを発表する #ビットコイン https://t.co/cT3AQf0op7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack：宣布CCI #比特币https://t.co/cT3AQf0op7。",
+      "retweeted_status_full_text": "宣布CCI#比特币https://t.co/cT3AQf0op7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack：宣佈CCI #比特幣https://t.co/cT3AQf0op7。",
+      "retweeted_status_full_text": "宣佈CCI#比特幣https://t.co/cT3AQf0op7"
+    }
+  ],
+  "source_updated_at": 1617961884659,
+  "retweeted_status": {
+    "created_at": "Tue Apr 06 16:26:05 +0000 2021",
+    "id_str": "1379470475605196806",
+    "full_text": "Announcing CCI #bitcoin https://t.co/cT3AQf0op7",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "bitcoin",
+          "indices": [
+            15,
+            23
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cT3AQf0op7",
+          "expanded_url": "https://twitter.com/crypto_council/status/1379463363760156674",
+          "display_url": "twitter.com/crypto_council…",
+          "indices": [
+            24,
+            47
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "jack",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 320,
+    "favorite_count": 1468,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Tue Apr 06 15:57:49 +0000 2021",
+      "id_str": "1379463363760156674",
+      "full_text": "Crypto is going to change everything.\nBut it's early days, and nothing is promised. That's why we're here. Meet the Crypto Council for Innovation (CCI), with @paradigm, @coinbase, @square, and Fidelity @DigitalAssets. \nHere's what we'll be doing...(thread)\nhttps://t.co/6LI21cDAMB",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paradigm",
+            "name": "Paradigm",
+            "id": 166765173,
+            "id_str": "166765173",
+            "indices": [
+              158,
+              167
+            ]
+          },
+          {
+            "screen_name": "coinbase",
+            "name": "Coinbase",
+            "id": 574032254,
+            "id_str": "574032254",
+            "indices": [
+              169,
+              178
+            ]
+          },
+          {
+            "screen_name": "Square",
+            "name": "Square",
+            "id": 93017945,
+            "id_str": "93017945",
+            "indices": [
+              180,
+              187
+            ]
+          },
+          {
+            "screen_name": "DigitalAssets",
+            "name": "Fidelity Digital Assets",
+            "id": 976884195632001000,
+            "id_str": "976884195632001027",
+            "indices": [
+              202,
+              216
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6LI21cDAMB",
+            "expanded_url": "https://www.wsj.com/articles/fidelity-square-coinbase-launch-bitcoin-trade-group-11617710402",
+            "display_url": "wsj.com/articles/fidel…",
+            "indices": [
+              257,
+              280
+            ]
+          }
+        ]
+      },
+      "user": {
+        "name": "cryptocouncil",
+        "screen_name": "crypto_council",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379405880861413377/14n_67ql_normal.png"
+      },
+      "retweet_count": 162,
+      "favorite_count": 535,
+      "possibly_sensitive": false
+    }
+  }
+}

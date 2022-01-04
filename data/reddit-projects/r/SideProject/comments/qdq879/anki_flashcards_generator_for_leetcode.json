@@ -1,0 +1,78 @@
+{
+  "author": "omgitspavel",
+  "original_created_utc": 1634936604,
+  "title": "Anki flashcards generator for leetcode",
+  "created_utc": 1634942150,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>A while ago I decided to automate my leetcoding process. I&#39;ve been doing it quite a lot, and by now I have almost 800 problems solved.</p>\n\n<p>I&#39;ve already been using Anki (a tool for spaced repetition of flashcards), so the solution was quite obvious: create Anki cards for all leetcode questions and use it as a scheduler and memorizing tool for grinding algorithm tasks.</p>\n\n<p>Here is the result <a href=\"https://github.com/prius/leetcode-anki\">https://github.com/prius/leetcode-anki</a></p>\n\n<p>The repo became somewhat popular because there are people who liked the idea. Some of them are even sending pull requests.</p>\n\n<p>To create this app I had to first create a python library, that provides an interface for leetcode API. It took a while to produce it, but now it is available as a PyPI module <a href=\"https://pypi.org/project/python-leetcode/\">https://pypi.org/project/python-leetcode/</a> and the source code is located here <a href=\"https://github.com/prius/python-leetcode\">https://github.com/prius/python-leetcode</a></p>\n\n<p>Not pursuing anything by posting it here, because the project is completely non-commercial. Just sharing to make it visible for a wider audience. Having more people using the tool motivates me to support it and improve it further.</p>\n</div><!-- SC_ON -->",
+  "score": 7,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?auto=webp&s=22d33d4e4a884adc40e0584ddd345df668762465",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?width=108&crop=smart&auto=webp&s=fca58f586aae2fd1d226aff197e55fb4281b8397",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?width=216&crop=smart&auto=webp&s=6466af5a95e8de4893863da9f03149c1c9c2473b",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?width=320&crop=smart&auto=webp&s=18b98a5351a3a369e19f9caf28fc99d008e1b38d",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?width=640&crop=smart&auto=webp&s=c8c483431d8588f00e7d53eaa6a05b0148759351",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?width=960&crop=smart&auto=webp&s=eeeb5e8e89602311766e8ab41ecfd6f435b323f1",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/RwYXrdUWSGSBehoAfNz6gG2InC8Atb8gjHeUIe62isU.jpg?width=1080&crop=smart&auto=webp&s=ab9dea445c58cefa65e69488b602c88ef52cfd35",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "2ghgwHZEOUpw8EkrJLJUX6cd4ipYN-mIjmCSpmGJL7w"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qdq879/anki_flashcards_generator_for_leetcode/",
+  "subreddit": "SideProject",
+  "id": "qdq879",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "A while ago I decided to automate my leetcoding process. I've been doing it\nquite a lot, and by now I have almost 800 problems solved.\n\nI've already been using Anki (a tool for spaced repetition of flashcards), so\nthe solution was quite obvious: create Anki cards for all leetcode questions and\nuse…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "しばらく前に、私はリーコードのプロセスを自動化することにしました。何度もやっているうちに\nかなりやっていて、今では800問近く解いています。\n\nすでにAnki（フラッシュカードを間隔を空けて反復するツール）を使っていたので\nすべてのリートコードの問題に対してAnkiカードを作成して\n使っています。",
+      "title": "Anki Flashcards generator for leetcode"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不久前，我决定将我的沥水编码过程自动化。我已经做了\n我做了很多，现在我已经解决了将近800个问题。\n\n我已经在使用Anki（一种用于间隔重复的抽认卡的工具），所以\n解决办法很明显：为所有的leetcode问题创建Anki卡片，然后用\n使用...",
+      "title": "Anki flashcards generator for leetcode"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不久前，我決定將我的瀝水編碼過程自動化。我已經做了\n我做了很多，現在我已經解決了將近800個問題。\n\n我已經在使用Anki（一種用於間隔重複的抽認卡的工具），所以\n解決辦法很明顯：爲所有的leetcode問題創建Anki卡片，然後用\n使用...",
+      "title": "Anki flashcards generator for leetcode"
+    }
+  ]
+}

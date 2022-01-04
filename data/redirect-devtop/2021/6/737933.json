@@ -1,0 +1,73 @@
+{
+  "type_of": "article",
+  "id": 737933,
+  "title": "Logging vs Tracing: Why Logs Aren’t Enough to Debug Your Microservices",
+  "description": "When debugging microservices, it can be challenging for developers to identify the root cause of...",
+  "readable_publish_date": "Jun 24",
+  "slug": "logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi",
+  "path": "/aspecto/logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi",
+  "url": "https://dev.to/aspecto/logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi",
+  "comments_count": 1,
+  "public_reactions_count": 62,
+  "collection_id": null,
+  "published_timestamp": "2021-06-24T15:10:51Z",
+  "positive_reactions_count": 62,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dU5TYrSD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hn3dogglytpoog19bsim.jpg",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8X0riCst--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hn3dogglytpoog19bsim.jpg",
+  "canonical_url": "https://dev.to/aspecto/logging-vs-tracing-why-logs-aren-t-enough-to-debug-your-microservices-4jgi",
+  "created_at": "2021-06-26T04:58:35.144Z",
+  "edited_at": null,
+  "crossposted_at": null,
+  "published_at": "2021-06-24T15:10:51Z",
+  "last_comment_at": "2021-06-25T06:01:29Z",
+  "reading_time_minutes": 7,
+  "tag_list": [
+    "webdev",
+    "microservices",
+    "debugging",
+    "architecture"
+  ],
+  "tags": [
+    "webdev",
+    "microservices",
+    "debugging",
+    "architecture"
+  ],
+  "user": {
+    "name": "Michael Haberman",
+    "username": "habmic",
+    "twitter_username": null,
+    "github_username": "habmic",
+    "website_url": null,
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UaqJpa4_--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/557319/2b537263-7e15-4f2e-bb11-7a13eb04964f.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZX4D1n_K--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/557319/2b537263-7e15-4f2e-bb11-7a13eb04964f.jpeg"
+  },
+  "organization": {
+    "name": "Aspecto",
+    "username": "aspecto",
+    "slug": "aspecto",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YS4yjA_1--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/3742/2e1845f8-9a6f-4232-8258-ecfe9c3d246f.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--dNhNHgrF--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/3742/2e1845f8-9a6f-4232-8258-ecfe9c3d246f.jpg"
+  },
+  "original_created_at": "2021-06-24T14:53:03Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dU5TYrSD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hn3dogglytpoog19bsim.jpg",
+  "author": "Michael Haberman",
+  "author_url": "https://dev.to/habmic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロサービスのデバッグでは、開発者が原因を特定することが困難な場合があります。",
+      "title": "ロギング vs トレース。マイクロサービスのデバッグにはログだけでは不十分な理由"
+    },
+    {
+      "locale": "zh",
+      "description": "在调试微服务时，对开发人员来说，要确定其根本原因可能具有挑战性。",
+      "title": "日志与追踪。为什么日志不足以调试你的微服务？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在調試微服務時，對開發人員來說，要確定其根本原因可能具有挑戰性。",
+      "title": "日誌與追蹤。爲什麼日誌不足以調試你的微服務？"
+    }
+  ]
+}

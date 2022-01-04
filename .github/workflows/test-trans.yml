@@ -1,0 +1,47 @@
+name: Auto translate test
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "45 */2 * * *"
+
+jobs:
+  auto-translate:
+    runs-on: macos-latest
+    steps:
+      - name: Check is building
+        uses: actions/github-script@v4
+        id: shouldBuild
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const runed = await github.actions.listWorkflowRuns({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: "test-trans.yml",
+            });
+            const totalCount=runed.data.workflow_runs.filter(item=>item.status==="in_progress").length;
+            console.log("totalCount",totalCount)
+            console.log("runed",JSON.stringify(runed,null,2));
+            return totalCount
+          result-encoding: string
+      - name: checkout
+        if: steps.shouldBuild.outputs.result=='1'
+        uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        if: steps.shouldBuild.outputs.result=='1'
+        with:
+          node-version: "12"
+      - name: install puppeteer
+        if: steps.shouldBuild.outputs.result=='1'
+        run: npm i puppeteer
+      - name: install
+        if: steps.shouldBuild.outputs.result=='1'
+        run: npm i
+      - name: run test
+        if: steps.shouldBuild.outputs.result=='1'
+        run: node .github/actions/translate/src/test.js
+      - uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: |
+            screens

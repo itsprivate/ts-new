@@ -1,0 +1,92 @@
+on:
+  graphql:
+    url: https://api.producthunt.com/v2/api/graphql
+    deduplicationKey: id
+    itemsPath: data.posts.edges
+    headers:
+      Authorization: Bearer ${{secrets.PRODUCTHUNT_TOKEN}}
+    requestConfig:
+      axios-retry:
+        retries: 8
+    variables:
+      after: ${{metadata.after}}
+    query: |
+      query($after:DateTime) {
+        posts (order:VOTES,postedAfter:$after){
+          edges{
+            node {
+              id
+              commentsCount
+              createdAt
+              description
+              featuredAt
+              media {
+                type
+                url
+                videoUrl
+              }
+              name
+              productLinks {
+                type
+                url
+              }
+              user {
+                name
+                url
+              }
+              reviewsCount
+              reviewsRating
+              slug
+              tagline
+              url
+              votesCount
+              website
+              topics {
+                edges {
+                  node {
+                    name
+                  }
+                }
+              }
+              
+            }
+          }
+        }
+      }
+
+    config:
+      every: 15
+      skipOnError: true
+      metadata: |
+        const now  = Date.now();
+        const last24 = now-24*60*60*1000;
+        return {
+          after: new Date(last24).toISOString()
+        }
+      format: |
+        const node = item.node;
+        node.original_createdAt = node.createdAt;
+        node.createdAt = new Date().toISOString()
+        return node
+      filterScript: |
+        console.log('item.votesCount',item.votesCount)
+        if(item.votesCount>=50){
+          return true
+        }
+      outputsMode: combine
+      exportOutputs: true
+jobs:
+  save:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create Hackernews JSON
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.graphql.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-ph-module.js`)
+            await generateSources()
+            return true

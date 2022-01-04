@@ -1,0 +1,63 @@
+{
+  "author": "UrMuMGaEe",
+  "original_created_utc": 1626107931,
+  "title": "Upcoming Ethereum upgrades and their Price Effects, explained in simple terms.",
+  "created_utc": 1626118235,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This post will be about explaining <strong>EIP-1559, Proof of Stake</strong> and <strong>Sharding</strong> in <strong>simplest terms possible without losing the technicalities</strong>. Also with Price Effects at the end of each section.</p>\n\n<p><a href=\"https://notes.ethereum.org/@vbuterin/eip-1559-faq\">EIP-1559</a> <strong>(Expected August 2021)</strong> : EIP means &quot;Ethereum Improvement Proposal&quot;. The permanent solution for high gas fees is &quot;Sharding&quot;(explained below), but EIP-1559 is proposed as a temporary fix till then.</p>\n\n<ul>\n<li>Why are gas fees high? Because, Ethereum uses an &quot;<strong>auction mechanism</strong>&quot;, users offer miners more gas fees for miners to include their transaction in the <strong>block(next batch of transactions).</strong> So when more users want to be included in the next block, their only option is to increase their gas fees. If you offer low gas fees, your transaction will never win the &quot;auction&quot; and will forever wait in the <strong>mempool(waiting stage).</strong> Consequently, some users often pay more than other users whose transactions have been included in the same block just because they arrived late.</li>\n<li>What does EIP-1559 do to fix this? Well it brings a two tiered system called <strong>Base Fee and Tips</strong>. The proposal aims to keep blocks at a <strong>50% utilisation rate(Blocks are only 50% filled)</strong>. The Base Fee is automatically determined by algorithm based on congestion. Once block is more than 50% filled, base fee rises. It falls below 50%, base fee decreases. Tips can be included as extra, an incentive for miners to include your transaction.</li>\n<li>So what happens is the tipped transactions get cleared faster, Once all the urgent transactions are cleared, non-urgent transactions would be executed as the base fee decreases — and block space would return to its 50% target. This way instead of beating each other to pass, we all pay accordingly with congestion.</li>\n<li><strong>Effect on Price</strong> : <em>The base fee is</em> <strong><em>BURNED</em></strong>! All that Base Fee Ether isn&#39;t given to miners, it&#39;s burned and lost forever. Only tips are kept by miners. This is an amazing way of keeping ETH Inflation in check. May even push it to negative when network is congested, Bitcoin Halving becomes a child&#39;s play. <strong><em>Supply crunch, aka to the MOON!</em></strong></li>\n</ul>\n\n<p><a href=\"https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/#:%7E:text=Proof%20of%20stake%20is%20a,a%20validator%20in%20the%20network.&amp;text=stronger%20immunity%20to%20centralization%20%E2%80%93%20proof,more%20nodes%20in%20the%20network\">Proof of Stake</a> <strong>(Expected 2021)</strong> :</p>\n\n<ul>\n<li>Firstly, there is the narrative of environment concerns over Proof of Work. Next, the entry barrier is very high for PoW. You have to get highly priced hardware and it is &quot;not so decentralised&quot;. We already have companies having mining pools that dominate over individual miners like you with your laptop. So, Proof of Stake takes away the miners and replaces them with &quot;<strong>Validators</strong>&quot;.</li>\n<li>People can individually or together pool in &gt; 32 ETH to become a validator and start validating transactions and securing the network instead of mining via hardware. As a reward, a generous ~7% of staked ETH is given to said validators. Also, Proof of Stake makes it easier to implement Sharding(explained below) later in 2022 than Proof of Work.</li>\n<li><strong>Effect on Price</strong> : <em>This incentivises validators to hold their ETH and not sell to get the said 7% of their pile, This along with EIP-1559&#39;s ETH burn is clearly suggesting a</em> <strong><em>Supply crunch, aka to the MOON!</em></strong></li>\n</ul>\n\n<p><a href=\"https://education.district0x.io/general-topics/understanding-ethereum/ethereum-sharding-explained/\">Sharding</a> <strong>(Sometime in 2022)</strong> :</p>\n\n<ul>\n<li>This is the real deal. Sharding is the permanent solution to gas fees. It is the most complex upgrade to Ethereum and for that reason, I&#39;ll use a real boiled down version of what it aims to do.</li>\n<li>Imagine the whole Ethereum Blockchain as the whole world. Imagine your transaction as a letter, When you want to send the letter to someone from America to Australia, you have to announce to the whole world(all nodes in blockchain) that your letter is a valid one and wait for their approvals.</li>\n<li>This is what makes the blockchain not scalable. Sharding divides the whole blockchain into 64 Nodes(for now). Like their own individual countries. Now the letter from America can be approved by American Shard instead of waiting for whole world to approve.</li>\n<li>A <strong>Notary(validating authority like an ambassador)</strong> is randomly picked periodically in each shard to vote on the validity on transactions. These votes are then reviewed by a committee on the main Ethereum chain <strong>(A global validator)</strong> and merged to entire world&#39;s ledger via what’s called a sharding manager contract. This protocol is still being worked on. It solves a problem of all blockchains <strong>(Google blockchain trilemma).</strong></li>\n<li><strong>Price Effect :</strong> <em>This can&#39;t be said right now. But from a tech perspective, the dApps built on Ethereum can be scalable which means there are going to be revolutionary ideas built which would&#39;ve never been thought of possible. Maybe we&#39;ll see the next UniSwap, or NFTs or maybe even multiplayer games? Endless Possibilities.</em></li>\n</ul>\n\n<p>&#x200B;</p>\n\n<p><strong>Note to the elite tech people :</strong> If you guys think I made a mistake somewhere in the explanation or lost an important detail to generality..then please comment so that I can update it. It&#39;s already late here, I&#39;ll update as soon as I wake up tomorrow. Thanks for reading!</p>\n</div><!-- SC_ON -->",
+  "score": 167,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Y2mAqI7pnrN2YGSFVDPnKathe44cIiYM7jumuDOIeo0.jpg?auto=webp&s=d05a82ae7550056d04cefdad70ff844d327d6688",
+          "width": 420,
+          "height": 420
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Y2mAqI7pnrN2YGSFVDPnKathe44cIiYM7jumuDOIeo0.jpg?width=108&crop=smart&auto=webp&s=3ebcac426024c3d58d382b68d24068e9abadceb9",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Y2mAqI7pnrN2YGSFVDPnKathe44cIiYM7jumuDOIeo0.jpg?width=216&crop=smart&auto=webp&s=588327f36daa032de1a38a7ac5705b59ee609259",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Y2mAqI7pnrN2YGSFVDPnKathe44cIiYM7jumuDOIeo0.jpg?width=320&crop=smart&auto=webp&s=30ba4e70ddb78099f9b92038afffc8d354822b95",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "wK0s_zG6aW-U_nxp42IK4CPMzonDwfTxY2Pdy1jAEjU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/oiuzak/upcoming_ethereum_upgrades_and_their_price/",
+  "subreddit": "CryptoCurrency",
+  "id": "oiuzak",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "This post will be about explaining EIP-1559, Proof of Stake and Sharding in\nsimplest terms possible without losing the technicalities. Also with Price\nEffects at the end of each section.\n\nEIP-1559 [https://notes.ethereum.org/@vbuterin/eip-1559-faq] (Expected August\n2021) : EIP means \"Ethereum…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この記事では、EIP-1559、Proof of Stake、Shardingについて、技術的なことは抜きにして、できるだけ簡単な言葉で説明します。\nこの記事では、EIP-1559、Proof of Stake、Shardingについて、技術的な内容を失うことなく、できるだけシンプルに説明します。また、各セクションの最後には、価格\n効果についても、各セクションの最後に紹介します。\n\nEIP-1559 [https://notes.ethereum.org/@vbuterin/eip-1559-faq] (Expected August\n2021年8月予定）：EIPとは、「Ethereum...",
+      "title": "今後のイーサリアムのアップグレードとその価格効果をわかりやすく解説します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这篇文章将以最简单的语言解释EIP-1559、股权证明和分片。\n解释EIP-1559、代币证明和分片，同时不失技术性。同时，在每一节的末尾还附有价格\n在每一节末尾的效果。\n\nEIP-1559 [https://notes.ethereum.org/@vbuterin/eip-1559-faq] （预计2021年8月\n2021年）：EIP是指 \"以太坊...",
+      "title": "即将到来的以太坊升级及其价格影响，以简单的术语解释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這篇文章將以最簡單的語言解釋EIP-1559、股權證明和分片。\n解釋EIP-1559、代幣證明和分片，同時不失技術性。同時，在每一節的末尾還附有價格\n在每一節末尾的效果。\n\nEIP-1559 [https://notes.ethereum.org/@vbuterin/eip-1559-faq] （預計2021年8月\n2021年）：EIP是指 \"以太坊...",
+      "title": "即將到來的以太坊升級及其價格影響，以簡單的術語解釋。"
+    }
+  ]
+}

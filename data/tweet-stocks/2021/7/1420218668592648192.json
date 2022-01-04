@@ -1,0 +1,172 @@
+{
+  "created_at": "Wed Jul 28 10:35:44 +0000 2021",
+  "id_str": "1420218668592648192",
+  "full_text": "RT @chadsgx: #Bitcoin last week:   vs.      this week: https://t.co/ryy4ULZ2vk",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bitcoin",
+        "indices": [
+          13,
+          21
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "chadsgx",
+        "name": "CHAD",
+        "id": 1057392612728959000,
+        "id_str": "1057392612728958976",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1420216427861090300,
+        "id_str": "1420216427861090307",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/E7WfUQbVoAMjxAX.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E7WfUQbVoAMjxAX.jpg",
+        "url": "https://t.co/ryy4ULZ2vk",
+        "display_url": "pic.twitter.com/ryy4ULZ2vk",
+        "expanded_url": "https://twitter.com/chadsgx/status/1420216430495109122/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 609,
+            "h": 828,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 500,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 609,
+            "h": 828,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1420216430495109000,
+        "source_status_id_str": "1420216430495109122",
+        "source_user_id": 1057392612728959000,
+        "source_user_id_str": "1057392612728958976"
+      }
+    ]
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151488812239020032/W7DI3qKd_normal.png"
+  },
+  "retweet_count": 329,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Jul 28 03:04:51 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Wed Jul 28 02:55:58 +0000 2021",
+    "id_str": "1420216430495109122",
+    "full_text": "#Bitcoin last week:   vs.      this week: https://t.co/ryy4ULZ2vk",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bitcoin",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1420216427861090300,
+          "id_str": "1420216427861090307",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/E7WfUQbVoAMjxAX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E7WfUQbVoAMjxAX.jpg",
+          "url": "https://t.co/ryy4ULZ2vk",
+          "display_url": "pic.twitter.com/ryy4ULZ2vk",
+          "expanded_url": "https://twitter.com/chadsgx/status/1420216430495109122/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 609,
+              "h": 828,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 609,
+              "h": 828,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "CHAD",
+      "screen_name": "chadsgx",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1418392037716500484/BrgXix6B_normal.jpg"
+    },
+    "retweet_count": 156,
+    "favorite_count": 938,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @chadsgx です。#ビットコイン 先週：対今週： https://t.co/ryy4ULZ2vk",
+      "retweeted_status_full_text": "#ビットコイン 先週：対今週： https://t.co/ryy4ULZ2vk"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @chadsgx: #比特币上周：与本周：https://t.co/ryy4ULZ2vk",
+      "retweeted_status_full_text": "#比特币上周：与本周：https://t.co/ryy4ULZ2vk"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @chadsgx: #比特幣上週：與本週：https://t.co/ryy4ULZ2vk",
+      "retweeted_status_full_text": "#比特幣上週：與本週：https://t.co/ryy4ULZ2vk"
+    }
+  ],
+  "source_updated_at": 1627638174605
+}

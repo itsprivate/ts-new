@@ -1,0 +1,68 @@
+{
+  "author": "onlymadethistoargue",
+  "original_created_utc": 1631162086,
+  "title": "I tried to explain Solana’s market appeal 16 days ago. I got called a shill and told I don’t know what I’m talking about. It’s up almost 300% since then. I’m going to try and explain it again.",
+  "created_utc": 1631172649,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>So I’m always trying to follow the DYOR advice that everyone rightfully spouts here and I think I get why Solana is being treated as a potential Next Big Coin. I’m going to try and summarize the things I’ve learned so hopefully you won’t have to do as much thinking to understand it if you do your own research. Additionally, I hope this will explain why I’m bullish on SOL.</p>\n\n<h1>Part 1:  The Byzantine Generals Problem is one all blockchains must solve</h1>\n\n<p>The Byzantine generals problem goes like this</p>\n\n<ol>\n<li><p>The army of Byzantium is huge and led by a proportionate few generals who each lead vast legions (the users of the blockchain and their validators)</p></li>\n<li><p>The generals all have to agree on a tactic for the army to be effective (the validators must validate a block before it gets added to the chain)</p></li>\n<li><p>Generals communicate through messengers (we assume the messengers themselves always follow orders, as here they represent digital signals)</p></li>\n<li><p>Some generals are traitors and send bad plans to the network (bad validators, possible 51% attackers)</p></li>\n<li><p>How do all the generals know when a general is trustworthy? (We need a consensus protocol)</p></li>\n<li><p>The tactic that most generals agree with is the one which will help Byzantium (the network democratically decides the movement of the blockchain) </p></li>\n</ol>\n\n<p>This is where all blockchains agree: something must be done. There are different strategies to get this done but they all have to consider what happens when the network is huge, what happens when there are a lot of potential traitors, and how to keep the army efficient as possible in its actions without letting it get bogged down in security validation.</p>\n\n<p>I think Solana’s approach is novel and robust.</p>\n\n<h1>Part 2: Proof of History resolves the dilemma between pure Proof of Work and pure Proof of Stake</h1>\n\n<p>Bitcoin’s revolutionary consensus protocol, Proof of Work or Nakamoto Consensus, objectively secures the blockchain through hard mathematics applied to deterministic physics. Basically, people compete to do math in a way that can’t be shortcut until they get the chance to validate the new block. However, as people have pointed out, this is inevitably energy-draining. Energy use is <strong>not</strong> inherently immoral, as some FUDers would have you believe, but it is a real logistic concern in a world that is running out of time to stop dumping energy into carbon emitting things. Thus you see the investment into non-saleable renewables, like geothermal and hydroelectric energy, being diverted towards Bitcoin’s massive energy requirements. In an ideal system, we’d have fusion and all energy would be free, but we’re not there yet so we have to work with what we have.</p>\n\n<p>Ethereum is switching from Proof of Work to Proof of Stake consensus, which uses game theory to validate the network. The idea is that if your generals materially depend on the army, through investment of their resources in its stability, they will be the least likely to betray the system.  This is clever, as it banks on humans being selfish dicks overall (which we are, let’s be honest, it’s okay as long as it’s not hurting anyone) and doesn’t need great energy consumption, but it’s <strong>normative</strong> security, determined by people, not <strong>objective</strong> security, determined by math and physics.</p>\n\n<p>Solana combines staking with Proof of History. Proof of History is a consensus protocol where the output of the encryption function relates directly to how many times the function has been called, and the output can’t be retrieved without having called the function that many times with the exact same input beforehand. Additionally, unlike Cardano and other would-be ETH killers, <strong><em>Solana already has smart contracts and NFTs.</em></strong></p>\n\n<h1>Part 3: A dumbed down example of Proof of History</h1>\n\n<p>It helps me to understand consensus protocols if I can see an example of what’s happening.</p>\n\n<p>Let’s say we have three transactions. They’re encrypted so we don’t know what’s in them, but let’s call them A, B, and C. I call them this because that lets you retain their transaction order, first A, then B, then C.</p>\n\n<p>Solana passes each of these transactions in order through its consensus protocol, PoH. PoH takes as input the transaction and internal clock that objectively measures the order of transactions, so it goes:</p>\n\n<p>PoH(A, timestep 0) —&gt; hash: encrypted version of A at timestep 0   </p>\n\n<p>PoH(B, timestep 1) —&gt; hash: encrypted version of B at timestep 1<br/>\nPoH(C, timestep 2) —&gt; hash: encrypted version of C at timestep 2  </p>\n\n<p>This provides an objective measure of not only <strong>that</strong> each transaction has happened, but <strong><em>when</em></strong> each transaction happened in order.  If transaction B were input at timestep 0, the <strong><em>entire blockchain would be affected.</em></strong> This is an <strong>objectively secure</strong> function that cleans up transaction order without relying on humans and game theory to work. Aliens couldn’t crack it no matter how powerful and godlike their tech and understanding was; it’s simply the laws of physics at work.</p>\n\n<h1>Conclusion: Solana outperforms the big boys in the ways that matter</h1>\n\n<p>Let’s put aside the conceptual math and just look at numbers. We’re going to be looking at <strong>transactions per second</strong> (TPS) and average fees.</p>\n\n<p><a href=\"https://www.valuepenguin.com/what-credit-card-processing-fees-costs\">Visa manages 1.7k transactions per second for credit cards with a processing fee of 1.43-2.4%</a> (Visa claims it can tolerate up to 56k tps, but this hasn’t been stress tested)</p>\n\n<p><a href=\"https://academy.binance.com/en/glossary/transactions-per-second-tps\">Bitcoin manages 5-7(0.005k-0.007k)  TPS</a> with an <a href=\"https://ycharts.com/indicators/bitcoin_average_transaction_fee\">average fee of ~$3 USD.</a></p>\n\n<p><a href=\"https://fortune.com/2021/07/29/ethereum-going-green-ether-crypto-carbon-footprint/\">Ethereum currently manages ~30 TPS</a> with an <a href=\"https://ycharts.com/indicators/ethereum_average_transaction_fee\">average fee of $2.50 USD </a> Vitalik himself claims that this will be boosted to up to 100k TPS with sharding and other strategies rolled into ETH2.0, but this is purely theoretical until it’s real. </p>\n\n<p><a href=\"https://twitter.com/ByteSizeCapital/status/992651322695413760?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E992651322695413760%7Ctwgr%5E%7Ctwcon%5Es1_c10&amp;amp;amp;amp;amp;amp;ref_url=https%3A%2F%2Fsolana.blog%2Fseriously-how-fast-can-solana-blockchain-get%2F\">Solana manages ~59k TPS with a theoretical upper bound of 710k TPS</a> and <a href=\"https://solberginvest.com/blog/how-much-are-solana-fees/\">an average tx fee of $0.00025 USD.</a> Naturally, these fees are paid in SOL and they’re congestion-based like ETH, so even if SOL reaches BTC levels of market cap or price, its fees will still be a fraction of a dollar.</p>\n\n<p>All this, with smart contracts.</p>\n\n<h1>tl;dr: 5 reasons why me like SOL money</h1>\n\n<ol>\n<li>Money fast (TPS greater than BTC and ETH by orders of magnitude)<br/></li>\n<li>Money secure (PoH is objective and staking further insures the network against bad actors)<br/></li>\n<li>Money easy (the energetic requirements of Solana are vastly lower than the major L1 chains)<br/></li>\n<li>Money cheap (tx fees sub dollar for the foreseeable future no matter how huge the network gets)<br/></li>\n<li>Money useful (Smart contracts are already live)</li>\n</ol>\n\n<p>SOL money good. Me like.</p>\n</div><!-- SC_ON -->",
+  "score": 189,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/aOa38itWS6GQKM6aar0b8xnhN9T8xak_g7teWhEWe2c.jpg?auto=webp&s=b215d4da4bcfeb890cdffb8def41daa8dffadc2f",
+          "width": 800,
+          "height": 533
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/aOa38itWS6GQKM6aar0b8xnhN9T8xak_g7teWhEWe2c.jpg?width=108&crop=smart&auto=webp&s=c9b039485dae2a23a08efad5b4b13b37ed1329b1",
+            "width": 108,
+            "height": 71
+          },
+          {
+            "url": "https://external-preview.redd.it/aOa38itWS6GQKM6aar0b8xnhN9T8xak_g7teWhEWe2c.jpg?width=216&crop=smart&auto=webp&s=32f9a2fd7e4522eabf555c09d1cc52229b903abf",
+            "width": 216,
+            "height": 143
+          },
+          {
+            "url": "https://external-preview.redd.it/aOa38itWS6GQKM6aar0b8xnhN9T8xak_g7teWhEWe2c.jpg?width=320&crop=smart&auto=webp&s=f392fec99aea176db05cf12b52a8a7f4bfc07745",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/aOa38itWS6GQKM6aar0b8xnhN9T8xak_g7teWhEWe2c.jpg?width=640&crop=smart&auto=webp&s=6514ff640b31ff40ded752253099a1003ab7401f",
+            "width": 640,
+            "height": 426
+          }
+        ],
+        "variants": {},
+        "id": "fKip5Gc7ql9wC-K9PAiNE6-8N2a-O4Tg5NZDesbeS0w"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pkqra3/i_tried_to_explain_solanas_market_appeal_16_days/",
+  "subreddit": "CryptoCurrency",
+  "id": "pkqra3",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "So I’m always trying to follow the DYOR advice that everyone rightfully spouts\nhere and I think I get why Solana is being treated as a potential Next Big Coin.\nI’m going to try and summarize the things I’ve learned so hopefully you won’t\nhave to do as much thinking to understand it if you do your…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "だから私はいつも、ここで誰もが適切に語るDYORのアドバイスに従おうとしています。\nソラナが次のビッグコインとして期待されている理由がわかった気がします。\nここでは、私が学んだことをまとめてみました。\n私が学んだことをまとめてみます。",
+      "title": "私は16日前にソラナの市場の魅力を説明しようとしました。詐欺師と呼ばれ、自分が何を言っているのかわからないと言われた。それ以来、約300％上昇しています。もう一度説明してみようと思う。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因此，我一直在努力遵循每个人都理所当然地提出的DYOR建议。\n我想我明白了为什么索拉纳被当作潜在的下一个大币种。\n我将尝试总结我所学到的东西，所以希望你不会\n希望你不必做那么多的思考来理解它，如果你做你的...",
+      "title": "16天前，我试图解释索拉纳的市场吸引力。有人说我是骗子，说我不知道自己在说什么。从那时起，它已经上涨了近300%。我想再试着解释一下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因此，我一直在努力遵循每個人都理所當然地提出的DYOR建議。\n我想我明白了爲什麼索拉納被當作潛在的下一個大幣種。\n我將嘗試總結我所學到的東西，所以希望你不會\n希望你不必做那麼多的思考來理解它，如果你做你的...",
+      "title": "16天前，我試圖解釋索拉納的市場吸引力。有人說我是騙子，說我不知道自己在說什麼。從那時起，它已經上漲了近300%。我想再試着解釋一下。"
+    }
+  ]
+}

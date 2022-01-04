@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 725959,
+  "title": "Mutable and immutable useRef semantics with React & TypeScript",
+  "description": "Learn how different ways of instantiating useRef influence the ref mutability.",
+  "readable_publish_date": "Jun 12",
+  "slug": "mutable-and-immutable-useref-semantics-with-react-typescript-30c9",
+  "path": "/wojciechmatuszewski/mutable-and-immutable-useref-semantics-with-react-typescript-30c9",
+  "url": "https://dev.to/wojciechmatuszewski/mutable-and-immutable-useref-semantics-with-react-typescript-30c9",
+  "comments_count": 5,
+  "public_reactions_count": 47,
+  "collection_id": null,
+  "published_timestamp": "2021-06-12T04:03:28Z",
+  "positive_reactions_count": 47,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kawBrcF5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y0ll392gqwm6i77k6lty.jpeg",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yS_uo_mC--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y0ll392gqwm6i77k6lty.jpeg",
+  "canonical_url": "https://dev.to/wojciechmatuszewski/mutable-and-immutable-useref-semantics-with-react-typescript-30c9",
+  "created_at": "2021-06-13T13:11:15.008Z",
+  "edited_at": null,
+  "crossposted_at": null,
+  "published_at": "2021-06-12T04:03:28Z",
+  "last_comment_at": "2021-06-13T11:25:00Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "typescript",
+    "react",
+    "webdev",
+    "hooks"
+  ],
+  "tags": [
+    "typescript",
+    "react",
+    "webdev",
+    "hooks"
+  ],
+  "user": {
+    "name": "Wojciech Matuszewski",
+    "username": "wojciechmatuszewski",
+    "twitter_username": "wm_matuszewski",
+    "github_username": "WojciechMatuszewski",
+    "website_url": null,
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SC5K3XHv--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/163656/b5c2aa80-988e-471a-ab54-becc71b21173.png",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--0suLiio8--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/163656/b5c2aa80-988e-471a-ab54-becc71b21173.png"
+  },
+  "original_created_at": "2021-06-12T03:11:11Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kawBrcF5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y0ll392gqwm6i77k6lty.jpeg",
+  "author": "Wojciech Matuszewski",
+  "author_url": "https://dev.to/wojciechmatuszewski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useRefをインスタンス化する方法の違いが、refのmutabilityにどのように影響するかを学びます。",
+      "title": "ReactとTypeScriptでの可変型と不変型のuseRefセマンティクス"
+    },
+    {
+      "locale": "zh",
+      "description": "了解实例化useRef的不同方式如何影响ref的可变性。",
+      "title": "使用React和TypeScript的可变和不可变的useRef语义"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解實例化useRef的不同方式如何影響ref的可變性。",
+      "title": "使用React和TypeScript的可變和不可變的useRef語義"
+    }
+  ]
+}

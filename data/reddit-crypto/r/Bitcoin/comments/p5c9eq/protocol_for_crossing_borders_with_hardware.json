@@ -1,0 +1,32 @@
+{
+  "author": "wintermute-89",
+  "original_created_utc": 1629104182,
+  "title": "Protocol for crossing borders with hardware wallets.",
+  "created_utc": 1629160915,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve seeing few posts here about some dark places to hide your hardware wallets during cross border flights, etc... consider loosing / being confiscated all your belongings and still be able to recover your coins.</p>\n\n<p>I&#39;m software engineer, and I use following method to store some sensitive info for easy access even if I loose all my devices. AES256-encrypted DMG images are pretty cool and might be useful for temp. seed phrase storage.</p>\n\n<p>Also you might want to research Steganography and secure memorable passwords.</p>\n\n<p>So curious what you guys think about this mental exercise:</p>\n\n<ol>\n<li>On a machine with no internet connection create an encrypted, writable DMG (use a Mac VM / Bootable ubuntu usb if you are extra paranoid )</li>\n<li>Create memorable, but strong and long encryption key (password) for your DMG / image. This will be a weak link, so might get creative with it.Might use some combination of info on your ticket/etc that will be available to you after travel is done.Do not name the file MYCRYPTOKEYS.dmg</li>\n<li>Write your seed in a text file and put it inside the image</li>\n<li>Send it to your iCloud drive (or other cloud storage if you trust any) and log out. Best to use a &quot;burner&quot; cloud account, and not your usual one.</li>\n<li>Reset your hardware wallets.</li>\n<li>After you feel being safe again, immediately login to your cloud storage, restore hardware wallets from seed phrases and delete the image.</li>\n<li>For extra paranoid: send your crypto to a new address.</li>\n</ol>\n\n<p>It takes a decade to crack the encrypted DMG.</p>\n\n<p><em>The reason it’s so slow is because your AES256-encrypted DMG uses 250,000  rounds of PBKDF2-HMAC-SHA-1 to generate the encryption key. The  ludicrous round count makes it extremely computationally expensive,  slowing down the HMAC-SHA1 process by a factor of 250,000.</em></p>\n\n<p>If you suspect someone has a possession of the file, send the crypto to the new address long before it can be cracked.</p>\n</div><!-- SC_ON -->",
+  "score": 155,
+  "permalink": "/r/Bitcoin/comments/p5c9eq/protocol_for_crossing_borders_with_hardware/",
+  "subreddit": "Bitcoin",
+  "id": "p5c9eq",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I've seeing few posts here about some dark places to hide your hardware wallets\nduring cross border flights, etc... consider loosing / being confiscated all\nyour belongings and still be able to recover your coins.\n\nI'm software engineer, and I use following method to store some sensitive info\nfor…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここでは、国境を越えるフライトの際にハードウェアの財布を隠すための暗い場所についてのいくつかの投稿を見てきました。\n国境を越えるフライトの間などに...すべての持ち物を失ったり没収されたりしても\n持ち物をすべて失ったり没収されたりしても、コインを取り戻すことができます。\n\n私はソフトウェアエンジニアですが、以下の方法で機密情報を保存しています。\nのために...",
+      "title": "ハードウェアウォレットで国境を越えるためのプロトコル。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在这里看到一些关于在跨境飞行时将硬件钱包藏在一些黑暗的地方的帖子\n在跨境飞行期间，等等......考虑失去/被没收所有的\n你的财物，但仍然能够恢复你的硬币。\n\n我是软件工程师，我使用以下方法来存储一些敏感信息\n为...",
+      "title": "用硬件钱包跨越边界的协议。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在這裏看到一些關於在跨境飛行時將硬件錢包藏在一些黑暗的地方的帖子\n在跨境飛行期間，等等......考慮失去/被沒收所有的\n你的財物，但仍然能夠恢復你的硬幣。\n\n我是軟件工程師，我使用以下方法來存儲一些敏感信息\n爲...",
+      "title": "用硬件錢包跨越邊界的協議。"
+    }
+  ]
+}

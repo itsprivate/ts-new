@@ -1,0 +1,21 @@
+name: qu
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "i18n/i18next/zh/**"
+      - "i18n/post-resource/zh/tweet_--_tweet-quora*.json"
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    name: Run
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          repository: itsprivate/universe
+          event-type: redeploy
+          client-payload: '{"project": "${{github.workflow}}"}'

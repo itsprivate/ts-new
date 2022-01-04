@@ -1,0 +1,63 @@
+{
+  "author": "PizzaOnTheRoof556",
+  "original_created_utc": 1633494919,
+  "title": "Think somebody can guess or accidentally get your seed phrase? Nope, and I’ll prove it with free money.",
+  "created_utc": 1633513167,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I see quite a few posts/comments regularly from people wondering if a 24 word seed phrase can be guessed, hacked, brute forced, etc. So here&#39;s a simple proposition: <strong>I&#39;ll give you a chance at free money.</strong></p>\n\n<p>Don&#39;t believe me? Here&#39;s the challenge...</p>\n\n<p><strong>I&#39;ve deposited 10,000 sats into a wallet. You get to guess the seed phrase.</strong></p>\n\n<p>To make it even easier, <strong>I&#39;m going to give you ALL of the words.</strong></p>\n\n<p>That&#39;s right, I&#39;m literally going to give you ALL of the seed words, in random order, for your guessing pleasure.</p>\n\n<p><strong>Here they are:</strong></p>\n\n<pre><code>chalk mimic crane marriage oxygen hood million clerk demand effort grid afford floor force december immense damp toss assume present retire cream clinic gown\n</code></pre>\n\n<p>All 24 of them right there.</p>\n\n<p>But there&#39;s not actually BTC in there right? <strong>WRONG</strong>.</p>\n\n<p>Go ahead and check the balance <a href=\"https://www.blockonomics.co/#/search?q=zpub6s87mnPqX9jT5bWvKFz6ZLCrhQsPh275BXx45a9kRuXUYbcxhLYZCpzyP2TpuEWte9mDYMprJv6QwNtCd7D64PAQMj4kSdu1WSZRQL3exyk\">HERE</a></p>\n\n<p>You&#39;ve even got the zpub there to see all addresses for the wallet.</p>\n\n<p>I&#39;m not shitting you. The words are there. The free BTC is there.</p>\n\n<p>Just go and get it right? RIGHT?</p>\n\n<p>--------------------------------------------------</p>\n\n<p><strong>Now, if you want to find out why you&#39;re going to fail miserably at this, keep reading...</strong></p>\n\n<p>Why is it near (and I mean neeeaaarrr) impossible for someone to be randomly assigned your words, or to be guessed by somebody else?</p>\n\n<p>To find out, let&#39;s start with a worst case scenario, a head start if you will: <strong>Somebody knows all of your 24 words, but not the exact order of them.</strong></p>\n\n<p>You might think that&#39;s an INSANE advantage right? Let&#39;s see...</p>\n\n<p>To find out how many ways you can order 24 words, we can use a factorial. A factorial is simply multiplying a number by all of the numbers below it, denoted by a &quot;!&quot; after the number.</p>\n\n<p>4! = 4 x 3 x 2 x 1 = 24</p>\n\n<p>So what&#39;s the factorial of 24?...</p>\n\n<p>24! = 24 x 23 x 22 x 21... = <strong>~620,000,000,000,000,000,000,000.</strong></p>\n\n<p>That is <strong>620 sextillion unique ways to order 24 words.</strong></p>\n\n<p>To put that into perspective, the average high end gaming computer has a clock speed of 4GHz, meaning it can make 4 billion calculations per second.</p>\n\n<p>620 sextillion / 4 billion = 155 trillion seconds.</p>\n\n<p>155 trillion seconds / 60 / 60 / 24 / 365 = <strong>4,915,017 years to find all permutations using a modern gaming PC.</strong></p>\n\n<p>Unless they&#39;ve got a quantum super-computer, nobody will simply guess, stumble upon, or brute force your seed phrase. <strong>And this is knowing ALL of the words to begin with.</strong></p>\n\n<p>Hell, even <em>with</em> a super computer it’ll still take years to find.</p>\n\n<p>If you don&#39;t know every single word for the phrase, go ahead and <strong>multiply that number by 2,048!</strong>.</p>\n\n<p>Those are the REAL odds you have to worry about.</p>\n\n<p><strong>TL;DR: You&#39;re screwed. Bwahahahahahahahahaha</strong></p>\n</div><!-- SC_ON -->",
+  "score": 185,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/wY0LZQ895BU9eriQKaFTY6AhAAjd6KJMFLVHhaonqF0.jpg?auto=webp&s=41a7a71f8b2409f6f2664c220f3aacdbe49723da",
+          "width": 500,
+          "height": 368
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/wY0LZQ895BU9eriQKaFTY6AhAAjd6KJMFLVHhaonqF0.jpg?width=108&crop=smart&auto=webp&s=27f15d765d8056ad50321f1f16d03e58604b6b46",
+            "width": 108,
+            "height": 79
+          },
+          {
+            "url": "https://external-preview.redd.it/wY0LZQ895BU9eriQKaFTY6AhAAjd6KJMFLVHhaonqF0.jpg?width=216&crop=smart&auto=webp&s=f7e4fd1c93f2d26688449b881d5a333cab89e578",
+            "width": 216,
+            "height": 158
+          },
+          {
+            "url": "https://external-preview.redd.it/wY0LZQ895BU9eriQKaFTY6AhAAjd6KJMFLVHhaonqF0.jpg?width=320&crop=smart&auto=webp&s=27780c253dd12ba1db58a87b68ee4c61c13df1fd",
+            "width": 320,
+            "height": 235
+          }
+        ],
+        "variants": {},
+        "id": "rMzn5C3LEJCiIR-z6AGylwuEwpPQzQJ5aCBB1g5XRW0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/q2d5qm/think_somebody_can_guess_or_accidentally_get_your/",
+  "subreddit": "Bitcoin",
+  "id": "q2d5qm",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I see quite a few posts/comments regularly from people wondering if a 24 word\nseed phrase can be guessed, hacked, brute forced, etc. So here's a simple\nproposition: I'll give you a chance at free money.\n\nDon't believe me? Here's the challenge...\n\nI've deposited 10,000 sats into a wallet. You get to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "24語のシードフレーズが推測されたり、ハッキングされたり、ブルートフォースされたりするのではないか？\n推測されたり、ハッキングされたり、ブルートフォースされたりするのでは？そこで、以下のような簡単な\nを提案します。私はあなたに無料でお金を手に入れるチャンスを与えます。\n\n私を信じられない？挑戦してみましょう...\n\n私は財布に1万サットを入金しました。あなたには...",
+      "title": "誰かがあなたのシードフレーズを推測したり、誤って入手したりすると思いますか？そうではありません。私が無料でそれを証明します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我经常看到一些人的帖子/评论，他们想知道一个24字的\n种子短语是否可以被猜到、被黑掉、被暴力破解等等。因此，这里有一个简单的\n提议。我给你一个获得免费资金的机会。\n\n不相信我？这里有一个挑战...\n\n我在一个钱包里存了10,000个萨特。你可以...",
+      "title": "你认为有人能猜到或意外地得到你的种子词组吗？不，我将用免费的钱来证明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我經常看到一些人的帖子/評論，他們想知道一個24字的\n種子短語是否可以被猜到、被黑掉、被暴力破解等等。因此，這裏有一個簡單的\n提議。我給你一個獲得免費資金的機會。\n\n不相信我？這裏有一個挑戰...\n\n我在一個錢包裏存了10,000個薩特。你可以...",
+      "title": "你認爲有人能猜到或意外地得到你的種子詞組嗎？不，我將用免費的錢來證明。"
+    }
+  ]
+}

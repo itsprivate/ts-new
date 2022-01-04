@@ -1,0 +1,77 @@
+{
+  "created_at": "Thu Aug 19 15:47:26 +0000 2021",
+  "id_str": "1428373697849593857",
+  "full_text": "S2F model: BTC=a*(S2F ratio)^b\nTime model: BTC=a*(months from Jan09)^b\n\nWhy I prefer S2F model:\n- tells you when price increases: after halvings\n- more robust parameters (a,b)\n- time not an input variable, S2FX not a time series\n- interpolation possible\n- usable with other assets https://t.co/k23uyqSCZ9",
+  "display_text_range": [
+    0,
+    280
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1428369192189714400,
+        "id_str": "1428369192189714445",
+        "indices": [
+          281,
+          304
+        ],
+        "media_url": "http://pbs.twimg.com/media/E9KWNmSUYA0jpqn.png",
+        "media_url_https": "https://pbs.twimg.com/media/E9KWNmSUYA0jpqn.png",
+        "url": "https://t.co/k23uyqSCZ9",
+        "display_url": "pic.twitter.com/k23uyqSCZ9",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1428373697849593857/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 377,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 665,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1722,
+            "h": 954,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 551,
+  "favorite_count": 3438,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Aug 19 15:10:02 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "S2Fモデル。BTC=a*(S2F比)^b\n時間モデル BTC=a*(Jan09からの月数)^b\n\nなぜS2Fモデルがいいのか。\n- 価格上昇のタイミングがわかる：半値の後\n- よりロバストなパラメータ(a,b)\n- 時間は入力変数ではなく、S2FXは時系列ではありません。\n- 補間が可能\n- 他の資産との併用が可能 https://t.co/k23uyqSCZ9"
+    },
+    {
+      "locale": "zh",
+      "full_text": "S2F模型。BTC=a*（S2F比率）^b\n时间模型。BTC=a*(从2009年1月起的月份)^b\n\n为什么我喜欢S2F模型。\n- 告诉你什么时候价格上涨：减半之后\n- 更稳健的参数(a,b)\n- 时间不是一个输入变量，S2FX不是一个时间序列\n- 可以进行插值\n- 可与其他资产一起使用 https://t.co/k23uyqSCZ9"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "S2F模型。BTC=a*（S2F比率）^b\n時間模型。BTC=a*(從2009年1月起的月份)^b\n\n爲什麼我喜歡S2F模型。\n- 告訴你什麼時候價格上漲：減半之後\n- 更穩健的參數(a,b)\n- 時間不是一個輸入變量，S2FX不是一個時間序列\n- 可以進行插值\n- 可與其他資產一起使用 https://t.co/k23uyqSCZ9"
+    }
+  ],
+  "source_updated_at": 1630057195940
+}

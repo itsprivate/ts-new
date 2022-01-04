@@ -1,0 +1,32 @@
+{
+  "author": "attarsimon",
+  "original_created_utc": 1633688542,
+  "title": "A tool to help software engineers better manage technical debt",
+  "created_utc": 1633704229,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/e7yjvutxc7s71.png?width=872&amp;format=png&amp;auto=webp&amp;s=c5d6318a51583fc421b14b56383f8e8b86aa5254\">https://preview.redd.it/e7yjvutxc7s71.png?width=872&amp;format=png&amp;auto=webp&amp;s=c5d6318a51583fc421b14b56383f8e8b86aa5254</a></p>\n\n<p>Hello!</p>\n\n<p>We are happy to announce the launch of Caribou, a tool to help software engineers manage technical debt! The product is currently in beta, available for free and we’re looking for feedback! You can find it at <a href=\"https://www.hellocaribou.com/\">https://www.hellocaribou.com/</a></p>\n\n<p>Caribou helps software teams manage long-term technical migrations in their projects. For example migrating from one networking library to another or migrating a codebase from one programming language to another. These changes usually happen over a span of a few months and without any tooling, they can be difficult to manage. It’s difficult to understand how much progress has been made, what is still left to do and who are the engineers helping move the migration forward.  Caribou was built to solve these problems. </p>\n\n<p>So how does it work? In simple terms, Caribou is a <a href=\"https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps\">Github application</a> which, after configured, monitors all the changes in your repository and displays a dashboard with the progress of specific migrations along with who is contributing to these migrations. Caribou allows you to define all sorts of migrations using an easy-to-use rules engine; for example changing the project architecture, replacing a library or changing some coding conventions. You can get inspired by our examples in the <a href=\"https://www.hellocaribou.com/documentation/\">docs section</a>.</p>\n\n<p>Currently, Caribou is still in Beta. We believe the product can provide a lot of value as it currently stands, but there is more functionality that we’re looking to add in the coming months such as Slack integration and Pull Request comments so that engineers can get valuable feedback in their PRs.</p>\n\n<p>Please give it a try at <a href=\"http://www.hellocaribou.com/\">www.hellocaribou.com</a> and let us know what you think!</p>\n\n<p>P.S. The backend is running on AWS Lambdas and it is written entirely in Kotlin 😎 Feel free to ask questions about our experience building with these technologies!</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/q3ux3i/a_tool_to_help_software_engineers_better_manage/",
+  "subreddit": "SideProject",
+  "id": "q3ux3i",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "https://preview.redd.it/e7yjvutxc7s71.png?width=872&format=png&auto=webp&s=c5d6318a51583fc421b14b56383f8e8b86aa5254\n\nHello!\n\nWe are happy to announce the launch of Caribou, a tool to help software\nengineers manage technical debt! The product is currently in beta, available for\nfree and we’re looking…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://preview.redd.it/e7yjvutxc7s71.png?width=872&format=png&auto=webp&s=c5d6318a51583fc421b14b56383f8e8b86aa5254\n\nこんにちは。\n\nソフトウェアエンジニアが技術的負債を管理するためのツール「Caribou」を発表しました。\nソフトウェアエンジニアが技術的負債を管理するためのツールです。この製品は現在ベータ版で、無料で利用できます。\n無料でご利用いただけます。また、私たちは...",
+      "title": "ソフトウェアエンジニアが技術的負債を管理するためのツール"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://preview.redd.it/e7yjvutxc7s71.png?width=872&format=png&auto=webp&s=c5d6318a51583fc421b14b56383f8e8b86aa5254\n\n你好!\n\n我们很高兴地宣布Caribou的推出，这是一个帮助软件\n的软件工程师管理技术债务! 该产品目前处于测试阶段，可用于\n免费的，我们正在寻找...",
+      "title": "一个帮助软件工程师更好地管理技术债务的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://preview.redd.it/e7yjvutxc7s71.png?width=872&format=png&auto=webp&s=c5d6318a51583fc421b14b56383f8e8b86aa5254\n\n你好!\n\n我們很高興地宣佈Caribou的推出，這是一個幫助軟件\n的軟件工程師管理技術債務! 該產品目前處於測試階段，可用於\n免費的，我們正在尋找...",
+      "title": "一個幫助軟件工程師更好地管理技術債務的工具"
+    }
+  ]
+}

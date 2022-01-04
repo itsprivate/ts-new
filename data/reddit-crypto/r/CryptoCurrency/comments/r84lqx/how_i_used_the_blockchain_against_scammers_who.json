@@ -1,0 +1,68 @@
+{
+  "author": "ethereumgasbot",
+  "original_created_utc": 1638553276,
+  "title": "How I used the blockchain against scammers who scammed me and got them to double my funds free of charge",
+  "created_utc": 1638563596,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Quick TL:DR of what happened in my &lt;a href=\"https://www.np.reddit.com/r/ethtrader/comments/r4ebvs/how_i_got_scammed_and_how_you_can_avoid_ending_up/?utm_source=share&amp;amp;amp;amp;amp;utm_medium=ios_app&amp;amp;amp;amp;amp;utm_name=iossmf\"&gt;previous post&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Basically, I got a phishing DM on discord and clicked on the link, thinking that a project I was following was finally live and allowed me to mint. I thought all of my money was lost, and hit a dead end everywhere I looked, but luckily all hope wasn’t lost, and I was able to miraculously recover my funds + basically doubled what I had while causing the scammers to waste thousands of dollars on gas&lt;/p&gt;\n\n&lt;p&gt;Now for the meat and the potatoes of what happened as soon as I got scammed. I immediately freaked out and tried to do whatever I can to uncover the identity of these scammers. The phishing website they created (now deleted) was &lt;a href=\"https://fox-game.art/\"&gt;https://fox-game.art/&lt;/a&gt; and i did a Whois lookup, but the scammers had covered their tracks pretty well &lt;a href=\"https://imgur.com/a/zIh0eZm\"&gt;as seen here&lt;/a&gt;. They’d used namecheap (which basically hides their true email, IP, address, phone number, etc) so the details of the website couldn’t be traced back to them.&lt;/p&gt;\n\n&lt;p&gt;Now I decided lemme check out the blockhain and see previous transactions that they did, &lt;a href=\"https://etherscan.io/address/0x1d8d12f3f242ef6c409b2fec7ebb0dcdfcfa348a\"&gt;from their address&lt;/a&gt;, and I found out they had sent their funds over to a &lt;a href=\"https://etherscan.io/tx/0x7f692afe5e4e81509506ecca24445e5393cacee6f9a9502d4f5d65521ee0b5aa\"&gt;proxy address&lt;/a&gt; before &lt;a href=\"https://etherscan.io/tx/0xf37593fb40eaf81e8c1d7630ca64e3e7e3f4f6dcaed923077863c1eec3956039\"&gt;cashing out via fixedfloat&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Armed with this info I fired off an email o fixedfloat, and to the privacy email address which was connected to their email (think of it like a string of characters that each individual using namecheap has, but until they reply, their real email isn’t exposed), and hoped that something happened. As a matter of fact, something did happen. Fixedfloat reached out to me and announced they blacklisted their wallet, and they’d freeze their funds the next time they made a transaction, and the scammers, freaked out by the threatening email I sent tried to cash out 0.067 eth, or the amount the scammed from me via fixedfloat as a test to see if my threat had any sustenance.&lt;/p&gt;\n\n&lt;p&gt;And it did! Fixedfloat froze the 0.067 eth they sent, and the scammers freaking out emailed me( don’t know if I can share em here because of doxxing stuff) but they immediately refunded the eth they stole from me, and started begging me to tell fixed float that I had made a mistake with my report, so I decided to play their game, and wasted their time by telling them that the only way I’d help em out is if they sent 1 ETH to the burn address, but sadly they were cheap stakes and realized that the situation had reached a point of no return, and basically moved their funds out via tornado cash&lt;/p&gt;\n\n&lt;p&gt;Fixedfloat said they’d refund me if they got an email from a law enforcement agency and pass on the scammers info, or if 3 months passed, and they didn’t hear anything back from them (I’m pretty sure they don’t have anything to say since the scammers spent 0.15 ETH a moving money into tornadocash)&lt;/p&gt;\n\n&lt;p&gt;Either way, I was super lucky that the scammers took my bait and responded to my email I sent, and they revealed their email, as well as refunded me, but there are a couple of things you can do if your in a similar situation, and ended up getting scammed, even though prevention and being smart is the best way to avoid the headache in the first place.&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;p&gt;Do a Whois lookup, and try to find the scammers email or other identifying information and reach out to them, and notify them that your going to report them to law enforcement unless they refund you&lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Check out their wallet, because they have to convert their crypto to fiat at one point, and often use a swap service or centralized exchange, to whom you can reach out to &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;File a police report and contact other law enforcement entities because most exchanges will use that to release their funds back to you, if they seize em, or forward their information to law enforcement agencies so they can pursue charges&lt;/p&gt;&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 225,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/goA4tCbvgSmY9izsmdCWKekFLjBYLNoq1Ez0NyFOtkE.jpg?auto=webp&amp;s=1920a87f747c3c25c713acf2f402c09f5a78aaf3",
+          "width": 947,
+          "height": 2048
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/goA4tCbvgSmY9izsmdCWKekFLjBYLNoq1Ez0NyFOtkE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=de9e1daecf89a22050d4ed379e14af61ed34f599",
+            "width": 108,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/goA4tCbvgSmY9izsmdCWKekFLjBYLNoq1Ez0NyFOtkE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=545b835313b155057aa793cf0757d3f23da8e80e",
+            "width": 216,
+            "height": 432
+          },
+          {
+            "url": "https://external-preview.redd.it/goA4tCbvgSmY9izsmdCWKekFLjBYLNoq1Ez0NyFOtkE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5aa86907bc1b1ab90236ddfe9c4d45e71b32b9d5",
+            "width": 320,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/goA4tCbvgSmY9izsmdCWKekFLjBYLNoq1Ez0NyFOtkE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f0f96734079cd466b53b097a6bb55797e3296b3",
+            "width": 640,
+            "height": 1280
+          }
+        ],
+        "variants": {},
+        "id": "4aENM2VGBC9YmUef3icOB01U2dvy1L6MXlJ_UctQtbg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/r84lqx/how_i_used_the_blockchain_against_scammers_who/",
+  "subreddit": "CryptoCurrency",
+  "id": "r84lqx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Quick TL:DR of what happened in my previous post\n[https://www.np.reddit.com/r/ethtrader/comments/r4ebvs/how_i_got_scammed_and_how_you_can_avoid_ending_up/?utm_source=share&amp;amp;amp;utm_medium=ios_app&amp;amp;amp;utm_name=iossmf]\n\nBasically, I got a phishing DM on discord and clicked on the link,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "前回の記事で起こったことの簡単なTL:DR\n[https://www.np.reddit.com/r/ethtrader/comments/r4ebvs/how_i_got_scammed_and_how_you_can_avoid_ending_up/?utm_source=share&amp;amp;amp;utm_medium=ios_app&amp;amp;utm_name=iossmf] です。\n\n基本的には、discordでフィッシングDMが来て、リンクをクリック、、、。",
+      "title": "私を騙した詐欺師に対してブロックチェーンを使い、無料で資金を倍にしてもらった方法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在我的上一篇文章中发生的事情的快速TL:DR\n[https://www.np.reddit.com/r/ethtrader/comments/r4ebvs/how_i_got_scammed_and_how_you_can_avoid_ending_up/?utm_source=share&amp;amp;amp;utm_medium=ios_app&amp;amp;amp;utm_name=iossmf]\n\n基本上，我在discord上收到一个钓鱼的DM，点击了链接，...",
+      "title": "我是如何利用区块链对付诈骗我的骗子，并让他们免费给我翻倍的资金的"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在我的上一篇文章中發生的事情的快速TL:DR\n[https://www.np.reddit.com/r/ethtrader/comments/r4ebvs/how_i_got_scammed_and_how_you_can_avoid_ending_up/?utm_source=share&amp;amp;amp;utm_medium=ios_app&amp;amp;amp;utm_name=iossmf]\n\n基本上，我在discord上收到一個釣魚的DM，點擊了鏈接，...",
+      "title": "我是如何利用區塊鏈對付詐騙我的騙子，並讓他們免費給我翻倍的資金的"
+    }
+  ]
+}

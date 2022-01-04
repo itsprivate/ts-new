@@ -1,0 +1,78 @@
+{
+  "author": "Level10Falco",
+  "original_created_utc": 1631367349,
+  "title": "I made a script that analyzes the history of prices of the top 15 coins, here are the results",
+  "created_utc": 1631453444,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, I made a script that helps me with my DCA and I figured I’d share the results.</p>\n\n<p>So instead of blindly DCA’ing across coins, I analyze highs and lows for what coins have the most potential when I want to DCA. So basically if there’s a coin I like, and I notice that it’s been pretty steady in terms of price, I may weigh my DCA more in that coin’s favor than other coins that have already pumped when I&#39;m about to DCA (I&#39;m doing the top 15 coins from CoinGecko for now, minus stablecoins of course).</p>\n\n<p>I tried to make positive and negative percent changes more distinguishable in the table, so I used 🌵 for positive and 🍁 for negative for the table LOL.</p>\n\n<p>Additionally, I have an image that is formatted a bit better and includes percent changes from 90, 30, 14 and 7 days ago for a broad scope of how the price action has generally been: <a href=\"https://imgur.com/a/FbXX02s\">https://imgur.com/a/FbXX02s</a></p>\n\n<p>Coin price comes from CoinGecko, history of prices comes from yahoo finance and investing.com (whichever has better data)</p>\n\n<p>So yeah, any feedback with the data is appreciated (the <strong>% to reach high since crash</strong> stat is my favorite one btw)</p>\n\n<hr/>\n\n<p><strong>Timezone:</strong> Greenwich Mean Time (GMT)</p>\n\n<p><strong>Data Collection Date:</strong> 2021-09-11 at 13:17</p>\n\n<p><strong>% to reach ATH:</strong> The percent increase needed to reach the all-time-high of a coin from the current price, also displays date of all-time-high</p>\n\n<p><strong>% change since low:</strong> The percent change between the lowest price of a coin since the BTC crash in May 2021 and the current price, also displays date of that low</p>\n\n<p><strong>% to reach high since crash:</strong> The percent increase needed to reach the highest price of a coin since the BTC crash in May 2021 from the current price, also displays date of that high</p>\n\n<table><thead>\n<tr>\n<th align=\"left\">Coin</th>\n<th align=\"left\">Rank</th>\n<th align=\"left\">Price</th>\n<th align=\"left\">% to reach ATH</th>\n<th align=\"left\">% change since low</th>\n<th align=\"left\">% to reach high since crash</th>\n<th align=\"left\">% change since 14d</th>\n</tr>\n</thead><tbody>\n<tr>\n<td align=\"left\">Bitcoin</td>\n<td align=\"left\">1</td>\n<td align=\"left\">$45,682.00</td>\n<td align=\"left\">🌵+41.99% Apr 14, 2021</td>\n<td align=\"left\">🌵+58.1% Jun 22, 2021</td>\n<td align=\"left\">🌵+15.7% Sep 07, 2021</td>\n<td align=\"left\">🍁-2.59%</td>\n</tr>\n<tr>\n<td align=\"left\">Ethereum</td>\n<td align=\"left\">2</td>\n<td align=\"left\">$3,334.87</td>\n<td align=\"left\">🌵+30.81% May 12, 2021</td>\n<td align=\"left\">🌵+95.3% Jun 22, 2021</td>\n<td align=\"left\">🌵+20.62% Sep 03, 2021</td>\n<td align=\"left\">🌵+7.7%</td>\n</tr>\n<tr>\n<td align=\"left\">Cardano</td>\n<td align=\"left\">3</td>\n<td align=\"left\">$2.75</td>\n<td align=\"left\">🌵+12.7% Sep 02, 2021</td>\n<td align=\"left\">🌵+174.18% Jun 22, 2021</td>\n<td align=\"left\">🌵+12.7% Sep 02, 2021</td>\n<td align=\"left\">🌵+8.62%</td>\n</tr>\n<tr>\n<td align=\"left\">Binance Coin</td>\n<td align=\"left\">5</td>\n<td align=\"left\">$413.20</td>\n<td align=\"left\">🌵+67.21% May 10, 2021</td>\n<td align=\"left\">🌵+93.52% May 23, 2021</td>\n<td align=\"left\">🌵+25.55% Aug 26, 2021</td>\n<td align=\"left\">🍁-13.67%</td>\n</tr>\n<tr>\n<td align=\"left\">Solana</td>\n<td align=\"left\">6</td>\n<td align=\"left\">$184.85</td>\n<td align=\"left\">🌵+16.29% Sep 09, 2021</td>\n<td align=\"left\">🌵+865.79% May 23, 2021</td>\n<td align=\"left\">🌵+16.29% Sep 09, 2021</td>\n<td align=\"left\">🌵+147.09%</td>\n</tr>\n<tr>\n<td align=\"left\">XRP</td>\n<td align=\"left\">7</td>\n<td align=\"left\">$1.10</td>\n<td align=\"left\">🌵+78.64% Apr 14, 2021</td>\n<td align=\"left\">🌵+114.55% Jun 22, 2021</td>\n<td align=\"left\">🌵+28.52% Sep 06, 2021</td>\n<td align=\"left\">🌵+2.49%</td>\n</tr>\n<tr>\n<td align=\"left\">Dogecoin</td>\n<td align=\"left\">8</td>\n<td align=\"left\">$0.25</td>\n<td align=\"left\">🌵+197.71% May 08, 2021</td>\n<td align=\"left\">🌵+54.14% Jul 20, 2021</td>\n<td align=\"left\">🌵+41.66% Aug 16, 2021</td>\n<td align=\"left\">🍁-7.84%</td>\n</tr>\n<tr>\n<td align=\"left\">Polkadot</td>\n<td align=\"left\">9</td>\n<td align=\"left\">$30.56</td>\n<td align=\"left\">🌵+62.61% May 15, 2021</td>\n<td align=\"left\">🌵+193.24% Jul 20, 2021</td>\n<td align=\"left\">🌵+16.72% Sep 07, 2021</td>\n<td align=\"left\">🌵+27.53%</td>\n</tr>\n<tr>\n<td align=\"left\">Terra</td>\n<td align=\"left\">11</td>\n<td align=\"left\">$39.59</td>\n<td align=\"left\">🌵+11.64% Sep 11, 2021</td>\n<td align=\"left\">🌵+904.56% May 23, 2021</td>\n<td align=\"left\">🌵+11.64% Sep 11, 2021</td>\n<td align=\"left\">🌵+46.63%</td>\n</tr>\n<tr>\n<td align=\"left\">Chainlink</td>\n<td align=\"left\">13</td>\n<td align=\"left\">$27.52</td>\n<td align=\"left\">🌵+92.14% May 10, 2021</td>\n<td align=\"left\">🌵+105.02% Jul 20, 2021</td>\n<td align=\"left\">🌵+31.82% Sep 06, 2021</td>\n<td align=\"left\">🌵+12.71%</td>\n</tr>\n<tr>\n<td align=\"left\">Litecoin</td>\n<td align=\"left\">14</td>\n<td align=\"left\">$185.16</td>\n<td align=\"left\">🌵+123.03% May 10, 2021</td>\n<td align=\"left\">🌵+77.48% Jul 20, 2021</td>\n<td align=\"left\">🌵+25.35% Sep 06, 2021</td>\n<td align=\"left\">🌵+10.22%</td>\n</tr>\n<tr>\n<td align=\"left\">Uniswap</td>\n<td align=\"left\">15</td>\n<td align=\"left\">$23.45</td>\n<td align=\"left\">🌵+90.32% May 03, 2021</td>\n<td align=\"left\">🌵+66.84% Jul 21, 2021</td>\n<td align=\"left\">🌵+33.82% Sep 02, 2021</td>\n<td align=\"left\">🍁-8.08%</td>\n</tr>\n</tbody></table>\n\n<hr/>\n\n<p>If you find it helpful, consider a moon tip or upvote :) Maybe I should try doing another one of these in the future with more coins?</p>\n\n<p>🌵</p>\n</div><!-- SC_ON -->",
+  "score": 152,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?auto=webp&s=082e524aa4ed58b29dabcd952470fbedf8f10531",
+          "width": 2480,
+          "height": 2685
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?width=108&crop=smart&auto=webp&s=6c5ee22d36eee02dd2f09c1f56160aa4b26eb3fe",
+            "width": 108,
+            "height": 116
+          },
+          {
+            "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?width=216&crop=smart&auto=webp&s=cdbdaf3dc4974d89126c4a46cb3069b0e3368a52",
+            "width": 216,
+            "height": 233
+          },
+          {
+            "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?width=320&crop=smart&auto=webp&s=d71a857fee6eb902ae9d7731bd198c974300e9b2",
+            "width": 320,
+            "height": 346
+          },
+          {
+            "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?width=640&crop=smart&auto=webp&s=1958375ec195ed8daf22d370201dbaf10591c780",
+            "width": 640,
+            "height": 692
+          },
+          {
+            "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?width=960&crop=smart&auto=webp&s=491bdf1ea63644676cd313a29d5b0034693b9017",
+            "width": 960,
+            "height": 1039
+          },
+          {
+            "url": "https://external-preview.redd.it/tp2HS6YpwwxMuour9CJz_DQw19ItT6wq7iAhFGT3-mw.jpg?width=1080&crop=smart&auto=webp&s=e64c4ef62b1d00b5c3171ae0fa4b0053fed8a7d9",
+            "width": 1080,
+            "height": 1169
+          }
+        ],
+        "variants": {},
+        "id": "mF-SnvsXvbSG8AFx8_WGtPbgyFvGzYOU8ic4BnrzswM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pm7jv9/i_made_a_script_that_analyzes_the_history_of/",
+  "subreddit": "CryptoCurrency",
+  "id": "pm7jv9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hey all, I made a script that helps me with my DCA and I figured I’d share the\nresults.\n\nSo instead of blindly DCA’ing across coins, I analyze highs and lows for what\ncoins have the most potential when I want to DCA. So basically if there’s a coin\nI like, and I notice that it’s been pretty steady in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、DCAに役立つスクリプトを作ったので、その結果を共有したいと思います。\n結果を共有しようと思いました。\n\nやみくもにコインをDCAするのではなく、DCAしたい時にどのコインが最も可能性があるのか、高値と安値を分析しています。\nDCAをしたいときに最も可能性のあるコインを分析しています。基本的には、好きなコインがあって\n気に入ったコインがあって、それがかなり安定していることに気づくと...",
+      "title": "上位15枚のコインの価格履歴を分析するスクリプトを作ってみましたが、結果は以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好，我做了一个脚本，可以帮助我解决DCA的问题，我想我应该分享一下\n结果。\n\n因此，我不是盲目地在各币种之间进行DCA，而是在想进行DCA时，分析哪些币种的高点和低点。\n当我想进行DCA时，我会分析哪些币有最大的潜力。所以基本上，如果有一个我喜欢的钱币\n我喜欢的，而且我注意到它一直很稳定，在...",
+      "title": "我做了一个脚本，分析了前15个硬币的历史价格，以下是结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好，我做了一個腳本，可以幫助我解決DCA的問題，我想我應該分享一下\n結果。\n\n因此，我不是盲目地在各幣種之間進行DCA，而是在想進行DCA時，分析哪些幣種的高點和低點。\n當我想進行DCA時，我會分析哪些幣有最大的潛力。所以基本上，如果有一個我喜歡的錢幣\n我喜歡的，而且我注意到它一直很穩定，在...",
+      "title": "我做了一個腳本，分析了前15個硬幣的歷史價格，以下是結果"
+    }
+  ]
+}

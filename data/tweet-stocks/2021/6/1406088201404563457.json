@@ -1,0 +1,77 @@
+{
+  "created_at": "Sat Jun 19 13:38:48 +0000 2021",
+  "id_str": "1406088201404563457",
+  "full_text": "My turn https://t.co/SPUgPGRm2U",
+  "display_text_range": [
+    0,
+    7
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1406088198736986000,
+        "id_str": "1406088198736986115",
+        "indices": [
+          8,
+          31
+        ],
+        "media_url": "http://pbs.twimg.com/media/E4NtxFiWQAM7OiZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E4NtxFiWQAM7OiZ.jpg",
+        "url": "https://t.co/SPUgPGRm2U",
+        "display_url": "pic.twitter.com/SPUgPGRm2U",
+        "expanded_url": "https://twitter.com/The_Real_Fly/status/1406088201404563457/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 500,
+            "h": 500,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 500,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 53,
+  "favorite_count": 657,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Jun 19 03:15:25 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "私の番 https://t.co/SPUgPGRm2U"
+    },
+    {
+      "locale": "zh",
+      "full_text": "轮到我了 https://t.co/SPUgPGRm2U"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "輪到我了 https://t.co/SPUgPGRm2U"
+    }
+  ],
+  "source_updated_at": 1624614206330
+}

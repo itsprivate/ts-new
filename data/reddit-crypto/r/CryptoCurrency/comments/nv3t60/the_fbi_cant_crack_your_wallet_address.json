@@ -1,0 +1,33 @@
+{
+  "author": "SACHD",
+  "the_new_excerpt": "Every crypto wallet has a private key. Most of us are told, rightfully, to guard\nthis private key with our lives, because anyone who gets access to it will be\nable to take your hard earned cash away. But what if someone like the FBI\nguessed your private key? This is how private keys look like for…",
+  "original_created_utc": 1623158240,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "すべての暗号化された財布には秘密鍵があります。ほとんどの人は、この秘密鍵を命がけで守るように言われていますが、それは当然のことです。\nなぜならば、この秘密鍵にアクセスした人は、その鍵を利用して\n稼いだ現金を奪うことができるからです。しかし、もしFBIのような人物が\nがあなたの秘密鍵を推測したとしたら？秘密鍵はこのようになっています...",
+      "title": "FBIはあなたの財布のアドレスを解読できない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "每个加密货币钱包都有一个私钥。我们中的大多数人都被告知，要用生命来保护这个私钥，这是正确的。\n这把私人钥匙，因为任何获得它的人都将会\n能把你辛苦挣来的钱拿走。但是，如果有人像FBI一样\n猜到你的私钥怎么办？这就是私人钥匙的样子，对于...",
+      "title": "联邦调查局无法破解你的钱包地址"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "每個加密貨幣錢包都有一個私鑰。我們中的大多數人都被告知，要用生命來保護這個私鑰，這是正確的。\n這把私人鑰匙，因爲任何獲得它的人都將會\n能把你辛苦掙來的錢拿走。但是，如果有人像FBI一樣\n猜到你的私鑰怎麼辦？這就是私人鑰匙的樣子，對於...",
+      "title": "聯邦調查局無法破解你的錢包地址"
+    }
+  ],
+  "title": "The FBI Can’t Crack Your Wallet Address",
+  "created_utc": 1623175380,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Every crypto wallet has a private key. Most of us are told, rightfully, to guard this private key with our lives, because anyone who gets access to it will be able to take your hard earned cash away. But what if someone like the FBI guessed your private key?\nThis is how private keys look like for Bitcoin wallets:</p>\n\n<p>KzvYyd4vZ94NyRdgAHFmgtVEFaGi7drgu94DjhCYEf51UqReb1Dp\nL5HRstY66Urp2VfwvqqASVwHQNJRUJuHg5p6BB46JxJfwccZ5cZV\nL4Wn4W1hDzzV6a1D9HYnwSBf1m1vzHMWJ6Y8gHT4igDnkwU2GcWK</p>\n\n<p>All three of those wallet addresses are 52 characters each encompassing both the English alphabet and digits 0 to 9. Bitcoin(and all other cryptos) rely on the fact that each private key is completely new, never seen before and never to be seen again by anyone else. Bitcoin doesn’t check for collisions when you generate a new wallet address. But this raises the question, with the ever increasing number of users that are adopting crypto and the fact that one person can have many wallets and even the fact that there are groups such as the FBI dedicated to finding private keys of wallets, what are the chances that your private key could either be guessed or collide with a newly generated wallet with the same address?</p>\n\n<p>In fact as crypto adoption grows and potentially replaces fiat currency entirely, there will be a number of people who&#39;d definitely think about the prospect of becoming a digital treasure hunter. Just trying address after address until they got to an account with potentially thousands, hundreds of thousands or millions of Bitcoin/ETH/etc.</p>\n\n<p>What if these people were to create a database of all the possible Bitcoin addresses and then just start to pull out money from all of them one by one? To explain why this wouldn&#39;t be possible, all of the world&#39;s computers combined today would provide about 2.3 zetabytes of storage according to some estimates. 1 yottabyte = 1000 zettabytes. To store all Bitcoin addresses you would require 5 yottabytes<sup>2</sup> storage space. There isn&#39;t enough coal and gas on Earth to make the electricity that would store this database.</p>\n\n<p>Put another way, there are more Bitcoin addresses than atoms in the known universe.\nHow is this possible? Here&#39;s an example of a private key which is 64 characters in the range of 0 - 9 and A - F: E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262, this private key doesn&#39;t exist for any crypto by the way I got it from an answer on Quora, there are 64 characters, and each character is hexadecimal meaning it can hold 16 different case insensitive values(0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F), meaning there are 16<sup>64</sup> possible private key combinations. Now assume that the world population is 7.6 billion and everyone holds a wallet which adds up to 7.6 billion private keys, even in an imaginary best case the success rate of finding a correct private key is 100 multiplied by 7.6 billion divided by 16<sup>64</sup> which is 0.0000000000000000000000000000000000000000000000000000000000000000065634881018717779152936274157283036740481602769715738%.</p>\n\n<p>In short I just wanted to show everyone how cool the Math behind cryptocurrency is and how while it may seem easy to imagine guessing a private key, it&#39;s a gargantuan task that not even the most powerful computers working together in the world today could think of pulling off and how unlikely it is to ever be possible. </p>\n\n<p>My sources:</p>\n\n<p><a href=\"https://www.quora.com/Is-it-possible-for-someone-to-guess-a-private-key-to-a-Bitcoin-wallet-and-steal-the-coins\">https://www.quora.com/Is-it-possible-for-someone-to-guess-a-private-key-to-a-Bitcoin-wallet-and-steal-the-coins</a></p>\n\n<p><a href=\"https://medium.com/coinmonks/how-likely-is-it-that-someone-could-guess-your-bitcoin-private-key-6c0edd56fa1f\">https://medium.com/coinmonks/how-likely-is-it-that-someone-could-guess-your-bitcoin-private-key-6c0edd56fa1f</a></p>\n\n<p><a href=\"https://youtu.be/ZloHVKk7DHk\">https://youtu.be/ZloHVKk7DHk</a></p>\n\n<p>FYI I posted this not too long ago and it didn’t gain much traction, I felt it would be apt to repost it now due to recent developments. </p>\n\n<p>Tl;dr: it’s practically impossible to guess/crack someone else’s wallet address even for the FBI.</p>\n</div><!-- SC_ON -->",
+  "score": 2134,
+  "permalink": "/r/CryptoCurrency/comments/nv3t60/the_fbi_cant_crack_your_wallet_address/",
+  "subreddit": "CryptoCurrency",
+  "id": "nv3t60",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1623404884249
+}

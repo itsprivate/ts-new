@@ -1,0 +1,28 @@
+{
+  "author": "Drunkueid",
+  "the_new_excerpt": "So this originally started with my interest in finding out 'what day of the week\nwas best to auto-invest in my M1 account'. Using Yahoo Finance historical data\nfor VTI over the past 5 years, I ended up answering this question plus diving\ndeeper to make a few other random observations. Here is what I…",
+  "original_created_utc": 1612978234,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以，这最初是由我的兴趣开始的，我想知道 \"星期几\"。\n是最好的自动投资我的M1账户'。利用雅虎金融的历史数据\n在过去的5年里，我为VTI做了大量的工作，最终回答了这个问题，加上潜水\n深入地做一些其他的随机观察。这里是我...",
+      "title": "自动VTI投资者的随机事实（包括每周的最佳投资日"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以，這最初是由我的興趣開始的，我想知道 \"星期幾\"。\n是最好的自動投資我的M1賬戶'。利用雅虎金融的歷史數據\n在過去的5年裏，我爲VTI做了大量的工作，最終回答了這個問題，加上潛水\n深入地做一些其他的隨機觀察。這裏是我...",
+      "title": "自動VTI投資者的隨機事實（包括每週的最佳投資日"
+    }
+  ],
+  "title": "Random Facts for the Automated VTI Investor (including the best day of week to invest)",
+  "created_utc": 1612997836,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>So this originally started with my interest in finding out &#39;what day of the week was best to auto-invest in my M1 account&#39;. Using Yahoo Finance historical data for VTI over the past 5 years, I ended up answering this question plus diving deeper to make a few other random observations. Here is what I found:</p>\n\n<ul>\n<li><strong>What day of the week is best to buy VTI?</strong>\n\n<ul>\n<li><strong>Thursday</strong>, hands down</li>\n<li>Data for average delta of opening vs previous trading day close:\n\n<ul>\n<li>Mon: +0.056016</li>\n<li>Tues: +0.228716</li>\n<li>Wed: +0.114864</li>\n<li>Thurs: -0.05267</li>\n<li>Fri: +0.071502</li>\n</ul></li>\n</ul></li>\n<li><strong>Does the day of the week matter over a long period of time?</strong>\n\n<ul>\n<li>Basically <strong>no</strong> -- but if you&#39;re going to pick a day for auto-investing, you might as well pick Thurs</li>\n<li>I setup my spreadsheet to show the total gains of auto-investing $100/week on a given day. I did not factor in closed trading days + that M1 Finance auto-invest on the next open trading day.  So certain days (Mondays particularly) had significantly less buys than Tues/Wed.</li>\n<li>Data for average portfolio size of auto-investing in VTI:\n\n<ul>\n<li>Mon: 236 buys, cost-basis $23.6k, current value $35.7k, gain 51.22%</li>\n<li>Tues: 257 buys, cost-basis $25.7k, current value $38.9k, gain 51.33%</li>\n<li>Wed: 257 buys, cost-basis $25.7k, current value $39.0k, gain 51.96%</li>\n<li>Thurs: 255 buys, cost-basis $25.5k, current value $38.7k, gain 51.93%</li>\n<li>Fri: 253 buys, cost-basis $25.3k, current value $38.4k, gain +51.83%</li>\n</ul></li>\n</ul></li>\n<li><strong>What day of the week saw best overall gains?</strong>\n\n<ul>\n<li>Still <strong>Tuesdays</strong></li>\n<li>Data for average delta of closing vs previous trading day close:\n\n<ul>\n<li>Mon: +0.076398</li>\n<li>Tues: +0.160039</li>\n<li>Wed: +0.13786</li>\n<li>Thurs: +0.00851</li>\n<li>Fri: +0.061344</li>\n</ul></li>\n<li>If you compare this data vs the data from bullet #1, we see a few interesting facts:\n\n<ul>\n<li>Mon, Wed, and Thurs will close higher than opening</li>\n<li>Tues and Fri we see some profit taking and close slightly lower than opening</li>\n</ul></li>\n</ul></li>\n<li><strong>What would happen if you just invested the $25.7k from bullet #2 in lump sum at the beginning of the 5 year period?</strong>\n\n<ul>\n<li>Value of your VTI portfolio would be about <strong>$60.5k</strong> right now (or about 55% more)</li>\n</ul></li>\n<li><strong>Lastly... What would happen if you invested in yearly lump sums at the &#39;worst possible day of the year&#39; (simulating the most unlucky investor ever)?</strong>\n\n<ul>\n<li>I divided the $25.7k into 5 parts and invested $5140 on the worst day of 2016, 17, 18, 19 and 20. The choices of &#39;worst day&#39; was completely subjective based on eye balling charts when VTI would dip over subsequent days/weeks.</li>\n<li>Dates chosen:\n\n<ul>\n<li>2016 - June 8</li>\n<li>2017 - March 1</li>\n<li>2018 - Sept 20</li>\n<li>2019 - May 3</li>\n<li>2020 - Feb 10</li>\n</ul></li>\n<li>Final account value was <strong>$38.6k</strong>, or roughly the same as weekly auto-investing $100.</li>\n</ul></li>\n</ul>\n\n<p>EDIT: Typo on the lump sum bullet. Previously said today&#39;s portfolio value would be $56.2k. </p>\n</div><!-- SC_ON -->",
+  "score": 79,
+  "permalink": "/r/investing/comments/lgysbz/random_facts_for_the_automated_vti_investor/",
+  "subreddit": "investing",
+  "id": "lgysbz",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613123200900
+}

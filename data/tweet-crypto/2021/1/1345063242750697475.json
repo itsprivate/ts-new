@@ -1,0 +1,69 @@
+{
+  "created_at": "Fri Jan 01 18:7:50 +0000 2021",
+  "id_str": "1345063242750697475",
+  "full_text": "RT @jack: 🧡",
+  "display_text_range": [
+    0,
+    11
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 2853,
+  "favorite_count": 0,
+  "original_created_at": "Fri Jan 01 17:44:01 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "邮箱：rt@jack：🧡",
+      "retweeted_status_full_text": "🧡"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "郵箱：rt@jack：🧡",
+      "retweeted_status_full_text": "🧡"
+    }
+  ],
+  "source_updated_at": 1610100755966,
+  "retweeted_status": {
+    "created_at": "Fri Jan 01 05:00:01 +0000 2021",
+    "id_str": "1344870974676635648",
+    "full_text": "🧡",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "user": {
+      "name": "jack",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 2491,
+    "favorite_count": 28523
+  }
+}

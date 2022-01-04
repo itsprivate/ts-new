@@ -1,0 +1,53 @@
+{
+  "author": "T2000-TT",
+  "original_created_utc": 1634318859,
+  "title": "Decentralized Twitter : Part 2",
+  "created_utc": 1634337167,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/xq4ybphffnt71.jpg?width=208&amp;format=pjpg&amp;auto=webp&amp;s=8096726501cf2955c7ae5b3a98d25e053bbf5587\">decentralized twitter</a></p>\n\n<p>Hey everyone,</p>\n\n<p>A couple of weeks ago a member of the Radix community posted a link to a #web3 Twitter DAPP the founder of Radix was working on that hit the first page ... eeeek! He’s back with updates and this time more prepared!</p>\n\n<p>Here&#39;s a more comprehensive explanation of what the #web3 Twitter demo represents, what it can do and why he’s doing it.</p>\n\n<p>If you&#39;d like to play around with it, you can access it here but please read the rest of this post before diving in so you know what to expect!</p>\n\n<p><a href=\"https://flexathon.net/twitter/index.html\">https://flexathon.net/twitter/index.html</a></p>\n\n<p>Thanks!</p>\n\n<p>--------TL;DR: #web3 decentralized twitter / data / frontend you can test yourself !--------</p>\n\n<p><strong>What is this?</strong></p>\n\n<p>A demonstration of a Twitter clone operating as a decentralized application.</p>\n\n<p>Decentralized applications (or DAPPS) will form the corner stone of #web3 technologies, allowing users to completely control their data, accessibility to it and monetization.</p>\n\n<p><strong>Why choose Twitter?</strong></p>\n\n<p>A Twitter clone is a great demonstrator for this technology as everyone is familiar with it, or at least social networks in general.</p>\n\n<p>This common knowledge provides an opportunity to create an interactive demonstration that requires little learning curve to use.</p>\n\n<p>From a technical point of view Twitter is quite a complicated platform, a clone of it implemented with #web3 technologies allows to push and find the limits. Twitter also has a <strong>huge</strong> amount of data which can be acquired allowing to test at scale.</p>\n\n<p>He gathered 100TB (about 20,000 DVDs) of tweets and image data, all of which will be available to this Twitter DAPP.</p>\n\n<p><strong>What can I do in the demo?</strong></p>\n\n<p>You will be able to perform all the basic actions you can on the real Twitter such as:</p>\n\n<ul>\n<li>Register an new account</li>\n<li>Make tweets</li>\n<li>Reply to tweets</li>\n<li>Retweets and likes,</li>\n<li>Search users</li>\n<li>Search hashtags</li>\n<li>Follow others</li>\n</ul>\n\n<p>Because also real tweets are imported and users from the data gathered, it is likely that if you have a Twitter account it will already be there. You can gain access instructions to your already imported Twitter account by tweeting / messaging its creator <a href=\"https://twitter.com/fuserleer\">https://twitter.com/fuserleer</a></p>\n\n<p>The demonstration is currently importing tweets and users beginning 1st January 2021. If you follow a popular account in the demonstration you will see historic tweets made by them appear as they are imported (which is pretty cool!).</p>\n\n<p>Later more advanced demonstrations will import starting ~2012 and have more features.</p>\n\n<p><strong>Don&#39;t panic! There is only your public user and tweet information! Not passwords, not email addresses, not private messages!</strong></p>\n\n<p><strong>What is missing in the demo?</strong></p>\n\n<p>Lots, as the currently implemented features are driven by the research needs. We plan to add more features over the coming weeks, the main ones being</p>\n\n<ul>\n<li>Upload/change profile/banner images</li>\n<li>Display embedded media content</li>\n<li>Tipping functionality</li>\n<li>Direct messages</li>\n<li>Trending hashtags</li>\n</ul>\n\n<p><strong>What this demo is not?</strong></p>\n\n<p>This demonstration is just that, a demonstration, which we thought would be cool to share in the hope of triggering some imaginations of what might be possible in the future.</p>\n\n<p>It is not a complete, polished product. There will be bugs, things that don&#39;t work or break. The website was built by one person over the course of a few weeks who is not by any yard stick a competent web dev.</p>\n\n<p><strong>How does it work?</strong></p>\n\n<p>This #web3 Twitter DAPP is completely hosted within a decentralized network called Cassandra, which you can think of as an internet within the internet. All of the data, tweets, images and even the website itself live within this decentralized network. Not only that, multiple large scale DAPPS could be built and deployed such as marketplaces, forums, websites, etc.</p>\n\n<p>Cassandra is an open-source distributed ledger technology (similar to Bitcoin or Ethereum) we built at Radix to research new, cool and exciting things we can include on our product roadmap. It represents a number of novel research achievements and theory unification not seen any other technology.</p>\n\n<p>This research is notable because while Twitter has been built on Ethereum for example, it could not operate at the scale of data or throughput seen in this demonstration. Any attempts to replicate this demonstration like for like on other DLT platforms would require various dependencies on other independent technologies, increasing complexity and potentially decreasing security or reliability.</p>\n\n<p>For example, to do the same in Ethereum would require each node in the network to have a specification of at least <strong>64GB RAM</strong> and <strong>100TB</strong> of storage. For comparison each node in the Cassandra network has just <strong>8GB RAM</strong> and <strong>1TB</strong> of storage thanks to a technique called <em>Sharding</em>.</p>\n\n<p>For the more technical, Cassandra is a novel hybrid consensus mechanism which provides high levels of safety, liveness and throughput. This demonstration is operating on a total of 64 replicas, split into 8 sets of 8 replicas which are geo-located in 4 continents. Each group is responsible for a large set of shards (2^253) and each tweet touches multiple shards and replica sets. All events undergo full consensus, signing, verification and execution as would be in a deployed network.</p>\n\n<p>Operating conditions are also sub-optimal as the feed data we have is not complete, therefore a reply or retweet may reference a parent tweet which is not present in the feed data. This is not discovered until the action is executed after undergoing the first round of consensus (there are two rounds). Consensus still must complete with replicas agreeing the tweet should fail. Around 10-15% of tweets presented from the feed fail due to this issue which is a nice side-effect to test many failing conditions.</p>\n\n<p>While the total quantity of replicas is low in this deployment, each tweet touches on average 4 sets, giving a total quorum size involved in consensus of at least 32 replicas. From a focussed research perspective a greater quantity of replicas presently does not offer much additional value for the associated logistical cost. Later deployments and demonstrations will have greater quantity of both replicas and replica sets as required and we will also leverage the generous community to increase further at testing progresses.</p>\n\n<p>Cassandra is still in heavy research and is completely unoptimized. When interacting with the demonstration actions to the ledger require 10-15 seconds to become final with most of that latency due to all actions being cross shard and strictly atomic. There are optimizations possible which should reduce finality latency by 50% or so. Demonstration throughput is held constant at ~500 tweets/users/images per second.   </p>\n\n<p>Cassandra is a little preview of what Radix DLT will soon be able to do (and more...)</p>\n</div><!-- SC_ON -->",
+  "score": 167,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/YloRn6STbP0YhP710ImDp-KRL1bELQcc6efVET9eKUQ.jpg?auto=webp&s=36b0884d35a4db901ffbf1f47d3499e852c91202",
+          "width": 208,
+          "height": 180
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/YloRn6STbP0YhP710ImDp-KRL1bELQcc6efVET9eKUQ.jpg?width=108&crop=smart&auto=webp&s=f6a012458418ccd15ccc270d6a31c05a6033eab2",
+            "width": 108,
+            "height": 93
+          }
+        ],
+        "variants": {},
+        "id": "2AHTNHJGMGWcaROsdvXXgwl2sBCnWCd2kCtiBRv422Y"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/q8t7as/decentralized_twitter_part_2/",
+  "subreddit": "CryptoCurrency",
+  "id": "q8t7as",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "decentralized twitter\n[https://preview.redd.it/xq4ybphffnt71.jpg?width=208&format=pjpg&auto=webp&s=8096726501cf2955c7ae5b3a98d25e053bbf5587]\n\nHey everyone,\n\nA couple of weeks ago a member of the Radix community posted a link to a #web3\nTwitter DAPP the founder of Radix was working on that hit the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "分散型ツイッター\n[https://preview.redd.it/xq4ybphffnt71.jpg?width=208&format=pjpg&auto=webp&s=8096726501cf2955c7ae5b3a98d25e053bbf5587]\n\n皆さん、こんにちは。\n\n2週間ほど前、Radixコミュニティのメンバーが、#web3\nTwitter DAPPへのリンクを投稿しましたが、これはRadixの創設者が取り組んでいたもので、このDAPPは...",
+      "title": "分散型Twitter：その2"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "去中心化的Twitter\n[https://preview.redd.it/xq4ybphffnt71.jpg?width=208&format=pjpg&auto=webp&s=8096726501cf2955c7ae5b3a98d25e053bbf5587]\n\n大家好。\n\n几周前，Radix社区的一名成员发布了一个链接，指向一个#web3\nTwitter DAPP的链接，Radix的创始人正在研究它。",
+      "title": "去中心化的Twitter：第二部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "去中心化的Twitter\n[https://preview.redd.it/xq4ybphffnt71.jpg?width=208&format=pjpg&auto=webp&s=8096726501cf2955c7ae5b3a98d25e053bbf5587]\n\n大家好。\n\n幾周前，Radix社區的一名成員發佈了一個鏈接，指向一個#web3\nTwitter DAPP的鏈接，Radix的創始人正在研究它。",
+      "title": "去中心化的Twitter：第二部分"
+    }
+  ]
+}

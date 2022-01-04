@@ -1,0 +1,150 @@
+{
+  "created_at": "Fri Jan 22 19:33:55 +0000 2021",
+  "id_str": "1352682127335297025",
+  "full_text": "RT @bitstein: “And then we put out some FUD about a double spend that never actually happened” https://t.co/kGiqDEdMUK",
+  "display_text_range": [
+    0,
+    118
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "bitstein",
+        "name": "Michael Goldstein",
+        "id": 820282353436201000,
+        "id_str": "820282353436200960",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1352423987402313700,
+        "id_str": "1352423987402313729",
+        "indices": [
+          95,
+          118
+        ],
+        "media_url": "http://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
+        "url": "https://t.co/kGiqDEdMUK",
+        "display_url": "pic.twitter.com/kGiqDEdMUK",
+        "expanded_url": "https://twitter.com/bitstein/status/1352423991114403841/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 500,
+            "h": 393,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 500,
+            "h": 393,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 500,
+            "h": 393,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1352423991114403800,
+        "source_status_id_str": "1352423991114403841",
+        "source_user_id": 820282353436201000,
+        "source_user_id_str": "820282353436200960"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 227,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jan 22 18:18:45 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "RT @bitstein: \"然后我们就发布了一些关于双倍支出的FUD，但实际上从未发生过\" https://t.co/kGiqDEdMUK。",
+      "retweeted_status_full_text": "\"然后我们放出了一些关于从未实际发生过的双重支出的FUD\" https://t.co/kGiqDEdMUK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bitstein: \"然後我們就發佈了一些關於雙倍支出的FUD，但實際上從未發生過\" https://t.co/kGiqDEdMUK。",
+      "retweeted_status_full_text": "\"然後我們放出了一些關於從未實際發生過的雙重支出的FUD\" https://t.co/kGiqDEdMUK"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Fri Jan 22 01:13:00 +0000 2021",
+    "id_str": "1352423991114403841",
+    "full_text": "“And then we put out some FUD about a double spend that never actually happened” https://t.co/kGiqDEdMUK",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1352423987402313700,
+          "id_str": "1352423987402313729",
+          "indices": [
+            81,
+            104
+          ],
+          "media_url": "http://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EsTGc3rVEAEfGkA.jpg",
+          "url": "https://t.co/kGiqDEdMUK",
+          "display_url": "pic.twitter.com/kGiqDEdMUK",
+          "expanded_url": "https://twitter.com/bitstein/status/1352423991114403841/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 500,
+              "h": 393,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 393,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 500,
+              "h": 393,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Michael Goldstein",
+      "screen_name": "bitstein",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149887149183000577/f1UWeILj_normal.jpg"
+    },
+    "retweet_count": 227,
+    "favorite_count": 1412,
+    "possibly_sensitive": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "author": "Vmn551",
+  "the_new_excerpt": "It all happened very quickly.\n\nAt about 11:58PM I received a text that a new phone service had been activated\non my number with a carrier I don't use. It came with a link to a password\nprotected (PIN setup when the service was purchased) PDF file that contained the\ncontract for the start of service.…",
+  "original_created_utc": 1622144992,
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨晩、私はSIMスワップの被害に遭いました。",
+      "the_new_excerpt": "あっという間の出来事だった。\n\n午後11時58分頃、新しい電話サービスが開始されたとのメールを受け取りました。\nの番号で、使っていないキャリアのものです。パスワードのリンクが貼られていて\n保護された（サービス購入時に設定したPIN）PDFファイルには、以下の内容が含まれています。\nサービス開始時の契約書...。"
+    },
+    {
+      "locale": "zh",
+      "title": "昨晚，我是一个SIM卡交换的受害者。",
+      "the_new_excerpt": "这一切发生得非常快。\n\n大约11点58分，我收到一条短信，说新的电话服务已经激活了\n在我的号码上，有一个我不使用的运营商的新电话服务。这条短信附有一个链接，指向一个受密码\n它带有一个链接，指向一个受密码保护（购买服务时设置的密码）的PDF文件，其中包含服务开始时的合同\n开始服务的合同...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨晚，我是一個SIM卡交換的受害者。",
+      "the_new_excerpt": "這一切發生得非常快。\n\n大約11點58分，我收到一條短信，說新的電話服務已經激活了\n在我的號碼上，有一個我不使用的運營商的新電話服務。這條短信附有一個鏈接，指向一個受密碼\n它帶有一個鏈接，指向一個受密碼保護（購買服務時設置的密碼）的PDF文件，其中包含服務開始時的合同\n開始服務的合同...."
+    }
+  ],
+  "title": "Last night I was the victim of a SIM swap.",
+  "created_utc": 1622159486,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It all happened very quickly.</p>\n\n<p>At about 11:58PM I received a text that a new phone service had been activated on my number with a carrier I don&#39;t use. It came with a link to a password protected (PIN setup when the service was purchased) PDF file that contained the contract for the start of service. I had a friend of mine crack the password to the PDF which ended up being 13371337 (lol). They filled out the form with bogus info for the name and address.  </p>\n\n<p><a href=\"https://preview.redd.it/geqpvl86wp171.png?width=1621&amp;format=png&amp;auto=webp&amp;s=fcdea3cf9b228c6c2af0534b6a402ccc92d2b799\">Password protected start of service form.</a></p>\n\n<p>At this point my phone number had already been stolen and my phone lost service, being unable to text or make phone calls.</p>\n\n<p>&#x200B;</p>\n\n<p>I tried logging into my email account, and the password had been changed. Since my mobile number was linked to my email account, the attacker was able to now use my number to get the code to reset the password. I thought I had removed the phone number from this account but apparently I missed it. At some point last year I anticipated this happening and switched most of my 2FA to google authenticator instead of SMS, which ended up saving my ass last night.</p>\n\n<p>&#x200B;</p>\n\n<p>At around 1:44 AM I was thankfully able to regain access to my email account by using my backup email address on file which the attacker thankfully hadn&#39;t changed, and also provided some other info to my email provider to prove ownership.  </p>\n\n<p>At first nothing seemed out of place until I checked my deleted messages folder and saw password reset requests for three different cryptocurrency exchanges I have held accounts on. Two of these don&#39;t hold many funds but the third currently holds a fair amount of my coins. (This is another reason you should keep your coins off of the exchange).   </p>\n\n<p>Time frame was as follows:<br/>\n<strong>11:58 PM:</strong> I get a text about service being activated for my phone number, I lose phone service.<br/>\n<strong>12:08 AM:</strong> My email password is reset. I don&#39;t notice this for over an hour.<br/>\n<strong>12:09 AM:</strong> Coinbase password reset request.<br/>\n<strong>12:13 AM:</strong> Kucoin verification code sent to my email.<br/>\n<strong>12:14 AM:</strong> Kraken username request sent to email.<br/>\n<strong>12:15 AM:</strong> Kraken password reset request sent to email.</p>\n\n<p>&#x200B;</p>\n\n<p>As you can see <strong>the entire attack lasted less than 20 minutes</strong>, which is terrifying.  </p>\n\n<p>Thankfully I had Google Authenticator 2FA setup on all of these accounts so the hackers were not able to gain access and drain my funds. Anyone using SMS verification should switch to Google Authenticator because this is the one thing that kept my coins safe. I still need to recover my phone number and at this point I feel like I should change my number or carrier. My mobile carrier only requires a 4 digit pincode to login and make changes which is probably one of the weakpoints that allowed this attack to happen.  </p>\n\n<p>My information was leaked in the Ledger breach that happened last year and I am positive that this leak is what caused me to be attacked last night. I am sure I am on a list being passed around and some of you might be as well. Please exercise caution, secure your passwords and enable Google Authentication and 2FA on everything you can.</p>\n</div><!-- SC_ON -->",
+  "score": 11555,
+  "permalink": "/r/CryptoCurrency/comments/nmfws6/last_night_i_was_the_victim_of_a_sim_swap/",
+  "subreddit": "CryptoCurrency",
+  "id": "nmfws6",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1622804295053
+}

@@ -1,0 +1,78 @@
+{
+  "author": "pgaleone",
+  "original_created_utc": 1631296472,
+  "title": "Amazon products price ticker",
+  "created_utc": 1631316489,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I just finished prototyping a ticker for Amazon products. The ticker &quot;ticks&quot; every time a product changes its price.</p>\n\n<p><a href=\"https://i.imgur.com/uKltyHA.png\">https://i.imgur.com/uKltyHA.png</a></p>\n\n<p>In the image you can see the (authenticated) request to 3 different WebSocket endpoints:</p>\n\n<ul>\n<li>On the left: ticker for the Italy region only</li>\n<li>On the center: the general ticker, without any filter for the region (I&#39;m testing with a single region, but it&#39;s possible to support almost all the Amazon stores)</li>\n<li>On the right: a ticker only for a single product in the region IT</li>\n</ul>\n\n<p>There&#39;s no need to be an Amazon affiliate for using this service - although you can&#39;t choose the product to track.</p>\n\n<p>A service like this opens opportunities for market arbitrage (over different regions), building services on top of it - like generating affiliate links when a deal is found, and much more :)</p>\n\n<p>Want to become a beta-tester?</p>\n\n<p>If yes, drop me a line and as soon as I have a beta version I&#39;ll get back to you.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?auto=webp&s=c82c6cc7a7513db21461f7fd1c467ae46956b0b6",
+          "width": 1918,
+          "height": 875
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?width=108&crop=smart&auto=webp&s=8c855de4f77d271a1844b3f348b64766245f3db5",
+            "width": 108,
+            "height": 49
+          },
+          {
+            "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?width=216&crop=smart&auto=webp&s=266417e904ac7653ba726ddbe1a938e9b79015e3",
+            "width": 216,
+            "height": 98
+          },
+          {
+            "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?width=320&crop=smart&auto=webp&s=0e12db21fbd3ca641c7c17a4b9509d11b5631791",
+            "width": 320,
+            "height": 145
+          },
+          {
+            "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?width=640&crop=smart&auto=webp&s=529fd7c02bbf50ede10706b1ada13e8f0deb133a",
+            "width": 640,
+            "height": 291
+          },
+          {
+            "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?width=960&crop=smart&auto=webp&s=d7f5268fabdce90c3395813df42e85c4604472f2",
+            "width": 960,
+            "height": 437
+          },
+          {
+            "url": "https://external-preview.redd.it/ft9VNPa_JiUCKtK7UlmzIU4A5H75wXValYKFLEzwTZ4.png?width=1080&crop=smart&auto=webp&s=a1f784e71276b1c1ddb0329e1d1d191c3cf4bce7",
+            "width": 1080,
+            "height": 492
+          }
+        ],
+        "variants": {},
+        "id": "zweRZtJhrWRpjBglyPnHWQaTSkpmS6KgyxWyv9Ut94c"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/plq3lc/amazon_products_price_ticker/",
+  "subreddit": "SideProject",
+  "id": "plq3lc",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I just finished prototyping a ticker for Amazon products. The ticker \"ticks\"\nevery time a product changes its price.\n\nhttps://i.imgur.com/uKltyHA.png\n\nIn the image you can see the (authenticated) request to 3 different WebSocket\nendpoints:\n\n * On the left: ticker for the Italy region only\n * On the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アマゾンの商品を紹介するティッカーを試作しました。このティッカーは\n商品の価格が変わるたびに\n\nhttps://i.imgur.com/uKltyHA.png\n\n画像には、3 つの異なる WebSocket エンドポイントへの（認証された）リクエストが表示されています。\nエンドポイントへのリクエストが見えます。\n\n * 左側: イタリア地域のみのティッカー\n * 左側",
+      "title": "アマゾン製品のプライスティッカー"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚完成了一个亚马逊产品的原型设计。滴答声\n每当一个产品的价格发生变化时，就会 \"滴答 \"一下。\n\nhttps://i.imgur.com/uKltyHA.png\n\n在图片中，你可以看到对3个不同的WebSocket的（经过验证的）请求\n端点的请求。\n\n * 左边：仅意大利地区的滴答声\n *在左边",
+      "title": "亚马逊产品价格行情"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛完成了一個亞馬遜產品的原型設計。滴答聲\n每當一個產品的價格發生變化時，就會 \"滴答 \"一下。\n\nhttps://i.imgur.com/uKltyHA.png\n\n在圖片中，你可以看到對3個不同的WebSocket的（經過驗證的）請求\n端點的請求。\n\n * 左邊：僅意大利地區的滴答聲\n *在左邊",
+      "title": "亞馬遜產品價格行情"
+    }
+  ]
+}

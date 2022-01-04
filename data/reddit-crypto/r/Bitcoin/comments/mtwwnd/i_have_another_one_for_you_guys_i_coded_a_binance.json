@@ -1,0 +1,64 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "I had a lot of fun building this algo, and I'm quite happy with how it turned\nout! It's probably my most complex trading algorithm yet, and I'm happy to share\nit with this community because you reacted so nicely to my other projects!\n\nHere's quick overview of what the bot does:\n\n 1. Pulls and…",
+  "original_created_utc": 1618824576,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このアルゴを作るのはとても楽しかったし、その結果にも満足しています。\nに満足しています。このアルゴは私にとって最も複雑な取引アルゴリズムです。\n私の他のプロジェクトに対する皆さんの反応がとても良かったので、このコミュニティで共有できて嬉しいです。\n\nこのロボットの機能を簡単に説明します。\n\n 1. 引上げと...",
+      "title": "私は、Binanceの取引アルゴリズムをコーディングしました。このアルゴリズムは、上位100の暗号フィードからのニュースセンチメントを分析し、購入を決定します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在构建这个算法的过程中获得了很多乐趣，我对它的结果相当满意。\n出来！这可能是我目前最复杂的交易算法，我很高兴与大家分享。\n因为你们对我的其他项目反应很好，所以我把它和这个社区联系在一起。\n\n以下是机器人的快速概述。\n\n 1. Pulls and...",
+      "title": "我还有一个给你们，我编了一个Binance交易算法，它可以从前100个加密源中分析新闻情绪，并做出买入决策，当然--它是开源的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在構建這個算法的過程中獲得了很多樂趣，我對它的結果相當滿意。\n出來！這可能是我目前最複雜的交易算法，我很高興與大家分享。\n因爲你們對我的其他項目反應很好，所以我把它和這個社區聯繫在一起。\n\n以下是機器人的快速概述。\n\n 1. Pulls and...",
+      "title": "我還有一個給你們，我編了一個Binance交易算法，它可以從前100個加密源中分析新聞情緒，並做出買入決策，當然--它是開源的。"
+    }
+  ],
+  "title": "I have another one for you guys, I coded a Binance trading algorithm that analyses the news sentiment from the top 100 crypto feeds and makes buying decisions, and of course - it's open source",
+  "created_utc": 1618842679,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I had a lot of fun building this algo, and I&#39;m quite happy with how it turned out! It&#39;s probably my most complex trading algorithm yet, and I&#39;m happy to share it with this community because you reacted so nicely to my other projects!</p>\n\n<p>Here&#39;s quick overview of what the bot does:</p>\n\n<ol>\n<li>Pulls and analyzes the last headline from the top 100 crypto news sites</li>\n<li>Provide an overview on the most mentioned coin across all the headlines</li>\n<li>Analyse the sentiment of each headline and categorises the output by coin</li>\n<li>Places a Buy order if the compound sentiment is positive and the a coin is mentioned in multiple headlines</li>\n<li>It works with any cryptocurrency available on Binance</li>\n</ol>\n\n<p>Here are some considerations that I am planning address in the future:</p>\n\n<ol>\n<li>I accidentally used Feedspospot&#39;s top 100 Bitcoin feeds, so the sources are a bit biased right now</li>\n<li>During my testing the compound sentiment wasn&#39;t high enough and wouldn&#39;t place a lot of trades</li>\n<li>It can probably make use of multiprocessing to increase performance</li>\n</ol>\n\n<p>Anyway, here is the GitHub repo for the source code: <a href=\"https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot\">https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot</a></p>\n\n<p>And if you want a step by step guide, I wrote one too:</p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/04/17/how-to-code-a-binance-crypto-trading-bot-that-trades-based-on-daily-news-sentiment/\">https://www.cryptomaton.org/2021/04/17/how-to-code-a-binance-crypto-trading-bot-that-trades-based-on-daily-news-sentiment/</a></p>\n\n<p>If you like the project and want to improve on it, feel free to send a pull Request on GitHub. Any ideas on how to further improve the recipe are also welcome!</p>\n\n<p>&#x200B;</p>\n\n<p><strong>UPDATE: here&#39;s a short screen recording on how the bot works</strong> <a href=\"https://www.youtube.com/watch?v=MKGFDgP1hy8\"><strong>https://www.youtube.com/watch?v=MKGFDgP1hy8</strong></a></p>\n</div><!-- SC_ON -->",
+  "score": 295,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?auto=webp&s=3ec2a58037d1ad0411d794a0729fecfb8de8fcba",
+          "width": 400,
+          "height": 400
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=108&crop=smart&auto=webp&s=8ef711314feeb52b3b74d67faa40f88795973045",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=216&crop=smart&auto=webp&s=7ea3e873a2e1b2eb82e18e5dca581b6e50653ead",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=320&crop=smart&auto=webp&s=e7ff450aa94e7aa5bceaa8f01e64782252bfad12",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "W8cED8o4BU1lBQr3ao_LTxG-YGu3yqJV1UHHb4-AB6E"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/mtwwnd/i_have_another_one_for_you_guys_i_coded_a_binance/",
+  "subreddit": "Bitcoin",
+  "id": "mtwwnd",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619171516351
+}

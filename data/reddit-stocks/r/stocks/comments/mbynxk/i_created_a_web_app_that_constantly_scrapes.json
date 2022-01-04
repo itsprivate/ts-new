@@ -1,0 +1,28 @@
+{
+  "author": "Zz0z77",
+  "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\nJust wanted to share a cool project I did over the past few weeks...\n\nThe process works like this: a program scrapes the top-rated comments from\ndiscussion boards on the WallStreetBets, Finance, Stock, and Investing\nsubreddits every single hour and…",
+  "original_created_utc": 1616565039,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\n只是想分享一下我过去几周做的一个很酷的项目......。\n\n这个过程是这样的：一个程序会从你的评论中刮取排名靠前的评论。\n在WallStreetBets，金融，股票和投资的讨论板块\n子reddits每一个小时，并...",
+      "title": "我创建了一个网络应用，它不断地搜刮reddit论坛（比如这个），并返回每只股票的情绪和提及次数。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://reddit-data-analysis.herokuapp.com/\n\n只是想分享一下我過去幾周做的一個很酷的項目......。\n\n這個過程是這樣的：一個程序會從你的評論中刮取排名靠前的評論。\n在WallStreetBets，金融，股票和投資的討論板塊\n子reddits每一個小時，並...",
+      "title": "我創建了一個網絡應用，它不斷地搜刮reddit論壇（比如這個），並返回每隻股票的情緒和提及次數。"
+    }
+  ],
+  "title": "I created a web app that constantly scrapes reddit forums (like this one) and returns the sentiment and number of mentions for each stock.",
+  "created_utc": 1616587120,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://reddit-data-analysis.herokuapp.com/\">https://reddit-data-analysis.herokuapp.com/</a></p>\n\n<p>Just wanted to share a cool project I did over the past few weeks...</p>\n\n<p>The process works like this: a program scrapes the top-rated comments from discussion boards on the WallStreetBets, Finance, Stock, and Investing subreddits every single hour and analyzes the content for any stock ticker mentions. Once a stock ticker is found,  the comment is run through a neural network and sentiment analysis is performed. The total number of mentions and the overall sentiment of the stock is kept in memory, alongside all the other stocks.</p>\n</div><!-- SC_ON -->",
+  "score": 93,
+  "permalink": "/r/stocks/comments/mbynxk/i_created_a_web_app_that_constantly_scrapes/",
+  "subreddit": "stocks",
+  "id": "mbynxk",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1616752822100
+}

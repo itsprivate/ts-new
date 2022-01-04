@@ -1,0 +1,78 @@
+{
+  "author": "nguoiphanxu",
+  "original_created_utc": 1630032191,
+  "title": "How to lose your Bitcoins with CTRL-C CTRL-V",
+  "created_utc": 1630071040,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I saw many victims of <a href=\"https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/\">clipboard hijacker malware</a>.</p>\n\n<p><strong>How it works</strong><br/>\n1. You select a Bitcoin address, and press CTRL-C.<br/>\n2. The malware changes the address to an address owned by the hacker/scammer.<br/>\n3. You press CTRL-V and lose any funds you send.<br/>\nEven if you check part of the pasted Bitcoin address, chances are the first few characters are the same, and you still won&#39;t notice the address was changed.  </p>\n\n<p><strong>How to prevent this</strong><br/>\n1. Don&#39;t use Windows, but we both know you&#39;re not going to change that.<br/>\n2. Check the entire address after copy/pasting, and not just the first few (or last few) characters. Check some in the middle too. That&#39;s a lot of work, so chances are you won&#39;t do that either.<br/>\n3. I came up with something else: don&#39;t copy the entire Bitcoin address, copy only a part, and manually type the last few characters. Even if the malware exchanges the incomplete Bitcoin address by their own, your wallet won&#39;t accept the (invalid) address if you&#39;ve typed a few more characters by yourself.<br/>\nYou&#39;ll still need to follow Step 2 after this: check the address!<br/>\n4. Use copy/paste to verify part of your address. Suppose you want to send funds to address 1PjpEgknyKxQKXtMcYFDym8odkfohFGkui. After copy/pasting, select &quot;yKxQKXtMc&quot; from the <em>pasted</em> address, then press CTRL-C. Then, use CTRL-F followed by CTRL-V to see if the partial address matches the original source of the address. And make sure the source is authentic: email can be spoofed too!<br/>\n5.  Any time I am sending coins from any wallet I physically place the address I know is correct directly from the source, right next to the address I have entered to send to. That usually means either holding my hardware wallet or phone up next to my computer screen, or resizing two windows on my phone or computer to put the two address physically right next to each other. Once you have two addresses which are less than inch apart, its very easy to check the entire address and not just a few characters at the start or end. </p>\n\n<p><strong>Stay vigilant</strong><br/>\nCheck, double check and triple check before sending funds!</p>\n</div><!-- SC_ON -->",
+  "score": 160,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?auto=webp&s=5396ade311d335bc349e8aa41d0660cc362a4dd5",
+          "width": 1250,
+          "height": 455
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?width=108&crop=smart&auto=webp&s=9d5a07d20216c2a6c1b93a0114d46d45685397ad",
+            "width": 108,
+            "height": 39
+          },
+          {
+            "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?width=216&crop=smart&auto=webp&s=e14ea105a16e7e74ebedf97824b0af2572eaafcb",
+            "width": 216,
+            "height": 78
+          },
+          {
+            "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?width=320&crop=smart&auto=webp&s=d37bedd5e06360219fec895a71f63a4ac2613e50",
+            "width": 320,
+            "height": 116
+          },
+          {
+            "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?width=640&crop=smart&auto=webp&s=2aa2ede6b8fd6de9078f7da51554e2f8bf7929de",
+            "width": 640,
+            "height": 232
+          },
+          {
+            "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?width=960&crop=smart&auto=webp&s=365e97e5f87a6668500ceaab9c65cc8e1bbe299b",
+            "width": 960,
+            "height": 349
+          },
+          {
+            "url": "https://external-preview.redd.it/w0AfzfjwoioSladhYeNtvqoU1aUsAqNCX3PzisMmhzk.jpg?width=1080&crop=smart&auto=webp&s=56d3c1e4a60e52ff77c93d11955e111740d8002d",
+            "width": 1080,
+            "height": 393
+          }
+        ],
+        "variants": {},
+        "id": "Yzl3Xbb2DzmLs12o-kXOnVdOs10vuixsjN_0Nu_hzM4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pcegqx/how_to_lose_your_bitcoins_with_ctrlc_ctrlv/",
+  "subreddit": "CryptoCurrency",
+  "id": "pcegqx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I saw many victims of clipboard hijacker malware\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/].\n\nHow it works\n1. You select a Bitcoin address, and press CTRL-C.\n2. The malware changes the address to an address owned by the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "クリップボード・ハイジャッカー・マルウェアの被害者をたくさん見ました\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/]をご覧ください。\n\n仕組み\n1. ビットコインのアドレスを選択して、CTRL-Cを押します。\n2. 2. マルウェアは、アドレスを、その人が所有しているアドレスに変更します...",
+      "title": "CTRL-C CTRL-Vでビットコインを紛失する方法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我看到很多剪贴板劫持者恶意软件的受害者\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/]。\n\n它是如何工作的\n1. 你选择一个比特币地址，然后按CTRL-C。\n2. 2. 恶意软件将该地址改为一个由...拥有的地址。",
+      "title": "如何用CTRL-C CTRL-V丢失你的比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我看到很多剪貼板劫持者惡意軟件的受害者\n[https://www.bleepingcomputer.com/news/security/clipboard-hijacker-malware-monitors-23-million-bitcoin-addresses/]。\n\n它是如何工作的\n1. 你選擇一個比特幣地址，然後按CTRL-C。\n2. 2. 惡意軟件將該地址改爲一個由...擁有的地址。",
+      "title": "如何用CTRL-C CTRL-V丟失你的比特幣"
+    }
+  ]
+}

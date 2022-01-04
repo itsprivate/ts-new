@@ -1,0 +1,63 @@
+{
+  "author": "Simple_Yam",
+  "original_created_utc": 1625945161,
+  "title": "Why even Ethereum 2.0 will not be as scalable as you think",
+  "created_utc": 1625960417,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><em>When reading this keep in mind that I&#39;m</em> <strong><em>not</em></strong> <em>talking about the next few years but about a much much wider timeframe. I also expect a wave of downvotes but if you have constructive criticism I encourage you to write it.</em></p>\n\n<p>A lot of people throw around the 100k TPS of Ethereum 2.0 and how it&#39;ll solve scalability forever... but the reality is not that simple. Let me expand on this:</p>\n\n<p>Ethereum 2.0 will be split into 64 different chains (all kind of equal to the current Ethereum) that connect to the beacon chain to improve scalability. The high TPS numbers that are thrown around are in theory a combination of all the shards running asynchronously + layer 2 solutions BUT the assumption here for 100k TPS is that all the load on Ethereum will be split to fill equally all shards, which is not realistic, let me explain why...</p>\n\n<p>The biggest issue with this architecture is that interoperability is kind of thrown out the window, for two shards to interact with each other they first have to go through the beacon chain and that takes about 6-12 minutes due to security which means that everything that needs synchronous and instant interoperability with everything else will be forced to go into the same shard which means that they will be bottlenecked by the shard&#39;s slow speed (less than 40 tps on chain, maybe 1-2k tps WITH layer 2 scaling).</p>\n\n<p>At this point you&#39;ll say that &quot;<em>2k tps is super scalable, Visa is doing that much on a daily basis</em>&quot;. That&#39;s wrong. We shouldn&#39;t compare smart contract platforms that are supposed to be the backbone of the Web3 with simple payment processors like Visa. Smart contract transactions can be triggered automatically and they can in turn trigger tens or maybe hundreds of other transactions, a smart contract platform is insanely more demanding than a value transfer protocol like Bitcoin, Monero, Nano etc. </p>\n\n<p>A better example are the Nasdaq Markets which ACTUALLY handle at least <a href=\"https://www.forbes.com/forbes/2009/0112/056.html?sh=191df3177cc7\">75000 TPS</a> of orders, cancellations and trades continuously and scales to 250000 tps if needed. How can we decentralize JUST this one exchange on an Ethereum shard in a future where Web3 will have a billion users?</p>\n\n<p>I&#39;m not here to break your bubble, Ethereum 2.0 will hold up for a many years without big issues and it will onboard millions of new people into Web3, but it will not be able to be the backbone of the new internet by design.</p>\n\n<p>Ethereum 3.0?</p>\n</div><!-- SC_ON -->",
+  "score": 187,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/HIxv_gviBBhSxoSEA4MY0bdwHk-OSdNJhmnisHQ2-UQ.jpg?auto=webp&s=148f720d7ee45fc78fb71f8c87f4597a3a4a0d45",
+          "width": 480,
+          "height": 122
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/HIxv_gviBBhSxoSEA4MY0bdwHk-OSdNJhmnisHQ2-UQ.jpg?width=108&crop=smart&auto=webp&s=de01862ce6dea0e32f03937022783f7e0c91cc5f",
+            "width": 108,
+            "height": 27
+          },
+          {
+            "url": "https://external-preview.redd.it/HIxv_gviBBhSxoSEA4MY0bdwHk-OSdNJhmnisHQ2-UQ.jpg?width=216&crop=smart&auto=webp&s=6f75916510243854992fb9ec7d6d08fba26bd474",
+            "width": 216,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/HIxv_gviBBhSxoSEA4MY0bdwHk-OSdNJhmnisHQ2-UQ.jpg?width=320&crop=smart&auto=webp&s=e81914099e83da7d8fd8e12e4f8c8991b7384f74",
+            "width": 320,
+            "height": 81
+          }
+        ],
+        "variants": {},
+        "id": "Lyw_zjyslh3hFzuvsu-WhCPwuyv9bmBxCmZIl-eIyA4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ohp44c/why_even_ethereum_20_will_not_be_as_scalable_as/",
+  "subreddit": "CryptoCurrency",
+  "id": "ohp44c",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "When reading this keep in mind that I'm not talking about the next few years but\nabout a much much wider timeframe. I also expect a wave of downvotes but if you\nhave constructive criticism I encourage you to write it.\n\nA lot of people throw around the 100k TPS of Ethereum 2.0 and how it'll…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この記事を読む際には、今後数年間の話ではなく、もっともっと広い期間の話であることを念頭に置いてください。\nもっともっと広い時間軸での話です。また、多くの人から否定的な意見が寄せられると思いますが、建設的な意見があれば\n建設的な批判があれば、ぜひ書いてほしいと思います。\n\n多くの人がEthereum 2.0の100k TPSや、それがどのように...",
+      "title": "イーサリアム2.0でも、思ったほどのスケーラビリティが得られない理由"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "当阅读这篇文章时，请记住，我说的不是未来几年，而是更广泛的时间范围。\n关于一个更广泛的时间框架。我也期待着一波负面评价，但如果你\n有建设性的批评意见，我鼓励你写出来。\n\n很多人把以太坊2.0的10万TPS说得天花乱坠，说它会如何如何。",
+      "title": "为什么即使是以太坊2.0也不会像你想象的那样具有可扩展性"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "當閱讀這篇文章時，請記住，我說的不是未來幾年，而是更廣泛的時間範圍。\n關於一個更廣泛的時間框架。我也期待着一波負面評價，但如果你\n有建設性的批評意見，我鼓勵你寫出來。\n\n很多人把以太坊2.0的10萬TPS說得天花亂墜，說它會如何如何。",
+      "title": "爲什麼即使是以太坊2.0也不會像你想象的那樣具有可擴展性"
+    }
+  ]
+}

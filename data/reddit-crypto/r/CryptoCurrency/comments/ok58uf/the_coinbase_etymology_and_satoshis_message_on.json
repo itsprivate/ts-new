@@ -1,0 +1,63 @@
+{
+  "author": "Onnar",
+  "original_created_utc": 1626272152,
+  "title": "The Coinbase etymology and Satoshi's message on the Bitcoin blockchain",
+  "created_utc": 1626288442,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>To most people, Coinbase just means <em>the</em> crypto exchange. However, it took its name from a special field in Bitcoin blocks called &quot;coinbase&quot;.</p>\n\n<p>The fun part is that this field can contain arbitrary data, and this has been used by Satoshi himself, digital graffiti artists and nerds looking for a fun way to do marriage proposals. And also for a few bad things, but let&#39;s not go there.</p>\n\n<p>Let&#39;s decode Satoshi&#39;s first message manually to see how this works. I&#39;ll use online tools exclusively, so everyone can follow along.</p>\n\n<p>While the presence of this message is very well known, the punchline at the end of this post is less widely known.</p>\n\n<p>I thought it would be interesting for people to learn the rough process of finding such nuggets. By scanning the blockchain with a script, you can automate all this to look for interesting content. With a bit of Python or Javascript coding, and a bit of imagination and decoding trials, you may find things never discovered before.</p>\n\n<p>The first step is to grab the data of block 0, the very first block mined by Satoshi. This is available from <a href=\"https://blockchain.info/block-height/0\">https://blockchain.info/block-height/0</a></p>\n\n<p>This gives us a JSON formatted response:</p>\n\n<p><code>{&quot;blocks&quot;:[{&quot;hash&quot;:&quot;000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f&quot;,&quot;ver&quot;:1,&quot;prev_block&quot;:&quot;0000000000000000000000000000000000000000000000000000000000000000&quot;,&quot;mrkl_root&quot;:&quot;4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b&quot;,&quot;time&quot;:1231006505,&quot;bits&quot;:486604799,&quot;next_block&quot;:[&quot;00000000839a8e6886ab5951d76f411475428afc90947ee320161bbf18eb6048&quot;],&quot;fee&quot;:0,&quot;nonce&quot;:2083236893,&quot;n_tx&quot;:1,&quot;size&quot;:285,&quot;block_index&quot;:0,&quot;main_chain&quot;:true,&quot;height&quot;:0,&quot;weight&quot;:1140,&quot;tx&quot;:[{&quot;hash&quot;:&quot;4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b&quot;,&quot;ver&quot;:1,&quot;vin_sz&quot;:1,&quot;vout_sz&quot;:1,&quot;size&quot;:204,&quot;weight&quot;:816,&quot;fee&quot;:0,&quot;relayed_by&quot;:&quot;</code><a href=\"https://0.0.0.0\"><code>0.0.0.0</code></a><code>&quot;,&quot;lock_time&quot;:0,&quot;tx_index&quot;:2098408272645986,&quot;double_spend&quot;:false,&quot;time&quot;:1231006505,&quot;block_index&quot;:0,&quot;block_height&quot;:0,&quot;inputs&quot;:[{&quot;sequence&quot;:4294967295,&quot;witness&quot;:&quot;&quot;,&quot;script&quot;:&quot;04ffff001d0104455468652054696d65732030332f4a616e2f32303039204368616e63656c6c6f72206f6e206272696e6b206f66207365636f6e64206261696c6f757420666f722062616e6b73&quot;,&quot;index&quot;:0,&quot;prev_out&quot;:null}],&quot;out&quot;:[{&quot;type&quot;:0,&quot;spent&quot;:false,&quot;value&quot;:5000000000,&quot;spending_outpoints&quot;:[],&quot;n&quot;:0,&quot;tx_index&quot;:2098408272645986,&quot;script&quot;:&quot;4104678afdb0fe5548271967f1a67130b7105cd6a828e03909a67962e0ea1f61deb649f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5fac&quot;,&quot;addr&quot;:&quot;1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa&quot;}]}]}]}</code></p>\n\n<p>We&#39;ll look closer at two values, &quot;time&quot; and &quot;script&quot; (aka coinbase)</p>\n\n<p>The time value is 1231006505, which looks like it might be a Unix epoch value. Stuffing it into <a href=\"https://www.epochconverter.com/\">https://www.epochconverter.com/</a> gives us a value of &quot;<strong>Saturday, January 3, 2009 6:15:05 PM GMT</strong>&quot;, which is indeed when Satoshi mined the very first block.</p>\n\n<p>We know he used this mining opportunity to include a message. Let&#39;s see what the message is, exactly, by decoding the &quot;script&quot; field. This is a bunch of hex digits we can convert to ASCII on a site like <a href=\"https://www.rapidtables.com/convert/number/hex-to-ascii.html\">https://www.rapidtables.com/convert/number/hex-to-ascii.html</a></p>\n\n<p>Pasting in the hex value 04ffff001d0104455468652054696d65732030332f4a616e2f32303039204368616e63656c6c6f72206f6206272696e6b206f66207365636f6e64206261696c6f757420666f722062616e6b73, we get this result:</p>\n\n<p><strong><em>&lt;some other data&gt; The Times 03/Jan/2009 Chancellor on brink of second bailout for banks</em></strong></p>\n\n<p>This is the article Satoshi is referring to: <a href=\"https://www.thetimes.co.uk/article/chancellor-alistair-darling-on-brink-of-second-bailout-for-banks-n9l382mn62h\">https://www.thetimes.co.uk/article/chancellor-alistair-darling-on-brink-of-second-bailout-for-banks-n9l382mn62h</a></p>\n\n<p>Now take a look at the paper version Satoshi probably read: <a href=\"https://imgur.com/pGYXHJh\">https://imgur.com/pGYXHJh</a></p>\n\n<p>That&#39;s right. The small heading on the top says &quot;<strong>Start collecting tokens today</strong>&quot;.</p>\n\n<p>How fitting.</p>\n</div><!-- SC_ON -->",
+  "score": 190,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/8cAqgEag0A_dBA5pIgncpS-xZqgV-796ine7Vti6qf8.jpg?auto=webp&s=c60212198786331934dceec39862cdbe0f84ebc4",
+          "width": 600,
+          "height": 315
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/8cAqgEag0A_dBA5pIgncpS-xZqgV-796ine7Vti6qf8.jpg?width=108&crop=smart&auto=webp&s=ad65e6cabb404eb9e1e5e117db04147f986d0b48",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/8cAqgEag0A_dBA5pIgncpS-xZqgV-796ine7Vti6qf8.jpg?width=216&crop=smart&auto=webp&s=26e302b00645dca59d8ae20fd02085e77e819016",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/8cAqgEag0A_dBA5pIgncpS-xZqgV-796ine7Vti6qf8.jpg?width=320&crop=smart&auto=webp&s=0d1796c209dc666a44abd9766686be38454958fd",
+            "width": 320,
+            "height": 168
+          }
+        ],
+        "variants": {},
+        "id": "gMWmd5RROZbTDA4nbwk_HsgGKCUVxTzxfehHzAcs1gw"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ok58uf/the_coinbase_etymology_and_satoshis_message_on/",
+  "subreddit": "CryptoCurrency",
+  "id": "ok58uf",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "To most people, Coinbase just means the crypto exchange. However, it took its\nname from a special field in Bitcoin blocks called \"coinbase\".\n\nThe fun part is that this field can contain arbitrary data, and this has been\nused by Satoshi himself, digital graffiti artists and nerds looking for a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ほとんどの人にとって、Coinbaseは暗号化された取引所を意味するだけです。しかし、その名前の由来は\n名前の由来は、ビットコインのブロック内にある \"coinbase \"という特殊なフィールドです。\n\n面白いのは、このフィールドには任意のデータを入れることができ、これをサトシ自身や、デジタルグラフィティアーティスト、オタクが利用してきました。\nこのフィールドは、サトシ自身や、デジタルグラフィティアーティスト、オタクたちが使用しています。",
+      "title": "コインベースの語源とビットコインのブロックチェーンにおけるサトシのメッセージ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对大多数人来说，Coinbase只是意味着加密货币交易所。然而，它的名字\n它的名字来自于比特币区块中一个名为 \"coinbase \"的特殊字段。\n\n有趣的是，这个字段可以包含任意的数据，而这一点已经被\n这被中本聪本人、数字涂鸦艺术家和正在寻找 \"硬币 \"的书呆子们所使用。",
+      "title": "Coinbase的词源和中本聪在比特币区块链上的信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對大多數人來說，Coinbase只是意味着加密貨幣交易所。然而，它的名字\n它的名字來自於比特幣區塊中一個名爲 \"coinbase \"的特殊字段。\n\n有趣的是，這個字段可以包含任意的數據，而這一點已經被\n這被中本聰本人、數字塗鴉藝術家和正在尋找 \"硬幣 \"的書呆子們所使用。",
+      "title": "Coinbase的詞源和中本聰在比特幣區塊鏈上的信息"
+    }
+  ]
+}

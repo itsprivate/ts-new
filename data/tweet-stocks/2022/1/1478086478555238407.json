@@ -1,0 +1,95 @@
+{
+  "created_at": "Mon Jan 03 20:36:36 +0000 2022",
+  "id_str": "1478086478555238407",
+  "full_text": "Apple becomes the world's first $3 trillion company.\n\n$AAPL\n\nData via @ycharts https://t.co/L5uiaxWD56",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "AAPL",
+        "indices": [
+          54,
+          59
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ycharts",
+        "name": "YCharts",
+        "id": 22869238,
+        "id_str": "22869238",
+        "indices": [
+          70,
+          78
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1478086401820344300,
+        "id_str": "1478086401820344332",
+        "indices": [
+          79,
+          102
+        ],
+        "media_url": "http://pbs.twimg.com/media/FIM3wE_WQAwhkpO.png",
+        "media_url_https": "https://pbs.twimg.com/media/FIM3wE_WQAwhkpO.png",
+        "url": "https://t.co/L5uiaxWD56",
+        "display_url": "pic.twitter.com/L5uiaxWD56",
+        "expanded_url": "https://twitter.com/charliebilello/status/1478086478555238407/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 475,
+            "h": 661,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 475,
+            "h": 661,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 475,
+            "h": 661,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 68,
+  "favorite_count": 222,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jan 03 19:30:52 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アップル、世界初の3兆円企業に。\n\n$AAPL\n\nData via @ycharts https://t.co/L5uiaxWD56"
+    },
+    {
+      "locale": "zh",
+      "full_text": "苹果成为世界上第一家3万亿美元的公司。\n\n$AAPL\n\n数据来自@ycharts https://t.co/L5uiaxWD56"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "蘋果成爲世界上第一家3萬億美元的公司。\n\n$AAPL\n\n數據來自@ycharts https://t.co/L5uiaxWD56"
+    }
+  ]
+}

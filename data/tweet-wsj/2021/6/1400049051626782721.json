@@ -1,0 +1,84 @@
+{
+  "created_at": "Wed Jun 02 14:22:0 +0000 2021",
+  "id_str": "1400049051626782721",
+  "full_text": "Brazil-based JBS, the world’s largest meat company by sales, was hit by a ransomware attack, raising pressure on a food-supply chain already under strain and potentially leading to higher consumer prices #WSJWhatsNow https://t.co/QTQgSAtCGx",
+  "display_text_range": [
+    0,
+    216
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          204,
+          216
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1400043070020853800,
+        "id_str": "1400043070020853765",
+        "indices": [
+          217,
+          240
+        ],
+        "media_url": "http://pbs.twimg.com/media/E231Kh1XIAQfEEf.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E231Kh1XIAQfEEf.jpg",
+        "url": "https://t.co/QTQgSAtCGx",
+        "display_url": "pic.twitter.com/QTQgSAtCGx",
+        "expanded_url": "https://twitter.com/WSJ/status/1400049051626782721/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 41,
+  "favorite_count": 84,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Jun 02 11:18:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ブラジルに本社を置く世界最大の食肉会社JBSは、ランサムウェアによる攻撃を受けました。これにより、すでに緊張状態にある食のサプライチェーンへの圧力が高まり、消費者価格の上昇につながる可能性があります。 #WSJWhatsNow https://t.co/QTQgSAtCGx"
+    },
+    {
+      "locale": "zh",
+      "full_text": "总部位于巴西的JBS公司是世界上销售额最大的肉类公司，受到勒索软件的攻击，使已经处于紧张状态的食品供应链面临更大压力，并可能导致消费者价格上涨#WSJWhatsNow https://t.co/QTQgSAtCGx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "總部位於巴西的JBS公司是世界上銷售額最大的肉類公司，受到勒索軟件的攻擊，使已經處於緊張狀態的食品供應鏈面臨更大壓力，並可能導致消費者價格上漲#WSJWhatsNow https://t.co/QTQgSAtCGx"
+    }
+  ]
+}

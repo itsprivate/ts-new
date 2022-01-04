@@ -1,0 +1,378 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "**Preamble:** Ahh, a tale as old as time. Two legions of believers destined to be eternally entwined in battle! On one side we have those who swear by the active fund managers and their superior returns. On the other, we have those who trust the good old index fund with all their life savings! \n\n[ ](https://i.redd.it/zxm0u6tkyih71.gif)\n\nPick your sides. It’s about time we put this argument to rest.  \n\n**Data**\n\nIt’s one of those rare times where somebody else does all the legwork for your analysis. Almost all the data for this analysis is from the [2020 SPIVA U.S Scorecard report](https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2020.pdf). SPIVA is a division of the S&P Global and has been considered as the de-facto scorekeeper in the active vs passive debate. They have produced a report every year since 2002. They have done all the dirty work of collecting and cleaning the data required for the analysis \\[1\\].\n\n**Analysis \\[2\\]**\n\nWe will be analyzing the following types of funds\n\n[ ](https://preview.redd.it/lcpg77imyih71.png?width=494&format=png&auto=webp&s=ee23ec2dc2649efd35fa9de7ef9169699babd1c9)\n\nWe will be then calculating the following\n\na. Percentage of funds underperforming the benchmark across time periods (1, 3, 5, 10 & 20 years)\n\nb. Average fund performance (1, 3, 5, 10 & 20 years – Both Equal and Asset Weighted)\n\nThe above analysis should give us conclusive evidence on which approach is better both in the short as well as long term.\n\n**Results**\n\n[ ](https://preview.redd.it/fu5yzplnyih71.png?width=1028&format=png&auto=webp&s=f6d150d0872d79fc49a5a5dcc942690abf3d015e)\n\nThe results are not pretty! Except for the lone one-year period for small-cap funds, most actively managed funds underperformed their corresponding index in all the other time frames across the different funds.\n\nAs we can see, these differences only become much more drastic over the long term. If you consider the Large-Cap Funds, over the last 20 years, 94% of the actively managed funds have underperformed S&P500.\n\nA similar story is repeated for Small and Mid-cap funds. We can conclude from here that it’s very unlikely that the fund you choose today will be able to beat the corresponding index over the long run.\n\nBut this is just one aspect of performance. What if you consider the average returns produced by the actively managed funds? Would they beat the market returns \\[3\\]?\n\nhttps://preview.redd.it/cbriauooyih71.png?width=1029&format=png&auto=webp&s=3344a479ae1025f9bb0c584f565c492d21c0ca4e\n\n[ ](https://preview.redd.it/1pmthyepyih71.png?width=1029&format=png&auto=webp&s=6b11e2681706fa6c9e983bba3d4ff8d0b985a9ca)\n\nIn both Asset and Equal weighted returns, the index funds have outperformed actively managed funds over the long run. The only place where we can say with some confidence that actively managed funds performed better is in small and mid-cap funds where returns from an actively managed fund were slightly better than the index. This again is applicable only for time periods which are lesser than five years and also you have to be diligent enough to pick the right fund at the beginning of your investment.\n\nThere are mainly two reasons I can think of why active funds are underperforming index funds\n\na.  The fees active funds charge add up over the long run and the market is becoming more and more efficient. While 40-50 years back, there would have been a better chance of a fund manager finding an undervalued stock, the abundance of information makes it difficult to find the diamonds in the rough. This can also be seen in the fact that active funds have relatively better success in mid and small-cap funds where there is more scope for price discovery when compared to large-cap stocks.\n\nb.  We underestimate the changes that can happen over 20 years. The fund manager, management team, and even the fund strategy can change after seeing multiple rallies and recessions over 2 decades. So, the fund you started with would be vastly different after 20 years.\n\nOne callout here is that while benchmarking against actively managed funds, SPIVA (S&P Global Subsidiary) pulled one over us!\n\n[ ](https://i.redd.it/uzde048vyih71.gif)\n\nThe benchmark is calculated with respect to the index return without considering the cost associated with investing in the index (while the actively managed fund returns are calculated after fees). While this is a very small amount (0.03% for Vanguard SP500 ETF) when compared to actively managed funds (0.7-2%), it might change our final results slightly. But I don’t think it would in any way affect the overall results as the expense ratio is negligible for index funds.\n\n**Return Comparison considering fees**\n\nSince some of us would have a lingering question on the impact of the index fund fee, I did some calculations on the difference in return over 20 years if you invested in different funds. (The Index returns here are calculated after incorporating the fees – 0.03%)\n\n[ ](https://preview.redd.it/copkzpewyih71.png?width=987&format=png&auto=webp&s=c3391a7a830facdd40f9ecf7c797ac9200509d0b)\n\nThis should be the final nail in the coffin for actively managed funds as in all the scenarios of our analysis, just investing in a passive index provided significantly better return over the long run.    \n\n**Conclusion**\n\nI am not saying that active funds are pointless. Different investors have different time horizons of investment. Active funds sometimes do tend to perform better than the index during significant market volatility. In these times, fund managers can be more selective (like converting the holdings to cash and then buying back at the bottom) whereas with index funds you will be replicating exactly what the market is going through.\n\nBut then again as we can see from our analysis, only <15% of funds \\[4\\] beat the market in the long run (20 years). As we can see from the trends, longer time periods only work against the active fund managers. The chances of the fund making the right decision year over year reduce which is why it’s good to remember that past performance cannot be indicative of future returns.\n\nSo, to conclude, in almost all the cases, you would be better off just sticking to a passive index fund and letting it ride!\n\n**Footnotes**\n\n\\[1\\] The data provided by SPIVA is accounted for survivorship bias, compares similar funds to its benchmark rather than comparing all types to SP500, and has also split its returns into both asset and equal-weighted methods. A detailed explanation for each is given in their official scorecard.\n\n\\[2\\] This analysis would be limited to the data directly provided in the SPIVA report as they have not shared the raw data used in the analysis.\n\n\\[3\\] Even if 86% of all funds underperformed the market over the last 20 years, what if the rest 14% created so much alpha that on avg returns actively managed funds beat the market?\n\n\\[4\\] The chances of you picking the correct fund that will outperform the market in the next 20 years are very close to the chance of you predicting the correct number in a die throw! You can check your luck [here](https://freeonlinedice.com/).\n\n*As always, please note that I am not a financial advisor.* Hope you enjoyed this week’s analysis.",
+  "author_fullname": "t2_q15pxyy",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Do actively managed mutual funds beat the index? - Analyzing and benchmarking the performance over the last 20 years!",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "1pmthyepyih71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 33,
+          "x": 108,
+          "u": "https://preview.redd.it/1pmthyepyih71.png?width=108&crop=smart&auto=webp&s=20e1c800bc76cce874a297d6a6313a0f953416f8"
+        },
+        {
+          "y": 66,
+          "x": 216,
+          "u": "https://preview.redd.it/1pmthyepyih71.png?width=216&crop=smart&auto=webp&s=67596068084d830d7cdc9d9848fc05323fe16c8c"
+        },
+        {
+          "y": 97,
+          "x": 320,
+          "u": "https://preview.redd.it/1pmthyepyih71.png?width=320&crop=smart&auto=webp&s=de5cf31d523cec8411f96c3e2a48edb57513b83f"
+        },
+        {
+          "y": 195,
+          "x": 640,
+          "u": "https://preview.redd.it/1pmthyepyih71.png?width=640&crop=smart&auto=webp&s=f941e349aa7351d1ce2e42c521cb34de10b47416"
+        },
+        {
+          "y": 293,
+          "x": 960,
+          "u": "https://preview.redd.it/1pmthyepyih71.png?width=960&crop=smart&auto=webp&s=807b198468924636143c5b2f1a5c4f817e36ea1d"
+        }
+      ],
+      "s": {
+        "y": 315,
+        "x": 1029,
+        "u": "https://preview.redd.it/1pmthyepyih71.png?width=1029&format=png&auto=webp&s=6b11e2681706fa6c9e983bba3d4ff8d0b985a9ca"
+      },
+      "id": "1pmthyepyih71"
+    },
+    "lcpg77imyih71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 28,
+          "x": 108,
+          "u": "https://preview.redd.it/lcpg77imyih71.png?width=108&crop=smart&auto=webp&s=f3ba5e3b5b3bbdc25042f075c527fd246ab73e66"
+        },
+        {
+          "y": 57,
+          "x": 216,
+          "u": "https://preview.redd.it/lcpg77imyih71.png?width=216&crop=smart&auto=webp&s=d233de5930b22dcab64536cff56abff89a200201"
+        },
+        {
+          "y": 84,
+          "x": 320,
+          "u": "https://preview.redd.it/lcpg77imyih71.png?width=320&crop=smart&auto=webp&s=3f1e53cd3b9bdbdf242c0fdc76dfcd8670350649"
+        }
+      ],
+      "s": {
+        "y": 131,
+        "x": 494,
+        "u": "https://preview.redd.it/lcpg77imyih71.png?width=494&format=png&auto=webp&s=ee23ec2dc2649efd35fa9de7ef9169699babd1c9"
+      },
+      "id": "lcpg77imyih71"
+    },
+    "copkzpewyih71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 27,
+          "x": 108,
+          "u": "https://preview.redd.it/copkzpewyih71.png?width=108&crop=smart&auto=webp&s=4370b2a421c5d4bb7fafca7d8f7c042b37c82f89"
+        },
+        {
+          "y": 54,
+          "x": 216,
+          "u": "https://preview.redd.it/copkzpewyih71.png?width=216&crop=smart&auto=webp&s=ab50ab82b60c5ef0b8bb8c3edb5d75a53a41d6b9"
+        },
+        {
+          "y": 80,
+          "x": 320,
+          "u": "https://preview.redd.it/copkzpewyih71.png?width=320&crop=smart&auto=webp&s=00f560fcb437852b32e53f33f7af6182a3e90137"
+        },
+        {
+          "y": 161,
+          "x": 640,
+          "u": "https://preview.redd.it/copkzpewyih71.png?width=640&crop=smart&auto=webp&s=99a57dcf356d730be25e23d9091453a66252765d"
+        },
+        {
+          "y": 242,
+          "x": 960,
+          "u": "https://preview.redd.it/copkzpewyih71.png?width=960&crop=smart&auto=webp&s=f60aec729222c17f596e099ad865cdff37879a16"
+        }
+      ],
+      "s": {
+        "y": 249,
+        "x": 987,
+        "u": "https://preview.redd.it/copkzpewyih71.png?width=987&format=png&auto=webp&s=c3391a7a830facdd40f9ecf7c797ac9200509d0b"
+      },
+      "id": "copkzpewyih71"
+    },
+    "uzde048vyih71": {
+      "status": "valid",
+      "e": "AnimatedImage",
+      "m": "image/gif",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/uzde048vyih71.gif?width=108&crop=smart&format=png8&s=436ea7230deb83c95303dcf1b5652aba9c49bd82"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/uzde048vyih71.gif?width=216&crop=smart&format=png8&s=b77d7bae5e3b82a0b5bc20866a53a1de8cfed8d7"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/uzde048vyih71.gif?width=320&crop=smart&format=png8&s=157c0d9d0e5173257b7039c505b11138f1b7aa06"
+        }
+      ],
+      "s": {
+        "y": 270,
+        "gif": "https://i.redd.it/uzde048vyih71.gif",
+        "mp4": "https://preview.redd.it/uzde048vyih71.gif?format=mp4&s=82271881e6cdcb3a89e6613f783bdf383c957e88",
+        "x": 480
+      },
+      "id": "uzde048vyih71"
+    },
+    "zxm0u6tkyih71": {
+      "status": "valid",
+      "e": "AnimatedImage",
+      "m": "image/gif",
+      "p": [
+        {
+          "y": 47,
+          "x": 108,
+          "u": "https://preview.redd.it/zxm0u6tkyih71.gif?width=108&crop=smart&format=png8&s=875c0743843f50edc2ded22dd4b82ebb6ec62d73"
+        },
+        {
+          "y": 95,
+          "x": 216,
+          "u": "https://preview.redd.it/zxm0u6tkyih71.gif?width=216&crop=smart&format=png8&s=70f9abb67b48a7fb47676e9d9a42c23149fe8b2f"
+        },
+        {
+          "y": 141,
+          "x": 320,
+          "u": "https://preview.redd.it/zxm0u6tkyih71.gif?width=320&crop=smart&format=png8&s=52592389b80c16d3011278302de515f151f3ad0f"
+        }
+      ],
+      "s": {
+        "y": 220,
+        "gif": "https://i.redd.it/zxm0u6tkyih71.gif",
+        "mp4": "https://preview.redd.it/zxm0u6tkyih71.gif?format=mp4&s=4b1a8bd8ba78cfd858d1a7568950d7556d09710a",
+        "x": 498
+      },
+      "id": "zxm0u6tkyih71"
+    },
+    "cbriauooyih71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 33,
+          "x": 108,
+          "u": "https://preview.redd.it/cbriauooyih71.png?width=108&crop=smart&auto=webp&s=aee917ddaf65be5237500fe7d24013cf9ad987fc"
+        },
+        {
+          "y": 66,
+          "x": 216,
+          "u": "https://preview.redd.it/cbriauooyih71.png?width=216&crop=smart&auto=webp&s=04357dd55221b07c6ae6c0fc8b2525c4615337de"
+        },
+        {
+          "y": 97,
+          "x": 320,
+          "u": "https://preview.redd.it/cbriauooyih71.png?width=320&crop=smart&auto=webp&s=d32cc3b452240efc5f7bd7723f3a2644d87aaaf6"
+        },
+        {
+          "y": 195,
+          "x": 640,
+          "u": "https://preview.redd.it/cbriauooyih71.png?width=640&crop=smart&auto=webp&s=6f919059334cf708c2093cde2e0e2319bb6a2853"
+        },
+        {
+          "y": 293,
+          "x": 960,
+          "u": "https://preview.redd.it/cbriauooyih71.png?width=960&crop=smart&auto=webp&s=e5ee823c5fc21e311d386e2fc34eb78d67b6eaab"
+        }
+      ],
+      "s": {
+        "y": 315,
+        "x": 1029,
+        "u": "https://preview.redd.it/cbriauooyih71.png?width=1029&format=png&auto=webp&s=3344a479ae1025f9bb0c584f565c492d21c0ca4e"
+      },
+      "id": "cbriauooyih71"
+    },
+    "fu5yzplnyih71": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 34,
+          "x": 108,
+          "u": "https://preview.redd.it/fu5yzplnyih71.png?width=108&crop=smart&auto=webp&s=79a818f7d8007c4139c92075b6982e09dd2c3820"
+        },
+        {
+          "y": 69,
+          "x": 216,
+          "u": "https://preview.redd.it/fu5yzplnyih71.png?width=216&crop=smart&auto=webp&s=90c785d6ca5ef553a59f55d99db49693ba3eea32"
+        },
+        {
+          "y": 103,
+          "x": 320,
+          "u": "https://preview.redd.it/fu5yzplnyih71.png?width=320&crop=smart&auto=webp&s=4c2c57d2717ee69d3a70f9d99ccc3e102e956bd2"
+        },
+        {
+          "y": 206,
+          "x": 640,
+          "u": "https://preview.redd.it/fu5yzplnyih71.png?width=640&crop=smart&auto=webp&s=10724a52020bfe7ab2d4a4b3fde7aea1194a108d"
+        },
+        {
+          "y": 309,
+          "x": 960,
+          "u": "https://preview.redd.it/fu5yzplnyih71.png?width=960&crop=smart&auto=webp&s=26f47dde578c70e8720b33b2daa324e9a35cc0a3"
+        }
+      ],
+      "s": {
+        "y": 331,
+        "x": 1028,
+        "u": "https://preview.redd.it/fu5yzplnyih71.png?width=1028&format=png&auto=webp&s=f6d150d0872d79fc49a5a5dcc942690abf3d015e"
+      },
+      "id": "fu5yzplnyih71"
+    }
+  },
+  "name": "t3_p4tjye",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": "#373c3f",
+  "subreddit_type": "public",
+  "ups": 1906,
+  "total_awards_received": 15,
+  "media_embed": {},
+  "author_flair_template_id": "28fbe25a-7c59-11ea-965e-0e0a65cd3f97",
+  "is_original_content": true,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1906,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Anal(yst)"
+    }
+  ],
+  "gildings": {
+    "gid_1": 3
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1629034686,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Preamble:</strong> Ahh, a tale as old as time. Two legions of believers destined to be eternally entwined in battle! On one side we have those who swear by the active fund managers and their superior returns. On the other, we have those who trust the good old index fund with all their life savings! </p>\n\n<p><a href=\"https://i.redd.it/zxm0u6tkyih71.gif\"> </a></p>\n\n<p>Pick your sides. It’s about time we put this argument to rest.  </p>\n\n<p><strong>Data</strong></p>\n\n<p>It’s one of those rare times where somebody else does all the legwork for your analysis. Almost all the data for this analysis is from the <a href=\"https://www.spglobal.com/spdji/en/documents/spiva/spiva-us-year-end-2020.pdf\">2020 SPIVA U.S Scorecard report</a>. SPIVA is a division of the S&amp;P Global and has been considered as the de-facto scorekeeper in the active vs passive debate. They have produced a report every year since 2002. They have done all the dirty work of collecting and cleaning the data required for the analysis [1].</p>\n\n<p><strong>Analysis [2]</strong></p>\n\n<p>We will be analyzing the following types of funds</p>\n\n<p><a href=\"https://preview.redd.it/lcpg77imyih71.png?width=494&amp;format=png&amp;auto=webp&amp;s=ee23ec2dc2649efd35fa9de7ef9169699babd1c9\"> </a></p>\n\n<p>We will be then calculating the following</p>\n\n<p>a. Percentage of funds underperforming the benchmark across time periods (1, 3, 5, 10 &amp; 20 years)</p>\n\n<p>b. Average fund performance (1, 3, 5, 10 &amp; 20 years – Both Equal and Asset Weighted)</p>\n\n<p>The above analysis should give us conclusive evidence on which approach is better both in the short as well as long term.</p>\n\n<p><strong>Results</strong></p>\n\n<p><a href=\"https://preview.redd.it/fu5yzplnyih71.png?width=1028&amp;format=png&amp;auto=webp&amp;s=f6d150d0872d79fc49a5a5dcc942690abf3d015e\"> </a></p>\n\n<p>The results are not pretty! Except for the lone one-year period for small-cap funds, most actively managed funds underperformed their corresponding index in all the other time frames across the different funds.</p>\n\n<p>As we can see, these differences only become much more drastic over the long term. If you consider the Large-Cap Funds, over the last 20 years, 94% of the actively managed funds have underperformed S&amp;P500.</p>\n\n<p>A similar story is repeated for Small and Mid-cap funds. We can conclude from here that it’s very unlikely that the fund you choose today will be able to beat the corresponding index over the long run.</p>\n\n<p>But this is just one aspect of performance. What if you consider the average returns produced by the actively managed funds? Would they beat the market returns [3]?</p>\n\n<p><a href=\"https://preview.redd.it/cbriauooyih71.png?width=1029&amp;format=png&amp;auto=webp&amp;s=3344a479ae1025f9bb0c584f565c492d21c0ca4e\">https://preview.redd.it/cbriauooyih71.png?width=1029&amp;format=png&amp;auto=webp&amp;s=3344a479ae1025f9bb0c584f565c492d21c0ca4e</a></p>\n\n<p><a href=\"https://preview.redd.it/1pmthyepyih71.png?width=1029&amp;format=png&amp;auto=webp&amp;s=6b11e2681706fa6c9e983bba3d4ff8d0b985a9ca\"> </a></p>\n\n<p>In both Asset and Equal weighted returns, the index funds have outperformed actively managed funds over the long run. The only place where we can say with some confidence that actively managed funds performed better is in small and mid-cap funds where returns from an actively managed fund were slightly better than the index. This again is applicable only for time periods which are lesser than five years and also you have to be diligent enough to pick the right fund at the beginning of your investment.</p>\n\n<p>There are mainly two reasons I can think of why active funds are underperforming index funds</p>\n\n<p>a.  The fees active funds charge add up over the long run and the market is becoming more and more efficient. While 40-50 years back, there would have been a better chance of a fund manager finding an undervalued stock, the abundance of information makes it difficult to find the diamonds in the rough. This can also be seen in the fact that active funds have relatively better success in mid and small-cap funds where there is more scope for price discovery when compared to large-cap stocks.</p>\n\n<p>b.  We underestimate the changes that can happen over 20 years. The fund manager, management team, and even the fund strategy can change after seeing multiple rallies and recessions over 2 decades. So, the fund you started with would be vastly different after 20 years.</p>\n\n<p>One callout here is that while benchmarking against actively managed funds, SPIVA (S&amp;P Global Subsidiary) pulled one over us!</p>\n\n<p><a href=\"https://i.redd.it/uzde048vyih71.gif\"> </a></p>\n\n<p>The benchmark is calculated with respect to the index return without considering the cost associated with investing in the index (while the actively managed fund returns are calculated after fees). While this is a very small amount (0.03% for Vanguard SP500 ETF) when compared to actively managed funds (0.7-2%), it might change our final results slightly. But I don’t think it would in any way affect the overall results as the expense ratio is negligible for index funds.</p>\n\n<p><strong>Return Comparison considering fees</strong></p>\n\n<p>Since some of us would have a lingering question on the impact of the index fund fee, I did some calculations on the difference in return over 20 years if you invested in different funds. (The Index returns here are calculated after incorporating the fees – 0.03%)</p>\n\n<p><a href=\"https://preview.redd.it/copkzpewyih71.png?width=987&amp;format=png&amp;auto=webp&amp;s=c3391a7a830facdd40f9ecf7c797ac9200509d0b\"> </a></p>\n\n<p>This should be the final nail in the coffin for actively managed funds as in all the scenarios of our analysis, just investing in a passive index provided significantly better return over the long run.    </p>\n\n<p><strong>Conclusion</strong></p>\n\n<p>I am not saying that active funds are pointless. Different investors have different time horizons of investment. Active funds sometimes do tend to perform better than the index during significant market volatility. In these times, fund managers can be more selective (like converting the holdings to cash and then buying back at the bottom) whereas with index funds you will be replicating exactly what the market is going through.</p>\n\n<p>But then again as we can see from our analysis, only &lt;15% of funds [4] beat the market in the long run (20 years). As we can see from the trends, longer time periods only work against the active fund managers. The chances of the fund making the right decision year over year reduce which is why it’s good to remember that past performance cannot be indicative of future returns.</p>\n\n<p>So, to conclude, in almost all the cases, you would be better off just sticking to a passive index fund and letting it ride!</p>\n\n<p><strong>Footnotes</strong></p>\n\n<p>[1] The data provided by SPIVA is accounted for survivorship bias, compares similar funds to its benchmark rather than comparing all types to SP500, and has also split its returns into both asset and equal-weighted methods. A detailed explanation for each is given in their official scorecard.</p>\n\n<p>[2] This analysis would be limited to the data directly provided in the SPIVA report as they have not shared the raw data used in the analysis.</p>\n\n<p>[3] Even if 86% of all funds underperformed the market over the last 20 years, what if the rest 14% created so much alpha that on avg returns actively managed funds beat the market?</p>\n\n<p>[4] The chances of you picking the correct fund that will outperform the market in the next 20 years are very close to the chance of you predicting the correct number in a die throw! You can check your luck <a href=\"https://freeonlinedice.com/\">here</a>.</p>\n\n<p><em>As always, please note that I am not a financial advisor.</em> Hope you enjoyed this week’s analysis.</p>\n</div><!-- SC_ON -->",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Anal(yst)",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "p4tjye",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "nobjos",
+  "discussion_type": null,
+  "num_comments": 160,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "light",
+  "permalink": "/r/wallstreetbets/comments/p4tjye/do_actively_managed_mutual_funds_beat_the_index/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/p4tjye/do_actively_managed_mutual_funds_beat_the_index/",
+  "subreddit_subscribers": 10741237,
+  "created_utc": 1629051949,
+  "num_crossposts": 2,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1629034686,
+  "the_new_excerpt": "Preamble: Ahh, a tale as old as time. Two legions of believers destined to be\neternally entwined in battle! On one side we have those who swear by the active\nfund managers and their superior returns. On the other, we have those who trust\nthe good old index fund with all their life…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "前置きが長くなりました。ああ、時の流れのような物語だ。永遠に絡み合う運命にある二つの信奉者の軍団が\n永遠に絡み合う運命にある。一方では、アクティブなファンドマネージャーを信奉する人々がいます。\n一方では、アクティブなファンドマネージャーとその優れたリターンを信じる人々がいます。もう一方では、古き良きインデックスファンドを信頼し\n一方では、古き良き時代のインデックス・ファンドに命を懸ける人々がいる。",
+      "title": "積極的に運用されている投資信託は、インデックスに勝てるのか？- 過去20年間のパフォーマンスを分析し、ベンチマークしてみた!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "序言。啊，一个和时间一样古老的故事。两个信仰者的军团注定要\n永远纠缠在一起的战斗! 一方是那些对主动型基金经理和他们的高额回报发誓的人。\n基金经理和他们的卓越回报。另一方，我们有那些相信\n好的老式指数基金，并将其视为生命......",
+      "title": "主动管理的共同基金能否战胜指数？- 对过去20年的业绩进行分析和设定基准!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "序言。啊，一個和時間一樣古老的故事。兩個信仰者的軍團註定要\n永遠糾纏在一起的戰鬥! 一方是那些對主動型基金經理和他們的高額回報發誓的人。\n基金經理和他們的卓越回報。另一方，我們有那些相信\n好的老式指數基金，並將其視爲生命......",
+      "title": "主動管理的共同基金能否戰勝指數？- 對過去20年的業績進行分析和設定基準!"
+    }
+  ],
+  "source_updated_at": 1629452486943
+}

@@ -1,0 +1,93 @@
+{
+  "id": "315094",
+  "commentsCount": 5,
+  "createdAt": "2021-10-09T12:54:23.324Z",
+  "description": "A Visual Studio Code extension that organizes your React app's components into an interactive tree in the sidebar. It shows parent-child relationships, props, navigates to the file where a component is defined, and marks any nodes connected to the Redux store.",
+  "featuredAt": "2021-10-09T07:00:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/d4220f25-d775-4b38-b658-c5254c6582b7.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/2129752d-63f7-4e5b-96f5-4c3697a0ca52.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0f287ceb-6ec9-4033-a761-3d2a62ef4dd3.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Sapling",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/cd70f2e22e5404?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/dd69540d8aa790?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Visual Studio Marketplace",
+      "url": "https://www.producthunt.com/r/ee455928e10050?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Lindsay Baird",
+    "url": "https://www.producthunt.com/@team_sapling?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 4,
+  "reviewsRating": 5,
+  "slug": "sapling-59eee63a-f26b-42a5-b4fd-7e4a6f745d84",
+  "tagline": "A convenient way to traverse your React app",
+  "url": "https://www.producthunt.com/posts/sapling-59eee63a-f26b-42a5-b4fd-7e4a6f745d84?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 245,
+  "website": "https://www.producthunt.com/r/ee455928e10050?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Web App"
+        }
+      },
+      {
+        "node": {
+          "name": "Software Engineering"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-09T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリのコンポーネントをサイドバーのインタラクティブなツリーに整理するVisual Studio Codeの拡張機能です。親子関係やプロップを表示したり、コンポーネントが定義されているファイルに移動したり、Reduxストアに接続されているノードをマークしたりします。",
+      "tagline": "Reactアプリを縦断する便利な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "一个Visual Studio Code扩展，它将你的React应用的组件组织成侧边栏中的一个互动树。它显示了父子关系、道具、导航到定义组件的文件，并标记了连接到Redux商店的任何节点。",
+      "tagline": "遍历你的React应用程序的便捷方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個Visual Studio Code擴展，它將你的React應用的組件組織成側邊欄中的一個互動樹。它顯示了父子關係、道具、導航到定義組件的文件，並標記了連接到Redux商店的任何節點。",
+      "tagline": "遍歷你的React應用程序的便捷方式"
+    }
+  ],
+  "source_updated_at": 1634290799021
+}

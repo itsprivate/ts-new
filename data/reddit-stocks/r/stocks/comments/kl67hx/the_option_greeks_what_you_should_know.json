@@ -1,0 +1,28 @@
+{
+  "author": "OfficerTruth",
+  "the_new_excerpt": "The Greeks\n\nDelta – An option’s delta is the rate of change of the price of the option with\nrespect to its underlying security’s price. The delta of an option ranges in\nvalue from 0.0 – 1.00 for calls (0 to -1.00 for puts) and reflects the increase\nor decrease in the price of the option in response…",
+  "original_created_utc": 1609085719,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "希腊人\n\n增量-期权的增量是期权价格的变动率\n尊重其标的证券的价格。期权的增量范围为\n看跌期权的值为0.0-1.00(看跌期权为0-1.00)，并反映增加\n或降低期权价格作为回应…",
+      "title": "希腊人的选择：你应该知道的"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "希臘人\n\n增量-期權的增量是期權價格的變動率\n尊重其標的證券的價格。期權的增量範圍爲\n看跌期權的值爲0.0-1.00(看跌期權爲0-1.00)，並反映增加\n或降低期權價格作爲迴應…",
+      "title": "希臘人的選擇：你應該知道的"
+    }
+  ],
+  "title": "The Option Greeks: What you Should Know",
+  "created_utc": 1609138127,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The Greeks</p>\n\n<p>Delta – An option’s delta is the rate of change of the price of the option with respect to its underlying security’s price. The delta of an option ranges in value from 0.0 – 1.00 for calls (0 to -1.00 for puts) and reflects the increase or decrease in the price of the option in response to a 1-point movement of the underlying asset price.<br/>\nUsed to measure the change in value of a contract from a $1 change. Also is used to measure the probability of an Option Contract Expiring “ITM” (In-The-Money). For Example, a Delta of 0.40 can be seen as a 40% chance to Expire ITM.</p>\n\n<p>Gamma – An option’s Gamma is a measure of the rate of change of its delta. The gamma of an option is expressed as a percentage and reflects the change in the delta in response to a 1-point movement of the underlying stock price.<br/>\nMeasures the change in Delta from a 1$ movement in the underlying asset (stock, ETF, things like that). If the underlying moves an additional 1$ Then Delta would equal the Total of Delta + Gamma. After the First Dollar move, any additional moves in the same direction increases the value of Delta by the amount of Gamma.<br/>\nFor Example, XYZ 100 12/31/20 Call for $1.00 and has a delta of .50 and a gamma of .05.<br/>\nThe price of XYZ moves 1 dollar upwards so the new price of the contract becomes 1.50.<br/>\nThe Price of XYZ moves 1 dollar upwards again so now we add both Delta AND Gamma to find the new value. (1.00 + 0.50 = 1.50) 1.50 + (.50 + .05) = 2.05 Value now.</p>\n\n<p>Theta – An option’s theta is a measurement of the option’s time decay. The theta measures the rate at which the options lose their value, specifically the time value, as the expiration date draws nearer. Generally expressed as a negative number, the theta of an option reflects the amount by which the option’s value will decrease every day.<br/>\nFor example, if your option contract is currently valued at 1.00 and you have a theta of -0.10, you will lose 0.10 worth of value off your contract every day. This number will change drastically throughout the day as will the other Greeks.</p>\n\n<p>Vega – An option’s Vega is a measure of the impact of changes in the underlying volatility on the option price. Specifically, the Vega of an option expresses the change in the price of the option for every 1% change in the underlying volatility.<br/>\nEstimates the change in premium for each 1% change in the Implied Volatility (IV). There will be higher Vega on Contracts with more time. An increase in Vega increases the cost of the contract and vice versa.</p>\n\n<p>Rho – Rho measures the change in Interest rates but is rarely used since Interest rates do not move much.</p>\n\n<p>It is important to remember that these numbers associated with each Greek will likely change constantly throughout the life of the contract. There are other variables to consider like Implied Volatility, Volume, Open Interest, Days to Expiration (dte), the P/c Ratio, upcoming catalysts, and much more.</p>\n\n<p>This is a very basic run down of the Greeks. You will not learn everything about options overnight. Enjoy!</p>\n</div><!-- SC_ON -->",
+  "score": 56,
+  "permalink": "/r/stocks/comments/kl67hx/the_option_greeks_what_you_should_know/",
+  "subreddit": "stocks",
+  "id": "kl67hx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1609495334789
+}

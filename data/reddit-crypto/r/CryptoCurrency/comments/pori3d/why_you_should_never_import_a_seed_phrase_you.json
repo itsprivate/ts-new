@@ -1,0 +1,32 @@
+{
+  "author": "AutisticDalekOnSpeed",
+  "original_created_utc": 1631717011,
+  "title": "Why you should never import a seed phrase you randomly found",
+  "created_utc": 1631756303,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Every now and then I notice people online &quot;accidentally&quot; revealing their 12 word seed phrases. This happens a lot on reddit too.</p>\n\n<p>These people are not dumb or generous, they are trying to scam you. These are called honeypot scams.</p>\n\n<p>When you try to recover the wallet using that seed phrase, you&#39;ll see a big amount of some random erc20 or bep20 tokens (usually minereum) that appears to be worth a lot. But there will be no eth or bnb to pay for the gas fee to move those tokens out of the wallet.</p>\n\n<p>Once you transfer your own eth or bnb to that wallet to pay for the gas fee, the scammer&#39;s bot will withdraw that eth/bnb faster than you can see it appear in your wallet. </p>\n\n<p>Honestly these are quite funny scams. It makes people think that they&#39;re the ones scamming someone else, but in reality they are the ones getting scammed.</p>\n\n<p>So apart from the obvious moral reasons, this is another reason why you should never import a wallet using a seed phrase your randomly found online.</p>\n</div><!-- SC_ON -->",
+  "score": 172,
+  "permalink": "/r/CryptoCurrency/comments/pori3d/why_you_should_never_import_a_seed_phrase_you/",
+  "subreddit": "CryptoCurrency",
+  "id": "pori3d",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Every now and then I notice people online \"accidentally\" revealing their 12 word\nseed phrases. This happens a lot on reddit too.\n\nThese people are not dumb or generous, they are trying to scam you. These are\ncalled honeypot scams.\n\nWhen you try to recover the wallet using that seed phrase, you'll…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "時々、ネット上で自分の12の言葉を「誤って」公開している人がいます。\nのシードフレーズを公開しています。これはredditでもよく見られます。\n\nこのような人々は、馬鹿でも寛大でもなく、あなたを詐欺にかけようとしているのです。これらは\nハニーポット・スキャムと呼ばれています。\n\nそのシードフレーズを使ってウォレットを復元しようとすると、...",
+      "title": "ランダムに見つけたシードフレーズを絶対にインポートしてはいけない理由"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "时不时地，我注意到有人在网上 \"意外地 \"透露了他们的12个字的\n种子短语。这在reddit上也经常发生。\n\n这些人并不笨，也不大方，他们是想骗你。这些是\n称为蜜罐骗局。\n\n当你试图使用该种子短语恢复钱包时，你会...",
+      "title": "为什么你不应该导入一个你随机找到的种子短语？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "時不時地，我注意到有人在網上 \"意外地 \"透露了他們的12個字的\n種子短語。這在reddit上也經常發生。\n\n這些人並不笨，也不大方，他們是想騙你。這些是\n稱爲蜜罐騙局。\n\n當你試圖使用該種子短語恢復錢包時，你會...",
+      "title": "爲什麼你不應該導入一個你隨機找到的種子短語？"
+    }
+  ]
+}

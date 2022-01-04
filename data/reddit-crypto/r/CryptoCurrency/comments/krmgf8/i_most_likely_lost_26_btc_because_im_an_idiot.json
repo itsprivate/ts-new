@@ -1,0 +1,28 @@
+{
+  "author": "Onnar",
+  "the_new_excerpt": "Let this be a warning to tech-savvy and over-confident coin hodlers. I got\nmyself a new computer for xmas and I wanted to use the old one for work stuff.\nFirst order of business is to make sure I have a backup of the private keys.\nWell, no problem, I already have encrypted backups of my private keys…",
+  "original_created_utc": 1609934024,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "让这成为对精通技术和过度自信的硬币持有者的一个警告。我有\n我自己买了一台圣诞节用的新电脑，我想用旧的做工作。\n首要任务是确保我有私钥的备份。\n嗯，没问题，我已经有我的私钥…的加密备份了",
+      "title": "我很可能输了2.6 BTC因为我是个白痴"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "讓這成爲對精通技術和過度自信的硬幣持有者的一個警告。我有\n我自己買了一臺聖誕節用的新電腦，我想用舊的做工作。\n首要任務是確保我有私鑰的備份。\n嗯，沒問題，我已經有我的私鑰…的加密備份了",
+      "title": "我很可能輸了2.6 BTC因爲我是個白癡"
+    }
+  ],
+  "title": "I most likely lost 2.6 BTC because I'm an idiot",
+  "created_utc": 1609952546,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Let this be a warning to tech-savvy and over-confident coin hodlers. I got myself a new computer for xmas and I wanted to use the old one for work stuff. First order of business is to make sure I have a backup of the private keys. Well, no problem, I already have encrypted backups of my private keys on two USB drives stored at separate locations.</p>\n\n<p>Before wiping the disk, I plugged one of them into the computer to make sure the file was there as I made those copies about 1.5 years ago after the purchase of my 2.6 BTCs. All good. Sure, a Ledger is more convenient, but this works and I now don&#39;t have to get death threats after the Ledger address leak.</p>\n\n<p>Next up, erase the disk with MiniTool&#39;s Disk Wipe as I don&#39;t want anyone restoring the wallet. This computer will now be with me at work, while traveling and so on. Reinstalling the OS, feeling good. On to the new computer, installing things I need, restoring documents folder from backup, setting up firewall and antivirus... all good.</p>\n\n<p>Finally, ready to reinstall wallets for the coins I own.</p>\n\n<p>Let&#39;s start with BTC. To import the private key, I just have to decrypt the file from one of the two USB drives and, well... just import it. I install the OpenSSL client and type in the command:</p>\n\n<p>openssl enc -d -aes-256-cbc -in btcprv -out btcprv.txt</p>\n\n<p>The terminal now asks for ... the password. No problem, I have all my passwords in my password manager which I trust 100%. I go to my password manager to grab it and... IT&#39;S NOT THERE. No mention of a BTC password anywhere to be found. I spend the next 30 mins rechecking and rechecking, but it&#39;s not there.</p>\n\n<p>I&#39;ve spent the past week and a half going through all my remaining disk files and notes, the password is nowhere to be found. I&#39;m 100% sure it was a strong auto-generated password from my password manager.</p>\n\n<p>So why can&#39;t I find the password? My theory is this: After testing the password manager thoroughly during my search for an answer, I realized it has a serious weakness: you can create a password, then copy it, switch to another window and paste it. BUT IT&#39;S NOT AUTO-SAVED. You have to click a Save button! Now, if you try to quit the password manager, it will tell you about unsaved data. But I think I might have had the manager open in the background for a long time and forgot about it, then inadvertently clicked &quot;Don&#39;t save&quot; on the next reboot.</p>\n\n<p>It&#39;s my fault anyway, I should&#39;ve checked that I was actually able to decrypt the files before wiping the disk... </p>\n\n<p>I have one more thing to do: see if a professional recovery company can restore the wallet file. As I used wipe software, I&#39;m told the chances are essentially zero.</p>\n\n<p>Apologies for the length of this post, but I needed to get it off my chest. FML.</p>\n</div><!-- SC_ON -->",
+  "score": 560,
+  "permalink": "/r/CryptoCurrency/comments/krmgf8/i_most_likely_lost_26_btc_because_im_an_idiot/",
+  "subreddit": "CryptoCurrency",
+  "id": "krmgf8",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1610100746084
+}

@@ -1,0 +1,78 @@
+{
+  "author": "supershwa",
+  "original_created_utc": 1637781284,
+  "title": "How to file your U.S. crypto taxes!",
+  "created_utc": 1637796647,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to put together an early tax guide for those who have recently joined the cryptosphere, in an effort to help promote responsible crypto trading and investments.  It&#39;s actually quite easy, but can be time consuming if you&#39;ve made a lot of trades throughout the year.</p>\n\n<p>In the U.S., the cryptocurrency tax rate for federal taxes is the same as the capital gains tax rate. In 2021, it ranges from 10-37% for short-term capital gains and 0-20% for long-term capital gains. In the US, crypto-asset gains are calculated using two factors: your income bracket, and how long you have held the cryptocurrency.</p>\n\n<p><strong>Pay your taxes</strong> - I cannot express enough how dangerous it is not to.  It could take months or years to get caught, but you could suffer from liens, levies, or seizure of property.  The IRS is not worth messing with, and U.S. exchanges are now cooperating with them.</p>\n\n<p>For volume over $20,000 or if you have over 200 transactions on an exchange, they should send you a Form 1099 at the end of the year.  This means your cumulative income has been reported by the exchange to the IRS and your tax return will need to reflect detailed trading activity.</p>\n\n<p><strong>Take note:</strong> <a href=\"https://www.investopedia.com/terms/w/washsalerule.asp\">The Wash Sale Rule</a> still does not apply to cryptocurrencies, but <a href=\"https://www.thestreet.com/retirement/cryptocurrency-may-soon-be-subject-wash-sale-rule\">that may change soon</a>.  This means you can legally sell to claim losses up to $3,000 on December 31 and then buy back in on January 1, as opposed to the 30-day rule in securities.  This strategy is known as Tax-Loss Harvesting.</p>\n\n<h1>The easy way to file: TurboTax + CoinTracker.io</h1>\n\n<p>TurboTax has integrated with CoinTracker.io to make this easy-peasy.  If you&#39;ve made fewer than 25 transactions in 2021, CoinTracker has a free option.  For up to 100 transactions, you&#39;ll have to pay $59, or $199 for up to 1000 transactions.</p>\n\n<p>CoinTracker can also <a href=\"https://www.cointracker.io/exchanges\">directly connect to your accounts on popular exchanges</a>, such as Coinbase, Gemini, Binance, KuCoin, HitBTC, Gate.io, Robinhood, Cash App, Uphold and more.  It will download your trade history from each exchange and calculate any capital gains you&#39;ve made from those trades.  Optionally, you can upload a CSV file to CoinTracker from these exchanges (so you don&#39;t have to &quot;link&quot; the account using an API key if you are uncomfortable with it.)</p>\n\n<p>Once you have completed syncing your trade history with CT, you will need to connect it to your TurboTax account.  TurboTax will generate a Schedule D and Form 8949 with your gains and losses.</p>\n\n<p><strong>If you decide to do your own taxes</strong> and not use a service like TurboTax, you will need to download <a href=\"https://www.irs.gov/pub/irs-pdf/f1040sd.pdf\">Schedule D</a> and <a href=\"https://www.irs.gov/pub/irs-pdf/f8949.pdf\">Form 8949</a> and complete these yourself.</p>\n\n<h1>How to get your trading history:</h1>\n\n<p>To manually generate CSV files without linking your exchange to CoinTracker, follow these instructions per exchange.  Use a desktop or laptop - some of these features are not available on mobile.</p>\n\n<p>You can also use these documents to show proof of income with your bank or lenders in the event you need it for a loan application.</p>\n\n<p>Coinbase</p>\n\n<ol>\n<li>Log in to Coinbase on a computer.</li>\n<li>Click your profile icon in the top right corner.</li>\n<li>Click Reports.</li>\n<li>Scroll down to Transaction History, choose 2021 as the year (this will be available after Dec 31), and click the &quot;Generate Report&quot; button next to CSV report.</li>\n</ol>\n\n<p>Coinbase Pro</p>\n\n<ol>\n<li>Log in to Coinbase Pro on a computer.</li>\n<li>Click your profile icon in the top right corner.</li>\n<li>Click Statements.</li>\n<li>Click Generate-&gt;Account and set the start/end dates.  Set the format to CSV.</li>\n<li>Click Generate Report and an email will be sent with a link to the CSV file.</li>\n</ol>\n\n<p>Binance.us</p>\n\n<ol>\n<li>Log in to Binance.us on a computer.</li>\n<li>In the top menu, click Orders-&gt;Trade History.</li>\n<li>Click &quot;Export Trade History&quot; on the right.  You can only export 3 months at a time, so you may need to use custom date ranges 4 times to get the full year.</li>\n</ol>\n\n<p>Gemini</p>\n\n<ol>\n<li>Log in to Gemini.com on a computer.</li>\n<li>Click Account-&gt;Balances on the top right.</li>\n<li>Click the Download icon on the right, and either choose Tax documents (PDF) or History (XLSX)</li>\n</ol>\n\n<p>Kraken</p>\n\n<ol>\n<li>Log in to Kraken.com on a computer.</li>\n<li>Click History, then click Export.</li>\n<li>Change your Date Period to Year to date, Last Year or set a custom range, then click Submit.</li>\n<li>Wait a while (it took me over an hour in queue).</li>\n</ol>\n\n<p>Uphold</p>\n\n<ol>\n<li>Log in to Uphold.com on a computer.</li>\n<li>Click Activity on the right.</li>\n<li>Click the download icon at the top right of the transactions table, then click Transaction History.  You will be prompted stating you will be sent an email with transaction history.  Click the &quot;Generate Report&quot; button, then check your email.</li>\n</ol>\n\n<p>Cash App</p>\n\n<ol>\n<li>Log in to Cash.app on a computer.</li>\n<li>Click Statements at the top right.</li>\n<li>Click Export CSV.  Cash App also has monthly statements, and they do not have the best options available for crypto trade history; they may show up alongside any other cash transactions you&#39;ve made with the app.</li>\n</ol>\n\n<p>Gate.io</p>\n\n<ol>\n<li>Log in to Gate.io on a computer.</li>\n<li>At the top-right, click Order-&gt;Spot Orders.</li>\n<li>Click Trade History in the left column.</li>\n<li>Choose your date range and click the Filter button.</li>\n<li>Click the Download button at the top right.</li>\n</ol>\n\n<p>&#x200B;</p>\n\n<p>Other exchanges should also have a trade history available, but you may need to hunt it down.  Hopefully, the above lists will cover most of our users.</p>\n\n<p>If I&#39;ve missed anything here, please comment below and I will make changes as necessary so this post can reflect the appropriate information needed for upcoming 2021 tax returns.</p>\n\n<p>&#x200B;</p>\n\n<p>Edit:  <a href=\"/u/starzychik01\">/u/starzychik01</a> pointed out some alternatives to TurboTax and CoinTracker.  Using FreeTaxUSA.com and Koinly.io - I&#39;ll have to look in to these to investigate further.</p>\n\n<p>Also, if you are using a CPA, you will need to provide them your trade history.  Your trades need to be entered in Form 8949.  A 1099 only shows cumulative income and not each taxable event.</p>\n\n<p>Yes, you still have to report DEX trades.  Obtaining the trade history will vary depending on which DEX you use.</p>\n</div><!-- SC_ON -->",
+  "score": 163,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?auto=webp&s=93b2eeadf4e5175ac7ec22972e6ab136275a5f1a",
+          "width": 3870,
+          "height": 2575
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?width=108&crop=smart&auto=webp&s=03a8e559cb1897436c10547740ae65f60a15d769",
+            "width": 108,
+            "height": 71
+          },
+          {
+            "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?width=216&crop=smart&auto=webp&s=4e2f986d67def98817c93501e17b21ee1f094cb3",
+            "width": 216,
+            "height": 143
+          },
+          {
+            "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?width=320&crop=smart&auto=webp&s=4d4d4352715b1e97192091336cb7dec248c9147e",
+            "width": 320,
+            "height": 212
+          },
+          {
+            "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?width=640&crop=smart&auto=webp&s=c3b933da0a0f0c269d182053c5764f27b1298e0a",
+            "width": 640,
+            "height": 425
+          },
+          {
+            "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?width=960&crop=smart&auto=webp&s=19edb36fdbab84f58e8f9831fec616c28aef7690",
+            "width": 960,
+            "height": 638
+          },
+          {
+            "url": "https://external-preview.redd.it/MCPoM4fiPQHCXU77I631g6BA4jjFtGyqcF0KcYgWA6w.jpg?width=1080&crop=smart&auto=webp&s=95fcb2a49932f8c6f994abbf89372908542ca714",
+            "width": 1080,
+            "height": 718
+          }
+        ],
+        "variants": {},
+        "id": "MMOIex_mEYOXw0Vc6WMGmbqw08uUD_zK7zCJ72QO50o"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/r1cs80/how_to_file_your_us_crypto_taxes/",
+  "subreddit": "CryptoCurrency",
+  "id": "r1cs80",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I wanted to put together an early tax guide for those who have recently joined\nthe cryptosphere, in an effort to help promote responsible crypto trading and\ninvestments. It's actually quite easy, but can be time consuming if you've made\na lot of trades throughout the year.\n\nIn the U.S., the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、最近暗号社会に参加した人たちのために、初期のタックスガイドを作成したいと思いました。\n責任ある暗号化取引と投資を促進するために、暗号圏に最近参加した人のための初期の税金ガイドを作ってみました。\n投資を促進することを目的としています。実際には非常に簡単ですが、年間を通して多くの取引を行っている場合は時間がかかります。\nしかし、1年を通して多くの取引を行った場合は時間がかかります。\n\n米国では、...",
+      "title": "米国の暗号税を申告するには！？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想为那些最近加入的人整理一份早期税务指南。\n的人提供一份早期税务指南，以帮助促进负责任的加密货币交易和投资。\n投资。这其实很容易，但如果你已经做了，可能会很耗时\n如果你在一年中进行了大量的交易，这可能会很耗时。\n\n在美国，...",
+      "title": "如何申报美国的加密货币税!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想爲那些最近加入的人整理一份早期稅務指南。\n的人提供一份早期稅務指南，以幫助促進負責任的加密貨幣交易和投資。\n投資。這其實很容易，但如果你已經做了，可能會很耗時\n如果你在一年中進行了大量的交易，這可能會很耗時。\n\n在美國，...",
+      "title": "如何申報美國的加密貨幣稅!"
+    }
+  ]
+}

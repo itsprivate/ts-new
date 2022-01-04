@@ -1,0 +1,80 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1632998531,
+  "title": "I made an open source crypto trading algorithm that can notify of new listings before they're live on Binance",
+  "created_utc": 1633012345,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It&#39;s been nearly two months since I started working on this project and I feel like I&#39;m finally ready to run this live, as my testing showed this strategy to be profitable.</p>\n\n<p>Here&#39;s what I learned during my time testing and developing this crypto trading bot:</p>\n\n<ul>\n<li>The algorithm’s achievable minimum speed of execution is 0.1s. Anything quicker will incur a temp IP ban from the Binance API.</li>\n<li>The algorithm buys at the peak of the initial listing even at 0.1s of the coin being listed so buying it not profitable</li>\n<li>Margin sell orders work in theory, however in practice, most new coins are not immediately listed on margin/futures (found a workaround though)</li>\n</ul>\n\n<p>With those findings in mind, I had to re-think the way the algorithm works and how it can take advantage of the price jump for initial coin listings on Binance. In case you&#39;re not familiar with the behaviour that I&#39;m referring to, have a look at this initial coin listing chart:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/rzkkbuckdmq71.png?width=1504&amp;format=png&amp;auto=webp&amp;s=a74a73982c747e3e4e40f2e7599643a17bd0664a\">https://preview.redd.it/rzkkbuckdmq71.png?width=1504&amp;format=png&amp;auto=webp&amp;s=a74a73982c747e3e4e40f2e7599643a17bd0664a</a></p>\n\n<p>Most coins seem to experience a massive surge in their price at the moment of listing (usually lasts under 0.1 seconds).</p>\n\n<p>I first built this bot in order to exploit this phenomenon, but even with a minium achievable speed of 0.1 seconds, this was not profitable, as it was buying at the peak. So I decided to reverse the orders, by placing sell orders instead of buy. Lo and behold this is actually making money!</p>\n\n<p>11% profit on USDP listing (a stablecoin no less) and 50% profit on GALA.</p>\n\n<p>The testing showed that shorting coins at the moment of listing is actually profitable, now I just needed to find a way to actually do that when live.</p>\n\n<p>So I made it so that the tool sends you an e-mail when Binance announces that they will list a new coin. Giving you time to buy it from a different exchange and deposit it into your Binance account. The code will take care of the rest.</p>\n\n<p><strong>EDIT:</strong></p>\n\n<p><strong>Here&#39;s a video that I made which explains the history of the development, why it works the way it does and a potentially fully automated solution for the future:</strong> <a href=\"https://youtu.be/qqXQgwuFI8s\"><strong>https://youtu.be/qqXQgwuFI8s</strong></a></p>\n\n<p>&#x200B;</p>\n\n<p>Source code is available here: <a href=\"https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins/tree/buy_outside_binance\">https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins/tree/buy_outside_binance</a></p>\n\n<p>And finally, a guide on how to use it: <a href=\"https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/\">https://www.cryptomaton.org/2021/08/15/coding-a-binance-trading-bot-that-detects-new-coins-the-moment-they-are-listed/</a></p>\n</div><!-- SC_ON -->",
+  "score": 224,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/nea5FPFfGpZxtx1bHOirdaFyvJbdWWkVzGSAVQ9ceds.jpg?auto=webp&s=26a7c8fcf069ac98855eea3cac09417213e81784",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/nea5FPFfGpZxtx1bHOirdaFyvJbdWWkVzGSAVQ9ceds.jpg?width=108&crop=smart&auto=webp&s=a66d6afb2e6cdd8cb3fe18e6073b4ae954aea83c",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/nea5FPFfGpZxtx1bHOirdaFyvJbdWWkVzGSAVQ9ceds.jpg?width=216&crop=smart&auto=webp&s=99b4d66f2bb7afcc3b46dca742add0dc261fd626",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/nea5FPFfGpZxtx1bHOirdaFyvJbdWWkVzGSAVQ9ceds.jpg?width=320&crop=smart&auto=webp&s=5f091becb2cb5aa63e2c0f5e9ddd3e276961add4",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "EXh518KvztRsSKTQTT499pwndD6wKQCRKSEcmWrjVxQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pyh6nc/i_made_an_open_source_crypto_trading_algorithm/",
+  "subreddit": "CryptoCurrency",
+  "id": "pyh6nc",
+  "is_self": true,
+  "media": {
+    "type": "youtube.com",
+    "oembed": {
+      "provider_url": "https://www.youtube.com/",
+      "version": "1.0",
+      "title": "Crypto trading bot scrapes Binance announcements page and places orders on new coin listings",
+      "type": "video",
+      "thumbnail_width": 480,
+      "height": 200,
+      "width": 356,
+      "html": "<iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/qqXQgwuFI8s?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "author_name": "Cryptomaton",
+      "provider_name": "YouTube",
+      "thumbnail_url": "https://i.ytimg.com/vi/qqXQgwuFI8s/hqdefault.jpg",
+      "thumbnail_height": 360,
+      "author_url": "https://www.youtube.com/channel/UCbJfyiBegEca-rd6DeLjK4Q"
+    }
+  },
+  "is_video": false,
+  "the_new_excerpt": "It's been nearly two months since I started working on this project and I feel\nlike I'm finally ready to run this live, as my testing showed this strategy to\nbe profitable.\n\nHere's what I learned during my time testing and developing this crypto trading\nbot:\n\n * The algorithm’s achievable minimum…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このプロジェクトに取り組み始めてから約2ヶ月が経ち、ようやく\nテストの結果、この戦略が利益を生むことがわかったので、ようやく本番で実行する準備ができました。\n儲かることがわかりました。\n\nこの暗号化取引のテストと開発で学んだことは以下の通りです。\nボットを開発しました。\n\n * アルゴリズムの達成可能な最小...",
+      "title": "Binanceに掲載される前に新規掲載を通知するオープンソースの暗号取引アルゴリズムを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "从我开始做这个项目到现在已经将近两个月了，我觉得我终于准备好了。\n我觉得我终于准备好运行这个项目了，因为我的测试显示这个策略是\n是有利可图的。\n\n以下是我在测试和开发这个加密货币交易时学到的东西\n机器人。\n\n * 该算法的可实现的最小...",
+      "title": "我做了一个开源的加密货币交易算法，可以在Binance上的新上市项目上线之前就通知它们。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "從我開始做這個項目到現在已經將近兩個月了，我覺得我終於準備好了。\n我覺得我終於準備好運行這個項目了，因爲我的測試顯示這個策略是\n是有利可圖的。\n\n以下是我在測試和開發這個加密貨幣交易時學到的東西\n機器人。\n\n * 該算法的可實現的最小...",
+      "title": "我做了一個開源的加密貨幣交易算法，可以在Binance上的新上市項目上線之前就通知它們。"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "author": "yogofubi",
+  "original_created_utc": 1630746393,
+  "title": "Thinking of selling this bull run’s peak to buy back in the bear market? I made a calculator in google sheets to tell me how much I can increase my stack under different strategies. I call it the ‘What-if Machine’",
+  "created_utc": 1630762242,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Nobody knows how this bull market will play out. Will we repeat the pattern of 2013 and 2017? Is this the supercycle to end all cycles? Are we in a bear market now? Who knows. But Personally I <em>think</em> it is going to play out similar to the past, with a blow-off-top followed by a long bearish period.</p>\n\n<p>I have a plan, and I&#39;m sure I&#39;m not the only one thinking about it (assuming we have a boom and bust cycle):</p>\n\n<ol>\n<li>Sell into stablecoins as near the peak as I can.</li>\n<li>Park those stablecoins and earn interest on them for around a year or more.</li>\n<li>Buy back during the bear market, using DCA.</li>\n<li>Have more crypto.</li>\n</ol>\n\n<p>I was lying awake at night thinking about my plan too much because there are too many variables for my small brain to keep track of. I have one simple question to answer:</p>\n\n<p>How much bitcoin can I buy back if I sell at &lt;peak price&gt; and buy back at &lt;post-peak price&gt;?</p>\n\n<p>Which leads me to a whole host of variables, such as:</p>\n\n<p>-What could the peak price be?</p>\n\n<p>-How much of a drop from said peak could we see, 90% again? Only 50%?</p>\n\n<p>-Based on the drop in price from the peak, what would the actual price be?</p>\n\n<p>-How much of my holdings would I actually want to start selling, what if I sold all, or half? What would the difference be?</p>\n\n<p>-What if I sell too early? What if I think for example I sell thinking $100k BTC is the top but the market continues to rally above $300k? Will I still be able to buy back more than I&#39;ve sold?</p>\n\n<p>-If I think for example BTC will reach $100k, at which price point do I start to sell? How much of a difference will that make?</p>\n\n<p>In my opinion, this bull cycle is a once in a lifetime opportunity to significantly increase my holdings and I do not want to mess it up and end up with less than what I started with. This is why I made this What-if Machine, essentially to see just how badly I have to misjudge the market to make a loss (in terms of what I hold)</p>\n\n<p>It was driving me a bit crazy so I made a calculator on google sheets to tell me what might happen given all the different variables. I&#39;ve found it quite useful and it was fun to build, and I&#39;d like to share it with the community:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/dp40a8gybgl71.png?width=1844&amp;format=png&amp;auto=webp&amp;s=11edf339d36541bb96f077a066a922d72601e713\">https://docs.google.com/spreadsheets/d/1Di14f8XLx8tAJKaMgoTdGt_V5zhePYW1k1nqa8YmEIg/edit?usp=sharing</a></p>\n\n<p>I haven&#39;t made this editable, please make your own copy so you can try it out. Let me explain what we&#39;re looking at and how you can use it:</p>\n\n<p>The Idea is that you tweak the BLUE cells (if you edit anything other than the blue ones, it won’t function properly) the blue cells on the left are the important ones, that’s where you tweak your strategy to see what effect it will have.</p>\n\n<p>The calculator is divided into 4 sections, and you work from left to right. you need only edit the <strong>BLUE CELLS</strong> and all of the rest is automatic. I&#39;ve included some instructions in the sheet but here I&#39;ll explain in a bit more depth.</p>\n\n<p><strong>The USER INPUTS section</strong></p>\n\n<p><strong>CHOOSE COIN:</strong> There is a drop down menu to choose the coin you&#39;re working with. This doesn&#39;t change anything other than the dialogues throughout the sheet, so it doesn&#39;t really matter what you choose, it will work the same, just gives nice readable outputs. If the coin you&#39;re working with isn&#39;t listed, you can just type it in. I&#39;ve just chosen the top 20-ish coins from coinmarketcap.</p>\n\n<p><strong>WHAT IF I SELL UP TO A PRICE OF:</strong> This is basically the price that you think the coin can and will get to, your target peak sell price, sometimes I refer to this as the ‘speculated peak’. In the example image above, I&#39;m planning for BTC to hit $150k at its peak, and that&#39;s where I want to set my highest sell order.</p>\n\n<p><strong>BUT IT ACTUALLY PEAKS AT:</strong> Do not be fooled, you do not know, I do not know, and nobody knows what price BTC will actually peak at. This is your first real unknown variable. What if you sell your stack thinking $150k is the top but it just keeps going? $200k... $300k? This figure is what you can tweak to see just how badly you have to get it wrong before you&#39;re in danger town, and risk buying back less than what you started with. You’ll be surprised just how wrong you have to get it ;) </p>\n\n<p><strong>START SELLING % FROM PEAK:</strong> I don&#39;t know about you, but I plan on selling in increments up to my peak sell point, DCA in is important, just as it is to DCA out. This is a field that&#39;ll just make it easy to spread out your sell points based on the maximum speculated peak. For example if your maximum sell (&#39;what if I sell up to a price of&#39;) point is $100k for simplicity, selecting 25% here will start sells at $75k, and selecting 50% will start it a $50k. Get it? If you want to just do it in one sell, you can set this to 0% or alternatively just have all the blue cells in the ‘sell calculator’ section as 0 and only fill the top cell (I cover this later).</p>\n\n<p><strong>DEFI INTEREST APY%:</strong> Once you&#39;ve sold your stack into stablecoins, if you plan on parking them in some platform to earn interest, you can input the APY rate of the platform here, you&#39;ll see in the BUYBACK CALCULATOR section, the interest earned over a period of a maximum 2 years is broken down into yearly quarters. You may want to start buying back after 3 months, you may want to start buying back after 12 months, the calculator will help you see what that will mean, how much approximately in stablecoins that you&#39;ll have at that point. I need to emphasise the APPROXIMATELY here. The APY calculations are basic here. I calculate what 10% APY (for example) would earn over a year, and then divide that by 12, and then multiply by 3, 6, 9, etc. It will in no way be a true accurate prediction of earnings and you should consider this whole sheet a tool for a ballpark only, to help you sleep at night, and is absolutely not financial advice!</p>\n\n<p><strong>The SELL CALCULATOR section:</strong></p>\n\n<p>If you plan on selling only in one transaction, you can either set the aforementioned field to 0%, or you can leave all these cells as 0 and only enter a value for the top one. Personally I plan on selling in increments and weighting more towards the top end of my speculated peak. This section will show you what the price points would be for sell orders, and how much you&#39;ll bag at each price point, depending on how much coin you sell at said point.</p>\n\n<p>The bottom of this section will tell you the total amount of coins sold, what your average sell price is and how much in total you&#39;ll have in stablecoins after selling.</p>\n\n<p><strong>The BUYBACK CALCULATOR section:</strong></p>\n\n<p>This is where you get the bulk of your answer, in broad terms. At the top you&#39;ll see how much interest your stablecoins will have earned you each quarter (based on your APY% figure) and it will tell you what the price of the coin will be in the event of a 60, 70, 80, or 90% drop from its peak. Adjacent to this, you&#39;ll see how much coin you could buy back at this pricepoint, based on maximum stablecoin yield or zero stablecoin yield. The cool part about this section is it will turn red when you are in danger of making back less coin than you started with, which is the whole point of me making this thing in the first place. Try it out, put in a way higher figure between your two price predictions and see how badly you have to miss the mark before you make a loss.</p>\n\n<p>There is a broad range displayed at the bottom of this section to show on average how much you&#39;ll be looking at buying back.</p>\n\n<p><strong>The SUMMARY/FINETUNE section:</strong></p>\n\n<p>This was a later addition, this enables you to narrow down on some parameters to see a bit more accurately (Still very very approximate, this is not financial advice) You can tweak here how long you&#39;ll be earning interest at your defined rate, and you can enter a specific price for the coin, totally arbitrarily, and see how much you could buy at that price.</p>\n\n<p>-------</p>\n\n<p>I have tried to make this as understandable and user friendly as possible.</p>\n\n<p>Make your own copy, have a play, this is in no way financial advice, I am not a mathematician and I am not a trader, I know nothing about finance, I just got a bit carried away making this and would like to share my work with the community :) </p>\n\n<p>Here&#39;s the link again if you missed it:</p>\n\n<p><a href=\"https://docs.google.com/spreadsheets/d/1Di14f8XLx8tAJKaMgoTdGt_V5zhePYW1k1nqa8YmEIg/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1Di14f8XLx8tAJKaMgoTdGt_V5zhePYW1k1nqa8YmEIg/edit?usp=sharing</a></p>\n</div><!-- SC_ON -->",
+  "score": 276,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?auto=webp&s=5c3dc6bff5fe92525badf3ed77f5d3239da670ed",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?width=108&crop=smart&auto=webp&s=6b0b6094b6489850199353c4e53b8bb15ae5e3ad",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?width=216&crop=smart&auto=webp&s=3f402f5644dcfa7dab974a14b048159a79785845",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?width=320&crop=smart&auto=webp&s=6330afe73f29cbfa7813c406fc6d61b20226e9fe",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?width=640&crop=smart&auto=webp&s=eff9d68115d89356251bb5aa24587193009f83b2",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?width=960&crop=smart&auto=webp&s=727cee5ef7746b6e09f0410f1d804e5e8fe91cbe",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/XNbfqWMhuzCY2RHCCujX0aVozEQ1kQ2PfKY6R49gPrM.jpg?width=1080&crop=smart&auto=webp&s=271246e1efe404f35228231ed7d08887bd6a8c9c",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "MNsprKrOJ3phl9K4gXJZvsor309kbG_-joZZmu51cyg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pho5yt/thinking_of_selling_this_bull_runs_peak_to_buy/",
+  "subreddit": "CryptoCurrency",
+  "id": "pho5yt",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Nobody knows how this bull market will play out. Will we repeat the pattern of\n2013 and 2017? Is this the supercycle to end all cycles? Are we in a bear market\nnow? Who knows. But Personally I think it is going to play out similar to the\npast, with a blow-off-top followed by a long bearish…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この強気相場がどうなるかは誰にもわからない。2013年や2017年のようなパターンを繰り返すのか\n2013年と2017年のパターンを繰り返すのか？これはすべてのサイクルを終わらせるスーパーサイクルなのか？今は弱気市場なのか？\n今は弱気市場なのか？それは誰にもわかりません。しかし個人的には、これまでと同じような展開になるのではないかと思う。\n吹き飛ばされたトップの後、長い弱気が続くという、過去と同じような展開になると思います。",
+      "title": "このブルランのピークを売って、ベアマーケットで買い戻そうとお考えですか？私は、さまざまな戦略のもとで、どれだけスタックを増やせるかを示す計算機をgoogle sheetで作った。私はこれを「What-if Machine」と呼んでいる。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "没有人知道这个牛市将如何发展。我们会重复2013年和2017年的模式吗？\n2013年和2017年的模式？这是结束所有周期的超级周期吗？我们是否处于熊市\n现在？谁知道呢。但我个人认为，它将与过去的情况类似，出现井喷式的顶部，然后是漫长的熊市。\n过去的情况一样，先是井喷式的顶部，然后是漫长的熊市。",
+      "title": "想着卖掉这轮牛市的高峰期，在熊市买回？我在谷歌表格中做了一个计算器，告诉我在不同的策略下我可以增加多少堆积。我把它叫做 \"假设机\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "沒有人知道這個牛市將如何發展。我們會重複2013年和2017年的模式嗎？\n2013年和2017年的模式？這是結束所有周期的超級週期嗎？我們是否處於熊市\n現在？誰知道呢。但我個人認爲，它將與過去的情況類似，出現井噴式的頂部，然後是漫長的熊市。\n過去的情況一樣，先是井噴式的頂部，然後是漫長的熊市。",
+      "title": "想着賣掉這輪牛市的高峯期，在熊市買回？我在谷歌表格中做了一個計算器，告訴我在不同的策略下我可以增加多少堆積。我把它叫做 \"假設機\"。"
+    }
+  ]
+}

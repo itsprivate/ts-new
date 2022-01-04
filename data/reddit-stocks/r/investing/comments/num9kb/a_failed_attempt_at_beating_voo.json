@@ -1,0 +1,33 @@
+{
+  "author": "0mendice",
+  "the_new_excerpt": "It seems the consensus that the S&P (specifically vanguard's VOO) is the most\nbasic way to diversify holdings while keeping strong returns. (when only looking\nat US market).\n\nLooking at the sector breakdown, you can hold more assets, thus being more\ndiverse, by owning the individual sectors that…",
+  "original_created_utc": 1623096662,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "S&P（具体的にはvanguardのVOO）が最も優れているというコンセンサスが得られているようです。\nS&P（特にバンガードのVOO）は、強いリターンを維持しながら保有資産を分散させる最も基本的な方法であるということで一致しています。(米国市場だけを見た場合\n米国市場のみを見た場合）。)\n\nセクターの内訳を見ると、個々のセクターを保有することで、より多くの資産を保有することができ、より多様性があります。\nセクターの内訳を見ると、より多くの資産を保有することができ、その結果、より多様性を持つことができます...",
+      "title": "VOOに勝つための失敗作"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "似乎大家都认为标准普尔指数（特别是先锋的VOO）是最基本的投资方式。\n的基本方式，在保持强劲回报的同时分散持有的资产。(当只看\n美国市场）。)\n\n从行业分类来看，你可以持有更多的资产，从而更加\n通过拥有个别行业，你可以持有更多的资产，从而变得更加多样化...",
+      "title": "击败VOO的失败尝试"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "似乎大家都認爲標準普爾指數（特別是先鋒的VOO）是最基本的投資方式。\n的基本方式，在保持強勁回報的同時分散持有的資產。(當只看\n美國市場）。)\n\n從行業分類來看，你可以持有更多的資產，從而更加\n通過擁有個別行業，你可以持有更多的資產，從而變得更加多樣化...",
+      "title": "擊敗VOO的失敗嘗試"
+    }
+  ],
+  "title": "A failed attempt at beating VOO",
+  "created_utc": 1623130063,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It seems the consensus that the S&amp;P (specifically vanguard&#39;s VOO) is the most basic way to diversify holdings while keeping strong returns. (when only looking at US market).</p>\n\n<p>Looking at the sector breakdown, you can hold more assets, thus being more diverse, by owning the individual sectors that comprise the S&amp;P.</p>\n\n<p>Using [portfolio visualizer]( <a href=\"https://www.portfoliovisualizer.com/backtest-portfolio\">Backtest Portfolio Asset Allocation (portfoliovisualizer.com)</a> ), and comparing VOO to Vanguard&#39;s sector breakdown etfs [with the same sector weightings as VOO]( <a href=\"https://www.etf.com/sections/etf-strategist-corner/sector-sector-sp-500\">Sector By Sector In The S&amp;P 500 With ETFs | ETF.com</a> ).</p>\n\n<p>[We get these results]( <a href=\"https://www.portfoliovisualizer.com/backtest-portfolio?s=y&amp;timePeriod=4&amp;startYear=1985&amp;firstMonth=1&amp;endYear=2021&amp;lastMonth=12&amp;calendarAligned=true&amp;includeYTD=false&amp;initialAmount=10000&amp;annualOperation=0&amp;annualAdjustment=0&amp;inflationAdjusted=true&amp;annualPercentage=0.0&amp;frequency=4&amp;rebalanceType=1&amp;absoluteDeviation=5.0&amp;relativeDeviation=25.0&amp;reinvestDividends=true&amp;showYield=false&amp;showFactors=false&amp;factorModel=3&amp;portfolioNames=false&amp;portfolioName1=Voo&amp;portfolioName2=VooBySector&amp;portfolioName3=Portfolio+3&amp;symbol1=VOO&amp;allocation1_1=100&amp;symbol2=VGT&amp;allocation2_2=26.39&amp;symbol3=VHT&amp;allocation3_2=12.75&amp;symbol4=VFH&amp;allocation4_2=11.99&amp;symbol5=VOX&amp;allocation5_2=11.10&amp;symbol6=VIS&amp;allocation6_2=8.90&amp;symbol7=VCR&amp;allocation7_2=11.91&amp;symbol8=VDC&amp;allocation8_2=6.05&amp;symbol9=VDE&amp;allocation9_2=2.94&amp;symbol10=VAW&amp;allocation10_2=2.82&amp;symbol11=VNQ&amp;allocation11_2=2.61&amp;symbol12=VPU&amp;allocation12_2=2.54\">Backtest Portfolio Asset Allocation (portfoliovisualizer.com)</a> )</p>\n\n<p>VOO returned 14.54% annualized return since 2011.</p>\n\n<p>From $10,000 to $41,163. With about ~$100 in expenses (0.03% expense ratio)</p>\n\n<p>VOOBreakdown returned 15.49% annualized return since 2011.</p>\n\n<p>From $10,000 to 44,836. With aobut ~$400 in expenses (avg. 0.1% expense ratio across all 11 sector etfs)</p>\n\n<p>The difference is small, but VOOBreakdown has higher returns with more diversity (Sharpe ratio 1.07 compared to 1.04 of VOO).</p>\n\n<p>------------------------------------------------</p>\n\n<p>Looking back I was wrong and forget an important detail. When accounting for rebalancing, the difference in returns is minimized. The more often you rebalance VOOBreakdown, the less returns you&#39;ll see. When you don&#39;t rebalance, I believe the larger allocation of tech stocks carry some of the returns later on, but the aim of VOOBreakdown is to beat VOO only using broken-down etfs for more diversity, but it seems that is redundant with no difference in returns.</p>\n\n<p>I have failed once again to beat VOO. This post is useless but I already wrote it up so ¯\\_(ツ)_/¯</p>\n</div><!-- SC_ON -->",
+  "score": 62,
+  "permalink": "/r/investing/comments/num9kb/a_failed_attempt_at_beating_voo/",
+  "subreddit": "investing",
+  "id": "num9kb",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1623404886626
+}

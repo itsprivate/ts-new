@@ -1,0 +1,33 @@
+{
+  "author": "Aschenia",
+  "the_new_excerpt": "Warren Buffet always said that a business is only worth how much cash you can\npull out of the business in the future discounted at the appropriate rate.\n\nKnowing this simple statement, we can look at how many shares of Alibaba are\noutstanding, which is approximately 2.76 Billion.\n\nWe then look at…",
+  "original_created_utc": 1621173470,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ウォーレン・バフェットは、「事業の価値は、将来、どれだけの現金を引き出すことができるかにかかっている」と言っています。\n事業の価値は、その事業から将来的に引き出せる現金を適切なレートで割り引いた額だけである」と。\n\nこのシンプルな言葉を知った上で、アリババの発行済み株式数を見てみましょう。\nアリババの発行済株式数は約27億6000万株です。\n\n続いて、...",
+      "title": "Simple Alibaba Intrinsic Value Caluclation"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "沃伦-巴菲特总是说，一个企业的价值只在于你在未来能从企业中提取多少现金\n在未来能从企业中提取多少现金，并以适当的利率折现。\n\n知道了这个简单的说法，我们可以看看阿里巴巴有多少股份是流通的。\n价值约为27.6亿。\n\n然后我们看一下...",
+      "title": "简单的阿里巴巴内在价值计算法"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "沃倫-巴菲特總是說，一個企業的價值只在於你在未來能從企業中提取多少現金\n在未來能從企業中提取多少現金，並以適當的利率折現。\n\n知道了這個簡單的說法，我們可以看看阿里巴巴有多少股份是流通的。\n價值約爲27.6億。\n\n然後我們看一下...",
+      "title": "簡單的阿里巴巴內在價值計算法"
+    }
+  ],
+  "title": "Simple Alibaba Intrinsic Value Caluclation",
+  "created_utc": 1621197802,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Warren Buffet always said that a business is only worth how much cash you can pull out of the business in the future discounted at the appropriate rate. </p>\n\n<p>Knowing this simple statement, we can look at how many shares of Alibaba are outstanding, which is approximately 2.76 Billion. </p>\n\n<p>We then look at how much free cash flow the business produces, which is approximately 200 Billion. </p>\n\n<p>If we do the math we can determine that the company makes about $72 per share of free cash flow at a current share price of $209.</p>\n\n<p>The ratio of price to FCF is 2.9. This number will act as a multiplier and will be helpful later.</p>\n\n<p>Now that we know all of this we need to project future free cash flow growth into the future. This is where my estimations will be different from others and my numbers should be taken with a grain of salt and any and all information extracted from this point forward is not financial advice.</p>\n\n<p>Alibaba has consistently been growing their top line revenue around 40-50% per year. Their free cash flow growth has been consistently growing at 30-40%. I’m going to assume for the sake of simplicity that it will continue at a rate of 30% for the next ten years.</p>\n\n<p>To do this, we take the original $72 in free cash flow per share and multiply it by 1.3<sup>10.</sup> The 1.3 is for 30% growth and the 10 is for ten iterations of growth or ten years. This comes out to be $992 of free cash flow in ten years.</p>\n\n<p>Now we need to discount it back by the appropriate discount rate. This is where it gets personal. The discount rate can be considered to be a lot of different things. Interest rate, Weighted Average Cost of Capital, and minimum desired return are all acceptable use cases.</p>\n\n<p>Now let’s say for sake of argument that I wanted to be super conservative. I’m going to use a 25% discount rate to account for risks and desired rate of return. I can take the $992 future free cash flow and divide it by 1.25<sup>10</sup> and I get a discounted free cash flow of $106.50. This is the intrinsic cash flow baked into the company’s future prospects.</p>\n\n<p>Now I can take that ratio from earlier to reflect what it would be worth in share price terms if everything else was constant. Multiply $106.50 by 2.9 and I get $308.85. This is the intrinsic value based on the numbers we used.</p>\n\n<p>TLDR: Intrinsic value is $308.85 based on the numbers we used.</p>\n\n<p>Edit: numbers I used for Alibaba’s free cash flow are in Chinese RMB. Regardless, this does not change the growth or the relative discounting method I used.</p>\n\n<p>Edit: Please understand this was meant to be a very simple outline of how someone would approach this model of valuation. I baked A TON of assumptions into the end result. Please do your own research.</p>\n</div><!-- SC_ON -->",
+  "score": 44,
+  "permalink": "/r/investing/comments/ndow0k/simple_alibaba_intrinsic_value_caluclation/",
+  "subreddit": "investing",
+  "id": "ndow0k",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1621590803261
+}

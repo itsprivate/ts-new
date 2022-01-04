@@ -1,0 +1,53 @@
+{
+  "author": "PointerToTheSky",
+  "original_created_utc": 1636206265,
+  "title": "I created an API for Document/Text Grouping and Topic Extraction on RapidAPI",
+  "created_utc": 1636220693,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I have developed an API that groups your documents and extracts a keyword for each group that serves as a topic. Essentially, you can send the text of multiple documents as a list and their respective ID to the API. The endpoint then returns the IDs for the various groups and their respective topic. Additionally, you can specify the desired number of groups or let the API calculate the best number of clusters.</p>\n\n<p>Here&#39;s the URL to the API:<br/>\n<a href=\"https://rapidapi.com/sneakyPad/api/text-grouping-and-topic-extraction/\">https://rapidapi.com/sneakyPad/api/text-grouping-and-topic-extraction/</a></p>\n\n<p>You can try it out for free! Any feedback or comments are welcome!</p>\n\n<p>Here is a shortened version of the example you will find on RapidAPI:</p>\n\n<pre><code> {\n    &#39;n_clusters&#39;: 2,\n    &#39;documents&#39;: [\n        &#39;Python is an interpreted high-level general-purpose programming language.\n            Its design philosophy emphasizes code readability \n            with its use of significant indentation.&#39;,\n        &#39;Guido van Rossum began working on Python in the late 1980s.&#39;,\n    &#39;Python was conceived in the late 1980s[39] by Guido van Rossum at Centrum\n            Wiskunde &amp; Informatica (CWI) in the Netherlands as a successor to ABC     \n            programming language&#39;,\n        &#39;A wiki is a hypertext publication collaboratively edited and managed by its \n            own audience directly using a web browser.&#39;,\n    &#39;Wikis are enabled by wiki software, otherwise known as wiki engines.&#39;,\n        &#39;The online encyclopedia project, Wikipedia, is the most popular wiki-based \n            website, and is one of the most widely viewed sites in the world, having\n            been ranked in the top twenty since 2007.&#39;,\n    &#39;A wiki invites all users—not just experts—to edit any page or to create new\n            pages within the wiki Web site.&#39;\n    ],\n    &#39;ids_documents&#39;: [1, 2, 3, 4, 5, 6, 7, 8]\n  }\n</code></pre>\n\n<p>and here is the result:</p>\n\n<pre><code>{\n\n&quot;results&quot;: {\n    &quot;clusters&quot;: [\n        [5, 6, 7, 8 ],\n        [1, 2, 3, 4]\n    ],\n    &quot;topics&quot;: [\n        &quot;Wiki&quot;,\n        &quot;Python/Pip&quot;\n        ]\n    }\n\n}\n</code></pre>\n</div><!-- SC_ON -->",
+  "score": 6,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/ZLx_BvLf4l4M4-JVxE9OuLntA6wwib8hEmiAV9ZdFss.jpg?auto=webp&s=f6d4636b46e13fd70ac2e10af035ac03058bac82",
+          "width": 173,
+          "height": 174
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/ZLx_BvLf4l4M4-JVxE9OuLntA6wwib8hEmiAV9ZdFss.jpg?width=108&crop=smart&auto=webp&s=877ac8a4b56743ad90526e9d7b8c1f95b99c5b1f",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "bBWOdnMU6rSSbxULRiJfkGJmWGpchwcBErBDyi3ETn8"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qo0jm9/i_created_an_api_for_documenttext_grouping_and/",
+  "subreddit": "SideProject",
+  "id": "qo0jm9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I have developed an API that groups your documents and extracts a keyword for\neach group that serves as a topic. Essentially, you can send the text of\nmultiple documents as a list and their respective ID to the API. The endpoint\nthen returns the IDs for the various groups and their respective…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ドキュメントをグループ化して、グループごとにトピックとなるキーワードを抽出するAPIを開発しました。\nトピックとなるキーワードを抽出するAPIを開発しました。基本的には、複数のドキュメントのテキストを\n複数のドキュメントのテキストをリストにして、それぞれのIDをAPIに送ることができます。エンドポイントは\nエンドポイントは、様々なグループのIDとそれぞれの...",
+      "title": "RapidAPIでDocument/Text GroupingとTopic ExtractionのAPIを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经开发了一个API，可以对你的文件进行分组，并为每个组提取一个关键词作为主题。\n每组提取一个关键词作为主题。从本质上讲，你可以把多个文件的文本作为一个列表和它们各自的ID发送给API。\n多个文件的文本和它们各自的ID到API。端点\n然后返回各组的ID和它们各自的ID。",
+      "title": "我在RapidAPI上创建了一个用于文档/文本分组和主题提取的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經開發了一個API，可以對你的文件進行分組，併爲每個組提取一個關鍵詞作爲主題。\n每組提取一個關鍵詞作爲主題。從本質上講，你可以把多個文件的文本作爲一個列表和它們各自的ID發送給API。\n多個文件的文本和它們各自的ID到API。端點\n然後返回各組的ID和它們各自的ID。",
+      "title": "我在RapidAPI上創建了一個用於文檔/文本分組和主題提取的API"
+    }
+  ]
+}

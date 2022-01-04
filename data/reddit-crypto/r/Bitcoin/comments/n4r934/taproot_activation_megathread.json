@@ -1,0 +1,79 @@
+{
+  "author": "TheGreatMuffin",
+  "the_new_excerpt": "An activation mechanism called \"Speedy Trial\n[https://bitcoinmagazine.com/technical/speedy-trial-merged-into-bitcoin-core]\"\nhas just started on the 1st of May. Its goal is to give miners an opportunity to\ncoordinate a quick activation of the Taproot update.\n\nThe gist of it is: miners are given a…",
+  "original_created_utc": 1620142408,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "スピーディ・トライアル」と呼ばれる活性化の仕組み\n[https://bitcoinmagazine.com/technical/speedy-trial-merged-into-bitcoin-core]\"\nが5月1日にスタートしました。その目的は、マイナーがTaprootアップデートの迅速な起動を調整する機会を提供することです。\nタプルートアップデートの迅速な起動を調整する機会を与えることです。\n\nその目的は、鉱山労働者に、Taprootアップデートの迅速な起動を調整する機会を与えることです。",
+      "title": "タプロード起動メガスレッド"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一个名为 \"快速审判 \"的激活机制\n[https://bitcoinmagazine.com/technical/speedy-trial-merged-into-bitcoin-core]\"\n已于5月1日开始。它的目标是给矿工一个机会来\n协调快速激活Taproot更新。\n\n它的要点是：矿工们得到一个...",
+      "title": "自来水公司激活的大讨论"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一個名爲 \"快速審判 \"的激活機制\n[https://bitcoinmagazine.com/technical/speedy-trial-merged-into-bitcoin-core]\"\n已於5月1日開始。它的目標是給礦工一個機會來\n協調快速激活Taproot更新。\n\n它的要點是：礦工們得到一個...",
+      "title": "自來水公司激活的大討論"
+    }
+  ],
+  "title": "Taproot activation megathread",
+  "created_utc": 1620167530,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>An activation mechanism called &quot;<a href=\"https://bitcoinmagazine.com/technical/speedy-trial-merged-into-bitcoin-core\">Speedy Trial</a>&quot; has just started on the 1st of May. Its goal is to give miners an opportunity to coordinate a quick activation of the Taproot update.  </p>\n\n<p>The gist of it is: miners are given a three months time period to signal for Taproot activation. Within those three months, there are six sub-phases (each consists of 2016 blocks, aka ~2 weeks). As soon as there are 90% of blocks signalling for Taproot within <em>any of those six sub-phases</em>, Taproot activation will be locked in. The actual new protocol rules will then be enforced starting from block height 709,632, which is expected to be mined in November.  </p>\n\n<p>We are currently in the first of those six sub-phases, and Taproot activation will not happen in this one, as miners need time to upgrade their equipment (this is expected, as the software update with Taproot activation mechanism was only <a href=\"https://bitcoinmagazine.com/technical/bitcoin-core-0-21-1-taproot-code-out\">released a few days ago</a>). But already now (as of 4th of May) there is roughly ~50% of mining power that has updated and started signalling for Taproot.  </p>\n\n<p>You can watch the currently signalling blocks/mining pools here:  </p>\n\n<p><a href=\"https://taproot.watch\">https://taproot.watch</a>  </p>\n\n<p>Currently signalling for Taproot:  </p>\n\n<ul>\n<li>SlushPool (~3% mining power)<br/></li>\n<li>AntPool (~18%)</li>\n<li>F2Pool (~18%) </li>\n<li>1THash (~4%)</li>\n<li>Foundry (~4%)<br/></li>\n<li>Poolin (~10%)<br/></li>\n</ul>\n\n<p>Keep in mind, actual hashrate is always unknown and numbers above are an estimation only, based on observations of the recent blocks, which is always subject to variance.    </p>\n\n<h1>What is Taproot?</h1>\n\n<blockquote>\n<p>Summary  </p>\n\n<ul>\n<li><p>If you are a singlesig HODL-only Bitcoin user, Taproot will not affect you positively or negatively. Importantly: Taproot does no harm!  </p></li>\n<li><p>If you use or intend to use multisig, Taproot will be a positive for you.   </p></li>\n<li><p>If you transact onchain regularly using typical P2PKH/P2WPKH addresses, you get a minor reduction in feerates since multisig users will likely switch to Taproot to get smaller tx sizes, freeing up blockspace for yours.   </p></li>\n<li><p>If you are using multiparticipant setups for special systems of trade, Taproot will be a positive for you.\nRemember: Lightning channels are multipartiicpiant setups for special systems of lightning-fast offchain trades!  </p></li>\n</ul>\n</blockquote>\n\n<p>Source: <a href=\"https://old.reddit.com/r/Bitcoin/comments/hrlpnc/technical_taproot_why_activate/\">Taproot - Why Activate</a>  </p>\n\n<p>Further reading:  </p>\n\n<ul>\n<li><p><a href=\"https://braiins.com/blog/explain-like-im-not-a-developer-taproot-privacy\">Explain Like I’m Not a Developer: Taproot Privacy</a>  </p></li>\n<li><p><a href=\"https://bitcoinmagazine.com/technical/taproot-coming-what-it-and-how-it-will-benefit-bitcoin\">Taproot Is Coming: What It Is And How Will It Benefit Bitcoin</a>  </p></li>\n<li><p>Podcast: <a href=\"https://bitcoinmagazine.com/technical/discussing-taproot-activation-through-speedy-trial\">Discussing Taproot Activation Through Speedy Trial</a> (Aaron v Wirdum and Sjors Provoost)  </p></li>\n</ul>\n\n<h1>FAQ:</h1>\n\n<blockquote>\n<p>If 90% is not reached by August, what then? Is Taproot dead?</p>\n</blockquote>\n\n<p>No, if miners are not cooperating, then another activation mechanism will be attempted (something similar to UASF in 2017), where full node maintainers simply say &quot;from blockheight x Taproot will be enforced and non-compliant blocks will be rejected&quot;, or something similar. The &quot;speedy trial&quot; mechanism was just the least contentious/the fastest one. If it doesn&#39;t work, we move on to another mechanism.    </p>\n\n<blockquote>\n<p>If you are running a node - do you need to take any action now?  </p>\n</blockquote>\n\n<p>You don&#39;t <em>need</em> to, but you could upgrade your client to 0.21.1, which has Taproot activation code included: <a href=\"https://bitcoincore.org/en/2021/05/01/release-0.21.1/\">https://bitcoincore.org/en/2021/05/01/release-0.21.1/</a>   </p>\n\n<blockquote>\n<p>ELI5 this please?  </p>\n</blockquote>\n\n<p>There is an update to bitcoin&#39;s code, called Taproot. It is good for privacy and efficiency of some important usecases. The update itself (the code) is ready, now it needs to be activated on the network. The developers/users gave the miners three months time to coordinate this activation (the coordination through miners makes it a bit easier, if everyone cooperates).  </p>\n\n<p>That three months time window started on the 1st of May, and this current thread/the first link is keeping track of the current activation status. Now we have to wait and see how cooperative the miners will be (most likely they will, but it&#39;s not a guarantee).</p>\n\n<p><em>Additions (more helpful links, questions, improvements etc) welcome! Please post them in comments :)</em></p>\n</div><!-- SC_ON -->",
+  "score": 333,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?auto=webp&s=4c2f3753a5c3379496b73c09c735af396a7d990a",
+          "width": 1200,
+          "height": 666
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?width=108&crop=smart&auto=webp&s=7264ecbe4f4f00d55716575db95ce6da13a46ae9",
+            "width": 108,
+            "height": 59
+          },
+          {
+            "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?width=216&crop=smart&auto=webp&s=a51a5ee23069beeefb697a78e352b6b600651f0b",
+            "width": 216,
+            "height": 119
+          },
+          {
+            "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?width=320&crop=smart&auto=webp&s=e28e6f10bbc78cdcac672dcc09e2bf369ce79e16",
+            "width": 320,
+            "height": 177
+          },
+          {
+            "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?width=640&crop=smart&auto=webp&s=9ec48f85315989a837f6da093760e9c4b726326a",
+            "width": 640,
+            "height": 355
+          },
+          {
+            "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?width=960&crop=smart&auto=webp&s=b39987afd3ecb8a3927b4a23f906a4899edc7db4",
+            "width": 960,
+            "height": 532
+          },
+          {
+            "url": "https://external-preview.redd.it/qgULy1yTccJO51gZKC9gYaslymYANgAfPJMJ4f8LRGk.jpg?width=1080&crop=smart&auto=webp&s=31e3dfe933c435d1b03845eeda41b89398253e52",
+            "width": 1080,
+            "height": 599
+          }
+        ],
+        "variants": {},
+        "id": "UG-OkiaUV3A0cOx9LY9VJ5Pg8dqe0RaxLJ2lF8u9FtQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/n4r934/taproot_activation_megathread/",
+  "subreddit": "Bitcoin",
+  "id": "n4r934",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620380959876
+}

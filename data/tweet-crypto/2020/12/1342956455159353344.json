@@ -1,0 +1,73 @@
+{
+  "created_at": "Sat Jan 16 13:22:20 +0000 2021",
+  "id_str": "1342956455159353344",
+  "full_text": "Houston, we have a problem https://t.co/PpxAwGMNgx",
+  "display_text_range": [
+    0,
+    26
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1342956250854789000,
+        "id_str": "1342956250854789120",
+        "indices": [
+          27,
+          50
+        ],
+        "media_url": "http://pbs.twimg.com/media/EqMjmEkXEAAUaK6.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EqMjmEkXEAAUaK6.jpg",
+        "url": "https://t.co/PpxAwGMNgx",
+        "display_url": "pic.twitter.com/PpxAwGMNgx",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1342956455159353344/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 2048,
+            "h": 1153,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 665,
+  "favorite_count": 3963,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Dec 26 22:12:24 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "休斯敦，我们有一个问题https://t.co/PpxAwGMNgx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "休斯敦，我們有一個問題https://t.co/PpxAwGMNgx"
+    }
+  ],
+  "source_updated_at": 1611311231109
+}

@@ -1,0 +1,73 @@
+{
+  "author": "potaloma",
+  "original_created_utc": 1632079996,
+  "title": "New Coin Deep Dive: MINA Protocol (the smallest crypto lowering the limits for participation)",
+  "created_utc": 1632162961,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The Mina Protocol is a smart contract compatible proof of stake (PoS) cryptocurrency blockchain. It’s designed to have a constant blockchain size of 22 kilobytes. On the other hand, traditional blockchains like BTC and ETH grow larger as each block is added. As these blockchains keep growing, eventually the data will be so large that fewer and fewer people can hold the data to run nodes, and centralization will become an issue. </p>\n\n<p><a href=\"https://imgur.com/a/PF5fMlR\">Size comparison</a></p>\n\n<p>Mina uses zero-knowledge proof switch, a cryptographic technique co-created by MIT professor and Algorand founder Silvio Micali. Zero-knowledge proofs make it possible to prove something without needing to provide any information to support that proof.</p>\n\n<p><strong>ARCHITECTURE</strong></p>\n\n<p>There are three key participants on the Mina blockchain, these are verifiers, block producers, and snarkers.</p>\n\n<p>Verifiers add security to the Mina blockchain by holding that 22-kilobyte zero-knowledge proof. Because 22 kilobytes is such a small amount of data to download. This makes it possible to turn everyone on Mina into a verifier.</p>\n\n<p>Block producers earn rewards by storing the current state of the blockchain and sending a snapshot of this state to verifiers. Mina’s proof of stake is a version of Cardano’s Ouroboros proof of stake technology which makes it possible for Mina to have no limit on the number of block producers that can join its blockchain.</p>\n\n<p>Not only that but there is no minimum stake to become a block producer on Mina. No other slashing penalties for misbehavior. With only a 22kb size, it makes sense for anyone to run a node. More participants increase network effect and thereby increasing the value of the token. </p>\n\n<p>Block producers earn block rewards based on how much Mina they’ve staked relative to other block producers and anyone can delegate their Mina to block producers to earn a cut of their block rewards.</p>\n\n<p>Snarkers on Mina are the ones tasked with taking snapshots of all the transactions taking place on the blockchain. They do not need to stake any Mina to do this.</p>\n\n<p>Interestingly block producers pay snarkers for this service using a cut of their block rewards and multiple snarkers can bid for the same transaction snapshots on a marketplace called the Snarked Place.</p>\n\n<p>The use of zk-SNARKS allows the verification of the Mina protocol’s state without exposing the blockchain’s contents, consequently offering a censorship-resistant platform. </p>\n\n<p>zk-SNARKs consist of fixed size snapshots that represent a proof of the blockchain’s state transitions. Every time a new block is created, it takes a snapshot of itself, using the snapshot of the previous state as the background. That new snapshot will then be used as the backdrop for the next block, establishing a link between the changing states (blocks) without adding more computational load to the nodes that verify and secure state transitions.</p>\n\n<p>This unique design enables participants to verify transactions without needing to store the full chain’s history, and minimizes the need for “trusted third parties” to provide access to the network.</p>\n\n<p>In the future, developers will be able to deploy application logic on the Mina blockchain in the form of Snapps, SNARK-powered Applications. These applications will function similarly to applications on other blockchains, but will enable enhanced privacy features due to the chain’s native ability to verify data without disclosing the data itself.</p>\n\n<p><strong>Team</strong></p>\n\n<p>EVAN SHAPIRO: CEO</p>\n\n<p>Evan Shapiro graduated from Carnegie Mellon with a BS in computer science. He then obtained his research MS while working in the CMU Personal Robotics Lab, where he did research for the HERB robotics platform. He has also worked as a software engineer for Mozilla.</p>\n\n<p>IZAAK MECKLER: CTO</p>\n\n<p>Izaak Meckler is a mathematician and computer scientist. Most recently, he was a PhD student studying cryptography at UC Berkeley. Prior to that, he worked as a software engineer at trading firm Jane Street, and has contributed to numerous open source projects including the Elm compiler.</p>\n\n<p>BRAD COHN: STRATEGY &amp; OPERATIONS</p>\n\n<p>Brad Cohn has diverse work experience, including stints in an electrophysiology lab, high frequency trading firm, a technology think tank, and a hedge fund. He most recently came from Bridgewater Associates where he was an engineer on the currency team and Ray Dalio&#39;s research team before joining a group of engineers dedicated to rearchitecting core investment systems. He holds a BS in math from UChicago with a minor in computational neuroscience.</p>\n\n<p>On initial analysis, the founder and co-founder seem like two young guys probably around 30 years old, without a proven track record of success. Mina seems to be their first private venture, so the team doesn’t look as strong when compared to projects like Algo and Avalanche.</p>\n\n<p><strong>Investment</strong></p>\n\n<p>In May 2018, O(1) Labs (company behind MINA) raised $3.5M in a seed round. That round was subsequently followed by a $15M Series A round in April 2019 from leading investors that included Polychain, Paradigm, Coinbase Ventures, General Catalyst, Accomplice, Metastable, Naval Ravikant. </p>\n\n<p>They raised additional funding in a strategic round for Mina development on October 21st 2020. Bixin Ventures and Three Arrows Capital, with participation from SNZ, HashKey Capital, Signum Capital, NGC Ventures, Fenbushi Capital, and IOSG Ventures. </p>\n\n<p>For context, Bixin Ventures, an industry leader in wallet and mining based out of Hong Kong in southwest Asia, has only invested in two blockchain entities, the first being O(1) Labs. Razor Network is its second investment after O(1) Labs. </p>\n\n<p>Three Arrows Capital, one of O(1) Labs strategic investors, is known to back some of the top Web3 products in the space. According to Crunchbase, Three Arrows Capital has backed 11 entities in the space, including Aave, Balancer, dYdX, KeeperDAO, Poolin, and its most recent StakWare Industries. In all its investment, it led 5 of the rounds, including O(1) Labs.</p>\n\n<p>MINA then raised another $48M from a public ICO through coinlist on April 13 with a price of $.25 per token, selling out if their allotted 75M tokens within an hour (I was there but missed it as there were over 200,000 people in line and only 10,000 or so were able to buy on ICO. </p>\n\n<p><strong>Tokenomics</strong></p>\n\n<p>Initial Token Supply    1B coins</p>\n\n<p>Maximum Token Supply: Uncapped</p>\n\n<p>Mina is inflationary; inflation starts at 12% for the first two years, decreasing by 1% every six months until stabilizing at 7% in year five. Stakers earn anywhere from 12% - 24% depending on how many coins are staked. </p>\n\n<p><strong>Summary</strong></p>\n\n<p>With a young team, Mina’s main benefit comes from being the first to market with a small, constant blockchain. However, the technology behind Mina (zero knowledge) is not proprietary, and can be duplicated by other teams with bigger pockets and a better stacked team. I predict that the hype around Mina will eventually fade, and if Mina can’t capitalize their position in the short term, they too will fade. Hype is a big factor in the new world of crypto, so holding a short term bag and enjoying the high staking rewards is not a bad idea. </p>\n\n<p>They’ve already 25x since ICO 5 months ago. Are we too late? Are we still early? Who knows… And as always, DYOR!</p>\n</div><!-- SC_ON -->",
+  "score": 181,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Iwq4Q-qmviFb-4ERrcii1l8rLyIngdCw6feGj2Xbkuw.jpg?auto=webp&s=59329a07f0b00d8cf0978c1af71321b524edd95d",
+          "width": 966,
+          "height": 313
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Iwq4Q-qmviFb-4ERrcii1l8rLyIngdCw6feGj2Xbkuw.jpg?width=108&crop=smart&auto=webp&s=443cfe6f5ff0b5c339966e476df6047a877f82b3",
+            "width": 108,
+            "height": 34
+          },
+          {
+            "url": "https://external-preview.redd.it/Iwq4Q-qmviFb-4ERrcii1l8rLyIngdCw6feGj2Xbkuw.jpg?width=216&crop=smart&auto=webp&s=c31812954af8a854e41bafd392d38747e4f7d724",
+            "width": 216,
+            "height": 69
+          },
+          {
+            "url": "https://external-preview.redd.it/Iwq4Q-qmviFb-4ERrcii1l8rLyIngdCw6feGj2Xbkuw.jpg?width=320&crop=smart&auto=webp&s=62e0764375b7931c7b8c33ebedf0c8cb621f7452",
+            "width": 320,
+            "height": 103
+          },
+          {
+            "url": "https://external-preview.redd.it/Iwq4Q-qmviFb-4ERrcii1l8rLyIngdCw6feGj2Xbkuw.jpg?width=640&crop=smart&auto=webp&s=5896f1a13690a1bec360c064f01350222d123abb",
+            "width": 640,
+            "height": 207
+          },
+          {
+            "url": "https://external-preview.redd.it/Iwq4Q-qmviFb-4ERrcii1l8rLyIngdCw6feGj2Xbkuw.jpg?width=960&crop=smart&auto=webp&s=388206449d879794ddaaa7f0a3431abce23e0bb9",
+            "width": 960,
+            "height": 311
+          }
+        ],
+        "variants": {},
+        "id": "_q6g3qDDXc1X-gRMD6JDbbNniHCfEHHGDY440ehAd8o"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/preqvo/new_coin_deep_dive_mina_protocol_the_smallest/",
+  "subreddit": "CryptoCurrency",
+  "id": "preqvo",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "The Mina Protocol is a smart contract compatible proof of stake (PoS)\ncryptocurrency blockchain. It’s designed to have a constant blockchain size of\n22 kilobytes. On the other hand, traditional blockchains like BTC and ETH grow\nlarger as each block is added. As these blockchains keep growing,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Minaプロトコルは、スマートコントラクト対応のプルーフオブステーク（PoS）の\n暗号通貨のブロックチェーンです。ブロックチェーンのサイズが一定であるように設計されており\n22キロバイトとなっています。一方、BTCやETHなどの伝統的なブロックチェーンは、ブロックが追加されるごとに大きくなります。\nブロックが追加されるたびに大きくなっていきます。これらのブロックチェーンが成長し続けると、...",
+      "title": "ニューコイン ディープダイブ MINAプロトコル（参加の限界を下げた最小のクリプト"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "米娜协议是一个智能合约兼容的股权证明（PoS）。\n加密货币区块链。它被设计成有一个恒定的区块链大小为\n22千字节。另一方面，传统的区块链，如BTC和ETH增长\n随着每个区块的增加而变大。随着这些区块链的不断增长，...",
+      "title": "新钱币的深入研究。MINA协议（最小的加密货币降低了参与限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "米娜協議是一個智能合約兼容的股權證明（PoS）。\n加密貨幣區塊鏈。它被設計成有一個恆定的區塊鏈大小爲\n22千字節。另一方面，傳統的區塊鏈，如BTC和ETH增長\n隨着每個區塊的增加而變大。隨着這些區塊鏈的不斷增長，...",
+      "title": "新錢幣的深入研究。MINA協議（最小的加密貨幣降低了參與限制"
+    }
+  ]
+}

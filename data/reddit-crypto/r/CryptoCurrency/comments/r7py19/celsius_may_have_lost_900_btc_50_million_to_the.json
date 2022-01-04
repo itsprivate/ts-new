@@ -1,0 +1,53 @@
+{
+  "author": "AutisticDalekOnSpeed",
+  "original_created_utc": 1638504248,
+  "title": "Celsius may have lost 900 BTC ($50 million) to the Badger DAO hack",
+  "created_utc": 1638563596,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I just came across &lt;a href=\"https://twitter.com/BigTimeCali/status/1466556925127000065\"&gt;this twitter thread&lt;/a&gt; saying Celsius lost 900 BTC to the Badger DAO hack&lt;/p&gt;\n\n&lt;p&gt;Recently Badger DAO (a defi protocol Celsius might have been using) &lt;a href=\"https://www.coindesk.com/business/2021/12/02/badger-dao-protocol-suffers-10m-exploit/\"&gt;was hacked and $120 million was stolen&lt;/a&gt;. &lt;/p&gt;\n\n&lt;p&gt;The hackers managed to gain access to the website and add a malicious script that drained funds from users&amp;#39; wallets. &lt;/p&gt;\n\n&lt;p&gt;The user who lost the most money to the hack was &lt;a href=\"https://etherscan.io/address/0x53461e4fddcc1385f1256ae24ce3505be664f249\"&gt;this address&lt;/a&gt; (0x534) who &lt;a href=\"https://etherscan.io/tx/0x951babdddbfbbba81bbbb7991a959d9815e80cc5d9418d10e692f41541029869\"&gt;lost 896 wBTC&lt;/a&gt;. It is believed that this address is owned by Celsius since it has interacted with other addresses known to be owned by them. &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Here&amp;#39;s why it&amp;#39;s believed that that address was owned by Celsius.&lt;/strong&gt; &lt;/p&gt;\n\n&lt;p&gt;TLDR: 0x534 (the address who lost 896 BTC) seems to be connected to a lot of addresses connected to Celsius. &lt;/p&gt;\n\n&lt;p&gt;0x534 regularly sends big amounts of funds to another address (0xdb3). You can see a transaction like that here, where &lt;a href=\"https://etherscan.io/tx/0xa5b0773a30e2f8508d509a725bdfcd9dfd3fb7e5f38cb61a025a73afaf9251c3\"&gt;0x534 sent 125 ETH&lt;/a&gt; to 0xdb3. It also received funds from 0xdb3 frequently,  &lt;/p&gt;\n\n&lt;p&gt;0xdb3 has a $67 million balance, of which $40 million is in CEL &lt;/p&gt;\n\n&lt;p&gt;0xdb3 is also related to another address (0x4f6) that&amp;#39;s owned by Celsius (tagged as Celsius Network Wallet 5 on Etherscan). &lt;/p&gt;\n\n&lt;p&gt;These two addresses interact with each other frequently, you can see 0xdb3 and 0x476 sending large amounts of funds to each other repeatedly. (&lt;a href=\"https://etherscan.io/tx/0xe7e247ee673de1c9c68a9d8ea00def54590928531a0617b10e3c01df7d2cfc92\"&gt;0xdb3 sends 514k BUSD to 0x4f6&lt;/a&gt; , &lt;a href=\"https://etherscan.io/tx/0xffee616069332435362e094c40a31617654af1c127fcfb2d5e7962fb227046b4\"&gt;0x4f6 sends 6 million USDT to 0xdb3&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://etherscan.io/tx/0x67b8acc614e852eadaa0cb5bbe9f69ba936649fd9097e2531870d416d73025c6\"&gt;0x534 also sends funds to another address (0xef2).&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;0xef2 is also related 0x4f6 (Celsius Wallet 5) . You can see 0xef2 frequently receiving funds from 0x4f6.  (&lt;a href=\"https://etherscan.io/tx/0x9b1868021e2a518f8065bcff14bfa1923cbfd43303f87d4dc41b92cf4cef55b3\"&gt;0x4f6 sends 6 million USDT to 0xed2&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;0x534 also interacts with another address (0x5fa) (&lt;a href=\"https://etherscan.io/tx/0x6a810665b40d479133a8f71236df07238c2dc35801b151086ff6552b48944cb7\"&gt;0x534 sends $2.2 million in CRV to 0x5fa&lt;/a&gt;) &lt;/p&gt;\n\n&lt;p&gt;And 0x5fa also interacts with 0xdb3 and 0xef2 (&lt;a href=\"https://etherscan.io/tx/0x5a8ec71b08c659dff8c2c4a450ed21bd516d5149dd3e870f3e7fa542257d3db9\"&gt;0x5fa sends $50k in CRV to 0xdb3&lt;/a&gt;, &lt;a href=\"https://etherscan.io/tx/0x6d6c6b36dafe04a166de47deb8bf3900f94530cdcdd3e1d06847a47dd6970f9f\"&gt;0xef2 sends $700 in ANKR to 0x5fa&lt;/a&gt;) &lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;All this means that there&amp;#39;s a high chance that the address who lost 900 BTC was owned by Celsius. Celsius has not confirmed anything yet, so &lt;strong&gt;this is all speculation for now, so we don&amp;#39;t know for sure if Celsius was affected or not.&lt;/strong&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 153,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/nskMw6civdNFD72Wl0l4w4dYNLhzWQO_8mLY2UMlLnQ.jpg?auto=webp&amp;s=92029195bbda2a9094cb982abd913d4ecbb739b8",
+          "width": 140,
+          "height": 140
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/nskMw6civdNFD72Wl0l4w4dYNLhzWQO_8mLY2UMlLnQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2d7e813559f4e6905c44d5212be1e29001a3d341",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "zE_ybrRNMNKajG5T4TTVBhd4yjAK-N4LgprM0rWQf90"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/r7py19/celsius_may_have_lost_900_btc_50_million_to_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "r7py19",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I just came across this twitter thread\n[https://twitter.com/BigTimeCali/status/1466556925127000065] saying Celsius lost\n900 BTC to the Badger DAO hack\n\nRecently Badger DAO (a defi protocol Celsius might have been using) was hacked\nand $120 million was…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このツイッターのスレッドに出会いました\n[https://twitter.com/BigTimeCali/status/1466556925127000065] セルシオが失ったという\n900 BTCをBadger DAOのハッキングに巻き込む\n\n最近、Badger DAO（セルシオが使っていたかもしれないdefiプロトコル）がハッキングされた。\nと1億2千万ドルが...",
+      "title": "セルシオはBadger DAOのハッキングにより900BTC（5000万ドル）を失った可能性がある"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚看到了这个微博话题\n[https://twitter.com/BigTimeCali/status/1466556925127000065] 说Celsius失去了\n900个BTC被Badger DAO黑掉了\n\n最近Badger DAO（Celsius可能使用的defi协议）被黑了\n和1.2亿美元被...",
+      "title": "Celsius可能因Badger DAO黑客攻击而损失900 BTC（5000万美元）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛看到了這個微博話題\n[https://twitter.com/BigTimeCali/status/1466556925127000065] 說Celsius失去了\n900個BTC被Badger DAO黑掉了\n\n最近Badger DAO（Celsius可能使用的defi協議）被黑了\n和1.2億美元被...",
+      "title": "Celsius可能因Badger DAO黑客攻擊而損失900 BTC（5000萬美元）。"
+    }
+  ]
+}

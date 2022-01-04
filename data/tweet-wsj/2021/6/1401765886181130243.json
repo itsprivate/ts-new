@@ -1,0 +1,86 @@
+{
+  "created_at": "Mon Jun 07 9:46:7 +0000 2021",
+  "id_str": "1401765886181130243",
+  "full_text": "Take an early look at the front page of The Wall Street Journal https://t.co/5xQPDPcm8q https://t.co/5GYQJICviC",
+  "display_text_range": [
+    0,
+    87
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/5xQPDPcm8q",
+        "expanded_url": "http://www.wsj.com",
+        "display_url": "wsj.com",
+        "indices": [
+          64,
+          87
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1401765878593736700,
+        "id_str": "1401765878593736707",
+        "indices": [
+          88,
+          111
+        ],
+        "media_url": "http://pbs.twimg.com/media/E3QSo8PX0AMKsxJ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E3QSo8PX0AMKsxJ.jpg",
+        "url": "https://t.co/5GYQJICviC",
+        "display_url": "pic.twitter.com/5GYQJICviC",
+        "expanded_url": "https://twitter.com/WSJ/status/1401765886181130243/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 641,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 363,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1094,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 30,
+  "favorite_count": 93,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jun 07 05:00:05 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "The Wall Street Journalの一面をいち早く見てみよう！ https://t.co/5xQPDPcm8q https://t.co/5GYQJICviC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "提前看一下《华尔街日报》的头版 https://t.co/5xQPDPcm8q https://t.co/5GYQJICviC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "提前看一下《華爾街日報》的頭版 https://t.co/5xQPDPcm8q https://t.co/5GYQJICviC"
+    }
+  ]
+}

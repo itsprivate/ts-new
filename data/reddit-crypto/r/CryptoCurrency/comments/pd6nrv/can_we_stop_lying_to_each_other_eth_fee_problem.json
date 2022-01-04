@@ -1,0 +1,32 @@
+{
+  "author": "BtcAnonymouse",
+  "original_created_utc": 1630142403,
+  "title": "Can we stop lying to each other? ETH fee problem cannot be solved easily without more centralization",
+  "created_utc": 1630157977,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>There&#39;s too much misinformation about gas prices and it&#39;s unproductive and misleading users giving them false hopes.</p>\n\n<p>Everyone can see on their own that gas prices are beyond ridiculous. People are losing serious money on NFTs for failed transactions or paying more in fees than the actual value of transaction. Misinformation is not helpful.</p>\n\n<p>Some people were giving hopes that EIP 1559 will fix gas prices but it does not do that. EIP 1559 tried to fix overpayment by making fee estimation easier. It&#39;s not a scaling solution or fee reducing solution.</p>\n\n<p>There are posts now saying that ETH 2.0 will fix everything. That&#39;s once again wrong information. Changing to POS will not solve fees or scalability.</p>\n\n<p>Sidechains like Matic can fix fee problem. EVM clones like BSC can fix it. But as you know these are completely centralized solutions.</p>\n\n<p>Rollups can fix it. There&#39;s two types of rollups. One is zero knowledge rollup and other is optimistic rollup. Rollups execute transactions on separate chain, compress a batch of transactions and post it to main chain.</p>\n\n<p>The difference between zero knowledge and optimistic rollups is on how they prove validity of a batch of transactions.</p>\n\n<p>Zero knowledge rollups are very computational intensive. Optimistic rollups is based on trust and it can have vulnerabilities if the value of transactions is high enough for bad actor to take advantage.</p>\n\n<p>ETH network is already centralized on first layer because of nodes and dapps depending on Infura. Even Metamask depends on Infura. Infura is a third party centralized service.</p>\n\n<p>The reality is there is currently no easy fix for gas prices without adding more centralization and security risks. Let&#39;s try to be honest about it and stop spreading misinformation.</p>\n</div><!-- SC_ON -->",
+  "score": 235,
+  "permalink": "/r/CryptoCurrency/comments/pd6nrv/can_we_stop_lying_to_each_other_eth_fee_problem/",
+  "subreddit": "CryptoCurrency",
+  "id": "pd6nrv",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "There's too much misinformation about gas prices and it's unproductive and\nmisleading users giving them false hopes.\n\nEveryone can see on their own that gas prices are beyond ridiculous. People are\nlosing serious money on NFTs for failed transactions or paying more in fees than\nthe actual value of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ガソリン価格に関する誤った情報があまりにも多く、それは非生産的であり\nユーザーに誤った期待を抱かせています。\n\nガソリン価格がとんでもないことになっていることは、誰もが自分の目で確かめている。人々は\n取引に失敗してNFTで大金を失ったり、実際の価値よりも高い手数料を支払ったり...。\n実際の価値よりも高い手数料を支払っていたり...",
+      "title": "お互いに嘘をつくのはやめませんか？ETHの手数料問題は、集中化を進めないと簡単には解決しない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有太多关于油价的错误信息，它是无益的，并且\n误导用户，给他们带来错误的希望。\n\n每个人都可以自己看到，油价已经超出了荒谬的程度。人们正在\n人们因交易失败的NFT而损失惨重，或者支付的费用超过了\n价值。",
+      "title": "我们能不能别再互相欺骗了？如果没有更多的集中化，ETH费用问题就不容易解决"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有太多關於油價的錯誤信息，它是無益的，並且\n誤導用戶，給他們帶來錯誤的希望。\n\n每個人都可以自己看到，油價已經超出了荒謬的程度。人們正在\n人們因交易失敗的NFT而損失慘重，或者支付的費用超過了\n價值。",
+      "title": "我們能不能別再互相欺騙了？如果沒有更多的集中化，ETH費用問題就不容易解決"
+    }
+  ]
+}

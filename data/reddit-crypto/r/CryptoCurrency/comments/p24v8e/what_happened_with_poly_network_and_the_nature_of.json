@@ -1,0 +1,63 @@
+{
+  "author": "Yalnix",
+  "original_created_utc": 1628652194,
+  "title": "What happened with Poly Network and the nature of DeFi Hacks",
+  "created_utc": 1628674335,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey all!</p>\n\n<p>I&#39;ve seen some misinformation being spread about how the Poly Network hack worked and what it was actually targeting. I want to clear it up, because this is a big barrier to get people involved in the DeFi Space.</p>\n\n<p><strong>WHO DID THE HACK TARGET</strong></p>\n\n<p>This is a big question to ask. I&#39;ve seen a couple of comments like &quot;Not your keys, not your Crypto&quot; and likening it to BitConnect or Mt. Gox. It&#39;s similar but with a big caveat, these types of attacks DON&#39;T typically target users crypto in their wallet.  Custodial exchange and Centralised Lending will often target users Crypto just chilling in a Spot Wallet.</p>\n\n<p>When you supply liquidity to a protocol on DeFi, IT IS NOT YOUR CRYPTO. You&#39;re keys should still be able to authorise the withdrawal of that Crypto or your wallet will have a receipt of supplying like cETH or LP tokens. You are still ultimately the custodian of your own Crypto in DeFi</p>\n\n<p>If you&#39;ve been interacting with DeFi protocols, it is highly unlikely you will wake up to a drained Metamask after one of these hacks. You are too small of a fish for those types of attacks to target. You are more likely to have fallen for Phishing scams if that is the case.</p>\n\n<p>Typically hacks like this target Liquidity Pools. Liquidity Pools often have immense values in them, now you may lose Crypto you have deposited in a hacked pool or farm but often times protocols come up with solutions to reimburse any lost crypto like PancakeBunny earlier this year that suffered a Flash Loan attack.</p>\n\n<p>Poly Network holds large liquidity pools to facilitate cross chain transfers, holding a lot of exit liquidity on each chain. The money that was hacked from this event is likely to have been stolen from those who have large amounts of liquidity staked. This is not likely to be you farming CAKE on PCS!</p>\n\n<p>Cross Chain protocols are incredibly hard to code, and they should be treated with caution when supplying liquidity to them.</p>\n\n<p><strong>HOW DID THE ATTACK TAKE PLACE?</strong></p>\n\n<p>I want to keep this part simple for those not technically minded but there are currently two working theories as to how the hack took place. They both involve the private keys for the ownership of the liquidity pools.</p>\n\n<p><em>Theory 1: Leaked Key</em></p>\n\n<p>Now, Poly Network has a big security problem from the outset. They had a single sig key to the pools which means that only one signer would need to authorise any changes to the liquidity pool, including withdrawal of funds. This is like leaving a vault of gold with only one key. If you wanted to access this, there wouldn&#39;t be any other parties involved and no oversight from someone who could say &quot;Hey, what are you doing!&quot;.</p>\n\n<p>Current theories suggest that this key was leaked or hacked via another method off-chain. This is the story from early official post mortem from Poly Network</p>\n\n<p>EDIT: This theory has been disproved by Poly Network, but I wrote it so I thought I&#39;d leave it here as an example of an early working theory</p>\n\n<p><em>Theory 2: Hacked Contracts</em></p>\n\n<p>There are two important contracts. A &quot;manager&quot; contract and a &quot;data&quot; contract. The data contract specifies the address which can submit transactions which can withdraw funds from the pool. If someone was to replace this address in the contract to theirs, they could withdraw as much from the pools as possible.</p>\n\n<p>In Solidity there is a concept called Ownership. A smart contract can set certain functions to only execute if the owner executed them. Typically when constructed the owner is the wallet who deployed the contract, which is typically the developer. However, in this case the Owner of the &quot;Data&quot; contract was the &quot;Manager&quot; contract.</p>\n\n<p>So now, if you were to call a function which could replace the address in the data contract with theirs <em>from the manager</em>, it would be allowed.</p>\n\n<p>But here&#39;s another flaw in the design of Poly Network. The &quot;manager&quot; contract exists to run transactions on different chains. It has a function called verifyHeaderAndExecuteTx which verifies that a transaction exists on one chain, and if it does, runs it on another. This is needed for cross chain interoperability.</p>\n\n<p>But wait... we&#39;ve now got a way to run arbitrary functions from the &quot;manager&quot;. If the attacker devises a specific input they can now freely set the <strong>most important address</strong>, the one which says who can withdraw from the pools, to theirs.</p>\n\n<p>This has been confirmed by Poly Network: <a href=\"https://polynetwork.medium.com/?p=e30cf27468f0\">https://polynetwork.medium.com/?p=e30cf27468f0</a></p>\n\n<p><strong>Closing Remarks</strong></p>\n\n<p>Please don&#39;t hesitate to ask any questions about the hack or areas you might not understand so I can clear them up. The technical stuff is very hard to explain in the least technical way possible!</p>\n</div><!-- SC_ON -->",
+  "score": 242,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Jfifc6xi9SJf8sc-jyfyrVdNtN4iTrAurQc7h6UaZ7k.jpg?auto=webp&s=2f1f4c3aecf9c36588fb9137f9eb1be561b1fcf0",
+          "width": 417,
+          "height": 417
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Jfifc6xi9SJf8sc-jyfyrVdNtN4iTrAurQc7h6UaZ7k.jpg?width=108&crop=smart&auto=webp&s=44b703e442265ec2211501e1c39ffb167dea0b3c",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Jfifc6xi9SJf8sc-jyfyrVdNtN4iTrAurQc7h6UaZ7k.jpg?width=216&crop=smart&auto=webp&s=56794c9c8fb384e82b5e34bd46f2f6e31f08b168",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Jfifc6xi9SJf8sc-jyfyrVdNtN4iTrAurQc7h6UaZ7k.jpg?width=320&crop=smart&auto=webp&s=6c21f8291d8a79f7a4a7d78eb0b4a40749b721d0",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "yaauB8k1dk7QzSIrxzkAm6OBSBpBhV49OHOIzczx8ok"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/p24v8e/what_happened_with_poly_network_and_the_nature_of/",
+  "subreddit": "CryptoCurrency",
+  "id": "p24v8e",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hey all!\n\nI've seen some misinformation being spread about how the Poly Network hack\nworked and what it was actually targeting. I want to clear it up, because this\nis a big barrier to get people involved in the DeFi Space.\n\nWHO DID THE HACK TARGET\n\nThis is a big question to ask. I've seen a couple…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\nPoly Networkのハッキングについて、いくつかの誤った情報が広まっているのを目にしました。\n実際には何を狙っていたのか？誤解を解いておきたいと思います。\nDeFiスペースに参加してもらうための大きな障壁になっているからです。\n\nハッキングのターゲットは誰か\n\nこれは大きな疑問ですね。私はこれまでにいくつかの...",
+      "title": "Poly Networkで起きたこととDeFi Hacksの本質"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好!\n\n我看到一些关于Poly Network黑客事件的错误信息被传播\n以及它的目标是什么。我想把它弄清楚，因为这\n这是让人们参与DeFi空间的一个很大的障碍。\n\n黑客的目标是谁\n\n这是个大问题。我已经看到了几个...",
+      "title": "保利网络发生了什么以及DeFi黑客的性质"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好!\n\n我看到一些關於Poly Network黑客事件的錯誤信息被傳播\n以及它的目標是什麼。我想把它弄清楚，因爲這\n這是讓人們參與DeFi空間的一個很大的障礙。\n\n黑客的目標是誰\n\n這是個大問題。我已經看到了幾個...",
+      "title": "保利網絡發生了什麼以及DeFi黑客的性質"
+    }
+  ]
+}

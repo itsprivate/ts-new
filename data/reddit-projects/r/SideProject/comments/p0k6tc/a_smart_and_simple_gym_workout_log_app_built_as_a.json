@@ -1,0 +1,78 @@
+{
+  "author": "henryhs97",
+  "original_created_utc": 1628447834,
+  "title": "A smart and simple gym workout log app built as a PWA",
+  "created_utc": 1628465646,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey folks,</p>\n\n<p>I&#39;m a gym addict and software engineer, and I&#39;d like to share with you my side-project: My Work in Progress. A gym app designed for the dedicated gym rat. It doesn&#39;t have gimmicky/useless features, overcomplicated/nonsensical graphs, pre-made routines, and other useless things most gym apps offer. My Work in Progress is simple, smart, and focuses on providing you a clean visual overview of your workouts. If you&#39;re serious about the gym, then this is for you.</p>\n\n<p>The app is <a href=\"https://myworkinprogress.app/\">https://myworkinprogress.app/</a></p>\n\n<p>or the Android version: <a href=\"https://play.google.com/store/apps/details?id=app.myworkinprogress.twa\">https://play.google.com/store/apps/details?id=app.myworkinprogress.twa</a></p>\n\n<p><strong>Routines:</strong><br/>\n- Design your own custom workout routines for weightlifting, bodyweight, and cardio exercises.<br/>\n- Create your own styled exercises and order them according to your needs.<br/>\n- Supports all exercise-types: weight &amp; time, weight, time, distance &amp; time, etc.<br/>\n- Clean and intuitive overview of all your routines and exercises.  </p>\n\n<p><strong>Workout Logger:</strong><br/>\n- Activate workout-mode when you enter the gym.  </p>\n\n<p>- Track your workouts in real-time and see real-time graphs and statistics to visualize your progress.  </p>\n\n<p>- Get real-time workout duration, volume, and exercises done during your workout.  </p>\n\n<p>- Add notes to your workouts.  </p>\n\n<p>- See upcoming goals and suggestions for your next personal record.</p>\n\n<p>- Intuitive navigation and logger (+- buttons).  </p>\n\n<p>- Rest timer.  </p>\n\n<p>- Log Rated Perceived Exertion (RPE) and Reps in Reserve (RIR).  </p>\n\n<p>- Calendar of your previous workouts.  </p>\n\n<p>- Historic list of your previous workouts.  </p>\n\n<p>- Supports both metric and imperial units.  </p>\n\n<p><strong>Goals:</strong><br/>\n- Design custom goals for exercises in great detail (weight/reps by the deadline date).  </p>\n\n<p><strong>Track measurements:</strong><br/>\n- Create custom measurements to track, like weight, BMI, arm size, leg size, etc.<br/>\n- Get a visual overview of your progress for each measurement. </p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/2brcv37vh6g71.jpg?width=5540&amp;format=pjpg&amp;auto=webp&amp;s=94482181b712bad30576d7ced53f3a084dc1c785\">Some screenshots</a></p>\n\n<p>---</p>\n\n<p>&#x200B;</p>\n\n<p><strong>A bit of the technicalities:</strong> </p>\n\n<p>- Built as a PWA. An internet connection is needed. Ported to Android through a TWA.<br/>\n- ReactJS/Material UI frontend, NET Core backend.</p>\n\n<p><strong>About me:</strong></p>\n\n<p>The main intention to built the app for me was to expand my software development knowledge. I chose this project because workout progress tracking is something I&#39;m very familiar with, and had manyy ideas for features and ways to make the app different/better than others. I&#39;m a gym addict myself. Feedback? Let me know, I&#39;m continually trying to improve the app!</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?auto=webp&s=41c536e428ee29961bfc2c97fd6d6cf58fde5863",
+          "width": 5540,
+          "height": 2250
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?width=108&crop=smart&auto=webp&s=3db0d72320543b2ed223ca7f79b36bda47bf5c94",
+            "width": 108,
+            "height": 43
+          },
+          {
+            "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?width=216&crop=smart&auto=webp&s=fb4c487a3234303f73ddaf0b7ac160f65aa79b8e",
+            "width": 216,
+            "height": 87
+          },
+          {
+            "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?width=320&crop=smart&auto=webp&s=de5ca39dd37c2c95055d4cda5963ecc886c7d8d8",
+            "width": 320,
+            "height": 129
+          },
+          {
+            "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?width=640&crop=smart&auto=webp&s=584318aeddcd27d9bbc4d25c58976b0957c9babc",
+            "width": 640,
+            "height": 259
+          },
+          {
+            "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?width=960&crop=smart&auto=webp&s=6fd975f7ae87b54624bc24c4993c295e80f2dfe6",
+            "width": 960,
+            "height": 389
+          },
+          {
+            "url": "https://external-preview.redd.it/DKfOvYYqcfzlTHk_AF6DkYFyYGMq7LQO7XczEhVy3-A.jpg?width=1080&crop=smart&auto=webp&s=d3b59f2190abcbbb366ae8246b345115e5fc0a56",
+            "width": 1080,
+            "height": 438
+          }
+        ],
+        "variants": {},
+        "id": "JisYW903KSbrG6tiKF9lmtCylY-AkLIT8ZozwtTp2VU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/p0k6tc/a_smart_and_simple_gym_workout_log_app_built_as_a/",
+  "subreddit": "SideProject",
+  "id": "p0k6tc",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hey folks,\n\nI'm a gym addict and software engineer, and I'd like to share with you my\nside-project: My Work in Progress. A gym app designed for the dedicated gym rat.\nIt doesn't have gimmicky/useless features, overcomplicated/nonsensical graphs,\npre-made routines, and other useless things most gym…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n私はジム通いをしているソフトウェアエンジニアですが、今回は私の\nサイドプロジェクトをご紹介します。My Work in Progress. ジムに通う人のためのジムアプリです。\nこのアプリには、ギミックや無駄な機能、複雑で意味不明なグラフ、既成のルーティンなどはありません。\nこのアプリには、ギミックや無駄な機能、複雑で意味不明なグラフ、既成のルーティンなど、多くのジムラッツが持つ無駄なものはありません。",
+      "title": "PWAとして作られたスマートでシンプルなジムワークアウトログアプリ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，伙计们。\n\n我是一名健身成瘾者和软件工程师，我想与你们分享我的\n的副业。我正在进行的工作。一个为专门的健身房老鼠设计的健身房应用程序。\n它没有噱头/无用的功能，没有过度复杂/无意义的图表。\n预制的程序，以及其他无用的东西。",
+      "title": "以PWA形式构建的智能而简单的健身房锻炼记录应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，夥計們。\n\n我是一名健身成癮者和軟件工程師，我想與你們分享我的\n的副業。我正在進行的工作。一個爲專門的健身房老鼠設計的健身房應用程序。\n它沒有噱頭/無用的功能，沒有過度複雜/無意義的圖表。\n預製的程序，以及其他無用的東西。",
+      "title": "以PWA形式構建的智能而簡單的健身房鍛鍊記錄應用程序"
+    }
+  ]
+}

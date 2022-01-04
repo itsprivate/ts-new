@@ -1,0 +1,58 @@
+{
+  "author": "erasethenoise",
+  "original_created_utc": 1636233215,
+  "title": "Why the post on the front page today about the infrastructure bill is nothing but FUD",
+  "created_utc": 1636256430,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Intro</strong></p>\n\n<p>I&#39;m sure we&#39;ve all seen the post, it&#39;s about 8 hours old at the time of this writing and has been on the front page of this sub pretty much all day. I know the T word, G word, and R word are all scary around here, but after doing my own research I&#39;ve come to the conclusion that this bit of news is not only being overly sensationalized, but there&#39;s also a great deal of misunderstanding and misinformation surrounding it. </p>\n\n<p>To start, the article included in the post from CoinDesk never cites any part of the bill. They make two statements about two different portions but don&#39;t go into any more detail than &quot;people are concerned&quot; and &quot;lawyers have postulated&quot;.</p>\n\n<blockquote>\n<p>The crypto industry was concerned about a tax reporting requirement within the bill that sought to expand the definition of a broker for IRS purposes. The reporting requirement would see all brokers report transactions under the current tax code. </p>\n</blockquote>\n\n<p>&#x200B;</p>\n\n<blockquote>\n<p>Unlike other tax code violations, violations of 6050I are a felony, and some lawyers have pointed out that, applied to cryptocurrencies and other digital assets like non-fungible tokens (NFTs), the law could be nearly impossible to comply with </p>\n</blockquote>\n\n<p><strong>Section 1: The Definition of a Broker</strong></p>\n\n<p>Let&#39;s address the first point of sensationalism, that the crypto industry is concerned about the expansion of the definition of a broker. This is an amendment to <a href=\"https://www.law.cornell.edu/uscode/text/26/6045\">US Code 6045</a> titled Returns of Brokers. The important changes being made here are under Section (C)(1) Brokers and (G)(3) Covered Security. </p>\n\n<p>In (C)(1) they&#39;ll be adding a new paragraph to define a broker as : </p>\n\n<blockquote>\n<p>(D) any person who (for consideration) is responsible for regularly providing any service effectuating transfers of digital assets on behalf of another person.</p>\n</blockquote>\n\n<p>I definitely see the concern here, however anyone suggesting this would target miners or liquidity providers is setting up a strawman argument. This will definitely affect all of our favorite exchanges and put a little more responsibility on those that run the apps or protocols that we trade on but that should be it. I know that&#39;s not going to be popular, but did we really think we&#39;d be allowed a free for all forever? This also should have no effect on any exchanges based outside of the US so there&#39;s that.</p>\n\n<p>The following will be added to section (G)(3):</p>\n\n<blockquote>\n<p>(D) Digital Asset - Except as other-wise provided by the Secretary, the term ‘digital asset’ means any digital representation of value  which is recorded on a cryptographically secured distributed ledger or any similar technology as specified by the Secretary.</p>\n</blockquote>\n\n<p>This is definitely nothing it&#39;s just putting down on the books what a digital asset is defined as.</p>\n\n<p>There&#39;s also an additional paragraph being added to <a href=\"https://www.law.cornell.edu/uscode/text/26/6045A\">US Code 6045A</a> that basically states reporting requirements for brokers on digital assets. It gets its own paragraph because a digital asset is a digital asset and  not a registered security. </p>\n\n<blockquote>\n<p>(d) RETURN REQUIREMENT FOR CERTAIN TRANSFERS OF DIGITAL ASSETS NOT OTHERWISE SUBJECT TO REPORTING <em>-</em> Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such  broker) during a calendar year of a covered security which is a digital asset from an account maintained by such  broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a).</p>\n</blockquote>\n\n<p>This is spelling out the responsibilities that those who run exchanges will have to comply with going forward. They will basically have to report any digital assets sent to wallets that aren&#39;t theirs or another brokers, AKA us. I completely understand the concern of the industry, but I&#39;m not sure what they expected. Everything is public on the blockchain anyway so reporting isn&#39;t changing much. So far I have not seen anything about KYC or identifying information, just that transfers must be reported as well as sales/exchanges. </p>\n\n<p><strong>Section 2: The $10,000 Transaction</strong></p>\n\n<p>The second major claim from the article pertains to changes to <a href=\"https://www.law.cornell.edu/uscode/text/26/6050I\">US Code 6050I</a>. This is a big one in my opinion because the author starts talking about felony charges and how it&#39;s impossible to comply without going into what is actually in this Code. This is also the one I&#39;ve seen the most concern for in the comments of the other post. To summarize: This rule is basically going to affect a very small percentage of us. You would have to be a business owner who accepts cryptocurrency for you trade or products. This is something they had to do anyway with fiat transactions over $10k anyway. You can read more about it in this informative publication from the IRS <a href=\"https://www.irs.gov/pub/irs-pdf/p1544.pdf\">Reporting Cash Payments Over $10,000</a>. It explicitly states in the 3rd paragraph of the section titled Who Must File a Form 8300:</p>\n\n<blockquote>\n<p>However, you do not have to file Form 8300 if the transaction is not related to your trade or business. For example, if you own a jewelry store and sell your personal automobile for more than $10,000 in cash, you would not submit a Form 8300 for that transaction. </p>\n</blockquote>\n\n<p>I don&#39;t see how it can get much clearer than that, however I&#39;ve seen so much misinfo that you&#39;re going to have to find out who&#39;s on the other side of Uniswap and give them your SSN and a bunch of other nonsense that I&#39;m going to quote the actual code to try and make it abundantly clear. You will <strong>never</strong> have to report any transactions on an exchange, even if this code extended to personal transactions. The exact change they&#39;re making to this code is adding subsection 3 to section (d). </p>\n\n<blockquote>\n<p><strong>(d)</strong> CASH INCLUDES FOREIGN CURRENCY AND CERTAIN MONETARY INSTRUMENTS  </p>\n\n<p>For purposes of this section, the term “cash” includes—    </p>\n\n<p>(3) any digital asset (as defined in section 6045(g)(3)(D))</p>\n</blockquote>\n\n<p>This gives a digital asset the same definition as cash and has been a major sticking point for discussion. Even though cryptocurrency is now defined as cash, Code 6050I has a handy section in it that lists all the exceptions for reporting requirements on any type of &quot;cash&quot;.</p>\n\n<blockquote>\n<p><strong>(c)Exceptions</strong>  </p>\n\n<p><strong>(1)</strong> CASH RECIEVED BY FINANCIAL INSTITUTIONS  </p>\n\n<p>Subsection (a) shall not apply to—   </p>\n\n<p><strong>(B)</strong> cash received by any financial institution (as defined in subparagraphs (A), (B), (C), (D), (E), (F), (G), (J), (K), (R), and (S) of <a href=\"https://www.law.cornell.edu/uscode/text/31/5312#a_2\">section 5312(a)(2) of title 31</a>, United States Code).</p>\n</blockquote>\n\n<p>From there, we can follow Title 31 section 5312(a)(2) to item H and  J: </p>\n\n<p>&#x200B;</p>\n\n<blockquote>\n<p><strong>(H)</strong> a broker or dealer in securities or commodities;  </p>\n\n<p><strong>(J)</strong> a currency exchange, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds;</p>\n</blockquote>\n\n<p>So in essence we are exempt from dealing with Code 6050I due to our exchanges being the middlemen whether they&#39;re defined as a broker or a currency exchange.</p>\n\n<p><strong>Final Thoughts</strong></p>\n\n<p>I hope this helped clear up any drama from that sensationalized article. Admittedly, I don&#39;t know shit about fuck but with a little research I feel I was able to dismiss the changes in the infrastructure bill as overall nonthreatening to crypto and the defi space. If anything I think this is a step toward legitimization and mass adoption. Code 6050I is intended to curb illegal activities by tracking large sums of money, specifically laundering. If the government can say crypto is now under the same standards as fiat then all that FUD essentially goes away. Whether it actually prevents crime is debatable, but public perception is key. </p>\n\n<p>If anyone out there has actual legal experience with securities laws I&#39;d love to hear your thoughts as well. This was very surface level research and I could&#39;ve gotten something wrong, but I believe the broad strokes are there.</p>\n</div><!-- SC_ON -->",
+  "score": 174,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/eVqlG3KGwRGNr2dQ2IiOXU8fEgjzSdv_cGmw6LpPToQ.jpg?auto=webp&s=89c4cba0bf063c716bc9e94fd2b59ba7897058ae",
+          "width": 232,
+          "height": 159
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/eVqlG3KGwRGNr2dQ2IiOXU8fEgjzSdv_cGmw6LpPToQ.jpg?width=108&crop=smart&auto=webp&s=15c2ea72116f3551979caae68ad15fac3cc21267",
+            "width": 108,
+            "height": 74
+          },
+          {
+            "url": "https://external-preview.redd.it/eVqlG3KGwRGNr2dQ2IiOXU8fEgjzSdv_cGmw6LpPToQ.jpg?width=216&crop=smart&auto=webp&s=4bafde3bb64f8f8901fb4ea1709967c5e5cfdd8d",
+            "width": 216,
+            "height": 148
+          }
+        ],
+        "variants": {},
+        "id": "ZloB89tTI6gJefGBJjudyBc-eAa2yxSTmE1xITQHgHk"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/qo9fhd/why_the_post_on_the_front_page_today_about_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "qo9fhd",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Intro\n\nI'm sure we've all seen the post, it's about 8 hours old at the time of this\nwriting and has been on the front page of this sub pretty much all day. I know\nthe T word, G word, and R word are all scary around here, but after doing my own\nresearch I've come to the conclusion that this bit of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "イントロ\n\nこの記事を書いている時点で約8時間が経過しています。\nこの記事を書いている時点で約8時間が経過しており、このサブサイトのフロントページに一日中掲載されています。私が知っているのは\nTワード、Gワード、Rワードはここでは怖いものですが、自分なりに調査した結果\nしかし、自分なりに調べた結果、このビットオブ...",
+      "title": "今日の一面に掲載されたインフラ法案に関する記事がFUDに過ぎない理由"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "介绍\n\n我相信我们都看到了这个帖子，在写这篇文章的时候，它已经有8个小时了。\n而且几乎整天都在这个网站的首页上。我知道\n我知道 \"T \"字、\"G \"字和 \"R \"字在这里都很可怕，但在我做了自己的\n我得出的结论是，这一点......",
+      "title": "为什么今天头版上关于基础设施法案的帖子除了FUD之外一无是处"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "介紹\n\n我相信我們都看到了這個帖子，在寫這篇文章的時候，它已經有8個小時了。\n而且幾乎整天都在這個網站的首頁上。我知道\n我知道 \"T \"字、\"G \"字和 \"R \"字在這裏都很可怕，但在我做了自己的\n我得出的結論是，這一點......",
+      "title": "爲什麼今天頭版上關於基礎設施法案的帖子除了FUD之外一無是處"
+    }
+  ]
+}

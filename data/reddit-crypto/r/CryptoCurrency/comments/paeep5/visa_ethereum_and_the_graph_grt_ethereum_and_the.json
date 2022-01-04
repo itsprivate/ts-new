@@ -1,0 +1,78 @@
+{
+  "author": "graph_marine",
+  "original_created_utc": 1629772059,
+  "title": "VISA, Ethereum, and The Graph (GRT): Ethereum and The Graph are key components of VISA's integration of cryptocurrencies and stablecoins such as USDC",
+  "created_utc": 1629804648,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>In December 2020, <a href=\"https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/\">VISA partnered with USDC</a>, a stablecoin on the Ethereum blockchain, which is pegged to the US dollar. In March 2021, <a href=\"https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.17821.html\">VISA became the first major payment network to settle transactions using USDC</a>. Groundbreaking, right? The mega financial servicing company <strong><em>VISA</em></strong> using an Ethereum-based stablecoin cryptocurrency to settle domestic and cross-border payments.</p>\n\n<p>Yes, this is an extraordinarily optimistic development for the Ethereum ecosystem, but it is arguably even more optimistic for The Graph. <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/owryqy/why_the_graph_grt_also_known_as_the_google_of/\">The Graph</a> is a decentralized indexing protocol that allows applications, users, and other entities to query different blockchain networks for data. The Graph recently processed <strong>$1 billion daily queries</strong> in June 2021 roughly 2 years since launch for reference, Google was processing just 200 million queries per day in 2004, which was 6 years after it launched). How does this work? For example, when someone opens the website <a href=\"https://CoinGecko.com\">CoinGecko.com</a> and wants to view data related to the price, volume, or market capitalization of a token, CoinGecko has to ask The Graph to provide CoinGecko with the most recent datapoints so that CoinGecko can present such data to the user. The Co-Founder and CEO of CoinGecko explains this in depth <a href=\"https://twitter.com/tmlee/status/1285766039951699969?s=20https://twitter.com/tmlee/status/1285766039951699969?s=20\">here</a>.</p>\n\n<p>Providing CoinGecko with near-realtime blockchain data is just one of an infinite number of ways that The Graph provides blockchain data to the outside world. Why does this matter and why are we talking about The Graph when we started by talking about Ethereum, VISA, and USDC?</p>\n\n<p>Well, in order to build and develop applications using data from the Ethereum blockchain, the data needs to be indexed. In other words, for a developer to create an application on Ethereum, first they must organize the relevant blockchain data from Ethereum&#39;s network and make it easier to retrieve such data so it can be presented to the consumer in a faster manner. The way that The Graph provides this data to developers is by organizing relevant data into subgraphs, and <a href=\"https://thegraph.com/legacy-explorer/\">each major application and network have their own unique subgraphs on The Graph&#39;s network</a> with their own unique relevant data.</p>\n\n<p>If CoinGecko wanted to provide blockchain data to their customers without using The Graph, they would have to organize all of this data themselves and it could take years to do so and would waste a lot of developer resources. This is like opening a book to find a specific topic by reading every line (ie, CoinGecko doing it manually) versus going to the index at the back of the book to find the exact page with the information you are looking for (ie, CoinGecko using The Graph).</p>\n\n<p>Well, <a href=\"https://thegraph.com/legacy-explorer/subgraph/centrehq/usdc\">USDC has their own subgraph</a>, and anyone who wants to develop applications that track data related to the use of USDC, and naturally, the use of USDC by VISA, can simply use The Graph&#39;s USDC subgraph. Eva Beylin, the Director of The Graph, articulates it very well <a href=\"https://mobile.twitter.com/evabeylin/status/1376606531408388098\">here</a>:</p>\n\n<blockquote>\n<p>If you want to track all USDC transactions on Visa, you can query the USDC subgraph.  Congrats Visa on choosing public &amp; open source infrastructure. This is a revolutionary move for an industry predicated on closed-source technology.</p>\n</blockquote>\n\n<p>It gets better. Messari, a cryptocurrency research and data tool, is hosting a major event called <a href=\"https://mainnet.events/\">Mainnet 2021</a> centered around The Graph&#39;s protocol on September 21-23 in New York City. Guests and speakers include representation from countless applications and networks that use The Graph, including Aave, 1inch, Coinbase, Kraken, OpenSea, Alchemy, Dapper Labs, Arbitrum, Algorand, Avalanche, Ethereum, Synthetix, Solana, and more.</p>\n\n<p>Why am I mentioning this?</p>\n\n<p>Well, there is also another special attendee and speaker: <a href=\"https://mainnet.events/speakers/catherine-gu/\">Catherine Gu</a>, the <a href=\"https://www.linkedin.com/in/wcgu\">Head of Global Central Bank Digital Currencies at VISA</a>. There have been hints by the founders of The Graph like <a href=\"https://twitter.com/yanivgraph/status/1429129704724787208?s=19\">Yaniv Tal</a> that this will be a very important meeting and that something big is going to happen at this meeting.</p>\n\n<p>Regardless of whether there is or is not some major announcement related to The Graph and VISA, we already know the facts: VISA&#39;s flagship stablecoin is USDC, which is an Ethereum token, and the entirety of USDC&#39;s data can be easily retrieved from the USDC subgraph on The Graph&#39;s network. Once VISA provides full-fledged support for USDC and it is the primary means of exchanging the US dollar using VISA cards, mobile device applications that provide a list of your history of payments made using VISA cards (eg, banking apps, Uber, food delivery apps, etc.) will need to make a choice: should they allocate significant developer time and resources to manually organizing all of the data relevant to USDC on Ethereum&#39;s blockchain so they can provide the data to their users? or should they simply retrieve that data from The Graph&#39;s USDC subgraph, where it is already organized and updated in near-realtime for them?</p>\n\n<p>My bet is that every company, person, service, application, and bank in the world who needs to track the usage of USDC by VISA services will use The Graph&#39;s USDC subgraph.</p>\n\n<p>Thanks for reading!</p>\n\n<p>EDIT: <a href=\"/u/DomiekNSFW\">u/DomiekNSFW</a>&#39;s wife is not going to be happy with me for this post <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/pad3hf/the_graph_and_ethereum_are_the_backbone_of_the/ha3w39m?utm_source=share&amp;utm_medium=web2x&amp;context=3\">lol</a></p>\n</div><!-- SC_ON -->",
+  "score": 197,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?auto=webp&s=f05f193e91aaa4ab21f7b47b69e0a3b6de9c39c0",
+          "width": 1200,
+          "height": 800
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?width=108&crop=smart&auto=webp&s=b37b637211996b1c019d9a53a77483c30828e9ae",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?width=216&crop=smart&auto=webp&s=30cd089ef0871d1f57b1dc929c038db93067b33d",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?width=320&crop=smart&auto=webp&s=ae5f1031df0e364407dfd3685fe8ac1ef11c4458",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?width=640&crop=smart&auto=webp&s=d990c62fdb5eb76465320f8a299ff56648aa4d5b",
+            "width": 640,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?width=960&crop=smart&auto=webp&s=0bfc6e71425e7c8b0fbd97cfce2ebc63cf611182",
+            "width": 960,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/ggHyOIZZnzt6XMNOx-YnmQ3MxilAq18cYQoJcbZVaR4.jpg?width=1080&crop=smart&auto=webp&s=f838315d01eef45642091fbbd74f3ccecd9978f4",
+            "width": 1080,
+            "height": 720
+          }
+        ],
+        "variants": {},
+        "id": "GdvGqTMI9IKfIWb7-PMt_lvq9blAjrhedyLrCxCt6Ts"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/paeep5/visa_ethereum_and_the_graph_grt_ethereum_and_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "paeep5",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "In December 2020, VISA partnered with USDC\n[https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/],\na stablecoin on the Ethereum blockchain, which is pegged to the US dollar. In\nMarch 2021, VISA became the first major…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "2020年12月、VISAはUSDCと提携した\n[https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/]を提供しています。\nイーサリアムのブロックチェーン上にある、米ドルにペッグされたステーブルコインである 2021年3月\n2021年3月、VISAは大手企業として初めて...",
+      "title": "VISA」「イーサリアム」「ザ・グラフ（GRT）」。EthereumとThe Graphは、VISAがUSDCなどの暗号通貨やステーブルコインを統合する際の重要な要素です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "2020年12月，VISA与USDC建立了合作关系\n[https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/]。\n以太坊区块链上的稳定币，该币与美元挂钩。在\n2021年3月，VISA成为第一个主要...",
+      "title": "VISA、Ethereum和The Graph（GRT）。以太坊和图表是VISA整合加密货币和稳定币的关键组成部分，例如USDC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "2020年12月，VISA與USDC建立了合作關係\n[https://www.forbes.com/sites/michaeldelcastillo/2020/12/02/visa-partners-with-ethereum-digital-dollar-startup-that-raised-271-million/]。\n以太坊區塊鏈上的穩定幣，該幣與美元掛鉤。在\n2021年3月，VISA成爲第一個主要...",
+      "title": "VISA、Ethereum和The Graph（GRT）。以太坊和圖表是VISA整合加密貨幣和穩定幣的關鍵組成部分，例如USDC。"
+    }
+  ]
+}

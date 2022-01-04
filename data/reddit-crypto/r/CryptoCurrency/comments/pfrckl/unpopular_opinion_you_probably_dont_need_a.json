@@ -1,0 +1,32 @@
+{
+  "author": "fxdfxd2",
+  "original_created_utc": 1630493214,
+  "title": "Unpopular opinion : you probably don't need a hardware wallet!",
+  "created_utc": 1630514079,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I see many question from newcomers regarding the need to get a hardware wallet : they probably don&#39;t, nor do you.</p>\n\n<p>First let&#39;s clear a misconception : <strong>a wallet, hard or soft, doesn&#39;t store any coins</strong>. It store only a couple of public and private key for every coin you own. Public key is like and address in the blockchain, where are stored your coins. Private key is the password only needed to move coins out of this address (you can send coins or check the amount of coin in this address without the private key) 💰</p>\n\n<p>So your hardware wallet is just a fancy usb key where you store your public/private keys couples.The main benefit is that <em>people can&#39;t remotely access these keys</em>, even if your computer is compromised. Plus some of them offer a <em>button for physical confirmation</em> before moving your coins.</p>\n\n<p>So why not getting one?</p>\n\n<p>- Well, you&#39;re still exposed to the same main security breach as software wallets : <strong>someone can steal your seed phrase</strong>, and use it to restore your wallet somewhere else, and then empty it. Because even with an hardware wallet, you&#39;ll have to make backup of your seed phrase, in case your wallet is stolen, stops working, burnt or broken, etc... If someone restore your wallet with your stolen seed phrase, the hardware wallet will be totally useless, and it&#39;s probably the most common theft :</p>\n\n<p><a href=\"https://www.reddit.com/r/ExodusWallet/comments/pfekyb/50000_usd_stolen_from_exodus_wallet/\">https://np.reddit.com/r/ExodusWallet/comments/pfekyb/50000_usd_stolen_from_exodus_wallet/</a></p>\n\n<p>So never backup your seed phrase digitally, no picture, no text file on your computer. With it on paper, engrave it on metal, memorise it, but don&#39;t store in on your computer.</p>\n\n<p>- Second problem is that for you to move all you coins to the &quot;wallet&quot; (in fact to you own address as I explained), you&#39;ll have to pay a lot of fees. Really a lot, up to 20% and more, so if you start with small amounts, it&#39;s really not worth it (ask me how I know 😭).</p>\n\n<p>- Last your hardware wallet will render most things complicated, like staking, that is quite limited and depending on the wallet itself, and the % can be disappointing. Setting sell orders is also impossible, if you like trading.</p>\n\n<p>So as a beginner/small holder you should ... <strong>let your coins in exchanges</strong>. I know, not your keys not your coins, but exchanges are pretty safe, with more levels of protection that you could set up by yourself, and multiple access protection (IP detection, password, 2 factor auth - strongly recommended).</p>\n\n<p>I think up to $10k, you should consider leaving your coins on exchanges, plus staking is easier there, for some nice monthly benefits 😎</p>\n</div><!-- SC_ON -->",
+  "score": 220,
+  "permalink": "/r/CryptoCurrency/comments/pfrckl/unpopular_opinion_you_probably_dont_need_a/",
+  "subreddit": "CryptoCurrency",
+  "id": "pfrckl",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I see many question from newcomers regarding the need to get a hardware wallet :\nthey probably don't, nor do you.\n\nFirst let's clear a misconception : a wallet, hard or soft, doesn't store any\ncoins. It store only a couple of public and private key for every coin you own.\nPublic key is like and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "初めての方から、ハードウェアウォレットの必要性について質問を受けることがあります。\nおそらく、彼らもあなたもそうではないでしょうか。\n\nまず最初に誤解を解いておきましょう：ハードでもソフトでも、ウォレットはコインを\nコインは保存しません。ウォレットは、ハードでもソフトでも、コインを保管しません。保管するのは、あなたが所有するすべてのコインの公開鍵と秘密鍵です。\n公開鍵とは、例えば...",
+      "title": "賛否両論：ハードウェアウォレットは必要ないのでは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我看到很多新来的人问及是否需要买一个硬件钱包。\n他们可能不知道，你也不知道。\n\n首先让我们澄清一个误解：一个钱包，不管是硬的还是软的，都不会储存任何\n币。它只为你拥有的每个硬币存储几个公钥和私钥。\n公钥就像和...",
+      "title": "不受欢迎的观点：你可能不需要一个硬件钱包!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我看到很多新來的人問及是否需要買一個硬件錢包。\n他們可能不知道，你也不知道。\n\n首先讓我們澄清一個誤解：一個錢包，不管是硬的還是軟的，都不會儲存任何\n幣。它只爲你擁有的每個硬幣存儲幾個公鑰和私鑰。\n公鑰就像和...",
+      "title": "不受歡迎的觀點：你可能不需要一個硬件錢包!"
+    }
+  ]
+}

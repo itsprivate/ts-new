@@ -1,0 +1,89 @@
+{
+  "id": "312142",
+  "commentsCount": 6,
+  "createdAt": "2021-09-12T14:11:47.447Z",
+  "description": "Fast Spotify client with native GUI, without Electron, built in Rust. Very early in development, lacking in features, stability, and general user experience. It is being tested only on Mac so far, but aims for full Windows and Linux support.",
+  "featuredAt": "2021-09-12T07:02:55Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3d17d3b5-b546-4835-90cf-b80fdf1bab28.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/df10c84f-1179-4fb1-a04a-28f7a486d120.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4b01171e-82d5-47e2-8432-09cf76ff740c.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c19b83fd-adaf-4e7f-9183-7722dc60a2c5.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "PSST",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/65819433e4dc8b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/74e26bce6dd61b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Seto El Kahfi",
+    "url": "https://www.producthunt.com/@setoelkahfi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "psst-1",
+  "tagline": "Fast and multi-platform Spotify client with native GUI",
+  "url": "https://www.producthunt.com/posts/psst-1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 184,
+  "website": "https://www.producthunt.com/r/74e26bce6dd61b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Music"
+        }
+      },
+      {
+        "node": {
+          "name": "Spotify"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-09-12T07:02:55Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ネイティブなGUIの高速Spotifyクライアントです。開発の初期段階で、機能、安定性、一般的なユーザーエクスペリエンスが不足しています。今のところMacでしかテストされていませんが、WindowsとLinuxのフルサポートを目指しています。",
+      "tagline": "ネイティブGUIによる高速かつマルチプラットフォームなSpotifyクライアント"
+    },
+    {
+      "locale": "zh",
+      "description": "快速的Spotify客户端，具有本地图形用户界面，没有Electron，在Rust中构建。处于开发初期，在功能、稳定性和一般用户体验方面有所欠缺。到目前为止，它只在Mac上测试，但目标是全面支持Windows和Linux。",
+      "tagline": "快速和多平台的Spotify客户端，带有本地GUI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快速的Spotify客戶端，具有本地圖形用戶界面，沒有Electron，在Rust中構建。處於開發初期，在功能、穩定性和一般用戶體驗方面有所欠缺。到目前爲止，它只在Mac上測試，但目標是全面支持Windows和Linux。",
+      "tagline": "快速和多平臺的Spotify客戶端，帶有本地GUI"
+    }
+  ],
+  "source_updated_at": 1631871577280
+}

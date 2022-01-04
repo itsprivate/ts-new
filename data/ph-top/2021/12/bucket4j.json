@@ -1,0 +1,79 @@
+{
+  "id": "322719",
+  "commentsCount": 4,
+  "createdAt": "2021-12-13T07:35:42.733Z",
+  "description": "Java rate-limiting library based on the token-bucket algorithm. The library includes many huge features to provide rate-limiting to your API.",
+  "featuredAt": "2021-12-12T20:56:50Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/4fe79e62-1742-449e-8485-49e43bc3d278.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/3c198e1e-7998-4d7a-bae8-4230e89e627b.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Bucket4J",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/648061ff4dd2d5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/5ab707a17d05f9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Maxim Bartkov",
+    "url": "https://www.producthunt.com/@maxim_bartkov?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "bucket4j",
+  "tagline": "Rate-limiting based on token bucket algorithm for Java",
+  "url": "https://www.producthunt.com/posts/bucket4j?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 93,
+  "website": "https://www.producthunt.com/r/5ab707a17d05f9?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Open Source"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-12-12T20:56:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "トークンバケットアルゴリズムをベースにしたJavaのレートリミッターライブラリです。このライブラリには、あなたのAPIにレートリミッターを提供するための膨大な機能が含まれています。",
+      "tagline": "トークンバケットアルゴリズムに基づくレート制限（Java版"
+    },
+    {
+      "locale": "zh",
+      "description": "基于token-bucket算法的Java速率限制库。该库包括许多巨大的功能，为你的API提供速率限制。",
+      "tagline": "基于Java的令牌桶算法的速率限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於token-bucket算法的Java速率限制庫。該庫包括許多巨大的功能，爲你的API提供速率限制。",
+      "tagline": "基於Java的令牌桶算法的速率限制"
+    }
+  ],
+  "source_updated_at": 1639734128148
+}

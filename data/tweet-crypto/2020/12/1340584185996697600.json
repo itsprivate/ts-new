@@ -1,0 +1,69 @@
+{
+  "created_at": "Thu Dec 24 7:35:20 +0000 2020",
+  "id_str": "1340584185996697600",
+  "full_text": "RT @elonmusk: Bitcoin is my safe word",
+  "display_text_range": [
+    0,
+    37
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "elonmusk",
+        "name": "Elon Musk",
+        "id": 44196397,
+        "id_str": "44196397",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1117537706584702982/lMHLne7O_normal.jpg"
+  },
+  "retweet_count": 20407,
+  "favorite_count": 0,
+  "original_created_at": "Sun Dec 20 09:05:51 +0000 2020",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@elonmusk：比特币是我的安全密码",
+      "retweeted_status_full_text": "比特币是我的安全密码"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@elonmusk：比特幣是我的安全密碼",
+      "retweeted_status_full_text": "比特幣是我的安全密碼"
+    }
+  ],
+  "source_updated_at": 1609271718641,
+  "retweeted_status": {
+    "created_at": "Sun Dec 20 08:21:25 +0000 2020",
+    "id_str": "1340573003579617280",
+    "full_text": "Bitcoin is my safe word",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "user": {
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295975423654977537/dHw9JcrK_normal.jpg"
+    },
+    "retweet_count": 20145,
+    "favorite_count": 237905
+  }
+}

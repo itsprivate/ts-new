@@ -1,0 +1,78 @@
+{
+  "author": "vjeva",
+  "original_created_utc": 1632070956,
+  "title": "The Weeky DYOR Session Edition 1: Every week I am going to choose one Coin and do a DYOR so you don't have to - This weeks DYOR is ERGO.",
+  "created_utc": 1632115966,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Last week I made a <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/plft1l/the_weeky_dyor_session_edition_1_every_week_i_am/\">POST</a> asking about a coin that you want me to cover in a weeky DYOR edition. The comment that had the most likes was ERGO. </p>\n\n<p>So lets cover ERGO, I will go through the basics and present you my findings about this coin: </p>\n\n<h1>ERGO - THE BASICS</h1>\n\n<p>Based on the Ergo platform website, Ergo was created in response to stagnation in the blockchain area. It implements various technical and economic ready-to-use ideas that add value but do not reduce the known advantages of blockchain systems. </p>\n\n<p>How are they doing that? What protocol are they using? </p>\n\n<p>Consensus protocol of Ergo — <strong>Autolykos</strong> — is based on the well-known Proof-of-Work (“PoW”) consensus algorithm. PoW was chosen for several reasons including that PoW protocols are widely studied, have high security guarantees, and are friendly to light clients. However, Autolykos has several meaningful differences from Bitcoin&#39;s PoW. It is memory-hard reducing the disparity between specialized hardware (ASICs) and commodity GPUs, allowing ordinary people to participate in mining to secure the network and receive the reward. </p>\n\n<p><strong>As of today, Ergo is ranked #124 by Marketcap with a total Marketcap of $518,438,184.21</strong></p>\n\n<p><strong>The current price, as of today, is: $16.19 for one ERG</strong> </p>\n\n<h1>FOUNDERS</h1>\n\n<p>During my research one thing caught my attention, and it is something that was talked about the most in forums and accross Reddit are the founder of ERGO. Once you start googling around, you will come up with two names: <strong>Alexander Chepurnoy and Dmitry Meshkov.</strong> Who are Alexander and Dmitry? </p>\n\n<p>&#x200B;</p>\n\n<p><strong>Alexander Chepurnoy</strong></p>\n\n<p>Alexander has been involved with Bitcoin since 2011 and has been developing cryptocurrency-related software since early 2013.  He used to be a NXT core developer, a <a href=\"https://smartcontract.com\">smartcontract.com</a> co-founder, and then a research fellow at IOHK where he worked in the Research and Development department. </p>\n\n<p>For those who are more technical, I would recommend to dig deeper into his work, Alexander has made several papers which can be found <a href=\"https://scholar.google.ru/citations?user=AG_OSPgAAAAJ&amp;hl=en\">on Google Scholar</a> and he was the creator of the so called <a href=\"https://win.win\">win.win</a> platform with the TWINS token. It seems that this project never came alive, and there are very little information to be found about this project. </p>\n\n<p>Now in his own words Alexander explains Ergo as following: </p>\n\n<p><em>&quot;ERGO development started in 2017 along with the first public announcement</em></p>\n\n<p><em>Launched on July 1st, 2019</em> </p>\n\n<p>...</p>\n\n<p><em>The idea was to follow the first principles of bitcoin in regards to limited emission, proof of work (work off bitcoin model)</em></p>\n\n<p><em>Also to rework every aspect of bitcoin</em></p>\n\n<p><em>It was coded from scratch with proof of work in mind</em></p>\n\n<p><em>It is ASIC resistance</em></p>\n\n<p><em>It was pool resistance also but we realized after some time that PoW pool resistance was not good for small miners.  It was dominated by a few large firms with optimized private software.</em></p>\n\n<p><em>We are against hard forks in general. However, we had to the 1st (hopefully last) hard fork a few months ago.</em></p>\n\n<p><em>The hard fork was to tweak PoW and switch off pool resistance.</em></p>\n\n<p><em>Now there are a lot of small miners on board.&quot;</em></p>\n\n<p>&#x200B;</p>\n\n<p><strong>Dmitry Meshkov</strong></p>\n\n<p>Meshkov (aka. catena) has a PhD in physics and over 10 years experience in software development. He has written several peer-reviewed papers on crypto and has worked with Chepurnoy on the Scorex project since 2015. Co-founder and Core Developer at ERGO, Meshkov was an RD Researcher at IOHK, focussed on building a framework for blockchain prototyping. </p>\n\n<p>He is also the founder of <strong>Circlegain.</strong> </p>\n\n<p>Based on the website: <em>Circlegain guides institutional clients and individuals in their digital asset management missions by combining research, a systematic approach to key technology development, and great customer experience.</em></p>\n\n<p>&#x200B;</p>\n\n<p>Based on all this, we can determine the correlation between Cardano - IOHK and the Ergo platform. We can clearly see the history and influence that the work in IOHK had on the development of ERGO. The approach seems to be the same, there is a lot of scientific research going on. </p>\n\n<p>Other team members of ERGO are some pretty smart guys in the field of mathematics and computer science: </p>\n\n<ul>\n<li>Alexander Slesarenko: Slesarenko is a Blockchain Core Developer and Lead Developer of ErgoScript at ERGO, and an Expert Team Leader at Huawei Research Lab</li>\n<li>Andyceo: Fullstack developer, AI R&amp;D, Master of Computer Science, CTO, Architect, Devops, Highload, Blockchain R&amp;D</li>\n<li>Dmitry Usov (eilemust / deadit): is a Javascript developer,  Mentor at HTML Academy and developer at Chatfuel</li>\n</ul>\n\n<p>In terms of the team, I have to conclude that behind this project there are some very smart and interesting people working on this project, which is a promising fact going forward. </p>\n\n<h1>ERGO PLATFORM AND TECHNOLOGY</h1>\n\n<p><strong>ERGO is a proof of work (PoW) blockchain platform</strong> with Turing complete smart contracts that employs a number of advanced features like zero-knowledge proofs, ring signatures, oracles, and adjustable block size.</p>\n\n<p>ERGO’s Sigma protocols and blockchain architecture make it possible to do things that would be difficult on conventional smart contract platforms, enabling a high degree of privacy while ensuring security is not compromised. While the range of possible decentralised financial (DeFi) use cases is endless, examples include: stablecoins, non-fungible tokens (NFTs), oracle pools and the trustless mixing of funds (ErgoMixer) which enables participants to spend without anyone knowing who made the transactions.</p>\n\n<p>What I found interesting was something called LightClients: </p>\n\n<p>Ergo was designed to be maximally user-friendly in the sense of decentralization. <strong>One of the important properties of PoW is that it enables verification of the work done without downloading the full chain</strong>. Ergo blocks support NiPoPoW proofs, allowing light clients to synchronize with the network by downloading less than a megabyte of data. Also, Ergo uses authenticated state, and for any transaction included, a client may download proof of its correctness. <strong>Thus, regardless of the blockchain size, a regular user with a smart-phone can join the network and start using Ergo with the same security guarantees as a full node.</strong> </p>\n\n<h1>TOKENIZATION</h1>\n\n<p>In terms of token allocation, I have to admit that Ergo offered the majority of tokens to the public. <strong>95.57% of all tokens were made available for public sale, while only 4,43% were owned by the ERGO Foundation.</strong> There are no pre-mined coins that exist, eventually the Ergo Treasury will cease to receive a percentage of mining rewards to better decentralization. </p>\n\n<p><strong>Circulating Supply:</strong> 43,344,429</p>\n\n<p><strong>Total Supply:</strong> 97,739,924</p>\n\n<h1>ROADMAP</h1>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/4bsu1wtekho71.jpg?width=1605&amp;format=pjpg&amp;auto=webp&amp;s=f7ed2fa084c5547e0c3bc7a2c24a1b41b026581c\">https://preview.redd.it/4bsu1wtekho71.jpg?width=1605&amp;format=pjpg&amp;auto=webp&amp;s=f7ed2fa084c5547e0c3bc7a2c24a1b41b026581c</a></p>\n\n<h1>THE CONNECTION BETWEEN CARDANO AND ERGO</h1>\n\n<p>Cardano announced its partnership with Ergo, and its not a secret that the Cardano founder Charles Hoskinson called ERGO a &quot;technological marvel&quot; that reflects years of knowledge. </p>\n\n<p>The main purpose behind the partnership between Cardano and Ergo is to utilize on the UTXO-based accounting in order to create a stablecoin called Djed - which is the first formally verified crypto-backed algorithmic stablecoin contract that acts as an autonomous bank. </p>\n\n<p>Djed will have two versions, a Minimal and Extended Djed. Minimal is a simple version while Extended Djed uses a continuous pricing model and dynamic fees to further incentivize the maintenance of the reserve ratio at an optimal level, making it more complex. </p>\n\n<p>There are also a lot of similarities between these two projects. Both use a HUSD protocol, although the models are not the same however they are very similar. It&#39;s also the same for Oracle pools and other Defi protocols. </p>\n\n<h1>CONLCUSION</h1>\n\n<p>I have to admit that the connection between ERGO and CARDANO is very similar to the connection that Ethereum established with Polygon. I would even say that this partnership that Ergo has with Cardano is much stronger as there are a lot of similar things that both projects use and run. </p>\n\n<p>The majority of the ERGO team has a significant history with IOHK, and they influenced and  developed an approach and technology that worked for Cardano, and I am sure that this will be the same case for Ergo. In terms of knowledge, there is no doubt that behind this team there is a lot of talent and if we judge on that, you can be sure that this team knows what they are doing. </p>\n\n<p>Now, one thing that can be a worry is the approach. Ergo has a lot in common with Cardano and the approach is the same. Slow development in the early stage can be a serious challenge. It will miss the first-mover advantage, and it needs to convince a crowded market space of its benefits in the future. The second thing is if they gonna be the shadow of Cardano and can they pick a similar move such as Polygon is doing now, breaking away from its main partner? </p>\n\n<p>There is a lot of competition and if they can secure funding and a community that backs them up, then there is a good chance that this project can be sustainable in the long run. As long as they continue this partnership with Cardano, I am sure that they will be present. </p>\n\n<p>This project is in my opinion still undervalued, and it deserves a spot into the TOP 100 coins by marketcap. How far can they go? That is hard to tell. The community is strong, and I am sure that a lot of die hard Cardano fans are using every opportunity to &quot;shill&quot; Ergo as well. This could be a big plus, as nowadays strong communities are the best marketing you can get, and that leads to an increase of the ERG value. </p>\n\n<p>ERGO will be very interesting to watch, especially once the Djed development si done. Investors are still early with this project and I am sure that there will be a lot of news coming from this projects in the following months. </p>\n\n<p>&#x200B;</p>\n\n<p>That is it! I hope you enjoyed this weeks DYOR edition. </p>\n\n<p>Now it&#39;s time to PICK a COIN for Edition 2 </p>\n\n<p><strong>So please pick up a coin!</strong></p>\n\n<p><strong>The coin that receives the most likes in this post will be covered!</strong></p>\n</div><!-- SC_ON -->",
+  "score": 152,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?auto=webp&s=09ee6641f6fba89ce9cecce91e65133b2ae9f1bb",
+          "width": 1605,
+          "height": 907
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?width=108&crop=smart&auto=webp&s=e563df1a6c5e9a2227b10742febeaf2e595cfbc9",
+            "width": 108,
+            "height": 61
+          },
+          {
+            "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?width=216&crop=smart&auto=webp&s=31ff20e4f096a60f995db4fd2fb612bcffde6798",
+            "width": 216,
+            "height": 122
+          },
+          {
+            "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?width=320&crop=smart&auto=webp&s=3f7b76a271bff19ea094932b2ab7d839abc232c3",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?width=640&crop=smart&auto=webp&s=d17fcb630e0f51ab5555c181dfe09ea7801a0294",
+            "width": 640,
+            "height": 361
+          },
+          {
+            "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?width=960&crop=smart&auto=webp&s=345b78fd5012a3c2a5cb9d86e1df0c9b619863be",
+            "width": 960,
+            "height": 542
+          },
+          {
+            "url": "https://external-preview.redd.it/GSiw_09i-dbDG898-PREeWiS3ezVQTuZSkEQIVGz8jI.jpg?width=1080&crop=smart&auto=webp&s=0ab95f7741beed8489a27a384a57952499e179d7",
+            "width": 1080,
+            "height": 610
+          }
+        ],
+        "variants": {},
+        "id": "FBVgRm0tOagzG5CGqVKOWxjNwFBddZmvA-SYR5NTWl0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/prbv2s/the_weeky_dyor_session_edition_1_every_week_i_am/",
+  "subreddit": "CryptoCurrency",
+  "id": "prbv2s",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Last week I made a POST\n[https://www.reddit.com/r/CryptoCurrency/comments/plft1l/the_weeky_dyor_session_edition_1_every_week_i_am/]\nasking about a coin that you want me to cover in a weeky DYOR edition. The\ncomment that had the most likes was ERGO.\n\nSo lets cover ERGO, I will go through the basics…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "先週、私はあるPOSTを作りました。\n[https://www.reddit.com/r/CryptoCurrency/comments/plft1l/the_weeky_dyor_session_edition_1_every_week_i_am/]\nウィーキー・ダイアー版で取り上げて欲しいコインについて尋ねました。そのときに\n最も多くの「いいね！」がついたコメントは「ERGO」でした。\n\nそれでは、ERGOを取り上げましょう！基本的なことを説明します。",
+      "title": "The Weeky DYOR Session Edition 1: 毎週1つのコインを選んでDYORをするので、あなたはその必要はありません - 今週のDYORはERGOです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "上周我做了一个POST\n[https://www.reddit.com/r/CryptoCurrency/comments/plft1l/the_weeky_dyor_session_edition_1_every_week_i_am/]\n问及你希望我在一周的DYOR版中介绍的一枚硬币。最受欢迎的\n喜欢最多的评论是ERGO。\n\n因此，让我们来介绍ERGO，我将通过基本知识...",
+      "title": "The Weeky DYOR Session Edition 1: 每周我都会选择一个硬币做一个DYOR，这样你就不用做了 - 本周的DYOR是ERGO。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "上週我做了一個POST\n[https://www.reddit.com/r/CryptoCurrency/comments/plft1l/the_weeky_dyor_session_edition_1_every_week_i_am/]\n問及你希望我在一週的DYOR版中介紹的一枚硬幣。最受歡迎的\n喜歡最多的評論是ERGO。\n\n因此，讓我們來介紹ERGO，我將通過基本知識...",
+      "title": "The Weeky DYOR Session Edition 1: 每週我都會選擇一個硬幣做一個DYOR，這樣你就不用做了 - 本週的DYOR是ERGO。"
+    }
+  ]
+}

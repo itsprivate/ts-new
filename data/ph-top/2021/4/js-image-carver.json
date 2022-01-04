@@ -1,0 +1,95 @@
+{
+  "id": "292657",
+  "commentsCount": 5,
+  "createdAt": "2021-04-18T19:38:47.446Z",
+  "description": "Content-aware image resizer based on Seam Carving algorithm",
+  "featuredAt": "2021-04-18T07:00:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c371f50c-3433-4de5-bedb-77df2b8b929c.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/9765d404-78fa-41d9-bc28-5d661371a0d9.gif?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/5d12c92e-2fdd-41bc-86cb-5426362203a0.gif?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/347a310f-d0ae-43e7-8d72-cb75e9639fde.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/66a5cdb1-4682-4bc4-8a6d-07757aefd183.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/109549a5-d9d4-4749-b4b9-a0751f007d62.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "JS Image Carver",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/66e94d57e9787d?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Oleksii Trekhleb",
+    "url": "https://www.producthunt.com/@trekhleb?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 2,
+  "reviewsRating": 5,
+  "slug": "js-image-carver",
+  "tagline": "Content-aware image resizer and object remover",
+  "url": "https://www.producthunt.com/posts/js-image-carver?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 171,
+  "website": "https://www.producthunt.com/r/66e94d57e9787d?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Design Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "User Experience"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-04-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Seam Carvingアルゴリズムに基づくコンテンツ認識型の画像リサイザ",
+      "tagline": "コンテンツを考慮した画像リサイザーとオブジェクトリムーバー"
+    },
+    {
+      "locale": "zh",
+      "description": "基于Seam Carving算法的内容感知型图像调整器",
+      "tagline": "内容感知的图像调整器和对象移除器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於Seam Carving算法的內容感知型圖像調整器",
+      "tagline": "內容感知的圖像調整器和對象移除器。"
+    }
+  ],
+  "source_updated_at": 1619171538565
+}

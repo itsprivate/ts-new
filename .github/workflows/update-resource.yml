@@ -1,0 +1,48 @@
+name: Generate Issues
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "35 9 * * FRI"
+jobs:
+  update:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: update resource
+        uses: actions/github-script@v3
+        env:
+          YOUTUBE_API_KEY: ${{secrets.YOUTUBE_API_KEY}}
+          REDDIT_APP_SECRET: ${{secrets.REDDIT_APP_SECRET}}
+          REDDIT_APP_ID: ${{secrets.REDDIT_APP_ID}}
+          REDDIT_USERNAME: ${{secrets.REDDIT_USERNAME}}
+          REDDIT_PASSWORD: ${{secrets.REDDIT_PASSWORD}}
+          PRODUCTHUNT_TOKEN: ${{secrets.PRODUCTHUNT_TOKEN}}
+          TWITTER_CONSUMER_KEY: ${{secrets.TWITTER_CONSUMER_KEY}}
+          TWITTER_CONSUMER_SECRET: ${{secrets.TWITTER_CONSUMER_SECRET}}
+          TWITTER_ACCESS_TOKEN: ${{secrets.TWITTER_ACCESS_TOKEN}}
+          TWITTER_ACCESS_SECRET: ${{secrets.TWITTER_ACCESS_SECRET}}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/update-resource/index.js`)
+            await updateResource()
+            return true
+      - name: generate issues
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const updateResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-issues/index.js`)
+            await updateResource()
+            return true
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.PERSONAL_TOKEN }}
+          labels: automerge
+          commit-message: "chore: update resource"
+          branch: new-item
+          delete-branch: true
+          title: Resource update

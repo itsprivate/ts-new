@@ -1,0 +1,64 @@
+{
+  "type_of": "article",
+  "id": 724419,
+  "title": "Configuring self-signed SSL certificates for local development",
+  "description": "Sometimes it's preferible to keep your local development environment as close to production as possib...",
+  "readable_publish_date": "Jun 10",
+  "slug": "configuring-self-signed-ssl-certificates-for-local-development-35c5",
+  "path": "/ashleyconnor/configuring-self-signed-ssl-certificates-for-local-development-35c5",
+  "url": "https://dev.to/ashleyconnor/configuring-self-signed-ssl-certificates-for-local-development-35c5",
+  "comments_count": 2,
+  "public_reactions_count": 41,
+  "collection_id": null,
+  "published_timestamp": "2021-06-10T17:04:37Z",
+  "positive_reactions_count": 41,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xO4YnyYv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ur3kx3298c7y1q08tfh.jpg",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eIvrVHYW--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ur3kx3298c7y1q08tfh.jpg",
+  "canonical_url": "https://www.ashleyconnor.co.uk/2021/06/07/configuring-ssl-certificates-for-local-development",
+  "created_at": "2021-06-12T17:15:55.189Z",
+  "edited_at": null,
+  "crossposted_at": null,
+  "published_at": "2021-06-10T17:04:37Z",
+  "last_comment_at": "2021-06-12T06:07:11Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "webdev",
+    "tutorial",
+    "security"
+  ],
+  "tags": [
+    "webdev",
+    "tutorial",
+    "security"
+  ],
+  "user": {
+    "name": "Ashley Connor",
+    "username": "ashleyconnor",
+    "twitter_username": "ashconnor",
+    "github_username": "ashleyconnor",
+    "website_url": "https://ashleyconnor.co.uk",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6vY9D-gU--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/377159/ce5840bf-9455-4cdf-82cb-e0e2c3cc00f3.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--49uz2qaz--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/377159/ce5840bf-9455-4cdf-82cb-e0e2c3cc00f3.jpeg"
+  },
+  "original_created_at": "2021-06-10T16:57:54Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xO4YnyYv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ur3kx3298c7y1q08tfh.jpg",
+  "author": "Ashley Connor",
+  "author_url": "https://dev.to/ashleyconnor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時には、ローカルの開発環境をできるだけ本番環境に近づけたいこともあります。",
+      "title": "ローカル開発用の自己署名入りSSL証明書の設定"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，让你的本地开发环境尽可能地接近生产环境是比较好的。",
+      "title": "为本地开发配置自签名的SSL证书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，讓你的本地開發環境儘可能地接近生產環境是比較好的。",
+      "title": "爲本地開發配置自簽名的SSL證書"
+    }
+  ]
+}

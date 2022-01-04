@@ -1,0 +1,32 @@
+{
+  "author": "maxreva_",
+  "original_created_utc": 1636913712,
+  "title": "I made a tool that scrapes valuable crypto data. How NOT to build a project",
+  "created_utc": 1636922520,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hey guys! In most cases this sub contains good projects people are proud of, but this time I&#39;ll be glad to share how I failed trying to grasp something shiny and popular.</p>\n\n<p><strong>Background:</strong></p>\n\n<p>I&#39;m not so much into crypto, never traded anything, but curious to learn more about it from the perspective of building tools, not for investing.</p>\n\n<p><strong>Idea:</strong></p>\n\n<p>came from a tweet of a guy asking everyone for a tool that indicates a volume % of changes of every crypto currency over 1hour and over 24 hours. I just thought this might be a good learning + experiment to validate something quickly.</p>\n\n<p>I checked some marketplaces and noticed that they don&#39;t have this data (for some reason). So the idea seemed extremely sweet (especially because it&#39;s a hot crypto market)</p>\n\n<p><strong>Execution:</strong></p>\n\n<p>I already have Flask components to build a simple website with searchable database, so all I needed was to build a script to collect API data.</p>\n\n<p>It&#39;s fairly simple with Python, 1-2 evenings of work for me. I found a free open API from crypto exchange X and made a script that scrapes it, transforms and loads into the database.</p>\n\n<p>Then this data gets loaded onto the website.</p>\n\n<p><strong>Bitterness:</strong></p>\n\n<p>I went deep into the technical details of API rates, data transformation and its visualization. I didn&#39;t talk to any crypto expert for validating my idea. And that&#39;s where I did a mistake!</p>\n\n<p>Once my site was live and I was ready to go for crypto subreddits to research the way I can ask someone&#39;s opinion, I tried to compare the data with some crypto marketplaces.</p>\n\n<p>I noticed that volume (the key metric in my project) for currency X was almost 3 times bigger in my site. I checked currency Y - it was also drastically different. I checked my code, the whole data loading logic, etc - all should work fine.</p>\n\n<p>A few minutes later I realised: each marketplace shows crypto volume differently, since they use different sources. It&#39;s normal that marketplace A (the one I got API from) has 3x less/more compared to marketplace B.</p>\n\n<p>So, my tool should&#39;ve had to pull data from multiple (if not all) marketplaces! A simple conversation with someone from crypto could help me improve it.</p>\n\n<p><strong>Takeaways:</strong></p>\n\n<p>⭐ Do the research first. Talk to your potential customers. Ask what they need. Don&#39;t skip this step.</p>\n\n<p>⭐ Once you validated your idea - then go into technical details. Not the opposite. Technical details can blur your eyesight.</p>\n\n<p>⭐ I had some technical lessons learned from my ~3 evenings spent with this project as well. That&#39;s why I&#39;m not so sad about it</p>\n\n<p>⭐ I&#39;ll share it here, hoping to help more builders like myself to avoid this mistake. This should increase the value from this whole experiment</p>\n\n<p>Thanks for reading!</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/qtvqc9/i_made_a_tool_that_scrapes_valuable_crypto_data/",
+  "subreddit": "SideProject",
+  "id": "qtvqc9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hey guys! In most cases this sub contains good projects people are proud of, but\nthis time I'll be glad to share how I failed trying to grasp something shiny and\npopular.\n\nBackground:\n\nI'm not so much into crypto, never traded anything, but curious to learn more\nabout it from the perspective of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。ほとんどの場合、このサブメニューには人々が誇りに思う良いプロジェクトが含まれていますが\n今回は、私がどのようにして人気のあるものを手に入れようとして失敗したかを喜んで紹介したいと思います。\nを掴もうとして失敗した方法を紹介します。\n\n背景\n\n私は暗号にはあまり興味がなく、何も取引したことはありませんが、以下の観点から暗号についてもっと知りたいと思っています。\nの観点からもっと知りたいと思っています...",
+      "title": "貴重な暗号データをスクレイピングするツールを作りました。プロジェクトの進め方"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，伙计们! 在大多数情况下，这个子项目包含人们引以为豪的好项目，但\n但这次我很高兴能与大家分享我是如何在试图掌握一些闪亮和流行的东西时失败的。\n俗的东西。\n\n背景。\n\n我对加密货币不是很感兴趣，从来没有交易过任何东西，但很想从以下角度了解更多\n但我很想从以下角度了解它。",
+      "title": "我做了一个工具，可以搜刮有价值的加密货币数据。如何不建立一个项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，夥計們! 在大多數情況下，這個子項目包含人們引以爲豪的好項目，但\n但這次我很高興能與大家分享我是如何在試圖掌握一些閃亮和流行的東西時失敗的。\n俗的東西。\n\n背景。\n\n我對加密貨幣不是很感興趣，從來沒有交易過任何東西，但很想從以下角度瞭解更多\n但我很想從以下角度瞭解它。",
+      "title": "我做了一個工具，可以搜刮有價值的加密貨幣數據。如何不建立一個項目"
+    }
+  ]
+}

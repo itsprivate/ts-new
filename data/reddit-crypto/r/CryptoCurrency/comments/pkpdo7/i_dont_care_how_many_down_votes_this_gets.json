@@ -1,0 +1,78 @@
+{
+  "author": "Awhodothey",
+  "original_created_utc": 1631156703,
+  "title": "I don't care how many down votes this gets. Everyone here needs to understand the security risks with ADA's smart contracts are not FUD.",
+  "created_utc": 1631179851,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Tldr: This isn&#39;t debatable: ADA will not have defi until they deploy a sidechain or other solution that has not yet been developed, let alone tested. Telling people &quot;it&#39;s okay, don&#39;t worry about this FUD&quot; will directly cause people to lose serious amounts of money. Everyone needs to understand the additional risks they will be taking on if they use centralized &quot;defi&quot; on cardano. </p>\n\n<p>This is not FUD; this is a serious problem. The cardano chain absolutely cannot run a uniswap DEX. That&#39;s bad, but the real problem is that everyone, including devs <a href=\"https://plutus-pioneer-program.readthedocs.io/en/latest/pioneer/week10.html\">learning plutus </a>, are actively being misinformed by cardano&#39;s leadership. </p>\n\n<p>The problem is fundamental to cardano&#39;s eUTXO architecture. In plutus, every AMM pool has an NFT that must be referenced to create a tx on the exchange. And, every tx writes over that pool NFT with an updated NFT that reflects the current state of the pool. Every tx must create a new pool NFT, and no txs can call the previous NFT.</p>\n\n<p>In UTXO all txs are deterministic. That means that if you and me both call the existing NFT pool for our tx, only one of our txs will be completed. I can&#39;t reference the pool NFT if it doesn&#39;t exist anymore, because you beat me to it. My tx will fail, and I will have to call the new NFT that your tx created. </p>\n\n<p>So, you can code a Uniswap AMM program, and everything will look completely fine as long as one person trades at a time. When 50 people attempt to interact with it (within the amount of time it takes to query the state of the pool, consider accepting the exchange rate, and actually submitting a tx), 49 of their txs will fail, and you will soon have a pile up with thousands of txs failing for every one tx that succeeds. Realistically, the pool will change before most people even attempt to submit the tx, causing it to immediately fail.</p>\n\n<p>That&#39;s why it currently is not possible to run a DEX on cardano. DEXs will have to be run on non-eutxo sidechains or use other methods that have not been fully tested yet. This is a PITA, but the real problem is the workaround solutions that are going to be implemented. The ADA community&#39;s (and Charles&#39; very intentional) misrepresentation of the issue is going to end disastrously.</p>\n\n<p><a href=\"https://twitter.com/ErgoDex/status/1434241109283287041?s=20\">https://twitter.com/ErgoDex/status/1434241109283287041?s=20</a></p>\n\n<p><a href=\"https://sundaeswap-finance.medium.com/concurrency-state-cardano-c160f8c07575\">https://sundaeswap-finance.medium.com/concurrency-state-cardano-c160f8c07575</a></p>\n\n<p>Sidechain and decentralized solutions to this problem do exist, but none of them have been developed or tested yet. Sundaeswap claims to have a secret solution, but it&#39;s really not possible that their solution is decentralized. </p>\n\n<p>There is a HUGE difference between going &quot;off-chain&quot; to a decentralized sidechain and going &quot;off-chain&quot; through a centralized, trusted custodian (even if they route your tx to another decentralized chain). Charles knows this, and he also knows that you don&#39;t. </p>\n\n<p>This means, that for the time being, cardano will not have decentralized exchanges, and because of the community&#39;s refusal to acknowledge and honestly address this conversation, most ADA users will have no understanding of the vulnerabilities these centralized  exchanges represent.</p>\n\n<p>Until this problem is solved, treat every cardano &quot;DEX&quot; like a &quot;CEX.&quot; Do not leave large amounts of money in their SCs. There will be DEXs that pop up and offer great APRs using the same code as well-known projects, but they will exit scam. People will exploit this. Cardano should delay smart contracts until this is resolved. This will make cardano the riskiest chain for defi.</p>\n</div><!-- SC_ON -->",
+  "score": 273,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?auto=webp&s=8ba5500d94d149fbbc6a3ad529bda9c45fef6a38",
+          "width": 1230,
+          "height": 681
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?width=108&crop=smart&auto=webp&s=90b1fa3dbc85a8ab94644615f2a4c40dac9db535",
+            "width": 108,
+            "height": 59
+          },
+          {
+            "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?width=216&crop=smart&auto=webp&s=a48971dd6d8c446762eec802a2971a1cd7e0d622",
+            "width": 216,
+            "height": 119
+          },
+          {
+            "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?width=320&crop=smart&auto=webp&s=68f00be30ca98adf510b9e619bbd8b48bb37c0ad",
+            "width": 320,
+            "height": 177
+          },
+          {
+            "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?width=640&crop=smart&auto=webp&s=cf534ff9fbf279666683a94bc20752a3276136ce",
+            "width": 640,
+            "height": 354
+          },
+          {
+            "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?width=960&crop=smart&auto=webp&s=5405b25efc4859d476881e79697d98e90d895a1f",
+            "width": 960,
+            "height": 531
+          },
+          {
+            "url": "https://external-preview.redd.it/2FoQHfSqkxiefkqEVd5UDZ4URb2Q7_O15whbvakB1eg.jpg?width=1080&crop=smart&auto=webp&s=457e59a7e75db925056d153607a6c8f9144be6e1",
+            "width": 1080,
+            "height": 597
+          }
+        ],
+        "variants": {},
+        "id": "5Ifp_A_Po_VGtg1vKmNB5Mfn7tGDGiocSehpDF_tW-U"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/pkpdo7/i_dont_care_how_many_down_votes_this_gets/",
+  "subreddit": "CryptoCurrency",
+  "id": "pkpdo7",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Tldr: This isn't debatable: ADA will not have defi until they deploy a sidechain\nor other solution that has not yet been developed, let alone tested. Telling\npeople \"it's okay, don't worry about this FUD\" will directly cause people to\nlose serious amounts of money. Everyone needs to understand the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Tldr: これは議論の余地がありません。ADAは、サイドチェーンを導入するまでは、デフィがない。\nや、テストはおろか、まだ開発されていない他のソリューションを展開するまで、ADAはデフィを持たない。伝えること\n人々に「大丈夫、このFUDは気にしないで」と言うことは、人々に深刻な損失をもたらすことになります。\n大金を失うことになります。みんなが理解しなければならないのは、...",
+      "title": "この記事にどれだけの反対票が集まっても構いません。ADAのスマートコントラクトのセキュリティリスクはFUDではないことをここにいる全員が理解する必要があります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Tldr: 这并不值得商榷。ADA不会有defi，直到他们部署侧链\n或其他尚未开发的解决方案，更不用说测试了。告知\n告诉人们 \"没关系，不要担心这个谣言 \"将直接导致人们\n损失严重的金钱。每个人都需要了解...",
+      "title": "我不在乎这得到多少张反对票。这里的每个人都需要了解ADA的智能合约的安全风险，而不是FUD。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Tldr: 這並不值得商榷。ADA不會有defi，直到他們部署側鏈\n或其他尚未開發的解決方案，更不用說測試了。告知\n告訴人們 \"沒關係，不要擔心這個謠言 \"將直接導致人們\n損失嚴重的金錢。每個人都需要了解...",
+      "title": "我不在乎這得到多少張反對票。這裏的每個人都需要了解ADA的智能合約的安全風險，而不是FUD。"
+    }
+  ]
+}

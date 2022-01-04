@@ -1,0 +1,32 @@
+{
+  "author": "sabsebadakangaal",
+  "original_created_utc": 1631817011,
+  "title": "Someone predicted what happened with Solana days before it happened; I researched more and found why this person was right about his prediction:",
+  "created_utc": 1631883346,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Firstly, here is the prediction tweet that literally told what will happen to Solana days before it happened:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/8r4y04v5rwn71.png?width=1080&amp;format=png&amp;auto=webp&amp;s=b458d62e328d78c704e96cc223d31f0840e663d1\">Solana Daamp</a></p>\n\n<p>I spent more time researching about smart contracts on Solana and this is what I found:</p>\n\n<p>For fast execution of smart contracts with complex conditions, it appears the solution on Solana is to parallelize the code so it can run on a GPU via Sealevel. Writing for a GPU is not easy to learn. It is also impossible for some algorithms: they cannot be decoupled. It was not clear what happens to a transaction such as this that cannot be parallelized and has a high computational load. Is it rejected? Or does the whole network wait? The code has to be written to use multiple threads for a GPU in some places. And if it can&#39;t be, which is true of some expressions—they can&#39;t be decoupled—then what happens if a transaction takes a long time? Does it make the whole network wait? </p>\n\n<p>It turns out that when combined with huge TPS numbers, the whole network waits and transactions get rejected because some code cannot be made to use multiple threads because the computation is inherently serial. If these take a long time to perform, then either the whole network waits, or the transaction is rejected. Bad trade off either way.</p>\n</div><!-- SC_ON -->",
+  "score": 158,
+  "permalink": "/r/CryptoCurrency/comments/ppj2qd/someone_predicted_what_happened_with_solana_days/",
+  "subreddit": "CryptoCurrency",
+  "id": "ppj2qd",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Firstly, here is the prediction tweet that literally told what will happen to\nSolana days before it happened:\n\n\n\nSolana Daamp\n[https://preview.redd.it/8r4y04v5rwn71.png?width=1080&format=png&auto=webp&s=b458d62e328d78c704e96cc223d31f0840e663d1]\n\nI spent more time researching about smart contracts on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "まず、文字通り、ソラナがどうなるかを占った予測ツイートがこちら。\nソラナがどうなるかを文字通り予言したツイートです。\n\n\n\nソラナダァンプ\n[https://preview.redd.it/8r4y04v5rwn71.png?width=1080&format=png&auto=webp&s=b458d62e328d78c704e96cc223d31f0840e663d1]\n\n私は、スマートコントラクトについて調べるのに多くの時間を費やしました...",
+      "title": "今回のソラナの件について、事件の数日前から予測していた人がいましたが、さらに調べてみると、その人の予測が正しかったことがわかりました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "首先，这是一条预测性的推文，从字面上看，它告诉了人们将发生在\n索拉娜在发生前几天就已经说了。\n\n\n\n索拉娜-达姆普\n[https://preview.redd.it/8r4y04v5rwn71.png?width=1080&format=png&auto=webp&s=b458d62e328d78c704e96cc223d31f0840e663d1]\n\n我花了更多的时间研究关于智能合约的...",
+      "title": "有人在索拉纳事件发生前几天就预测到了，我做了更多研究，发现为什么这个人的预测是正确的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "首先，這是一條預測性的推文，從字面上看，它告訴了人們將發生在\n索拉娜在發生前幾天就已經說了。\n\n\n\n索拉娜-達姆普\n[https://preview.redd.it/8r4y04v5rwn71.png?width=1080&format=png&auto=webp&s=b458d62e328d78c704e96cc223d31f0840e663d1]\n\n我花了更多的時間研究關於智能合約的...",
+      "title": "有人在索拉納事件發生前幾天就預測到了，我做了更多研究，發現爲什麼這個人的預測是正確的。"
+    }
+  ]
+}

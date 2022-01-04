@@ -1,0 +1,59 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "Earlier this week, I posted my first crypto trading bot project that was\nsuggested by you in a previous post.\n\nIn a nutshell, the bot buys bitcoin whenever Elon Musk tweets about bitcoin. You\nguys came up with some great feedback on this, and many of you suggested there\nshould be some form of…",
+  "original_created_utc": 1616669010,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "本周早些时候，我发布了我的第一个加密交易机器人项目，那就是\n你在之前的文章中建议的.\n\n简而言之，只要埃隆-马斯克在推特上提到比特币，这个机器人就会买入比特币。你\n大家提出了一些很好的反馈意见，很多人建议有\n应该是某种形式的...",
+      "title": "更新：我编了一个机器人，当埃隆-马斯克在推特上说到比特币时，就会购买比特币，并将其开源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "本週早些時候，我發佈了我的第一個加密交易機器人項目，那就是\n你在之前的文章中建議的.\n\n簡而言之，只要埃隆-馬斯克在推特上提到比特幣，這個機器人就會買入比特幣。你\n大家提出了一些很好的反饋意見，很多人建議有\n應該是某種形式的...",
+      "title": "更新：我編了一個機器人，當埃隆-馬斯克在推特上說到比特幣時，就會購買比特幣，並將其開源。"
+    }
+  ],
+  "title": "UPDATE: I coded a bot that buys Bitcoin when Elon Musk tweets about bitcoin and open sourced it",
+  "created_utc": 1616708521,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Earlier this week, I posted my first crypto trading bot project that was suggested by you in a previous post. </p>\n\n<p>In a nutshell, the bot buys bitcoin whenever Elon Musk tweets about bitcoin. You guys came up with some great feedback on this, and many of you suggested there should be some form of sentiment analysis so that the bot won&#39;t just buy when Elon says something negative about it. </p>\n\n<p>So I looked for an API that would do the job and integrated it into the code. </p>\n\n<p>The bot will now only buy Bitcoin when Elon Tweets, if the sentiment of his tweet is positive. </p>\n\n<p>Article: <a href=\"https://www.cryptomaton.org/2021/03/25/program-a-trading-bot-to-buy-bitcoin-when-musk-tweets-about-it-part-2/\">https://www.cryptomaton.org/2021/03/25/program-a-trading-bot-to-buy-bitcoin-when-musk-tweets-about-it-part-2/</a></p>\n\n<p>GitHub Repo: <a href=\"https://github.com/CyberPunkMetalHead/bitcoin-bot-buy-if-elon-tweets/tree/buy-crypto-if-elon-mentions-crypto-positively\">https://github.com/CyberPunkMetalHead/bitcoin-bot-buy-if-elon-tweets/tree/buy-crypto-if-elon-mentions-crypto-positively</a></p>\n\n<p>Since this a community-driven project you guys get to name this bot!</p>\n</div><!-- SC_ON -->",
+  "score": 199,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/VLxfB6VoFxh5n4x8uDxchGeW5lDQJIhMcIXWCDM09Tw.jpg?auto=webp&s=82a85139dfc5af69c3beb371e97cdee3ed042737",
+          "width": 512,
+          "height": 512
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/VLxfB6VoFxh5n4x8uDxchGeW5lDQJIhMcIXWCDM09Tw.jpg?width=108&crop=smart&auto=webp&s=22c1617b6f5d98b16f74f2e3e3faa1d20ef961d9",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/VLxfB6VoFxh5n4x8uDxchGeW5lDQJIhMcIXWCDM09Tw.jpg?width=216&crop=smart&auto=webp&s=9e614cc6da3c334ebd56164cbeab3e0326304ae4",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/VLxfB6VoFxh5n4x8uDxchGeW5lDQJIhMcIXWCDM09Tw.jpg?width=320&crop=smart&auto=webp&s=a79f3a1b8dd4c6e7f64e7fae1a2d6fc6688d4150",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "hAyFolJPPabpCWeQTlPmqM-4xO81N-fcsIPUl88IxLU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/mcvc0g/update_i_coded_a_bot_that_buys_bitcoin_when_elon/",
+  "subreddit": "Bitcoin",
+  "id": "mcvc0g",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617357132814
+}

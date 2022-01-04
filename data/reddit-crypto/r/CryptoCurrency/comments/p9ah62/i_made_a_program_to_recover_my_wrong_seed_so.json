@@ -1,0 +1,78 @@
+{
+  "author": "sonuishaq67",
+  "original_created_utc": 1629629866,
+  "title": "I made a program to recover my Wrong Seed so here's a write up on how to recover it.",
+  "created_utc": 1629647113,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>[!!It is a terrible idea to put your seed into any website or program on any computer that will ever be online again!!]</strong></p>\n\n<p>You can &quot;recover&quot; your seed considering you have all of your words and one or two went wrong while noting them down ( If you see my previous posts  you&#39;ll know I lost mine hence made this program to recover)</p>\n\n<p>There&#39;s two possibilities in where you got one word wrong</p>\n\n<ol>\n<li>Last word (or checksum) is wrong</li>\n<li>One of the first 23 words are wrong</li>\n</ol>\n\n<p><strong>FIRST CASE :</strong> </p>\n\n<p>For the first case it&#39;s really easy to recover.</p>\n\n<p>Let&#39;s say you got the last one wrong i.e you wrote <strong>immense</strong> instead of <strong>island</strong></p>\n\n<p>Just enter your wrong 24 words in the mnemonic box in <a href=\"https://learnmeabitcoin.com/technical/mnemonic\">this website</a> <strong>[!! It is a terrible idea to put your seed into any website or program on any computer that will ever be online again. Also the website isn&#39;t mine it&#39;s learnmeabitcoin.com a good website for learning.!!]</strong></p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/vu3x33ha3wi71.png?width=1190&amp;format=png&amp;auto=webp&amp;s=0af4d19cad8550de3de7a3d2603ab3c7d6b960d6\">https://preview.redd.it/vu3x33ha3wi71.png?width=1190&amp;format=png&amp;auto=webp&amp;s=0af4d19cad8550de3de7a3d2603ab3c7d6b960d6</a></p>\n\n<p>Just copy and paste the same entropy  and you&#39;ll get the right mnemonic , Try  to recover using that phrase, if it doesn&#39;t work its second case</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/kxfzodrc3wi71.png?width=836&amp;format=png&amp;auto=webp&amp;s=ff84b1ac87dd7c70fb68be696a12e20e7d09ee91\">https://preview.redd.it/kxfzodrc3wi71.png?width=836&amp;format=png&amp;auto=webp&amp;s=ff84b1ac87dd7c70fb68be696a12e20e7d09ee91</a></p>\n\n<p><strong>SECOND CASE :</strong> </p>\n\n<p>Considers checksum (or last word) is right</p>\n\n<p>&#x200B;</p>\n\n<p>It takes all the words closest to the seed words using the <a href=\"https://en.wikipedia.org/wiki/Levenshtein_distance\">Levenstein&#39;s distance</a>  and tries all possible conditions where only one word is wrong and gets the seed</p>\n\n<p>&#x200B;</p>\n\n<p>Example : The 24 words I&#39;m using here as example are lift  cricket must assist repair dose damp acid notice blade regular mobile pudding rival process hazard anchor meat water current gorilla multiply cruel wrist</p>\n\n<p>&#x200B;</p>\n\n<p>I&#39;ll be intentionally changing the third word must to  music</p>\n\n<p>&#x200B;</p>\n\n<p>Now using the program , Ill be running it generates the files seeds, log.log, allnumbers<br/>\n   where seeds contains all the possible combinations and allnumbers  contains the binary form of seeds and lastly log.log which if  successfully finds the seed stores it in the end of the file</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/gqsvfmd64wi71.png?width=1919&amp;format=png&amp;auto=webp&amp;s=02b8006005ec7ae5c2cb0a4a41e91b9e3cbe273e\">https://preview.redd.it/gqsvfmd64wi71.png?width=1919&amp;format=png&amp;auto=webp&amp;s=02b8006005ec7ae5c2cb0a4a41e91b9e3cbe273e</a></p>\n\n<p>And voila there&#39;s your seed</p>\n\n<p>With this I end my write up with the links</p>\n\n<p>Source code for recovery : <a href=\"https://github.com/sonuishaq67/recover-ledger-seed\">https://github.com/sonuishaq67/recover-ledger-seed</a></p>\n\n<p>&#x200B;</p>\n\n<p>Here&#39;s My other post about mnemonics if you wanna learn : <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/p4bsmj/i_learnt_about_mnemonics_while_recovering_my_seed/\">https://np.reddit.com/r/CryptoCurrency/comments/p4bsmj/i_learnt_about_mnemonics_while_recovering_my_seed/</a></p>\n</div><!-- SC_ON -->",
+  "score": 167,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?auto=webp&s=6c8ffc677321aa131d9f0ba3d4c6f3ef2502b4e2",
+          "width": 1190,
+          "height": 237
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?width=108&crop=smart&auto=webp&s=cda6b39008222b6a506d1e124e4b4303918e6499",
+            "width": 108,
+            "height": 21
+          },
+          {
+            "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?width=216&crop=smart&auto=webp&s=6159b691adce933c22fe8672b384d47fb2b1fd37",
+            "width": 216,
+            "height": 43
+          },
+          {
+            "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?width=320&crop=smart&auto=webp&s=402626b4aaee3c1af43549ea4dd12a51b4444ee3",
+            "width": 320,
+            "height": 63
+          },
+          {
+            "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?width=640&crop=smart&auto=webp&s=aa5fcc6507f79b9d8353410adcca515c8a815c38",
+            "width": 640,
+            "height": 127
+          },
+          {
+            "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?width=960&crop=smart&auto=webp&s=e4b7cbdeab5ffbefd2fe2b041dc97d16c3cbe936",
+            "width": 960,
+            "height": 191
+          },
+          {
+            "url": "https://external-preview.redd.it/FpxNV-K4iPtpq3tG85I8wtCvpOsBqoFXs1lD2Xu8uik.png?width=1080&crop=smart&auto=webp&s=e2a2619f159f76b1445bed929d8a4e4cbc125ee0",
+            "width": 1080,
+            "height": 215
+          }
+        ],
+        "variants": {},
+        "id": "TGxNDETzYLOLynJEI5Wp_gEAihc60GzuNHaK5GIsS20"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/p9ah62/i_made_a_program_to_recover_my_wrong_seed_so/",
+  "subreddit": "CryptoCurrency",
+  "id": "p9ah62",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "[!!It is a terrible idea to put your seed into any website or program on any\ncomputer that will ever be online again!!]\n\nYou can \"recover\" your seed considering you have all of your words and one or\ntwo went wrong while noting them down ( If you see my previous posts you'll know\nI lost mine hence…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "[あなたの種を、どんなコンピュータのどんなウェブサイトやプログラムにも入れるのは、ひどい考えです。\nあなたのシードを、再びオンラインになる可能性のあるあらゆるコンピュータのウェブサイトやプログラムに入れるのは、非常に悪い考えです。]\n\nあなたがすべての単語を持っていて、メモしている間に1つか2つが間違っていたと考えれば、あなたのシードを「回復」することができます。\n書き留めている間に1つか2つの間違いがあったと考えれば、シードを「回復」することができます。\n私はそれで失いました...。",
+      "title": "Wrong Seedを回復するプログラムを作ったので、その方法を書いておきます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "[!!把你的种子放进任何网站或程序的任何电脑上，这是一个可怕的想法。\n糟糕的是，把你的种子放到任何网站或程序中，而这些网站或程序又会再次上网！！] 。\n\n你可以 \"恢复 \"你的种子，考虑到你有你所有的字，但有一两个字在记下时出了问题。\n你可以 \"恢复 \"你的种子，因为你有你所有的字，而且在记下它们时有一两个出了问题（如果你看到我以前的帖子，你会知道\n因此，我失去了我的...",
+      "title": "我做了一个程序来恢复我的错误种子，所以这里写的是如何恢复它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "[!!把你的種子放進任何網站或程序的任何電腦上，這是一個可怕的想法。\n糟糕的是，把你的種子放到任何網站或程序中，而這些網站或程序又會再次上網！！] 。\n\n你可以 \"恢復 \"你的種子，考慮到你有你所有的字，但有一兩個字在記下時出了問題。\n你可以 \"恢復 \"你的種子，因爲你有你所有的字，而且在記下它們時有一兩個出了問題（如果你看到我以前的帖子，你會知道\n因此，我失去了我的...",
+      "title": "我做了一個程序來恢復我的錯誤種子，所以這裏寫的是如何恢復它。"
+    }
+  ]
+}

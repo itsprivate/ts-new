@@ -1,0 +1,78 @@
+{
+  "author": "laguitte",
+  "original_created_utc": 1635608051,
+  "title": "Get notified on Discord when your blog is mentioned on Hacker News",
+  "created_utc": 1635638224,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I wanted to study Typescript so I wrote this quick side project that lets you send Discord messages of Hacker News submissions that match your blog domain. This can be handy to be notified when others submit some of your content to Hacker News.</p>\n\n<p><a href=\"https://github.com/louisguitton/hn-notifier\">https://github.com/louisguitton/hn-notifier</a></p>\n\n<p>It&#39;s completely free, you deploy it to Heroku using the button on the Github Readme, you put in your domain and your personal Discord webhook URL (from a channel of the Discord server you want to see this appear in) and voila!</p>\n\n<p>This is less than 100 lines of Typescript code, mostly thanks to the fact that Hacker News&#39; <a href=\"https://github.com/HackerNews/API\">official API</a> is built around Firebase.</p>\n\n<p>This project is similar to other tools that you might prefer:</p>\n\n<ul>\n<li>F5Bot</li>\n<li>Google alerts</li>\n</ul>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?auto=webp&s=5b7f9f815d9107c94e9e01e7993d93366b2991a9",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?width=108&crop=smart&auto=webp&s=454535594aa02fcda15211eb7e0625da00951c24",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?width=216&crop=smart&auto=webp&s=14eb5ae1e089413284b5027cca84f80f8c2303b0",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?width=320&crop=smart&auto=webp&s=6e6a18515185d029037fcb77f9331c331b5157d1",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?width=640&crop=smart&auto=webp&s=c46904d8a7176ae111b05dc6d1a4a02923468783",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?width=960&crop=smart&auto=webp&s=4bd0e3551e5884bbfe618232acf473b9b22d3961",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/QNIiKxcBpFhTuAqTw-OdUROivd3PjQ0dJrWwMHsBzTA.jpg?width=1080&crop=smart&auto=webp&s=b2f9b39ee84776bbecd27dc09ba317e380ad8dcc",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "lv-TfsTGU7N8zRZ-fp7LTSMrwvnflaXvYltq_IjM00I"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qj3wjs/get_notified_on_discord_when_your_blog_is/",
+  "subreddit": "SideProject",
+  "id": "qj3wjs",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I wanted to study Typescript so I wrote this quick side project that lets you\nsend Discord messages of Hacker News submissions that match your blog domain.\nThis can be handy to be notified when others submit some of your content to\nHacker News.\n\nhttps://github.com/louisguitton/hn-notifier\n\nIt's…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Typescriptを勉強したかったので、簡単なサイドプロジェクトを書きました。\n自分のブログのドメインと一致するHacker Newsの投稿について、Discordのメッセージを送ることができます。\nこれは、自分のブログのドメインに一致するHacker Newsの投稿をDiscordで送信するものです。\nHacker Newsに投稿されたときに通知を受けることができます。\n\nhttps://github.com/louisguitton/hn-notifier\n\nこれは...",
+      "title": "Hacker Newsであなたのブログが紹介されたら、Discordで通知を受けることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想研究一下Typescript，所以我写了这个快速的辅助项目，可以让你\n发送与你的博客域名相匹配的Hacker News提交的Discord信息。\n当别人把你的一些内容提交给Hacker News时，这可以很方便地通知你。\nHacker News。\n\nhttps://github.com/louisguitton/hn-notifier\n\n它是...",
+      "title": "当你的博客在Hacker News上被提及时，在Discord上得到通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想研究一下Typescript，所以我寫了這個快速的輔助項目，可以讓你\n發送與你的博客域名相匹配的Hacker News提交的Discord信息。\n當別人把你的一些內容提交給Hacker News時，這可以很方便地通知你。\nHacker News。\n\nhttps://github.com/louisguitton/hn-notifier\n\n它是...",
+      "title": "當你的博客在Hacker News上被提及時，在Discord上得到通知"
+    }
+  ]
+}

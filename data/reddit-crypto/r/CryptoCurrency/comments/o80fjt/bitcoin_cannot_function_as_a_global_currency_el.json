@@ -1,0 +1,32 @@
+{
+  "author": "JonSnow781",
+  "original_created_utc": 1624668470,
+  "title": "Bitcoin cannot function as a global currency. El Salvador adoption may prove that Bitcoin doesn't work.",
+  "created_utc": 1624685549,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This is my understanding of the situation. Please correct me if I&#39;m wrong, but the math seems pretty clear. I know I&#39;m not the first to state this, but I feel like this issue has largely been hand waved away with the store of value narrative, and with El Salvador attempting to use it as a currency it may be a rude awakening to the major flaws with the network.</p>\n\n<p>The Bitcoin network can support about 7 transactions per second.</p>\n\n<p>7tps x 60s x 60min x 24hrs = 604,800 transactions per day. The population of El Salvador is about 7,000,000. This means that if the entire population is using bitcoin there is only enough bandwidth to support 2 transactions per person per month. This assumes only a tiny country like El Salvador is using bitcoin. This is not feasible whatsoever for just El Salvador, let alone the world.</p>\n\n<p>The Lightning Network does not solve this problem, as it still requires main chain transactions for every user, it&#39;s just less of them. Onramp, offramp, and channel liquidity adjustments are all going to be required on a semi regular basis.</p>\n\n<p>The only solution to this is majority adoption of custodial solutions, which is the antithesis of bitcoin. This will lead to the exact same problems our current financial system has, minus inflation risk.</p>\n\n<p>I personally hand waved these issues away, as I always told myself that bitcoin didn&#39;t need to function as a currency, it&#39;s a store of value. But even a store of value requires a minimum bandwidth to function as a global reserve, and now with a country adopting it as a currency we are going to potentially be slapped in the face with the bandwidth issue.</p>\n\n<p>I also assumed that despite the opinions of Bitcoin Maximalists, the network would need to upgrade to support magnitudes higher TPS. However, I assumed that adoption would be slow enough to have a long form debate to convince people that this is necessary. Is it already a necessity to upgrade to support the sudden adoption as a currency by a country? Will the community be able to debate this issue, come to the conclusion we need to upgrade, and perform the upgrades in time to support adoption by El Salvador?</p>\n\n<p>If none of this happens I fear one of two outcomes. </p>\n\n<p>One, El Salvador adopts mainly custodial solutions, which will probably be abused and may actually harm the citizens rather than help them (surveillance, fees, confiscation, censorship, fractional reserves, transparancy issues). </p>\n\n<p>Two, the country attempts self custody options, quickly overloads the network to volumes where fees and transaction times are completely unacceptable, proving the network cannot support this level of activity, and causing massive FUD and massive damage to El Salvador if they have had substantial adoption.</p>\n\n<p>Can anyone provide a strong argument for why we shouldn&#39;t be concerned about bitcoins extremely limited bandwidth on the eve of real adoption?</p>\n</div><!-- SC_ON -->",
+  "score": 157,
+  "permalink": "/r/CryptoCurrency/comments/o80fjt/bitcoin_cannot_function_as_a_global_currency_el/",
+  "subreddit": "CryptoCurrency",
+  "id": "o80fjt",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "This is my understanding of the situation. Please correct me if I'm wrong, but\nthe math seems pretty clear. I know I'm not the first to state this, but I feel\nlike this issue has largely been hand waved away with the store of value\nnarrative, and with El Salvador attempting to use it as a currency…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これが私の理解です。間違っていたらご指摘ください。\n計算はかなり明確なようです。私はこのことを最初に述べたわけではありませんが、私はこのように感じています。\nこの問題は、価値のあるものを手に入れようとする物語や、エルサルバドルのように\nエルサルバドルがそれを通貨として使おうとしていることで、この問題が大きく取り上げられているように感じます。",
+      "title": "ビットコインはグローバルな通貨としては機能しません。エルサルバドルの採用は、ビットコインが機能しないことを証明するかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是我对情况的理解。如果我错了，请纠正我，但\n数学似乎很清楚。我知道我不是第一个这么说的人，但我觉得\n但我觉得这个问题在很大程度上已经被价值储存的说法所掩盖了。\n的说法，以及萨尔瓦多试图将其作为一种货币使用......",
+      "title": "比特币不能作为一种全球货币发挥作用。萨尔瓦多的采用可能证明比特币不起作用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是我對情況的理解。如果我錯了，請糾正我，但\n數學似乎很清楚。我知道我不是第一個這麼說的人，但我覺得\n但我覺得這個問題在很大程度上已經被價值儲存的說法所掩蓋了。\n的說法，以及薩爾瓦多試圖將其作爲一種貨幣使用......",
+      "title": "比特幣不能作爲一種全球貨幣發揮作用。薩爾瓦多的採用可能證明比特幣不起作用。"
+    }
+  ]
+}

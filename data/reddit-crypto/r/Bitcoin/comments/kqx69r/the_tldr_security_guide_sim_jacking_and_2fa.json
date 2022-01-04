@@ -1,0 +1,28 @@
+{
+  "author": "thorthur22",
+  "the_new_excerpt": "2FA is must. But it's not enough to just have it enabled. This is meant to be\nsimple and quick, obviously you should learn more about each point.\n\nDown and dirty security:\n\n1- Get a google voice number. VOIP numbers can't be SIM jacked. Free for U.S.\nuse.\n\n2- Get LastPass Authenticator or Authy.…",
+  "original_created_utc": 1609848181,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "2FA是必须的。但仅仅启用它是不够的。这是命中注定的\n简单而快速，显然你应该更多地了解每一点。\n\n停机和肮脏的安全性：\n\n1-获取谷歌语音号码。VoIP号码不能被SIM卡盗用。美国免费\n使用。\n\n2-获取最后一次通过验证码或AUTHY.…",
+      "title": "TLDR安全指南。SIM千斤顶和2FA。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "2FA是必須的。但僅僅啓用它是不夠的。這是命中註定的\n簡單而快速，顯然你應該更多地瞭解每一點。\n\n停機和骯髒的安全性：\n\n1-獲取谷歌語音號碼。VoIP號碼不能被SIM卡盜用。美國免費\n使用。\n\n2-獲取最後一次通過驗證碼或AUTHY.…",
+      "title": "TLDR安全指南。SIM千斤頂和2FA。"
+    }
+  ],
+  "title": "The TLDR security guide. SIM Jacking and 2FA.",
+  "created_utc": 1609879362,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>2FA is must. But it&#39;s not enough to just have it enabled. This is meant to be simple and quick, obviously you should learn more about each point.</p>\n\n<p>Down and dirty security:</p>\n\n<p>1- Get a google voice number. VOIP numbers can&#39;t be SIM jacked. Free for U.S. use.</p>\n\n<p>2- Get LastPass Authenticator or Authy. Don&#39;t use Google Authenticator unless you understand the consequences, i.e. losing the device with your google auth loses those 2FA OTP codes. If you do understand the consequences then you should be using a YubiKey.</p>\n\n<p>3- Remove your cell number from your google account security, replace with google voice number or nothing.</p>\n\n<p>4- If you use a password manager and you should, remove SMS 2FA from this or change to GVoice. Set PW manager to use YubiKey or TOTP Authenticator for 2FA.</p>\n\n<p>5- Over the next month, cycle that dumb password you keep using on all your accounts with minor variations to something psuedo randomly generated via a password manager. BtC2DaM00n$ is not special.</p>\n\n<p>We can keep going and get more granular but this is a good 90% solution for most entry level crypto users.</p>\n\n<p>Be safe.</p>\n</div><!-- SC_ON -->",
+  "score": 217,
+  "permalink": "/r/Bitcoin/comments/kqx69r/the_tldr_security_guide_sim_jacking_and_2fa/",
+  "subreddit": "Bitcoin",
+  "id": "kqx69r",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1610100742429
+}

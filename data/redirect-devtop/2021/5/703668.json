@@ -1,0 +1,73 @@
+{
+  "type_of": "article",
+  "id": 703668,
+  "title": "How we resolved a memory leak on our website",
+  "description": "The fiit website is used for creating subscriptions as well as helping users log into the app on TV p...",
+  "readable_publish_date": "May 20",
+  "slug": "how-we-resolved-a-memory-leak-on-our-website-1kf0",
+  "path": "/fiit/how-we-resolved-a-memory-leak-on-our-website-1kf0",
+  "url": "https://dev.to/fiit/how-we-resolved-a-memory-leak-on-our-website-1kf0",
+  "comments_count": 0,
+  "public_reactions_count": 43,
+  "collection_id": null,
+  "published_timestamp": "2021-05-20T09:40:58Z",
+  "positive_reactions_count": 43,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w3pVewDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1q6nj2h9lvqlyallts0.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n5ya_arp--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1q6nj2h9lvqlyallts0.png",
+  "canonical_url": "https://dev.to/fiit/how-we-resolved-a-memory-leak-on-our-website-1kf0",
+  "created_at": "2021-05-21T10:24:31.945Z",
+  "edited_at": "2021-05-20T12:23:31Z",
+  "crossposted_at": null,
+  "published_at": "2021-05-20T09:40:58Z",
+  "last_comment_at": "2021-05-20T09:40:58Z",
+  "reading_time_minutes": 8,
+  "tag_list": [
+    "javascript",
+    "memoryleak",
+    "performance",
+    "webdev"
+  ],
+  "tags": [
+    "javascript",
+    "memoryleak",
+    "performance",
+    "webdev"
+  ],
+  "user": {
+    "name": "Craig Taub",
+    "username": "craigtaub",
+    "twitter_username": null,
+    "github_username": "craigtaub",
+    "website_url": "https://craigtaub.dev/",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hjqUJDCc--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/369699/a240b552-e05c-4690-9a28-7c58ebaec07e.png",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--f5IOgUed--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/369699/a240b552-e05c-4690-9a28-7c58ebaec07e.png"
+  },
+  "organization": {
+    "name": "Fiit",
+    "username": "fiit",
+    "slug": "fiit",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_fkgzTnd--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/4152/31ad4c11-80aa-4480-8941-bb402bd82bdf.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--P483rMnS--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/4152/31ad4c11-80aa-4480-8941-bb402bd82bdf.jpg"
+  },
+  "original_created_at": "2021-05-20T09:00:04Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w3pVewDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1q6nj2h9lvqlyallts0.png",
+  "author": "Craig Taub",
+  "author_url": "https://dev.to/craigtaub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "fiitのWebサイトは、サブスクリプションの作成や、ユーザーがテレビでアプリにログインする際に使用されます。",
+      "title": "ウェブサイトのメモリーリークをどのように解決したか"
+    },
+    {
+      "locale": "zh",
+      "description": "fiit网站用于创建订阅，以及帮助用户在电视上登录应用程序。",
+      "title": "我们如何解决网站上的内存泄漏问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "fiit網站用於創建訂閱，以及幫助用戶在電視上登錄應用程序。",
+      "title": "我們如何解決網站上的內存泄漏問題"
+    }
+  ]
+}

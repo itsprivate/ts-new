@@ -1,0 +1,78 @@
+{
+  "author": "pseudoHappyHippy",
+  "original_created_utc": 1635264540,
+  "title": "Introducing Rainbow-Weighted Averaging: A more Profitable Alternative to DCA",
+  "created_utc": 1635280531,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>Introduction</h1>\n\n<p>Nearly everybody in this community has heard about Dollar Cost Averaging (DCA). I would say that it is without question the most popular investment strategy here. By dictating that you buy a fixed amount at predetermined intervals regardless of the state of the market, it <strong>maximizes simplicity</strong>, <strong>minimizes timing-related risk</strong>, and <strong>eliminates emotional decision-making</strong>.</p>\n\n<p>In this article I will try to convince you that there is an enhanced version of DCA that does not sacrifice any of these strengths of classic DCA, but outperforms it 96.8% of the time by an average of 35.3% greater returns when applied to historical BTC price data. I call this strategy Rainbow-Weighted Averaging (RWA). This is a very simple strategy that I have come up with and then rigorously back-tested against over 9 years of Bitcoin history, across 91 different timeframes.</p>\n\n<p>I believe I can show that this strategy is virtually as simple as classical DCA, equally eliminates emotional decision-making, and only marginally increases timing-related risk while significantly increasing reward over DCA.</p>\n\n<p>The strategy itself is quite simple (I&#39;m sure many people already use very similar strategies to this). Using it will probably add no more than 20 or 30 seconds of time investment each week or month or however often you make your DCA purchases (you will need to look up 1 piece of data and do 1 multiplication every DCA day).</p>\n\n<h1>The Strategy</h1>\n\n<p>This strategy uses the (in)famous Bitcoin Rainbow Chart. This might evoke some eye-rolling from people who have been here for a while and have seen this chart thrown around a lot, but bear with me. By using this tool, I am not implying that I think it accurately calls cycle tops; in fact, <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/qg6ksa/the_commonly_cited_bitcoin_rainbow_chart_is/\">here</a> is a post I made about how <em>inaccurate</em> it is at calling tops. Nevertheless, this chart is an excellent heuristic for getting a general sense of where we are in the Bitcoin cycle, and how over or under-heated we are at any point in time. It is perfect for our needs here.</p>\n\n<p>Here is an image of the chart:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/wwpnshpe1tv71.png?width=2023&amp;format=png&amp;auto=webp&amp;s=ff485d22fb360b6293e19e966f4a3c3ec06ede76\">https://preview.redd.it/wwpnshpe1tv71.png?width=2023&amp;format=png&amp;auto=webp&amp;s=ff485d22fb360b6293e19e966f4a3c3ec06ede76</a></p>\n\n<p>And <a href=\"https://www.blockchaincenter.net/bitcoin-rainbow-chart/\">here</a> is a link to the chart, which updates each day. If you aren&#39;t familiar with this chart, it is simply the history of BTC prices in logarithmic space, which allows us to easily see the cyclic bull and bear markets, as well as the fact of diminishing returns (convex nature of the curve). The rainbow itself is just a bunch of logarithmic regression bands (if that means nothing to you, don&#39;t worry, it doesn&#39;t matter here) that attempt to capture the cycle highs and lows, and give a general idea of how overheated or underheated we are with a color scale.</p>\n\n<p>To use the strategy, you must first choose values for the following parameters:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/q5vdo4v62tv71.png?width=235&amp;format=png&amp;auto=webp&amp;s=daf4991a821bf797c0594a57d5803643ecfcdff1\">https://preview.redd.it/q5vdo4v62tv71.png?width=235&amp;format=png&amp;auto=webp&amp;s=daf4991a821bf797c0594a57d5803643ecfcdff1</a></p>\n\n<p>Then, whenever it is time to do your usual DCA, instead of just buying your base amount, you look up which color band we are currently in in the rainbow chart (bookmark the link I provided above), and then you multiply the <em>Base Purchase Amount</em> by the corresponding modifier. For example, using the parameters above, if we were currently in the orange(4) band when it is time to buy, you would buy $100 * 0.20 = $20. If, on the other hand, we were currently in the blue(10) band, you would buy $100 * 2.50 = $250.</p>\n\n<p>The underlying principle is just common sense: if you buy more when an asset is underheated, and less when it is overheated, you will do better.</p>\n\n<h1>&quot;Wait. Aren&#39;t you timing the market?&quot;</h1>\n\n<p>Of course, I can hear the outcry here: &quot;The whole point of DCA is to not time the market; if you&#39;re timing the market at all it undermines the point of DCA&quot;.</p>\n\n<p>I hear this point. The more you try to time the market, the greater your timing-related risk, and one of the most important aspects of DCA is that it minimizes time-related risk by maximizing diversification on the time axis. I will try to make a short counterpoint in the paragraph below, and then I will go into the data that shows that the increase in risk of RWA over DCA is actually extremely marginal (while the increase in reward is very significant).</p>\n\n<p>In general, I agree with the notion that trying to time tops and bottoms in crypto is nearly futile, and trying to predict short to mid-term price movements is so difficult that it might as well be impossible. These facts are what makes DCA so popular. However, there is one context in which market timing causes virtually no increased risk: <strong>On the largest timescale, crypto works in a highly rhythmic wave pattern with about a 4-year wavelength</strong>. This fact is an absolute gift (and it won&#39;t always be true), and leveraging this knowledge of crypto cycles is the most efficient strategy to capitalize on the crypto market (you may have heard the idiom &quot;bull markets make you money, but bear markets make you rich&quot;). Ignoring this robust macroscopic pattern (as vanilla DCA does) seems almost criminal. Keep in mind that we still aren&#39;t trying to call tops or bottoms or make specific predictions; <strong>the only assumption we are making comes from the observation that, historically, it has always been better to buy during &quot;cooler&quot; color bands than during &quot;warmer&quot; color bands</strong>.</p>\n\n<p>But don&#39;t take my word for it that adding in a little timing bias from this macroscopic scale barely increases risk while significantly increasing reward over DCA. The following data should speak for itself.</p>\n\n<h1>The Data</h1>\n\n<p>In order to test my strategy, I imported monthly Bitcoin price data from the last 9 years (since the first halving) into a spreadsheet and then set things up to back-test my strategy against that data, while also back-testing vanilla DCA against the same dataset, and then comparing the two. I used a purchase frequency of one month, but the results should be valid for other purchase frequencies like weekly or biweekly. My spreadsheet allows me to choose whatever values I want for the rainbow modifiers and the base purchase amount, and then to see how RWA performs relative to DCA for those parameters.</p>\n\n<p>The first thing I noticed when I tried to analyze the data this way is that the results are highly sensitive to when the strategy simulation begins. This is because buying more heavily more early on is the actual most significant factor in crypto gains, and this factor is more extreme if your simulation happens to start right before a parabolic rise. This created a lot of noise in my results.</p>\n\n<p>So, I took it one step further. I made it so that my spreadsheet actually runs the simulation <strong>91 times</strong> for the chosen parameters, where each iteration assumes the investing began 1 month later than the previous iteration. In other words, my spreadsheet captures what results you would get from starting this strategy on the 1st of any month from December 2012 to July 2020, which thoroughly captures two entire cycles. Then it averages all 91 trials, and also captures stats like what % of the time RWA beats DCA, the average amount by which RWA beats DCA, the maximum amount RWA beats DCA by, and the minimum amount RWA beats DCA by.</p>\n\n<p>For the parameters in the image from earlier in the post, the results are the following:</p>\n\n<p><strong>RWA beats DCA 96.7% of the time.</strong></p>\n\n<p><strong>RWA beats DCA by an average of 35.3%.</strong></p>\n\n<p><strong>The most RWA outperforms DCA by is 70.4%.</strong></p>\n\n<p><strong>The most RWA underperforms DCA is -5.1%.</strong></p>\n\n<p>This means that, if you choose a random date for the starting point of these strategies, there is a 96.7% chance that RWA beats DCA for the starting date chosen, and on average RWA will be 35.3% more prosperous than DCA. If you were very lucky in choosing your start date, RWA can outperform DCA by up to 70.4%. However, for the 3.3% of the time that RWA underperforms DCA, the worst it gets is only 5.1% below DCA.</p>\n\n<p>Hopefully, this illustrates that RWA only marginally increases risk while drastically increasing reward over DCA. It only underperforms DCA 3.3% of the time by a maximum of 5.1%, but it outperforms DCA 96.7% of the time by a maximum of 70.4% and an average of 35.3%.</p>\n\n<p>Now, the above results are only for the example parameters in the image I included above. If you weight the lower part of the rainbow more heavily, you will see that RWA outperforms DCA more strongly, but the risk also increases.</p>\n\n<p>If you weight the bottom part of the rainbow less aggressively, then the amount RWA outperforms DCA by decreases, but so does your risk. Classical DCA would be equivalent to each rainbow modifier being 1, so the more your modifier spread approaches everything being 1, the more similar your results will be to classical DCA, and the less risk and reward you will have relative to DCA.</p>\n\n<h1>Conclusion</h1>\n\n<p>I hope I have convinced you that if you are already using DCA for your long-term strategy, changing to RWA takes very little extra work. The overhead is reading this article, bookmarking the rainbow chart, and choosing your parameters. The recurring cost is doing 1 multiplication each time you buy.</p>\n\n<p>I hope I have also convinced you that this strategy yields a significant increase in performance over classical DCA, while only very marginally increasing risk, while also keeping emotional decision-making out of the picture.</p>\n\n<p>I know 35% increase in profits might seem small in the crazy and volatile world of crypto, but think of it this way. DCA is already a long-term strategy. If you plan to only sell once you have reached some kind of threshold like &quot;life-changing&quot; money, imagine how significant it will be to have an extra 35% on top of your life-changing money when you finally cash out. All for the added time investment of doing 1 multiplication each purchase day.</p>\n\n<p>I hope this helps make at least one person 35% greater gains!</p>\n\n<p>Edit: This strategy is only meant as a long-term strategy! If you test this for just a month or two against regular DCA towards the end of a bull run like we are now, your results will be all over the place! The statistical advantage of RWA against DCA will only play out consistently on longer timeframes. On shorter timeframes, you will get far more volatile and noisy results. It will still beat DCA the majority of the time on shorter timeframes, but it will be much more of a dice roll. I wouldn&#39;t recommend this system if your time horizon is less than 2 years. Ideally, your time horizon would be at least one full cycle.</p>\n</div><!-- SC_ON -->",
+  "score": 185,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?auto=webp&s=927bb590ccbd189dafe7ebc4b3ce2d4b581e9343",
+          "width": 2023,
+          "height": 979
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?width=108&crop=smart&auto=webp&s=a9e02e8305f92f6e4592c7dc1458034a209c7d40",
+            "width": 108,
+            "height": 52
+          },
+          {
+            "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?width=216&crop=smart&auto=webp&s=ae59eea229e8b181751096bee7423d5a04fa3f61",
+            "width": 216,
+            "height": 104
+          },
+          {
+            "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?width=320&crop=smart&auto=webp&s=e43ed62ab14e16a895aad352df2029ffc9651656",
+            "width": 320,
+            "height": 154
+          },
+          {
+            "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?width=640&crop=smart&auto=webp&s=e491ab62351d9a743f7df20b638d829bdf005792",
+            "width": 640,
+            "height": 309
+          },
+          {
+            "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?width=960&crop=smart&auto=webp&s=604f8fc670f39d78ea2b7e2c22e11e98b6a585bf",
+            "width": 960,
+            "height": 464
+          },
+          {
+            "url": "https://external-preview.redd.it/WHNu98Xmd-VlsqJDXq7FqT5FFdBGyMAD11BEgqSUjjg.png?width=1080&crop=smart&auto=webp&s=b4e107c0b4e07ce13600ce40879b677f9f15754b",
+            "width": 1080,
+            "height": 522
+          }
+        ],
+        "variants": {},
+        "id": "Pe2tZg5ESm3pL0J_5jYa2Di6gK-bWcRqGIlb-M3GxUc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/qg9s6v/introducing_rainbowweighted_averaging_a_more/",
+  "subreddit": "CryptoCurrency",
+  "id": "qg9s6v",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "INTRODUCTION\n\nNearly everybody in this community has heard about Dollar Cost Averaging (DCA).\nI would say that it is without question the most popular investment strategy\nhere. By dictating that you buy a fixed amount at predetermined intervals\nregardless of the state of the market, it maximizes…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "はじめに\n\nドルコスト平均法(DCA)については、この業界のほとんどの人が耳にしたことがあると思います。\nこのコミュニティで最も人気のある投資戦略と言っても過言ではありません。\nここでは 決められた間隔で一定の金額を購入することで、相場の状況に関わらず\n市場の状態に関わらず、一定の間隔で一定額を購入することで、最大...",
+      "title": "Rainbow-Weighted Averagingの紹介。DCAに代わる収益性の高い手法"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "引言\n\n在这个社区，几乎每个人都听说过美元成本平均法（DCA）。\n我想说，毫无疑问，它是这里最受欢迎的投资策略。\n在这里。通过规定你在预先确定的时间间隔内买入一个固定的金额\n无论市场状况如何，它都能最大限度地提高......",
+      "title": "引入彩虹加权平均法。一个比DCA更有利可图的替代方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "引言\n\n在這個社區，幾乎每個人都聽說過美元成本平均法（DCA）。\n我想說，毫無疑問，它是這裏最受歡迎的投資策略。\n在這裏。通過規定你在預先確定的時間間隔內買入一個固定的金額\n無論市場狀況如何，它都能最大限度地提高......",
+      "title": "引入彩虹加權平均法。一個比DCA更有利可圖的替代方案"
+    }
+  ]
+}

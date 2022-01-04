@@ -1,0 +1,156 @@
+{
+  "created_at": "Sun Sep 19 18:39:47 +0000 2021",
+  "id_str": "1439660116375134212",
+  "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+  "display_text_range": [
+    0,
+    38
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "laralogan",
+        "name": "Lara Logan",
+        "id": 1098091506886471700,
+        "id_str": "1098091506886471680",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1439483149340315600,
+        "id_str": "1439483149340315649",
+        "indices": [
+          15,
+          38
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_oSTDCXEAE_bJd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_oSTDCXEAE_bJd.jpg",
+        "url": "https://t.co/ZQfrKhXyNi",
+        "display_url": "pic.twitter.com/ZQfrKhXyNi",
+        "expanded_url": "https://twitter.com/laralogan/status/1439483153786277888/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 540,
+            "h": 628,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 540,
+            "h": 628,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 540,
+            "h": 628,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1439483153786278000,
+        "source_status_id_str": "1439483153786277888",
+        "source_user_id": 1098091506886471700,
+        "source_user_id_str": "1098091506886471680"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 8303,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Sep 19 18:38:13 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Sun Sep 19 06:55:02 +0000 2021",
+    "id_str": "1439483153786277888",
+    "full_text": "https://t.co/ZQfrKhXyNi",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1439483149340315600,
+          "id_str": "1439483149340315649",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_oSTDCXEAE_bJd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_oSTDCXEAE_bJd.jpg",
+          "url": "https://t.co/ZQfrKhXyNi",
+          "display_url": "pic.twitter.com/ZQfrKhXyNi",
+          "expanded_url": "https://twitter.com/laralogan/status/1439483153786277888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 540,
+              "h": 628,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 540,
+              "h": 628,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 540,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Lara Logan",
+      "screen_name": "laralogan",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317905552937279490/bWhC4Rwi_normal.jpg"
+    },
+    "retweet_count": 5593,
+    "favorite_count": 20510,
+    "possibly_sensitive": false
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+      "retweeted_status_full_text": "https://t.co/ZQfrKhXyNi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+      "retweeted_status_full_text": "https://t.co/ZQfrKhXyNi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @laralogan: https://t.co/ZQfrKhXyNi",
+      "retweeted_status_full_text": "https://t.co/ZQfrKhXyNi"
+    }
+  ],
+  "source_updated_at": 1632476405683
+}

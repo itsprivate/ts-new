@@ -1,0 +1,825 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "Bogleheads",
+  "selftext": "",
+  "user_reports": [],
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "u/swingtrader79 shares some insight on how simple investing can be (like via indexing) after interviewing 20 leading wealth management firms about their strategies",
+  "link_flair_richtext": [],
+  "subreddit_name_prefixed": "r/Bogleheads",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": null,
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "name": "t3_q6txiy",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.99,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 151,
+  "total_awards_received": 0,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "author_fullname": "t2_7cmu3",
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": null,
+  "can_mod_post": false,
+  "score": 151,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {},
+  "content_categories": null,
+  "is_self": false,
+  "mod_note": null,
+  "crosspost_parent_list": [
+    {
+      "approved_at_utc": null,
+      "subreddit": "stocks",
+      "selftext": "I sold a company I created, and after the press release went out, I was inundated with very gracious offers to take and manage my new found money for fees. At the time, I presumed these wealth managers, after managing hundreds of millions - if not billions - of other people’s money for decades, would have developed advanced strategies and tactics for ensuring success. Surely, they would have teams of analysts scouring the markets for opportunities, technical indicators, news events, macroeconomic data and breakthrough innovations at all times to stay a step ahead of the pack. I was dead wrong.  \n\nWhat I discovered was an antiquated industry that relied heavily on the belief that they knew better and were on top of things. In fact, there was very little effort that went into managing OPM (other people’s money), and that most of the energy went to finding and onboarding new clients. \n\nI’m not saying that their strategies were bad or didn’t work. I am only stating that they were neither complicated nor impressive. In short, anyone here could repeat the same strategies and save 1% of their money a year in perpetuity. Without further ado, here’s what I learned:\n\n**Goldman Sachs**\n\nIt’s important to note that there are various divisions within GS wealth management that handle money differently. I break it down into low net worth, mid-net worth, and high net worth offerings. The low net worth folks are given Marcus, an automated investment system that simply relies on ETFs paired with some basic bond funds. It’s the same as buying Vanguard Target Retirement funds. \n\nThe mid-net worth offering is where I spent the bulk of time understanding. They find 30 stocks to invest in from different sectors with an attempt to represent the sector weighting of the S&P 500. As the SPX is largely tech, they are overweight technology. Basically, they take the SPY and cut it down from 500 companies to 30 companies. \n\nWhy would they offer a less diverse array of stocks? \n\nThey state as the reason that they are better able to manage 30 investments than 500, and since they are not trying to beat the returns of the index - their words - they’d rather find stocks with lower beta (volatility) and thus likely lower returns. \n\nThey locate these stocks by running basic stock screens within the S&P 500 once per quarter to ensure solid performance and find better investments. They target a 6% annual return after accounting for their 1% fee on your money and they offer some financial planning services if you have over a certain amount of money invested with them.  This amounts to $10,000 per year for a $1M portfolio for many years - a lot of money to part with.\n\nDid I mention, you have to liquidate your entire portfolio prior to working with them, unless you happen to already own one of the 30 stocks they pick? So there are tax consequences of getting involved.\n\nFor the HNW folks, the above offering is available and they offer additional products, such as the ability to invest in private equity, REITs and hedge funds. As you might imagine, the more money they manage, the more “free” accounting services they include.\n\n**Personal Capital**\n\nThis may actually be my favorite, given the simplicity of it. They take the main sector ETFs and eliminate any stocks that are losing money, to recreate their own ETFs by sector. They charge you a fee to use their ETFs. \n\nThey start with an equal amount of capital going to each sector ETF, but allocate more money to the sectors with the worst performance record from the year before. They do this annually. They do nothing all year. \n\nThey charge a fee for managing your money. I recall it being 25 or 35 basis points, but you have to also pay to use their ETFs so it creeps towards the better part of a percentage point very quickly and is much more expensive than simply buying a Vanguard S&P 500  fund or a group of the sector ETFs calling it quits.\n\n**Ritholtz Wealth Management**\n\nIf you’ve watched CNBC regularly, you’d recognize the commentator Josh Brown - a partner of Ritholtz Wealth Management. He’s the one with the thick New York City accent. When I found out I may have the chance to have his insights managing my money, I was excited as he always seemed so knowledgeable. But the wealth management shop was not impressive. \n\nIn fact, their model was exactly the same as that of Goldman Sachs: they pick about 30 stocks, stick your money in them, rotate them every quarter, and keep volatility low on the stocks they pick. They target 5-6% annually, net of fees. Yes, you heard that correctly, 5-6%. \n\nThe next group of wealth management shops all fell into one of three other categories: SPY collars, ETF aggregators, or tactical investors\n\n**SPY Collars**\n\nThis strategy involved putting all of your money into the SPY ETF then selling call options on that investment out of the money a few months out at a time. They take the income from the sale of these options and purchase out of the money puts on the SPY for similar expiration dates. This strategy enables them to control your target return while limiting downside. For those who are not used to options, here’s how it works.\n\nLet’s say the SPY is trading at $400. You own it. You sell someone else the right to buy it from you for $440 for $40 per call. So long as the SPY stays under 480 (440 + the call premium value), the other person will not execute the call and you get to keep the money for the call premium. If the SPY goes above 480, you have to either sell your shares at $440 (plus pocket the 40 per call, making this a sale at 480) or buy the call back at a higher price than what you sold it for. You’d lose money on it, but the SPY shares have gained in value, so you still come out ahead. You are just not as ahead as you would be had you simply bought and held the SPY all the way to $490. This creates a ceiling in terms of the max amount you can obtain on the upside of your investment. \n\nThe option puts work the other way, protecting your investment on the way down. Since you used the premium collected on the sale of the call to buy the puts, you haven’t spent any money but have bought yourself insurance. If the SPY drops, the value of your put option (a short on your own investment) increases. This increase offsets your losses, protecting you, especially in the case of extreme correction. \n\nIf the SPY rises, you lose the value of your put, so you have to account for that in your net income for the investment.\n\nIf you don’t follow this, don’t worry, the net effect is they use options to prevent a major loss but in doing so, they also prevent you from having any major gains. You are trapped or collared within an acceptable range of returns. Over time, you will not beat the S&P 500 index with this strategy and they say this. \n\nSo there is only value to this strategy if you simply are unwilling to trade a really bad year once in a while for a great year once in a while. It’s mostly about your investment time horizon and whether you need regular access to the money. \n\n**ETF and Mutual Fund Aggregators**\n\nAbout 7 firms I interviewed used this strategy. I heard the same thing so often, I thought maybe they were dumbing it down for me. Essentially, they just bought all sector ETFs or a basket of mutual funds for you. A few of the firms would use the collars I spoke of above if the market got a little choppy, but most did not. \n\nThis strategy was most common with smaller wealth management shops - under $250M AUM - which tried to differentiate themselves as financial planners that happen to look after your money. The bulk of them did very very little to watch the market and most flat out stated they only looked at these quarterly. \n\nI could not understand what they did all day until one referred to himself as a market psychologist because his job was to calm clients down when the market shits itself. I have vodka for that, so this strategy was not for me.\n\n**Tactical Firms**\n\nThese firms were harder to find and their DNA was more similar to day traders in terms of their mentality. They invested in a basket of stocks they thought represented a blend of value, growth, and good dividends. They chose them annually but were much more likely to liquidate and go to cash if they thought a correction was coming so they had cash to buy the dip. \n\nOne thing I did learn from them though was tax loss harvesting - a term for specifically taking losses on investments to offset gains on others. \n\nThe best way they did this was by rolling calls on equities that had risen in value. Imagine holding Apple stock and selling a call on it. If Apple goes up, you must then choose to sell the stock or buy the call back at a higher price for a loss. If you do the latter, in year 1 and sell a second option in year 2 at the same price or more than the call you bought back, you can write off the loss in year 1 while avoiding actual losses. \n\nYou can roll calls like this forever, amassing paper losses while you actually gain in the value of the underlying equity. It was a nice trick I’ve used many times now, especially when I want to sell something I’ve held for years with significant gains. \n\nTheir desire to protect the portfolio, I felt, prevented them from participating in the quick rebounds in the market. In 2019, when I spoke to them, they felt a crash was imminent and had gone to 60% cash in their portfolio. I never reached back out to see how they did, but I suspect they were buying the dips in March 2020. \n\nTheir overall returns were around 10% but not as good as simply buying the SPY and holding. But they did seem to be able to minimize the downside of some on major events. \n\n**In the end, I never hired any of them.** I decided instead to use what I learned and what I knew and manage my own money. In case you read this far and are curious, yes, my returns have beaten all these firms’ average returns and I’ve actually learned a lot in the process. Sharing in case anyone could use the strategies.",
+      "author_fullname": "t2_7wptiowj",
+      "saved": false,
+      "mod_reason_title": null,
+      "gilded": 2,
+      "clicked": false,
+      "title": "I Interviewed 20 Leading Wealth Management Firms: Here Are All Their Strategies",
+      "link_flair_richtext": [],
+      "subreddit_name_prefixed": "r/stocks",
+      "hidden": false,
+      "pwls": 6,
+      "link_flair_css_class": "trades",
+      "downs": 0,
+      "top_awarded_type": null,
+      "hide_score": false,
+      "name": "t3_q6l0p5",
+      "quarantine": false,
+      "link_flair_text_color": "dark",
+      "upvote_ratio": 0.96,
+      "author_flair_background_color": null,
+      "subreddit_type": "public",
+      "ups": 2486,
+      "total_awards_received": 34,
+      "media_embed": {},
+      "author_flair_template_id": null,
+      "is_original_content": false,
+      "user_reports": [],
+      "secure_media": null,
+      "is_reddit_media_domain": false,
+      "is_meta": false,
+      "category": null,
+      "secure_media_embed": {},
+      "link_flair_text": "Trades",
+      "can_mod_post": false,
+      "score": 2486,
+      "approved_by": null,
+      "is_created_from_ads_ui": false,
+      "author_premium": true,
+      "thumbnail": "",
+      "edited": false,
+      "author_flair_css_class": null,
+      "author_flair_richtext": [],
+      "gildings": {
+        "gid_1": 9,
+        "gid_2": 2
+      },
+      "content_categories": null,
+      "is_self": true,
+      "mod_note": null,
+      "created": 1634041558,
+      "link_flair_type": "text",
+      "wls": 6,
+      "removed_by_category": null,
+      "banned_by": null,
+      "author_flair_type": "text",
+      "domain": "self.stocks",
+      "allow_live_comments": true,
+      "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I sold a company I created, and after the press release went out, I was inundated with very gracious offers to take and manage my new found money for fees. At the time, I presumed these wealth managers, after managing hundreds of millions - if not billions - of other people’s money for decades, would have developed advanced strategies and tactics for ensuring success. Surely, they would have teams of analysts scouring the markets for opportunities, technical indicators, news events, macroeconomic data and breakthrough innovations at all times to stay a step ahead of the pack. I was dead wrong.  </p>\n\n<p>What I discovered was an antiquated industry that relied heavily on the belief that they knew better and were on top of things. In fact, there was very little effort that went into managing OPM (other people’s money), and that most of the energy went to finding and onboarding new clients. </p>\n\n<p>I’m not saying that their strategies were bad or didn’t work. I am only stating that they were neither complicated nor impressive. In short, anyone here could repeat the same strategies and save 1% of their money a year in perpetuity. Without further ado, here’s what I learned:</p>\n\n<p><strong>Goldman Sachs</strong></p>\n\n<p>It’s important to note that there are various divisions within GS wealth management that handle money differently. I break it down into low net worth, mid-net worth, and high net worth offerings. The low net worth folks are given Marcus, an automated investment system that simply relies on ETFs paired with some basic bond funds. It’s the same as buying Vanguard Target Retirement funds. </p>\n\n<p>The mid-net worth offering is where I spent the bulk of time understanding. They find 30 stocks to invest in from different sectors with an attempt to represent the sector weighting of the S&amp;P 500. As the SPX is largely tech, they are overweight technology. Basically, they take the SPY and cut it down from 500 companies to 30 companies. </p>\n\n<p>Why would they offer a less diverse array of stocks? </p>\n\n<p>They state as the reason that they are better able to manage 30 investments than 500, and since they are not trying to beat the returns of the index - their words - they’d rather find stocks with lower beta (volatility) and thus likely lower returns. </p>\n\n<p>They locate these stocks by running basic stock screens within the S&amp;P 500 once per quarter to ensure solid performance and find better investments. They target a 6% annual return after accounting for their 1% fee on your money and they offer some financial planning services if you have over a certain amount of money invested with them.  This amounts to $10,000 per year for a $1M portfolio for many years - a lot of money to part with.</p>\n\n<p>Did I mention, you have to liquidate your entire portfolio prior to working with them, unless you happen to already own one of the 30 stocks they pick? So there are tax consequences of getting involved.</p>\n\n<p>For the HNW folks, the above offering is available and they offer additional products, such as the ability to invest in private equity, REITs and hedge funds. As you might imagine, the more money they manage, the more “free” accounting services they include.</p>\n\n<p><strong>Personal Capital</strong></p>\n\n<p>This may actually be my favorite, given the simplicity of it. They take the main sector ETFs and eliminate any stocks that are losing money, to recreate their own ETFs by sector. They charge you a fee to use their ETFs. </p>\n\n<p>They start with an equal amount of capital going to each sector ETF, but allocate more money to the sectors with the worst performance record from the year before. They do this annually. They do nothing all year. </p>\n\n<p>They charge a fee for managing your money. I recall it being 25 or 35 basis points, but you have to also pay to use their ETFs so it creeps towards the better part of a percentage point very quickly and is much more expensive than simply buying a Vanguard S&amp;P 500  fund or a group of the sector ETFs calling it quits.</p>\n\n<p><strong>Ritholtz Wealth Management</strong></p>\n\n<p>If you’ve watched CNBC regularly, you’d recognize the commentator Josh Brown - a partner of Ritholtz Wealth Management. He’s the one with the thick New York City accent. When I found out I may have the chance to have his insights managing my money, I was excited as he always seemed so knowledgeable. But the wealth management shop was not impressive. </p>\n\n<p>In fact, their model was exactly the same as that of Goldman Sachs: they pick about 30 stocks, stick your money in them, rotate them every quarter, and keep volatility low on the stocks they pick. They target 5-6% annually, net of fees. Yes, you heard that correctly, 5-6%. </p>\n\n<p>The next group of wealth management shops all fell into one of three other categories: SPY collars, ETF aggregators, or tactical investors</p>\n\n<p><strong>SPY Collars</strong></p>\n\n<p>This strategy involved putting all of your money into the SPY ETF then selling call options on that investment out of the money a few months out at a time. They take the income from the sale of these options and purchase out of the money puts on the SPY for similar expiration dates. This strategy enables them to control your target return while limiting downside. For those who are not used to options, here’s how it works.</p>\n\n<p>Let’s say the SPY is trading at $400. You own it. You sell someone else the right to buy it from you for $440 for $40 per call. So long as the SPY stays under 480 (440 + the call premium value), the other person will not execute the call and you get to keep the money for the call premium. If the SPY goes above 480, you have to either sell your shares at $440 (plus pocket the 40 per call, making this a sale at 480) or buy the call back at a higher price than what you sold it for. You’d lose money on it, but the SPY shares have gained in value, so you still come out ahead. You are just not as ahead as you would be had you simply bought and held the SPY all the way to $490. This creates a ceiling in terms of the max amount you can obtain on the upside of your investment. </p>\n\n<p>The option puts work the other way, protecting your investment on the way down. Since you used the premium collected on the sale of the call to buy the puts, you haven’t spent any money but have bought yourself insurance. If the SPY drops, the value of your put option (a short on your own investment) increases. This increase offsets your losses, protecting you, especially in the case of extreme correction. </p>\n\n<p>If the SPY rises, you lose the value of your put, so you have to account for that in your net income for the investment.</p>\n\n<p>If you don’t follow this, don’t worry, the net effect is they use options to prevent a major loss but in doing so, they also prevent you from having any major gains. You are trapped or collared within an acceptable range of returns. Over time, you will not beat the S&amp;P 500 index with this strategy and they say this. </p>\n\n<p>So there is only value to this strategy if you simply are unwilling to trade a really bad year once in a while for a great year once in a while. It’s mostly about your investment time horizon and whether you need regular access to the money. </p>\n\n<p><strong>ETF and Mutual Fund Aggregators</strong></p>\n\n<p>About 7 firms I interviewed used this strategy. I heard the same thing so often, I thought maybe they were dumbing it down for me. Essentially, they just bought all sector ETFs or a basket of mutual funds for you. A few of the firms would use the collars I spoke of above if the market got a little choppy, but most did not. </p>\n\n<p>This strategy was most common with smaller wealth management shops - under $250M AUM - which tried to differentiate themselves as financial planners that happen to look after your money. The bulk of them did very very little to watch the market and most flat out stated they only looked at these quarterly. </p>\n\n<p>I could not understand what they did all day until one referred to himself as a market psychologist because his job was to calm clients down when the market shits itself. I have vodka for that, so this strategy was not for me.</p>\n\n<p><strong>Tactical Firms</strong></p>\n\n<p>These firms were harder to find and their DNA was more similar to day traders in terms of their mentality. They invested in a basket of stocks they thought represented a blend of value, growth, and good dividends. They chose them annually but were much more likely to liquidate and go to cash if they thought a correction was coming so they had cash to buy the dip. </p>\n\n<p>One thing I did learn from them though was tax loss harvesting - a term for specifically taking losses on investments to offset gains on others. </p>\n\n<p>The best way they did this was by rolling calls on equities that had risen in value. Imagine holding Apple stock and selling a call on it. If Apple goes up, you must then choose to sell the stock or buy the call back at a higher price for a loss. If you do the latter, in year 1 and sell a second option in year 2 at the same price or more than the call you bought back, you can write off the loss in year 1 while avoiding actual losses. </p>\n\n<p>You can roll calls like this forever, amassing paper losses while you actually gain in the value of the underlying equity. It was a nice trick I’ve used many times now, especially when I want to sell something I’ve held for years with significant gains. </p>\n\n<p>Their desire to protect the portfolio, I felt, prevented them from participating in the quick rebounds in the market. In 2019, when I spoke to them, they felt a crash was imminent and had gone to 60% cash in their portfolio. I never reached back out to see how they did, but I suspect they were buying the dips in March 2020. </p>\n\n<p>Their overall returns were around 10% but not as good as simply buying the SPY and holding. But they did seem to be able to minimize the downside of some on major events. </p>\n\n<p><strong>In the end, I never hired any of them.</strong> I decided instead to use what I learned and what I knew and manage my own money. In case you read this far and are curious, yes, my returns have beaten all these firms’ average returns and I’ve actually learned a lot in the process. Sharing in case anyone could use the strategies.</p>\n</div><!-- SC_ON -->",
+      "likes": null,
+      "suggested_sort": null,
+      "banned_at_utc": null,
+      "view_count": null,
+      "archived": false,
+      "no_follow": false,
+      "is_crosspostable": false,
+      "pinned": false,
+      "over_18": false,
+      "all_awardings": [
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 30,
+          "id": "award_b4ff447e-05a5-42dc-9002-63568807cfe6",
+          "penny_donate": null,
+          "award_sub_type": "PREMIUM",
+          "coin_reward": 0,
+          "icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "A glowing commendation for all to see",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 1,
+          "static_icon_height": 2048,
+          "name": "All-Seeing Upvote",
+          "resized_static_icons": [
+            {
+              "url": "https://external-preview.redd.it?width=16&height=16&auto=webp&s=d88c9a453f8ac38850b7a8241cfe5804b7b4905d",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://external-preview.redd.it?width=32&height=32&auto=webp&s=96a25019eb75878bdec4f6c012540f3baffbb1b2",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://external-preview.redd.it?width=48&height=48&auto=webp&s=1a51d27d75afde3fbde8bba84f9338f511211461",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://external-preview.redd.it?width=64&height=64&auto=webp&s=96af5ec460b05669ed60224cb0619bb8884abe27",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://external-preview.redd.it?width=128&height=128&auto=webp&s=2d3e648ed2302e6258673051ca5291f57beb29d4",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": "APNG",
+          "icon_height": 2048,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/Illuminati_512.png"
+        },
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 500,
+          "id": "gid_2",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 100,
+          "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+          "days_of_premium": 7,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 512,
+          "static_icon_width": 512,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Gives 100 Reddit Coins and a week of r/lounge access and ad-free browsing.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 2,
+          "static_icon_height": 512,
+          "name": "Gold",
+          "resized_static_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 512,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png"
+        },
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 150,
+          "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Thank you stranger. Shows the award.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 8,
+          "static_icon_height": 2048,
+          "name": "Helpful",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&height=16&auto=webp&s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&height=32&auto=webp&s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&height=48&auto=webp&s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&height=64&auto=webp&s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&height=128&auto=webp&s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 2048,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+        },
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 125,
+          "id": "award_5f123e3d-4f48-42f4-9c11-e98b566d5897",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&height=16&auto=webp&s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&height=32&auto=webp&s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&height=48&auto=webp&s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&height=64&auto=webp&s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&height=128&auto=webp&s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "When you come across a feel-good thing.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 6,
+          "static_icon_height": 2048,
+          "name": "Wholesome",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=16&height=16&auto=webp&s=92932f465d58e4c16b12b6eac4ca07d27e3d11c0",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=32&height=32&auto=webp&s=d11484a208d68a318bf9d4fcf371171a1cb6a7ef",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=48&height=48&auto=webp&s=febdf28b6f39f7da7eb1365325b85e0bb49a9f63",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=64&height=64&auto=webp&s=b4406a2d88bf86fa3dc8a45aacf7e0c7bdccc4fb",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png?width=128&height=128&auto=webp&s=19555b13e3e196b62eeb9160d1ac1d1b372dcb0b",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 2048,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5izbv4fn0md41_Wholesome.png"
+        },
+        {
+          "giver_coin_reward": null,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 100,
+          "id": "gid_1",
+          "penny_donate": null,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 512,
+          "static_icon_width": 512,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Shows the Silver Award... and that's it.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 9,
+          "static_icon_height": 512,
+          "name": "Silver",
+          "resized_static_icons": [
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": null,
+          "icon_height": 512,
+          "penny_price": null,
+          "award_type": "global",
+          "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+        },
+        {
+          "giver_coin_reward": 0,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 80,
+          "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+          "penny_donate": 0,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=16&height=16&auto=webp&s=73a23bf7f08b633508dedf457f2704c522b94a04",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=32&height=32&auto=webp&s=50f2f16e71d2929e3d7275060af3ad6b851dbfb1",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=48&height=48&auto=webp&s=ca487311563425e195699a4d7e4c57a98cbfde8b",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=64&height=64&auto=webp&s=7b4eedcffb1c09a826e7837532c52979760f1d2b",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/ks45ij6w05f61_oldHugz.png?width=128&height=128&auto=webp&s=e4d5ab237eb71a9f02bb3bf9ad5ee43741918d6c",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "Everything is better with a good hug",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 7,
+          "static_icon_height": 2048,
+          "name": "Hugz",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=16&height=16&auto=webp&s=69997ace3ef4ffc099b81d774c2c8f1530602875",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=32&height=32&auto=webp&s=e9519d1999ef9dce5c8a9f59369cb92f52d95319",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=48&height=48&auto=webp&s=f076c6434fb2d2f9075991810fd845c40fa73fc6",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=64&height=64&auto=webp&s=85527145e0c4b754306a30df29e584fd16187636",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png?width=128&height=128&auto=webp&s=b8843cdf82c3b741d7af057c14076dcd2621e811",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": "PNG",
+          "icon_height": 2048,
+          "penny_price": 0,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/fpm0r5ryq1361_PolarHugs.png"
+        },
+        {
+          "giver_coin_reward": 0,
+          "subreddit_id": null,
+          "is_new": false,
+          "days_of_drip_extension": 0,
+          "coin_price": 50,
+          "id": "award_02d9ab2c-162e-4c01-8438-317a016ed3d9",
+          "penny_donate": 0,
+          "award_sub_type": "GLOBAL",
+          "coin_reward": 0,
+          "icon_url": "https://i.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png",
+          "days_of_premium": 0,
+          "tiers_by_required_awardings": null,
+          "resized_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=16&height=16&auto=webp&s=10034f3fdf8214c8377134bb60c5b832d4bbf588",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=32&height=32&auto=webp&s=100f785bf261fa9452a5d82ee0ef0793369dbfa5",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=48&height=48&auto=webp&s=b15d030fdfbbe4af4a5b34ab9dc90a174df40a23",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=64&height=64&auto=webp&s=601c75be6ee30dc4b47a5c65d64dea9a185502a1",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/p4yzxkaed5f61_oldtakemyenergy.png?width=128&height=128&auto=webp&s=540f36e65c0e2f1347fe32020e4a1565e3680437",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_width": 2048,
+          "static_icon_width": 2048,
+          "start_date": null,
+          "is_enabled": true,
+          "awardings_required_to_grant_benefits": null,
+          "description": "I'm in this with you.",
+          "end_date": null,
+          "subreddit_coin_reward": 0,
+          "count": 1,
+          "static_icon_height": 2048,
+          "name": "Take My Energy",
+          "resized_static_icons": [
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=16&height=16&auto=webp&s=045db73f47a9513c44823d132b4c393ab9241b6a",
+              "width": 16,
+              "height": 16
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=32&height=32&auto=webp&s=298a02e0edbb5b5e293087eeede63802cbe1d2c7",
+              "width": 32,
+              "height": 32
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=48&height=48&auto=webp&s=7d06d606eb23dbcd6dbe39ee0e60588c5eb89065",
+              "width": 48,
+              "height": 48
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=64&height=64&auto=webp&s=ecd9854b14104a36a210028c43420f0dababd96b",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://preview.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png?width=128&height=128&auto=webp&s=0d5d7b92c1d66aff435f2ad32e6330ca2b971f6d",
+              "width": 128,
+              "height": 128
+            }
+          ],
+          "icon_format": "PNG",
+          "icon_height": 2048,
+          "penny_price": 0,
+          "award_type": "global",
+          "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/jtw7x06j68361_TakeMyEnergyElf.png"
+        }
+      ],
+      "awarders": [],
+      "media_only": false,
+      "link_flair_template_id": "9f73d782-65e6-11e5-8878-12292be1b4e9",
+      "can_gild": false,
+      "spoiler": false,
+      "locked": false,
+      "author_flair_text": null,
+      "treatment_tags": [],
+      "visited": false,
+      "removed_by": null,
+      "num_reports": null,
+      "distinguished": null,
+      "subreddit_id": "t5_2qjfk",
+      "author_is_blocked": false,
+      "mod_reason_by": null,
+      "removal_reason": null,
+      "link_flair_background_color": "#46d160",
+      "id": "q6l0p5",
+      "is_robot_indexable": true,
+      "report_reasons": null,
+      "author": "Swingtrader79",
+      "discussion_type": null,
+      "num_comments": 240,
+      "send_replies": true,
+      "whitelist_status": "all_ads",
+      "contest_mode": false,
+      "mod_reports": [],
+      "author_patreon_flair": false,
+      "author_flair_text_color": null,
+      "permalink": "/r/stocks/comments/q6l0p5/i_interviewed_20_leading_wealth_management_firms/",
+      "parent_whitelist_status": "all_ads",
+      "stickied": false,
+      "url": "https://www.reddit.com/r/stocks/comments/q6l0p5/i_interviewed_20_leading_wealth_management_firms/",
+      "subreddit_subscribers": 3115663,
+      "created_utc": 1634041558,
+      "num_crossposts": 6,
+      "media": null,
+      "is_video": false
+    }
+  ],
+  "created": 1634067507,
+  "link_flair_type": "text",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.stocks",
+  "allow_live_comments": false,
+  "selftext_html": null,
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "url_overridden_by_dest": "/r/stocks/comments/q6l0p5/i_interviewed_20_leading_wealth_management_firms/",
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2shb7",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "q6txiy",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "4pooling",
+  "discussion_type": null,
+  "num_comments": 7,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "crosspost_parent": "t3_q6l0p5",
+  "author_flair_text_color": null,
+  "permalink": "/r/Bogleheads/comments/q6txiy/uswingtrader79_shares_some_insight_on_how_simple/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "/r/stocks/comments/q6l0p5/i_interviewed_20_leading_wealth_management_firms/",
+  "subreddit_subscribers": 98066,
+  "created_utc": 1634076021,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1634067507,
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "u/swingtrader79は、主要なウェルスマネジメント会社20社に戦略についてインタビューした結果、投資がいかにシンプルであるか（インデックスなど）についての洞察を述べています。"
+    },
+    {
+      "locale": "zh",
+      "title": "u/swingtrader79在采访了20家领先的财富管理公司的策略后，分享了一些关于投资可以多么简单（如通过指数化）的见解。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "u/swingtrader79在採訪了20家領先的財富管理公司的策略後，分享了一些關於投資可以多麼簡單（如通過指數化）的見解。"
+    }
+  ],
+  "source_updated_at": 1634290790364
+}

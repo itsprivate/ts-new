@@ -1,0 +1,78 @@
+{
+  "author": "lpxxfaintxx",
+  "original_created_utc": 1626354217,
+  "title": "Happy belated 20th Birthday to BitTorrent protocol, originally authored by Bram Cohen. You have changed the world forever, and gave us an early glimpse of a decentralized future. It's a shame how Justin is absolutely destroying the project.",
+  "created_utc": 1626359489,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>On behalf of everyone born long ago enough to remember the struggles of taking 4 hours to download a song, sending an email through a CLI, to those with memories of yelling at their parents to get off the phone before being disconnected from Brood War, to those who have had the guilty pleasure of making a very flashy and pointless GeoCities webpage, and those who will forever have the &quot;You&#39;ve got mail&quot; audio clip forever engrained in their memories, <strong>thank you for all the being the first pioneers.</strong></p>\n\n<p>To those who have been sued and fined ridiculous amounts of dollars, those who spent prison time for innovating, and to those who continue to fight for decentralization, <strong>thank you.</strong></p>\n\n<p>And on behalf of the seemingly few left in the world that actually cares about your past work, we sincerely apologize for the failure of Justin, Tron, and the &quot;new BTT team&#39;s&quot; utter disrespect and lack of care for the continued improvement of the BT protocol. This apology extends to the IPFS team as well. It just utterly blows my mind that a project literally forks every repo from a non-tokenized, open-source and non-profit organization, then continues to talk them down and give them shit because BTFS has &quot;more users.&quot;</p>\n\n<p>Since the acquisition of BitTorrent, Inc. (do not confuse this with the BitTorrent protocol):</p>\n\n<ul>\n<li>There have been zero protocol level improvements to BitTorrent clients nor uTorrent. I&#39;ve spent countless hours reverse engineering BT/UT (BitTorrent / uTorrent) in search of  something, <em>anything.</em> But the deeper I looked, the sadder I got.</li>\n<li>The BT and UT clients have forcibly been closed source. Along with it, much of the original devs ongoing projects and plans were put to halt and presumably told to take down. If you look through GitHub and old forum posts, you&#39;ll see a lot of activity on BT/UT development, including user-submitted plugins and improvements. They all abruptly halted around 2018-2019, with Justin going as far as even removing some functionality that allowed for client enhancements.</li>\n<li>For a long time I was under the impression that the Tron/BTT team pioneered a way to allow P2P token transfers through torrent seeding, so I cut them a little slack for the lack of any activity on the BT/UT development end. Oh boy was I wrong. The BTT Speed bidding system was just BEP10 (Extension Protocol authored by Arvid Norberg of libtorrent in collaboration with UT). The BTTT team simply added a wallet on top of it, added it as a plugin on top of BT/UT, and pushed a WebUI with the most minimal, useless features that do not even record accurate data.</li>\n<li>BT/UT has been completely close-sourced, which I am sure they are regretting. It makes perfect sense why the BTT Speed wallet exchange has been down for 60 days now, after what was supposed to be a 2-hour maintenance. It&#39;s cause they didn&#39;t write the m&#39;fkin protocol, and now the one or two devs working on BTT Speed are completely flabbergasted  which led to an emergency multiple job-listing posts days after they realized they were fucked.</li>\n<li>They forked almost every single IPFS repo&#39;s on GitHub (seriously, go check), implemented their minor changes, and now is the biggest shit talker on IPFS. You know what we called people doing shit like this back in the day? Script-kiddies.</li>\n<li>BTT is not some small project with big ambitions. It&#39;s a fucking billion dollar market cap project. They raised $7.1mil through the ICO. And what do they have to show for it? Zero improvements in the clients (the community literally had to modify the client to unlock the 32-bit restriction as they are still stuck in 2012 and don&#39;t have a 64-bit version -- it&#39;d take a day or two to release a 64-bit even if through LAA flag), a marketing team that posts cool images on Behance from time to time, a 24/7 twitter meme poster, and a bunch of forked codes. Where did the $7.1mil go? Definitely not development. Maybe a fancy office in SF? Or a fancy dinner with Warren Buffet? This is almost criminal.</li>\n</ul>\n\n<p>edit: Gonna leave this here... 😂</p>\n\n<p>Also, <a href=\"https://www.theverge.com/21459906/bittorrent-tron-acquisition-justin-sun-us-china\">great article</a> on the shitshow that is called BTT.</p>\n\n<p><a href=\"https://preview.redd.it/rvf1wphlpdb71.png?width=638&amp;format=png&amp;auto=webp&amp;s=1682a14037af883a75ae583e4d9ef3cf2ac28b7b\">https://preview.redd.it/rvf1wphlpdb71.png?width=638&amp;format=png&amp;auto=webp&amp;s=1682a14037af883a75ae583e4d9ef3cf2ac28b7b</a></p>\n</div><!-- SC_ON -->",
+  "score": 188,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?auto=webp&s=1b16446738d00e1ba873f3549b91d75506fe204f",
+          "width": 1200,
+          "height": 628
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?width=108&crop=smart&auto=webp&s=2636ed2a3e904f79a74373ce84d75361721b1767",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?width=216&crop=smart&auto=webp&s=dcd1c98f08b4ed120bf308dc743ebbd91d46992b",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?width=320&crop=smart&auto=webp&s=a5efb223a985adc4de5092be9b604bde69762ad8",
+            "width": 320,
+            "height": 167
+          },
+          {
+            "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?width=640&crop=smart&auto=webp&s=35a422cf2b026ffb8df6d27e9af4f924be28f57a",
+            "width": 640,
+            "height": 334
+          },
+          {
+            "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?width=960&crop=smart&auto=webp&s=83fcd0ebe37f88ddbc6f476cbe9c692f79bbeb55",
+            "width": 960,
+            "height": 502
+          },
+          {
+            "url": "https://external-preview.redd.it/8hLd3DBo5ltWiLNitPUKQNyo5AGy5jlG4IqDgLk9uuI.jpg?width=1080&crop=smart&auto=webp&s=258f9120c8252783a80b9062f8e97ab89d48723f",
+            "width": 1080,
+            "height": 565
+          }
+        ],
+        "variants": {},
+        "id": "L5YImuE8a6IFHdATAuc2Gcl5kugii-gZLsGW5to63dk"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/oksekb/happy_belated_20th_birthday_to_bittorrent/",
+  "subreddit": "CryptoCurrency",
+  "id": "oksekb",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "On behalf of everyone born long ago enough to remember the struggles of taking 4\nhours to download a song, sending an email through a CLI, to those with memories\nof yelling at their parents to get off the phone before being disconnected from\nBrood War, to those who have had the guilty pleasure of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "4時間かけてダウンロードする苦労を覚えている大昔に生まれた人たちに代わって\n曲をダウンロードするのに4時間もかかったり、CLIでメールを送ったりする苦労を覚えている大昔に生まれた人たちを代表して。\nから切り離される前に親に電話を切るように叫んだ記憶を持つ人たちに代わって。\nブルード・ウォー」から切り離される前に親に電話を切ってくれと叫んだ記憶を持つ人たち、そして、罪悪感を感じながらも...。",
+      "title": "遅ればせながら、Bram Cohenが開発したBitTorrentプロトコルの20歳の誕生日をお祝いします。あなたは世界を永遠に変え、分散型の未来をいち早く垣間見せてくれました。ジャスティンがこのプロジェクトを破壊しているのは残念です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我代表所有出生在很久以前的人，他们还记得花4个小时下载一份文件的纠结。\n挣扎的人，通过CLI发送电子邮件的人，以及那些有记忆的人。\n在被切断电话之前对他们的父母大喊大叫，让他们离开电话。\nBrood War，还有那些有罪恶感的人......",
+      "title": "祝BitTorrent协议迟到的20岁生日快乐，该协议最初是由Bram Cohen撰写的。你永远地改变了世界，并让我们提前看到了一个去中心化的未来。令人遗憾的是，贾斯汀绝对是在摧毁这个项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我代表所有出生在很久以前的人，他們還記得花4個小時下載一份文件的糾結。\n掙扎的人，通過CLI發送電子郵件的人，以及那些有記憶的人。\n在被切斷電話之前對他們的父母大喊大叫，讓他們離開電話。\nBrood War，還有那些有罪惡感的人......",
+      "title": "祝BitTorrent協議遲到的20歲生日快樂，該協議最初是由Bram Cohen撰寫的。你永遠地改變了世界，並讓我們提前看到了一個去中心化的未來。令人遺憾的是，賈斯汀絕對是在摧毀這個項目。"
+    }
+  ]
+}

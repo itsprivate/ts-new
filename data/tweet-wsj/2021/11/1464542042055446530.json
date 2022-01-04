@@ -1,0 +1,86 @@
+{
+  "created_at": "Sat Nov 27 12:59:39 +0000 2021",
+  "id_str": "1464542042055446530",
+  "full_text": "Take a look at the front page of today's Wall Street Journal https://t.co/99WhTXI2wT https://t.co/hxB2gNoN1K",
+  "display_text_range": [
+    0,
+    84
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/99WhTXI2wT",
+        "expanded_url": "https://on.wsj.com/3CQXfHO",
+        "display_url": "on.wsj.com/3CQXfHO",
+        "indices": [
+          61,
+          84
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1464542038209273900,
+        "id_str": "1464542038209273863",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/FFMZOWoXIAc1PoZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FFMZOWoXIAc1PoZ.jpg",
+        "url": "https://t.co/hxB2gNoN1K",
+        "display_url": "pic.twitter.com/hxB2gNoN1K",
+        "expanded_url": "https://twitter.com/WSJ/status/1464542042055446530/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1062,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 353,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 622,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 38,
+  "favorite_count": 80,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Nov 27 10:30:07 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今日のウォール・ストリート・ジャーナルの一面を見てみましょう https://t.co/99WhTXI2wT https://t.co/hxB2gNoN1K"
+    },
+    {
+      "locale": "zh",
+      "full_text": "看看今天《华尔街日报》的头版 https://t.co/99WhTXI2wT https://t.co/hxB2gNoN1K"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "看看今天《華爾街日報》的頭版 https://t.co/99WhTXI2wT https://t.co/hxB2gNoN1K"
+    }
+  ]
+}

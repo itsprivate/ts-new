@@ -1,0 +1,81 @@
+{
+  "created_at": "Fri Jun 25 13:35:39 +0000 2021",
+  "id_str": "1408183216733839364",
+  "full_text": "THIS IS AMERICA \nhttps://t.co/tcMgZu8dxA",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1407492480635785200,
+        "id_str": "1407492480635785216",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1407492480635785216/pu/img/OAjvkM2sihr0pDLF.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1407492480635785216/pu/img/OAjvkM2sihr0pDLF.jpg",
+        "url": "https://t.co/tcMgZu8dxA",
+        "display_url": "pic.twitter.com/tcMgZu8dxA",
+        "expanded_url": "https://twitter.com/nationaIist/status/1407492536793387010/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 740,
+            "h": 720,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 662,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 740,
+            "h": 720,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1407492536793387000,
+        "source_status_id_str": "1407492536793387010",
+        "source_user_id": 1366975933014499300,
+        "source_user_id_str": "1366975933014499333"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 86,
+  "favorite_count": 373,
+  "possibly_sensitive": false,
+  "original_created_at": "Thu Jun 24 22:00:16 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "THIS IS AMERICA \nhttps://t.co/tcMgZu8dxA"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这就是美国 \nhttps://t.co/tcMgZu8dxA"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這就是美國 \nhttps://t.co/tcMgZu8dxA"
+    }
+  ],
+  "source_updated_at": 1625218974021
+}

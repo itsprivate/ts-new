@@ -1,0 +1,28 @@
+{
+  "author": "rithpath",
+  "the_new_excerpt": "In the reddit and meme driven age of stocks, understanding social media trends\nis extremely useful to swing trading. Inspired by the power of reddit to drive\nthese stocks, we made a program to scrape reddit for stock tickers and find\ntrends by analyzing increases in mentions over time.\n\nWe then put…",
+  "original_created_utc": 1613759620,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在股票的reddit和meme驱动的时代，了解社交媒体的趋势。\n对波段交易极为有用。灵感来自于reddit的力量，以推动\n这些股票，我们做了一个程序，搜刮reddit的股票行情，并发现\n趋势，通过分析随着时间的推移，提及率的增加。\n\n然后我们把...",
+      "title": "我们做了一个网站，把reddit的股票提法汇总起来，让大家对趋势股有实时的了解。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在股票的reddit和meme驅動的時代，瞭解社交媒體的趨勢。\n對波段交易極爲有用。靈感來自於reddit的力量，以推動\n這些股票，我們做了一個程序，搜刮reddit的股票行情，並發現\n趨勢，通過分析隨着時間的推移，提及率的增加。\n\n然後我們把...",
+      "title": "我們做了一個網站，把reddit的股票提法彙總起來，讓大家對趨勢股有實時的瞭解。"
+    }
+  ],
+  "title": "We made a website to aggregate reddit stock mentions to give everyone live visibility to trending stocks",
+  "created_utc": 1613770371,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>In the reddit and meme driven age of stocks, understanding social media trends is extremely useful to swing trading. Inspired by the power of reddit to drive these stocks, we made a program to scrape reddit for stock tickers and find trends by analyzing increases in mentions over time. </p>\n\n<p>We then put this information up on a website (<a href=\"https://memebergterminal.com\">memebergterminal.com</a>) so everyone can see and make use of this information instead of just leaving it as a github somewhere so only devs can make use of it (or just keeping the data for ourselves)</p>\n\n<p>The idea was to actually make something actionable instead of just getting reddit mentions without context, so some things we collected in addition to the mentions were -</p>\n\n<p>- Percent change in 24 hours - to see what stocks are growing significantly</p>\n\n<p>- 7 day trend - to see if a stock is growing over time</p>\n\n<p>- Reddit comments and links to them - to understand if sentiment is positive or negative towards a stock</p>\n\n<p>- Stock and mentions graph side by side - to compare the stock growth and mentions count over time to see if there is a correlation and if it is too late to enter a trade.</p>\n\n<p>- Sorting by percent change, mentions, and a smart score that combines the two.</p>\n\n<p>Hope this reddit data helps someone trade better!</p>\n\n<p>TLDR - We made a script to scrape reddit stocks, and then decided to put it up on a site - <a href=\"https://memebergterminal.com\">memebergterminal.com</a>, so everyone can access the data.</p>\n</div><!-- SC_ON -->",
+  "score": 137,
+  "permalink": "/r/stocks/comments/lnmyih/we_made_a_website_to_aggregate_reddit_stock/",
+  "subreddit": "stocks",
+  "id": "lnmyih",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614332885063
+}

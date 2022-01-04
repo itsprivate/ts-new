@@ -1,0 +1,79 @@
+{
+  "id": "297052",
+  "commentsCount": 3,
+  "createdAt": "2021-05-24T17:06:00.724Z",
+  "description": "It is tiring to save contacts all the time, Whatsapp already has a feature to chat without saving, but it is a hassle to write it. So I created a helper website to solve that problem. The country code will be saved in localStorage.",
+  "featuredAt": "2021-05-24T07:01:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/7f68f665-1d46-4ff7-848e-ba0adb014f4a.jpeg?auto=format&fit=crop",
+      "videoUrl": "https://www.youtube.com/watch?v=aQRKDtWo4jI"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fd2d7ee8-a9e2-49a5-9863-41a059338804.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/428631c5-1610-41e1-a6bb-c52049aa653b.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "WhatsApp Helper",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/4eaeba235979e6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/72d007f281edaf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Theodorus Clarence",
+    "url": "https://www.producthunt.com/@theodorusclarence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "whatsapp-helper",
+  "tagline": "A WhatsApp helper to avoid saving number to your contacts",
+  "url": "https://www.producthunt.com/posts/whatsapp-helper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 97,
+  "website": "https://www.producthunt.com/r/72d007f281edaf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Tech"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-05-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "連絡先をずっと保存するのは疲れる、Whatsappには保存せずにチャットする機能がすでにあるが、書くのが面倒だ。そこで、その問題を解決するためのヘルパーサイトを作ってみました。国番号はlocalStorageに保存されます。",
+      "tagline": "連絡先に番号を保存しないためのWhatsAppヘルパー"
+    },
+    {
+      "locale": "zh",
+      "description": "一直保存联系人很累，Whatsapp已经有了不保存聊天的功能，但写起来很麻烦。所以我创建了一个辅助网站来解决这个问题。国家代码将被保存在localStorage中。",
+      "tagline": "一个避免将号码保存在联系人中的WhatsApp帮助工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一直保存聯繫人很累，Whatsapp已經有了不保存聊天的功能，但寫起來很麻煩。所以我創建了一個輔助網站來解決這個問題。國家代碼將被保存在localStorage中。",
+      "tagline": "一個避免將號碼保存在聯繫人中的WhatsApp幫助工具"
+    }
+  ],
+  "source_updated_at": 1622197397269
+}

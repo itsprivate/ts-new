@@ -1,0 +1,28 @@
+{
+  "author": "nobjos",
+  "the_new_excerpt": "Preamble: One of the main questions that I had and I see recurring on this sub\nis how to identify and invest in emerging stocks before it becomes mainstream\nnews. I did not have the time to actively track social media and decided to\nbuild a program that does it for me.\n\nHow does it work: The program…",
+  "original_created_utc": 1613654468,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "序言部分。我有一个主要问题，而且我看到在这个分论坛上反复出现。\n是如何在新兴股票成为主流之前，识别和投资新兴股票。\n新闻。我没有时间去主动跟踪社交媒体，于是决定\n建立一个程序，为我做。\n\n它是如何工作的。这个程序...",
+      "title": "我建立了一个程序，跟踪Reddit和Twitter上的股票提及率和情绪，以寻找上涨的股票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "序言部分。我有一個主要問題，而且我看到在這個分論壇上反覆出現。\n是如何在新興股票成爲主流之前，識別和投資新興股票。\n新聞。我沒有時間去主動跟蹤社交媒體，於是決定\n建立一個程序，爲我做。\n\n它是如何工作的。這個程序...",
+      "title": "我建立了一個程序，跟蹤Reddit和Twitter上的股票提及率和情緒，以尋找上漲的股票。"
+    }
+  ],
+  "title": "I built a program that tracks mentions and sentiment of stocks across Reddit and Twitter to find rising stocks",
+  "created_utc": 1613658282,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>Preamble:</strong> One of the main questions that I had and I see recurring on this sub is how to identify and invest in emerging stocks before it becomes mainstream news. I did not have the time to actively track social media and decided to build a program that does it for me. </p>\n\n<p><strong>How does it work:</strong>  The program is built using Python and uses both Twitter and Reddit API to stream comments and tweets and spot tickers that are exhibiting accelerated growth. I added sentiment analysis to the findings so as to check the general sentiment (whether what is being talked about the stock is positive or negative). </p>\n\n<p>I had been testing the tool for the past 3 months and had to tweak the program to account for the increased bot activity following the GME hype (remove exact same comments posted multiple times, the same account spamming with one ticker etc.)  </p>\n\n<p>Here is the stock picked by the program and my DD</p>\n\n<p><strong>Stock: Corsair Gaming (CRSR)</strong> </p>\n\n<p>Week on Week increase in mentions: <strong>73%</strong> </p>\n\n<p>Month on Month increase in mentions: <strong>247%</strong> </p>\n\n<p>Average sentiment across mentions: <strong>+34.6%</strong> </p>\n\n<p><strong>DD</strong></p>\n\n<p><strong>Core Product</strong></p>\n\n<p>Corsair is the leading manufacturer of high-performance gear and technology for games and PC enthusiasts. Another important part of their portfolio is the brand Elgato which provides premium studio equipment and accessories for content creators, competitive gamers, and streamers. Currently, their products are in high demand and command a significant price premium against other brands.</p>\n\n<p><strong>Financials</strong> </p>\n\n<p>Corsair currently has a net revenue of $1.7B (55% increase YoY) and a gross profit of 456MM (107% increase YoY). They had 84% increase in the sales of gamer and creator peripherals. Net income is 103MM compared to 8.4MM loss last year. </p>\n\n<p>They had a gross margin improvement of 6.9% (lesser availability of parts allowed them to jack up their margins) and paid off $190MM debt in 2020. (Current debt of $321MM with $133MM cash in hand)  </p>\n\n<p><strong>Potential and Hype Factor</strong> </p>\n\n<p>People are increasingly spending more and more time on video games and Corsair caters to the premium segment in this market. Adding to this, the current explosion in Twitch viewership and Corsair’s marketing strategy of sponsoring famous streamers to showcase their premium gear further adds to the product demand. </p>\n\n<p>The company is also benefitting greatly from the changing landscape due to the ongoing Covid crisis. As more and more people stay home and abstain from their regular hobbies, they have turned to digital entertainment with PC gaming being one of the leading contenders.  In fact, video game consumption is currently at an all-time high and is set to explode even further.</p>\n\n<p><strong>Risk and Competition</strong> </p>\n\n<p>I see 3 major risk factors for Corsair</p>\n\n<p>a. Supply Constraints: They currently have unmet demand due to supply constraints which benefitted their margins. But a more severe supply constraint can negatively affect their revenue and brand image </p>\n\n<p>b. Return to normal: The current growth rate might not be sustainable once the pandemic is over and people can return to their regular lifestyle </p>\n\n<p>c. One firm owns 80% of the outstanding shares: Corsair is majorly controlled by EagleTree Capital which has majority voting power and an 80% ownership of the company</p>\n\n<p><strong>Conclusion</strong> </p>\n\n<p>Corsair currently has about 20% market share for gaming peripherals and 40% market share for PC components putting them in an ideal situation to capture any future growth. Although there is some risk in terms of supply constraints and return to normal, their brand, product line, and current financials are put them in a very strong position. </p>\n\n<p>Disclaimer: I am not a financial advisor. Please do your own extensive research before investing in any stock.</p>\n</div><!-- SC_ON -->",
+  "score": 10188,
+  "permalink": "/r/stocks/comments/lmmn1g/i_built_a_program_that_tracks_mentions_and/",
+  "subreddit": "stocks",
+  "id": "lmmn1g",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1614332883617
+}

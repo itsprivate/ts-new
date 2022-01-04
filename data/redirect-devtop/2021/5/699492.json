@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 699492,
+  "title": "Beware The Missing Foreign Key Index: A Postgres Performance Gotcha",
+  "description": "I got absolutely thrashed by some PostgreSQL performance issues this past week. It was painful. And,...",
+  "readable_publish_date": "May 27",
+  "slug": "beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i",
+  "path": "/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i",
+  "url": "https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i",
+  "comments_count": 3,
+  "public_reactions_count": 42,
+  "collection_id": null,
+  "published_timestamp": "2021-05-27T16:35:14Z",
+  "positive_reactions_count": 42,
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C4ZnPI2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y3r08crna5rxewocsndu.png",
+  "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Ehit-a4--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y3r08crna5rxewocsndu.png",
+  "canonical_url": "https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i",
+  "created_at": "2021-05-29T13:23:55.024Z",
+  "edited_at": "2021-05-27T16:36:06Z",
+  "crossposted_at": null,
+  "published_at": "2021-05-27T16:35:14Z",
+  "last_comment_at": "2021-05-29T04:23:41Z",
+  "reading_time_minutes": 12,
+  "tag_list": [
+    "sql",
+    "postgres",
+    "database",
+    "performance"
+  ],
+  "tags": [
+    "sql",
+    "postgres",
+    "database",
+    "performance"
+  ],
+  "user": {
+    "name": "Josh Branchaud",
+    "username": "jbranchaud",
+    "twitter_username": "jbrancha",
+    "github_username": "jbranchaud",
+    "website_url": "https://joshbranchaud.com",
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b0FEPzm9--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/300270/d33078bf-3dd0-43dd-8e8b-7ff440af1d66.jpeg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--sBsRsEg7--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/300270/d33078bf-3dd0-43dd-8e8b-7ff440af1d66.jpeg"
+  },
+  "original_created_at": "2021-05-16T01:43:26Z",
+  "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C4ZnPI2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y3r08crna5rxewocsndu.png",
+  "author": "Josh Branchaud",
+  "author_url": "https://dev.to/jbranchaud",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は先週、PostgreSQLのパフォーマンス問題で完全にやられてしまいました。辛かったです。そして、...",
+      "title": "見つからない外部キーのインデックスに注意 Postgresのパフォーマンスに関する問題点"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的一周里，我被一些PostgreSQL的性能问题彻底打败了。这是很痛苦的。而且，...",
+      "title": "小心丢失的外键索引。糟糕的Postgres性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的一週裏，我被一些PostgreSQL的性能問題徹底打敗了。這是很痛苦的。而且，...",
+      "title": "小心丟失的外鍵索引。糟糕的Postgres性能"
+    }
+  ]
+}

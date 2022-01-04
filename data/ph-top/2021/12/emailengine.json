@@ -1,0 +1,75 @@
+{
+  "id": "323201",
+  "commentsCount": 5,
+  "createdAt": "2021-12-19T13:46:49.968Z",
+  "description": "EmailEngine is a self-hosted application that opens IMAP and SMTP connections against registered email accounts to translate API requests to IMAP commands, send emails, and monitor changes on these accounts. It sends a webhook for every update on the account.",
+  "featuredAt": "2021-12-19T08:00:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ffc4e4ab-cbad-4bbf-8170-170028fa45e4.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0e49e4ff-7ea8-46b4-ae00-a998ad28161e.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/b617fe46-e1cf-41be-8cc7-4aa45e0d0fa2.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/7d913171-f3fb-4fc6-bbcf-78803915d9eb.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "EmailEngine",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/d22bbb77f19d88?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Andris Reinman",
+    "url": "https://www.producthunt.com/@andrisreinman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 1,
+  "reviewsRating": 5,
+  "slug": "emailengine",
+  "tagline": "Access any email account to receive/send emails with an API",
+  "url": "https://www.producthunt.com/posts/emailengine?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 166,
+  "website": "https://www.producthunt.com/r/d22bbb77f19d88?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-12-19T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "EmailEngineは、登録されたメールアカウントに対してIMAPおよびSMTP接続を開き、APIリクエストをIMAPコマンドに変換し、メールを送信し、これらのアカウントの変更を監視するセルフホストアプリケーションです。アカウントの更新ごとにWebhookを送信します。",
+      "tagline": "任意のメールアカウントにアクセスし、APIでメールを受信/送信することが可能"
+    },
+    {
+      "locale": "zh",
+      "description": "EmailEngine是一个自我托管的应用程序，它针对注册的电子邮件账户打开IMAP和SMTP连接，将API请求翻译成IMAP命令，发送电子邮件，并监控这些账户的变化。它为账户上的每一个更新发送一个Webhook。",
+      "tagline": "通过API访问任何电子邮件账户以接收/发送电子邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "EmailEngine是一個自我託管的應用程序，它針對註冊的電子郵件賬戶打開IMAP和SMTP連接，將API請求翻譯成IMAP命令，發送電子郵件，並監控這些賬戶的變化。它爲賬戶上的每一個更新發送一個Webhook。",
+      "tagline": "通過API訪問任何電子郵件賬戶以接收/發送電子郵件"
+    }
+  ],
+  "source_updated_at": 1640338939583
+}

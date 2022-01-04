@@ -1,0 +1,78 @@
+{
+  "author": "TakeThisLove",
+  "original_created_utc": 1635513079,
+  "title": "Automatic Windows configuration with Ansible",
+  "created_utc": 1635517986,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi!</p>\n\n<p>Recently I was migrating one of my home machines to the new Windows 11. In the process of reinstalling, I decided it was time to automate the configuration and created an ansible playbook that does most of the work of preparing the system for software development.</p>\n\n<p>Current Capabilities:  </p>\n\n<ul>\n<li><strong>Software</strong><br/>\n\n<ul>\n<li>Ensures Bloatware removed (see default config for a complete list of Bloatware).</li>\n<li>Ensure software and packages selected by the user are installed via Chocolatey.</li>\n</ul></li>\n<li><strong>Windows apps &amp; features</strong><br/>\n\n<ul>\n<li>Ensures the Optional Windows Features selected by the user are installed and enabled.</li>\n<li>Ensures WSL2 distro selected by the user is installed and enabled.</li>\n</ul></li>\n<li><strong>Windows Settings</strong><br/>\n\n<ul>\n<li><strong>Explorer</strong><br/>\n\n<ul>\n<li>Ensures Explorer includes the file extension in file names.</li>\n<li>Ensures Explorer opens itself to the Computer view.</li>\n<li>Ensures Ribbon menu is disabled in Windows Explorer.</li>\n<li>Ensures Right-click Context Menu enabled (Windows 11).</li>\n</ul></li>\n<li><strong>Start Menu</strong><br/>\n\n<ul>\n<li>Ensures Automatic Install of Suggested Apps disabled.</li>\n<li>Ensures App Suggestions in Start menu disabled.</li>\n<li>Ensures popup &quot;tips&quot; about Windows disabled.</li>\n<li>Ensures &#39;Windows Welcome Experience&#39; disabled.</li>\n</ul></li>\n<li><strong>Taskbar</strong><br/>\n\n<ul>\n<li>Ensures &#39;Search&#39; unpinned from Taskbar.</li>\n<li>Ensures Task View, Chat and Cortana are unpinned from Taskbar.</li>\n<li>Ensures &#39;News and Interests&#39; unpinned from Taskbar.</li>\n<li>Ensures &#39;People&#39; unpinned from Taskbar.</li>\n<li>Ensures &#39;Edge&#39;, &#39;Store&#39; other built-in shortcuts unpinned from Taskbar.</li>\n</ul></li>\n<li><strong>Desktop</strong><br/>\n\n<ul>\n<li>Ensure Desktop icons are removed.</li>\n</ul></li>\n<li>Ensures mouse acceleration is disabled.</li>\n<li>Ensure sound scheme set to &#39;No sounds&#39;.</li>\n<li>Ensure the power plan selected by the user is set.</li>\n<li>Ensure Windows updates are selected by the user installed.</li>\n<li>Ensure configured hostname selected by the user is set.</li>\n</ul></li>\n</ul>\n\n<p>There are still many things that I  want to add, such as startup menu and taskbar icons automatic pin/unpin,  but at this point, it already does a  pretty good job and it also works well with Windows 10.</p>\n\n<p>If you are interested and want to use something similar on your home machine, you can check out my repo here:  <a href=\"https://github.com/AlexNabokikh/windows-playbook\">https://github.com/AlexNabokikh/windows-playbook</a></p>\n\n<p>Tips and criticism are welcome.</p>\n\n<p>Many thanks!</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?auto=webp&s=daf22e8b61c57b5b8c54beacc1c495de5a1a3732",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?width=108&crop=smart&auto=webp&s=e32c73da7c04dc30557e5a92faf8ca90c8b1a1d1",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?width=216&crop=smart&auto=webp&s=6dda001db6c896b16c6bd782d779bbb7f478f357",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?width=320&crop=smart&auto=webp&s=1a69110810dfeee6e7681456c755de52cee2c2cb",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?width=640&crop=smart&auto=webp&s=2a15208aa89e3f28cf70f3456e21278fa9dce078",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?width=960&crop=smart&auto=webp&s=a6199eb3903c23a78c48fb77eb48f589113702ab",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/AIMmNNqLreu-Q3-8cW5wtY-QQYDu1MdOFsr8LKaEdBU.jpg?width=1080&crop=smart&auto=webp&s=00bc7097c2b2e8865160fad189a993186481856e",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "BBj180kbqUxy6hqFwTXEZDaYHXHogv2xzHFNtzhNg1A"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qichs3/automatic_windows_configuration_with_ansible/",
+  "subreddit": "SideProject",
+  "id": "qichs3",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Hi!\n\nRecently I was migrating one of my home machines to the new Windows 11. In the\nprocess of reinstalling, I decided it was time to automate the configuration and\ncreated an ansible playbook that does most of the work of preparing the system\nfor software development.\n\nCurrent Capabilities:\n\n *…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n最近、自宅のマシンの1つを新しいWindows 11に移行しました。再インストールの過程で\n再インストールする過程で、設定を自動化するべきだと考え、準備の作業のほとんどを行う\nソフトウェア開発のためにシステムを準備するほとんどの作業を行うansible playbookを作成しました。\nソフトウェア開発のためにシステムを準備するほとんどの作業を行うアンシブル・プレイブックを作成しました。\n\n現在の機能\n\n *...",
+      "title": "AnsibleによるWindowsの自動設定"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好!\n\n最近，我正在将我的一台家用机迁移到新的Windows 11。在\n在重新安装的过程中，我决定是时候将配置自动化了。\n创建了一个sible playbook，完成了大部分的系统准备工作。\n的大部分工作。\n\n目前的能力。\n\n *...",
+      "title": "用Ansible自动配置Windows"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好!\n\n最近，我正在將我的一臺家用機遷移到新的Windows 11。在\n在重新安裝的過程中，我決定是時候將配置自動化了。\n創建了一個sible playbook，完成了大部分的系統準備工作。\n的大部分工作。\n\n目前的能力。\n\n *...",
+      "title": "用Ansible自動配置Windows"
+    }
+  ]
+}

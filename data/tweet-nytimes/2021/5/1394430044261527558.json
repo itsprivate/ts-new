@@ -1,0 +1,86 @@
+{
+  "created_at": "Mon May 17 23:54:14 +0000 2021",
+  "id_str": "1394430044261527558",
+  "full_text": "They’re vaccinated and keeping their masks on, maybe forever. https://t.co/91j2kUntvJ https://t.co/IQLkZjqeXj",
+  "display_text_range": [
+    0,
+    85
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/91j2kUntvJ",
+        "expanded_url": "https://nyti.ms/33SgC44",
+        "display_url": "nyti.ms/33SgC44",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1394430041958850600,
+        "id_str": "1394430041958850562",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/media/E1oCvDMXIAIniwq.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E1oCvDMXIAIniwq.jpg",
+        "url": "https://t.co/IQLkZjqeXj",
+        "display_url": "pic.twitter.com/IQLkZjqeXj",
+        "expanded_url": "https://twitter.com/nytimes/status/1394430044261527558/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1920,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The New York Times",
+    "screen_name": "nytimes",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png"
+  },
+  "retweet_count": 101,
+  "favorite_count": 877,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon May 17 23:10:04 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "彼らはワクチンを接種し、マスクをしたまま、おそらく永遠に。 https://t.co/91j2kUntvJ https://t.co/IQLkZjqeXj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "他们接种了疫苗，并一直戴着口罩，也许是永远。https://t.co/91j2kUntvJ https://t.co/IQLkZjqeXj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "他們接種了疫苗，並一直戴着口罩，也許是永遠。https://t.co/91j2kUntvJ https://t.co/IQLkZjqeXj"
+    }
+  ]
+}

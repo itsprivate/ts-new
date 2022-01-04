@@ -1,0 +1,53 @@
+{
+  "author": "elendee",
+  "original_created_utc": 1629905693,
+  "title": "Game Scry, explore games by clicking categories, any feedback appreciated",
+  "created_utc": 1629964532,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://game-scry.online/\">https://game-scry.online/</a></p>\n\n<p>Why: </p>\n\n<p>I&#39;m a game dev and I like brainstorming and daydreaming about categories and genres.  It can also function as a news feed just to see what games have buzz currently, although right now it&#39;s just &#39;all time popular&#39;, not &#39;recent popular&#39; which is in the works.</p>\n\n<p>How it works:</p>\n\n<p>Anyone can post any game, any stage of dev, historical or current, and click tags to index it.  I aim to keep streamlining the tags to keep it intuitive to browse, although the tag cloud is starting to get a little crowded.  </p>\n\n<p>Permissions:</p>\n\n<p>A game owner can &#39;claim&#39; their game entry if someone else is doin it wrong and they want to take over.  Otherwise it&#39;s a FFA.</p>\n\n<p>Tech:</p>\n\n<p>All the game data is returned client side currently, which makes searching licketysplit fast.  But eventually I&#39;ll have to switch to cached serverside searches.  I might websocket the searches though to try to preserve the feel.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/QrFae1EzzYfr2d3UlJWeQyC0B-Xs58PjNKqp8kPPnlM.jpg?auto=webp&s=b557a0bdb6972faad560660668b46f77bb6c7bef",
+          "width": 150,
+          "height": 150
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/QrFae1EzzYfr2d3UlJWeQyC0B-Xs58PjNKqp8kPPnlM.jpg?width=108&crop=smart&auto=webp&s=e3c4171a31405c8b0b3db99d89a2c93a2de44ca3",
+            "width": 108,
+            "height": 108
+          }
+        ],
+        "variants": {},
+        "id": "XBLOpizt1ptCGo9XpfD5DdLwyUAfcKOaYKFf-u0FswE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/pbdp99/game_scry_explore_games_by_clicking_categories/",
+  "subreddit": "SideProject",
+  "id": "pbdp99",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "https://game-scry.online/\n\nWhy:\n\nI'm a game dev and I like brainstorming and daydreaming about categories and\ngenres. It can also function as a news feed just to see what games have buzz\ncurrently, although right now it's just 'all time popular', not 'recent popular'\nwhich is in the works.\n\nHow it…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://game-scry.online/\n\nなぜかというと\n\n私はゲーム開発者で、カテゴリーやジャンルについてブレインストーミングや空想をするのが好きです。\nジャンルを考えるのが好きだからです。また、どんなゲームが話題になっているかを知るためのニュースフィードとしても機能します。\n今は「ずっと人気のあるもの」だけで、「最近人気のあるもの」はありませんが\nこれは今後の予定です。\n\nどのようにして...",
+      "title": "Game Scry、カテゴリをクリックしてゲームを探索、どんなフィードバックも歓迎。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://game-scry.online/\n\n为什么？\n\n我是一名游戏开发者，我喜欢用头脑风暴和白日梦的方式来思考类别和\n类型。它也可以作为一个新闻源，看看哪些游戏目前很受欢迎。\n虽然现在它只是 \"所有时间的流行\"，而不是 \"最近的流行\n这是在工作中。\n\n它是如何...",
+      "title": "游戏探知，通过点击类别探索游戏，感谢任何反馈意见"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://game-scry.online/\n\n爲什麼？\n\n我是一名遊戲開發者，我喜歡用頭腦風暴和白日夢的方式來思考類別和\n類型。它也可以作爲一個新聞源，看看哪些遊戲目前很受歡迎。\n雖然現在它只是 \"所有時間的流行\"，而不是 \"最近的流行\n這是在工作中。\n\n它是如何...",
+      "title": "遊戲探知，通過點擊類別探索遊戲，感謝任何反饋意見"
+    }
+  ]
+}

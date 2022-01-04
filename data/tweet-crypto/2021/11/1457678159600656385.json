@@ -1,0 +1,74 @@
+{
+  "created_at": "Mon Nov 08 12:50:12 +0000 2021",
+  "id_str": "1457678159600656385",
+  "full_text": "RT @BarrySilbert: Going to be a big week",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BarrySilbert",
+        "name": "Barry Silbert",
+        "id": 396045469,
+        "id_str": "396045469",
+        "indices": [
+          3,
+          16
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 3096,
+  "favorite_count": 0,
+  "original_created_at": "Mon Nov 08 11:55:30 +0000 2021",
+  "retweeted_status": {
+    "created_at": "Sun Nov 07 23:44:37 +0000 2021",
+    "id_str": "1457494228301488133",
+    "full_text": "Going to be a big week",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "user": {
+      "name": "Barry Silbert",
+      "screen_name": "BarrySilbert",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1198708908136775684/GbjUois4_normal.jpg"
+    },
+    "retweet_count": 2283,
+    "favorite_count": 19374
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BarrySilbert: 大きな一週間になりそうです。",
+      "retweeted_status_full_text": "大事な週になりそうです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BarrySilbert: 将是一个重要的一周",
+      "retweeted_status_full_text": "将是一个重要的星期"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BarrySilbert: 將是一個重要的一週",
+      "retweeted_status_full_text": "將是一個重要的星期"
+    }
+  ],
+  "source_updated_at": 1636710071091
+}

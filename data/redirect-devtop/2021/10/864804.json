@@ -1,0 +1,66 @@
+{
+  "type_of": "article",
+  "id": 864804,
+  "title": "Transaction middleware in ASP.NET Core",
+  "description": "Sometimes to fulfill a business use case in an HTTP request you need to save data to the database on...",
+  "readable_publish_date": "Oct 15",
+  "slug": "transaction-middleware-in-aspnet-core-2608",
+  "path": "/moesmp/transaction-middleware-in-aspnet-core-2608",
+  "url": "https://dev.to/moesmp/transaction-middleware-in-aspnet-core-2608",
+  "comments_count": 8,
+  "public_reactions_count": 41,
+  "collection_id": null,
+  "published_timestamp": "2021-10-15T16:12:46Z",
+  "positive_reactions_count": 41,
+  "cover_image": null,
+  "social_image": "https://dev.to/social_previews/article/864804.png",
+  "canonical_url": "https://dev.to/moesmp/transaction-middleware-in-aspnet-core-2608",
+  "created_at": "2021-10-17T15:35:57.261Z",
+  "edited_at": "2021-10-17T07:48:43Z",
+  "crossposted_at": null,
+  "published_at": "2021-10-15T16:12:46Z",
+  "last_comment_at": "2021-10-17T08:01:25Z",
+  "reading_time_minutes": 3,
+  "tag_list": [
+    "netcore",
+    "aspnetcore",
+    "dapper",
+    "csharp"
+  ],
+  "tags": [
+    "netcore",
+    "aspnetcore",
+    "dapper",
+    "csharp"
+  ],
+  "user": {
+    "name": "Mohsen Esmailpour",
+    "username": "moesmp",
+    "twitter_username": null,
+    "github_username": "mo-esmp",
+    "website_url": null,
+    "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GkXlmK9F--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/509426/31745994-673d-46a3-abd7-9d93a762c23f.jpg",
+    "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--hMAjRW9X--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/509426/31745994-673d-46a3-abd7-9d93a762c23f.jpg"
+  },
+  "original_created_at": "2021-10-15T15:10:00Z",
+  "image": "https://dev.to/social_previews/article/864804.png",
+  "author": "Mohsen Esmailpour",
+  "author_url": "https://dev.to/moesmp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTTPリクエストでビジネスユースケースを実現するために、データをデータベースに保存する必要がある場合があります。",
+      "title": "ASP.NET Coreにおけるトランザクションミドルウェア"
+    },
+    {
+      "locale": "zh",
+      "description": "有时为了满足HTTP请求中的业务用例，你需要将数据保存在数据库中。",
+      "title": "ASP.NET核心中的交易中间件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時爲了滿足HTTP請求中的業務用例，你需要將數據保存在數據庫中。",
+      "title": "ASP.NET核心中的交易中間件"
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "sites": [
+    {
+      "url": "https://reddit.buzzing.cc",
+      "name": "Reddit 热门",
+      "short_name": "Reddit热门",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览Reddit热门内容",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "776034cf8635c0035d39814f7d049828",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=776034cf8635c0035d39814f7d049828",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 10,
+      "telegram": "@reddit_zh",
+      "telegram_chat_id": "-1001445816026"
+    },
+    {
+      "url": "https://stocks.buzzing.cc",
+      "name": "国外股市热门",
+      "short_name": "股市热门",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览国外股票社区里的热门讨论",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "3f266454a5c1bd170fabd85d84dc8e5e",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=3f266454a5c1bd170fabd85d84dc8e5e",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 5,
+      "telegram": "@stocks_top",
+      "telegram_chat_id": " -1001246603580"
+    },
+    {
+      "url": "https://ph.buzzing.cc",
+      "name": "Product Hunt 热门",
+      "short_name": "PH热门",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Product Hunt 热门App，网站和产品",
+      "background_color": "#f7f0eb",
+      "theme_color": "#DA552F",
+      "display": "standalone",
+      "cacheDigest": "3a79dbfede14c8f271a546e5a11ebfd5",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=3a79dbfede14c8f271a546e5a11ebfd5",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 5,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
+      "url": "https://hn.buzzing.cc",
+      "name": "Hacker News 热门",
+      "short_name": "HN热门",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Hacker News 热门内容",
+      "background_color": "#f7f0eb",
+      "theme_color": "#ff6600",
+      "display": "standalone",
+      "cacheDigest": "2ef7ada74a965bcb65a38c81f47158be",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=2ef7ada74a965bcb65a38c81f47158be",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 5,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
+      "url": "https://news.buzzing.cc",
+      "name": "谷歌全球新闻头条",
+      "short_name": "全球头条",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览谷歌全球新闻(西方媒体)头条",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "6bd5905965186c20225f0b11320dcdfe",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=6bd5905965186c20225f0b11320dcdfe",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
+      "url": "https://ask.buzzing.cc",
+      "name": "Reddit 热门提问",
+      "short_name": "Reddit提问",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Reddit 上的热门提问",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "7d9376199c46f0ffdd60844161742558",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=7d9376199c46f0ffdd60844161742558",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://depth.buzzing.cc",
+      "name": "深度思考",
+      "short_name": "深度思考",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览国外深度报道，思考和讨论",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "6ec1ccb0f81e036a41ed46bf83043e5c",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=6ec1ccb0f81e036a41ed46bf83043e5c",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://know.buzzing.cc",
+      "name": "你应该知道的事",
+      "short_name": "常识",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Reddit小组 You Should Know 的热门内容",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "43eda3cebbaa7cf711e9f32cee982b12",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=43eda3cebbaa7cf711e9f32cee982b12",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://books.buzzing.cc/",
+      "name": "Buzzing 读书",
+      "short_name": "Buzzing读书",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览读书，荐书相关的讨论",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "892cf710675ba731ec13129050b5912e",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=892cf710675ba731ec13129050b5912e",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://data.buzzing.cc",
+      "name": "数据之美",
+      "short_name": "数据之美",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用数字读懂世界，关于数据可视化，统计相关的一切信息",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "85e488c51809f8f46cd4903bddf9d8bf",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=85e488c51809f8f46cd4903bddf9d8bf",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://economist.buzzing.cc/",
+      "name": "经济学人",
+      "short_name": "经济学人",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览经济学人",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978",
+      "cacheDigest": "fe40cb73791fcfdc012b045463f5af85",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=fe40cb73791fcfdc012b045463f5af85",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 0
+    },
+    {
+      "url": "https://crypto.buzzing.cc",
+      "name": "加密货币国外热门讨论",
+      "short_name": "加密货币",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览关于加密货币的国外热门讨论",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "169bfe8a7b690bccdbd5a525528c0464",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=169bfe8a7b690bccdbd5a525528c0464",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 5,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
+      "url": "https://youtube.buzzing.cc",
+      "name": "Youtuber热门",
+      "short_name": "Youtube热门",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览 Youtube 上的全球热门视频",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "53199791f984b912a3f282e80a52a808",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=53199791f984b912a3f282e80a52a808",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 4,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    },
+    {
+      "url": "https://changemyview.buzzing.cc",
+      "name": "你可以改变我的想法吗？",
+      "short_name": "改变我的想法",
+      "start_url": "/",
+      "lang": "zh",
+      "description": "用中文浏览Reddit-Change My View的热帖",
+      "background_color": "#f7f0eb",
+      "theme_color": "#FF4500",
+      "display": "standalone",
+      "cacheDigest": "a1778a5db7ca245000625d68136ff235",
+      "icons": [
+        {
+          "src": "icons/icon-48x48.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-72x72.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-96x96.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-144x144.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-192x192.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-256x256.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-384x384.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "384x384",
+          "type": "image/png"
+        },
+        {
+          "src": "icons/icon-512x512.png?v=a1778a5db7ca245000625d68136ff235",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+      "issueCount": 3,
+      "telegram": "@buzzingcc",
+      "telegram_chat_id": "-1001406368978"
+    }
+  ],
+  "source_updated_at": 1611637048802
+}

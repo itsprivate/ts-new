@@ -1,0 +1,155 @@
+{
+  "created_at": "Fri Jun 11 9:35:42 +0000 2021",
+  "id_str": "1403284553167409154",
+  "full_text": "RT @zachherbert: https://t.co/ZDxmG642UU",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "zachherbert",
+        "name": "Zach Herbert 🇺🇸",
+        "id": 58868301,
+        "id_str": "58868301",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1403041678076821500,
+        "id_str": "1403041678076821513",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/media/E3ia-PrWQAkc42v.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E3ia-PrWQAkc42v.jpg",
+        "url": "https://t.co/ZDxmG642UU",
+        "display_url": "pic.twitter.com/ZDxmG642UU",
+        "expanded_url": "https://twitter.com/zachherbert/status/1403041772813574145/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1600,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1403041772813574100,
+        "source_status_id_str": "1403041772813574145",
+        "source_user_id": 58868301,
+        "source_user_id_str": "58868301"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
+  },
+  "retweet_count": 1950,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jun 11 09:34:43 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zachherbert: https://t.co/ZDxmG642UU",
+      "retweeted_status_full_text": "https://t.co/ZDxmG642UU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zachherbert: https://t.co/ZDxmG642UU",
+      "retweeted_status_full_text": "https://t.co/ZDxmG642UU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zachherbert: https://t.co/ZDxmG642UU",
+      "retweeted_status_full_text": "https://t.co/ZDxmG642UU"
+    }
+  ],
+  "retweeted_status": {
+    "created_at": "Thu Jun 10 17:30:00 +0000 2021",
+    "id_str": "1403041772813574145",
+    "full_text": "https://t.co/ZDxmG642UU",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1403041678076821500,
+          "id_str": "1403041678076821513",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3ia-PrWQAkc42v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3ia-PrWQAkc42v.jpg",
+          "url": "https://t.co/ZDxmG642UU",
+          "display_url": "pic.twitter.com/ZDxmG642UU",
+          "expanded_url": "https://twitter.com/zachherbert/status/1403041772813574145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 900,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Zach Herbert 🇺🇸",
+      "screen_name": "zachherbert",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1367167033301950468/DRHVwQqj_normal.jpg"
+    },
+    "retweet_count": 1950,
+    "favorite_count": 11883,
+    "possibly_sensitive": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "author": "adrianvincent91",
+  "original_created_utc": 1625064139,
+  "title": "I taught myself how to code so I could build a phone contract comparison website. Any feedback will really be appreciated!",
+  "created_utc": 1625076103,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>TL;DR: Learnt to code and built <a href=\"https://www.comparedial.com\">CompareDial</a></p>\n\n<p>When I was younger I used to build simple websites with Geocities and Microsoft Frontpage. I was more focused with the design aspect of websites rather than actual programming - not because I had no interest in programming, but rather because I found it intimidating. I was scared to even start. I eventually started to design websites in Photoshop and slice them with some basic HTML and CSS knowledge, but would progress no further. I simply enjoyed designing and would do it for fun.</p>\n\n<p>I had an idea for a phone and SIM contract comparison website, where users could search from thousands of deals and filter down to their specific needs. There were already a few out there, but I found a lot of them lacking in features, generally low in quality and would promote specific deals that would earn them more commission rather than showing the cheapest possible deals. How hard could it be, right? Boy was I wrong.</p>\n\n<p>My idea was to design the website and hire someone to make it. I made notes, drew sketches and obsessed over how the site would work. I have a tendency to over design and obsess over minor details, to a point where it holds me back. Everything had to work, behave and be constructed in a very specific way. If I hired someone to make my product and it wasn’t up to my exact standards, I wouldn’t progress with it.</p>\n\n<p>I quickly realised that I wouldn’t be able to get my product made up to my standard unless I was willing to spend A LOT of money. Even then, I still probably wouldn’t be satisfied. The only other logical solution was to learn how to program and make it myself, which is exactly what I did.</p>\n\n<p>I did some research and landed on JavaScript as the ideal language for me to learn and build my product, as I could use my skills on the front end and back end. I followed every basic JavaScript tutorial and eventually landed on <a href=\"https://github.com/getify/You-Dont-Know-JS\">You Don’t Know Js</a> - an absolute must read, even for experienced JS developers. I tried to pick up on my basic HTML and CSS skills from years ago, but I found myself starting from scratch. ‘Flexbox? Grids? What the hell is any of this?!?” - I used to use tables back in my day! I also followed some online tutorials for basic SQL, realising I would need a database of some sort to store all the deals.</p>\n\n<p>I started to feel a bit more confident, even though I hadn’t even begun to build. Eventually, after hours of pulling my hair out, I somehow pulled together a simple prototype that just about worked. It was rubbish, but I thought it was the best thing ever at the time. I couldn’t even imagine I would be able to progress past simple JS a few months prior, but here I was, with something I could be proud of.</p>\n\n<p>As a perfectionist, in the coming months I must have started over from scratch hundreds of times. I wasn’t happy. Eventually, I convinced myself to plan on launching. I started to add more retailers and feeds to my website, but I hit a bottleneck - the website became mind bogglingly slow. I was building my product around one or two retailers with no more than 1,000 deals. But now, I had over 200,000 deals, and everything grinded to a halt. A simple request would take up to 10 seconds. How could I be so stupid? I tried optimising my SQL, learning about database indexes, but with no avail. I was tempted to throw in the towel, but somehow persisted, eventually learning about caching and indexing. I ended up adding Redis and Meilisearch to the stack. It was a blessing in disguise as I learnt so much about how to architect such a product for performance - something that I wouldn’t have learnt if I did not run into this bottleneck.</p>\n\n<p>Here are some technologies I’ve learnt along the way, all within a few hours of work a few week in just under 2 years.</p>\n\n<ul>\n<li>JavaScript</li>\n<li>Node</li>\n<li>Nginx</li>\n<li>Linux</li>\n<li>Redis</li>\n<li>Meilisearch</li>\n<li>SQL</li>\n<li>Postgres</li>\n<li>Git &amp; GitHub</li>\n<li>Bash</li>\n</ul>\n\n<p>And finally, my launched product:</p>\n\n<p><a href=\"https://www.comparedial.com\">CompareDial</a></p>\n</div><!-- SC_ON -->",
+  "score": 6,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/vnm-l1FFBpevf5WPgziZ28kalZkJQrfF-j73zJlFBjU.jpg?auto=webp&s=94ed57ab01c7d8e97f405a2ecbac8436571ecf0f",
+          "width": 300,
+          "height": 597
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/vnm-l1FFBpevf5WPgziZ28kalZkJQrfF-j73zJlFBjU.jpg?width=108&crop=smart&auto=webp&s=12672df9915c7ef748eda6051cb8003cc9f42e85",
+            "width": 108,
+            "height": 214
+          },
+          {
+            "url": "https://external-preview.redd.it/vnm-l1FFBpevf5WPgziZ28kalZkJQrfF-j73zJlFBjU.jpg?width=216&crop=smart&auto=webp&s=4160eb88e655810b8dea7a57c3e43650fab63d59",
+            "width": 216,
+            "height": 429
+          }
+        ],
+        "variants": {},
+        "id": "HAf_Buung010Van_KBzszLRKEDruvZVn6cd46tLUAIg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/oayq7x/i_taught_myself_how_to_code_so_i_could_build_a/",
+  "subreddit": "SideProject",
+  "id": "oayq7x",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "TL;DR: Learnt to code and built CompareDial [https://www.comparedial.com]\n\nWhen I was younger I used to build simple websites with Geocities and Microsoft\nFrontpage. I was more focused with the design aspect of websites rather than\nactual programming - not because I had no interest in programming,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TL;DR: コードを学び、CompareDialを作ってみた [https://www.comparedial.com]\n\n若い頃は、GeocitiesやMicrosoftのFrontpageで簡単なウェブサイトを作っていました。\nフロントページ 実際のプログラミングよりも、ウェブサイトのデザイン面に重点を置いていました。\nプログラミングに興味がなかったわけではありませんが...。",
+      "title": "独学でコードを学び、電話契約の比較サイトを作りました。ご意見、ご感想をお待ちしています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TL;DR：学习代码和建立CompareDial [https://www.comparedial.com]\n\n当我年轻的时候，我曾经建立简单的网站与Geocities和Microsoft\nFrontpage。我更专注于网站的设计方面，而不是实际的编程。\n实际的编程 - 不是因为我对编程没有兴趣，...",
+      "title": "我自学了代码，所以我可以建立一个电话合同比较网站。如果有任何反馈意见，我将非常感激"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TL;DR：學習代碼和建立CompareDial [https://www.comparedial.com]\n\n當我年輕的時候，我曾經建立簡單的網站與Geocities和Microsoft\nFrontpage。我更專注於網站的設計方面，而不是實際的編程。\n實際的編程 - 不是因爲我對編程沒有興趣，...",
+      "title": "我自學了代碼，所以我可以建立一個電話合同比較網站。如果有任何反饋意見，我將非常感激"
+    }
+  ]
+}

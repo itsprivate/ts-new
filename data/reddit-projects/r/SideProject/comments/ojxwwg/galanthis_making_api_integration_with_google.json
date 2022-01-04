@@ -1,0 +1,78 @@
+{
+  "author": "EvilDanish96",
+  "original_created_utc": 1626241519,
+  "title": "Galanthis: Making API integration with Google Sheets Better",
+  "created_utc": 1626248782,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h2>Overview</h2>\n\n<p>Hi folks,</p>\n\n<p>I&#39;ve been hankering for a &#39;real life&#39; project to build for a fair while, and while quite simple I&#39;m really pleased to introduce Galanthis, an API designed to make other API&#39;s easier to use with Google Sheets.</p>\n\n<p>Galanthis really just acts as a middleman, converting JSON objects into CSV&#39;s so that they can be easily integrated with the <code>IMPORTDATA</code> function. It will try and do some (kind of) intelligent interpretation of the JSON to convert more complex objects with nested structures.</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://i.redd.it/jbw5oiua94b71.gif\"> A short demo of Galanthis in action. </a></p>\n\n<p>Like I imagine most of you, I was originally using the infamous <code>IMPORTJSON</code> Apps script, but as my sheets grew more complex, I was quickly running into serious performance problems. My sheets became completely unusable on lower-end hardware like my laptop and barely dragged along on my workstation. Galanthis&#39; development from there is probably quite self-explanatory, I needed something faster and simpler.</p>\n\n<p>Using Galanthis, you effectively offload the processing, significantly improving performance, while getting all the benefits of using functions native to Google Sheets.</p>\n\n<h2>Disclaimers</h2>\n\n<p>With full transparency in mind, there are a few things I need to add.</p>\n\n<ul>\n<li>Galanthis is still in early development. I&#39;m sure there will be bugs. I am dedicated to Galanthis&#39; development and will endeavour to fix any issues that come up as quickly as possible.</li>\n</ul>\n\n<p>&#x200B;</p>\n\n<ul>\n<li>Galanthis is offered under three subscription models as of today (All prices are in USD)\n\n<ul>\n<li>A free subscription with a request limit.</li>\n<li>A PAYG (Pay as you go) subscription, will suit people who need more than the free subscription but aren&#39;t using Galanthis with frequency. The current cost for this model is $0.0025 per request, that&#39;s one-quarter of a cent.</li>\n<li>And a monthly base subscription of $5.85 for 3250 requests + PAYG after that of $0.00175 per request.  A 30% discount over the previous PAYG model. This comes out cheaper for people making more than ~2400 requests per month.</li>\n</ul></li>\n</ul>\n\n<p>If you&#39;d like to use Galanthis commercially please reach out and we create a custom subscription model that works for both of us.</p>\n\n<h2>Get started</h2>\n\n<p>I&#39;ve written a 60 second tutorial for those that are looking for a bit of a how-to with examples <a href=\"https://medium.com/@guy.misha/galanthis-making-api-integration-with-google-sheets-easy-24da906a46b6\">https://medium.com/@guy.misha/galanthis-making-api-integration-with-google-sheets-easy-24da906a46b6</a></p>\n\n<p>The same tutorial is available via RapidAPI where Galanthis is hosted in case you have problems with Medium <a href=\"https://rapidapi.com/Quantel/api/galanthis/tutorials/an-introduction-to-galanthis:-making-api-integration-with-google-sheets-easy\">https://rapidapi.com/Quantel/api/galanthis/tutorials/an-introduction-to-galanthis:-making-api-integration-with-google-sheets-easy</a></p>\n\n<p>Get started with Galanthis here <a href=\"https://rapidapi.com/Quantel/api/galanthis\">https://rapidapi.com/Quantel/api/galanthis</a></p>\n\n<p>I appreciate that RapidAPI&#39;s documentation is not well suited to this tool so I highly recommend giving the above tutorial a read, and of course please reach out if you&#39;re having problems.</p>\n\n<h2>The End</h2>\n\n<p>I want to thank you if you&#39;re still reading, I&#39;m both really proud and quite nervous as this is my first time releasing any kind of &#39;product&#39;. I really enjoyed the process and hope I&#39;ll have the opportunity to continue improving Galanthis with your support.</p>\n\n<p>Thanks!</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?auto=webp&s=34bf185ff4351160157f2a632152dc9d7fe57c48",
+          "width": 1200,
+          "height": 797
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?width=108&crop=smart&auto=webp&s=42b42759aba2b696cdbc11b515e331b688de13b7",
+            "width": 108,
+            "height": 71
+          },
+          {
+            "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?width=216&crop=smart&auto=webp&s=99a342f80443725e4b12175c3fe56454d73cbdee",
+            "width": 216,
+            "height": 143
+          },
+          {
+            "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?width=320&crop=smart&auto=webp&s=a5351cf8979855c6477994e5f5ed158f68ea26be",
+            "width": 320,
+            "height": 212
+          },
+          {
+            "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?width=640&crop=smart&auto=webp&s=a22b9adcde89ee65b68ece153afe99abdd967306",
+            "width": 640,
+            "height": 425
+          },
+          {
+            "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?width=960&crop=smart&auto=webp&s=53a427f595bfe225c618e41a79e4f293d8cbcbf9",
+            "width": 960,
+            "height": 637
+          },
+          {
+            "url": "https://external-preview.redd.it/QYIe1a_TCSFy5KdPCCtAiQnvWYhCvLNGxPRIxFRdymk.jpg?width=1080&crop=smart&auto=webp&s=d2a22b7aaed4a4f7f3c6ed8225f087a6f9c291ee",
+            "width": 1080,
+            "height": 717
+          }
+        ],
+        "variants": {},
+        "id": "lpaSr3QVhUf3Pt7KFKRpW1lk5NaV5BWBNjANkmkopxY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/ojxwwg/galanthis_making_api_integration_with_google/",
+  "subreddit": "SideProject",
+  "id": "ojxwwg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "OVERVIEW\n\nHi folks,\n\nI've been hankering for a 'real life' project to build for a fair while, and\nwhile quite simple I'm really pleased to introduce Galanthis, an API designed to\nmake other API's easier to use with Google Sheets.\n\nGalanthis really just acts as a middleman, converting JSON objects…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "オーバービュー\n\n皆さん、こんにちは。\n\nしばらくの間、私は「現実の」プロジェクトを作りたいと思っていました。\n非常にシンプルなものですが、Galanthisをご紹介します。\nGalanthisは、他のAPIをGoogle Sheetsで使いやすくするために設計されたAPIです。\n\nGalanthisは、JSONオブジェクトを...",
+      "title": "Galanthis。Google SheetsでのAPI統合をより良くするために"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "综述\n\n嗨，伙计们。\n\n我一直想做一个 \"现实生活 \"的项目，已经有一段时间了。\n虽然很简单，但我真的很高兴地介绍Galanthis，一个旨在让用户在使用过程中不受影响的API。\n一个旨在使其他API更容易与Google Sheets一起使用的API。\n\nGalanthis实际上只是充当一个中间人，将JSON对象转换为其他API。",
+      "title": "Galanthis。让API与谷歌表格的整合更完美"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "綜述\n\n嗨，夥計們。\n\n我一直想做一個 \"現實生活 \"的項目，已經有一段時間了。\n雖然很簡單，但我真的很高興地介紹Galanthis，一個旨在讓用戶在使用過程中不受影響的API。\n一個旨在使其他API更容易與Google Sheets一起使用的API。\n\nGalanthis實際上只是充當一箇中間人，將JSON對象轉換爲其他API。",
+      "title": "Galanthis。讓API與谷歌表格的整合更完美"
+    }
+  ]
+}

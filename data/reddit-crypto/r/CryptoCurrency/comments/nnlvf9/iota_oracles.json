@@ -1,0 +1,79 @@
+{
+  "author": "Alive-Opportunity708",
+  "the_new_excerpt": "THE ORACLE PROBLEM\n\nOracles provide blockchains with outside information, typically for use in smart\ncontracts, or provide interoperability between different distributed ledgers.\n\nWhile oracles are mostly meant to be a bridge between the external/offchain\nworld and decentralized networks and…",
+  "original_created_utc": 1622289128,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "オラクル問題\n\nオラクルはブロックチェーンに外部の情報を提供するもので、一般的にはスマートコントラクトで使用するためのものです。\nしたり、異なる分散型台帳間の相互運用性を提供したりします。\n\nオラクルは主に外部/オフチェーンの世界と分散型の新システムとの間の橋渡しをするものですが\n外部/オフチェーンの世界と分散型ネットワークとの橋渡しをすることを意味していますが、...",
+      "title": "IOTA Oracles"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "神谕问题\n\n神谕为区块链提供外部信息，通常用于智能合约。\n合约，或提供不同分布式账本之间的互操作性。\n\n虽然甲骨文主要是为了成为外部/链外世界和去中心化网络之间的桥梁和\n世界与去中心化的网络和...",
+      "title": "IOTA Oracles"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "神諭問題\n\n神諭爲區塊鏈提供外部信息，通常用於智能合約。\n合約，或提供不同分佈式賬本之間的互操作性。\n\n雖然甲骨文主要是爲了成爲外部/鏈外世界和去中心化網絡之間的橋樑和\n世界與去中心化的網絡和...",
+      "title": "IOTA Oracles"
+    }
+  ],
+  "title": "IOTA Oracles",
+  "created_utc": 1622325423,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h3>The Oracle Problem</h3>\n\n<p>Oracles provide blockchains with outside information, typically for use in smart contracts, or provide interoperability between different distributed ledgers.</p>\n\n<p>While oracles are mostly meant to be a bridge between the external/offchain world and decentralized networks and services, they suffer from the age-old “Garbage in, garbage out” problem. If the data going into an oracle can be manipulated or censored, it is possible that “wrong” data would lead to “wrong” results. Some oracle solutions try to solve this by ensuring that oracles are using input from a sufficiently large number of independent sources. Other oracles on the market have proposed a set of standards to bring off-chain data on-chain, but even they suffer from inherent bottlenecks that can inhibit real-world adoption.</p>\n\n<p>&#x200B;</p>\n\n<h3>What are IOTA Oracles?</h3>\n\n<p><a href=\"https://github.com/iotaledger/FirstPersonOracle\">IOTA Oracles</a> bring off-chain data to decentralized applications and smart contracts on the IOTA network. The IOTA Tangle offers a few key advantages compared to a conventional blockchain oracle solution:</p>\n\n<ul>\n<li>IOTA transactions are feeless</li>\n<li>IOTA transactions can hold a fairly large amount of data</li>\n<li>IOTA’s network operates in near real-time</li>\n<li>Fetching data using an IOTA node is lightweight and efficient</li>\n<li>IOTA Oracles supports diverse security and data structuring capabilities</li>\n</ul>\n\n<h3>How do IOTA Oracles work?</h3>\n\n<p>From the IOTA viewpoint, optimally trusted data needs to come directly from the point where the data is generated, while being processed and secured in a decentralized manner. The potential of data manipulation is greatly reduced if the source (e.g. a sensor) submits data directly to a tamper-proof distributed ledger without going through several intermediaries.</p>\n\n<p>Here we introduce the first, and most simple IOTA Oracle, the First Party Oracle. IOTA First Party Oracles do not use external data sources, nor data that was processed and made available on a DLT by a third party, but instead rely on data that has been submitted to the IOTA Tangle by the data issuer itself. In the context of IoT networks, “data issuers” would refer to the sensors themselves, without being manipulated or reformatted by anyone or anything.</p>\n\n<p>Once IOTA Smart Contracts are live, First Party Oracles can be used to feed smart contracts with data directly, without having to worry about an intermediary to retrieve, process, host or maintain data. Unlike some other solutions on the market, the IOTA Foundation never interacts with data supplied by data providers.</p>\n\n<p>You can watch a video of how it works by clicking on the link.</p>\n\n<p><a href=\"https://blog.iota.org/introducing-iota-oracles/\">https://blog.iota.org/introducing-iota-oracles/</a></p>\n</div><!-- SC_ON -->",
+  "score": 191,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?auto=webp&s=114e0d76713009bcfbe2129da591e6998e9a2919",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?width=108&crop=smart&auto=webp&s=12409bac3319cc1636fe744f1c25fb76953506c1",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?width=216&crop=smart&auto=webp&s=545fac1bfe619e9e50fd66b1d2b051a66407c24b",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?width=320&crop=smart&auto=webp&s=0f39987246dd23e600e20e9b6cfdff92ed166e7c",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?width=640&crop=smart&auto=webp&s=6a4ca26506669829081b684c8914e85b21c88cff",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?width=960&crop=smart&auto=webp&s=49a724935dac5089c4ef1e3ce534f38c562c276c",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/NeBYLEoDFNS4thyEhD3GbAtGwqLdrJKX9ARFpY2CRIQ.jpg?width=1080&crop=smart&auto=webp&s=f0ceb1a7660d5f8dad7025fe2682fd94c741cc1d",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "GAmbO6oLr55kLWxzdPBPheUOk9LB36Ka1Q79cjX8AWY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/nnlvf9/iota_oracles/",
+  "subreddit": "CryptoCurrency",
+  "id": "nnlvf9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1622804296492
+}

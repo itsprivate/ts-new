@@ -1,0 +1,84 @@
+{
+  "created_at": "Thu Aug 05 5:42:54 +0000 2021",
+  "id_str": "1422884017234354182",
+  "full_text": "Frustrated passengers are stuck at airports across the U.S. after Spirit canceled hundreds of flights due to weather and staffing shortages #WSJWhatsNow https://t.co/YFhNhDD0WS",
+  "display_text_range": [
+    0,
+    152
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          140,
+          152
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1422878247361130500,
+        "id_str": "1422878247361130501",
+        "indices": [
+          153,
+          176
+        ],
+        "media_url": "http://pbs.twimg.com/media/E78UfFOWYAEc5fL.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E78UfFOWYAEc5fL.jpg",
+        "url": "https://t.co/YFhNhDD0WS",
+        "display_url": "pic.twitter.com/YFhNhDD0WS",
+        "expanded_url": "https://twitter.com/WSJ/status/1422884017234354182/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 26,
+  "favorite_count": 99,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Aug 04 11:36:00 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "スピリット社が天候と人員不足を理由に数百便をキャンセルしたため、米国各地の空港では乗客が不満を抱えて立ち往生しています #WSJWhatsNow https://t.co/YFhNhDD0WS"
+    },
+    {
+      "locale": "zh",
+      "full_text": "由于天气和人员短缺，Spirit公司取消了数百个航班，沮丧的乘客被困在美国各地机场#WSJWhatsNow https://t.co/YFhNhDD0WS。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "由於天氣和人員短缺，Spirit公司取消了數百個航班，沮喪的乘客被困在美國各地機場#WSJWhatsNow https://t.co/YFhNhDD0WS。"
+    }
+  ]
+}

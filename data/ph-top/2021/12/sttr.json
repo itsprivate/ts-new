@@ -1,0 +1,80 @@
+{
+  "id": "322633",
+  "commentsCount": 30,
+  "createdAt": "2021-12-12T15:40:19.859Z",
+  "description": "sttr is command-line software that allows you to quickly run various transformation operations on the string.",
+  "featuredAt": "2021-12-12T08:13:28Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/c62a188e-5c71-42c1-9952-102d266acb50.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ea8ccfec-5455-471d-984c-6cf70b08c0b3.gif?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "sttr",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/8f3b3117b51c5c?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Abhimanyu Sharma",
+    "url": "https://www.producthunt.com/@abhimanyu003?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 0,
+  "reviewsRating": 0,
+  "slug": "sttr",
+  "tagline": "A cli app to perform various operations on string",
+  "url": "https://www.producthunt.com/posts/sttr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 187,
+  "website": "https://www.producthunt.com/r/8f3b3117b51c5c?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Productivity"
+        }
+      },
+      {
+        "node": {
+          "name": "Open Source"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-12-12T08:13:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "sttrは、文字列に対して様々な変換処理を素早く行うことができるコマンドラインソフトウェアです。",
+      "tagline": "文字列に対して様々な操作を行うクライアントアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "sttr是一个命令行软件，允许你在字符串上快速运行各种转换操作。",
+      "tagline": "一个对字符串进行各种操作的cli应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "sttr是一個命令行軟件，允許你在字符串上快速運行各種轉換操作。",
+      "tagline": "一個對字符串進行各種操作的cli應用程序"
+    }
+  ],
+  "source_updated_at": 1639734128875
+}

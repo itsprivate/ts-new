@@ -1,0 +1,64 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "The script searches the web for cryptocurrency news, taking keywords as input\nand then passes those to a text sentiment API, analysing how many of the\nheadlines are positive, neutral or negative.\n\nThe idea is that the script will check multiple sources and then calculate a %\nfor each of the 3…",
+  "original_created_utc": 1617727214,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このスクリプトは、キーワードを入力としてウェブ上で暗号通貨のニュースを検索します。\nそのキーワードをテキストセンチメントAPIに渡して、見出しの中で肯定的なもの、中立的なもの、否定的なものの数を分析します。\n肯定的な見出し、中立的な見出し、否定的な見出しの数を分析します。\n\nこのスクリプトは、複数のソースをチェックして、3つのソースのそれぞれについて％を計算するというものです。\nを計算するというものです...",
+      "title": "私は、ビットコインに関する日々のニュースのセンチメントを理解して、潜在的なパンプやダンプを予測するのに役立つスクリプトをコーディングし、オープンソース化しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该脚本在网络上搜索加密货币新闻，将关键字作为输入。\n然后把这些传给一个文本情感API，分析其中有多少个\n标题是正面的、中性的或负面的。\n\n这个想法是，脚本将检查多个来源，然后计算出%的\n对于每一个3...",
+      "title": "我编写了一个脚本来帮助我了解比特币的每日新闻情绪，以帮助我预测潜在的抽水或跳水，并将其开源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該腳本在網絡上搜索加密貨幣新聞，將關鍵字作爲輸入。\n然後把這些傳給一個文本情感API，分析其中有多少個\n標題是正面的、中性的或負面的。\n\n這個想法是，腳本將檢查多個來源，然後計算出%的\n對於每一個3...",
+      "title": "我編寫了一個腳本來幫助我瞭解比特幣的每日新聞情緒，以幫助我預測潛在的抽水或跳水，並將其開源。"
+    }
+  ],
+  "title": "I coded a script to help me understand the daily news sentiment for Bitcoin in order to help me forecast potential pumps or dumps and open sourced it",
+  "created_utc": 1617748230,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The script searches the web for cryptocurrency news, taking keywords as input and then passes those to a text sentiment API, analysing how many of the headlines are positive, neutral or negative. </p>\n\n<p>The idea is that the script will check multiple sources and then calculate a % for each of the 3 sentiment categories. That way I&#39;ll be able to detect how the media is portraying Bitcoin, or any other crypto that day.</p>\n\n<p>I&#39;m planning to integrate the output of this script into a crypto trading bot in order automatically buy or sell a coin the news are overwhelmingly positive or negative.</p>\n\n<p>Just like with the Elon Musk bot that I shared a while ago, my thinking is that catching a wave before it breaks, you can ride it for a while. </p>\n\n<p>The only limitation as it stands right now is that you can only sent 100 requests/day through the websearch API, so I might end up replacing it with a different solution.</p>\n\n<p>Would you use this script&#39;s signals in your investments? Why/Why not?</p>\n\n<p>Resources available below if you&#39;re interested: </p>\n\n<p>GitHub Repo: <a href=\"https://github.com/CyberPunkMetalHead/cryptocurrency-news-analysis\">https://github.com/CyberPunkMetalHead/cryptocurrency-news-analysis</a></p>\n\n<p>Article and Guide: <a href=\"https://www.cryptomaton.org/2021/04/05/how-to-analyse-daily-news-sentiment-for-cryptocurrency-with-python/\">https://www.cryptomaton.org/2021/04/05/how-to-analyse-daily-news-sentiment-for-cryptocurrency-with-python/</a></p>\n</div><!-- SC_ON -->",
+  "score": 244,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?auto=webp&s=3ec2a58037d1ad0411d794a0729fecfb8de8fcba",
+          "width": 400,
+          "height": 400
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=108&crop=smart&auto=webp&s=8ef711314feeb52b3b74d67faa40f88795973045",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=216&crop=smart&auto=webp&s=7ea3e873a2e1b2eb82e18e5dca581b6e50653ead",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Na6CUGa8QVco396alh_mnr-BEdla0z7HKQ3SdR-scKM.jpg?width=320&crop=smart&auto=webp&s=e7ff450aa94e7aa5bceaa8f01e64782252bfad12",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "W8cED8o4BU1lBQr3ao_LTxG-YGu3yqJV1UHHb4-AB6E"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/Bitcoin/comments/mlfvl4/i_coded_a_script_to_help_me_understand_the_daily/",
+  "subreddit": "Bitcoin",
+  "id": "mlfvl4",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617961873798
+}

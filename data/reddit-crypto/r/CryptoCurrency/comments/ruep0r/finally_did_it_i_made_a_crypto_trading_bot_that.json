@@ -1,0 +1,81 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1641145036,
+  "title": "Finally did it: I made a crypto trading bot that automatically places orders on new listings before they get added on Binance or Kucoin",
+  "created_utc": 1641209625,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So I&amp;#39;ve been working on this project for over 6 months now, and I&amp;#39;ve learned quite a bit about how new listings behave, and how important the Binance and Kucoin Annoucement pages are.&lt;/p&gt;\n\n&lt;p&gt;My initial idea was to create a crypto trading bot in Python, that constantly checks if a new listing is added on Binance, essentially by checking the total number of coins at any given time. I tried out different variations on this, end even increased the speed to buy within 0.1 seconds on a new coin being listed.&lt;/p&gt;\n\n&lt;p&gt;After looking at the results, and talking to some of you on here, it turns out that the spike in the price upon listing the coin is actually the peak of the iceberg.&lt;/p&gt;\n\n&lt;p&gt;The real activity seems to happen once big exchanges announce that they will list the coin, and not upon the listing itself.&lt;/p&gt;\n\n&lt;p&gt;Have a look at the chart for FIDA/USDT below, and the time Binance made the announcement:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/i42z3i9dxa981.jpg?width=1536&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=b3bacc1b823f19c9c4f447e31678ebd6c639c648\"&gt;FIDAUSDT&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;FIDAUSDT&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ofhrmxdexa981.jpg?width=677&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1f8ee28a916d45de9fdd768694b0f0f3291ee439\"&gt;https://preview.redd.it/ofhrmxdexa981.jpg?width=677&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1f8ee28a916d45de9fdd768694b0f0f3291ee439&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Looks like people are fomoing hard into new coins on different exchanges in anticipation of a Binance pump, ironically creating the pump themselves.&lt;/p&gt;\n\n&lt;p&gt;So with that in mind, I built a crypto trading algorithm that listens to the Binance announcement page, and once there is an announcement for a new coin listing, the bot extracts the symbol of that coin and places a Buy order on Gate .io.&lt;/p&gt;\n\n&lt;p&gt;The tool will automatically place buy and sell orders and it has a trailing stop loss feature, meaning that it should sell at the optimum time, in theory.&lt;/p&gt;\n\n&lt;p&gt;I chose gate .io because according to what I&amp;#39;ve seen and what some of you have said, this exchange seem to list many of the coins that later make it on Binance or other bigger exchanges.&lt;/p&gt;\n\n&lt;p&gt;The tool is free to use for everyone, but I suggest running it in Test mode at first, as I still need to confirm that everything runs fine. Annoyingly, gate .io doesn&amp;#39;t have a testnet which means I had to test the buy/sell logic by placing real trades - not ideal.&lt;/p&gt;\n\n&lt;p&gt;But I&amp;#39;ve included a test mode for the tool itself, so it won&amp;#39;t actually call the gate .io API, it will just simulate the trades locally.&lt;/p&gt;\n\n&lt;p&gt;The tool has been tested by me along with a bunch of other people for a while now. I can say that it definitely has potential, and has made profit on numerous occasions, however it is not perfect. Or rather - it can be improved further.&lt;/p&gt;\n\n&lt;p&gt;One of the issues we&amp;#39;ve been having is the speed at which the bot will buy the announcement. As you might expect, this needs to happen really fast in order to take advantage of the pump (under 5 seconds in most cases).&lt;/p&gt;\n\n&lt;p&gt;It seems that the speed of the bot varies from one listing to another, making consistent profits a bit tricky - but not impossible.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Here&amp;#39;s a video overview of the tool and why it evolved to this:&lt;/strong&gt; &lt;a href=\"https://youtu.be/SsSgD0v16Kg\"&gt;&lt;strong&gt;https://youtu.be/SsSgD0v16Kg&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;A guide on how to install and run this on your machine:&lt;/strong&gt; &lt;a href=\"https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/\"&gt;&lt;strong&gt;https://www.cryptomaton.org/2021/10/17/a-binance-and-gate-io-crypto-trading-bot-for-new-coin-announcements/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;And of course, the source code on GitHub:&lt;/strong&gt; &lt;a href=\"https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins\"&gt;&lt;strong&gt;https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;PS: Feel free to reach out if you want to contribute to the codebase on GitHub.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Edit: Join my discord for more algo trading talk:&lt;/strong&gt; &lt;a href=\"https://discord.gg/QHH8BkkytF\"&gt;&lt;strong&gt;https://discord.gg/QHH8BkkytF&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 2571,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/5exn_Ft62iA2vuSd96c_IPuq1TRRIMyy7VkTF1WpwOE.jpg?auto=webp&amp;s=93f9f7d52d84896ed066cdbb571aa8e64a8e793c",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/5exn_Ft62iA2vuSd96c_IPuq1TRRIMyy7VkTF1WpwOE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b1212c132f254e9ede6aa8edccbdb6fb47cc73df",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/5exn_Ft62iA2vuSd96c_IPuq1TRRIMyy7VkTF1WpwOE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=af22d7b2c7936620b4c2525718f6be25f55420b8",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/5exn_Ft62iA2vuSd96c_IPuq1TRRIMyy7VkTF1WpwOE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=95d07b934903f974e9ca97a163fa08782c42d2e1",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "hxOiLUGKOD74NJtPQobE632Uwa9vGtuHO16BydBSxdc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ruep0r/finally_did_it_i_made_a_crypto_trading_bot_that/",
+  "subreddit": "CryptoCurrency",
+  "id": "ruep0r",
+  "is_self": true,
+  "media": {
+    "type": "youtube.com",
+    "oembed": {
+      "provider_url": "https://www.youtube.com/",
+      "version": "1.0",
+      "title": "Crypto trading bot: Buying coins on Gate.io before they get listed on Binance",
+      "type": "video",
+      "thumbnail_width": 480,
+      "height": 200,
+      "width": 356,
+      "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/SsSgD0v16Kg?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+      "author_name": "Cryptomaton",
+      "provider_name": "YouTube",
+      "thumbnail_url": "https://i.ytimg.com/vi/SsSgD0v16Kg/hqdefault.jpg",
+      "thumbnail_height": 360,
+      "author_url": "https://www.youtube.com/channel/UCbJfyiBegEca-rd6DeLjK4Q"
+    }
+  },
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "So I've been working on this project for over 6 months now, and I've learned\nquite a bit about how new listings behave, and how important the Binance and\nKucoin Annoucement pages are.\n\nMy initial idea was to create a crypto trading bot in Python, that constantly\nchecks if a new listing is added on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このプロジェクトに参加してから半年以上が経ちました。\n新規上場がどのように行われるのか、BinanceとBinanceがいかに重要であるかということがよくわかりました。\nKucoin Annoucementのページがあります。\n\n私の最初のアイデアは、Pythonで暗号の取引ボットを作ることでした。\n新しいリストが追加されているかどうかをチェックする。",
+      "title": "ついにやりましたね。BinanceやKucoinに追加される前に、新しいリストに自動的に注文を出す暗号取引ボットを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因此，我已经在这个项目上工作了6个多月，我已经学会了\n关于新上市的行为，以及Binance和Kucoin公告页面的重要性。\nKucoin公告页面的重要性。\n\n我最初的想法是在Python中创建一个加密货币交易机器人，它不断地\n检查是否有新的上市信息...",
+      "title": "终于做到了。我做了一个加密货币交易机器人，在Binance或Kucoin上的新上市项目被添加之前自动下单。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因此，我已經在這個項目上工作了6個多月，我已經學會了\n關於新上市的行爲，以及Binance和Kucoin公告頁面的重要性。\nKucoin公告頁面的重要性。\n\n我最初的想法是在Python中創建一個加密貨幣交易機器人，它不斷地\n檢查是否有新的上市信息...",
+      "title": "終於做到了。我做了一個加密貨幣交易機器人，在Binance或Kucoin上的新上市項目被添加之前自動下單。"
+    }
+  ]
+}

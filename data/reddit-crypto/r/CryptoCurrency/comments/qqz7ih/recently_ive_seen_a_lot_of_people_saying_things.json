@@ -1,0 +1,32 @@
+{
+  "author": "pseudoHappyHippy",
+  "original_created_utc": 1636564526,
+  "title": "Recently, I've seen a lot of people saying things like \"Ethereum's future depends on LRC\" or \"Ethereum is useless without LRC\", etc. Now, I think LRC's tech fundamentals are rock-solid, but here are some facts to help you better contextualize LRC among the other Ethereum scaling solutions.",
+  "created_utc": 1636572798,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>There are plenty of L2s and sidechains already that scale Ethereum L1. They all have strengths and weaknesses. Let&#39;s start by looking at other zk rollup L2s like LRC.</p>\n\n<h1>Other zk Rollup L2s</h1>\n\n<p>There exist several zk (zero-knowledge) rollup L2s besides LRC (both STARK and SNARK variety; look this up if you really want to dive down the rabbit hole) like zkSync, Polygon Hermez, dYdX, zkSwap, and StarkX. Unlike LRC, zkSync and (soon) Hermez are actually full scaling systems for Ethereum, because they support fully generic smart contracts due to having built ZKEVMs (Zero-Knowledge Ethereum Virtual Machine). LRC doesn&#39;t even have plans to build a ZKEVM (which is considered very hard to do), because <strong>their value proposition is not to be able to generically scale Ethereum</strong>. They specifically are only intending to scale DEX usage (which makes sense, because that is what their core innovation, <strong>order rings</strong>, are good for).  </p>\n\n<p>As for usage, of all the zk rollup L2s combined, LRC has around 30% of the TVL. </p>\n\n<h1>Optimistic Rollup L2s</h1>\n\n<p>Then there are optimistic rollup L2s, which are fully EVM compatible (so much easier to make an optimistic rollup EVM compatible than to make a zk rollup EVM compatible), and are currently being used for DeFi way, way more than any zk rollup platforms (though I do believe that one day zk will emerge as the superior tech over optimistic). Arbitrum TVL is more than all zk rollup platforms combined <strong>plus</strong> all other optimistic rollup platforms combined <strong>plus</strong> all the validium and plasma L2s combined.   </p>\n\n<p>Once you add in optimistic rollup platforms and other L2s, Loopring has a little under 9% of all the TVL of L2s on Ethereum. </p>\n\n<h1>Side chains</h1>\n\n<p>Then we get into the scaling solutions that aren&#39;t L2s, but are instead sidechains. I&#39;ll just talk about the elephant in the room here: Polygon. Polygon has about the same TVL as <strong>all L2s combined, including Arbitrum</strong>. They also get lower fees than any L2. The downside is that they have worse security than L2s do. </p>\n\n<h1>Conclusion</h1>\n\n<p>So, in terms of TVL of all scaling solutions on Ethereum, <strong>LRC has probably 3 - 4% of the TVL at most</strong>. </p>\n\n<p>Unlike Polygon, Arbitrum, Optimism, zkSync, and others, <strong>LRC is not EVM compatible</strong>, so it can&#39;t handle generic smart contracts, and is thus not a full scaling solution for Ethereum. You can&#39;t build any part of DeFi on Loopring except DEXes. And finally, while the fees are great, they aren&#39;t the lowest of all the scaling solutions. </p>\n\n<p>LRC is great, but there are many other scaling options, of which LRC holds a fairly insignificant portion of the TVL. Many of these other solutions are also full scaling solutions that are fully EVM compatible, which LRC has no intention of being. And don&#39;t think that the facts that LRC has a low TVL compared to other scaling solutions and no ZKEVM are explained by LRC being younger than their competition. In fact, LRC launched before almost every other platform that I have mentioned. </p>\n\n<p>All this being said, I imagine LRC will continue to increase their TVL share of the L2s, and the LRC token will probably continue to appreciate. It&#39;s probably a great investment. I also think that, in general, zk rollups will eventually emerge as superior to optimistic rollups, and L2s are unambiguously emerging as the superior choice over side chain scaling solutions. So, I think it&#39;s a good guess that zk rollup platforms like LRC will slowly grow to dominate the L2 pie. In general, I am bullish on LRC long-term. This post is not meant to be FUD at all. </p>\n\n<p>But no, Ethereum does not in any way, shape, or form rely upon or need LRC. LRC is just one of many excellent tools playing a small part in solving the most central blockchain tech challenge of the last 4 years: how to scale Ethereum.</p>\n</div><!-- SC_ON -->",
+  "score": 196,
+  "permalink": "/r/CryptoCurrency/comments/qqz7ih/recently_ive_seen_a_lot_of_people_saying_things/",
+  "subreddit": "CryptoCurrency",
+  "id": "qqz7ih",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "There are plenty of L2s and sidechains already that scale Ethereum L1. They all\nhave strengths and weaknesses. Let's start by looking at other zk rollup L2s\nlike LRC.\n\n\nOTHER ZK ROLLUP L2S\n\nThere exist several zk (zero-knowledge) rollup L2s besides LRC (both STARK and\nSNARK variety; look this up if…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "イーサリアムL1をスケールするL2やサイドチェーンはすでにたくさんあります。それらはすべて\n長所と短所があります。まず、他のzkロールアップL2を見てみましょう。\nLRCのようなものです。\n\n\n他のZKロールアップL2\n\nLRC以外にもzk（zero-knowledge）ロールアップL2がいくつか存在します（STARKとSNARKの両方の種類があります。\nSNARKの種類があります。",
+      "title": "最近、「イーサリアムの未来はLRCにかかっている」とか「イーサリアムはLRCがないと意味がない」などと言っている人をよく見かけます。さて、私はLRCの技術的な基礎は揺るぎないものだと思っていますが、他のイーサリアムのスケーリングソリューションの中でLRCをよりよく理解していただくために、いくつかの事実をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "已经有很多L2和侧链可以扩展Ethereum L1。它们都\n都有优势和劣势。让我们先来看看其他的ZK卷积L2\n如LRC。\n\n\n其他ZK卷积L2s\n\n除了LRC之外，还有几个zk（零知识）卷积L2（包括STARK和\nSNARK品种；如果要看这个...",
+      "title": "最近，我看到很多人说 \"以太坊的未来取决于LRC \"或 \"以太坊没有LRC就没有用 \"等话。现在，我认为LRC的技术基础坚如磐石，但这里有一些事实可以帮助你更好地了解LRC在其他以太坊扩展解决方案中的背景。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "已經有很多L2和側鏈可以擴展Ethereum L1。它們都\n都有優勢和劣勢。讓我們先來看看其他的ZK卷積L2\n如LRC。\n\n\n其他ZK卷積L2s\n\n除了LRC之外，還有幾個zk（零知識）卷積L2（包括STARK和\nSNARK品種；如果要看這個...",
+      "title": "最近，我看到很多人說 \"以太坊的未來取決於LRC \"或 \"以太坊沒有LRC就沒有用 \"等話。現在，我認爲LRC的技術基礎堅如磐石，但這裏有一些事實可以幫助你更好地瞭解LRC在其他以太坊擴展解決方案中的背景。"
+    }
+  ]
+}

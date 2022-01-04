@@ -1,0 +1,74 @@
+{
+  "author": "indonesian_activist",
+  "the_new_excerpt": "The purpose of these posts is to provide tools that enable 🦍 🦍 🦍 to calculate\nthe gamma squeeze effect for themselves.\n\nI've updated the gamma squeeze calculator to include all the option chains until\n2023 and removed the 3/5 expired ones, it now contains a total of 2,603 strikes\nand expiries. I…",
+  "original_created_utc": 1615205454,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这些职位的目的是提供工具，使🦍 🦍 🦍 能够计算。\n的伽马压榨效应。\n\n我更新了伽马压榨计算器，加入了所有的期权链，直到...。\n2023年，并去掉了3/5过期的，现在共包含2,603次罢工。\n和到期。I…",
+      "title": ""
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這些職位的目的是提供工具，使🦍 🦍 🦍 能夠計算。\n的伽馬壓榨效應。\n\n我更新了伽馬壓榨計算器，加入了所有的期權鏈，直到...。\n2023年，並去掉了3/5過期的，現在共包含2,603次罷工。\n和到期。I…",
+      "title": ""
+    }
+  ],
+  "title": "🦍 🦍 🦍 optimize your stimmy 🍌🍌🍌, $GME gamma squeeze calculator update",
+  "created_utc": 1615224103,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>The purpose of these posts is to provide tools that enable 🦍 🦍 🦍 to calculate the gamma squeeze effect for themselves.</p>\n\n<p>I&#39;ve updated the gamma squeeze calculator to include all the option chains until 2023 and removed the 3/5 expired ones, it now contains a total of 2,603 strikes and expiries. I have also added several new parameters to address shortcomings that others had pointed out. If for example you wish to only include strikes that will expire ITM in that week, now you can do it via the filters.</p>\n\n<p><a href=\"https://preview.redd.it/j8j3fot8nsl61.jpg?width=1120&amp;format=pjpg&amp;auto=webp&amp;s=fbd7f7bfc8658ee73bf64e2ece3c680ec49d5de2\">https://preview.redd.it/j8j3fot8nsl61.jpg?width=1120&amp;format=pjpg&amp;auto=webp&amp;s=fbd7f7bfc8658ee73bf64e2ece3c680ec49d5de2</a></p>\n\n<p><strong>Download Link</strong></p>\n\n<p><a href=\"https://drive.google.com/file/d/1IcUJUL3f9T3DJrniKBlJts8EQEOBAriy/view?usp=sharing\">https://drive.google.com/file/d/1IcUJUL3f9T3DJrniKBlJts8EQEOBAriy/view?usp=sharing</a></p>\n\n<p><sup>Takes time to load due to lots of vba calculation, does not contains viruses or malwares</sup></p>\n\n<p><strong>VirusTotal Scans</strong></p>\n\n<p><a href=\"https://preview.redd.it/91mgdbfcnsl61.jpg?width=1869&amp;format=pjpg&amp;auto=webp&amp;s=cc9ce5f895f2e0bf8c4b3b7c41833466280bf4a9\">https://preview.redd.it/91mgdbfcnsl61.jpg?width=1869&amp;format=pjpg&amp;auto=webp&amp;s=cc9ce5f895f2e0bf8c4b3b7c41833466280bf4a9</a></p>\n\n<p><a href=\"https://www.virustotal.com/gui/file/45d1f42c66f0fbeb91c4b8a81d7acac884e462fe2dab855b960d70dbcd0b1403/detection\">https://www.virustotal.com/gui/file/45d1f42c66f0fbeb91c4b8a81d7acac884e462fe2dab855b960d70dbcd0b1403/detection</a></p>\n\n<p>The calculator can be used to simulate several projected delta hedging scenarios under different forecasted prices with the time value as a parameter</p>\n\n<p><a href=\"https://preview.redd.it/ftfr19bmnsl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=8ee056d4fbcd4c95690d429d53c780f719511d29\">https://preview.redd.it/ftfr19bmnsl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=8ee056d4fbcd4c95690d429d53c780f719511d29</a></p>\n\n<p>We see from the cover that even using very conservative parameters, MMs are holding close to 20% of the float just to delta hedge, which might partly explain the high float percentage owned by institutions as displayed on Bloomberg&#39;s terminal.</p>\n\n<p>Now 🦍 🦍 🦍 only have limited amount of 🍌🍌🍌, 🦍 🦍 🦍 need to ensure each 🍌 is used for maximum effect. Based on the calculator&#39;s BSM modeling, the best delta/price ratio in the options chain across all expiries would be</p>\n\n<p><a href=\"https://preview.redd.it/7f1mifkqnsl61.jpg?width=1514&amp;format=pjpg&amp;auto=webp&amp;s=c0b071e11c59970d61a5b84efe8e4cde2a28c3c1\">https://preview.redd.it/7f1mifkqnsl61.jpg?width=1514&amp;format=pjpg&amp;auto=webp&amp;s=c0b071e11c59970d61a5b84efe8e4cde2a28c3c1</a></p>\n\n<p>The 3/12 270C, if apes were to buy one contract, 3.04 x 100 = $304, then MMs would need to hedge 0.137x100x137.74 = $1882 worth of shares to remain delta neutral</p>\n\n<p>Giving an amplification factor of</p>\n\n<p><strong>1 🍌 -&gt; 6 🍌</strong></p>\n\n<p>OTM calls like these might be fine for YOLO-ers 🦍 , but carry very high risk of 🦍 loosing all 🍌, if 3/12 closing price ends below 270. A safer way for 🦍, would probably be ITM calls, somewhere around the 100-110C strike price</p>\n\n<p><a href=\"https://preview.redd.it/nsheej6tnsl61.jpg?width=1517&amp;format=pjpg&amp;auto=webp&amp;s=9ebb4ab3f305e9d3e940c030ca1229592e2fce75\">https://preview.redd.it/nsheej6tnsl61.jpg?width=1517&amp;format=pjpg&amp;auto=webp&amp;s=9ebb4ab3f305e9d3e940c030ca1229592e2fce75</a></p>\n\n<p>This would still gives 1 🍌 -&gt; 3 🍌 in delta hedge amplification</p>\n\n<p>The profit / loss for 🦍🦍🦍 would be</p>\n\n<p><a href=\"https://preview.redd.it/rbgtyh85osl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=ad69aea9b0da22fda291cb21156cefba9bda245d\">https://preview.redd.it/rbgtyh85osl61.jpg?width=421&amp;format=pjpg&amp;auto=webp&amp;s=ad69aea9b0da22fda291cb21156cefba9bda245d</a></p>\n\n<p>Suppose $GME on 3/12 does close above 151, what should 🦍 do next ? Best would be to exercise those calls, but most 🦍🦍🦍 are poor(because they are 🦍🦍🦍) and don&#39;t have enough powder to exercise calls. The next best thing would be to rollover those calls, selling 🦍&#39;s calls that are expiring and buying the next week&#39;s ITM calls at higher strike, further propagating the gamma squeeze. Here&#39;s a graphical illustration of the process</p>\n\n<p><a href=\"https://preview.redd.it/4tvci7b7osl61.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=16ac2e20103057ca7421be70b341850cef7bc34d\">https://preview.redd.it/4tvci7b7osl61.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=16ac2e20103057ca7421be70b341850cef7bc34d</a></p>\n\n<p>this way, 🦍 ape can ensure 🍌 is used to maximum effect, without taking on too much risk while also mitigating the shorts attacks.</p>\n\n<p>🦍🦍🦍 path to victory is almost ensured, but 🦍 should be aware that  🦍 is not in the final stage yet, 🦍 still needs to go through MMs first before showdown with 🐊👑 in WallStreet. MMs are cold blooded amphibian species that likes to dwell in polluted bodies of water, thus most can be found alongside the Chicago river in Wacker drive. The following map shows path to infinite 🍌🍌🍌</p>\n\n<p><a href=\"https://preview.redd.it/7hc1j48dosl61.jpg?width=1293&amp;format=pjpg&amp;auto=webp&amp;s=8e792ecfe8d5dcd35f7ce9aa4f742a32de431413\">https://preview.redd.it/7hc1j48dosl61.jpg?width=1293&amp;format=pjpg&amp;auto=webp&amp;s=8e792ecfe8d5dcd35f7ce9aa4f742a32de431413</a></p>\n\n<h1>TL;DR 🦍🦍🦍 🤲 💪, 🦍🦍🦍 🤲 + 📊 = 👨‍🚀🚀🌕💰🏦</h1>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><sup>Technical Notes:</sup></p>\n\n<p><sup>- Update options data from Barchart</sup> <a href=\"https://www.barchart.com/stocks/quotes/GME/options\"><sup>https://www.barchart.com/stocks/quotes/GME/options</sup></a> <sup>(Click download</sup>)</p>\n\n<p><sup>- The Macro function delta results compared with OptionMatrix&#39;s BSM PolyApprox6 method is 0.809 vs 0.82, ie accuracy within +/-1.5%</sup></p>\n\n<p><sup>- Yes nerd apes, I could have used American options model like Am Pepetual, Barone-Adhesi Whaley or discreet models like Trinomial Tree, but its difficult to get delta from those and it would totally kill excel to calculate &gt;2000 options chain. Furthermore posting a win32 c binary instead of an excel macro in wsb would probably cause the mods to go ape shit.</sup></p>\n</div><!-- SC_ON -->",
+  "score": 4293,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?auto=webp&s=69b25fe23faad4d5ed268966cc51ca2131cfb544",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=108&crop=smart&auto=webp&s=0abf543484f888ad66d913b0a540d9f1baa558ce",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=216&crop=smart&auto=webp&s=85c35cadd63527bb9d0f6ed9fa238a6b7079ea1f",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=320&crop=smart&auto=webp&s=6a5e15daa8cd089f94520f431ca3a520a7338822",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=640&crop=smart&auto=webp&s=92daec092c4b0f3b411e062c6db4b97737c62fe4",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=960&crop=smart&auto=webp&s=4a8a327de62800463ba524af46587e397f7478be",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/nta3w8U8kSd63UEgbtccOMS9RNPIN8lC341AU1ZTPyg.jpg?width=1080&crop=smart&auto=webp&s=3113bebc0679d8fdbd05b30dcf71ed7868309b39",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "QGKZA9ISaiCqOonB2wmPIWHDDe0CHaYEVtDgLSoKhGI"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/wallstreetbets/comments/m0eeav/optimize_your_stimmy_gme_gamma_squeeze_calculator/",
+  "subreddit": "wallstreetbets",
+  "id": "m0eeav",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1615542586486
+}

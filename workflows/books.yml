@@ -1,0 +1,55 @@
+on:
+  reddit:
+    url:
+      - https://www.reddit.com/r/booksuggestions/top/
+      - https://www.reddit.com/r/books/top/
+    source: json
+    client: puppeteer-fetch
+    config:
+      active: false
+      # limit: 2
+      # force: true
+      outputsMode: combine
+      exportOutputs: true
+      filterScript: |
+        if(item.score>50){
+          return true
+        }
+
+      format: |
+        const format = require(`${process.env.GITHUB_WORKSPACE}/scripts/format.js`)
+        item = format("reddit",item)
+        item.original_created_utc = item.created_utc;
+        item.created_utc = Math.floor(Date.now() / 1000);
+        return item
+    requestConfig:
+      axios-retry:
+        retries: 3
+      params:
+        raw_json: 1
+jobs:
+  saveredditstocks:
+    name: save to json
+    runs-on: ubuntu-latest
+    steps:
+      - name: Format reddit JSON
+        if: on.reddit.outcome === 'success'
+        env:
+          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
+        uses: ./.github/actions/format
+        with:
+          function: reddit
+      - name: Create Reddit JSON
+        if: on.reddit.outcome === 'success'
+        uses: actions/github-script@v3
+        env:
+          OUTPUTS_PATH: ${{ on.reddit.outputs.path }}
+        with:
+          github-token: ${{ secrets.PERSONAL_TOKEN }}
+          script: |
+            const generateSources = require(`${process.env.GITHUB_WORKSPACE}/scripts/generate-reddit-top-module.js`)
+            await generateSources({
+              dest:"./data/reddit-books",
+              name:"reddit-books"
+            })
+            return true

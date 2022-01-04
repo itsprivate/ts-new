@@ -1,0 +1,78 @@
+{
+  "author": "ChristinaBartozzi",
+  "original_created_utc": 1636135274,
+  "title": "inlang: an open-source localization and internationalization solution with type-safety, machine translations, external translators, and automatic sync",
+  "created_utc": 1636147738,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>\n\n<p><a href=\"https://i.redd.it/f6utve1qnqx71.gif\">Creating and managing keys with inlang </a></p>\n\n<p>Hi everyone,</p>\n\n<p>Three months ago we posted a <a href=\"https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/\">proof of concept</a> for our translation tool inlang on <a href=\"https://www.reddit.com/r/sveltejs/\">r/sveltejs</a>. We now have an early alpha version and would like to hear your thoughts on our solution.</p>\n\n<p>Inlang makes the process of translating apps easier by being the only tool you will need for the entire process of localizing (l10n) and internationalizing (i18n) your app. We support easy collaboration through our dashboard, to allow for easy outsourcing of manual translation if automatic machine learning translated keys do not suit your need.</p>\n\n<p>In the current version you will get:</p>\n\n<ul>\n<li>Easy key creation directly in VSCode using our extension</li>\n<li>Automatic ML translations of all keys</li>\n<li>Type-safety using <a href=\"https://github.com/ivanhofer/typesafe-i18n\">typesafe-i18n</a> (thanks to <a href=\"https://www.reddit.com/u/ivanhofer/\">/u/ivanhofer</a>)</li>\n<li>Auto-sync between dashboard and source code</li>\n<li>Collaboration with team members and/or external translators</li>\n</ul>\n\n<p>You can try out our examples (Next.js, React, SvelteKit), or create a project yourself by cloning our <a href=\"https://github.com/inlang/inlang\">repo</a> and following the getting started <a href=\"https://docs.inlang.dev/getting-started/svelte-kit\">docs</a>.</p>\n\n<p>&#x200B;</p>\n\n<p>Check out our YouTube video for a more in depth walk-through of inlang:</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=mQkD1Wckp3U\">https://www.youtube.com/watch?v=mQkD1Wckp3U</a></p>\n\n<p>If you use React, check out our getting started with react video:</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=mB1o76X5KeM\">https://www.youtube.com/watch?v=mB1o76X5KeM</a></p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?auto=webp&s=a9f5170c8afbde27401928aac7aec55000ffd866",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?width=108&crop=smart&auto=webp&s=2c6de36756d486681c06ceacd9668632f02115be",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?width=216&crop=smart&auto=webp&s=d0694045ec671ef68fbcd87427be8bad733af651",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?width=320&crop=smart&auto=webp&s=190c3cfa69dbb9aa52721ba1ca446dae8d37c3dc",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?width=640&crop=smart&auto=webp&s=9724f272ddde877e8ec5f5eec61f46943166a641",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?width=960&crop=smart&auto=webp&s=4d6ac06ca4a36378567198156d9679041428ce66",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/CfA9MxQdvhBFTcPBdE5OA0e3wEZiKvMRL7jTx6RRqE8.jpg?width=1080&crop=smart&auto=webp&s=ac774c341929524818462943fc67c2a72c63de4a",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "XDNsgNU4bHh1n2f3x8ABb7jCHFxLnnLTbwS9j0nxqLg"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/qngtt6/inlang_an_opensource_localization_and/",
+  "subreddit": "SideProject",
+  "id": "qngtt6",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Creating and managing keys with inlang [https://i.redd.it/f6utve1qnqx71.gif]\n\nHi everyone,\n\nThree months ago we posted a proof of concept\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\nfor our translation tool inlang on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "inlangでのキーの作成と管理 [https://i.redd.it/f6utve1qnqx71.gif]\n\nみなさん、こんにちは。\n\n3ヶ月前、私たちはコンセプトの証明を投稿しました\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\nを投稿しましたが、これは私たちの翻訳ツールinlangの...",
+      "title": "inlang: 型安全性、機械翻訳、外部翻訳者、自動同期機能を備えたオープンソースのローカリゼーションおよび国際化ソリューション"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "用inlang创建和管理钥匙 [https://i.redd.it/f6utve1qnqx71.gif]\n\n大家好。\n\n三个月前，我们发布了一个概念证明\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\n我们的翻译工具inlang的概念证明。",
+      "title": "inlang：一个开源的本地化和国际化解决方案，具有类型安全、机器翻译、外部译者和自动同步功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "用inlang創建和管理鑰匙 [https://i.redd.it/f6utve1qnqx71.gif]\n\n大家好。\n\n三個月前，我們發佈了一個概念證明\n[https://www.reddit.com/r/sveltejs/comments/p4h6bg/proof_of_concept_internationalize_a_svelte_app_in/]\n我們的翻譯工具inlang的概念證明。",
+      "title": "inlang：一個開源的本地化和國際化解決方案，具有類型安全、機器翻譯、外部譯者和自動同步功能"
+    }
+  ]
+}

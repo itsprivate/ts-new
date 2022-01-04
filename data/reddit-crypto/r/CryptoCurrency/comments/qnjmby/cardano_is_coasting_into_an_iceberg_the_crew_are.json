@@ -1,0 +1,78 @@
+{
+  "author": "Awhodothey",
+  "original_created_utc": 1636143296,
+  "title": "Cardano is coasting into an iceberg, the crew are starting to see it, but no one wants to startle the passengers by preparing the lifeboats.",
+  "created_utc": 1636159430,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Sundaeswap swap has recently released their work around for the fact that UTXO currently cannot run a permissionless, decentralized AMM DEX (Uniswap/PancakeSwap). Items of note:</p>\n\n<p>-the Sundaeswap team determined that the entire Cardano chain, without any other dApps competing for resources, will have slower <strong>PEAK</strong> tx speeds than half the <strong>AVERAGE</strong> tx rate used by one dApp on ethereum. They compared cardano&#39;s peak to the average rate on Uniswap v3 (but didn&#39;t count v2). Cardano will have options to speed that up in the future, but they are not ready yet (see second link below). And even then, cardano will still be slower than ETH, the slowest layer one chain that anyone has ever heard of. [See <a href=\"/u/grimmergrimmergrime\">u/grimmergrimmergrime</a> &#39;s comment for an estimate of v2&#39;s speed: <a href=\"https://www.reddit.com/r/CryptoCurrency/comments/qnjmby/cardano_is_coasting_into_an_iceberg_the_crew_are/hjhhfz5?utm_medium=android_app&amp;utm_source=share&amp;context=3\">https://www.reddit.com/r/CryptoCurrency/comments/qnjmby/cardano_is_coasting_into_an_iceberg_the_crew_are/hjhhfz5?utm_medium=android_app&amp;utm_source=share&amp;context=3</a>] </p>\n\n<p>-They accurately explain why all the other proposed solutions create vulnerabilities, weaknesses, market inefficiency, attack vectors and centralization that Uniswap does not have</p>\n\n<p>-They propose to add a novel, gated and &quot;trusted&quot; application-specific proof of stake layer with untested incentives (and untestable due to the lack of direct fee incentives on a testnet). They have determined that the best way to avoid the UTXO concurrency dilemma is to appoint third party aggregators to execute all of the orders, and &quot;[t]he first step is choosing trusted members of the community to run them.&quot; So much for having the most decentralized chain. </p>\n\n<p>-They rate every solution to this problem, including their own, as requiring more development work and creating more &quot;surface area [that] needs to be audited&quot; than Uniswap. So much for the advantage of UTXO being easier to audit. </p>\n\n<p>:<a href=\"https://sundaeswap-finance.medium.com/sundaeswap-labs-presents-the-scooper-model-678d6054318d\">https://sundaeswap-finance.medium.com/sundaeswap-labs-presents-the-scooper-model-678d6054318d</a></p>\n\n<p>Meanwhile, Cardano devs are finally getting serious about starting the public conversation around why txs fees are necessary to avoid catastrophic network congestion, why cardano needs decentralized development, and the mistake of not having a longterm roadmap and pursuing layer 2 solutions sooner:</p>\n\n<p><a href=\"https://m.youtube.com/watch?v=3dc6zG9EjWE\">https://m.youtube.com/watch?v=3dc6zG9EjWE</a></p>\n</div><!-- SC_ON -->",
+  "score": 205,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?auto=webp&s=bfe3a15eb49952b46493ff7d0c0441a5d23eb592",
+          "width": 1200,
+          "height": 559
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?width=108&crop=smart&auto=webp&s=b48fa2fba6c4f87ea642a37555b795373194cd6f",
+            "width": 108,
+            "height": 50
+          },
+          {
+            "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?width=216&crop=smart&auto=webp&s=b9d3843b3fe1e741f6a2ed228039efa73269bdcd",
+            "width": 216,
+            "height": 100
+          },
+          {
+            "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?width=320&crop=smart&auto=webp&s=56e54329d28271eea4000842a65cceb9a61d6387",
+            "width": 320,
+            "height": 149
+          },
+          {
+            "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?width=640&crop=smart&auto=webp&s=eb7de36c15fc1b68efd78be064dc9abfbece4192",
+            "width": 640,
+            "height": 298
+          },
+          {
+            "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?width=960&crop=smart&auto=webp&s=603302b64410ebcc9f1fc9ce75c3af65b533cf3a",
+            "width": 960,
+            "height": 447
+          },
+          {
+            "url": "https://external-preview.redd.it/OasRSX9PHYC_-Yz0P4DqChdRiIENX8ys26yZ8Fv9340.jpg?width=1080&crop=smart&auto=webp&s=4d5a6819a219d53d281f4e621a7416fa916e2271",
+            "width": 1080,
+            "height": 503
+          }
+        ],
+        "variants": {},
+        "id": "pTxv_y62fnEvzaReWtlP3dxYj3pSbT0q-FC1Dzz9QYQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/qnjmby/cardano_is_coasting_into_an_iceberg_the_crew_are/",
+  "subreddit": "CryptoCurrency",
+  "id": "qnjmby",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Sundaeswap swap has recently released their work around for the fact that UTXO\ncurrently cannot run a permissionless, decentralized AMM DEX\n(Uniswap/PancakeSwap). Items of note:\n\n-the Sundaeswap team determined that the entire Cardano chain, without any other\ndApps competing for resources, will have…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Sundaeswap swapは、UTXOが現在、許可のない分散型AMM DEXを実行できないという事実に対する回避策を最近発表しました。\nは現在、パーミッションレスで分散型のAMM DEXを実行できません\n(Uniswap/PancakeSwap)を発表しました。注目すべき点\n\n-Sundaeswapチームは、他のdAppがリソースを奪い合うことなく、カルダノチェーン全体で行うことを決定しました。\nSundaeswapチームは、他のdAppsがリソースを競合することなく、カルダノチェーン全体で...",
+      "title": "カルダノは氷山に向かって惰性で進んでいる。乗組員たちはそれを見始めているが、誰も救命ボートを用意して乗客を驚かせようとはしない。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Sundaeswap swap最近发布了他们的工作方案，以解决UTXO\n目前不能运行一个无权限的、分散的AMM DEX\n(Uniswap/PancakeSwap）。值得注意的项目。\n\n-Sundaeswap团队确定，整个Cardano链，没有任何其他的\ndApps竞争资源，将有...",
+      "title": "卡达诺正在驶入一座冰山，船员们开始看到它，但没有人想通过准备救生艇来惊动乘客。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Sundaeswap swap最近發佈了他們的工作方案，以解決UTXO\n目前不能運行一個無權限的、分散的AMM DEX\n(Uniswap/PancakeSwap）。值得注意的項目。\n\n-Sundaeswap團隊確定，整個Cardano鏈，沒有任何其他的\ndApps競爭資源，將有...",
+      "title": "卡達諾正在駛入一座冰山，船員們開始看到它，但沒有人想通過準備救生艇來驚動乘客。"
+    }
+  ]
+}

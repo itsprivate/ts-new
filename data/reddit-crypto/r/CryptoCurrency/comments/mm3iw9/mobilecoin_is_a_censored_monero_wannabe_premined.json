@@ -1,0 +1,79 @@
+{
+  "author": "SamsungGalaxyPlayer",
+  "the_new_excerpt": "Some of you may have heard that Signal is testing payments in the app for UK\nusers [https://signal.org/blog/help-us-test-payments-in-signal/]. You may think\n\"yay crypto adoption!\" Don't.\n\nMobileCoin is a new cryptocurrency that takes the basic building blocks of\nMonero (RingCT, Bulletproofs,…",
+  "original_created_utc": 1617806254,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ご存知の方もいらっしゃると思いますが、Signalは英国のユーザーを対象にアプリでの支払いをテストしています。\nhttps://signal.org/blog/help-us-test-payments-in-signal/]を行っています。皆さんは\n\"yay crypto adoption!\" やめておきましょう。\n\nMobileCoinは、新しい暗号通貨で、基本的な構成要素である\nMonero（RingCT、Bulletproofs、...。",
+      "title": "MobileCoinは打ち切り、Moneroのワナ、Signalからの事前のキャッシュグラブです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有些人可能听说过，Signal正在测试英国的应用中的支付。\n用户[https://signal.org/blog/help-us-test-payments-in-signal/]。您可能认为\n\"Yay crypto adoption!\" 不要。\n\nMobileCoin是一种新的加密货币，它采用了基本的构件。\nMonero（RingCT、防弹、...",
+      "title": "MobileCoin是Signal的一个被查封的、Monero的崇拜者、预设的现金抢夺者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有些人可能聽說過，Signal正在測試英國的應用中的支付。\n用戶[https://signal.org/blog/help-us-test-payments-in-signal/]。您可能認爲\n\"Yay crypto adoption!\" 不要。\n\nMobileCoin是一種新的加密貨幣，它採用了基本的構件。\nMonero（RingCT、防彈、...",
+      "title": "MobileCoin是Signal的一個被查封的、Monero的崇拜者、預設的現金搶奪者。"
+    }
+  ],
+  "title": "MobileCoin is a censored, Monero wannabe, premined cash-grab from Signal",
+  "created_utc": 1617827426,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Some of you may have heard that Signal is <a href=\"https://signal.org/blog/help-us-test-payments-in-signal/\">testing payments in the app for UK users</a>. You may think &quot;yay crypto adoption!&quot; Don&#39;t.</p>\n\n<p>MobileCoin is a new cryptocurrency that takes the basic building blocks of Monero (RingCT, Bulletproofs, subaddresses, etc) and implements them in Rust. Then it implements in Signal, a leading messaging application that I have been using for 7 years.</p>\n\n<p>Sadly, that&#39;s where the cool parts end. There are a huge number of concerns below:</p>\n\n<h3>MobileCoin is 100% premined</h3>\n\n<p>100% of the supply was created in 16 outputs that can be distributed however the initial founders like. There is extremely limited information about how they will be distributed, though it&#39;s highly likely that the founders will keep some for themselves.</p>\n\n<h3>MobileCoin seems to be a monetization strategy for Signal</h3>\n\n<p>I am told by a trusted source that the investment pitch of MobileCoin to VCs was that it would be implemented in Signal. MobileCoin seems to be a monetization strategy for Signal.</p>\n\n<p>Monetization alone isn&#39;t bad, but Signal should be up-front about what this is. Instead, they are telling media misleading statements while the Signal board is profiting through another venture. Signal would not just choose MobileCoin over Monero if there weren&#39;t other incentives involved.</p>\n\n<h3>MobileCoin relies on Intel SGX to verify transactions</h3>\n\n<p>Simply, MobileCoin uses trusted Intel SGX hardware to verify transactions. Many experts believe this is a terrible security assumption. It&#39;s unclear to me at this stage what would happen if these assumptions start to break down. You also rely on Intel SGX to not have a backdoor.</p>\n\n<p><a href=\"https://arstechnica.com/information-technology/2020/03/hackers-can-steal-secret-data-stored-in-intels-sgx-secure-enclave/\">https://arstechnica.com/information-technology/2020/03/hackers-can-steal-secret-data-stored-in-intels-sgx-secure-enclave/</a></p>\n\n<p><a href=\"https://wccftech.com/intel-cpu-plundervolt-flaw-spills-secrets-through-voltage-manipulation/\">https://wccftech.com/intel-cpu-plundervolt-flaw-spills-secrets-through-voltage-manipulation/</a></p>\n\n<h3>The MobileCoin team seems intent to discredit Monero wherever they can</h3>\n\n<p>Monero is a pretty well-respected project in the cryptocurrency space. In my mind, the fact that MobileCoin used so much cryptography researched at the Monero Research Lab speaks to the opportunity for a mutual relationship. Ideally, MobileCoin could use some of its resources to contribute back to Monero and support research they are using.</p>\n\n<p>Instead, they don&#39;t mention Monero at all. They instead mention CryptoNote, a protocol that doesn&#39;t have RingCT or subaddresses. It&#39;s one thing to disagree with certain design decisions, but it&#39;s obviously in poor taste to not mention the people who did all this work AT ALL <a href=\"https://twitter.com/fluffypony/status/1379559273504641025\">https://twitter.com/fluffypony/status/1379559273504641025</a></p>\n\n<p>Further, a MobileCoin developer describes Monero as &quot;having literally the worst codebase I&#39;ve ever seen.&quot; <a href=\"https://twitter.com/fluffypony/status/1379603450175053825\">https://twitter.com/fluffypony/status/1379603450175053825</a></p>\n\n<p>Edit for balance: Monero is mentioned in one technical document written by the same author of Zero to Monero: <a href=\"https://twitter.com/selsta541/status/1379809205864050691\">https://twitter.com/selsta541/status/1379809205864050691</a></p>\n\n<h3>MobileCoin is blocked in some countries, including the US, and MobileCoin supports currency controls</h3>\n\n<p>MobileCoin actively blocks US users as a crude compliance measure, as well as users in other countries. Using MobileCoin in these jurisdictions is against their ToS. Do you ever wish Bitcoin wasn&#39;t available to US users? I didn&#39;t think so.</p>\n\n<p>MobileCoin supports &quot;currency controls&quot;: &quot;At MobileCoin, we believe governments have a legitimate interest in regulating the economic lives of their citizens.&quot; <a href=\"https://twitter.com/_benkaufman/status/1379760279324614664\">https://twitter.com/_benkaufman/status/1379760279324614664</a></p>\n\n<h3>Summary</h3>\n\n<p>If you want a premined, centralized coin that censors transactions, with security assumptions reliant on Intel, and which makes a bunch of VCs rich, then use MobileCoin. Otherwise, use Monero.</p>\n\n<p>This whole MobileCoin release was going to be bad even in the best of cases if they support censorship. But they actively made it even worse with their actions. MobileCoin reflects poorly on Signal, something I have recommended in the past. I will encourage all users to use <a href=\"https://matrix.org\">Matrix</a> instead.</p>\n\n<hr/>\n\n<p>Thanks to Seth for their excellent Tweet on the topic: <a href=\"https://twitter.com/sethisimmons/status/1379791201558278144\">https://twitter.com/sethisimmons/status/1379791201558278144</a></p>\n</div><!-- SC_ON -->",
+  "score": 338,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?auto=webp&s=ad66592d175a8d3ed3a172c6760897f7bc1b7b7a",
+          "width": 2400,
+          "height": 1350
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?width=108&crop=smart&auto=webp&s=2bacf647cffbe4dc15cd5f54d60a8645596b87b5",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?width=216&crop=smart&auto=webp&s=12d6bba10ffe7ebbc5cc88ee03e0d54b465e24e2",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?width=320&crop=smart&auto=webp&s=6edb9a93264d3c2766e8f0bd9b33736842bcf990",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?width=640&crop=smart&auto=webp&s=485593346cfa09ed50d3bb3de3bd62d78fc9c047",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?width=960&crop=smart&auto=webp&s=fd604c39b3989978e26c6277bea44d7fef163d1c",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/qi1AtchqkR4-j0HGF9VZ2HbS6qipvchJSsb7IpwXSiI.jpg?width=1080&crop=smart&auto=webp&s=967418f72bf7eb6d20c6f8306d0edb424880a5b9",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "G3QBSnck5EkWAX3ZJYYJz0y9pVi2fu8DODe3Okt2lEI"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mm3iw9/mobilecoin_is_a_censored_monero_wannabe_premined/",
+  "subreddit": "CryptoCurrency",
+  "id": "mm3iw9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1617961876913
+}

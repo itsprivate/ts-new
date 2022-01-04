@@ -1,0 +1,86 @@
+{
+  "created_at": "Tue Aug 24 7:30:36 +0000 2021",
+  "id_str": "1430032161747386369",
+  "full_text": "Take an early look at the front page of The Wall Street Journal https://t.co/bxFJfeGS71 https://t.co/ZdKxt6Gjp4",
+  "display_text_range": [
+    0,
+    87
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/bxFJfeGS71",
+        "expanded_url": "https://on.wsj.com/3jbt7jF",
+        "display_url": "on.wsj.com/3jbt7jF",
+        "indices": [
+          64,
+          87
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1430032155598536700,
+        "id_str": "1430032155598536709",
+        "indices": [
+          88,
+          111
+        ],
+        "media_url": "http://pbs.twimg.com/media/E9h-qzvWQAU8RAi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E9h-qzvWQAU8RAi.jpg",
+        "url": "https://t.co/ZdKxt6Gjp4",
+        "display_url": "pic.twitter.com/ZdKxt6Gjp4",
+        "expanded_url": "https://twitter.com/WSJ/status/1430032161747386369/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 363,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1092,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 640,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 35,
+  "favorite_count": 83,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Aug 24 05:00:10 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "The Wall Street Journalの一面をいち早く見てみよう！ https://t.co/bxFJfeGS71 https://t.co/ZdKxt6Gjp4"
+    },
+    {
+      "locale": "zh",
+      "full_text": "提前看一下《华尔街日报》的头版 https://t.co/bxFJfeGS71 https://t.co/ZdKxt6Gjp4"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "提前看一下《華爾街日報》的頭版 https://t.co/bxFJfeGS71 https://t.co/ZdKxt6Gjp4"
+    }
+  ]
+}

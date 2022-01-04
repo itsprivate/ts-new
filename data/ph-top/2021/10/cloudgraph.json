@@ -1,0 +1,90 @@
+{
+  "id": "317415",
+  "commentsCount": 2,
+  "createdAt": "2021-10-28T15:05:56.765Z",
+  "description": "CloudGraph is a free and open-source GraphQL-powered search engine for your AWS infrastructure. CloudGraph makes it easy for cloud engineers to write GraphQL queries in order to solve security, compliance, governance, asset inventory, and cost problems.",
+  "featuredAt": "2021-10-28T07:01:00Z",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://ph-files.imgix.net/11e2748a-c7ac-48a4-a6a7-7627927800ec.jpeg?auto=format",
+      "videoUrl": "https://youtu.be/Kj8Ws6l2H7U"
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/de0dbbb0-83f6-4cff-8185-d008dba7c8bc.jpeg?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/a6158839-157d-4ae7-9085-c2b6c2b14005.jpeg?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/ff4c1d02-7ce4-4cc7-8d25-1c5737d4bd9d.jpeg?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/fd9ef499-8648-4f02-95bc-1dda028c1c82.jpeg?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "CloudGraph",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/73e7a873c89f22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Jamie Barton",
+    "url": "https://www.producthunt.com/@notrab?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "cloudgraph",
+  "tagline": "The GraphQL API for AWS",
+  "url": "https://www.producthunt.com/posts/cloudgraph?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 204,
+  "website": "https://www.producthunt.com/r/73e7a873c89f22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Open Source"
+        }
+      },
+      {
+        "node": {
+          "name": "Software Engineering"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CloudGraphは、無料かつオープンソースのGraphQLを用いたAWSインフラストラクチャ用の検索エンジンです。CloudGraphは、セキュリティ、コンプライアンス、ガバナンス、アセット・インベントリ、コストなどの問題を解決するために、クラウドエンジニアがGraphQLクエリを簡単に書くことを可能にします。",
+      "tagline": "GraphQL API for AWS"
+    },
+    {
+      "locale": "zh",
+      "description": "CloudGraph是一个免费的、开源的、以GraphQL为动力的搜索引擎，用于你的AWS基础设施。CloudGraph使云计算工程师能够轻松地编写GraphQL查询，以解决安全、合规、治理、资产库存和成本问题。",
+      "tagline": "用于AWS的GraphQL API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CloudGraph是一個免費的、開源的、以GraphQL爲動力的搜索引擎，用於你的AWS基礎設施。CloudGraph使雲計算工程師能夠輕鬆地編寫GraphQL查詢，以解決安全、合規、治理、資產庫存和成本問題。",
+      "tagline": "用於AWS的GraphQL API"
+    }
+  ],
+  "source_updated_at": 1636105296284
+}

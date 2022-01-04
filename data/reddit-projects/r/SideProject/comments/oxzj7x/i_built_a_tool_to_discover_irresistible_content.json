@@ -1,0 +1,32 @@
+{
+  "author": "0x00f00f00f",
+  "original_created_utc": 1628103141,
+  "title": "I built a tool to discover irresistible content ideas from Reddit",
+  "created_utc": 1628125844,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>It helps you come up with content ideas that are highly desired by people in your niche. It&#39;s closest to Answer The Public if I had to make a direct comparison.</p>\n\n<p><strong>What does it do:</strong> You pick a topic, it will then go through related subreddits and extract submissions that are <strong>questions</strong>, and cluster the questions into similar topics. Submissions are <strong>sorted based on the number of comments/score</strong> in each topic. The highly ranked submissions can then be used for generating new content ideas.</p>\n\n<p>For example, here&#39;s a top questions in Topic #7 sourced from <a href=\"/r/cars\">r/cars</a></p>\n\n<p>Topic #7 keywords: <strong>expensive, luxury, luxury_brand, sell, buy</strong></p>\n\n<p>&#x200B;</p>\n\n<table><thead>\n<tr>\n<th align=\"left\">num_comments</th>\n<th align=\"left\">score</th>\n<th align=\"left\">title</th>\n</tr>\n</thead><tbody>\n<tr>\n<td align=\"left\">213</td>\n<td align=\"left\">194</td>\n<td align=\"left\">what vehicles have the largest disconnects between high msrp and low cost of ownership?</td>\n</tr>\n<tr>\n<td align=\"left\">509</td>\n<td align=\"left\">165</td>\n<td align=\"left\">what cars would you consider to be stealth wealth ?</td>\n</tr>\n<tr>\n<td align=\"left\">486</td>\n<td align=\"left\">152</td>\n<td align=\"left\">what cool cars are available new right now that people just arent buying?</td>\n</tr>\n<tr>\n<td align=\"left\">317</td>\n<td align=\"left\">102</td>\n<td align=\"left\">what are some cars that make it look like you have more money?</td>\n</tr>\n</tbody></table>\n\n<p>Full results: <a href=\"https://sable-column-552.notion.site/Subreddit-r-Cars-58bc817166234832827eb22e1111bf4f\">https://sable-column-552.notion.site/Subreddit-r-Cars-58bc817166234832827eb22e1111bf4f</a></p>\n\n<p><strong>What I&#39;m Hoping for Here</strong></p>\n\n<p>So basically I&#39;m just looking for feedback about the idea in general. If you have any questions, happy to answer. PM me your keywords or subreddits and we will run a report manually for you (for free).</p>\n</div><!-- SC_ON -->",
+  "score": 8,
+  "permalink": "/r/SideProject/comments/oxzj7x/i_built_a_tool_to_discover_irresistible_content/",
+  "subreddit": "SideProject",
+  "id": "oxzj7x",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "It helps you come up with content ideas that are highly desired by people in\nyour niche. It's closest to Answer The Public if I had to make a direct\ncomparison.\n\nWhat does it do: You pick a topic, it will then go through related subreddits\nand extract submissions that are questions, and cluster the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ニーズの高いコンテンツのアイデアを考え出すのに役立ちます。\nあなたのニッチな分野で 直接的な比較をするならば、「Answer The Public」に一番近いですね。\n比べてみてください。\n\nどんな機能なの？トピックを選ぶと、それに関連するサブレディットを調べて\n質問の投稿を抽出して、それをクラスター化します。",
+      "title": "Redditから魅力的なコンテンツのアイデアを発見するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它可以帮助你想出人们非常需要的内容想法。\n你的利基市场。如果非要直接比较的话，它最接近于《回答公众》。\n比较。\n\n它是做什么的。你选择一个主题，然后它将通过相关的subreddits\n并提取提交的问题，并将这些问题归类。",
+      "title": "我建立了一个工具，从Reddit发现不可抗拒的内容创意"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它可以幫助你想出人們非常需要的內容想法。\n你的利基市場。如果非要直接比較的話，它最接近於《回答公衆》。\n比較。\n\n它是做什麼的。你選擇一個主題，然後它將通過相關的subreddits\n並提取提交的問題，並將這些問題歸類。",
+      "title": "我建立了一個工具，從Reddit發現不可抗拒的內容創意"
+    }
+  ]
+}

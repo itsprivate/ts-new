@@ -1,0 +1,88 @@
+{
+  "author": "dibs45",
+  "original_created_utc": 1629988403,
+  "title": "Emulating a CPU in software",
+  "created_utc": 1629996769,
+  "selftext_html": null,
+  "score": 8,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?format=pjpg&auto=webp&s=9e5a38d2063fd49035b4212ff239ac50f7fa1c52",
+          "width": 1620,
+          "height": 1080
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?width=108&crop=smart&format=pjpg&auto=webp&s=114f6ccb8dc45f7ada78aeba8635b281fef9bbf7",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?width=216&crop=smart&format=pjpg&auto=webp&s=c8f9fc410bd742e8e04031a084f1913cbef15bde",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?width=320&crop=smart&format=pjpg&auto=webp&s=521c86440b22fffcfe3d027e9c769bb09d986074",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?width=640&crop=smart&format=pjpg&auto=webp&s=a6009fbe0516061fff6ea92efd9391c23cba8d43",
+            "width": 640,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?width=960&crop=smart&format=pjpg&auto=webp&s=6e76d233d6604577da02f8d0d74a79bf526dff64",
+            "width": 960,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/AtxAzcwHueBwvvuIQf1s51256H5xPKYP9EXEtvbwg7w.png?width=1080&crop=smart&format=pjpg&auto=webp&s=688abbc964fa8fe17d6f3637563e73fa18fd8e8f",
+            "width": 1080,
+            "height": 720
+          }
+        ],
+        "variants": {},
+        "id": "tbUOQE4eKPZJuqWAA72dFIid5xgpEyYhTjtGHJI2QLY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/pc0q9r/emulating_a_cpu_in_software/",
+  "subreddit": "SideProject",
+  "id": "pc0q9r",
+  "is_self": false,
+  "media": {
+    "reddit_video": {
+      "bitrate_kbps": 4800,
+      "fallback_url": "https://v.redd.it/up28weajqpj71/DASH_1080.mp4?source=fallback",
+      "height": 1080,
+      "width": 1620,
+      "scrubber_media_url": "https://v.redd.it/up28weajqpj71/DASH_96.mp4",
+      "dash_url": "https://v.redd.it/up28weajqpj71/DASHPlaylist.mpd?a=1632588768%2CMGY2MGE0OTQ0YjUzZTE0ZTU5NzBhMjMzMGU1OTQyZjMxZDdiZTg3YjI3NjgyZTlhMzkxMzJiNjQ1Njg5MmMxNQ%3D%3D&v=1&f=sd",
+      "duration": 41,
+      "hls_url": "https://v.redd.it/up28weajqpj71/HLSPlaylist.m3u8?a=1632588768%2COGViYTdkYTMzOGIzNWU2MjUzZDk2YjhiNjY1MDdkOTMwZmRhMjIzNGE5ZmM2MDMwMmQwMjhlYjFlMmU4NGRmNQ%3D%3D&v=1&f=sd",
+      "is_gif": false,
+      "transcoding_status": "completed"
+    }
+  },
+  "is_video": true,
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソフトウェアでCPUをエミュレートする"
+    },
+    {
+      "locale": "zh",
+      "title": "在软件中模拟一个CPU"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在軟件中模擬一個CPU"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "298723",
+  "commentsCount": 2,
+  "createdAt": "2021-06-06T15:45:47.145Z",
+  "description": "Current Virtual DOM implementations are inadequate—Ranging from overcomplicated to abandoned, most are unusable without sacrificing raw performance and size. Million aims to fix this, providing a library-agnostic Virtual DOM to serve as the core for Javascript libraries.",
+  "featuredAt": "2021-06-06T07:13:22Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/cf9f2a61-fe5e-4fa7-aef8-3309dbd72ba8.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/05dbd8f4-1535-49de-9b20-5fada138d504.jpeg?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/87463b25-9eb6-41e1-a62c-4630d5e67407.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Million.js",
+  "productLinks": [
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/f50ede0cf74b3b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Aiden Bai",
+    "url": "https://www.producthunt.com/@aiden_bai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 1,
+  "reviewsRating": 5,
+  "slug": "million-js",
+  "tagline": "A fast, <1kb virtual DOM",
+  "url": "https://www.producthunt.com/posts/million-js?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 154,
+  "website": "https://www.producthunt.com/r/f50ede0cf74b3b?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Web App"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      },
+      {
+        "node": {
+          "name": "GitHub"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-06-06T07:13:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在の仮想DOMの実装は不十分です。複雑すぎるものから放棄されたものまで様々で、ほとんどのものは、生のパフォーマンスとサイズを犠牲にしなければ使用できません。Millionはこの問題を解決することを目的としており、ライブラリに依存しないVirtual DOMを提供し、Javascriptライブラリのコアとして機能します。",
+      "tagline": "1kb以下の高速バーチャルDOM"
+    },
+    {
+      "locale": "zh",
+      "description": "目前的虚拟DOM实现是不充分的--从过于复杂到被放弃，大多数在不牺牲原始性能和大小的情况下是不能使用的。Million旨在解决这个问题，提供一个与库无关的虚拟DOM，作为Javascript库的核心。",
+      "tagline": "一个快速、<1kb的虚拟DOM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目前的虛擬DOM實現是不充分的--從過於複雜到被放棄，大多數在不犧牲原始性能和大小的情況下是不能使用的。Million旨在解決這個問題，提供一個與庫無關的虛擬DOM，作爲Javascript庫的核心。",
+      "tagline": "一個快速、<1kb的虛擬DOM"
+    }
+  ],
+  "source_updated_at": 1623404898538
+}

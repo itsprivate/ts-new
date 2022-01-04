@@ -1,0 +1,152 @@
+{
+  "created_at": "Tue Jan 12 2:48:14 +0000 2021",
+  "id_str": "1348813241640751111",
+  "full_text": "RT @RandPaul: Facebook now considers advocating for liberty to be sedition. Where will it end?",
+  "display_text_range": [
+    0,
+    94
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "RandPaul",
+        "name": "Senator Rand Paul",
+        "id": 216881337,
+        "id_str": "216881337",
+        "indices": [
+          3,
+          12
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212283137855762432/_jRlhWr5_normal.jpg"
+  },
+  "retweet_count": 15801,
+  "favorite_count": 0,
+  "original_created_at": "Tue Jan 12 02:05:11 +0000 2021",
+  "localize": [
+    {
+      "locale": "zh",
+      "full_text": "rt@RandPaul：Facebook现在认为倡导自由是煽动。它将在哪里结束？",
+      "retweeted_status_full_text": "Facebook现在认为鼓吹自由是煽动。它将在哪里结束？https://t.co/Ws6pBq923N"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "rt@RandPaul：Facebook現在認爲倡導自由是煽動。它將在哪裏結束？",
+      "retweeted_status_full_text": "Facebook現在認爲鼓吹自由是煽動。它將在哪裏結束？https://t.co/Ws6pBq923N"
+    }
+  ],
+  "source_updated_at": 1610706389018,
+  "retweeted_status": {
+    "created_at": "Mon Jan 11 18:53:38 +0000 2021",
+    "id_str": "1348704640486014982",
+    "full_text": "Facebook now considers advocating for liberty to be sedition. Where will it end? https://t.co/Ws6pBq923N",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ws6pBq923N",
+          "expanded_url": "https://twitter.com/ronpaul/status/1348694943905308672",
+          "display_url": "twitter.com/ronpaul/status…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Senator Rand Paul",
+      "screen_name": "RandPaul",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/681152691461042177/_PrgDgFA_normal.jpg"
+    },
+    "retweet_count": 12367,
+    "favorite_count": 36404,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Mon Jan 11 18:15:06 +0000 2021",
+      "id_str": "1348694943905308672",
+      "full_text": "With no explanation other than \"repeatedly going against our community standards,\" @Facebook has blocked me from managing my page. Never have we received notice of violating community standards in the past and nowhere is the offending post identified. https://t.co/EdMyW9gufa",
+      "display_text_range": [
+        0,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Facebook",
+            "name": "Facebook",
+            "id": 2425151,
+            "id_str": "2425151",
+            "indices": [
+              83,
+              92
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1348694319801245700,
+            "id_str": "1348694319801245696",
+            "indices": [
+              252,
+              275
+            ],
+            "media_url": "http://pbs.twimg.com/media/EreGVpJXIAAvBXy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EreGVpJXIAAvBXy.jpg",
+            "url": "https://t.co/EdMyW9gufa",
+            "display_url": "pic.twitter.com/EdMyW9gufa",
+            "expanded_url": "https://twitter.com/RonPaul/status/1348694943905308672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 948,
+                "h": 401,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 288,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 948,
+                "h": 401,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "user": {
+        "name": "Ron Paul",
+        "screen_name": "RonPaul",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/573517737172934659/bB-v1E-8_normal.jpeg"
+      },
+      "retweet_count": 15664,
+      "favorite_count": 36745,
+      "possibly_sensitive": false
+    }
+  }
+}

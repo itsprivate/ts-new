@@ -1,0 +1,79 @@
+{
+  "author": "CyberPunkMetalHead",
+  "the_new_excerpt": "This trading bot will automatically place trades on the Binance exchange by\ndetecting the most volatile coins in a given timeframe.\n\nThe project gathered significant attention from the GitHub dev community, and\nhave helped to make significant improvements to the original codebase, and I\nthought you…",
+  "original_created_utc": 1622446929,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "このトレーディング・ボットは、Binanceの取引所で自動的に取引を行います。\nこの取引ボットは、指定された時間枠内で最も変動の激しいコインを検出して、Binance取引所で自動的に取引を行います。\n\nこのプロジェクトは、GitHubの開発者コミュニティから大きな注目を集めました。\nこのプロジェクトはGitHubの開発者コミュニティから大きな注目を集め、オリジナルのコードベースを大幅に改良するのに役立ちました。\n思ったのですが",
+      "title": "私は、Binanceで最も変動の激しいコインを検出して、ムーンニングの可能性がある前に購入することを目的とした取引アルゴリズムを構築しましたが、他の開発者がこれをウェブアプリにするのを手伝ってくれています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该交易机器人将通过检测特定时间段内最易波动的硬币，自动在Binance交易所进行交易。\n探测特定时间段内最不稳定的币种。\n\n该项目得到了GitHub开发社区的极大关注，并且\n我想你也会喜欢的，因为你已经帮助我们对原始代码库进行了重大改进。\n我认为你...",
+      "title": "我建立了一个交易算法，检测Binance上最不稳定的硬币，目的是在潜在的月球前买入，其他开发者正在帮助将其变成一个网络应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該交易機器人將通過檢測特定時間段內最易波動的硬幣，自動在Binance交易所進行交易。\n探測特定時間段內最不穩定的幣種。\n\n該項目得到了GitHub開發社區的極大關注，並且\n我想你也會喜歡的，因爲你已經幫助我們對原始代碼庫進行了重大改進。\n我認爲你...",
+      "title": "我建立了一個交易算法，檢測Binance上最不穩定的硬幣，目的是在潛在的月球前買入，其他開發者正在幫助將其變成一個網絡應用。"
+    }
+  ],
+  "title": "I built a trading algorithm that detects the most volatile coins on Binance and aims to buy before a potential mooning, other devs are helping making this into a web app.",
+  "created_utc": 1622457178,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>This trading bot will automatically place trades on the Binance exchange by detecting the most volatile coins in a given timeframe.</p>\n\n<p>The project gathered significant attention from the GitHub dev community, and have helped to make significant improvements to the original codebase, and I thought you guys might like it as well.</p>\n\n<p>The code was built with customisability in mind, where each user can modify parameters like:</p>\n\n<ul>\n<li>Define what % increase constitues a buy signal</li>\n<li>Time elapsed between price checks</li>\n<li>Trailing stop loss / take profit</li>\n<li>Stop buying when the market is bearish</li>\n</ul>\n\n<p>In addition to the core functionality, the algorithm is now able to receive and act on external signals which are fully customisable.</p>\n\n<p>It uses data from Tradingview, and this returns buy signals according to the most relevant indicators. BY default if at least 18 out of 26 indicators agree that it&#39;s a good time to buy a certain coin, this will tell the bot to go buy that coin.</p>\n\n<p>The bot also has a newly-implement pause functionality. It essentially analyses 15 moving average indicators and if half of them show that&#39;s a bearish market, the bot will not buy during this period.</p>\n\n<p>You can also choose and pick any number of custom indicators from oscillators to moving averages and more. Those require a bit of coding, and I&#39;m hoping to make it more user-friendly in the future but the core functionality is there.</p>\n\n<p>If you&#39;re comfortable with Python and would like to inspect the source code please be my guest:</p>\n\n<p><a href=\"https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot\">https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot</a></p>\n\n<p>Otherwise, if you would like a more detailed guide, and want to try this out start here:</p>\n\n<p><a href=\"https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/\">https://www.cryptomaton.org/2021/05/16/trailing-stop-loss-and-more-improvements-added-to-the-binance-volatility-trading-bot/</a></p>\n\n<p>We&#39;re currently working on a roadmap to turn this into a working web-app, so there&#39;s no steep learning curve for anyone trying this out. You can follow the development progress on GitHub, or here as I will be posting updates on the progress.</p>\n</div><!-- SC_ON -->",
+  "score": 2459,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?auto=webp&s=12472819686149de9449a0b0c2aabcc8d62efd5f",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?width=108&crop=smart&auto=webp&s=3f781f1a72597fd39463241a56cb38a0f61e8e0b",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?width=216&crop=smart&auto=webp&s=a28f86bd511ab9e06bfee2400e0db095287510a4",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?width=320&crop=smart&auto=webp&s=32cf71d073a0a51c8dccd608f036c0287f228a60",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?width=640&crop=smart&auto=webp&s=bcd229945fefb24d43ac5b3a8efcbb0741f1c6ac",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?width=960&crop=smart&auto=webp&s=6fd236b5166f86b33a8f19372f5de67a6bd36154",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/-4sR26JHVf1Fc7ad_brBsQX3fKq-ZEpZ8FMp93Z85jM.jpg?width=1080&crop=smart&auto=webp&s=781dc4dc022a996e57462cb4e7732bf75ae6efe2",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "5nxZwSRWTQbAT6_yW39FQtsNg9xentUU2pmt7zGqZM4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/noxs5e/i_built_a_trading_algorithm_that_detects_the_most/",
+  "subreddit": "CryptoCurrency",
+  "id": "noxs5e",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1622804297922
+}

@@ -1,0 +1,32 @@
+{
+  "author": "BTCrrsr",
+  "original_created_utc": 1624531846,
+  "title": "What is Algorand? A Quick Guide",
+  "created_utc": 1624553791,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>As Algorand publicly opened its Testnet on April 16th 2019, we decided to write a short article to introduce you to this foundational blockchain platform from Turing Award winner, MIT teacher and zero-knowledge proof creator, Silvio Micali.</p>\n\n<p>Algorand is a Boston-based open-source software company working towards building a borderless economy. They’ve developed a permissionless, PureProof-of-Stake (PoS) protocol with open participation, scalability, security and transaction finality.</p>\n\n<p>Key Characteristics</p>\n\n<p>Algorand aims to solve the three main problems faced by blockchains today, also known as the blockchain trilemma: security, scalability, and decentralization.</p>\n\n<p>In Algorand’s consensus algorithm, called Pure PoS, the network ties its security to the honesty of the majority. Essentially, in comparison to Delegated Proof-of-Stake, Liquid Proof-of-Stake or Bonded Proof-of-Stake, there is no sanction mechanism, also known as slashing, in case an actor misbehaves — think about liveness faults such as low uptime, or security faults such as trying to validate twice the same block. Rather than punishing bad actors, Algorand prefers to make cheating by a minority of the money impossible and cheating by the majority stupid. As long as 2/3 of the majority is honest, the protocol will work just fine.</p>\n\n<p>In Algorand, blocks are constructed into 2 phases through lotteries known as “cryptographic sortition” enabling fast finality, long gone would be the days where one would have to wait for 30+ confirmations and eventually several hours to ensure that a transaction really happened.</p>\n\n<p>Proposal phase: a single token is randomly selected, and its owner proposes the next blocks. However, this proposer is only known to the whole network during the propagation phase: it is already too late to interfere. In Pure PoS, every token has the same power in being selected.</p>\n\n<p>Voting round: a committee of owners of 1,000 random tokens is selected, approving the block proposed by the first user. As opposed to the fixed committee system in many Proof-of-Work or Proof-of-Stake blockchains, this random selection of the committee members makes the protocol extremely secure against adversary attacks: they simply don’t know who to target.\n​</p>\n\n<p>According to us, these are the key properties of the Algorand protocol:</p>\n\n<p>Low computation requirements: No need for high energy-consuming mining farms.</p>\n\n<p>Fast agreement: The entire community agrees on the next block and confirms transactions with latency on the order of a minute while scaling to many users.</p>\n\n<p>Delegation: Token holders can delegate their tokens if they wish to participate in the consensus.</p>\n\n<p>Extremely low fork probability: Users can rely on a new block as soon as it appears. Even if the network is temporarily partitioned, Algorand ensures that no users have divergent views of confirmed transaction.\nTrue decentralization: the network is not controlled by a few miners or validator set since proposers and committees are randomly selected.\nGovernance: Community token holders can propose changes to the protocols and agree on its evolvability.\nTeam</p>\n\n<p>Silvio Micali, Founder: MIT Faculty member and recipient of several prestigious awards among which the Turing Award in computer science.\nSteven Kokinos, CEO: Serial entrepreneur, Co-founder of Fuze, BladeLogic, and Web Yes.\nW. Sean Ford, COO: Former CMO of LogMeIn, an experienced consultant and Co-founder of Upromise.\nThe team is also made of several renowned experts and advisors. They’re currently recruiting but also looking for community ambassadors.</p>\n\n<p>Token</p>\n\n<p>The Algorand Foundation will inject tokens into the system through a series of Dutch Auctions.</p>\n\n<p>The refund program allows auction buyers to sell tokens back to the Foundation. The refund program works as a mechanism to reduce supply if demand falls.</p>\n\n<p><a href=\"https://algorand.foundation/token-dynamics\">https://algorand.foundation/token-dynamics</a>\nWhat can we build on Algorand?</p>\n\n<p>As the Testnet is now public, you can already start coding with its REST APIs. The team has also released open-source Go, Javascript and Java SDKs and more will be added over time.</p>\n\n<p>In a goal to democratize finance, Algorand might release sophisticated financial tools for everyone to interact in its own fashion with the network, among which treasury bonds will be one of the key tools.</p>\n\n<p>Supporters</p>\n\n<p>Right now, Algorand is backed by some leading cryptocurrency and tech funds including Metastable, Sparkpool, MultiCoin Capital, AlgoCapital, or even NGC. Last October, the company secured $66m in equity funding.</p>\n\n<p><a href=\"https://community.algorand.org/blog/what-is-algorand-quick-guide-and-overview/\">https://community.algorand.org/blog/what-is-algorand-quick-guide-and-overview/</a></p>\n</div><!-- SC_ON -->",
+  "score": 196,
+  "permalink": "/r/CryptoCurrency/comments/o6yghf/what_is_algorand_a_quick_guide/",
+  "subreddit": "CryptoCurrency",
+  "id": "o6yghf",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "As Algorand publicly opened its Testnet on April 16th 2019, we decided to write\na short article to introduce you to this foundational blockchain platform from\nTuring Award winner, MIT teacher and zero-knowledge proof creator, Silvio\nMicali.\n\nAlgorand is a Boston-based open-source software company…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アルゴランドが2019年4月16日にテストネットを公開したので、私たちは書くことにしました。\nのこの基礎的なブロックチェーンプラットフォームを紹介する短い記事を書きました。\nチューリング賞受賞者であり、MITの教師であり、ゼロ知識証明の生みの親であるSilvio\nMicali氏です。\n\nアルゴランドは、ボストンを拠点とするオープンソースのソフトウェア会社...",
+      "title": "アルゴランドとは？クイックガイド"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "由于Algorand在2019年4月16日公开开放了其Testnet，我们决定编写\n一篇短文，向您介绍这个基础性的区块链平台，它来自于\n图灵奖得主、麻省理工学院教师和零知识证明创造者Silvio\nMicali。\n\nAlgorand是一家位于波士顿的开源软件公司...",
+      "title": "什么是Algorand？快速指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "由於Algorand在2019年4月16日公開開放了其Testnet，我們決定編寫\n一篇短文，向您介紹這個基礎性的區塊鏈平臺，它來自於\n圖靈獎得主、麻省理工學院教師和零知識證明創造者Silvio\nMicali。\n\nAlgorand是一家位於波士頓的開源軟件公司...",
+      "title": "什麼是Algorand？快速指南"
+    }
+  ]
+}

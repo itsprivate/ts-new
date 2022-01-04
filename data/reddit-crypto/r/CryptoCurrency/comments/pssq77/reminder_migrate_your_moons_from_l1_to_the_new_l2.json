@@ -1,0 +1,32 @@
+{
+  "author": "nanooverbtc",
+  "original_created_utc": 1632260141,
+  "title": "Reminder: Migrate Your Moons From L1 to the New L2 Scaling Network if You Haven’t Already",
+  "created_utc": 1632336435,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><h1>If your Moons are in your vault you can ignore this message, this is only for users who held Moons in an external wallet at the launch of the new L2 network.</h1>\n\n<p><strong>Background</strong></p>\n\n<p>A few months ago the admins launched a <a href=\"https://np.reddit.com/r/CryptoCurrency/comments/opibci/were_launching_a_scaling_network_for_moons/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf\">new L2 scaling network</a> for Community Points built on Arbitrum technology. Moons that were held in the vault at the time of launch were automatically migrated to this new network, but any Moons held in external addresses were left on L1 (the Rinkeby Testnet). This L2 scaling network is currently being tested on top of the Rinkeby Testnet with the plan to eventually migrate to the Ethereum Mainnet, <strong>although we do not know when this will occur.</strong> The admins provided <a href=\"https://new.reddit.com/web/points-migration\">the migration tool</a> for users that held Moons outside the vault so they can migrate their Moons manually to the new L2 network.</p>\n\n<p><strong>Necessity to Migrate</strong></p>\n\n<p>The admins <a href=\"https://np.reddit.com/r/CryptoCurrency/comments/opibci/were_launching_a_scaling_network_for_moons/h70le9m/\">have stated</a> that Moons will need to be bridged to the new L2 network <em>before</em> the network is migrated to Mainnet, and currently we do not know when this will occur or how much notice will be provided to users. Users who haven’t already migrated are advised to do so ASAP. Recently the admins&#39; holdings and the community fund have been migrated to L2 leaving ~6 million Moons yet to be migrated, with the majority of those tied up in the xmoon &lt;-&gt; L1 bridge.</p>\n\n<p><strong>The Migration Tool</strong></p>\n\n<p>In order to use the migration tool you will need Rinkeby ETH (rETH) to pay the transaction fees for the initial transfer. If you do not have any rETH please PM me your address and I will send enough for you to complete the migration.</p>\n\n<p>If you have L1 Moons you can login to Reddit on desktop and navigate to <a href=\"https://new.reddit.com/web/points-migration\">the migration tool,</a> connect your MetaMask wallet (make sure you’re on the Rinkeby Test Network at the top, see photo below) and follow the prompts to migrate. You will need ~10-30 minutes to complete the process and the browser window cannot be closed so it is best to initiate when you have ample free time. In order to finalize your L2 ticket claims you will need to <a href=\"https://np.reddit.com/user/nanooverbtc/comments/owspo6/instructions_to_add_reddits_arbitrum_testnet_to/\">add Reddit’s Arbitrum Testnet to MetaMask</a>, for which the instructions will be displayed in the migration tool page. </p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/sdq0ms9tewo71.png?width=702&amp;format=png&amp;auto=webp&amp;s=fdd1be63969c6458f9c4cb809735a19481fe5686\">MetaMask Connected to Rinkeby Network </a></p>\n\n<p>&#x200B;</p>\n\n<p>If you attempt to claim L2 tickets and receive an error when setting the gas price to zero, try setting to 0.00000000000000001 gwei instead. Keep in mind the transaction will not go through if the gas limit is set under 21,000. If the issue persists please PM me your MetaMask address and I will send you a small amount of L2 rETH. </p>\n\n<p>&#x200B;</p>\n\n<p>When you have completed the migration you will be provided with your new vault balance as well as the txn hash for your newly delivered Moons:</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/pw7xuymd7xo71.png?width=1440&amp;format=png&amp;auto=webp&amp;s=5d8f6475f0ce6c24dabfce71ce61a69ceaa9ec32\">Migration Tool Receipt</a></p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><strong>XMOON Holders</strong></p>\n\n<p>Users holding xmoon will need to bridge from xmoon back to L1 Rinkeby Moons <em>before</em> utilizing the migration tool. Xmoon can be bridged using the herokuapp burner wallet with a small amount of xdai used to pay the transaction fee. If you need a small amount of xdai to bridge back to L1 please PM me your address.</p>\n\n<p>&#x200B;</p>\n\n<p>&#x200B;</p>\n\n<p><strong><em>If you have any questions regarding migration or need any assistance in the process please do not hesitate to reach out.</em></strong></p>\n</div><!-- SC_ON -->",
+  "score": 164,
+  "permalink": "/r/CryptoCurrency/comments/pssq77/reminder_migrate_your_moons_from_l1_to_the_new_l2/",
+  "subreddit": "CryptoCurrency",
+  "id": "pssq77",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "IF YOUR MOONS ARE IN YOUR VAULT YOU CAN IGNORE THIS MESSAGE, THIS IS ONLY FOR\nUSERS WHO HELD MOONS IN AN EXTERNAL WALLET AT THE LAUNCH OF THE NEW L2 NETWORK.\n\nBackground\n\nA few months ago the admins launched a new L2 scaling…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたのムーンがあなたの金庫にある場合は、このメッセージを無視することができます。\nこのメッセージは、新L2ネットワークの立ち上げ時に外部のウォレットにムーンを保有していたユーザーのみが対象です。\n\n背景\n\n数ヶ月前、管理者は新しいL2ネットワークを立ち上げました。",
+      "title": "リマインダー。L1から新しいL2スケーリング・ネットワークにムーンを移行してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你的月亮在你的保险库里，你可以忽略这条信息，这只针对\n在新的l2网络推出时在外部钱包中持有月亮的用户。\n\n背景介绍\n\n几个月前，管理员推出了一个新的L2扩展...",
+      "title": "提醒您。如果你还没有将你的月亮从L1迁移到新的L2扩展网络上"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你的月亮在你的保險庫裏，你可以忽略這條信息，這隻針對\n在新的l2網絡推出時在外部錢包中持有月亮的用戶。\n\n背景介紹\n\n幾個月前，管理員推出了一個新的L2擴展...",
+      "title": "提醒您。如果你還沒有將你的月亮從L1遷移到新的L2擴展網絡上"
+    }
+  ]
+}

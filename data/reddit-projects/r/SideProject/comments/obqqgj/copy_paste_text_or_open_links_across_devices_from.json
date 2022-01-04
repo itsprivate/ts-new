@@ -1,0 +1,32 @@
+{
+  "author": "ksdme9",
+  "original_created_utc": 1625160588,
+  "title": "copy paste text or open links across devices from your browser",
+  "created_utc": 1625210974,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>There are times when you want to copy some text from your computer to your phone or open a link on your phone that you have on your computer. I used to use WhatsApp or Telegram to send a text to myself with the text or link and use a desktop client to copy it to my computer. Although it&#39;s not a difficult flow to go through, I do have to involve my personal accounts and fill them up with these temporary pieces of text. It&#39;s a whole different problem when you don&#39;t trust the computer or just don&#39;t want to log in to your accounts on a machine.</p>\n\n<p>I built <a href=\"https://copyy.vercel.app/\">copyy</a> over a weekend to solve this problem. Just go to the site on any number of devices and use the code on the top center to pair the devices. Anything you type or paste is instantly synced between all the devices, it detects links so you can open them with a single tap. Bookmark a page to sync even faster!</p>\n\n<p>copyy is still in active developement and is very much unfinished. I intent to add many features over time such as:</p>\n\n<ol>\n<li>Saving the code on your browser locally so you don&#39;t have to pair it every time</li>\n<li>Improving/shortening the pairing code so you can pair faster</li>\n<li>Improve security, anyone with your code can see your pastes</li>\n<li>Display the number of paired devices</li>\n<li>Ability to add the site to your home screen so you can just open it in a single tap</li>\n<li>and more</li>\n</ol>\n\n<p>copyy is open source and you can find its source at <a href=\"https://github.com/ksdme/copyy\">https://github.com/ksdme/copyy</a>. Feel free to open issues, contribute or fork!</p>\n\n<p>I am excited to hear your feedback.</p>\n</div><!-- SC_ON -->",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/obqqgj/copy_paste_text_or_open_links_across_devices_from/",
+  "subreddit": "SideProject",
+  "id": "obqqgj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "There are times when you want to copy some text from your computer to your phone\nor open a link on your phone that you have on your computer. I used to use\nWhatsApp or Telegram to send a text to myself with the text or link and use a\ndesktop client to copy it to my computer. Although it's not a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "パソコンから携帯電話にテキストをコピーしたいときや\nたり、パソコンにあるリンクを携帯電話で開いたりすることがあります。私は以前\nWhatsAppやTelegramを使ってテキストやリンクを自分宛に送信し、デスクトップクライアントを使って\nデスクトップクライアントでパソコンにコピーしていました。とはいえ、それは...",
+      "title": "ブラウザからデバイス間でテキストをコピーペーストしたり、リンクを開いたりすることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有些时候，你想从电脑上复制一些文本到你的手机上\n或在手机上打开一个你在电脑上的链接。我习惯于使用\nWhatsApp或Telegram向自己发送带有文本或链接的文本，并使用一个\n桌面客户端将其复制到我的电脑上。虽然这不是一个...",
+      "title": "从你的浏览器复制粘贴文本或跨设备打开链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有些時候，你想從電腦上覆制一些文本到你的手機上\n或在手機上打開一個你在電腦上的鏈接。我習慣於使用\nWhatsApp或Telegram向自己發送帶有文本或鏈接的文本，並使用一個\n桌面客戶端將其複製到我的電腦上。雖然這不是一個...",
+      "title": "從你的瀏覽器複製粘貼文本或跨設備打開鏈接"
+    }
+  ]
+}

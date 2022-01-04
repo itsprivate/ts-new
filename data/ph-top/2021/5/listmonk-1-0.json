@@ -1,0 +1,94 @@
+{
+  "id": "296155",
+  "commentsCount": 2,
+  "createdAt": "2021-05-18T15:25:40.663Z",
+  "description": "Send e-mail campaigns, newsletters, manage mailing lists, all from a powerful self-hosted dashboard released as a single binary. High performance and feature packed open source app written in Golang, and backed by Postgres. https://listmonk.app/",
+  "featuredAt": "2021-05-18T07:01:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/19121564-ca10-460a-9599-2875385431cd.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/267bc6bb-6871-4419-9a1b-db9a95398ea1.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/82d4dbc4-f628-41c7-bb4f-3a08603c90ce.png?auto=format&fit=crop",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/0739c79a-04d4-421b-9691-f5941e3e7445.png?auto=format&fit=crop",
+      "videoUrl": null
+    }
+  ],
+  "name": "Listmonk 1.0",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/056de148f38cc3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    },
+    {
+      "type": "Github",
+      "url": "https://www.producthunt.com/r/0c2dfdd0a2f672?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Rohan Verma",
+    "url": "https://www.producthunt.com/@rhnvrm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 3,
+  "reviewsRating": 5,
+  "slug": "listmonk-1-0",
+  "tagline": "Self-hosted newsletter and mailing list manager",
+  "url": "https://www.producthunt.com/posts/listmonk-1-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 105,
+  "website": "https://www.producthunt.com/r/0c2dfdd0a2f672?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Email"
+        }
+      },
+      {
+        "node": {
+          "name": "Email Newsletters"
+        }
+      },
+      {
+        "node": {
+          "name": "Email Marketing"
+        }
+      },
+      {
+        "node": {
+          "name": "Marketing"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-05-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Eメールキャンペーンやニュースレターの送信、メーリングリストの管理などを、強力なセルフホスト型ダッシュボードから行うことができ、シングルバイナリとしてリリースされています。Golangで書かれたハイパフォーマンスで機能満載のオープンソースアプリで、Postgresでバックアップされています。https://listmonk.app/",
+      "tagline": "自分でホストするニュースレターとメーリングリストの管理"
+    },
+    {
+      "locale": "zh",
+      "description": "发送电子邮件活动、新闻简报、管理邮件列表，所有这些都来自于一个强大的自我托管的仪表板，以单一的二进制文件发布。用Golang编写的高性能和功能丰富的开源应用程序，并由Postgres支持。https://listmonk.app/",
+      "tagline": "自我托管的通讯和邮件列表管理器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發送電子郵件活動、新聞簡報、管理郵件列表，所有這些都來自於一個強大的自我託管的儀表板，以單一的二進制文件發佈。用Golang編寫的高性能和功能豐富的開源應用程序，並由Postgres支持。https://listmonk.app/",
+      "tagline": "自我託管的通訊和郵件列表管理器"
+    }
+  ],
+  "source_updated_at": 1621590809166
+}

@@ -1,0 +1,76 @@
+{
+  "created_at": "Mon Dec 27 18:48:31 +0000 2021",
+  "id_str": "1474848045082816525",
+  "full_text": "Every Chinese restaurant I’m dialing right now https://t.co/rxsriEmODA",
+  "display_text_range": [
+    0,
+    46
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1474848040372605000,
+        "id_str": "1474848040372604929",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/FHe2eogXEAE8eDV.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FHe2eogXEAE8eDV.jpg",
+        "url": "https://t.co/rxsriEmODA",
+        "display_url": "pic.twitter.com/rxsriEmODA",
+        "expanded_url": "https://twitter.com/michaelbatnick/status/1474848045082816525/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 400,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1170,
+            "h": 1990,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 706,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 4,
+  "favorite_count": 293,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Dec 25 21:02:29 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "今ダイヤルしているすべての中華料理店 https://t.co/rxsriEmODA"
+    },
+    {
+      "locale": "zh",
+      "full_text": "我现在拨打的每家中国餐馆https://t.co/rxsriEmODA"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "我現在撥打的每家中國餐館https://t.co/rxsriEmODA"
+    }
+  ]
+}

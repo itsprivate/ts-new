@@ -1,0 +1,78 @@
+{
+  "author": "AutisticDalekOnSpeed",
+  "original_created_utc": 1630676175,
+  "title": "Despite what a lot of people believe, mining can be quite profitable if you have a good gaming pc. Here's how you can start.",
+  "created_utc": 1630686648,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Lots of people here say that mining isn&#39;t worth it. But if you have a pc with a good enough graphics card (with 6gb of vram or more), it can be quite profitable. I currently make 0.03-0.04eth per month by mining on my gaming pc.</p>\n\n<p>If you plan on mining, first of all make sure that it is gonna be profitable for you. You can check out <a href=\"https://www.cryptocompare.com/mining/calculator/eth?HashingPower=50&amp;HashingUnit=MH%2Fs&amp;PowerConsumption=140&amp;CostPerkWh=0.&amp;MiningPoolFee=1\">this site</a> to see an estimate on how much profit you can expect. </p>\n\n<p>I will be showing you how to set up an eth miner (on windows) using <a href=\"https://www.awesomeminer.com/\">AwesomeMiner</a>.  Despite its name, AwesomeMiner is not a miner, it&#39;s just a software that will make everything easier to set up and monitor. </p>\n\n<p>It automatically downloads all the miners you need and you can choose whichever one you like the most. Once you&#39;ve downloaded and installed AwesomeMiner you can start setting it up. </p>\n\n<p>&#x200B;</p>\n\n<p><strong>First of all you&#39;ll need to find a pool</strong>. I personally use <a href=\"https://www.flexpool.io/\">flexpool</a> because it has a small minimum payout (0.01 eth) and it doesn&#39;t need you to make an account. </p>\n\n<p>Go to <a href=\"https://www.flexpool.io/get-started/eth/GPU/\">this page</a> to see the pool&#39;s url for your region, in my case it was eth-de.flexpool.io.</p>\n\n<p>Now open AwesomeMiner, you should be seeing a window like this. Click on new pool, then click on Add Pool.</p>\n\n<p><a href=\"https://preview.redd.it/3rr3ta0x7al71.png?width=876&amp;format=png&amp;auto=webp&amp;s=1a0638804b222bcdb9c103f94f8a62bed06bebec\">https://preview.redd.it/3rr3ta0x7al71.png?width=876&amp;format=png&amp;auto=webp&amp;s=1a0638804b222bcdb9c103f94f8a62bed06bebec</a></p>\n\n<p>After clicking &quot;Add Pool&quot;, a window should pop up. You&#39;ll have to fill in your pool&#39;s details. </p>\n\n<p><a href=\"https://preview.redd.it/emyyxmgjaal71.png?width=923&amp;format=png&amp;auto=webp&amp;s=91eb8c242beeba67156e385993c428fa59addd94\">https://preview.redd.it/emyyxmgjaal71.png?width=923&amp;format=png&amp;auto=webp&amp;s=91eb8c242beeba67156e385993c428fa59addd94</a></p>\n\n<p>First of all click on the drop down menu next to &quot;Coin&quot; and select Ethereum.</p>\n\n<p>On pool connection URL enter the URL for your region, as you seee I entered <a href=\"https://eth-de.flexpool.io:4444\">eth-de.flexpool.io:4444</a>.</p>\n\n<p>Make sure you include the port number (4444) after the url, otherwise your miner will not be able to connect to the pool</p>\n\n<p>On worker name you should add your wallet address, a dot, and a name for you rig. it should like this 0x0000000000000000000000000000000000000000.MiningRig1 </p>\n\n<p>You do not need to fill in anything else, so now just click the OK button to close this window. </p>\n\n<p>&#x200B;</p>\n\n<p><strong>Now you need to add a miner.</strong></p>\n\n<p>Click on New miner. it will open up a window</p>\n\n<p><a href=\"https://preview.redd.it/d5wjejcwbal71.png?width=888&amp;format=png&amp;auto=webp&amp;s=6071a1542be8dba380d620525f616b7d1e049c21\">https://preview.redd.it/d5wjejcwbal71.png?width=888&amp;format=png&amp;auto=webp&amp;s=6071a1542be8dba380d620525f616b7d1e049c21</a></p>\n\n<p>On that window click Next, then click on Managed Miner</p>\n\n<p><a href=\"https://preview.redd.it/rzrzjn22cal71.png?width=890&amp;format=png&amp;auto=webp&amp;s=85606f59e42cad9de2cd244db7c3c4637968fcfd\">https://preview.redd.it/rzrzjn22cal71.png?width=890&amp;format=png&amp;auto=webp&amp;s=85606f59e42cad9de2cd244db7c3c4637968fcfd</a></p>\n\n<p>Click Next again, then add a Description for that miner, name it whatever you want, for example I just left it to the default option, which is &#39;My Managed Miner&#39;, it doesn&#39;t really mater. Leave the managed host to local. Then click next again</p>\n\n<p><a href=\"https://preview.redd.it/bue7fmldcal71.png?width=884&amp;format=png&amp;auto=webp&amp;s=364b1e26659e8cd63ce0bb39b000f50740ffb2b6\">https://preview.redd.it/bue7fmldcal71.png?width=884&amp;format=png&amp;auto=webp&amp;s=364b1e26659e8cd63ce0bb39b000f50740ffb2b6</a></p>\n\n<p>Now it will ask you to select a mining algorithm, a miner, and a pool.</p>\n\n<p>On algorithm select Ethereum. On mining software select Phoenix Miner or GMiner. On pool select the pool you added before this, it will be the only option available. </p>\n\n<p><a href=\"https://preview.redd.it/3f7hnl6deal71.png?width=876&amp;format=png&amp;auto=webp&amp;s=77cf3696dca7893dbe6c7fcab7fec9841880e949\">https://preview.redd.it/3f7hnl6deal71.png?width=876&amp;format=png&amp;auto=webp&amp;s=77cf3696dca7893dbe6c7fcab7fec9841880e949</a></p>\n\n<p>After you&#39;ve done this click next, then click finish. Now your miner will show up on the home screen of AwesomeMiner. You&#39;re basically finished at this point. </p>\n\n<p>Now you&#39;re ready to start mining. Click on your miner, then click on the start button. </p>\n\n<p><a href=\"https://preview.redd.it/gcn3x3jseal71.png?width=879&amp;format=png&amp;auto=webp&amp;s=6a2c9606e23a63e505a1b0fd3d7b0d2c30bbad27\">https://preview.redd.it/gcn3x3jseal71.png?width=879&amp;format=png&amp;auto=webp&amp;s=6a2c9606e23a63e505a1b0fd3d7b0d2c30bbad27</a></p>\n\n<p>After you click start, a window should pop up that looks like a cmd window. That&#39;s the miner, do not close it. It will stay there as long as you&#39;re mining. You don&#39;t have to view it, it will work fine if you minimize it too. It should look like this</p>\n\n<p><a href=\"https://preview.redd.it/nsdnt8nefal71.png?width=975&amp;format=png&amp;auto=webp&amp;s=994892d8752d81c815e2a056076867a703bf9f28\">https://preview.redd.it/nsdnt8nefal71.png?width=975&amp;format=png&amp;auto=webp&amp;s=994892d8752d81c815e2a056076867a703bf9f28</a></p>\n\n<p>Congrats now you&#39;re mining. If you want to see some stats about your miner, like estimated daily/weekly/monthly earning you can do it through flexpool&#39;s website. On the front page it has a big search bar, enter your eth address there, and it will open a page where you&#39;ll be able to see your stats. it should look something like this.</p>\n\n<p><a href=\"https://preview.redd.it/y16lgjezgal71.png?width=1277&amp;format=png&amp;auto=webp&amp;s=df261227127bb54d95e1060e9eb6f6aa55d7fcd4\">https://preview.redd.it/y16lgjezgal71.png?width=1277&amp;format=png&amp;auto=webp&amp;s=df261227127bb54d95e1060e9eb6f6aa55d7fcd4</a></p>\n\n<p>If you click on the setting button, it will open up a window when you can configure the payout limit, i&#39;ve set it at 0.06 eth, but you can set it as low as 0.01 eth. You can also change the gas price limit, if ethereum gas fees are higher than the amount you&#39;ve entered the pool won&#39;t send you the eth, it will wait until the gas fees go back down to normal. I&#39;ve set it quite high at 120 gwei, but you can make it as low as you want. I guess 50-70 gwei is a reasonable amount. </p>\n\n<p><a href=\"https://preview.redd.it/bbxswvuqhal71.png?width=873&amp;format=png&amp;auto=webp&amp;s=b207ba5b53ed9ceac1b2d67741b4196b7af5f11f\">https://preview.redd.it/bbxswvuqhal71.png?width=873&amp;format=png&amp;auto=webp&amp;s=b207ba5b53ed9ceac1b2d67741b4196b7af5f11f</a></p>\n\n<p>&#x200B;</p>\n\n<p>You may think you&#39;re done now, but you&#39;re not.</p>\n\n<p><strong>Now you have to undervolt you graphics card</strong>. It will keep the temperatures low, and will make your profitability higher since you&#39;ll be spending less money on electricity.</p>\n\n<p>On AMD cards, just open Radeon Software, go to the performance tab, then Tuning, enable Manual tuning, scroll down a bit, and enable power tuning too. Then just lower the power limit as much as you can without affecting your performance a lot. I&#39;ve set it to -25%.</p>\n\n<p><a href=\"https://preview.redd.it/etq24cuxial71.png?width=1281&amp;format=png&amp;auto=webp&amp;s=7162c9b7866e089dabe0348ad1128e7060a1d0b3\">https://preview.redd.it/etq24cuxial71.png?width=1281&amp;format=png&amp;auto=webp&amp;s=7162c9b7866e089dabe0348ad1128e7060a1d0b3</a></p>\n\n<p>After you&#39;ve done this click on apply changes and you&#39;re done.</p>\n\n<p>&#x200B;</p>\n\n<p>For NVIDIA cards use MSI afterburner. It will be just as easy. </p>\n\n<p>Open MSI afterburner, then lower the power limit as much as you can without affecting your performance too much. Then click on the save icon. </p>\n\n<p><a href=\"https://preview.redd.it/jsua60dkjal71.png?width=804&amp;format=png&amp;auto=webp&amp;s=50ae68b0d34ccb67db1f97fea4bb1aaf4e21f345\">https://preview.redd.it/jsua60dkjal71.png?width=804&amp;format=png&amp;auto=webp&amp;s=50ae68b0d34ccb67db1f97fea4bb1aaf4e21f345</a></p>\n\n<p>&#x200B;</p>\n\n<p>And now you&#39;re done. Enjoy the free money</p>\n\n<p>&#x200B;</p>\n\n<p>btw I wrote this right after waking up and i haven&#39;t had a coffee yet, so if i&#39;ve messed anything up please let me know.</p>\n</div><!-- SC_ON -->",
+  "score": 338,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?auto=webp&s=01dc8e785d7f18847a2bebd6e74453245cc78616",
+          "width": 1200,
+          "height": 1200
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?width=108&crop=smart&auto=webp&s=fe1f32eb816fc3c42e465fb7b7394372baa2c740",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?width=216&crop=smart&auto=webp&s=3b396da9d5a1e2dfc0720d52946f43b82267d608",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?width=320&crop=smart&auto=webp&s=0ae64fb6069b752bb391c07fd4ac119f54f1e9d1",
+            "width": 320,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?width=640&crop=smart&auto=webp&s=38b6fe477ef25cb63c85eca45da60348df59ebe7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?width=960&crop=smart&auto=webp&s=b1ac264972e16ca4aaf1f40c3072a7a72f7cb08d",
+            "width": 960,
+            "height": 960
+          },
+          {
+            "url": "https://external-preview.redd.it/Ifnw5qt9hS51y7T7oldD5Dmm7PE8pKTm-KybhT8UsEU.jpg?width=1080&crop=smart&auto=webp&s=cc0b55070b14b07874d468730e8909f3abf696a7",
+            "width": 1080,
+            "height": 1080
+          }
+        ],
+        "variants": {},
+        "id": "43BQQeW86-fLcrfMVHQhWyGOw1k8XU5NCRAkVzrP6OU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ph5asi/despite_what_a_lot_of_people_believe_mining_can/",
+  "subreddit": "CryptoCurrency",
+  "id": "ph5asi",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Lots of people here say that mining isn't worth it. But if you have a pc with a\ngood enough graphics card (with 6gb of vram or more), it can be quite\nprofitable. I currently make 0.03-0.04eth per month by mining on my gaming pc.\n\nIf you plan on mining, first of all make sure that it is gonna be…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここでは多くの人が、マイニングは価値がないと言っています。しかし、もしあなたが十分なグラフィックカード（6GB以上のRAM）を搭載したPCを持っているなら\n充分なグラフィックカード（6GB以上のRAM）があれば、かなりの利益を得ることができます。\n儲かります。私は現在、ゲーム用PCでマイニングを行い、月に0.03～0.04eth稼いでいます。\n\nあなたがマイニングを計画している場合は、まず、それがつもりであることを確認してください...",
+      "title": "多くの人が信じていることですが、良いゲーミングPCがあれば、マイニングはかなりの利益をもたらします。ここではその方法をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这里有很多人说，采矿不值得。但如果你有一台带有\n足够好的显卡（有6GB内存或更多），它可以相当\n有利可图。目前，我在我的游戏电脑上挖矿，每个月能赚到0.03-0.04美元。\n\n如果你打算挖矿，首先要确保它将是...",
+      "title": "尽管很多人认为，如果你有一台好的游戏电脑，挖矿是可以相当赚钱的。以下是你如何开始。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這裏有很多人說，採礦不值得。但如果你有一臺帶有\n足夠好的顯卡（有6GB內存或更多），它可以相當\n有利可圖。目前，我在我的遊戲電腦上挖礦，每個月能賺到0.03-0.04美元。\n\n如果你打算挖礦，首先要確保它將是...",
+      "title": "儘管很多人認爲，如果你有一臺好的遊戲電腦，挖礦是可以相當賺錢的。以下是你如何開始。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "author": "jomarca23",
+  "the_new_excerpt": "Hi all, I came up with a good way to extract institutional investor transactions\nusing Python from an API in order to analyse if investors are buying or selling\nstocks in a particular company.\n\nFor example, below table is the outcome showing the transactions performed by\ninstitutional investors…",
+  "original_created_utc": 1613314225,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好，我想到了一个提取机构投资者交易的好方法\n使用Python的API来分析投资者是买入还是卖出。\n某公司的股票。\n\n例如，下面的表格是显示以下公司进行交易的结果\n机构投资者...",
+      "title": "分析机构投资者交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好，我想到了一個提取機構投資者交易的好方法\n使用Python的API來分析投資者是買入還是賣出。\n某公司的股票。\n\n例如，下面的表格是顯示以下公司進行交易的結果\n機構投資者...",
+      "title": "分析機構投資者交易"
+    }
+  ],
+  "title": "Analysing Institutional Investor Transactions",
+  "created_utc": 1613324228,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi all, I came up with a good way to extract institutional investor transactions using Python from an API in order to analyse if investors are buying or selling stocks in a particular company. </p>\n\n<p>For example, below table is the outcome showing the transactions performed by institutional investors since the 11th of February on 4 different companies.</p>\n\n<pre><code>total   buys  sells      total_shares_exchanged\nAAPL  159.0  127.0   32.0           122816727.0\nMSFT  293.0  251.0   42.0             292622179.0\nETSY   42.0   37.0    5.0               3978781.0\nATVI  115.0  104.0   11.0               1161650.0\n</code></pre>\n\n<p>While the data is useful, I am struggling to make a good use of it. For instance, if I look into MSFT, I can see that 127 institutional funds bough stocks in MSFT and 27 sold stocks. </p>\n\n<p>What I would like to do with this analysis is to find stocks that institutional investors are currently buying a lot. </p>\n\n<p>Does someone know what would be the best approach to do this? I thought about running the script for a bunch of companies and compare them together. But that approach does not make sense because obviously, large market-cap companies will attract more transactions than small-cap companies and they may not be really comparable.</p>\n\n<p>In case any of you is interested on how to get institutional investor transactions using Python, I have a video showing step by step:\n<a href=\"https://www.youtube.com/watch?v=zy_KtPGGTEk\">Analysing Institutional Investor Transactions!</a></p>\n</div><!-- SC_ON -->",
+  "score": 905,
+  "permalink": "/r/investing/comments/ljpowg/analysing_institutional_investor_transactions/",
+  "subreddit": "investing",
+  "id": "ljpowg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1613728621140
+}

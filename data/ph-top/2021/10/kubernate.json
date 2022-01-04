@@ -1,0 +1,75 @@
+{
+  "id": "315539",
+  "commentsCount": 30,
+  "createdAt": "2021-10-16T10:40:00.753Z",
+  "description": "Kubernate is a library that is used to generate Kubernetes YAML files with ease. Think like Helm but with actual code. You have the power to generate anything you want while using any kind of input you want.",
+  "featuredAt": "2021-10-16T07:30:00Z",
+  "media": [
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/712b1aff-2e86-408a-bf16-b1c94dc93bd7.png?auto=format",
+      "videoUrl": null
+    },
+    {
+      "type": "image",
+      "url": "https://ph-files.imgix.net/912121ce-07b8-43bc-bab5-46bd36530699.png?auto=format",
+      "videoUrl": null
+    }
+  ],
+  "name": "Kubernate",
+  "productLinks": [
+    {
+      "type": "Website",
+      "url": "https://www.producthunt.com/r/50270ae7f420bf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+    }
+  ],
+  "user": {
+    "name": "Laurentiu Ciobanu",
+    "url": "https://www.producthunt.com/@laurentiu_ciobanu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29"
+  },
+  "reviewsCount": 10,
+  "reviewsRating": 5,
+  "slug": "kubernate",
+  "tagline": "Programmatically generate Kubernetes YAMLs",
+  "url": "https://www.producthunt.com/posts/kubernate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "votesCount": 174,
+  "website": "https://www.producthunt.com/r/50270ae7f420bf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+Buzzing+%28ID%3A+41381%29",
+  "topics": {
+    "edges": [
+      {
+        "node": {
+          "name": "Web App"
+        }
+      },
+      {
+        "node": {
+          "name": "Open Source"
+        }
+      },
+      {
+        "node": {
+          "name": "Developer Tools"
+        }
+      }
+    ]
+  },
+  "original_createdAt": "2021-10-16T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernateは、KubernetesのYAMLファイルを簡単に生成するために使用されるライブラリです。Helmのように、実際のコードで考えてみましょう。あなたは、好きな種類の入力を使用しながら、好きなものを生成する力を持っています。",
+      "tagline": "プログラムによるKubernetesのYAMLの生成"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernate是一个库，用于轻松生成Kubernetes YAML文件。想想看，就像Helm，但有实际的代码。你有能力生成你想要的任何东西，同时使用你想要的任何类型的输入。",
+      "tagline": "以编程方式生成Kubernetes YAMLs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernate是一個庫，用於輕鬆生成Kubernetes YAML文件。想想看，就像Helm，但有實際的代碼。你有能力生成你想要的任何東西，同時使用你想要的任何類型的輸入。",
+      "tagline": "以編程方式生成Kubernetes YAMLs"
+    }
+  ],
+  "source_updated_at": 1634895646455
+}

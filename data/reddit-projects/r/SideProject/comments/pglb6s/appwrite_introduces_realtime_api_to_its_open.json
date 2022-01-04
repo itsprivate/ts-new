@@ -1,0 +1,32 @@
+{
+  "author": "thecouchdev",
+  "original_created_utc": 1630600096,
+  "title": "Appwrite introduces Realtime API to its Open Source Firebase Alternative",
+  "created_utc": 1630604112,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>&#x200B;</p>\n\n<p><a href=\"https://i.redd.it/nsqqnfsn94l71.gif\">Appwrite Dashboard</a></p>\n\n<p>I&#39;m an Appwrite maintainer and we&#39;re happy to share that Appwrite 0.10 has just been released and adds support for one of our most requested features.</p>\n\n<p>Appwrite now comes with <strong>platform wide Realtime API</strong> that allows you to listen to any server side event. This includes events like user registration, file uploads, document updates, serverless function executions and much more!</p>\n\n<p>Here&#39;s a sneak peak of 0.10</p>\n\n<ul>\n<li>A brand new <strong>Realtime Server</strong></li>\n<li>Real time support in our <strong>Web, Flutter and Android SDKs</strong></li>\n<li>New <strong>user update endpoints</strong> for admins to manage users</li>\n<li>Authentication with <strong>Magic URLs</strong></li>\n<li>Even <strong>Faster Cloud Function</strong> executions</li>\n<li>We&#39;ve <strong>terminated some bugs</strong></li>\n<li>Not to mention, we&#39;re <strong>one step closer</strong> to becoming a complete Firebase Alternative</li>\n</ul>\n\n<p>If you haven&#39;t heard already, <a href=\"http://appwrite.io/\">Appwrite</a> is an open-source end-to-end BaaS that helps you build your Web, Flutter and Android apps much faster with a focus on simplicity, developer experience, privacy and security that you can self-host with a <a href=\"https://appwrite.io/docs/installation#unix\">single Docker command</a>.</p>\n\n<p>We&#39;d love to get your feedback as we move on to v1.0 of Appwrite in the coming weeks. Community feedback has been one of the major driving forces for where the project is today.</p>\n\n<p>You can checkout our Github repo at: <a href=\"https://github.com/appwrite/appwrite\">https://github.com/appwrite/appwrite</a></p>\n</div><!-- SC_ON -->",
+  "score": 10,
+  "permalink": "/r/SideProject/comments/pglb6s/appwrite_introduces_realtime_api_to_its_open/",
+  "subreddit": "SideProject",
+  "id": "pglb6s",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "Appwrite Dashboard [https://i.redd.it/nsqqnfsn94l71.gif]\n\nI'm an Appwrite maintainer and we're happy to share that Appwrite 0.10 has just\nbeen released and adds support for one of our most requested features.\n\nAppwrite now comes with platform wide Realtime API that allows you to listen to\nany server…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Appwrite ダッシュボード [https://i.redd.it/nsqqnfsn94l71.gif]\n\n私はAppwriteのメンテナであり、Appwrite 0.10がリリースされたことを喜んで共有したいと思います。\nがリリースされ、最も要望の多かった機能の一つが追加されました。\n\nAppwriteには、プラットフォームワイドなRealtime APIが搭載されています。\nどんなサーバでも...",
+      "title": "Appwrite、オープンソースのFirebase代替製品にRealtime APIを導入"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Appwrite仪表板 [https://i.redd.it/nsqqnfsn94l71.gif]\n\n我是Appwrite的维护者，我们很高兴地告诉大家，Appwrite 0.10已经发布了。\n已经发布了，并且增加了对我们最需要的功能之一的支持。\n\nAppwrite现在具有平台范围内的实时API，允许你监听\n任何服务器...",
+      "title": "Appwrite为其开源的Firebase替代品引入了实时API"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Appwrite儀表板 [https://i.redd.it/nsqqnfsn94l71.gif]\n\n我是Appwrite的維護者，我們很高興地告訴大家，Appwrite 0.10已經發布了。\n已經發布了，並且增加了對我們最需要的功能之一的支持。\n\nAppwrite現在具有平臺範圍內的實時API，允許你監聽\n任何服務器...",
+      "title": "Appwrite爲其開源的Firebase替代品引入了實時API"
+    }
+  ]
+}

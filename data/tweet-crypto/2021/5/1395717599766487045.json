@@ -1,0 +1,95 @@
+{
+  "created_at": "Fri May 21 13:2:54 +0000 2021",
+  "id_str": "1395717599766487045",
+  "full_text": "RT @jack: @HassanAesthetic less security, more centralization",
+  "display_text_range": [
+    0,
+    61
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      },
+      {
+        "screen_name": "HassanAesthetic",
+        "name": "Hassan💜🇨🇦",
+        "id": 613214169,
+        "id_str": "613214169",
+        "indices": [
+          10,
+          26
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381894517708754948/EpK8VJPe_normal.jpg"
+  },
+  "retweet_count": 1148,
+  "favorite_count": 0,
+  "original_created_at": "Fri May 21 12:26:21 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: @HassanAesthetic セキュリティを減らし、集中化を図る。",
+      "retweeted_status_full_text": "HassanAesthetic セキュリティを減らし、集中化を図る"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: @HassanAesthetic 减少安全，增加集中化",
+      "retweeted_status_full_text": "@HassanAesthetic 更少的安全，更多的集中化"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: @HassanAesthetic 減少安全，增加集中化",
+      "retweeted_status_full_text": "@HassanAesthetic 更少的安全，更多的集中化"
+    }
+  ],
+  "source_updated_at": 1622197393354,
+  "retweeted_status": {
+    "created_at": "Thu May 20 19:04:17 +0000 2021",
+    "id_str": "1395455356382351362",
+    "full_text": "@HassanAesthetic less security, more centralization",
+    "display_text_range": [
+      17,
+      51
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "HassanAesthetic",
+          "name": "Hassan💜🇨🇦",
+          "id": 613214169,
+          "id_str": "613214169",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "user": {
+      "name": "jack",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 1001,
+    "favorite_count": 6387
+  }
+}

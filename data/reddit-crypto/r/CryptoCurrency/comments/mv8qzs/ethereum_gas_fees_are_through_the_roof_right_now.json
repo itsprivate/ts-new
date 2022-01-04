@@ -1,0 +1,64 @@
+{
+  "author": "AutisticDalekOnSpeed",
+  "the_new_excerpt": "Despite what most people think, mining ethereum on a personal computer can be\nquite profitable if you have a good graphics card with at least 6 gb of vram. My\npc with an rx 5700 xt currently makes me 7usd worth of eth per day while barely\nusing a dollar of electricity.\n\nBefore you start, you need to…",
+  "original_created_utc": 1618981706,
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの人が思っていることですが、パーソナルコンピュータでイーサリアムを採掘することは\n最低でも6GBのメモリを搭載した良質なグラフィックカードがあれば、かなりの利益を得ることができます。私の\n私のPCにはrx 5700 xtが搭載されていますが、電気代をほとんど使わずに1日7usd分のイーサリアムを稼いでいます。\n電気代は1ドルも使いません。\n\n始める前に...",
+      "title": "イーサリアムのガス料金は今、天井知らずです。ここでは、ゲーミングPCでマイニングすることで、この恩恵を受けることができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "尽管大多数人认为，在个人电脑上挖掘以太坊可以\n如果你有一个好的显卡，至少有6GB的内存，那么你就可以很好的盈利。我的\n我的电脑有一个Rx 5700 xt，目前我每天可以挖到价值7usd的以太币，而几乎没有使用\n用一美元的电。\n\n在你开始之前，你需要...",
+      "title": "现在，以太坊的气体费用是通过屋顶的。以下是你如何通过在游戏电脑上挖矿来利用这一优势。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "儘管大多數人認爲，在個人電腦上挖掘以太坊可以\n如果你有一個好的顯卡，至少有6GB的內存，那麼你就可以很好的盈利。我的\n我的電腦有一個Rx 5700 xt，目前我每天可以挖到價值7usd的以太幣，而幾乎沒有使用\n用一美元的電。\n\n在你開始之前，你需要...",
+      "title": "現在，以太坊的氣體費用是通過屋頂的。以下是你如何通過在遊戲電腦上挖礦來利用這一優勢。"
+    }
+  ],
+  "title": "Ethereum gas fees are through the roof right now. Here's how you can take advantage of this by mining on your gaming computers.",
+  "created_utc": 1619005053,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Despite what most people think, mining ethereum on a personal computer can be quite profitable if you have a good graphics card with at least 6 gb of vram. My pc with an rx 5700 xt currently makes me 7usd worth of eth per day while barely using a dollar of electricity.</p>\n\n<p>Before you start, you need to know that mining can be quite heavy on the vram, meaning that even if the gpu core can have a good temperature, its vram will be reaching way higher temps. Due to this, you&#39;ll have to check the junction temps and make sure they stay below 90c so you can avoid any damage. In order to keep the temperatures low, you&#39;ll need to undervolt your card and adjust the fan curve. You can do this through MSI afterburner. Just keep lowering the power limit until you find a spot that will not affect your hashrate significantly. My GPU is currently undervolted from 220w to 155w, and it&#39;s running without any significant hashrate loss.</p>\n\n<p>Now let&#39;s get to the mining part. There are two ways you can mine.</p>\n\n<p>The first (and the easiest one) is with <strong>Nicehash</strong>.</p>\n\n<p>Nicehash is a platform where you can rent out your mining power to other people who will pay you in bitcoin to mine for them. You generally make the same amount you would by mining ethereum, but you&#39;re getting paid in bitcoin. It&#39;s a good choice if you only want bitcoin, but if you prefer ethereum better mine it directly since you&#39;ll save money in transaction and exchange fees.</p>\n\n<p>Nicehash is pretty easy to use.  You just make an account, download their software and start mining. They have a <a href=\"https://www.youtube.com/watch?v=YkG9TStbhVo\">video showing the whole procedure on their channel</a>.</p>\n\n<p>The 2nd way you can mine, is by downloading a mining software and using a mining pool.</p>\n\n<p>The easiest way to do this is with <strong>AwesomeMiner</strong>. It&#39;s a miner management software. It downloads all the miners you need automatically and you can choose whichever one you like the most. It also makes configuring everything way easier.</p>\n\n<p>In order to start mining with it, you&#39;ll first need to configure a <strong>pool</strong>. I use Flexpool, mainly because it has a low minimum payout of 0.05 eth, and it doesn&#39;t need me to make an account.</p>\n\n<p>click on new pool, and then add pool. It&#39;ll open a window with a bunch of options.</p>\n\n<p>You can leave the description field empty or just add a nickname. On pool connection you need to add your pool&#39;s url, in my case it was <a href=\"https://eth-de.flexpool.io:4444/\">eth-de.flexpool.io:4444</a>. In order to find what url you need to use for your region go to <a href=\"https://flexpool.io/en/docs/help/\">https://flexpool.io/en/docs/help/</a>. On worker name you can add whatever you want, think of it as your computer&#39;s name, your pc will show up on your pool with that name. Leave the worker. password field empty.</p>\n\n<p>On the coin field you need to choose Ethereum (ETH). On the wallet address field you need to put your ethereum wallet address. leave the personalization string and notes fields empty and click ok. Now your pool is added.</p>\n\n<p>&#x200B;</p>\n\n<p>Now you need to add a <strong>Miner</strong>.</p>\n\n<p>Click on add new miner, then click on &quot;managed miner&quot; and click next, add a name (description) to it, and leave the managed host at local. After that, you&#39;ll need to choose an algorithm, a miner, and a pool. On algorithm you need to choose Ethereum. On Mining software, choose NBMiner, leave dual mode at disabled, and then at pool choose the pool you added earlier. then click next and you&#39;re finished.</p>\n\n<p>Now all you need to do is right click on your miner and click on start. After that you&#39;re done.</p>\n\n<p>After you&#39;ve mined for around 5-10 minutes you&#39;ll need to go to <a href=\"https://flexpool.io/\">flexpool.io</a> and enter your ethereum wallet address to the search field. It will open your dashboard when you can see your miner&#39;s stats.</p>\n\n<p>There&#39;s also a beta version of flexpool&#39;s website ( <a href=\"https://beta.flexpool.io\">beta.flexpool.io</a> ) which will show you some extra stats like your daily income.</p>\n\n<p>Flexpool&#39;s minimum withdrawal amount is at 0.1 eth by default so you have to click on settings and change it to 0.05 to get paid sooner.</p>\n\n<p>After that you&#39;ll receive the eth in you wallet automatically every time you&#39;ve mined 0.05 eth.</p>\n\n<p>&#x200B;</p>\n\n<p>Oh, and before you start mining, just make sure you&#39;ll not lose money by paying more in electricity that you earn. <a href=\"https://www.nicehash.com/profitability-calculator\">Nicehash has a profitability calculator</a> on their website and you can use it to make sure that you&#39;ll actually make profit and you won&#39;t be losing money from the electricity you&#39;re gonna be using.</p>\n\n<p>&#x200B;</p>\n\n<p>edit: I forgot to mention that if you want to help with medical research while still making a small profit you can use your computing power to help medical research with folding@home and get paid in banano. You can check it out here <a href=\"https://bananominer.com/\">https://bananominer.com/</a></p>\n</div><!-- SC_ON -->",
+  "score": 635,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/pPlt3pjiyp5NFjR882iauKwHNbZLaqlXgjPDMtpDQ-Y.jpg?auto=webp&s=4bc57c344a5356e1df063df9634eb9fc113f9640",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/pPlt3pjiyp5NFjR882iauKwHNbZLaqlXgjPDMtpDQ-Y.jpg?width=108&crop=smart&auto=webp&s=2c6fe1a389cf96b7d269a40336f63c92f8f557bc",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/pPlt3pjiyp5NFjR882iauKwHNbZLaqlXgjPDMtpDQ-Y.jpg?width=216&crop=smart&auto=webp&s=fa40f73819c8fe954a93556c55353d632f2292e3",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/pPlt3pjiyp5NFjR882iauKwHNbZLaqlXgjPDMtpDQ-Y.jpg?width=320&crop=smart&auto=webp&s=c8d8edbec930618ce6984d4eb900bda6b9f7b740",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "nt8mrbR1hcNUzxkWJdewrrTfKcqQD7GXSj3p_LaQeVs"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/mv8qzs/ethereum_gas_fees_are_through_the_roof_right_now/",
+  "subreddit": "CryptoCurrency",
+  "id": "mv8qzs",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1619171523333
+}

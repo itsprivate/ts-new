@@ -1,0 +1,113 @@
+{
+  "created_at": "Wed Jun 16 4:35:39 +0000 2021",
+  "id_str": "1404799445523382279",
+  "full_text": "When analysts raise their price target from $10 to $15 but the stock is at $50 https://t.co/eUlGC5Bbde",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/eUlGC5Bbde",
+        "expanded_url": "https://twitter.com/bleacherreport/status/1404798776221515777",
+        "display_url": "twitter.com/bleacherreport…",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "Michael Batnick",
+    "screen_name": "michaelbatnick",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157350851406716932/rNWwlpQL_normal.jpg"
+  },
+  "retweet_count": 13,
+  "favorite_count": 328,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Jun 15 13:54:22 +0000 2021",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "アナリストが目標株価を10ドルから15ドルに引き上げても、株価が50ドルの場合 https://t.co/eUlGC5Bbde",
+      "quoted_status_full_text": "ジェイムス・ハーデンは、今夜のバックス戦の出場を「疑わしい」にアップグレードしました https://t.co/qC4S5ro8N8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "当分析师将他们的目标价格从10美元提高到15美元，但股票却在50美元https://t.co/eUlGC5Bbde。",
+      "quoted_status_full_text": "今晚对雄鹿的比赛，詹姆斯-哈登已经升级为出战成疑 https://t.co/qC4S5ro8N8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "當分析師將他們的目標價格從10美元提高到15美元，但股票卻在50美元https://t.co/eUlGC5Bbde。",
+      "quoted_status_full_text": "今晚對雄鹿的比賽，詹姆斯-哈登已經升級爲出戰成疑 https://t.co/qC4S5ro8N8"
+    }
+  ],
+  "source_updated_at": 1624009751467,
+  "quoted_status": {
+    "created_at": "Tue Jun 15 13:51:42 +0000 2021",
+    "id_str": "1404798776221515777",
+    "full_text": "James Harden has been upgraded to doubtful for tonight's game against the Bucks https://t.co/qC4S5ro8N8",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1404798614103330800,
+          "id_str": "1404798614103330822",
+          "indices": [
+            80,
+            103
+          ],
+          "media_url": "http://pbs.twimg.com/media/E37Y5YaXEAYcaZK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E37Y5YaXEAYcaZK.jpg",
+          "url": "https://t.co/qC4S5ro8N8",
+          "display_url": "pic.twitter.com/qC4S5ro8N8",
+          "expanded_url": "https://twitter.com/BleacherReport/status/1404798776221515777/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Bleacher Report",
+      "screen_name": "BleacherReport",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266052551989919745/4D5slyzm_normal.jpg"
+    },
+    "retweet_count": 417,
+    "favorite_count": 7754,
+    "possibly_sensitive": false
+  }
+}

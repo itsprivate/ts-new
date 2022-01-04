@@ -1,0 +1,78 @@
+{
+  "author": "mjrice",
+  "original_created_utc": 1629648955,
+  "title": "8 Fun Facts about your seed phrase you might not know",
+  "created_utc": 1629657951,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p><strong>HOLD up partner!</strong>  I know you&#39;re anxious to get down to that sweet comment section and leave your mark.  You&#39;re probably already thinking of something clever, like &quot;bold of you to assume I can count to 8&quot;.  But we&#39;re about to learn some interesting things, which you can later use to amaze and impress your parents, friends, or significant others.</p>\n\n<p><em>So you&#39;ve got yourself some crypto, and since you&#39;re no chump you created a wallet (or three) to move it to.  During the process, the software presented you with a list of words and told you to</em> <strong><em>write them down and keep them safe</em></strong>*!  But did you know*</p>\n\n<p>&#x200B;</p>\n\n<ol>\n<li><strong>The idea to use a list of regular words (a mnemonic sentence) for generating cryptographic wallets was proposed in 2013</strong>. It was formally adopted as a Bitcoin Improvement Proposal (BIP) called BIP-39. Prior to that, wallet seeds were just a long, randomly generated string of digits, which was difficult to use due to the fact that it&#39;s easy to introduce errors when reading or writing it down.  Some subsequent implementation following BIP-39 is now used by just about every wallet on every blockchain, <em>because it&#39;s just that good of an idea</em>.</li>\n<li><strong>I know all the words in your seed phrase!</strong>  All modern wallets that use BIP-39 use words from     the same list of 2048 official seed words. There are different lists for other languages, but every wallet that uses English language is derived from this list of words:   <a href=\"https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt\">https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt</a></li>\n<li><strong>Each word in the list was chosen to minimize the chance of mistaking one word for another.</strong>  For example, no two words on the list start with the same four letters, so technically if you can read the first four letters you can recover the wallet.</li>\n<li><strong>Humans are terrible at generating randomness</strong>, which is why when you create a new     wallet, the software doesn&#39;t let you &quot;choose&quot; your seed words. Basically, you would pick words that someone (or a good computer to be more specific) could easily guess if given a few million (or billion) tries. What the wallet does instead is generate a highly random sequence of bits (0’s and 1’s) and then chop it up into a series of 11 bit values, each of which then identifies a single word in the word list  (2^11 = 2048, the number of words in the list).  So for example if a particular 11-bit chunk of the random sequence is “00000000101”, that is the number 5, so the 5th word in the list is used, which is “above”.  When you recover a wallet using your seed phrase, the software looks up each word to find it’s position on the list and then converts that place number back to the value (i.e. if you enter “moon” it finds that word at position 1149, which in binary is 10001111101).  The fact that OG BIP39 wallets work this way, by the way, is <strong>considered technically to be a flaw</strong>, because the seed words <em>themselves</em> don&#39;t actually contain the information to recover the wallet.  You have to look up the word in a particular list of words.  So if the word list is unavailable or changes, your recover phrase would not work.  Some software like that <a href=\"https://electrum.readthedocs.io/en/latest/seedphrase.html#motivation\">used by the Electrum wallet</a>, solves this issue by using the seed words themselves to produce the seed value and hence the public/private keys.  In the meantime, when you record your seed phrase you <strong>really should also write down the wallet software (including version number) that was used</strong> to produce the keys, so that when they unthaw you in 100 years and you want to recover your vault of moons, you can get an archival copy of the correct software you will need (hopefully someone stored a copy on <a href=\"https://en.wikipedia.org/wiki/InterPlanetary_File_System\">IPFS</a>).  You remembered to have your seed phrase stored with your frozen body, right?</li>\n<li><strong>The last word in your seed phrase is actually dependent on the previous words.</strong>  This is  another level of error detection built into the mnemonic seed   phrase.  After that series of random 0’s and 1’s is generated, the software calculates a <a href=\"https://en.wikipedia.org/wiki/Checksum\">checksum</a>  and combines it with the last 11-bit sequence, which then determines the last word in the list.  So if you know the first 11 words, you can figure out the 12th word fairly easy by trial and error (which is <a href=\"https://iancoleman.io/bip39/\">how I know</a> “<code>moon moon moon moon moon moon moon moon moon moon moon tomorrow</code>” is not a valid seed phrase but “<code>moon moon moon moon moon moon moon moon moon moon moon able</code>” is).</li>\n<li><strong>The same seed phrase will produce a different wallet on different blockchains.</strong>  This is because a subsequent proposal, known as BIP-44, adopted in 2014, added an additional field to the seed value which identifies the coin type.  This was done so that there would not be a case where the same public/private key pair existed on multiple blockchains if the user used the same word list to generate, say, separate bitcoin and ethereum wallets. Since you usually use a wallet which is designed for a particular blockchain (e.g. metamask, which supports Ethereum, or Yoroi for Cardano) you aren’t aware of the addition of that key value; the software just does it for you.  Related to that flaw in BIP39 pointed out in #4 above, this enhancement is related to what are called <em>derivation paths</em>. Which is why technically, your seed phrase is not enough to recover your wallet.  <strong>To emphasize this point again, for long term archiving of your seed phrase, be sure to also record what software produced it and for what coin you created the keys.</strong></li>\n<li><strong>Some blockchains use more than 12 words</strong>.  <a href=\"https://community.algorand.org/blog/understanding-mnemonic-keys-and-how-they-are-generated-on-the-algorand-blockchain/\">Algorand</a> and <a href=\"https://web.getmonero.org/resources/moneropedia/mnemonicseed.html\">Monero</a>, for example, use 25 words (the last word includes the checksum similarly to the 12 word version).  This is to increase the length of the public key/private key pair to 256/512 bits, respectively.  Cardano supports either 15 or 24 word mnemonic phrases. (<em>No, I don&#39;t actually know why they chose 15, I guess just to be weird</em>)</li>\n<li><strong>There are 5,444,517,870,735,020,000,000,000,000,000,000,000,000 possible 12-word seed phrases.</strong>  To put that in perspective, there are approximately 7,500,000,000,000,000,000 grains of sand on the earth. So you would have a much (<strong>much!</strong>) greater chance of selecting a single specific grain of sand from somewhere on the earth than guessing someone’s 12 word seed phrase.  And for 24 words?  Just don’t think about it.  For fun, visit <a href=\"https://keys.lol/\">https://keys.lol/</a> and spin the wheel.</li>\n</ol>\n\n<p>Try not to let your brain explode with all this new information, cryptofriends!</p>\n\n<p>If there is one TLDR here, it&#39;s this: <strong>when you record your seed phrase, also record information about the software that produced the keys with it.</strong></p>\n</div><!-- SC_ON -->",
+  "score": 307,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?auto=webp&s=4011b951d46362a6cb814f449bb5f60a66c17dcc",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?width=108&crop=smart&auto=webp&s=b3311e1f5393a3a7eb0550c6203d2e3bf734df39",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?width=216&crop=smart&auto=webp&s=7453d69c2aaae1c4fdf165dba6a3ff0264dd108a",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?width=320&crop=smart&auto=webp&s=677c22d9cbbfcb009b90a65f23bba463a5b920b8",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?width=640&crop=smart&auto=webp&s=8614a25fdb1ee069e4b93e77ca233ce196d76749",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?width=960&crop=smart&auto=webp&s=55fcbd927b819220ae142239fa3370c545599902",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/C_-SpwV8z7qDAfnpev8RUf6h1S3VFWETqJGk6ThiwFw.jpg?width=1080&crop=smart&auto=webp&s=01b69bf135f55f6ed82ab428bf66d6c67cb8b456",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "juPPXnU43YS6jpXoOSM0hxKF3P6Lzyv3gW5KWMKlOYE"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/p9fcui/8_fun_facts_about_your_seed_phrase_you_might_not/",
+  "subreddit": "CryptoCurrency",
+  "id": "p9fcui",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "HOLD up partner! I know you're anxious to get down to that sweet comment section\nand leave your mark. You're probably already thinking of something clever, like\n\"bold of you to assume I can count to 8\". But we're about to learn some\ninteresting things, which you can later use to amaze and impress…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "HOLD UP PARTNER! 早くコメント欄にたどり着きたいと思っていることでしょう。\nあなたの足跡を残したいと思っています。おそらく、すでに何か気の利いたことを考えているでしょう、例えば\n\"8まで数えられるとは大胆だな \"とかね。しかし、私たちはこれから面白いことを学びます。\n驚きと感動を与えることができるでしょう...。",
+      "title": "意外と知られていない、あなたの種のフレーズに関する8つの楽しい事実"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "坚持住，伙伴！我知道你急着要去那个可爱的评论区\n并留下你的标记。你可能已经在想一些聪明的办法了，例如\n\"你真大胆，以为我可以数到8\"。但是，我们将学到一些\n有趣的事情，你以后可以用它来惊奇和打动......",
+      "title": "你可能不知道的关于你的种子短语的8个有趣事实"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "堅持住，夥伴！我知道你急着要去那個可愛的評論區\n並留下你的標記。你可能已經在想一些聰明的辦法了，例如\n\"你真大膽，以爲我可以數到8\"。但是，我們將學到一些\n有趣的事情，你以後可以用它來驚奇和打動......",
+      "title": "你可能不知道的關於你的種子短語的8個有趣事實"
+    }
+  ]
+}

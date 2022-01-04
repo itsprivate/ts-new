@@ -1,0 +1,63 @@
+{
+  "author": "Kingkwon83",
+  "original_created_utc": 1635427589,
+  "title": "If you are using 2 Factor Authentication, don't make the same stupid mistake I did! Important if you plan to switch/upgrade your phone",
+  "created_utc": 1635449584,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m writing this post hoping to save you from going through the hassle of what I just went through recently. TLDR at the bottom if you don&#39;t like stories.</p>\n\n<h1>Upgrading my phone</h1>\n\n<p>Even though my 2-year phone contract had recently finished, I wasn&#39;t planning to upgrade my phone for a while. Then at the end of September, I decided to upgrade my phone on a whim due to some special promo that gave me a free galaxy, galaxy buds2 and a few other goodies. </p>\n\n<p>I knew I&#39;d need access to my 2FA authentication data to login to several exchanges, but Google Authenticator won&#39;t let you screen capture the QR code. They want you to import it by taking a pic on your new phone of the QR code on your old device. I told myself not to forget to do this.<br/>\nSpoilers: I forgot</p>\n\n<p>So, I go down to my telecom provider to get my new device. They begin transferring my data from my old phone to my new phone using a built-in function for Samsung devices (or perhaps Android devices). It&#39;s supposed to transfer all your app data as well. Silly me assumed this also meant my 2FA data from Google Authenticator would carry over. Spoilers: It didn&#39;t</p>\n\n<p>This whole process took a lot longer than I expected and I&#39;m now in a hurry to leave and go back to work. At last, all the data finally transferred over and I&#39;ve now got to leave asap. I foolishly assumed my 2FA carried over, but regardless, I should have opened up Google Authenticator on my new device and taken a pic of the QR code on my old device. I was in a hurry and it totally slipped my mind.</p>\n\n<p>Data is all transferred over, so I traded in my old device and then they did a factory reset on it. Later on that day, I opened Google Authenticator and noticed nothing carried over. I looked for ways to see if I could recover, but failed.</p>\n\n<h1>Re-gaining Access to multiple exchanges</h1>\n\n<p>Now I&#39;m locked out of the 4 exchanges I use the most because I can no longer input my 2FA data. Some exchanges were tougher than others.</p>\n\n<ul>\n<li><strong>Exchange 1</strong>: this highly popular exchange normally doesn&#39;t require KYC, but I had to do the following:\n\n<ul>\n<li>Had to answer multiple security questions about my account (e.g. when my account was created, my IP, devices I used, etc)</li>\n<li>Statement video: record a video where I&#39;m holding my ID and saying a few other things</li>\n<li>Deposit video: I need to show proof of my depositing to this exchange. I needed to record my logging into another exchange and show that I sent money to this exchange since I never deposited fiat here, so I needed access to another exchange showing me sending XRP/XLM to this. The problem is I&#39;m locked out of the other exchanges. You also need to show the TXID of the withdrawal transaction.</li>\n<li>Time to regain access: over a week</li>\n</ul></li>\n<li><strong>Exchange 2</strong>: a not so popular exchange is where I get my BAT sent to for using BRAVE. I also used this to send XRP to exchange 1 several times. \n\n<ul>\n<li>Time to regain access: 48 hours. This one was the easiest exchange to regain access to.</li>\n<li>After regaining access to my account, I was now able to provide proof for exchange 1.</li>\n</ul></li>\n<li><strong>Exchange 3</strong>: a well known exchange with high fees and shitty customer service. I only use this exchange to deposit fiat to send my XLM elsewhere.\n\n<ul>\n<li>Had to take a picture of myself holding a piece of paper with info they requested and my ID (passport)</li>\n<li>Had to upload to their portal</li>\n<li>Time to regain access: over a week</li>\n</ul></li>\n<li><strong>Exchange 4</strong>: an exchange I mostly use to buy STX to stack with decent customer service\n\n<ul>\n<li>Had to send a picture of my ID (passport)</li>\n<li>Had to add them on Skype, then do a skype call. Had to show my ID over video and write stuff down on a piece of paper</li>\n<li>Time to regain access: almost 2 weeks total. Should have taken a week, but it seems they forgot about me so I messaged on skype again.</li>\n</ul></li>\n</ul>\n\n<h1>Don&#39;t forget about your vault on Reddit</h1>\n\n<p>I also assumed that logging into reddit would also give me immediate access to my vault. Nope. To make matters worse, I used a slightly different password for my vault so it took a ton of guesses. I also didn&#39;t save my seed phrase anywhere. Oops</p>\n\n<h1>Don&#39;t be like me</h1>\n\n<ul>\n<li>Don&#39;t be like me, be well prepared to transfer your 2FA data to your new device. </li>\n<li>Save your seed phrase for your vault on Reddit. Don&#39;t wanna lose your moons. I almost had to create a new vault because I couldn&#39;t figure out my password</li>\n<li>TIL: Based on multiple comments in here, using Authy instead of Google Authenticator would have saved me all this trouble. Gonna be switching in the next few days myself. Thanks for the suggestion guys</li>\n</ul>\n\n<p><strong>TLDR</strong>: </p>\n\n<ul>\n<li>Back up your 2FA somehow, someway before switching/upgrading your phone. \n\n<ul>\n<li>Note: Google Authenticator will not let you screen capture the QR code for security reasons.</li>\n<li>Note: Despite your phone &quot;transferring&quot; all of its data to the new phone, it won&#39;t transfer certain things like 2FA data.</li>\n</ul></li>\n<li>Once you lose your 2FA codes, it&#39;s a huge pain in the ass to gain back access to your accounts. </li>\n<li>Some exchanges are harder to get access to than others</li>\n<li>Don&#39;t forget your password for your Moon vault as well. I almost forgot my password for my vault and didn&#39;t have my seed phrase.</li>\n<li>Based on multiple comments, using Authy instead of Google Authenticator would have saved me all this trouble</li>\n</ul>\n\n<p>Got any tips for safely storing your 2FA data? Please share them and I&#39;ll add them to this post. </p>\n\n<p>Hope this post ends up helping someone out and preventing them from going through what I did. I&#39;m like Hov because</p>\n\n<p>&#x200B;</p>\n\n<p><a href=\"https://preview.redd.it/zo8ncatqu5w71.png?width=400&amp;format=png&amp;auto=webp&amp;s=9f26b58ed70c71ed0272dd5a9333d8edf0f3ea35\">https://preview.redd.it/zo8ncatqu5w71.png?width=400&amp;format=png&amp;auto=webp&amp;s=9f26b58ed70c71ed0272dd5a9333d8edf0f3ea35</a></p>\n</div><!-- SC_ON -->",
+  "score": 197,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/9Q31oLfCdRkH-QnkhKiS3muEXo7W_3oS2pikFm1QKU0.png?auto=webp&s=9256f898975e06e5c4f5b511662b840c78353072",
+          "width": 400,
+          "height": 493
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/9Q31oLfCdRkH-QnkhKiS3muEXo7W_3oS2pikFm1QKU0.png?width=108&crop=smart&auto=webp&s=e7a15b474fe4d8360601e300e72d8e7d7d88a766",
+            "width": 108,
+            "height": 133
+          },
+          {
+            "url": "https://external-preview.redd.it/9Q31oLfCdRkH-QnkhKiS3muEXo7W_3oS2pikFm1QKU0.png?width=216&crop=smart&auto=webp&s=a9b9b8c71c0952d3bc74b1bc633e365cc0fb7296",
+            "width": 216,
+            "height": 266
+          },
+          {
+            "url": "https://external-preview.redd.it/9Q31oLfCdRkH-QnkhKiS3muEXo7W_3oS2pikFm1QKU0.png?width=320&crop=smart&auto=webp&s=3656d7390ae79b9f375ddb28a06d2e5c7dc123b8",
+            "width": 320,
+            "height": 394
+          }
+        ],
+        "variants": {},
+        "id": "dGVV_ni6ffDI-aabWb9DlEFuHCDvV9npUIrTvZnMdwY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/qhn0wj/if_you_are_using_2_factor_authentication_dont/",
+  "subreddit": "CryptoCurrency",
+  "id": "qhn0wj",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "the_new_excerpt": "I'm writing this post hoping to save you from going through the hassle of what I\njust went through recently. TLDR at the bottom if you don't like stories.\n\n\nUPGRADING MY PHONE\n\nEven though my 2-year phone contract had recently finished, I wasn't planning to\nupgrade my phone for a while. Then at the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この記事を書いているのは、私が最近経験したような面倒なことをあなたがしなくて済むようにと思ってのことです。\nこの記事を書いているのは、私が最近経験したような面倒なことを 物語が苦手な方は下の方にあるTLDRをご覧ください。\n\n\n携帯電話のアップグレード\n\n携帯電話の2年契約が終了しても、しばらくは携帯電話をアップグレードする予定はありませんでした。\nしばらくは機種変更をするつもりはありませんでした。しかし、ある日突然",
+      "title": "2要素認証を使用している場合、私と同じ愚かな間違いをしないでください。機種変更やアップグレードを予定している場合に重要なこと"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我写这篇文章，希望能使你免于经历我最近所经历的麻烦。\n最近刚经历过的麻烦。如果你不喜欢故事的话，TLDR在底部。\n\n\n升级我的手机\n\n尽管我的2年电话合同最近已经结束，但我暂时还没有打算升级我的手机。\n升级我的手机一段时间。然后，在...",
+      "title": "如果你正在使用2因素认证，不要犯我同样的愚蠢错误 如果你打算更换/升级你的手机，这很重要"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我寫這篇文章，希望能使你免於經歷我最近所經歷的麻煩。\n最近剛經歷過的麻煩。如果你不喜歡故事的話，TLDR在底部。\n\n\n升級我的手機\n\n儘管我的2年電話合同最近已經結束，但我暫時還沒有打算升級我的手機。\n升級我的手機一段時間。然後，在...",
+      "title": "如果你正在使用2因素認證，不要犯我同樣的愚蠢錯誤 如果你打算更換/升級你的手機，這很重要"
+    }
+  ]
+}

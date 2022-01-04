@@ -1,0 +1,28 @@
+{
+  "author": "pmalhotra96",
+  "the_new_excerpt": "Hi everyone! I originally posted this script on r/ValueInvesting\n[/r/ValueInvesting] and I got good feedback so I'm posting it here too. I've\nlearned a lot over the last year by reading r/stocks [/r/stocks] and thought I\nwould make a small contribution to the community. So without further ado,…",
+  "original_created_utc": 1615437999,
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好! 我最初在r/ValueInvesting上发布了这个脚本。\n[/r/ValueInvesting]，我得到了很好的反馈，所以我也发在这里。我已经\n在过去的一年里，通过阅读r/stocks [/r/stocks]学到了很多东西，并认为我\n会对社会做出一点贡献。所以，废话不多说，...",
+      "title": "用于快速DCF分析和评估的Python脚本。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好! 我最初在r/ValueInvesting上發佈了這個腳本。\n[/r/ValueInvesting]，我得到了很好的反饋，所以我也發在這裏。我已經\n在過去的一年裏，通過閱讀r/stocks [/r/stocks]學到了很多東西，並認爲我\n會對社會做出一點貢獻。所以，廢話不多說，...",
+      "title": "用於快速DCF分析和評估的Python腳本。"
+    }
+  ],
+  "title": "Python script for a quick DCF analysis & valuation.",
+  "created_utc": 1615459732,
+  "selftext_html": "<!-- SC_OFF --><div class=\"md\"><p>Hi everyone! I originally posted this script on <a href=\"/r/ValueInvesting\">r/ValueInvesting</a> and I got good feedback so I&#39;m posting it here too. I&#39;ve learned a lot over the last year by reading <a href=\"/r/stocks\">r/stocks</a> and thought I would make a small contribution to the community. So without further ado, here&#39;s what it does:</p>\n\n<ul>\n<li>Pulls FCF from stockanalysis.com</li>\n<li>Pulls the growth estimation over the next 5 years from yahoo finance</li>\n<li>Runs the DCF with a discount rate of 10% and a perpetuity rate of 3%</li>\n<li>Computes an estimate of how much growth rate is priced-in at it&#39;s current market value</li>\n</ul>\n\n<p>​ It&#39;s as easy as <code>python value_estimator.py &lt;ticker-name&gt;</code>. And here&#39;s a sample output:</p>\n\n<pre><code>Fetching data for TSLA...\n\nLatest FCF: 2711.0\nMarket price: 668.06\nEPS: 0.64\nGrowth estimate: 32.1\nTerm: 5 years\nDiscount Rate: 10%\nPerpetual Rate: 3%\n\n================================================================================\nDCF model\n================================================================================\n\nFair value: 130.1962060548707\n\n================================================================================\nGraham style valuation basic (Page 295, The Intelligent Investor)\n================================================================================\n\nExpected value based on growth rate: 46.528000000000006\nGrowth rate priced in for next 7-10 years: 517.671875\n</code></pre>\n\n<p>Here&#39;s a link to the script: <a href=\"https://gist.github.com/prateekmalhotra/431ebfa2d3168f7b7dbe7a86f17e3f2f\">https://gist.github.com/prateekmalhotra/431ebfa2d3168f7b7dbe7a86f17e3f2f</a></p>\n\n<p>Let me know if you face any problems or have any suggestions for improvement. I&#39;m always on the lookout for better valuation methods for growth companies so do let me know if you have good ideas. Thanks!</p>\n</div><!-- SC_ON -->",
+  "score": 212,
+  "permalink": "/r/stocks/comments/m2i1oc/python_script_for_a_quick_dcf_analysis_valuation/",
+  "subreddit": "stocks",
+  "id": "m2i1oc",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "source_updated_at": 1616147381378
+}
