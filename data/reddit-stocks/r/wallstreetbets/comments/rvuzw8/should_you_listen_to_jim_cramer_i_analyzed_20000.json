@@ -1,0 +1,530 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "Jim Cramer has made 21,609 stock picks in the past 5 years! Let that sink in for a moment. Here is one person, making buy/sell/hold recommendations on more than 2,200+ different stocks across all types of industries. On average, he was making more than 20 picks per episode of his show \\[1\\]. This is a staggering number of picks to be made by one person! \\[2\\]\n\nWhile we can all argue about his expertise in making recommendations on such a wide array of industries and companies, what I wanted to know was:\n\n1. **How accurate were his recommendations?**\n2. **Would you have made or lost money if you followed them?**\n3. **Can you beat the market following his picks?**\n\nSo it’s high time that we put Cramer to the ultimate test and end the debate about his usefulness once and for all!\n\nhttps://preview.redd.it/ky8qh0nzeo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=104b963a012fc82a7a12585615dbd98c402e0a26\n\n**Analysis**\n\nThe data about all the stock picks made by Cramer are available [here](https://madmoney.thestreet.com/screener/index.cfm) \\[3\\]. The picks are classified into five segments (Buy, Hold, Sell, Positive/Negative mention). I have calculated the return for each segment separately \\[4\\] so that we can know what to focus on if we are trying to replicate this strategy.\n\nSince Cramer frequently contradicts his own picks and is mainly focused on short-term trades, I am only analyzing the stock returns for the following periods \\[5\\].\n\na. One-day\n\nb. One-Week\n\nc. One-Month\n\nGiven that Mad Money (Cramer’s Show) airs after the market closes, I have used the opening price of the next day for my calculations. (I.e If Cramer makes a recommendation on Thursday night, I use Friday opening price as the base for my calculations)\n\nAll the data used in the calculations are shared at the end.\n\nhttps://preview.redd.it/yc7i0we0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=cb1c59f7bb5c02119e674ffaaf079fa67afa6120\n\n**Results**\n\nhttps://preview.redd.it/5ezb3bw1fo981.png?width=775&amp;format=png&amp;auto=webp&amp;s=6fb146c04d7e9311751be085f6d21348fafac092\n\n1-day performance of Cramer’s recommendations is excellent! On average, the Buy and Positive mention stocks went up by 0.03 and 0.05% respectively, and sell and negative mention stocks went down by 0.1 and 0.02%.\n\nAnother interesting fact is that ***you would not have lost money*** if you followed Cramer’s Buy recommendations. Across the time periods, his Buy recommendations have on average netted you positive returns \\[6\\]!\n\nHis sell recommendations did not pan out so well. Even though they dropped in price the next day, over the next week and month, they returned inline or even better than his buy recommendations!\n\nGiven that there is a counter-intuitive trend in the returns, let’s calculate the accuracy of his calls.\n\nhttps://preview.redd.it/rht12ux2fo981.png?width=792&amp;format=png&amp;auto=webp&amp;s=c571f5fc7d63fcb095555080320757192129d380\n\nHere I am assigning a call as correct based on price change. If he gives a buy recommendation, I expect the price to go up and vice versa. As we can see from the chart above, his recommendations only do slightly better than a coin-toss. Even this only holds for short-term and buy recommendations with long-term sell recommendation performance dropping below 50% \\[7\\].\n\nWhile this narrow edge over the 50% mark can be used by algo-traders who have the ability to trade a large amount of stocks, if you are an average investor listening in on a Cramer show and hear about a stock recommendation, you might as well toss a coin to see if you should invest or not!\n\nFinally, it’s time we pit **Cramer against the market**. Do his recommendations beat the market?\n\nhttps://preview.redd.it/5fszhew3fo981.png?width=1020&amp;format=png&amp;auto=webp&amp;s=1cf5e2c992435a6d8ed36dbed707b11dd4cd30ba\n\nOh yeah! I was as surprised with the results as you are. I ran the numbers again and then one more time but got the exact same result! Cramer’s Buy recommendations beat the S&amp;P 500 by a factor of 10 for the **one-day time frame**. But, if you held the stocks for anytime longer, you would have underperformed the market significantly.\n\nBefore you go daytrade on his recommendations you should know that the numbers we are seeing here are heavily influenced by outliers. If you miss out on the top 1% of recommendations (\\~110 stocks out of the 11,000+ buy recommendations he had made), your **1-day return would be -0.062% instead of +0.034** \\[8\\].\n\nhttps://preview.redd.it/1xtamkf0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=f6b9215c2379524644653c67ff375667c8f0354a\n\n**Limitations of the analysis**\n\nThe analysis has some limitations that you should be aware of before trying to replicate the strategy.\n\n1. As the astute among you might have noticed, if you sum up all the stocks used in the analysis it would only come to 18.5k. I removed \\~15% of the overall recommendations as either they did not have stock data present in Yahoo Finance/Alpha Vantage or the price data did not match with the one given on the Mad Money website.\n2. The data is obtained from the Mad Money website itself. I haven’t manually verified if the calls recorded on the website are in fact an accurate representation of the calls made by Cramer in his show. The below statement is given in their description and I am taking them on their word.\n\n&gt;We are impartial in our recording and simply log exactly what was said. We do not interpret the calls. If a call is vague or in question we simply won't list it.\n\nhttps://preview.redd.it/11nzh3f0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=a15a32e373431bc460ce4c082a94ee58e7c392a6\n\n**Conclusion**\n\nNo matter the public opinion on Cramer, we can generate excellent 1-day returns following his buy recommendations (even beating the market in doing so!). Whether it’s due to his superior stock picking ability or whether it’s simply due to self-fulfilling prophecy \\[9\\] (as he has a wide audience who will act on his advice) is yet to be known.\n\nI would bet on the latter as, if the extraordinary one-day returns were in fact due to his superior stock-picking ability, the returns should have held over longer time periods, and also his sell recommendations would not have ended up performing better than his buy recommendations as we are observing here.\n\nIt only makes sense to listen to his advice if you are a day-trader or an algo-trader who is trading a large variety of stocks over short periods of time. For everyone else, just sticking to the S&amp;P 500 would give you better returns over the long run!\n\nhttps://preview.redd.it/r0ub7nf0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=9ef4712b1906249e0a0c73aa32683261308d470e\n\n**Data**\n\nExcel file containing all the Recommendations and Financial data: [**Here**](https://docs.google.com/spreadsheets/d/1d0mooS_qsfePXChEDq2IDov_of_TFvD1/edit?usp=sharing&amp;ouid=111668650548288730122&amp;rtpof=true&amp;sd=true)\n\n**Live tracker** containing the performance of Cramer’s 2021 picks: [**Here**](https://rows.com/market-sentiment/my-spreadsheets/untitled-spreadsheet-3-5C58Ix9kx1ixB0cM52DWZi/live) \\[10\\] (I will be updating this file regularly so that you can see his performance in real-time whenever you want to!)\n\nhttps://preview.redd.it/7zr08cg0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=417b44732deac9668c0b58d3645c532ba8ecba5c\n\n**More Interesting Reads**\n\nFrom this week onwards, I am including one or two blogs or articles I really enjoy and hopefully, you can discover new and interesting content!\n\n[**More to that**](https://moretothat.com/)**:** This is by an illustrator called Lawrence Yeo who breaks down really complicated topics into easy to read articles with fun illustrations. [**The Nothingness of Money**](https://moretothat.com/the-nothingness-of-money/) was one of the best articles I have read last year and if you reading just one article this year, it should be this one (oh, I know this is r/wallstreetbets, but you are going to love this one)!\n\nhttps://preview.redd.it/fhynetg0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=d649c089f313918d5ab29b979f500810f9e12a46\n\n**Footnotes and existing research**\n\n**\\[1\\]** For those who don’t know, Cramer makes his picks in a CNBC show called [Mad Money](https://en.wikipedia.org/wiki/Mad_Money). Cramer himself defines the show as something which should be used for speculative/high-risk investing and not for your retirement portfolio.\n\n**\\[2\\]** For comparison purposes, an equity research analyst [covers only 10-25 companies](https://whatforwork.com/jobs/equity-research-analyst-sell-side/).\n\n**\\[3\\]** It’s not in an easily usable format. I had to parse the data from the webpage using Python (Beautiful Soup) - I have shared all the data used in this analysis as an Excel and Rows file at the end.\n\n**\\[4\\]** I did not calculate for Hold as he only made 27 hold recommendations, which is lower than what is required for a statistical significance.\n\n**\\[5\\]** In my [last post about Jim Cramer](https://old.reddit.com/r/wallstreetbets/comments/mtehdq/i_analyzed_all_700_buy_and_sell_recommendations/), there was a lot of controversy around how I calculated the time period. So here is the detailed version about how the time period is considered. For One-Day returns, we are considering that we will purchase the stock the next trading day after the market opens and then sells it at the end of the trading day. For weekly and monthly returns, I am using adjusted closing price since across a week or month there can be stock splits as well as dividends.\n\n**\\[6\\]** This can also be attributed to the market rally we have experienced over the last 5 years where a large majority of stocks went up.\n\n**\\[7\\]** 50% benchmark might be controversial with a lot of you (I agree given that if we are in a bull market there is more than a 50-50 chance of a stock going up tomorrow) → My rationale here is standing today looking at a stock, there are only two things that can happen tomorrow. It can either go up or go down. I assign equal probability to both given anything can happen tomorrow. The market can turn bearish, positive or negative news about the company can come up, etc. If you have a better logic for a benchmark, please do suggest!\n\n**\\[8\\]** But to be fair to Cramer, this is applicable to all types of Investment strategies and hedge funds! The performance of a few of the stocks in your portfolio will finally end up heavily influencing the returns of your overall portfolio. → Think of Tesla incase of ARK and FAANG in case of S&amp;P 500.\n\n**\\[9\\]** There is some [existing research](https://scholarship.tricolib.brynmawr.edu/handle/10066/588) that deep dives into this topic.\n\n**\\[10\\]** Since it’s a live tracker using data from Alpha Vantage, the calculation is done slightly differently than in the analysis (in the live tracker I had to use the closing price on the day of recommendation instead of the opening price of the next day). I will be updating it to follow the same process as the analysis as soon as I get info from Alpha Vantage.",
+  "author_fullname": "t2_q15pxyy",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Should you listen to Jim Cramer? - I analyzed 20,000+ recommendations made by Jim Cramer during the last 5 years. Here are the results.",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "thumbnail_height": 1,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "fhynetg0fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/fhynetg0fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f3d609c2caa2ad9005dd353c8d87b8d3688ebaa1"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/fhynetg0fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=433bc76b831efd18493f6846b6ae8e3800a14c9c"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/fhynetg0fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3959474039ec3631769269234384ef6fe06a1b9e"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/fhynetg0fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a3f282dbac52a8ff667ce230b0e2fa8bf7c8209"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/fhynetg0fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=4775a2cf49e6faa89812645e2bcd4e050edef9d0"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/fhynetg0fo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1c0f45eddfbe9e818db74a57841fa0b8a114d544"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/fhynetg0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=d649c089f313918d5ab29b979f500810f9e12a46"
+      },
+      "id": "fhynetg0fo981"
+    },
+    "rht12ux2fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 37,
+          "x": 108,
+          "u": "https://preview.redd.it/rht12ux2fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=5b4b93e6b819e839a1fa92c79a187492e7941f42"
+        },
+        {
+          "y": 74,
+          "x": 216,
+          "u": "https://preview.redd.it/rht12ux2fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=fba933c8a2f617f8f55ed74f4e0a95a9346b0bc5"
+        },
+        {
+          "y": 110,
+          "x": 320,
+          "u": "https://preview.redd.it/rht12ux2fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7d02814b8abbcef7af4a9d1665833dc2c4b53e62"
+        },
+        {
+          "y": 221,
+          "x": 640,
+          "u": "https://preview.redd.it/rht12ux2fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b1c2c532fa26acb3dd95d0f8f33b87eab407480"
+        }
+      ],
+      "s": {
+        "y": 274,
+        "x": 792,
+        "u": "https://preview.redd.it/rht12ux2fo981.png?width=792&amp;format=png&amp;auto=webp&amp;s=c571f5fc7d63fcb095555080320757192129d380"
+      },
+      "id": "rht12ux2fo981"
+    },
+    "ky8qh0nzeo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=28f0b2a3f42cf3dad5eed27d1002145eb58b848a"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=cad095c219088b0fc6df9c11c1815b49c00a4bce"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f7c365230f1442ea58d623fbf5d6fc3e2bafafe0"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d7539ccbfc6b88727d5788f4081352fc93d9031"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=8cc550e6891a93a75df41b47819300d0855be5bb"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e8abe2d90101422c4d1c8b84d41577fc059ec16f"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/ky8qh0nzeo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=104b963a012fc82a7a12585615dbd98c402e0a26"
+      },
+      "id": "ky8qh0nzeo981"
+    },
+    "11nzh3f0fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/11nzh3f0fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=100a885e546f92a19ef9b36593c8acbd1b06ca45"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/11nzh3f0fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d62053db698e5b1b76727d30a7b6600abbdc338b"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/11nzh3f0fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=40659725e68643d8ab6b22bbaec555992d234423"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/11nzh3f0fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08af5077f37927c7f46fbc56cb929501149e8aef"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/11nzh3f0fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=5b0d6a00bae7c94e605375c1db4a10c015b23ea9"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/11nzh3f0fo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8d960cf08a5a0d59523607285da85257d9ad1497"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/11nzh3f0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=a15a32e373431bc460ce4c082a94ee58e7c392a6"
+      },
+      "id": "11nzh3f0fo981"
+    },
+    "5fszhew3fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 40,
+          "x": 108,
+          "u": "https://preview.redd.it/5fszhew3fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=34895f5de506749c50ee18069882f022c1848ec1"
+        },
+        {
+          "y": 81,
+          "x": 216,
+          "u": "https://preview.redd.it/5fszhew3fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=01d52cffa9d2cf0be47894c7e42f0c87c17278cb"
+        },
+        {
+          "y": 121,
+          "x": 320,
+          "u": "https://preview.redd.it/5fszhew3fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=339dd3e0e990315b145f14a32e6074cff6004e52"
+        },
+        {
+          "y": 242,
+          "x": 640,
+          "u": "https://preview.redd.it/5fszhew3fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da2adc3f332733c5359656a44649aa71150eedec"
+        },
+        {
+          "y": 364,
+          "x": 960,
+          "u": "https://preview.redd.it/5fszhew3fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=e8ef0435e97c3b9c686b6707fce32886b3044574"
+        }
+      ],
+      "s": {
+        "y": 387,
+        "x": 1020,
+        "u": "https://preview.redd.it/5fszhew3fo981.png?width=1020&amp;format=png&amp;auto=webp&amp;s=1cf5e2c992435a6d8ed36dbed707b11dd4cd30ba"
+      },
+      "id": "5fszhew3fo981"
+    },
+    "1xtamkf0fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/1xtamkf0fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=40219133c77d680070c4c94d1a13fac7b6413ef1"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/1xtamkf0fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=005a88889b301c006f1fb06316d2065830829288"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/1xtamkf0fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b667306af8ce9328743158cd9d172d0764af7fd1"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/1xtamkf0fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0554e984d0d4ba74e32628ac52aa1fc35f4dc3a5"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/1xtamkf0fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=20f8ab46800a0acaf60452733b6c4ff657738b6e"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/1xtamkf0fo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=df560afc4c65e324794fd03cca5040222f282b8e"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/1xtamkf0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=f6b9215c2379524644653c67ff375667c8f0354a"
+      },
+      "id": "1xtamkf0fo981"
+    },
+    "7zr08cg0fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/7zr08cg0fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=e8466e9082355bbece11917b1e94e8bc0410ee68"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/7zr08cg0fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3d8e71c2067af0837b5cdf4a8d263ab37050aa08"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/7zr08cg0fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f1ca541ff10be6026d8bd1159c87e040bf22e1e2"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/7zr08cg0fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c84f4c5aafd78f6499016822684eef9ff026b56"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/7zr08cg0fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=7d4cbd1b85b5b1ecd08da7142aa4af0461298ddb"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/7zr08cg0fo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e1ecf5c41c67c83e70c64d93bcece4c980be29e6"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/7zr08cg0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=417b44732deac9668c0b58d3645c532ba8ecba5c"
+      },
+      "id": "7zr08cg0fo981"
+    },
+    "r0ub7nf0fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=09d3b5179e2cddcacf424534ebf342f445dd735b"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f2afd39bc8c7de80c47f9ecf58d996bca5af5f4e"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fca9a068aab6b8465fa5df2fe3bdf96bc49f99dd"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=095622331d67754238d7e13cc66b97a79f0eb73c"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=62d98f033a5b43bde0fab4c84aea15023836c120"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5eccf68842292809a6a4553a0942b1b523f86068"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/r0ub7nf0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=9ef4712b1906249e0a0c73aa32683261308d470e"
+      },
+      "id": "r0ub7nf0fo981"
+    },
+    "5ezb3bw1fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 36,
+          "x": 108,
+          "u": "https://preview.redd.it/5ezb3bw1fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=87bacbd8623505a560a9675412d684705c3d5833"
+        },
+        {
+          "y": 73,
+          "x": 216,
+          "u": "https://preview.redd.it/5ezb3bw1fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c178658841d5f08cd2b1c917f8b6b6d17cc91ad0"
+        },
+        {
+          "y": 108,
+          "x": 320,
+          "u": "https://preview.redd.it/5ezb3bw1fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a3bbe00e8c719d8ae75932cf8c6157119bba4551"
+        },
+        {
+          "y": 217,
+          "x": 640,
+          "u": "https://preview.redd.it/5ezb3bw1fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b1feeed3dbf58363db4ff901555262804f6ba4f"
+        }
+      ],
+      "s": {
+        "y": 263,
+        "x": 775,
+        "u": "https://preview.redd.it/5ezb3bw1fo981.png?width=775&amp;format=png&amp;auto=webp&amp;s=6fb146c04d7e9311751be085f6d21348fafac092"
+      },
+      "id": "5ezb3bw1fo981"
+    },
+    "yc7i0we0fo981": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/yc7i0we0fo981.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8c6d4fa0323a9c8d2e3dcc17ed61e7d55bd04340"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/yc7i0we0fo981.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=0f86dc1c646eba9ad4e6662093184098914f4063"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/yc7i0we0fo981.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e429d5be5debf94be3af894ed7cfa3c2009c32ab"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/yc7i0we0fo981.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=493fc70cb41e4565d322a0eeff04e4be698bee75"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/yc7i0we0fo981.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d2f5fc6af43e14deac97c87d3d4a2e2e8ca12402"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/yc7i0we0fo981.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0b7eb7feaa91bfcb415f34ffa9c7ca906271566b"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/yc7i0we0fo981.png?width=1728&amp;format=png&amp;auto=webp&amp;s=cb1c59f7bb5c02119e674ffaaf079fa67afa6120"
+      },
+      "id": "yc7i0we0fo981"
+    }
+  },
+  "name": "t3_rvuzw8",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": "#373c3f",
+  "subreddit_type": "public",
+  "ups": 1057,
+  "total_awards_received": 30,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": "28fbe25a-7c59-11ea-965e-0e0a65cd3f97",
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1057,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "https://a.thumbs.redditmedia.com/NwQUz1B6V4xCgyMgCYGl4rkvrM2bIBdA6k5eIfoLVn0.jpg",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Anal(yst)"
+    }
+  ],
+  "gildings": {
+    "gid_1": 2,
+    "gid_3": 1
+  },
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1641304719,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": true,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Jim Cramer has made 21,609 stock picks in the past 5 years! Let that sink in for a moment. Here is one person, making buy/sell/hold recommendations on more than 2,200+ different stocks across all types of industries. On average, he was making more than 20 picks per episode of his show [1]. This is a staggering number of picks to be made by one person! [2]&lt;/p&gt;\n\n&lt;p&gt;While we can all argue about his expertise in making recommendations on such a wide array of industries and companies, what I wanted to know was:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;How accurate were his recommendations?&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Would you have made or lost money if you followed them?&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Can you beat the market following his picks?&lt;/strong&gt;&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;So it’s high time that we put Cramer to the ultimate test and end the debate about his usefulness once and for all!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ky8qh0nzeo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=104b963a012fc82a7a12585615dbd98c402e0a26\"&gt;https://preview.redd.it/ky8qh0nzeo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=104b963a012fc82a7a12585615dbd98c402e0a26&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Analysis&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;The data about all the stock picks made by Cramer are available &lt;a href=\"https://madmoney.thestreet.com/screener/index.cfm\"&gt;here&lt;/a&gt; [3]. The picks are classified into five segments (Buy, Hold, Sell, Positive/Negative mention). I have calculated the return for each segment separately [4] so that we can know what to focus on if we are trying to replicate this strategy.&lt;/p&gt;\n\n&lt;p&gt;Since Cramer frequently contradicts his own picks and is mainly focused on short-term trades, I am only analyzing the stock returns for the following periods [5].&lt;/p&gt;\n\n&lt;p&gt;a. One-day&lt;/p&gt;\n\n&lt;p&gt;b. One-Week&lt;/p&gt;\n\n&lt;p&gt;c. One-Month&lt;/p&gt;\n\n&lt;p&gt;Given that Mad Money (Cramer’s Show) airs after the market closes, I have used the opening price of the next day for my calculations. (I.e If Cramer makes a recommendation on Thursday night, I use Friday opening price as the base for my calculations)&lt;/p&gt;\n\n&lt;p&gt;All the data used in the calculations are shared at the end.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/yc7i0we0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cb1c59f7bb5c02119e674ffaaf079fa67afa6120\"&gt;https://preview.redd.it/yc7i0we0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=cb1c59f7bb5c02119e674ffaaf079fa67afa6120&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/5ezb3bw1fo981.png?width=775&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6fb146c04d7e9311751be085f6d21348fafac092\"&gt;https://preview.redd.it/5ezb3bw1fo981.png?width=775&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=6fb146c04d7e9311751be085f6d21348fafac092&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;1-day performance of Cramer’s recommendations is excellent! On average, the Buy and Positive mention stocks went up by 0.03 and 0.05% respectively, and sell and negative mention stocks went down by 0.1 and 0.02%.&lt;/p&gt;\n\n&lt;p&gt;Another interesting fact is that &lt;strong&gt;&lt;em&gt;you would not have lost money&lt;/em&gt;&lt;/strong&gt; if you followed Cramer’s Buy recommendations. Across the time periods, his Buy recommendations have on average netted you positive returns [6]!&lt;/p&gt;\n\n&lt;p&gt;His sell recommendations did not pan out so well. Even though they dropped in price the next day, over the next week and month, they returned inline or even better than his buy recommendations!&lt;/p&gt;\n\n&lt;p&gt;Given that there is a counter-intuitive trend in the returns, let’s calculate the accuracy of his calls.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/rht12ux2fo981.png?width=792&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c571f5fc7d63fcb095555080320757192129d380\"&gt;https://preview.redd.it/rht12ux2fo981.png?width=792&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c571f5fc7d63fcb095555080320757192129d380&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Here I am assigning a call as correct based on price change. If he gives a buy recommendation, I expect the price to go up and vice versa. As we can see from the chart above, his recommendations only do slightly better than a coin-toss. Even this only holds for short-term and buy recommendations with long-term sell recommendation performance dropping below 50% [7].&lt;/p&gt;\n\n&lt;p&gt;While this narrow edge over the 50% mark can be used by algo-traders who have the ability to trade a large amount of stocks, if you are an average investor listening in on a Cramer show and hear about a stock recommendation, you might as well toss a coin to see if you should invest or not!&lt;/p&gt;\n\n&lt;p&gt;Finally, it’s time we pit &lt;strong&gt;Cramer against the market&lt;/strong&gt;. Do his recommendations beat the market?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/5fszhew3fo981.png?width=1020&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1cf5e2c992435a6d8ed36dbed707b11dd4cd30ba\"&gt;https://preview.redd.it/5fszhew3fo981.png?width=1020&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1cf5e2c992435a6d8ed36dbed707b11dd4cd30ba&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Oh yeah! I was as surprised with the results as you are. I ran the numbers again and then one more time but got the exact same result! Cramer’s Buy recommendations beat the S&amp;amp;P 500 by a factor of 10 for the &lt;strong&gt;one-day time frame&lt;/strong&gt;. But, if you held the stocks for anytime longer, you would have underperformed the market significantly.&lt;/p&gt;\n\n&lt;p&gt;Before you go daytrade on his recommendations you should know that the numbers we are seeing here are heavily influenced by outliers. If you miss out on the top 1% of recommendations (~110 stocks out of the 11,000+ buy recommendations he had made), your &lt;strong&gt;1-day return would be -0.062% instead of +0.034&lt;/strong&gt; [8].&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/1xtamkf0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f6b9215c2379524644653c67ff375667c8f0354a\"&gt;https://preview.redd.it/1xtamkf0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f6b9215c2379524644653c67ff375667c8f0354a&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Limitations of the analysis&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;The analysis has some limitations that you should be aware of before trying to replicate the strategy.&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;As the astute among you might have noticed, if you sum up all the stocks used in the analysis it would only come to 18.5k. I removed ~15% of the overall recommendations as either they did not have stock data present in Yahoo Finance/Alpha Vantage or the price data did not match with the one given on the Mad Money website.&lt;/li&gt;\n&lt;li&gt;The data is obtained from the Mad Money website itself. I haven’t manually verified if the calls recorded on the website are in fact an accurate representation of the calls made by Cramer in his show. The below statement is given in their description and I am taking them on their word.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;We are impartial in our recording and simply log exactly what was said. We do not interpret the calls. If a call is vague or in question we simply won&amp;#39;t list it.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/11nzh3f0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a15a32e373431bc460ce4c082a94ee58e7c392a6\"&gt;https://preview.redd.it/11nzh3f0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a15a32e373431bc460ce4c082a94ee58e7c392a6&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;No matter the public opinion on Cramer, we can generate excellent 1-day returns following his buy recommendations (even beating the market in doing so!). Whether it’s due to his superior stock picking ability or whether it’s simply due to self-fulfilling prophecy [9] (as he has a wide audience who will act on his advice) is yet to be known.&lt;/p&gt;\n\n&lt;p&gt;I would bet on the latter as, if the extraordinary one-day returns were in fact due to his superior stock-picking ability, the returns should have held over longer time periods, and also his sell recommendations would not have ended up performing better than his buy recommendations as we are observing here.&lt;/p&gt;\n\n&lt;p&gt;It only makes sense to listen to his advice if you are a day-trader or an algo-trader who is trading a large variety of stocks over short periods of time. For everyone else, just sticking to the S&amp;amp;P 500 would give you better returns over the long run!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/r0ub7nf0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9ef4712b1906249e0a0c73aa32683261308d470e\"&gt;https://preview.redd.it/r0ub7nf0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9ef4712b1906249e0a0c73aa32683261308d470e&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Excel file containing all the Recommendations and Financial data: &lt;a href=\"https://docs.google.com/spreadsheets/d/1d0mooS_qsfePXChEDq2IDov_of_TFvD1/edit?usp=sharing&amp;amp;ouid=111668650548288730122&amp;amp;rtpof=true&amp;amp;sd=true\"&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Live tracker&lt;/strong&gt; containing the performance of Cramer’s 2021 picks: &lt;a href=\"https://rows.com/market-sentiment/my-spreadsheets/untitled-spreadsheet-3-5C58Ix9kx1ixB0cM52DWZi/live\"&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt; [10] (I will be updating this file regularly so that you can see his performance in real-time whenever you want to!)&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/7zr08cg0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=417b44732deac9668c0b58d3645c532ba8ecba5c\"&gt;https://preview.redd.it/7zr08cg0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=417b44732deac9668c0b58d3645c532ba8ecba5c&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;More Interesting Reads&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;From this week onwards, I am including one or two blogs or articles I really enjoy and hopefully, you can discover new and interesting content!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://moretothat.com/\"&gt;&lt;strong&gt;More to that&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; This is by an illustrator called Lawrence Yeo who breaks down really complicated topics into easy to read articles with fun illustrations. &lt;a href=\"https://moretothat.com/the-nothingness-of-money/\"&gt;&lt;strong&gt;The Nothingness of Money&lt;/strong&gt;&lt;/a&gt; was one of the best articles I have read last year and if you reading just one article this year, it should be this one (oh, I know this is &lt;a href=\"/r/wallstreetbets\"&gt;r/wallstreetbets&lt;/a&gt;, but you are going to love this one)!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/fhynetg0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d649c089f313918d5ab29b979f500810f9e12a46\"&gt;https://preview.redd.it/fhynetg0fo981.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d649c089f313918d5ab29b979f500810f9e12a46&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Footnotes and existing research&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; For those who don’t know, Cramer makes his picks in a CNBC show called &lt;a href=\"https://en.wikipedia.org/wiki/Mad_Money\"&gt;Mad Money&lt;/a&gt;. Cramer himself defines the show as something which should be used for speculative/high-risk investing and not for your retirement portfolio.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[2]&lt;/strong&gt; For comparison purposes, an equity research analyst &lt;a href=\"https://whatforwork.com/jobs/equity-research-analyst-sell-side/\"&gt;covers only 10-25 companies&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[3]&lt;/strong&gt; It’s not in an easily usable format. I had to parse the data from the webpage using Python (Beautiful Soup) - I have shared all the data used in this analysis as an Excel and Rows file at the end.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[4]&lt;/strong&gt; I did not calculate for Hold as he only made 27 hold recommendations, which is lower than what is required for a statistical significance.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[5]&lt;/strong&gt; In my &lt;a href=\"https://old.reddit.com/r/wallstreetbets/comments/mtehdq/i_analyzed_all_700_buy_and_sell_recommendations/\"&gt;last post about Jim Cramer&lt;/a&gt;, there was a lot of controversy around how I calculated the time period. So here is the detailed version about how the time period is considered. For One-Day returns, we are considering that we will purchase the stock the next trading day after the market opens and then sells it at the end of the trading day. For weekly and monthly returns, I am using adjusted closing price since across a week or month there can be stock splits as well as dividends.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[6]&lt;/strong&gt; This can also be attributed to the market rally we have experienced over the last 5 years where a large majority of stocks went up.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[7]&lt;/strong&gt; 50% benchmark might be controversial with a lot of you (I agree given that if we are in a bull market there is more than a 50-50 chance of a stock going up tomorrow) → My rationale here is standing today looking at a stock, there are only two things that can happen tomorrow. It can either go up or go down. I assign equal probability to both given anything can happen tomorrow. The market can turn bearish, positive or negative news about the company can come up, etc. If you have a better logic for a benchmark, please do suggest!&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[8]&lt;/strong&gt; But to be fair to Cramer, this is applicable to all types of Investment strategies and hedge funds! The performance of a few of the stocks in your portfolio will finally end up heavily influencing the returns of your overall portfolio. → Think of Tesla incase of ARK and FAANG in case of S&amp;amp;P 500.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[9]&lt;/strong&gt; There is some &lt;a href=\"https://scholarship.tricolib.brynmawr.edu/handle/10066/588\"&gt;existing research&lt;/a&gt; that deep dives into this topic.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[10]&lt;/strong&gt; Since it’s a live tracker using data from Alpha Vantage, the calculation is done slightly differently than in the analysis (in the live tracker I had to use the closing price on the day of recommendation instead of the opening price of the next day). I will be updating it to follow the same process as the analysis as soon as I get info from Alpha Vantage.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Anal(yst)",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "rvuzw8",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "nobjos",
+  "discussion_type": null,
+  "num_comments": 126,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "light",
+  "permalink": "/r/wallstreetbets/comments/rvuzw8/should_you_listen_to_jim_cramer_i_analyzed_20000/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/rvuzw8/should_you_listen_to_jim_cramer_i_analyzed_20000/",
+  "subreddit_subscribers": 11428060,
+  "created_utc": 1641318551,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1641304719,
+  "the_new_excerpt": "Jim Cramer has made 21,609 stock picks in the past 5 years! Let that sink in for\na moment. Here is one person, making buy/sell/hold recommendations on more than\n2,200+ different stocks across all types of industries. On average, he was\nmaking more than 20 picks per episode of his show [1]. This is…"
+}
