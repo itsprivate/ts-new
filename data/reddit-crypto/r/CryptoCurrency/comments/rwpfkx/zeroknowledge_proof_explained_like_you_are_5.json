@@ -1,0 +1,16 @@
+{
+  "author": "busterrulezzz",
+  "original_created_utc": 1641396510,
+  "title": "Zero-knowledge proof explained like you are 5 years old",
+  "created_utc": 1641422001,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi kids!&lt;/p&gt;\n\n&lt;p&gt;So, you&amp;#39;re interested in cryptocurrencies, and you&amp;#39;ve heard about those so-called &amp;quot;zero-knowledge proofs&amp;quot; (ZK) used by projects such as Loopring, zkSync and StarkWare.&lt;/p&gt;\n\n&lt;p&gt;Now you&amp;#39;re wondering : what are zero-knowledge proofs and why are they so important? Good news, champ, I am here for you!&lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s say I found a cave with two distinct entrances, Left and Right. The two entrances are connected by a corridor, but a dragon prevents anyone from passing through the corridor. To make the dragon let you through, you need a magic stone. I have this magic stone, and I want to prove to you that I have it, but I don&amp;#39;t want to show it to you, and I don&amp;#39;t want to tell my secret to anyone but you.&lt;/p&gt;\n\n&lt;p&gt;This is how it works. You close your eyes while I enter the cave, without telling you if I chose the Left or Right entrance. You open your eyes again, then ask me to come out on a particular side and I do so. You close your eyes, I go back into the cave, and we repeat the experience 100 times.&lt;/p&gt;\n\n&lt;p&gt;If I have the magic stone, the dragon will let me through everytime and I can leave the cave through the entrance you tell me, 100 times out of 100. But if I don&amp;#39;t have the stone, every other time I won&amp;#39;t be able to get out through the chosen entrance - statistically, I will only have the good answer 50% of the time.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;So by using this method, I will prove to you that I have the magic stone, without ever showing it to you&lt;/strong&gt;. Moreover, you will not be able to prove to anyone else that I have the stone, since an outside observer could always think that we have arranged it together in advance.&lt;/p&gt;\n\n&lt;p&gt;This is what is called a zero-knowledge proof. In cryptocurrencies, &lt;strong&gt;the magic stone is the private key&lt;/strong&gt;. Zero-knowledge proofs are used to show to a validator that you are indeed in possession of the private key, without revealing said private keys to the validator, and without letting the rest of the world know you have the key.&lt;/p&gt;\n\n&lt;p&gt;Thank you for listening to my story. I hope you had fun today, my little friends!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 358,
+  "permalink": "/r/CryptoCurrency/comments/rwpfkx/zeroknowledge_proof_explained_like_you_are_5/",
+  "subreddit": "CryptoCurrency",
+  "id": "rwpfkx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Hi kids!\n\nSo, you're interested in cryptocurrencies, and you've heard about those\nso-called \"zero-knowledge proofs\" (ZK) used by projects such as Loopring, zkSync\nand StarkWare.\n\nNow you're wondering : what are zero-knowledge proofs and why are they so\nimportant? Good news, champ, I am here for…"
+}
