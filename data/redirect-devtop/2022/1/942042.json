@@ -57,5 +57,22 @@
   "original_created_at": "2022-01-01T20:01:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LHcoJcBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4fawixpuz9r7lofb281.jpg",
   "author": "Eldad A. Fux",
-  "author_url": "https://dev.to/eldadfux"
+  "author_url": "https://dev.to/eldadfux",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwrite 0.12が正式に利用可能になったことをお知らせします。新しい Appwrite のバージョンは...",
+      "title": "ここにある! Appwrite 0.12 のリリースを発表します!"
+    },
+    {
+      "locale": "zh",
+      "description": "我们很高兴地与大家分享，Appwrite 0.12现在已经正式发布了。新的Appwrite版本...",
+      "title": "它在这里! 宣布Appwrite 0.12版本的发布!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們很高興地與大家分享，Appwrite 0.12現在已經正式發佈了。新的Appwrite版本...",
+      "title": "它在這裏! 宣佈Appwrite 0.12版本的發佈!"
+    }
+  ]
 }
