@@ -12,5 +12,15 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example, the ship's carpenter and his mate are Americans, the Bosun and his\nmate are from Austria and France, respectively. There are also New Guinean,\nRussian, Chinese, Danish, Swedish, etc topmen and seamen serving as crewmates."
+  "the_new_excerpt": "For example, the ship's carpenter and his mate are Americans, the Bosun and his\nmate are from Austria and France, respectively. There are also New Guinean,\nRussian, Chinese, Danish, Swedish, etc topmen and seamen serving as crewmates.",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，船上的木匠和他的大副是美国人，水手长和他的\n伙伴分别来自奥地利和法国。也有新几内亚人。\n俄罗斯、中国、丹麦、瑞典等国的船长和海员担任船员。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，船上的木匠和他的大副是美國人，水手長和他的\n夥伴分別來自奧地利和法國。也有新幾內亞人。\n俄羅斯、中國、丹麥、瑞典等國的船長和海員擔任船員。"
+    }
+  ]
 }

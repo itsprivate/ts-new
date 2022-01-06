@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-03T10:33:32Z"
+  "original_createdAt": "2022-01-03T10:33:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zoom通話中にワンクリックでビデオやオーディオをオン・オフできるBluetooth® Video and Microphone Controller（VMC）ボタン。",
+      "tagline": "Zoomでカメラ＆マイクを操作するための物理ボタン"
+    },
+    {
+      "locale": "zh",
+      "description": "一个蓝牙®视频和麦克风控制器（VMC）按钮，可以让你在Zoom通话中一键打开和关闭视频或音频。",
+      "tagline": "一个物理按钮，用于控制你在Zoom上的相机和麦克风"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個藍牙®視頻和麥克風控制器（VMC）按鈕，可以讓你在Zoom通話中一鍵打開和關閉視頻或音頻。",
+      "tagline": "一個物理按鈕，用於控制你在Zoom上的相機和麥克風"
+    }
+  ]
 }

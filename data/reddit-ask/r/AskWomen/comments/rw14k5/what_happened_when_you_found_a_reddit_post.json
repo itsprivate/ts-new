@@ -12,5 +12,15 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As in, did you ever find a post written about you from a friend, peer, (ex) SO,\netc.? What happened?"
+  "the_new_excerpt": "As in, did you ever find a post written about you from a friend, peer, (ex) SO,\netc.? What happened?",
+  "localize": [
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比如说，你有没有发现一个朋友、同行、（前）SO写的关于你的帖子。\n等等？发生了什么事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比如說，你有沒有發現一個朋友、同行、（前）SO寫的關於你的帖子。\n等等？發生了什麼事？"
+    }
+  ]
 }
