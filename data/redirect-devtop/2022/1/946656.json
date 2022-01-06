@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-06T09:46:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wp_gHgtr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gh6tdch3lnsnbygw7ygh.jpg",
   "author": "InHuOfficial",
-  "author_url": "https://dev.to/inhuofficial"
+  "author_url": "https://dev.to/inhuofficial",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者として10年、なぜか4桁（#1234）と8桁があることを見落としていた...。",
+      "title": "色には4桁と8桁の16進数コード(#11223344?)があることをご存じですか？🤯"
+    },
+    {
+      "locale": "zh",
+      "description": "做了10年的开发人员，不知为何我错过了有4位数(#1234)和8位数的...",
+      "title": "你知道颜色有4位和8位的十六进制代码(#11223344？)吗？🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "做了10年的開發人員，不知爲何我錯過了有4位數(#1234)和8位數的...",
+      "title": "你知道顏色有4位和8位的十六進制代碼(#11223344？)嗎？🤯"
+    }
+  ]
 }
