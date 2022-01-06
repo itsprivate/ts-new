@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-03T19:07:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lq4MESzU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/learrqu4ymq767w44a1y.jpeg",
   "author": "Katelyn",
-  "author_url": "https://dev.to/katelynjewel"
+  "author_url": "https://dev.to/katelynjewel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まだプロジェクトでGithubを活用する機会がない方は、今が検討のチャンスです...。",
+      "title": "あなたのプロジェクトを救うGitコマンド"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你还没有机会在你的项目中使用Github，现在是考虑它的好时机....。",
+      "title": "可以拯救你的项目的Git命令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你還沒有機會在你的項目中使用Github，現在是考慮它的好時機....。",
+      "title": "可以拯救你的項目的Git命令"
+    }
+  ]
 }

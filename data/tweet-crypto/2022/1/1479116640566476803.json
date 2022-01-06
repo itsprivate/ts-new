@@ -138,5 +138,22 @@
     "retweet_count": 1085,
     "favorite_count": 2176,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @akheriaty: バイオセキュリティの監視体制、オランダ編2022年。 https://t.co/tcXIgIJznV",
+      "retweeted_status_full_text": "バイオセキュリティ監視体制、オランダ版 2022. https://t.co/tcXIgIJznV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @akheriaty: 生物安全监控制度，荷兰版2022。https://t.co/tcXIgIJznV",
+      "retweeted_status_full_text": "生物安全监控制度，荷兰版2022。https://t.co/tcXIgIJznV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @akheriaty: 生物安全監控制度，荷蘭版2022。https://t.co/tcXIgIJznV",
+      "retweeted_status_full_text": "生物安全監控制度，荷蘭版2022。https://t.co/tcXIgIJznV"
+    }
+  ]
 }

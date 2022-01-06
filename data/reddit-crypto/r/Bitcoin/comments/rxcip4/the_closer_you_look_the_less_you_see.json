@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みればみるほどわからない"
+    },
+    {
+      "locale": "zh",
+      "title": "你看得越近，你看到的越少"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你看得越近，你看到的越少"
+    }
+  ]
 }

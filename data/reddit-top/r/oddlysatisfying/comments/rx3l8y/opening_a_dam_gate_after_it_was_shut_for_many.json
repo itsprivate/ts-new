@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "長年閉ざされていたダムゲートを開く"
+    },
+    {
+      "locale": "zh",
+      "title": "关闭多年的水坝闸门被打开了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關閉多年的水壩閘門被打開了"
+    }
+  ]
 }
