@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私：シャンプー、コンディショナー、ヘアトリートメントを使用 猫：舌だけで体を洗う"
+    },
+    {
+      "locale": "zh",
+      "title": "我：使用洗发水、护发素、护发素 猫：只用舌头来清洁自己"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我：使用洗髮水、護髮素、護髮素 貓：只用舌頭來清潔自己"
+    }
+  ]
 }

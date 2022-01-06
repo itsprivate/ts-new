@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは通常、男性と交際する前に、その人の安定性や成功度合いを考慮しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "女性在与男人建立关系之前，你通常会考虑他的稳定性和/或成功性吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "女性在與男人建立關係之前，你通常會考慮他的穩定性和/或成功性嗎？"
+    }
+  ]
 }
