@@ -63,5 +63,22 @@
     "retweet_count": 1412,
     "favorite_count": 9436,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nytimes: 速報です。ノバク・ジョコビッチはオーストラリアへの入国を拒否され、空港での12時間のにらみ合いの後、出国するよう要請されました。",
+      "retweeted_status_full_text": "速報です。ノバク・ジョコビッチは、ビザの有効性と全豪オープンのワクチン医療免除に関する疑問をめぐり、12時間に及ぶ空港でのにらみ合いの末、オーストラリアへの入国を拒否され、出国を要請されました。https://t.co/B2wgwmj8OB。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nytimes: 爆炸性新闻。诺瓦克-德约科维奇被拒绝进入澳大利亚，并在12小时的机场对峙后被要求离开该国。",
+      "retweeted_status_full_text": "爆炸性新闻。诺瓦克-德约科维奇被拒绝进入澳大利亚，并被要求离开该国，此前他因签证的有效性和关于他在澳大利亚公开赛上的疫苗医疗豁免问题在机场僵持了12小时。https://t.co/B2wgwmj8OB。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nytimes: 爆炸性新聞。諾瓦克-德約科維奇被拒絕進入澳大利亞，並在12小時的機場對峙後被要求離開該國。",
+      "retweeted_status_full_text": "爆炸性新聞。諾瓦克-德約科維奇被拒絕進入澳大利亞，並被要求離開該國，此前他因簽證的有效性和關於他在澳大利亞公開賽上的疫苗醫療豁免問題在機場僵持了12小時。https://t.co/B2wgwmj8OB。"
+    }
+  ]
 }

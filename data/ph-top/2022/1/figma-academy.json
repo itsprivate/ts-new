@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-06T12:07:07Z"
+  "original_createdAt": "2022-01-06T12:07:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figma Academyは、Figmaの中で直接行われる実践的なレッスンで、高度な製品デザイン戦術を学ぶ、まったく新しいプログラムです。",
+      "tagline": "Figmaで直接、高度なデザイン戦術を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "Figma Academy 是一个全新的项目，通过直接在 Figma 中提供的实践课程，教授高级产品设计策略。",
+      "tagline": "直接在Figma中学习高级设计策略"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Figma Academy 是一個全新的項目，通過直接在 Figma 中提供的實踐課程，教授高級產品設計策略。",
+      "tagline": "直接在Figma中學習高級設計策略"
+    }
+  ]
 }

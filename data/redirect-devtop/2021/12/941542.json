@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-31T21:16:28Z",
   "image": "https://dev.to/social_previews/article/941542.png",
   "author": "Lucia Cerchie",
-  "author_url": "https://dev.to/cerchie"
+  "author_url": "https://dev.to/cerchie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リソース：...",
+      "title": "JSにおけるスタブ vs モック"
+    },
+    {
+      "locale": "zh",
+      "description": "资源：...",
+      "title": "JS中的存根与Mocks"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "資源：...",
+      "title": "JS中的存根與Mocks"
+    }
+  ]
 }

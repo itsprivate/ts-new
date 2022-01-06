@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-06T06:56:53Z",
   "image": "https://dev.to/social_previews/article/946567.png",
   "author": "Neha Sharma ",
-  "author_url": "https://dev.to/hellonehha"
+  "author_url": "https://dev.to/hellonehha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TOC：なぜFEのシステム設計なのか 面接官はどこを見ているのか 重要なトピック UI/UXフレームワーク、...",
+      "title": "フロントエンドデベロッパーのためのシステム設計ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "TOC：为什么要为FE做系统设计 面试官要看什么 重要话题 UI/UX框架，...",
+      "title": "前端开发者的系统设计指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TOC：爲什麼要爲FE做系統設計 面試官要看什麼 重要話題 UI/UX框架，...",
+      "title": "前端開發者的系統設計指南"
+    }
+  ]
 }

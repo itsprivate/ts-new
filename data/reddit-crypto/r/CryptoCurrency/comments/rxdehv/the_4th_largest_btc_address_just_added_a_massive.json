@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "第4位のBTCアドレスが43,000BTCを大量追加! このウォレットはこれまで一度もBTCを売却したことがなく、現在ほぼ5BN相当を保有しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "第四大BTC地址刚刚增加了43,000个BTC! 这个钱包在其历史上从未出售过任何一个BTC，现在持有价值近5BN的BTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "第四大BTC地址剛剛增加了43,000個BTC! 這個錢包在其歷史上從未出售過任何一個BTC，現在持有價值近5BN的BTC。"
+    }
+  ]
 }

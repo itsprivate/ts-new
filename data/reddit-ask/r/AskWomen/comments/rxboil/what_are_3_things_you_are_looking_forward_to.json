@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "楽しみにしていることを3つ教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你期待的3件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你期待的3件事是什麼？"
+    }
+  ]
 }
