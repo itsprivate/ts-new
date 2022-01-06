@@ -25,6 +25,12 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
 
     for (let i = 0; i < files.length; i++) {
       const file = files[i];
+      // if (
+      //   file !=
+      //   "i18n/post-resource/zh-Hant/reddit_--_reddit-ask_--_the_new_excerpt_--_2021_--_07.json"
+      // ) {
+      //   continue;
+      // }
       const filenameArr = file.split("_--_");
       if (filenameArr.length < 4) {
         throw new Error(`file name invalid: ${file}`);
@@ -66,7 +72,7 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
             isNeedChangeLocaleField(sourceObj.localize, locale, field, text)
           ) {
             sourceObj.localize = witeLocaleField(
-              sourceObj.localize,
+              [...sourceObj.localize],
               locale,
               field,
               text
@@ -82,6 +88,10 @@ async function main({ dest = "./i18n/post-resource" } = {}) {
           }
         } else {
           console.error(`${sourceAbsolutePath} not exist`);
+          delete jsonObj[sourcePath];
+          console.log(`Write ${jsonPath}`);
+
+          await writeFile(jsonPath, JSON.stringify(jsonObj, null, 2));
         }
       }
     }
@@ -110,14 +120,22 @@ function isNeedChangeLocaleField(localize = [], locale, field, value) {
   return false;
 }
 function witeLocaleField(localize, locale, key, value) {
-  let tempLocalize = localize || [];
+  let tempLocalize = localize ? localize : [];
   if (!isLocaleExist(tempLocalize, locale)) {
     tempLocalize.push({ locale: locale });
   }
   for (let i = 0; i < tempLocalize.length; i++) {
     const tempLocale = tempLocalize[i];
     if (tempLocale.locale === locale) {
+      console.log("locale", locale);
+
+      console.log("new", value);
+
+      tempLocalize[i] = {
+        ...localize[i],
+      };
       tempLocalize[i][key] = value;
+      console.log("old, ", localize[i][key]);
     }
   }
   return tempLocalize;
@@ -132,7 +150,7 @@ async function getFiles(dir, ext) {
     })
   );
   return Array.prototype.concat(...files).filter((item) => {
-    console.log("item", item);
+    // console.log("item", item);
 
     if (ext) {
       return path.extname(item) === ext;

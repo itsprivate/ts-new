@@ -17,7 +17,7 @@ on:
 jobs:
   auto-translate:
     runs-on: macos-latest
-    concurrency: auto-translate
+    concurrency: actionsflow
     steps:
       - name: checkout
         uses: actions/checkout@v2
@@ -33,6 +33,8 @@ jobs:
           script: |
             const syncResource = require(`${process.env.GITHUB_WORKSPACE}/scripts/translate-check-module.js`)
             await syncResource()
+            const fixDuduplicate = require(`${process.env.GITHUB_WORKSPACE}/scripts/fix-translate-duduplicate-module.js`)
+            await fixDuduplicate()
             return true
       - name: install puppeteer
         run: npm i puppeteer --package-lock false

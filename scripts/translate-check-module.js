@@ -78,6 +78,7 @@ const main = async () => {
 
       for (let k = 0; k < enKeys.length; k++) {
         const key = enKeys[k];
+
         const value = enSourceObj[key];
         if (value && targetObj[key] === undefined) {
           isChanged = true;
