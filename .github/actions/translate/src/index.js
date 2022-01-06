@@ -12,7 +12,7 @@ const githubWorkspace =
 async function main() {
   let startTime = Date.now();
   let totalTimeout = parseInt(core.getInput("timeout"));
-  if (isNaN(totalTimeout)) {
+  if (isNaN(totalTimeout) || totalTimeout <= 0) {
     totalTimeout = 1 * 60 * 60 * 1000;
   }
   const TmtClient = tencentcloud.tmt.v20180321.Client;
