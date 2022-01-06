@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、他のプロジェクトにまたがって自分のイベントを記録するためのプロジェクトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个项目来跟踪我在其他项目中的事件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個項目來跟蹤我在其他項目中的事件。"
+    }
+  ]
 }

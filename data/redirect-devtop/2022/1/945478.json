@@ -46,5 +46,22 @@
   "original_created_at": "2022-01-05T14:38:19Z",
   "image": "https://dev.to/social_previews/article/945478.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨日、「正規表現についてどう思いますか」というスレッドを立てました。  たくさんの楽しい議論がありました。たくさんの...",
+      "title": "Regexはどのように行うのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我昨天做了一个主题，叫做 \"你对regex有什么看法？  有很多有趣的讨论。很多...",
+      "title": "你如何进行重构？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我昨天做了一個主題，叫做 \"你對regex有什麼看法？  有很多有趣的討論。很多...",
+      "title": "你如何進行重構？"
+    }
+  ]
 }
