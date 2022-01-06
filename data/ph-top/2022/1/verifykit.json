@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-06T08:01:00Z"
+  "original_createdAt": "2022-01-06T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SMSの代わりにIMプラットフォームを利用した新しい電話番号認証の方法です。WhatsAppやTelegramを利用してユーザーを認証し、認証コストを80%削減する一方、従来のSMSをサポートして、そこにいるすべての顧客にリーチします。",
+      "tagline": "ユーザー検証をより早く、より安く"
+    },
+    {
+      "locale": "zh",
+      "description": "一种新的电话号码验证方式，使用IM平台作为短信的替代。利用WhatsApp和Telegram来验证你的用户，并将你的验证成本降低80%，同时支持传统的SMS，以达到每一个客户。",
+      "tagline": "比以往更快、更便宜地验证你的用户"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一種新的電話號碼驗證方式，使用IM平臺作爲短信的替代。利用WhatsApp和Telegram來驗證你的用戶，並將你的驗證成本降低80%，同時支持傳統的SMS，以達到每一個客戶。",
+      "tagline": "比以往更快、更便宜地驗證你的用戶"
+    }
+  ]
 }
