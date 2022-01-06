@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-03T04:49:13Z",
   "image": "https://dev.to/social_previews/article/942949.png",
   "author": "Pahan Perera",
-  "author_url": "https://dev.to/pahanperera"
+  "author_url": "https://dev.to/pahanperera",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。Next.jsは非常に人気のあるReactフレームワークで、美しい機能の1つは、...",
+      "title": "CSR、SSR、SSG、ISRのビジュアル説明と比較"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，Next.js是一个非常流行的React框架，其中一个美丽的功能是...",
+      "title": "CSR、SSR、SSG和ISR的视觉解释和比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，Next.js是一個非常流行的React框架，其中一個美麗的功能是...",
+      "title": "CSR、SSR、SSG和ISR的視覺解釋和比較"
+    }
+  ]
 }

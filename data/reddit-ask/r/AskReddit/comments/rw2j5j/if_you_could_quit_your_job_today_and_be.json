@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、今日仕事を辞めても、ずっと経済的に大丈夫だとしたら、あなたは何のために忙しくしているのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你今天可以辞掉工作，并且永远在经济上没有问题，你会做什么来保持忙碌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你今天可以辭掉工作，並且永遠在經濟上沒有問題，你會做什麼來保持忙碌？"
+    }
+  ]
 }

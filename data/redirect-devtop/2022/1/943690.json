@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-03T21:17:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yJCFaas3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8wjpldvxu34ar8m3kadr.jpg",
   "author": "Simi",
-  "author_url": "https://dev.to/simi"
+  "author_url": "https://dev.to/simi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データサイエンティストは、さまざまなアルゴリズムを駆使して、入力データを受け取り、分析し、出力を予測する...",
+      "title": "機械学習におけるRandom Forestのランスルー"
+    },
+    {
+      "locale": "zh",
+      "description": "数据科学家采用广泛的算法来接收和分析输入数据以预测输出。",
+      "title": "机器学习中的随机森林透视"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數據科學家採用廣泛的算法來接收和分析輸入數據以預測輸出。",
+      "title": "機器學習中的隨機森林透視"
+    }
+  ]
 }

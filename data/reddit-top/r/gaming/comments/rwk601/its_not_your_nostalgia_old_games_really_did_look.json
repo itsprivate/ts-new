@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昔のゲームは昔のテレビで見るのが一番いいんだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是你的怀旧，老游戏在你的老电视上确实看起来更好 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是你的懷舊，老遊戲在你的老電視上確實看起來更好 !"
+    }
+  ]
 }

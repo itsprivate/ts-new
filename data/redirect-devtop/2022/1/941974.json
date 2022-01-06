@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-01T16:22:03Z",
   "image": "https://dev.to/social_previews/article/941974.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "銀行ランディングページの作り方 html css javascript このビデオでは、銀行ランディングページの作り方を紹介します。",
+      "title": "銀行のランディングページの作り方 HTML CSS JavaScript"
+    },
+    {
+      "locale": "zh",
+      "description": "如何制作银行登陆页html css javascript 在这个视频中，我将向你展示如何创建银行登陆页。",
+      "title": "如何创建银行登陆页面 HTML CSS JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何製作銀行登陸頁html css javascript 在這個視頻中，我將向你展示如何創建銀行登陸頁。",
+      "title": "如何創建銀行登陸頁面 HTML CSS JavaScript"
+    }
+  ]
 }

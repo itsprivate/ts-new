@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは10万ドルに達し、金の市場シェアを追い抜く可能性がある。ゴールドマン・サックス"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币可能达到10万美元并超过黄金的市场份额。高盛公司：比特币可能达到10万美元并超过黄金市场份额"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣可能達到10萬美元並超過黃金的市場份額。高盛公司：比特幣可能達到10萬美元並超過黃金市場份額"
+    }
+  ]
 }

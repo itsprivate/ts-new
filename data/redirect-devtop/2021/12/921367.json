@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-09T00:07:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ui3Bbr3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://code-nfts-public.s3.amazonaws.com/gitgallery_frame.png",
   "author": "Banjo Obayomi",
-  "author_url": "https://dev.to/banjtheman"
+  "author_url": "https://dev.to/banjtheman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フルスタックWeb3アプリをクラウドで構築した方法",
+      "title": "フルスタックWeb3アプリをクラウドで構築した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我如何在云上建立一个全栈式的Web3应用程序",
+      "title": "我如何在云上建立一个全栈式的Web3应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我如何在雲上建立一個全棧式的Web3應用程序",
+      "title": "我如何在雲上建立一個全棧式的Web3應用程序"
+    }
+  ]
 }

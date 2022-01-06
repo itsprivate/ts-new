@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-31T11:43:06Z",
   "image": "https://dev.to/social_previews/article/941206.png",
   "author": "anomaly3108",
-  "author_url": "https://dev.to/anomaly3108"
+  "author_url": "https://dev.to/anomaly3108",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、きれいなUIとスムーズな遷移を実現するイメージスライダーを作ります。まず、...",
+      "title": "JsとCSSで画像スライダーを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将制作一个具有简洁用户界面和平滑过渡的图片滑块。首先，...",
+      "title": "使用Js和CSS创建图像滑块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將製作一個具有簡潔用戶界面和平滑過渡的圖片滑塊。首先，...",
+      "title": "使用Js和CSS創建圖像滑塊"
+    }
+  ]
 }

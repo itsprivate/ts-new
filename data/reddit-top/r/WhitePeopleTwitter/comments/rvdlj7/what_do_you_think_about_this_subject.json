@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このテーマについて、あなたはどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对这个问题有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對這個問題有什麼看法？"
+    }
+  ]
 }

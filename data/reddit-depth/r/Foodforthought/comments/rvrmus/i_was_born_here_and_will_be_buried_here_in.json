@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はここで生まれ、アフガニスタンに埋葬される予定です。現地の女性の叫び。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在这里出生，并将被埋葬在这里，在阿富汗。一个当地妇女的哭声。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在這裏出生，並將被埋葬在這裏，在阿富汗。一個當地婦女的哭聲。"
+    }
+  ]
 }

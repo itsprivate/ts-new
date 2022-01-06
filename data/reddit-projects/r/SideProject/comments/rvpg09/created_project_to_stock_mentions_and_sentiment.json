@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "TLDR:\n\n- Gives number of mentions and sentiment for all stock tickers mentioned on\nReddit.\n\n- Gives earnings anticipations & reactions for each stock in its past 5 earnings\n\nhttps://mentions.fyi/\n\n------------------------------------------------------------------------------------------------------…"
+  "the_new_excerpt": "TLDR:\n\n- Gives number of mentions and sentiment for all stock tickers mentioned on\nReddit.\n\n- Gives earnings anticipations & reactions for each stock in its past 5 earnings\n\nhttps://mentions.fyi/\n\n------------------------------------------------------------------------------------------------------…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TLDR\n\n- で言及されたすべての株式ティッカーについて、言及数とセンチメントを提供します。\nReddit\n\n- 各銘柄の過去5回分の決算予想と反応を表示します。\n\nhttps://mentions.fyi/\n\n------------------------------------------------------------------------------------------------------…",
+      "title": "Redditのメンションとセンチメントをストックするプロジェクトを立ち上げ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TLDR。\n\n- 提供在Reddit上提到的所有股票代码的提及次数和情绪。\nReddit。\n\n- 给出每只股票在过去5次收益中的收益预期和反应。\n\nhttps://mentions.fyi/\n\n------------------------------------------------------------------------------------------------------…",
+      "title": "创建项目，在Reddit上储存提及和情绪"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TLDR。\n\n- 提供在Reddit上提到的所有股票代碼的提及次數和情緒。\nReddit。\n\n- 給出每隻股票在過去5次收益中的收益預期和反應。\n\nhttps://mentions.fyi/\n\n------------------------------------------------------------------------------------------------------…",
+      "title": "創建項目，在Reddit上儲存提及和情緒"
+    }
+  ]
 }

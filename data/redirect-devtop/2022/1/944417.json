@@ -46,5 +46,22 @@
   "original_created_at": "2022-01-04T14:22:52Z",
   "image": "https://dev.to/social_previews/article/944417.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Regexは好き嫌いが分かれるようです。皆さんはどのように感じていますか？あなたは使おうと思いますか、それとも...",
+      "title": "正規表現についてどのように感じていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Regex似乎有广泛的爱与恨。你对它有什么感觉？你是否寻求使用或...",
+      "title": "你对regex有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Regex似乎有廣泛的愛與恨。你對它有什麼感覺？你是否尋求使用或...",
+      "title": "你對regex有什麼看法？"
+    }
+  ]
 }

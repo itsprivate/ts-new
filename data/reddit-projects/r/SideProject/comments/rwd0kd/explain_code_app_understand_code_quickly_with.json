@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "We created explaincode.app [https://explaincode.app] to help coders understand,\nlearn, create comments, and more with code snippets."
+  "the_new_excerpt": "We created explaincode.app [https://explaincode.app] to help coders understand,\nlearn, create comments, and more with code snippets.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私たちは、コーダーの理解を助けるためにexplaincode.app [https://explaincode.app]を作りました。\nコードスニペットで学習、コメント作成など。",
+      "title": "Explain Code App - コードを素早く理解するための解説書です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们创建了explainincode.app[https://explaincode.app]来帮助编码者理解。\n学习，创建评论，以及更多的代码片段。",
+      "title": "解释代码应用程序 - 通过书面解释快速理解代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們創建了explainincode.app[https://explaincode.app]來幫助編碼者理解。\n學習，創建評論，以及更多的代碼片段。",
+      "title": "解釋代碼應用程序 - 通過書面解釋快速理解代碼"
+    }
+  ]
 }

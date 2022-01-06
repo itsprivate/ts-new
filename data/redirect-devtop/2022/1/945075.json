@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-05T06:03:27Z",
   "image": "https://dev.to/social_previews/article/945075.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらは、初心者や経験豊富なプログラマーのために、Javaのデザインパターンを学ぶのに最適なオンラインコースです。",
+      "title": "Javaプログラマーのためのデザインパターンコース ベスト5"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是为初学者和有经验的程序员学习Java设计模式的最佳在线课程。",
+      "title": "5个最适合Java程序员的设计模式课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是爲初學者和有經驗的程序員學習Java設計模式的最佳在線課程。",
+      "title": "5個最適合Java程序員的設計模式課程"
+    }
+  ]
 }

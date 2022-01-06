@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-05T08:03:00Z"
+  "original_createdAt": "2022-01-05T08:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Revueから送信しなくても、Twitterの埋め込みサインアップ機能を使ってニュースレターを育てることができるようになりました。beehiiv、Mailchimp、MailerLite、ConvertKit、Ghostと互換性があります。",
+      "tagline": "Twitterでニュースレターを育てて、どこからでも配信できる"
+    },
+    {
+      "locale": "zh",
+      "description": "你现在可以使用Twitter的嵌入式注册功能来发展你的新闻通讯，而无需从Revue发送。与beehiiv、Mailchimp、MailerLite、ConvertKit和Ghost兼容。",
+      "tagline": "在Twitter上发展你的通讯并从任何地方发送"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你現在可以使用Twitter的嵌入式註冊功能來發展你的新聞通訊，而無需從Revue發送。與beehiiv、Mailchimp、MailerLite、ConvertKit和Ghost兼容。",
+      "tagline": "在Twitter上發展你的通訊並從任何地方發送"
+    }
+  ]
 }

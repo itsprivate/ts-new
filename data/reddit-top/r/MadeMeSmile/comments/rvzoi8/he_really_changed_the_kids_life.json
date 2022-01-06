@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は本当に子供の人生を変えました"
+    },
+    {
+      "locale": "zh",
+      "title": "他真的改变了这个孩子的生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他真的改變了這個孩子的生活"
+    }
+  ]
 }

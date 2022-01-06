@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "宇野はゲーム開発者として働いています。ゲームの中でいい子をなでるとき、あなたは宇野をなでているかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌诺是一名游戏开发者。当你在游戏中拍一个好孩子时，你可能是在拍Uuno。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏諾是一名遊戲開發者。當你在遊戲中拍一個好孩子時，你可能是在拍Uuno。"
+    }
+  ]
 }

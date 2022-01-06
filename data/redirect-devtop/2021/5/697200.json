@@ -45,5 +45,22 @@
   "original_created_at": "2021-05-13T13:17:43Z",
   "image": "https://dev.to/social_previews/article/697200.png",
   "author": "Kiran Raj R",
-  "author_url": "https://dev.to/kiranrajvjd"
+  "author_url": "https://dev.to/kiranrajvjd",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "要素に対するマウスの位置を計算する。  Element.getBoundingClientRect()は...",
+      "title": "便利なJavaScriptのコードスニペット"
+    },
+    {
+      "locale": "zh",
+      "description": "计算鼠标相对于一个元素的位置。  Element.getBoundingClientRect()...",
+      "title": "有用的JavaScript代码片段"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "計算鼠標相對於一個元素的位置。  Element.getBoundingClientRect()...",
+      "title": "有用的JavaScript代碼片段"
+    }
+  ]
 }

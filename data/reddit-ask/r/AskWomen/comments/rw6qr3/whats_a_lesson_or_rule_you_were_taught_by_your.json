@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが両親や保護者から教えられたことで、その教えが正しかったと思えることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的父母/监护人给你上了什么课或规定，结果发现他们是完全正确的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的父母/監護人給你上了什麼課或規定，結果發現他們是完全正確的？"
+    }
+  ]
 }

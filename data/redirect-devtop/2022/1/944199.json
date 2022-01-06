@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-04T11:50:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uq6uY9G8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpkely1e2rtvm6p1h0mr.png",
   "author": "Kira",
-  "author_url": "https://dev.to/kira272921"
+  "author_url": "https://dev.to/kira272921",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NodeJSを使ったCLIの作り方 💻 CLI（コマンドラインインターフェース）は、最も基本的なものの1つです...",
+      "title": "NodeJSを使ったCLI構築方法 💻 💻 💻 ．"
+    },
+    {
+      "locale": "zh",
+      "description": "如何使用NodeJS构建CLI 💻 CLI（命令行界面）是一个最基本的...",
+      "title": "如何使用NodeJS构建CLI 💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何使用NodeJS構建CLI 💻 CLI（命令行界面）是一個最基本的...",
+      "title": "如何使用NodeJS構建CLI 💻"
+    }
+  ]
 }

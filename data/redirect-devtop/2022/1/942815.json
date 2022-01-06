@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T22:40:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d51HP-Ct--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9kc3akvu7d5nc9sixwz0.jpg",
   "author": "Samuel Lucas",
-  "author_url": "https://dev.to/sam_lukaa"
+  "author_url": "https://dev.to/sam_lukaa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "毎回、昼夜問わずコードを書き、勉強と開発に明け暮れているのですが、ここにきて......。",
+      "title": "Web開発でキャッシング - React"
+    },
+    {
+      "locale": "zh",
+      "description": "每次，我都日夜不停地做代码，我把整个时间都花在学习和开发上，但在这里我...",
+      "title": "从网站开发中套现 - React"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每次，我都日夜不停地做代碼，我把整個時間都花在學習和開發上，但在這裏我...",
+      "title": "從網站開發中套現 - React"
+    }
+  ]
 }

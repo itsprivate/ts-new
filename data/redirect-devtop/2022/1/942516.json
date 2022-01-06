@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T13:53:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GnAvSHp2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qyafgl13vppop8vn48a4.png",
   "author": "Omri Grossman",
-  "author_url": "https://dev.to/omrigm"
+  "author_url": "https://dev.to/omrigm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Pythonを使い始めたばかり、またはすでに使っていて、オブジェクト指向が好きな方。",
+      "title": "Pythonのデータクラスを使うべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：如果你刚刚开始或已经使用Python编码，并且喜欢面向对象。",
+      "title": "为什么要使用Python数据类"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：如果你剛剛開始或已經使用Python編碼，並且喜歡面向對象。",
+      "title": "爲什麼要使用Python數據類"
+    }
+  ]
 }

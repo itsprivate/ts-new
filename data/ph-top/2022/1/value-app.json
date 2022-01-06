@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-04T08:01:00Z"
+  "original_createdAt": "2022-01-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFTのポートフォリオの価値をリアルタイムに把握するシンプルな方法です。",
+      "tagline": "NFTポートフォリオの価値をリアルタイムで追跡可能"
+    },
+    {
+      "locale": "zh",
+      "description": "实时跟踪任何NFT投资组合价值的简单方法。",
+      "tagline": "实时跟踪任何NFT投资组合的价值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "實時跟蹤任何NFT投資組合價值的簡單方法。",
+      "tagline": "實時跟蹤任何NFT投資組合的價值"
+    }
+  ]
 }

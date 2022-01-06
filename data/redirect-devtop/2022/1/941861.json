@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-01T13:11:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GyCBoUVy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0fs4hmj03mkpbuezrv94.jpeg",
   "author": "IroncladDev",
-  "author_url": "https://dev.to/ironcladdev"
+  "author_url": "https://dev.to/ironcladdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インターネットを利用する人の2％が、ブラウザのjavascriptを無効にしていることをご存知ですか？ ...",
+      "title": "人々はブラウザのjavascriptを無効にしている？😱泣く子も黙る！？"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道有百分之二的人使用互联网时在他们的浏览器中禁用了javascript吗？ ...",
+      "title": "人们在浏览器中禁用了javascript？😱，给他们点颜色看看吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道有百分之二的人使用互聯網時在他們的瀏覽器中禁用了javascript嗎？ ...",
+      "title": "人們在瀏覽器中禁用了javascript？😱，給他們點顏色看看吧!"
+    }
+  ]
 }

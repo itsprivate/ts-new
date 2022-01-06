@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-31T14:15:30Z",
   "image": "https://dev.to/social_previews/article/941325.png",
   "author": "Julien",
-  "author_url": "https://dev.to/monisnapjulien"
+  "author_url": "https://dev.to/monisnapjulien",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリックベイトのタイトルで申し訳ありませんが、私はあなたの注意を必要としていました👀あなたは今までにこのようなコードに遭遇したことがありますか...",
+      "title": "💡 Vue Typescriptの状態管理 : 2022年の \"isLoading \"よりも良いものができるだろう"
+    },
+    {
+      "locale": "zh",
+      "description": "对不起，我使用了点击率很高的标题，但我需要你的注意 👀 你是否遇到过像这样的代码？",
+      "title": "💡 Vue Typescript状态管理: 我们可以在2022年做得比 \"isLoading \"更好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對不起，我使用了點擊率很高的標題，但我需要你的注意 👀 你是否遇到過像這樣的代碼？",
+      "title": "💡 Vue Typescript狀態管理: 我們可以在2022年做得比 \"isLoading \"更好。"
+    }
+  ]
 }

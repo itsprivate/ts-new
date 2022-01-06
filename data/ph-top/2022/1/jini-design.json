@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-05T08:01:00Z"
+  "original_createdAt": "2022-01-05T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デジタル資産のディレクトリにとどまらず、私の近刊「Frontend Schema」で紹介する新しい技術的プロセスを学ぶための試みでもあるのです。ロードマップはこちら: https://jini.design/?open=roadmap",
+      "tagline": "希望するデザインリソース"
+    },
+    {
+      "locale": "zh",
+      "description": "除了数字资产目录之外，它还试图学习一些新的技术流程，以在我即将出版的《Frontend Schema》一书中找到。在这里查看路线图：https://jini.design/?open=roadmap",
+      "tagline": "您希望的设计资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "除了數字資產目錄之外，它還試圖學習一些新的技術流程，以在我即將出版的《Frontend Schema》一書中找到。在這裏查看路線圖：https://jini.design/?open=roadmap",
+      "tagline": "您希望的設計資源"
+    }
+  ]
 }

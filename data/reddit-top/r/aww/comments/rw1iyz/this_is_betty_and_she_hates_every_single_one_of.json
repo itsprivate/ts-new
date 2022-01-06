@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはベティで、彼女はあなたたち一人一人を憎んでいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是贝蒂，她憎恨你们每一个人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是貝蒂，她憎恨你們每一個人。"
+    }
+  ]
 }

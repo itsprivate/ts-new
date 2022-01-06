@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Audio Trimmer、iOSがオーディオファイルをトリミングする方法を提供しないので、私のサイドプロジェクト 🤯。"
+    },
+    {
+      "locale": "zh",
+      "title": "音频修剪器，我的副业，因为iOS没有提供修剪音频文件的方法 🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "音頻修剪器，我的副業，因爲iOS沒有提供修剪音頻文件的方法 🤯"
+    }
+  ]
 }

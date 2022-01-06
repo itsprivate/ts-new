@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それが私の問題であるという部分を見逃しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我错过了这是我的问题所在的部分。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我錯過了這是我的問題所在的部分。"
+    }
+  ]
 }

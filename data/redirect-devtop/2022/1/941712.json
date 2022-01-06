@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-01T05:01:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DeH1BmAl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztqwliam1a2fmxvrufpy.png",
   "author": "Fidal Mathew",
-  "author_url": "https://dev.to/fidalmathew"
+  "author_url": "https://dev.to/fidalmathew",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん、お元気ですか？今回のブログでは、「5つのプロパティ」をご紹介します。",
+      "title": "知っておきたい画像に関するCSSのコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，伙计们，希望你们过得很好。在这篇博客中，我将与大家分享5个需要注意的属性，而这些属性都是我们需要的。",
+      "title": "你需要知道的关于图像的CSS技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，夥計們，希望你們過得很好。在這篇博客中，我將與大家分享5個需要注意的屬性，而這些屬性都是我們需要的。",
+      "title": "你需要知道的關於圖像的CSS技巧"
+    }
+  ]
 }

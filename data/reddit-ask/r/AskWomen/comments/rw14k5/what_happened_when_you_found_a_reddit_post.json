@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As in, did you ever find a post written about you from a friend, peer, (ex) SO,\netc.? What happened?"
+  "the_new_excerpt": "As in, did you ever find a post written about you from a friend, peer, (ex) SO,\netc.? What happened?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、友人や同僚、元彼から自分について書かれた投稿を見つけたことはありませんか？\nなどをお教えください。何があったのでしょうか？",
+      "title": "あなたについて書かれたRedditの投稿を見つけたとき、何が起こりましたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比如说，你有没有发现一个朋友、同行、（前）SO写的关于你的帖子。\n等等？发生了什么事？",
+      "title": "当你发现Reddit上有一篇关于你的帖子时，发生了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比如說，你有沒有發現一個朋友、同行、（前）SO寫的關於你的帖子。\n等等？發生了什麼事？",
+      "title": "當你發現Reddit上有一篇關於你的帖子時，發生了什麼？"
+    }
+  ]
 }

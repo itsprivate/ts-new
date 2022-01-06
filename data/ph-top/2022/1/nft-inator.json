@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-05T08:02:14Z"
+  "original_createdAt": "2022-01-05T08:02:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFT-Inatorは、プロシージャルに生成されたNFTプロジェクトの設計と開発を加速するための無償のツールキットです。カスタムデザイン、ランダムデザインの作成、レイヤーの組み合わせのテスト、Solana、Ethereum、Polygon用の画像とメタデータのエクスポートが可能です。",
+      "tagline": "レイヤー型NFTを設計・生成するための究極のツールキット"
+    },
+    {
+      "locale": "zh",
+      "description": "NFT-Inator是一个免费的工具包，用于加速程序性生成的NFT项目的设计和开发。创建自定义和随机的设计，测试你的图层组合，并为Solana、Ethereum和Polygon输出图像和元数据。",
+      "tagline": "设计和生成分层NFT的终极工具箱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NFT-Inator是一個免費的工具包，用於加速程序性生成的NFT項目的設計和開發。創建自定義和隨機的設計，測試你的圖層組合，併爲Solana、Ethereum和Polygon輸出圖像和元數據。",
+      "tagline": "設計和生成分層NFT的終極工具箱"
+    }
+  ]
 }

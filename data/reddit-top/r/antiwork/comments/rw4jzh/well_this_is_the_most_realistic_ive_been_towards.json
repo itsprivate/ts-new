@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、私が最も現実的に考えていることです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我对这个问题最现实的看法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我對這個問題最現實的看法。"
+    }
+  ]
 }
