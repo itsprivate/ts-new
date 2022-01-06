@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-03T22:18:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hDSYfzQZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cvqeke9k7z2lsej2cwbd.png",
   "author": "Pranav",
-  "author_url": "https://dev.to/pranav016"
+  "author_url": "https://dev.to/pranav016",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "実行コンテキスト - 実行コンテキストは、JavaScriptのコードを可能にする環境です...",
+      "title": "Advanced JavaScript Series - Part 2: 実行コンテキストとコールスタック"
+    },
+    {
+      "locale": "zh",
+      "description": "执行上下文--执行上下文是指使JavaScript代码能够执行的环境。",
+      "title": "高级JavaScript系列 - 第二部分：执行上下文和调用栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "執行上下文--執行上下文是指使JavaScript代碼能夠執行的環境。",
+      "title": "高級JavaScript系列 - 第二部分：執行上下文和調用棧"
+    }
+  ]
 }

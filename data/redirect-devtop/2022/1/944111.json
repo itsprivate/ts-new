@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-04T08:55:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DCPCqOz5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l7vimhl50fd84azan42s.jpg",
   "author": "Matvey Romanov",
-  "author_url": "https://dev.to/ra1nbow1"
+  "author_url": "https://dev.to/ra1nbow1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptを使うと、同じことを別の方法で行うことができます。新しいものがリリースされるたびに...",
+      "title": "ほとんどの開発者が知らない、JavaScriptの5つのクールな機能"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以用JavaScript以不同的方式做同样的事情。随着每一个新版本的发布...",
+      "title": "大多数开发者不知道的5个很酷的JavaScript功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以用JavaScript以不同的方式做同樣的事情。隨着每一個新版本的發佈...",
+      "title": "大多數開發者不知道的5個很酷的JavaScript功能"
+    }
+  ]
 }

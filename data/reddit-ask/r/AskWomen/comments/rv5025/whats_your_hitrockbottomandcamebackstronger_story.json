@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのどん底から立ち直ったエピソードを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么跌入谷底后强势回归的故事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼跌入谷底後強勢迴歸的故事？"
+    }
+  ]
 }

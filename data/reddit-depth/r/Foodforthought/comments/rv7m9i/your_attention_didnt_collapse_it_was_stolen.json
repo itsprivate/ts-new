@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの注意力が崩れなかった。奪われたのだ"
+    },
+    {
+      "locale": "zh",
+      "title": "你的注意力没有崩溃。它是被偷走的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的注意力沒有崩潰。它是被偷走的"
+    }
+  ]
 }

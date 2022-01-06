@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっとだけだから、心配しないでね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只是一小部分，不要担心"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這只是一小部分，不要擔心"
+    }
+  ]
 }

@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-05T00:09:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1uwPKMfI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pi5znbm6qpggotffvyin.jpg",
   "author": "Let's Code",
-  "author_url": "https://dev.to/frontendengineer"
+  "author_url": "https://dev.to/frontendengineer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先月、ReactJSの面接の質問を2つ投稿しました🎤 - 事前質問とよくある質問...",
+      "title": "10 ReactJSコーディングチャレンジ ( 💥コーディング面接対策💥)"
+    },
+    {
+      "locale": "zh",
+      "description": "上个月，我发布了2个ReactJS面试问题🎤--高级问题和常见问题。",
+      "title": "10个ReactJS编码挑战 ( 💥编码面试准备💥)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上個月，我發佈了2個ReactJS面試問題🎤--高級問題和常見問題。",
+      "title": "10個ReactJS編碼挑戰 ( 💥編碼面試準備💥)"
+    }
+  ]
 }

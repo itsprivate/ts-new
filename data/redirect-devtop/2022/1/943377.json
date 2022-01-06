@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-03T15:40:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---Sb0ThQK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f8qmzewukbysn9rn9zoj.jpg",
   "author": "J.",
-  "author_url": "https://dev.to/stackcache"
+  "author_url": "https://dev.to/stackcache",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "使ってみて、あまりの効果に存在を忘れてしまった、お気に入りの一発芸をご紹介します😁。   ...",
+      "title": "私たちのお気に入りのjavascriptの一発芸"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是我们最喜欢的单口相声，我们用过之后就忘记了它的存在，因为它们非常好用😁。   ...",
+      "title": "我们最喜欢的javascript单行语"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是我們最喜歡的單口相聲，我們用過之後就忘記了它的存在，因爲它們非常好用😁。   ...",
+      "title": "我們最喜歡的javascript單行語"
+    }
+  ]
 }

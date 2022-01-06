@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "豊かな国々は移民のジレンマを外部に委託できない。唯一の解決策は、合法的な移民をより容易にすることである。"
+    },
+    {
+      "locale": "zh",
+      "title": "富裕国家不能将其移民困境外包。唯一的解决办法是使合法移民更容易。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "富裕國家不能將其移民困境外包。唯一的解決辦法是使合法移民更容易。"
+    }
+  ]
 }

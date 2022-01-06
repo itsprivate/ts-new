@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-31T06:00:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_hqgQKbi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80phkm6see518ge6gc6i.png",
   "author": "Aswin Gopinathan",
-  "author_url": "https://dev.to/infiniteoverflow"
+  "author_url": "https://dev.to/infiniteoverflow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そうです、その通りです。「この記事では、Dart Web APIのためのFirebaseを説明します。",
+      "title": "Dart Web APIのためのFirebase"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，你没看错。\"在这篇文章中，我将解释你如何在Dart Web API上使用Firebase。",
+      "title": "为你的Dart Web API提供Firebase"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，你沒看錯。\"在這篇文章中，我將解釋你如何在Dart Web API上使用Firebase。",
+      "title": "爲你的Dart Web API提供Firebase"
+    }
+  ]
 }

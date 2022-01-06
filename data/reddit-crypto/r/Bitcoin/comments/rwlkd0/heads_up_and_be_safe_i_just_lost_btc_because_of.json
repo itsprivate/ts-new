@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I just lost a significant amount of BTC (to me at least, I can only save\n~100$/month). I had my last BTC (sats, really) purchases sitting in my exchange\nand wanted to move them to my (software) wallet that I use on my phone. So I\ncopied/pasted it the address on a secure notepad app that syncs with…"
+  "the_new_excerpt": "I just lost a significant amount of BTC (to me at least, I can only save\n~100$/month). I had my last BTC (sats, really) purchases sitting in my exchange\nand wanted to move them to my (software) wallet that I use on my phone. So I\ncopied/pasted it the address on a secure notepad app that syncs with…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は今、かなりの額のBTCを失いました（少なくとも私にとって、貯蓄できるのは\n~100$/月)。最後に購入したBTC(sats, 本当に)を自分の取引所に置いていたのですが\nで、携帯で使っている（ソフトウェアの）ウォレットに移したいと思っていました。そこで私は\nと同期している安全なメモ帳アプリにアドレスをコピー＆ペーストしました。",
+      "title": "気を引き締めて、安全に。クリップボードをハイジャックするマルウェアでBTCを失った [Windows］"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚损失了大量的BTC（至少对我来说，我只能保存\n~100美元/月）。我把我最后购买的BTC（sats，真的）放在我的交易所里。\n想把它们转移到我在手机上使用的（软件）钱包。所以我\n在一个安全的记事本应用程序上复制/粘贴地址，该应用程序与...",
+      "title": "抬起头来，注意安全。我刚刚失去了BTC，因为有恶意软件侵入了我的剪贴板[Windows]"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛損失了大量的BTC（至少對我來說，我只能保存\n~100美元/月）。我把我最後購買的BTC（sats，真的）放在我的交易所裏。\n想把它們轉移到我在手機上使用的（軟件）錢包。所以我\n在一個安全的記事本應用程序上覆制/粘貼地址，該應用程序與...",
+      "title": "抬起頭來，注意安全。我剛剛失去了BTC，因爲有惡意軟件侵入了我的剪貼板[Windows]"
+    }
+  ]
 }

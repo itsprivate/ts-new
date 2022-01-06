@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-03T11:44:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qcAqDZgO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w6dm3fezpmgtjo4br95b.png",
   "author": "Piyush Kumar Baliyan",
-  "author_url": "https://dev.to/piyushkmr"
+  "author_url": "https://dev.to/piyushkmr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんな疑問を持ったことはないだろうか。  ある製品の輸入元をすべて探すにはどうしたらいいのか？",
+      "title": "コードの編集とリファクタリングを高速化するRegExp Cheatsheet"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经问过自己一些这样的问题。  我怎样才能找到一个特定国家的所有进口产品呢？",
+      "title": "加快代码编辑和重构的正则工具表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經問過自己一些這樣的問題。  我怎樣才能找到一個特定國家的所有進口產品呢？",
+      "title": "加快代碼編輯和重構的正則工具表"
+    }
+  ]
 }

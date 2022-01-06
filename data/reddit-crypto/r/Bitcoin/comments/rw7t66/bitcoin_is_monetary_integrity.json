@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは貨幣の整合性です。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币是货币的完整性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣是貨幣的完整性。"
+    }
+  ]
 }

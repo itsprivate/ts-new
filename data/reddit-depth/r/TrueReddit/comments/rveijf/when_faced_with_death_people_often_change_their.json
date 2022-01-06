@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "死を前にすると、人はしばしば考えを改める。"
+    },
+    {
+      "locale": "zh",
+      "title": "当面对死亡时，人们往往会改变他们的想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當面對死亡時，人們往往會改變他們的想法"
+    }
+  ]
 }

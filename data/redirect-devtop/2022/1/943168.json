@@ -48,5 +48,22 @@
   "original_created_at": "2022-01-03T11:39:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RSH_Ohcp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34uonphv0nze64g9sjjc.png",
   "author": "Rakesh Potnuru",
-  "author_url": "https://dev.to/itsrakesh"
+  "author_url": "https://dev.to/itsrakesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "生産性向上ツールは、定型的な作業を自動化し、反復的な作業を支援することで、開発者の生活を楽にします...",
+      "title": "ウェブ開発者のための最高の生産性ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "生产力工具通过自动化常规任务，帮助重复性工作，使开发者的生活变得简单。",
+      "title": "最佳的网页开发人员生产力工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "生產力工具通過自動化常規任務，幫助重複性工作，使開發者的生活變得簡單。",
+      "title": "最佳的網頁開發人員生產力工具"
+    }
+  ]
 }

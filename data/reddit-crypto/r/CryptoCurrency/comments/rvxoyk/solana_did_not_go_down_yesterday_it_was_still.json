@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm not sure what is up with the modding here but it allows completely incorrect\nFUD to persist here. Solana never went down yesterday but did suffer from being\na lot slower than normal, with bot spam of high compute transactions crowding\nblockspace. Blocks included votes as usual and less…"
+  "the_new_excerpt": "I'm not sure what is up with the modding here but it allows completely incorrect\nFUD to persist here. Solana never went down yesterday but did suffer from being\na lot slower than normal, with bot spam of high compute transactions crowding\nblockspace. Blocks included votes as usual and less…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここの改造はどうなっているのかわからないが、完全に不正解を許してしまう\nここでFUDが続くのは 昨日はSolanaがダウンすることはありませんでした。\n通常よりかなり遅く、高コンピュートトランザクションのボットスパムが混雑して\nブロックスペース。ブロックには通常通り投票が含まれており、少ない...",
+      "title": "昨日はソラナが降りなかった。まだイーサリアムやビットコイン以上の処理をしていました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不知道这里的修改是怎么回事，但它允许完全不正确的\n谣言在这里持续存在。昨天Solana没有瘫痪，但确实遭受了\n比正常情况下慢得多，高计算交易的机器人垃圾邮件挤满了\n区块空间。区块包括像往常一样的投票和较少的...",
+      "title": "索拉纳昨天没有下场。它的处理量仍然超过了以太坊和比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不知道這裏的修改是怎麼回事，但它允許完全不正確的\n謠言在這裏持續存在。昨天Solana沒有癱瘓，但確實遭受了\n比正常情況下慢得多，高計算交易的機器人垃圾郵件擠滿了\n區塊空間。區塊包括像往常一樣的投票和較少的...",
+      "title": "索拉納昨天沒有下場。它的處理量仍然超過了以太坊和比特幣。"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Bitcoin is the ticket out of this mess."
+  "the_new_excerpt": "Bitcoin is the ticket out of this mess.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインは、この混乱から抜け出すためのチケットです。",
+      "title": "上流階級は経済脱出速度でクルーズしているが、下層階級はインフレ、無意味な仕事、賃金の低迷、終わりのない負債、生活費の上昇という重力の井戸に閉じ込められている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币是摆脱这一困境的门票。",
+      "title": "上层阶级正以经济逃逸的速度巡航，而下层阶级则被困在通货膨胀、毫无意义的工作、停滞不前的工资、永无止境的债务和不断上升的生活成本的引力井里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣是擺脫這一困境的門票。",
+      "title": "上層階級正以經濟逃逸的速度巡航，而下層階級則被困在通貨膨脹、毫無意義的工作、停滯不前的工資、永無止境的債務和不斷上升的生活成本的引力井裏。"
+    }
+  ]
 }

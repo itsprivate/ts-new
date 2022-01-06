@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは自分の体重をどの程度気にしていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对自己的体重有多大的自觉性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對自己的體重有多大的自覺性？"
+    }
+  ]
 }

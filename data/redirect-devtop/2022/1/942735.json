@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-02T20:24:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zqrD9xtH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/alppcvhr5f3wa9n8fy9i.png",
   "author": "Austin Burger",
-  "author_url": "https://dev.to/about14sheep"
+  "author_url": "https://dev.to/about14sheep",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWS s3 SDKとNodeJSのread/writeストリームを使えば、AWSバケットから簡単にファイルをダウンロードすることができます。しかし、...",
+      "title": "NodeJS Stream APIとTypescriptを使ったAWS S3からのファイルストリーミング"
+    },
+    {
+      "locale": "zh",
+      "description": "AWS s3 SDK和NodeJS读/写流使得从AWS桶中下载文件变得容易。然而，...",
+      "title": "使用NodeJS Stream API与Typescript从AWS S3串流文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWS s3 SDK和NodeJS讀/寫流使得從AWS桶中下載文件變得容易。然而，...",
+      "title": "使用NodeJS Stream API與Typescript從AWS S3串流文件"
+    }
+  ]
 }

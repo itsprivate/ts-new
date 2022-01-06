@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi,\n\nI sit in front of my computer a lot like so many others. Since Covid, it has\neven increased and my back showed the first signs. I felt it was time to do\nsomething about my posture. By accident, I came across the idea to use a webcam\nand TensorFlow to detect one's posture. And so…"
+  "the_new_excerpt": "Hi,\n\nI sit in front of my computer a lot like so many others. Since Covid, it has\neven increased and my back showed the first signs. I felt it was time to do\nsomething about my posture. By accident, I came across the idea to use a webcam\nand TensorFlow to detect one's posture. And so…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n私も他の多くの人と同じように、パソコンの前に座ることが多いです。コビド以来、それは\nが増え、背中にその兆候が現れました。このままではいけないと思い\n姿勢を何とかしたい。偶然にも、ウェブカメラを使うというアイデアに出会いました。\nとTensorFlowで姿勢を検出する。それで...",
+      "title": "ウェブカメラと機械学習で姿勢を改善する"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好。\n\n我和许多人一样经常坐在电脑前。自从有了Covid之后，这种情况\n我的背部出现了第一个迹象。我觉得是时候做一些\n是时候为我的姿势做点什么了。一个偶然的机会，我发现了一个想法，即使用网络摄像头\n和TensorFlow来检测一个人的姿态。就这样...",
+      "title": "用网络摄像头和机器学习改善你的姿势"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好。\n\n我和許多人一樣經常坐在電腦前。自從有了Covid之後，這種情況\n我的背部出現了第一個跡象。我覺得是時候做一些\n是時候爲我的姿勢做點什麼了。一個偶然的機會，我發現了一個想法，即使用網絡攝像頭\n和TensorFlow來檢測一個人的姿態。就這樣...",
+      "title": "用網絡攝像頭和機器學習改善你的姿勢"
+    }
+  ]
 }

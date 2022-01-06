@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-03T20:20:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f9EKcRU8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ap0x4gml7j7t8mdu06qh.png",
   "author": "Christina Gorton",
-  "author_url": "https://dev.to/coffeecraftcode"
+  "author_url": "https://dev.to/coffeecraftcode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Grepは、Linux（またはUnix）でよく使われるコマンドで、1つまたは複数の...",
+      "title": "ルートからLinuxへ。Grepでファイルを検索する"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：Grep是Linux（或Unix）中的一个常用命令，用于搜索1个或更多。",
+      "title": "根基到Linux。用格雷普搜索文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：Grep是Linux（或Unix）中的一個常用命令，用於搜索1個或更多。",
+      "title": "根基到Linux。用格雷普搜索文件"
+    }
+  ]
 }

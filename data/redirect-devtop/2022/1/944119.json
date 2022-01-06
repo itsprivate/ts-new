@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-04T09:07:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NcgJuAql--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5s8jmd2cfj91t1gtovmz.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WindowsでWSLとDockerのセットアップを学ぶ - 無料＆オープンソースのサンプルを提供します。",
+      "title": "Windows、WSL、Docker、そしてフリースターター"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何在Windows上设置WSL和Docker - 提供免费和开源的样本。",
+      "title": "Windows、WSL、Docker和免费启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何在Windows上設置WSL和Docker - 提供免費和開源的樣本。",
+      "title": "Windows、WSL、Docker和免費啓動器"
+    }
+  ]
 }

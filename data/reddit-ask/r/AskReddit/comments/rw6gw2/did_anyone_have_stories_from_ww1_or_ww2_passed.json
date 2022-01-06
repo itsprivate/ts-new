@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WW1やWW2の話が伝わっている人はいましたか？いたらどんな話ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有没有人有一战或二战的故事传给他们，如果有，是什么故事呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有沒有人有一戰或二戰的故事傳給他們，如果有，是什麼故事呢？"
+    }
+  ]
 }

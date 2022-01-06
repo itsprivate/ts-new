@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人気のある食べ物/飲み物/おやつ/調味料/何でも良いのですが、あなたが個人的に好きではないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪一种食物/饮料/小吃/调味品/什么的非常受欢迎，但你个人却不喜欢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪一種食物/飲料/小喫/調味品/什麼的非常受歡迎，但你個人卻不喜歡？"
+    }
+  ]
 }

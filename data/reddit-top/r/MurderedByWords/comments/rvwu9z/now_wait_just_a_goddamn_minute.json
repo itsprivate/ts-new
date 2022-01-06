@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっと待てよ"
+    },
+    {
+      "locale": "zh",
+      "title": "现在就他妈的等一下"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在就他媽的等一下"
+    }
+  ]
 }
