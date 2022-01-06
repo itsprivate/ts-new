@@ -50,5 +50,22 @@
   "original_created_at": "2021-12-31T13:47:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q67eu0mS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmvn1jd1d46syi28dut8.png",
   "author": "⚡Preethi",
-  "author_url": "https://dev.to/preethi_dev"
+  "author_url": "https://dev.to/preethi_dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダークモードは、多くのユーザー(特に開発者)が愛用している機能であり、その使用方法は様々です。",
+      "title": "自動でダークモードを有効にする(CSSのみ)🎉。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，大多数用户（特别是开发人员）都是黑暗模式的超级粉丝，并试图在其上使用它。",
+      "title": "自动启用黑暗模式（仅限CSS）🎉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，大多數用戶（特別是開發人員）都是黑暗模式的超級粉絲，並試圖在其上使用它。",
+      "title": "自動啓用黑暗模式（僅限CSS）🎉。"
+    }
+  ]
 }
