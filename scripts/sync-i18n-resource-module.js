@@ -112,7 +112,11 @@ function isNeedChangeLocaleField(localize = [], locale, field, value) {
   for (let i = 0; i < localize.length; i++) {
     const localeItem = localize[i];
     if (localeItem.locale === locale) {
-      if (localeItem[field] !== value) {
+      if (
+        localeItem[field] === undefined ||
+        localeItem[field] === null ||
+        localeItem[field] === ""
+      ) {
         return true;
       }
     }
