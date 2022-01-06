@@ -35,7 +35,7 @@ jobs:
             await syncResource()
             return true
       - name: install puppeteer
-        run: npm i puppeteer
+        run: npm i puppeteer --package-lock false
       - name: Translate
         uses: ./.github/actions/translate
         continue-on-error: true
