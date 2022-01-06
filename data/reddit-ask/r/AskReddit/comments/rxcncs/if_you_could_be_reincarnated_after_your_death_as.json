@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、死後、人間以外の動物に生まれ変わることができるとしたら、あなたは何になりたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你死后可以转世为任何动物（除了人类），你会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你死後可以轉世爲任何動物（除了人類），你會是什麼？"
+    }
+  ]
 }

@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-06T08:01:00Z"
+  "original_createdAt": "2022-01-06T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単に言えば、lohostは、あなたがlohostウェブサイトクライアントをインストールした任意のローカルコンピュータからインターネットにウェブサイトを提供する方法です。すべてのファイルをローカルコンピュータに保存し、ウェブサイトが存在するサブドメインを選択します(https://{yourApp}.lohost.io)。",
+      "tagline": "分散型、非中央集権型、匿名化されたローカルウェブサイトのホスティング"
+    },
+    {
+      "locale": "zh",
+      "description": "简单地说，lohost是一种从任何安装了lohost网站客户端的本地计算机向互联网提供网站服务的方式。你把所有的文件放在你的本地电脑上，并选择网站所在的子域（https://{yourApp}.lohost.io）。",
+      "tagline": "分布式、去中心化、匿名的本地网站托管"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單地說，lohost是一種從任何安裝了lohost網站客戶端的本地計算機向互聯網提供網站服務的方式。你把所有的文件放在你的本地電腦上，並選擇網站所在的子域（https://{yourApp}.lohost.io）。",
+      "tagline": "分佈式、去中心化、匿名的本地網站託管"
+    }
+  ]
 }
