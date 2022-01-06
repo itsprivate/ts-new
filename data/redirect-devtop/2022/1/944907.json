@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-05T00:10:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8HGV-toD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h485sqv9dcgeix775iwp.png",
   "author": "Pranav",
-  "author_url": "https://dev.to/pranav016"
+  "author_url": "https://dev.to/pranav016",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに- JavaScriptはシングルスレッド、同期型のプログラミング言語である。その意味は...",
+      "title": "Advanced JavaScript シリーズ - 第1回：舞台裏（JavaScriptエンジン、ATS、隠しクラス、ガベージコレクション） "
+    },
+    {
+      "locale": "zh",
+      "description": "介绍-- JavaScript是一种单线程、同步的编程语言。它意味着...",
+      "title": "高级JavaScript系列 - 第一部分：幕后（JavaScript引擎、ATS、隐藏类、垃圾回收）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹-- JavaScript是一種單線程、同步的編程語言。它意味着...",
+      "title": "高級JavaScript系列 - 第一部分：幕後（JavaScript引擎、ATS、隱藏類、垃圾回收）。"
+    }
+  ]
 }
