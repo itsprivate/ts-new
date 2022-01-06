@@ -6,8 +6,8 @@ on:
         description: "--timeout: minutes"
         required: false
         default: "-1"
-  schedule:
-    - cron: "45 */2 * * *"
+  # schedule:
+  #   - cron: "45 */2 * * *"
   push:
     branches:
       - main
