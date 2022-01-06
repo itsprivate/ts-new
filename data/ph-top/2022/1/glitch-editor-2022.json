@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-04T22:29:31Z"
+  "original_createdAt": "2022-01-04T22:29:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glitchのエディターが過去最大のアップデートで最大300%高速化。アセット用の自動Fastly CDN、3Dモデルのプレビュー、インラインエラー報告、Prettierサポートの向上、GitHubインポート/エクスポート+ドメインへのワンクリックでのアクセスを提供します。",
+      "tagline": "フルスタックアプリケーションを作成するための、まったく新しい超高速エディタです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Glitch编辑器有史以来最大的更新，速度高达300%。它为资产提供了一个自动的Fastly CDN，3D模型的预览，内联错误报告，更好的Prettier支持，以及对GitHub导入/导出和域名的一键访问。",
+      "tagline": "一个全新的、超快的编辑器，用于创建全栈式应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glitch編輯器有史以來最大的更新，速度高達300%。它爲資產提供了一個自動的Fastly CDN，3D模型的預覽，內聯錯誤報告，更好的Prettier支持，以及對GitHub導入/導出和域名的一鍵訪問。",
+      "tagline": "一個全新的、超快的編輯器，用於創建全棧式應用程序。"
+    }
+  ]
 }

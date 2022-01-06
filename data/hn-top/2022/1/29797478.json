@@ -13,5 +13,19 @@
   ],
   "objectID": "29797478",
   "original_created_at": "2022-01-04T17:40:57.000Z",
-  "image": "https://nginx.org/nginx.png"
+  "image": "https://nginx.org/nginx.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Nginxは実行ファイルをオンザフライで優雅にアップグレードする"
+    },
+    {
+      "locale": "zh",
+      "title": "Nginx在飞行中优雅地升级可执行文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Nginx在飛行中優雅地升級可執行文件"
+    }
+  ]
 }
