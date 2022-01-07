@@ -180,5 +180,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1641508185,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明日の予測"
+    },
+    {
+      "locale": "zh",
+      "title": "明天预测"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "明天預測"
+    }
+  ]
 }

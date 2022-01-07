@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"BTCはフールセオリー型の投資\" - ビル・ゲイツ"
+    },
+    {
+      "locale": "zh",
+      "title": "\"BTC是一种傻瓜理论式的投资。\" - 比尔-盖茨。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"BTC是一種傻瓜理論式的投資。\" - 比爾-蓋茨。"
+    }
+  ]
 }
