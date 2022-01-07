@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日計簿/習慣追跡アプリに取り組んでいます。感想は？アイデア？機能のリクエストは？"
+    },
+    {
+      "locale": "zh",
+      "title": "正在开发一个日计划/习惯跟踪器应用程序。有什么想法？有什么想法？功能要求？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在開發一個日計劃/習慣跟蹤器應用程序。有什麼想法？有什麼想法？功能要求？"
+    }
+  ]
 }
