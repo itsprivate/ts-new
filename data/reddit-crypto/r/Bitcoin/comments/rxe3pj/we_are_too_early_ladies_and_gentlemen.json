@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さん、早すぎませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "女士们、先生们，我们来得太早了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "女士們、先生們，我們來得太早了"
+    }
+  ]
 }
