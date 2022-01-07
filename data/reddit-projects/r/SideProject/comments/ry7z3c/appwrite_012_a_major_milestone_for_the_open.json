@@ -1,0 +1,62 @@
+{
+  "author": "adityaoberai1",
+  "original_created_utc": 1641563935,
+  "title": "Appwrite 0.12 - A major milestone for the open source Firebase Alternative",
+  "created_utc": 1641568339,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey, Appwrite maintainer here 👋&lt;/p&gt;\n\n&lt;p&gt;After months of hard work and contributions from the open source community, &lt;a href=\"https://github.com/appwrite/appwrite/releases/tag/0.12.0\"&gt;Appwrite 0.12&lt;/a&gt; has just been released with the biggest performance improvements till date.&lt;/p&gt;\n\n&lt;p&gt;If you haven&amp;#39;t heard already, &lt;a href=\"http://appwrite.io/\"&gt;Appwrite&lt;/a&gt; is an open source end-to-end BaaS that helps you build your Web, Flutter, iOS and Android apps much faster with a focus on simplicity, developer experience, privacy and security that you can self-host with just a single command.&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;d love to get your feedback as we move on to v1.0 of Appwrite in the coming weeks. Community feedback has been one of the major driving forces for where the project is today.&lt;/p&gt;\n\n&lt;p&gt;Here’s everything that’s new in Appwrite 0.12&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Database overhaul&lt;/strong&gt; - a new and improved database API focussed on performance and support for multiple databases under the hood - MariaDB, MySQL, MongoDB ( soon ...) and more.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Dynamic pagination strategies&lt;/strong&gt; - Efficient querying through millions of records using a combination of limit-offset and cursor pagination&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Simple Database permissions&lt;/strong&gt; - choose between collection-level and document-level permissions&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Query API v2&lt;/strong&gt; - support for more powerful database queries&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;New Usage Charts&lt;/strong&gt; - Increased visibility on your project with lot more graphs and metrics&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Custom IDs&lt;/strong&gt; - Human friendly IDs for your collections, documents, users, projects etc.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Service toggles&lt;/strong&gt; - disable services you don’t need and secure your APIs even further&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Logging that just works&lt;/strong&gt; - Error logging and monitoring made easy with 3 new open source providers - Sentry, AppSignal &amp;amp; Raygun&lt;/li&gt;\n&lt;li&gt;Not to mention, we&amp;#39;re &lt;strong&gt;one step closer&lt;/strong&gt; to becoming a complete Firebase Alternative&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Check out everything we shipped this time around 👇&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/appwrite/appwrite/releases/latest\"&gt;https://github.com/appwrite/appwrite/releases/latest&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?auto=webp&amp;s=b63e26281d3e01f059f1fbc80e633419db0c5468",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=5b7b20dd1ec80b5ce7ec31f6d47c89cef2e6b0f2",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e58a05edb8f52308d4198c1402a445873acd1f67",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5e64c01a6247aa2b6f216eca5be9147f9ee1cd2b",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebfb474b06529abcb523bf89a316f11d1c53f71c",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=c7a7ce36540855e527182c7c29469ccfbdb8ea45",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/0G3ENt5khC5K_rIZXXaAYBaoN_C9URdgUbX57sL5QF8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1d721a39c0e95984e36d2f11f64a48081273cf25",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "eGBsEHDseN3AJwyZRanLiwE2-I7ZfZpe_z_YnEfYWXo"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/ry7z3c/appwrite_012_a_major_milestone_for_the_open/",
+  "subreddit": "SideProject",
+  "id": "ry7z3c",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Hey, Appwrite maintainer here 👋\n\nAfter months of hard work and contributions from the open source community,\nAppwrite 0.12 [https://github.com/appwrite/appwrite/releases/tag/0.12.0] has\njust been released with the biggest performance improvements till date.\n\nIf you haven't heard already, Appwrite…"
+}
