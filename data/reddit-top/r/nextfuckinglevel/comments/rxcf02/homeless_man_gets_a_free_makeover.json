@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホームレスが無料でイメチェン!"
+    },
+    {
+      "locale": "zh",
+      "title": "无家可归的人得到免费改造!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無家可歸的人得到免費改造!"
+    }
+  ]
 }
