@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一理ある"
+    },
+    {
+      "locale": "zh",
+      "title": "他说得很有道理"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他說得很有道理"
+    }
+  ]
 }
