@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-22T23:50:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kECs5cmN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oy93evyy8ij7v30nh27t.png",
   "author": "Amy Oulton",
-  "author_url": "https://dev.to/amyoulton"
+  "author_url": "https://dev.to/amyoulton",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はCodeCastに掲載されたものです。  Visual Studio Codeは、最も人気のある...",
+      "title": "Visual Studioのコード拡張機能トップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章最初发表在CodeCast上。  Visual Studio Code是最受欢迎的软件之一。",
+      "title": "我的十大Visual Studio代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章最初發表在CodeCast上。  Visual Studio Code是最受歡迎的軟件之一。",
+      "title": "我的十大Visual Studio代碼擴展"
+    }
+  ]
 }
