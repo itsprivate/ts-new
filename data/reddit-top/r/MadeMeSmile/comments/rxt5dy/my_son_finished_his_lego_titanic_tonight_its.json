@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "息子は今夜、レゴのタイタニックを完成させました。息子とほぼ同じ長さです。息子は大喜びでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "我儿子今晚完成了他的乐高玩具泰坦尼克号。它几乎和他一样长。他感到非常自豪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我兒子今晚完成了他的樂高玩具泰坦尼克號。它幾乎和他一樣長。他感到非常自豪。"
+    }
+  ]
 }
