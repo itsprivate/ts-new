@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "海兵隊員がジェットパックを使った搭乗訓練と高速船への着艦を行う。未来は今、老いも若きも"
+    },
+    {
+      "locale": "zh",
+      "title": "海军陆战队员用JETPACKS进行登船训练，并在高速船上登陆。未来是现在，老少皆宜"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "海軍陸戰隊員用JETPACKS進行登船訓練，並在高速船上登陸。未來是現在，老少皆宜"
+    }
+  ]
 }
