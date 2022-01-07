@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T06:32:01Z",
   "image": "https://dev.to/social_previews/article/947553.png",
   "author": "javinpaul",
-  "author_url": "https://dev.to/javinpaul"
+  "author_url": "https://dev.to/javinpaul",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリ開発、機械学習、Web開発、バックエンド開発など、ソフトウェア開発者が2022年に学ぶべき最高のフレームワークを紹介します。",
+      "title": "2022年、ソフトウェア開発者が学べる10のフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是软件开发人员可以在2022年学习的最好的框架，用于应用开发、机器学习、网络开发和后端开发。",
+      "title": "软件开发人员在2022年可以学习的10个框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是軟件開發人員可以在2022年學習的最好的框架，用於應用開發、機器學習、網絡開發和後端開發。",
+      "title": "軟件開發人員在2022年可以學習的10個框架"
+    }
+  ]
 }
