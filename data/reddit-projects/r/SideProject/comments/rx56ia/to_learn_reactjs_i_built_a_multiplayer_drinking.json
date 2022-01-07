@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "reactjsを学ぶために、ブラウザで遊べる多人数参加型の飲み会ゲームアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "为了学习reactjs，我建立了一个可以在浏览器中玩的多人喝酒游戏应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了學習reactjs，我建立了一個可以在瀏覽器中玩的多人喝酒遊戲應用。"
+    }
+  ]
 }
