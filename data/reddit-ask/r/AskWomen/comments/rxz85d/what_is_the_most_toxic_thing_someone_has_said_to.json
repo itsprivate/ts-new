@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Or the most toxic thing you’ve heard ?"
+  "the_new_excerpt": "Or the most toxic thing you’ve heard ?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるいは、あなたが聞いた中で最も有害なものは何ですか？",
+      "title": "今まで言われた中で一番嫌な言葉ってなんですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者你所听到的最毒的事情？",
+      "title": "有人对你说过的最毒的话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者你所聽到的最毒的事情？",
+      "title": "有人對你說過的最毒的話是什麼？"
+    }
+  ]
 }
