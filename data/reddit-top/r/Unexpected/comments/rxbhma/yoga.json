@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヨガ"
+    },
+    {
+      "locale": "zh",
+      "title": "瑜伽"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瑜伽"
+    }
+  ]
 }
