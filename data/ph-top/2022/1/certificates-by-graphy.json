@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-07T08:01:00Z"
+  "original_createdAt": "2022-01-07T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Certificates by Graphyを使えば、美しいカスタム証明書をすべての学習者に一度に配布することができます。テンプレートを選び、CSVファイルをアップロードし、ワンクリックですべての証明書を送信できます。学習者にはPDFが配布され、ワンクリックでLinkedInに追加できるオプションも用意されています。",
+      "tagline": "1クリックで美しい証明書を無料で作成・共有できる"
+    },
+    {
+      "locale": "zh",
+      "description": "Certificate by Graphy可让您一次性向所有学员分享漂亮的定制证书。选择一个模板，上传一个CSV文件，然后一键发送所有证书。学习者只需点击一下，就能得到一个PDF文件和将其添加到他们的LinkedIn的选项。",
+      "tagline": "一键免费创建和分享精美证书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Certificate by Graphy可讓您一次性向所有學員分享漂亮的定製證書。選擇一個模板，上傳一個CSV文件，然後一鍵發送所有證書。學習者只需點擊一下，就能得到一個PDF文件和將其添加到他們的LinkedIn的選項。",
+      "tagline": "一鍵免費創建和分享精美證書"
+    }
+  ]
 }
