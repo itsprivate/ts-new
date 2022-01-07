@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-06T12:41:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xXa_Cvoi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hcd65yu4j299febgql8.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、メディアクエリなしで画像をレスポンシブ化する方法を学びます。使用するのは...",
+      "title": "アスペクト比を利用して画像をレスポンシブ化するには？メディアクエリは不要です。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，你将学习如何在没有任何媒体查询的情况下使一个图片具有响应性。我们将使用...",
+      "title": "如何使用长宽比使图像具有响应性？不需要媒体查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，你將學習如何在沒有任何媒體查詢的情況下使一個圖片具有響應性。我們將使用...",
+      "title": "如何使用長寬比使圖像具有響應性？不需要媒體查詢"
+    }
+  ]
 }
