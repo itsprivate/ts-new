@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-05T21:38:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FAN40O5U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq5ht8f1u8w6oqoqgbkx.png",
   "author": "Amanda Martins",
-  "author_url": "https://dev.to/mandysdev"
+  "author_url": "https://dev.to/mandysdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンピュータ端末の標準的な、くすんだ顔に飽きない人はいないでしょう？ここであなたは...",
+      "title": "Powershellとoh-my-poshでWindowsターミナルをパーソナライズする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "谁没有厌倦计算机终端的标准、沉闷的面孔，对吗？在这里，你将...",
+      "title": "如何通过Powershell和oh-my-posh个性化定制自己的Windows终端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "誰沒有厭倦計算機終端的標準、沉悶的面孔，對嗎？在這裏，你將...",
+      "title": "如何通過Powershell和oh-my-posh個性化定製自己的Windows終端"
+    }
+  ]
 }
