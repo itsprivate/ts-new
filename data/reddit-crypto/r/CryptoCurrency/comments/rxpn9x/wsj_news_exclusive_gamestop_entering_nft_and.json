@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WSJ News Exclusive｜ゲームストップ、再建計画の一環としてNFTと暗号通貨市場に参入へ"
+    },
+    {
+      "locale": "zh",
+      "title": "华尔街日报》独家报道｜作为扭亏为盈计划的一部分，GameStop进入了NFT和加密货币市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "華爾街日報》獨家報道｜作爲扭虧爲盈計劃的一部分，GameStop進入了NFT和加密貨幣市場"
+    }
+  ]
 }
