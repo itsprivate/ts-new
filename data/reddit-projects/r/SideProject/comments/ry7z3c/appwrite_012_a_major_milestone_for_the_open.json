@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey, Appwrite maintainer here 👋\n\nAfter months of hard work and contributions from the open source community,\nAppwrite 0.12 [https://github.com/appwrite/appwrite/releases/tag/0.12.0] has\njust been released with the biggest performance improvements till date.\n\nIf you haven't heard already, Appwrite…"
+  "the_new_excerpt": "Hey, Appwrite maintainer here 👋\n\nAfter months of hard work and contributions from the open source community,\nAppwrite 0.12 [https://github.com/appwrite/appwrite/releases/tag/0.12.0] has\njust been released with the biggest performance improvements till date.\n\nIf you haven't heard already, Appwrite…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、Appwriteのメンテナです👋。\n\nオープンソースコミュニティからの数ヶ月に及ぶ努力と貢献の末に\nAppwrite 0.12 [https://github.com/appwrite/appwrite/releases/tag/0.12.0] がリリースされました。\nをリリースしました。\n\nもしまだご存知でなければ、Appwrite...",
+      "title": "Appwrite 0.12 - オープンソースFirebase代替のための主要なマイルストーン"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，我是Appwrite的维护者 👋\n\n经过几个月的艰苦工作和开源社区的贡献。\nAppwrite 0.12 [https://github.com/appwrite/appwrite/releases/tag/0.12.0] 已经\n刚刚发布了，其中包含了迄今为止最大的性能改进。\n\n如果你还没有听说，Appwrite...",
+      "title": "Appwrite 0.12 --开源的Firebase替代品的一个重要里程碑"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，我是Appwrite的維護者 👋\n\n經過幾個月的艱苦工作和開源社區的貢獻。\nAppwrite 0.12 [https://github.com/appwrite/appwrite/releases/tag/0.12.0] 已經\n剛剛發佈了，其中包含了迄今爲止最大的性能改進。\n\n如果你還沒有聽說，Appwrite...",
+      "title": "Appwrite 0.12 --開源的Firebase替代品的一個重要里程碑"
+    }
+  ]
 }
