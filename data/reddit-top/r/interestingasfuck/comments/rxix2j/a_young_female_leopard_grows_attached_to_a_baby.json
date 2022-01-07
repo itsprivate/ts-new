@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヒヒの赤ちゃんに執着するメスのヒョウ。肉食動物が母性本能に惑わされることもある。"
+    },
+    {
+      "locale": "zh",
+      "title": "一只年轻的母豹对一只小狒狒产生了依恋；有时食肉动物会被它们的母性本能所迷惑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一隻年輕的母豹對一隻小狒狒產生了依戀；有時食肉動物會被它們的母性本能所迷惑。"
+    }
+  ]
 }
