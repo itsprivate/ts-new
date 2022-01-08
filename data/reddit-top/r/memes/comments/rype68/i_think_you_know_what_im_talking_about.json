@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何のことかお分かりだと思いますが"
+    },
+    {
+      "locale": "zh",
+      "title": "我想你知道我在说什么"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想你知道我在說什麼"
+    }
+  ]
 }
