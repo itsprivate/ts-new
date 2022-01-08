@@ -12,5 +12,19 @@
   ],
   "objectID": "29850143",
   "original_created_at": "2022-01-08T09:52:42.000Z",
-  "image": "https://taler.net/images/logo-2021.svg"
+  "image": "https://taler.net/images/logo-2021.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GNU Taler - プライバシーに配慮した、高速で簡単なオンライン取引のための決済システム"
+    },
+    {
+      "locale": "zh",
+      "title": "GNU Taler - 用于隐私友好、快速、简单的在线交易的支付系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GNU Taler - 用於隱私友好、快速、簡單的在線交易的支付系統"
+    }
+  ]
 }
