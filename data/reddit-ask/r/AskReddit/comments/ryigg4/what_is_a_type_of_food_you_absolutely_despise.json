@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが絶対に嫌いな食べ物で、他の人が好きなものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么类型的食物是你绝对鄙视而其他人喜欢的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼類型的食物是你絕對鄙視而其他人喜歡的？"
+    }
+  ]
 }
