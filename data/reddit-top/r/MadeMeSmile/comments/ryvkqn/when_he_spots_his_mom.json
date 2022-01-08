@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お母さんを見つけたとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当他发现他的妈妈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當他發現他的媽媽"
+    }
+  ]
 }
