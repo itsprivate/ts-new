@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-08T08:30:26Z",
   "image": "https://dev.to/social_previews/article/948623.png",
   "author": "Jerry Ng",
-  "author_url": "https://dev.to/jerrynsh"
+  "author_url": "https://dev.to/jerrynsh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TinyURLやBitlyなどのURL短縮ツールの設計は、システム設計の面接で最も多いものの一つで...",
+      "title": "TinyURLを自作してみた。その方法を紹介します。"
+    },
+    {
+      "locale": "zh",
+      "description": "设计一个URL缩短器，如TinyURL和Bitly，是最常见的系统设计面试之一...",
+      "title": "我建立了自己的TinyURL。以下是我的做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計一個URL縮短器，如TinyURL和Bitly，是最常見的系統設計面試之一...",
+      "title": "我建立了自己的TinyURL。以下是我的做法"
+    }
+  ]
 }
