@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今夜は史上最高値に乗るぞ!"
+    },
+    {
+      "locale": "zh",
+      "title": "今晚我们要驾驭历史上的高点！\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今晚我們要駕馭歷史上的高點！\"。"
+    }
+  ]
 }
