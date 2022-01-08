@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-06T18:40:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KsaHDLL6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z35wqscr9u8pokwqbbw8.png",
   "author": "Danny Adams",
-  "author_url": "https://dev.to/doabledanny"
+  "author_url": "https://dev.to/doabledanny",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、あなたが必要とするほぼすべてのワークフローを紹介します。",
+      "title": "Gitのワークフロー - ソロとチームワーク、ミスの取り消し、オープンソースへの貢献...and more"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我给出了我的工作流程，几乎所有你需要做的事情都可以用它来完成。",
+      "title": "Git工作流程--个人与团队工作，撤销错误，为开源做贡献......等等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我給出了我的工作流程，幾乎所有你需要做的事情都可以用它來完成。",
+      "title": "Git工作流程--個人與團隊工作，撤銷錯誤，爲開源做貢獻......等等。"
+    }
+  ]
 }
