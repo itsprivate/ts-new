@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T10:31:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zsT2GAEv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vq65b2jfwl75w254g56.png",
   "author": "Avneesh Agarwal",
-  "author_url": "https://dev.to/avneesh0612"
+  "author_url": "https://dev.to/avneesh0612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、CRUD(Create, Read, Update, Delete)APIを構築する方法について説明します。",
+      "title": "Node.jsとMongoDBを使ったCRUD APIの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我们将建立一个具有CRUD（创建、读取、更新、删除）功能的API。",
+      "title": "用Node.js和MongoDB构建一个CRUD API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我們將建立一個具有CRUD（創建、讀取、更新、刪除）功能的API。",
+      "title": "用Node.js和MongoDB構建一個CRUD API"
+    }
+  ]
 }

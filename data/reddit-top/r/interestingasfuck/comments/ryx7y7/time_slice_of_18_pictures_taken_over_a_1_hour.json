@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1時間かけて撮影した18枚の写真をタイムスライスで表示します。"
+    },
+    {
+      "locale": "zh",
+      "title": "在1小时内拍摄的18张照片的时间片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在1小時內拍攝的18張照片的時間片。"
+    }
+  ]
 }
