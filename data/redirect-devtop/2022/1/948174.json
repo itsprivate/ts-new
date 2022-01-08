@@ -46,5 +46,22 @@
   "original_created_at": "2022-01-07T17:52:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XrlonrVM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/66aejd6u7ojjje3f0wv4.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "使用しているメーカー/機種を教えてください。満足されていますか？同じオペレーションのままでいいのでしょうか？",
+      "title": "ソフトウエアの開発にはどのようなコンピュータをお使いですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你用的是什么品牌/型号？你对它满意吗？你是否打算继续在同一操作...",
+      "title": "你用什么电脑来开发软件？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你用的是什麼品牌/型號？你對它滿意嗎？你是否打算繼續在同一操作...",
+      "title": "你用什麼電腦來開發軟件？"
+    }
+  ]
 }
