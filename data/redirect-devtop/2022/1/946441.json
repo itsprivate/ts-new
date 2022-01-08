@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-06T03:24:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ENRqzsjs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nshlx4su5n4dw1cha04r.png",
   "author": "ilhamsabir",
-  "author_url": "https://dev.to/ilhamsabir"
+  "author_url": "https://dev.to/ilhamsabir",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nginxロードバランシングのセットアップ ロードバランシングは、受信したデータを分散させるのに便利なメカニズムです。",
+      "title": "ロードバランサーにNGINXをセットアップする"
+    },
+    {
+      "locale": "zh",
+      "description": "设置Nginx负载均衡 负载均衡是一种有用的机制，可以分配传入的数据。",
+      "title": "为负载平衡器设置NGINX"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設置Nginx負載均衡 負載均衡是一種有用的機制，可以分配傳入的數據。",
+      "title": "爲負載平衡器設置NGINX"
+    }
+  ]
 }
