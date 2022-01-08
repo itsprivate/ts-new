@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-08T14:02:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fdrp4fCa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t5vwz4xp3u61jn0q208a.png",
   "author": "Shaan Alam",
-  "author_url": "https://dev.to/shaan_alam"
+  "author_url": "https://dev.to/shaan_alam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OK! \"どうやったら2つ目のブレーディングができるんだ？\" と聞かれる前に...",
+      "title": "Next.JSを使って2つ目の脳を作った方法"
+    },
+    {
+      "locale": "zh",
+      "description": "好的! 在你宣布我疯了，并问 \"到底怎么会有人用第二套钎具建造...",
+      "title": "我如何使用Next.JS构建我的第二个大脑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好的! 在你宣佈我瘋了，並問 \"到底怎麼會有人用第二套釺具建造...",
+      "title": "我如何使用Next.JS構建我的第二個大腦"
+    }
+  ]
 }
