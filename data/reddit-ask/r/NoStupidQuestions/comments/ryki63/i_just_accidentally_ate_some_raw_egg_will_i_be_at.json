@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "maybe I'm worrying too much but I realized that the egg wasn't fully cooked when\nI bit into it (sunny side up)"
+  "the_new_excerpt": "maybe I'm worrying too much but I realized that the egg wasn't fully cooked when\nI bit into it (sunny side up)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "心配しすぎかもしれませんが、卵に完全に火が通っていないことに気がつきました。\n噛んでみた（サニーサイドアップ）",
+      "title": "誤って生卵を食べてしまったのですが、サルモネラ菌のリスクはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "也许我太担心了，但我意识到，当我咬下鸡蛋时，鸡蛋并没有完全熟透。\n我咬了一口（阳面朝上）。",
+      "title": "我刚刚不小心吃了一些生鸡蛋，我是否会有沙门氏菌的风险？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "也許我太擔心了，但我意識到，當我咬下雞蛋時，雞蛋並沒有完全熟透。\n我咬了一口（陽面朝上）。",
+      "title": "我剛剛不小心吃了一些生雞蛋，我是否會有沙門氏菌的風險？"
+    }
+  ]
 }
