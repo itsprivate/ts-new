@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "牛の絶対単位は6フィート以上の高さになる"
+    },
+    {
+      "locale": "zh",
+      "title": "一头牛的绝对单位站在6英尺多高的地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一頭牛的絕對單位站在6英尺多高的地方"
+    }
+  ]
 }

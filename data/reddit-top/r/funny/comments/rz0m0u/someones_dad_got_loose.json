@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かのパパが逃げた"
+    },
+    {
+      "locale": "zh",
+      "title": "某人的父亲被释放了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "某人的父親被釋放了"
+    }
+  ]
 }
