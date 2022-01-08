@@ -43,5 +43,22 @@
   "original_created_at": "2021-12-19T04:59:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_YZ50dof--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5y2y6gau61z94g7ukemh.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、HTML+CSSによる縦方向と横方向の中央揃えの方法を5種類、時系列で紹介します。過去に行われていた方法（今は避けるべき）から、現在行われている最新の中央揃えの方法まで、紹介します。",
+      "title": "CSSによる垂直・水平方向の中央揃え"
+    },
+    {
+      "locale": "zh",
+      "description": "本文将展示用HTML+CSS进行垂直和水平居中的五种不同方法，按时间顺序介绍：从过去的做法（我们现在应该避免）到现在的现代的内容居中方法。",
+      "title": "用CSS进行垂直和水平居中调整"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文將展示用HTML+CSS進行垂直和水平居中的五種不同方法，按時間順序介紹：從過去的做法（我們現在應該避免）到現在的現代的內容居中方法。",
+      "title": "用CSS進行垂直和水平居中調整"
+    }
+  ]
 }
