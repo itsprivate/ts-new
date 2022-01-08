@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-07T08:01:00Z"
+  "original_createdAt": "2022-01-07T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pomotimerはポモドーロテクニックタイマーです ⏲️ このサイトの目的は、勉強や仕事、コーディングなどに集中し、生産性を高めることです 🚀。",
+      "tagline": "オンライン・ポモドーロ・テクニック・タイマー"
+    },
+    {
+      "locale": "zh",
+      "description": "Pomotimer是一个pomodoro技术的计时器⏲️本网站的目的是帮助你专注于学习、工作、编码等，提高你的工作效率🚀。",
+      "tagline": "在线番茄炒蛋技术计时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pomotimer是一個pomodoro技術的計時器⏲️本網站的目的是幫助你專注於學習、工作、編碼等，提高你的工作效率🚀。",
+      "tagline": "在線番茄炒蛋技術計時器"
+    }
+  ]
 }
