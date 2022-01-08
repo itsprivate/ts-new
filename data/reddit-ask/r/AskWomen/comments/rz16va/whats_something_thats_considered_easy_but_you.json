@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "簡単だと思われていることで、難しいと思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么事情被认为很容易，但你觉得很难做到？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼事情被認爲很容易，但你覺得很難做到？"
+    }
+  ]
 }

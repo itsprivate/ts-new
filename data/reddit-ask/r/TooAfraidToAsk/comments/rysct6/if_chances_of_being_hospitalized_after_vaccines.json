@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワクチン接種後に入院する可能性がほぼ0であり、ワクチン未接種の人が未接種を選択した場合、何のためにロックダウンを行うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果接种疫苗后住院的几率几乎为0，而未接种疫苗的人选择不接种疫苗，那么封锁的目的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果接種疫苗後住院的幾率幾乎爲0，而未接種疫苗的人選擇不接種疫苗，那麼封鎖的目的是什麼？"
+    }
+  ]
 }
