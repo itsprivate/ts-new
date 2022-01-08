@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本政府、自宅隔離者に介護用品を無償提供！？写真は東京の1名分です。"
+    },
+    {
+      "locale": "zh",
+      "title": "日本政府向在家隔离的个人发送免费的护理包裹! 显示的是东京的1个人（我）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本政府向在家隔離的個人發送免費的護理包裹! 顯示的是東京的1個人（我）。"
+    }
+  ]
 }
