@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-08T08:01:00Z"
+  "original_createdAt": "2022-01-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iPhone/iPadをMacにワイヤレスでミラーリング。iPhone/iPadとMacをケーブルで接続する必要がありません。オンラインミーティングやゲーム、お絵かきなど、iPhone/iPadにあるものをライブで見せることができます。PhoneCast 2.0は、新しいレンダリングエンジンを搭載し、ケーブルでのキャストと同等の性能を実現しました。",
+      "tagline": "ワイヤーを取り除いてください"
+    },
+    {
+      "locale": "zh",
+      "description": "以无线方式将iPhone/iPad镜像到你的Mac。不需要用电缆连接iPhone/iPad和Mac。在在线会议上演示你的iPhone/iPad上的内容，玩游戏，现场绘画。PhoneCast 2.0有一个新的渲染引擎，使它和用电缆投射一样好。",
+      "tagline": "请把电线拿掉"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "以無線方式將iPhone/iPad鏡像到你的Mac。不需要用電纜連接iPhone/iPad和Mac。在在線會議上演示你的iPhone/iPad上的內容，玩遊戲，現場繪畫。PhoneCast 2.0有一個新的渲染引擎，使它和用電纜投射一樣好。",
+      "tagline": "請把電線拿掉"
+    }
+  ]
 }
