@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T12:21:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jAfBnHvw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69eb7p78qmcm2u2wkt65.jpg",
   "author": "Marcio Frayze",
-  "author_url": "https://dev.to/marciofrayze"
+  "author_url": "https://dev.to/marciofrayze",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "言語やフレームワーク、ライブラリなど、比較的容易に実現できるように工夫されたものがあります。",
+      "title": "シンプルなコードと単純化されたコードは違う。ElmとJavaScriptの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "有一些语言、框架和库，努力使你能够完成相对...",
+      "title": "简单的代码与简单的代码是不同的。榆树与JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一些語言、框架和庫，努力使你能夠完成相對...",
+      "title": "簡單的代碼與簡單的代碼是不同的。榆樹與JavaScript"
+    }
+  ]
 }
