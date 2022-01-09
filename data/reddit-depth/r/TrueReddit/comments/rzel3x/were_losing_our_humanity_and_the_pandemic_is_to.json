@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは人間らしさを失いつつあり、その原因はパンデミックにある"
+    },
+    {
+      "locale": "zh",
+      "title": "我们正在失去人性，而大流行病是罪魁祸首"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們正在失去人性，而大流行病是罪魁禍首"
+    }
+  ]
 }
