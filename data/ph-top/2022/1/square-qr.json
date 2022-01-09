@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-09T08:01:00Z"
+  "original_createdAt": "2022-01-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Square QRは、追跡可能な美しいダイナミックQRコードを生成するオンラインツールです。",
+      "tagline": "ダイナミックQRコードの生成、管理、追跡を容易にします。"
+    },
+    {
+      "locale": "zh",
+      "description": "Square QR是一个在线工具，可以生成漂亮的动态二维码，你可以跟踪。",
+      "tagline": "轻松地生成、管理和跟踪动态QR码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Square QR是一個在線工具，可以生成漂亮的動態二維碼，你可以跟蹤。",
+      "tagline": "輕鬆地生成、管理和跟蹤動態QR碼"
+    }
+  ]
 }
