@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真は、アメリカ内戦の末期にアンダーソンビル収容所から解放され、かろうじて生きているユニオン軍の兵士です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这张照片是在美国内战结束时从安德森维尔战俘营解放出来的一名联邦士兵，他勉强活着。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張照片是在美國內戰結束時從安德森維爾戰俘營解放出來的一名聯邦士兵，他勉強活着。"
+    }
+  ]
 }
