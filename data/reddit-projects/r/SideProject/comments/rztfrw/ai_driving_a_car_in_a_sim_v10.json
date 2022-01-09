@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シムで車を運転するAI、v1.0"
+    },
+    {
+      "locale": "zh",
+      "title": "AI在模拟中驾驶汽车, v1.0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "AI在模擬中駕駛汽車, v1.0"
+    }
+  ]
 }
