@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-06T14:41:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wquITh5u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zjf24pphlw58p7r69lx1.png",
   "author": "Eugene Kopich",
-  "author_url": "https://dev.to/web2033"
+  "author_url": "https://dev.to/web2033",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "KoaとExpressの大きな違いは、ミドルウェアの扱い方です",
+      "title": "コーア vs エクスプレス"
+    },
+    {
+      "locale": "zh",
+      "description": "Koa和Express的关键区别在于它们如何处理中间件",
+      "title": "科亚与快递"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Koa和Express的關鍵區別在於它們如何處理中間件",
+      "title": "科亞與快遞"
+    }
+  ]
 }
