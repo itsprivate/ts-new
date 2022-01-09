@@ -1,0 +1,47 @@
+{
+  "author": "toyume",
+  "original_created_utc": 1641699296,
+  "title": "Are r/CC users overly enthusiastic in posting comments, but overly stingy when giving upvotes? I scraped data for Top 100 posts and compared them to similar subreddits to check",
+  "created_utc": 1641724917,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;An unexpected trend I noticed recently is that posts with low upvote counts routinely make it to the frontpage.  &lt;/p&gt;\n\n&lt;p&gt;This is common in smaller communities, but there are 4 million+ subscribers here. You’d expect posts on the frontpage would have a couple thousand upvotes instead of a few hundred each.&lt;/p&gt;\n\n&lt;p&gt;I dug into the numbers to check if it’s true.&lt;/p&gt;\n\n&lt;h1&gt;I exported our top 100 posts and compared the upvotes-to-comments ratio to subreddits that share our hobby of yolo-ing life savings because a stranger told us to&lt;/h1&gt;\n\n&lt;p&gt;That&amp;#39;s Wallstreetbets and SuperStonk.&lt;/p&gt;\n\n&lt;p&gt;I scraped &lt;a href=\"https://imgur.com/bt09arh\"&gt;data from 300 posts in the last 30 days&lt;/a&gt; into a javascript object notation (JSON) file. Then I converted it into CSV format to find the headers that contained the info I needed: post title, upvote count, comment count, post type, flair, and a few others.&lt;/p&gt;\n\n&lt;p&gt;After that, it was just a matter of &lt;a href=\"https://imgur.com/ooakgfR\"&gt;cleaning it up in Excel&lt;/a&gt; and making some pivot tables to combine data from all 3 subreddits.&lt;/p&gt;\n\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n\n&lt;h1&gt;Result 1: Users of Cryptocurrency give massively less upvotes than Wallstreetbets and SuperStonk&lt;/h1&gt;\n\n&lt;p&gt;And it’s not even close. Here’s a summary of all 300 posts I scraped:&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"left\"&gt;&lt;/th&gt;\n&lt;th align=\"left\"&gt;Subscribers&lt;/th&gt;\n&lt;th align=\"left\"&gt;Total Upvotes&lt;/th&gt;\n&lt;th align=\"left\"&gt;Total Comments&lt;/th&gt;\n&lt;th align=\"left\"&gt;Upvote-to-Comment Ratio&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Cryptocurrency&lt;/td&gt;\n&lt;td align=\"left\"&gt;4,286,758&lt;/td&gt;\n&lt;td align=\"left\"&gt;455,146&lt;/td&gt;\n&lt;td align=\"left\"&gt;135,170&lt;/td&gt;\n&lt;td align=\"left\"&gt;3.37&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Wallstreetbets&lt;/td&gt;\n&lt;td align=\"left\"&gt;11,449,899&lt;/td&gt;\n&lt;td align=\"left\"&gt;2,170,981&lt;/td&gt;\n&lt;td align=\"left\"&gt;90,523&lt;/td&gt;\n&lt;td align=\"left\"&gt;23.98&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;SuperStonk&lt;/td&gt;\n&lt;td align=\"left\"&gt;720,403&lt;/td&gt;\n&lt;td align=\"left\"&gt;1,734,892&lt;/td&gt;\n&lt;td align=\"left\"&gt;69,300&lt;/td&gt;\n&lt;td align=\"left\"&gt;25.03&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;&lt;sup&gt;Table&lt;/sup&gt; &lt;sup&gt;formatting&lt;/sup&gt; &lt;sup&gt;brought&lt;/sup&gt; &lt;sup&gt;to&lt;/sup&gt; &lt;sup&gt;you&lt;/sup&gt; &lt;sup&gt;by&lt;/sup&gt; &lt;sup&gt;&lt;a href=\"https://xl2reddit.github.io/\"&gt;ExcelToReddit&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;\n\n&lt;p&gt;You are &lt;strong&gt;612% more likely to get an upvote in Wallstreetbets&lt;/strong&gt; or Superstonk than on Cryptocurrency.&lt;/p&gt;\n\n&lt;p&gt;Other revealing stats are:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;We have 62% less subscribers than Wallstreetbets, but Cryptocurrency has 49% more comments&lt;/li&gt;\n&lt;li&gt;Superstonk has 83% less subscribers, but they give 281% more upvotes than Cryptocurrency&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;A high upvote-to-comment ratio means that there are more upvotes than comments. A &lt;strong&gt;low ratio means users comment more&lt;/strong&gt; than upvote.&lt;/p&gt;\n\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n\n&lt;h1&gt;Result 2: If you look at SELFPOSTS ONLY, Cryptocurrency also gives way less upvotes than anywhere else&lt;/h1&gt;\n\n&lt;p&gt;Memes are allowed in both Wallstreetbets and SuperStonk which tend to be more upvote-heavy than comments.&lt;/p&gt;\n\n&lt;p&gt;If you exclude those, this is what you get:&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"left\"&gt;&lt;/th&gt;\n&lt;th align=\"left\"&gt;Total Upvotes&lt;/th&gt;\n&lt;th align=\"left\"&gt;Total Comments&lt;/th&gt;\n&lt;th align=\"left\"&gt;Upvote-to-Comment Ratio&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Cryptocurrency&lt;/td&gt;\n&lt;td align=\"left\"&gt;325,455&lt;/td&gt;\n&lt;td align=\"left\"&gt;115,203&lt;/td&gt;\n&lt;td align=\"left\"&gt;2.83&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Wallstreetbets&lt;/td&gt;\n&lt;td align=\"left\"&gt;102,821&lt;/td&gt;\n&lt;td align=\"left\"&gt;12,588&lt;/td&gt;\n&lt;td align=\"left\"&gt;8.17&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;SuperStonk&lt;/td&gt;\n&lt;td align=\"left\"&gt;392,629&lt;/td&gt;\n&lt;td align=\"left\"&gt;19,136&lt;/td&gt;\n&lt;td align=\"left\"&gt;20.52&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;Your selfpost is still 189% more likely to get an upvote in Wallstreetbets, and 625% more likely in SuperStonk.&lt;/p&gt;\n\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n\n&lt;h1&gt;Result 3: We also give out less post appreciation awards than other subreddits&lt;/h1&gt;\n\n&lt;p&gt;Superstonk is way ahead at an insane 221 awards per post, then WSB is next with 65.&lt;/p&gt;\n\n&lt;p&gt;Cryptocurrency is last with an average of 51 awards.&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"left\"&gt;&lt;/th&gt;\n&lt;th align=\"left\"&gt;# of Posts&lt;/th&gt;\n&lt;th align=\"left\"&gt;Total Awards Given&lt;/th&gt;\n&lt;th align=\"left\"&gt;Avg Awards per Post&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Cryptocurrency&lt;/td&gt;\n&lt;td align=\"left\"&gt;100&lt;/td&gt;\n&lt;td align=\"left\"&gt;5,083&lt;/td&gt;\n&lt;td align=\"left\"&gt;51&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Wallstreetbets&lt;/td&gt;\n&lt;td align=\"left\"&gt;100&lt;/td&gt;\n&lt;td align=\"left\"&gt;6,459&lt;/td&gt;\n&lt;td align=\"left\"&gt;65&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;SuperStonk&lt;/td&gt;\n&lt;td align=\"left\"&gt;100&lt;/td&gt;\n&lt;td align=\"left\"&gt;22,066&lt;/td&gt;\n&lt;td align=\"left\"&gt;221&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;This counts all awards: reddit gold, silver, helpful, facepalm, wholesome etc.&lt;/p&gt;\n\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n\n&lt;h1&gt;Conclusion/TLDR&lt;/h1&gt;\n\n&lt;p&gt;Cryptocurrency is the Scrooge McDuck of upvotes. We like leaving comments a lot, but we don’t upvote the post we’re commenting on as often.&lt;/p&gt;\n\n&lt;p&gt;Why though?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 344,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/YTZZ_ukMYMcm3YIH_LH0kdZ-HXbCzNH3mKX6h4fKPkk.jpg?auto=webp&amp;s=dbf6119b58601d70c527a1b27582606996c84d4a",
+          "width": 600,
+          "height": 315
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/YTZZ_ukMYMcm3YIH_LH0kdZ-HXbCzNH3mKX6h4fKPkk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=289922ec6f7ef2e57e8926923944b3f09a2047b0",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/YTZZ_ukMYMcm3YIH_LH0kdZ-HXbCzNH3mKX6h4fKPkk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=85f1a24f4d94a8ffcc61578e189de7a622e5d02d",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/YTZZ_ukMYMcm3YIH_LH0kdZ-HXbCzNH3mKX6h4fKPkk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7951e44b31691162e0b729619129908925192e8",
+            "width": 320,
+            "height": 168
+          }
+        ],
+        "variants": {},
+        "id": "JKoXIsnUM22WgGLC1kIOgdQf8AKo3phD02bJGt4bz0A"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/rzicfg/are_rcc_users_overly_enthusiastic_in_posting/",
+  "subreddit": "CryptoCurrency",
+  "id": "rzicfg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "An unexpected trend I noticed recently is that posts with low upvote counts\nroutinely make it to the frontpage.\n\nThis is common in smaller communities, but there are 4 million+ subscribers\nhere. You’d expect posts on the frontpage would have a couple thousand upvotes\ninstead of a few hundred…"
+}
