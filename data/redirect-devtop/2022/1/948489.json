@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-08T04:18:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uWeShu47--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rppjz8gnzr6lxej92q11.png",
   "author": "Deepak",
-  "author_url": "https://dev.to/deepakjaiswal"
+  "author_url": "https://dev.to/deepakjaiswal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビデオ通話Webアプリケーションや音声通話アプリケーションなど、Web RTC通信の話をします。",
+      "title": "React JSでSimple Peerを使ってビデオ通話アプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "我们谈论的是网络RTC通信，如视频呼叫网络应用，音频呼叫应用...",
+      "title": "在React JS中使用Simple Peer的视频通话应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們談論的是網絡RTC通信，如視頻呼叫網絡應用，音頻呼叫應用...",
+      "title": "在React JS中使用Simple Peer的視頻通話應用程序"
+    }
+  ]
 }
