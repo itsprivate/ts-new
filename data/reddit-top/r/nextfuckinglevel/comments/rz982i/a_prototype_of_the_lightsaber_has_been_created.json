@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライトセーバーのプロトタイプが完成しました! 温度は2,000度にもなる。"
+    },
+    {
+      "locale": "zh",
+      "title": "光剑的原型已经被创造出来了! 它的温度达到2,000度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "光劍的原型已經被創造出來了! 它的溫度達到2,000度。"
+    }
+  ]
 }
