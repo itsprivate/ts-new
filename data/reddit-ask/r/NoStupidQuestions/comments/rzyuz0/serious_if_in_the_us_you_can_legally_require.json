@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title, asking from a legal standpoint."
+  "the_new_excerpt": "Title, asking from a legal standpoint.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル、法的な観点からの質問です。",
+      "title": "真面目な話、アメリカでは望まない妊娠をさせることを合法的に要求できるのに、なぜアメリカでは望まない注射をすることを合法的に要求できないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题，从法律的角度问。",
+      "title": "严肃地说：如果在美国可以合法地要求妇女怀上不想要的孩子，为什么美国不能合法地要求人们打不想要的针？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題，從法律的角度問。",
+      "title": "嚴肅地說：如果在美國可以合法地要求婦女懷上不想要的孩子，爲什麼美國不能合法地要求人們打不想要的針？"
+    }
+  ]
 }
