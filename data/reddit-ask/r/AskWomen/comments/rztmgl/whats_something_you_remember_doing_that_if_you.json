@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "若い世代の人に言っても信じてもらえないようなことで、記憶に残っていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的记忆中，如果你告诉年轻一代的人，他们不会相信你所做的什么事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的記憶中，如果你告訴年輕一代的人，他們不會相信你所做的什麼事情？"
+    }
+  ]
 }
