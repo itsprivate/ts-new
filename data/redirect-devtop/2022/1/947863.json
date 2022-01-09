@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T12:05:07Z",
   "image": "https://dev.to/social_previews/article/947863.png",
   "author": "Padmashree Jha",
-  "author_url": "https://dev.to/codewithpom"
+  "author_url": "https://dev.to/codewithpom",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "提出した作品の概要 私は、書籍のオンラインEコマースストアということで、何も持っていませんでした。",
+      "title": "DEVブックストア"
+    },
+    {
+      "locale": "zh",
+      "description": "我提交的概述 因此，它是一个在线电子商务书店，因为我没有任何...",
+      "title": "DEV 书店"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我提交的概述 因此，它是一個在線電子商務書店，因爲我沒有任何...",
+      "title": "DEV 書店"
+    }
+  ]
 }
