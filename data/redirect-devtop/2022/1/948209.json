@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T18:59:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2D--4zhv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3kwowvy1lmpq919l8h8s.png",
   "author": "Debbie O'Brien",
-  "author_url": "https://dev.to/debs_obrien"
+  "author_url": "https://dev.to/debs_obrien",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "共有可能なコンポーネントを構築する場合、テストは本当に重要です。もし、誰かがあなたのコンポーネントを信頼できなければ...。",
+      "title": "ボタンコンポーネントのテスト"
+    },
+    {
+      "locale": "zh",
+      "description": "在构建可共享的组件时，测试真的很重要。如果有人不能信任你的组件...",
+      "title": "测试一个按钮组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在構建可共享的組件時，測試真的很重要。如果有人不能信任你的組件...",
+      "title": "測試一個按鈕組件"
+    }
+  ]
 }
