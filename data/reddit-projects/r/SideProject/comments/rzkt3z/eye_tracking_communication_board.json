@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Look all the way to the right or left to select icons, make sure you look ALL\nTHE WAY (even off screen).\n\nhttps://communicationboard.io/"
+  "the_new_excerpt": "Look all the way to the right or left to select icons, make sure you look ALL\nTHE WAY (even off screen).\n\nhttps://communicationboard.io/",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アイコンを選ぶときは、右や左をずっと見てください。\n画面外でも）ずっと。\n\nhttps://communicationboard.io/",
+      "title": "アイトラッキングコミュニケーションボード"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "向右或向左看，以选择图标，确保你一路看下去。\n途径（甚至是屏幕外）。\n\nhttps://communicationboard.io/",
+      "title": "眼球追踪通讯板"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "向右或向左看，以選擇圖標，確保你一路看下去。\n途徑（甚至是屏幕外）。\n\nhttps://communicationboard.io/",
+      "title": "眼球追蹤通訊板"
+    }
+  ]
 }
