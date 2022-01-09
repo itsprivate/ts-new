@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "An unexpected trend I noticed recently is that posts with low upvote counts\nroutinely make it to the frontpage.\n\nThis is common in smaller communities, but there are 4 million+ subscribers\nhere. You’d expect posts on the frontpage would have a couple thousand upvotes\ninstead of a few hundred…"
+  "the_new_excerpt": "An unexpected trend I noticed recently is that posts with low upvote counts\nroutinely make it to the frontpage.\n\nThis is common in smaller communities, but there are 4 million+ subscribers\nhere. You’d expect posts on the frontpage would have a couple thousand upvotes\ninstead of a few hundred…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最近気づいた意外な傾向は、アップヴォート数の少ない投稿が\nがトップページに表示されることがよくあります。\n\nこれは小さなコミュニティではよくあることですが、400万人以上の購読者がいるわけですから\nこちらです。トップページに載るような記事は、数千のアップヴォートを得ていると思われるでしょうが\n数百人ではなく、数十万人。",
+      "title": "r/CCのユーザーは、コメントを投稿するときは熱心だが、アップヴォートを与えるときはケチなのでしょうか？私はトップ100の投稿のデータをかき集め、類似のサブレディットと比較し、次のことを確認しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我最近注意到一个出乎意料的趋势是，支持率低的帖子\n的帖子经常出现在首页。\n\n这在小型社区很常见，但这里有400多万订阅者\n这里。你会想到在首页的帖子会有几千的支持率\n而不是几百个...",
+      "title": "r/CC的用户是否在发表评论时过于热情，但在给予加分时却过于吝啬？我收集了前100个帖子的数据，并将它们与类似的子版块进行比较，以检查"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我最近注意到一個出乎意料的趨勢是，支持率低的帖子\n的帖子經常出現在首頁。\n\n這在小型社區很常見，但這裏有400多萬訂閱者\n這裏。你會想到在首頁的帖子會有幾千的支持率\n而不是幾百個...",
+      "title": "r/CC的用戶是否在發表評論時過於熱情，但在給予加分時卻過於吝嗇？我收集了前100個帖子的數據，並將它們與類似的子版塊進行比較，以檢查"
+    }
+  ]
 }
