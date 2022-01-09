@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi everyone, this is my side project in Python:\nhttps://github.com/edogab33/telegram-groups-crawler\n\n\n\nIt automatically searches group or channel links in your chats, join in them and\ncollects any type of data. As far as I know there is nothing working out there\nso it might be useful for your side…"
+  "the_new_excerpt": "Hi everyone, this is my side project in Python:\nhttps://github.com/edogab33/telegram-groups-crawler\n\n\n\nIt automatically searches group or channel links in your chats, join in them and\ncollects any type of data. As far as I know there is nothing working out there\nso it might be useful for your side…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、これは私のPythonでのサイドプロジェクトです。\nhttps://github.com/edogab33/telegram-groups-crawler\n\n\n\nチャット内のグループやチャンネルのリンクを自動的に検索し、そこに参加し\nあらゆるタイプのデータを収集します。私の知る限りでは、このようなものはありません。\nということで、皆様のお役に立てるかもしれません。",
+      "title": "テレグラムグループのクローラー"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好，这是我用Python做的副业。\nhttps://github.com/edogab33/telegram-groups-crawler\n\n\n\n它可以自动搜索你的聊天记录中的群组或频道链接，加入其中并\n收集任何类型的数据。据我所知，目前还没有任何工作可以做。\n所以它可能对你有用...",
+      "title": "一个Telegram群组爬行器"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好，這是我用Python做的副業。\nhttps://github.com/edogab33/telegram-groups-crawler\n\n\n\n它可以自動搜索你的聊天記錄中的羣組或頻道鏈接，加入其中並\n收集任何類型的數據。據我所知，目前還沒有任何工作可以做。\n所以它可能對你有用...",
+      "title": "一個Telegram羣組爬行器"
+    }
+  ]
 }
