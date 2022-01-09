@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-08T07:11:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VGXZka5G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g43vvcgs07u6d145gaql.png",
   "author": "Manas Mishra",
-  "author_url": "https://dev.to/manas_dev"
+  "author_url": "https://dev.to/manas_dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがフロントエンドの開発者で、画像アップロード、動画アップロード、音声アップロードに携わったことがあるのなら...。",
+      "title": "バックエンドへのデータ送信のより良い方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一名前端开发员，曾经从事过图片上传、视频上传或音频上传的工作。",
+      "title": "向后端发送数据的更好方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一名前端開發員，曾經從事過圖片上傳、視頻上傳或音頻上傳的工作。",
+      "title": "向後端發送數據的更好方法"
+    }
+  ]
 }
