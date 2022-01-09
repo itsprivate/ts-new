@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Wouldn't it be better to have the toilet in a seperate room, so that one person\ncan shower and the other can use the toilet at the same time?"
+  "the_new_excerpt": "Wouldn't it be better to have the toilet in a seperate room, so that one person\ncan shower and the other can use the toilet at the same time?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "トイレを別室にすることで、一人分のトイレを確保できるのでは？\nシャワーを浴びながら、同時にトイレを使うことができるのですか？",
+      "title": "アメリカの家では、なぜトイレとシャワーが同じ部屋にあるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "把厕所放在一个单独的房间里不是更好吗？\n一个人可以洗澡，另一个人可以同时使用厕所？",
+      "title": "在美国的房子里，为什么厕所和淋浴间在同一个房间？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "把廁所放在一個單獨的房間裏不是更好嗎？\n一個人可以洗澡，另一個人可以同時使用廁所？",
+      "title": "在美國的房子裏，爲什麼廁所和淋浴間在同一個房間？"
+    }
+  ]
 }
