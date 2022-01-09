@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Jamstack/SSGブログへの罪悪感のないコメントサービスを開始しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我已经为Jamstack/SSG博客推出了无愧于心的评论服务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我已經爲Jamstack/SSG博客推出了無愧於心的評論服務。"
+    }
+  ]
 }
