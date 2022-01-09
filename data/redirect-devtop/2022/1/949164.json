@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T02:19:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cFh67Wl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ox9nndgwa9ivsb7udu0.png",
   "author": "Alex Eagleson",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルのすべてのコードを完全なパッケージとして、このリポジトリで公開しています。   もしあなたが...",
+      "title": "ReactアプリとNotionデータベースを連携させる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程的所有代码作为一个完整的包，都可以在这个资源库中找到。   如果你发现...",
+      "title": "如何将React应用程序连接到Notion数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程的所有代碼作爲一個完整的包，都可以在這個資源庫中找到。   如果你發現...",
+      "title": "如何將React應用程序連接到Notion數據庫"
+    }
+  ]
 }
