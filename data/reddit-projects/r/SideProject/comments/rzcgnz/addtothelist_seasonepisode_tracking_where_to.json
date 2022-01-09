@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AddToTheList - シーズン/エピソードのトラッキング、任意の映画やショーを見る場所、検索パーティ、その他。"
+    },
+    {
+      "locale": "zh",
+      "title": "AddToTheList - 季节/剧集追踪，在哪里观看任何电影或节目，搜索方，以及更多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "AddToTheList - 季節/劇集追蹤，在哪裏觀看任何電影或節目，搜索方，以及更多"
+    }
+  ]
 }
