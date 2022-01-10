@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T08:03:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SOSVRUe5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4hm1h0yh3348psw9gxt.jpg",
   "author": "Rajesh Joshi",
-  "author_url": "https://dev.to/rajeshj3"
+  "author_url": "https://dev.to/rajeshj3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どんなWebアプリケーションでも、ダークとライトのテーマがあれば、より魅力的なものになります。テーマ対応のウェブアプリを構築するには、...",
+      "title": "ReactでMUI v5とReduxでテーマ🌑をトグルする 🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "任何Web-App中的深色和浅色主题都能使其更有吸引力。要建立一个具有主题功能的网络应用程序，必须要有足够的资源。",
+      "title": "🌞 用MUI v5和Redux在React中切换主题🌑 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何Web-App中的深色和淺色主題都能使其更有吸引力。要建立一個具有主題功能的網絡應用程序，必須要有足夠的資源。",
+      "title": "🌞 用MUI v5和Redux在React中切換主題🌑 🚀"
+    }
+  ]
 }
