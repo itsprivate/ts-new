@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T15:10:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JoKnhJas--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yvs3yjcurnzhv4y00fn5.jpeg",
   "author": "atordvairn",
-  "author_url": "https://dev.to/atordvairn"
+  "author_url": "https://dev.to/atordvairn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイトを作れば、Androidアプリも作れる！？Android.jsは、node.jsで作成されたAndroidアプリを簡単に作成することができます。",
+      "title": "Android.js - nodejsからアンドロイドアプリをビルドする。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你能建立一个网站，你就能建立一个安卓应用! Android.js简单地把你的node.js...",
+      "title": "Android.js - 从nodejs构建安卓应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你能建立一個網站，你就能建立一個安卓應用! Android.js簡單地把你的node.js...",
+      "title": "Android.js - 從nodejs構建安卓應用"
+    }
+  ]
 }
