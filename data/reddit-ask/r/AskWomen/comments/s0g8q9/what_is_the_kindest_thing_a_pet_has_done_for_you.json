@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ペットがあなたにしてくれた親切なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "宠物为你做过的最善良的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "寵物爲你做過的最善良的事情是什麼？"
+    }
+  ]
 }
