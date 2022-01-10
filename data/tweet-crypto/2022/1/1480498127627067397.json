@@ -52,5 +52,22 @@
     },
     "retweet_count": 3279,
     "favorite_count": 17193
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ProfFeynman: 間違った方向に進む群衆と一緒に歩くより、一人で歩く方がずっといい。",
+      "retweeted_status_full_text": "間違った方向に進む群衆と一緒に歩くより、一人で歩いた方がずっといいのです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ProfFeynman: 独自行走比和一群人一起走在错误的方向要好得多。",
+      "retweeted_status_full_text": "独自行走比与人群一起走错方向要好得多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ProfFeynman: 獨自行走比和一羣人一起走在錯誤的方向要好得多。",
+      "retweeted_status_full_text": "獨自行走比與人羣一起走錯方向要好得多。"
+    }
+  ]
 }
