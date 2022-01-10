@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "顧客からのフィードバックを収集するために、どれくらいの投資をしていますか？私はNolly.ioという顧客からのフィードバックを処理するためのプラットフォームを作りましたので、フィードバックを共有してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你投资多少来收集客户的反馈，我建立了一个平台来为你处理这个问题，叫做Nolly.io，请分享你的反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你投資多少來收集客戶的反饋，我建立了一個平臺來爲你處理這個問題，叫做Nolly.io，請分享你的反饋。"
+    }
+  ]
 }
