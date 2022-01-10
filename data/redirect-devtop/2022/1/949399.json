@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T09:44:16Z",
   "image": "https://dev.to/social_previews/article/949399.png",
   "author": "anomaly3108",
-  "author_url": "https://dev.to/anomaly3108"
+  "author_url": "https://dev.to/anomaly3108",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、きれいなUIでマウスポインターに追従するSVGアイを作る...",
+      "title": "CSSとJSでSVGをカーソルに追従させる"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将制作一个SVG眼睛，它将跟随鼠标指针，有一个干净的用户界面。",
+      "title": "使用CSS和JS使SVG跟随光标移动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將製作一個SVG眼睛，它將跟隨鼠標指針，有一個乾淨的用戶界面。",
+      "title": "使用CSS和JS使SVG跟隨光標移動"
+    }
+  ]
 }
