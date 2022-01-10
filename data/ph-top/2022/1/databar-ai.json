@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-10T08:14:54Z"
+  "original_createdAt": "2022-01-10T08:14:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Databar.aiは、ノーコードのAPIマーケットプレイスです。3クリックであらゆるデータAPIに接続できます。🚀 専門知識は不要 🏁 迅速かつ簡単：ランディングからデータセットまで30秒以内 ✅ 自動認証、ヘッダー、ページ分割を行う。",
+      "tagline": "ノーコードAPIマーケットプレイス"
+    },
+    {
+      "locale": "zh",
+      "description": "Databar.ai是一个没有代码的API市场。只需3次点击就能连接到任何数据API! 🚀 不需要技术专长 🏁 快速和简单：在30秒内从登陆到数据集 ✅ 自动授权、标题和分页",
+      "tagline": "无代码的API市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Databar.ai是一個沒有代碼的API市場。只需3次點擊就能連接到任何數據API! 🚀 不需要技術專長 🏁 快速和簡單：在30秒內從登陸到數據集 ✅ 自動授權、標題和分頁",
+      "tagline": "無代碼的API市場"
+    }
+  ]
 }

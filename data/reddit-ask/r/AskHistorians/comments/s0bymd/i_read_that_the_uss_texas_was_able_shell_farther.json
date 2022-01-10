@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "(title)"
+  "the_new_excerpt": "(title)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "(タイトル)",
+      "title": "D-DayでUSS Texasが内陸まで砲撃できたのは、艦長が片側のバラストを水浸しにしたからだと読んだことがあります。これは新しい戦術だったのでしょうか、それとも誰もが知っていたけれども使う必要がなかった古いトリックだったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "(标题)",
+      "title": "我读到，德克萨斯号在D日能够向内陆更远的地方进行炮击，因为舰长将压舱物淹没在船的一侧。这是一个全新的战术，还是一个大家都知道但从未需要使用的老把戏？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "(標題)",
+      "title": "我讀到，德克薩斯號在D日能夠向內陸更遠的地方進行炮擊，因爲艦長將壓艙物淹沒在船的一側。這是一個全新的戰術，還是一個大家都知道但從未需要使用的老把戲？"
+    }
+  ]
 }
