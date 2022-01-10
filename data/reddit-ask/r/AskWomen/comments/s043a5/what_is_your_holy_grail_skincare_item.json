@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Mine is: Laneige lip mask."
+  "the_new_excerpt": "Mine is: Laneige lip mask.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私のは ラネージュのリップマスクです。",
+      "title": "あなたの聖なるスキンケアアイテムは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的是。Laneige唇膜。",
+      "title": "你的圣杯护肤品是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的是。Laneige脣膜。",
+      "title": "你的聖盃護膚品是什麼？"
+    }
+  ]
 }
