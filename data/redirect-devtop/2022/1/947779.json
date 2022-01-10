@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T11:40:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gPOwEeYE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80co2fxjaedcp7n2teoc.png",
   "author": "Damian Piwowarczyk",
-  "author_url": "https://dev.to/przpiw"
+  "author_url": "https://dev.to/przpiw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ポータブル・ドキュメント・フォーマット（PDF） - 30年前に開発されたこのフォーマットは、現在もなお存在し、最も重要なフォーマットの一つとなっている...",
+      "title": "ReactとPDFレンダリング"
+    },
+    {
+      "locale": "zh",
+      "description": "便携式文件格式（PDF）--30年前开发的，现在仍然存在，是最重要的文件格式之一。",
+      "title": "React & PDF 渲染"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "便攜式文件格式（PDF）--30年前開發的，現在仍然存在，是最重要的文件格式之一。",
+      "title": "React & PDF 渲染"
+    }
+  ]
 }
