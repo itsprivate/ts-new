@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T08:31:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mRXi31j8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4z20xowww01ftxhoo3hf.jpg",
   "author": "webdeasy.de",
-  "author_url": "https://dev.to/webdeasy"
+  "author_url": "https://dev.to/webdeasy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WYSIWYGエディターで、足りない機能や不要な機能にイライラしていませんか？大丈夫です。ここで私はあなたに...",
+      "title": "独自のWYSIWYGエディタを構築（HTML、CSS、ピュアJavaScript）\n"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否为所见即所得的编辑器中缺少或不必要的功能而烦恼？没问题! 在这里，我告诉你...",
+      "title": "建立你自己的所见即所得编辑器（HTML、CSS和纯JavaScript）。\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否爲所見即所得的編輯器中缺少或不必要的功能而煩惱？沒問題! 在這裏，我告訴你...",
+      "title": "建立你自己的所見即所得編輯器（HTML、CSS和純JavaScript）。\n"
+    }
+  ]
 }
