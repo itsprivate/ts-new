@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "同じ情報を必要とする複数のワード文書のテンプレートに自動的に入力 - Spring boot &amp; Angularで構築されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "自动填写需要相同信息的多个word文档模板 - 使用Spring boot &amp; Angular构建"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自動填寫需要相同信息的多個word文檔模板 - 使用Spring boot &amp; Angular構建"
+    }
+  ]
 }
