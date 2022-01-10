@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-10T12:48:34Z"
+  "original_createdAt": "2022-01-10T12:48:34Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "毎日の習慣をgoogleシートに記録する。",
+      "tagline": "2週間で悪癖を追跡・駆逐する"
+    },
+    {
+      "locale": "zh",
+      "description": "谷歌表格中的日常习惯跟踪器。",
+      "tagline": "两周内追踪并消灭恶习"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "谷歌表格中的日常習慣跟蹤器。",
+      "tagline": "兩週內追蹤並消滅惡習"
+    }
+  ]
 }
