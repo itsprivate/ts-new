@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "DeSo is supposedly a decentralised social media platform that has recently\nlaunched its token without even a platform yet.\n\nWhen creating an account, it asks to enter your seed to login.\n\nSign up with…"
+  "the_new_excerpt": "DeSo is supposedly a decentralised social media platform that has recently\nlaunched its token without even a platform yet.\n\nWhen creating an account, it asks to enter your seed to login.\n\nSign up with…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "DeSoは、分散型ソーシャルメディアプラットフォームと言われており、最近\nは、まだプラットフォームすらない状態で、トークンをローンチしました。\n\nアカウント作成時に、ログインするためにシードを入力するように要求されます。\n\nサインアップは...",
+      "title": "警告 DESOは、「分散型ソーシャルネットワーク」と言われていますが、使わないでください。ログイン時にシードの入力を要求され、さらに悪いことに、彼らはあなたのシードを平文でローカルに保存します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "DeSo据说是一个去中心化的社交媒体平台。\n它最近在没有平台的情况下推出了它的代币。\n\n创建账户时，它要求输入你的种子来登录。\n\n注册时要...",
+      "title": "警告。不要使用DESO，据称是一个 \"去中心化的社交网络\"。它要求输入你的种子来登录，更糟糕的是--他们把你的种子以明文形式存储在本地。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "DeSo據說是一個去中心化的社交媒體平臺。\n它最近在沒有平臺的情況下推出了它的代幣。\n\n創建賬戶時，它要求輸入你的種子來登錄。\n\n註冊時要...",
+      "title": "警告。不要使用DESO，據稱是一個 \"去中心化的社交網絡\"。它要求輸入你的種子來登錄，更糟糕的是--他們把你的種子以明文形式存儲在本地。"
+    }
+  ]
 }
