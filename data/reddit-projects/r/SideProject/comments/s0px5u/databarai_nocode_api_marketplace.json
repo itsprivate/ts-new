@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Databar.ai ノーコードAPIマーケットプレイス"
+    },
+    {
+      "locale": "zh",
+      "title": "Databar.ai: 无代码的API市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Databar.ai: 無代碼的API市場"
+    }
+  ]
 }
