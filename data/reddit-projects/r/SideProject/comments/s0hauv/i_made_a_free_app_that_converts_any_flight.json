@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just upload a PDF or scan your paper boarding passes, and the app generates a\ndigital mobile pass file you can add to Wallet and GPay: www.getpassbook.com\n[https://www.getpassbook.com/]"
+  "the_new_excerpt": "Just upload a PDF or scan your paper boarding passes, and the app generates a\ndigital mobile pass file you can add to Wallet and GPay: www.getpassbook.com\n[https://www.getpassbook.com/]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "PDFをアップロードするか、紙の搭乗券をスキャンするだけで、アプリが生成します。\nデジタルモバイルパスファイルをWalletやGPayに追加することができます： www.getpassbook.com\n[https://www.getpassbook.com/]",
+      "title": "飛行機の搭乗券をApple Walletに変換する無料アプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只需上传PDF文件或扫描您的纸质登机牌，该应用程序就会生成一个数字移动通行证文件。\n数字移动通行证文件，你可以将其添加到钱包和GPay中：www.getpassbook.com\n[https://www.getpassbook.com/]",
+      "title": "我做了一个免费的应用程序，可以将任何航班的登机牌转换为苹果钱包的通行证"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只需上傳PDF文件或掃描您的紙質登機牌，該應用程序就會生成一個數字移動通行證文件。\n數字移動通行證文件，你可以將其添加到錢包和GPay中：www.getpassbook.com\n[https://www.getpassbook.com/]",
+      "title": "我做了一個免費的應用程序，可以將任何航班的登機牌轉換爲蘋果錢包的通行證"
+    }
+  ]
 }

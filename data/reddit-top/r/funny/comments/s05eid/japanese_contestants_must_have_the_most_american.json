@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本人出場者は最もアメリカ的な会話をしなければならない"
+    },
+    {
+      "locale": "zh",
+      "title": "日本选手必须有最多的美国式对话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本選手必須有最多的美國式對話"
+    }
+  ]
 }
