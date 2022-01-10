@@ -48,5 +48,22 @@
   "original_created_at": "2022-01-07T21:43:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vuq-somU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tah8m0zqe11xt7zknl5.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MongoDB Atlas Hackathon on DEVの最終週末です。参加するチャンスをお見逃しなく",
+      "title": "MongoDBアトラス・ハッカソンの最終選考会 - 参加ショップの賞金を2倍にしました🎉。  "
+    },
+    {
+      "locale": "zh",
+      "description": "现在是DEV上MongoDB Atlas黑客马拉松的最后一个周末。不要错过你的参与机会!",
+      "title": "MongoDB Atlas黑客马拉松的最后阶段--我们将参与者商店的奖金翻倍 🎉。  "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在是DEV上MongoDB Atlas黑客馬拉松的最後一個週末。不要錯過你的參與機會!",
+      "title": "MongoDB Atlas黑客馬拉松的最後階段--我們將參與者商店的獎金翻倍 🎉。  "
+    }
+  ]
 }
