@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつも見ている番組、あるいは心地よいバックグラウンドノイズを加えるために、いつも見ている番組は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你总是在播放什么节目，观看或只是为了增加舒适的背景噪音？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你總是在播放什麼節目，觀看或只是爲了增加舒適的背景噪音？"
+    }
+  ]
 }
