@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "恐怖と向き合いながら"
+    },
+    {
+      "locale": "zh",
+      "title": "面对他的恐惧..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "面對他的恐懼..."
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-08T23:26:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OeyL4lOH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/frbyis7ujhl2t3y8fj1r.jpeg",
   "author": "Olubisi Idris Ayinde💡",
-  "author_url": "https://dev.to/olanetsoft"
+  "author_url": "https://dev.to/olanetsoft",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、ユーザー認証、エンドポイントの保護、およびCross-Origin Resource...の方法を学習します。",
+      "title": "NodeJSでCORSと認証を実装する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我们将学习如何验证用户、保护端点和跨源资源。",
+      "title": "如何在NodeJS中实现CORS和认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我們將學習如何驗證用戶、保護端點和跨源資源。",
+      "title": "如何在NodeJS中實現CORS和認證"
+    }
+  ]
 }
