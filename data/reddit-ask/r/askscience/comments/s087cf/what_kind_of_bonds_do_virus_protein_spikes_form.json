@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Covalent? Polar covalent? Ionic?"
+  "the_new_excerpt": "Covalent? Polar covalent? Ionic?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コバレント（共有）？極性共有結合？イオン性？",
+      "title": "ウイルスのタンパク質スパイクは、細胞の受容体と結合するために、どのような結合を形成しているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "共价？极性共价？离子性？",
+      "title": "病毒蛋白尖峰形成什么样的键来与细胞受体结合？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "共價？極性共價？離子性？",
+      "title": "病毒蛋白尖峯形成什麼樣的鍵來與細胞受體結合？"
+    }
+  ]
 }
