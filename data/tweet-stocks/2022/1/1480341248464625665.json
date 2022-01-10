@@ -138,5 +138,22 @@
     "retweet_count": 5532,
     "favorite_count": 17129,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BrotherHQ: rest in peace ボブ・サジェト 🙏 https://t.co/cv4JSCN5ZR",
+      "retweeted_status_full_text": "rest rest in peace bob saget 🙏 https://t.co/cv4JSCN5ZR"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BrotherHQ: Rest in peace Bob Saget🙏 https://t.co/cv4JSCN5ZR",
+      "retweeted_status_full_text": "安息吧，Bob Saget🙏https://t.co/cv4JSCN5ZR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BrotherHQ: Rest in peace Bob Saget🙏 https://t.co/cv4JSCN5ZR",
+      "retweeted_status_full_text": "安息吧，Bob Saget🙏https://t.co/cv4JSCN5ZR"
+    }
+  ]
 }
