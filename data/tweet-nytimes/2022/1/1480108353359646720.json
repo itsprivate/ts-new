@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Jan 09 09:25:05 +0000 2022"
+  "original_created_at": "Sun Jan 09 09:25:05 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "科学者によると、ハリネズミの皮膚に付着した菌とバクテリアの微小な戦いは、自然界で抗生物質耐性が発生する可能性を示す証拠になるという。https://t.co/Kzk1cidC0d。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "科学家们说，刺猬皮肤上真菌和细菌之间的微观斗争提供了证据，表明抗生素的抗药性可以在自然界发生。https://t.co/Kzk1cidC0d"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "科學家們說，刺蝟皮膚上真菌和細菌之間的微觀鬥爭提供了證據，表明抗生素的抗藥性可以在自然界發生。https://t.co/Kzk1cidC0d"
+    }
+  ]
 }

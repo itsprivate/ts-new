@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-04T17:42:46Z",
   "image": "https://dev.to/social_previews/article/944531.png",
   "author": "Anurag Gharat",
-  "author_url": "https://dev.to/anuraggharat"
+  "author_url": "https://dev.to/anuraggharat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLのInputタグは、ユーザーから入力を得るための手段です。よく使われる入力の種類は",
+      "title": "あなたが見逃している5つのHTML入力タイプ"
+    },
+    {
+      "locale": "zh",
+      "description": "HTML中的输入标签是获得用户输入的一种方式。常用的输入类型是...",
+      "title": "你缺少的5种HTML输入类型!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HTML中的輸入標籤是獲得用戶輸入的一種方式。常用的輸入類型是...",
+      "title": "你缺少的5種HTML輸入類型!"
+    }
+  ]
 }
