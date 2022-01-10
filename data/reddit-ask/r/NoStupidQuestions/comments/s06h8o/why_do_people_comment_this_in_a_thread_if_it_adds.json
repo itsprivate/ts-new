@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It’s been my biggest pet peeve since I got on here"
+  "the_new_excerpt": "It’s been my biggest pet peeve since I got on here",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここに来てから一番嫌なことです。",
+      "title": "議論に何の価値ももたらさないのに、なぜ人はスレッドに「これ」とコメントするのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "自从我来到这里以来，这一直是我最大的心病。",
+      "title": "如果对讨论没有增加任何价值，人们为什么要在一个主题中评论 \"这个\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "自從我來到這裏以來，這一直是我最大的心病。",
+      "title": "如果對討論沒有增加任何價值，人們爲什麼要在一個主題中評論 \"這個\"？"
+    }
+  ]
 }
