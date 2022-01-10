@@ -1,0 +1,16 @@
+{
+  "author": "wee_d",
+  "original_created_utc": 1641782999,
+  "title": "Double-check all addresses before hitting send. Just saved a friend from a clipboard malware.",
+  "created_utc": 1641804265,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So today, I wanted to introduce a friend to a certain cryptocurrency and asked him to copy-paste his metamask and send it to me via chat. Having this constant paranoia and fear of sending crypto to wrong addresses, I decide to look up the address he sent to me on etherscan, and I find quite a large balance with many transactions. I make a joke to my friend about how rich he was, but he tells me that he has a 0 balance. That was when the alarm bells started going off in my mind. I ask him to take note of the first two and last two characters in his ethereum address, copy it, and then paste it to me. He tells me the address changed when it was pasted from the windows clipboard. To be double sure, I ask him to make up a random set of numbers and letters of length 42, then copy and paste it in our chat.The fake addressthat was pasted changed.  &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;My suspicions were right.&lt;/strong&gt;  &lt;/p&gt;\n\n&lt;p&gt;In short, his computer was infected by the colormania malware that targets the windows clipboard. This malware checks whether a copied text has a particular length that is common to some blockchains and replaces the text or address, in this case, with the attacker&amp;#39;s address. So when you hit paste and click the send button, the address changes and the funds are sent to the attacker instead. We found evidence of the malware at the task manager&amp;#39;s background processes. And lo and behold, we found colormania running in there. I had him download and install Malwarebytes, which found several threats on his system and cleared it. Now, the values of addressed copied onto the clipboard no longer changed when he pasted them. I guess the moral of this is to double check addresses whenever sending cryptocurrency.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Always stay paranoid&lt;/strong&gt;  &lt;/p&gt;\n\n&lt;p&gt;This is one of the attacker&amp;#39;s ethereum address: 0x51e199f1ec3030B4610007C29ab3D272af91Dfd6&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 344,
+  "permalink": "/r/CryptoCurrency/comments/s091pn/doublecheck_all_addresses_before_hitting_send/",
+  "subreddit": "CryptoCurrency",
+  "id": "s091pn",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "So today, I wanted to introduce a friend to a certain cryptocurrency and asked\nhim to copy-paste his metamask and send it to me via chat. Having this constant\nparanoia and fear of sending crypto to wrong addresses, I decide to look up the\naddress he sent to me on etherscan, and I find quite a large…"
+}
