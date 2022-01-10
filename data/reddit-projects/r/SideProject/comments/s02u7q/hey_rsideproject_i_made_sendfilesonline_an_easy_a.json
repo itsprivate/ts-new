@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Hey r/SideProject, I made the Sendfiles.online an easy a secure way to send files online encrypted in your browser."
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，R/SideProject，我做了Sendfiles.online，这是一个简单而安全的方法，可以在你的浏览器中加密地在线发送文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，R/SideProject，我做了Sendfiles.online，這是一個簡單而安全的方法，可以在你的瀏覽器中加密地在線發送文件。"
+    }
+  ]
 }
