@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-10T11:45:50Z",
   "image": "https://dev.to/social_previews/article/950318.png",
   "author": "Artem Verbitski",
-  "author_url": "https://dev.to/northwillov"
+  "author_url": "https://dev.to/northwillov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事では、最も人気のあるJavaScriptであなたと共有したいと思いました...",
+      "title": "ゼロから実装したJavaScriptの人気メソッド10選"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：在这篇文章中，我想与你分享最流行的JavaScript...",
+      "title": "10个流行的JavaScript方法从头开始实现"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：在這篇文章中，我想與你分享最流行的JavaScript...",
+      "title": "10個流行的JavaScript方法從頭開始實現"
+    }
+  ]
 }
