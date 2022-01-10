@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は間違いなく魔法使いだ"
+    },
+    {
+      "locale": "zh",
+      "title": "他肯定是个巫师"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他肯定是個巫師"
+    }
+  ]
 }
