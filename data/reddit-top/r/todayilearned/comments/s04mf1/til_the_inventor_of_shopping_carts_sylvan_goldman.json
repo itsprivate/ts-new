@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TIL: ショッピングカートの発明者であるシルヴァン・ゴールドマンは、当初は普及しなかったため、店内でカートを回してその便利さをアピールする「おとり店員」を雇わなければなりませんでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "TIL：购物车的发明者西尔凡-戈德曼（Sylvan Goldman）由于最初没有流行起来，不得不雇用 \"诱饵购物者 \"将购物车推到商店周围，展示其便利性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TIL：購物車的發明者西爾凡-戈德曼（Sylvan Goldman）由於最初沒有流行起來，不得不僱用 \"誘餌購物者 \"將購物車推到商店周圍，展示其便利性。"
+    }
+  ]
 }
