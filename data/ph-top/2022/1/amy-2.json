@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-11T08:07:00Z"
+  "original_createdAt": "2022-01-11T08:07:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AmyのAIを搭載したChrome Extensionは、Web上の情報や、会う人全員に関する実用的な洞察を提供することで、リサーチの日数を節約し、すべてのミーティングをパーソナライズしてエースになるようサポートします。",
+      "tagline": "会議の準備を数秒で完了し、そのままカレンダーへ。"
+    },
+    {
+      "locale": "zh",
+      "description": "艾米的AI-powered Chrome Extension为你节省了数天的研究时间，为你提供来自整个网络的信息和关于你所会见的每一个人的可操作的见解，帮助你个性化地处理你的所有会议，并使之成为王牌!",
+      "tagline": "会议准备在几秒钟内完成，直接发送到你的日历上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "艾米的AI-powered Chrome Extension爲你節省了數天的研究時間，爲你提供來自整個網絡的信息和關於你所會見的每一個人的可操作的見解，幫助你個性化地處理你的所有會議，並使之成爲王牌!",
+      "tagline": "會議準備在幾秒鐘內完成，直接發送到你的日曆上。"
+    }
+  ]
 }
