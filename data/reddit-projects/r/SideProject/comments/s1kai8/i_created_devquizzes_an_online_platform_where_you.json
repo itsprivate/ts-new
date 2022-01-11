@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、DEVのさまざまなトピックについて自分の知識を試すことができるオンラインプラットフォーム、DevQuizzesを作りました。20の異なるカテゴリで500以上の質問が含まれています🏆🎉。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了DevQuizzes，这是一个在线平台，你可以测试你在各种DEV主题上的知识。包括20个不同类别的500多个问题 ＊So_1F3C6↩🎉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了DevQuizzes，這是一個在線平臺，你可以測試你在各種DEV主題上的知識。包括20個不同類別的500多個問題 ＊So_1F3C6↩🎉"
+    }
+  ]
 }
