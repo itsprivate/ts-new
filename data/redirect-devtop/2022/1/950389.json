@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-10T13:59:43Z",
   "image": "https://dev.to/social_previews/article/950389.png",
   "author": "Lina Jelinčić",
-  "author_url": "https://dev.to/linajelincic"
+  "author_url": "https://dev.to/linajelincic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は数年前からPHPの開発者をしていますが、PHPが大好きです。しかし、私は、学習...",
+      "title": "PHPからNode.jsに乗り換えた理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我已经做了几年的PHP开发，我很喜欢PHP。然而，我认为，学习...",
+      "title": "我是如何从PHP转到Node.js的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經做了幾年的PHP開發，我很喜歡PHP。然而，我認爲，學習...",
+      "title": "我是如何從PHP轉到Node.js的"
+    }
+  ]
 }
