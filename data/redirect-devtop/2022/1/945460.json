@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-05T14:31:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1F4aDaeE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wc35d6fj8dboqepowd34.png",
   "author": "Agnieszka Stec",
-  "author_url": "https://dev.to/stecagnieszka"
+  "author_url": "https://dev.to/stecagnieszka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、あるコードについてチームメイトに助けを求め、そのチームメイトが解決策を示した...",
+      "title": "PyCharmで自分のレポにプッシュ＆プルせずにチームメイトの変更をチェリーピックする"
+    },
+    {
+      "locale": "zh",
+      "description": "你向你的队友求助于一段代码，他们向你展示了他们的解决方案。",
+      "title": "在PyCharm中，无需推拉就能摘取队友的修改，并将其放到你的Repo中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你向你的隊友求助於一段代碼，他們向你展示了他們的解決方案。",
+      "title": "在PyCharm中，無需推拉就能摘取隊友的修改，並將其放到你的Repo中。"
+    }
+  ]
 }
