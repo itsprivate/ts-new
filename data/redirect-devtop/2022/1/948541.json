@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-08T07:24:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uFGqRzeR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1d72o6ytck94e55ltucn.jpg",
   "author": "Ashutosh",
-  "author_url": "https://dev.to/ashu96"
+  "author_url": "https://dev.to/ashu96",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 関数型プログラミングパラダイムは、JavaScriptの分野で人気を集めている...",
+      "title": "JavaScriptのCurryingを例で理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "概述 函数式编程范式已经在JavaScript中得到了重视。",
+      "title": "通过一个例子来了解JavaScript中的Currying"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "概述 函數式編程範式已經在JavaScript中得到了重視。",
+      "title": "通過一個例子來了解JavaScript中的Currying"
+    }
+  ]
 }
