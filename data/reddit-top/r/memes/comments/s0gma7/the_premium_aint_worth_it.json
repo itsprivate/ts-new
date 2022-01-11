@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プレミアムは割に合わない"
+    },
+    {
+      "locale": "zh",
+      "title": "溢价不值得"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "溢價不值得"
+    }
+  ]
 }
