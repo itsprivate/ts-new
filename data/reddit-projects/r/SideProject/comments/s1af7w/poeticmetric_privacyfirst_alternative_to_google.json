@@ -53,5 +53,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello folks 💐\n\nFor the last few months I have been working on privacy-focused,\nregulation-compliant (a.k.a. no cookie consent banners are needed) Google\nAnalytics alternative. It started as a Golang learning exercise but I believe\nmanaged to get something useful at the end :)\n\nAnd today, it is…"
+  "the_new_excerpt": "Hello folks 💐\n\nFor the last few months I have been working on privacy-focused,\nregulation-compliant (a.k.a. no cookie consent banners are needed) Google\nAnalytics alternative. It started as a Golang learning exercise but I believe\nmanaged to get something useful at the end :)\n\nAnd today, it is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "みなさん、こんにちは💐。\n\nこの数ヶ月、私はプライバシーに焦点を当てた仕事をしてきました。\nGoogleの規制に準拠した（つまりCookieの同意バナーが不要）。\nAnalyticsの代替品です。これはGolangの学習として始まりましたが\n最後に何とか役に立つものを得ることができました :)\n\nそして今日、それは...",
+      "title": "PoeticMetric。Google Analyticsに代わるプライバシーを重視した解析ツール"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好 💐\n\n在过去的几个月里，我一直在做以隐私为重点的工作。\n符合法规的（也就是不需要cookie同意的横幅）Google\n分析的替代品。它开始是一个Golang学习练习，但我相信\n在最后设法得到了一些有用的东西 :)\n\n而今天，它是...",
+      "title": "PoeticMetric: 隐私至上的谷歌分析替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好 💐\n\n在過去的幾個月裏，我一直在做以隱私爲重點的工作。\n符合法規的（也就是不需要cookie同意的橫幅）Google\n分析的替代品。它開始是一個Golang學習練習，但我相信\n在最後設法得到了一些有用的東西 :)\n\n而今天，它是...",
+      "title": "PoeticMetric: 隱私至上的谷歌分析替代品"
+    }
+  ]
 }
