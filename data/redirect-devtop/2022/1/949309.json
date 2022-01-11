@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T08:18:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2PdNdS3u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9jija7bcittww6cb8ofj.jpg",
   "author": "Theodorus Clarence",
-  "author_url": "https://dev.to/theodorusclarence"
+  "author_url": "https://dev.to/theodorusclarence",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ts-nextjs-tailwind-starterを作ったのは、新規にセットアップするのが面倒になったからです。",
+      "title": "Next.js & Tailwind CSSプロジェクトで効率を最大化する12の機能"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 我在厌倦了建立一个新的尾风启动器后，制作了ts-nextjs-tailwind-starter。",
+      "title": "让Next.js和Tailwind CSS项目的效率最大化的12项功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 我在厭倦了建立一個新的尾風啓動器後，製作了ts-nextjs-tailwind-starter。",
+      "title": "讓Next.js和Tailwind CSS項目的效率最大化的12項功能"
+    }
+  ]
 }
