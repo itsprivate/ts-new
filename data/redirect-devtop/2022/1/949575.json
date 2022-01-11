@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T14:29:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y5dQp31k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fodds6pcagdxx8kktdxc.png",
   "author": "Dima Grossman",
-  "author_url": "https://dev.to/scopsy"
+  "author_url": "https://dev.to/scopsy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ノーティファイアーでは、24のライブラリやアプリを管理するためにmonorepoを使用しています。いろいろな議論がありますが...",
+      "title": "nodejs monorepoのビルド時間を70%短縮した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在Notifire，我们使用monorepo来管理我们的24个库和应用程序。有许多争论是关于...",
+      "title": "我们如何将nodejs monorepo的构建时间减少70%？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Notifire，我們使用monorepo來管理我們的24個庫和應用程序。有許多爭論是關於...",
+      "title": "我們如何將nodejs monorepo的構建時間減少70%？"
+    }
+  ]
 }
