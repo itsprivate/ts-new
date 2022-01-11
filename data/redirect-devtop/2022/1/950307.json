@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-10T11:27:53Z",
   "image": "https://dev.to/social_previews/article/950307.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パフォーマンスとリアクト! このような楽しいトピックは、多くの賛否両論があり、また多くのベスト...",
+      "title": "パフォーマンス重視のReactコードの書き方：ルール、パターン、やるべきこと、やってはいけないこと"
+    },
+    {
+      "locale": "zh",
+      "description": "性能和反应! 这样一个有趣的话题，有这么多的争议性意见和这么多的最佳...",
+      "title": "如何编写高性能的React代码：规则、模式、该做的和不该做的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "性能和反應! 這樣一個有趣的話題，有這麼多的爭議性意見和這麼多的最佳...",
+      "title": "如何編寫高性能的React代碼：規則、模式、該做的和不該做的"
+    }
+  ]
 }
