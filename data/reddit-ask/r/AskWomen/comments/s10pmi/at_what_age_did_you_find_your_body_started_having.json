@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何歳頃から体の不調を感じ始めましたか？また、その具体例を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你在什么年龄发现自己的身体开始出现问题/病痛？欢迎分享一些例子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在什麼年齡發現自己的身體開始出現問題/病痛？歡迎分享一些例子。"
+    }
+  ]
 }
