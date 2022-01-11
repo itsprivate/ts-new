@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのハッシュレートと価格の比較（2010年～2022年）"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币哈希率与价格对比(2010-2022)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣哈希率與價格對比(2010-2022)"
+    }
+  ]
 }
