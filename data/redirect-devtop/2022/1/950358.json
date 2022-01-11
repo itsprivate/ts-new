@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-10T13:08:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m74V5SJq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1mcgp1zgkgb2u2uoavu.png",
   "author": "Anjan Shomooder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、html、css、...を使って、素晴らしいスライドベースのランディングページを構築する方法をお教えします。",
+      "title": "fullpage.jsでモダンなスライドベースのウェブサイトを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，我将教你如何用html、css和其他工具建立一个令人敬畏的基于幻灯片的登陆页面。",
+      "title": "如何用fullpage.js建立一个基于幻灯片的现代网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，我將教你如何用html、css和其他工具建立一個令人敬畏的基於幻燈片的登陸頁面。",
+      "title": "如何用fullpage.js建立一個基於幻燈片的現代網站"
+    }
+  ]
 }
