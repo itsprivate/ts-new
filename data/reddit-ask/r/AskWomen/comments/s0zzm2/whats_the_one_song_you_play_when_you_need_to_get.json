@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Mine is September by Earth Wind and Fire."
+  "the_new_excerpt": "Mine is September by Earth Wind and Fire.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私のはEarth Wind and FireのSeptemberです。",
+      "title": "一日の中で自動的に喜びを注入してもらいたいときにかける曲は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的是地球风与火乐队的《九月》。",
+      "title": "当你需要在你的一天中自动注入快乐时，你会播放哪一首歌曲？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的是地球風與火樂隊的《九月》。",
+      "title": "當你需要在你的一天中自動注入快樂時，你會播放哪一首歌曲？"
+    }
+  ]
 }
