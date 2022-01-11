@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-11T07:45:34Z",
   "image": "https://dev.to/social_previews/article/951211.png",
   "author": "TagorenathV",
-  "author_url": "https://dev.to/tagorenathv"
+  "author_url": "https://dev.to/tagorenathv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "投稿の概要 昨今、SaaSプラットフォームやIoTデバイスの普及が進んでいます。",
+      "title": "IoT-SaaSです。ReactJS、MongoDB Atlas、Realmを使ったWebアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "我提交的概述 如今，SaaS平台&amp; 物联网设备正在获得...",
+      "title": "物联网-SaaS。使用ReactJS、MongoDB Atlas和Realm的Web App"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我提交的概述 如今，SaaS平臺&amp; 物聯網設備正在獲得...",
+      "title": "物聯網-SaaS。使用ReactJS、MongoDB Atlas和Realm的Web App"
+    }
+  ]
 }
