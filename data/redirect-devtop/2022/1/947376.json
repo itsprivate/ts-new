@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-07T00:46:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XxhxK7kT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1495364141860-b0d03eccd065%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1476%26q%3D80",
   "author": "Ivan",
-  "author_url": "https://dev.to/ivanms1"
+  "author_url": "https://dev.to/ivanms1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "plop.jsを使えば、面倒な新規ファイル作成が楽になる",
+      "title": "Plop.jsで光の速さでリアクトコンポーネントを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "使用plop.js，使创建新文件的繁琐工作变得轻而易举",
+      "title": "用Plop.js以光速创建反应组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用plop.js，使創建新文件的繁瑣工作變得輕而易舉",
+      "title": "用Plop.js以光速創建反應組件"
+    }
+  ]
 }
