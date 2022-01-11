@@ -48,5 +48,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LayerSwapがCEXからLoopring L2への直接転送に対応し、Ethereum L2への低ガス参入を可能にしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "LayerSwap现在支持CEX到Loopring L2的直接传输，允许低气量进入Ethereum L2"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "LayerSwap現在支持CEX到Loopring L2的直接傳輸，允許低氣量進入Ethereum L2"
+    }
+  ]
 }
