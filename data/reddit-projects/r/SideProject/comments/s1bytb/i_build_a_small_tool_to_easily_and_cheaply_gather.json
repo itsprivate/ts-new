@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のSaaSを使って、簡単に安くお客様の声を集めるための小さなツールを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个小工具，利用我的SaaS轻松而廉价地收集客户反馈意见"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個小工具，利用我的SaaS輕鬆而廉價地收集客戶反饋意見"
+    }
+  ]
 }

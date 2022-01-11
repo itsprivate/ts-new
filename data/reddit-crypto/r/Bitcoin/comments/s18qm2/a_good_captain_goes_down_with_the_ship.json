@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "善き船長は船と共に滅びる"
+    },
+    {
+      "locale": "zh",
+      "title": "一个好的船长会与船一起沉没"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個好的船長會與船一起沉沒"
+    }
+  ]
 }
