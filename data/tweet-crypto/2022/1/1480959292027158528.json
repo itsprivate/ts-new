@@ -52,5 +52,22 @@
     },
     "retweet_count": 1035,
     "favorite_count": 5717
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: パウエル：我々はおそらく超低金利の時代にとどまっている。",
+      "retweeted_status_full_text": "パウエル: 我々はおそらく超低金利の時代に留まるだろう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: 鲍威尔：我们可能仍然处于一个非常低的利率时代",
+      "retweeted_status_full_text": "鲍威尔：我们可能仍处于一个非常低的利率时代"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: 鮑威爾：我們可能仍然處於一個非常低的利率時代",
+      "retweeted_status_full_text": "鮑威爾：我們可能仍處於一個非常低的利率時代"
+    }
+  ]
 }
