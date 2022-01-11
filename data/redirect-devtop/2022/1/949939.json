@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-10T00:42:36Z",
   "image": "https://dev.to/social_previews/article/949939.png",
   "author": "Farhad Faghihi",
-  "author_url": "https://dev.to/farhadfaghihi"
+  "author_url": "https://dev.to/farhadfaghihi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "経験値の高低にかかわらず、開発者であれば誰しもが、ある日突然、外に出なければならない日がやってきます。",
+      "title": "ギット・サバイバル・キット - パート1"
+    },
+    {
+      "locale": "zh",
+      "description": "在每个开发人员的生活中，无论其经验水平如何，都会有一天，她需要离开。",
+      "title": "Git生存工具包 - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在每個開發人員的生活中，無論其經驗水平如何，都會有一天，她需要離開。",
+      "title": "Git生存工具包 - 第一部分"
+    }
+  ]
 }
