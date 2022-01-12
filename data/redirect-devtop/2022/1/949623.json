@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T15:45:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_-uNDCPa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3se3btu3u21zhd9csvnx.png",
   "author": "Walmyr Filho",
-  "author_url": "https://dev.to/walmyrlimaesilv"
+  "author_url": "https://dev.to/walmyrlimaesilv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "API経由の認証で自動テストを高速化する方法を紹介します 自動...",
+      "title": "サイプレスでプログラム的にログインする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何通过API认证使你的自动化测试更加快速。",
+      "title": "如何用Cypress进行程序化登录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何通過API認證使你的自動化測試更加快速。",
+      "title": "如何用Cypress進行程序化登錄"
+    }
+  ]
 }
