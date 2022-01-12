@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-10T19:32:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bI9_F4BH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.sanity.io/images/5ad74sb4/production/492e6b90f3f15d84842eb275d3e68babf2f7073c-1000x420.png%3Fw%3D2000%26h%3D2000%26fit%3Dmax",
   "author": "Milecia",
-  "author_url": "https://dev.to/flippedcoding"
+  "author_url": "https://dev.to/flippedcoding",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "世の中には、あらゆる種類のデータにアクセスできるクールなAPIがたくさんあります。もしあなたが宇宙のことに興味があるなら、NASAがAPIを持っていて、そのデータのいくつかを使えることを知ると嬉しいかもしれません。この記事では、これらのAPIの1つを使って、どのように小惑星マップを作ることができるかを見ていきます。",
+      "title": "NASA APIによる小惑星マップの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "外面有大量很酷的API，让我们可以访问各种数据。如果你对太空的事情感兴趣，你可能会很高兴知道美国国家航空航天局有API，让我们可以使用他们的一些数据。在这篇文章中，我们将看到你如何使用这些API制作一个小行星地图。",
+      "title": "用NASA的API创建小行星地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "外面有大量很酷的API，讓我們可以訪問各種數據。如果你對太空的事情感興趣，你可能會很高興知道美國國家航空航天局有API，讓我們可以使用他們的一些數據。在這篇文章中，我們將看到你如何使用這些API製作一個小行星地圖。",
+      "title": "用NASA的API創建小行星地圖"
+    }
+  ]
 }
