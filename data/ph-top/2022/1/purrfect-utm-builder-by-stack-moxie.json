@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-12T08:14:28Z"
+  "original_createdAt": "2022-01-12T08:14:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "簡単で間違いのないURLを作成できる、唯一の無料UTMビルダーです。正確なUTMは、正確な分析につながります。技術スタックを統合し、標準的な値を使用して、不十分なUTMの管理による分析の毛玉を回避します。それは「完璧」です - Uriel Trace Moxie \"U.T.M.\" 猫",
+      "tagline": "簡単、エラーなし、統合された完璧なUTMビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "唯一免费的UTM构建器，可实现简单和防错的URL。准确的UTMs导致准确的分析。整合您的技术栈，使用标准值，避免因UTMs管理不善而造成的分析毛球。它是 \"完美的\"--Uriel Trace Moxie \"U.T.M.\" 猫",
+      "tagline": "完美的UTM构建器，简单、防错、集成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "唯一免費的UTM構建器，可實現簡單和防錯的URL。準確的UTMs導致準確的分析。整合您的技術棧，使用標準值，避免因UTMs管理不善而造成的分析毛球。它是 \"完美的\"--Uriel Trace Moxie \"U.T.M.\" 貓",
+      "tagline": "完美的UTM構建器，簡單、防錯、集成"
+    }
+  ]
 }
