@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さんの半分もできていませんが、それでも私のインコの写真をお見せしたいと思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "甚至没有你们大多数人的一半好，但我仍然想分享我的鹦鹉的这张照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "甚至沒有你們大多數人的一半好，但我仍然想分享我的鸚鵡的這張照片"
+    }
+  ]
 }
