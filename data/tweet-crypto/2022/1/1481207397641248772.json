@@ -82,5 +82,22 @@
     },
     "retweet_count": 440,
     "favorite_count": 3821
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTC_Archive: フィデリティは、#BTCにフォーカスしていないファンドに#ビットコインのエクスポージャーを追加することを開始する。",
+      "retweeted_status_full_text": "フィデリティは、#BTCにフォーカスしていないファンドに#ビットコインのエクスポージャーを追加することを開始します。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTC_Archive: Fidelity将开始在非#BTC重点基金中增加#比特币风险。",
+      "retweeted_status_full_text": "富达将开始在非#BTC重点基金中增加#比特币风险。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTC_Archive: Fidelity將開始在非#BTC重點基金中增加#比特幣風險。",
+      "retweeted_status_full_text": "富達將開始在非#BTC重點基金中增加#比特幣風險。"
+    }
+  ]
 }
