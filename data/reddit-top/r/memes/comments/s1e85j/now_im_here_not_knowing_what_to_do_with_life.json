@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、私はここにいて、人生をどうしたらいいのかわからない。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在我在这里不知道该如何对待生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在我在這裏不知道該如何對待生活"
+    }
+  ]
 }
