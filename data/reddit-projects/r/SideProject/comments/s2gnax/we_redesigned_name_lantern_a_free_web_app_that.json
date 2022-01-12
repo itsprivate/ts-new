@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "利用可能なドメインを検索できる無料ウェブアプリ「Name Lantern」のデザインを一新し、ライト/ダークモードを選択できるようになりました"
+    },
+    {
+      "locale": "zh",
+      "title": "我们重新设计了Name Lantern，一个帮助你寻找可用域名的免费网络应用，现在有了明/暗模式的选择!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們重新設計了Name Lantern，一個幫助你尋找可用域名的免費網絡應用，現在有了明/暗模式的選擇!"
+    }
+  ]
 }
