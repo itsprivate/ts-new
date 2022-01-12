@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女いない歴＝年齢"
+    },
+    {
+      "locale": "zh",
+      "title": "我没有女朋友"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我沒有女朋友"
+    }
+  ]
 }
