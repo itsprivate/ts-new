@@ -122,5 +122,22 @@
     "retweet_count": 348,
     "favorite_count": 1885,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @LeoWandersleb: @jack が bitcoin-dev メーリングリストにメールしてきた．\n\nこれはメーリングリストのアーカイブでも見ることができます。https://t.co/nUv...",
+      "retweeted_status_full_text": "というわけで、@jack が bitcoin-dev メーリングリストにメールを送りました ...\n\nこれはリストのアーカイブでも見ることができます: https://t.co/nUvoo75QO2 https://t.co/UeKazPPetx"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @LeoWandersleb: 所以@jack刚刚给比特币-dev邮件列表邮寄了 ...\n\n这也可以在列表的档案中找到: https://t.co/nUv...",
+      "retweeted_status_full_text": "所以@jack刚刚给bitcoin-dev邮件列表发了邮件 ...\n\n这也可以在列表的存档中找到：https://t.co/nUvoo75QO2 https://t.co/UeKazPPetx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @LeoWandersleb: 所以@jack剛剛給比特幣-dev郵件列表郵寄了 ...\n\n這也可以在列表的檔案中找到: https://t.co/nUv...",
+      "retweeted_status_full_text": "所以@jack剛剛給bitcoin-dev郵件列表發了郵件 ...\n\n這也可以在列表的存檔中找到：https://t.co/nUvoo75QO2 https://t.co/UeKazPPetx"
+    }
+  ]
 }
