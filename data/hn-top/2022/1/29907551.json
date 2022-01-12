@@ -13,5 +13,19 @@
   ],
   "objectID": "29907551",
   "original_created_at": "2022-01-12T15:21:01.000Z",
-  "image": "https://miro.medium.com/proxy/1*kFrc4tBFM_tCis-2Ic87WA.png"
+  "image": "https://miro.medium.com/proxy/1*kFrc4tBFM_tCis-2Ic87WA.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MySQLでは、\"utf8 \"は決して使用しないでください。\"utf8mb4 \"を使用してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在MySQL中，永远不要使用 \"utf8\"。使用 \"utf8mb4\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在MySQL中，永遠不要使用 \"utf8\"。使用 \"utf8mb4\"。"
+    }
+  ]
 }
