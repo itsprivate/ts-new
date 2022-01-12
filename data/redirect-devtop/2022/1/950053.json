@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-10T05:27:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ErfZNv2K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zzx2gvwbjd9o7hddr8gd.png",
   "author": "Anthony Dellavecchia",
-  "author_url": "https://dev.to/anthonyjdella"
+  "author_url": "https://dev.to/anthonyjdella",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR：あるオープンソースソフトウェアを作ったソフトウェア開発者が、そのソフトウェアを使用するために、...",
+      "title": "ある不正な開発者が何百万ものソフトウェアを台無しにした（この週末に起こったこと）。"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR：一个软件开发者做了一些使用率很高的开源软件，他决定去...",
+      "title": "一个流氓开发者如何毁掉了数以百万计的软件（本周末发生的）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR：一個軟件開發者做了一些使用率很高的開源軟件，他決定去...",
+      "title": "一個流氓開發者如何毀掉了數以百萬計的軟件（本週末發生的）。"
+    }
+  ]
 }
