@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レシピをステップバイステップで音声ナビゲートするChromeプラグイン「Sous」をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "介绍一下Sous，这是一个Chrome插件，可以将菜谱转化为按部就班的语音导航卡片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "介紹一下Sous，這是一個Chrome插件，可以將菜譜轉化爲按部就班的語音導航卡片。"
+    }
+  ]
 }
