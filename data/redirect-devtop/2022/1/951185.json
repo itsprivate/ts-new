@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-11T06:44:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Sy86PL1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecuce7ypq0idll5l7ii7.jpg",
   "author": "nikhil sharma",
-  "author_url": "https://dev.to/sharma2288"
+  "author_url": "https://dev.to/sharma2288",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに JSONとは、JavaScript Object Notationの略で、日本語に訳すと「オブジェクト記述法」です。",
+      "title": "JSONファイルからJavaScriptオブジェクトを取得する"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：JSON是JavaScript Object Notation的缩写。JSON是一种轻量级的格式，可以用来描述一个人的生活。",
+      "title": "从JSON文件中获取JavaScript对象"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：JSON是JavaScript Object Notation的縮寫。JSON是一種輕量級的格式，可以用來描述一個人的生活。",
+      "title": "從JSON文件中獲取JavaScript對象"
+    }
+  ]
 }
