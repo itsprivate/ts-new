@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "13年前の今日、最初のビットコイン取引が行われた。Satoshi NakamotoがHal Finneyに10Bitcoinを送った。"
+    },
+    {
+      "locale": "zh",
+      "title": "13年前的今天，进行了第一笔比特币交易。中本聪向哈尔-芬尼发送了10枚比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "13年前的今天，進行了第一筆比特幣交易。中本聰向哈爾-芬尼發送了10枚比特幣"
+    }
+  ]
 }
