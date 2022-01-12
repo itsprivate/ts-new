@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-11T14:41:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bC6c0yl1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mg604imkrv2id6uzbuwi.jpeg",
   "author": "Debbie O'Brien",
-  "author_url": "https://dev.to/debs_obrien"
+  "author_url": "https://dev.to/debs_obrien",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactでchildrenを渡すとどうなる？Childrenは特別なプロップで、Reactの中で...を渡すことができます。",
+      "title": "TypeScriptとReactの子どもたち"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们在React中传入children时会发生什么？Children是一个特殊的道具，它允许我们在React中传递...",
+      "title": "TypeScript和React儿童"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們在React中傳入children時會發生什麼？Children是一個特殊的道具，它允許我們在React中傳遞...",
+      "title": "TypeScript和React兒童"
+    }
+  ]
 }
