@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Apps, calendars, notebook... Nothing at all? Do you track symptoms?"
+  "the_new_excerpt": "Apps, calendars, notebook... Nothing at all? Do you track symptoms?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アプリ、カレンダー、手帳...。全くなし？症状を記録していますか？",
+      "title": "生理周期はどのように把握していますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "应用程序、日历、笔记本......。完全没有？你追踪症状吗？",
+      "title": "你如何跟踪你的月经？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "應用程序、日曆、筆記本......。完全沒有？你追蹤症狀嗎？",
+      "title": "你如何跟蹤你的月經？"
+    }
+  ]
 }
