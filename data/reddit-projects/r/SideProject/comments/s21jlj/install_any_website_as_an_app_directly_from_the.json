@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あらゆるウェブサイトをブラウザから直接アプリとしてインストール（無料、オープンソースです）"
+    },
+    {
+      "locale": "zh",
+      "title": "直接从浏览器中把任何网站安装成一个应用程序（它是免费和开源的）"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "直接從瀏覽器中把任何網站安裝成一個應用程序（它是免費和開源的）"
+    }
+  ]
 }
