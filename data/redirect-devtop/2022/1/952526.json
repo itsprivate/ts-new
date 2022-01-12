@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-12T09:45:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7OFX_x8Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uuvdfr1w9jorjpkld5tu.jpeg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今年はなんという年だったでしょうか。データセンターの炎上から、セキュリティの脆弱性まで...。",
+      "title": "2021年のクラウド：21のゲームチェンジする障害、セキュリティ問題、そしてハイライト"
+    },
+    {
+      "locale": "zh",
+      "description": "呜呼，这一年真够呛！从数据中心被烧毁到安全漏洞被曝光。从数据中心被烧毁到安全漏洞，一直到...",
+      "title": "2021年的云：21个改变游戏规则的故障、安全问题和亮点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗚呼，這一年真夠嗆！從數據中心被燒燬到安全漏洞被曝光。從數據中心被燒燬到安全漏洞，一直到...",
+      "title": "2021年的雲：21個改變遊戲規則的故障、安全問題和亮點"
+    }
+  ]
 }
