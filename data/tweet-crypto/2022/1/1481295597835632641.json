@@ -150,5 +150,22 @@
     "retweet_count": 423,
     "favorite_count": 2181,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @therationalroot: バウンスしました。このサイクルは終わらない。#ビットコイン https://t.co/Wl0d6bhKgr",
+      "retweeted_status_full_text": "バウンスした。このサイクルは終わっていない。#ビットコイン https://t.co/Wl0d6bhKgr"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @therationalroot: 跳票了。这个周期还没有结束。#比特币https://t.co/Wl0d6bhKgr",
+      "retweeted_status_full_text": "被弹出。这个周期还没有结束。#比特币https://t.co/Wl0d6bhKgr"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @therationalroot: 跳票了。這個週期還沒有結束。#比特幣https://t.co/Wl0d6bhKgr",
+      "retweeted_status_full_text": "被彈出。這個週期還沒有結束。#比特幣https://t.co/Wl0d6bhKgr"
+    }
+  ]
 }
