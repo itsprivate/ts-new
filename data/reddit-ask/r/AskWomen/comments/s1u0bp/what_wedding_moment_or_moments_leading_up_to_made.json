@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Did they last longer or shorter? Were you completely wrong?"
+  "the_new_excerpt": "Did they last longer or shorter? Were you completely wrong?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "長持ちしたのか、短かったのか？完全に間違っていたのでしょうか？",
+      "title": "結婚に至るまで、どんな瞬間に「この人たち、長続きしないな」と思いましたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它们的寿命是长了还是短了？你完全错了吗？",
+      "title": "哪个婚礼时刻或导致的时刻，让你觉得 \"他们不会持续太久\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它們的壽命是長了還是短了？你完全錯了嗎？",
+      "title": "哪個婚禮時刻或導致的時刻，讓你覺得 \"他們不會持續太久\"？"
+    }
+  ]
 }
