@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男......ジェットコースターのようだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这是个过山车的地狱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個過山車的地獄"
+    }
+  ]
 }
