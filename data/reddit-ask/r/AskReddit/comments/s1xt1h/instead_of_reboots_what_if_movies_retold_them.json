@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リブートではなく、別の視点から映画が語り直すとしたらどうだろう。あなたはどの映画を再上映してほしいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "与其说是重启，不如说是电影从不同的角度来重述它们呢？你希望看到哪些电影被重新讲述？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與其說是重啓，不如說是電影從不同的角度來重述它們呢？你希望看到哪些電影被重新講述？"
+    }
+  ]
 }
