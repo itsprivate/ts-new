@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国のインフレ率は過去1年間で7％上昇し、1982年以来の高水準に"
+    },
+    {
+      "locale": "zh",
+      "title": "美国通货膨胀率在过去一年中上升了7%，达到1982年以来的最高水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國通貨膨脹率在過去一年中上升了7%，達到1982年以來的最高水平"
+    }
+  ]
 }
