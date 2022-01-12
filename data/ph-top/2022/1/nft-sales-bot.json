@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-12T09:07:17Z"
+  "original_createdAt": "2022-01-12T09:07:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFT Sales Botは、私が2021年に最初の3つ（！）のNFTを立ち上げたときに、あったらいいなと思っていたツールです。なぜなら、NFTを販売するときは、自分のコミュニティ（DiscordやTwitterのフォロワーなど）のみんなに知ってもらいたいからです。なぜかって？この社会的証明がさらに売上を伸ばすからです。",
+      "tagline": "OpenSeaで何かを売る、1000のサービスにPingを打つ"
+    },
+    {
+      "locale": "zh",
+      "description": "NFT销售机器人是我希望在2021年推出我的第一个3（！）个NFT时存在的工具。因为当你销售NFT时，你希望你的社区中的每个人（Discord、Twitter粉丝等）都知道它。为什么？因为这种社会证明推动了更多的销售。",
+      "tagline": "在OpenSea上卖东西，平移1000个服务项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NFT銷售機器人是我希望在2021年推出我的第一個3（！）個NFT時存在的工具。因爲當你銷售NFT時，你希望你的社區中的每個人（Discord、Twitter粉絲等）都知道它。爲什麼？因爲這種社會證明推動了更多的銷售。",
+      "tagline": "在OpenSea上賣東西，平移1000個服務項目"
+    }
+  ]
 }
