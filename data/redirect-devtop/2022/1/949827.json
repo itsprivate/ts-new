@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-09T21:52:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oYUPnM_y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lpsknds00ljhodn2m3ac.jpg",
   "author": "Jayesh Choudhary",
-  "author_url": "https://dev.to/jayeshchoudhary"
+  "author_url": "https://dev.to/jayeshchoudhary",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsで作業する場合、リクエスト（ボディ、クエリ、パラメータ）でデータを受け取るのが一般的で、...",
+      "title": "Node.jsでexpress-validatorを使用したスキーマベースのバリデーション"
+    },
+    {
+      "locale": "zh",
+      "description": "当使用Node.js工作时，接收请求（body、query、params）中的数据是很常见的，而在Node.js工作中，接收数据是很常见的。",
+      "title": "在Node.js中使用Express-validator进行基于模式的验证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當使用Node.js工作時，接收請求（body、query、params）中的數據是很常見的，而在Node.js工作中，接收數據是很常見的。",
+      "title": "在Node.js中使用Express-validator進行基於模式的驗證"
+    }
+  ]
 }
