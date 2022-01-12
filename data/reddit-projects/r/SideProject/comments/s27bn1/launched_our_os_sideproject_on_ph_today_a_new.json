@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日、PHのOSサイドプロジェクトを立ち上げました。チェックアウトを1つのURLクリックに簡素化する新しいワンページ・チェックアウトフロー"
+    },
+    {
+      "locale": "zh",
+      "title": "今天在PH上推出了我们的操作系统副项目。一个新的单页结账流程，将结账简化为单一的URL点击。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天在PH上推出了我們的操作系統副項目。一個新的單頁結賬流程，將結賬簡化爲單一的URL點擊。"
+    }
+  ]
 }
