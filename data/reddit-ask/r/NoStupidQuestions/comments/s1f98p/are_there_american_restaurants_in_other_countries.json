@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Are they just McDonald's?"
+  "the_new_excerpt": "Are they just McDonald's?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "マクドナルドだけなのか？",
+      "title": "イタリア料理店」や「中華料理店」があるように、外国にも「アメリカンレストラン」があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们只是麦当劳吗？",
+      "title": "在其他国家是否有 \"美国餐馆\"，就像我们有 \"意大利餐馆 \"和 \"中国餐馆 \"一样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們只是麥當勞嗎？",
+      "title": "在其他國家是否有 \"美國餐館\"，就像我們有 \"意大利餐館 \"和 \"中國餐館 \"一樣？"
+    }
+  ]
 }
