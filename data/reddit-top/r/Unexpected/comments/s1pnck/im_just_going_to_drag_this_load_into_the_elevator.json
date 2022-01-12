@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この荷物をエレベーターに引きずり込んで、ドアを閉めればいいんです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我只是要把这批货物拖进电梯，然后关门。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我只是要把這批貨物拖進電梯，然後關門。"
+    }
+  ]
 }
