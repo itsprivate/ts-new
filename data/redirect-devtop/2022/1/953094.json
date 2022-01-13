@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-12T19:20:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v6oY6E1I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/230k9ymxerwzch40rdg3.jpeg",
   "author": "Reagan Scofield",
-  "author_url": "https://dev.to/reaganscofield"
+  "author_url": "https://dev.to/reaganscofield",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. 抽象化 抽象化することで、プログラマは便利で再利用可能なツールを作成することができます。例えば、...",
+      "title": "TypeScriptで学ぶOOPsの概念。4とは、オブジェクト指向プログラミングの基礎とその例"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 抽象化 抽象化让程序员创造出有用和可重复使用的工具。举例来说，如果一个人有一个好的工作环境，那么他就会有一个好的工作环境。",
+      "title": "TypeScript中的OOPs概念。什么是4，面向对象的编程基础知识和它们的例子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 抽象化 抽象化讓程序員創造出有用和可重複使用的工具。舉例來說，如果一個人有一個好的工作環境，那麼他就會有一個好的工作環境。",
+      "title": "TypeScript中的OOPs概念。什麼是4，面向對象的編程基礎知識和它們的例子"
+    }
+  ]
 }
