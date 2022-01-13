@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "単体では問題ないが、両方働くと怪しくなる2つの仕事とは？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么两份工作本身没有问题，但如果你同时从事这两份工作，就会产生怀疑？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼兩份工作本身沒有問題，但如果你同時從事這兩份工作，就會產生懷疑？"
+    }
+  ]
 }
