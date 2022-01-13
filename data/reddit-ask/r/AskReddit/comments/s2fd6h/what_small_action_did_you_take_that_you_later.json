@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが行った小さな行動の中で、後になって「バタフライ効果」によって、もっと重要なことになったと気づいたことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你采取了什么小行动，后来发现有 \"蝴蝶效应\"，变成了更重要的事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你採取了什麼小行動，後來發現有 \"蝴蝶效應\"，變成了更重要的事情？"
+    }
+  ]
 }
