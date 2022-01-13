@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "You’re welcome to say why if you want to as well"
+  "the_new_excerpt": "You’re welcome to say why if you want to as well",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "理由も自由に言ってください。",
+      "title": "あなたが熱烈に嫌いだけど、なぜか好きな人がいる有名人を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你愿意，也欢迎你说说为什么。",
+      "title": "你对哪位名人嗤之以鼻，但不明白人们为什么喜欢他们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你願意，也歡迎你說說爲什麼。",
+      "title": "你對哪位名人嗤之以鼻，但不明白人們爲什麼喜歡他們？"
+    }
+  ]
 }
