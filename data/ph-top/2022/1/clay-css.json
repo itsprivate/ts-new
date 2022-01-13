@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-12T08:01:00Z"
+  "original_createdAt": "2022-01-12T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML要素に膨らんだふわふわの3Dクレイモルフィズムスタイルを適用するためのマイクロCSS利用クラスです。CSS変数によるカスタマイズと拡張が可能です。SASS mixinも含まれているので、より多くのスタイルを選択することができます。",
+      "tagline": "膨らんだふわふわの3Dクレイモルフィックシェイプを作成するためのCSS utilです。"
+    },
+    {
+      "locale": "zh",
+      "description": "微型CSS利用类，用于对HTML元素应用膨胀的蓬松的3D粘土形态样式。完全可定制，可通过CSS变量进行扩展。也包括SASS混合器，以获得更多的样式选择。",
+      "tagline": "利用CSS创建膨胀的蓬松的3D粘土形状"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微型CSS利用類，用於對HTML元素應用膨脹的蓬鬆的3D粘土形態樣式。完全可定製，可通過CSS變量進行擴展。也包括SASS混合器，以獲得更多的樣式選擇。",
+      "tagline": "利用CSS創建膨脹的蓬鬆的3D粘土形狀"
+    }
+  ]
 }
