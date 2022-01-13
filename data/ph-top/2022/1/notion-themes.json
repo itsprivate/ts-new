@@ -106,5 +106,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-13T08:02:20Z"
+  "original_createdAt": "2022-01-13T08:02:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notion Themesは、Notionにカスタムテーマを適用するためのオープンソースのWeb拡張機能です。Notion Themesをインストールして、Notion全体のルック＆フィールを変更します。10種類以上のダーク/ライトカラースキームから選択できます。Chrome/ Brave/ Firefox/ Opera/ Egde ブラウザで動作します。",
+      "tagline": "カスタムテーマでNotionをかわいく"
+    },
+    {
+      "locale": "zh",
+      "description": "Notion Themes是一个开源的网络扩展，可以将自定义的主题应用于Notion，安装Notion Themes并改变Notion的整体外观和感觉。从10多种不同的暗色/亮色方案中选择。在Chrome/ Brave/ Firefox/ Opera/ Egde浏览器上工作。",
+      "tagline": "用自定义主题使你的Notion漂亮起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notion Themes是一個開源的網絡擴展，可以將自定義的主題應用於Notion，安裝Notion Themes並改變Notion的整體外觀和感覺。從10多種不同的暗色/亮色方案中選擇。在Chrome/ Brave/ Firefox/ Opera/ Egde瀏覽器上工作。",
+      "tagline": "用自定義主題使你的Notion漂亮起來"
+    }
+  ]
 }
