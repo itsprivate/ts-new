@@ -33,5 +33,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Looptap - 時間を無駄にしないための最小限のゲーム。"
+    },
+    {
+      "locale": "zh",
+      "title": "Looptap - 一个浪费你时间的最小游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Looptap - 一個浪費你時間的最小遊戲。"
+    }
+  ]
 }
