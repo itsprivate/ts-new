@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-12T21:30:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---DGU6zzM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnsfa2wrs8wamti3a0kl.jpg",
   "author": "eruj22",
-  "author_url": "https://dev.to/eruj22"
+  "author_url": "https://dev.to/eruj22",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "My Submissionの概要 このアプリは、ピザ注文アプリです。様々なピザを閲覧することができます。",
+      "title": "宅配ピザアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "我提交的概述 这个应用程序是比萨饼订购应用程序。你可以浏览各种不同的比萨。",
+      "title": "披萨外送应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我提交的概述 這個應用程序是比薩餅訂購應用程序。你可以瀏覽各種不同的比薩。",
+      "title": "披薩外送應用程序"
+    }
+  ]
 }

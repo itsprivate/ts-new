@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "研究室で危険なウイルスを作ることは、将来のパンデミックから身を守るための悪い方法である - Bulletin of the Atomic Scientists"
+    },
+    {
+      "locale": "zh",
+      "title": "在实验室中创造危险的病毒是防范未来大流行病的一个坏方法 - 《原子科学家公报"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在實驗室中創造危險的病毒是防範未來大流行病的一個壞方法 - 《原子科學家公報"
+    }
+  ]
 }
