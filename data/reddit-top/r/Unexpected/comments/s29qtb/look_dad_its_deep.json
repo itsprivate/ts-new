@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "父さん"
+    },
+    {
+      "locale": "zh",
+      "title": "看，爸爸，它很深"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看，爸爸，它很深"
+    }
+  ]
 }
