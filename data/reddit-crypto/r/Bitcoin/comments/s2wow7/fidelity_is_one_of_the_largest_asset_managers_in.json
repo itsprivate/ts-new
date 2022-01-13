@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フィデリティは、運用資産額4.9兆ドルという世界最大級の資産運用会社です。今日、彼らはこんなことを書いていた。"
+    },
+    {
+      "locale": "zh",
+      "title": "富达公司是世界上最大的资产管理公司之一，管理着4.9万亿美元的资产。今天他们这样写道。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "富達公司是世界上最大的資產管理公司之一，管理着4.9萬億美元的資產。今天他們這樣寫道。"
+    }
+  ]
 }

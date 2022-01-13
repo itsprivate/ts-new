@@ -63,5 +63,22 @@
     "retweet_count": 314,
     "favorite_count": 1177,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Cointelegraph: それは起こっている! トンガ王国を構成する160以上の島々が、ビットコインを貨幣として使用する可能性が出てきました...",
+      "retweeted_status_full_text": "始まるぞ! 別の国がビットコインをお金として使う可能性が出てきました。今回はトンガ王国を構成する160以上の島々です。https://t.co/A6aJgrnARj。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Cointelegraph: 它正在发生! 另一个国家可以使用比特币作为货币；这次是组成汤加王国的160多个岛屿...",
+      "retweeted_status_full_text": "它正在发生! 另一个国家可以使用比特币作为货币；这次是组成汤加王国的160多个岛屿。https://t.co/A6aJgrnARj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Cointelegraph: 它正在發生! 另一個國家可以使用比特幣作爲貨幣；這次是組成湯加王國的160多個島嶼...",
+      "retweeted_status_full_text": "它正在發生! 另一個國家可以使用比特幣作爲貨幣；這次是組成湯加王國的160多個島嶼。https://t.co/A6aJgrnARj"
+    }
+  ]
 }
