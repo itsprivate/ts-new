@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-12T22:54:11Z",
   "image": "https://dev.to/social_previews/article/953349.png",
   "author": "Daniel Warren",
-  "author_url": "https://dev.to/warrend"
+  "author_url": "https://dev.to/warrend",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数ヶ月前、私たちの間に起こったことについて、あなたに説明する義務があると感じています。",
+      "title": "親愛なるJavaScriptの皆さん、このメールがあなたの元に届くことを願っています..."
+    },
+    {
+      "locale": "zh",
+      "description": "我觉得我欠你一个解释，关于几个月前我们之间发生的事情。",
+      "title": "亲爱的JavaScript，我希望这封邮件能给你带来好运......"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我覺得我欠你一個解釋，關於幾個月前我們之間發生的事情。",
+      "title": "親愛的JavaScript，我希望這封郵件能給你帶來好運......"
+    }
+  ]
 }
