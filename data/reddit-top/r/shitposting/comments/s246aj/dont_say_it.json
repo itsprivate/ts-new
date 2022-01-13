@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言うな"
+    },
+    {
+      "locale": "zh",
+      "title": "不要说了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要說了"
+    }
+  ]
 }
