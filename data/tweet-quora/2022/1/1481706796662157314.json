@@ -112,5 +112,19 @@
     "retweet_count": 0,
     "favorite_count": 0,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "Hey @CarCaster, related to your interests? https://t.co/OqfgG65eKn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "嘿，@CarCaster，与你的兴趣有关吗？ https://t.co/OqfgG65eKn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "嘿，@CarCaster，與你的興趣有關嗎？ https://t.co/OqfgG65eKn"
+    }
+  ]
 }

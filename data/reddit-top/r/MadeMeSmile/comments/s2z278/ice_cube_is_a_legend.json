@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アイスキューブは伝説だ!"
+    },
+    {
+      "locale": "zh",
+      "title": "冰块是个传奇人物!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "冰塊是個傳奇人物!"
+    }
+  ]
 }
