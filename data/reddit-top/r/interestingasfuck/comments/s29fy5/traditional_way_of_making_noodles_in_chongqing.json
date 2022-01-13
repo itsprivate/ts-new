@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国・重慶の伝統的な麺の作り方"
+    },
+    {
+      "locale": "zh",
+      "title": "中国重庆的传统面条制作方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國重慶的傳統麪條製作方法"
+    }
+  ]
 }
