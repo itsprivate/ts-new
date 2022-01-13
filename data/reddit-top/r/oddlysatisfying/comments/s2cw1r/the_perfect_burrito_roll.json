@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完璧なブリトーロール..."
+    },
+    {
+      "locale": "zh",
+      "title": "完美的卷饼卷..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "完美的捲餅卷..."
+    }
+  ]
 }
