@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チケット2枚の払い戻しなんだけど...。"
+    },
+    {
+      "locale": "zh",
+      "title": "我只是想退掉两张票..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我只是想退掉兩張票..."
+    }
+  ]
 }
