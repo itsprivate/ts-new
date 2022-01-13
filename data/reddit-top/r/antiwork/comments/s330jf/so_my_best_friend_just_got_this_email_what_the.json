@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の親友がこのメールを受け取ったんですが、いったい何なんだ！？"
+    },
+    {
+      "locale": "zh",
+      "title": "我最好的朋友刚刚收到这封邮件......这到底是什么鬼？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我最好的朋友剛剛收到這封郵件......這到底是什麼鬼？"
+    }
+  ]
 }
