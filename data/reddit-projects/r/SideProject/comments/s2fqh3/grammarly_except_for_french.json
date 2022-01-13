@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フランス語以外のGrammarly"
+    },
+    {
+      "locale": "zh",
+      "title": "Grammarly，除了法语"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Grammarly，除了法語"
+    }
+  ]
 }
