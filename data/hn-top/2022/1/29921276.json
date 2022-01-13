@@ -12,5 +12,19 @@
   ],
   "objectID": "29921276",
   "original_created_at": "2022-01-13T14:48:10.000Z",
-  "image": "https://benhoyt.com/images/form-validation.png"
+  "image": "https://benhoyt.com/images/form-validation.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "入力をサニタイズしようとせず、出力をエスケープする(2020)"
+    },
+    {
+      "locale": "zh",
+      "title": "不要试图对输入进行消毒，转义输出(2020)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要試圖對輸入進行消毒，轉義輸出(2020)"
+    }
+  ]
 }
