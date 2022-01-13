@@ -155,5 +155,22 @@
     "retweet_count": 151,
     "favorite_count": 665,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @marcosdanix: @ZubyMusic うん、秩序を守る人は秩序を与える人よりも道徳的な責任がある https://t.co/n8Tm1v6JvE",
+      "retweeted_status_full_text": "@ZubyMusic そう、秩序を守る者は秩序を与える者よりも道徳的な責任があるのです https://t.co/n8Tm1v6JvE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @marcosdanix: @ZubyMusic 是的，跟单者比跟单者在道德上更有责任 https://t.co/n8Tm1v6JvE",
+      "retweeted_status_full_text": "@ZubyMusic 是的，跟单者比跟单者更有道德责任感https://t.co/n8Tm1v6JvE。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @marcosdanix: @ZubyMusic 是的，跟單者比跟單者在道德上更有責任 https://t.co/n8Tm1v6JvE",
+      "retweeted_status_full_text": "@ZubyMusic 是的，跟單者比跟單者更有道德責任感https://t.co/n8Tm1v6JvE。"
+    }
+  ]
 }

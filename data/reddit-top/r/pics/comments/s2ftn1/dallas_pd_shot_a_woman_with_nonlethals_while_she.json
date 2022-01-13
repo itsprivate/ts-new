@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダラス警察は、食料品を持って歩いて帰ろうとした女性をノンレザルで撃った。"
+    },
+    {
+      "locale": "zh",
+      "title": "达拉斯警察用非致命性武器射杀了一名妇女，当时她正试图拿着她的杂货走回家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "達拉斯警察用非致命性武器射殺了一名婦女，當時她正試圖拿着她的雜貨走回家。"
+    }
+  ]
 }
