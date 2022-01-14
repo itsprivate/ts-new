@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-14T11:19:21Z",
   "image": "https://dev.to/social_previews/article/955037.png",
   "author": "nermineslimane",
-  "author_url": "https://dev.to/nermineslimane"
+  "author_url": "https://dev.to/nermineslimane",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクト・アーキテクチャはなぜ重要なのか？  プロジェクトに適切な基盤を持つこと...",
+      "title": "ExpressとNode.Jsのプロジェクトの構成方法"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么项目架构如此关键？  有一个适当的基础，我们的项目...",
+      "title": "如何构造你的Express和Node.Js项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼項目架構如此關鍵？  有一個適當的基礎，我們的項目...",
+      "title": "如何構造你的Express和Node.Js項目"
+    }
+  ]
 }
