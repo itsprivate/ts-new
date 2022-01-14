@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マーケットに朗報です。イーサリアム上のUSDCの供給量がライバルのUSDTのそれを初めて上回る"
+    },
+    {
+      "locale": "zh",
+      "title": "对市场来说是个好消息。USDC在以太坊上的供应量首次超过了竞争对手USDT的供应量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對市場來說是個好消息。USDC在以太坊上的供應量首次超過了競爭對手USDT的供應量"
+    }
+  ]
 }
