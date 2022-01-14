@@ -52,5 +52,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-14T08:00:00Z"
+  "original_createdAt": "2022-01-14T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Token Masterは、カラーデザイントークンを自動化するFigma用プラグインです。Token Masterを使えば、デザイントークンのスタイルを編集し、新しいカラーモードを素早く作成することができます。同じ色のトークンを選んで、一度に編集するだけです!",
+      "tagline": "Figmaでデザイントークンを編集し、新しいカラーモードを作成する。"
+    },
+    {
+      "locale": "zh",
+      "description": "Token Master 是 Figma 的一个插件，可使您的色彩设计标记自动化。使用 Token Master，您可以编辑设计令牌中的样式，并快速创建新的颜色模式。只需挑选具有相同颜色的令牌，并一次性编辑它们即可!",
+      "tagline": "在Figma中编辑设计令牌并创建新的颜色模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Token Master 是 Figma 的一個插件，可使您的色彩設計標記自動化。使用 Token Master，您可以編輯設計令牌中的樣式，並快速創建新的顏色模式。只需挑選具有相同顏色的令牌，並一次性編輯它們即可!",
+      "tagline": "在Figma中編輯設計令牌並創建新的顏色模式"
+    }
+  ]
 }
