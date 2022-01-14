@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キャビット"
+    },
+    {
+      "locale": "zh",
+      "title": "菜鸟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "菜鳥"
+    }
+  ]
 }
