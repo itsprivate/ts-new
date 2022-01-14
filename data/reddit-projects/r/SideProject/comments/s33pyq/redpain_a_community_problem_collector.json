@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "No one likes wasting time building products/projects for communities that don't\nfind it valuable.\n\nRedPain [https://redpain.vercel.app/] collects posts from various Subreddits\nthat mention words that signify a pain or problem of some sort. This is many aim\ntowards makers like us looking for…"
+  "the_new_excerpt": "No one likes wasting time building products/projects for communities that don't\nfind it valuable.\n\nRedPain [https://redpain.vercel.app/] collects posts from various Subreddits\nthat mention words that signify a pain or problem of some sort. This is many aim\ntowards makers like us looking for…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰も好き好んで、そうでないコミュニティのために製品やプロジェクトを作ることはないでしょう。\nということです。\n\nRedPain [https://redpain.vercel.app/]は様々なSubredditsから投稿を集めています。\nある種の痛みや問題を意味する言葉に言及したもの。これは、多くの場合\n私たちのようなメーカーが探しているのは...。",
+      "title": "RedPain - コミュニティ問題コレクター"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "没有人喜欢浪费时间为那些不认为有价值的社区建立产品/项目。\n发现它的价值。\n\nRedPain[https://redpain.vercel.app/]收集了来自各个Subreddits的帖子。\n的帖子，这些帖子提到了象征着某种痛苦或问题的词语。这是许多旨在\n瞄准像我们这样的制造者，寻找...",
+      "title": "RedPain - 一个社区问题收集器"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "沒有人喜歡浪費時間爲那些不認爲有價值的社區建立產品/項目。\n發現它的價值。\n\nRedPain[https://redpain.vercel.app/]收集了來自各個Subreddits的帖子。\n的帖子，這些帖子提到了象徵着某種痛苦或問題的詞語。這是許多旨在\n瞄準像我們這樣的製造者，尋找...",
+      "title": "RedPain - 一個社區問題收集器"
+    }
+  ]
 }
