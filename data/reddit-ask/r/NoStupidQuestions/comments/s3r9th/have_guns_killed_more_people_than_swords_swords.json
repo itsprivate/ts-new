@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "剣よりも銃の方が人を殺している？ 剣は本当に長い間存在したが、銃ははるかに大きな人口を持つ世界で広く使用されている。"
+    },
+    {
+      "locale": "zh",
+      "title": "枪比剑杀的人多吗？ 剑已经存在了很长一段时间，但枪在世界范围内被广泛使用，而世界上的人口要多得多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "槍比劍殺的人多嗎？ 劍已經存在了很長一段時間，但槍在世界範圍內被廣泛使用，而世界上的人口要多得多。"
+    }
+  ]
 }
