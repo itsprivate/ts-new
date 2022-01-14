@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アンチワークに徹すると、結局は働くことになる。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你如此反对工作时，你最终还是要工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你如此反對工作時，你最終還是要工作"
+    }
+  ]
 }
