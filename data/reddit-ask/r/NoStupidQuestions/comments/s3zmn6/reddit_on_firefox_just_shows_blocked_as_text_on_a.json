@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "pic [https://i.imgur.com/RX6EUSc.png]"
+  "the_new_excerpt": "pic [https://i.imgur.com/RX6EUSc.png]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "pic [https://i.imgur.com/RX6EUSc.png]",
+      "title": "FirefoxのRedditでは、空白の背景にテキストとして\" blocked \"が表示されるだけですが、chromeではどうでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "pic [https://i.imgur.com/RX6EUSc.png]",
+      "title": "Firefox上的Reddit只是在空白背景上显示 \"被封锁 \"的文字，在Chrome上可以吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "pic [https://i.imgur.com/RX6EUSc.png]",
+      "title": "Firefox上的Reddit只是在空白背景上顯示 \"被封鎖 \"的文字，在Chrome上可以嗎？"
+    }
+  ]
 }
