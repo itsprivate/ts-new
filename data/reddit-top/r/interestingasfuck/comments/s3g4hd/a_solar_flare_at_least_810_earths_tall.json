@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球8～10個分以上の高さの太陽フレア。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个至少有8-10个地球高的太阳耀斑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個至少有8-10個地球高的太陽耀斑。"
+    }
+  ]
 }
