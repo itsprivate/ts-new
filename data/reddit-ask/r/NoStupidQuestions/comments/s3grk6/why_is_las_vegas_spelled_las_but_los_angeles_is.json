@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Genuine question"
+  "the_new_excerpt": "Genuine question",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "純粋な疑問",
+      "title": "Las Vegasのスペルは \"LAS \"なのに、Los Angelesは同じ発音なのに \"LOS \"なのはなぜ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "真正的问题",
+      "title": "为什么拉斯维加斯被拼成 \"LAS\"，而洛杉矶却被拼成 \"LOS\"，尽管发音相同？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "真正的問題",
+      "title": "爲什麼拉斯維加斯被拼成 \"LAS\"，而洛杉磯卻被拼成 \"LOS\"，儘管發音相同？"
+    }
+  ]
 }
