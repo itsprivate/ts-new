@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは今、何かを11個持っています。あなたは何を11個持つことを選択しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在有11个东西了。你选择什么来拥有11个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在有11個東西了。你選擇什麼來擁有11個？"
+    }
+  ]
 }
