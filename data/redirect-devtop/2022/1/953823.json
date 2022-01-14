@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-13T11:19:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H92_agc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgcpqec4g1x2qrofxl7d.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSは、最も急速に成長しているフレームワークの1つで、ユーティリティファーストで人気があります...",
+      "title": "FlowbiteでTailwind CSS paginationコンポーネントを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind CSS是增长最快的框架之一，它因其实用性第一而受到欢迎。",
+      "title": "如何用Flowbite建立一个Tailwind的CSS分页组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind CSS是增長最快的框架之一，它因其實用性第一而受到歡迎。",
+      "title": "如何用Flowbite建立一個Tailwind的CSS分頁組件"
+    }
+  ]
 }
