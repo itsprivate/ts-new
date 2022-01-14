@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "確かにサプライズだが、歓迎すべきことだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个肯定的惊喜，但也是一个受欢迎的惊喜"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個肯定的驚喜，但也是一個受歡迎的驚喜"
+    }
+  ]
 }
