@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "空気中のさまざまな気体の割合は、高度が変わっても同じなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在不同的海拔高度，空气中不同气体的百分比数量是否保持不变？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不同的海拔高度，空氣中不同氣體的百分比數量是否保持不變？"
+    }
+  ]
 }
