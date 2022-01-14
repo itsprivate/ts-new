@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が孤立している間に父が食事を運んでくれたこと"
+    },
+    {
+      "locale": "zh",
+      "title": "我的父亲是如何在我孤立无援时送来食物的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的父親是如何在我孤立無援時送來食物的"
+    }
+  ]
 }
