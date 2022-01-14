@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-13T08:26:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EreNO7Gc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4d3dh2h3t5jzo715ym8p.PNG",
   "author": "Aravind Kumar Vemula",
-  "author_url": "https://dev.to/lmas3009"
+  "author_url": "https://dev.to/lmas3009",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CleanDocsは、html、tailwindcss、および...を使用して構築された、フリーでオープンソースのドキュメントテンプレートです。",
+      "title": "CleanDocs A ドキュメンテーションテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "CleanDocs是一个免费和开源的文档模板，使用html、tailwindcss、和其他软件构建。",
+      "title": "CleanDocs A Documentation Template"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CleanDocs是一個免費和開源的文檔模板，使用html、tailwindcss、和其他軟件構建。",
+      "title": "CleanDocs A Documentation Template"
+    }
+  ]
 }
