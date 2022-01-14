@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-12T20:48:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3JbjK-7A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.ctfassets.net/zlsyc9paq6sa/6o73SSFZnrt88yQQQE94xG/9e7a30641f1edbb3f671da43626d790b/man-holding-black-aB2nuNAzo0lP30da2.png",
   "author": "Madza",
-  "author_url": "https://dev.to/madza"
+  "author_url": "https://dev.to/madza",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ラジオアプリの制作は、以前から考えていたプロジェクトでした。私はいつも特別な思いで...",
+      "title": "私のオンラインラジオは2ヶ月で10万回再生されました🤯私はどのようにそれを作成したかについて説明します。"
+    },
+    {
+      "locale": "zh",
+      "description": "创建一个广播应用程序是我有一段时间的想法的一个项目。我一直觉得有一种特别的感觉。",
+      "title": "我的网上电台在两个月内达到了10万次播放量 🤯我是如何创建它的 🎉"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建一個廣播應用程序是我有一段時間的想法的一個項目。我一直覺得有一種特別的感覺。",
+      "title": "我的網上電臺在兩個月內達到了10萬次播放量 🤯我是如何創建它的 🎉"
+    }
+  ]
 }
