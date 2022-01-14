@@ -68,5 +68,19 @@
   "retweet_count": 0,
   "favorite_count": 3,
   "possibly_sensitive": false,
-  "original_created_at": "Fri Jan 14 21:21:02 +0000 2022"
+  "original_created_at": "Fri Jan 14 21:21:02 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "WindowsではCR+LFが使われているのに、LinuxではLFしか使われていないことを不思議に思ったことはないだろうか。Michael Lush がその詳細を教えてくれました: https://t.co/iWURJnecZk https://t.co/rfEBPUoKtV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "有没有想过为什么Windows系统使用CR+LF而Linux只使用LF？Michael Lush有详细的说明：https://t.co/iWURJnecZk https://t.co/rfEBPUoKtV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "有沒有想過爲什麼Windows系統使用CR+LF而Linux只使用LF？Michael Lush有詳細的說明：https://t.co/iWURJnecZk https://t.co/rfEBPUoKtV"
+    }
+  ]
 }

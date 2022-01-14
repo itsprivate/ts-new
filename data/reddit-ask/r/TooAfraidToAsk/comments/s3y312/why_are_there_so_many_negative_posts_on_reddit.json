@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Someone tried to chat with me and I hit ignore, I didn't mean to. Feel free to\ntry again"
+  "the_new_excerpt": "Someone tried to chat with me and I hit ignore, I didn't mean to. Feel free to\ntry again",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰かが私とチャットしようとしたので無視を押しました、そんなつもりはなかったのですが。気軽に\n再チャレンジ",
+      "title": "なぜredditには割礼に関する否定的な書き込みが多いのですか？私は割礼をしていますが、何の問題もありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有人想和我聊天，我点击了忽略，我不是故意的。请随意\n再次尝试",
+      "title": "为什么reddit上有那么多关于包皮环切术的负面帖子？我有包皮环切术，我从来没有遇到过任何问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有人想和我聊天，我點擊了忽略，我不是故意的。請隨意\n再次嘗試",
+      "title": "爲什麼reddit上有那麼多關於包皮環切術的負面帖子？我有包皮環切術，我從來沒有遇到過任何問題。"
+    }
+  ]
 }

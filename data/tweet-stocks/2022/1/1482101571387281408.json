@@ -134,5 +134,22 @@
     "retweet_count": 3727,
     "favorite_count": 5836,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @RonMilnerBoodle: シカゴの車両基地で撮影されたビデオ。\"このビデオが再生されたら教えてください\" - Ron https://t.co/uyZ64uNTxV",
+      "retweeted_status_full_text": "シカゴのトレインヤードで撮影されたビデオ。「このビデオが再生されたら教えてください」 - Ron https://t.co/uyZ64uNTxV"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @RonMilnerBoodle: 在芝加哥的一个火车场拍摄的视频。\"如果这段视频播放，请告诉我\" - Ron https://t.co/uyZ64uNTxV",
+      "retweeted_status_full_text": "视频拍摄于芝加哥的一个火车场。\"如果这个视频播放，请告诉我\"--罗恩https://t.co/uyZ64uNTxV"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @RonMilnerBoodle: 在芝加哥的一個火車場拍攝的視頻。\"如果這段視頻播放，請告訴我\" - Ron https://t.co/uyZ64uNTxV",
+      "retweeted_status_full_text": "視頻拍攝於芝加哥的一個火車場。\"如果這個視頻播放，請告訴我\"--羅恩https://t.co/uyZ64uNTxV"
+    }
+  ]
 }
