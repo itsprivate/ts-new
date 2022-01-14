@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-14T08:01:00Z"
+  "original_createdAt": "2022-01-14T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Driveに直接ファイルを送信するための簡単なアップロードページを作成することができます。アップロードされるファイルのサイズに制限はありません。ファイルのセキュリティとプライバシーは万全です。",
+      "tagline": "Google Driveにあるファイルを受け取るためのより良い方法 - 無料"
+    },
+    {
+      "locale": "zh",
+      "description": "创建简单的上传页面，其他人可以用它来直接发送文件到你的Google Drive。对上传文件的大小没有限制。你的文件的完全安全和隐私。",
+      "tagline": "在你的Google Drive中接收文件的更好方法--免费"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建簡單的上傳頁面，其他人可以用它來直接發送文件到你的Google Drive。對上傳文件的大小沒有限制。你的文件的完全安全和隱私。",
+      "tagline": "在你的Google Drive中接收文件的更好方法--免費"
+    }
+  ]
 }
