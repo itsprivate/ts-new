@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "水平線の下に見えるタービン。これで平地居住者は永久に黙らせることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "地平线以下的涡轮机。这应该能让平地人永远闭嘴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地平線以下的渦輪機。這應該能讓平地人永遠閉嘴。"
+    }
+  ]
 }

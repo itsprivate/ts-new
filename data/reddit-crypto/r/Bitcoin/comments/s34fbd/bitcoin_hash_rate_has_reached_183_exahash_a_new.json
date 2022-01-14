@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのハッシュレートが183エクサハッシュとなり、過去最高を更新しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币哈希率已经达到183 Exahash，创历史新高。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣哈希率已經達到183 Exahash，創歷史新高。"
+    }
+  ]
 }
