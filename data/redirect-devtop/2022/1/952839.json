@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-12T15:14:28Z",
   "image": "https://dev.to/social_previews/article/952839.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このアイデアは、一時期大流行しましたね。このアイデアは、もはやかつてのようなトレンドではありませんが、それは...。",
+      "title": "マイクロフロントエンドってまだあるんですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这个想法曾一度风靡一时。这个想法不再像以前那样成为潮流，但这是...",
+      "title": "微观前台仍然是一个东西吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個想法曾一度風靡一時。這個想法不再像以前那樣成爲潮流，但這是...",
+      "title": "微觀前臺仍然是一個東西嗎？"
+    }
+  ]
 }
