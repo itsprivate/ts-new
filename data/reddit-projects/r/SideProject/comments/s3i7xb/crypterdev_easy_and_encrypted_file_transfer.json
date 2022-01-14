@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Crypter.dev - 簡単で暗号化されたファイル転送"
+    },
+    {
+      "locale": "zh",
+      "title": "Crypter.dev - 轻松加密的文件传输"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Crypter.dev - 輕鬆加密的文件傳輸"
+    }
+  ]
 }
