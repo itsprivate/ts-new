@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-13T14:12:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1yj5APSN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qydybv7nqgr8nbkm10ed.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Twilioは、メッセージング、通話、ストリーミングを統合したい開発者の間で人気となっている...",
+      "title": "JavascriptとTwilioによるテキストメッセージの送信"
+    },
+    {
+      "locale": "zh",
+      "description": "Twilio已经成为那些希望将信息、呼叫和流媒体整合在一起的开发者们的最爱。",
+      "title": "用Javascript和Twilio发送短信"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Twilio已經成爲那些希望將信息、呼叫和流媒體整合在一起的開發者們的最愛。",
+      "title": "用Javascript和Twilio發送短信"
+    }
+  ]
 }
