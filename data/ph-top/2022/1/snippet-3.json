@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-14T08:01:00Z"
+  "original_createdAt": "2022-01-14T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "a macOS quick link finder inspired by https://uiw.tf get the https://testflight.apple.com/join/RTRJrZYM building this to remember all sorts of cool links and to hit my routines each day let me on twitter what'd like to see next!",
+      "tagline": "macOSのクイックリンクファインダー"
+    },
+    {
+      "locale": "zh",
+      "description": "一个受https://uiw.tf 启发的macOS快速链接搜索器，https://testflight.apple.com/join/RTRJrZYM 建立这个来记住各种很酷的链接，并且每天打出我的例程，让我在twitter上知道你想看到的下一步!",
+      "tagline": "一个MacOS快速链接搜索器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個受https://uiw.tf 啓發的macOS快速鏈接搜索器，https://testflight.apple.com/join/RTRJrZYM 建立這個來記住各種很酷的鏈接，並且每天打出我的例程，讓我在twitter上知道你想看到的下一步!",
+      "tagline": "一個MacOS快速鏈接搜索器"
+    }
+  ]
 }
