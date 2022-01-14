@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私のサイドプロジェクトです &lt;3"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我的副业 &lt;3"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我的副業 &lt;3"
+    }
+  ]
 }
