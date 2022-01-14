@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "快適さにはこだわらない。大事なのは近いこと"
+    },
+    {
+      "locale": "zh",
+      "title": "不在乎舒适度。最主要的是，我们很接近"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不在乎舒適度。最主要的是，我們很接近"
+    }
+  ]
 }
