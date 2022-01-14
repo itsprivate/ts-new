@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は言っている。\"ママを見て！\""
+    },
+    {
+      "locale": "zh",
+      "title": "她在说。\"看着我，妈妈！\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她在說。\"看着我，媽媽！\""
+    }
+  ]
 }
