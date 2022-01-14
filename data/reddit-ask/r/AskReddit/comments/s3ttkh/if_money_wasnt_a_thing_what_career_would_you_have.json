@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしお金がなかったら、あなたはどんな職業に就きたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果钱不是问题，你会从事什么职业？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果錢不是問題，你會從事什麼職業？"
+    }
+  ]
 }

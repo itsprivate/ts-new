@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの家のすべての部屋にあるアイテムは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你家里的每个房间都有什么物品？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你家裏的每個房間都有什麼物品？"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "6年前のこの日、ビットコイン開発者のマイク・ハーンはビットコインの失敗を宣言し、手持ちのビットコインをすべて売却した。当時の為替レートは430ドル。"
+    },
+    {
+      "locale": "zh",
+      "title": "6年前的这一天，比特币开发者Mike Hearn宣布比特币失败了，并卖掉了他所有的比特币。当时的汇率是430美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "6年前的這一天，比特幣開發者Mike Hearn宣佈比特幣失敗了，並賣掉了他所有的比特幣。當時的匯率是430美元。"
+    }
+  ]
 }
