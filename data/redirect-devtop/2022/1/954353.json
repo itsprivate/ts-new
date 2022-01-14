@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-13T18:55:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VwKuRA_r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/427yh9kull5oycojetde.png",
   "author": "Annie Sexton",
-  "author_url": "https://dev.to/anniesexton"
+  "author_url": "https://dev.to/anniesexton",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発は直線的なプロセスではありませんから、私たちのコミットにもそれが反映される傾向があります。ここでは、PR レビューを迅速に行うための git フローと、git の履歴を整理する方法について学びます。",
+      "title": "ギット・オーガナイズド より良いGitの流れ"
+    },
+    {
+      "locale": "zh",
+      "description": "开发很少是一个线性过程，而我们的提交往往反映了这一点。在这里，你会了解到一个用于加快PR审查的git流程，以及如何保持你的git历史的条理性。",
+      "title": "Git的组织化。一个更好的Git流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發很少是一個線性過程，而我們的提交往往反映了這一點。在這裏，你會了解到一個用於加快PR審查的git流程，以及如何保持你的git歷史的條理性。",
+      "title": "Git的組織化。一個更好的Git流程"
+    }
+  ]
 }
