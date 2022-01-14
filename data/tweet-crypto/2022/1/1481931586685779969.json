@@ -63,5 +63,22 @@
     "retweet_count": 296,
     "favorite_count": 828,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @thetimes: オミクロン波で緩和されるため、コビド認証は不要との結論に保健省長官が達した https://t.co/LVE4ay...",
+      "retweeted_status_full_text": "オミクロン波が緩和されたため、保健長官はコビド認証は不要と結論づけた https://t.co/LVE4ay5a7W"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @thetimes: 卫生部长已经得出结论，Covid认证不再需要，因为Omicron浪潮缓解了https://t.co/LVE4ay。",
+      "retweeted_status_full_text": "卫生部长已经得出结论，不再需要Covid认证，因为Omicron浪潮缓解了https://t.co/LVE4ay5a7W"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @thetimes: 衛生部長已經得出結論，Covid認證不再需要，因爲Omicron浪潮緩解了https://t.co/LVE4ay。",
+      "retweeted_status_full_text": "衛生部長已經得出結論，不再需要Covid認證，因爲Omicron浪潮緩解了https://t.co/LVE4ay5a7W"
+    }
+  ]
 }
