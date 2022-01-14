@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-13T07:05:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0kiELK3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jymsghbish4pgsj2dve4.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに AWS Well-Architected Frameworkを使用することで、AWSを使用する際のトレードオフを理解することができます。",
+      "title": "セキュリティの柱 - AWS Well-Architected Framework｜AWSホワイトペーパーの概要"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：AWS良好架构框架帮助您了解对该框架的权衡。",
+      "title": "安全支柱--AWS架构良好的框架｜AWS白皮书摘要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：AWS良好架構框架幫助您瞭解對該框架的權衡。",
+      "title": "安全支柱--AWS架構良好的框架｜AWS白皮書摘要"
+    }
+  ]
 }
