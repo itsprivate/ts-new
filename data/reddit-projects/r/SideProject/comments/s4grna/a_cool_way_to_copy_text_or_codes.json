@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキストやコードをコピーするクールな方法"
+    },
+    {
+      "locale": "zh",
+      "title": "复制文本或代码的一种很酷的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "複製文本或代碼的一種很酷的方式"
+    }
+  ]
 }
