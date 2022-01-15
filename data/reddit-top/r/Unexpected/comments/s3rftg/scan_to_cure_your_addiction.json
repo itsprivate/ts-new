@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スキャンで中毒を治す!"
+    },
+    {
+      "locale": "zh",
+      "title": "扫一扫，治治你的瘾!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "掃一掃，治治你的癮!"
+    }
+  ]
 }
