@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オウムの舌"
+    },
+    {
+      "locale": "zh",
+      "title": "鹦鹉的舌头"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鸚鵡的舌頭"
+    }
+  ]
 }
