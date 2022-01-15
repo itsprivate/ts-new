@@ -52,5 +52,22 @@
   "original_created_at": "2021-12-19T04:17:09Z",
   "image": "https://dev.to/social_previews/article/930261.png",
   "author": "Anubhab Mukherjee",
-  "author_url": "https://dev.to/anubhab5"
+  "author_url": "https://dev.to/anubhab5",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、独自のAngular Moduleを作成する方法を学びます。もしあなたがAngularモジュールについて知らないのであれば、私は...",
+      "title": "Angularでカスタムモジュールを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我们将学习如何创建我们自己的Angular模块。如果你不知道Angular模块，我可以告诉你。",
+      "title": "在Angular中创建自定义模块"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我們將學習如何創建我們自己的Angular模塊。如果你不知道Angular模塊，我可以告訴你。",
+      "title": "在Angular中創建自定義模塊"
+    }
+  ]
 }
