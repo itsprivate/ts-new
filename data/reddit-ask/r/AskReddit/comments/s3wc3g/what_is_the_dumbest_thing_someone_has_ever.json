@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまで、誰かがあなたを非難した中で、事実とは異なる最も愚かなことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有人曾经指责你的最愚蠢的事情是什么，只是不符合事实？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人曾經指責你的最愚蠢的事情是什麼，只是不符合事實？"
+    }
+  ]
 }
