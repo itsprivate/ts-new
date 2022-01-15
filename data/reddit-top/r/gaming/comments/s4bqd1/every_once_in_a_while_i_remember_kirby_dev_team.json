@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たまに「カービィ開発チーム、手描きに挑戦」を思い出すけど、期待を裏切らないね。"
+    },
+    {
+      "locale": "zh",
+      "title": "每隔一段时间，我都会想起 \"Kirby开发团队试图用手来画他\"，从来没有令人失望过。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每隔一段時間，我都會想起 \"Kirby開發團隊試圖用手來畫他\"，從來沒有令人失望過。"
+    }
+  ]
 }
