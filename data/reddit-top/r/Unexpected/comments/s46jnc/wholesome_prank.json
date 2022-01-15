@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "健全な悪戯"
+    },
+    {
+      "locale": "zh",
+      "title": "健康的恶作剧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "健康的惡作劇"
+    }
+  ]
 }
