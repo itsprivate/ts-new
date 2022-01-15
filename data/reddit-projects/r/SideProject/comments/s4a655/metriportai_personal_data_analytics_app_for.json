@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Metriport.ai - 何でもトラッキングしてウェルビーイングを向上させるパーソナルデータ分析アプリ :)"
+    },
+    {
+      "locale": "zh",
+      "title": "Metriport.ai - 个人数据分析应用程序，用于跟踪任何事情并改善健康状况 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Metriport.ai - 個人數據分析應用程序，用於跟蹤任何事情並改善健康狀況 :)"
+    }
+  ]
 }
