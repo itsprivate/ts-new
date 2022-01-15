@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "木にパンチしているだけの男"
+    },
+    {
+      "locale": "zh",
+      "title": "只是一个人在打一棵树"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是一個人在打一棵樹"
+    }
+  ]
 }
