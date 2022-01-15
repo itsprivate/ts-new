@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-14T15:28:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hJNqlddb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rynslvrqoywsd5bisjyg.jpg",
   "author": "Andy Piper",
-  "author_url": "https://dev.to/andypiper"
+  "author_url": "https://dev.to/andypiper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本業は、このDEVを読んだりシェアしたりしていろいろ学んでいるとき以外は、開発者として...",
+      "title": "新しいAPIの習得に役立つリソースは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的日常工作中，当我不通过在DEV上的阅读和分享来学习东西时，我是一名开发人员。",
+      "title": "哪些资源有助于你学习新的API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的日常工作中，當我不通過在DEV上的閱讀和分享來學習東西時，我是一名開發人員。",
+      "title": "哪些資源有助於你學習新的API？"
+    }
+  ]
 }
