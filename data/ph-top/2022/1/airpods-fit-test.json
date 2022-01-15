@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-15T08:01:00Z"
+  "original_createdAt": "2022-01-15T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "耳の形＆サイズに合わせて、どのAirpodsが一番フィットするかを予測するツールです。",
+      "tagline": "あなたに最もフィットするAirPodsを予測するAI"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个工具，根据你的耳朵形状和大小，预测哪款Airpods最适合你。",
+      "tagline": "AI预测哪种AirPods最适合你"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個工具，根據你的耳朵形狀和大小，預測哪款Airpods最適合你。",
+      "tagline": "AI預測哪種AirPods最適合你"
+    }
+  ]
 }
