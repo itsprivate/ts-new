@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-15T08:01:00Z"
+  "original_createdAt": "2022-01-15T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースの画像・動画編集ソフト。ビルド時に提供可能な動的要素をサポートします。",
+      "tagline": "オープンソースの画像・動画編集ソフト"
+    },
+    {
+      "locale": "zh",
+      "description": "开源的图像和视频编辑器。支持动态元素，可以在构建时提供。",
+      "tagline": "开源图像和视频编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源的圖像和視頻編輯器。支持動態元素，可以在構建時提供。",
+      "tagline": "開源圖像和視頻編輯器"
+    }
+  ]
 }
