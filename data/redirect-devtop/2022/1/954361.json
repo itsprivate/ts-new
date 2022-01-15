@@ -55,5 +55,22 @@
   "original_created_at": "2022-01-13T19:00:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0RN9g5S1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zoxvbu0494gq3sxtjp4v.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevNewsのS7E1ポッドは、どこででもお聞きになれます。",
+      "title": "DevNews Podcast Season 7 プレミアを聴く🎤。"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你在哪里获得播客，都可以收听DevNews播客的S7E1。",
+      "title": "听听DevNews播客第七季的首播🎤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你在哪裏獲得播客，都可以收聽DevNews播客的S7E1。",
+      "title": "聽聽DevNews播客第七季的首播🎤"
+    }
+  ]
 }
