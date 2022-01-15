@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "meaning anything with added sugar or sweetener."
+  "the_new_excerpt": "meaning anything with added sugar or sweetener.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "砂糖や甘味料が添加されているものを意味します。",
+      "title": "砂糖を食べるのをやめたら、劇的に空腹感がなくなった。どうなってるんだ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "指任何添加了糖或甜味剂的东西。",
+      "title": "我不再吃糖了，而且我的饥饿感大大降低。这到底是怎么回事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "指任何添加了糖或甜味劑的東西。",
+      "title": "我不再喫糖了，而且我的飢餓感大大降低。這到底是怎麼回事？"
+    }
+  ]
 }
