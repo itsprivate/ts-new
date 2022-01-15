@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title"
+  "the_new_excerpt": "Title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": ".suのトップレベルドメインが導入されたのは、ちょうどソ連邦が崩壊する1年前だったので、ソ連共産党はインターネット上にホームページを持っていたのでしょうか？もしあれば、誰がそれを作ったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题",
+      "title": "由于.su顶级域名是在苏联解体前一年多推出的，苏联共产党是否有一个互联网网页？如果有，是谁做的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題",
+      "title": "由於.su頂級域名是在蘇聯解體前一年多推出的，蘇聯共產黨是否有一個互聯網網頁？如果有，是誰做的？"
+    }
+  ]
 }
