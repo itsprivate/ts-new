@@ -35,5 +35,22 @@
   "original_created_at": "2022-01-14T05:39:53Z",
   "image": "https://dev.to/social_previews/article/954789.png",
   "author": "Sacha Greif",
-  "author_url": "https://dev.to/sachagreif"
+  "author_url": "https://dev.to/sachagreif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "暗号化キーが公に流出",
+      "title": "State of JavaScript/State of CSSのデータリークを公開する。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个加密密钥被公开泄露",
+      "title": "披露JavaScript的状态/CSS的状态数据泄漏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個加密密鑰被公開泄露",
+      "title": "披露JavaScript的狀態/CSS的狀態數據泄漏"
+    }
+  ]
 }
