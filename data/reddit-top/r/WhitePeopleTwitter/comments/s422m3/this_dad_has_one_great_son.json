@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このお父さんには、一人の素晴らしい息子がいる"
+    },
+    {
+      "locale": "zh",
+      "title": "这位父亲有一个伟大的儿子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位父親有一個偉大的兒子"
+    }
+  ]
 }
