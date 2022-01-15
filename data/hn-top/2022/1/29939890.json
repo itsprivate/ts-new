@@ -13,5 +13,19 @@
   ],
   "objectID": "29939890",
   "original_created_at": "2022-01-14T20:23:39.000Z",
-  "image": "https://wisser.github.io/Jailer/logo.png"
+  "image": "https://wisser.github.io/Jailer/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "牢番。データベースのサブセット、スキーマ、データブラウジングのためのツール"
+    },
+    {
+      "locale": "zh",
+      "title": "Jailer: 一个用于数据库子集、模式和数据浏览的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Jailer: 一個用於數據庫子集、模式和數據瀏覽的工具"
+    }
+  ]
 }
