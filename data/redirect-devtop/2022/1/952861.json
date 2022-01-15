@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-12T15:39:29Z",
   "image": "https://dev.to/social_previews/article/952861.png",
   "author": "Alessandro Rodi",
-  "author_url": "https://dev.to/coorasse"
+  "author_url": "https://dev.to/coorasse",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちの目標：nodejsを取り除くこと Railsコミュニティの他の多くの人々と同じように、私もnodejsのセットアップを開始しました。",
+      "title": "Rails 7、Bootstrap 5とimportmapsをnodejsなしで使う。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们的目标：删除nodejs 和Rails社区的其他许多人一样，我开始设置...",
+      "title": "Rails 7、Bootstrap 5和importmaps，无需nodejs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們的目標：刪除nodejs 和Rails社區的其他許多人一樣，我開始設置...",
+      "title": "Rails 7、Bootstrap 5和importmaps，無需nodejs"
+    }
+  ]
 }
