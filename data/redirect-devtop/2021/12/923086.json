@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-10T16:48:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GJwXZEg4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wezcn9u8tds7zoiccef0.jpg",
   "author": "Swaraj Panigrahi",
-  "author_url": "https://dev.to/swrjp"
+  "author_url": "https://dev.to/swrjp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードが動くだけではダメなのです。- ロバート・C・マーティン 何時間もかけて書き、...",
+      "title": "クリーンコード - Javascript"
+    },
+    {
+      "locale": "zh",
+      "description": "仅仅是代码工作是不够的。- 罗伯特-C-马丁（Robert C. Martin）花了数小时的时间来编写、...",
+      "title": "清洁代码--Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "僅僅是代碼工作是不夠的。- 羅伯特-C-馬丁（Robert C. Martin）花了數小時的時間來編寫、...",
+      "title": "清潔代碼--Javascript"
+    }
+  ]
 }

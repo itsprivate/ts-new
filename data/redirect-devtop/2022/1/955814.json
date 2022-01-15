@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-15T07:16:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---10wbNaU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gtjkyycptodcg3dfqoqv.png",
   "author": "Ansub Khan",
-  "author_url": "https://dev.to/ansub"
+  "author_url": "https://dev.to/ansub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "字句の構造 字句の構造は、基本的にJavascriptのビルディングブロックです。",
+      "title": "2022年に学ぶべきJavascriptのコンセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "词法结构 词法结构基本上是Javascript的构建块：...",
+      "title": "2022年你应该学习的Javascript概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "詞法結構 詞法結構基本上是Javascript的構建塊：...",
+      "title": "2022年你應該學習的Javascript概念"
+    }
+  ]
 }
