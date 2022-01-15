@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-12T14:10:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FVMtgMQU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lz0blphvcvzebajvxk0s.png",
   "author": "ahmedgaafer",
-  "author_url": "https://dev.to/ahmedgaafer"
+  "author_url": "https://dev.to/ahmedgaafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "展開構文（...）を使用すると、配列式や文字列などの反復処理可能な箇所を展開することができます...",
+      "title": "は、{... は危険"
+    },
+    {
+      "locale": "zh",
+      "description": "扩展语法(...)允许一个可迭代的东西，如数组表达式或字符串，在一些地方被扩展...",
+      "title": "的{... }是危险的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "擴展語法(...)允許一個可迭代的東西，如數組表達式或字符串，在一些地方被擴展...",
+      "title": "的{... }是危險的"
+    }
+  ]
 }
