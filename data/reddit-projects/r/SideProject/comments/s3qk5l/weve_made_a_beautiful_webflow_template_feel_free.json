@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは美しいWebflowのテンプレートを作りました - あなたのサイドプロジェクトに自由にお使いください（リンクはコメント欄に）。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们做了一个漂亮的Webflow模板--欢迎在你的副业中使用它（评论中的链接）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們做了一個漂亮的Webflow模板--歡迎在你的副業中使用它（評論中的鏈接）。"
+    }
+  ]
 }
