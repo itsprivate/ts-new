@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Or if you know a woman over 50 who does not have children, same question"
+  "the_new_excerpt": "Or if you know a woman over 50 who does not have children, same question",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あるいは、50歳以上の女性で子供がいない人を知っている場合、同じ質問をします。",
+      "title": "子供を持つ必要性を感じなかった高齢の女性たちは、今どのような生活を送っているのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者如果你认识一个50岁以上没有孩子的女性，同样的问题",
+      "title": "从未觉得需要生孩子的老年妇女，你现在的生活是怎样的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者如果你認識一個50歲以上沒有孩子的女性，同樣的問題",
+      "title": "從未覺得需要生孩子的老年婦女，你現在的生活是怎樣的？"
+    }
+  ]
 }
