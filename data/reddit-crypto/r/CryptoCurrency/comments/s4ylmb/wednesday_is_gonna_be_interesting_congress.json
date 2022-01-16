@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "水曜日は面白いことになりそうですね。議会がビットコインのエネルギー使用に関する公聴会を発表"
+    },
+    {
+      "locale": "zh",
+      "title": "星期三会很有趣。国会宣布就比特币的能源使用举行听证会"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "星期三會很有趣。國會宣佈就比特幣的能源使用舉行聽證會"
+    }
+  ]
 }

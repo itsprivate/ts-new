@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "13年前の今日、サトシ・ナカモトは私たちに、これまでで最も重要な助言を与えてくれた。"
+    },
+    {
+      "locale": "zh",
+      "title": "十三年前的今天，中本聪给了我们所有人一些可能有史以来最重要的建议。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "十三年前的今天，中本聰給了我們所有人一些可能有史以來最重要的建議。"
+    }
+  ]
 }
