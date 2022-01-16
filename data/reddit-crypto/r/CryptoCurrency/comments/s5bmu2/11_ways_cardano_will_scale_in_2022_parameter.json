@@ -1,0 +1,62 @@
+{
+  "author": "cascading_disruption",
+  "original_created_utc": 1642338849,
+  "title": "11 ways Cardano will scale in 2022: Parameter adjustments, improvements, enhancements and other innovations will all play their part in steadily increasing Cardano’s capacity &amp; throughput",
+  "created_utc": 1642365089,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;On-chain solutions&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Block size increase&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;The  bigger the block, the more transactions it can carry. Block size was  recently increased by 8KB to 72KB (a 12.5% increase); further increases  will be applied over time based on ongoing system monitoring and overall  network health.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Pipelining&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Improves block  propagation times by coalescing validation and propagation. The goal is  for blocks to be propagated to at least 95% of peers within five seconds  by reducing the ‘dead time’ between blocks (the block propagation  overhead). This provides the headroom to make more aggressive scaling  changes, such as increasing block size/increasing Plutus parameter limits.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Input Endorsers&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Input endorsers  improve block propagation times and throughput by allowing transactions  to be separated into pre-constructed blocks. This improves the  consistency of block propagation times and allows higher transaction  rates.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Memory /CPU parameters for Plutus&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Memory  usage is more efficient across the chain. Specifically, there are  memory improvements in Unspent Transaction Output (UTXO) handling, stake  distribution, live stake distribution and pools, and hash  representation.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Plutus script enhancements&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Even more effective usage of the powerful EUTXO model through smart contract optimization, including: &lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Reference  inputs (CIP-0031)  – Plutus scripts can inspect transaction inputs  without needing to spend them. This means that it is not necessary to  create UTXOs simply to inspect the information held by an input.&lt;/li&gt;\n&lt;li&gt;Plutus  Datums (CIP-0032) – Datums can be attached directly to outputs instead  of datum hashes. This simplifies how datums are used, as a user can see  the actual datum rather than having to supply the datum that matches the  given hash.&lt;/li&gt;\n&lt;li&gt;Script sharing (CIP-0033) – Plutus script  references can be associated with transaction outputs, meaning that they  can be recorded on-chain for subsequent reuse. It will not be necessary  to supply a copy of the script with each transaction, hugely reducing  friction for developers. Reusing scripts in multiple transactions  significantly reduces transaction sizes, improving throughput and  reducing script execution costs.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Node enhancements&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Improvements  will help even distribution of stake and reward computations across the  epochs, thus providing greater headroom for block size increases. Also,  memory usage is now more efficient. Memory compaction reduces RSS  footprint, and memory sharing means we need less data instantiated. Node  version 1.3.3, from January 2022, reduces peak load at critical points,  including the epoch boundary.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;On-disk storage&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;By  storing portions of the protocol state on disk, nodes will need to hold  less in memory, meaning that RAM-constrained systems will be able to  run nodes provided they have sufficient storage, and memory will no  longer be a bottleneck on scalability. This will enable significant  growth in the blockchain state.&lt;/p&gt;\n\n&lt;h2&gt;Off-chain solutions&lt;/h2&gt;\n\n&lt;p&gt;&lt;strong&gt;Sidechains&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;A sidechain is a separate blockchain connected to a main blockchain (the  &amp;#39;main&amp;#39; chain, also known as parent chain), through a two-way mechanism  (the &amp;#39;bridge&amp;#39;) that enables tokens and other digital assets from one  chain to be used in another and results returned to the original chain.  Assets can be moved between chains as needed. One single parent chain  can have multiple interoperable sidechains connected to it, which may  operate in completely different ways. EVM sidechains coming to Cardano  include dcSpark’s Milkomeda and IOG’s Mamba. &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Hydra&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Introduces  isomorphic state channels to maximize throughput, minimize latency,  incur low to no costs, and greatly reduce storage requirements. Hydra  provides a more efficient means to process transactions off-chain while  using the main-chain ledger as the secure settlement layer.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Off-chain computing&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Offloading  some of the computation, for example with Asynchronous Contract  Execution (ACE)  can drive greater core network efficiency. Transactions  occur outside of the blockchain itself, yet can offer fast, cheap  transactions via a trust model.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Mithril&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;To  achieve greater scalability, you need to address the complexity of  critical operations that depend logarithmically on the number of  participants. Mithril will improve chain synchronization while  maintaining trust. The result? Multi-signature aggregation that is fast  and efficient without compromising security features.&lt;/p&gt;\n\n&lt;p&gt;TL;DR: &lt;a href=\"https://ucarecdn.com/ff38dd08-5947-4c52-af32-15c59cdcdcf8/-/format/webp/-/quality/best/-/progressive/yes/\"&gt;All this summarized in one pic&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Source: &lt;a href=\"https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/\"&gt;https://iohk.io/en/blog/posts/2022/01/14/how-we-re-scaling-cardano-in-2022/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Bonus:  Plutus is basically Haskell which is native smart contract language for the Cardano blockchain. Plutus contracts consist of parts that run on the blockchain  (on-chain code) and parts that run on a user’s machine (off-chain or  client code). Both the on-chain and off-chain code are written in Haskell, and Plutus smart contracts are effectively Haskell programs.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 320,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?auto=webp&amp;s=fbd0010e53099e7356d4d1d0667bcaf058f76de7",
+          "width": 1600,
+          "height": 8628
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e151618499995eeb0a76dcb58e7b4c329a8cb2f5",
+            "width": 108,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6520dfb9d0d91c193db2fcb082b30c7cc7084bd1",
+            "width": 216,
+            "height": 432
+          },
+          {
+            "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8a563afa8814c80b7ddf6bc9c25824629527c49e",
+            "width": 320,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca4986e59e91dbb9270f928145289757813b2b2d",
+            "width": 640,
+            "height": 1280
+          },
+          {
+            "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=d8a080119fda8bcd9cf2a487e54e3c04c0478c75",
+            "width": 960,
+            "height": 1920
+          },
+          {
+            "url": "https://external-preview.redd.it/UZSKLIOSJ0o14h_LoOSruZoT3mwcZdA0TtgqnD3IVjo.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=959b7dde580b8a6790505f4e09b7b7b3623b8045",
+            "width": 1080,
+            "height": 2160
+          }
+        ],
+        "variants": {},
+        "id": "E-7n5IahW-tXdGzFNlBpK8KP2KVZWCMCpPAAI-JrqAA"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/s5bmu2/11_ways_cardano_will_scale_in_2022_parameter/",
+  "subreddit": "CryptoCurrency",
+  "id": "s5bmu2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "On-chain solutions\n\nBlock size increase\n\nThe bigger the block, the more transactions it can carry. Block size was\nrecently increased by 8KB to 72KB (a 12.5% increase); further increases will be\napplied over time based on ongoing system monitoring and overall network health.\n\nPipelining\n\nImproves…"
+}
