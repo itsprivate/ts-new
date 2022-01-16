@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弟を外に閉じ込めるために"
+    },
+    {
+      "locale": "zh",
+      "title": "把他的兄弟锁在外面。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "把他的兄弟鎖在外面。"
+    }
+  ]
 }
