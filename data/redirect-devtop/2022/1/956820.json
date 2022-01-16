@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-15T23:54:12Z",
   "image": "https://dev.to/social_previews/article/956820.png",
   "author": "AnxinYang",
-  "author_url": "https://dev.to/anxinyang"
+  "author_url": "https://dev.to/anxinyang",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、Reactを使いながら、子コンポーネントを条件付きでレンダリングするきれいな方法を紹介したいと思います。それは...",
+      "title": "コンポーネントを条件付きでレンダリングするためのクリーンな方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我想分享一种干净的方法，在使用React时有条件地渲染子组件。它是...",
+      "title": "有条件地渲染组件的干净方法 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我想分享一種乾淨的方法，在使用React時有條件地渲染子組件。它是...",
+      "title": "有條件地渲染組件的乾淨方法 "
+    }
+  ]
 }
