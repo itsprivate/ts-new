@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リアルヒーロー!!!"
+    },
+    {
+      "locale": "zh",
+      "title": "一个真正的生命英雄！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個真正的生命英雄！!"
+    }
+  ]
 }
