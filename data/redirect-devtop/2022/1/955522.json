@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-14T19:29:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FbbPux08--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8y8qxj3bhdjthfqjai5l.png",
   "author": "Nikita Grechino",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 前回のエピソードでは、Reactの理解の基礎を築きましたが、今回は...",
+      "title": "Reactコードベースへの深堀り【EP2：npmで最も人気のあるレポのパッケージは？"
+    },
+    {
+      "locale": "zh",
+      "description": "前言 在上一集，我们奠定了对React的理解基础，现在...",
+      "title": "深入研究React代码库 [EP2: repo中的什么包在npm上最受欢迎？］"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前言 在上一集，我們奠定了對React的理解基礎，現在...",
+      "title": "深入研究React代碼庫 [EP2: repo中的什麼包在npm上最受歡迎？］"
+    }
+  ]
 }
