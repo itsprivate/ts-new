@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-16T03:03:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9A7jo-bU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ql8wl1mlj3l1poeqxv39.jpg",
   "author": "Akash Pattanaik",
-  "author_url": "https://dev.to/akashpattnaik"
+  "author_url": "https://dev.to/akashpattnaik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "それで、最近、私のPCでelectron.jsが動作しなくなったので、tauriを使い始めたのですが...。私は驚きました...",
+      "title": "electron.jsを過去に残す。"
+    },
+    {
+      "locale": "zh",
+      "description": "所以，我最近开始使用tauri，因为electron.js在我的电脑上不再工作了...。我感到很惊讶...",
+      "title": "把electron.js留给过去。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以，我最近開始使用tauri，因爲electron.js在我的電腦上不再工作了...。我感到很驚訝...",
+      "title": "把electron.js留給過去。"
+    }
+  ]
 }
