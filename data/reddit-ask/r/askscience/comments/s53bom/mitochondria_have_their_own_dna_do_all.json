@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミトコンドリアは独自のDNAを持っていますが、人の体内のミトコンドリアはすべて同じDNAを持っているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "线粒体有自己的DNA；一个人体内的所有线粒体是否有相同的DNA？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "線粒體有自己的DNA；一個人體內的所有線粒體是否有相同的DNA？"
+    }
+  ]
 }
