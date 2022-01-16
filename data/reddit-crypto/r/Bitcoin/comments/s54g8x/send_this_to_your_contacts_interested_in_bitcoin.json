@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインに関心のある人にこの記事を送り、オレンジ色の錠剤を上手に飲み込んでもらいましょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "把这个发给你对比特币感兴趣的联系人，以便他们能更好地吞下橙色的药丸。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "把這個發給你對比特幣感興趣的聯繫人，以便他們能更好地吞下橙色的藥丸。"
+    }
+  ]
 }
