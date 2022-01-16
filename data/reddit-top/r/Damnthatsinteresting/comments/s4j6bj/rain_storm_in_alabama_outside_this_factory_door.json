@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この工場のドアの外はアラバマの雨嵐"
+    },
+    {
+      "locale": "zh",
+      "title": "这家工厂门外的阿拉巴马州的暴雨"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這家工廠門外的阿拉巴馬州的暴雨"
+    }
+  ]
 }
