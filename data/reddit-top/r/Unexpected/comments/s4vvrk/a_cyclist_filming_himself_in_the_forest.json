@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "森の中で自分を撮影するサイクリスト"
+    },
+    {
+      "locale": "zh",
+      "title": "一个骑自行车的人在森林中拍摄自己的作品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個騎自行車的人在森林中拍攝自己的作品"
+    }
+  ]
 }
