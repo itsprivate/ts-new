@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-16T08:36:40Z"
+  "original_createdAt": "2022-01-16T08:36:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発中のポモドーロ・テクニック・タイマーです。- 素敵な禅モード。- 豊富なバックグラウンド・サウンド。- SwiftUIで構築され、macOSとiOSをクロスします。",
+      "tagline": "禅のグラフィックで効率を最大化するポモドーロタイマー"
+    },
+    {
+      "locale": "zh",
+      "description": "另一个正在开发的Pomodoro Technique计时器。- 漂亮的禅宗模式。- 丰富的背景声音。- 使用SwiftUI构建，跨越macOS和iOS，watchOS和tvOS正在路上。",
+      "tagline": "庞多罗定时器，用禅意的图形最大限度地提高你的效率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "另一個正在開發的Pomodoro Technique計時器。- 漂亮的禪宗模式。- 豐富的背景聲音。- 使用SwiftUI構建，跨越macOS和iOS，watchOS和tvOS正在路上。",
+      "tagline": "龐多羅定時器，用禪意的圖形最大限度地提高你的效率"
+    }
+  ]
 }
