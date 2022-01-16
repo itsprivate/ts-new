@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こうふくかん"
+    },
+    {
+      "locale": "zh",
+      "title": "幸福时刻 ...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幸福時刻 ...."
+    }
+  ]
 }
