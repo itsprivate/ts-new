@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-15T15:51:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KXAZqHAD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/sbVGQ9K.png",
   "author": "JTK",
-  "author_url": "https://dev.to/heyjtk"
+  "author_url": "https://dev.to/heyjtk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時にあなたは虚空に向かって叫び、虚空は叫び返す。",
+      "title": "Dockerについて話そう"
+    },
+    {
+      "locale": "zh",
+      "description": "有时你对着虚空呐喊，虚空也会回以呐喊",
+      "title": "我们来谈谈Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時你對着虛空吶喊，虛空也會回以吶喊",
+      "title": "我們來談談Docker"
+    }
+  ]
 }
