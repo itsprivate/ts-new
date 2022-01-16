@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Mentionsapp.com - Redditのためのシンプルな高度検索"
+    },
+    {
+      "locale": "zh",
+      "title": "Mentionsapp.com - Reddit的简单高级搜索"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Mentionsapp.com - Reddit的簡單高級搜索"
+    }
+  ]
 }
