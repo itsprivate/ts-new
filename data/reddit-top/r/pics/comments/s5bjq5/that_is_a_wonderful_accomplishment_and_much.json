@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは素晴らしい成果であり、同じ会社に留まり続けることははるかに困難です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个了不起的成就，而留在同一公司则更难实现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個了不起的成就，而留在同一公司則更難實現。"
+    }
+  ]
 }
