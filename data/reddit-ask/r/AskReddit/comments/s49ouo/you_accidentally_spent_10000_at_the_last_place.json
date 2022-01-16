@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この前行った店でうっかり1万円使ってしまったんだけど、何を持ち帰ったんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在上次去的地方不小心花了一万块钱，你刚刚带回家的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在上次去的地方不小心花了一萬塊錢，你剛剛帶回家的是什麼？"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "My first attempt was removed so hopefully this is reworded properly"
+  "the_new_excerpt": "My first attempt was removed so hopefully this is reworded properly",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最初の試みは削除されたので、これが適切に言い換えられることを願う。",
+      "title": "あなたの男性経験上、複数の男性がやっていることで納得がいかないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的第一次尝试被删除了，所以希望这句话能被重新正确表述。",
+      "title": "在你与男人相处的经验中，多个男人所做的什么事情对你来说是没有意义的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的第一次嘗試被刪除了，所以希望這句話能被重新正確表述。",
+      "title": "在你與男人相處的經驗中，多個男人所做的什麼事情對你來說是沒有意義的？"
+    }
+  ]
 }
