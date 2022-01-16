@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが牛乳のように熟成されるとしたら、こいつはどれだけ腐ってしまったんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果这东西像牛奶一样老化，那么这家伙已经变得多么烂了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果這東西像牛奶一樣老化，那麼這傢伙已經變得多麼爛了？"
+    }
+  ]
 }
