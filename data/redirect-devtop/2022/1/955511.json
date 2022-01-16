@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-14T18:52:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DmnJhBNm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://bbss.dev/images/pagespeed/cover.png",
   "author": "Slava Knyazev",
-  "author_url": "https://dev.to/knyzorg"
+  "author_url": "https://dev.to/knyzorg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2012年、GoogleはNGINXとApache用のPageSpeedモジュールのバージョン1.0をリリースしました。それは、行った...",
+      "title": "NGINXモジュール1つのインストールでWebサーバーを最適化する"
+    },
+    {
+      "locale": "zh",
+      "description": "2012年，谷歌发布了用于NGINX和Apache的PageSpeed模块的1.0版本。它已经走...",
+      "title": "通过安装单一的NGINX模块优化你的网络服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "2012年，谷歌發佈了用於NGINX和Apache的PageSpeed模塊的1.0版本。它已經走...",
+      "title": "通過安裝單一的NGINX模塊優化你的網絡服務器"
+    }
+  ]
 }
