@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トラックを見るまで、彼は幸せだった"
+    },
+    {
+      "locale": "zh",
+      "title": "他很高兴，直到他看到那辆卡车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他很高興，直到他看到那輛卡車"
+    }
+  ]
 }
