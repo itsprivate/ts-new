@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I asked in another sub and was pointed this way."
+  "the_new_excerpt": "I asked in another sub and was pointed this way.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "別のサブで質問したところ、このように指摘されました。",
+      "title": "本物の飛行機ができる前は、紙飛行機を作っていたのでしょうか？彼らはそれを何と呼んでいたのでしょう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在另一个分会场问过，有人指着这个方向。",
+      "title": "在有真正的飞机之前，人们就开始制作纸飞机了吗？他们怎么称呼它们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在另一個分會場問過，有人指着這個方向。",
+      "title": "在有真正的飛機之前，人們就開始製作紙飛機了嗎？他們怎麼稱呼它們？"
+    }
+  ]
 }
