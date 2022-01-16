@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-15T08:47:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JNw3-nB3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wcdfq8uizqi63mmyxbms.png",
   "author": "sndp",
-  "author_url": "https://dev.to/lizardkinglk"
+  "author_url": "https://dev.to/lizardkinglk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "npm NPM（別名：Node Package Manager）は、Nodeパッケージマネージャで使用するためのライブラリのレジストリです。",
+      "title": "npmの基本コマンド"
+    },
+    {
+      "locale": "zh",
+      "description": "npm NPM又名 \"Node Package Manager\"，是一个注册库，可在Node中使用。",
+      "title": "npm基本命令"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "npm NPM又名 \"Node Package Manager\"，是一個註冊庫，可在Node中使用。",
+      "title": "npm基本命令"
+    }
+  ]
 }
