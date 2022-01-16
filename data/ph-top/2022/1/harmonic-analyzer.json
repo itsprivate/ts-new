@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-16T08:09:09Z"
+  "original_createdAt": "2022-01-16T08:09:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Harmonic Analyzerは、Bytedance社の画期的な研究に基づき、200時間以上のピアノソロ録音を取り込んで学習した機械学習モデルを使って、ピアノ演奏の音符を正確に書き写すことができます。",
+      "tagline": "MLを使って好きなピアノの曲を演奏する方法を学ぶことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "基于Bytedance的突破性研究，Harmonic Analyzer使用了一个通过摄取超过200小时的钢琴独奏录音训练出来的机器学习模型，以准确地转录钢琴演奏中的音符。",
+      "tagline": "学习如何使用ML弹奏你最喜欢的钢琴曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於Bytedance的突破性研究，Harmonic Analyzer使用了一個通過攝取超過200小時的鋼琴獨奏錄音訓練出來的機器學習模型，以準確地轉錄鋼琴演奏中的音符。",
+      "tagline": "學習如何使用ML彈奏你最喜歡的鋼琴曲"
+    }
+  ]
 }
