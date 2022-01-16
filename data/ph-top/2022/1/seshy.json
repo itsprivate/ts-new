@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-15T08:00:00Z"
+  "original_createdAt": "2022-01-15T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1つのChromeウィンドウにたくさんのタブを表示するよりも、たくさんのChromeウィンドウに数個のタブを表示する方がよいでしょう。各Chromeウィンドウは、作業中の1つのタスクを表し、そのタスクに必要なタブのみを表示することができます。Seshyがお手伝いします。",
+      "tagline": "タブの数を減らし、集中力を高める"
+    },
+    {
+      "locale": "zh",
+      "description": "与其在一个Chrome窗口中设置很多标签，不如在许多Chrome窗口中设置几个标签。每个Chrome窗口可以代表你正在处理的一个任务，并且只有该任务所需的标签。Seshy可以帮助你做到这一点!",
+      "tagline": "更少的标签，更多的焦点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與其在一個Chrome窗口中設置很多標籤，不如在許多Chrome窗口中設置幾個標籤。每個Chrome窗口可以代表你正在處理的一個任務，並且只有該任務所需的標籤。Seshy可以幫助你做到這一點!",
+      "tagline": "更少的標籤，更多的焦點"
+    }
+  ]
 }
