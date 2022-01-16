@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-16T15:15:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmnp4Hba--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t42rqd4x3fsvxxxhu53n.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Shopifyからすべての商品とコレクションを移行する方法を紹介します。",
+      "title": "Shopifyのバックエンドを10分以内にオープンソース化し、ヘッドレス化する。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将向你展示如何将你的所有产品和收藏品从Shopify中迁移出来。",
+      "title": "在不到10分钟的时间内将Shopify的后端开源化和无头化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將向你展示如何將你的所有產品和收藏品從Shopify中遷移出來。",
+      "title": "在不到10分鐘的時間內將Shopify的後端開源化和無頭化"
+    }
+  ]
 }
