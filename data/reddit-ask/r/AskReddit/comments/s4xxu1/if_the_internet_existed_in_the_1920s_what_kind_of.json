@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし1920年代にインターネットがあったら、人々はどんな質問をググるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果互联网在20世纪20年代就存在，人们会在谷歌上搜索什么样的问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果互聯網在20世紀20年代就存在，人們會在谷歌上搜索什麼樣的問題？"
+    }
+  ]
 }

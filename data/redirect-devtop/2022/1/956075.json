@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-15T14:28:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eOmgFQ2E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rt68ctdransih90u4x43.jpg",
   "author": "GF",
-  "author_url": "https://dev.to/gf_developer"
+  "author_url": "https://dev.to/gf_developer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactivity Svelteは、クールでシンプルなリアクティブモデルを備えています。理解しやすく、使いやすく、...",
+      "title": "スベルテに込めた私の勝手な思い"
+    },
+    {
+      "locale": "zh",
+      "description": "Reactivity Svelte有很酷的、简单的反应式模型。真的很容易理解和使用，...",
+      "title": "我对Svelte的随机想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Reactivity Svelte有很酷的、簡單的反應式模型。真的很容易理解和使用，...",
+      "title": "我對Svelte的隨機想法"
+    }
+  ]
 }
