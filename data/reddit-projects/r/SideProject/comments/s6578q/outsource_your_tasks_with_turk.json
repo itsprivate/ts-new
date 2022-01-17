@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Turkでタスクをアウトソーシング!"
+    },
+    {
+      "locale": "zh",
+      "title": "将您的任务外包给Turk!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將您的任務外包給Turk!"
+    }
+  ]
 }
