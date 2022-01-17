@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-16T19:02:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KgJFn9rv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ie9gpmttoq8h4laukee5.jpg",
   "author": "Web.Developer.io",
-  "author_url": "https://dev.to/developerioweb"
+  "author_url": "https://dev.to/developerioweb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フォームとは → 使用する入力を取り込むために使用される。 目標 : 入力された情報をもとにフォームを作る。",
+      "title": "Reactでフォームを作る｜13日目"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是表格 → 它们用于接收使用输入。 目标：建立带有 \"我 \"字样的表格。",
+      "title": "React中的表单｜第13天"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是表格 → 它們用於接收使用輸入。 目標：建立帶有 \"我 \"字樣的表格。",
+      "title": "React中的表單｜第13天"
+    }
+  ]
 }
