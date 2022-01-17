@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-15T08:22:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LyzcNY6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ke02dlyzyel3lxv0xiio.png",
   "author": "Zain Ahmed",
-  "author_url": "https://dev.to/zainbinfurqan"
+  "author_url": "https://dev.to/zainbinfurqan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーションがバックエンドから設定を取得し、その設定が以下のようなものであったとします。",
+      "title": "ETagとは何か、なぜETagを使うのか"
+    },
+    {
+      "locale": "zh",
+      "description": "假设你的应用程序从你的后端获取设置，这些设置有大约...",
+      "title": "什么是ETag以及为什么我们要使用它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "假設你的應用程序從你的後端獲取設置，這些設置有大約...",
+      "title": "什麼是ETag以及爲什麼我們要使用它"
+    }
+  ]
 }
