@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SOLOのETHマイナーが170.65ETHの報酬のブロックを発見し、採掘した。これはビットコインのブロック報酬の2倍に相当します。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个SOLO ETH矿工发现并开采了一个奖励为170.65ETH的区块。这就好比是比特币区块奖励的2倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個SOLO ETH礦工發現並開採了一個獎勵爲170.65ETH的區塊。這就好比是比特幣區塊獎勵的2倍"
+    }
+  ]
 }
