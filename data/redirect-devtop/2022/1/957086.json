@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-16T09:49:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7xGj-Ft---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5lqjj85nfnfqexmrkp5a.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSを使ってウェブサイトを構築していますが、ユーティリティクラスのパワーと相まって、...",
+      "title": "FlowbiteでTailwind CSSタイムラインコンポーネントを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在使用Tailwind CSS来建立网站，其强大的实用性类目加上其强大的功能。",
+      "title": "如何用Flowbite建立一个Tailwind的CSS时间线组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在使用Tailwind CSS來建立網站，其強大的實用性類目加上其強大的功能。",
+      "title": "如何用Flowbite建立一個Tailwind的CSS時間線組件"
+    }
+  ]
 }
