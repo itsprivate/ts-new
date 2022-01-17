@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-16T20:36:01Z"
+  "original_createdAt": "2022-01-16T20:36:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Socialscribeは、ニュースレターのランディングページに「Subscribe w/ Twitter」ボタンを作成します。これらのボタンは、特にモバイルデバイスを使用している人のコンバージョンを最大50%（！）まで簡単に増加させます。デモを見るには、https://scribe.deta.dev/bomh をご覧ください。",
+      "tagline": "ニュースレターの「Subscribe w/ Twitter」ボタン"
+    },
+    {
+      "locale": "zh",
+      "description": "Socialscribe为你的通讯登陆页面创建了一个 \"通过Twitter订阅 \"的按钮。这些按钮可以毫不费力地将你的转化率提高到50%（！），特别是对于使用移动设备的人。如需演示，请查看：https://scribe.deta.dev/bomh",
+      "tagline": "为你的新闻通讯设置 \"通过Twitter订阅 \"按钮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Socialscribe爲你的通訊登陸頁面創建了一個 \"通過Twitter訂閱 \"的按鈕。這些按鈕可以毫不費力地將你的轉化率提高到50%（！），特別是對於使用移動設備的人。如需演示，請查看：https://scribe.deta.dev/bomh",
+      "tagline": "爲你的新聞通訊設置 \"通過Twitter訂閱 \"按鈕"
+    }
+  ]
 }
