@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I imagine it would make for an awkward convo"
+  "the_new_excerpt": "I imagine it would make for an awkward convo",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "気まずい会話になるのでは？",
+      "title": "生き残ったら願い事を返金しなければならないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想这将是一个尴尬的对话。",
+      "title": "如果你能活下来，你必须退款许愿吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想這將是一個尷尬的對話。",
+      "title": "如果你能活下來，你必須退款許願嗎？"
+    }
+  ]
 }
