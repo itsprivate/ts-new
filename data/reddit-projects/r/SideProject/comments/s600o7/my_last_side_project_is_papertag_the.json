@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の最後のサイドプロジェクトは、紙からデジタルへのしおりアプリ「Papertag」です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我最后一个副业是Papertag：纸质数字书签应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我最後一個副業是Papertag：紙質數字書籤應用。"
+    }
+  ]
 }
