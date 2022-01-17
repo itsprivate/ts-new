@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは完璧に表現されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这句话完美地阐述了它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這句話完美地闡述了它"
+    }
+  ]
 }
