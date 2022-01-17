@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-16T13:42:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BIbxOvEx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k82a9r2j42ovmh35j8sv.png",
   "author": "Colum Ferry",
-  "author_url": "https://dev.to/coly010"
+  "author_url": "https://dev.to/coly010",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 2021年、AngularがRFC（Request For Comments）を発表し、スタンドアロン...",
+      "title": "Angularスタンドアロンコンポーネントのためのコンポーネントファーストな状態管理"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 在2021年，Angular宣布了一个RFC(Request For Comments)，为独立的...",
+      "title": "为Angular独立组件提供组件优先的状态管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 在2021年，Angular宣佈了一個RFC(Request For Comments)，爲獨立的...",
+      "title": "爲Angular獨立組件提供組件優先的狀態管理"
+    }
+  ]
 }
