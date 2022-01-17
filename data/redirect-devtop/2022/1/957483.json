@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-16T18:12:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0TzY1R9i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ovaa9po3t4ii8c4qlqr.png",
   "author": "Darkø Tasevski",
-  "author_url": "https://dev.to/puritanic"
+  "author_url": "https://dev.to/puritanic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本当に名作です。プログラマーはもちろん、管理職の方にも絶対に読んでいただきたい一冊です...",
+      "title": "私が読んだのは... プラグマティック・プログラマー"
+    },
+    {
+      "locale": "zh",
+      "description": "真正的经典之作。这绝对是一本程序员甚至是管理人员必读的书。",
+      "title": "我读过... 务实的程序员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "真正的經典之作。這絕對是一本程序員甚至是管理人員必讀的書。",
+      "title": "我讀過... 務實的程序員"
+    }
+  ]
 }
