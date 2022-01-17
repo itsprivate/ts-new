@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-16T04:28:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QCP0unHy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3xvyvv2pwye6wkf4xeu3.jpg",
   "author": "Steve Pryde",
-  "author_url": "https://dev.to/stevepryde"
+  "author_url": "https://dev.to/stevepryde",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、TauriとYewを使って、Rustで完全なデスクトップアプリケーションを作りました。何人かの人が...",
+      "title": "TauriとYewを使ってRustでデスクトップアプリを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近使用Tauri和Yew在Rust中创建了一个完整的桌面应用程序。有几个人表示...",
+      "title": "使用Tauri和Yew在Rust中创建一个桌面应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近使用Tauri和Yew在Rust中創建了一個完整的桌面應用程序。有幾個人表示...",
+      "title": "使用Tauri和Yew在Rust中創建一個桌面應用程序"
+    }
+  ]
 }
