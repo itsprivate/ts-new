@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-17T00:21:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9zUKe4N0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdnfoudsulzbyscy4a6u.png",
   "author": "Pranav",
-  "author_url": "https://dev.to/pranav016"
+  "author_url": "https://dev.to/pranav016",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitコマンド git restore . - ファイルを直前のコミットに戻す/すべてのコミットを元に戻す...",
+      "title": "珍しいGitコマンドと便利なGitコマンドのまとめ＋Gitを使う上での難解なシナリオの解決策"
+    },
+    {
+      "locale": "zh",
+      "description": "Git 命令 git restore . - 将文件恢复到之前的提交/撤销所有的提交。",
+      "title": "罕见和有用的Git命令总结+使用Git时困难场景的解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Git 命令 git restore . - 將文件恢復到之前的提交/撤銷所有的提交。",
+      "title": "罕見和有用的Git命令總結+使用Git時困難場景的解決方案"
+    }
+  ]
 }
