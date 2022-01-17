@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うちの猫が6匹の子猫を産んだ！？"
+    },
+    {
+      "locale": "zh",
+      "title": "我的猫生了6只小猫!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的貓生了6只小貓!"
+    }
+  ]
 }
