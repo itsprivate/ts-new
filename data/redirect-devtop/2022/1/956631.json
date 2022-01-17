@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-15T17:34:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wxJNhq5X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xpixsxm3hszw8j04gvrb.jpg",
   "author": "Craig Morten",
-  "author_url": "https://dev.to/craigmorten"
+  "author_url": "https://dev.to/craigmorten",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近のWeb開発では、ホットシューティングシステムなどのリッチデベロッパーエクスペリエンス機能に慣れ親しんできました。",
+      "title": "Denoで独自のライブブラウザリフレッシュを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "在现代网络开发中，我们已经习惯了丰富的开发者体验功能，如热...",
+      "title": "在Deno中创建你自己的实时浏览器刷新"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在現代網絡開發中，我們已經習慣了豐富的開發者體驗功能，如熱...",
+      "title": "在Deno中創建你自己的實時瀏覽器刷新"
+    }
+  ]
 }
