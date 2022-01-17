@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-15T15:31:55Z",
   "image": "https://dev.to/social_previews/article/956585.png",
   "author": "Jane Ori",
-  "author_url": "https://dev.to/janeori"
+  "author_url": "https://dev.to/janeori",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSやHTMLの場合、アプリケーションの状態は次のように分類される。 カスケード状態：...",
+      "title": "CSSで状態を保持するための画期的なアイデア"
+    },
+    {
+      "locale": "zh",
+      "description": "当涉及到CSS和HTML时，应用状态分为以下几类： 级联状态：...",
+      "title": "在CSS中保持状态的一个创新想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當涉及到CSS和HTML時，應用狀態分爲以下幾類： 級聯狀態：...",
+      "title": "在CSS中保持狀態的一個創新想法"
+    }
+  ]
 }
