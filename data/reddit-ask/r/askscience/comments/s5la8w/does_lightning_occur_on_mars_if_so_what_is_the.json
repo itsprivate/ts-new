@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I can imagine that the atmosphere might be too thin to produce lightning, but if\nit does happen I’m curious what it’s like there. Do rovers and other instruments\nhave to be designed for the possibility of a lightning strike?"
+  "the_new_excerpt": "I can imagine that the atmosphere might be too thin to produce lightning, but if\nit does happen I’m curious what it’s like there. Do rovers and other instruments\nhave to be designed for the possibility of a lightning strike?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "大気が薄くて雷が発生しにくいというのは想像がつきますが、もし\nどんな感じなのか気になりますね。ローバーやその他の機器は\nは、落雷を想定して設計する必要があるのでしょうか？",
+      "title": "火星で雷は発生するのでしょうか？もしそうなら、このような低温環境での高温現象はどのような影響があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我可以想象，大气层可能太薄，无法产生闪电，但如果真的发生了，我很好奇那里的情况。\n它确实发生了，我很好奇那里是什么样子。漫游车和其他仪器是否\n必须为雷击的可能性进行设计吗？",
+      "title": "火星上会发生闪电吗？如果有的话，在如此寒冷的环境中，这样的高温现象有什么影响？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我可以想象，大氣層可能太薄，無法產生閃電，但如果真的發生了，我很好奇那裏的情況。\n它確實發生了，我很好奇那裏是什麼樣子。漫遊車和其他儀器是否\n必須爲雷擊的可能性進行設計嗎？",
+      "title": "火星上會發生閃電嗎？如果有的話，在如此寒冷的環境中，這樣的高溫現象有什麼影響？"
+    }
+  ]
 }
