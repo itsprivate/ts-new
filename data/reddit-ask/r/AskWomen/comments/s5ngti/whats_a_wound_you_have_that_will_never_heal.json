@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Figuratively speaking obviously"
+  "the_new_excerpt": "Figuratively speaking obviously",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "比喩的に言えば明らかに",
+      "title": "あなたが抱えている一生治らない傷は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "显然是比喻性的说法",
+      "title": "你有什么永远无法愈合的伤口？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "顯然是比喻性的說法",
+      "title": "你有什麼永遠無法癒合的傷口？"
+    }
+  ]
 }
