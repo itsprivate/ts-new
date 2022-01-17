@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-16T08:06:48Z"
+  "original_createdAt": "2022-01-16T08:06:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "wProjectは、WordPressで構築された、美しく、情報量の多いプロジェクト管理システムです。",
+      "tagline": "WordPressで構築されたプロジェクト管理システム。"
+    },
+    {
+      "locale": "zh",
+      "description": "wProject是一个建立在WordPress上的美丽而丰富的项目管理系统。",
+      "tagline": "一个建立在WordPress上的项目管理系统。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "wProject是一個建立在WordPress上的美麗而豐富的項目管理系統。",
+      "tagline": "一個建立在WordPress上的項目管理系統。"
+    }
+  ]
 }
