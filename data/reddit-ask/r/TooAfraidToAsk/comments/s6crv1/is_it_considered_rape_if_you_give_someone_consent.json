@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "My friend asked me this question and idk how to reply"
+  "the_new_excerpt": "My friend asked me this question and idk how to reply",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "友人からこの質問をされたのですが、どう答えたらいいのかわかりません。",
+      "title": "相手に同意を与えて、何が始まったとしても途中で止めろと言い、相手がとにかく続ける場合はレイプとみなされるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的朋友问我这个问题，我不知道该如何回答。",
+      "title": "如果你给了别人同意，而你在开始的时候说要停止，而他们还是继续，这算不算是强奸？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的朋友問我這個問題，我不知道該如何回答。",
+      "title": "如果你給了別人同意，而你在開始的時候說要停止，而他們還是繼續，這算不算是強姦？"
+    }
+  ]
 }
