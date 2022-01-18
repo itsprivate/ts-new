@@ -1,0 +1,62 @@
+{
+  "author": "TargetDry75",
+  "original_created_utc": 1642504876,
+  "title": "My biggest fuck up of 2022 (so far)",
+  "created_utc": 1642507901,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I broke our signup flow at &lt;a href=\"https://raport.pro/\"&gt;Raport&lt;/a&gt;. There was no option to sign up for our app for nearly 6 days. All of this in production.&lt;/p&gt;\n\n&lt;p&gt;So recently we made some big changes, implemented payments, new email notifications and changed our legal documents. All of the stuff you need to sell and become sustainable business.&lt;/p&gt;\n\n&lt;p&gt;In the last moment we also decided to make a better signup page. We thought that checkbox to comply with our Terms of Service is not necessary. And instead we will display simple text with information about agreement with our policies.&lt;/p&gt;\n\n&lt;p&gt;Everything was tested and looked good, so I pushed the changes to production and we carried on with marketing and sales. &lt;/p&gt;\n\n&lt;p&gt;But as it turned out, I forgot to remove validation logic for old checkbox and the signup form returned a validation error.&lt;/p&gt;\n\n&lt;p&gt;Of course with removed checkbox this error was invisible to users and the whole process was confusing. You clicked &amp;quot;Create account&amp;quot; and nothing happened.&lt;/p&gt;\n\n&lt;p&gt;Only 6 days later, it came to our mind that something must be wrong, because no one is signing up.&lt;/p&gt;\n\n&lt;p&gt;Everything is fixed now, but according to our data and previous CTR we lost around 15 potential clients in that week.&lt;/p&gt;\n\n&lt;p&gt;And how&amp;#39;s your year going?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 6,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?auto=webp&amp;s=fd6836accd006d824b4ce82f22dac1c27226506e",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e8ef3777e5086f0a6c2fbb0a8c92fcf133b3e26a",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=8292b9626f1ec836f830decf146907f2a561a045",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ebe8fe8865c64135b4875e2d6d63f75aefb57361",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=037046b95e7d360d65221d8df81a62827f679977",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3cc6d03d72cd65ea6df6ef5539f55ac43735415e",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/xfo_NwnYmRiWLHYCP2D7WGrC6cB5sxb8gPP9G7a-W1Q.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1d70b3934711a4f45dc40f2c9e86c7bf0d2555f3",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "rIHzZMAoehaqTbiBA2-wsVAj8MC-3NV6-TsMiLnUIxc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/s6vaey/my_biggest_fuck_up_of_2022_so_far/",
+  "subreddit": "SideProject",
+  "id": "s6vaey",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "I broke our signup flow at Raport [https://raport.pro/]. There was no option to\nsign up for our app for nearly 6 days. All of this in production.\n\nSo recently we made some big changes, implemented payments, new email\nnotifications and changed our legal documents. All of the stuff you need to…"
+}
