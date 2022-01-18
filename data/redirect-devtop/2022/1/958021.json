@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-17T11:16:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iNcjt_ls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fquze96m3tekm88tqggj.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Djangoバージョン4.0リリースでは、ZoneInfo、Postgresql v9.6 deprecation、CSRF_TRUSTED_ORIGINSの使用法がハイライトされています。",
+      "title": "Django v4 リリースサマリー - 無料サンプル付き"
+    },
+    {
+      "locale": "zh",
+      "description": "Django 4.0版本突出了ZoneInfo，Postgresql v9.6的废弃，CSRF_TRUSTED_ORIGINS的使用。",
+      "title": "Django v4发布摘要 - 包含免费样本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Django 4.0版本突出了ZoneInfo，Postgresql v9.6的廢棄，CSRF_TRUSTED_ORIGINS的使用。",
+      "title": "Django v4發佈摘要 - 包含免費樣本"
+    }
+  ]
 }
