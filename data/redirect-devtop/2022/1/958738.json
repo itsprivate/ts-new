@@ -46,5 +46,22 @@
   "original_created_at": "2022-01-17T23:50:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2zqBmE3a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/orbontlxp4a0xubo9ndq.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分とコードだけだと、仕事もずいぶん変わってくる。あなたの経験では、どのような部分が...",
+      "title": "ソフトウェア開発におけるコミュニケーションの難題とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果只有你和代码，工作会有很大的不同。根据你的经验，哪些部分...",
+      "title": "软件开发中最棘手的沟通挑战是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果只有你和代碼，工作會有很大的不同。根據你的經驗，哪些部分...",
+      "title": "軟件開發中最棘手的溝通挑戰是什麼？"
+    }
+  ]
 }
