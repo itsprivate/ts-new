@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-18T08:02:40Z"
+  "original_createdAt": "2022-01-18T08:02:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AssetDashは、投資家のためのオールインワン・ポートフォリオ・トラッカーです。あなたの口座を接続し、リアルタイムであなたのすべての株式、暗号、NFT、DeFi、および未公開株を追跡します。AssetDashは100以上のプラットフォーム、暗号ウォレット、ブロックチェーン、および取引所をサポートしています。",
+      "tagline": "NFT、暗号、株式、プライベートエクイティのトラッキング"
+    },
+    {
+      "locale": "zh",
+      "description": "AssetDash是为投资者提供的多合一投资组合追踪器。连接你的账户，实时跟踪你的所有股票、加密货币、NFTs、DeFi和私募股权。AssetDash支持100多个平台、加密货币钱包、区块链和交易所。",
+      "tagline": "追踪你的NFTs、加密货币、股票和私人股本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AssetDash是爲投資者提供的多合一投資組合追蹤器。連接你的賬戶，實時跟蹤你的所有股票、加密貨幣、NFTs、DeFi和私募股權。AssetDash支持100多個平臺、加密貨幣錢包、區塊鏈和交易所。",
+      "tagline": "追蹤你的NFTs、加密貨幣、股票和私人股本"
+    }
+  ]
 }
