@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-28T01:15:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Q3kxUtR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.iamtk.co/series/frontend-challenges/findhotel-frontend-challenge.jpg",
   "author": "TK",
-  "author_url": "https://dev.to/teekay"
+  "author_url": "https://dev.to/teekay",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンド領域における興味深い課題をTKで解決する",
+      "title": "フロントエンドの挑戦。フロントエンドエンジニア配属"
+    },
+    {
+      "locale": "zh",
+      "description": "用TK解决前端领域的有趣挑战",
+      "title": "前端挑战。前端工程师的任务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用TK解決前端領域的有趣挑戰",
+      "title": "前端挑戰。前端工程師的任務"
+    }
+  ]
 }
