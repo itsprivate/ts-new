@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このデジタルアートをズームアウトすると"
+    },
+    {
+      "locale": "zh",
+      "title": "放大这个数字艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "放大這個數字藝術"
+    }
+  ]
 }
