@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "And have you ever cut that tag off?"
+  "the_new_excerpt": "And have you ever cut that tag off?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そして、そのタグを切ったことがありますか？",
+      "title": "バックの素材の下にタグがあるのが目立つレースの下着はいかがですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那你有没有剪掉过那个标签？",
+      "title": "你对后面材料下面有明显标签的蕾丝内衣有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那你有沒有剪掉過那個標籤？",
+      "title": "你對後面材料下面有明顯標籤的蕾絲內衣有什麼看法？"
+    }
+  ]
 }
