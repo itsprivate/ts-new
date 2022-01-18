@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: This is just a hypothetical, not an actual situation."
+  "the_new_excerpt": "Edit: This is just a hypothetical, not an actual situation.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：これはあくまで仮定の話であって、実際の状況とは異なります。",
+      "title": "もし、元彼の新しい彼氏があなたに \"推薦 \"の電話をかけてきたら、あなたはその彼氏についてどう言うでしょう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：这只是一个假设，不是一个实际情况。",
+      "title": "如果你前妻的新男友打电话给你要 \"推荐信\"，你会对他们说些什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：這只是一個假設，不是一個實際情況。",
+      "title": "如果你前妻的新男友打電話給你要 \"推薦信\"，你會對他們說些什麼？"
+    }
+  ]
 }
