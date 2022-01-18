@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインウォレット用の刻印入りアルミ名刺を作りました。(実際の速度 音楽なし)"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我的比特币钱包做了一张雕刻的铝制名片。(实际速度没有音乐)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我的比特幣錢包做了一張雕刻的鋁製名片。(實際速度沒有音樂)"
+    }
+  ]
 }
