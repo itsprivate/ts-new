@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is it something to do with the languages that surround English? Or did we adopt\nit with an advance in accounting/maths, or is there a different reason?"
+  "the_new_excerpt": "Is it something to do with the languages that surround English? Or did we adopt\nit with an advance in accounting/maths, or is there a different reason?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "英語を取り巻く言語と関係があるのでしょうか？それとも、私たちが採用した\n会計・数学の進歩に伴うものなのか、それとも別の理由があるのでしょうか？",
+      "title": "英語圏の人々はいつから、そしてなぜ、数字の24を「four and twenty」ではなく、「twenty-four」と言うようになったのだろうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是否与英语周围的语言有关？还是我们采用了\n它与会计/数学的进步有关，还是有其他原因呢？",
+      "title": "什么时候以及为什么讲英语的人开始把数字24说成 \"二十四\"，而不是 \"四和二十\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是否與英語周圍的語言有關？還是我們採用了\n它與會計/數學的進步有關，還是有其他原因呢？",
+      "title": "什麼時候以及爲什麼講英語的人開始把數字24說成 \"二十四\"，而不是 \"四和二十\"？"
+    }
+  ]
 }
