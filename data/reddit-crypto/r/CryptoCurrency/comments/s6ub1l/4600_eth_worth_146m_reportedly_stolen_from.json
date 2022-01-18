@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "4,600ETH（1460万ドル相当）がCryptoComから盗まれ、TornadoCash経由でマネーロンダリングされたことが報告される"
+    },
+    {
+      "locale": "zh",
+      "title": "据报道，价值1460万美元的4600个ETH从CryptoCom被盗，资金通过TornadoCash被洗白"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，價值1460萬美元的4600個ETH從CryptoCom被盜，資金通過TornadoCash被洗白"
+    }
+  ]
 }
