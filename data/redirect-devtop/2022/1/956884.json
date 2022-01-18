@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-16T00:45:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmMqf5Gc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gbbx43j9ro4s6sj8smd5.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プリンシパルエンジニアレベルのバックエンドエンジニアに偏りがあります。そのため、フロントエンド...",
+      "title": "プリンシパルエンジニアはバックエンドエンジニアに偏重している"
+    },
+    {
+      "locale": "zh",
+      "description": "在首席工程师的级别上，偏向于后端工程师。这就使得前端工程师的地位受到影响。",
+      "title": "后台工程技能对首席工程师来说强调得太多了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在首席工程師的級別上，偏向於後端工程師。這就使得前端工程師的地位受到影響。",
+      "title": "後臺工程技能對首席工程師來說強調得太多了"
+    }
+  ]
 }
