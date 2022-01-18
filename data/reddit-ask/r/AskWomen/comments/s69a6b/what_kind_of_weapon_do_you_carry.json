@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんな \"武器 \"を持っているのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你携带什么样的 \"武器\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你攜帶什麼樣的 \"武器\"？"
+    }
+  ]
 }
