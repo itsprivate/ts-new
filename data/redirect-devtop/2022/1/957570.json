@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-16T20:41:53Z",
   "image": "https://dev.to/social_previews/article/957570.png",
   "author": "Gergely Gombos",
-  "author_url": "https://dev.to/gombosg"
+  "author_url": "https://dev.to/gombosg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "たまたま、今の職場であるプロセスストリートで、iOSのバグを修正することになったんです...。",
+      "title": "Docker-OSXでLinuxの中でmacOSを動かす"
+    },
+    {
+      "locale": "zh",
+      "description": "碰巧的是，在我现在的工作场所--工艺街，我不得不修复我们的iOS系统中的一个错误。",
+      "title": "用Docker-OSX在Linux中运行MacOS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "碰巧的是，在我現在的工作場所--工藝街，我不得不修復我們的iOS系統中的一個錯誤。",
+      "title": "用Docker-OSX在Linux中運行MacOS"
+    }
+  ]
 }

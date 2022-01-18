@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は課題を理解していた"
+    },
+    {
+      "locale": "zh",
+      "title": "他明白这个任务"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他明白這個任務"
+    }
+  ]
 }
