@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-18T08:01:00Z"
+  "original_createdAt": "2022-01-18T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stripe アカウントを接続して、SavvyCal スケジューリング リンクから直接支払いを収集できます。Stripeの統合は、SavvyCalプレミアムプランの機能です。最初の20人は、コードPHSTRIPEを使用して、3ヶ月間ベーシックの価格でプレミアムプランを利用することができます。",
+      "tagline": "会議の代金回収"
+    },
+    {
+      "locale": "zh",
+      "description": "连接您的Stripe账户，从您的SavvyCal日程安排链接中直接收取付款。Stripe的整合是SavvyCal高级计划的一个功能。前20名可以使用代码PHSTRIPE，以基本计划的价格获得3个月的高级计划。",
+      "tagline": "为您的会议收取费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "連接您的Stripe賬戶，從您的SavvyCal日程安排鏈接中直接收取付款。Stripe的整合是SavvyCal高級計劃的一個功能。前20名可以使用代碼PHSTRIPE，以基本計劃的價格獲得3個月的高級計劃。",
+      "tagline": "爲您的會議收取費用"
+    }
+  ]
 }
