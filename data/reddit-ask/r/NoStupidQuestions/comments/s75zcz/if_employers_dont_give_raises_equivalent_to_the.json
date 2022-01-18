@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "雇用主がインフレ率に見合った昇給をしない場合、技術的には前年度よりも給料が少なくなるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果雇主不给予相当于通货膨胀率的加薪，那么从技术上讲，他们付给你的工资是不是比前一年少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果僱主不給予相當於通貨膨脹率的加薪，那麼從技術上講，他們付給你的工資是不是比前一年少？"
+    }
+  ]
 }
