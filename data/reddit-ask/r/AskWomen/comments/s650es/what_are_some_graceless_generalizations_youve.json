@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "働く女性について聞いたことのある、品のない一般論で、あなたが嫌悪感を抱くようになったものは何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你听说过哪些关于职业女性的无礼的概括，而你已经开始厌恶这些概括？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽說過哪些關於職業女性的無禮的概括，而你已經開始厭惡這些概括？"
+    }
+  ]
 }
