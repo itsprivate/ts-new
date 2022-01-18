@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Let's embrace ourselves"
+  "the_new_excerpt": "Let's embrace ourselves",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自分自身を受け入れよう",
+      "title": "あなたの外見で、多くの人が欠点と考えるが、あなたはそれを愛しているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "让我们拥抱自己",
+      "title": "在你的外表中，有什么东西对大多数人来说被认为是一个缺陷，但你却喜欢它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "讓我們擁抱自己",
+      "title": "在你的外表中，有什麼東西對大多數人來說被認爲是一個缺陷，但你卻喜歡它？"
+    }
+  ]
 }
