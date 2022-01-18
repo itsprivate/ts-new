@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-17T15:13:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--46J0jtR---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hoph12sv6hs44rjuqblt.jpg",
   "author": "Matej Bačo",
-  "author_url": "https://dev.to/meldiron"
+  "author_url": "https://dev.to/meldiron",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "👋はじめに 3回にわたる連載の初回を迎えました。",
+      "title": "私たちはAppwriteでNetflixのクローンを作ったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "👋 简介 欢迎来到我们的3部分系列的开头，我们在这里建立了一个完整的 \"中国\"。",
+      "title": "我们刚刚用Appwrite建立了一个克隆的Netflix吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "👋 簡介 歡迎來到我們的3部分系列的開頭，我們在這裏建立了一個完整的 \"中國\"。",
+      "title": "我們剛剛用Appwrite建立了一個克隆的Netflix嗎？"
+    }
+  ]
 }
