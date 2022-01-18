@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I broke our signup flow at Raport [https://raport.pro/]. There was no option to\nsign up for our app for nearly 6 days. All of this in production.\n\nSo recently we made some big changes, implemented payments, new email\nnotifications and changed our legal documents. All of the stuff you need to…"
+  "the_new_excerpt": "I broke our signup flow at Raport [https://raport.pro/]. There was no option to\nsign up for our app for nearly 6 days. All of this in production.\n\nSo recently we made some big changes, implemented payments, new email\nnotifications and changed our legal documents. All of the stuff you need to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Raport [https://raport.pro/]のサインアップフローを壊してしまいました。そのため\n6日間ほど、私たちのアプリにサインアップしていました。すべて本番環境での話です。\n\nそこで最近、いくつかの大きな変更を行い、決済や新しい電子メール\nまた、法的な文書も変更しました。必要なものはすべて...",
+      "title": "2022年の私の最大の失敗談（これまで）"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我破坏了我们在拉波特的注册流程[https://raport.pro/]。在将近6天的时间里，没有任何选项可以\n有近6天时间没有选择注册我们的应用程序。所有这一切都在生产中。\n\n因此，最近我们做了一些大的改变，实施了支付，新的电子邮件\n通知，并改变了我们的法律文件。所有你需要的东西...",
+      "title": "我在2022年（到目前为止）最大的一次失误"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我破壞了我們在拉波特的註冊流程[https://raport.pro/]。在將近6天的時間裏，沒有任何選項可以\n有近6天時間沒有選擇註冊我們的應用程序。所有這一切都在生產中。\n\n因此，最近我們做了一些大的改變，實施了支付，新的電子郵件\n通知，並改變了我們的法律文件。所有你需要的東西...",
+      "title": "我在2022年（到目前爲止）最大的一次失誤"
+    }
+  ]
 }

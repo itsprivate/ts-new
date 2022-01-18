@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-18T03:50:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lyQp3ViG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8v96lng3rwq72i3xgxkd.png",
   "author": "Tapas Adhikary",
-  "author_url": "https://dev.to/atapas"
+  "author_url": "https://dev.to/atapas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私たちは、JavaScriptのオブジェクトを使ってデータを保存し、後でそれを取り出すことができます。保存するのは...",
+      "title": "知っておきたいJavaScriptのオブジェクト再構築の使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我们使用JavaScript对象来存储数据，并在以后检索它。我们存储...",
+      "title": "你必须知道的JavaScript对象重构的用法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我們使用JavaScript對象來存儲數據，並在以後檢索它。我們存儲...",
+      "title": "你必須知道的JavaScript對象重構的用法"
+    }
+  ]
 }
