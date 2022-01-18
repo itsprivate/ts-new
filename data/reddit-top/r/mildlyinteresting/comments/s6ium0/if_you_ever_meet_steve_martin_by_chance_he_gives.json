@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スティーブ・マーティンに偶然会ったら、会った証として名刺をくれるんですよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你偶然遇到史蒂夫-马丁，他会给你一张卡片作为你遇到他的证明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你偶然遇到史蒂夫-馬丁，他會給你一張卡片作爲你遇到他的證明。"
+    }
+  ]
 }
