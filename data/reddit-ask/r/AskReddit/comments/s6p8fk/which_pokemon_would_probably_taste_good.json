@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どのポケモンがおいしいと思う？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些小精灵可能会有好的味道？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些小精靈可能會有好的味道？"
+    }
+  ]
 }
