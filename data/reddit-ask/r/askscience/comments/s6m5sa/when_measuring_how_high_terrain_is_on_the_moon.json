@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "月や火星で地形の高さを測るとき、「海抜」は何を使って、どのように決めているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当测量月球和火星上的地形有多高时，他们用什么来/如何确定 \"海平面\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當測量月球和火星上的地形有多高時，他們用什麼來/如何確定 \"海平面\"？"
+    }
+  ]
 }
