@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数え切れないほどの風が鎖を動かし、この作品が出来上がりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "无数个小时的风吹动了铁链，才有了这块艺术品。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無數個小時的風吹動了鐵鏈，纔有了這塊藝術品。"
+    }
+  ]
 }
