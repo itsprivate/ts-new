@@ -13,5 +13,19 @@
   ],
   "objectID": "29988951",
   "original_created_at": "2022-01-19T02:04:34.000Z",
-  "image": "https://learnbchs.org/logo-blue.png"
+  "image": "https://learnbchs.org/logo-blue.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BCHS: OpenBSD, C, httpd と SQLite ウェブスタック。"
+    },
+    {
+      "locale": "zh",
+      "title": "BCHS: OpenBSD, C, httpd和SQLite网络栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BCHS: OpenBSD, C, httpd和SQLite網絡棧"
+    }
+  ]
 }
