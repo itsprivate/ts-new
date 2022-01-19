@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1000年の昏睡状態から目覚める。今は3022年、人々はまだ英語を話しています。あなたの最初の質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你从1000年的昏迷中醒来。现在是3022年，人们仍然讲英语。你的第一个问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你從1000年的昏迷中醒來。現在是3022年，人們仍然講英語。你的第一個問題是什麼？"
+    }
+  ]
 }
