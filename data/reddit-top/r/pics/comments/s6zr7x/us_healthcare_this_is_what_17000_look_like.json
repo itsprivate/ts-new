@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国のヘルスケア これが17,000ドルの姿です... \"限度額オーバー \"で次を拒否する保険"
+    },
+    {
+      "locale": "zh",
+      "title": "美国的医疗保健。这就是17,000美元的样子......保险拒绝下一个，因为我 \"超限 \"了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國的醫療保健。這就是17,000美元的樣子......保險拒絕下一個，因爲我 \"超限 \"了。"
+    }
+  ]
 }
