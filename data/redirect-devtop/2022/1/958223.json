@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-17T12:48:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DS0z7DBw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j648ok98tyfjjozgx1ik.jpg",
   "author": "Sanjeev Sharma",
-  "author_url": "https://dev.to/thesanjeevsharma"
+  "author_url": "https://dev.to/thesanjeevsharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カバー画像: Martin Jaros on Unsplash.  Hey 👋 もしあなたがジュニアまたはミッドレベルのフロントエンド開発者なら...",
+      "title": "リアルタイムの更新。ポーリング、SSE、ウェブソケット"
+    },
+    {
+      "locale": "zh",
+      "description": "封面图片由Martin Jaros在Unsplash上拍摄。 嘿 👋 如果你是一个初级或中级的前端开发人员...",
+      "title": "实时更新。轮询、SSE和Web Sockets"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面圖片由Martin Jaros在Unsplash上拍攝。 嘿 👋 如果你是一個初級或中級的前端開發人員...",
+      "title": "實時更新。輪詢、SSE和Web Sockets"
+    }
+  ]
 }
