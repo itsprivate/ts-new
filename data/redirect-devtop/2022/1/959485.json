@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-18T13:55:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cfI6iKMg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttsy3d80cj1gj6uqzk2r.png",
   "author": "Davide Pacilio",
-  "author_url": "https://dev.to/davidepacilio"
+  "author_url": "https://dev.to/davidepacilio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSのエコシステムが成長するにつれ（Adam Wathanは最近Tailwindが200万人を突破したことを報告しました...）、Tailwind CSSのエコシステムも成長しています。",
+      "title": "Tailwind CSS Componentsを無料で入手できる25の場所"
+    },
+    {
+      "locale": "zh",
+      "description": "随着Tailwind CSS生态系统的发展（Adam Wathan最近报告说，Tailwind突破200万...",
+      "title": "25个可以获得免费Tailwind CSS组件的地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着Tailwind CSS生態系統的發展（Adam Wathan最近報告說，Tailwind突破200萬...",
+      "title": "25個可以獲得免費Tailwind CSS組件的地方"
+    }
+  ]
 }
