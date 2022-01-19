@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "職業を考えたとき、突然...「おっとっと」と言われたら一番怖いのはどれですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你想到一个职业时，如果他们突然说...... \"哎呀......\"，哪一个是最可怕的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你想到一個職業時，如果他們突然說...... \"哎呀......\"，哪一個是最可怕的？"
+    }
+  ]
 }
