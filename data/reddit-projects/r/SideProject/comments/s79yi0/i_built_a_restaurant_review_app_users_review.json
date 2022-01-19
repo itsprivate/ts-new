@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レストランレビューアプリを作りました。ユーザーはタグだけで レストランをレビューします"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个餐厅评论应用程序。用户只用标签来评论餐馆。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個餐廳評論應用程序。用戶只用標籤來評論餐館。"
+    }
+  ]
 }
