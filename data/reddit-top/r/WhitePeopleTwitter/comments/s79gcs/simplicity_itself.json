@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプリシティそのもの"
+    },
+    {
+      "locale": "zh",
+      "title": "简单性本身"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡單性本身"
+    }
+  ]
 }
