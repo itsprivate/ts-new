@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-17T22:40:57Z",
   "image": "https://dev.to/social_previews/article/958689.png",
   "author": "Toke Malaolu",
-  "author_url": "https://dev.to/thepineapple"
+  "author_url": "https://dev.to/thepineapple",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分がこれを打っているのが信じられない...。 さあ、始めよう...  私は友人からプログラミングを紹介されました...",
+      "title": "DEV初投稿! パンプド!"
+    },
+    {
+      "locale": "zh",
+      "description": "我不能相信我正在打这个字......  下面开始...  我是在一个朋友的介绍下接触到编程的，...",
+      "title": "第一个DEV帖子! 激动人心！!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不能相信我正在打這個字......  下面開始...  我是在一個朋友的介紹下接觸到編程的，...",
+      "title": "第一個DEV帖子! 激動人心！!"
+    }
+  ]
 }
