@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TinyDomain - 8文字以下、高品質な未登録ドメインをプロジェクトに。"
+    },
+    {
+      "locale": "zh",
+      "title": "TinyDomain - 8个字符或更少，为您的项目提供高质量的未注册的域名。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TinyDomain - 8個字符或更少，爲您的項目提供高質量的未註冊的域名。"
+    }
+  ]
 }
