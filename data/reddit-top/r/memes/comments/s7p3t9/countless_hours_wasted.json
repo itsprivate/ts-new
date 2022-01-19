@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数え切れないほどの時間を無駄にした"
+    },
+    {
+      "locale": "zh",
+      "title": "浪费了无数的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "浪費了無數的時間"
+    }
+  ]
 }
