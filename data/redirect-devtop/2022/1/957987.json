@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-17T10:19:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GP-5eY_Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zt39l6rq5y4nu2421xm7.jpg",
   "author": "Michael Bromley",
-  "author_url": "https://dev.to/michlbrmly"
+  "author_url": "https://dev.to/michlbrmly",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿では、GraphQLの基本的なコンセプトのいくつかを実践的に探っていきます。目標は...",
+      "title": "GraphQL Fundamentals: ハンズオン"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将以实践的方式探索GraphQL的一些基本概念。我们的目标是...",
+      "title": "图形QL基础知识。实际操作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將以實踐的方式探索GraphQL的一些基本概念。我們的目標是...",
+      "title": "圖形QL基礎知識。實際操作"
+    }
+  ]
 }
