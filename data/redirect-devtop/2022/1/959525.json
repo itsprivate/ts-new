@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-18T15:10:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4Kyb4ziU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2b7w5hu7h99rwetfpufr.png",
   "author": "Yogini Bende",
-  "author_url": "https://dev.to/ms_yogii"
+  "author_url": "https://dev.to/ms_yogii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは👋、2ヶ月前の11月のリリースで、技術的な移行を発表しました。それ以来...",
+      "title": "ReactJSからNextJSへの移行のすべて"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋，两个月前，在我们的11月版本中，我们宣布了我们的技术迁移。从那时起...",
+      "title": "关于我们从ReactJS迁移到NextJS的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋，兩個月前，在我們的11月版本中，我們宣佈了我們的技術遷移。從那時起...",
+      "title": "關於我們從ReactJS遷移到NextJS的一切"
+    }
+  ]
 }
