@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが好きな「マインドファック」映画で、みんなに見てほしいと思うものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的一部 \"心灵鸡汤 \"电影是什么，你认为每个人都应该看？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的一部 \"心靈雞湯 \"電影是什麼，你認爲每個人都應該看？"
+    }
+  ]
 }
