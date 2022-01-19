@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの2万4千ドルの薬を見て、私の息子の命を救うために使われたこの5万ドルの注射をあげます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我看到你的2.4万美元的药片，并向你提出这5万美元的针剂，用来拯救我儿子的生命。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我看到你的2.4萬美元的藥片，並向你提出這5萬美元的針劑，用來拯救我兒子的生命。"
+    }
+  ]
 }
