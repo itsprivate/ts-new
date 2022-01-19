@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I have the auto generated name and it never gave me an option to change it😭😭😭"
+  "the_new_excerpt": "I have the auto generated name and it never gave me an option to change it😭😭😭",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自動生成された名前なのに、変更するオプションが出なかった😭😭😭。",
+      "title": "なぜユーザー名を変更できないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的名字是自动生成的，它从未给我一个选项来改变它😭😭。",
+      "title": "为什么我们不能改变我们的用户名reddit????"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的名字是自動生成的，它從未給我一個選項來改變它😭😭。",
+      "title": "爲什麼我們不能改變我們的用戶名reddit????"
+    }
+  ]
 }
