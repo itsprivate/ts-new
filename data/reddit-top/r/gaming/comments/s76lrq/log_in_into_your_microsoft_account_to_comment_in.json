@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この投稿にコメントするには、Microsoftアカウントにログインしてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "登录到您的微软账户，在此发表评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "登錄到您的微軟賬戶，在此發表評論"
+    }
+  ]
 }
