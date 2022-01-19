@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "違法ではないが、完全に悪であるものは何か？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西不违法，但它完全是邪恶的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西不違法，但它完全是邪惡的？"
+    }
+  ]
 }
