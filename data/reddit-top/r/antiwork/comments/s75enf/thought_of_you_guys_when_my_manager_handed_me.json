@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マネージャーからこれを渡されたとき、あなた方のことを思い出しました。声を出して笑ってしまいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "当我的经理把这个交给我时，想到了你们。我笑出了声。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當我的經理把這個交給我時，想到了你們。我笑出了聲。"
+    }
+  ]
 }
