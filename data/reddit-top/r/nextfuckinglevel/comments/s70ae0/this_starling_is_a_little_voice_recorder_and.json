@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このムクドリは小さなボイスレコーダーで、ときどき電子音を発します"
+    },
+    {
+      "locale": "zh",
+      "title": "这只椋鸟是个小录音机，有时会发出电子噪音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻椋鳥是個小錄音機，有時會發出電子噪音"
+    }
+  ]
 }
