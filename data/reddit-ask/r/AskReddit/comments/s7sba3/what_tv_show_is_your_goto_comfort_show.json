@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが癒されるテレビ番組は？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么电视节目是你最喜欢的安慰节目？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼電視節目是你最喜歡的安慰節目？"
+    }
+  ]
 }
