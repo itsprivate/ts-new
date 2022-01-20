@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-17T17:48:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VYphwz_L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/67jf1kd7x53uxak15oj2.png",
   "author": "Shreya Purohit",
-  "author_url": "https://dev.to/shreya"
+  "author_url": "https://dev.to/shreya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwindは、より少ない労力で素晴らしいレスポンシブUIを構築することができるCSSフレームワークです。 もし、あなたが...",
+      "title": "TailwindCSSを学ぶ。プロフィールカードの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind是一个CSS框架，让你以更少的努力建立惊人的响应式用户界面。 如果你是...",
+      "title": "学习TailwindCSS。制作一个简介卡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind是一個CSS框架，讓你以更少的努力建立驚人的響應式用戶界面。 如果你是...",
+      "title": "學習TailwindCSS。製作一個簡介卡"
+    }
+  ]
 }

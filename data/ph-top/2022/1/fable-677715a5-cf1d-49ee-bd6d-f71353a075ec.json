@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-20T08:01:00Z"
+  "original_createdAt": "2022-01-20T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PRDでコラボレーションを行い、ボタンを押すとJiraやLinearなどの課題追跡システムとの同期が可能です。Fableはチケットを作成し、PRDを更新して新鮮さを維持します。もうコピー＆ペーストは必要ありませんし、PRDが古くなることもありません。さらに、FableはSlackとdocsの意思決定を1つの場所に持ってきます。",
+      "tagline": "よりスムーズで迅速な製品プロセス"
+    },
+    {
+      "locale": "zh",
+      "description": "在PRD上协作，然后按一个按钮与Jira和Linear等问题跟踪器同步。Fable将创建票据并通过更新保持PRD的新鲜度。不再有复制+粘贴，不再有陈旧的PRD! 哦，Fable把Slack和文档的决定带到一个地方。",
+      "tagline": "更加顺畅、快速的产品流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在PRD上協作，然後按一個按鈕與Jira和Linear等問題跟蹤器同步。Fable將創建票據並通過更新保持PRD的新鮮度。不再有複製+粘貼，不再有陳舊的PRD! 哦，Fable把Slack和文檔的決定帶到一個地方。",
+      "tagline": "更加順暢、快速的產品流程"
+    }
+  ]
 }
