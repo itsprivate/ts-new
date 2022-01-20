@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-19T07:54:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y8rM8Xls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f40lxbcq8nak6atdurlx.gif",
   "author": "Kumar Kalyan ",
-  "author_url": "https://dev.to/kumarkalyan"
+  "author_url": "https://dev.to/kumarkalyan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今回は、GIF検索エンジンを作る方法について説明します。",
+      "title": "たった10分でできるGIF検索エンジンの構築 "
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，在这篇文章中，我将解释你如何使用 \"GIF搜索引擎 \"建立你自己的GIF。",
+      "title": "在短短10分钟内建立一个GIF搜索引擎 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，在這篇文章中，我將解釋你如何使用 \"GIF搜索引擎 \"建立你自己的GIF。",
+      "title": "在短短10分鐘內建立一個GIF搜索引擎 "
+    }
+  ]
 }
