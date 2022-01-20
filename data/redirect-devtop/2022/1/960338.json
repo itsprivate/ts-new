@@ -48,5 +48,22 @@
   "original_created_at": "2022-01-19T10:57:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZqsWYNad--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ogakwcwdfsjjanti7up2.png",
   "author": "Lorenzo Zarantonello",
-  "author_url": "https://dev.to/lorenzojkrl"
+  "author_url": "https://dev.to/lorenzojkrl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのダブルクエスチョンマーク(??)演算子は、nullish coalescing演算子と呼ばれ、...",
+      "title": "JavaScript ?演算子"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript的双问号(??)运算符被称为nullish凝聚运算符，它...",
+      "title": "JavaScript ? \"操作符\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript的雙問號(??)運算符被稱爲nullish凝聚運算符，它...",
+      "title": "JavaScript ? \"操作符\"。"
+    }
+  ]
 }

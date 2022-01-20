@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アイスクリームを野外に放置しないでください"
+    },
+    {
+      "locale": "zh",
+      "title": "不要把冰激凌放在外面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要把冰激凌放在外面"
+    }
+  ]
 }
