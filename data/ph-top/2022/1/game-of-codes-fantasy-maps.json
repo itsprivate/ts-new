@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-20T08:01:00Z"
+  "original_createdAt": "2022-01-20T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NPMのダウンロード数やGitHubのスター数、ウェブサイトのトラフィックなど、実際のデータを使って、技術を国に見立てて可視化したのです。その方法論は、2つの別々のマップについて詳しく説明されています。- フロントエンド フレームワーク - CSS ライブラリ バックエンド & more are COMING SOON!",
+      "tagline": "React、Vue、Angular、Bootstrap、Tailwindのいずれかが国であれば"
+    },
+    {
+      "locale": "zh",
+      "description": "使用真实的数据，如NPM下载量、GitHub上的星星或网站流量，我将技术可视化为国家。该方法详细描述了两个独立的地图，分别用于。- 前端框架--CSS库 后端及更多即将到来的技术!",
+      "tagline": "如果React、Vue、Angular、Bootstrap或Tailwind是各国的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用真實的數據，如NPM下載量、GitHub上的星星或網站流量，我將技術可視化爲國家。該方法詳細描述了兩個獨立的地圖，分別用於。- 前端框架--CSS庫 後端及更多即將到來的技術!",
+      "tagline": "如果React、Vue、Angular、Bootstrap或Tailwind是各國的"
+    }
+  ]
 }
