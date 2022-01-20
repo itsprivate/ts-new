@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-20T08:02:13Z"
+  "original_createdAt": "2022-01-20T08:02:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UXPinのMUIライブラリでデザイン - 90以上のインタラクティブなReactコンポーネントを使用します。数分でプロトタイプを作成し、開発者は準備されたコードをコピーするだけで、製品をより速く構築できます✨。",
+      "tagline": "UXPinでMUI 5ライブラリのコンポーネントをコード化したデザイン"
+    },
+    {
+      "locale": "zh",
+      "description": "使用UXPin中的MUI库进行设计 - 使用超过90个交互式React组件。在几分钟内完成原型设计，并让开发人员直接复制准备好的代码，以更快地构建产品。",
+      "tagline": "用UXPin中MUI 5库的编码组件进行设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用UXPin中的MUI庫進行設計 - 使用超過90個交互式React組件。在幾分鐘內完成原型設計，並讓開發人員直接複製準備好的代碼，以更快地構建產品。",
+      "tagline": "用UXPin中MUI 5庫的編碼組件進行設計"
+    }
+  ]
 }
