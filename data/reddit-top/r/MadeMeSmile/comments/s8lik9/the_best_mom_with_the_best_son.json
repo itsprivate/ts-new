@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最高の息子と最高の母"
+    },
+    {
+      "locale": "zh",
+      "title": "最好的妈妈和最好的儿子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最好的媽媽和最好的兒子"
+    }
+  ]
 }
