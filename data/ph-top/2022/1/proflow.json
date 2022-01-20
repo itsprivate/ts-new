@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-20T08:01:00Z"
+  "original_createdAt": "2022-01-20T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Proflowは、最新のWebflow開発の仕事とプロジェクトを紹介する無料の週刊ニュースレターです。",
+      "tagline": "毎週月曜日、新しいWebflowのライブがあなたのメールボックスに届きます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Proflow是一份免费的周报，策划了最新的Webflow开发工作和项目。",
+      "tagline": "每周一都有新的Webflow工作机会，在您的收件箱中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Proflow是一份免費的週報，策劃了最新的Webflow開發工作和項目。",
+      "tagline": "每週一都有新的Webflow工作機會，在您的收件箱中。"
+    }
+  ]
 }
