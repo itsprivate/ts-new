@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ティーポットの品質"
+    },
+    {
+      "locale": "zh",
+      "title": "茶壶质量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "茶壺質量"
+    }
+  ]
 }
