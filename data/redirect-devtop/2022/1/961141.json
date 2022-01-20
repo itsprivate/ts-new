@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-20T00:45:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F97G8ubp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/akv1ykbkrg6wkrbzhe1g.png",
   "author": "Mage",
-  "author_url": "https://dev.to/mage_ai"
+  "author_url": "https://dev.to/mage_ai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR AIが音楽制作に活用されている-プログラマーがアーティストの作品を再現できるように......。",
+      "title": "AIはどのように音楽を生成するために使われているのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR人工智能正被用于音乐创作--允许程序员复制艺术家的作品....",
+      "title": "人工智能是如何用于生成音乐的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR人工智能正被用於音樂創作--允許程序員複製藝術家的作品....",
+      "title": "人工智能是如何用於生成音樂的？"
+    }
+  ]
 }
