@@ -74,5 +74,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-20T08:01:32Z"
+  "original_createdAt": "2022-01-20T08:01:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Box、Dropbox、Google Drive、OneDrive、Sharepointなどの多くのクラウドストレージAPIに接続し、アプリと任意のクラウドストレージサービス間で簡単にファイルのアップロードとダウンロードを提供するオープンソース、プラグアンドプレイFile Pickerです。",
+      "tagline": "Box、Dropbox、Gdriveなどに対応した埋め込み型ファイルアップローダー"
+    },
+    {
+      "locale": "zh",
+      "description": "一个开源的、即插即用的文件选取器，可以连接到许多云存储API，如Box、Dropbox、Google Drive、OneDrive、Sharepoint，并在你的应用程序和任何云存储服务之间提供轻松的文件上传和下载。",
+      "tagline": "用于Box、Dropbox、Gdrive等的可嵌入文件上传器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個開源的、即插即用的文件選取器，可以連接到許多雲存儲API，如Box、Dropbox、Google Drive、OneDrive、Sharepoint，並在你的應用程序和任何雲存儲服務之間提供輕鬆的文件上傳和下載。",
+      "tagline": "用於Box、Dropbox、Gdrive等的可嵌入文件上傳器"
+    }
+  ]
 }
