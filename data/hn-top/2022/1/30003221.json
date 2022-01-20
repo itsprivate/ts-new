@@ -13,5 +13,19 @@
   ],
   "objectID": "30003221",
   "original_created_at": "2022-01-20T01:46:43.000Z",
-  "image": "https://about.gitlab.com/images/opengraph/gitlab-blog-cover.png"
+  "image": "https://about.gitlab.com/images/opengraph/gitlab-blog-cover.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GitlabハンドブックのHNページ"
+    },
+    {
+      "locale": "zh",
+      "title": "Gitlab手册的HN页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Gitlab手冊的HN頁面"
+    }
+  ]
 }
