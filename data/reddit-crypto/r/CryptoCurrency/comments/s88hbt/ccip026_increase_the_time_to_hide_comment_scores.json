@@ -38,5 +38,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "There is a subreddit setting called \"Minutes to hide comment scores\" which does\nexactly what it says. The idea behind this setting is to hide comment scores to\nreduce the bandwagon effect [https://en.wikipedia.org/wiki/Bandwagon_effect].\nThat is to say, visible comment scores introduce cognitive…"
+  "the_new_excerpt": "There is a subreddit setting called \"Minutes to hide comment scores\" which does\nexactly what it says. The idea behind this setting is to hide comment scores to\nreduce the bandwagon effect [https://en.wikipedia.org/wiki/Bandwagon_effect].\nThat is to say, visible comment scores introduce cognitive…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "サブレディットには「コメントスコアを隠す分」という設定があり、これを実行します。\nまさにその通りです。この設定の背景にある考え方は、コメントのスコアを非表示にすることによって\nバンドワゴン効果[https://en.wikipedia.org/wiki/Bandwagon_effect]を低減します。\nつまり、コメントのスコアが見えると、認知的な...",
+      "title": "CCIP-026 - コメントのスコアを非表示にする時間を5分から60分に延長する。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有一个名为 \"分钟隐藏评论分数 \"的子版块设置，其作用是\n这正是它所说的。这个设置背后的想法是要隐藏评论分数，以\n减少波段效应[https://en.wikipedia.org/wiki/Bandwagon_effect]。\n这就是说，可见的评论分数会引入认知...",
+      "title": "CCIP-026 - 将隐藏评论分数的时间从5分钟增加到60分钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有一個名爲 \"分鐘隱藏評論分數 \"的子版塊設置，其作用是\n這正是它所說的。這個設置背後的想法是要隱藏評論分數，以\n減少波段效應[https://en.wikipedia.org/wiki/Bandwagon_effect]。\n這就是說，可見的評論分數會引入認知...",
+      "title": "CCIP-026 - 將隱藏評論分數的時間從5分鐘增加到60分鐘"
+    }
+  ]
 }

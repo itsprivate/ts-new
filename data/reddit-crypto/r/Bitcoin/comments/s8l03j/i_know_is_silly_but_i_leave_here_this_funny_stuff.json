@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バカみたいだけど、ツイッターで見つけた面白いネタをここに置いておきます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我知道这很傻，但我把我在微博上发现的这个有趣的东西留在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我知道這很傻，但我把我在微博上發現的這個有趣的東西留在這裏。"
+    }
+  ]
 }
