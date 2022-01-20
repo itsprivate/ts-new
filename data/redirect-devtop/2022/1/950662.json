@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-10T18:11:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--az99SILH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8mlok2wqh0sssyqdpayn.png",
   "author": "Pachi 🪐 (she/her/ela)",
-  "author_url": "https://dev.to/pachicodes"
+  "author_url": "https://dev.to/pachicodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1年ちょっと前、私はDevRelを書きました。基本的なこと、それは私の基本的な理解についてのブログ記事です...",
+      "title": "DevRelを始めて1年、私が学んだことは以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "description": "一年多以前，我写了《DevRel》。基础知识，这篇博文介绍了我对DevRel的基本理解。",
+      "title": "进入DevRel 1年，我学到的东西如下"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一年多以前，我寫了《DevRel》。基礎知識，這篇博文介紹了我對DevRel的基本理解。",
+      "title": "進入DevRel 1年，我學到的東西如下"
+    }
+  ]
 }
