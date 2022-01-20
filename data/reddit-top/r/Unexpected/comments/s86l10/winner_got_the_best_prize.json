@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "優勝者には豪華賞品が"
+    },
+    {
+      "locale": "zh",
+      "title": "赢家得到了最好的奖品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "贏家得到了最好的獎品"
+    }
+  ]
 }
