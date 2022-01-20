@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、パートナーに両親の許可を得て結婚することを望みますか？その理由または理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否希望你的伴侣征求你父母的同意与你结婚？为什么或为什么不呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否希望你的伴侶徵求你父母的同意與你結婚？爲什麼或爲什麼不呢？"
+    }
+  ]
 }
