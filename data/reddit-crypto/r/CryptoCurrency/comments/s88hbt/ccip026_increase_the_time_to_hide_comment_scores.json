@@ -1,0 +1,42 @@
+{
+  "author": "CryptoMaximalist",
+  "original_created_utc": 1642648011,
+  "title": "CCIP-026 - Increase the time to hide comment scores from 5 to 60 minutes",
+  "created_utc": 1642700352,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;There is a subreddit setting called &amp;quot;Minutes to hide comment scores&amp;quot; which does exactly what it says.  The idea behind this setting is to hide comment scores to reduce &lt;a href=\"https://en.wikipedia.org/wiki/Bandwagon_effect\"&gt;the bandwagon effect&lt;/a&gt;.  That is to say, visible comment scores introduce cognitive bias:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Most people are more likely to think a comment is good or bad based on how others have already voted&lt;/li&gt;\n&lt;li&gt;There is also the reverse bandwagon effect where people will intentionally do the opposite of what the popular opinion is&lt;/li&gt;\n&lt;li&gt;Sometimes users will think a comment&amp;#39;s score is too high or low and use their vote to correct it.  For example thinking a comment with 200 upvotes is good but not great, so they downvote it even though they thought it was good&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;This kind of bias negatively influences they quality of votes because it considers how everyone else voted instead of just the quality of the comment itself.  Currently this setting is set to 5 minutes, but I&amp;#39;m proposing that it be increased to 60 minutes.&lt;/p&gt;\n\n&lt;p&gt;Some additional technical notes:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;strong&gt;Comment sorting is unaffected&lt;/strong&gt;, even though the specific scores are not visible&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Your own comment scores are still visible to you&lt;/strong&gt;, this only affects seeing scores on comments by other users&lt;/li&gt;\n&lt;li&gt;Comment scores are still visible to mods so work against vote manipulation is unaffected&lt;/li&gt;\n&lt;li&gt;The time to hide scores can always be adjusted again in the future&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;CCMeta post: &lt;a href=\"https://www.reddit.com/r/CryptoCurrencyMeta/comments/s45e8f/preproposal_the_time_to_hide_comment_scores/\"&gt;https://www.reddit.com/r/CryptoCurrencyMeta/comments/s45e8f/preproposal_the_time_to_hide_comment_scores/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/poll/s88hbt\"&gt;View Poll&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 309,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/efZAutIImsh_7K42858oPf8rITlKby_HJtRBdfCdDfU.jpg?auto=webp&amp;s=19c55abe92f39a3107a4e4a1d7b4c3f598f3fe04",
+          "width": 300,
+          "height": 188
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/efZAutIImsh_7K42858oPf8rITlKby_HJtRBdfCdDfU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=124d819e0879ea71708f5a53811ffbadf542bbb0",
+            "width": 108,
+            "height": 67
+          },
+          {
+            "url": "https://external-preview.redd.it/efZAutIImsh_7K42858oPf8rITlKby_HJtRBdfCdDfU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=efe21ffc26b013f0dc23d92395ddedfa2c836568",
+            "width": 216,
+            "height": 135
+          }
+        ],
+        "variants": {},
+        "id": "kSBXRMxIi05tqXsxVjzbbA11aS3zn74yi8fOKNqPG4Y"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/s88hbt/ccip026_increase_the_time_to_hide_comment_scores/",
+  "subreddit": "CryptoCurrency",
+  "id": "s88hbt",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "There is a subreddit setting called \"Minutes to hide comment scores\" which does\nexactly what it says. The idea behind this setting is to hide comment scores to\nreduce the bandwagon effect [https://en.wikipedia.org/wiki/Bandwagon_effect].\nThat is to say, visible comment scores introduce cognitive…"
+}
