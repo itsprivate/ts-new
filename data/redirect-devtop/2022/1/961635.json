@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-20T12:58:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_jCd70fJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1o4anubqmiyl0yc7dooa.jpg",
   "author": "Renan Moura",
-  "author_url": "https://dev.to/renanmouraf"
+  "author_url": "https://dev.to/renanmouraf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "土木工学やソフトウェア工学のような、より厳格で規制の多い分野とは異なり...",
+      "title": "過剰な \"ベストプラクティス \"に気をつけろ"
+    },
+    {
+      "locale": "zh",
+      "description": "与其他学科不同的是，这些学科更加严格和规范，如土木工程、软件工程。",
+      "title": "谨防 \"最佳实践 \"的过度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與其他學科不同的是，這些學科更加嚴格和規範，如土木工程、軟件工程。",
+      "title": "謹防 \"最佳實踐 \"的過度"
+    }
+  ]
 }
