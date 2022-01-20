@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後に泣いたのはいつですか？それは何についてですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最后一次哭是什么时候？是为了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最後一次哭是什麼時候？是爲了什麼？"
+    }
+  ]
 }
