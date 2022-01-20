@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-18T11:57:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2xA7zqTh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qwm4rnbtiplvhn7rdg12.png",
   "author": "Amine Amhoume",
-  "author_url": "https://dev.to/amiinequ"
+  "author_url": "https://dev.to/amiinequ",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "英語での「reduce」は、「サイズ、量、範囲、または...を減少させる」という意味です。",
+      "title": "Javascriptのreduceメソッドを簡単に説明すると、以下のようになります。"
+    },
+    {
+      "locale": "zh",
+      "description": "减少 \"这个词在英语中的意思是：在规模、数量、程度上减弱，或...",
+      "title": "Javascript的减少方法简而言之就是。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "減少 \"這個詞在英語中的意思是：在規模、數量、程度上減弱，或...",
+      "title": "Javascript的減少方法簡而言之就是。"
+    }
+  ]
 }
