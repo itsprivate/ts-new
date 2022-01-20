@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-19T12:59:30Z",
   "image": "https://dev.to/social_previews/article/960418.png",
   "author": "Danish Saleem",
-  "author_url": "https://dev.to/mrdanishsaleem"
+  "author_url": "https://dev.to/mrdanishsaleem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. 20/80の法則に従う パレートの法則（20/80の法則）とは、「80%の...",
+      "title": "JavaScriptをより速く習得する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 遵循20/80法则 帕累托原则，即20/80法则，指出80%的...",
+      "title": "如何更快地学习JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 遵循20/80法則 帕累託原則，即20/80法則，指出80%的...",
+      "title": "如何更快地學習JavaScript"
+    }
+  ]
 }
