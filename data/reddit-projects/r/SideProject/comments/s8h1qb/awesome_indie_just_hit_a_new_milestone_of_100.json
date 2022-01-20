@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Awesome Indieは、登録ユーザー数100人以上、製品投稿数500件以上という新たなマイルストーンを達成しました! 🙌"
+    },
+    {
+      "locale": "zh",
+      "title": "Awesome Indie刚刚创下了一个新的里程碑，有100多个注册用户和500多个产品提交! 🙌"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Awesome Indie剛剛創下了一個新的里程碑，有100多個註冊用戶和500多個產品提交! 🙌"
+    }
+  ]
 }
