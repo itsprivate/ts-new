@@ -13,5 +13,19 @@
   ],
   "objectID": "30010126",
   "original_created_at": "2022-01-20T15:35:10.000Z",
-  "image": "http://seclists.org/images/oss-sec-img.png"
+  "image": "http://seclists.org/images/oss-sec-img.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Linux カーネルの fs_context.c にバージョン 5.1 以降のヒープバッファオーバーフローが存在する。"
+    },
+    {
+      "locale": "zh",
+      "title": "自5.1版以来，Linux内核fs_context.c中出现堆缓冲区溢出。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自5.1版以來，Linux內核fs_context.c中出現堆緩衝區溢出。"
+    }
+  ]
 }
