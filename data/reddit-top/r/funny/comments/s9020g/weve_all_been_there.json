@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰しもが経験することです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们都经历过这种情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們都經歷過這種情況。"
+    }
+  ]
 }
