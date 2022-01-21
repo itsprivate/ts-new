@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-21T11:37:28Z"
+  "original_createdAt": "2022-01-21T11:37:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Embed Notionは、Notionの埋め込みスニペットを簡単に作成するためのジェネレータです。あなたのサイトにノティオンを簡単に数秒で埋め込むことができます。",
+      "tagline": "あなたのWebサイトにNotionを簡単に数秒で埋め込むことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "嵌入Notion是一个简单的生成器，用于创建Notion的嵌入片段。在几秒钟内轻松地将Notion嵌入你的网站。",
+      "tagline": "在几秒钟内轻松地将Notion嵌入你的网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嵌入Notion是一個簡單的生成器，用於創建Notion的嵌入片段。在幾秒鐘內輕鬆地將Notion嵌入你的網站。",
+      "tagline": "在幾秒鐘內輕鬆地將Notion嵌入你的網站。"
+    }
+  ]
 }
