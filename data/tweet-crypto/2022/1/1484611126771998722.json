@@ -63,5 +63,22 @@
     "retweet_count": 1956,
     "favorite_count": 4531,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @kylenabecker: 「COVIDによる新規接種者の入院のほぼ半数は14日以内に発生しており、これはつまり治療を受けていることを意味する...",
+      "retweeted_status_full_text": "\"COVIDによる新規接種者の入院のほぼ半数は14日以内に発生しており、これは統計上では未接種として扱われていたことを意味する\"\n\nここまでくると、データ詐欺も笑い話になりそうですね🔻。\nhttps://t.co/0p4gQOPUjc"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @kylenabecker: \"新接种疫苗的所有COVID住院病例中几乎有一半是在14天内发生的，这意味着他们接受了治疗。",
+      "retweeted_status_full_text": "\"在新接种疫苗的所有COVID住院病人中，几乎有一半是在14天内发生的，这意味着他们在统计中被当作未接种疫苗。\"\n\n在这一点上，数据造假几乎是可笑的。🔻\nhttps://t.co/0p4gQOPUjc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @kylenabecker: \"新接種疫苗的所有COVID住院病例中幾乎有一半是在14天內發生的，這意味着他們接受了治療。",
+      "retweeted_status_full_text": "\"在新接種疫苗的所有COVID住院病人中，幾乎有一半是在14天內發生的，這意味着他們在統計中被當作未接種疫苗。\"\n\n在這一點上，數據造假幾乎是可笑的。🔻\nhttps://t.co/0p4gQOPUjc"
+    }
+  ]
 }
