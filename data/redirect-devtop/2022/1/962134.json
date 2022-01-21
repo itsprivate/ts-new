@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-20T20:44:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E1UVwnnq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/devdevcharlie/image/upload/v1642709119/Group_29_l41ly4.png",
   "author": "Charlie Gerard",
-  "author_url": "https://dev.to/devdevcharlie"
+  "author_url": "https://dev.to/devdevcharlie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これまでもTensorFlow.jsを使った手の検出は遊んでいたのですが、複数の手を検出する機能がリリースされたので、手の動きを使ったUIの構築を模索したいと思うようになりました。",
+      "title": "Figmaで手の動きでUIを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我过去曾使用TensorFlow.js玩过手部检测，但自从他们发布了检测多只手的功能后，我就想探索用手部动作构建UI。",
+      "title": "用手部动作在Figma中构建UI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我過去曾使用TensorFlow.js玩過手部檢測，但自從他們發佈了檢測多隻手的功能後，我就想探索用手部動作構建UI。",
+      "title": "用手部動作在Figma中構建UI"
+    }
+  ]
 }

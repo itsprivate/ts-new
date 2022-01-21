@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "死刑制度についてどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对死刑有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對死刑有什麼看法？"
+    }
+  ]
 }

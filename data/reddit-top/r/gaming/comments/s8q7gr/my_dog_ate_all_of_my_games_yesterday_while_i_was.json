@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日、私がいない間に犬が私のゲームを全部食べてしまいました。開発チーム全員のサイン入りDoomも含めて...。"
+    },
+    {
+      "locale": "zh",
+      "title": "昨天我不在的时候，我的狗吃了我所有的游戏。包括我那份由整个开发团队签名的《毁灭战士》......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨天我不在的時候，我的狗吃了我所有的遊戲。包括我那份由整個開發團隊簽名的《毀滅戰士》......"
+    }
+  ]
 }
