@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの採掘難易度は本日+9.3%上昇し、ATHを更新した。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币挖矿难度今天增加了+9.3%，创下了新的ATH。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣挖礦難度今天增加了+9.3%，創下了新的ATH。"
+    }
+  ]
 }
