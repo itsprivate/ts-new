@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は選ばれし者"
+    },
+    {
+      "locale": "zh",
+      "title": "他是被选中的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他是被選中的人"
+    }
+  ]
 }
