@@ -113,5 +113,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1642733409,
-  "the_new_excerpt": "This is how brilliant the system works. Please welcome the limit down."
+  "the_new_excerpt": "This is how brilliant the system works. Please welcome the limit down.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これが、いかに見事なシステムであるかということです。ぜひ、リミットダウンを歓迎してください。",
+      "title": "株式市場の暴落は、まさに住宅危機をもたらすものである。そして、住宅危機はインフレ問題を解決する"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是该系统的出色运作。请欢迎限制下来。",
+      "title": "股票市场的崩溃正是需要带来住房危机的。而住房危机将解决通货膨胀问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是該系統的出色運作。請歡迎限制下來。",
+      "title": "股票市場的崩潰正是需要帶來住房危機的。而住房危機將解決通貨膨脹問題"
+    }
+  ]
 }
