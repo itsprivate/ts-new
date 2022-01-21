@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画の中で、錯覚や効果はどのように使われていたのか!"
+    },
+    {
+      "locale": "zh",
+      "title": "电影中是如何使用幻觉和效果的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "電影中是如何使用幻覺和效果的!"
+    }
+  ]
 }
