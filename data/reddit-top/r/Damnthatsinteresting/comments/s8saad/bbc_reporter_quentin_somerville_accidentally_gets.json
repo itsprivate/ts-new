@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BBCのレポーター、クエンティン・サマーヴィル氏が、燃えているヒロインの山から誤ってハイになり、それ以上の報道をしなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "BBC记者Quentin Somerville不小心从一堆燃烧的海洛因中嗨了起来，没有进一步报道"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BBC記者Quentin Somerville不小心從一堆燃燒的海洛因中嗨了起來，沒有進一步報道"
+    }
+  ]
 }
