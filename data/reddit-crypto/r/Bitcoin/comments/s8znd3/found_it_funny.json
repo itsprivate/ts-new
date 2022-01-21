@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "面白い"
+    },
+    {
+      "locale": "zh",
+      "title": "发现它很有趣"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發現它很有趣"
+    }
+  ]
 }

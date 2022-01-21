@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが恐れていたことで、大したことではないと判明したことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么事情是你害怕的，但结果却不是什么大事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼事情是你害怕的，但結果卻不是什麼大事？"
+    }
+  ]
 }
