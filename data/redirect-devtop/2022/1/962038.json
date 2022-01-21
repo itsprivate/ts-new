@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-20T17:28:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_o9txdxQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a060nvkst70gxj3j27z.png",
   "author": "Danny Adams",
-  "author_url": "https://dev.to/doabledanny"
+  "author_url": "https://dev.to/doabledanny",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "同じようなGitコマンドを調べるのにうんざりしていたので、印刷できるチートシートを作りました...",
+      "title": "Gitチートシート 📄 (50コマンド＋無料PDFとポスター)"
+    },
+    {
+      "locale": "zh",
+      "description": "我已经厌倦了查找相同的普通Git命令 - 所以我做了一个可以打印的小抄。",
+      "title": "Git小抄 📄（50个命令+免费PDF和海报）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經厭倦了查找相同的普通Git命令 - 所以我做了一個可以打印的小抄。",
+      "title": "Git小抄 📄（50個命令+免費PDF和海報）"
+    }
+  ]
 }
