@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、「有名人が連続殺人犯であることを公表」というニュースの見出しが出たら、あなたは誰を想定するだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果新闻标题 \"名人被揭发为连环杀手 \"出现，你会期待它是关于谁的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果新聞標題 \"名人被揭發爲連環殺手 \"出現，你會期待它是關於誰的？"
+    }
+  ]
 }
