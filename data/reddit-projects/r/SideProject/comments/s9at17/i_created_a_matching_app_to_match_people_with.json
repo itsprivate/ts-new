@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界の様々な都市で共通の趣味を持つ人をマッチングさせるマッチングアプリを作りました🏙️。"
+    },
+    {
+      "locale": "zh",
+      "title": "💡 我创建了一个匹配应用程序，在世界各地的不同城市为有共同兴趣的人牵线搭桥 🏙️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "💡 我創建了一個匹配應用程序，在世界各地的不同城市爲有共同興趣的人牽線搭橋 🏙️"
+    }
+  ]
 }
