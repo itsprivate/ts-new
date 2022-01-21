@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "鹿はオワコン"
+    },
+    {
+      "locale": "zh",
+      "title": "鹿晗是个怪人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鹿晗是個怪人"
+    }
+  ]
 }
