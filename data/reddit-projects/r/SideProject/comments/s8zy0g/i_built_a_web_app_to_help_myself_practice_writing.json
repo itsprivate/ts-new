@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "低摩擦の環境でより多くの文章を書く練習をするために、ウェブアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个网络应用，帮助自己在一个低摩擦的环境中更多地练习写作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個網絡應用，幫助自己在一個低摩擦的環境中更多地練習寫作"
+    }
+  ]
 }
