@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちはただ、それが苦手なだけだと思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想，我们只是在这方面做得很差"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想，我們只是在這方面做得很差"
+    }
+  ]
 }
