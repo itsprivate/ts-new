@@ -77,5 +77,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんな仕事にも対応できる履歴書を作成するAIを開発 - あらゆる仕事への応募を超高速化することを目指す"
+    },
+    {
+      "locale": "zh",
+      "title": "构建了一个人工智能，可以为任何工作定制简历 - 目的是使申请任何工作的速度超快。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "構建了一個人工智能，可以爲任何工作定製簡歷 - 目的是使申請任何工作的速度超快。"
+    }
+  ]
 }
