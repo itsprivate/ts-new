@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And were there for example any politicians that promised to bring back slavery\nor otherwise supported it."
+  "the_new_excerpt": "And were there for example any politicians that promised to bring back slavery\nor otherwise supported it.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、例えば、奴隷制の復活を約束した政治家はいたのでしょうか。\nあるいはそれを支持する。",
+      "title": "アメリカの南北戦争後、どれくらいの期間、奴隷制を支持するのが一般的だったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，是否有任何政治家承诺恢复奴隶制？\n或以其他方式支持它。",
+      "title": "美国内战结束后多久，仍然支持奴隶制的情况很普遍？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，是否有任何政治家承諾恢復奴隸制？\n或以其他方式支持它。",
+      "title": "美國內戰結束後多久，仍然支持奴隸制的情況很普遍？"
+    }
+  ]
 }
