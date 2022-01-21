@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-20T12:23:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--thH-a0Q0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4yw99d76ccy78yk24vy7.png",
   "author": "0xMuse",
-  "author_url": "https://dev.to/0xmuse"
+  "author_url": "https://dev.to/0xmuse",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、ASS スタックを使用してフルスタックの Web3 dApp をゼロから構築する方法について学びます -...",
+      "title": "ASS（アンカー、ソラナ、スベルテ）によるフルスタックウェブ3への加速ガイド🍑」。"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，你将学习如何用ASS栈从头开始构建一个全栈式的Web3 dApp------。",
+      "title": "使用ASS（Anchor、Solana和Svelte）的Fullstack Web3加速指南 🍑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，你將學習如何用ASS棧從頭開始構建一個全棧式的Web3 dApp------。",
+      "title": "使用ASS（Anchor、Solana和Svelte）的Fullstack Web3加速指南 🍑"
+    }
+  ]
 }
