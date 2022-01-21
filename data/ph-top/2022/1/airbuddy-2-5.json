@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-20T20:00:00Z"
+  "original_createdAt": "2022-01-20T20:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AirBuddyを使えば、Macの横でAirPodsケースを開くだけで、iPhoneやiPadでの操作と同じように、現在の状態をすぐに確認することができます。クリックするだけですぐに接続され、MacのオーディオをAirPodsで再生することができます。",
+      "tagline": "MacでAirPodsをかつてないほど体験できる"
+    },
+    {
+      "locale": "zh",
+      "description": "有了AirBuddy，你只需在Mac旁边打开你的AirPods盒，就能马上看到当前的状态，就像在iPhone或iPad上一样。只需点击一下，你就可以立即连接并通过AirPods播放你的Mac的音频。",
+      "tagline": "在Mac上体验前所未有的AirPods"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了AirBuddy，你只需在Mac旁邊打開你的AirPods盒，就能馬上看到當前的狀態，就像在iPhone或iPad上一樣。只需點擊一下，你就可以立即連接並通過AirPods播放你的Mac的音頻。",
+      "tagline": "在Mac上體驗前所未有的AirPods"
+    }
+  ]
 }
