@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-21T08:29:23Z"
+  "original_createdAt": "2022-01-21T08:29:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Autumn8は、デプロイメントプロセスの自動化と簡素化により、AIエンジニアリングチームの生産性を向上させます。学習済みAIモデルのデプロイをクラウド上で最適化・自動化するプラットフォームを提供します。",
+      "tagline": "クラウドにおける最適なAI導入"
+    },
+    {
+      "locale": "zh",
+      "description": "Autumn8通过自动化和简化部署过程来提高AI工程团队的生产力。我们提供一个平台，优化和自动部署云中的训练有素的AI模型。",
+      "tagline": "云中的最佳AI部署"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Autumn8通過自動化和簡化部署過程來提高AI工程團隊的生產力。我們提供一個平臺，優化和自動部署雲中的訓練有素的AI模型。",
+      "tagline": "雲中的最佳AI部署"
+    }
+  ]
 }
