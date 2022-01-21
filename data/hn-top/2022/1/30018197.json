@@ -13,5 +13,19 @@
   ],
   "objectID": "30018197",
   "original_created_at": "2022-01-21T01:52:40.000Z",
-  "image": "https://fly.io/blog/2022-01-20/free-postgres.jpg"
+  "image": "https://fly.io/blog/2022-01-20/free-postgres.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Fly.io - 無料のPostgresデータベース（および無料のストレージボリューム、合計3GBまで）"
+    },
+    {
+      "locale": "zh",
+      "title": "Fly.io - 免费的Postgres数据库（和免费的存储卷，总量不超过3GB）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fly.io - 免費的Postgres數據庫（和免費的存儲卷，總量不超過3GB）。"
+    }
+  ]
 }
