@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人体の重力関連機能はどのようなもので、無重力環境ではどのような影響を受け、どのように克服されるのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "人体的重力相关功能是什么，它们在零重力环境中是如何被影响和克服的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人體的重力相關功能是什麼，它們在零重力環境中是如何被影響和克服的？"
+    }
+  ]
 }
