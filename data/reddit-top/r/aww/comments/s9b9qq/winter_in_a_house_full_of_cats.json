@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫だらけの家の冬...。"
+    },
+    {
+      "locale": "zh",
+      "title": "在满是猫的房子里过冬...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在滿是貓的房子裏過冬...."
+    }
+  ]
 }
