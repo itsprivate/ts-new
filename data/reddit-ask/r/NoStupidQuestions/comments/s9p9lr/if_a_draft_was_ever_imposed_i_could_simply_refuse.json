@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Surely any amount of prison time would be better than being sent to a probable\ndeath?"
+  "the_new_excerpt": "Surely any amount of prison time would be better than being sent to a probable\ndeath?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "確かに、いくら刑務所に入れられたとしても、確率的には送られるよりましだろう。\n死ぬの？",
+      "title": "もし、徴兵制が敷かれたとしても、拒否すればいいだけでしょう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "当然，任何数量的监禁时间都比被送入可能的死亡之境要好。\n死亡？",
+      "title": "如果有一天强行征兵，我可以直接拒绝，对吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "當然，任何數量的監禁時間都比被送入可能的死亡之境要好。\n死亡？",
+      "title": "如果有一天強行徵兵，我可以直接拒絕，對嗎？"
+    }
+  ]
 }
