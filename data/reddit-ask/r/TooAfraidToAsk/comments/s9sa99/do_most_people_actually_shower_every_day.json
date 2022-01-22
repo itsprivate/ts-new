@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If you dont what do you do?"
+  "the_new_excerpt": "If you dont what do you do?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そうでない場合は、どうすればいいのでしょうか？",
+      "title": "実際に多くの人が毎日シャワーを浴びているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你不这样做，你会怎么做？",
+      "title": "大多数人真的每天都洗澡吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你不這樣做，你會怎麼做？",
+      "title": "大多數人真的每天都洗澡嗎？"
+    }
+  ]
 }
