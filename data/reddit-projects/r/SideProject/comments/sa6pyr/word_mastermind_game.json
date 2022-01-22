@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I recently discovered the word game Wordle\n[https://www.powerlanguage.co.uk/wordle/].\n\nUnfortunately it only allows one word/game per day, so I decided to create a\nclone.\n\nThe game is just like Mastermind, but instead of guessing colors you need to\nguess a word, so that makes it slightly more…"
+  "the_new_excerpt": "I recently discovered the word game Wordle\n[https://www.powerlanguage.co.uk/wordle/].\n\nUnfortunately it only allows one word/game per day, so I decided to create a\nclone.\n\nThe game is just like Mastermind, but instead of guessing colors you need to\nguess a word, so that makes it slightly more…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最近、ワードゲーム「Wordle」を発見しました\n[https://www.powerlanguage.co.uk/wordle/]。\n\n残念ながら、1日に1単語/1ゲームしかできないので、私はこのゲームを作成することにしました。\nクローンを作成しました。\n\nこのゲームはマスターマインドに似ていますが、色を当てるのではなく\n単語を当てるので、若干...",
+      "title": "ワードマスターマインドゲーム"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我最近发现了一个文字游戏Wordle\n[https://www.powerlanguage.co.uk/wordle/]。\n\n不幸的是，它每天只允许一个词/游戏，所以我决定创建一个\n克隆。\n\n这个游戏就像Mastermind，但你需要猜测的不是颜色，而是一个词。\n猜测一个词，所以这使它略微更...",
+      "title": "字母智力游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我最近發現了一個文字遊戲Wordle\n[https://www.powerlanguage.co.uk/wordle/]。\n\n不幸的是，它每天只允許一個詞/遊戲，所以我決定創建一個\n克隆。\n\n這個遊戲就像Mastermind，但你需要猜測的不是顏色，而是一個詞。\n猜測一個詞，所以這使它略微更...",
+      "title": "字母智力遊戲"
+    }
+  ]
 }
