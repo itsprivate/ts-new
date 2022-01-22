@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-21T15:20:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1pjyjJZ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfke3bvwmuacddmnprzk.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chromeの新しいメジャーリリースのたびにリリースノートをチェックしているのですが、今回は超テンションが上がりました...。",
+      "title": "Chrome DevTools。レコーダー"
+    },
+    {
+      "locale": "zh",
+      "description": "每一个新的Chrome浏览器的主要版本，我都会查看发布说明，而这次我超级兴奋地看到了...",
+      "title": "Chrome DevTools。录音机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每一個新的Chrome瀏覽器的主要版本，我都會查看發佈說明，而這次我超級興奮地看到了...",
+      "title": "Chrome DevTools。錄音機"
+    }
+  ]
 }
