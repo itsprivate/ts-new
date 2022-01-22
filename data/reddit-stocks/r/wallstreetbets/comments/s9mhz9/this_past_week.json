@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1642803253,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この一週間"
+    },
+    {
+      "locale": "zh",
+      "title": "过去的这个星期"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去的這個星期"
+    }
+  ]
 }
