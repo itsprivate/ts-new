@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-19T16:15:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mm0pjAig--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ooar2ovwjnk5w3rumxy.png",
   "author": "Jonathon Ringeisen",
-  "author_url": "https://dev.to/jringeisen"
+  "author_url": "https://dev.to/jringeisen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨日、Google Places APIを使ったwhileループの反復処理で、非常に貴重な教訓を得ました -...",
+      "title": "私のPHPでの646ドルの失敗"
+    },
+    {
+      "locale": "zh",
+      "description": "昨天，我在使用Google Places API迭代一个while循环时学到了一个非常有价值的教训--...",
+      "title": "我的646美元的PHP错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "昨天，我在使用Google Places API迭代一個while循環時學到了一個非常有價值的教訓--...",
+      "title": "我的646美元的PHP錯誤"
+    }
+  ]
 }
