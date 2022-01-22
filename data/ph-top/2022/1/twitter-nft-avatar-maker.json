@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-22T08:00:00Z"
+  "original_createdAt": "2022-01-22T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "透明な六角形のNFT Twitterアバターを作成して、あなたのTwitterプロフィール画像として使用できます 画像をアップロードするか、Twitterアカウントに接続して、ボットに現在のTwitterプロフィール画像を取得させることができます。",
+      "tagline": "Twitterのプロフィール画像にHEXアバターを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "创建一个透明的六角形NFT推特头像，并将其作为你的推特资料图片使用! 你可以上传图片或连接你的Twitter账户，让我们的机器人获取你当前的Twitter资料图片。",
+      "tagline": "为你的Twitter个人资料图片创建一个HEX头像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建一個透明的六角形NFT推特頭像，並將其作爲你的推特資料圖片使用! 你可以上傳圖片或連接你的Twitter賬戶，讓我們的機器人獲取你當前的Twitter資料圖片。",
+      "tagline": "爲你的Twitter個人資料圖片創建一個HEX頭像"
+    }
+  ]
 }
