@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "source: coinbase API. They only have data starting 2016, Jan 1st so this is\nwhere I start my analysis.\n\nsince 2016 this even has occurred 14 times in monthly bins.\n\nmethod:\n\n * I calculated the lagging 90 day high closing price and then figure out how\n   many days and months it took to recover.\n *…"
+  "the_new_excerpt": "source: coinbase API. They only have data starting 2016, Jan 1st so this is\nwhere I start my analysis.\n\nsince 2016 this even has occurred 14 times in monthly bins.\n\nmethod:\n\n * I calculated the lagging 90 day high closing price and then figure out how\n   many days and months it took to recover.\n *…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "source: coinbase API. 2016年1月1日からのデータしかないので、ここが\nここから分析を開始します。\n\n2016年以降、この偶数回が月単位で14回発生しています。\n\nという方法をとりました。\n\n * 私は90日間の高値の終値の遅れを計算し、次にどのように把握します。\n   何日、何ヶ月で回復したのか。\n *...",
+      "title": "90日前の高値から-48％下落したわけですが、このような出来事から回復するのに何ヶ月かかったかを集計してみました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "来源：coinbase API。他们只有2016年1月1日开始的数据，所以这是\n我的分析从这里开始。\n\n自2016年以来，这种情况甚至在月度分档中出现了14次。\n\n方法。\n\n *我计算了滞后的90天最高收盘价，然后计算出\n   多少天和多少个月后才恢复。\n *...",
+      "title": "市场从90天的高点下跌了-48%，在此我表列了从这样的事件中恢复过来需要多少个月。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "來源：coinbase API。他們只有2016年1月1日開始的數據，所以這是\n我的分析從這裏開始。\n\n自2016年以來，這種情況甚至在月度分檔中出現了14次。\n\n方法。\n\n *我計算了滯後的90天最高收盤價，然後計算出\n   多少天和多少個月後才恢復。\n *...",
+      "title": "市場從90天的高點下跌了-48%，在此我表列了從這樣的事件中恢復過來需要多少個月。"
+    }
+  ]
 }
