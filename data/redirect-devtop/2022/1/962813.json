@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T11:52:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EaW2_BYF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vp1t0o7enf9kmldg13d.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、私のプロジェクトのテストランナーフレームワークをJestからVitestに移行し、その結果を確認することにします。",
+      "title": "JestからVitestへ - 移行とベンチマーク"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，请和我一起把我项目的测试运行器框架从Jest迁移到Vitest，并检查...",
+      "title": "从Jest到Vitest - 迁移和基准测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，請和我一起把我項目的測試運行器框架從Jest遷移到Vitest，並檢查...",
+      "title": "從Jest到Vitest - 遷移和基準測試"
+    }
+  ]
 }
