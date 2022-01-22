@@ -52,5 +52,22 @@
     },
     "retweet_count": 315,
     "favorite_count": 2893
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: *エルサルバドルは410ビットコインを1500万ドルで購入したとブケレは言う。",
+      "retweeted_status_full_text": "*エルサルバドルは410ビットコインを1500万ドルで購入したとBUKELEは言う。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: *布克尔说，萨尔瓦多以1500万美元购买了410个比特币",
+      "retweeted_status_full_text": "*布克尔说，萨尔瓦多以1500万美元购买了410枚比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: *布克爾說，薩爾瓦多以1500萬美元購買了410個比特幣",
+      "retweeted_status_full_text": "*布克爾說，薩爾瓦多以1500萬美元購買了410枚比特幣"
+    }
+  ]
 }

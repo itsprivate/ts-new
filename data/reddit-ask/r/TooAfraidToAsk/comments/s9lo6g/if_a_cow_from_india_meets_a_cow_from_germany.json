@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Basically title and what about other animals?"
+  "the_new_excerpt": "Basically title and what about other animals?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "基本的にタイトルと、他の動物はどうなのか？",
+      "title": "インドから来た牛とドイツから来た牛が出会ったら、お互いに理解できるでしょうか？それとも、牛の方言が違うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "基本上是标题，其他动物呢？",
+      "title": "如果一头来自印度的奶牛遇到一头来自德国的奶牛，它们能理解对方吗？还是他们会有不同的牛方言？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "基本上是標題，其他動物呢？",
+      "title": "如果一頭來自印度的奶牛遇到一頭來自德國的奶牛，它們能理解對方嗎？還是他們會有不同的牛方言？"
+    }
+  ]
 }
