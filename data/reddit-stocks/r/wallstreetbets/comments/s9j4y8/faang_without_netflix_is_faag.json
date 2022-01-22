@@ -113,5 +113,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1642794402,
-  "the_new_excerpt": "That is what you all are."
+  "the_new_excerpt": "That is what you all are.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それが皆さんなのです。",
+      "title": "NetflixのないFAANGはFAAGです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是你们所有人的情况。",
+      "title": "没有Netflix的FAANG就是FAAG。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是你們所有人的情況。",
+      "title": "沒有Netflix的FAANG就是FAAG。"
+    }
+  ]
 }
