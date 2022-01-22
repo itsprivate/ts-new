@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日初めてビットコインを買いました。皆さん、幸運を祈ってください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我今天第一次买了比特币。祝我好运吧，各位!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我今天第一次買了比特幣。祝我好運吧，各位!"
+    }
+  ]
 }
