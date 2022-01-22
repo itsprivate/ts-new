@@ -122,5 +122,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NPCを自分と同じ速度で走らせる開発者はスゴイ"
+    },
+    {
+      "locale": "zh",
+      "title": "让NPC和你跑得一样快的开发者真了不起"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓NPC和你跑得一樣快的開發者真了不起"
+    }
+  ]
 }
