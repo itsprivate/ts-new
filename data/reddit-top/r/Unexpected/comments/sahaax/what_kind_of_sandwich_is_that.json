@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"どんなサンドイッチなんだ？\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"那是什么样的三明治？\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"那是什麼樣的三明治？\""
+    }
+  ]
 }
