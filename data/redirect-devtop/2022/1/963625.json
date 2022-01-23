@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-22T06:38:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--De7hFCrm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qf3f6kl2c870rdnicz7p.jpeg",
   "author": "Rahil Rehan",
-  "author_url": "https://dev.to/rahil_rehan"
+  "author_url": "https://dev.to/rahil_rehan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるデバイスから別のデバイスへ、どのようにデータが転送されるのか、不思議に思ったことはありませんか？  さて、その答えは...",
+      "title": "コンピュータネットワークをシンプルに"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾想过数据是如何从一个设备传输到另一个设备的？  那么，为了回答这个问题...",
+      "title": "计算机网络的简化!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾想過數據是如何從一個設備傳輸到另一個設備的？  那麼，爲了回答這個問題...",
+      "title": "計算機網絡的簡化!"
+    }
+  ]
 }
