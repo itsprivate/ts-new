@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ、デバイスの電源を切って入れ直すと、ほとんどの技術的な問題が解決するのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么关闭设备后再打开可以解决大多数技术问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼關閉設備後再打開可以解決大多數技術問題？"
+    }
+  ]
 }
