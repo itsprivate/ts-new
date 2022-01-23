@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつも「15分遅刻」している人は、目覚ましを15分早くセットすればいいのでは？"
+    },
+    {
+      "locale": "zh",
+      "title": "那些早上总是 \"迟到15分钟 \"的人，为什么不把闹钟提前15分钟呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那些早上總是 \"遲到15分鐘 \"的人，爲什麼不把鬧鐘提前15分鐘呢？"
+    }
+  ]
 }
