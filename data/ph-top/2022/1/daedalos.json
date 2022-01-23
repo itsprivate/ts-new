@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-23T08:09:11Z"
+  "original_createdAt": "2022-01-23T08:09:11Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "daedalOSは、Web上でのデスクトップ環境体験を再現したものです。https://dustinbrett.com/。",
+      "tagline": "ブラウザでのデスクトップ環境"
+    },
+    {
+      "locale": "zh",
+      "description": "daedalOS是对网络桌面环境体验的重现。https://dustinbrett.com/。",
+      "tagline": "浏览器中的桌面环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "daedalOS是對網絡桌面環境體驗的重現。https://dustinbrett.com/。",
+      "tagline": "瀏覽器中的桌面環境"
+    }
+  ]
 }
