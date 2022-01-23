@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このエマ・ワトソンとハーヴェイ・ワインスタインの写真。"
+    },
+    {
+      "locale": "zh",
+      "title": "这张艾玛-沃特森和哈维-温斯坦的照片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張艾瑪-沃特森和哈維-溫斯坦的照片。"
+    }
+  ]
 }
