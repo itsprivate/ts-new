@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I built a web-app which basically lets you have your own file hosting service. I\nwould love to get some feedback on this :)\n\nFirefiles is an app which provides you with a drive like interface for your\nfirebase storage buckets. You can download, upload and manage your files and\nfolders easily within…"
+  "the_new_excerpt": "I built a web-app which basically lets you have your own file hosting service. I\nwould love to get some feedback on this :)\n\nFirefiles is an app which provides you with a drive like interface for your\nfirebase storage buckets. You can download, upload and manage your files and\nfolders easily within…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、基本的に自分のファイルホスティングサービスを持つことができるウェブアプリを作りました。I\nフィードバックが欲しいです :)\n\nFirefilesは、ドライブのようなインターフェイスを提供するアプリです。\nのストレージバケットを使用します。ファイルやバケットをダウンロード、アップロード、管理することができます。\nフォルダを簡単に作成することができます。",
+      "title": "私は、数分で自分のファイルホスティングサービスを持つことができるウェブアプリをコーディングしました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我建立了一个网络应用，基本上可以让你拥有自己的文件托管服务。I\n希望能得到一些反馈:)\n\nFirefiles是一个应用程序，它为你提供了一个类似于驱动器的界面，用于你的\nFirebase存储桶提供一个类似驱动器的界面。你可以下载、上传和管理你的文件和\n文件夹。",
+      "title": "我编了一个网络应用程序，让你在几分钟内拥有自己的文件托管服务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我建立了一個網絡應用，基本上可以讓你擁有自己的文件託管服務。I\n希望能得到一些反饋:)\n\nFirefiles是一個應用程序，它爲你提供了一個類似於驅動器的界面，用於你的\nFirebase存儲桶提供一個類似驅動器的界面。你可以下載、上傳和管理你的文件和\n文件夾。",
+      "title": "我編了一個網絡應用程序，讓你在幾分鐘內擁有自己的文件託管服務。"
+    }
+  ]
 }
