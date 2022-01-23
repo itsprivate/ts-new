@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-23T00:18:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v-vhfu9i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ixs3klplhu24sup4cgeo.png",
   "author": "Hahnbee Lee",
-  "author_url": "https://dev.to/hahnbeelee"
+  "author_url": "https://dev.to/hahnbeelee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VS Codeのマーケットプレイスには、AI Doc Writer for JavaScriptという、かなり新しい拡張機能があります...",
+      "title": "AIを使ったドキュメントを生成するVS Code Extension"
+    },
+    {
+      "locale": "zh",
+      "description": "在VS Code市场上有一个相当新的扩展，叫做AI Doc Writer for JavaScript，...",
+      "title": "使用人工智能生成文档的VS代码扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在VS Code市場上有一個相當新的擴展，叫做AI Doc Writer for JavaScript，...",
+      "title": "使用人工智能生成文檔的VS代碼擴展"
+    }
+  ]
 }
