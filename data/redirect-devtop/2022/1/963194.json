@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-21T18:00:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rojnQpnu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfelwy0uahnhlwtrqwcp.png",
   "author": "Burak Yılmaz",
-  "author_url": "https://dev.to/buurak"
+  "author_url": "https://dev.to/buurak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、JWT認証を使用し、.NETと通信するアプリケーションを構築します。",
+      "title": "Django REST フレームワーク - WebSocket"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将建立一个使用JWT认证的应用程序，该应用程序将在一个星期内完成对该应用程序的通信。",
+      "title": "Django REST框架 - WebSocket"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將建立一個使用JWT認證的應用程序，該應用程序將在一個星期內完成對該應用程序的通信。",
+      "title": "Django REST框架 - WebSocket"
+    }
+  ]
 }
