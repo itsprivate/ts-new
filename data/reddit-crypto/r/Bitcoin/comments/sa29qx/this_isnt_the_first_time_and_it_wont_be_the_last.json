@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今に始まったことじゃないし、最後でもない-ビジュアライゼーション"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是第一次，也不会是最后一次--视觉化"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是第一次，也不會是最後一次--視覺化"
+    }
+  ]
 }
