@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "背景の誰かが命がけで戦っている"
+    },
+    {
+      "locale": "zh",
+      "title": "背景中有人在为自己的生命而战"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "背景中有人在爲自己的生命而戰"
+    }
+  ]
 }
