@@ -48,5 +48,22 @@
   "original_created_at": "2022-01-21T06:11:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AI-5MQqs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ey69vws1brjpemr4owak.png",
   "author": "The Sharp Ninja",
-  "author_url": "https://dev.to/sharpninja"
+  "author_url": "https://dev.to/sharpninja",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1990年代後半から2000年代前半のソフトウェア工学を振り返って。",
+      "title": "Back in My Day..."
+    },
+    {
+      "locale": "zh",
+      "description": "回顾1990年代末和2000年代初的软件工程。",
+      "title": "回到我的时代..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "回顧1990年代末和2000年代初的軟件工程。",
+      "title": "回到我的時代..."
+    }
+  ]
 }
