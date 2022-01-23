@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If so, how would one calculate it?"
+  "the_new_excerpt": "If so, how would one calculate it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "その場合、どのように計算するのでしょうか？",
+      "title": "液体中を浮力で上昇する物体の終端速度はあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果是这样，该如何计算？",
+      "title": "浮力物体在液态水中上升时，是否存在一个终点速度？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果是這樣，該如何計算？",
+      "title": "浮力物體在液態水中上升時，是否存在一個終點速度？"
+    }
+  ]
 }
