@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カルダノ初のDEX「SundaeSwap」、ローンチ時の印象は悪く、ユーザーは取引失敗を嘆いている。"
+    },
+    {
+      "locale": "zh",
+      "title": "Cardano的第一个DEX SundaeSwap在推出时未能给人留下深刻印象，因为用户感叹交易失败。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Cardano的第一個DEX SundaeSwap在推出時未能給人留下深刻印象，因爲用戶感嘆交易失敗。"
+    }
+  ]
 }
