@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-22T13:50:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BIci4Gp4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/60yg9m161ypnyby1xxn3.png",
   "author": "Kamran Ahmad",
-  "author_url": "https://dev.to/ikamran"
+  "author_url": "https://dev.to/ikamran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. ランダムな文字列を生成する 何かのために一時的にユニークなIDが必要になった場合、この ...",
+      "title": "知っておくべきJavaScriptの7つのキラー・ワンライナー"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 生成随机字符串，如果你需要一个临时的唯一的ID的东西，这...",
+      "title": "你必须知道的7个杀手级的JavaScript单口相声"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 生成隨機字符串，如果你需要一個臨時的唯一的ID的東西，這...",
+      "title": "你必須知道的7個殺手級的JavaScript單口相聲"
+    }
+  ]
 }

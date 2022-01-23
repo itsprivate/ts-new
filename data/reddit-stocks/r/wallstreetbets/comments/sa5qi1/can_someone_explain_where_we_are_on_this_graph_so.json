@@ -157,5 +157,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1642867798,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このグラフのどのあたりにいるのか、誰か説明してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "谁能解释一下我们在这张图上的位置，以便我可以决定如何处理我的-60%的投资组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰能解釋一下我們在這張圖上的位置，以便我可以決定如何處理我的-60%的投資組合"
+    }
+  ]
 }
