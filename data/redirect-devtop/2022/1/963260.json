@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T20:14:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--InUlfyPd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/upzx1smyhvff4pnmo24q.png",
   "author": "Corey",
-  "author_url": "https://dev.to/coreystevens"
+  "author_url": "https://dev.to/coreystevens",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "いつもの記事とは違いますが、私の個人的なウェブサイトでは、過去のプロジェクトや...",
+      "title": "個人サイト"
+    },
+    {
+      "locale": "zh",
+      "description": "Yooo, 不是我通常的帖子，但请看我的个人网站，上面显示了过去的项目和...",
+      "title": "我的个人网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Yooo, 不是我通常的帖子，但請看我的個人網站，上面顯示了過去的項目和...",
+      "title": "我的個人網站"
+    }
+  ]
 }
