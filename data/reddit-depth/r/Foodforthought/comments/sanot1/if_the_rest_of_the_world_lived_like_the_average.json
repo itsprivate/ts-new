@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、世界の人々が平均的なアメリカ人と同じように生活していたら、すべての人を養うのに少なくとも4つの地球が必要になります。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果世界上其他地方的人都像普通美国人那样生活，至少需要4个地球才能养活所有人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果世界上其他地方的人都像普通美國人那樣生活，至少需要4個地球才能養活所有人。"
+    }
+  ]
 }
