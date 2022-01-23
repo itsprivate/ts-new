@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "デイリーキャンドルのようなもの。"
+    },
+    {
+      "locale": "zh",
+      "title": "每天的蜡烛就像..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每天的蠟燭就像..."
+    }
+  ]
 }
