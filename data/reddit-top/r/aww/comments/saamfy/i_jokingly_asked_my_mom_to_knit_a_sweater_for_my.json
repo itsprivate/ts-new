@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "母に冗談で猫のセーターを編んでくれと頼んだら、本気になって編んでくれた。"
+    },
+    {
+      "locale": "zh",
+      "title": "我开玩笑地让我妈给我的猫织一件毛衣，她很认真地做了，而且真的做了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我開玩笑地讓我媽給我的貓織一件毛衣，她很認真地做了，而且真的做了。"
+    }
+  ]
 }
