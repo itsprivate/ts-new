@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんなことでいいんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这将会发生吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這將會發生嗎？"
+    }
+  ]
 }
