@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この耳の不自由な男性の猫は、ニャーと鳴いても無駄だとわかると、手話でコミュニケーションをとるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "当这个聋哑人的猫意识到 \"喵喵 \"的叫声没有用时，它学会了通过手势与他交流。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當這個聾啞人的貓意識到 \"喵喵 \"的叫聲沒有用時，它學會了通過手勢與他交流。"
+    }
+  ]
 }
