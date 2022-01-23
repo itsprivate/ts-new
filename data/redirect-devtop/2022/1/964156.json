@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-22T18:53:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DVv9dGmZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kt2oyitm2dj73brrj8my.jpg",
   "author": "Vinay Dagar",
-  "author_url": "https://dev.to/_vinay_dagar"
+  "author_url": "https://dev.to/_vinay_dagar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは非常に人気があり、広く使われているプログラミング言語です。当初は...としてのみ開発されました。",
+      "title": "クリーンでより良いコード品質のためのJavascriptのいくつかのベストプラクティス..."
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一种非常流行和广泛使用的编程语言。最初，它只被开发为...",
+      "title": "Javascript的一些最佳实践，以实现清洁和更好的代码质量..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一種非常流行和廣泛使用的編程語言。最初，它只被開發爲...",
+      "title": "Javascript的一些最佳實踐，以實現清潔和更好的代碼質量..."
+    }
+  ]
 }
