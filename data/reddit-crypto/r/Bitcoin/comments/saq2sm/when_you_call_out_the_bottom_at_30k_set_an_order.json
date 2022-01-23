@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "30k€で底を呼び、夜間注文をセットしたら、30,001€で底を打ってしまった...。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你喊出30k欧元的底部时，为晚上设置了一个订单，但它在30,001欧元的底部..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你喊出30k歐元的底部時，爲晚上設置了一個訂單，但它在30,001歐元的底部..."
+    }
+  ]
 }
