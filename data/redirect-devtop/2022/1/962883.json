@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T12:58:15Z",
   "image": "https://dev.to/social_previews/article/962883.png",
   "author": "Olga Budynska",
-  "author_url": "https://dev.to/olga_budynska"
+  "author_url": "https://dev.to/olga_budynska",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やあ、みんな!  BugHerdやMarker.io、Bird Eats Bugのようなバグ報告ツールを試してみたいのですが、どうすればいいですか？ って感じなんですが...",
+      "title": "どのようなバグ報告ツールを選べばいいのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们!  我想尝试一些错误报告工具，如BugHerd、Marker.io或Bird Eats Bug等。 是否...",
+      "title": "选择什么样的错误报告工具？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們!  我想嘗試一些錯誤報告工具，如BugHerd、Marker.io或Bird Eats Bug等。 是否...",
+      "title": "選擇什麼樣的錯誤報告工具？"
+    }
+  ]
 }
