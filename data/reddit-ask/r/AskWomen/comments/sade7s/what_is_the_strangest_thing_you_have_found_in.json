@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Reposted because it got removed the first time"
+  "the_new_excerpt": "Reposted because it got removed the first time",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "一回目に削除されたので再掲載",
+      "title": "ブラジャーを外した後、ブラジャーの中に入っていた不思議なものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因为第一次被删除，所以重发。",
+      "title": "你脱下胸罩后在里面发现的最奇怪的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因爲第一次被刪除，所以重發。",
+      "title": "你脫下胸罩後在裏面發現的最奇怪的東西是什麼？"
+    }
+  ]
 }
