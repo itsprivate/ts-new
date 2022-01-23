@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼を抱くことだけが、私の朝の安らぎの時間です。今日もこんなことしてくれるなんて、とろけそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "抱着他是我在早上能得到一些平静的唯一方法。不敢相信他今天会这样做，我都快融化了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "抱着他是我在早上能得到一些平靜的唯一方法。不敢相信他今天會這樣做，我都快融化了。"
+    }
+  ]
 }
