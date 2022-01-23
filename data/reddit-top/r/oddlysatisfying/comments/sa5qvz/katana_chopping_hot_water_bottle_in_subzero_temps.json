@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "氷点下で湯たんぽを刻むカタナ"
+    },
+    {
+      "locale": "zh",
+      "title": "在零度以下的温度下，卡塔纳劈开热水瓶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在零度以下的溫度下，卡塔納劈開熱水瓶"
+    }
+  ]
 }
