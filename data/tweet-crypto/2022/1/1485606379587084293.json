@@ -138,5 +138,22 @@
     "retweet_count": 1214,
     "favorite_count": 4336,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @aginnt: 今日、ブリュッセルに何万人もの抗議者が集まる中、メディアが葬り去ろうとするもの。 https://t.co/h1KWhQrpoc",
+      "retweeted_status_full_text": "今日、ブリュッセルに何万人もの抗議者が集まっているので、メディアは何か隠そうとするだろう。https://t.co/h1KWhQrpoc。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @aginnt: 当数万名抗议者今天聚集在布鲁塞尔时，媒体将试图掩盖一些东西。https://t.co/h1KWhQrpoc",
+      "retweeted_status_full_text": "当数以万计的抗议者今天聚集在布鲁塞尔时，媒体将试图掩盖一些事情。https://t.co/h1KWhQrpoc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @aginnt: 當數萬名抗議者今天聚集在布魯塞爾時，媒體將試圖掩蓋一些東西。https://t.co/h1KWhQrpoc",
+      "retweeted_status_full_text": "當數以萬計的抗議者今天聚集在布魯塞爾時，媒體將試圖掩蓋一些事情。https://t.co/h1KWhQrpoc"
+    }
+  ]
 }
