@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "性別の公開"
+    },
+    {
+      "locale": "zh",
+      "title": "揭示性别"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "揭示性別"
+    }
+  ]
 }

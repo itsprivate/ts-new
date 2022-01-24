@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-23T13:46:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K_AhuVdx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sty3izfdbicv27g90ilt.jpg",
   "author": "Pradumna Saraf",
-  "author_url": "https://dev.to/pradumnasaraf"
+  "author_url": "https://dev.to/pradumnasaraf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちはいつも、たくさんのビデオやチュートリアルを見たり、たくさんのドキュメントに目を通したりして、何かを学ぶために...",
+      "title": "gitやGitHubについて、もっと楽しく学びたいですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们总是看大量的视频和教程，略过大量的文档来学习一些...",
+      "title": "想以更有趣的方式了解git和GitHub吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們總是看大量的視頻和教程，略過大量的文檔來學習一些...",
+      "title": "想以更有趣的方式瞭解git和GitHub嗎？"
+    }
+  ]
 }
