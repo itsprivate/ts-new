@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はこの言葉を胸に刻んで生きています。明日をも知れぬディップを買え!"
+    },
+    {
+      "locale": "zh",
+      "title": "我遵循这句话，它在过去对我很有用，以后也会如此。像没有明天一样买入下跌的股票!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我遵循這句話，它在過去對我很有用，以後也會如此。像沒有明天一樣買入下跌的股票!"
+    }
+  ]
 }
