@@ -43,5 +43,22 @@
   "original_created_at": "2021-08-25T07:22:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y_biMBnm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8v69f89h4kbzt7u9sxl0.png",
   "author": "Buddhadeb Chhetri",
-  "author_url": "https://dev.to/buddhadebchhetri"
+  "author_url": "https://dev.to/buddhadebchhetri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは1995年にBrendan Eichによって発明され、1997年にECMAの標準規格となった。 ECMAScriptは...",
+      "title": "ジャバスクリプトES6"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是由Brendan Eich在1995年发明的，并在1997年成为ECMA标准。 ECMAScript是...",
+      "title": "JavaScript ES6"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是由Brendan Eich在1995年發明的，並在1997年成爲ECMA標準。 ECMAScript是...",
+      "title": "JavaScript ES6"
+    }
+  ]
 }
