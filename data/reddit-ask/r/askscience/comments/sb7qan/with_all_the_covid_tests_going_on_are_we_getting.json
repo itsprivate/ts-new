@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I would imagine all personally identifiable information(PII) would be stripped,\nbut this would be a huge waste of an opportunity to do some other research if we\ndidn't collect the data."
+  "the_new_excerpt": "I would imagine all personally identifiable information(PII) would be stripped,\nbut this would be a huge waste of an opportunity to do some other research if we\ndidn't collect the data.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "個人を特定できる情報（PII）はすべて取り除かれると想像しています。\nしかし、このままでは他の研究をする機会を失ってしまいます。\nデータを収集しなかった。",
+      "title": "コビドテストが行われていますが、コビドに関係ないデータは出ているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想所有的个人身份信息（PII）都会被删除。\n但如果我们不收集数据，这将是对做其他研究机会的巨大浪费。\n如果我们不收集这些数据，这将是对其他研究机会的巨大浪费。",
+      "title": "随着所有的covid测试的进行，我们是否从测试中获得任何与covid无关的数据？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想所有的個人身份信息（PII）都會被刪除。\n但如果我們不收集數據，這將是對做其他研究機會的巨大浪費。\n如果我們不收集這些數據，這將是對其他研究機會的巨大浪費。",
+      "title": "隨着所有的covid測試的進行，我們是否從測試中獲得任何與covid無關的數據？"
+    }
+  ]
 }
