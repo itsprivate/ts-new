@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-18T15:22:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yyVHwIgb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epqptzaxy3z3bu47w11y.png",
   "author": "Amine Amhoume",
-  "author_url": "https://dev.to/amiinequ"
+  "author_url": "https://dev.to/amiinequ",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正直なところ、カウンターアプリの例にはもう飽きた。 と踏んでこの記事を書いたのですが...。",
+      "title": "ReactJSのオールフックシリーズ。UseReducerを実際に使ってみる。"
+    },
+    {
+      "locale": "zh",
+      "description": "说实话，我已经厌倦了反应用的例子。 我不得不踏踏实实地写这篇文章，以...",
+      "title": "ReactJS所有钩子系列。UseReducer在行动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "說實話，我已經厭倦了反應用的例子。 我不得不踏踏實實地寫這篇文章，以...",
+      "title": "ReactJS所有鉤子系列。UseReducer在行動。"
+    }
+  ]
 }
