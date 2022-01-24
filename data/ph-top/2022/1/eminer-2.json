@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-23T08:07:14Z"
+  "original_createdAt": "2022-01-23T08:07:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "eMinerは、検索エンジンを使って人の連絡先を探し、リードを獲得するプロセスを自動化するGoogle Chrome拡張機能です。",
+      "tagline": "営業とリレーションシップのためのコンタクト・キャプチャー・マシン"
+    },
+    {
+      "locale": "zh",
+      "description": "eMiner是谷歌浏览器的一个扩展，可以自动通过搜索引擎搜索和捕捉线索，找到人们的联系方式。",
+      "tagline": "销售和关系的联系捕捉机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "eMiner是谷歌瀏覽器的一個擴展，可以自動通過搜索引擎搜索和捕捉線索，找到人們的聯繫方式。",
+      "tagline": "銷售和關係的聯繫捕捉機"
+    }
+  ]
 }
