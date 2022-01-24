@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国の科学は、もはや世界をリードしていない。トップアドバイザーは、国家がどのように対応すべきかを次のように語っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国的科学不再领先于世界。以下是顶级顾问说国家应该如何应对的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國的科學不再領先於世界。以下是頂級顧問說國家應該如何應對的情況"
+    }
+  ]
 }
