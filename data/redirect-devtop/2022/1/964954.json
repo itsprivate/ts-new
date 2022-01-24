@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-23T15:21:05Z",
   "image": "https://dev.to/social_previews/article/964954.png",
   "author": "Peter Mbanugo",
-  "author_url": "https://dev.to/pmbanugo"
+  "author_url": "https://dev.to/pmbanugo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cloud Native Buildpacksを使用したコンテナイメージの保護方法について説明します。",
+      "title": "さよならDockerfiles。Cloud Native Buildpacksで安全かつ最適化されたNode.jsコンテナイメージを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何使用云原生Buildpacks确保容器镜像的安全",
+      "title": "再见Dockerfiles。用云原生构建包构建安全和优化的Node.js容器镜像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何使用雲原生Buildpacks確保容器鏡像的安全",
+      "title": "再見Dockerfiles。用雲原生構建包構建安全和優化的Node.js容器鏡像"
+    }
+  ]
 }
