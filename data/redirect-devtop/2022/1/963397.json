@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T21:59:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T9Nn86wd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/js99v842isrhf7m39u3a.png",
   "author": "Peter Harrison",
-  "author_url": "https://dev.to/cheetah100"
+  "author_url": "https://dev.to/cheetah100",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロサービスのドメインカップリングとその打破方法。",
+      "title": "マイクロナイトメア"
+    },
+    {
+      "locale": "zh",
+      "description": "微服务领域的耦合性以及如何打破它。",
+      "title": "微型恶梦"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微服務領域的耦合性以及如何打破它。",
+      "title": "微型惡夢"
+    }
+  ]
 }
