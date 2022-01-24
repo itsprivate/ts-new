@@ -52,5 +52,22 @@
     },
     "retweet_count": 6776,
     "favorite_count": 35548
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @McDonalds: 暗号のツイッターアカウントを運営されている方々はいかがお過ごしでしょうか？",
+      "retweeted_status_full_text": "暗号のツイッターアカウントを運営されている皆様、いかがお過ごしでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @麦当劳：经营加密货币微博账户的人，你们好吗？",
+      "retweeted_status_full_text": "经营加密货币微博账户的人，你们好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @麥當勞：經營加密貨幣微博賬戶的人，你們好嗎？",
+      "retweeted_status_full_text": "經營加密貨幣微博賬戶的人，你們好嗎？"
+    }
+  ]
 }
