@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-24T19:05:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dz14MsEa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/984id3k8jwv15yymhm6d.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "効果的なレジュメを作成するための注意点を教えてください。",
+      "title": "開発者向けレジュメを効果的に作成するためのコツを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "对于一份有效的简历，你有哪些注意事项？",
+      "title": "你对有效的开发者简历有什么建议？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於一份有效的簡歷，你有哪些注意事項？",
+      "title": "你對有效的開發者簡歷有什麼建議？"
+    }
+  ]
 }
