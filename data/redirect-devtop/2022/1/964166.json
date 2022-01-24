@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-22T19:40:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k3Dep_bW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3wbgjudcg6q7s6hznmm2.png",
   "author": "Mustafa Balila",
-  "author_url": "https://dev.to/mustafabalila"
+  "author_url": "https://dev.to/mustafabalila",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では主にgolang側の作業を中心に紹介しますので、興味のある方はぜひ続きをどうぞ...。",
+      "title": "AWS MediaConvertからGolangサービスへ移行し、コストを削減した方法  "
+    },
+    {
+      "locale": "zh",
+      "description": "本文将主要关注golang方面的工作，如果你有兴趣请继续...",
+      "title": "我们是如何从AWS的MediaConvert转为Golang服务来降低成本的  "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文將主要關注golang方面的工作，如果你有興趣請繼續...",
+      "title": "我們是如何從AWS的MediaConvert轉爲Golang服務來降低成本的  "
+    }
+  ]
 }
