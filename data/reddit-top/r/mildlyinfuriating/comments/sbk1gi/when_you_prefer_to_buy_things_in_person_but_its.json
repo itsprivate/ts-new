@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "直接会って買いたいけど、ちょっと無理かな...というとき。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你喜欢亲自去买东西，但它甚至是不可行的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你喜歡親自去買東西，但它甚至是不可行的..."
+    }
+  ]
 }
