@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-22T17:43:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GGoe4hSU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjjwzxpz7j81zov6wwt0.png",
   "author": "Ifihan Olusheye",
-  "author_url": "https://dev.to/ifihan"
+  "author_url": "https://dev.to/ifihan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに クライアント／サーバー・アーキテクチャや多くの分散コンピューティング・システムでは、...",
+      "title": "言語の相互運用性"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 客户端/服务器架构和许多分布式计算系统使用...",
+      "title": "语言互用性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 客戶端/服務器架構和許多分佈式計算系統使用...",
+      "title": "語言互用性"
+    }
+  ]
 }
