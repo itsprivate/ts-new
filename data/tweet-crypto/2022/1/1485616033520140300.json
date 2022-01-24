@@ -1,0 +1,110 @@
+{
+  "created_at": "Mon Jan 24 15:42:45 +0000 2022",
+  "id_str": "1485616033520140300",
+  "full_text": "RT @NorthmanTrader: This is pretty wild.\nWeekly new highs/new lows on the Nasdaq just had the lowest reading since the GFC.\nWorse than Q4 2…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NorthmanTrader",
+        "name": "Sven Henrich",
+        "id": 714051110,
+        "id_str": "714051110",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 210,
+  "favorite_count": 0,
+  "original_created_at": "Mon Jan 24 14:10:38 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Sun Jan 23 20:27:09 +0000 2022",
+    "id_str": "1485348399402696706",
+    "full_text": "This is pretty wild.\nWeekly new highs/new lows on the Nasdaq just had the lowest reading since the GFC.\nWorse than Q4 2018 and March 2020.\n$COMPQ $NDX https://t.co/PZbt5BBGJO",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "COMPQ",
+          "indices": [
+            139,
+            145
+          ]
+        },
+        {
+          "text": "NDX",
+          "indices": [
+            146,
+            150
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1485348341898784800,
+          "id_str": "1485348341898784771",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/FJ0Ecn6XsAMj7Zb.png",
+          "media_url_https": "https://pbs.twimg.com/media/FJ0Ecn6XsAMj7Zb.png",
+          "url": "https://t.co/PZbt5BBGJO",
+          "display_url": "pic.twitter.com/PZbt5BBGJO",
+          "expanded_url": "https://twitter.com/NorthmanTrader/status/1485348399402696706/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 509,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 898,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1240,
+              "h": 928,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Sven Henrich",
+      "screen_name": "NorthmanTrader",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461706606987694086/scI5012P_normal.jpg"
+    },
+    "retweet_count": 210,
+    "favorite_count": 1083,
+    "possibly_sensitive": false
+  }
+}
