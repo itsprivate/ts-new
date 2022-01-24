@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Can be anything; in cooking, cleaning, working, driving, children, men, fashion\netc.."
+  "the_new_excerpt": "Can be anything; in cooking, cleaning, working, driving, children, men, fashion\netc..",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "料理、掃除、仕事、運転、子供、男性、ファッションなど、何でもありです。\nなど。",
+      "title": "女性として最も活用しているライフハックは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "可以是任何事情；在烹饪、清洁、工作、驾驶、儿童、男人、时尚方面\n等等。",
+      "title": "作为一个女人，你最常用的生活窍门是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "可以是任何事情；在烹飪、清潔、工作、駕駛、兒童、男人、時尚方面\n等等。",
+      "title": "作爲一個女人，你最常用的生活竅門是什麼？"
+    }
+  ]
 }
