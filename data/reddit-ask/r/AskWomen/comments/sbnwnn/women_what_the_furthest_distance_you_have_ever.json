@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性の方、今まで1日に走った距離とその理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "妇女们，你们在一天内开过的最远距离是什么，为什么这么远？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "婦女們，你們在一天內開過的最遠距離是什麼，爲什麼這麼遠？"
+    }
+  ]
 }
