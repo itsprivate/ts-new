@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-24T08:01:00Z"
+  "original_createdAt": "2022-01-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AutomatorはFigmaのプラグインで、ドラッグ＆ドロップでFigmaのタスクをワンクリックで実行するカスタム・オートメーションが作成できます。Figma プラグイン API のパワーを指先で操作できる、100 以上のアクションから選択できます。",
+      "tagline": "ワンクリックでFigmaのタスクを自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "Automator 是 Figma 的一个插件，可让您创建自定义的拖放自动化程序，一键为您完成对时间敏感的 Figma 任务。您可以从 100 多个动作中进行选择，这些动作将 Figma 插件 API 的力量暴露在您的指尖上。",
+      "tagline": "一键自动完成Figma任务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Automator 是 Figma 的一個插件，可讓您創建自定義的拖放自動化程序，一鍵爲您完成對時間敏感的 Figma 任務。您可以從 100 多個動作中進行選擇，這些動作將 Figma 插件 API 的力量暴露在您的指尖上。",
+      "tagline": "一鍵自動完成Figma任務"
+    }
+  ]
 }
