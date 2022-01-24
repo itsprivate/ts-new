@@ -106,5 +106,22 @@
     "retweet_count": 210,
     "favorite_count": 1083,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @NorthmanTrader: これはかなりワイルドだ。\nナスダックの週間新高値・新安値は、GFC以来最低の数値になった。\nQ4 2より悪い...",
+      "retweeted_status_full_text": "これはかなりワイルドだ。\nナスダックの週間新高値/新安値はちょうどGFC以来最も低い数値となりました。\n2018年第4四半期と2020年3月より悪い。\n$COMPQ $NDX https://t.co/PZbt5BBGJO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @NorthmanTrader: 这真是太疯狂了。\n纳斯达克指数的每周新高/新低刚刚创下全球金融危机以来的最低读数。\n比第二季度还差。",
+      "retweeted_status_full_text": "这是很疯狂的。\n纳斯达克指数的每周新高/新低刚刚创下全球金融危机以来的最低读数。\n比2018年第四季度和2020年3月还要糟糕。\n$COMPQ $NDX https://t.co/PZbt5BBGJO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @NorthmanTrader: 這真是太瘋狂了。\n納斯達克指數的每週新高/新低剛剛創下全球金融危機以來的最低讀數。\n比第二季度還差。",
+      "retweeted_status_full_text": "這是很瘋狂的。\n納斯達克指數的每週新高/新低剛剛創下全球金融危機以來的最低讀數。\n比2018年第四季度和2020年3月還要糟糕。\n$COMPQ $NDX https://t.co/PZbt5BBGJO"
+    }
+  ]
 }
