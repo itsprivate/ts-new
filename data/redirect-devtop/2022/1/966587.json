@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-25T03:35:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zR2n6a4_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcy9uwojmnb9ikrrrczz.png",
   "author": "TZ | 天猪",
-  "author_url": "https://dev.to/atian25"
+  "author_url": "https://dev.to/atian25",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "背景 フロントエンドのベテランとして指摘したいのは、複雑化する...",
+      "title": "pnpmより10秒速いtnpmラピッドモードの徹底解説"
+    },
+    {
+      "locale": "zh",
+      "description": "背景 作为一个前端的老手，我不得不指出，越来越复杂的...",
+      "title": "深入了解tnpm快速模式--我们是如何做到比pnpm快10秒的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "背景 作爲一個前端的老手，我不得不指出，越來越複雜的...",
+      "title": "深入瞭解tnpm快速模式--我們是如何做到比pnpm快10秒的？"
+    }
+  ]
 }
