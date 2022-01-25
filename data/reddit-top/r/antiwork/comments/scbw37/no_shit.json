@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うそだろ？"
+    },
+    {
+      "locale": "zh",
+      "title": "没有狗屎？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有狗屎？"
+    }
+  ]
 }
