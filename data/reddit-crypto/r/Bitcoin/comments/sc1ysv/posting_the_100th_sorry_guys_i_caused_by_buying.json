@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "100回目の「ビットコインを50ドル買ってしまったので、みんなごめんなさい」の投稿"
+    },
+    {
+      "locale": "zh",
+      "title": "发布第100条 \"对不起，伙计们，我买了50美元的比特币，造成了\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發佈第100條 \"對不起，夥計們，我買了50美元的比特幣，造成了\"。"
+    }
+  ]
 }

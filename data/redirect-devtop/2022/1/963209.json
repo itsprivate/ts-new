@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T18:39:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O5Yzgifc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsa674115akg9vavf34n.jpg",
   "author": "Eric The Coder",
-  "author_url": "https://dev.to/ericchapman"
+  "author_url": "https://dev.to/ericchapman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、PHPの条件分岐、ループ、関数のクレジットを学びます。 このPHPクラッシュコースは...",
+      "title": "PHPクラッシュコース：条件、ループ、関数"
+    },
+    {
+      "locale": "zh",
+      "description": "今天你将学习PHP中的条件反射、循环和函数创建。 这个PHP速成课程是...",
+      "title": "PHP速成班：条件语句、循环和函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天你將學習PHP中的條件反射、循環和函數創建。 這個PHP速成課程是...",
+      "title": "PHP速成班：條件語句、循環和函數"
+    }
+  ]
 }
