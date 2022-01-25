@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-24T06:53:04Z",
   "image": "https://dev.to/social_previews/article/965533.png",
   "author": "Betty Kamanthe",
-  "author_url": "https://dev.to/betty1999kamanthe"
+  "author_url": "https://dev.to/betty1999kamanthe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Webスクレイピングは、大量のデータを抽出するために用いられる自動化された手法である...",
+      "title": "PythonとBeautiful soupを使ったシンプルなWebスクレイピングプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 网络刮削是一种用于提取大量数据的自动化方法。",
+      "title": "使用python和Beautiful soup的简单网络刮削项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 網絡刮削是一種用於提取大量數據的自動化方法。",
+      "title": "使用python和Beautiful soup的簡單網絡刮削項目"
+    }
+  ]
 }
