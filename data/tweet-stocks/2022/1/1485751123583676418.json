@@ -83,5 +83,19 @@
   },
   "retweet_count": 52,
   "favorite_count": 239,
-  "original_created_at": "Mon Jan 24 23:07:26 +0000 2022"
+  "original_created_at": "Mon Jan 24 23:07:26 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "時価総額...\nアップル $AAPL: 2兆6700億円\nマイクロソフト $MSFT: 2兆2300億ドル\nグーグル $GOOGL: 1兆7400億円\nアマゾン $AMZN: 1兆4700億円\nテスラ $TSLA: 932億ドル\nフェイスブック $FB: 860億ドル\nビットコイン $BTC: 6,900億ドル\nバークシャー・ハサウェイ $BRKB: 677億ドル\nNVIDIA $NVDA: 584億ドル"
+    },
+    {
+      "locale": "zh",
+      "full_text": "市值...\n苹果$AAPL: 2.67万亿美元\n微软 $MSFT: 2.23万亿美元\n谷歌 $GOOGL: 1.74万亿美元\n亚马逊 $AMZN: 1.47万亿美元\n特斯拉$TSLA：9320亿美元\nFacebook $FB: 8600亿美元\n比特币 $BTC: 6900亿美元\n伯克希尔-哈撒韦公司 $BRKB: 677亿美元\n英伟达$NVDA：5840亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "市值...\n蘋果$AAPL: 2.67萬億美元\n微軟 $MSFT: 2.23萬億美元\n谷歌 $GOOGL: 1.74萬億美元\n亞馬遜 $AMZN: 1.47萬億美元\n特斯拉$TSLA：9320億美元\nFacebook $FB: 8600億美元\n比特幣 $BTC: 6900億美元\n伯克希爾-哈撒韋公司 $BRKB: 677億美元\n英偉達$NVDA：5840億美元"
+    }
+  ]
 }
