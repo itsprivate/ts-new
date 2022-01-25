@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTubeブラウザのソースオーバーレイツールを遊びで作ってみた。永久に無料です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个YouTube浏览器源码叠加工具来玩。永远免费。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個YouTube瀏覽器源碼疊加工具來玩。永遠免費。"
+    }
+  ]
 }

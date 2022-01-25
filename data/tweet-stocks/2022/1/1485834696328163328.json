@@ -112,5 +112,22 @@
     "retweet_count": 530,
     "favorite_count": 620,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @HealthyFla: 米国FDAが2つのモノクローナル抗体のEUAを突然削除した結果、モノクローナル抗体治療薬は、米国で販売されなくなりました。",
+      "retweeted_status_full_text": "US_FDAが2つのモノクローナル抗体のEUAを突然削除した結果、モノクローナル抗体治療サイトは追って通知があるまで閉鎖されることになりました。プレスリリース全文は以下の通りです。https://t.co/RGeWTPwxCs"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @HealthyFla: 由于@美国FDA突然决定取消两个单克隆抗体的欧盟认证，单克隆抗体治疗者将被取消。",
+      "retweeted_status_full_text": "由于@US_FDA突然决定取消两种单克隆抗体的EUAs，单克隆抗体治疗点将被关闭，直到进一步通知。以下是新闻稿全文。https://t.co/RGeWTPwxCs"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @HealthyFla: 由於@美國FDA突然決定取消兩個單克隆抗體的歐盟認證，單克隆抗體治療者將被取消。",
+      "retweeted_status_full_text": "由於@US_FDA突然決定取消兩種單克隆抗體的EUAs，單克隆抗體治療點將被關閉，直到進一步通知。以下是新聞稿全文。https://t.co/RGeWTPwxCs"
+    }
+  ]
 }
