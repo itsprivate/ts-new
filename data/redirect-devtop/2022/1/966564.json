@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-25T02:02:02Z",
   "image": "https://dev.to/social_previews/article/966564.png",
   "author": "Yaku",
-  "author_url": "https://dev.to/yaku"
+  "author_url": "https://dev.to/yaku",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. より良いレイアウトのためにCSSグリッドを使用する CSSグリッドレイアウトは、Web上でレイアウトを作成するための新しい方法です。これは...",
+      "title": "フロントエンドデベロッパーとしてデザインへの自信を高める15のCSSトリック🦾。"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 使用CSS网格进行更好的布局 CSS网格布局是一种在网络上创建布局的新方法。它...",
+      "title": "15个CSS技巧将提高你作为前端开发的设计信心 🦾"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 使用CSS網格進行更好的佈局 CSS網格佈局是一種在網絡上創建佈局的新方法。它...",
+      "title": "15個CSS技巧將提高你作爲前端開發的設計信心 🦾"
+    }
+  ]
 }
