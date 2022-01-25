@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今週のビットコイン価格の推移を簡単に説明すると"
+    },
+    {
+      "locale": "zh",
+      "title": "本周比特币价格简述"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本週比特幣價格簡述"
+    }
+  ]
 }
