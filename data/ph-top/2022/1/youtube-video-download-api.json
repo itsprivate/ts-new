@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-25T10:06:21Z"
+  "original_createdAt": "2022-01-25T10:06:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "youtubeの動画をダウンロードして、MP4、MP3、M4Aに変換する。144p、360p、720pなど、様々な画質の動画を取得します。このAPIを使用すると、オーディオ付きまたはオーディオなしのビデオをダウンロードすることができます。",
+      "tagline": "動画や音声のリンクを変換してダウンロードできるようにするためのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "下载并将YouTube视频转换为MP4、MP3、M4A。获得各种视频质量，如144p，360p，和720p。使用这个API，你可以下载带或不带音频的视频。",
+      "tagline": "一个转换和获取可下载视频和音频链接的api"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "下載並將YouTube視頻轉換爲MP4、MP3、M4A。獲得各種視頻質量，如144p，360p，和720p。使用這個API，你可以下載帶或不帶音頻的視頻。",
+      "tagline": "一個轉換和獲取可下載視頻和音頻鏈接的api"
+    }
+  ]
 }
