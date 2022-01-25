@@ -66,5 +66,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-25T08:01:00Z"
+  "original_createdAt": "2022-01-25T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notesallyは、営業プロセスにおけるヒューマンエラーを低減するためのセールスイネーブルメントアプリです。営業チームのためのAIセーフティネットです。Notesallyは、営業担当者がデータ入力＆フォローアップを怠らないようにサポートします。Notesallyを使うことで、1週間あたり最大8時間を節約することができます。",
+      "tagline": "営業チームのためのAIセーフティネット"
+    },
+    {
+      "locale": "zh",
+      "description": "Notesally是一款销售促进应用程序，用于减少销售过程中的人为错误。它是你的销售团队的一个AI安全网。Notesally帮助销售人员保持他们的数据输入和跟进。通过使用Notesally，你每周可以节省多达8个小时。",
+      "tagline": "为你的销售团队提供AI安全网"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notesally是一款銷售促進應用程序，用於減少銷售過程中的人爲錯誤。它是你的銷售團隊的一個AI安全網。Notesally幫助銷售人員保持他們的數據輸入和跟進。通過使用Notesally，你每週可以節省多達8個小時。",
+      "tagline": "爲你的銷售團隊提供AI安全網"
+    }
+  ]
 }

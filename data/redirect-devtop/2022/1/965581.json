@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-24T08:49:37Z",
   "image": "https://dev.to/social_previews/article/965581.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "怖いタイトルですね。パフォーマンス重視のアプリの場合、カスタムReact...",
+      "title": "カスタムリアクトフックがアプリのパフォーマンスを破壊しかねない理由"
+    },
+    {
+      "locale": "zh",
+      "description": "吓人的标题，不是吗？可悲的是，这是事实：对于性能敏感的应用程序，定制React...",
+      "title": "为什么自定义反应钩子会破坏你的应用性能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嚇人的標題，不是嗎？可悲的是，這是事實：對於性能敏感的應用程序，定製React...",
+      "title": "爲什麼自定義反應鉤子會破壞你的應用性能"
+    }
+  ]
 }
