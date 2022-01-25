@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "USB ASICを3TH/s搭載した人がBitcoinのブロックをソロで解いた。"
+    },
+    {
+      "locale": "zh",
+      "title": "有人用3TH/s的USB ASIC解决了一个比特币区块的单机。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人用3TH/s的USB ASIC解決了一個比特幣區塊的單機。"
+    }
+  ]
 }
