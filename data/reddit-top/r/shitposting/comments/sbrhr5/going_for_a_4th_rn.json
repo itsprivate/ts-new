@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "第4次RNを目指す"
+    },
+    {
+      "locale": "zh",
+      "title": "正在进行第4次手术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在進行第4次手術"
+    }
+  ]
 }
