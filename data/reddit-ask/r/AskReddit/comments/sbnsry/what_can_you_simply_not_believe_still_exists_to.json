@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日まで存在していることが信じられないようなことはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你根本无法相信什么东西至今仍然存在？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你根本無法相信什麼東西至今仍然存在？"
+    }
+  ]
 }

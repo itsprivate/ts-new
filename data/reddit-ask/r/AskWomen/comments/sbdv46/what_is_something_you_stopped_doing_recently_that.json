@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Anything at all! From serious to silly."
+  "the_new_excerpt": "Anything at all! From serious to silly.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何でもあり！？真面目な話からおバカな話まで。",
+      "title": "最近、あなたがやめたことで、幸福度が大きく向上したことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "任何事情都可以! 从严肃的到愚蠢的。",
+      "title": "你最近*停止*做了什么事情，大大改善了你的幸福感？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "任何事情都可以! 從嚴肅的到愚蠢的。",
+      "title": "你最近*停止*做了什麼事情，大大改善了你的幸福感？"
+    }
+  ]
 }
