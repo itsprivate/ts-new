@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国政府による顔認識を阻止するため、デモ参加者が警察にレーザーを向ける"
+    },
+    {
+      "locale": "zh",
+      "title": "抗议者用激光对准警察，阻止中国政府的面部识别"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "抗議者用激光對準警察，阻止中國政府的面部識別"
+    }
+  ]
 }
