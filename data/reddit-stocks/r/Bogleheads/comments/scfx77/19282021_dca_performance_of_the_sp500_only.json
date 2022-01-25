@@ -1,0 +1,324 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "Bogleheads",
+  "selftext": "With the return of volatility to the markets, I decided to calm myself down by studying the hypothetical **rolling** historical returns of an investor who DCAs every month.   \n*Why did I wanted to do this?* I tried googling for a tool/chart that would show me the **rolling** performances of an investor DCA-ing for 10/20/30 years and I couldn't find anything good (also because I was bored at work).\n\nHere's how I did it:\n\n* I took the month-end levels of the S&amp;P500 and calculated the month-on-month returns\n* Proceeded to construct a 'grid' of some sort so that I can accurately compound the returns of each month\n* For example, if an investor DCAs from the last day of the year until the end of the following year (and continues to do so every month), the first 'deposit' should be compounded by the returns of **Jan** \\- Dec; but the second deposit should only be compounded by returns of **Feb** \\- Dec.\n* I then repeat the process for subsequent months across history to get a time series\n* The Excel file that has an input cell that allows me to specify the number of years an investor would DCA for.\n* I did not account for inflation (yes, I know it affects your real returns especially over a long period but this really was an exercise to understand how time-in-the-market is **so** important)  \n\n\n['Grid' of Returns](https://preview.redd.it/5lhg34kmhud81.png?width=2367&amp;format=png&amp;auto=webp&amp;s=424b5b6fc84b6add57c136cabd40c731853be4f8)\n\n**Returns of an investor who DCAs across a period of 5 years (dates indicate the start of the DCA process) -** the average DCA-5Yr investor over the course of history would have gained 22% but there were unlucky ones (like those who started in Mar of 2004) who lost almost 40%:\n\n[DCA-ing over 5 Years](https://preview.redd.it/yb4j4awblud81.png?width=1938&amp;format=png&amp;auto=webp&amp;s=30c658edbc1bee0c94d79d0813fbb490e8e51674)\n\n**Returns of an investor who DCAs across a period of 10 years (dates indicate the start of the DCA process) -** for DCA-10Yr investors who were more disciplined and continued to DCA over the course of 10 years, their average returns improved, of note were (unlucky) investors who started/ended their DCA-ing in 1964/1974 and 1999/2009, with their investments cumulating in the crashes of '74 and the GFC:\n\n[DCA-ing over 10 Years](https://preview.redd.it/n5uxhvy7lud81.png?width=1936&amp;format=png&amp;auto=webp&amp;s=c13792339b16dc9799698419c4e41a7c87c7b143)\n\n**Returns of an investor who DCAs across a period of 20 years (dates indicate the start of the DCA process) -** this is where it gets interesting (also I guess this lends some truth to the 'maxim' that 'stocks only go up'), from 1929-2021, almost all of DCA-20Yr investors who diligently DCA-ed into the S&amp;P every month were rewarded with positive returns, with the exception of individuals who started investing in 1954 and exited their positions in 1974 (crash):\n\n[DCA-ing over 20 Years](https://preview.redd.it/yz8x0tyelud81.png?width=1942&amp;format=png&amp;auto=webp&amp;s=14474dcac181a2d6b969a77d665a8d28810e4e48)\n\n**Returns of an investor who DCAs across a period of 30 years (dates indicate the start of the DCA process) -** finally, DCA-30Yr investors (diamond hands) who held onto their investments and were disciplined enough to DCA every month for 30 years enjoyed a **minimum** of 63% returns (not accounting for inflation) on their portfolios, other DCA-30Yr investors were lucky enough (those starting in 1970 and selling during the dot-com bubble) to enjoy up to 790% of returns. Side note: this is also my investment horizon as the cost of living in my country (Singapore) is extremely high and one cannot simply move to a LCOL area and retire earlier (if you look up Singapore on Google Maps you'd understand why):\n\n[DCA-ing over 30 Years](https://preview.redd.it/tkgmxfdolud81.png?width=1941&amp;format=png&amp;auto=webp&amp;s=fcbf7ff945aa5580d9ae9d2aa5546a249c445795)\n\nAs I am writing this, the S&amp;P is currently down -2.7% but that's cool - I got my charts. I do hope you would find this useful and if there is any feedback, please feel free to drop a comment below, thank you!",
+  "author_fullname": "t2_a42u6hhm",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "1928-2021: DCA Performance of the S&amp;P500 (only because it has the longest history)",
+  "link_flair_richtext": [],
+  "subreddit_name_prefixed": "r/Bogleheads",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": null,
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "5lhg34kmhud81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 57,
+          "x": 108,
+          "u": "https://preview.redd.it/5lhg34kmhud81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=7474dab50840aa79f5cdeaeea322d441344794e5"
+        },
+        {
+          "y": 115,
+          "x": 216,
+          "u": "https://preview.redd.it/5lhg34kmhud81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c8cf595deca597639b930eeebab16dca91a1c108"
+        },
+        {
+          "y": 170,
+          "x": 320,
+          "u": "https://preview.redd.it/5lhg34kmhud81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=89eb974e9f43359d5620a4dc5fd5f1dd2b66fe2c"
+        },
+        {
+          "y": 341,
+          "x": 640,
+          "u": "https://preview.redd.it/5lhg34kmhud81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=44725e10549f1094d4b1d3b4b6c67562c6f38ee9"
+        },
+        {
+          "y": 512,
+          "x": 960,
+          "u": "https://preview.redd.it/5lhg34kmhud81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=ef8438350b69288b8f9b59ac62522293afd12413"
+        },
+        {
+          "y": 576,
+          "x": 1080,
+          "u": "https://preview.redd.it/5lhg34kmhud81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7bcabd2e80b7ea80b8d0c1457dc04017d2b4a070"
+        }
+      ],
+      "s": {
+        "y": 1263,
+        "x": 2367,
+        "u": "https://preview.redd.it/5lhg34kmhud81.png?width=2367&amp;format=png&amp;auto=webp&amp;s=424b5b6fc84b6add57c136cabd40c731853be4f8"
+      },
+      "id": "5lhg34kmhud81"
+    },
+    "yb4j4awblud81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 73,
+          "x": 108,
+          "u": "https://preview.redd.it/yb4j4awblud81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=9f998564477e82a885ac559d030bce115aea2561"
+        },
+        {
+          "y": 147,
+          "x": 216,
+          "u": "https://preview.redd.it/yb4j4awblud81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=814eeaaf99119e6253b3915b88948100f5205ca6"
+        },
+        {
+          "y": 218,
+          "x": 320,
+          "u": "https://preview.redd.it/yb4j4awblud81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c0aba00d8fb0623be4093a7c072026a7cdd94480"
+        },
+        {
+          "y": 436,
+          "x": 640,
+          "u": "https://preview.redd.it/yb4j4awblud81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4ec1f2d7095ecd5629c92b029d74bfbe458660c"
+        },
+        {
+          "y": 655,
+          "x": 960,
+          "u": "https://preview.redd.it/yb4j4awblud81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=69adb2496ca808cc7db5b4900fe68cdd6ca631ef"
+        },
+        {
+          "y": 737,
+          "x": 1080,
+          "u": "https://preview.redd.it/yb4j4awblud81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c881bfa02a99232cce7d1e0dcc92c022cc2fb57d"
+        }
+      ],
+      "s": {
+        "y": 1323,
+        "x": 1938,
+        "u": "https://preview.redd.it/yb4j4awblud81.png?width=1938&amp;format=png&amp;auto=webp&amp;s=30c658edbc1bee0c94d79d0813fbb490e8e51674"
+      },
+      "id": "yb4j4awblud81"
+    },
+    "yz8x0tyelud81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 73,
+          "x": 108,
+          "u": "https://preview.redd.it/yz8x0tyelud81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=ce74571ada3ef7577e61e0ff417a01acc0fd9989"
+        },
+        {
+          "y": 147,
+          "x": 216,
+          "u": "https://preview.redd.it/yz8x0tyelud81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=db5308360e1bff407550e7d4c95643fc3ca9faea"
+        },
+        {
+          "y": 218,
+          "x": 320,
+          "u": "https://preview.redd.it/yz8x0tyelud81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9e351240386f5da701e0fec73b8fed95eab0309f"
+        },
+        {
+          "y": 436,
+          "x": 640,
+          "u": "https://preview.redd.it/yz8x0tyelud81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f410d0d9d13d8bc68924100976349370322ae697"
+        },
+        {
+          "y": 654,
+          "x": 960,
+          "u": "https://preview.redd.it/yz8x0tyelud81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9fda88dfe90dc9b8e1a114956014f853c9486e0d"
+        },
+        {
+          "y": 736,
+          "x": 1080,
+          "u": "https://preview.redd.it/yz8x0tyelud81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5248ed87cf29e239a823be550f39f6219cd540c5"
+        }
+      ],
+      "s": {
+        "y": 1324,
+        "x": 1942,
+        "u": "https://preview.redd.it/yz8x0tyelud81.png?width=1942&amp;format=png&amp;auto=webp&amp;s=14474dcac181a2d6b969a77d665a8d28810e4e48"
+      },
+      "id": "yz8x0tyelud81"
+    },
+    "n5uxhvy7lud81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 73,
+          "x": 108,
+          "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=37731a5ede6731902216b254904e3578938af1dd"
+        },
+        {
+          "y": 147,
+          "x": 216,
+          "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=1bc209fb3fda2d579a2e84c6e93b789d27c3dfe8"
+        },
+        {
+          "y": 218,
+          "x": 320,
+          "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=48f216c1e0f3905b663b075e3c2548ea14f57083"
+        },
+        {
+          "y": 436,
+          "x": 640,
+          "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d627da23f3ec2738b0c0722048bb7ef341539689"
+        },
+        {
+          "y": 654,
+          "x": 960,
+          "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=8d7b46ee8861df99c0fbd2d143f7289591349b19"
+        },
+        {
+          "y": 736,
+          "x": 1080,
+          "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ab08fccbb45e3924ef48cb06c5dfac46e673866c"
+        }
+      ],
+      "s": {
+        "y": 1320,
+        "x": 1936,
+        "u": "https://preview.redd.it/n5uxhvy7lud81.png?width=1936&amp;format=png&amp;auto=webp&amp;s=c13792339b16dc9799698419c4e41a7c87c7b143"
+      },
+      "id": "n5uxhvy7lud81"
+    },
+    "tkgmxfdolud81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 73,
+          "x": 108,
+          "u": "https://preview.redd.it/tkgmxfdolud81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=cc004c6aeba05128ef37fe307b21cdeaf494407a"
+        },
+        {
+          "y": 146,
+          "x": 216,
+          "u": "https://preview.redd.it/tkgmxfdolud81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a22e735c036f6ea06029429e76031719db6fd15c"
+        },
+        {
+          "y": 217,
+          "x": 320,
+          "u": "https://preview.redd.it/tkgmxfdolud81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=4fa94367c3b656e37e2623748b4e5ecfb8c8d049"
+        },
+        {
+          "y": 434,
+          "x": 640,
+          "u": "https://preview.redd.it/tkgmxfdolud81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe5db9c76f7f498529801db62b5c6ef97936fa49"
+        },
+        {
+          "y": 651,
+          "x": 960,
+          "u": "https://preview.redd.it/tkgmxfdolud81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=4d4374c4b80a51466cb50b879c2a4e59bd0d6f3d"
+        },
+        {
+          "y": 732,
+          "x": 1080,
+          "u": "https://preview.redd.it/tkgmxfdolud81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=d474c09196380a7568ee0c8c612fd1ce4855f923"
+        }
+      ],
+      "s": {
+        "y": 1317,
+        "x": 1941,
+        "u": "https://preview.redd.it/tkgmxfdolud81.png?width=1941&amp;format=png&amp;auto=webp&amp;s=fcbf7ff945aa5580d9ae9d2aa5546a249c445795"
+      },
+      "id": "tkgmxfdolud81"
+    }
+  },
+  "name": "t3_scfx77",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.86,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 16,
+  "total_awards_received": 0,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": null,
+  "can_mod_post": false,
+  "score": 16,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {},
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1643123567,
+  "link_flair_type": "text",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.Bogleheads",
+  "allow_live_comments": false,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;With the return of volatility to the markets, I decided to calm myself down by studying the hypothetical &lt;strong&gt;rolling&lt;/strong&gt; historical returns of an investor who DCAs every month.&lt;br/&gt;\n&lt;em&gt;Why did I wanted to do this?&lt;/em&gt; I tried googling for a tool/chart that would show me the &lt;strong&gt;rolling&lt;/strong&gt; performances of an investor DCA-ing for 10/20/30 years and I couldn&amp;#39;t find anything good (also because I was bored at work).&lt;/p&gt;\n\n&lt;p&gt;Here&amp;#39;s how I did it:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;I took the month-end levels of the S&amp;amp;P500 and calculated the month-on-month returns&lt;/li&gt;\n&lt;li&gt;Proceeded to construct a &amp;#39;grid&amp;#39; of some sort so that I can accurately compound the returns of each month&lt;/li&gt;\n&lt;li&gt;For example, if an investor DCAs from the last day of the year until the end of the following year (and continues to do so every month), the first &amp;#39;deposit&amp;#39; should be compounded by the returns of &lt;strong&gt;Jan&lt;/strong&gt; - Dec; but the second deposit should only be compounded by returns of &lt;strong&gt;Feb&lt;/strong&gt; - Dec.&lt;/li&gt;\n&lt;li&gt;I then repeat the process for subsequent months across history to get a time series&lt;/li&gt;\n&lt;li&gt;The Excel file that has an input cell that allows me to specify the number of years an investor would DCA for.&lt;/li&gt;\n&lt;li&gt;I did not account for inflation (yes, I know it affects your real returns especially over a long period but this really was an exercise to understand how time-in-the-market is &lt;strong&gt;so&lt;/strong&gt; important)&lt;br/&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/5lhg34kmhud81.png?width=2367&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=424b5b6fc84b6add57c136cabd40c731853be4f8\"&gt;&amp;#39;Grid&amp;#39; of Returns&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Returns of an investor who DCAs across a period of 5 years (dates indicate the start of the DCA process) -&lt;/strong&gt; the average DCA-5Yr investor over the course of history would have gained 22% but there were unlucky ones (like those who started in Mar of 2004) who lost almost 40%:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/yb4j4awblud81.png?width=1938&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=30c658edbc1bee0c94d79d0813fbb490e8e51674\"&gt;DCA-ing over 5 Years&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Returns of an investor who DCAs across a period of 10 years (dates indicate the start of the DCA process) -&lt;/strong&gt; for DCA-10Yr investors who were more disciplined and continued to DCA over the course of 10 years, their average returns improved, of note were (unlucky) investors who started/ended their DCA-ing in 1964/1974 and 1999/2009, with their investments cumulating in the crashes of &amp;#39;74 and the GFC:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/n5uxhvy7lud81.png?width=1936&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c13792339b16dc9799698419c4e41a7c87c7b143\"&gt;DCA-ing over 10 Years&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Returns of an investor who DCAs across a period of 20 years (dates indicate the start of the DCA process) -&lt;/strong&gt; this is where it gets interesting (also I guess this lends some truth to the &amp;#39;maxim&amp;#39; that &amp;#39;stocks only go up&amp;#39;), from 1929-2021, almost all of DCA-20Yr investors who diligently DCA-ed into the S&amp;amp;P every month were rewarded with positive returns, with the exception of individuals who started investing in 1954 and exited their positions in 1974 (crash):&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/yz8x0tyelud81.png?width=1942&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=14474dcac181a2d6b969a77d665a8d28810e4e48\"&gt;DCA-ing over 20 Years&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Returns of an investor who DCAs across a period of 30 years (dates indicate the start of the DCA process) -&lt;/strong&gt; finally, DCA-30Yr investors (diamond hands) who held onto their investments and were disciplined enough to DCA every month for 30 years enjoyed a &lt;strong&gt;minimum&lt;/strong&gt; of 63% returns (not accounting for inflation) on their portfolios, other DCA-30Yr investors were lucky enough (those starting in 1970 and selling during the dot-com bubble) to enjoy up to 790% of returns. Side note: this is also my investment horizon as the cost of living in my country (Singapore) is extremely high and one cannot simply move to a LCOL area and retire earlier (if you look up Singapore on Google Maps you&amp;#39;d understand why):&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/tkgmxfdolud81.png?width=1941&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=fcbf7ff945aa5580d9ae9d2aa5546a249c445795\"&gt;DCA-ing over 30 Years&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;As I am writing this, the S&amp;amp;P is currently down -2.7% but that&amp;#39;s cool - I got my charts. I do hope you would find this useful and if there is any feedback, please feel free to drop a comment below, thank you!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2shb7",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "scfx77",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "HelloError404",
+  "discussion_type": null,
+  "num_comments": 9,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/Bogleheads/comments/scfx77/19282021_dca_performance_of_the_sp500_only/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/Bogleheads/comments/scfx77/19282021_dca_performance_of_the_sp500_only/",
+  "subreddit_subscribers": 133935,
+  "created_utc": 1643135472,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1643123567,
+  "the_new_excerpt": "With the return of volatility to the markets, I decided to calm myself down by\nstudying the hypothetical rolling historical returns of an investor who DCAs\nevery month.\nWhy did I wanted to do this? I tried googling for a tool/chart that would show\nme the rolling performances of an investor DCA-ing…"
+}
