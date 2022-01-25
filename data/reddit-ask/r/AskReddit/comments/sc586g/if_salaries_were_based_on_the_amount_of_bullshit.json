@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし給料が、毎日対処しなければならないデタラメの量に基づくとしたら、どの職業が一番儲かるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果工资是根据你每天必须处理的废话的数量来计算的，那么哪个行业会赚到最多的钱？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果工資是根據你每天必須處理的廢話的數量來計算的，那麼哪個行業會賺到最多的錢？"
+    }
+  ]
 }
