@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TwitterのリプライでTipsを送るサービスを作ってみた - クロスプラットフォーム(Discord)対応中"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个服务，通过在Twitter上的回复发送提示--跨平台（Discord）正在进行中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個服務，通過在Twitter上的回覆發送提示--跨平臺（Discord）正在進行中"
+    }
+  ]
 }
