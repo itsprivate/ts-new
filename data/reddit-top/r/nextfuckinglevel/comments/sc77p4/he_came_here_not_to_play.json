@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は遊びに来たのではない"
+    },
+    {
+      "locale": "zh",
+      "title": "他来这里不是为了玩"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他來這裏不是爲了玩"
+    }
+  ]
 }
