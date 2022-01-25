@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロジック"
+    },
+    {
+      "locale": "zh",
+      "title": "逻辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "邏輯"
+    }
+  ]
 }
