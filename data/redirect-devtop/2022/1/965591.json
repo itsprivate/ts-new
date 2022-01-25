@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-24T09:00:35Z",
   "image": "https://dev.to/social_previews/article/965591.png",
   "author": "Nirjal Mahat",
-  "author_url": "https://dev.to/nirzal07"
+  "author_url": "https://dev.to/nirzal07",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者の方、こんにちは。Reactを少し学んだ後、NextJSを学ぼうとしています。もし、あなたがNextJS...",
+      "title": "NextJSをマスターするための最適な学習方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我是初学者。在学习了一点React之后，正在尝试学习NextJS。如果你是一个NextJS...",
+      "title": "掌握NextJS的最佳学习途径"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我是初學者。在學習了一點React之後，正在嘗試學習NextJS。如果你是一個NextJS...",
+      "title": "掌握NextJS的最佳學習途徑"
+    }
+  ]
 }

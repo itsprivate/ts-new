@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クラブに参加する"
+    },
+    {
+      "locale": "zh",
+      "title": "加入俱乐部"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "加入俱樂部"
+    }
+  ]
 }
