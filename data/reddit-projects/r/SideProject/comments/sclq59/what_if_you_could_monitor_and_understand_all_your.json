@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、1つの場所からすべてのソーシャルインタラクションやファンを監視し、理解することができるとしたらどうでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能从一个地方监测和了解你所有的社交互动和粉丝，会怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能從一個地方監測和了解你所有的社交互動和粉絲，會怎麼樣？"
+    }
+  ]
 }
