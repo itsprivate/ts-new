@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しいランディングページについて、あなたの意見を聞かせてください。💪"
+    },
+    {
+      "locale": "zh",
+      "title": "我希望您能对我的新登陆页面提出反馈意见! 💪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我希望您能對我的新登陸頁面提出反饋意見! 💪"
+    }
+  ]
 }

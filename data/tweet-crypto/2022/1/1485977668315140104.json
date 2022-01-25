@@ -52,5 +52,22 @@
     },
     "retweet_count": 370,
     "favorite_count": 2467
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: ロシアの金融担当者は、暗号市場を禁止するのではなく、規制する必要があると述べています。",
+      "retweeted_status_full_text": "ロシア連邦政府高官、暗号市場を禁止するのではなく、規制する必要があると発言。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: 俄罗斯财政部官员表示，我们需要规范加密市场，而不是禁止它。",
+      "retweeted_status_full_text": "俄罗斯财政部官员称我们需要监管加密市场，而不是禁止它"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: 俄羅斯財政部官員表示，我們需要規範加密市場，而不是禁止它。",
+      "retweeted_status_full_text": "俄羅斯財政部官員稱我們需要監管加密市場，而不是禁止它"
+    }
+  ]
 }
