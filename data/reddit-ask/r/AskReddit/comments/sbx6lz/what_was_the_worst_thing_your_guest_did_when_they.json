@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お客様が「ご自由にどうぞ」を文字通りに受け取ってしまったときに、一番やってしまったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你的客人从字面上理解 \"请随意 \"时，他们做的最糟糕的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你的客人從字面上理解 \"請隨意 \"時，他們做的最糟糕的事情是什麼？"
+    }
+  ]
 }
