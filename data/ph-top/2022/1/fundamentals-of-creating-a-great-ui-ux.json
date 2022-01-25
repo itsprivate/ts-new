@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-25T08:06:49Z"
+  "original_createdAt": "2022-01-25T08:06:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"Fundamentals of Creating Great UI/UX\" by Creative Timは、WebページやモバイルアプリのためのすべてのUI/UXデザインコンポーネントをデザインし、使用する方法を紹介します。クリエイティブ・ティムの8年間の経験に基づいています。",
+      "tagline": "クリエイティブ・ティムによるUI/UXデザインブック"
+    },
+    {
+      "locale": "zh",
+      "description": "Creative Tim的 \"创建伟大的UI/UX的基础 \"将告诉你如何为你的网页和移动应用程序设计和使用所有的UI/UX设计组件。🌟 它是基于Creative Tim 8年的经验。",
+      "tagline": "创意蒂姆的UI/UX设计书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Creative Tim的 \"創建偉大的UI/UX的基礎 \"將告訴你如何爲你的網頁和移動應用程序設計和使用所有的UI/UX設計組件。🌟 它是基於Creative Tim 8年的經驗。",
+      "tagline": "創意蒂姆的UI/UX設計書"
+    }
+  ]
 }
