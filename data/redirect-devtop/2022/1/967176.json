@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-25T13:32:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j3knlSz_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58tarqcx7ldpk4it8ylw.jpg",
   "author": "Prafful Lachhwani",
-  "author_url": "https://dev.to/prafful"
+  "author_url": "https://dev.to/prafful",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web技術は急速に発展しており、現在では最新のツールやフレームワークが大量に存在しています。それは...",
+      "title": "適切なバックエンドフレームワークを選択することは芸術である"
+    },
+    {
+      "locale": "zh",
+      "description": "网络技术发展如此之快，以至于我们现在有大量的现代工具和框架。无论它是什么？",
+      "title": "选择正确的后端框架是一门艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡技術發展如此之快，以至於我們現在有大量的現代工具和框架。無論它是什麼？",
+      "title": "選擇正確的後端框架是一門藝術"
+    }
+  ]
 }
