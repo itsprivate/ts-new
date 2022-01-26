@@ -13,5 +13,19 @@
   ],
   "objectID": "30084718",
   "original_created_at": "2022-01-26T12:31:57.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pwnkit polkitのpkexecにおけるローカル特権のエスカレーション (CVE-2021-4034)"
+    },
+    {
+      "locale": "zh",
+      "title": "Pwnkit。polkit 的 pkexec 中的本地权限升级 (CVE-2021-4034)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pwnkit。polkit 的 pkexec 中的本地權限升級 (CVE-2021-4034)"
+    }
+  ]
 }
