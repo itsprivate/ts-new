@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-23T22:34:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NLsWCYmy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdtlafe81eo4jchqx37w.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "戻る？決して消えてはいない。少なくとも、「そう言っただろ」とドヤ顔で言う人がいそうです。しかし...",
+      "title": "サーバーサイドルーティングの復活"
+    },
+    {
+      "locale": "zh",
+      "description": "返回？它从未消失过。或者至少有些自以为是的 \"告诉过你 \"会这么说。但对于...",
+      "title": "服务器端路由的回归"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "返回？它從未消失過。或者至少有些自以爲是的 \"告訴過你 \"會這麼說。但對於...",
+      "title": "服務器端路由的迴歸"
+    }
+  ]
 }

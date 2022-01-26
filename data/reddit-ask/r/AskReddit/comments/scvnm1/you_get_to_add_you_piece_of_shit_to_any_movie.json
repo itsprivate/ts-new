@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画の引用文に「このクソ野郎」をつけてください。あなたはどんな映画の引用を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以在任何电影名言中加入 \"你这坨屎\"。你选择什么电影名言？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以在任何電影名言中加入 \"你這坨屎\"。你選擇什麼電影名言？"
+    }
+  ]
 }
