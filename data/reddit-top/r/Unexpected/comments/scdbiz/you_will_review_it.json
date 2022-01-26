@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見直すことになります。"
+    },
+    {
+      "locale": "zh",
+      "title": "你将审查它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你將審查它。"
+    }
+  ]
 }
