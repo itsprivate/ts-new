@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の身に降りかかるまで、その重大さを過小評価していたことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在事情发生在你身上之前，你低估了哪件事情的严重性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在事情發生在你身上之前，你低估了哪件事情的嚴重性？"
+    }
+  ]
 }
