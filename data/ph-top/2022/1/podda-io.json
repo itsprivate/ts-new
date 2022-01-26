@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-26T08:01:00Z"
+  "original_createdAt": "2022-01-26T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Poddaは、ゲストによるポッドキャスト発見ツールです。",
+      "tagline": "ゲストでポッドキャストを検索"
+    },
+    {
+      "locale": "zh",
+      "description": "Podda是一个播客发现工具，你可以用它来按嘉宾发现播客。",
+      "tagline": "按嘉宾搜索播客"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Podda是一個播客發現工具，你可以用它來按嘉賓發現播客。",
+      "tagline": "按嘉賓搜索播客"
+    }
+  ]
 }

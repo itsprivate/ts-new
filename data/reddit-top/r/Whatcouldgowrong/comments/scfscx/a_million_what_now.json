@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "100万......どうする？"
+    },
+    {
+      "locale": "zh",
+      "title": "一百万现在怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一百萬現在怎麼辦？"
+    }
+  ]
 }
