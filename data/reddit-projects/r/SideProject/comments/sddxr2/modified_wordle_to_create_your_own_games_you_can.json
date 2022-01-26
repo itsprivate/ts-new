@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Wordleを改造して、友達と共有できるオリジナルゲームを作成可能"
+    },
+    {
+      "locale": "zh",
+      "title": "修改后的Wordle可以创建你自己的游戏，可以与朋友分享"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "修改後的Wordle可以創建你自己的遊戲，可以與朋友分享"
+    }
+  ]
 }
