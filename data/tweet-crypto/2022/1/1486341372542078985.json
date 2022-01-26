@@ -91,5 +91,22 @@
     "retweet_count": 654,
     "favorite_count": 3071,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @bitharington: 白線：ビットコインの平均価格は毎年2倍（非常識な価格バブルを含む）。青線：平均的なビットコインS2F価格be...",
+      "retweeted_status_full_text": "白線：ビットコインの平均価格が毎年2倍になる（非常識な価格バブルを含む）。青線：ビットコインの平均S2F価格（半値戻し間）。結局、両方の理論が正しく、両方が起こっているとしたらどうでしょうか？私はこの現在の価格暴落が好きではないが、全く弱気ではない。https://t.co/rSXxOjIPw7。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @bitharington: 白线：比特币平均价格每年翻2倍（包括疯狂的价格泡沫）。蓝线：比特币的平均价格为2.5倍。",
+      "retweeted_status_full_text": "白线：比特币平均价格每年翻2倍（包括疯狂的价格泡沫）。蓝线：比特币S2的平均价格在两次减半之间。如果到最后，两种理论都是正确的，而且都在发生呢？我不喜欢目前这种价格暴跌，但我一点也不看跌。https://t.co/rSXxOjIPw7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bitharington: 白線：比特幣平均價格每年翻2倍（包括瘋狂的價格泡沫）。藍線：比特幣的平均價格爲2.5倍。",
+      "retweeted_status_full_text": "白線：比特幣平均價格每年翻2倍（包括瘋狂的價格泡沫）。藍線：比特幣S2的平均價格在兩次減半之間。如果到最後，兩種理論都是正確的，而且都在發生呢？我不喜歡目前這種價格暴跌，但我一點也不看跌。https://t.co/rSXxOjIPw7"
+    }
+  ]
 }
