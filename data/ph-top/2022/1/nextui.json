@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-26T08:01:00Z"
+  "original_createdAt": "2022-01-26T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NextUIは、デザインの経験に関係なく美しいウェブサイトを作ることができる次世代UI Reactライブラリで、自動ダークモード認識、テーマサポート、簡単なカスタマイズ、クラス最高のDXなど、素晴らしい機能が搭載されています。",
+      "tagline": "美しく、速く、モダンなReact UIライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "NextUI是下一代UI React库，无论你的设计经验如何，都可以制作出漂亮的网站，它具有自动识别黑暗模式、支持主题、易于定制、一流的DX等很棒的功能。",
+      "tagline": "漂亮、快速和现代的React UI库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NextUI是下一代UI React庫，無論你的設計經驗如何，都可以製作出漂亮的網站，它具有自動識別黑暗模式、支持主題、易於定製、一流的DX等很棒的功能。",
+      "tagline": "漂亮、快速和現代的React UI庫"
+    }
+  ]
 }
