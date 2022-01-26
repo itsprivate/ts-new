@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-26T08:13:23Z"
+  "original_createdAt": "2022-01-26T08:13:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Whatisは、専門用語、頭字語、プロジェクト、メトリクスなど、チームのコンテキストにアクセスし、整理することができます。SlackとChromeでアクセス可能です。",
+      "tagline": "SlackやChromeにおける会社の状況や知識"
+    },
+    {
+      "locale": "zh",
+      "description": "Whatis让你访问和组织你的团队的上下文，如行话、首字母缩写、项目、指标等。可跨Slack和Chrome浏览器访问。",
+      "tagline": "在Slack和Chrome中的公司背景和知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Whatis讓你訪問和組織你的團隊的上下文，如行話、首字母縮寫、項目、指標等。可跨Slack和Chrome瀏覽器訪問。",
+      "tagline": "在Slack和Chrome中的公司背景和知識"
+    }
+  ]
 }
