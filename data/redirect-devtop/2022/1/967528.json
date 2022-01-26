@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-25T18:54:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nmw0NrCU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6e1s5zsxonw8zp5zrawd.jpg",
   "author": "Thy Pham",
-  "author_url": "https://dev.to/thyphamdev"
+  "author_url": "https://dev.to/thyphamdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 業務ドメインごとに開発チームを編成し、例えば、Order、Article、...",
+      "title": "私の会社では、アジャイル＋DevOpsをどのように日常業務に取り入れているか。"
+    },
+    {
+      "locale": "zh",
+      "description": "摘要 我们按业务领域组建开发团队，例如，订单、文章、或其他。",
+      "title": "我的公司如何在日常工作中遵循敏捷+DevOps？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "摘要 我們按業務領域組建開發團隊，例如，訂單、文章、或其他。",
+      "title": "我的公司如何在日常工作中遵循敏捷+DevOps？"
+    }
+  ]
 }
