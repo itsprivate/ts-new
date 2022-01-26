@@ -13,5 +13,19 @@
   ],
   "objectID": "30077271",
   "original_created_at": "2022-01-25T20:05:09.000Z",
-  "image": "http://seclists.org/images/oss-sec-img.png"
+  "image": "http://seclists.org/images/oss-sec-img.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pwnkitです。polkitのpkexecにおけるローカル特権のエスカレーション (CVE-2021-4034)"
+    },
+    {
+      "locale": "zh",
+      "title": "Pwnkit: polkit 的 pkexec 中的本地权限升级 (CVE-2021-4034)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Pwnkit: polkit 的 pkexec 中的本地權限升級 (CVE-2021-4034)"
+    }
+  ]
 }
