@@ -1,0 +1,136 @@
+{
+  "created_at": "Wed Jan 26 16:42:51 +0000 2022",
+  "id_str": "1486364036044406785",
+  "full_text": "RT @PrestonPysh: Wake-up people!  \n\nWe’re in a race whether you want to run it or not…",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PrestonPysh",
+        "name": "Preston Pysh",
+        "id": 538399586,
+        "id_str": "538399586",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 486,
+  "favorite_count": 0,
+  "original_created_at": "Wed Jan 26 15:42:56 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Wed Jan 26 14:27:31 +0000 2022",
+    "id_str": "1486345059255603202",
+    "full_text": "Wake-up people!  \n\nWe’re in a race whether you want to run it or not… https://t.co/UvOXlL6HiT",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UvOXlL6HiT",
+          "expanded_url": "https://twitter.com/bitcoinmagazine/status/1486341512287895553",
+          "display_url": "twitter.com/bitcoinmagazin…",
+          "indices": [
+            70,
+            93
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Preston Pysh",
+      "screen_name": "PrestonPysh",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408783276081299462/f4Ye5n7-_normal.jpg"
+    },
+    "retweet_count": 486,
+    "favorite_count": 3683,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Wed Jan 26 14:13:26 +0000 2022",
+      "id_str": "1486341512287895553",
+      "full_text": "BREAKING 💥 President Vladimir Putin: Russia has \"some advantages\" in #Bitcoin mining 🇷🇺 https://t.co/sJGKx8pIMs",
+      "display_text_range": [
+        0,
+        87
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Bitcoin",
+            "indices": [
+              69,
+              77
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1486341357509746700,
+            "id_str": "1486341357509746691",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/FKCLlvVXIAMdfXM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FKCLlvVXIAMdfXM.jpg",
+            "url": "https://t.co/sJGKx8pIMs",
+            "display_url": "pic.twitter.com/sJGKx8pIMs",
+            "expanded_url": "https://twitter.com/BitcoinMagazine/status/1486341512287895553/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 483,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 853,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1770,
+                "h": 1258,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "user": {
+        "name": "Bitcoin Magazine",
+        "screen_name": "BitcoinMagazine",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg"
+      },
+      "retweet_count": 2044,
+      "favorite_count": 9631,
+      "possibly_sensitive": false
+    }
+  }
+}
