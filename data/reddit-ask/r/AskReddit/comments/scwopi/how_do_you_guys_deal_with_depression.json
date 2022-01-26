@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さんは、「うつ病」とどのように向き合っているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你们是如何处理抑郁症的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們是如何處理抑鬱症的？"
+    }
+  ]
 }
