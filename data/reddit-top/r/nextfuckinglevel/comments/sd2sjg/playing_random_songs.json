@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ランダム再生"
+    },
+    {
+      "locale": "zh",
+      "title": "播放随机歌曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "播放隨機歌曲"
+    }
+  ]
 }
