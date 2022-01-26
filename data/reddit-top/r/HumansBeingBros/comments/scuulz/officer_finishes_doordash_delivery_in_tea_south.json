@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サウスダコタ州ティーで配達員がワラントで逮捕された後、警官がDoorDashの配達を終了させる"
+    },
+    {
+      "locale": "zh",
+      "title": "在南达科他州Tea市的DoorDash送货员因逮捕令被逮捕后，警官完成了DoorDash的送货工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在南達科他州Tea市的DoorDash送貨員因逮捕令被逮捕後，警官完成了DoorDash的送貨工作"
+    }
+  ]
 }
