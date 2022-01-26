@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Some aircrafts have three, while some have seven balded props. Similarly\nhelicopters and submarines also have different number of propellers."
+  "the_new_excerpt": "Some aircrafts have three, while some have seven balded props. Similarly\nhelicopters and submarines also have different number of propellers.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "3つのプロペラを持つ機体もあれば、7つのプロペラを持つ機体もある。同じように\nヘリコプターや潜水艦もプロペラの枚数が違う。",
+      "title": "自動車のプロペラの翼の枚数は何で決まるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有些飞机有三个，而有些则有七个秃头的螺旋桨。同样地\n直升机和潜水艇也有不同数量的螺旋桨。",
+      "title": "什么决定了一辆车的螺旋桨叶片数量？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有些飛機有三個，而有些則有七個禿頭的螺旋槳。同樣地\n直升機和潛水艇也有不同數量的螺旋槳。",
+      "title": "什麼決定了一輛車的螺旋槳葉片數量？"
+    }
+  ]
 }
