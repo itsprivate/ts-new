@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-26T08:01:00Z"
+  "original_createdAt": "2022-01-26T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figは、エンジニアの端末での生産性を向上させます。私たちの最初の製品は、cd、git、npm/yarn、docker、aws などの何百ものパブリック CLI ツールを視覚的に補完する機能を追加します。⠀ プライベートなオートコンプリートが必要ですか？独自の補完機能を作成し、チーム内で共有することができます。",
+      "tagline": "端末のオートコンプリート"
+    },
+    {
+      "locale": "zh",
+      "description": "图使工程师在终端的生产效率更高。⠀ 我们的第一个产品为数百个公共CLI工具增加了可视化的补全，如cd、git、npm/yarn、docker和aws。⠀ 想要私人自动补全？创建你自己的补全，并与你的团队分享它们",
+      "tagline": "终端的自动完成功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圖使工程師在終端的生產效率更高。⠀ 我們的第一個產品爲數百個公共CLI工具增加了可視化的補全，如cd、git、npm/yarn、docker和aws。⠀ 想要私人自動補全？創建你自己的補全，並與你的團隊分享它們",
+      "tagline": "終端的自動完成功能"
+    }
+  ]
 }

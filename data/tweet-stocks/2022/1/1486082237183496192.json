@@ -68,5 +68,19 @@
   "retweet_count": 37,
   "favorite_count": 234,
   "possibly_sensitive": false,
-  "original_created_at": "Tue Jan 25 21:03:10 +0000 2022"
+  "original_created_at": "Tue Jan 25 21:03:10 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これが普通\n\nhttps://t.co/NWKIcG628x https://t.co/z9qWIbdqyU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这很正常\n\nhttps://t.co/NWKIcG628x https://t.co/z9qWIbdqyU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這很正常\n\nhttps://t.co/NWKIcG628x https://t.co/z9qWIbdqyU"
+    }
+  ]
 }
