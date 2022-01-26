@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シグマになる時"
+    },
+    {
+      "locale": "zh",
+      "title": "是时候成为一个西格玛了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是時候成爲一個西格瑪了"
+    }
+  ]
 }
