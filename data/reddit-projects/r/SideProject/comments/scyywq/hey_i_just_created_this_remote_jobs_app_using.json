@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このリモートジョブアプリは、コードとRSSフィードを使用せず、世界中の新しいリモートジョブを見つけるのに役立ちます。ぜひご覧ください。）"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，我刚刚创建了这个远程工作的应用程序，没有使用任何代码和RSS feed，帮助寻找世界各地的新的远程工作。请查看 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，我剛剛創建了這個遠程工作的應用程序，沒有使用任何代碼和RSS feed，幫助尋找世界各地的新的遠程工作。請查看 :)"
+    }
+  ]
 }
