@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-26T08:00:00Z"
+  "original_createdAt": "2022-01-26T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Signlは、ニュース記事、メディア報道、ソーシャルバズなどを精査し、企業のトラクションの証拠を集約・定量化します。",
+      "tagline": "データドリブンな投資家のための企業シグナル"
+    },
+    {
+      "locale": "zh",
+      "description": "Signl通过搜索新闻文章、媒体报道、社会热议等，对公司的吸引力进行汇总和量化证据。",
+      "tagline": "为数据驱动的投资者提供公司信号"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Signl通過搜索新聞文章、媒體報道、社會熱議等，對公司的吸引力進行彙總和量化證據。",
+      "tagline": "爲數據驅動的投資者提供公司信號"
+    }
+  ]
 }
