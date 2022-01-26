@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1643154285,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このサブのアドバイスを受けた後"
+    },
+    {
+      "locale": "zh",
+      "title": "在听取了本子的建议后"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在聽取了本子的建議後"
+    }
+  ]
 }
