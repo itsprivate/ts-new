@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素材によっては、変形した後、熱を加えると元の形に戻るという形状記憶効果を持つものがあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "某些材料具有形状记忆效应--在变形后，它们在加热后会恢复到原来的形状。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "某些材料具有形狀記憶效應--在變形後，它們在加熱後會恢復到原來的形狀。"
+    }
+  ]
 }
