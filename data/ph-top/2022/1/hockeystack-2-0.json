@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-26T08:01:00Z"
+  "original_createdAt": "2022-01-26T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HockeyStackは、マーケティング、収益、販売、製品データを統合する、SaaS企業向けの分析ツールです。ブログ記事のLTV、料金プランごとの月間サポート負荷、各マーケティングチャネルの機能使用率などのインサイトを明らかにします。",
+      "tagline": "SaaSを成長させるために必要な唯一の分析ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "HockeyStack是一款针对SaaS公司的分析工具，它将你的营销、收入、销售和产品数据统一起来。HockeyStack发现了一些洞察力，如博客文章的LTV，按定价计划的每月支持负荷，或每个营销渠道的功能使用。",
+      "tagline": "你需要的唯一分析工具，以发展你的SaaS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HockeyStack是一款針對SaaS公司的分析工具，它將你的營銷、收入、銷售和產品數據統一起來。HockeyStack發現了一些洞察力，如博客文章的LTV，按定價計劃的每月支持負荷，或每個營銷渠道的功能使用。",
+      "tagline": "你需要的唯一分析工具，以發展你的SaaS"
+    }
+  ]
 }
