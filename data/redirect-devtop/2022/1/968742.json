@@ -39,5 +39,22 @@
   "original_created_at": "2022-01-26T18:21:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hAVq_MTP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs5t6wn1sziajkoxttu5.png",
   "author": "Christian Heilmann",
-  "author_url": "https://dev.to/codepo8"
+  "author_url": "https://dev.to/codepo8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近は新しいプロジェクトを始めるときに、以下のようなlaunch.jsonファイルを作って、.vscodeに入れるようにしています...。",
+      "title": "VSコードを完全なWeb開発IDEにするためのlaunch.json"
+    },
+    {
+      "locale": "zh",
+      "description": "当我这些天开始一个新项目时，我创建了以下 launch.json 文件，并将其放入 .vscode...",
+      "title": "一个 launch.json 可以将 VS 代码变成一个完整的 Web 开发 IDE。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我這些天開始一個新項目時，我創建了以下 launch.json 文件，並將其放入 .vscode...",
+      "title": "一個 launch.json 可以將 VS 代碼變成一個完整的 Web 開發 IDE。"
+    }
+  ]
 }
