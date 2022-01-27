@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球の名前を変えてもいい。あなたならどんな名前にしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以重新命名地球。你会给它起什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以重新命名地球。你會給它起什麼名字？"
+    }
+  ]
 }
