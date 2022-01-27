@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "分単位の生産性をゲーム化するChrome Extensionを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Chrome扩展，将生产力按分钟进行游戏化"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Chrome擴展，將生產力按分鐘進行遊戲化"
+    }
+  ]
 }

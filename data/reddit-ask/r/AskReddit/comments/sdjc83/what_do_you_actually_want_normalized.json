@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実際、何を正規化したいのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你实际上*想要什么正常化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你實際上*想要什麼正常化？"
+    }
+  ]
 }
