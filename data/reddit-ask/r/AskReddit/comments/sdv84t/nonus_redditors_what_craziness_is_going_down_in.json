@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国以外のRedditorの皆さん、あなたの国では今、どんなクレイジーなことが起こっていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "非美国的Redditors，你的国家目前正在发生什么疯狂的事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "非美國的Redditors，你的國家目前正在發生什麼瘋狂的事情？"
+    }
+  ]
 }
