@@ -52,5 +52,22 @@
     },
     "retweet_count": 696,
     "favorite_count": 4263
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: *プーチン大統領は、暗号マイニングを規制する政府の提案を支持する。",
+      "retweeted_status_full_text": "*プーチン大統領は、暗号マイニングを規制する政府の提案を支持する。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: *普京支持政府的建议，允许受管制的加密货币开采",
+      "retweeted_status_full_text": "*普京支持政府关于允许受管制的加密货币开采的提议"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: *普京支持政府的建議，允許受管制的加密貨幣開採",
+      "retweeted_status_full_text": "*普京支持政府關於允許受管制的加密貨幣開採的提議"
+    }
+  ]
 }
