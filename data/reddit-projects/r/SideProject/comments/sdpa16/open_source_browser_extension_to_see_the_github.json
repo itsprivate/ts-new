@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I created a browser extension using which you can see the stars earned by a\ngithub repo while hovering over its link on any website. You can also enable a\nsetting to show the languages as well.\n\nIt's open source!\n\nhttps://github.com/SuPythony/Github-Stars-Extension"
+  "the_new_excerpt": "I created a browser extension using which you can see the stars earned by a\ngithub repo while hovering over its link on any website. You can also enable a\nsetting to show the languages as well.\n\nIt's open source!\n\nhttps://github.com/SuPythony/Github-Stars-Extension",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "が獲得したスターを見ることができるブラウザ拡張機能を作りました。\ngithubレポのリンクにマウスを乗せると、そのレポが表示されます。また\nの設定で、言語も表示されます。\n\nオープンソースです\n\nhttps://github.com/SuPythony/Github-Stars-Extension",
+      "title": "レポのリンクにカーソルを合わせると、そのレポのスターを表示するオープンソースブラウザ拡張機能"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我创建了一个浏览器扩展，当你在任何网站上悬停在一个github repo的链接上时，你可以看到它所获得的星星。\n悬停在任何网站上的github repo的链接上时，可以看到它获得的星星。你还可以启用一个\n设置来显示语言。\n\n它是开源的。\n\nhttps://github.com/SuPythony/Github-Stars-Extension",
+      "title": "开源浏览器扩展，在悬停在某个 repo 的链接上时可以看到该 repo 的 github 星级。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我創建了一個瀏覽器擴展，當你在任何網站上懸停在一個github repo的鏈接上時，你可以看到它所獲得的星星。\n懸停在任何網站上的github repo的鏈接上時，可以看到它獲得的星星。你還可以啓用一個\n設置來顯示語言。\n\n它是開源的。\n\nhttps://github.com/SuPythony/Github-Stars-Extension",
+      "title": "開源瀏覽器擴展，在懸停在某個 repo 的鏈接上時可以看到該 repo 的 github 星級。"
+    }
+  ]
 }
