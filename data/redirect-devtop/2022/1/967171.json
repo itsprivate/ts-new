@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-25T13:16:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MKV1vSsc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y75ie31748tasrkj52fm.jpg",
   "author": "Stephan Nijman",
-  "author_url": "https://dev.to/vanaf1979"
+  "author_url": "https://dev.to/vanaf1979",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "javascriptを少し使って、カスタムcssプロパティをアニメーション化する。",
+      "title": "CssとJavascriptまたはGsapでSpotlight効果を作成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用一点javascript来动画化一个自定义的css属性。",
+      "title": "用Css和Javascript或Gsap创建一个聚光灯效果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用一點javascript來動畫化一個自定義的css屬性。",
+      "title": "用Css和Javascript或Gsap創建一個聚光燈效果。"
+    }
+  ]
 }
