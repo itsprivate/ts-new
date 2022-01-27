@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドローンを試すにはとても良い日でした。"
+    },
+    {
+      "locale": "zh",
+      "title": "这样一个可爱的日子来测试我的无人机。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這樣一個可愛的日子來測試我的無人機。"
+    }
+  ]
 }
