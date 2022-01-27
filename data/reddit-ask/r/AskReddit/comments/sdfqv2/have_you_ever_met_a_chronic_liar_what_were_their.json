@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、慢性的な嘘つきに会ったことがありますか？彼らの最もひどい嘘は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你见过一个长期说谎的人吗？他们最糟糕的谎言是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你見過一個長期說謊的人嗎？他們最糟糕的謊言是什麼？"
+    }
+  ]
 }
