@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-24T07:38:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pjVoCWKk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9239arhh2p0uxbnkjg3j.png",
   "author": "Lorenzo Zarantonello",
-  "author_url": "https://dev.to/lorenzojkrl"
+  "author_url": "https://dev.to/lorenzojkrl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クエスチョンマークを含むJavaScriptの演算子一覧は、新しい開発者に驚きを与えるかもしれません...。",
+      "title": "JavaScriptの三項演算子"
+    },
+    {
+      "locale": "zh",
+      "description": "含有问号的运营商的JavaScript列表可能会让新的开发人员感到惊讶，接近...",
+      "title": "JavaScript 三元运算符"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "含有問號的運營商的JavaScript列表可能會讓新的開發人員感到驚訝，接近...",
+      "title": "JavaScript 三元運算符"
+    }
+  ]
 }
