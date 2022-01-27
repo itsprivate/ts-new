@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1643268786,
-  "the_new_excerpt": "That is all."
+  "the_new_excerpt": "That is all.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以上です。",
+      "title": "明日VTIに10万円"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是全部。",
+      "title": "明天在VTI投资10万"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是全部。",
+      "title": "明天在VTI投資10萬"
+    }
+  ]
 }
