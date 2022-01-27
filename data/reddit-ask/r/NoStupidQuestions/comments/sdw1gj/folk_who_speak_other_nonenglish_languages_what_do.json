@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英語以外の言語を話す人たち、地球、月、太陽を他の言語で何と言いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "讲其他非英语语言的人，你们用其他语言怎么称呼地球、月亮和太阳？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "講其他非英語語言的人，你們用其他語言怎麼稱呼地球、月亮和太陽？"
+    }
+  ]
 }
