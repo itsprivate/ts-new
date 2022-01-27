@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Notionでホームページビルダーを編集できるようにしました。しかもお絵かきもできる。"
+    },
+    {
+      "locale": "zh",
+      "title": "我用Notion做了一个可编辑的网站建设者。而且你可以在上面画画。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用Notion做了一個可編輯的網站建設者。而且你可以在上面畫畫。"
+    }
+  ]
 }
