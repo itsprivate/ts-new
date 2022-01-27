@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I’ve personally done it quite often since pandemic began"
+  "the_new_excerpt": "I’ve personally done it quite often since pandemic began",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "パンデミックが始まってから、個人的にはかなりの頻度でやっています",
+      "title": "24時間ぶっ続けで起きていたことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "自从大流行开始以来，我个人就经常这样做",
+      "title": "曾经连续24小时不睡觉吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "自從大流行開始以來，我個人就經常這樣做",
+      "title": "曾經連續24小時不睡覺嗎？"
+    }
+  ]
 }
