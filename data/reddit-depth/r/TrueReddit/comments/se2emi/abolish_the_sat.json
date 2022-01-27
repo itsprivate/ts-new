@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SATを廃止する？"
+    },
+    {
+      "locale": "zh",
+      "title": "废除SAT考试？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "廢除SAT考試？"
+    }
+  ]
 }
