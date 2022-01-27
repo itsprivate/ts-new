@@ -13,5 +13,19 @@
   ],
   "objectID": "30101193",
   "original_created_at": "2022-01-27T14:48:15.000Z",
-  "image": "http://seclists.org/images/oss-sec-img.png"
+  "image": "http://seclists.org/images/oss-sec-img.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LUKS2再暗号化クラッシュリカバリによる復号化"
+    },
+    {
+      "locale": "zh",
+      "title": "通过LUKS2重新加密崩溃恢复解密"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通過LUKS2重新加密崩潰恢復解密"
+    }
+  ]
 }
