@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-25T19:10:51Z",
   "image": "https://dev.to/social_previews/article/967540.png",
   "author": "Jared White",
-  "author_url": "https://dev.to/jaredcwhite"
+  "author_url": "https://dev.to/jaredcwhite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何をしようとしているのかわからない用語は使わないでください。Web向けの開発をしていますか？おめでとうございます。あなたはウェブ開発者です。",
+      "title": "ウェブデベロッパーはどこへ行った？"
+    },
+    {
+      "locale": "zh",
+      "description": "不要再使用那些掩盖你所要做的实际事情的术语了。你是为网络开发的吗？恭喜你！你是一个网络工程师。你是一个网络开发者。",
+      "title": "所有的网络开发人员都去哪儿了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要再使用那些掩蓋你所要做的實際事情的術語了。你是爲網絡開發的嗎？恭喜你！你是一個網絡工程師。你是一個網絡開發者。",
+      "title": "所有的網絡開發人員都去哪兒了？"
+    }
+  ]
 }
