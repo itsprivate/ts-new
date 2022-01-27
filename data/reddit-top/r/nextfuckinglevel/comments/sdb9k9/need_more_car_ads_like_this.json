@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんなクルマの広告をもっと増やしてほしい。"
+    },
+    {
+      "locale": "zh",
+      "title": "需要更多这样的汽车广告。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "需要更多這樣的汽車廣告。"
+    }
+  ]
 }
