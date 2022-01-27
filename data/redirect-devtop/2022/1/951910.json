@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-11T20:22:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--whoZ_Yv8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1853ugiy5dahib60a8jo.jpg",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数週間前、私が所属するチームAWS Amplifyは、新しい認証コンポーネントを発表しました...",
+      "title": "Amplify React Authenticationコンポーネントの完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "几周前，我所在的团队AWS Amplify推出了全新的认证组件。",
+      "title": "Amplify React认证组件的完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾周前，我所在的團隊AWS Amplify推出了全新的認證組件。",
+      "title": "Amplify React認證組件的完整指南"
+    }
+  ]
 }
