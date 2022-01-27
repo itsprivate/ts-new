@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が遭遇したこのスレッドに金箔を追加する"
+    },
+    {
+      "locale": "zh",
+      "title": "为我遇到的这个主题添加金箔"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲我遇到的這個主題添加金箔"
+    }
+  ]
 }
