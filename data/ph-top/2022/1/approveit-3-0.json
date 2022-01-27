@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-27T08:01:00Z"
+  "original_createdAt": "2022-01-27T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "⏱ 10分以内に経費承認ワークフローを作成 ✅ SlackやEメールで直接承認を取得、自動リマインダーも可能 🔗 Approveitと会計システム、スプレッドシートを統合 🔃 条件ルールを使用してワークフローをカスタマイズ可能",
+      "tagline": "Slackやメールでの経費承認の自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "⏱ 在10分钟内创建费用审批工作流程 ✅ 直接在Slack或电子邮件中获得审批，并有自动提醒 🔗 将Approveit与会计系统和电子表格整合 🔃 使用条件规则定制您的工作流程",
+      "tagline": "在Slack和电子邮件中实现费用审批的自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⏱ 在10分鐘內創建費用審批工作流程 ✅ 直接在Slack或電子郵件中獲得審批，並有自動提醒 🔗 將Approveit與會計系統和電子表格整合 🔃 使用條件規則定製您的工作流程",
+      "tagline": "在Slack和電子郵件中實現費用審批的自動化"
+    }
+  ]
 }
