@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "駐車場でぶつけられたら"
+    },
+    {
+      "locale": "zh",
+      "title": "当他们在停车场打你的时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當他們在停車場打你的時候"
+    }
+  ]
 }
