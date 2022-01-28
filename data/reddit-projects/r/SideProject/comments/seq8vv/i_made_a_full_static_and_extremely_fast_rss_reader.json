@@ -75,5 +75,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完全静的で非常に高速なRSSリーダーを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个完全静态的、极其快速的RSS阅读器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個完全靜態的、極其快速的RSS閱讀器。"
+    }
+  ]
 }
