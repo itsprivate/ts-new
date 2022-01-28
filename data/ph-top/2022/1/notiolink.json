@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-28T09:13:01Z"
+  "original_createdAt": "2022-01-28T09:13:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "bit.lyのような短いリンクを聞いたことがありますか？VercelとNotionのAPIを使えば、15分以内に無料でカスタムドメイン（例：clarence.link）で構築することができます。",
+      "tagline": "無料セルフホストブランドリンクショートナー＆linktree"
+    },
+    {
+      "locale": "zh",
+      "description": "听说过像bit.ly这样的短链接吗？你可以在15分钟内使用Vercel & Notion API免费为自己建立一个带有自定义域名（如clarence.link）的链接。",
+      "tagline": "免费自我托管的品牌链接缩短器和链接树"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "聽說過像bit.ly這樣的短鏈接嗎？你可以在15分鐘內使用Vercel & Notion API免費爲自己建立一個帶有自定義域名（如clarence.link）的鏈接。",
+      "tagline": "免費自我託管的品牌鏈接縮短器和鏈接樹"
+    }
+  ]
 }
