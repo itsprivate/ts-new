@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コメントの投稿が中途半端になり、本当にどうでもいいことに気づいて削除することを何と言いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "发表评论到一半，然后删除，因为你发现你真的不关心，这种说法是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發表評論到一半，然後刪除，因爲你發現你真的不關心，這種說法是什麼？"
+    }
+  ]
 }
