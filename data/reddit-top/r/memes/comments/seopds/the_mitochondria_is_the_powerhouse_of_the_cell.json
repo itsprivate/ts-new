@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミトコンドリアは細胞の動力源である"
+    },
+    {
+      "locale": "zh",
+      "title": "线粒体是细胞的动力室"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "線粒體是細胞的動力室"
+    }
+  ]
 }
