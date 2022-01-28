@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello,\n\nI've made a github including a docker swarm (need x86/amd64 + docker +\ndocker-compose) that run 5 passive income applications (customizable if you\ndon't want to run all 5).\n\nThe stack is using minimal ressources regarding memory/cpu and disk usage.\n\nA basic webUI is included to bookmark all…"
+  "the_new_excerpt": "Hello,\n\nI've made a github including a docker swarm (need x86/amd64 + docker +\ndocker-compose) that run 5 passive income applications (customizable if you\ndon't want to run all 5).\n\nThe stack is using minimal ressources regarding memory/cpu and disk usage.\n\nA basic webUI is included to bookmark all…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\nドッカースウォームを含むgithubを作りました（要x86/amd64+docker+）。\n5つの受動的収入アプリケーションを実行する(カスタマイズ可能)docker-compose)\n5つ全部を実行する必要はありません）。\n\nスタックは、メモリ/CPUとディスク使用量に関して最小限のリソースを使用しています。\n\n基本的なWebUIが含まれており、すべてのブックマークが可能です。",
+      "title": "Cashfactory : パッシブインカムアプリケーションを集約したDockerスタック（帯域シェア）"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好。\n\n我做了一个github，包括一个docker swarm（需要x86/amd64 + docker +\ndocker-compose），运行5个被动收入的应用程序（可定制，如果你\n如果你不想运行所有的5个应用程序，可以自定义）。\n\n该堆栈在内存/CPU和磁盘使用方面使用最小的资源。\n\n包括一个基本的webUI，用于标记所有的应用程序。",
+      "title": "Cashfactory : Docker堆栈聚合被动收入应用（带宽共享）"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好。\n\n我做了一個github，包括一個docker swarm（需要x86/amd64 + docker +\ndocker-compose），運行5個被動收入的應用程序（可定製，如果你\n如果你不想運行所有的5個應用程序，可以自定義）。\n\n該堆棧在內存/CPU和磁盤使用方面使用最小的資源。\n\n包括一個基本的webUI，用於標記所有的應用程序。",
+      "title": "Cashfactory : Docker堆棧聚合被動收入應用（帶寬共享）"
+    }
+  ]
 }
