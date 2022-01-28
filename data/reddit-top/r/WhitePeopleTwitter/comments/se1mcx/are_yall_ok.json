@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大丈夫ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你们都还好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們都還好嗎？"
+    }
+  ]
 }
