@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "善人が老人を養子にすることで、孤独死しなくて済むようにする"
+    },
+    {
+      "locale": "zh",
+      "title": "好人收养了一个老者，这样他就不用孤独地死去了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好人收養了一個老者，這樣他就不用孤獨地死去了"
+    }
+  ]
 }
