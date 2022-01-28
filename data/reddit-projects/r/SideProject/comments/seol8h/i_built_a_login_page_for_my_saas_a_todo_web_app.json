@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のSaaS（todoウェブアプリ）のために、UIをSupabaseのバックエンドに接続できるようにログインページを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我的SaaS（一个todo web应用）建立了一个登录页面，这样我就可以将UI连接到Supabase的后台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我的SaaS（一個todo web應用）建立了一個登錄頁面，這樣我就可以將UI連接到Supabase的後臺。"
+    }
+  ]
 }
