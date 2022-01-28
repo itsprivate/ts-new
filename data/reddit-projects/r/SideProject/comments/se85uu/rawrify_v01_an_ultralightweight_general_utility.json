@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rawrify v0.1 - 超軽量な汎用ユーティリティAPI"
+    },
+    {
+      "locale": "zh",
+      "title": "Rawrify v0.1 - 一个超轻量级的通用API"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rawrify v0.1 - 一個超輕量級的通用API"
+    }
+  ]
 }
