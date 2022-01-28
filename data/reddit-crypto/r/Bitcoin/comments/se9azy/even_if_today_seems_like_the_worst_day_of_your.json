@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たとえ今日が人生最悪の日に思えても、数年後には、それが文字通り道の上の段差にすぎなかったことがわかるだろう。"
+    },
+    {
+      "locale": "zh",
+      "title": "即使今天在几年后看起来是你生命中最糟糕的一天，你也会看到它实际上只是路上的一个坎坷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "即使今天在幾年後看起來是你生命中最糟糕的一天，你也會看到它實際上只是路上的一個坎坷。"
+    }
+  ]
 }
