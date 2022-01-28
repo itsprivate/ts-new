@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What was your turning point?"
+  "the_new_excerpt": "What was your turning point?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ターニングポイントは何だったのでしょうか？",
+      "title": "あなたの人生の中で、もっと自分を大切にしなければならない、もっと身体的・精神的な調子を整えなければならないと気づいたのはどんな時でしたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你的转折点是什么？",
+      "title": "在你的生活中，你是在什么时候意识到你绝对必须开始更好地照顾自己，获得更好的身体/精神状态的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你的轉折點是什麼？",
+      "title": "在你的生活中，你是在什麼時候意識到你絕對必須開始更好地照顧自己，獲得更好的身體/精神狀態的？"
+    }
+  ]
 }
