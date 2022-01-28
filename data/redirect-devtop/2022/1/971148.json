@@ -55,5 +55,22 @@
   "original_created_at": "2022-01-28T18:18:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4Udxon4C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pc1m1t0ea6vgbhausucn.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MongoDB Atlas Hackathon on DEVの優勝を祝して！？",
+      "title": "MongoDBアトラスハッカソン入賞者、おめでとうございます。"
+    },
+    {
+      "locale": "zh",
+      "description": "庆祝DEV上的MongoDB Atlas黑客马拉松的获胜者!",
+      "title": "祝贺MongoDB Atlas黑客马拉松获奖者!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "慶祝DEV上的MongoDB Atlas黑客馬拉松的獲勝者!",
+      "title": "祝賀MongoDB Atlas黑客馬拉松獲獎者!"
+    }
+  ]
 }
