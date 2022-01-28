@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何が起きているのか、気にも留めない"
+    },
+    {
+      "locale": "zh",
+      "title": "我甚至没有注意到正在发生的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我甚至沒有注意到正在發生的事情"
+    }
+  ]
 }
