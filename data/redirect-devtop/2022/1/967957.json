@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-26T04:48:05Z",
   "image": "https://dev.to/social_previews/article/967957.png",
   "author": "Jakub Rumpel",
-  "author_url": "https://dev.to/hanewali"
+  "author_url": "https://dev.to/hanewali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日はCodeBulletの新しいビデオを観ました。このチャンネルは、私が大きな局面を迎えたときに見つけたものです。",
+      "title": "コードバカ"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我看了CodeBullet的新视频。频道，我发现当我有一个巨大的阶段在...",
+      "title": "编码愚蠢的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我看了CodeBullet的新視頻。頻道，我發現當我有一個巨大的階段在...",
+      "title": "編碼愚蠢的事情"
+    }
+  ]
 }
