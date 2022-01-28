@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This seems contradicting to me. Can someone explain the difference between a\nscenario where collisional cooling dominates and a scenario where collisional\nactivation dominates? My particular example is for peptide ions in a mass\nspectrometer in case different theories apply for different regimes."
+  "the_new_excerpt": "This seems contradicting to me. Can someone explain the difference between a\nscenario where collisional cooling dominates and a scenario where collisional\nactivation dominates? My particular example is for peptide ions in a mass\nspectrometer in case different theories apply for different regimes.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、私には矛盾しているように思えます。誰か、この違いを説明してくれませんか？\n衝突冷却が支配的なシナリオと、衝突冷却が支配的なシナリオがあります。\n活性化が支配的なのでしょうか？私の特定の例は、質量分析計でペプチドイオンを分析するものです。\n異なる理論が異なる領域で適用される場合に備えて。",
+      "title": "気相での分子同士の衝突は、分子の活性化や解離にも利用されるのに、どうして「衝突冷却」になるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这在我看来是矛盾的。谁能解释一下以下情况的区别\n碰撞冷却占主导地位的情况和碰撞激活占主导地位的情况之间的区别？\n激活占主导地位的情况之间的区别？我的特定例子是关于质谱仪中的肽离子的。\n谱仪中的肽离子，以备不同的理论适用于不同的制度。",
+      "title": "当碰撞也被用来激活和分裂分子，即 \"碰撞引起的解离 \"时，气相中分子之间的碰撞怎么会导致冷却，即 \"碰撞冷却\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這在我看來是矛盾的。誰能解釋一下以下情況的區別\n碰撞冷卻占主導地位的情況和碰撞激活占主導地位的情況之間的區別？\n激活占主導地位的情況之間的區別？我的特定例子是關於質譜儀中的肽離子的。\n譜儀中的肽離子，以備不同的理論適用於不同的制度。",
+      "title": "當碰撞也被用來激活和分裂分子，即 \"碰撞引起的解離 \"時，氣相中分子之間的碰撞怎麼會導致冷卻，即 \"碰撞冷卻\"？"
+    }
+  ]
 }
