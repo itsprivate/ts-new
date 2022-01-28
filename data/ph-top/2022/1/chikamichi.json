@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-28T08:01:00Z"
+  "original_createdAt": "2022-01-28T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "閲覧履歴やブックマーク、タブのファジー検索を可能にする、とてもシンプルなChrome拡張機能です。Sidekickの検索ダイアログにインスパイアされています。日本語の「ちかみち」の意味は、「近道」です。",
+      "tagline": "何でもファジー検索できるChrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "一个非常简单的Chrome扩展，能够模糊地搜索浏览历史和书签和标签。灵感来自Sidekick的搜索对话框。日语中 \"chikamichi \"的意思是一种更短的方式。",
+      "tagline": "启用模糊搜索的Chrome扩展程序，可以搜索任何东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個非常簡單的Chrome擴展，能夠模糊地搜索瀏覽歷史和書籤和標籤。靈感來自Sidekick的搜索對話框。日語中 \"chikamichi \"的意思是一種更短的方式。",
+      "tagline": "啓用模糊搜索的Chrome擴展程序，可以搜索任何東西"
+    }
+  ]
 }
