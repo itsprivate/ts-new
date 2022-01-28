@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "主要な暗号コインの重要な情報や、各コインの最新ニュースを追跡できるシンプルなウェブサイトです。"
+    },
+    {
+      "locale": "zh",
+      "title": "简单的网站，你可以跟踪所有主要加密货币的重要信息，以及每个硬币的最新新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡單的網站，你可以跟蹤所有主要加密貨幣的重要信息，以及每個硬幣的最新新聞"
+    }
+  ]
 }
