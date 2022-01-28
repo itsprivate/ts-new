@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-27T09:50:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0hkGjFPn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jswkuy4lvyj42t9b41b6.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptがブラウザの束縛から解き放たれる日はもう来ない。Electron、あるいは...",
+      "title": "Electron.JSによるネイティブデスクトップアプリの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "将Javascript锁在浏览器的枷锁后面的日子已经一去不复返了。电子，或...",
+      "title": "用Electron.JS构建本地桌面应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將Javascript鎖在瀏覽器的枷鎖後面的日子已經一去不復返了。電子，或...",
+      "title": "用Electron.JS構建本地桌面應用程序"
+    }
+  ]
 }
