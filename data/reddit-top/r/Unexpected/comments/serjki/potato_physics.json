@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポテトフィジックス"
+    },
+    {
+      "locale": "zh",
+      "title": "马铃薯物理学"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "馬鈴薯物理學"
+    }
+  ]
 }
