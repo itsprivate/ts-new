@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-28T08:01:00Z"
+  "original_createdAt": "2022-01-28T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Passporterは、旅を簡単、シンプル、秩序あるものにすることで、より良い旅をサポートするコミュニティを通じて、旅のあらゆる局面で旅行者を支援するツールです。",
+      "tagline": "旅行の計画・共有"
+    },
+    {
+      "locale": "zh",
+      "description": "Passporter是通过一个社区在旅行的各个阶段帮助旅行者的工具，通过使你的旅行成为轻松、简单和有序的体验，帮助你更好地旅行。",
+      "tagline": "计划和分享你的旅行"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Passporter是通過一個社區在旅行的各個階段幫助旅行者的工具，通過使你的旅行成爲輕鬆、簡單和有序的體驗，幫助你更好地旅行。",
+      "tagline": "計劃和分享你的旅行"
+    }
+  ]
 }

@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あいつは別格だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙是个例外。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙是個例外。"
+    }
+  ]
 }
