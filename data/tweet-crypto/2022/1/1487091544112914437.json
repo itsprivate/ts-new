@@ -96,5 +96,22 @@
       "favorite_count": 270,
       "possibly_sensitive": false
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @CynthiaMLummis: 反対です。",
+      "retweeted_status_full_text": "反対 https://t.co/E3VkJpV3Pa"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @CynthiaMLummis: 反对。",
+      "retweeted_status_full_text": "反对。https://t.co/E3VkJpV3Pa"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @CynthiaMLummis: 反對。",
+      "retweeted_status_full_text": "反對。https://t.co/E3VkJpV3Pa"
+    }
+  ]
 }
