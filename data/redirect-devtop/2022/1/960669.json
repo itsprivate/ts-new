@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-19T15:04:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1HW5TJbR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qh6cpb1vhka0gb177awk.png",
   "author": "martin krause",
-  "author_url": "https://dev.to/martinkr"
+  "author_url": "https://dev.to/martinkr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "const reverseWords = (str) =&gt; str.split(\" \").map((word) =&gt;...",
+      "title": "1行のコード 文字列の全単語を反転させる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "const reverseWords = (str) =&gt; str.split(\" \").map((word) =&gt; ...",
+      "title": "1行代码。如何逆转一个字符串的所有单词"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "const reverseWords = (str) =&gt; str.split(\" \").map((word) =&gt; ...",
+      "title": "1行代碼。如何逆轉一個字符串的所有單詞"
+    }
+  ]
 }
