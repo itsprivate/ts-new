@@ -46,5 +46,22 @@
   "original_created_at": "2022-01-27T18:38:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kVmRybmE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpit9dad7hecx47wmp7r.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このことを少し考えて、私たちに教えてください",
+      "title": "今までで一番楽しかったコーディングは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "请考虑一下这个问题，并让我们知道!",
+      "title": "你在编码过程中最开心的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "請考慮一下這個問題，並讓我們知道!",
+      "title": "你在編碼過程中最開心的事情是什麼？"
+    }
+  ]
 }
