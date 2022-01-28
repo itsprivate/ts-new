@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-28T08:05:25Z"
+  "original_createdAt": "2022-01-28T08:05:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなAPIを使用して、データをPDFやテキストファイルに変換します。アプリでテンプレートを管理 ドラッグ＆ドロップのテンプレートビルダーとLiquidの力を使って、素早くドキュメントテンプレートを作成したり、PDFに変換する必要のあるHTMLを送信するだけでよいのです。",
+      "tagline": "ドキュメント生成API"
+    },
+    {
+      "locale": "zh",
+      "description": "用我们简单的API把你的数据变成PDF或txt文件。在应用程序中管理你的模板。要么使用我们的拖放模板生成器和Liquid的力量来快速创建文档模板，要么简单地发送你需要转化为PDF的HTML。",
+      "tagline": "文件生成API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用我們簡單的API把你的數據變成PDF或txt文件。在應用程序中管理你的模板。要麼使用我們的拖放模板生成器和Liquid的力量來快速創建文檔模板，要麼簡單地發送你需要轉化爲PDF的HTML。",
+      "tagline": "文件生成API"
+    }
+  ]
 }
