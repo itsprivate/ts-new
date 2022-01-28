@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホワイトハウスは「国家安全保障の問題」として暗号を規制する大統領令を準備している。"
+    },
+    {
+      "locale": "zh",
+      "title": "白宫正准备采取行政措施，将加密货币作为 \"国家安全问题 \"进行监管"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "白宮正準備採取行政措施，將加密貨幣作爲 \"國家安全問題 \"進行監管"
+    }
+  ]
 }
