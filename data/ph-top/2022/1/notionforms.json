@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-29T08:01:00Z"
+  "original_createdAt": "2022-01-29T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://notionforms.io/ は、Notion のためのシンプルで美しいフォームビルダーです。既存のNotionのテーブルからフォームを作成し、Notionのページやウェブサイトにフォームを埋め込み、すべてのフォーム送信をNotionで直接受け取れます。https://uncovered-breeze-c02.notion.site/Product-Hunt-NotionForms-Demo-13523146e2e44326ba4e7fc9cd3e3e98!",
+      "tagline": "Notionのためのシンプルで美しいフォームビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "https://notionforms.io/ 是一个用于Notion的简单而漂亮的表格生成器。从你现有的Notion表格中创建一个表格，将你的表格嵌入你的Notion页面或你的网站，并在你的Notion中直接接收所有的表格提交。https://uncovered-breeze-c02.notion.site/Product-Hunt-NotionForms-Demo-13523146e2e44326ba4e7fc9cd3e3e98!",
+      "tagline": "简单而漂亮的Notion表单生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://notionforms.io/ 是一個用於Notion的簡單而漂亮的表格生成器。從你現有的Notion表格中創建一個表格，將你的表格嵌入你的Notion頁面或你的網站，並在你的Notion中直接接收所有的表格提交。https://uncovered-breeze-c02.notion.site/Product-Hunt-NotionForms-Demo-13523146e2e44326ba4e7fc9cd3e3e98!",
+      "tagline": "簡單而漂亮的Notion表單生成器"
+    }
+  ]
 }
