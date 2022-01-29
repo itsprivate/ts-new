@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1643402215,
-  "the_new_excerpt": "VT = Total World Stock ETF VTWAX = Total World Stock Index Fund BNDW = Total\nWorld Bond ETF ???? = Total World Bond Index Fund"
+  "the_new_excerpt": "VT = Total World Stock ETF VTWAX = Total World Stock Index Fund BNDW = Total\nWorld Bond ETF ???? = Total World Bond Index Fund",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "VT＝トータル・ワールド・ストックETF VTWAX＝トータル・ワールド・ストック・インデックス・ファンド BNDW＝トータル\n世界債券ETF ? = トータル・ワールド・ボンド・インデックス・ファンド",
+      "title": "なぜバンガード・トータル・ワールド・ボンド投資信託がないのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "VT = Total World Stock ETF VTWAX = Total World Stock Index Fund BNDW = Total\n世界债券ETF ???? = 世界总债券指数基金",
+      "title": "为什么没有Vanguard Total World Bond共同基金？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "VT = Total World Stock ETF VTWAX = Total World Stock Index Fund BNDW = Total\n世界債券ETF ???? = 世界總債券指數基金",
+      "title": "爲什麼沒有Vanguard Total World Bond共同基金？"
+    }
+  ]
 }
