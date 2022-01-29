@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-28T07:52:33Z",
   "image": "https://dev.to/social_previews/article/970510.png",
   "author": "Jane Ori",
-  "author_url": "https://dev.to/janeori"
+  "author_url": "https://dev.to/janeori",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これを論説する心の余裕はない。 ここでは最近の出来事を時系列で説明し...",
+      "title": "オープンソース開発者のための悲惨な訓話"
+    },
+    {
+      "locale": "zh",
+      "description": "我没有足够的情感带宽来编辑这个问题。 以下是最近发生的事件的时间线和...",
+      "title": "开放源码开发者的灾难性警示故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我沒有足夠的情感帶寬來編輯這個問題。 以下是最近發生的事件的時間線和...",
+      "title": "開放源碼開發者的災難性警示故事"
+    }
+  ]
 }

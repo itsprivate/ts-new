@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人たちのことはよく知らないが、これはなかなか健全な友情である。"
+    },
+    {
+      "locale": "zh",
+      "title": "对这些人不太了解，但这是相当健康的友谊。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對這些人不太瞭解，但這是相當健康的友誼。"
+    }
+  ]
 }
