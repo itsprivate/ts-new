@@ -138,5 +138,22 @@
     "retweet_count": 5493,
     "favorite_count": 23630,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ElectionWiz: すごい！ https://t.co/ulGAPX6p1z",
+      "retweeted_status_full_text": "すごい！ https://t.co/ulGAPX6p1z"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ElectionWiz: 令人惊讶！https://t.co/ulGAPX6p1z",
+      "retweeted_status_full_text": "令人惊叹！https://t.co/ulGAPX6p1z"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ElectionWiz: 令人驚訝！https://t.co/ulGAPX6p1z",
+      "retweeted_status_full_text": "令人驚歎！https://t.co/ulGAPX6p1z"
+    }
+  ]
 }
