@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フィットネスレベル：無限大"
+    },
+    {
+      "locale": "zh",
+      "title": "健身水平：无限大"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "健身水平：無限大"
+    }
+  ]
 }
