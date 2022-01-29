@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで聞いた中でWORSTな曲の歌詞は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你听过的最差的歌词是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽過的最差的歌詞是什麼？"
+    }
+  ]
 }
