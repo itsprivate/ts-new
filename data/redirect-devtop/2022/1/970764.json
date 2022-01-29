@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-28T12:34:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WTs8sgZI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/116vvj3la9djaj4dj9ih.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿では、いわゆる......の後にテストを書く理由について、私の2Centsを紹介しようと思います。",
+      "title": "なぜ事後検証は悪しき習慣なのか"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将尝试给你我的2分钱，为什么在你有一个所谓的测试后写测试。",
+      "title": "为什么事后测试是一种糟糕的做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將嘗試給你我的2分錢，爲什麼在你有一個所謂的測試後寫測試。",
+      "title": "爲什麼事後測試是一種糟糕的做法"
+    }
+  ]
 }
