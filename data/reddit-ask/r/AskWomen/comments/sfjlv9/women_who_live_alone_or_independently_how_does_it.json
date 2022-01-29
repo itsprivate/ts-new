@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一人暮らしや自立している女性、どんな気持ちですか？他の女性にもお勧めですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "独居或独立生活的女性，作为一个独立的女性，感觉如何？你会向其他女士推荐吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獨居或獨立生活的女性，作爲一個獨立的女性，感覺如何？你會向其他女士推薦嗎？"
+    }
+  ]
 }
