@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一般的でないお客様"
+    },
+    {
+      "locale": "zh",
+      "title": "一个不寻常的客户"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個不尋常的客戶"
+    }
+  ]
 }
