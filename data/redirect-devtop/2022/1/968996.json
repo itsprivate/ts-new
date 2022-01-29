@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-27T00:05:20Z",
   "image": "https://dev.to/social_previews/article/968996.png",
   "author": "Larissa Kalane ",
-  "author_url": "https://dev.to/kalanedev"
+  "author_url": "https://dev.to/kalanedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やあみんな、どうした？その方法で、主なLinuxのコマンドをいくつかお届けしました...。",
+      "title": "初心者のLinuxユーザーが知っておくべきコマンド "
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们，怎么了？我通过这种方式给你带来了一些主要的Linux命令...",
+      "title": "所有Linux初学者都必须知道的指令 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們，怎麼了？我通過這種方式給你帶來了一些主要的Linux命令...",
+      "title": "所有Linux初學者都必須知道的指令 "
+    }
+  ]
 }
