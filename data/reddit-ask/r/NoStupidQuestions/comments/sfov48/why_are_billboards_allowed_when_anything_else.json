@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "運転中に気を散らすようなものは禁止されているのに、なぜ広告塔は許されているのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么允许广告牌，而其他任何能在驾驶时分散注意力的东西都被禁止？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼允許廣告牌，而其他任何能在駕駛時分散注意力的東西都被禁止？"
+    }
+  ]
 }
