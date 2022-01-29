@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Pythonを用いた機械学習によるHiggsボゾン崩壊の分類"
+    },
+    {
+      "locale": "zh",
+      "title": "利用Python的机器学习对希格斯玻色子衰变进行分类"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "利用Python的機器學習對希格斯玻色子衰變進行分類"
+    }
+  ]
 }

@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなイメージを選んでコーヒーを飲める日本の喫茶店。"
+    },
+    {
+      "locale": "zh",
+      "title": "日本的一家咖啡店，允许你为你的咖啡挑选任何图像。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本的一家咖啡店，允許你爲你的咖啡挑選任何圖像。"
+    }
+  ]
 }
