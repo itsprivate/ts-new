@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-28T16:22:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rweBBwT1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2aokyoaic0b397trbc5q.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなFlask APIサーバーを搭載した美しいReactデザインを使用したオープンソースのシードプロジェクト。ソースはGithubで公開されています(MIT License)。",
+      "title": "Flask React Soft Dashboard - フリープロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "开源种子项目，使用美丽的React设计，由一个简单的Flask API服务器驱动。资源可在Github上获得（MIT许可）。",
+      "title": "Flask React Soft Dashboard - 免费项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源種子項目，使用美麗的React設計，由一個簡單的Flask API服務器驅動。資源可在Github上獲得（MIT許可）。",
+      "title": "Flask React Soft Dashboard - 免費項目"
+    }
+  ]
 }
