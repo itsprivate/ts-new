@@ -33,5 +33,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I just published Crunchbase API on RapidAPI. Check it out!\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4"
+  "the_new_excerpt": "I just published Crunchbase API on RapidAPI. Check it out!\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "RapidAPIでCrunchbase APIを公開しました。ぜひご覧ください。\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4",
+      "title": "Crunchbaseからデータを取得するAPIを作ったので、チェックしてみてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚在RapidAPI上发布了Crunchbase API。看看吧!\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4",
+      "title": "我刚刚建立了一个从Crunchbase获取数据的API，请查看并让我知道你的想法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛在RapidAPI上發佈了Crunchbase API。看看吧!\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4",
+      "title": "我剛剛建立了一個從Crunchbase獲取數據的API，請查看並讓我知道你的想法。"
+    }
+  ]
 }
