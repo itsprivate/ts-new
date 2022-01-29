@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英国は暗号化されている。もしあなたがそれに勝てないのなら、彼らに加わってください。"
+    },
+    {
+      "locale": "zh",
+      "title": "英国正在进行加密交易。如果你不能打败它，就加入他们吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "英國正在進行加密交易。如果你不能打敗它，就加入他們吧"
+    }
+  ]
 }
