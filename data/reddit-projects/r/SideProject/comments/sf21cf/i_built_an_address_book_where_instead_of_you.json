@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はアドレス帳を作り、あなたがすべての連絡先情報を管理する代わりに、各連絡先が自分の情報を管理するようにしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个地址簿，不是由你维护所有的联系人信息，而是由每个联系人维护他们自己的信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個地址簿，不是由你維護所有的聯繫人信息，而是由每個聯繫人維護他們自己的信息。"
+    }
+  ]
 }
