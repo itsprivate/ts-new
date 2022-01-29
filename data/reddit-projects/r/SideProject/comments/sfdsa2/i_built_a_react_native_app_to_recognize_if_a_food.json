@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シリコンバレーのJian-Yang氏（Jian氏でもなくYang氏でもない）に触発されて、食べ物がホットドッグか「ホットドッグではない」かを認識するreactネイティブアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个反应式原生应用来识别食物是热狗还是 \"非热狗\"，灵感来自硅谷的杨健先生（不是健先生，也不是杨先生）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個反應式原生應用來識別食物是熱狗還是 \"非熱狗\"，靈感來自硅谷的楊健先生（不是健先生，也不是楊先生）。"
+    }
+  ]
 }
