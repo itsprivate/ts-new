@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-29T12:37:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p9QDIjQJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/567uin6efipw6pi3khyy.png",
   "author": "Ayrton",
-  "author_url": "https://dev.to/simerca"
+  "author_url": "https://dev.to/simerca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このスポーツにハマってから数週間が経ちました。よくある小さな逸話をあげると、、、。",
+      "title": "スポーツが私をより良い開発者にした"
+    },
+    {
+      "locale": "zh",
+      "description": "自从我进入这项运动以来，已经有几个星期了，我给你的小轶事，很顺利，...",
+      "title": "体育如何使我成为更好的开发者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從我進入這項運動以來，已經有幾個星期了，我給你的小軼事，很順利，...",
+      "title": "體育如何使我成爲更好的開發者"
+    }
+  ]
 }
