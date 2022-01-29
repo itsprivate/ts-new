@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Two problems with QR codes despite their convenience: 1. You can't see the URL.\n2. Even if you could... how would you know if it is going to take you to a\nmalicious site?\n[https://preview.redd.it/qv140zysjle81.png?width=1280&format=png&auto=webp&s=88110d521691a4f0bb5cb934e67b370fb822c10f]\n\nGiven…"
+  "the_new_excerpt": "Two problems with QR codes despite their convenience: 1. You can't see the URL.\n2. Even if you could... how would you know if it is going to take you to a\nmalicious site?\n[https://preview.redd.it/qv140zysjle81.png?width=1280&format=png&auto=webp&s=88110d521691a4f0bb5cb934e67b370fb822c10f]\n\nGiven…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "便利なQRコードですが、2つの問題点があります。1. URLを見ることができない。\n2. 2.仮に表示できたとしても、そのQRコードでアクセスしようとした先が\n悪意のあるサイト？\n[https://preview.redd.it/qv140zysjle81.png?width=1280&format=png&auto=webp&s=88110d521691a4f0bb5cb934e67b370fb822c10f]\n\n与えられた...",
+      "title": "RevealQR - マルウェアスキャンを統合した新しいタイプのQRデコーダを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "尽管二维码很方便，但有两个问题。1. 你无法看到URL。\n2. 即使你能......你怎么知道它是否会把你带到一个\n恶意网站？\n[https://preview.redd.it/qv140zysjle81.png?width=1280&format=png&auto=webp&s=88110d521691a4f0bb5cb934e67b370fb822c10f]\n\n鉴于...",
+      "title": "我做了RevealQR--一种带有集成恶意软件扫描的新型QR解码器"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "儘管二維碼很方便，但有兩個問題。1. 你無法看到URL。\n2. 即使你能......你怎麼知道它是否會把你帶到一個\n惡意網站？\n[https://preview.redd.it/qv140zysjle81.png?width=1280&format=png&auto=webp&s=88110d521691a4f0bb5cb934e67b370fb822c10f]\n\n鑑於...",
+      "title": "我做了RevealQR--一種帶有集成惡意軟件掃描的新型QR解碼器"
+    }
+  ]
 }
