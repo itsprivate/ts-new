@@ -52,5 +52,22 @@
     },
     "retweet_count": 111112,
     "favorite_count": 488105
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: もしあなたが人々を十分に怖がらせたら、彼らは自由の撤廃を要求するでしょう。これは専制政治への道です。",
+      "retweeted_status_full_text": "人々を十分に怖がらせれば、彼らは自由の撤廃を要求するようになる。これが専制政治への道です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: 如果你足够吓唬人，他们会要求取消自由。这就是通往暴政的道路。",
+      "retweeted_status_full_text": "如果你把人们吓得够呛，他们就会要求取消自由。这就是通往暴政的道路。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: 如果你足夠嚇唬人，他們會要求取消自由。這就是通往暴政的道路。",
+      "retweeted_status_full_text": "如果你把人們嚇得夠嗆，他們就會要求取消自由。這就是通往暴政的道路。"
+    }
+  ]
 }

@@ -150,5 +150,22 @@
     "retweet_count": 4288,
     "favorite_count": 64756,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @stoolpresidente: ふざけて今日は29枚のビットコインを購入 #ビットコイン https://t.co/DxSwMESqF8",
+      "retweeted_status_full_text": "ふざけて今日は29ビットコインを購入 #ビットコイン https://t.co/DxSwMESqF8"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT@Stoolpresidente: 操之过急，今天买了29个比特币 #比特币 https://t.co/DxSwMESqF8",
+      "retweeted_status_full_text": "瞎折腾，今天买了29个比特币#比特币 https://t.co/DxSwMESqF8"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@Stoolpresidente: 操之過急，今天買了29個比特幣 #比特幣 https://t.co/DxSwMESqF8",
+      "retweeted_status_full_text": "瞎折騰，今天買了29個比特幣#比特幣 https://t.co/DxSwMESqF8"
+    }
+  ]
 }
