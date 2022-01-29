@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-27T10:42:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V9hvB3UH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3xqdpwfglh34qsjpz369.png",
   "author": "Arsh Sharma",
-  "author_url": "https://dev.to/rinkiyakedad"
+  "author_url": "https://dev.to/rinkiyakedad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetes \"について語るDevOps関係者の声に耳を傾けながら、まだ...",
+      "title": "開発者としてのKubernetes入門"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否厌倦了听DevOps中的每个人谈论 \"Kubernetes\"，而你却还在...",
+      "title": "作为开发者开始使用Kubernetes"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否厭倦了聽DevOps中的每個人談論 \"Kubernetes\"，而你卻還在...",
+      "title": "作爲開發者開始使用Kubernetes"
+    }
+  ]
 }
