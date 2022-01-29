@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなお笑い芸人は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的喜剧演员是谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的喜劇演員是誰？"
+    }
+  ]
 }
