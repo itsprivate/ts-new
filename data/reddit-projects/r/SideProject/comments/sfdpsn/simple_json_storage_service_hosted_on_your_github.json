@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GitHubのGistにホストされたシンプルなJSONストレージサービス。ダッシュボードやAPIからCURDのフルオペレーションが可能。NextJsリンクでの初めてのプロジェクト[JSONGist](https://JSONGist.io)"
+    },
+    {
+      "locale": "zh",
+      "title": "简单的JSON存储服务托管在你的GitHub Gist上，通过仪表板或API进行完整的CURD操作。我在NextJs的第一个项目链接[JSONGist](https://JSONGist.io)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡單的JSON存儲服務託管在你的GitHub Gist上，通過儀表板或API進行完整的CURD操作。我在NextJs的第一個項目鏈接[JSONGist](https://JSONGist.io)"
+    }
+  ]
 }
