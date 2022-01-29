@@ -1,0 +1,47 @@
+{
+  "author": "RevealQR",
+  "original_created_utc": 1643449626,
+  "title": "I made RevealQR - A new type of QR decoder with integrated malware scanning",
+  "created_utc": 1643466132,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/qv140zysjle81.png?width=1280&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=88110d521691a4f0bb5cb934e67b370fb822c10f\"&gt;Two problems with QR codes despite their convenience: 1. You can&amp;#39;t see the URL. 2. Even if you could... how would you know if it is going to take you to a malicious site? &lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Given the increasingly ubiquitous use of QR codes for almost everything. I felt that there was not enough done to ensure security for users who access them.&lt;/p&gt;\n\n&lt;p&gt;In most cases, people are just scanning and accessing the QR codes without any verification or validation. Which is a pretty scary thought from a security perspective.&lt;/p&gt;\n\n&lt;p&gt;I felt that there has to be a better way to approach this, hence I built RevealQR.app, it&amp;#39;s a web app that decodes QR codes while automatically sending them to a top tier malware analysis platform (VirusTotal) for scanning.&lt;/p&gt;\n\n&lt;p&gt;Analysis results are returned on the spot, so users can make an informed choice BEFORE accessing the URL in the QR code. &lt;/p&gt;\n\n&lt;p&gt;You can access it at &lt;a href=\"https://revealqr.app\"&gt;https://revealqr.app&lt;/a&gt;. oh... and it&amp;#39;s free.&lt;/p&gt;\n\n&lt;p&gt;Excited to share with the community at &lt;a href=\"/r/SideProject\"&gt;/r/SideProject&lt;/a&gt; and would love to hear your thoughts/feedback!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/V-hiaFE1dZ3jZs_b3CwC_UgaA70tCF6i_bP1NmzNsSM.jpg?auto=webp&amp;s=95d0c3ed12e569b3e2c224dbeab40880bd6378cf",
+          "width": 400,
+          "height": 400
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/V-hiaFE1dZ3jZs_b3CwC_UgaA70tCF6i_bP1NmzNsSM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=392c0086f30990a1bde4d598cabe06722cb4bd21",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/V-hiaFE1dZ3jZs_b3CwC_UgaA70tCF6i_bP1NmzNsSM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ce71b0782d7e4ece0481f06da5f30ab79929d964",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/V-hiaFE1dZ3jZs_b3CwC_UgaA70tCF6i_bP1NmzNsSM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=14a65ad628b7a52fe44c28ffa80ac9a92ad7d8e3",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "3SJPrKHkpitiu9zOXAhTHIhGeE1J7O6oJJKZjcT6RL4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/sfetce/i_made_revealqr_a_new_type_of_qr_decoder_with/",
+  "subreddit": "SideProject",
+  "id": "sfetce",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Two problems with QR codes despite their convenience: 1. You can't see the URL.\n2. Even if you could... how would you know if it is going to take you to a\nmalicious site?\n[https://preview.redd.it/qv140zysjle81.png?width=1280&format=png&auto=webp&s=88110d521691a4f0bb5cb934e67b370fb822c10f]\n\nGiven…"
+}
