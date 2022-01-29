@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello everyone, I have been working on this side project for about 2 months now.\nWhat it does is fetch data from marvel API and display it to the user. I would\nlike feedback on this I can improve.\n\nGithub repo: https://github.com/ikassim9/Marvel-Comics\n\nFuture things I want to do with this project…"
+  "the_new_excerpt": "Hello everyone, I have been working on this side project for about 2 months now.\nWhat it does is fetch data from marvel API and display it to the user. I would\nlike feedback on this I can improve.\n\nGithub repo: https://github.com/ikassim9/Marvel-Comics\n\nFuture things I want to do with this project…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さんこんにちは。私は2ヶ月ほど前からこのサイドプロジェクトに取り組んでいます。\nmarvel APIからデータを取得し、ユーザーに表示するものです。私は\nを使用することができます。\n\nGithub リポジトリ: https://github.com/ikassim9/Marvel-Comics\n\n今後、このプロジェクトでやりたいことは...",
+      "title": "MarvelのAPIを取得するアプリケーションを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好，我已经在这个副业上工作了大约2个月了。\n它的作用是从Marvel API中获取数据并显示给用户。我想\n希望得到反馈，以便改进。\n\nGithub repo: https://github.com/ikassim9/Marvel-Comics\n\n未来我想用这个项目做的事情...",
+      "title": "我做了一个获取Marvel API的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好，我已經在這個副業上工作了大約2個月了。\n它的作用是從Marvel API中獲取數據並顯示給用戶。我想\n希望得到反饋，以便改進。\n\nGithub repo: https://github.com/ikassim9/Marvel-Comics\n\n未來我想用這個項目做的事情...",
+      "title": "我做了一個獲取Marvel API的應用程序"
+    }
+  ]
 }
