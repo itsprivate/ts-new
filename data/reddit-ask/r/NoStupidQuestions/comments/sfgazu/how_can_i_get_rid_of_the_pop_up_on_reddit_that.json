@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditで、投稿に何人が参加しているかを示すポップアップを消すにはどうしたらよいですか？モバイルユーザーの場合、コメント欄の下をブロックしてしまいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我怎样才能摆脱Reddit上的弹出窗口，告诉我有多少人在看一个帖子？它阻挡了我的评论的底部（手机用户）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我怎樣才能擺脫Reddit上的彈出窗口，告訴我有多少人在看一個帖子？它阻擋了我的評論的底部（手機用戶）。"
+    }
+  ]
 }
