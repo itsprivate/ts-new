@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クソ野郎！"
+    },
+    {
+      "locale": "zh",
+      "title": "该死的儿子！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該死的兒子！"
+    }
+  ]
 }
