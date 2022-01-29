@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さん、こんにちは。私は猫の動画が大好きなのですが、ソーシャルアプリでデータを共有するのが嫌です。というわけで、今回は猫動画に特化したアプリ「OnlyCats」をご紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "大家好! 我喜欢猫咪视频，但我讨厌与社交软件分享我的数据。这是我如何解决的（仅适用于安卓用户） - OnlyCats : 只有猫咪视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大家好! 我喜歡貓咪視頻，但我討厭與社交軟件分享我的數據。這是我如何解決的（僅適用於安卓用戶） - OnlyCats : 只有貓咪視頻"
+    }
+  ]
 }
