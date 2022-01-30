@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-23T17:31:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NHgmfpBO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qupt7zwtus31ojk35jls.png",
   "author": "Andrew Jones",
-  "author_url": "https://dev.to/ajones_codes"
+  "author_url": "https://dev.to/ajones_codes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、「Envious」というSaaS（Software-as-a-Service）プロジェクトに取り組んでおり、これまでに得た情報を共有しています。",
+      "title": "Next.jsのWebサイトにユーザーアカウントと有料会員を追加する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我正在做一个软件即服务的项目，叫做Envious，我一直在分享我的...",
+      "title": "如何在你的Next.js网站上添加用户账户和付费订阅的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我正在做一個軟件即服務的項目，叫做Envious，我一直在分享我的...",
+      "title": "如何在你的Next.js網站上添加用戶賬戶和付費訂閱的內容"
+    }
+  ]
 }
