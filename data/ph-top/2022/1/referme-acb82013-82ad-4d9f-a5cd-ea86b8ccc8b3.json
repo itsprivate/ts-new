@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-30T08:00:00Z"
+  "original_createdAt": "2022-01-30T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "応募する前に、さまざまな企業の担当者に履歴書を提示し、意見を聞く。",
+      "tagline": "憧れの職業に推薦してもらう"
+    },
+    {
+      "locale": "zh",
+      "description": "在申请工作职位之前，向不同公司的代表展示你的简历，以获得他们的反馈。",
+      "tagline": "为你的梦想工作获得推荐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在申請工作職位之前，向不同公司的代表展示你的簡歷，以獲得他們的反饋。",
+      "tagline": "爲你的夢想工作獲得推薦"
+    }
+  ]
 }

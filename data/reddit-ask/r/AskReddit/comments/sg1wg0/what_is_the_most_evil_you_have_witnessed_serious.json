@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが目撃した最も邪悪なものは何ですか？[真剣]"
+    },
+    {
+      "locale": "zh",
+      "title": "你见过的最邪恶的事情是什么？[严重]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你見過的最邪惡的事情是什麼？[嚴重]"
+    }
+  ]
 }
