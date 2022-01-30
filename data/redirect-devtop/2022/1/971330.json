@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-28T19:29:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3zLTFe3U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2i5m7ybnmukgrm7hxfb3.png",
   "author": "Kishan Sheth",
-  "author_url": "https://dev.to/koolkishan"
+  "author_url": "https://dev.to/koolkishan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "動画の説明文にあるリンクからテンプレートを入手することができます。          ...",
+      "title": "React、Styled Components、Framer Motionを用いたレスポンシブな個人ポートフォリオサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以从视频描述中的链接中获得模板。          ...",
+      "title": "使用React、风格化组件和Framer Motion的响应式个人组合网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以從視頻描述中的鏈接中獲得模板。          ...",
+      "title": "使用React、風格化組件和Framer Motion的響應式個人組合網站"
+    }
+  ]
 }
