@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「チームのために1つ取らなければならない」エピソードを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么 \"必须为团队做一件事 \"的故事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼 \"必須爲團隊做一件事 \"的故事？"
+    }
+  ]
 }
