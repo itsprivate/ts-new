@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-19T14:55:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NgMRbzz3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q56odc8v5ne9x3i2dcqb.png",
   "author": "martin krause",
-  "author_url": "https://dev.to/martinkr"
+  "author_url": "https://dev.to/martinkr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "const reverseString = str =&gt; [...str].reverse().join(\"\"); フルスクリーンモードに入る ...",
+      "title": "1行のコード 文字列を反転させる方法"
+    },
+    {
+      "locale": "zh",
+      "description": "const reverseString = str =&gt; [...str].reverse().join(\"\"); 进入全屏模式 ...",
+      "title": "1行代码。如何逆转一个字符串"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "const reverseString = str =&gt; [...str].reverse().join(\"\"); 進入全屏模式 ...",
+      "title": "1行代碼。如何逆轉一個字符串"
+    }
+  ]
 }
