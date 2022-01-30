@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was just questioning because I’ve seen a few people living in the UK reference\nit now, but no one living in other countries. Does it exist elsewhere?"
+  "the_new_excerpt": "I was just questioning because I’ve seen a few people living in the UK reference\nit now, but no one living in other countries. Does it exist elsewhere?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "英国に住んでいる人が何人か参照しているのを見たので、ちょっと疑問に思っただけです。\n他の国に住んでいる人はいない。他の国には存在するのでしょうか？",
+      "title": "イギリス人以外の人は、『ホット・ファズ』という傑作を知っているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我只是想问一下，因为我看到有几个住在英国的人提到了\n它现在，但没有人住在其他国家。它在其他地方存在吗？",
+      "title": "非英国人知道《热血沸腾》这部杰作吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我只是想問一下，因爲我看到有幾個住在英國的人提到了\n它現在，但沒有人住在其他國家。它在其他地方存在嗎？",
+      "title": "非英國人知道《熱血沸騰》這部傑作嗎？"
+    }
+  ]
 }
