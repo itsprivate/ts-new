@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Scenario:\n\nLets say you have a friend, call him buy-high Chuck, because he has a nag for\nbuying crypto at the highest price every month. Say he invested 500 dollars\nsplit between bitcoin and ethereum every month since 2016. What would be the end\nresult?\n\nMethod:\n\nI used coinbase api so data was…"
+  "the_new_excerpt": "Scenario:\n\nLets say you have a friend, call him buy-high Chuck, because he has a nag for\nbuying crypto at the highest price every month. Say he invested 500 dollars\nsplit between bitcoin and ethereum every month since 2016. What would be the end\nresult?\n\nMethod:\n\nI used coinbase api so data was…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "シナリオ\n\nあなたの友人にバイハイ・チャックと呼ばれる人物がいるとします。\n毎月、暗号を最高値で購入する。彼が500ドルを投資したとします。\n2016年から毎月ビットコインとイーサリアムに分割しています。最終的にはどうなるのでしょうか？\n結果は？\n\n方法です。\n\ncoinbaseのapiを使用したので、データは...",
+      "title": "2016年以降の最高値で毎月投資している人がいたら、どうなるか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "情景。\n\n假设你有一个朋友，叫他买高价的查克，因为他有个唠叨的毛病，喜欢买东西。\n因为他每个月都会在最高价位购买加密货币。假设他投资了500美元\n自2016年以来，他每月在比特币和以太坊之间进行投资。最终的结果会是什么？\n结果是什么？\n\n方法。\n\n我使用coinbase api，所以数据是...",
+      "title": "以下是如果有人每月以2016年以来的最高价格进行投资会发生什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "情景。\n\n假設你有一個朋友，叫他買高價的查克，因爲他有個嘮叨的毛病，喜歡買東西。\n因爲他每個月都會在最高價位購買加密貨幣。假設他投資了500美元\n自2016年以來，他每月在比特幣和以太坊之間進行投資。最終的結果會是什麼？\n結果是什麼？\n\n方法。\n\n我使用coinbase api，所以數據是...",
+      "title": "以下是如果有人每月以2016年以來的最高價格進行投資會發生什麼。"
+    }
+  ]
 }

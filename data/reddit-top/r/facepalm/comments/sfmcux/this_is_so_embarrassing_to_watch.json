@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見ているこっちが恥ずかしくなる"
+    },
+    {
+      "locale": "zh",
+      "title": "这让人看了很尴尬"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這讓人看了很尷尬"
+    }
+  ]
 }
