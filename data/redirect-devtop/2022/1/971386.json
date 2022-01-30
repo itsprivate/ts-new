@@ -46,5 +46,22 @@
   "original_created_at": "2022-01-28T22:11:29Z",
   "image": "https://dev.to/social_previews/article/971386.png",
   "author": "Adam Gordon Bell",
-  "author_url": "https://dev.to/adamgordonbell"
+  "author_url": "https://dev.to/adamgordonbell",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "法律は、裁判官によって解釈されるコードです。私の妻は弁護士ですが、このように言っています。この見解では...",
+      "title": "Web3は契約法に取って代わらない？"
+    },
+    {
+      "locale": "zh",
+      "description": "法律是由法官解释的代码。我的妻子是一名律师，她这样告诉我。在这种观点下，...",
+      "title": "Web3不会取代合同法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "法律是由法官解釋的代碼。我的妻子是一名律師，她這樣告訴我。在這種觀點下，...",
+      "title": "Web3不會取代合同法？"
+    }
+  ]
 }
