@@ -14,5 +14,19 @@
   "tags": [
     "Fox News"
   ],
-  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/North-Korea-Flag.jpeg"
+  "image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/North-Korea-Flag.jpeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "北朝鮮が東海岸にミサイルを発射"
+    },
+    {
+      "locale": "zh",
+      "title": "朝鲜向东海岸外海发射导弹"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "朝鮮向東海岸外海發射導彈"
+    }
+  ]
 }
