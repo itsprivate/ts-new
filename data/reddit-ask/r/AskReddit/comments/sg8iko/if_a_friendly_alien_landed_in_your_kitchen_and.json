@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの台所に友好的な宇宙人がやってきて、何か食べたいと言ったら、何をあげますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果一个友好的外星人降落在你的厨房，想要吃点东西，你会给他们什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果一個友好的外星人降落在你的廚房，想要喫點東西，你會給他們什麼，爲什麼？"
+    }
+  ]
 }
