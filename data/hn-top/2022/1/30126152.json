@@ -12,5 +12,19 @@
   ],
   "objectID": "30126152",
   "original_created_at": "2022-01-29T13:36:48.000Z",
-  "image": "https://img.shields.io/pypi/v/procrastinate?logo=pypi&logoColor=white"
+  "image": "https://img.shields.io/pypi/v/procrastinate?logo=pypi&logoColor=white",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "先延ばしにする。PostgreSQLベースのPython用タスクキュー"
+    },
+    {
+      "locale": "zh",
+      "title": "拖延时间。基于PostgreSQL的Python任务队列"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拖延時間。基於PostgreSQL的Python任務隊列"
+    }
+  ]
 }

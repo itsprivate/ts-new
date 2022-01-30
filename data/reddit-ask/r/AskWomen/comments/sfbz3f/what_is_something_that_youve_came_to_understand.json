@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年を重ねるごとに分かってきたこと、10代のころには見えなかったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么事情是你随着年龄的增长而逐渐了解的，而你在青少年时期没有看到的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼事情是你隨着年齡的增長而逐漸瞭解的，而你在青少年時期沒有看到的？"
+    }
+  ]
 }
