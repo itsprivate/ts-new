@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bitcoinを政治的に利用しないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "请不要将比特币政治化，这只会伤害到采用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請不要將比特幣政治化，這隻會傷害到採用。"
+    }
+  ]
 }
