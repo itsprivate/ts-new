@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "株価、暗号、通貨のチャートをターミナルで生成するコマンドラインツールを書いてみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我写了一个命令行工具，用于在终端生成股票、加密货币和货币图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我寫了一個命令行工具，用於在終端生成股票、加密貨幣和貨幣圖表"
+    }
+  ]
 }
