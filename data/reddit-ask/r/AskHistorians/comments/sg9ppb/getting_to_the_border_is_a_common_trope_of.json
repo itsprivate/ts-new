@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As a follow-up, is that a uniquely American trope or did it exist in other\ncountries too?"
+  "the_new_excerpt": "As a follow-up, is that a uniquely American trope or did it exist in other\ncountries too?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それはアメリカ独自の表現なのか、それとも他の国にもあったのか。\n海外でも？",
+      "title": "\"国境を越える \"というのは、アメリカの強盗映画ではよくあるパターンです。メキシコとの国境を越えること、あるいは一般に出国することが、実際に犯罪から逃れる方法を提供していた時代があったのだろうか。もしそうなら、いつからそうではなくなったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "作为后续，这是美国人独有的特例，还是在其他国家也存在？\n其他国家也存在吗？",
+      "title": "\"到达边境 \"是美国抢劫电影的一个常见套路。曾几何时，越过墨西哥边境，或一般地离开该国，确实提供了一种逃脱犯罪的方式？如果有，那是什么时候停止的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "作爲後續，這是美國人獨有的特例，還是在其他國家也存在？\n其他國家也存在嗎？",
+      "title": "\"到達邊境 \"是美國搶劫電影的一個常見套路。曾幾何時，越過墨西哥邊境，或一般地離開該國，確實提供了一種逃脫犯罪的方式？如果有，那是什麼時候停止的？"
+    }
+  ]
 }
