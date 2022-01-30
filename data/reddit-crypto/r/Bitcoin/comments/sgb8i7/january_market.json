@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1月市場"
+    },
+    {
+      "locale": "zh",
+      "title": "一月市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一月市場"
+    }
+  ]
 }
