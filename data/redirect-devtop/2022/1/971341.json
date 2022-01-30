@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-28T19:39:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0DFyGlAR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/skjqazbhrygi77u1mro2.png",
   "author": "Angel Daniel Munoz Gonzalez",
-  "author_url": "https://dev.to/tunaxor"
+  "author_url": "https://dev.to/tunaxor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "F#とWebAssembly F#とWeb開発について語るとき、私はFableについて語ることが多いのですが...。",
+      "title": "F#とWebAssembly"
+    },
+    {
+      "locale": "zh",
+      "description": "F#和WebAssembly 当我谈及F#和Web开发时，我倾向于谈论Fable...",
+      "title": "F#和WebAssembly"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "F#和WebAssembly 當我談及F#和Web開發時，我傾向於談論Fable...",
+      "title": "F#和WebAssembly"
+    }
+  ]
 }
