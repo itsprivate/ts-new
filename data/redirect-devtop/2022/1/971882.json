@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-29T13:36:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bu0HijjE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/etan3zbvdt38whzgt5ji.jpg",
   "author": "Deckstar",
-  "author_url": "https://dev.to/deckstar"
+  "author_url": "https://dev.to/deckstar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptは開発を容易にするものですが、私が一番最初に開発したときのことを鮮明に覚えています...。",
+      "title": "初心者のためのTypeScript＆VS Codeの裏ワザ。スタートアップ時に知っておきたかった10のこと"
+    },
+    {
+      "locale": "zh",
+      "description": "TypeScript应该让你的开发生活更轻松，但我清楚地记得我最早的...",
+      "title": "TypeScript & VS Code初学者的技巧。我希望刚开始时知道的10件事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TypeScript應該讓你的開發生活更輕鬆，但我清楚地記得我最早的...",
+      "title": "TypeScript & VS Code初學者的技巧。我希望剛開始時知道的10件事"
+    }
+  ]
 }
