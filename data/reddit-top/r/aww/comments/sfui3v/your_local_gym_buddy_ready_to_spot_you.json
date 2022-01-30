@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのジム仲間にスポットライトを当てます"
+    },
+    {
+      "locale": "zh",
+      "title": "你的本地健身伙伴准备好了，可以看到你的身影!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的本地健身夥伴準備好了，可以看到你的身影!"
+    }
+  ]
 }
