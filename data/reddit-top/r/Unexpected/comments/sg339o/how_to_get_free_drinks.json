@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フリードリンクの入手方法"
+    },
+    {
+      "locale": "zh",
+      "title": "如何获得免费饮料"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何獲得免費飲料"
+    }
+  ]
 }
