@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのLinkedIn/ポートフォリオ/その他に、無料でユニークなVanity URLを作成することができます。Go-Hire.Me/あなたの名前"
+    },
+    {
+      "locale": "zh",
+      "title": "为你的LinkedIn/portfolio/等创建一个免费、独特的Vanity URL。Go-Hire.Me/YourName"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲你的LinkedIn/portfolio/等創建一個免費、獨特的Vanity URL。Go-Hire.Me/YourName"
+    }
+  ]
 }
