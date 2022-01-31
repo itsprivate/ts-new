@@ -1,0 +1,159 @@
+{
+  "created_at": "Mon Jan 31 16:37:14 +0000 2022",
+  "id_str": "1488161115318149131",
+  "full_text": "RT @Bitcoin: Why @100trillionUSD? https://t.co/lbjfd2Wse5",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Bitcoin",
+        "name": "Bitcoin",
+        "id": 357312062,
+        "id_str": "357312062",
+        "indices": [
+          3,
+          11
+        ]
+      },
+      {
+        "screen_name": "100trillionUSD",
+        "name": "PlanB",
+        "id": 918804624303382500,
+        "id_str": "918804624303382528",
+        "indices": [
+          17,
+          32
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1487950705734262800,
+        "id_str": "1487950705734262786",
+        "indices": [
+          34,
+          57
+        ],
+        "media_url": "http://pbs.twimg.com/media/FKZDSIqVIAIcFa9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FKZDSIqVIAIcFa9.jpg",
+        "url": "https://t.co/lbjfd2Wse5",
+        "display_url": "pic.twitter.com/lbjfd2Wse5",
+        "expanded_url": "https://twitter.com/Bitcoin/status/1487950745265590275/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 446,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1132,
+            "h": 742,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1132,
+            "h": 742,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1487950745265590300,
+        "source_status_id_str": "1487950745265590275",
+        "source_user_id": 357312062,
+        "source_user_id_str": "357312062"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 162,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jan 31 14:43:53 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Mon Jan 31 00:47:57 +0000 2022",
+    "id_str": "1487950745265590275",
+    "full_text": "Why @100trillionUSD? https://t.co/lbjfd2Wse5",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "100trillionUSD",
+          "name": "PlanB",
+          "id": 918804624303382500,
+          "id_str": "918804624303382528",
+          "indices": [
+            4,
+            19
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1487950705734262800,
+          "id_str": "1487950705734262786",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKZDSIqVIAIcFa9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKZDSIqVIAIcFa9.jpg",
+          "url": "https://t.co/lbjfd2Wse5",
+          "display_url": "pic.twitter.com/lbjfd2Wse5",
+          "expanded_url": "https://twitter.com/Bitcoin/status/1487950745265590275/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 446,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1132,
+              "h": 742,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1132,
+              "h": 742,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Bitcoin",
+      "screen_name": "Bitcoin",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/421692600446619648/dWAbC2wg_normal.jpeg"
+    },
+    "retweet_count": 162,
+    "favorite_count": 1199,
+    "possibly_sensitive": false
+  }
+}
