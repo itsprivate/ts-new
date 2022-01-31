@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "dont ask"
+  "the_new_excerpt": "dont ask",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "聞き捨てならない",
+      "title": "フォークをトイレに流しちまったんだケツの穴が詰まっちまったんだどうすりゃいいんだ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不要问",
+      "title": "不小心把他妈的叉子冲进了他妈的马桶，现在屁股洞被堵住了，我到底该怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不要問",
+      "title": "不小心把他媽的叉子衝進了他媽的馬桶，現在屁股洞被堵住了，我到底該怎麼辦？"
+    }
+  ]
 }
