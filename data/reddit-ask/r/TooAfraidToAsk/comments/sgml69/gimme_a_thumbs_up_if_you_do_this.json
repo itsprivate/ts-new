@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Do you cry when you get overwhelmed or upset/mad?"
+  "the_new_excerpt": "Do you cry when you get overwhelmed or upset/mad?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "圧倒されたとき、動揺したとき、狂ったときに泣きますか？",
+      "title": "もし、これをやったら、親指を立ててください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "当你不知所措或心烦意乱/疯狂时，你会哭吗？",
+      "title": "如果你这样做，给我一个大拇指吧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "當你不知所措或心煩意亂/瘋狂時，你會哭嗎？",
+      "title": "如果你這樣做，給我一個大拇指吧？"
+    }
+  ]
 }
