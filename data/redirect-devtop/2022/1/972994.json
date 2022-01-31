@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-30T18:55:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cEa4WPeG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmonw36cw35566wn1m22.png",
   "author": "Fayaz Ahmed",
-  "author_url": "https://dev.to/fayaz"
+  "author_url": "https://dev.to/fayaz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "だから、私はいつも、すべての記事に画像があり、速いRSSリーダーが欲しかったのです、それ故に...。",
+      "title": "超高速の完全静的RSSリーダーを作ってみた "
+    },
+    {
+      "locale": "zh",
+      "description": "因此，我一直想要一个rss阅读器，它有所有文章的图片，我希望它能快速，因此...",
+      "title": "我做了一个速度极快、完全静态的rss阅读器 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，我一直想要一個rss閱讀器，它有所有文章的圖片，我希望它能快速，因此...",
+      "title": "我做了一個速度極快、完全靜態的rss閱讀器 "
+    }
+  ]
 }
