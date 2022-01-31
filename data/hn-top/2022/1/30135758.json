@@ -12,5 +12,19 @@
   ],
   "objectID": "30135758",
   "original_created_at": "2022-01-30T10:51:45.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メモリが未初期化。安全でないRustは難しすぎる"
+    },
+    {
+      "locale": "zh",
+      "title": "未初始化的内存。不安全的Rust太难了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "未初始化的內存。不安全的Rust太難了"
+    }
+  ]
 }

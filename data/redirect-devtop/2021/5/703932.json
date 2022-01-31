@@ -39,5 +39,22 @@
   "original_created_at": "2021-05-20T15:02:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uuCYeLkz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mxgjkl8iln3q09mky7v.jpg",
   "author": "Manu",
-  "author_url": "https://dev.to/manuthecoder"
+  "author_url": "https://dev.to/manuthecoder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブートストラップをご存じない方のために説明すると、ブートストラップとはCSSフレームワークのことです。  ここでは、なぜあなたが...",
+      "title": "Bootstrapは使わないでください"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你不知道什么是bootstrap，bootstrap是一个CSS框架。  下面是为什么你不应该...",
+      "title": "请不要使用Bootstrap!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你不知道什麼是bootstrap，bootstrap是一個CSS框架。  下面是爲什麼你不應該...",
+      "title": "請不要使用Bootstrap!"
+    }
+  ]
 }
