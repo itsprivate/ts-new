@@ -182,5 +182,19 @@
   },
   "is_video": true,
   "original_created_utc": 1643567574,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ターミナルでstonkチャートを生成するためのコマンドラインツールを書きました"
+    },
+    {
+      "locale": "zh",
+      "title": "我写了一个命令行工具，用于在终端生成stonk图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我寫了一個命令行工具，用於在終端生成stonk圖表"
+    }
+  ]
 }
