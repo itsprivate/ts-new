@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-31T09:00:00Z"
+  "original_createdAt": "2022-01-31T09:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouTubeビデオの次のアイデアに困っていませんか？毎月のトップトレンドYouTubeビデオのデータでトレーニングされたGPT3モデルで、バイラルビデオのアイデアを生成します。",
+      "tagline": "YouTubeのトップトレンド動画データを用いて学習させたGPT3モデル"
+    },
+    {
+      "locale": "zh",
+      "description": "被你的YouTube视频的下一个想法所困扰？用我们的GPT3模型生成病毒视频创意，该模型是用每个月最热门的YouTube视频数据训练出来的。",
+      "tagline": "用顶级趋势的YouTube视频数据训练的GPT3模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "被你的YouTube視頻的下一個想法所困擾？用我們的GPT3模型生成病毒視頻創意，該模型是用每個月最熱門的YouTube視頻數據訓練出來的。",
+      "tagline": "用頂級趨勢的YouTube視頻數據訓練的GPT3模型"
+    }
+  ]
 }
