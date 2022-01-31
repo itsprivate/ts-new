@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本当の質問をするブロウ"
+    },
+    {
+      "locale": "zh",
+      "title": "兄弟问真正的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兄弟問真正的問題"
+    }
+  ]
 }
