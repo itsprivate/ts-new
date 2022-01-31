@@ -155,5 +155,22 @@
     "retweet_count": 162,
     "favorite_count": 1199,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Bitcoin: なぜ@100兆USDなのか https://t.co/lbjfd2Wse5",
+      "retweeted_status_full_text": "なぜ@100trillionUSDなのか https://t.co/lbjfd2Wse5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @比特币：为什么@100万亿美元？https://t.co/lbjfd2Wse5",
+      "retweeted_status_full_text": "为什么@100trillionUSD？https://t.co/lbjfd2Wse5"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @比特幣：爲什麼@100萬億美元？https://t.co/lbjfd2Wse5",
+      "retweeted_status_full_text": "爲什麼@100trillionUSD？https://t.co/lbjfd2Wse5"
+    }
+  ]
 }
