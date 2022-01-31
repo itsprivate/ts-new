@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン半減期マップ（スタートから1サトシまで"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币半价图，从开始到1个中特币为止"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣半價圖，從開始到1箇中特幣爲止"
+    }
+  ]
 }
