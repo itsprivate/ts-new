@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-31T08:01:00Z"
+  "original_createdAt": "2022-01-31T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionのページをメールとして送信 ✉️ ⚡&nbsp;Notion で知っているブロックを使ってメールを作成 🛠️&nbsp;Chilipepper などのツールを使ってフォーム回答からメールを自動送信 💰&nbsp;ConvertKit と比較して3K加入者ベースで70％以上節約できます。",
+      "tagline": "NotionのページをHTMLメールとして送信する"
+    },
+    {
+      "locale": "zh",
+      "description": "将Notion页面作为电子邮件发送 ⚡&nbsp;在Notion中用你知道的区块建立你的电子邮件 🛠️&nbsp;用Chilipepper等工具自动从表单回复中发送电子邮件 💰&nbsp;与ConvertKit相比，基于3K订阅者，节省超过70%的费用",
+      "tagline": "将Notion页面作为HTML电子邮件发送"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將Notion頁面作爲電子郵件發送 ⚡&nbsp;在Notion中用你知道的區塊建立你的電子郵件 🛠️&nbsp;用Chilipepper等工具自動從表單回覆中發送電子郵件 💰&nbsp;與ConvertKit相比，基於3K訂閱者，節省超過70%的費用",
+      "tagline": "將Notion頁面作爲HTML電子郵件發送"
+    }
+  ]
 }
