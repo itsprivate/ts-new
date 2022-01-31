@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分のことだけを考えて"
+    },
+    {
+      "locale": "zh",
+      "title": "只是管好自己的事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是管好自己的事"
+    }
+  ]
 }
