@@ -33,5 +33,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey all,\n\nJust finished a 2-week sprint working on a side-project which is meant to help\nsuppliers manage their business. This first alpha version lets you create a\nsupplier page (example: https://www.playmellow.com/s/example-supplier) and\naccept inventory orders (no payments or anything fancy just…"
+  "the_new_excerpt": "Hey all,\n\nJust finished a 2-week sprint working on a side-project which is meant to help\nsuppliers manage their business. This first alpha version lets you create a\nsupplier page (example: https://www.playmellow.com/s/example-supplier) and\naccept inventory orders (no payments or anything fancy just…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。\n\n2週間のスプリントを終え、サイドプロジェクトに取り掛かったところです。\nサプライヤーがビジネスを管理します。この最初のアルファ版では\nサプライヤーページ(例: https://www.playmellow.com/s/example-supplier)と\n在庫の注文を受ける（支払いや派手なことはしない、ただ...",
+      "title": "サプライヤーがビジネスページを作成し、注文を受けるのを支援する私のサイドプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n刚刚完成了一个为期两周的副业项目的冲刺工作，该项目旨在帮助\n供应商管理他们的业务。这第一个alpha版本可以让你创建一个\n供应商页面（例如：https://www.playmellow.com/s/example-supplier）和\n接受库存订单（没有付款或任何花哨的东西，只是...",
+      "title": "我的副业是帮助供应商创建商业页面并接受订单"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n剛剛完成了一個爲期兩週的副業項目的衝刺工作，該項目旨在幫助\n供應商管理他們的業務。這第一個alpha版本可以讓你創建一個\n供應商頁面（例如：https://www.playmellow.com/s/example-supplier）和\n接受庫存訂單（沒有付款或任何花哨的東西，只是...",
+      "title": "我的副業是幫助供應商創建商業頁面並接受訂單"
+    }
+  ]
 }
