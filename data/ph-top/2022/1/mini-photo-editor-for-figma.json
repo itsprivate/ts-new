@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-31T08:08:51Z"
+  "original_createdAt": "2022-01-31T08:08:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figmaの中に入っている小さなフォトエディタプラグインです。",
+      "tagline": "画像の切り抜き、回転、反転、微調整、再編集を素早く行うことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个快乐的小照片编辑器插件就在Figma里面。",
+      "tagline": "快速裁剪、旋转、翻转、微调和编辑图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個快樂的小照片編輯器插件就在Figma裏面。",
+      "tagline": "快速裁剪、旋轉、翻轉、微調和編輯圖像"
+    }
+  ]
 }
