@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "犯罪における暗号の利用はフィアットに比べて非常に低い、欧州警察機構が認める"
+    },
+    {
+      "locale": "zh",
+      "title": "欧洲刑警组织承认，加密货币在犯罪中的使用量与法币相比非常低"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歐洲刑警組織承認，加密貨幣在犯罪中的使用量與法幣相比非常低"
+    }
+  ]
 }
