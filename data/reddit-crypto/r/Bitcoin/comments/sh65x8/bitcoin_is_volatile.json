@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはボラティリティが高い"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币是不稳定的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣是不穩定的"
+    }
+  ]
 }
