@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-31T08:03:10Z"
+  "original_createdAt": "2022-01-31T08:03:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MintMyNFTは、Polygonが提供するつぶやきをNFTにするための無料ツールです。",
+      "tagline": "ツイート用のミントNFTを無償で提供"
+    },
+    {
+      "locale": "zh",
+      "description": "MintMyNFT是一个由Polygon提供的将推文变成NFT的免费工具。",
+      "tagline": "免费为您的推文提供薄荷NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MintMyNFT是一個由Polygon提供的將推文變成NFT的免費工具。",
+      "tagline": "免費爲您的推文提供薄荷NFTs"
+    }
+  ]
 }
