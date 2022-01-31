@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-30T13:48:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HO44iP4p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ckik3r7vxeel02hzfs2x.png",
   "author": "Pradumna Saraf",
-  "author_url": "https://dev.to/pradumnasaraf"
+  "author_url": "https://dev.to/pradumnasaraf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、私が厳選したgitコマンドの中から、あなたの作業効率を上げるために役立つものをご紹介します。",
+      "title": "意外と知らない6つのgitコマンド。"
+    },
+    {
+      "locale": "zh",
+      "description": "下面是我精心挑选的一些顶级git命令，它们对提高你的工作效率非常有用。",
+      "title": "6个git命令，你可能不知道。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "下面是我精心挑選的一些頂級git命令，它們對提高你的工作效率非常有用。",
+      "title": "6個git命令，你可能不知道。"
+    }
+  ]
 }
