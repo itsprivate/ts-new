@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-30T10:36:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7l5gU9vs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cphemuz2avcbiqlkjqbf.png",
   "author": "TECH SCHOOL",
-  "author_url": "https://dev.to/techschoolguru"
+  "author_url": "https://dev.to/techschoolguru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ついに私のBackend Master Classコースが完成し、Udemyで公開されました。以下のリンクからどうぞ...",
+      "title": "バックエンドマスタークラス【Go＋Postgres＋Kubernetes＋AWS】のご案内"
+    },
+    {
+      "locale": "zh",
+      "description": "最后，我的后端大师班课程已经完成，并在Udemy上发布。你可以使用这些链接...",
+      "title": "后台大师班[Go + Postgres + Kubernetes + AWS]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最後，我的後端大師班課程已經完成，並在Udemy上發佈。你可以使用這些鏈接...",
+      "title": "後臺大師班[Go + Postgres + Kubernetes + AWS]"
+    }
+  ]
 }
