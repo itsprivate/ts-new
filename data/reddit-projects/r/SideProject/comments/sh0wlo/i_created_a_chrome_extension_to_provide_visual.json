@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウェブサイト上で直接視覚的なフィードバックを提供するクロームの拡張機能を作りました。どんなフィードバックでも大歓迎です"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个chrome扩展，直接在网站上提供视觉反馈。如果有任何反馈，我们将不胜感激!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個chrome擴展，直接在網站上提供視覺反饋。如果有任何反饋，我們將不勝感激!"
+    }
+  ]
 }
