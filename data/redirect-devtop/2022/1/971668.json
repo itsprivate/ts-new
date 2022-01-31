@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-29T06:46:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gaTQuMqx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dazzuhse5d4aoy5yjwxt.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、JavaScriptのsetTimeoutがどのように関数を遅らせるために働くのか、よく理解できたと思います。 それでは...",
+      "title": "setIntervalを使ったJavaScriptの反復タイマー"
+    },
+    {
+      "locale": "zh",
+      "description": "现在我们已经很好地理解了JavaScript setTimeout是如何延迟一个函数的。 让我们...",
+      "title": "使用Interval的JavaScript循环定时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在我們已經很好地理解了JavaScript setTimeout是如何延遲一個函數的。 讓我們...",
+      "title": "使用Interval的JavaScript循環定時器"
+    }
+  ]
 }
