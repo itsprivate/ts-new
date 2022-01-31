@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-29T06:38:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oozbeaz5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/28kcer8n3dcmw7dht6em.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなDjango APIサーバーを搭載した美しいReactデザインを使用したオープンソースのシードプロジェクト。ソースはGithubで公開されています(MIT License)。",
+      "title": "Django、React、Dockerで素早く始める - オープンソースプロジェクト"
+    },
+    {
+      "locale": "zh",
+      "description": "开源种子项目，使用美丽的React设计，由一个简单的Django API服务器驱动。资源可在Github上获得（MIT许可）。",
+      "title": "用Django、React和Docker快速启动 - 开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源種子項目，使用美麗的React設計，由一個簡單的Django API服務器驅動。資源可在Github上獲得（MIT許可）。",
+      "title": "用Django、React和Docker快速啓動 - 開源項目"
+    }
+  ]
 }
