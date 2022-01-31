@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の国名が「ニッポン」であることを考えると、欧米では「日本」という名称はどこから来たのだろうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "鉴于日本的国名是 \"日本\"，西方世界的 \"日本 \"这个名字是从哪里来的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鑑於日本的國名是 \"日本\"，西方世界的 \"日本 \"這個名字是從哪裏來的？"
+    }
+  ]
 }
