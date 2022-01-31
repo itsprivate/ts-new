@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近のガキはタバコを吸うのがカッコイイと思ってるのかスマン"
+    },
+    {
+      "locale": "zh",
+      "title": "现在的孩子们认为吸烟是件很酷的事。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在的孩子們認爲吸菸是件很酷的事。"
+    }
+  ]
 }
