@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-15T03:41:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H-tAvCZr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo5pvkwiagx4a4nv6mi0.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Amazon Redshiftは、高速でフルマネージドなペタバイト規模のデータウェアハウスです...",
+      "title": "Amazon Redshiftの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 亚马逊Redshift是一个快速、完全管理、PB级的数据仓库。",
+      "title": "亚马逊Redshift简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 亞馬遜Redshift是一個快速、完全管理、PB級的數據倉庫。",
+      "title": "亞馬遜Redshift簡介"
+    }
+  ]
 }
