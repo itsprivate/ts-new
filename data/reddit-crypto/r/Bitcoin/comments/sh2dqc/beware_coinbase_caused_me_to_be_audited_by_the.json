@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "注意：CoinbaseのせいでIRSに監査され、先取特権を付与され、稼いでないのに給料を差し押さえられた。"
+    },
+    {
+      "locale": "zh",
+      "title": "警惕：Coinbase导致我被美国国税局审计，并被留置&amp；我没有赚到钱，却被扣押了工资。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警惕：Coinbase導致我被美國國稅局審計，並被留置&amp；我沒有賺到錢，卻被扣押了工資。"
+    }
+  ]
 }
