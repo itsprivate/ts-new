@@ -1,0 +1,47 @@
+{
+  "author": "cyanlink",
+  "original_created_utc": 1643563355,
+  "title": "[PSA] We should do something for todays HALF MILLION lost tragedy to NEVER EVER happen again.",
+  "created_utc": 1643589353,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Manual cross post for &lt;a href=\"https://np.reddit.com/r/ethereum/comments/sgat3r/psa_we_should_do_something_for_todays_half/\"&gt;Original post at r/ethereum&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://np.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/\"&gt;r/Ethereum Today&amp;#39;s Headline, The Original Post of Said Tragedy&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;TL,DR: We should start a campaign, here is our appeal:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;All wallet software orienting average user, shall ban the action of, or give the scariest warning it can give if the user initiates a tx that directly calls &lt;em&gt;transfer&lt;/em&gt; function to a Contract address.&lt;/li&gt;\n&lt;li&gt;We should promote and accelerate the deprecation of raw ERC-20, and the wider adoption of newer, more robust and fault-proof ERC-777 and ERC-1555 standards.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;No matter what role you are playing in the scene - Blockchain developers, DeFi users, NFT hodlers, investors, today&amp;#39;s tragedy is a serious alarm to us all that, Ethereum, along with many other blockchain technologies, are yet to be fully fledged for mass adoption.&lt;/p&gt;\n\n&lt;p&gt;This is fully understandable because the nature of new technologies is, no matter how many work we do to make the design perfect, it needs to be tested in the field first for problems to be reveal and fixed.&lt;/p&gt;\n\n&lt;p&gt;ERC-20 token standard is one of them, it&amp;#39;s such a classic standard with long history and a whole ecosystem built upon it, but we all forgot that the philosophy behind its design is still immature, leading to serious loophole and design failure.&lt;/p&gt;\n\n&lt;p&gt;Sending ERC-20 token to any sort of Smart Contract is pointless and exceedingly dangerous. In usual business logic, if user want a certain smart contract to have certain token, what they should do, and the way the Smart Contract should absolutely implement is: user approve in ERC-20 token contract first, then you make user to call a function exposed by your Contract, in the function, your Contract calls &lt;em&gt;transferFrom&lt;/em&gt; function on ERC-20 Token Contract, so that your contract is aware of this transfer.&lt;/p&gt;\n\n&lt;p&gt;An ERC-20 &lt;em&gt;transfer&lt;/em&gt; function call, to ANY &lt;strong&gt;CONTRACT&lt;/strong&gt; ADDRESS, initiated by END-USER (EOA address), is POINTLESS and will ALWAYS result in PERMANENT, UNRECOVEABLE TOKEN LOSS.&lt;/p&gt;\n\n&lt;p&gt;Today&amp;#39;s tragedy is caused by collective effect of many factor: The nature of Ethereum that all addresses look the same; Lack of user education on smart contract (I see why people blaming &lt;a href=\"https://weth.io/\"&gt;weth.io&lt;/a&gt; on this, it&amp;#39;s fully reasonable, today&amp;#39;s victim might came up with the idea him/herself that: hey I send ETH to the contract, got WETH, now I send WETH back, ETH back, that&amp;#39;s what the GIF on &lt;a href=\"https://weth.io/\"&gt;weth.io&lt;/a&gt; says! completely not knowing what&amp;#39;s under the hood, the anonymous fallback function and etc.). Lack of on-chain logic checking and preventing this (it would cost everybody&amp;#39;s gas).&lt;/p&gt;\n\n&lt;p&gt;But the most unforgivable factor is the NEGLIGENCE of wallet software: &lt;strong&gt;ZERO&lt;/strong&gt; warning upon sending ERC-20 token to a Contract Address, on the UI I just saw &amp;quot;Contract interaction: Transfer&amp;quot;, and I&amp;#39;m good to go! To PURGE ALL OF MY HODLING with single mouse click!&lt;/p&gt;\n\n&lt;p&gt;That&amp;#39;s not how fault tolerance/fault proof should be done - to be honest, that&amp;#39;s zero fault proof.&lt;/p&gt;\n\n&lt;p&gt;Green across the board, we are good to go right? POOOOF, SNAFU, a poor guy&amp;#39;s life saving gone.&lt;/p&gt;\n\n&lt;p&gt;This issue has been around for years, and of course, everything on chain is accessible, &lt;a href=\"https://etherscan.io/\"&gt;etherscan.io&lt;/a&gt; can tell if an address is a contract, Infura can tell if it&amp;#39;s a contract. But metamask, ledger live, xxx wallet and etc cannot tell if the address in the text input is a contract.&lt;/p&gt;\n\n&lt;p&gt;So, once again in the end, We should start a campaign, here is our appeal:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;All wallet software orienting average user, shall ban the action of, or give the scariest warning it can give if the user initiates a tx that directly calls &lt;em&gt;transfer&lt;/em&gt; function to a Contract address.&lt;/li&gt;\n&lt;li&gt;We should promote and accelerate the deprecation of raw ERC-20, and the wider adoption of newer, more robust and fault-proof ERC-777 and ERC-1555 standards.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 329,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Jsyv-v65BNs-oCDtqVlFEOzfAMgOPepsJF_pBGyCAso.jpg?auto=webp&amp;s=6d4a2c78bcf8ba9ac641d4f76f24c4c8ad8e7b52",
+          "width": 600,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Jsyv-v65BNs-oCDtqVlFEOzfAMgOPepsJF_pBGyCAso.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f3e908b3acdab7a50b2a989142a5131a21e0f661",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/Jsyv-v65BNs-oCDtqVlFEOzfAMgOPepsJF_pBGyCAso.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=8d961e43cd7b5467315556806087f74cb4c58ea7",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/Jsyv-v65BNs-oCDtqVlFEOzfAMgOPepsJF_pBGyCAso.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5a481cf393081f40ec69004430e3867a652ce28",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "sgO5poZO8CjvEq8A3mcSnIcvAfzmsFqzjDad0oD0n9E"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/sgdxtg/psa_we_should_do_something_for_todays_half/",
+  "subreddit": "CryptoCurrency",
+  "id": "sgdxtg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Manual cross post for Original post at r/ethereum\n[https://np.reddit.com/r/ethereum/comments/sgat3r/psa_we_should_do_something_for_todays_half/].\n\nr/Ethereum Today's Headline, The Original Post of Said…"
+}
