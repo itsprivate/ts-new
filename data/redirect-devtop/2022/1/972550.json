@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-30T07:33:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yY1gSLT3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpx4vniswiusil3oesak.png",
   "author": "Rajesh Royal",
-  "author_url": "https://dev.to/rajeshroyal"
+  "author_url": "https://dev.to/rajeshroyal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハスキー・フックは、誰かが誤ってコンソール・ログを押してしまうのを防ぐのに実に良い方法です...",
+      "title": "ReactJS - 実運用環境とステージング環境で console.log() を無効化する。"
+    },
+    {
+      "locale": "zh",
+      "description": "赫斯基钩是一个非常好的方法，可以防止有人将意外的控制台日志推到一个...",
+      "title": "ReactJS - 在生产和暂存中禁用 console.log() "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "赫斯基鉤是一個非常好的方法，可以防止有人將意外的控制檯日誌推到一個...",
+      "title": "ReactJS - 在生產和暫存中禁用 console.log() "
+    }
+  ]
 }
