@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-28T08:17:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4gsRjDF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6qvynqpjla5m7uscvgfy.png",
   "author": "Basti Ortiz",
-  "author_url": "https://dev.to/somedood"
+  "author_url": "https://dev.to/somedood",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1学期中C言語の課題が続いたとき、ラストパターンやイディオムを使ってどのように乗り切ったかを紹介します。",
+      "title": "C言語の課題を克服するためにRustが役立ったこと"
+    },
+    {
+      "locale": "zh",
+      "description": "在一整个学期的C类作业之后，我分享了Rust模式和成语是如何帮助我度过这一切的。",
+      "title": "Rust是如何帮助我完成C类作业的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一整個學期的C類作業之後，我分享了Rust模式和成語是如何幫助我度過這一切的。",
+      "title": "Rust是如何幫助我完成C類作業的？"
+    }
+  ]
 }
