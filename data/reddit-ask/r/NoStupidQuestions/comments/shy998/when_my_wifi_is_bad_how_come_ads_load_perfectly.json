@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "無線LANの調子が悪いと、どうして広告の読み込みは完璧なのに、他のものは読み込みに2年半もかかってしまうのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当我的wifi不好的时候，为什么广告加载完全正常，而其他东西却要花两年半的时间来加载？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當我的wifi不好的時候，爲什麼廣告加載完全正常，而其他東西卻要花兩年半的時間來加載？"
+    }
+  ]
 }
