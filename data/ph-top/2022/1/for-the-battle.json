@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-31T17:30:03Z"
+  "original_createdAt": "2022-01-31T17:30:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルな2Dオンラインプラットフォーマー格闘ゲームで、多くのゲームモードとカスタマイズオプションがあります。",
+      "tagline": "リアルタイムスティックマンファイト"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单的2D在线平台格斗游戏，有很多游戏模式和自定义选项。",
+      "tagline": "实时的棍子手战斗"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單的2D在線平臺格鬥遊戲，有很多遊戲模式和自定義選項。",
+      "tagline": "實時的棍子手戰鬥"
+    }
+  ]
 }
