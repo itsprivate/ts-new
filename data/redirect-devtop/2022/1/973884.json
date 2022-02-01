@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-31T15:55:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K9DagdEC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mkcnxpqpkzp3ep3ao5bn.jpeg",
   "author": "Alex Barashkov",
-  "author_url": "https://dev.to/alex_barashkov"
+  "author_url": "https://dev.to/alex_barashkov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Jamstackは最近、急速な成長を見せている。そのためのツールやフレームワークがどんどん増えています。",
+      "title": "一般的な静的ウェブサイトホスティングプラットフォームの有料プランで、ギャツビープロジェクトの構築時間を測定"
+    },
+    {
+      "locale": "zh",
+      "description": "这些天来，Jamstack正显示出快速的增长。我们几乎得到了越来越多的工具和框架...",
+      "title": "使用流行的静态网站托管平台的付费计划衡量盖茨比项目的构建时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些天來，Jamstack正顯示出快速的增長。我們幾乎得到了越來越多的工具和框架...",
+      "title": "使用流行的靜態網站託管平臺的付費計劃衡量蓋茨比項目的構建時間"
+    }
+  ]
 }
