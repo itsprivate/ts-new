@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Windows版Firefox"
+    },
+    {
+      "locale": "zh",
+      "title": "Windows上的火狐浏览器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Windows上的火狐瀏覽器"
+    }
+  ]
 }
