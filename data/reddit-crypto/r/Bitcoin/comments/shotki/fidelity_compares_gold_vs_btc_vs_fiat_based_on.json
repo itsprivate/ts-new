@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フィデリティは、「良い」お金の第一原則に基づき、ゴールド vs BTC vs フィアットを比較します。"
+    },
+    {
+      "locale": "zh",
+      "title": "富达公司基于 \"良好 \"货币的第一原则，对黄金与BTC与法币进行比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "富達公司基於 \"良好 \"貨幣的第一原則，對黃金與BTC與法幣進行比較"
+    }
+  ]
 }
