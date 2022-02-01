@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-26T16:22:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KtIOJftT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjsbbo2ow5gud5yb0dj8.png",
   "author": "Gaël Thomas",
-  "author_url": "https://dev.to/gaelgthomas"
+  "author_url": "https://dev.to/gaelgthomas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsのアプリケーションに \"next-translate \"を使って翻訳を追加する方法をご紹介します。スクラッチから...",
+      "title": "ステップバイステップ：Next-TranslateでNextJSアプリを国際化する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何使用 \"next-translate \"向你的Next.js应用程序添加翻译。从零开始到...",
+      "title": "一步一步来：如何用Next-Translate将你的NextJS应用程序国际化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何使用 \"next-translate \"向你的Next.js應用程序添加翻譯。從零開始到...",
+      "title": "一步一步來：如何用Next-Translate將你的NextJS應用程序國際化"
+    }
+  ]
 }
