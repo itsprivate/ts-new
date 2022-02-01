@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-01T08:12:44Z"
+  "original_createdAt": "2022-02-01T08:12:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースの技術系ブログ集。あなたのブログを追加して、記事の閲覧数を増やしましょう。",
+      "tagline": "技術系ブログのオープンソース・コレクション"
+    },
+    {
+      "locale": "zh",
+      "description": "开源的科技博客集合。添加你的博客，让你的文章获得更多浏览量。",
+      "tagline": "开源的科技博客集合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源的科技博客集合。添加你的博客，讓你的文章獲得更多瀏覽量。",
+      "tagline": "開源的科技博客集合"
+    }
+  ]
 }
