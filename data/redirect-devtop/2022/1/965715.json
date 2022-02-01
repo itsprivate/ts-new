@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-24T10:20:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KYg6PUaa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a7v511ydzgqil9n417h.jpg",
   "author": "Syed Mohsin Raza",
-  "author_url": "https://dev.to/devsyedmohsin"
+  "author_url": "https://dev.to/devsyedmohsin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "演算子 値が真か偽かを調べるには、「！」演算子を使用します。",
+      "title": "JavaScriptです。ヒントとコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "操作符 要检查一个值是真实的还是虚假的，可以使用！操作符，你可以调用...",
+      "title": "JavaScript。技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "操作符 要檢查一個值是真實的還是虛假的，可以使用！操作符，你可以調用...",
+      "title": "JavaScript。技巧和竅門"
+    }
+  ]
 }
