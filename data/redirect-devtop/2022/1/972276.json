@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-29T23:06:52Z",
   "image": "https://dev.to/social_previews/article/972276.png",
   "author": "Adam McNeilly",
-  "author_url": "https://dev.to/adammc331"
+  "author_url": "https://dev.to/adammc331",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "依存性注入とそれがなぜ重要なのかについてのインクリメンタル・ガイド。",
+      "title": "依存性注入のための偽者ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "依赖性注入的增量指南以及为什么它如此重要。",
+      "title": "冒名顶替者的依赖注入指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "依賴性注入的增量指南以及爲什麼它如此重要。",
+      "title": "冒名頂替者的依賴注入指南"
+    }
+  ]
 }
