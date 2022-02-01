@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このスクリプトで何百もの文法エラーを自動修正する 😋。"
+    },
+    {
+      "locale": "zh",
+      "title": "用这个脚本自动修正上百个语法错误😋"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用這個腳本自動修正上百個語法錯誤😋"
+    }
+  ]
 }
