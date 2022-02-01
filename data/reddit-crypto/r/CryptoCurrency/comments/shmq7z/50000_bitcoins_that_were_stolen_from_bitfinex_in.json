@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2016年にBitfinexから盗まれた5万ビットコインがウォレットを移動しただけ（20億ドル）。"
+    },
+    {
+      "locale": "zh",
+      "title": "2016年从Bitfinex被盗的5万个比特币刚刚转移了钱包（20亿美元）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2016年從Bitfinex被盜的5萬個比特幣剛剛轉移了錢包（20億美元）。"
+    }
+  ]
 }

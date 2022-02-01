@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title says it all. As an American, I’m genuinely curious."
+  "the_new_excerpt": "Title says it all. As an American, I’m genuinely curious.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルが全てを物語っています。アメリカ人としては純粋に気になる。",
+      "title": "ドイツの学校では、第二次世界大戦をどのように教えているのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题说明了一切。作为一个美国人，我真的很好奇。",
+      "title": "德国学校是如何教授二战的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題說明了一切。作爲一個美國人，我真的很好奇。",
+      "title": "德國學校是如何教授二戰的？"
+    }
+  ]
 }
