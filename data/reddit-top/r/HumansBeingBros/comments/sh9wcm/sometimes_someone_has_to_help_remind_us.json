@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時には、誰かが私たちに気づかせてくれなければなりません。"
+    },
+    {
+      "locale": "zh",
+      "title": "有时，必须有人帮助提醒我们"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有時，必須有人幫助提醒我們"
+    }
+  ]
 }
