@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"The Uncensored Library \"は、報道の自由がない国の検閲されたジャーナリズムを誰でも読むことができる巨大なMinecraftのマップです"
+    },
+    {
+      "locale": "zh",
+      "title": "\"未经审查的图书馆 \"是一个巨大的Minecraft地图，任何人都可以阅读来自没有新闻自由的国家的审查过的新闻。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"未經審查的圖書館 \"是一個巨大的Minecraft地圖，任何人都可以閱讀來自沒有新聞自由的國家的審查過的新聞。"
+    }
+  ]
 }
