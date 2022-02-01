@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "物理ベースのGPUレイトレーサーをゼロから開発"
+    },
+    {
+      "locale": "zh",
+      "title": "基于物理的GPU光线追踪器从头开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基於物理的GPU光線追蹤器從頭開始"
+    }
+  ]
 }
