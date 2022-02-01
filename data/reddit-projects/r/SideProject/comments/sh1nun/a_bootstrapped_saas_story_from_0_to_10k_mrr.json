@@ -33,5 +33,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブートストラップSaaSストーリー：0ドルから10,000ドルのMRRへ"
+    },
+    {
+      "locale": "zh",
+      "title": "一个自举的SaaS故事：从0美元到1万美元的MRR"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個自舉的SaaS故事：從0美元到1萬美元的MRR"
+    }
+  ]
 }
