@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-01-31T08:52:09Z"
+  "original_createdAt": "2022-01-31T08:52:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Candymailは、Node.jsで単一のJSONファイルを使用して、マルチステップのメールシーケンスを簡単にトリガーし、送信することができるオープンソースのNPMパッケージです。",
+      "tagline": "Node.jsのための電子メール自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "Candymail是一个开源的NPM包，它使在Node.js中使用单个JSON文件来触发和发送多步骤的电子邮件序列变得容易。",
+      "tagline": "Node.js的电子邮件自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Candymail是一個開源的NPM包，它使在Node.js中使用單個JSON文件來觸發和發送多步驟的電子郵件序列變得容易。",
+      "tagline": "Node.js的電子郵件自動化"
+    }
+  ]
 }
