@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "薬物を探していた警察が、マイニングの仕掛けを発見。"
+    },
+    {
+      "locale": "zh",
+      "title": "警察在寻找毒品时发现了采矿的设置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警察在尋找毒品時發現了採礦的設置。"
+    }
+  ]
 }
