@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-01T08:05:00Z"
+  "original_createdAt": "2022-02-01T08:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AirtableとTableauの出会い! 技術者でない人がデータを理解することを支援します。ユーザーはPostgresからGoogle Sheetsまで100以上のデータソースを組み合わせながら、コードを書くことなくチャートやテーブルを作成することができます。",
+      "tagline": "AirtableとTableauの出会い"
+    },
+    {
+      "locale": "zh",
+      "description": "Airtable遇上Tableau! 我们帮助非技术人士理解数据。用户可以结合100多个数据源，从Postgres到Google Sheets，同时创建图表和表格，而无需编写任何代码。",
+      "tagline": "Airtable与Tableau的结合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Airtable遇上Tableau! 我們幫助非技術人士理解數據。用戶可以結合100多個數據源，從Postgres到Google Sheets，同時創建圖表和表格，而無需編寫任何代碼。",
+      "tagline": "Airtable與Tableau的結合"
+    }
+  ]
 }

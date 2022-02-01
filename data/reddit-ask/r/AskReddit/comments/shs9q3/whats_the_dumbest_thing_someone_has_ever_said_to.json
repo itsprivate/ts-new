@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで言われた中で一番バカな言葉は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有人对你说过的最愚蠢的话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人對你說過的最愚蠢的話是什麼？"
+    }
+  ]
 }
