@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title says it all."
+  "the_new_excerpt": "Title says it all.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルがすべてを物語っています。",
+      "title": "人が応援している／慰めている／力づけられると思っていることが、本当は逆である場合、あなたは普段どのように対応しているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题说明了一切。",
+      "title": "有什么事情是人们认为是支持/安慰/授权的，而实际上是相反的，你通常如何回应？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題說明了一切。",
+      "title": "有什麼事情是人們認爲是支持/安慰/授權的，而實際上是相反的，你通常如何回應？"
+    }
+  ]
 }

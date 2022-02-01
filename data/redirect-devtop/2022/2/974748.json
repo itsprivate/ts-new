@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-01T09:01:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sgQcYDUa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kin9i9fs42oqt9msrj25.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイトを構築する際に、私が気に入っているフロントエンド開発スタックのひとつがTailwind CSSです...",
+      "title": "Tailwind CSSとFlowbiteでフッターコンポーネントを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在建设网站方面，我最喜欢的前端开发栈之一是Tailwind CSS。",
+      "title": "如何用Tailwind CSS和Flowbite建立一个页脚组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在建設網站方面，我最喜歡的前端開發棧之一是Tailwind CSS。",
+      "title": "如何用Tailwind CSS和Flowbite建立一個頁腳組件"
+    }
+  ]
 }
