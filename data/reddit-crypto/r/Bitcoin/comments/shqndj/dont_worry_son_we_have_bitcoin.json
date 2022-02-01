@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "心配するな、ビットコインがある。"
+    },
+    {
+      "locale": "zh",
+      "title": "别担心，孩子，我们有比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "別擔心，孩子，我們有比特幣。"
+    }
+  ]
 }
