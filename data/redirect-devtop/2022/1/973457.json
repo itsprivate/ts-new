@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-31T07:39:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rw6iZ3zv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kfm5srsteu116al1y5g3.jpg",
   "author": "Deepu K Sasidharan",
-  "author_url": "https://dev.to/deepu105"
+  "author_url": "https://dev.to/deepu105",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Krustletを使用してKubernetes上でRustで書かれた安全なWebAssemblyワークロードを実行する方法について説明します。",
+      "title": "コンテナレス！？RustでKubernetes上でWebAssemblyのワークロードを実行する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何利用Krustlet在Kubernetes上运行用Rust编写的安全WebAssembly工作负载。",
+      "title": "无集装箱! 如何用Rust在Kubernetes上运行WebAssembly工作负载"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何利用Krustlet在Kubernetes上運行用Rust編寫的安全WebAssembly工作負載。",
+      "title": "無集裝箱! 如何用Rust在Kubernetes上運行WebAssembly工作負載"
+    }
+  ]
 }
