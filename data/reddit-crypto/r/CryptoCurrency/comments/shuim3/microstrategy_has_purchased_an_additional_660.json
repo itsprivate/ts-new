@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MicroStrategyは、1ビットコインあたり平均37,865ドルで660ビットコインを現金で約2500万ドル分追加購入しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "微策略公司以约2500万美元的现金购买了另外660个比特币，每枚比特币的平均价格约为37865美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "微策略公司以約2500萬美元的現金購買了另外660個比特幣，每枚比特幣的平均價格約爲37865美元。"
+    }
+  ]
 }
