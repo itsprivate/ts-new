@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察は薬物を探していた。"
+    },
+    {
+      "locale": "zh",
+      "title": "警方正在寻找毒品。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警方正在尋找毒品。"
+    }
+  ]
 }
