@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-02T12:09:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s8J346h3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5q6jm5e5f2qedch89kj.jpeg",
   "author": "Ilya Azovtsev",
-  "author_url": "https://dev.to/ilya_azovtsev"
+  "author_url": "https://dev.to/ilya_azovtsev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、あなたが自問自答したら。  アプリの新機能をApp Storeに送信せずに、テスト＆デプロイする方法。",
+      "title": "iOSアプリでFeature Flagsを使う方法【コード例付き"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你问自己。  如何测试&amp;在你的应用程序中部署新功能，而不发送ap App Store...",
+      "title": "如何在iOS应用中使用功能标志[附代码实例]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你問自己。  如何測試&amp;在你的應用程序中部署新功能，而不發送ap App Store...",
+      "title": "如何在iOS應用中使用功能標誌[附代碼實例]"
+    }
+  ]
 }
