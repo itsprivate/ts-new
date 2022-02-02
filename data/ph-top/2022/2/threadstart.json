@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-02T08:01:00Z"
+  "original_createdAt": "2022-02-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ThreadStartは、Twitterのスレッドを書き、スケジュールし、公開する最も簡単な方法です。リッチエディタを使えば、画像を追加したり、テキストをフォーマットしたりするのも簡単です。また、スレッドのプレビューはリアルタイムで更新されます。ThreadStart で時間を節約し、フォロワーを増やしましょう!",
+      "tagline": "リッチなエディターでTwitterのスレッドを作成＆スケジューリング"
+    },
+    {
+      "locale": "zh",
+      "description": "ThreadStart是编写、安排和发布Twitter线程的最简单方法。有了丰富的编辑器，添加图片和格式化你的文本是一件轻而易举的事。而且，你的线程的预览会实时更新。用ThreadStart节省时间并增加你的粉丝",
+      "tagline": "用丰富的编辑器编写和安排伟大的Twitter主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ThreadStart是編寫、安排和發佈Twitter線程的最簡單方法。有了豐富的編輯器，添加圖片和格式化你的文本是一件輕而易舉的事。而且，你的線程的預覽會實時更新。用ThreadStart節省時間並增加你的粉絲",
+      "tagline": "用豐富的編輯器編寫和安排偉大的Twitter主題"
+    }
+  ]
 }
