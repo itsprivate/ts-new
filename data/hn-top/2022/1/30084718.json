@@ -3,7 +3,7 @@
   "title": "Pwnkit: Local Privilege Escalation in polkit's pkexec (CVE-2021-4034)",
   "url": "https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt",
   "author": "pajtai",
-  "points": 100,
+  "points": 180,
   "num_comments": 12,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Pwnkit。polkit 的 pkexec 中的本地權限升級 (CVE-2021-4034)"
     }
-  ]
+  ],
+  "source_updated_at": 1643791809039
 }
