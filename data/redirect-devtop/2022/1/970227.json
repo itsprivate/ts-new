@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-27T22:52:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bpx-IEW7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shcwa40hgffwns0d8jxy.png",
   "author": "Brandon Roberts",
-  "author_url": "https://dev.to/brandontroberts"
+  "author_url": "https://dev.to/brandontroberts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Angularでアプリケーションを構築する際、よくあるのがページタイトルが更新されるようにすることです...",
+      "title": "Angularルーターでページタイトルをネイティブに設定する🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "当用Angular构建应用程序时，你应该做的一件常见的事情是让页面标题更新...",
+      "title": "用Angular Router自然地设置页面标题 🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當用Angular構建應用程序時，你應該做的一件常見的事情是讓頁面標題更新...",
+      "title": "用Angular Router自然地設置頁面標題 🔥"
+    }
+  ]
 }
