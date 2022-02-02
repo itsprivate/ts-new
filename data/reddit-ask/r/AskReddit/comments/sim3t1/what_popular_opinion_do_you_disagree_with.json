@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どのような世論に反対していますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你不同意什么流行的意见？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你不同意什麼流行的意見？"
+    }
+  ]
 }
