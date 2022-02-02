@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I recently started working with TensorFlow and I read that it turn's data into\ntensors.I looked it up a bit but I'm not really getting it, Would love an\nexplanation."
+  "the_new_excerpt": "I recently started working with TensorFlow and I read that it turn's data into\ntensors.I looked it up a bit but I'm not really getting it, Would love an\nexplanation.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最近TensorFlowを使い始めたのですが、TensorFlowはデータを\n少し調べてみたのですが、よくわかりません。\nを説明します。",
+      "title": "テンソルとは一体何なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我最近开始使用TensorFlow，我读到它把数据变成了\n我查了一下，但我不太明白，希望能有个解释。\n解释。",
+      "title": "张量到底是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我最近開始使用TensorFlow，我讀到它把數據變成了\n我查了一下，但我不太明白，希望能有個解釋。\n解釋。",
+      "title": "張量到底是什麼？"
+    }
+  ]
 }
