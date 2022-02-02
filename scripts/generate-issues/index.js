@@ -4198,31 +4198,31 @@ async function main() {
         return `/reddit${item.permalink}`;
       },
     },
-    youtube: {
-      dateParser: (item) => {
-        return new Date(item.isoDate);
-      },
-      paramsParser: (item) => {
-        return {
-          id: item.videoId,
-        };
-      },
-      subtypeParser: (item) => {
-        return item.channelId;
-      },
-      sort: (a, b) => {
-        const aScore =
-          (a.starRating.count * a.starRating.average * 10) / 5 +
-          Number(a.statistics.views);
-        const bScore =
-          (b.starRating.count * b.starRating.average * 10) / 5 +
-          Number(b.statistics.views);
-        return bScore - aScore;
-      },
-      slug: (item) => {
-        return `/youtube/${item.videoId}/`;
-      },
-    },
+    // youtube: {
+    //   dateParser: (item) => {
+    //     return new Date(item.isoDate);
+    //   },
+    //   paramsParser: (item) => {
+    //     return {
+    //       id: item.videoId,
+    //     };
+    //   },
+    //   subtypeParser: (item) => {
+    //     return item.channelId;
+    //   },
+    //   sort: (a, b) => {
+    //     const aScore =
+    //       (a.starRating.count * a.starRating.average * 10) / 5 +
+    //       Number(a.statistics.views);
+    //     const bScore =
+    //       (b.starRating.count * b.starRating.average * 10) / 5 +
+    //       Number(b.statistics.views);
+    //     return bScore - aScore;
+    //   },
+    //   slug: (item) => {
+    //     return `/youtube/${item.videoId}/`;
+    //   },
+    // },
     hn: {
       dateParser: (item) => {
         return new Date(item.created_at);
