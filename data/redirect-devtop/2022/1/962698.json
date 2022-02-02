@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T10:53:29Z",
   "image": "https://dev.to/social_previews/article/962698.png",
   "author": "BERAT DİNÇKAN",
-  "author_url": "https://dev.to/dinckan_berat"
+  "author_url": "https://dev.to/dinckan_berat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Github Code まず最初に、このチュートリアルに属するプロジェクトは、以下の方法で読むことができます。",
+      "title": "Node.jsにおけるMQTTレスポンスパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "Github代码 首先，你可以通过阅读属于本教程的项目...",
+      "title": "Node.js中的MQTT响应模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Github代碼 首先，你可以通過閱讀屬於本教程的項目...",
+      "title": "Node.js中的MQTT響應模式"
+    }
+  ]
 }
