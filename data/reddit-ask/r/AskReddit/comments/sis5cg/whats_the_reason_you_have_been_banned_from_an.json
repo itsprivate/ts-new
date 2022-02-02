@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ショップ/バッド/レストラン/カフェ/などの施設に出入り禁止になった理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被禁止进入某个场所，如商店/商店/餐厅/咖啡馆等，原因是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被禁止進入某個場所，如商店/商店/餐廳/咖啡館等，原因是什麼？"
+    }
+  ]
 }
