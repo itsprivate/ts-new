@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-02T04:55:46Z",
   "image": "https://dev.to/social_previews/article/975798.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトUIデザインパターンをベースに、Creative-Timが制作したオープンソースのReact Nativeスターターです。",
+      "title": "Soft UI React Native - 無料製品"
+    },
+    {
+      "locale": "zh",
+      "description": "由Creative-Tim在Soft UI设计模式的基础上精心制作并免费发布的开源React Native启动程序。",
+      "title": "Soft UI React Native - 免费产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由Creative-Tim在Soft UI設計模式的基礎上精心製作並免費發佈的開源React Native啓動程序。",
+      "title": "Soft UI React Native - 免費產品"
+    }
+  ]
 }
