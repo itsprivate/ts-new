@@ -13,5 +13,19 @@
   ],
   "objectID": "30169341",
   "original_created_at": "2022-02-01T21:11:40.000Z",
-  "image": "https://wizardzines.com/comics/life-of-a-dns-query/life-of-a-dns-query.png"
+  "image": "https://wizardzines.com/comics/life-of-a-dns-query/life-of-a-dns-query.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "80行のGoで作るDNSリゾルバ"
+    },
+    {
+      "locale": "zh",
+      "title": "80行围棋中的DNS解析器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "80行圍棋中的DNS解析器"
+    }
+  ]
 }
