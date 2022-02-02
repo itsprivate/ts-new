@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-15T06:48:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--asCMPWFx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pmqifomujxchpetoiou4.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに AWS Lambdaは、サーバーのプロビジョニングや管理を行わずにコードを実行することができます...。",
+      "title": "AWS Lambdaの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：AWS Lambda使你能够运行代码，而无需配置或管理服务器....。",
+      "title": "AWS Lambda简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：AWS Lambda使你能夠運行代碼，而無需配置或管理服務器....。",
+      "title": "AWS Lambda簡介"
+    }
+  ]
 }
