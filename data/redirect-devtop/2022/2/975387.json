@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-01T19:15:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6DSo5PD0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05uastwe8hfo2ichixfd.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者がAPIの概念を理解するのに役立つかもしれないオープンソースのAPIサーバ ",
+      "title": "初心者のためのシンプルなFlask APIサーバー - サンプルコード付き"
+    },
+    {
+      "locale": "zh",
+      "description": "开源的API服务器，可以帮助初学者更好地理解API的概念。",
+      "title": "简单的Flask API服务器（初学者）--附带样本代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開源的API服務器，可以幫助初學者更好地理解API的概念。",
+      "title": "簡單的Flask API服務器（初學者）--附帶樣本代碼"
+    }
+  ]
 }
