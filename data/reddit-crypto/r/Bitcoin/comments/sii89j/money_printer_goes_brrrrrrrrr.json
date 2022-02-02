@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マネープリンターがブルブル震える"
+    },
+    {
+      "locale": "zh",
+      "title": "印钞机发出刺耳的声音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "印鈔機發出刺耳的聲音"
+    }
+  ]
 }
