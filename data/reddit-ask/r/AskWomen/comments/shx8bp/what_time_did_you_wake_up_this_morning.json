@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今朝は何時に起きましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你今天早上是什么时候醒来的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你今天早上是什麼時候醒來的？"
+    }
+  ]
 }
