@@ -2,8 +2,8 @@ on:
   script:
     path: ./scripts/poll-new-issues.js
     config:
-      # limit: 3
-      # every: "35 10 * * *"
+      limit: 3
+      every: "35 10 * * *"
 jobs:
   save:
     name: save to json

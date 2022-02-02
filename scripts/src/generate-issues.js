@@ -22,14 +22,14 @@ async function main() {
       },
       sort: "simple",
     },
-    {
-      folders: ["data/youtube-top"],
-      issueDir: "data/youtube-top-issues",
-      config: {
-        youtube: 20,
-      },
-      sort: "simple",
-    },
+    // {
+    //   folders: ["data/youtube-top"],
+    //   issueDir: "data/youtube-top-issues",
+    //   config: {
+    //     youtube: 20,
+    //   },
+    //   sort: "simple",
+    // },
     {
       folders: ["data/ph-top"],
       issueDir: "data/ph-top-issues",
