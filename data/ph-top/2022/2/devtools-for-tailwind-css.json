@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-02T08:01:00Z"
+  "original_createdAt": "2022-02-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSのDevToolsは、ブラウザ上でのデザイン、デバッグを復活させます。インテリセンスのオートコンプリート、JITのフルサポート、カスタムコンフィグ。ブラウザから直接操作できます。",
+      "tagline": "DevToolsのTailwindが値するのは"
+    },
+    {
+      "locale": "zh",
+      "description": "适用于Tailwind CSS的DevTools使设计和调试回到你的浏览器中。智能化的自动完成，完全的JIT支持，自定义配置。就在你的浏览器中。",
+      "tagline": "DevTools的Tailwind是值得的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "適用於Tailwind CSS的DevTools使設計和調試回到你的瀏覽器中。智能化的自動完成，完全的JIT支持，自定義配置。就在你的瀏覽器中。",
+      "tagline": "DevTools的Tailwind是值得的"
+    }
+  ]
 }
