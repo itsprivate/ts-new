@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "犯罪者が選ぶ通貨はCryptoではなく、FIAT Moneyであり続ける。犯罪につながるCrypto取引は1％未満、FIATは毎年1,600,000,000ドル以上が犯罪に関連しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "FIAT货币仍然是犯罪分子的首选货币，而不是Crypto。不到1%的加密货币交易与犯罪有关，每年有超过16亿美元的FIAT货币与犯罪有关"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FIAT貨幣仍然是犯罪分子的首選貨幣，而不是Crypto。不到1%的加密貨幣交易與犯罪有關，每年有超過16億美元的FIAT貨幣與犯罪有關"
+    }
+  ]
 }
