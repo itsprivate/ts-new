@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-01T09:45:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d6LW4HJN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b14vns32ksy3cxdkbo9h.jpeg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに マイクロサービスアーキテクチャでデータを扱う方法はいくつかありますが、今回はその中でも...",
+      "title": "Materializeによるデカップルド・マイクロサービス・アーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 在微服务架构中，有几种处理数据的方法，在此...",
+      "title": "使用Materialize的脱钩微服务架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 在微服務架構中，有幾種處理數據的方法，在此...",
+      "title": "使用Materialize的脫鉤微服務架構"
+    }
+  ]
 }
