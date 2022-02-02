@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この美しい生き物はウーリーモンキーで、約1000匹しかいないそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这种美丽的生物是毛猴，只有大约1000只。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種美麗的生物是毛猴，只有大約1000只。"
+    }
+  ]
 }
