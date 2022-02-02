@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現代のトレンド"
+    },
+    {
+      "locale": "zh",
+      "title": "现代趋势"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現代趨勢"
+    }
+  ]
 }
