@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-31T18:53:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XMULJrud--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7pqj4e91c8mcsfdsjlo4.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": ".NET Coreでユーザー認証を行う方法",
+      "title": "ASP .NET Coreでの認証"
+    },
+    {
+      "locale": "zh",
+      "description": "如何在.NET核心中验证用户身份",
+      "title": "ASP .NET核心中的认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何在.NET核心中驗證用戶身份",
+      "title": "ASP .NET核心中的認證"
+    }
+  ]
 }
