@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素敵なご家族ですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "你有一个美好的家庭!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有一個美好的家庭!"
+    }
+  ]
 }
