@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-02T09:13:27Z"
+  "original_createdAt": "2022-02-02T09:13:27Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "次世代の加盟店決済のための分散型、安全、オープンソースの決済プロトコル「Solana Pay」をご紹介します。 羽ばたいていくお金。",
+      "tagline": "Solanaをベースにした、オープンかつフリーで使える新しい決済フレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍一下Solana Pay，这是一个去中心化的、安全的、开源的支付协议，适用于下一代商户支付。 Money with wings.",
+      "tagline": "建立在Solana基础上的新的、开放的、可免费使用的支付框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹一下Solana Pay，這是一個去中心化的、安全的、開源的支付協議，適用於下一代商戶支付。 Money with wings.",
+      "tagline": "建立在Solana基礎上的新的、開放的、可免費使用的支付框架"
+    }
+  ]
 }
