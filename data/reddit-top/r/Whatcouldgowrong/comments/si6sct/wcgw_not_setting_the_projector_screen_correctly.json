@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WCGWでプロジェクターの画面が正しく設定されない"
+    },
+    {
+      "locale": "zh",
+      "title": "WCGW不能正确设置投影仪屏幕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "WCGW不能正確設置投影儀屏幕"
+    }
+  ]
 }
