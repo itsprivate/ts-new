@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "4,038ETH（取引時11,247,924ドル）がGeminiから不明なウォレットに9.21ドルの手数料で転送されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "4,038个ETH（交易时为11,247,924美元）从Gemini转移到一个未知的钱包，费用为9.21美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "4,038個ETH（交易時爲11,247,924美元）從Gemini轉移到一個未知的錢包，費用爲9.21美元。"
+    }
+  ]
 }
