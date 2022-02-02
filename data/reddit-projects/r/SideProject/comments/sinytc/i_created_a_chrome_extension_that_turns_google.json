@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Googleを何でもかんでもRotten TomatoesにするChrome拡張機能を作りました。専門家や消費者からのレビューを要約しています。また、検索結果のすべての価格を表示します（これはGoogleが常に行うわけではありません）。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个Chrome扩展，将谷歌变成任何东西的 \"烂番茄\"。它总结了专家和消费者的评论。它还会在你的搜索结果中显示每个价格（谷歌并不总是这样做）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個Chrome擴展，將谷歌變成任何東西的 \"爛番茄\"。它總結了專家和消費者的評論。它還會在你的搜索結果中顯示每個價格（谷歌並不總是這樣做）。"
+    }
+  ]
 }
