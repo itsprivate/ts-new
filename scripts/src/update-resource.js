@@ -13,7 +13,7 @@ async function main() {
     "data/reddit-crypto",
     "data/reddit-stocks",
     "data/tweet-stocks",
-    "data/youtube-top",
+    // "data/youtube-top",
     "data/hn-top",
     "data/ph-top",
     "data/tweet-crypto",
@@ -32,16 +32,16 @@ async function main() {
         };
       },
     },
-    youtube: {
-      dateParser: (item) => {
-        return new Date(item.isoDate);
-      },
-      paramsParser: (item) => {
-        return {
-          id: item.videoId,
-        };
-      },
-    },
+    // youtube: {
+    //   dateParser: (item) => {
+    //     return new Date(item.isoDate);
+    //   },
+    //   paramsParser: (item) => {
+    //     return {
+    //       id: item.videoId,
+    //     };
+    //   },
+    // },
     hn: {
       dateParser: (item) => {
         return new Date(item.created_at);
