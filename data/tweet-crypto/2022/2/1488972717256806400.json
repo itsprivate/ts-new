@@ -52,5 +52,22 @@
     },
     "retweet_count": 6006,
     "favorite_count": 29611
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PeterSweden7: 速報 : スウェーデンは明日、2月9日にすべての制限を撤廃すると発表する見込みです。",
+      "retweeted_status_full_text": "速報 : スウェーデンは明日、2月9日にすべての制限を撤廃すると発表する見込みです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PeterSweden7: BREAKING : 瑞典预计明天宣布他们将在2月9日取消所有限制。",
+      "retweeted_status_full_text": "爆炸：瑞典预计将在明天宣布，他们将在2月9日取消所有限制。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PeterSweden7: BREAKING : 瑞典預計明天宣佈他們將在2月9日取消所有限制。",
+      "retweeted_status_full_text": "爆炸：瑞典預計將在明天宣佈，他們將在2月9日取消所有限制。"
+    }
+  ]
 }

@@ -52,5 +52,22 @@
     },
     "retweet_count": 8154,
     "favorite_count": 48338
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PeterSweden7: 始まりましたね!\n\nフィンランドは今月末にすべての制限を撤廃すると発表しました。",
+      "retweeted_status_full_text": "始まった\n\nフィンランドは、今月末にすべての制限を撤廃すると発表しました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PeterSweden7: 它正在发生!\n\n芬兰已经宣布他们将在本月晚些时候取消所有限制。",
+      "retweeted_status_full_text": "它正在发生!\n\n芬兰已经宣布他们将在本月晚些时候取消所有限制。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PeterSweden7: 它正在發生!\n\n芬蘭已經宣佈他們將在本月晚些時候取消所有限制。",
+      "retweeted_status_full_text": "它正在發生!\n\n芬蘭已經宣佈他們將在本月晚些時候取消所有限制。"
+    }
+  ]
 }

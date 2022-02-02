@@ -52,5 +52,22 @@
     },
     "retweet_count": 1925,
     "favorite_count": 6979
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @disclosetv: JUST IN - スイス、コビド規制を緩和「流行期に入ろうとしている」とベルセット保健相...。",
+      "retweeted_status_full_text": "JUST IN - スイス、コビド規制を緩和「そろそろ流行期に入るので」とベルセット保健相。\n\n接触者検疫やホームオフィスの必要性がなくなった。さらなる措置（マスクの義務化、ワクチンパス）は、さらなる協議を経て、2週間以内に実施される予定。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @disclosetv: JUST IN - 瑞士卫生部长Berset说：\"由于我们即将进入流行阶段，\"瑞士放宽了Covid限制，....",
+      "retweeted_status_full_text": "JUST IN - 瑞士卫生部长Berset说，\"由于我们即将进入流行阶段，\"瑞士放松了Covid限制。\n\n不再有接触检疫或家庭办公室要求。进一步的措施（口罩授权、疫苗通行证）将在两周后进行，等待进一步协商。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @disclosetv: JUST IN - 瑞士衛生部長Berset說：\"由於我們即將進入流行階段，\"瑞士放寬了Covid限制，....",
+      "retweeted_status_full_text": "JUST IN - 瑞士衛生部長Berset說，\"由於我們即將進入流行階段，\"瑞士放鬆了Covid限制。\n\n不再有接觸檢疫或家庭辦公室要求。進一步的措施（口罩授權、疫苗通行證）將在兩週後進行，等待進一步協商。"
+    }
+  ]
 }
