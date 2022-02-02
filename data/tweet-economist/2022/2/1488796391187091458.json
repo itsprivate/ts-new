@@ -63,5 +63,22 @@
     "retweet_count": 76,
     "favorite_count": 196,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PedderSophie: この数ヶ月、私たちのデータチームは、🇫🇷の大統領選での勝利の確率を計算するモデルを構築してきました...。",
+      "retweeted_status_full_text": "過去数ヶ月間、私たちのデータチームは🇫🇷大統領選での勝利確率を計算するモデルを構築してきました。それが今日、公開されたのです。これらは世論調査ではありません。\n2月2日の結果。\n\nマクロン氏 79\nペクレス 11\nルペン 8\nゼムール 1\nメランション 1\n\nhttps://t.co/U5c1wyxQxM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PedderSophie: 在过去的几个月里，我们的数据团队一直在建立一个模型，以计算在🇫🇷总统选举中获胜的概率。",
+      "retweeted_status_full_text": "在过去的几个月里，我们的数据团队一直在建立一个模型来计算🇫🇷总统选举的胜利概率。它今天上线了。🚨这些不是民意调查! \n2月2日的结果。\n\n马克龙79%\n佩克雷泽11%\n勒庞8%\n泽穆尔1%\n梅朗雄1%\n\nhttps://t.co/U5c1wyxQxM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PedderSophie: 在過去的幾個月裏，我們的數據團隊一直在建立一個模型，以計算在🇫🇷總統選舉中獲勝的概率。",
+      "retweeted_status_full_text": "在過去的幾個月裏，我們的數據團隊一直在建立一個模型來計算🇫🇷總統選舉的勝利概率。它今天上線了。🚨這些不是民意調查! \n2月2日的結果。\n\n馬克龍79%\n佩克雷澤11%\n勒龐8%\n澤穆爾1%\n梅朗雄1%\n\nhttps://t.co/U5c1wyxQxM"
+    }
+  ]
 }
