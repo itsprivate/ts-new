@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-30T10:47:29Z",
   "image": "https://dev.to/social_previews/article/972613.png",
   "author": "Jane Ori",
-  "author_url": "https://dev.to/janeori"
+  "author_url": "https://dev.to/janeori",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近の出来事から、良い知らせと希望に満ちた展望を追及。     ~ ♪ レモン・メレンゲ・パイを作る...",
+      "title": "オープンソース開発者のための注意喚起の続報"
+    },
+    {
+      "locale": "zh",
+      "description": "继最近的事件之后，又有好消息和充满希望的前景。     ~ 做柠檬酥皮馅饼...",
+      "title": "向前迈进；《开放源代码开发的警示故事》的后续报道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "繼最近的事件之後，又有好消息和充滿希望的前景。     ~ 做檸檬酥皮餡餅...",
+      "title": "向前邁進；《開放源代碼開發的警示故事》的後續報道"
+    }
+  ]
 }
