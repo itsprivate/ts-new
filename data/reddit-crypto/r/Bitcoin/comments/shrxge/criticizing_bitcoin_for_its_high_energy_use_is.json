@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Bitcoin is energy. Its high energy use is an investment. Bitcoin miners securing\na huge network is a good thing."
+  "the_new_excerpt": "Bitcoin is energy. Its high energy use is an investment. Bitcoin miners securing\na huge network is a good thing.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインはエネルギーです。その高いエネルギー使用量は投資である。ビットコインの採掘者が確保する\n巨大なネットワークは良いことです。",
+      "title": "ビットコインのエネルギー使用量が多いことを批判するのは、消防署が水を使いすぎていることを批判するようなものだ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比特币是能源。它的高能量使用是一种投资。比特币矿工确保了\n一个巨大的网络是一件好事。",
+      "title": "批评比特币的高能耗就像批评消防队用了太多的水。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比特幣是能源。它的高能量使用是一種投資。比特幣礦工確保了\n一個巨大的網絡是一件好事。",
+      "title": "批評比特幣的高能耗就像批評消防隊用了太多的水。"
+    }
+  ]
 }
