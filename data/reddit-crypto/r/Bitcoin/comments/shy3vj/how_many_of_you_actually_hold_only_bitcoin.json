@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I understand this is a bitcoin sub, but there is no way you ONLY hold Bitcoin\nright?"
+  "the_new_excerpt": "I understand this is a bitcoin sub, but there is no way you ONLY hold Bitcoin\nright?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ビットコインのサブということですが、ビットコインだけを保有することはありえません。\nということですよね？",
+      "title": "実際にビットコインだけを保有している人はどれくらいいるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我知道这是一个比特币子，但你不可能只持有比特币。\n对吗？",
+      "title": "你们中有多少人真正只持有比特币？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我知道這是一個比特幣子，但你不可能只持有比特幣。\n對嗎？",
+      "title": "你們中有多少人真正只持有比特幣？"
+    }
+  ]
 }
