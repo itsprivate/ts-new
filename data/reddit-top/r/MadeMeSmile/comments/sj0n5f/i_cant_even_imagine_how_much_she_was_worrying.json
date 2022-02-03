@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どれだけ心配されたことか"
+    },
+    {
+      "locale": "zh",
+      "title": "我甚至无法想象她是多么的担心"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我甚至無法想象她是多麼的擔心"
+    }
+  ]
 }
