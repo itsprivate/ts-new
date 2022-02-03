@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://streamable.com/986aeb\n\nIt doesn't look like much yet, but figured I'd share. I found some code written\nin 1991 for Unix that is an ant farm simulation. I've ported the core bits of it\nto React. Ants have the ability to pick up dirt (turning it to sand), dig\ntunnels, and pile sand up. I'm…"
+  "the_new_excerpt": "https://streamable.com/986aeb\n\nIt doesn't look like much yet, but figured I'd share. I found some code written\nin 1991 for Unix that is an ant farm simulation. I've ported the core bits of it\nto React. Ants have the ability to pick up dirt (turning it to sand), dig\ntunnels, and pile sand up. I'm…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://streamable.com/986aeb\n\nまだたいしたことはないようですが、共有しようと思いました。私はいくつかのコードを見つけました。\n1991 年に Unix で開発されたアリ農場シミュレーションです。私はそのコアな部分を移植しました。\nをReactに置き換えた。蟻は、土を拾って（砂に変えて）、掘る能力がある。\nトンネルを掘ったり、砂を積んだり。私は...",
+      "title": "デジタルアントファームを作る"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://streamable.com/986aeb\n\n它看起来还不多，但我想我应该分享。我发现一些写于1991年的代码\n1991年为Unix写的一些代码，是一个蚂蚁农场模拟。我已经把它的核心部分移植到了\n移植到React上。蚂蚁有能力捡起泥土（将其变成沙子），挖\n隧道，并将沙子堆积起来。我在...",
+      "title": "创建一个数字蚂蚁农场"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://streamable.com/986aeb\n\n它看起來還不多，但我想我應該分享。我發現一些寫於1991年的代碼\n1991年爲Unix寫的一些代碼，是一個螞蟻農場模擬。我已經把它的核心部分移植到了\n移植到React上。螞蟻有能力撿起泥土（將其變成沙子），挖\n隧道，並將沙子堆積起來。我在...",
+      "title": "創建一個數字螞蟻農場"
+    }
+  ]
 }
