@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数州離れたところに住む兄が、郵便で手紙を送ってきた。"
+    },
+    {
+      "locale": "zh",
+      "title": "住在几个州外的哥哥通过邮件给我寄了一封信"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "住在幾個州外的哥哥通過郵件給我寄了一封信"
+    }
+  ]
 }
