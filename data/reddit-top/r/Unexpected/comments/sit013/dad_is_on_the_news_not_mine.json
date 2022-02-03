@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お父さんがニュースに登場! (私のものではありません)"
+    },
+    {
+      "locale": "zh",
+      "title": "爸爸上了新闻! (不是我的)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爸爸上了新聞! (不是我的)"
+    }
+  ]
 }
