@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スナイパーだらけ。"
+    },
+    {
+      "locale": "zh",
+      "title": "狙击手无处不在。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狙擊手無處不在。"
+    }
+  ]
 }
