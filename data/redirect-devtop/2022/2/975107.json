@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-01T16:16:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wc6iUc0V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z9c7p2krjyd6q1jua9cb.png",
   "author": "Adithya Sreyaj",
-  "author_url": "https://dev.to/adisreyaj"
+  "author_url": "https://dev.to/adisreyaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AngularのHttpContextについてご存知でしょうか？もし知らないなら、そんなものがあるんですね。HttpContextは...",
+      "title": "AngularのHttpContextって一体なんだろう？"
+    },
+    {
+      "locale": "zh",
+      "description": "你听说过Angular中的HttpContext吗？如果没有，有这么一个东西。HttpContext是用来...",
+      "title": "Angular中的HttpContext到底是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你聽說過Angular中的HttpContext嗎？如果沒有，有這麼一個東西。HttpContext是用來...",
+      "title": "Angular中的HttpContext到底是什麼？"
+    }
+  ]
 }
