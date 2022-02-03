@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Not 'comment score below threshhold' or when there are a bunch of replies to one\npost, but top comments without any votes in either direction or even\nhighly-upvoted top comments show up as collapsed often now. I started to notice\nthis around when the new blocking rules were introduced so I wonder…"
+  "the_new_excerpt": "Not 'comment score below threshhold' or when there are a bunch of replies to one\npost, but top comments without any votes in either direction or even\nhighly-upvoted top comments show up as collapsed often now. I started to notice\nthis around when the new blocking rules were introduced so I wonder…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コメントの点数が基準値以下」とか、「1つのコメントに何度も返信がある」のではなく、「1つのコメントに何度も返信がある」のです。\nの投稿が、どちらにも投票されていないトップコメントや、たとえ\n高得票のトップコメントがよく崩れたように表示されるようになった。気になり始めたのは\n新しいブロックルールが導入された頃なので、どうなんでしょうかね...。",
+      "title": "アップボートが多いコメントでも自動折りたたみで表示されるようになったことに気づいた方はいらっしゃいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不是 \"评论分数低于阈值\"，也不是一个帖子有一堆回复的时候\n但没有任何投票的顶级评论，甚至是投票率很高的顶级评论，现在也经常显示为崩溃。\n高票数的顶级评论现在经常显示为被折叠。我开始注意到\n我开始注意到这一点，大约是在新的封杀规则出台的时候，所以我想知道......",
+      "title": "有谁注意到评论开始显示自动折叠，即使它们被高度加注？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不是 \"評論分數低於閾值\"，也不是一個帖子有一堆回覆的時候\n但沒有任何投票的頂級評論，甚至是投票率很高的頂級評論，現在也經常顯示爲崩潰。\n高票數的頂級評論現在經常顯示爲被摺疊。我開始注意到\n我開始注意到這一點，大約是在新的封殺規則出臺的時候，所以我想知道......",
+      "title": "有誰注意到評論開始顯示自動摺疊，即使它們被高度加註？"
+    }
+  ]
 }
