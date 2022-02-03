@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人種に基づく配給は現実的であり、危険である。"
+    },
+    {
+      "locale": "zh",
+      "title": "基于种族的配给是真实的，也是危险的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基於種族的配給是真實的，也是危險的"
+    }
+  ]
 }
