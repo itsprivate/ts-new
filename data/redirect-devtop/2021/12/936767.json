@@ -42,5 +42,22 @@
   "original_created_at": "2021-12-26T10:33:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TvYXbxI---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lqisgld0xxx7djak3367.jpg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハイドレーションとは、JavaScriptフレームワークでページを初期化するための処理の名称である。",
+      "title": "JavaScriptフレームワークの効率的な水分補給が困難な理由"
+    },
+    {
+      "locale": "zh",
+      "description": "水化是JavaScript框架中对初始化页面的过程的命名。",
+      "title": "为什么JavaScript框架中的高效水合是如此的具有挑战性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "水化是JavaScript框架中對初始化頁面的過程的命名。",
+      "title": "爲什麼JavaScript框架中的高效水合是如此的具有挑戰性"
+    }
+  ]
 }
