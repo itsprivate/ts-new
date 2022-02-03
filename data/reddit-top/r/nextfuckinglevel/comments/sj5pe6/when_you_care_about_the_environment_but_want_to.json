@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "環境は気になるけど、おしゃれもしたいとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你关心环境，但又想在这方面保持时尚时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你關心環境，但又想在這方面保持時尚時"
+    }
+  ]
 }
