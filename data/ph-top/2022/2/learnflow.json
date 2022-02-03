@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-03T08:00:00Z"
+  "original_createdAt": "2022-02-03T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Learnflowは、Webflowのクローンを作るプロジェクトで、人気のNo-codeツールを統合する方法を学ぶための19のステップバイステップの演習で構成されています。Webflowは、そのすべてを接着するためのプラットフォームとして機能します。このプロジェクトは、スポンサーであるWeglot、Crisp、8020、Minimumのおかげで、無料で提供されています。",
+      "tagline": "Webflowでノーコード化する方法を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "Learnflow是一个在Webflow中克隆的项目，由19个分步练习组成，以学习如何整合流行的无代码工具。Webflow作为平台，将这一切粘合在一起。该项目是免费的，感谢我们的赞助商Weglot、Crisp、8020和Minimum。",
+      "tagline": "学习如何在Webflow中实现无代码化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Learnflow是一個在Webflow中克隆的項目，由19個分步練習組成，以學習如何整合流行的無代碼工具。Webflow作爲平臺，將這一切粘合在一起。該項目是免費的，感謝我們的贊助商Weglot、Crisp、8020和Minimum。",
+      "tagline": "學習如何在Webflow中實現無代碼化"
+    }
+  ]
 }
