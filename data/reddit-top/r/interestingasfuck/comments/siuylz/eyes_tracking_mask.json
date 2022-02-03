@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アイズトラッキングマスク"
+    },
+    {
+      "locale": "zh",
+      "title": "眼睛追踪面具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "眼睛追蹤面具"
+    }
+  ]
 }
