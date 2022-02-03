@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "生理をどう感じていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对你的月经有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對你的月經有什麼感覺？"
+    }
+  ]
 }
