@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなポケモンは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的小精灵是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的小精靈是什麼？"
+    }
+  ]
 }

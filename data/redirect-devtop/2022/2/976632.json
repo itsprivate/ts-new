@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-02T20:36:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ghDBDufn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ciliw7xcxptjn63pcd5c.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactとChakra UIで作られたオープンソースのダッシュボードテンプレート (MIT License)",
+      "title": "Argon Dashboard Chakra UI - 無料Reactテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "建立在React和Chakra UI之上的开源仪表盘模板（MIT许可）。",
+      "title": "Argon Dashboard Chakra UI - 免费React模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "建立在React和Chakra UI之上的開源儀表盤模板（MIT許可）。",
+      "title": "Argon Dashboard Chakra UI - 免費React模板"
+    }
+  ]
 }
