@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-03T08:01:00Z"
+  "original_createdAt": "2022-02-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいペットに出会って、最高の仲間になる。",
+      "tagline": "ペットのソーシャルネットワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "认识新的宠物，成为最好的伙伴。",
+      "tagline": "一个宠物社交网络"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "認識新的寵物，成爲最好的夥伴。",
+      "tagline": "一個寵物社交網絡"
+    }
+  ]
 }
