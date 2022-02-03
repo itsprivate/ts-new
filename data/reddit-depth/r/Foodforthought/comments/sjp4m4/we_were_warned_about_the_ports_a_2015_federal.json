@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは港について警告されました。2015年の連邦政府の報告書は、現在起こっている景気後退を予測していました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们被警告过港口的问题。2015年的一份联邦报告预测了整个经济放缓的情况，现在已经成为事实。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們被警告過港口的問題。2015年的一份聯邦報告預測了整個經濟放緩的情況，現在已經成爲事實。"
+    }
+  ]
 }

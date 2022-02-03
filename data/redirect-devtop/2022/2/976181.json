@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-02T13:48:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yHvyjIoh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s08j2f6ppt3eqp1hidy5.png",
   "author": "Alex Savage",
-  "author_url": "https://dev.to/savagealex"
+  "author_url": "https://dev.to/savagealex",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR JWTとは - JSON Web Tokens 「JOT」と発音します。ユーザが入力することで...",
+      "title": "JWTの安全な取り扱いについて"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR 它们是什么 JWTs - JSON Web Tokens，发音为 \"JOT\"。用户输入，所以...",
+      "title": "安全地处理JWTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR 它們是什麼 JWTs - JSON Web Tokens，發音爲 \"JOT\"。用戶輸入，所以...",
+      "title": "安全地處理JWTs"
+    }
+  ]
 }
