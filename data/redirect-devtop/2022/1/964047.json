@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-22T17:45:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qe_yVbR---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o0tn3pvmhni8ym9upuy6.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、JavaScriptのチートシートです。解説、コード例、基本的なこと、重要なことが書かれています。",
+      "title": "ブックマークしておきたいJavaScriptチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "这是JavaScript的小抄。它包含解释、代码示例、基本和重要的...",
+      "title": "你应该收藏的JavaScript小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是JavaScript的小抄。它包含解釋、代碼示例、基本和重要的...",
+      "title": "你應該收藏的JavaScript小抄"
+    }
+  ]
 }
