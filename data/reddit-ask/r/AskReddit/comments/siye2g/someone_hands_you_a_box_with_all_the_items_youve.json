@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたに、人生で失ったものをすべて詰めた箱を手渡します。それを手にしたとき、あなたはまず何を探しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有人递给你一个盒子，里面装着你在生活中失去的所有物品。当你抓住它时，你首先寻找的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人遞給你一個盒子，裏面裝着你在生活中失去的所有物品。當你抓住它時，你首先尋找的是什麼？"
+    }
+  ]
 }
