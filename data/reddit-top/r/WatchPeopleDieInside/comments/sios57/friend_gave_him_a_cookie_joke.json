@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友達がクッキーをくれた #joke"
+    },
+    {
+      "locale": "zh",
+      "title": "朋友给了他一块饼干#笑话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "朋友給了他一塊餅乾#笑話"
+    }
+  ]
 }
