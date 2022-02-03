@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I’m sure no one cares but Im happy about it."
+  "the_new_excerpt": "I’m sure no one cares but Im happy about it.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "誰も気にしないとは思いますが、Im happy about it.",
+      "title": "今日、初めて本格的にビットコインを購入しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我相信没人在乎，但我很高兴。",
+      "title": "我今天做了我第一次认真的比特币购买。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我相信沒人在乎，但我很高興。",
+      "title": "我今天做了我第一次認真的比特幣購買。"
+    }
+  ]
 }
