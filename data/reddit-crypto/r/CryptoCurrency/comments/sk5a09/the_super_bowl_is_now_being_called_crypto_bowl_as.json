@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スーパーボウルが「暗号ボウル」と呼ばれるようになったのは、新興の金融会社がテレビ広告に数百万ドルを投じたためである。"
+    },
+    {
+      "locale": "zh",
+      "title": "超级碗现在被称为 \"加密碗\"，因为新晋金融公司在电视广告上花费数百万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "超級碗現在被稱爲 \"加密碗\"，因爲新晉金融公司在電視廣告上花費數百萬美元。"
+    }
+  ]
 }

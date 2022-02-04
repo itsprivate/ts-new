@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたがビットコインという言葉を口にする前に、両親があなたのためにビットコインを用意してくれていたらと想像してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "想象一下，如果你的父母在你甚至能够说出比特币这个词之前就为你准备了一整个比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "想象一下，如果你的父母在你甚至能夠說出比特幣這個詞之前就爲你準備了一整個比特幣。"
+    }
+  ]
 }

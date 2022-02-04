@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-03T20:06:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U1NDiXm0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ef00p0evraq7utt40okj.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flaskを使った簡単なデータの見せ方 ",
+      "title": "Flask / Simple API / DockerとSQLiteを使った簡単な方法 "
+    },
+    {
+      "locale": "zh",
+      "description": "使用Flask展示你的数据的一个简单方法 ",
+      "title": "展示你的数据 - 使用Flask / Simple API / Docker和SQLite的简单方法 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Flask展示你的數據的一個簡單方法 ",
+      "title": "展示你的數據 - 使用Flask / Simple API / Docker和SQLite的簡單方法 "
+    }
+  ]
 }
