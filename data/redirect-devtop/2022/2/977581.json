@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-03T17:56:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KvLlcv8g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ivrkfeztxv3wf7n2p1j.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHubでコラボレーターの招待を自動化するための計画",
+      "title": "Probotで初めてのGitHubアプリを開発する"
+    },
+    {
+      "locale": "zh",
+      "description": "我的计划：在GitHub上实现合作者邀请的自动化 除了作为一个专业人员外，我还想在GitHub上实现合作者邀请的自动化。",
+      "title": "用Probot开发我的第一个GitHub应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的計劃：在GitHub上實現合作者邀請的自動化 除了作爲一個專業人員外，我還想在GitHub上實現合作者邀請的自動化。",
+      "title": "用Probot開發我的第一個GitHub應用程序"
+    }
+  ]
 }
