@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "「is\" to \"was\" speedrun any%."
+    },
+    {
+      "locale": "zh",
+      "title": "\"是 \"到 \"是 \"加速运行的任何百分比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"是 \"到 \"是 \"加速運行的任何百分比"
+    }
+  ]
 }
