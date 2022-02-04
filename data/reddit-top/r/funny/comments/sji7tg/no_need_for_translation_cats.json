@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "翻訳は不要です。猫..."
+    },
+    {
+      "locale": "zh",
+      "title": "不需要翻译。猫咪..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不需要翻譯。貓咪..."
+    }
+  ]
 }
