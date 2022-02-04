@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-04T08:11:17Z"
+  "original_createdAt": "2022-02-04T08:11:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "School of Kubernetesは100%無料のKubernetesコース、トレーニング、そしてプロのKubernetes開発者になるためのハンズオン知識です。オンデマンドでコンテンツにアクセスでき、クラウドネイティブのキャリアにおいて次のレベルの成長を引き出すことができます。ビルドを開始する 🚀。",
+      "tagline": "Kubernetesのプロになるための100%無料のK8sコース"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes学校是100%免费的Kubernetes课程、培训和实践知识，以成为一个专业的Kubernetes开发人员。按需获取内容，帮助你在云原生事业中解锁下一个层次的发展。开始建设🚀",
+      "tagline": "100%免费的K8s课程，让你成为Kubernetes专家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes學校是100%免費的Kubernetes課程、培訓和實踐知識，以成爲一個專業的Kubernetes開發人員。按需獲取內容，幫助你在雲原生事業中解鎖下一個層次的發展。開始建設🚀",
+      "tagline": "100%免費的K8s課程，讓你成爲Kubernetes專家"
+    }
+  ]
 }
