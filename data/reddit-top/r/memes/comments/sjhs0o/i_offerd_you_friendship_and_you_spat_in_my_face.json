@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友好を示したのに、顔にツバを吐かれた。"
+    },
+    {
+      "locale": "zh",
+      "title": "我给了你友谊，你却在我脸上吐口水"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我給了你友誼，你卻在我臉上吐口水"
+    }
+  ]
 }
