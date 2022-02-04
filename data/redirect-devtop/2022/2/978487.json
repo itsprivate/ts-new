@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-04T10:11:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XJe5G39t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/NAMPHmu.png",
   "author": "Deepu K Sasidharan",
-  "author_url": "https://dev.to/deepu105"
+  "author_url": "https://dev.to/deepu105",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rust、Go、JS、TS、Kotlin、Javaで並列Webサーバを構築し、並列処理性能を比較する。",
+      "title": "現代のプログラミング言語における並行処理。RustとGoとJavaとNode.jsとDenoの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "在Rust、Go、JS、TS、Kotlin和Java中构建一个并发的网络服务器，比较并发性能",
+      "title": "现代编程语言的并发性。Rust vs Go vs Java vs Node.js vs Deno"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Rust、Go、JS、TS、Kotlin和Java中構建一個併發的網絡服務器，比較併發性能",
+      "title": "現代編程語言的併發性。Rust vs Go vs Java vs Node.js vs Deno"
+    }
+  ]
 }
