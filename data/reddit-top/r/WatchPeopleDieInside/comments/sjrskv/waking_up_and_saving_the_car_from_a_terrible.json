@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目を覚ますと、ひどい事故から車を救う。"
+    },
+    {
+      "locale": "zh",
+      "title": "醒来后把车从一场可怕的事故中救出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醒來後把車從一場可怕的事故中救出來。"
+    }
+  ]
 }
