@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アマゾンは、Echoはあなたがウェイクワードを言ったときだけ聞こえると言っていますが、ウェイクワードを聞くためには、あなたの話を聞く必要があるのではないでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "亚马逊说他们的Echo只有在你说唤醒词时才会听到你，但它不是必须在听你说话时才会听到唤醒词吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "亞馬遜說他們的Echo只有在你說喚醒詞時纔會聽到你，但它不是必須在聽你說話時纔會聽到喚醒詞嗎？"
+    }
+  ]
 }
