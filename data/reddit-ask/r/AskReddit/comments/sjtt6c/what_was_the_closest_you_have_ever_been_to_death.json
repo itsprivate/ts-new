@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番死に近づいたのは？(真剣)"
+    },
+    {
+      "locale": "zh",
+      "title": "你最接近死亡的一次是什么？(认真的)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最接近死亡的一次是什麼？(認真的)"
+    }
+  ]
 }
