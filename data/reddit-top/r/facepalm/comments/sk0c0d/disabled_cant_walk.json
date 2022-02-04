@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "障がい者＝歩けない"
+    },
+    {
+      "locale": "zh",
+      "title": "残疾人=不能行走"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "殘疾人=不能行走"
+    }
+  ]
 }
