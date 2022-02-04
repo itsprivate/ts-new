@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブロコードは世界共通"
+    },
+    {
+      "locale": "zh",
+      "title": "兄弟代码是通用的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兄弟代碼是通用的"
+    }
+  ]
 }
