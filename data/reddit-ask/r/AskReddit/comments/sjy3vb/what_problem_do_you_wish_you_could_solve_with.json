@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "火薬で解決したい問題は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望用炸药解决什么问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望用炸藥解決什麼問題？"
+    }
+  ]
 }
