@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "According to data from Coinglass [https://www.coinglass.com/LiquidationData] 88%\nof the total liquidated positions during the last four hours were shorts. This\nfigure may change quite a bit as it was 85% when I started writing this post and\nnow it's at 88%. The 122 million figure may change as well…"
+  "the_new_excerpt": "According to data from Coinglass [https://www.coinglass.com/LiquidationData] 88%\nof the total liquidated positions during the last four hours were shorts. This\nfigure may change quite a bit as it was 85% when I started writing this post and\nnow it's at 88%. The 122 million figure may change as well…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Coinglassのデータ[https://www.coinglass.com/LiquidationData]によると、88%。\nこの4時間の間に清算されたポジションのうち、ショートポジションが占める割合は この\nこの記事を書き始めたときは85％だったのが、かなり変化しているかもしれません。\n今は88％になっています。1億2200万という数字も変わるかもしれませんね・・・。",
+      "title": "この4時間で1億ドル以上のショートが清算されました。ベアーズが大暴れ!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "根据Coinlass的数据[https://www.coinglass.com/LiquidationData]，88%的\n在过去四小时内的总清算头寸中，有88%是空头。这个\n这个数字可能会有很大的变化，因为我开始写这篇文章的时候是85%，现在是88%。\n现在是88%。1.22亿的数字也可能发生变化...",
+      "title": "在过去4个小时里，超过1亿美元的空头被清算。熊市正在被打击"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "根據Coinlass的數據[https://www.coinglass.com/LiquidationData]，88%的\n在過去四小時內的總清算頭寸中，有88%是空頭。這個\n這個數字可能會有很大的變化，因爲我開始寫這篇文章的時候是85%，現在是88%。\n現在是88%。1.22億的數字也可能發生變化...",
+      "title": "在過去4個小時裏，超過1億美元的空頭被清算。熊市正在被打擊"
+    }
+  ]
 }
