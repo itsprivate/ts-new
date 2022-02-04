@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Was gonna post on TooAfraidToAsk but it wouldn’t let me."
+  "the_new_excerpt": "Was gonna post on TooAfraidToAsk but it wouldn’t let me.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TooAfraidToAskに投稿しようと思ったのですが、できませんでした。",
+      "title": "アメリカでは、本を禁止することは憲法修正第一条に違反するのではありませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "本来想在TooAfraidToAsk上发帖，但它不让我发。",
+      "title": "在美国，禁书是违反第一修正案的，不是吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "本來想在TooAfraidToAsk上發帖，但它不讓我發。",
+      "title": "在美國，禁書是違反第一修正案的，不是嗎？"
+    }
+  ]
 }
