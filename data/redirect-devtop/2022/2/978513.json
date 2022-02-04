@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-04T10:33:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dx9CTugp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3gfjnk74b92beqf41su0.png",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactはJavaScriptのライブラリで、フロントエンド開発において最も人気があり、業界をリードしている...",
+      "title": "ReactとTypeScriptでクリーンなコードを書くための10の必修パターン✨🛀。"
+    },
+    {
+      "locale": "zh",
+      "description": "React是一个JavaScript库，它是最流行和业界领先的前端开发...",
+      "title": "用React和TypeScript编写简洁代码的10个必须知道的模式✨🛀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是一個JavaScript庫，它是最流行和業界領先的前端開發...",
+      "title": "用React和TypeScript編寫簡潔代碼的10個必須知道的模式✨🛀"
+    }
+  ]
 }
