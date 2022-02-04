@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "戻ってくる"
+    },
+    {
+      "locale": "zh",
+      "title": "回来吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "回來吧"
+    }
+  ]
 }
