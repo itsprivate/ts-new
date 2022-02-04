@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-04T08:01:00Z"
+  "original_createdAt": "2022-02-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🛠 GUIを使って数クリックで独自のトークン、NFT、DeFi Dapp、NFT Marketplacesなどを構築 ⚙️ Dapp開発者にとって最高のバックエンドソリューションであると同時に、独自の新しいモジュールをアップロードできる 💻 Bunzz SDKを使ってアプリにweb3機能を統合する。",
+      "tagline": "バックエンドのコーディングなしでdAppを手に入れる"
+    },
+    {
+      "locale": "zh",
+      "description": "🛠用我们的GUI点击几下就可以建立你自己的代币、NFT、DeFi Dapp、NFT市场等 ⚙️为Dapp开发者提供最好的后端解决方案，同时允许他们上传自己的新模块 💻使用Bunzz SDK将web3功能集成到你的应用程序中",
+      "tagline": "无需后端编码即可获得您的dApp"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🛠用我們的GUI點擊幾下就可以建立你自己的代幣、NFT、DeFi Dapp、NFT市場等 ⚙️爲Dapp開發者提供最好的後端解決方案，同時允許他們上傳自己的新模塊 💻使用Bunzz SDK將web3功能集成到你的應用程序中",
+      "tagline": "無需後端編碼即可獲得您的dApp"
+    }
+  ]
 }
