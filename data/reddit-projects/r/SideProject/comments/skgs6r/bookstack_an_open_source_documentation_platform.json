@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BookStack - オープンソースのドキュメントプラットフォーム（Confluenceと同様のユースケース）、過去6年間の私の主要なサイドプロジェクトです。"
+    },
+    {
+      "locale": "zh",
+      "title": "BookStack - 一个开源的文档平台（与Confluence的用例相似），是我过去6年的主要副业。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BookStack - 一個開源的文檔平臺（與Confluence的用例相似），是我過去6年的主要副業。"
+    }
+  ]
 }
