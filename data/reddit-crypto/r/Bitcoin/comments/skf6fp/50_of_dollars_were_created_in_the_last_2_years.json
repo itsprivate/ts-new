@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドルの50％は過去2年間に作られたものです。なぜアメリカではハイパーインフレが起きないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "50%的美元是在过去两年里创造的。为什么我们在美国没有看到恶性通货膨胀？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "50%的美元是在過去兩年裏創造的。爲什麼我們在美國沒有看到惡性通貨膨脹？"
+    }
+  ]
 }
