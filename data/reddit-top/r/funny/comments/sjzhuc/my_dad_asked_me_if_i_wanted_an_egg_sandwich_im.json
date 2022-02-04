@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "父が「タマゴサンドはどう？怒りもしない、これは天才的だ!"
+    },
+    {
+      "locale": "zh",
+      "title": "我爸爸问我是否想要一个鸡蛋三明治。我甚至没有生气，这真是天才！\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爸爸問我是否想要一個雞蛋三明治。我甚至沒有生氣，這真是天才！\"。"
+    }
+  ]
 }
