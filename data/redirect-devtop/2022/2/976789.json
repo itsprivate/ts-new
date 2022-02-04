@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-03T00:14:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7uoXvH1F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hdobokgcjtj41pozcaru.png",
   "author": "Caleb Weeks",
-  "author_url": "https://dev.to/sethcalebweeks"
+  "author_url": "https://dev.to/sethcalebweeks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、皆さんは関数型プログラミング（以下、FP）という言葉を聞いたことがあると思います。ある人はこう言います...",
+      "title": "関数型プログラミングは誇大広告に値するか？"
+    },
+    {
+      "locale": "zh",
+      "description": "所以你听说过这个函数式编程的事情（从现在开始称为FP）。有人说它...",
+      "title": "函数式编程值得炒作吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以你聽說過這個函數式編程的事情（從現在開始稱爲FP）。有人說它...",
+      "title": "函數式編程值得炒作嗎？"
+    }
+  ]
 }
