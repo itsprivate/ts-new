@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大学の教室 vs 同大学アメフト部のロッカールーム"
+    },
+    {
+      "locale": "zh",
+      "title": "大学教室对同一所大学的足球更衣室"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大學教室對同一所大學的足球更衣室"
+    }
+  ]
 }
