@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1933年の焚書、2022年の再焚書"
+    },
+    {
+      "locale": "zh",
+      "title": "1933年烧书，2022年再次烧书"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1933年燒書，2022年再次燒書"
+    }
+  ]
 }
