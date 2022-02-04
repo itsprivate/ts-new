@@ -41,5 +41,22 @@
   "original_created_at": "2022-01-29T16:42:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5W32buRf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jeqvcwws18i3aunsdxy3.jpeg",
   "author": "Vaarun Sinha",
-  "author_url": "https://dev.to/vaarun_sinha"
+  "author_url": "https://dev.to/vaarun_sinha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者であれば、コードを書けば書くほどバグに悩まされることになります。",
+      "title": "良い質問をする技術"
+    },
+    {
+      "locale": "zh",
+      "description": "作为开发人员，我们写的代码越多，我们必须解决的错误就越多，有时我们可能只是...",
+      "title": "提出好问题的艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲開發人員，我們寫的代碼越多，我們必須解決的錯誤就越多，有時我們可能只是...",
+      "title": "提出好問題的藝術"
+    }
+  ]
 }
