@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Or am I just stupid?"
+  "the_new_excerpt": "Or am I just stupid?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それとも私がバカなだけ？",
+      "title": "時間を確認するために携帯電話を取り出して、しまい込んでから、今が何時なのか全くわからないことに気づく人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还是我太笨了？",
+      "title": "是否有人把手机拿出来看时间，把它收起来，然后发现你不知道现在是什么时候？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還是我太笨了？",
+      "title": "是否有人把手機拿出來看時間，把它收起來，然後發現你不知道現在是什麼時候？"
+    }
+  ]
 }
