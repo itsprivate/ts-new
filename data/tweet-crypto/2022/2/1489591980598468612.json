@@ -135,5 +135,22 @@
     "retweet_count": 1259,
     "favorite_count": 5024,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: 2014年。'#ビットコインが400ドルに下落'\n2018年：「#ビットコインが4,000ドルに下落」。\n2022年：「#ビットコインが4万円まで下落する\n\nちょっと...と思われる",
+      "retweeted_status_full_text": "2014: '#ビットコインが400ドルに下落'\n2018年：「#ビットコインが4,000ドルに下落」。\n2022年：「#ビットコインが4万円まで下落する\n\nちょっとしたパターンのようだ https://t.co/huMpwmr8Zf"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: 2014年。'#比特币跌至400美元\n2018年：\"#比特币跌至4,000美元\n2022年：\"#比特币跌至40,000美元\n\n似乎有点...",
+      "retweeted_status_full_text": "2014: '#比特币跌至400美元'\n2018年：'#比特币跌至4000美元'\n2022年：\"#比特币跌至40,000美元\n\n似乎有点像一个模式。https://t.co/huMpwmr8Zf"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: 2014年。'#比特幣跌至400美元\n2018年：\"#比特幣跌至4,000美元\n2022年：\"#比特幣跌至40,000美元\n\n似乎有點...",
+      "retweeted_status_full_text": "2014: '#比特幣跌至400美元'\n2018年：'#比特幣跌至4000美元'\n2022年：\"#比特幣跌至40,000美元\n\n似乎有點像一個模式。https://t.co/huMpwmr8Zf"
+    }
+  ]
 }
