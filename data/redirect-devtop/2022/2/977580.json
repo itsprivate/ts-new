@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-03T17:53:53Z",
   "image": "https://dev.to/social_previews/article/977580.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Announcing my 28 Days of GitHub 次の28日間、私はGitHubを深く掘り下げていくつもりです...",
+      "title": "GitHubの28日間。ワークフローを自動化し、改善する"
+    },
+    {
+      "locale": "zh",
+      "description": "宣布我的GitHub 28天 在接下来的28天里，我将对GitHub进行一次深入的研究。",
+      "title": "28天的GitHub。自动化和改进你的工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "宣佈我的GitHub 28天 在接下來的28天裏，我將對GitHub進行一次深入的研究。",
+      "title": "28天的GitHub。自動化和改進你的工作流程"
+    }
+  ]
 }
