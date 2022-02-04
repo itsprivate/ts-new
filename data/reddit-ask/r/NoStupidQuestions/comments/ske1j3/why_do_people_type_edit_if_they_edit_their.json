@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ人々は投稿/コメントを編集する場合、「Edit:」と入力するのでしょうか？何も言わずに編集することはできないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么人们在编辑他们的帖子/评论时要输入 \"编辑：\"？他们就不能不说而编辑吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼人們在編輯他們的帖子/評論時要輸入 \"編輯：\"？他們就不能不說而編輯嗎？"
+    }
+  ]
 }
