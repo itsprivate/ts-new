@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-04T20:08:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RkU1Lfm2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/njhx59dmgy0wd9wm0tm4.jpg",
   "author": "Muhammad Ali (Nerdjfpb)",
-  "author_url": "https://dev.to/nerdjfpb"
+  "author_url": "https://dev.to/nerdjfpb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Node jsは今人気のバックエンドです! 高速で簡単にコードを書くことができます。もし...",
+      "title": "2022年、NodeJS、ExpressJS、MongoDBでシンプルなCRUD RESTful APIを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：Node js是时下流行的后端! 它速度快，容易写代码。如果...",
+      "title": "如何在2022年用NodeJS、ExpressJS和MongoDB构建简单的CRUD RESTful API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：Node js是時下流行的後端! 它速度快，容易寫代碼。如果...",
+      "title": "如何在2022年用NodeJS、ExpressJS和MongoDB構建簡單的CRUD RESTful API"
+    }
+  ]
 }
