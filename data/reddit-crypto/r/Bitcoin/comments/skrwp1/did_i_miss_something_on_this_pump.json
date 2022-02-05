@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このポンプに何か見落としがあったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我在这个泵上错过了什么吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在這個泵上錯過了什麼嗎？"
+    }
+  ]
 }
