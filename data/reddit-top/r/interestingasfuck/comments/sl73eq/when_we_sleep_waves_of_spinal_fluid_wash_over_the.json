@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちが眠るとき、髄液の波が脳を洗い、老廃物を除去しています"
+    },
+    {
+      "locale": "zh",
+      "title": "当我们睡觉时，一波波的脊髓液冲刷着大脑，以清除废物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當我們睡覺時，一波波的脊髓液沖刷着大腦，以清除廢物"
+    }
+  ]
 }
