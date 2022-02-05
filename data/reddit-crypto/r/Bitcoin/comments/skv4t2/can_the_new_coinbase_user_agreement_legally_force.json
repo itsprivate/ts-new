@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースの新しいユーザー契約は、すでに所有している資産へのアクセスをブロックすることで、彼らが望むどんな条件にも同意するよう合法的に強制できるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "新的Coinbase用户协议能否通过阻止访问你已经拥有的资产，合法地迫使你同意他们想要的任何条款？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新的Coinbase用戶協議能否通過阻止訪問你已經擁有的資產，合法地迫使你同意他們想要的任何條款？"
+    }
+  ]
 }
