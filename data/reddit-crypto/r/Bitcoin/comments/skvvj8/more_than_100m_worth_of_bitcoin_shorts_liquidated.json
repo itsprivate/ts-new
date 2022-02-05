@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この24時間で1億円以上のビットコインショートを清算! 🥳 🎉🎉🎉"
+    },
+    {
+      "locale": "zh",
+      "title": "过去24小时内价值超过1亿美元的比特币空头被清算! 🥳 🎉🎉🎉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去24小時內價值超過1億美元的比特幣空頭被清算! 🥳 🎉🎉🎉"
+    }
+  ]
 }
