@@ -33,5 +33,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Time = Money\" - すべての価格を、その金額を稼ぐために必要な労働時間に置き換えるChrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "title": "\"时间=金钱\"--Chrome扩展程序，用你需要工作的时间来取代所有价格，以赚取这么多钱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"時間=金錢\"--Chrome擴展程序，用你需要工作的時間來取代所有價格，以賺取這麼多錢"
+    }
+  ]
 }
