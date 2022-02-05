@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイブチェックに合格"
+    },
+    {
+      "locale": "zh",
+      "title": "他通过了气场检查"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他通過了氣場檢查"
+    }
+  ]
 }
