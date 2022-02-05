@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが40kドルに急騰した後、2億5千万ドルのショーツが暴落。一人のショーターがたった一度の注文で$3Mを失った。"
+    },
+    {
+      "locale": "zh",
+      "title": "在比特币飙升至4万美元后，2.5亿美元的短线被抛售。一个做空者仅用一个订单就损失了300万美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在比特幣飆升至4萬美元后，2.5億美元的短線被拋售。一個做空者僅用一個訂單就損失了300萬美元"
+    }
+  ]
 }
