@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-05T08:46:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y1jaWrFN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4utj4t79gd1tf4levo5m.png",
   "author": "Ajay Kumar Verma",
-  "author_url": "https://dev.to/ajayv1"
+  "author_url": "https://dev.to/ajayv1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数週間前、私はリクエストの複雑なリダイレクトを行う必要がありました。例えば、nginxに来るリクエストに...",
+      "title": "2022年、Nginxとその基本を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "几周前，我不得不对一个请求做一个复杂的重定向，例如，如果来到nginx的请求有一个...",
+      "title": "在2022年学习Nginx及其基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾周前，我不得不對一個請求做一個複雜的重定向，例如，如果來到nginx的請求有一個...",
+      "title": "在2022年學習Nginx及其基礎知識"
+    }
+  ]
 }
