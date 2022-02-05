@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見たことないでしょ..."
+    },
+    {
+      "locale": "zh",
+      "title": "你从未见过这个..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你從未見過這個..."
+    }
+  ]
 }
