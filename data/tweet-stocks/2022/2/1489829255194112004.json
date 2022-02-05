@@ -155,5 +155,22 @@
     "retweet_count": 3411,
     "favorite_count": 13492,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: @TheRealKeean https://t.co/ok0BmaoapC",
+      "retweeted_status_full_text": "TheRealKeean https://t.co/ok0BmaoapC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: @TheRealKeean https://t.co/ok0BmaoapC",
+      "retweeted_status_full_text": "@TheRealKeean https://t.co/ok0BmaoapC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: @TheRealKeean https://t.co/ok0BmaoapC",
+      "retweeted_status_full_text": "@TheRealKeean https://t.co/ok0BmaoapC"
+    }
+  ]
 }
