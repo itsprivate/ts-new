@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It went from 37 to 39 in a few minutes. Any known reason? Big news or some short\nsqueeze?"
+  "the_new_excerpt": "It went from 37 to 39 in a few minutes. Any known reason? Big news or some short\nsqueeze?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "数分で37から39になりました。何か理由があるのでしょうか？大きなニュースか、空売りか\nスクイーズ？",
+      "title": "今日の7％ポンプの原因をご存知の方はいらっしゃいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "几分钟内从37到39。有什么已知的原因吗？大消息还是一些空头\n挤压？",
+      "title": "有谁知道今天7%的泵的原因吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "幾分鐘內從37到39。有什麼已知的原因嗎？大消息還是一些空頭\n擠壓？",
+      "title": "有誰知道今天7%的泵的原因嗎？"
+    }
+  ]
 }

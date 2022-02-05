@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-04T08:01:00Z"
+  "original_createdAt": "2022-02-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SweatyNFTは、一行のコードも書かずに、最大10Kのジェネレーティブアート作品を簡単に作成し、OpenSeaなどのマーケットプレイスでNFTとして販売することを可能にします。",
+      "tagline": "コード不要のジェネレーティブNFTアートの制作、発売、販売"
+    },
+    {
+      "locale": "zh",
+      "description": "SweatyNFT使得创建多达10K的生成艺术作品并在OpenSea等市场上以NFT的形式出售变得非常容易，而不需要编写一行代码。",
+      "tagline": "创建、推出和销售生成性的NFT艺术，不需要代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SweatyNFT使得創建多達10K的生成藝術作品並在OpenSea等市場上以NFT的形式出售變得非常容易，而不需要編寫一行代碼。",
+      "tagline": "創建、推出和銷售生成性的NFT藝術，不需要代碼"
+    }
+  ]
 }
