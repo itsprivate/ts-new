@@ -65,5 +65,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この鳥のお気に入りの心地よい場所"
+    },
+    {
+      "locale": "zh",
+      "title": "这只鸟最喜欢的舒适场所"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻鳥最喜歡的舒適場所"
+    }
+  ]
 }
