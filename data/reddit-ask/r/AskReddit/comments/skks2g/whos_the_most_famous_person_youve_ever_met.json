@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番有名な人は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你见过的最有名的人是谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你見過的最有名的人是誰？"
+    }
+  ]
 }
