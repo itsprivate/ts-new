@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "checkmymate.co - チェスで友達に勝つ方法を見るためのサイト。"
+    },
+    {
+      "locale": "zh",
+      "title": "checkmymate.co - 一个看如何在国际象棋中击败朋友的网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "checkmymate.co - 一個看如何在國際象棋中擊敗朋友的網站。"
+    }
+  ]
 }
