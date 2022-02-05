@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I do this every time because I know it makes the commentor happy"
+  "the_new_excerpt": "I do this every time because I know it makes the commentor happy",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コメントした人が喜ぶと思うので、毎回そうしています。",
+      "title": "小さなサブレディットで、人々がコメントを続けることを奨励するために、すべてのコメントにアップボートを付ける人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我每次都这样做，因为我知道这能让评论者高兴。",
+      "title": "还有人在小的子版块中为每条评论加注，以鼓励人们继续发表评论吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我每次都這樣做，因爲我知道這能讓評論者高興。",
+      "title": "還有人在小的子版塊中爲每條評論加註，以鼓勵人們繼續發表評論嗎？"
+    }
+  ]
 }
