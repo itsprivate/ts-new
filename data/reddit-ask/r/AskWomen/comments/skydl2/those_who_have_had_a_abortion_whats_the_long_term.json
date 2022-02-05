@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中絶を経験された方、長期的にどのような影響を受け、現在はどのように過ごされていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "那些有过堕胎经历的人，你们面临的长期影响是什么，你们今天的情况如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那些有過墮胎經歷的人，你們面臨的長期影響是什麼，你們今天的情況如何？"
+    }
+  ]
 }
