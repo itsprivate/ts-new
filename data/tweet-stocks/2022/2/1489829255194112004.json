@@ -1,0 +1,159 @@
+{
+  "created_at": "Sat Feb 05 5:41:52 +0000 2022",
+  "id_str": "1489829255194112004",
+  "full_text": "RT @elonmusk: @TheRealKeean https://t.co/ok0BmaoapC",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "elonmusk",
+        "name": "Elon Musk",
+        "id": 44196397,
+        "id_str": "44196397",
+        "indices": [
+          3,
+          12
+        ]
+      },
+      {
+        "screen_name": "TheRealKeean",
+        "name": "Keean Bexte",
+        "id": 961134787,
+        "id_str": "961134787",
+        "indices": [
+          14,
+          27
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1489798654042988500,
+        "id_str": "1489798654042988546",
+        "indices": [
+          28,
+          51
+        ],
+        "media_url": "http://pbs.twimg.com/media/FKzT-4kWYAIvUDB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FKzT-4kWYAIvUDB.jpg",
+        "url": "https://t.co/ok0BmaoapC",
+        "display_url": "pic.twitter.com/ok0BmaoapC",
+        "expanded_url": "https://twitter.com/elonmusk/status/1489798660561018886/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 723,
+            "h": 935,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 526,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 723,
+            "h": 935,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1489798660561019000,
+        "source_status_id_str": "1489798660561018886",
+        "source_user_id": 44196397,
+        "source_user_id_str": "44196397"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 3411,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Feb 05 05:12:28 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Sat Feb 05 03:10:54 +0000 2022",
+    "id_str": "1489798660561018886",
+    "full_text": "@TheRealKeean https://t.co/ok0BmaoapC",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheRealKeean",
+          "name": "Keean Bexte",
+          "id": 961134787,
+          "id_str": "961134787",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1489798654042988500,
+          "id_str": "1489798654042988546",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/FKzT-4kWYAIvUDB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FKzT-4kWYAIvUDB.jpg",
+          "url": "https://t.co/ok0BmaoapC",
+          "display_url": "pic.twitter.com/ok0BmaoapC",
+          "expanded_url": "https://twitter.com/elonmusk/status/1489798660561018886/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 723,
+              "h": 935,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 526,
+              "h": 680,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 723,
+              "h": 935,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1489375145684873217/3VYnFrzx_normal.jpg"
+    },
+    "retweet_count": 3411,
+    "favorite_count": 13492,
+    "possibly_sensitive": false
+  }
+}
