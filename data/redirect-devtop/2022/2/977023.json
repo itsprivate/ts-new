@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-03T08:14:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1cyRChxt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp6zd8ybkk6e0ad2iurq.png",
   "author": "Nick | React tinkerer ⚛️",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イントロ この言葉を聞いたことがありますか？もし、あなたが一番になりたければ、他の人から学びなさい。",
+      "title": "JSで不変量を使ってガードする"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 你听说过这句话吗？如果你想成为最优秀的人，就向他们学习。",
+      "title": "在JS中使用不变量的守卫"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 你聽說過這句話嗎？如果你想成爲最優秀的人，就向他們學習。",
+      "title": "在JS中使用不變量的守衛"
+    }
+  ]
 }
