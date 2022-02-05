@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-05T12:25:38Z"
+  "original_createdAt": "2022-02-05T12:25:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WarWordlyはWordleのようなもので、友人と一緒に単語を推測して競います。英語とスペイン語で利用可能です。",
+      "tagline": "友達とWordleで対戦"
+    },
+    {
+      "locale": "zh",
+      "description": "WarWordly就像Wordle，但你要和朋友竞争，看谁先猜到这个词。它有英文和西班牙文版本。",
+      "tagline": "与朋友一起玩文字游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WarWordly就像Wordle，但你要和朋友競爭，看誰先猜到這個詞。它有英文和西班牙文版本。",
+      "tagline": "與朋友一起玩文字遊戲"
+    }
+  ]
 }
