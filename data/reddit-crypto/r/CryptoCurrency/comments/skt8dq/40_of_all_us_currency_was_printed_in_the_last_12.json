@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去12ヶ月で米国通貨の40％が印刷された"
+    },
+    {
+      "locale": "zh",
+      "title": "40%的美国货币是在过去12个月中印刷的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "40%的美國貨幣是在過去12個月中印刷的"
+    }
+  ]
 }
