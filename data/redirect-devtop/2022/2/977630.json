@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-03T19:25:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SLqbrsLQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5fd1gsvaekdgyt6nik80.png",
   "author": "Roie Schwaber-Cohen",
-  "author_url": "https://dev.to/rschwabco"
+  "author_url": "https://dev.to/rschwabco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに RBAC（Role Based Access Control）とは、アクセス制御のパターンの一つで、アクセス制御を行うために必要な...",
+      "title": "NodeでRBACを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "导语：基于角色的访问控制（RBAC）是一种访问控制模式，它管理的是一个人对一个人的访问。",
+      "title": "在Node中建立RBAC"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "導語：基於角色的訪問控制（RBAC）是一種訪問控制模式，它管理的是一個人對一個人的訪問。",
+      "title": "在Node中建立RBAC"
+    }
+  ]
 }
