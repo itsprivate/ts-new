@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの説明 暗号通貨はどのように機能するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币的解释。加密货币是如何运作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣的解釋。加密貨幣是如何運作的？"
+    }
+  ]
 }
