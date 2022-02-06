@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-06T08:00:00Z"
+  "original_createdAt": "2022-02-06T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "webpack、Parcel、snowpackで新しいフロントエンドプロジェクトを超速でセットアップします。Reactやsvelteなどのメインライブラリ、テストツール、UIライブラリを選び、生成された設定をブラウザで即座に確認することができます。プロジェクトが入ったzipをダウンロードして、ハッキングを始めましょう!",
+      "tagline": "ブラウザで新しい webpack/Parcel/snowpack プロジェクトを作成します。"
+    },
+    {
+      "locale": "zh",
+      "description": "用webpack、Parcel或snowpack超级快速地建立一个新的前端项目。选择你的主要库，如React或svelte，测试工具，UI库，并在浏览器中立即看到生成的配置。下载一个包含项目的压缩包，然后开始黑客行动吧",
+      "tagline": "在你的浏览器中创建一个新的webpack/Parcel/snowpack项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用webpack、Parcel或snowpack超級快速地建立一個新的前端項目。選擇你的主要庫，如React或svelte，測試工具，UI庫，並在瀏覽器中立即看到生成的配置。下載一個包含項目的壓縮包，然後開始黑客行動吧",
+      "tagline": "在你的瀏覽器中創建一個新的webpack/Parcel/snowpack項目"
+    }
+  ]
 }

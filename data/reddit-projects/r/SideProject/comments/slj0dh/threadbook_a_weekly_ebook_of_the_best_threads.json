@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ThreadBook - Twitterのフィードから最高のスレッドを毎週電子書籍としてKindleに配信します。"
+    },
+    {
+      "locale": "zh",
+      "title": "ThreadBook - 每周一次的电子书，收录了你在Twitter上的最佳话题，送到你的Kindle上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ThreadBook - 每週一次的電子書，收錄了你在Twitter上的最佳話題，送到你的Kindle上。"
+    }
+  ]
 }
