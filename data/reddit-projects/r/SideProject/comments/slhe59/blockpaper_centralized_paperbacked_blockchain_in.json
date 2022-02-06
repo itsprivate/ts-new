@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BlockPaper - 紙に裏打ちされたブロックチェーンを自宅のオフィスで集中管理。"
+    },
+    {
+      "locale": "zh",
+      "title": "BlockPaper - 在我的家庭办公室里的集中式、以纸为基础的区块链"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BlockPaper - 在我的家庭辦公室裏的集中式、以紙爲基礎的區塊鏈"
+    }
+  ]
 }
