@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古いアカウントでBTCを見つける"
+    },
+    {
+      "locale": "zh",
+      "title": "在一个旧账户上找到BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在一箇舊賬戶上找到BTC"
+    }
+  ]
 }
