@@ -71,5 +71,15 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "我做了一个快速的网站模板，在所有的速度测试中都得了100分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個快速的網站模板，在所有的速度測試中都得了100分"
+    }
+  ]
 }
