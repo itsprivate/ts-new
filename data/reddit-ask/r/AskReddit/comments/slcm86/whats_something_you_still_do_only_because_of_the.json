@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが生まれた年代だからこそ、今でもやっていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在还在做的事情是什么，只是因为你出生的那个年代？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在還在做的事情是什麼，只是因爲你出生的那個年代？"
+    }
+  ]
 }
