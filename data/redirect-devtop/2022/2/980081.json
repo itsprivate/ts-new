@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-05T23:08:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q2GeBUHm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3i89ne6mi1jsvniv5xn.PNG",
   "author": "Kayode",
-  "author_url": "https://dev.to/zt4ff_1"
+  "author_url": "https://dev.to/zt4ff_1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "他の人のMongo Databaseの接続文字列を検索して取得できないか試してみたのですが...。",
+      "title": "GitHubの公開リポジトリ1000件以上からMongoDB接続文字列を探し出してみた"
+    },
+    {
+      "locale": "zh",
+      "description": "我试着看看是否可以通过搜索获得其他人的Mongo数据库连接字符串...",
+      "title": "我试图在1000多个公共GitHub仓库中找到MongoDB连接字符串"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我試着看看是否可以通過搜索獲得其他人的Mongo數據庫連接字符串...",
+      "title": "我試圖在1000多個公共GitHub倉庫中找到MongoDB連接字符串"
+    }
+  ]
 }
