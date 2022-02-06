@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "灯台守"
+    },
+    {
+      "locale": "zh",
+      "title": "灯塔看守人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "燈塔看守人"
+    }
+  ]
 }
