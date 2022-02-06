@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "孤独を感じることはあっても、誰かが話したがっても、自分にはそのエネルギーがないと感じることはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否曾经感到孤独，但当有人想说话时，你又觉得自己没有精力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否曾經感到孤獨，但當有人想說話時，你又覺得自己沒有精力？"
+    }
+  ]
 }
