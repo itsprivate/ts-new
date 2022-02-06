@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-05T23:13:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dLAxlH-X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0wsb4dvrm819rinw7xeu.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このビデオでは、html、css、javascriptを使用した個人ブログサイトの作り方を紹介します。",
+      "title": "HTML CSS JSを使った個人ブログサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "如何使用html css javascript制作个人博客网站 在这段视频中，我将向你展示如何制作个人博客。",
+      "title": "使用HTML CSS JS的个人博客网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何使用html css javascript製作個人博客網站 在這段視頻中，我將向你展示如何製作個人博客。",
+      "title": "使用HTML CSS JS的個人博客網站"
+    }
+  ]
 }
