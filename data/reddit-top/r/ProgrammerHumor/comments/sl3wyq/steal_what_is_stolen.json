@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "盗まれたものを盗む"
+    },
+    {
+      "locale": "zh",
+      "title": "窃取被窃取的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "竊取被竊取的東西"
+    }
+  ]
 }
