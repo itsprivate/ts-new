@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-06T09:33:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lxTLCMU---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gx6zpdnecrcumglpefg.png",
   "author": "Nick | React tinkerer ⚛️",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JSでは、オブジェクトを作成した後に、プロパティを追加する機能があります。 自由度が高いですね...。",
+      "title": "JavaScriptで動的にプロパティを追加するのが遅いのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "JS提供了一种在对象创建后向其添加属性的能力。 它给了人们很大的自由...",
+      "title": "为什么在JavaScript中动态添加属性会很慢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JS提供了一種在對象創建後向其添加屬性的能力。 它給了人們很大的自由...",
+      "title": "爲什麼在JavaScript中動態添加屬性會很慢？"
+    }
+  ]
 }
