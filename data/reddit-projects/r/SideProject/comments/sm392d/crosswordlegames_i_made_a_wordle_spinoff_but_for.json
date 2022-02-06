@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "cross-wordle.games - Wordleのスピンオフですが、クロスワードのために作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "cross-wordle.games - 我做了一个Wordle的衍生产品，但为填字游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "cross-wordle.games - 我做了一個Wordle的衍生產品，但爲填字遊戲。"
+    }
+  ]
 }

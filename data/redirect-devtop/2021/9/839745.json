@@ -45,5 +45,22 @@
   "original_created_at": "2021-09-25T01:49:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5bKfKh2x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cwp9mr4u0rz5imte48a0.jpeg",
   "author": "lucamug",
-  "author_url": "https://dev.to/lucamug"
+  "author_url": "https://dev.to/lucamug",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptとElmの違いについて聞かれたことが何度かあります。今回はその違いを列挙してみます。",
+      "title": "TypeScriptとElmの違い"
+    },
+    {
+      "locale": "zh",
+      "description": "有几次，我被问及TypeScript和Elm之间的区别。这是一个试图列出这些差异的尝试。",
+      "title": "TypeScript和Elm之间的差异"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有幾次，我被問及TypeScript和Elm之間的區別。這是一個試圖列出這些差異的嘗試。",
+      "title": "TypeScript和Elm之間的差異"
+    }
+  ]
 }
