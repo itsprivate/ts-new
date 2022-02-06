@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-05T13:20:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fTwx513K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxjfmvx5vdqf6jpodxmu.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FlaskとStripeで構築されたシンプルなeコマースプロジェクトです。ソースコードはGithubからダウンロードできます(MIT License)。",
+      "title": "Flask Stripe Sample - オープンソースのシンプルなeコマースAPP"
+    },
+    {
+      "locale": "zh",
+      "description": "一个用Flask和Stripe构建的简单电子商务项目。源代码可以从Github下载（MIT许可）。",
+      "title": "Flask Stripe样本 - 开源的、简单的电商APP"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個用Flask和Stripe構建的簡單電子商務項目。源代碼可以從Github下載（MIT許可）。",
+      "title": "Flask Stripe樣本 - 開源的、簡單的電商APP"
+    }
+  ]
 }

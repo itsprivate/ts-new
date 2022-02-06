@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Proof of Reserves監査により、Krakenは$19BTCとETHを保有し、すべてのコインがスポットであったことが証明されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "储量证明审计显示Kraken持有190亿美元的BTC和ETH，并证明每个币都在现货上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "儲量證明審計顯示Kraken持有190億美元的BTC和ETH，並證明每個幣都在現貨上"
+    }
+  ]
 }
