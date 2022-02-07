@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WhaleStatsによると、Polygon（MATIC）、Loopring（LRC）、Render Token（RNDR）、Sushiswap（SUSHI）を集積するイーサリアムホエールたち"
+    },
+    {
+      "locale": "zh",
+      "title": "根据WhaleStats的数据，以太坊鲸鱼正在积累Polygon（MATIC）、Loopring（LRC）、Render Token（RNDR）和Sushiswap（SUSHI）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據WhaleStats的數據，以太坊鯨魚正在積累Polygon（MATIC）、Loopring（LRC）、Render Token（RNDR）和Sushiswap（SUSHI）。"
+    }
+  ]
 }
