@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-07T01:07:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DW45lxIx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kgqstha04upl500anukc.png",
   "author": "Aden Eilers",
-  "author_url": "https://dev.to/fig781"
+  "author_url": "https://dev.to/fig781",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactフックとは何ですか？Reactの機能を追加することができるReactの関数です。",
+      "title": "React Hooks: useContext()"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是React钩子？它们是React中的函数，允许你将反应功能添加到...",
+      "title": "React Hooks: useContext()"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是React鉤子？它們是React中的函數，允許你將反應功能添加到...",
+      "title": "React Hooks: useContext()"
+    }
+  ]
 }
