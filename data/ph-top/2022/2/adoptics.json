@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-06T08:00:00Z"
+  "original_createdAt": "2022-02-06T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AdOpticsは、広告主が多数のキャンペーンや広告グループにわたって広告を大規模にテストできるGoogle広告のための広告A/Bテストプラットフォームです。",
+      "tagline": "Google Adsの広告A/Bテストの自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "AdOptics是谷歌广告的A/B测试平台，允许广告商在许多广告系列和广告组中大规模地测试广告。",
+      "tagline": "谷歌广告的自动广告A/B测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AdOptics是谷歌廣告的A/B測試平臺，允許廣告商在許多廣告系列和廣告組中大規模地測試廣告。",
+      "tagline": "谷歌廣告的自動廣告A/B測試"
+    }
+  ]
 }
