@@ -52,5 +52,22 @@
     },
     "retweet_count": 2639,
     "favorite_count": 10566
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ComradeVero: 一度奪われた自由を取り戻すのがいかに難しいか、考えてみてください。",
+      "retweeted_status_full_text": "一度、誰かに奪われた自由を取り戻すのがどれほど大変か、考えてみてください。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ComradeVero: 看看一旦你允许别人夺走你的自由，要想重新得到它是多么困难。",
+      "retweeted_status_full_text": "看看一旦你允许别人夺走你的自由，要重新获得自由是多么困难。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ComradeVero: 看看一旦你允許別人奪走你的自由，要想重新得到它是多麼困難。",
+      "retweeted_status_full_text": "看看一旦你允許別人奪走你的自由，要重新獲得自由是多麼困難。"
+    }
+  ]
 }
