@@ -63,5 +63,22 @@
     "retweet_count": 786,
     "favorite_count": 2751,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @KPMG_Canada: 私たちは、暗号資産の企業財務への割り当てを完了したところですが、これは私たちの会社にとって初めての投資です。",
+      "retweeted_status_full_text": "当社は、暗号資産の企業財務への割り当てを完了したばかりで、資産クラスへの投資としては当社初となります。これには、ビットコインとイーサリアムのトークン、そしてネットゼロの炭素取引を維持するためのカーボンオフセットが含まれています。https://t.co/32hsKbnGuC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @KPMG_Canada: 我们刚刚完成了对我们公司财务部的加密资产分配，这是我们公司在加拿大的第一个同类投资。",
+      "retweeted_status_full_text": "我们刚刚完成了对我们公司库房的加密资产的分配，这是我们公司在该资产类别的首次投资。这包括比特币和以太坊代币，以及碳抵消以保持净零碳交易：https://t.co/32hsKbnGuC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @KPMG_Canada: 我們剛剛完成了對我們公司財務部的加密資產分配，這是我們公司在加拿大的第一個同類投資。",
+      "retweeted_status_full_text": "我們剛剛完成了對我們公司庫房的加密資產的分配，這是我們公司在該資產類別的首次投資。這包括比特幣和以太坊代幣，以及碳抵消以保持淨零碳交易：https://t.co/32hsKbnGuC"
+    }
+  ]
 }
