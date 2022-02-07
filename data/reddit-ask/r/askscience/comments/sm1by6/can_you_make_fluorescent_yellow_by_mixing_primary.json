@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "or is there some other process that makes fluorescent yellow so bright"
+  "the_new_excerpt": "or is there some other process that makes fluorescent yellow so bright",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それとも、蛍光イエローをこれほど鮮やかにする他のプロセスがあるのでしょうか？",
+      "title": "原色の絵の具を混ぜて蛍光イエローを作ることはできますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还是有一些其他的过程使荧光黄如此明亮？",
+      "title": "你可以通过混合原色漆来制作荧光黄吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還是有一些其他的過程使熒光黃如此明亮？",
+      "title": "你可以通過混合原色漆來製作熒光黃嗎？"
+    }
+  ]
 }
