@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブルガリア警察がデモ隊に唐辛子スプレーを使用し、風で顔に吹き返される。"
+    },
+    {
+      "locale": "zh",
+      "title": "保加利亚警察对抗议者使用胡椒喷雾，风又把它吹到他们脸上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "保加利亞警察對抗議者使用胡椒噴霧，風又把它吹到他們臉上。"
+    }
+  ]
 }
