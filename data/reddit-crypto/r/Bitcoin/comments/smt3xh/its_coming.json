@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは、来る"
+    },
+    {
+      "locale": "zh",
+      "title": "它来了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它來了"
+    }
+  ]
 }
