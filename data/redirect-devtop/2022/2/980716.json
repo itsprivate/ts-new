@@ -48,5 +48,22 @@
   "original_created_at": "2022-02-06T16:02:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sBkjTmbj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lk4yjfj5asm38slc2pbi.png",
   "author": "Just5MoreMinutes",
-  "author_url": "https://dev.to/just5moreminutes"
+  "author_url": "https://dev.to/just5moreminutes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハローワールド あ、ちょっと待って... みなさん、こんにちは。 今日は退屈だったので、いろいろと調べてみました。",
+      "title": "なぜHello Worldを使うのか？- その歴史"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，世界! 哦，等等... 大家好!  我今天很无聊，做了一些紧张的研究，在...",
+      "title": "我们为什么要使用Hello World？- 它背后的历史"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，世界! 哦，等等... 大家好!  我今天很無聊，做了一些緊張的研究，在...",
+      "title": "我們爲什麼要使用Hello World？- 它背後的歷史"
+    }
+  ]
 }
