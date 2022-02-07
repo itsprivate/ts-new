@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Also do you do on a schedule or like roughly?"
+  "the_new_excerpt": "Also do you do on a schedule or like roughly?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、スケジュールに沿って行うのか、それとも大まかな感じで行うのか。",
+      "title": "シーツはどれくらいの頻度で交換していますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "另外，你是按计划做还是大概这样做？",
+      "title": "你多长时间换一次床单？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "另外，你是按計劃做還是大概這樣做？",
+      "title": "你多長時間換一次牀單？"
+    }
+  ]
 }
