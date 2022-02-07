@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-07T08:12:42Z"
+  "original_createdAt": "2022-02-07T08:12:42Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Purelistは、あなたの生活に役立つシンプルなリストアプリです。ToDo、メモ、リマインダーなど、すべてこのアプリだけで可能です。シンプルで最小限のインターフェースで、使い方を覚える必要はありません。",
+      "tagline": "Purelistは、あなたの生活に役立つシンプルなリストアプリです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Purelist是一个简单的列表应用程序，对你的生活很有用。ToDo、Notes、Reminders等都可以仅通过这个应用来完成。它的界面简单而简约，不需要学习如何使用它。",
+      "tagline": "Purelist是一个简单的列表应用程序，对你的生活很有用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Purelist是一個簡單的列表應用程序，對你的生活很有用。ToDo、Notes、Reminders等都可以僅通過這個應用來完成。它的界面簡單而簡約，不需要學習如何使用它。",
+      "tagline": "Purelist是一個簡單的列表應用程序，對你的生活很有用。"
+    }
+  ]
 }
