@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-06T05:11:34Z",
   "image": "https://dev.to/social_previews/article/980212.png",
   "author": "Luis Juarez",
-  "author_url": "https://dev.to/iamluisj"
+  "author_url": "https://dev.to/iamluisj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dev.toのプラットフォームはForemをベースに構築されているので、様々な素晴らしいAPIエンドポイントが利用可能です！..............................。",
+      "title": "2022年のDev.to APIの利用方法について"
+    },
+    {
+      "locale": "zh",
+      "description": "Dev.to平台建立在Forem之上，这意味着它有各种伟大的API端点可用！...",
+      "title": "如何在2022年使用Dev.to API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dev.to平臺建立在Forem之上，這意味着它有各種偉大的API端點可用！...",
+      "title": "如何在2022年使用Dev.to API"
+    }
+  ]
 }
