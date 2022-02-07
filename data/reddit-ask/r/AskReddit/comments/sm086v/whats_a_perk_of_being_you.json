@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたにとっての特典は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "成为你的好处是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "成爲你的好處是什麼？"
+    }
+  ]
 }
