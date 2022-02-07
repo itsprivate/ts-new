@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "情報を共有し、学ぶための新しいリソース"
+    },
+    {
+      "locale": "zh",
+      "title": "分享和学习信息的新途径"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "分享和學習信息的新途徑"
+    }
+  ]
 }
