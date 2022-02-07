@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-07T16:45:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R_9M2LtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttauvep5xaakwb315apt.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Simple-DataTables、インライン編集、トースト通知、Docker Supportを使用したデータへのページ分割アクセスを実装しています。",
+      "title": "Flaskのデータテーブル - インライン編集 / Docker / Flask-RestX API"
+    },
+    {
+      "locale": "zh",
+      "description": "该项目使用Simple-DataTables、内联编辑、toasts通知和Docker支持实现了对数据的分页访问。",
+      "title": "Flask数据表格--内联编辑/Docker/Flask-RestX API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "該項目使用Simple-DataTables、內聯編輯、toasts通知和Docker支持實現了對數據的分頁訪問。",
+      "title": "Flask數據表格--內聯編輯/Docker/Flask-RestX API"
+    }
+  ]
 }
