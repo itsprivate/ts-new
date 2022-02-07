@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Well, 0.00001556 of a bitcoin to be exact. Planning to buy more! Wish me luck."
+  "the_new_excerpt": "Well, 0.00001556 of a bitcoin to be exact. Planning to buy more! Wish me luck.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "正確には0.00001556分の1ビットコインです。もっと買う予定です 幸運を祈ってます。",
+      "title": "16歳で初めてビットコインを買いました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嗯，准确地说，是0.00001556个比特币。计划买更多! 祝我好运吧。",
+      "title": "我16岁，刚买了我的第一个比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嗯，準確地說，是0.00001556個比特幣。計劃買更多! 祝我好運吧。",
+      "title": "我16歲，剛買了我的第一個比特幣"
+    }
+  ]
 }
