@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-06T13:47:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x3mKAoKI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dcpjsgh99g2pskvhhmdp.jpg",
   "author": "Itachi Uchiha",
-  "author_url": "https://dev.to/itachiuchiha"
+  "author_url": "https://dev.to/itachiuchiha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。 今回は、退屈な話題についてお話しします。それは、新しい技術の習得についてです。 で...",
+      "title": "単体テストを書くことで言語を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好!  在这篇文章中，我将谈论一个无聊的话题。它是关于学习新技术。 在...",
+      "title": "通过编写单元测试来学习一种语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好!  在這篇文章中，我將談論一個無聊的話題。它是關於學習新技術。 在...",
+      "title": "通過編寫單元測試來學習一種語言"
+    }
+  ]
 }

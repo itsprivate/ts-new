@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-06T22:56:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4beC9ooN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeu7k74o3hrrlj2jnihw.jpg",
   "author": "Bruno Noriller",
-  "author_url": "https://dev.to/noriller"
+  "author_url": "https://dev.to/noriller",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR：技術面ではなく、人間性が重要です     モノリスも負けず劣らず...",
+      "title": "モノリスが長期的にダメな理由"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR: 这不是技术层面的问题，而是人的问题!     单片机可以和...",
+      "title": "为什么单体建筑是一个长期的坏主意"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR: 這不是技術層面的問題，而是人的問題!     單片機可以和...",
+      "title": "爲什麼單體建築是一個長期的壞主意"
+    }
+  ]
 }
