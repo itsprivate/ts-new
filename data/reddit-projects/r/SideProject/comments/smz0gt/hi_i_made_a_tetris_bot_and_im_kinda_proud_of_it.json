@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんにちは、私はテトリスボットを作りました、そして、私はそれをちょっと誇りに思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗨，我做了一个俄罗斯方块机器人，我为它感到有点骄傲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗨，我做了一個俄羅斯方塊機器人，我爲它感到有點驕傲"
+    }
+  ]
 }
