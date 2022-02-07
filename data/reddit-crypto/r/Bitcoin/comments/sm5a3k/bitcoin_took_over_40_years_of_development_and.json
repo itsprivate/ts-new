@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは40年以上の開発・研究期間を経て誕生しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币经过40多年的发展和研究才得以诞生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣經過40多年的發展和研究才得以誕生。"
+    }
+  ]
 }
