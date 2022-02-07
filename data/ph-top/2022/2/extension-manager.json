@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-06T08:01:00Z"
+  "original_createdAt": "2022-02-06T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chromeブラウザの拡張機能の有効化・無効化は、あまり簡単ではありません。私たちはいつもちょっとしたUXの課題に直面しています。この拡張機能は、クローム拡張機能管理ユーティリティへの素早いアクセスを提供します。",
+      "tagline": "Chromeの拡張機能をすばやく簡単に管理"
+    },
+    {
+      "locale": "zh",
+      "description": "启用和禁用Chrome浏览器扩展程序并不是非常直接的。我们总是面临一些用户体验方面的挑战。这个扩展提供了对chrome扩展管理工具的更快访问。",
+      "tagline": "快速、轻松地管理您的Chrome扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "啓用和禁用Chrome瀏覽器擴展程序並不是非常直接的。我們總是面臨一些用戶體驗方面的挑戰。這個擴展提供了對chrome擴展管理工具的更快訪問。",
+      "tagline": "快速、輕鬆地管理您的Chrome擴展程序"
+    }
+  ]
 }
