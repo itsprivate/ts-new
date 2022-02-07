@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was watching my candle slowly burn out, and it got me thinking about this."
+  "the_new_excerpt": "I was watching my candle slowly burn out, and it got me thinking about this.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ロウソクが徐々に燃え尽きるのを見ていたら、こんなことを考えさせられました。",
+      "title": "炎を小さくすることに物理的な限界はあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我看着我的蜡烛慢慢燃尽，这让我想到了这个问题。",
+      "title": "火焰能有多小，是否有一个物理极限？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我看着我的蠟燭慢慢燃盡，這讓我想到了這個問題。",
+      "title": "火焰能有多小，是否有一個物理極限？"
+    }
+  ]
 }
