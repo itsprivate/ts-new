@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オンライン学習リソースの保存と発見ができる、カレンダーベースのブックマークアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个基于日历的书签应用程序，可以保存和发现在线学习资源。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個基於日曆的書籤應用程序，可以保存和發現在線學習資源。"
+    }
+  ]
 }
