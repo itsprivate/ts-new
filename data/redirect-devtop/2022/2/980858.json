@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-06T18:26:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vieqkBiz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hins06ak8y0r60ztz12m.png",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このプロジェクトは、軽量で拡張性があり、依存関係のない javascript の HTML テーブルプラグインである Simple-DataTables を使用して、データへのページ分割アクセスを実装しています。",
+      "title": "Flaskのデータテーブル - オープンソースのサンプル"
+    },
+    {
+      "locale": "zh",
+      "description": "该项目使用Simple-DataTables实现了对数据的分页访问，Simple-DataTables是一个轻量级的、可扩展的、无依赖的javascript HTML表格插件。",
+      "title": "Flask数据表格 - 开源样本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "該項目使用Simple-DataTables實現了對數據的分頁訪問，Simple-DataTables是一個輕量級的、可擴展的、無依賴的javascript HTML表格插件。",
+      "title": "Flask數據表格 - 開源樣本"
+    }
+  ]
 }
