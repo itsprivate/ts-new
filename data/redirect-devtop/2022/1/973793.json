@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-31T13:00:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EMQeg5Zi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bmpukprxf3egk2vflbpd.jpg",
   "author": "MiguelMJ",
-  "author_url": "https://dev.to/miguelmj"
+  "author_url": "https://dev.to/miguelmj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発におけるQ&Aについて語ることは、stackoverflow.comについて語ることです（SO...",
+      "title": "StackOverflowで回答を得る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "谈论软件开发中的问题和答案就是在谈论stackoverflow.com（SO...",
+      "title": "如何在StackOverflow上获得答案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "談論軟件開發中的問題和答案就是在談論stackoverflow.com（SO...",
+      "title": "如何在StackOverflow上獲得答案"
+    }
+  ]
 }
