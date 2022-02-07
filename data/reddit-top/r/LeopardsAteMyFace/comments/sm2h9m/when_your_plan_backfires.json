@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "計画が裏目に出たとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你的计划出现反效果时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你的計劃出現反效果時"
+    }
+  ]
 }
