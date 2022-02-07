@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-06T15:24:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GZtnUCnV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/91egtbdjy3d73o5230zm.png",
   "author": "SnowBit",
-  "author_url": "https://dev.to/codewithsnowbit"
+  "author_url": "https://dev.to/codewithsnowbit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、スノービットです。私は若い情熱的な、そして...",
+      "title": "JavaScriptを書くときに気をつけるべきこれらのこと"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋，朋友们好，我是SnowBit。我是一个年轻的、充满激情的、有活力的人。",
+      "title": "在编写JavaScript时，你应该牢记这些事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋，朋友們好，我是SnowBit。我是一個年輕的、充滿激情的、有活力的人。",
+      "title": "在編寫JavaScript時，你應該牢記這些事情"
+    }
+  ]
 }
