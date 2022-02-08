@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さて、今私を追い越したのは誰でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "好吧，你们谁刚超过我？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好吧，你們誰剛超過我？"
+    }
+  ]
 }
