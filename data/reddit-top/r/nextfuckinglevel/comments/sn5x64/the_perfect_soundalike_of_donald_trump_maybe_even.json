@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドナルド・トランプの完璧なそっくりさん、もしかしたら失われた双子のような存在かもしれない。"
+    },
+    {
+      "locale": "zh",
+      "title": "唐纳德-特朗普的完美音容笑貌，甚至可能是他丢失的双胞胎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "唐納德-特朗普的完美音容笑貌，甚至可能是他丟失的雙胞胎"
+    }
+  ]
 }
