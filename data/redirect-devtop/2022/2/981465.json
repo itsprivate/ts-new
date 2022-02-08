@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-07T13:01:13Z",
   "image": "https://dev.to/social_previews/article/981465.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パフォーマンス重視のReactコードの書き方についての会話は、...",
+      "title": "Contextを使ったパフォーマンスの高いReactアプリの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "要讨论如何编写高性能的React代码，不可能没有人知道。",
+      "title": "如何用Context编写高性能的React应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "要討論如何編寫高性能的React代碼，不可能沒有人知道。",
+      "title": "如何用Context編寫高性能的React應用"
+    }
+  ]
 }

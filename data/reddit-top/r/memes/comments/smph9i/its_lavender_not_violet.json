@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヴァイオレットではなくラベンダーです。"
+    },
+    {
+      "locale": "zh",
+      "title": "它是薰衣草而不是紫罗兰。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它是薰衣草而不是紫羅蘭。"
+    }
+  ]
 }
