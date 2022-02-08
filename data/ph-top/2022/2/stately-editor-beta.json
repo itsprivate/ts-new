@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-08T08:01:00Z"
+  "original_createdAt": "2022-02-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stately Editorは、どんなに複雑なアプリケーションロジックやワークフローでも、作成、編集、シミュレーションが可能なビジュアルツールです。",
+      "tagline": "複雑なアプリのロジックやワークフローを視覚的に作成し、シミュレートすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Stately Editor是一个可视化工具，用于创建、编辑和模拟应用逻辑和工作流程，无论它们有多复杂。",
+      "tagline": "可视化地创建和模拟复杂的应用逻辑、工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stately Editor是一個可視化工具，用於創建、編輯和模擬應用邏輯和工作流程，無論它們有多複雜。",
+      "tagline": "可視化地創建和模擬複雜的應用邏輯、工作流程"
+    }
+  ]
 }
