@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"そんなことが可能なのか\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"这怎么可能呢\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"這怎麼可能呢\""
+    }
+  ]
 }
