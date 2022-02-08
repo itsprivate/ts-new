@@ -43,5 +43,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-08T08:01:00Z"
+  "original_createdAt": "2022-02-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "たった4つのパラメータで、2つの可能な経路を選択。",
+      "tagline": "意思決定を支援するデッドシンプルマイクロツール"
+    },
+    {
+      "locale": "zh",
+      "description": "只用4个参数就可以在两条可能的路径中选择。",
+      "tagline": "帮助你做决定的简单的微型工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只用4個參數就可以在兩條可能的路徑中選擇。",
+      "tagline": "幫助你做決定的簡單的微型工具"
+    }
+  ]
 }
