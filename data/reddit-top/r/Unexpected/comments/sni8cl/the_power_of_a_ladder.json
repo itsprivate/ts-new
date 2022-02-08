@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハシゴの力"
+    },
+    {
+      "locale": "zh",
+      "title": "梯子的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "梯子的力量"
+    }
+  ]
 }

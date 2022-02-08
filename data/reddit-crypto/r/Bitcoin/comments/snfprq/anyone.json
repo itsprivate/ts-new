@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰か？"
+    },
+    {
+      "locale": "zh",
+      "title": "有没有人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有沒有人？"
+    }
+  ]
 }
