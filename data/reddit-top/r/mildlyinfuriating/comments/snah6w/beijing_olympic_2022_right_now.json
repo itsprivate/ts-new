@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "北京オリンピック2022の今"
+    },
+    {
+      "locale": "zh",
+      "title": "2022年北京奥运会正在进行中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2022年北京奧運會正在進行中"
+    }
+  ]
 }
