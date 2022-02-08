@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-04T21:01:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9MQQ-kwc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo8pzqjzlaptuv0ez0sa.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "原則があり、実践がある。原則とは、普遍的な真理であり、それは...適用可能である。",
+      "title": "実践の背景にある原理原則 私たちはなぜそのようなことをするのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "有原则，就有实践。原则是一个普遍的真理，适用于...",
+      "title": "实践背后的原则。了解我们为什么做这些事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有原則，就有實踐。原則是一個普遍的真理，適用於...",
+      "title": "實踐背後的原則。瞭解我們爲什麼做這些事情"
+    }
+  ]
 }

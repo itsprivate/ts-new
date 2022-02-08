@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヒトにうつ病が多いということは、何らかの適応的な性質があり、それが選択された可能性が高いのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "由于抑郁症在人类中的普遍性，它是否有可能具有某种被选择的适应性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由於抑鬱症在人類中的普遍性，它是否有可能具有某種被選擇的適應性？"
+    }
+  ]
 }
