@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-08T08:01:00Z"
+  "original_createdAt": "2022-02-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ToolJetは、社内ツールや業務アプリケーションを構築・展開するためのオープンソースのローコードフレームワークです。ToolJetは、Retool、Mendix、Microsoft Power Apps、Outsystemsに代わるオープンソースのフレームワークです。",
+      "tagline": "社内ツールを構築するためのオープンソースのローコードプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "ToolJet是一个开源的低代码框架，用于构建和部署内部工具和业务应用程序。ToolJet是Retool、Mendix、Microsoft Power Apps和Outsystems的开源替代品。",
+      "tagline": "建立内部工具的开源低代码平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ToolJet是一個開源的低代碼框架，用於構建和部署內部工具和業務應用程序。ToolJet是Retool、Mendix、Microsoft Power Apps和Outsystems的開源替代品。",
+      "tagline": "建立內部工具的開源低代碼平臺"
+    }
+  ]
 }
