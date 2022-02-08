@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米司法省は2016年のBitfinexのハッキングに関連して、36億ドルの暗号を押収し、2人を逮捕したばかりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国司法部刚刚扣押了36亿美元的加密货币，并逮捕了与2016年Bitfinex黑客攻击有关的两人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國司法部剛剛扣押了36億美元的加密貨幣，並逮捕了與2016年Bitfinex黑客攻擊有關的兩人。"
+    }
+  ]
 }
