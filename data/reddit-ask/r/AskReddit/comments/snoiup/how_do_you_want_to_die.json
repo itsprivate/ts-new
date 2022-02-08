@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どのように死にたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你想怎么死？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你想怎麼死？"
+    }
+  ]
 }
