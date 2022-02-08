@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1644302848,
-  "the_new_excerpt": "Edit: People are very confused about how ARM licensing works. Read this\nexplanation first:\n\n> ARM licenses its ISA\n> [https://developer.arm.com/architectures/instruction-sets] and/or stock CPU\n> designs to companies. Some companies license both. They pay more. Some\n> companies only license the ISA.…"
+  "the_new_excerpt": "Edit: People are very confused about how ARM licensing works. Read this\nexplanation first:\n\n> ARM licenses its ISA\n> [https://developer.arm.com/architectures/instruction-sets] and/or stock CPU\n> designs to companies. Some companies license both. They pay more. Some\n> companies only license the ISA.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：ARMのライセンスの仕組みについて、皆さん非常に混乱しているようです。この\nの説明をまずご覧ください。\n\n> ARMはISAをライセンスしています。\n> https://developer.arm.com/architectures/instruction-sets] および/または純正CPU\n> 設計を企業に提供します。両方のライセンスを受ける企業もあります。彼らはより多くを支払う。ある\n> ISAだけをライセンスしている会社......。",
+      "title": "ソフトバンクのARMがIPOへ。バイヤーは要注意"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：人们对ARM授权的运作方式非常困惑。请阅读这个\n解释。\n\n> ARM对其ISA进行许可\n> [https://developer.arm.com/architectures/instruction-sets] 和/或库存CPU\n> 设计给公司。一些公司同时许可了这两种设计。他们支付更多。有些\n> 公司只许可ISA-....",
+      "title": "软银的ARM将上市。买家要小心。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：人們對ARM授權的運作方式非常困惑。請閱讀這個\n解釋。\n\n> ARM對其ISA進行許可\n> [https://developer.arm.com/architectures/instruction-sets] 和/或庫存CPU\n> 設計給公司。一些公司同時許可了這兩種設計。他們支付更多。有些\n> 公司只許可ISA-....",
+      "title": "軟銀的ARM將上市。買家要小心。"
+    }
+  ]
 }
