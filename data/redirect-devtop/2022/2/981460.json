@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-07T12:56:48Z",
   "image": "https://dev.to/social_previews/article/981460.png",
   "author": "András Tóth",
-  "author_url": "https://dev.to/latobibor"
+  "author_url": "https://dev.to/latobibor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者としてスタートした場合、次のような相反する考え方にぶつかることがあります。",
+      "title": "JS/TSの授業は必要ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你开始成为一名开发人员，你可能会遇到这些相互矛盾的学派：...",
+      "title": "你需要JS/TS方面的课程吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你開始成爲一名開發人員，你可能會遇到這些相互矛盾的學派：...",
+      "title": "你需要JS/TS方面的課程嗎？"
+    }
+  ]
 }
