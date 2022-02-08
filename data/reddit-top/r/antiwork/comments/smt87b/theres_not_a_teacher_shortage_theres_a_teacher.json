@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "教師が不足しているわけではありません。教師の給与が不足しているのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有出现教师短缺的情况。是教师工资短缺。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有出現教師短缺的情況。是教師工資短缺。"
+    }
+  ]
 }
