@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-08T08:01:00Z"
+  "original_createdAt": "2022-02-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最も一般的に使用される正規表現を、様々なプログラミング言語でのコード例とともに紹介します。JavaScript、Python、Java、C#、PHP。",
+      "tagline": "最もよく使われる正規表現の精選されたリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的最常用的正则表达式列表，带有不同编程语言的代码示例。JavaScript, Python, Java, C#, and PHP.",
+      "tagline": "最常用的正则表达式的精选列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的最常用的正則表達式列表，帶有不同編程語言的代碼示例。JavaScript, Python, Java, C#, and PHP.",
+      "tagline": "最常用的正則表達式的精選列表"
+    }
+  ]
 }
