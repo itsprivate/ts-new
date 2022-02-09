@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間が我々のグループに従っていることを確認し、我々はそれを維持し、安全でなければなりません。"
+    },
+    {
+      "locale": "zh",
+      "title": "确保人类跟随我们的团队，我们必须保证它的生命和安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "確保人類跟隨我們的團隊，我們必須保證它的生命和安全"
+    }
+  ]
 }
