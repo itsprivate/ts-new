@@ -52,5 +52,22 @@
     },
     "retweet_count": 6543,
     "favorite_count": 26851
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @LarryON94044996: オタワ警察が押収した燃料をトラック運転手に返還するよう判事が命じた。",
+      "retweeted_status_full_text": "裁判官はオタワ警察に押収した燃料をトラック運転手に返却するよう命じる。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @LarryON94044996: 法官命令渥太华警方将没收的燃料返还给卡车司机。",
+      "retweeted_status_full_text": "法官命令渥太华警方将没收的燃料归还给卡车司机。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @LarryON94044996: 法官命令渥太華警方將沒收的燃料返還給卡車司機。",
+      "retweeted_status_full_text": "法官命令渥太華警方將沒收的燃料歸還給卡車司機。"
+    }
+  ]
 }
