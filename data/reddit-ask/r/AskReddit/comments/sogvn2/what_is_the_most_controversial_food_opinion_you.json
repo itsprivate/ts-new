@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も議論を呼んだ食の意見は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最有争议的食物观点是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最有爭議的食物觀點是什麼？"
+    }
+  ]
 }
