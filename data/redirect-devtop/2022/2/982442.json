@@ -39,5 +39,22 @@
   "original_created_at": "2022-02-08T10:01:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j7qmZp1D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5az3tyb9xyt3scmezmu.png",
   "author": "Rajat Thakur",
-  "author_url": "https://dev.to/digitallyrajat"
+  "author_url": "https://dev.to/digitallyrajat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一般に信じられていることとは異なり、ウェブスクレイピングはいかがわしい行為でも違法行為でもありません。というわけではありませんが...",
+      "title": "ウェブスクレイピングの合法性と神話とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "与流行的看法相反，网络刮削并不是一种阴暗或非法的活动。这并不是说...",
+      "title": "网络搜刮的合法性和迷思是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與流行的看法相反，網絡刮削並不是一種陰暗或非法的活動。這並不是說...",
+      "title": "網絡搜刮的合法性和迷思是什麼？"
+    }
+  ]
 }
