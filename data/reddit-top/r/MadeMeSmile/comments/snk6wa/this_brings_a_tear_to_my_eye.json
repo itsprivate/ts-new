@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "涙が出るほど嬉しい"
+    },
+    {
+      "locale": "zh",
+      "title": "这让我泪流满面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這讓我淚流滿面"
+    }
+  ]
 }
