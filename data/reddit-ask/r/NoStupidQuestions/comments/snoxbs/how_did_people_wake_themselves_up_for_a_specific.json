@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Like 500 years ago if you had to be somewhere at a certain time in the morning\nhow would one make sure they wake up in time?"
+  "the_new_excerpt": "Like 500 years ago if you had to be somewhere at a certain time in the morning\nhow would one make sure they wake up in time?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "500年前のように、朝決まった時間にどこかに行かなければならないとしたら\nどうやって時間通りに起きればいいんだ？",
+      "title": "近代技術以前の人々は、どのようにして決まった時間に自分を起こしていたのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就像500年前，如果你必须在早上的某个时间去某个地方\n一个人如何确保他们及时醒来？",
+      "title": "在现代技术之前，人们是如何在特定的时间内唤醒自己的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就像500年前，如果你必須在早上的某個時間去某個地方\n一個人如何確保他們及時醒來？",
+      "title": "在現代技術之前，人們是如何在特定的時間內喚醒自己的？"
+    }
+  ]
 }
