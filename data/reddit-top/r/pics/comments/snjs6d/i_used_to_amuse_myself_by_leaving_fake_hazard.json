@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "以前は、会社のあちこちに偽の危険標識を置いて楽しんでいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我曾经通过在办公室周围留下假的危险标志来消遣自己。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我曾經通過在辦公室周圍留下假的危險標誌來消遣自己。"
+    }
+  ]
 }

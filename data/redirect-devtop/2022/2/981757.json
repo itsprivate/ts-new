@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-07T18:04:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8Cbo32nA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0f4r6eygh69hdj3wlabm.png",
   "author": "Nick | React tinkerer ⚛️",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptはマルチパラダイムプログラミング言語であるため、さまざまな方法を提供してくれます...",
+      "title": "JavaScriptではどこでファクトリーパターンが使われているのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一种多范式的编程语言，所以它为我们提供了很多不同的方式。",
+      "title": "在JavaScript中哪里使用了工厂模式？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一種多範式的編程語言，所以它爲我們提供了很多不同的方式。",
+      "title": "在JavaScript中哪裏使用了工廠模式？"
+    }
+  ]
 }
