@@ -57,5 +57,22 @@
   "original_created_at": "2022-01-26T09:08:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eDjGqGQP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ih9bpgvk91psw2n7kkhp.jpg",
   "author": "Jake Barnby",
-  "author_url": "https://dev.to/jakebarnby"
+  "author_url": "https://dev.to/jakebarnby",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Almost Netflixシリーズ第4弾の投稿へようこそ! 今回は、プロジェクトのセットアップと...",
+      "title": "ほぼNetflix。Appwriteで作るiOS版Netflixクローン"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到我们 \"几乎是Netflix \"系列的第四篇文章! 我们将在项目设置的基础上，为您提供更多的信息。",
+      "title": "Almost Netflix: 用Appwrite构建的iOS Netflix克隆版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到我們 \"幾乎是Netflix \"系列的第四篇文章! 我們將在項目設置的基礎上，爲您提供更多的信息。",
+      "title": "Almost Netflix: 用Appwrite構建的iOS Netflix克隆版"
+    }
+  ]
 }
