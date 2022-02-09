@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の波を盗め、私はあなたのボードを盗め"
+    },
+    {
+      "locale": "zh",
+      "title": "偷我的浪，我偷你的板"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "偷我的浪，我偷你的板"
+    }
+  ]
 }
