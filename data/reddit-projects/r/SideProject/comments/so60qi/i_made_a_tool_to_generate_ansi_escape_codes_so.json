@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ANSIエスケープコードを生成するツールを作ってみたので、スクリプトに簡単に色をつけることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个生成ANSI转义代码的工具，所以你可以很容易地在你的脚本中添加颜色。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個生成ANSI轉義代碼的工具，所以你可以很容易地在你的腳本中添加顏色。"
+    }
+  ]
 }
