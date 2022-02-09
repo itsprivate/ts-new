@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヨーロッパのように、早く実現したい"
+    },
+    {
+      "locale": "zh",
+      "title": "作为欧洲人，我迫不及待地希望它发生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "作爲歐洲人，我迫不及待地希望它發生。"
+    }
+  ]
 }
