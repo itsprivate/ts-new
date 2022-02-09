@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-09T08:01:00Z"
+  "original_createdAt": "2022-02-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Duffel Paymentsを使って、簡単に航空券を販売しましょう。セキュリティと信頼性の高いStripeとの提携により、当社のAPIを通じて顧客に直接請求することができます。長い承認や初期費用を省き、数分でセットアップから販売まで行えます。",
+      "tagline": "旅行業界向けペイメント製品"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Duffel Payments轻松地销售航班。与Stripe合作，确保安全性和可靠性，您可以通过我们的API直接向您的客户收费。跳过冗长的审批和前期费用，在几分钟内完成从设置到销售。",
+      "tagline": "旅游业的支付产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Duffel Payments輕鬆地銷售航班。與Stripe合作，確保安全性和可靠性，您可以通過我們的API直接向您的客戶收費。跳過冗長的審批和前期費用，在幾分鐘內完成從設置到銷售。",
+      "tagline": "旅遊業的支付產品"
+    }
+  ]
 }
