@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが共有する価値があると思うランダムな事実は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为有什么值得分享的随机事实？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲有什麼值得分享的隨機事實？"
+    }
+  ]
 }
