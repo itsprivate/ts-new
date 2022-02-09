@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SVGテキスト背景作成ツールを作ってみた!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个SVG文本背景制作工具!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個SVG文本背景製作工具!"
+    }
+  ]
 }
