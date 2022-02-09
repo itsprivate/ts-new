@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "The address (aka address #1) that minted the NFT sent 473,657.64 USDC to an\nintermediary address (#2). The intermediary address swaps some of that USDC for\n1,816.08 SOL. Then Address #2 sends 1800 SOL to a 3rd address.\n\nThe third address makes a bid and wins the NFT for 1800 SOL. That 1800 SOL…"
+  "the_new_excerpt": "The address (aka address #1) that minted the NFT sent 473,657.64 USDC to an\nintermediary address (#2). The intermediary address swaps some of that USDC for\n1,816.08 SOL. Then Address #2 sends 1800 SOL to a 3rd address.\n\nThe third address makes a bid and wins the NFT for 1800 SOL. That 1800 SOL…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "NFTを鋳造したアドレス（別名アドレス#1）は、473,657.64 USDC を\n仲介者のアドレス（#2）。仲介アドレスはそのUSDCの一部をスワップして\n1,816.08のSOL。次に、2番地のアドレスが1800 SOLを3番目のアドレスに送ります。\n\n3番目のアドレスは入札を行い、1800SOLでNFTを落札する。その1,800SOLは...",
+      "title": "メラニア・トランプのNFTが17万ドルで落札されたのは...本人です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "铸造NFT的地址（又称1号地址）将473,657.64美元发送到一个中介地址（2号）。\n中介地址(#2)。中介地址将其中一些USDC换成了\n1,816.08 SOL。然后，2号地址向第三个地址发送了1800个SOL。\n\n第三个地址出价，以1800 SOL赢得了NFT。这1800SOL...",
+      "title": "梅拉尼娅-特朗普的NFT以17万美元卖给了....herself。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "鑄造NFT的地址（又稱1號地址）將473,657.64美元發送到一箇中介地址（2號）。\n中介地址(#2)。中介地址將其中一些USDC換成了\n1,816.08 SOL。然後，2號地址向第三個地址發送了1800個SOL。\n\n第三個地址出價，以1800 SOL贏得了NFT。這1800SOL...",
+      "title": "梅拉尼婭-特朗普的NFT以17萬美元賣給了....herself。"
+    }
+  ]
 }
