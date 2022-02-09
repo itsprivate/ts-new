@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This isn't a question about about decentralization or centralization. This is\nalso more than just a simple nice-to-have feature. Imagine you browse websites\nthat knowingly sell your I.P. address and other information to hackers and other\nmalicious actors can openly see what you're doing and your…"
+  "the_new_excerpt": "This isn't a question about about decentralization or centralization. This is\nalso more than just a simple nice-to-have feature. Imagine you browse websites\nthat knowingly sell your I.P. address and other information to hackers and other\nmalicious actors can openly see what you're doing and your…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、分権か中央集権かという問題ではありません。これは\nまた、単に「あったらいいな」程度の機能ではありません。ウェブサイトを閲覧することを想像してみてください。\nハッカーにIPアドレスやその他の情報を故意に売っているような、その他の\n悪意ある行為者は、あなたが何をしているのか、あなたのことを公然と見ることができるのです。",
+      "title": "メタマスクは、アンチウイルスソフトやウェブブラウザが警告してくれるのと同じように、大きな失敗をしそうになったら警告してくれるはずで、それは集中化とか分散化とは関係ない。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这不是一个关于分权或集权的问题。这也是\n也不仅仅是一个简单的 \"好 \"的功能。想象一下，你浏览的网站\n故意将你的I.P.地址和其他信息卖给黑客和其他\n恶意行为者可以公开看到你在做什么和你的...",
+      "title": "如果你要犯大错，Metamask应该警告你，就像你的反病毒软件或网络浏览器会警告你一样--这与集中化或分散化没有关系。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這不是一個關於分權或集權的問題。這也是\n也不僅僅是一個簡單的 \"好 \"的功能。想象一下，你瀏覽的網站\n故意將你的I.P.地址和其他信息賣給黑客和其他\n惡意行爲者可以公開看到你在做什麼和你的...",
+      "title": "如果你要犯大錯，Metamask應該警告你，就像你的反病毒軟件或網絡瀏覽器會警告你一樣--這與集中化或分散化沒有關係。"
+    }
+  ]
 }
