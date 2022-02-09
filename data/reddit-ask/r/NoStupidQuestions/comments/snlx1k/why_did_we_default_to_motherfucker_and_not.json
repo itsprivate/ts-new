@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Why did we default to \"mother-fucker\" and not \"father-fucker\" or something else?"
+  "the_new_excerpt": "Why did we default to \"mother-fucker\" and not \"father-fucker\" or something else?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜ、「ファーザーファッカー」などではなく、「マザーファッカー」がデフォルトになったのか？",
+      "title": "なぜ「ファーザーファッカー」ではなく「マザーファッカー」がデフォルトだったのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么我们默认为 \"操他妈的\"，而不是 \"操爹的 \"或其他什么？",
+      "title": "为什么我们默认为 \"母亲-混蛋 \"而不是 \"父亲-混蛋\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼我們默認爲 \"操他媽的\"，而不是 \"操爹的 \"或其他什麼？",
+      "title": "爲什麼我們默認爲 \"母親-混蛋 \"而不是 \"父親-混蛋\"？"
+    }
+  ]
 }
