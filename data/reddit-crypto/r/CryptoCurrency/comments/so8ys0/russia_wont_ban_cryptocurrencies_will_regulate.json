@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアは暗号通貨を禁止せず、代わりに規制して通貨として扱う方針"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯不会禁止加密货币，而是对其进行监管并将其作为货币对待"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯不會禁止加密貨幣，而是對其進行監管並將其作爲貨幣對待"
+    }
+  ]
 }
