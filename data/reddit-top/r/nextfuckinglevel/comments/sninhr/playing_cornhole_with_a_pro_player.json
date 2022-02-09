@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロ選手と一緒にコーンホールをプレイ"
+    },
+    {
+      "locale": "zh",
+      "title": "与职业选手一起玩Cornhole"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與職業選手一起玩Cornhole"
+    }
+  ]
 }
