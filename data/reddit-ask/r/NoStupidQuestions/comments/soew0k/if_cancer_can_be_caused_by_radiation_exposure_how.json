@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "放射線被ばくでがんができるのなら、放射線治療はどのようにしてがんをなくすのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果癌症可以由辐射照射引起，那么辐射治疗如何帮助消除癌症？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果癌症可以由輻射照射引起，那麼輻射治療如何幫助消除癌症？"
+    }
+  ]
 }
