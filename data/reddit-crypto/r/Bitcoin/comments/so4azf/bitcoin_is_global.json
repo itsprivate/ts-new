@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはグローバル"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币是全球性的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣是全球性的"
+    }
+  ]
 }
