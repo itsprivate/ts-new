@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現金はゴミ"
+    },
+    {
+      "locale": "zh",
+      "title": "现金是垃圾"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現金是垃圾"
+    }
+  ]
 }
