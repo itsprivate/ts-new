@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは使いますか？地域のグループや人とつながるための別の試み"
+    },
+    {
+      "locale": "zh",
+      "title": "你会使用它吗？在当地团体/与人联系的另一种尝试"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會使用它嗎？在當地團體/與人聯繫的另一種嘗試"
+    }
+  ]
 }
