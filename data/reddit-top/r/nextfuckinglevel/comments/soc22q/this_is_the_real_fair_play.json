@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが本当のフェアプレーだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是真正的公平竞争"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是真正的公平競爭"
+    }
+  ]
 }
