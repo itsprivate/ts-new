@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "mknew: 超シンプルな足場作り/テンプレート作成ツール"
+    },
+    {
+      "locale": "zh",
+      "title": "mknew：一个超级简单的脚手架/模板工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "mknew：一個超級簡單的腳手架/模板工具"
+    }
+  ]
 }
