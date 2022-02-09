@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-09T10:29:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tVXoPGzb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkzca7gqo7qyvb53aroh.jpg",
   "author": "Color Tools 🌈",
-  "author_url": "https://dev.to/colortools"
+  "author_url": "https://dev.to/colortools",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS Gradientオンラインジェネレータツールは、直線的なグラデーションを素早く生成する、使い勝手の良いユーティリティです。",
+      "title": "CSSカラーグラデーションの生成"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS梯度在线生成工具是一个不错的、简单易用的工具，可以快速生成线性梯度。",
+      "title": "生成一个CSS颜色渐变"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS梯度在線生成工具是一個不錯的、簡單易用的工具，可以快速生成線性梯度。",
+      "title": "生成一個CSS顏色漸變"
+    }
+  ]
 }
