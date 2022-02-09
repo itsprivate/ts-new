@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-08T23:32:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vfimZtDi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1624384897936-f0976c16c7ba",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsのサイトを更新して、スクリーンリーダー用の言語を設定することは、アクセシビリティにとって重要であり、数行のコードで済みます",
+      "title": "Next.jsサイトへのlang属性の追加"
+    },
+    {
+      "locale": "zh",
+      "description": "更新你的Next.js网站，为屏幕阅读器设置语言，对无障碍性非常重要，而且只需要几行代码就可以了",
+      "title": "在你的Next.js网站上添加一个lang属性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "更新你的Next.js網站，爲屏幕閱讀器設置語言，對無障礙性非常重要，而且只需要幾行代碼就可以了",
+      "title": "在你的Next.js網站上添加一個lang屬性"
+    }
+  ]
 }
