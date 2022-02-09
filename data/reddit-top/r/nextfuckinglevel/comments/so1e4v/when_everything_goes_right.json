@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてがうまくいったとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当一切顺利的时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當一切順利的時候"
+    }
+  ]
 }
