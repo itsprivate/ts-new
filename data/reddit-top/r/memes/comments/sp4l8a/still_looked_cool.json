@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それでもかっこよく見える"
+    },
+    {
+      "locale": "zh",
+      "title": "仍然看起来很酷"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "仍然看起來很酷"
+    }
+  ]
 }
