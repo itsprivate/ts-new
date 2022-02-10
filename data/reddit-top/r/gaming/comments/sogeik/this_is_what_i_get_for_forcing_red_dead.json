@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "13年前のパソコンで無理やりレッドデッドリデンプション2を走らせた結果がこれだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是我强迫《死亡救赎2》在我13岁的电脑上运行所得到的结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是我強迫《死亡救贖2》在我13歲的電腦上運行所得到的結果。"
+    }
+  ]
 }
