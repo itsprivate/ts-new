@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人々は気候変動に関する良いニュースを聞く必要があります。\"気候への不安 \"は何の解決にもならない"
+    },
+    {
+      "locale": "zh",
+      "title": "人们需要听到关于气候变化的好消息。\"气候焦虑 \"并不能解决任何问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人們需要聽到關於氣候變化的好消息。\"氣候焦慮 \"並不能解決任何問題"
+    }
+  ]
 }
