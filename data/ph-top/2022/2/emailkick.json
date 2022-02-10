@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-10T08:01:00Z"
+  "original_createdAt": "2022-02-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Emailkickは、Amazon SESのために構築された開発者向けのメールAPIプラットフォームです。チームは、No-codeドラッグ＆ドロップエディタを使用してメールデザインを作成し、テンプレートを一箇所に保存することができます。APIを使用して、請求書やウェルカムメールなどのダイナミックなメールを送信することができます。",
+      "tagline": "AWS SESユーザー向けのシンプルなメールデザイナーとAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "Emailkick是一个为亚马逊SES打造的开发者友好的电子邮件API平台。团队可以使用无代码拖放编辑器创建电子邮件设计，并在一个地方存储模板。使用API发送动态邮件，如发票、欢迎邮件等。",
+      "tagline": "为AWS SES用户提供简单的电子邮件设计器和API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Emailkick是一個爲亞馬遜SES打造的開發者友好的電子郵件API平臺。團隊可以使用無代碼拖放編輯器創建電子郵件設計，並在一個地方存儲模板。使用API發送動態郵件，如發票、歡迎郵件等。",
+      "tagline": "爲AWS SES用戶提供簡單的電子郵件設計器和API"
+    }
+  ]
 }
