@@ -39,5 +39,22 @@
   "original_created_at": "2022-02-09T11:47:28Z",
   "image": "https://dev.to/social_previews/article/983703.png",
   "author": "Mina",
-  "author_url": "https://dev.to/jm066"
+  "author_url": "https://dev.to/jm066",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next jsでは、データ取得は戦略である。Next.jsでは、getStaticPropsやgetServerSidePropsを使って、...を強化します。",
+      "title": "Next.jsでgetStaticPropsとgetServerSidePropsを使ってデータを取得する簡単なガイドです。"
+    },
+    {
+      "locale": "zh",
+      "description": "在Next js中，数据的获取是一种策略。Next.js使用getStaticProps或getServerSideProps来增强...",
+      "title": "在Next.js中使用getStaticProps和getServerSideProps来获取数据的简单指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Next js中，數據的獲取是一種策略。Next.js使用getStaticProps或getServerSideProps來增強...",
+      "title": "在Next.js中使用getStaticProps和getServerSideProps來獲取數據的簡單指南"
+    }
+  ]
 }
