@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性が主人公の映画で、明らかに女性が一人も関わっていないものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪部以女性角色为主角的电影明显是在没有一个女性参与的情况下拍摄的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪部以女性角色爲主角的電影明顯是在沒有一個女性參與的情況下拍攝的？"
+    }
+  ]
 }
