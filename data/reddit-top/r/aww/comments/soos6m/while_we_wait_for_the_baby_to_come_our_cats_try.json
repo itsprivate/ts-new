@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "赤ちゃんが生まれるのを待つ間、私たちの猫は、私たちが赤ちゃんのために用意したすべてのクールなものを試しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我们等待宝宝到来的时候，我们的猫咪会尝试所有我们为她准备的很酷的东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我們等待寶寶到來的時候，我們的貓咪會嘗試所有我們爲她準備的很酷的東西。"
+    }
+  ]
 }
