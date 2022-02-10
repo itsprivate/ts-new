@@ -91,5 +91,22 @@
     "retweet_count": 913,
     "favorite_count": 2618,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @P_McCulloughMD: 非ランダム化入院データは、鑑別試験、判断の欠如、不十分な確認により有効ではない...。",
+      "retweeted_status_full_text": "非ランダム化された入院データは、鑑別検査、判断の欠如、曝露の確認が不十分なため、有効ではない。 しかし、先行感染はデータ上では確実であり、ようやく降伏が近づいた。 苦しんだ人々は、正常に戻る価値がある。 https://t.co/ZVzUpundo7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @P_McCulloughMD：由于差异化测试、缺乏裁决和不充分的确认，非随机的住院数据是无效的。",
+      "retweeted_status_full_text": "非随机住院数据由于差异化测试、缺乏裁决和对暴露的确认不足而无效。 然而，先前的感染在数据中一直坚如磐石，最终投降也近在眼前。 那些遭受痛苦的人应该恢复正常。https://t.co/ZVzUpundo7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @P_McCulloughMD：由於差異化測試、缺乏裁決和不充分的確認，非隨機的住院數據是無效的。",
+      "retweeted_status_full_text": "非隨機住院數據由於差異化測試、缺乏裁決和對暴露的確認不足而無效。 然而，先前的感染在數據中一直堅如磐石，最終投降也近在眼前。 那些遭受痛苦的人應該恢復正常。https://t.co/ZVzUpundo7"
+    }
+  ]
 }
