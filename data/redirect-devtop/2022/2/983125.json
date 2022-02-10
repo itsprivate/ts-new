@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-08T21:57:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sJAKRYWz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/el3mongvcpfji7xylkgv.png",
   "author": "Nick | React tinkerer ⚛️",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JSはプロトタイプベースの言語なので、プリミティブな型とオブジェクトしかないんです。付与されるのは...",
+      "title": "なぜJavaScriptでは配列がオブジェクトになるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "JS是一种基于原型的语言，所以只有原始的类型和对象。它授予...",
+      "title": "为什么数组在JavaScript中是一个对象？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JS是一種基於原型的語言，所以只有原始的類型和對象。它授予...",
+      "title": "爲什麼數組在JavaScript中是一個對象？"
+    }
+  ]
 }

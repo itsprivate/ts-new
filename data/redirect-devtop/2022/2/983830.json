@@ -48,5 +48,22 @@
   "original_created_at": "2022-02-09T15:43:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a2OygaZG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m5pu6ynt87aj334y1r96.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例えば、「犬のためのEtsy」と名乗る会社のWebアプリを作ることになったとしましょう...。",
+      "title": "新しいWeb開発プロジェクトでは、どのような技術スタックを選択されますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "假设你受雇为一家自称为 \"狗的Etsy \"的公司创建一个网络应用...。",
+      "title": "对于一个新的网络开发项目，你选择的技术栈是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "假設你受僱爲一家自稱爲 \"狗的Etsy \"的公司創建一個網絡應用...。",
+      "title": "對於一個新的網絡開發項目，你選擇的技術棧是什麼？"
+    }
+  ]
 }
