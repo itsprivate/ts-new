@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は10秒後に気がついた。"
+    },
+    {
+      "locale": "zh",
+      "title": "她在10秒钟后意识到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她在10秒鐘後意識到。"
+    }
+  ]
 }
