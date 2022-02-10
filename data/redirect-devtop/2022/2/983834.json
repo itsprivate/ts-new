@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-09T15:47:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nLbfD8hj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j4vcesn73ew408jq5k3c.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モダンなウェブ開発のための Django Extensions の厳選されたリスト。Django-HTMX、Django Ninja、Pandas、そして非同期タスク実行のための Django-Celery。",
+      "title": "Django - 人気のエクステンションを集めたキュレーションリスト"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的列表，包括用于现代Web开发的Django扩展。Django-HTMX、Django Ninja、Pandas、以及用于异步任务执行的Django-Celery。",
+      "title": ""
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的列表，包括用於現代Web開發的Django擴展。Django-HTMX、Django Ninja、Pandas、以及用於異步任務執行的Django-Celery。",
+      "title": ""
+    }
+  ]
 }
