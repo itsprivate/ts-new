@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本日、Product Huntに私の新しいプロジェクトが掲載されました - 3Dイラストレーションデザイナー"
+    },
+    {
+      "locale": "zh",
+      "title": "我的新项目今天出现在Product Hunt上--3D插画设计师"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的新項目今天出現在Product Hunt上--3D插畫設計師"
+    }
+  ]
 }

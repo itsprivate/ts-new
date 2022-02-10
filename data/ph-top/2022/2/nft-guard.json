@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-10T08:01:00Z"
+  "original_createdAt": "2022-02-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "究極の消費者保護企業「Fakespot」の開発者より。NFT Guard Chrome拡張機能は、OpenSea上の詐欺的なNFTコレクションや、あなたの財布とコインを盗もうとする詐欺的なNFTミントサイトからあなたを保護します。",
+      "tagline": "偽のNFTと暗号詐欺から身を守るために"
+    },
+    {
+      "locale": "zh",
+      "description": "来自Fakespot的开发者，最终的消费者保护者公司。NFT Guard Chrome扩展可以保护你免受OpenSea上的欺诈性NFT收藏和试图窃取你的钱包和硬币的虚假NFT铸币网站的影响。",
+      "tagline": "保护自己不受虚假的NFTs和加密货币骗局的影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "來自Fakespot的開發者，最終的消費者保護者公司。NFT Guard Chrome擴展可以保護你免受OpenSea上的欺詐性NFT收藏和試圖竊取你的錢包和硬幣的虛假NFT鑄幣網站的影響。",
+      "tagline": "保護自己不受虛假的NFTs和加密貨幣騙局的影響"
+    }
+  ]
 }
