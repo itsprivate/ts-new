@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-07T19:45:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R8WZUrID--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/794kse7plzt2tx8r9jqn.jpg",
   "author": "Maurício Linhares",
-  "author_url": "https://dev.to/mauriciolinhares"
+  "author_url": "https://dev.to/mauriciolinhares",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1994年に発表されて以来、デザインパターン集は、デザインパターンを構築する上での代表的な著作であり続けています。",
+      "title": "GoF Goでまだ意味のあるデザインパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "自1994年发行以来，《设计模式》一书仍然是构建 \"设计模式 \"的开创性工作。",
+      "title": "GoF 在Go中仍然有意义的设计模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自1994年發行以來，《設計模式》一書仍然是構建 \"設計模式 \"的開創性工作。",
+      "title": "GoF 在Go中仍然有意義的設計模式"
+    }
+  ]
 }
