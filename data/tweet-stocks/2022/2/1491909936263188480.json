@@ -134,5 +134,22 @@
     "retweet_count": 249,
     "favorite_count": 1197,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 前回このような金利の動きを見たとき、ベア・スターンズは大丈夫だったのか https://t.co/HGq6c2arNm",
+      "retweeted_status_full_text": "前回、このようなレートの動きを見たとき、ベア・スターンズは大丈夫だったのか https://t.co/HGq6c2arNm"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 上一次我们看到这样的利率走势时，贝尔斯登并不顺利 https://t.co/HGq6c2arNm",
+      "retweeted_status_full_text": "上一次我们看到这样的利率变动时，贝尔斯登并不顺利 https://t.co/HGq6c2arNm"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 上一次我們看到這樣的利率走勢時，貝爾斯登並不順利 https://t.co/HGq6c2arNm",
+      "retweeted_status_full_text": "上一次我們看到這樣的利率變動時，貝爾斯登並不順利 https://t.co/HGq6c2arNm"
+    }
+  ]
 }
