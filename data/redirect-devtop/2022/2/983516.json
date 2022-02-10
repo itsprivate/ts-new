@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-09T09:26:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sp7P2RV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kjks8rw1ps4bhyt3cc0b.jpg",
   "author": "Bradley Schofield",
-  "author_url": "https://dev.to/ionicisere"
+  "author_url": "https://dev.to/ionicisere",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppwriteのTasks Serviceは、特定の間隔でリモートURLにHTTPリクエストを送信する素晴らしい方法でした...",
+      "title": "AppwriteのTasks Serviceに別れを告げる👋。"
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite的任务服务是以特定的时间间隔向远程URL发送HTTP请求的一个好方法...",
+      "title": "告别Appwrite的任务服务 👋"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite的任務服務是以特定的時間間隔向遠程URL發送HTTP請求的一個好方法...",
+      "title": "告別Appwrite的任務服務 👋"
+    }
+  ]
 }
