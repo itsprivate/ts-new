@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-09T08:18:52Z"
+  "original_createdAt": "2022-02-09T08:18:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sourcegraph for VS Codeは、200万以上のオープンソースリポジトリのインデックスをIDEから直接検索することができる拡張機能です。VS Codeを離れることなく、サンプルコードを素早く見つけ、依存しているすべてのオープンソースライブラリをナビゲートすることができます。",
+      "tagline": "IDE を離れることなく、何百万ものオープンソースレポを検索できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Sourcegraph for VS Code是一个扩展，它允许你从你的IDE中直接搜索超过200万个开放源码库的索引。你可以在不离开VS Code的情况下快速找到示例代码并浏览所有你依赖的开源库。",
+      "tagline": "不离开IDE就能搜索到数以百万计的开放源码库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sourcegraph for VS Code是一個擴展，它允許你從你的IDE中直接搜索超過200萬個開放源碼庫的索引。你可以在不離開VS Code的情況下快速找到示例代碼並瀏覽所有你依賴的開源庫。",
+      "tagline": "不離開IDE就能搜索到數以百萬計的開放源碼庫"
+    }
+  ]
 }
