@@ -41,5 +41,22 @@
   "original_created_at": "2022-02-08T22:35:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oHYI3tEw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i5ahs8g4fgqib56ayjfq.png",
   "author": "George Tudor",
-  "author_url": "https://dev.to/geowrgetudor"
+  "author_url": "https://dev.to/geowrgetudor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は31歳ですが、これは知りませんでした。私はウェブサイトからいくつかのデータテーブルをスクレイピングしたいたびに...",
+      "title": "あらゆるウェブページのデータテーブルをExcelに取り込むことができることをご存知ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我已经31岁了，我不知道这一点。每当我想从一个网站上抓取一些数据表的时候，我就会发现，这些数据是很重要的。",
+      "title": "你知道你可以从任何网页中导入数据表到Excel吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經31歲了，我不知道這一點。每當我想從一個網站上抓取一些數據表的時候，我就會發現，這些數據是很重要的。",
+      "title": "你知道你可以從任何網頁中導入數據表到Excel嗎？"
+    }
+  ]
 }
