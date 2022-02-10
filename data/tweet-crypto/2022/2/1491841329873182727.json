@@ -138,5 +138,22 @@
     "retweet_count": 1698,
     "favorite_count": 3898,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ezralevant: にこにこ https://t.co/bEME7YFPm0",
+      "retweeted_status_full_text": "ニコニコ動画 https://t.co/bEME7YFPm0"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ezralevant: 做得很好。https://t.co/bEME7YFPm0",
+      "retweeted_status_full_text": "做得很好。https://t.co/bEME7YFPm0"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ezralevant: 做得很好。https://t.co/bEME7YFPm0",
+      "retweeted_status_full_text": "做得很好。https://t.co/bEME7YFPm0"
+    }
+  ]
 }
