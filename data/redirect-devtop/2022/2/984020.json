@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-09T16:51:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fDvWWTG---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8wr3vtggc05y7vpnjrqs.png",
   "author": "Anuj Gupta",
-  "author_url": "https://dev.to/hackanuj"
+  "author_url": "https://dev.to/hackanuj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに ハッカソンでプロジェクトを作ることは、自分のプロジェクトをブラッシュアップする絶好の機会です。",
+      "title": "参加すると豪華賞品がもらえるビッグハッカソンの数々"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：在黑客马拉松期间做项目是一个很好的机会，可以在黑客马拉松上刷新自己的经验。",
+      "title": "你可以参加的一些大型黑客活动，并赢得丰厚的奖金"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：在黑客馬拉松期間做項目是一個很好的機會，可以在黑客馬拉松上刷新自己的經驗。",
+      "title": "你可以參加的一些大型黑客活動，並贏得豐厚的獎金"
+    }
+  ]
 }
