@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If you're looking for side projects, or want to build a team for yours, check\nout this page [https://django-cs-projects.herokuapp.com/]. I made this for\npeople that wanna collaborate together on ideas they like. Loading the website\nthe first time might be slow b/c I'm using a free plan on…"
+  "the_new_excerpt": "If you're looking for side projects, or want to build a team for yours, check\nout this page [https://django-cs-projects.herokuapp.com/]. I made this for\npeople that wanna collaborate together on ideas they like. Loading the website\nthe first time might be slow b/c I'm using a free plan on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "サイドプロジェクトをお探しの方、または自分のチームを作りたい方は、ぜひチェックしてみてください。\nこのページ[https://django-cs-projects.herokuapp.com/]をご覧ください。このページは\n好きなアイデアで協力したい人。ウェブサイトを読み込む\n無料プランのため、初回は遅いかもしれません。",
+      "title": "もし、サイドプロジェクトでチームワークを発揮したいのなら..."
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你在寻找副业，或者想为你的项目建立一个团队，请查看\n看看这个页面[https://django-cs-projects.herokuapp.com/]。我做这个是为了\n想在他们喜欢的想法上一起合作的人。网站的加载\n第一次可能会很慢，因为我使用的是免费的计划...",
+      "title": "如果你想在一个团队中进行副业工作..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你在尋找副業，或者想爲你的項目建立一個團隊，請查看\n看看這個頁面[https://django-cs-projects.herokuapp.com/]。我做這個是爲了\n想在他們喜歡的想法上一起合作的人。網站的加載\n第一次可能會很慢，因爲我使用的是免費的計劃...",
+      "title": "如果你想在一個團隊中進行副業工作..."
+    }
+  ]
 }
