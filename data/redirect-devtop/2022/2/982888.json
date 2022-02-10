@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-08T17:30:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3wa8vtB8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/maq07rzwhayt5qvwarw6.jpg",
   "author": "Nader Dabit",
-  "author_url": "https://dev.to/dabit3"
+  "author_url": "https://dev.to/dabit3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.js、Polygon、Solidity、The Graph、IPFS、Hardhatを使ったフルスタックWeb3アプリの構築",
+      "title": "フルスタックWeb3開発完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "用Next.js、Polygon、Solidity、The Graph、IPFS和Hardhat构建全栈web3应用程序",
+      "title": "全栈式Web3开发完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用Next.js、Polygon、Solidity、The Graph、IPFS和Hardhat構建全棧web3應用程序",
+      "title": "全棧式Web3開發完整指南"
+    }
+  ]
 }
