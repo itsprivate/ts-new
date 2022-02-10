@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I have just watched a video from CES 2022 talking about a new car brand,\nVinfast, allowing their customers to rent the car battery to reduce the total\nprice like a half. That is quite impressive."
+  "the_new_excerpt": "I have just watched a video from CES 2022 talking about a new car brand,\nVinfast, allowing their customers to rent the car battery to reduce the total\nprice like a half. That is quite impressive.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "CES 2022のビデオで、新しい自動車ブランドについて話しているのを見たところです。\nVinfastは、顧客が車のバッテリーをレンタルすることで、合計金額を減らすことができます。\n半額になります。これはすごいことです。",
+      "title": "電気自動車のバッテリーを実際に購入するのではなく、レンタルするのか？これは本当に価値があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚看了2022年CES上的一个视频，谈到了一个新的汽车品牌。\n允許他們的客戶租用汽車電池，以降低總價\n价格的一半。这是相当令人印象深刻的。",
+      "title": "你会租借电动车电池而不是真正购买它吗？这真的值得吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛看了2022年CES上的一個視頻，談到了一個新的汽車品牌。\n允許他們的客戶租用汽車電池，以降低總價\n價格的一半。這是相當令人印象深刻的。",
+      "title": "你會租借電動車電池而不是真正購買它嗎？這真的值得嗎？"
+    }
+  ]
 }
