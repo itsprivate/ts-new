@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-10T10:03:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sr-QUSUn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jf8itjh1lracaaola8c.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私は長年にわたってJavaScriptの開発者をしていますが、実際には...",
+      "title": "JavaScriptからTypeScriptへの移行"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我做了多年的JavaScript开发人员，我并没有真正的...",
+      "title": "从JavaScript转移到TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我做了多年的JavaScript開發人員，我並沒有真正的...",
+      "title": "從JavaScript轉移到TypeScript"
+    }
+  ]
 }

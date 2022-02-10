@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "暗号の普及率は1990年代のインターネットブームに似ているとウェルズ・ファーゴの報告書"
+    },
+    {
+      "locale": "zh",
+      "title": "富国银行报告称，加密货币的采用率与1990年代的互联网热潮相似"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "富國銀行報告稱，加密貨幣的採用率與1990年代的互聯網熱潮相似"
+    }
+  ]
 }
