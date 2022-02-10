@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うちの猫は言葉がわかるのか？何年も経てば少しはわかるようになるだろ？"
+    },
+    {
+      "locale": "zh",
+      "title": "我的猫能听懂话吗？这么多年了，他肯定能听懂一些，对吗？ 为什么他对我视而不见，好像他不知道自己的名字。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的貓能聽懂話嗎？這麼多年了，他肯定能聽懂一些，對嗎？ 爲什麼他對我視而不見，好像他不知道自己的名字。"
+    }
+  ]
 }
