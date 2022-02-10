@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実は、Facebook / Metaがやってくれるんじゃないかと考えていたんです。ジャック：「Diemには、やり方が間違ってると言ったんだ。君たちはライトニングを使うべきだとね。"
+    },
+    {
+      "locale": "zh",
+      "title": "实际上我在想，也许Facebook/Meta会这样做。杰克：\"我告诉迪姆他们做错了。你们应该使用闪电。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "實際上我在想，也許Facebook/Meta會這樣做。傑克：\"我告訴迪姆他們做錯了。你們應該使用閃電。\""
+    }
+  ]
 }
