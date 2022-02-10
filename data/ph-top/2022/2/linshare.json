@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-10T08:01:00Z"
+  "original_createdAt": "2022-02-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LinShareは、Google Driveの代替となるオープンソースのソフトウェアです。GDPRに完全準拠した、プライベートで安全なファイル共有とクラウドストレージソリューションです。EUで製造され、ホストされています。",
+      "tagline": "プライベートで安全なファイル共有とクラウドストレージソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "LinShare是Google Drive的开源替代品。它是一个私人和安全的文件共享和云存储解决方案，完全符合GDPR。它是在欧盟制造和托管的。",
+      "tagline": "私人和安全的文件共享和云存储解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LinShare是Google Drive的開源替代品。它是一個私人和安全的文件共享和雲存儲解決方案，完全符合GDPR。它是在歐盟製造和託管的。",
+      "tagline": "私人和安全的文件共享和雲存儲解決方案"
+    }
+  ]
 }
