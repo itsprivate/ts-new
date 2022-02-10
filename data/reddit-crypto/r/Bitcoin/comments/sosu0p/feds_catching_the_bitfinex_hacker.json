@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "連邦捜査局がビットフィネックスのハッカーを捕まえる"
+    },
+    {
+      "locale": "zh",
+      "title": "联邦调查局抓获比特币交易所黑客"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聯邦調查局抓獲比特幣交易所黑客"
+    }
+  ]
 }
