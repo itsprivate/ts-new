@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vitalik Buterin氏によると、Ethereumはおそらくそれほど高速化することはないだろう"
+    },
+    {
+      "locale": "zh",
+      "title": "根据Vitalik Buterin的说法，以太坊可能永远不会更快。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據Vitalik Buterin的說法，以太坊可能永遠不會更快。"
+    }
+  ]
 }
