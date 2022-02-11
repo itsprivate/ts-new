@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エジプト、デイル・エル・メディナで発見された3200年前の出席簿です。労働者の欠勤理由は、\"弟の防腐処理\"、\"ビール醸造\"、\"サソリに噛まれた \"など。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是在埃及Deir el-Medina发现的一张3200年前的考勤表。工人缺勤的原因包括 \"为兄弟防腐\"、\"酿造啤酒 \"和 \"被蝎子咬了\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是在埃及Deir el-Medina發現的一張3200年前的考勤表。工人缺勤的原因包括 \"爲兄弟防腐\"、\"釀造啤酒 \"和 \"被蠍子咬了\"。"
+    }
+  ]
 }
