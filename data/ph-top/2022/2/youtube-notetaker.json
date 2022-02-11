@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-11T08:01:00Z"
+  "original_createdAt": "2022-02-11T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouTubeで何かを独学しようとしたことがある人なら、そのプロセスがいかに苛立たしいものかを知っているはずです。私たちのメモ帳はそれを変えます。メモを取り、アクションアイテムを作成し、終わったらNotionやTrelloと同期してください。",
+      "tagline": "YouTubeのウサギ小屋に死す"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经试图在YouTube上自学一些东西，你就会知道这个过程是多么令人沮丧。我们的记事本改变了这一点。做笔记，创建行动项目，当你完成后与你的Notion或Trello同步!",
+      "tagline": "死在YouTube的兔子洞里"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經試圖在YouTube上自學一些東西，你就會知道這個過程是多麼令人沮喪。我們的記事本改變了這一點。做筆記，創建行動項目，當你完成後與你的Notion或Trello同步!",
+      "tagline": "死在YouTube的兔子洞裏"
+    }
+  ]
 }

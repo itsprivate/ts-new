@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さん、こんにちは。あなたの好きな技術スタックにコードエクスポートできるNo-Code WebApp Builderを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "大家好! 我正在制作一个无需代码的WebApp生成器，可将代码导出到您选择的技术栈中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大家好! 我正在製作一個無需代碼的WebApp生成器，可將代碼導出到您選擇的技術棧中。"
+    }
+  ]
 }
