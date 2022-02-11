@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女はマクドナルドで働いている"
+    },
+    {
+      "locale": "zh",
+      "title": "她在麦当劳工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她在麥當勞工作"
+    }
+  ]
 }
