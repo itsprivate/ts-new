@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "良い一日をお過ごしください。"
+    },
+    {
+      "locale": "zh",
+      "title": "祝你有个愉快的一天"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "祝你有個愉快的一天"
+    }
+  ]
 }
