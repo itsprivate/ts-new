@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-10T01:58:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wH1dVZ-f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7gdf59l93hleaenclhu.png",
   "author": "Danilo Assis",
-  "author_url": "https://dev.to/daniloab"
+  "author_url": "https://dev.to/daniloab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Andrea De Santis on Unsplash TL;DR dependabotを実装する方法を学び、...",
+      "title": "レポのパッケージの依存関係を自動的に最新に保つ方法"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Andrea De Santis on Unsplash TL;DR 了解如何实施依赖机器人来...",
+      "title": "如何使你的 repo 包的依赖性自动保持更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Andrea De Santis on Unsplash TL;DR 瞭解如何實施依賴機器人來...",
+      "title": "如何使你的 repo 包的依賴性自動保持更新"
+    }
+  ]
 }
