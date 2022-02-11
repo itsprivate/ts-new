@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-04T13:56:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K5wrHOoN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4jdq1o968q3tijgva9mo.png",
   "author": "Ankur Tyagi",
-  "author_url": "https://dev.to/tyaga001"
+  "author_url": "https://dev.to/tyaga001",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリに認証機能を追加することは、開発者にとって当たり前の作業です。  その際、...",
+      "title": "ReactアプリにSuperTokensを使用して認証とセキュアなHarperDB APIを追加する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "为应用程序添加授权&amp; 认证是开发人员的一项常见任务。  当你...",
+      "title": "如何在你的React应用中使用SuperTokens添加认证和安全HarperDB APIs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲應用程序添加授權&amp; 認證是開發人員的一項常見任務。  當你...",
+      "title": "如何在你的React應用中使用SuperTokens添加認證和安全HarperDB APIs"
+    }
+  ]
 }
