@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Microsoft Wordを操る先生"
+    },
+    {
+      "locale": "zh",
+      "title": "绘制微软Word的老师"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "繪製微軟Word的老師"
+    }
+  ]
 }
