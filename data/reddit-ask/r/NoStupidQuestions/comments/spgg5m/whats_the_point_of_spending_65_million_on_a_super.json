@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I don’t get it"
+  "the_new_excerpt": "I don’t get it",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "わからん",
+      "title": "スーパーボウルの広告に650万ドルをかけても、それをオンラインで無料で見せるだけなら、何の意味があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不明白",
+      "title": "如果你只是在网上免费播放，那么在超级碗广告上花费650万美元有什么意义？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不明白",
+      "title": "如果你只是在網上免費播放，那麼在超級碗廣告上花費650萬美元有什麼意義？"
+    }
+  ]
 }
