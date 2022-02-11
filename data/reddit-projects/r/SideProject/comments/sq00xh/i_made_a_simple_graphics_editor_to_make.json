@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スクリーンショットを美しくするための簡単なグラフィックエディターを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个简单的图形编辑器，使屏幕截图变得漂亮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個簡單的圖形編輯器，使屏幕截圖變得漂亮。"
+    }
+  ]
 }
