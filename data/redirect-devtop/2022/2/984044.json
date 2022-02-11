@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-09T17:30:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TrViIvmm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hvn0cijdwuqb9xp791g.png",
   "author": "Bartek Wiśniewski",
-  "author_url": "https://dev.to/pr0gramista"
+  "author_url": "https://dev.to/pr0gramista",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Expressは、おそらくNode.jsの世界で最も影響力のあるパッケージの1つです。このパッケージは、私たちに...",
+      "title": "Expressのエラー処理を今すぐ修正する"
+    },
+    {
+      "locale": "zh",
+      "description": "Express可能是Node.js世界中最有影响力的软件包之一。它为我们提供了一个新的解决方案。",
+      "title": "现在修复你的快递错误处理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Express可能是Node.js世界中最有影響力的軟件包之一。它爲我們提供了一個新的解決方案。",
+      "title": "現在修復你的快遞錯誤處理"
+    }
+  ]
 }
