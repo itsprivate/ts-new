@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんて素直な子なんだろう"
+    },
+    {
+      "locale": "zh",
+      "title": "真是个诚实的孩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "真是個誠實的孩子"
+    }
+  ]
 }
