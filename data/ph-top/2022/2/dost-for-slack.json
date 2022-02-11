@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-10T19:08:39Z"
+  "original_createdAt": "2022-02-10T19:08:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dost（トーストのような発音）とは、友達という意味です。Dost for Slackは、Slackで安全で包括的なメッセージを作成することを支援するAIアシスタントです。Dostは、メッセージ内のマイクロアグレッションと毒性を検出し、送信者を教育し、是正措置を取るように促します。",
+      "tagline": "Slackでインクルーシブメッセージを作成するAIアシスタント"
+    },
+    {
+      "locale": "zh",
+      "description": "Dost（发音像toast）的意思是朋友。Dost for Slack是一个人工智能助手，帮助人们在Slack中创建安全和包容的信息。Dost检测信息中的微侵略和毒性，教育发件人并促使他们采取纠正措施。",
+      "tagline": "用于在Slack中创建包容性信息的AI助手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dost（發音像toast）的意思是朋友。Dost for Slack是一個人工智能助手，幫助人們在Slack中創建安全和包容的信息。Dost檢測信息中的微侵略和毒性，教育發件人並促使他們採取糾正措施。",
+      "tagline": "用於在Slack中創建包容性信息的AI助手"
+    }
+  ]
 }
