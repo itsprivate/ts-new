@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-10T19:18:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--phqBDDm---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/03qmm43t90uqkjf0hfzs.jpg",
   "author": "ASHUTOSH KUMAR CHOUDHARY",
-  "author_url": "https://dev.to/ashkodes"
+  "author_url": "https://dev.to/ashkodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 二進法は、世の中に数多く存在する数え方の一つである。これは数字である...",
+      "title": "\"BINARY \"を100字で表すと"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 二进制是目前众多计数系统中的一种。它是一种数字...",
+      "title": "\"BINARY \"的100个字"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 二進制是目前衆多計數系統中的一種。它是一種數字...",
+      "title": "\"BINARY \"的100個字"
+    }
+  ]
 }

@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな写真のジャンルが見つかった気がする!"
+    },
+    {
+      "locale": "zh",
+      "title": "我想我找到了我最喜欢的摄影体裁!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想我找到了我最喜歡的攝影體裁!"
+    }
+  ]
 }
