@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "馬鹿な質問はないとはいえ、今まで聞かれた中で一番馬鹿な質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "尽管没有愚蠢的问题，但你曾经被问到的最愚蠢的问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "儘管沒有愚蠢的問題，但你曾經被問到的最愚蠢的問題是什麼？"
+    }
+  ]
 }
