@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-11T08:01:00Z"
+  "original_createdAt": "2022-02-11T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Canduのドラッグ＆ドロップインターフェースは、CSMやPMを運転席に座らせ、コードを書かずに美しいUIを構築することを可能にします。これにより、顧客を最もよく理解しているチームが、顧客が喜ぶユーザー体験をデザインできるようになります。",
+      "tagline": "SaaS製品のためのノーコードUIコンポーネントビルダー"
+    },
+    {
+      "locale": "zh",
+      "description": "Candu的拖放界面将CSM和PM放在驾驶座上，使他们能够在不写任何代码的情况下建立漂亮的用户界面。N",
+      "tagline": "用于SaaS产品的无代码UI组件构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Candu的拖放界面將CSM和PM放在駕駛座上，使他們能夠在不寫任何代碼的情況下建立漂亮的用戶界面。N",
+      "tagline": "用於SaaS產品的無代碼UI組件構建器"
+    }
+  ]
 }

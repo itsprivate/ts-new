@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トンネルを滑り込ませる新しい展開式救命いかだは、多くの命を救うことができる。"
+    },
+    {
+      "locale": "zh",
+      "title": "一种新的可部署的救生筏，有一个隧道可以滑入，可以拯救许多人的生命。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一種新的可部署的救生筏，有一個隧道可以滑入，可以拯救許多人的生命。"
+    }
+  ]
 }
