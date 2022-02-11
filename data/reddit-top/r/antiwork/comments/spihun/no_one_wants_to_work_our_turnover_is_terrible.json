@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰も働きたがらない。離職率はひどいものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有人愿意工作。我们的营业额很糟糕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有人願意工作。我們的營業額很糟糕。"
+    }
+  ]
 }
