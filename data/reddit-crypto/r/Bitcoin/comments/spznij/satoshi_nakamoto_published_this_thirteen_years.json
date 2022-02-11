@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サトシ・ナカモトがこれを発表したのは、13年前の今日です。"
+    },
+    {
+      "locale": "zh",
+      "title": "中本聪在十三年前的今天发表了这篇文章。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中本聰在十三年前的今天發表了這篇文章。"
+    }
+  ]
 }
