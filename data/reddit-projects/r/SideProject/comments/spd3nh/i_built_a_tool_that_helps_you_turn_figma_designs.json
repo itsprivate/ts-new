@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Figmaのデザインをコーディングなしで機能的なWebサイトにするためのツールを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个工具，帮助你把Figma设计变成功能性网站，而不需要编码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個工具，幫助你把Figma設計變成功能性網站，而不需要編碼"
+    }
+  ]
 }
