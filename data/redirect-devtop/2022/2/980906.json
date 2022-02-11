@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-06T19:58:32Z",
   "image": "https://dev.to/social_previews/article/980906.png",
   "author": "Sandor Dargo",
-  "author_url": "https://dev.to/sandordargo"
+  "author_url": "https://dev.to/sandordargo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "F初めてプログラミングの仕事に就いたとき、ほとんどの時間をノートPCの前で過ごすことができました...。",
+      "title": "シニアデベロッパーが行う5種類のコミュニケーション"
+    },
+    {
+      "locale": "zh",
+      "description": "当我开始我的第一份编程工作时，我可以花大部分时间在我的笔记本电脑前。",
+      "title": "一个高级开发人员的5种沟通方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我開始我的第一份編程工作時，我可以花大部分時間在我的筆記本電腦前。",
+      "title": "一個高級開發人員的5種溝通方式"
+    }
+  ]
 }
