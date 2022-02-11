@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Why double it? Does it serves a purpose? Is it cool?"
+  "the_new_excerpt": "Why double it? Does it serves a purpose? Is it cool?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜ2倍なのか？何か目的があるのでしょうか？カッコイイですか？",
+      "title": "なぜ、アルコール60ではなく、120プルーフと言うのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么要加倍？它有什么用途吗？它很酷吗？",
+      "title": "为什么我们说120度而不是60度的酒精？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼要加倍？它有什麼用途嗎？它很酷嗎？",
+      "title": "爲什麼我們說120度而不是60度的酒精？"
+    }
+  ]
 }
