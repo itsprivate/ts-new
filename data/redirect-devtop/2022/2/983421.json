@@ -41,5 +41,22 @@
   "original_created_at": "2022-02-09T06:28:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cnKCmK2p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6xkemjm2lww5cs1c4zib.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回は、React Infinite Queryの使用について見てきました。しかし、まだボタンが...",
+      "title": "無限スクロールとReact Infinite Queryのチュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们研究了React无限查询的使用。然而，我们仍然有一个按钮...",
+      "title": "无限滚动和React无限查询教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們研究了React無限查詢的使用。然而，我們仍然有一個按鈕...",
+      "title": "無限滾動和React無限查詢教程"
+    }
+  ]
 }
