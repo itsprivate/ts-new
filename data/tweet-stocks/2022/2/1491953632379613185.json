@@ -134,5 +134,22 @@
     "retweet_count": 1788,
     "favorite_count": 5176,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 世界のインフレ率... https://t.co/G8gNKG4VKs",
+      "retweeted_status_full_text": "世界のインフレ率... https://t.co/G8gNKG4VKs"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: 全球通货膨胀率... https://t.co/G8gNKG4VKs",
+      "retweeted_status_full_text": "全球通货膨胀率... https://t.co/G8gNKG4VKs"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: 全球通貨膨脹率... https://t.co/G8gNKG4VKs",
+      "retweeted_status_full_text": "全球通貨膨脹率... https://t.co/G8gNKG4VKs"
+    }
+  ]
 }

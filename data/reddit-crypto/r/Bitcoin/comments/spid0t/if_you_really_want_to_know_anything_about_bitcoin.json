@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしあなたがビットコインについて本当に知りたいのなら、最初のレッスンは彼らの言うことを聞かないことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你真的想知道关于比特币的事情，第一课就是不要听这些人的话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你真的想知道關於比特幣的事情，第一課就是不要聽這些人的話"
+    }
+  ]
 }
