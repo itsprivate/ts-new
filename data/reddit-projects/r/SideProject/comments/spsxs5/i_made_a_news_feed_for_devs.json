@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DevsのNews Feedを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我为开发者做了一个新闻源"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲開發者做了一個新聞源"
+    }
+  ]
 }
