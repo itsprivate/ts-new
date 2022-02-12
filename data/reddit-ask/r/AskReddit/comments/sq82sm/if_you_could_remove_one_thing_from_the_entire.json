@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが全世界から何かひとつを取り除いて、より良い場所にすることができるとしたら、それは何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能从整个世界上消除一样东西，使之成为一个更好的地方，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能從整個世界上消除一樣東西，使之成爲一個更好的地方，那會是什麼？"
+    }
+  ]
 }
