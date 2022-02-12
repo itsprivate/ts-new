@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国についてよく言われていることで、事実と異なるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "关于你的国家，哪些流行的信念是不真实的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於你的國家，哪些流行的信念是不真實的？"
+    }
+  ]
 }
