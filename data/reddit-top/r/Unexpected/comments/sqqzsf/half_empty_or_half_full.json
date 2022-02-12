@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハーフエンプティまたはハーフフル"
+    },
+    {
+      "locale": "zh",
+      "title": "半空或半满"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "半空或半滿"
+    }
+  ]
 }

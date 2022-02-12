@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この23歳のテキサス人は、石油掘削のフレアガスからビットコインを採掘して、昨年400万ドルを稼いだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些23岁的德克萨斯人去年利用石油钻井的废气开采比特币赚了400万美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些23歲的德克薩斯人去年利用石油鑽井的廢氣開採比特幣賺了400萬美元"
+    }
+  ]
 }
