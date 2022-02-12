@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-12T08:01:00Z"
+  "original_createdAt": "2022-02-12T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "受信トレイに直接プライベートなメモを書き込める、Gmailベースの軽量なCRMです。",
+      "tagline": "Gmail用の軽量なCRMでプライベートなメモを書く"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个基于Gmail的轻量级CRM，可以直接在收件箱中写私人笔记。",
+      "tagline": "用Gmail的轻量级CRM写私人笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個基於Gmail的輕量級CRM，可以直接在收件箱中寫私人筆記。",
+      "tagline": "用Gmail的輕量級CRM寫私人筆記"
+    }
+  ]
 }
