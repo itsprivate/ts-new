@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PhotoPrism (Open source Google Photos alternative) 共有アルバム内の写真を地図上に表示するシンプルなサービスを開発しました!"
+    },
+    {
+      "locale": "zh",
+      "title": "我开发了一个简单的服务，可以将PhotoPrism（开源谷歌照片的替代品）共享相册内的所有照片渲染成地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我開發了一個簡單的服務，可以將PhotoPrism（開源谷歌照片的替代品）共享相冊內的所有照片渲染成地圖"
+    }
+  ]
 }
