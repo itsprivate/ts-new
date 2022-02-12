@@ -41,5 +41,22 @@
   "original_created_at": "2021-12-16T14:20:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eSgm39_q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/63G2fNg.jpg",
   "author": "JTK",
-  "author_url": "https://dev.to/heyjtk"
+  "author_url": "https://dev.to/heyjtk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "技術職の人のための交渉術のインサイド的視点",
+      "title": "元採用担当者からの交渉術のアドバイス "
+    },
+    {
+      "locale": "zh",
+      "description": "科技界人士对谈判的内部看法",
+      "title": "一位前招聘人员的谈判建议 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "科技界人士對談判的內部看法",
+      "title": "一位前招聘人員的談判建議 "
+    }
+  ]
 }
