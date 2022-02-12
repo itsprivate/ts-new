@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Does this term have a specific origin, or just kind of pop into existence?"
+  "the_new_excerpt": "Does this term have a specific origin, or just kind of pop into existence?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この言葉は、特定の由来があるのでしょうか、それともただポンと出てきただけなのでしょうか？",
+      "title": "なぜ「おじさんを泣かす」ことが降伏を意味するようになったのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这个术语是否有特定的起源，或者只是一种突然出现的现象？",
+      "title": "\"哭泣的叔叔 \"怎么会有投降的意思呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這個術語是否有特定的起源，或者只是一種突然出現的現象？",
+      "title": "\"哭泣的叔叔 \"怎麼會有投降的意思呢？"
+    }
+  ]
 }
