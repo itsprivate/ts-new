@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私がブレーキを踏んだと警察に言いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "他告诉警察我踩了刹车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他告訴警察我踩了剎車"
+    }
+  ]
 }
