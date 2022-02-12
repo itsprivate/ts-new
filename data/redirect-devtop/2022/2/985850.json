@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-11T09:30:15Z",
   "image": "https://dev.to/social_previews/article/985850.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私のTwitchストリームをご覧になっている方は、私が現在、再構築、再設計中であることをご存知でしょう。",
+      "title": "JavaScript不要！HTMLだけのアコーディオンの作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你最近一直在看我的Twitch视频流，你会知道我目前正在重建，重新设计...",
+      "title": "如何建立一个纯HTML的手风琴--不需要JavaScript!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你最近一直在看我的Twitch視頻流，你會知道我目前正在重建，重新設計...",
+      "title": "如何建立一個純HTML的手風琴--不需要JavaScript!"
+    }
+  ]
 }
