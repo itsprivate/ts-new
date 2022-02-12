@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "曲は「Bender is great」だと思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "我相信这首歌是 \"Bender is great\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我相信這首歌是 \"Bender is great\"。"
+    }
+  ]
 }
