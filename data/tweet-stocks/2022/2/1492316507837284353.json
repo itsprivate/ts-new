@@ -52,5 +52,22 @@
     },
     "retweet_count": 511,
     "favorite_count": 1634
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @LucasFoxNews: 「ウクライナ軍は今夜も緊張している。今日の通話ほどストレスを感じたことはない」と米政府高官...",
+      "retweeted_status_full_text": "「ウクライナ軍は今夜も緊張している。今日の通話ほど彼らがストレスを感じているのを聞いたことがない」と米政府高官は私に語った。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @LucasFoxNews: \"乌克兰军队今晚处于紧张状态。我从来没有听到他们比今天的电话更紧张，\"美国官员...",
+      "retweeted_status_full_text": "\"乌克兰军队今晚很紧张。我从来没有听到他们比今天的电话更紧张，\"美国官员告诉我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @LucasFoxNews: \"烏克蘭軍隊今晚處於緊張狀態。我從來沒有聽到他們比今天的電話更緊張，\"美國官員...",
+      "retweeted_status_full_text": "\"烏克蘭軍隊今晚很緊張。我從來沒有聽到他們比今天的電話更緊張，\"美國官員告訴我。"
+    }
+  ]
 }
