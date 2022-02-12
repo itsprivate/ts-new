@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼の命を救うため、見知らぬ人たちが集まってきた"
+    },
+    {
+      "locale": "zh",
+      "title": "陌生人聚集起来拯救他的生命"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "陌生人聚集起來拯救他的生命"
+    }
+  ]
 }
