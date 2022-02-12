@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-11T18:03:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GXQ7Fm9V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b4zk6b8w3zmtqrpmf7xt.png",
   "author": "IsraelMitolu",
-  "author_url": "https://dev.to/israelmitolu"
+  "author_url": "https://dev.to/israelmitolu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Webサイトではカーソルを別のものにカスタマイズすることが流行っていますが、そのことをご存知ですか？",
+      "title": "カスタムカーソルとJavascriptの併用によるユーザーエクスペリエンスの向上"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否看到过这样一种流行的趋势，即网站使用的定制光标与其他网站不同。",
+      "title": "使用Javascript的自定义光标以获得更好的用户体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否看到過這樣一種流行的趨勢，即網站使用的定製光標與其他網站不同。",
+      "title": "使用Javascript的自定義光標以獲得更好的用戶體驗"
+    }
+  ]
 }
