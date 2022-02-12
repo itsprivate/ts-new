@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-09T06:09:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G_b0Ppb_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxtajdu01xs4sfhpzwih.jpg",
   "author": "Marcin Wosinek",
-  "author_url": "https://dev.to/marcinwosinek"
+  "author_url": "https://dev.to/marcinwosinek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptはインタプリタ型言語であり、コンパイルが不要である。ブラウザで実行できるのは、同じ...",
+      "title": "なぜJavaScriptのバンドラーを使うのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一种解释型语言，不需要编译。你的浏览器可以执行相同的...",
+      "title": "我们为什么要使用JavaScript捆绑器？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一種解釋型語言，不需要編譯。你的瀏覽器可以執行相同的...",
+      "title": "我們爲什麼要使用JavaScript捆綁器？"
+    }
+  ]
 }
