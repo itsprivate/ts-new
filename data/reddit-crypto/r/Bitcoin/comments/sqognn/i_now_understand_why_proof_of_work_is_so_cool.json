@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Proof of Workがなぜカッコイイのか、よくわかりました。10分以上かかったけど"
+    },
+    {
+      "locale": "zh",
+      "title": "我现在明白为什么 \"工作证明 \"这么酷了。但我花了超过10分钟的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我現在明白爲什麼 \"工作證明 \"這麼酷了。但我花了超過10分鐘的時間"
+    }
+  ]
 }
