@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カヌーって、そんなこともできるんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "Canoe甚至可以做到这一点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Canoe甚至可以做到這一點？"
+    }
+  ]
 }
