@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アヒルのお母さんがワニの卵をふ化させた。小さな動物は、彼女を母親だと思っているのです"
+    },
+    {
+      "locale": "zh",
+      "title": "一个鸭妈妈孵出了一个鳄鱼蛋。这只小动物认为她是自己的母亲!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個鴨媽媽孵出了一個鱷魚蛋。這隻小動物認爲她是自己的母親!"
+    }
+  ]
 }
