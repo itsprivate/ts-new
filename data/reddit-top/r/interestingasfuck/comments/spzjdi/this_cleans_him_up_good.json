@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これで彼はきれいになる"
+    },
+    {
+      "locale": "zh",
+      "title": "这能很好地清洁他的身体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這能很好地清潔他的身體"
+    }
+  ]
 }
