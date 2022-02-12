@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは異性のどんな服装に魅力を感じますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你觉得哪种类型的衣服对异性很有吸引力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你覺得哪種類型的衣服對異性很有吸引力？"
+    }
+  ]
 }
