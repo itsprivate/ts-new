@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This often happens to me in the Notes app. Like just now I wanted to type the\nword “sears,” like the verb, uncapitalized. Then as soon as I hit space it\nchanged it to “Sears.” So I backspaced and changed it back to “sears,” hit space\nagain to keep on writing, and sure enough it changed right back…"
+  "the_new_excerpt": "This often happens to me in the Notes app. Like just now I wanted to type the\nword “sears,” like the verb, uncapitalized. Then as soon as I hit space it\nchanged it to “Sears.” So I backspaced and changed it back to “sears,” hit space\nagain to keep on writing, and sure enough it changed right back…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "メモアプリでよく起こることです。先ほどもそうでしたが、私は次のように入力しようとしました。\nsears \"という単語は、動詞のように大文字でない。スペースキーを押したとたんに\nが \"Sears \"に変わってしまいました。だからバックスペースして \"sears \"に戻し、スペースを押して\nまた、書き続けようとしたら、案の定、すぐに元に戻ってしまった......。",
+      "title": "正しい単語を入力しても別の単語に自動修正され、バックスペースで元の単語に戻しても、また自動修正されてしまうことにイライラしているiOSユーザーは他にいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这种情况经常发生在我的笔记应用程序中。就像刚才我想输入\n\"sears \"这个词，像动词一样，没有大写。然后我一按空格，它就\n就把它改成了 \"西尔斯\"。所以我退步并把它改回 \"sears\"，按空格\n继续写，果然它又改回来了......",
+      "title": "当你输入正确的单词时，它自动更正为另一个单词，然后你退格改回原来的单词，然后它又自动更正了，是否有其他iOS用户感到沮丧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這種情況經常發生在我的筆記應用程序中。就像剛纔我想輸入\n\"sears \"這個詞，像動詞一樣，沒有大寫。然後我一按空格，它就\n就把它改成了 \"西爾斯\"。所以我退步並把它改回 \"sears\"，按空格\n繼續寫，果然它又改回來了......",
+      "title": "當你輸入正確的單詞時，它自動更正爲另一個單詞，然後你退格改回原來的單詞，然後它又自動更正了，是否有其他iOS用戶感到沮喪？"
+    }
+  ]
 }
