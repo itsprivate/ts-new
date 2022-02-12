@@ -1,0 +1,83 @@
+{
+  "created_at": "Sat Feb 12 10:38:2 +0000 2022",
+  "id_str": "1492426988782563328",
+  "full_text": "RT @DocumentingBTC: Intel, the semiconductor giant, announced its #Bitcoin mining chips will ship later this year. Argo Blockchain, BLOCK (…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bitcoin",
+        "indices": [
+          66,
+          74
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DocumentingBTC",
+        "name": "Documenting ₿itcoin 📄",
+        "id": 1337780902680809500,
+        "id_str": "1337780902680809474",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 211,
+  "favorite_count": 0,
+  "original_created_at": "Sat Feb 12 09:14:56 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Sat Feb 12 03:06:06 +0000 2022",
+    "id_str": "1492334166310068229",
+    "full_text": "Intel, the semiconductor giant, announced its #Bitcoin mining chips will ship later this year. Argo Blockchain, BLOCK (formerly known as Square) and GRIID Infrastructure are among our first customers. \n\nhttps://t.co/RjeLwii0RF",
+    "display_text_range": [
+      0,
+      226
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bitcoin",
+          "indices": [
+            46,
+            54
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RjeLwii0RF",
+          "expanded_url": "https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html?cid=iosm&source=twitter&campid=newsroom_posts&content=100002905784227&icid=always-on&linkId=100000109010719#gs.peu6x8",
+          "display_url": "intel.com/content/www/us…",
+          "indices": [
+            203,
+            226
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Documenting ₿itcoin 📄",
+      "screen_name": "DocumentingBTC",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg"
+    },
+    "retweet_count": 211,
+    "favorite_count": 832,
+    "possibly_sensitive": false
+  }
+}
