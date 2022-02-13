@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホワイトハットハッカーがETH生成バグを修正し200万ドルを授与される"
+    },
+    {
+      "locale": "zh",
+      "title": "白帽黑客因修复ETH创建漏洞获200万美元奖金"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "白帽黑客因修復ETH創建漏洞獲200萬美元獎金"
+    }
+  ]
 }
