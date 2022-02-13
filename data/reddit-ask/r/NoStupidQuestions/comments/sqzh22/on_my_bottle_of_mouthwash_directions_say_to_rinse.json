@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "My cheeks get tired."
+  "the_new_excerpt": "My cheeks get tired.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "頬が疲れる。",
+      "title": "洗口液のボトルには、「強めにすすいでください」と書いてあるのですが。これは、できるだけ強い力ですすぐということでしょうか、それとも水で薄めないということでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的脸颊变得很累。",
+      "title": "在我的漱口水瓶子上，说明上写着要用全强度冲洗。这是否意味着要尽可能地用力冲洗，或者不要用水稀释？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的臉頰變得很累。",
+      "title": "在我的漱口水瓶子上，說明上寫着要用全強度沖洗。這是否意味着要儘可能地用力沖洗，或者不要用水稀釋？"
+    }
+  ]
 }
