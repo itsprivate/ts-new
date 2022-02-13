@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "全速力で走るグリズリーベア（時速40km程度）"
+    },
+    {
+      "locale": "zh",
+      "title": "灰熊全速奔跑（大约40英里/小时）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "灰熊全速奔跑（大約40英里/小時）。"
+    }
+  ]
 }
