@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガイはお気に入りの店員を驚かせた。"
+    },
+    {
+      "locale": "zh",
+      "title": "盖伊让他最喜欢的店主感到惊讶。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蓋伊讓他最喜歡的店主感到驚訝。"
+    }
+  ]
 }
