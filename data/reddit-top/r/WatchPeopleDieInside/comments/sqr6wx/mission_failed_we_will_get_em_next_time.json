@@ -72,5 +72,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミッション失敗 次こそは成功させる..."
+    },
+    {
+      "locale": "zh",
+      "title": "任务失败。我们下次会抓住他们......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "任務失敗。我們下次會抓住他們......"
+    }
+  ]
 }
