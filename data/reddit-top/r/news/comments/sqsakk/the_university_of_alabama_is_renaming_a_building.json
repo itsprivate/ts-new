@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アラバマ大学が黒人学生の名を冠した校舎を改称し、クランズマンの名を削除"
+    },
+    {
+      "locale": "zh",
+      "title": "阿拉巴马大学正在以其第一个黑人学生的名字重新命名一栋大楼，并删除一个三K党人的名字。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿拉巴馬大學正在以其第一個黑人學生的名字重新命名一棟大樓，並刪除一個三K黨人的名字。"
+    }
+  ]
 }
