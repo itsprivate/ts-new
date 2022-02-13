@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日、ある人が初めてBTCウォレットを設定し、44,612BTC（18億円）を購入しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "昨天有人第一次建立BTC钱包，买了44,612 BTC（18亿美元）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨天有人第一次建立BTC錢包，買了44,612 BTC（18億美元）。"
+    }
+  ]
 }
