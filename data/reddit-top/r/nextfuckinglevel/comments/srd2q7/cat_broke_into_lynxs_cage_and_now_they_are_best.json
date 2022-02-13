@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ネコはリンクスの檻に侵入し、今では最高の相棒になりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "猫闯进了猞猁的笼子，现在它们是最好的伙伴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓闖進了猞猁的籠子，現在它們是最好的夥伴。"
+    }
+  ]
 }
