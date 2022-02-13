@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性の皆さん、（初デートで）あなたのデートが大失敗したことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "女人们，你们的约会对象（在第一次约会中）做了什么事，让你们感到非常厌恶？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "女人們，你們的約會對象（在第一次約會中）做了什麼事，讓你們感到非常厭惡？"
+    }
+  ]
 }
