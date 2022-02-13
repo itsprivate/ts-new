@@ -62,5 +62,19 @@
   "retweet_count": 74,
   "favorite_count": 293,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Feb 13 02:04:22 +0000 2022"
+  "original_created_at": "Sun Feb 13 02:04:22 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "こちらは60分です\n https://t.co/UknCeJeVLl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "先生，这里是60分钟\n https://t.co/UknCeJeVLl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "先生，這裏是60分鐘\n https://t.co/UknCeJeVLl"
+    }
+  ]
 }
