@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目標に集中し、深いフローを実現できるクロームエクステンションを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个chrome扩展，让你专注于你的目标并实现深度流动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個chrome擴展，讓你專注於你的目標並實現深度流動"
+    }
+  ]
 }
