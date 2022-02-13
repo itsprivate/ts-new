@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-13T14:37:54Z"
+  "original_createdAt": "2022-02-13T14:37:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、多くのReactとNext.jsのスニペットをtypescriptサポートで提供するVisual Studio Code拡張で、何度も同じコードを書き直す必要がありません😉。",
+      "tagline": "TypeScriptで作るReactとNext.jsのスニペット"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个Visual Studio Code扩展，它为你提供了许多React和Next.js片段，并支持typescript，这样你就不必一次又一次地重写同样的代码了😉。",
+      "tagline": "使用TypeScript的React和Next.js片段"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個Visual Studio Code擴展，它爲你提供了許多React和Next.js片段，並支持typescript，這樣你就不必一次又一次地重寫同樣的代碼了😉。",
+      "tagline": "使用TypeScript的React和Next.js片段"
+    }
+  ]
 }
