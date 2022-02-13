@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-13T08:01:00Z"
+  "original_createdAt": "2022-02-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nimbleは、ビジュアルなオンラインコードエディタです。現在、Tailwind CSSをサポートしており、将来的にはBootstrap、Bulma、Material-UIなどの人気ライブラリもサポートする予定です。HTML要素を利用できるのが特徴で、コンポーネントをより速く構築するのに役立ちます。",
+      "tagline": "ウェブコンポーネントを数分で構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Nimble是一个可视化的在线代码编辑器。它目前支持Tailwind CSS，并将在未来支持流行的库，如Bootstrap、Bulma和Material-UI。它的特点是提供HTML元素，以帮助更快地建立你的组件。",
+      "tagline": "在几分钟内构建网络组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nimble是一個可視化的在線代碼編輯器。它目前支持Tailwind CSS，並將在未來支持流行的庫，如Bootstrap、Bulma和Material-UI。它的特點是提供HTML元素，以幫助更快地建立你的組件。",
+      "tagline": "在幾分鐘內構建網絡組件"
+    }
+  ]
 }
