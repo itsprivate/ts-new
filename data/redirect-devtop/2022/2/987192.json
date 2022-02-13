@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-12T17:12:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pFCrFN_K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8q0vjrc1p2kx8ui7qxk.png",
   "author": "TheSkavin",
-  "author_url": "https://dev.to/theskavin"
+  "author_url": "https://dev.to/theskavin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、ゲーム「Wordle」が100万円以上の価値を持つに至った経緯を説明します。 このまま読み進めて...",
+      "title": "このJavaScriptゲームは、どのようにして100万ドル以上を稼いだのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将解释 \"Wordle \"这个游戏的价值是如何超过100万美元的。 继续阅读，以...",
+      "title": "这个JavaScript游戏是如何赚取100多万美元的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將解釋 \"Wordle \"這個遊戲的價值是如何超過100萬美元的。 繼續閱讀，以...",
+      "title": "這個JavaScript遊戲是如何賺取100多萬美元的？"
+    }
+  ]
 }
