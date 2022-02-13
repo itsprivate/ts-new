@@ -13,5 +13,19 @@
   ],
   "objectID": "30320113",
   "original_created_at": "2022-02-13T08:03:40.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CORSは、APIのエンドポイントを保護するためのものではない"
+    },
+    {
+      "locale": "zh",
+      "title": "CORS不是用来保护API端点的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CORS不是用來保護API端點的。"
+    }
+  ]
 }
