@@ -48,5 +48,22 @@
   "original_created_at": "2022-02-05T03:18:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WogHwvu9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyrcbhee050eigxv3gi6.gif",
   "author": "Briggs Elsperger",
-  "author_url": "https://dev.to/i3uckwheat"
+  "author_url": "https://dev.to/i3uckwheat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読解力は、開発者の一番の味方。あなたが使う情報のほとんどは...",
+      "title": "読解力"
+    },
+    {
+      "locale": "zh",
+      "description": "阅读理解是一个开发者最亲密的朋友。你将使用的大部分信息都来自...",
+      "title": "阅读理解"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "閱讀理解是一個開發者最親密的朋友。你將使用的大部分信息都來自...",
+      "title": "閱讀理解"
+    }
+  ]
 }
