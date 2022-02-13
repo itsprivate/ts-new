@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2013年の古いハードディスクからこのフォルダを見つけたんだ。これで何かできるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我刚刚在一个2013年的旧硬盘上发现了这个文件夹。我可以用它做什么吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我剛剛在一個2013年的舊硬盤上發現了這個文件夾。我可以用它做什麼嗎？"
+    }
+  ]
 }
