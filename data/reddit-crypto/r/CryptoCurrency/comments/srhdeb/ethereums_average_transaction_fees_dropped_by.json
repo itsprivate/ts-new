@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムの平均取引手数料は1ヶ月で約73.3%減少：53.03ドルから14.17ドルへ減少"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊的平均交易费用仅在一个月内就下降了近73.3%：从53.03美元降至14.17美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊的平均交易費用僅在一個月內就下降了近73.3%：從53.03美元降至14.17美元"
+    }
+  ]
 }
