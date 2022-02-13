@@ -52,5 +52,22 @@
     },
     "retweet_count": 987,
     "favorite_count": 6014
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @StevePhillipsMD: 善意を持った有能な人々が物事を動かしていると信じていた時期があった。\n\n時代は変わりました。",
+      "retweeted_status_full_text": "私は、善意の有能な人々が物事を動かしていると信じていた時期がありました。\n\n時代は変わりました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @StevePhillipsMD: 曾几何时，我相信有能力的人怀着良好的愿望在管理事情。\n\n时代已经改变。",
+      "retweeted_status_full_text": "曾几何时，我相信有能力的人怀着美好的愿望在管理事情。\n\n时代已经改变。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @StevePhillipsMD: 曾幾何時，我相信有能力的人懷着良好的願望在管理事情。\n\n時代已經改變。",
+      "retweeted_status_full_text": "曾幾何時，我相信有能力的人懷着美好的願望在管理事情。\n\n時代已經改變。"
+    }
+  ]
 }
