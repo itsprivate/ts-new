@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-11T17:39:13Z",
   "image": "https://dev.to/social_previews/article/986297.png",
   "author": "Santan21",
-  "author_url": "https://dev.to/santan21"
+  "author_url": "https://dev.to/santan21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基本 ⇥ 変数宣言 ⇥ 変数スコープ ⇥ 変数ホイスト ⇥ 関数 ⇥ アロー...",
+      "title": "React開発者のためのJavaScriptエッセンシャルズ"
+    },
+    {
+      "locale": "zh",
+      "description": "➊ 基础知识 ⇥ 变量声明 ⇥ 变量范围 ⇥ 变量提升 ⇥ 函数 ⇥ 箭头...",
+      "title": "应对气候变化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "➊ 基礎知識 ⇥ 變量聲明 ⇥ 變量範圍 ⇥ 變量提升 ⇥ 函數 ⇥ 箭頭...",
+      "title": "應對氣候變化"
+    }
+  ]
 }
