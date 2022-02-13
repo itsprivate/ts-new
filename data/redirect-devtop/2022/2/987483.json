@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-13T02:26:58Z",
   "image": "https://dev.to/social_previews/article/987483.png",
   "author": "Emmanuel C. Onyema",
-  "author_url": "https://dev.to/ceonyema"
+  "author_url": "https://dev.to/ceonyema",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、ブロックチェーンの最もシンプルな形について学びたいと思います。",
+      "title": "ブロックチェーンについて - 絶対的な基本を理解する。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将了解区块链最简单的形式，我的目的是...",
+      "title": "关于区块链--了解绝对的基础知识。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將瞭解區塊鏈最簡單的形式，我的目的是...",
+      "title": "關於區塊鏈--瞭解絕對的基礎知識。"
+    }
+  ]
 }
