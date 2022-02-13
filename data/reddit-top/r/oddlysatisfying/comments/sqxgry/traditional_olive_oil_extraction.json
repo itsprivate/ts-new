@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "伝統的なオリーブオイルの抽出"
+    },
+    {
+      "locale": "zh",
+      "title": "传统的橄榄油提取"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "傳統的橄欖油提取"
+    }
+  ]
 }
