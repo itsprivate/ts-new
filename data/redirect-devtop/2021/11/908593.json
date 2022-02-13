@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-25T09:17:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jVZ9Eq53--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2r8gcr9mubmsw9sugrre.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに AWSは、最も広範で深い機械学習サービスと...",
+      "title": "アマゾン機械学習入門"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：AWS提供了最广泛和最深入的机器学习服务，并在此基础上提供了一个新的服务。",
+      "title": "亚马逊机器学习简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：AWS提供了最廣泛和最深入的機器學習服務，並在此基礎上提供了一個新的服務。",
+      "title": "亞馬遜機器學習簡介"
+    }
+  ]
 }
