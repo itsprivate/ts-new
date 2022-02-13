@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTRTN: 中間選挙、その1...民主党勝利への道...そう、その通り...勝利へ"
+    },
+    {
+      "locale": "zh",
+      "title": "BTRTN：中期选举，第一部分......通往民主党胜利的道路......是的，没错......胜利"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BTRTN：中期選舉，第一部分......通往民主黨勝利的道路......是的，沒錯......勝利"
+    }
+  ]
 }
