@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-13T08:01:00Z"
+  "original_createdAt": "2022-02-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Maps Scraperは、Google Mapsからすべての企業をCSV/Excelファイルにエクスポートすることができます。",
+      "tagline": "GMBから企業に関する情報を抽出する。"
+    },
+    {
+      "locale": "zh",
+      "description": "Google Maps Scraper允许你将Google Maps中的所有企业导出到CSV/Excel文件中。",
+      "tagline": "从GMB中提取有关企业的信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Google Maps Scraper允許你將Google Maps中的所有企業導出到CSV/Excel文件中。",
+      "tagline": "從GMB中提取有關企業的信息。"
+    }
+  ]
 }
