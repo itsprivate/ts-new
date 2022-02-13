@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "核分裂のとき、2つの新しい原子の間で電子はどのように再配分されるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在核裂变过程中，电子是如何在两个新原子之间重新分配的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在覈裂變過程中，電子是如何在兩個新原子之間重新分配的？"
+    }
+  ]
 }
