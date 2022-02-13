@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビデオや画像の背景を除去する、オープンソース"
+    },
+    {
+      "locale": "zh",
+      "title": "移除视频和图像背景，开放源代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "移除視頻和圖像背景，開放源代碼"
+    }
+  ]
 }
