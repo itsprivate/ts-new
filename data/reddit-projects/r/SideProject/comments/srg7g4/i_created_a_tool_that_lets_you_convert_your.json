@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "静的なエモートをTwitchで使えるアニメーションのエモートに変換できるツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个工具，让你把静态表情转换为适用于Twitch的动画表情。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個工具，讓你把靜態表情轉換爲適用於Twitch的動畫表情。"
+    }
+  ]
 }
