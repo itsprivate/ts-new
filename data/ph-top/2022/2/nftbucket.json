@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-13T08:42:10Z"
+  "original_createdAt": "2022-02-13T08:42:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nftbucketは、Solanaエコシステムの人々が、自分のNFTを掲載できる自分だけのギャラリーを作ることができます。ページのルック＆フィールをカスタマイズすることが可能です。",
+      "tagline": "ソラナNFTギャラリーを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "Nftbucket允许Solana生态系统中的人们创建他们自己的个人画廊，在那里他们可以列出他们的NFTs。它可以定制页面的外观和感觉。",
+      "tagline": "创建你自己的Solana NFT画廊"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nftbucket允許Solana生態系統中的人們創建他們自己的個人畫廊，在那裏他們可以列出他們的NFTs。它可以定製頁面的外觀和感覺。",
+      "tagline": "創建你自己的Solana NFT畫廊"
+    }
+  ]
 }
