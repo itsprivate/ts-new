@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はあなたのCPを見ている"
+    },
+    {
+      "locale": "zh",
+      "title": "我在看着你，CP"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在看着你，CP"
+    }
+  ]
 }
