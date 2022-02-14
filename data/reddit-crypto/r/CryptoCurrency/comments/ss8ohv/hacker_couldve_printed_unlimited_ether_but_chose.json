@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッカーは無制限に「Ether」を印刷できたが、代わりに200万ドルのバグバウンティを選択した"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客本可印刷无限的 \"以太\"，但却选择了200万美元的漏洞赏金"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客本可印刷無限的 \"以太\"，但卻選擇了200萬美元的漏洞賞金"
+    }
+  ]
 }
