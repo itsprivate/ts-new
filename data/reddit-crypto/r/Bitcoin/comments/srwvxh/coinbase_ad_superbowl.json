@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "How much did they pay for that? Wtf"
+  "the_new_excerpt": "How much did they pay for that? Wtf",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "いくらで買ったんだろう？wtf",
+      "title": "コインベース広告 @superbowl"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们为此支付了多少钱？傻眼了",
+      "title": "Coinbase广告@超级碗"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們爲此支付了多少錢？傻眼了",
+      "title": "Coinbase廣告@超級碗"
+    }
+  ]
 }
