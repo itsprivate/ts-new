@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-14T11:40:25Z"
+  "original_createdAt": "2022-02-14T11:40:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このインタラクティブなJavaScriptナレッジマップは、開発者がモダンなJavaScriptのほとんどのトピックを一目で見ることができるように構築されています。",
+      "tagline": "JavaScriptのための対話型ナレッジマップ"
+    },
+    {
+      "locale": "zh",
+      "description": "我建立了这个交互式JavaScript知识地图，让开发者能够对现代JavaScript的大部分主题一目了然。",
+      "tagline": "用于JavaScript的交互式知识地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我建立了這個交互式JavaScript知識地圖，讓開發者能夠對現代JavaScript的大部分主題一目瞭然。",
+      "tagline": "用於JavaScript的交互式知識地圖"
+    }
+  ]
 }
