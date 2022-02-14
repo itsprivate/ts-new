@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気が散るウェブサイトをブロックし、ポモドーロ集中セッションをスケジュールするサイト（thesidekick.app）"
+    },
+    {
+      "locale": "zh",
+      "title": "一个可以阻止分散注意力的网站，并安排pomodoro专注会议的网站（thesidekick.app）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個可以阻止分散注意力的網站，並安排pomodoro專注會議的網站（thesidekick.app）。"
+    }
+  ]
 }
