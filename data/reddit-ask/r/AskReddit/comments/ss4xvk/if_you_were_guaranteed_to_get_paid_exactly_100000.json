@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、どんな職業であっても、年間10万ドルの給料をきっちりもらえることが保証されているとしたら、あなたはどんな職業を目指したいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果无论你的职业是什么，都能保证你的年薪正好是10万美元，你会想从事什么职业？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果無論你的職業是什麼，都能保證你的年薪正好是10萬美元，你會想從事什麼職業？"
+    }
+  ]
 }
