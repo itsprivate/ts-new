@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Spotifyのプレイリストの変化を記録するウェブサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，记录了你的Spotify播放列表的变化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，記錄了你的Spotify播放列表的變化。"
+    }
+  ]
 }
