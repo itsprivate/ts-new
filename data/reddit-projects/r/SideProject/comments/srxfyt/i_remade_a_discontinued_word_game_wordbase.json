@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "廃盤になったワードゲーム「Wordbase」を再製作してみました (モバイルフレンドリー、マルチプレイ)"
+    },
+    {
+      "locale": "zh",
+      "title": "我重新制作了一个已停产的文字游戏，Wordbase! (移动端，多人游戏)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我重新制作了一個已停產的文字遊戲，Wordbase! (移動端，多人遊戲)"
+    }
+  ]
 }
