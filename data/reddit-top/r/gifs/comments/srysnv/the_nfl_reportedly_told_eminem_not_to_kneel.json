@@ -72,5 +72,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NFLはエミネムに対し、スーパーボウルのハーフタイムショーでひざまづかないよう指示したと報じられています。"
+    },
+    {
+      "locale": "zh",
+      "title": "据报道，美国国家橄榄球联盟告诉阿姆不要在超级碗的中场表演中下跪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，美國國家橄欖球聯盟告訴阿姆不要在超級碗的中場表演中下跪。"
+    }
+  ]
 }
