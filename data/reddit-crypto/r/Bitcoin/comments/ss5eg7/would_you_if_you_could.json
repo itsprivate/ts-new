@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "できることならそうしたい？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以的话，你会吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以的話，你會嗎？"
+    }
+  ]
 }
