@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-14T08:11:37Z"
+  "original_createdAt": "2022-02-14T08:11:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "独自のフローティングQRCodeページを作成します。qrile.comの後に、次のようなリンクを追加してください -> https://qrile.com/https://example.com",
+      "tagline": "Coinbaseのスーパーボール広告風にフローティングQRCodeを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "创建你自己的浮动QRCode页面。在qrile.com之后添加链接，像这样 -> https://qrile.com/https://example.com",
+      "tagline": "创建浮动的QRCode，Coinbase超级碗广告风格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建你自己的浮動QRCode頁面。在qrile.com之後添加鏈接，像這樣 -> https://qrile.com/https://example.com",
+      "tagline": "創建浮動的QRCode，Coinbase超級碗廣告風格"
+    }
+  ]
 }
