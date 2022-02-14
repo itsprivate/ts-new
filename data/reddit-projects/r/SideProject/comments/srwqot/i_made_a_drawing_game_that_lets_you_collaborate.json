@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "他のアーティストと協力して「Exquisite Corpse」の絵を描くゲームを作ってみた（リンクはコメント欄へ）"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个绘画游戏，让你与其他艺术家合作创作 \"精致的尸体 \"图画（评论中的链接）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個繪畫遊戲，讓你與其他藝術家合作創作 \"精緻的屍體 \"圖畫（評論中的鏈接）。"
+    }
+  ]
 }

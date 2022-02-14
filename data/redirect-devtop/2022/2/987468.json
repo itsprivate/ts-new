@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-13T00:54:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KHKTnJ4u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4lyy00qvxvfe7o2i4ev.png",
   "author": "Luiz Calaça",
-  "author_url": "https://dev.to/luizcalaca"
+  "author_url": "https://dev.to/luizcalaca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デベロッパーの皆さん、こんにちは。  さて、Typescriptという言語が登場し、急速に開発者の周りで使われるようになりました。",
+      "title": "TypescriptとJavascriptの違いは、タイピングだけですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，开发者们!   所以，Typescript语言问世后，迅速在开发部周围被使用。",
+      "title": "只是打字是Typescript和Javascript的区别吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，開發者們!   所以，Typescript語言問世後，迅速在開發部周圍被使用。",
+      "title": "只是打字是Typescript和Javascript的區別嗎？"
+    }
+  ]
 }
