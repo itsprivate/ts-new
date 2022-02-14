@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-14T08:01:00Z"
+  "original_createdAt": "2022-02-14T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ovy は、ワンクリックでより良いメールを書くことができる Gmail 用の Chrome 拡張機能です。Ovy は、ボタンをクリックするだけで、AI を搭載した完全かつ現実的で、文脈に応じた返信を生成します。",
+      "tagline": "ワンクリックでAIが生成するGmail用メール返信ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Ovy是Gmail的一个Chrome扩展，只需点击一下就能帮助你写出更好的邮件。奥维只需点击一个按钮，就能为你的电子邮件生成完整的、真实的、与上下文相关的、由人工智能驱动的回复!",
+      "tagline": "为Gmail提供的一键式人工智能生成的电子邮件回复"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ovy是Gmail的一個Chrome擴展，只需點擊一下就能幫助你寫出更好的郵件。奧維只需點擊一個按鈕，就能爲你的電子郵件生成完整的、真實的、與上下文相關的、由人工智能驅動的回覆!",
+      "tagline": "爲Gmail提供的一鍵式人工智能生成的電子郵件回覆"
+    }
+  ]
 }
