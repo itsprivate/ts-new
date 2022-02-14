@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の自動販売機で売られていた缶ケーキ"
+    },
+    {
+      "locale": "zh",
+      "title": "日本自动售货机上的一罐蛋糕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本自動售貨機上的一罐蛋糕"
+    }
+  ]
 }
