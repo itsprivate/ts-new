@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "30分で何でも学べるとしたら、あなたは何を学びたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在半小时内学到任何东西，你会学到什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在半小時內學到任何東西，你會學到什麼？"
+    }
+  ]
 }
