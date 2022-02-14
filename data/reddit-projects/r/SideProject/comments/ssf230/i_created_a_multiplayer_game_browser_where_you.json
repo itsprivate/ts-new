@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "海賊になって他のプレイヤーと競うマルチプレイヤーゲーム（ブラウザ）を作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个多人游戏（浏览器），你扮演一个海盗，与其他玩家竞争。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個多人遊戲（瀏覽器），你扮演一個海盜，與其他玩家競爭。"
+    }
+  ]
 }
