@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1644827934,
-  "the_new_excerpt": "In the past, AMD and Intel made all the server chips. There's very little to\ndifferentiate between AWS, Google Cloud, Azure except for scale and execution.\nThey all ran the exact same Intel Xeon and AMD Epyc chips.\n\nThat all changed when Amazon started prioritizing their Graviton2 ARM chip.…"
+  "the_new_excerpt": "In the past, AMD and Intel made all the server chips. There's very little to\ndifferentiate between AWS, Google Cloud, Azure except for scale and execution.\nThey all ran the exact same Intel Xeon and AMD Epyc chips.\n\nThat all changed when Amazon started prioritizing their Graviton2 ARM chip.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "かつては、AMDとIntelがすべてのサーバーチップを製造していました。サーバチップは\nAWS、Google Cloud、Azureは、スケールと実行を除いては、差別化されています。\nこれらはすべて、まったく同じIntel XeonとAMD Epycチップを搭載しています。\n\nしかし、AmazonがGraviton2 ARMチップを優先的に採用し始めたことで、すべてが変わりました。",
+      "title": "ビッグクラウドの勝者は、最も優れたカスタムARMチップを作れるかどうかにかかっている"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在过去，AMD和英特尔制造了所有的服务器芯片。除了规模和执行力之外，AWS、谷歌云和Azure之间几乎没有什么区别可言。\n除了规模和执行，AWS、谷歌云、Azure之间几乎没有区别。\n他们都运行完全相同的英特尔至强和AMD Epyc芯片。\n\n当亚马逊开始优先使用他们的Graviton2 ARM芯片时，这一切都改变了....",
+      "title": "大云的赢家将基于谁能做出最好的定制ARM芯片"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在過去，AMD和英特爾製造了所有的服務器芯片。除了規模和執行力之外，AWS、谷歌雲和Azure之間幾乎沒有什麼區別可言。\n除了規模和執行，AWS、谷歌雲、Azure之間幾乎沒有區別。\n他們都運行完全相同的英特爾至強和AMD Epyc芯片。\n\n當亞馬遜開始優先使用他們的Graviton2 ARM芯片時，這一切都改變了....",
+      "title": "大雲的贏家將基於誰能做出最好的定製ARM芯片"
+    }
+  ]
 }
