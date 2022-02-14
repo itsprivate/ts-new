@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-13T08:17:42Z"
+  "original_createdAt": "2022-02-13T08:17:42Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "T inder + Spotify = MusicSwipe。30秒の曲のプレビューが流れるので、選択しやすい!",
+      "tagline": "Spotifyから曲をスワイプして、おすすめを取得"
+    },
+    {
+      "locale": "zh",
+      "description": "T inder + Spotify = MusicSwipe。播放30秒的曲目预览，以帮助你做出选择!",
+      "tagline": "从Spotify扫过歌曲并获得推荐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "T inder + Spotify = MusicSwipe。播放30秒的曲目預覽，以幫助你做出選擇!",
+      "tagline": "從Spotify掃過歌曲並獲得推薦"
+    }
+  ]
 }

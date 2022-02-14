@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今度は私の番"
+    },
+    {
+      "locale": "zh",
+      "title": "现在轮到我了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在輪到我了"
+    }
+  ]
 }
