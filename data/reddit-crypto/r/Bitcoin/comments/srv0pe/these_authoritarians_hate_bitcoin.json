@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この権威主義者たちはビットコインを憎んでいる。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些独裁者讨厌比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些獨裁者討厭比特幣。"
+    }
+  ]
 }
