@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-14T08:01:00Z"
+  "original_createdAt": "2022-02-14T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Makers.soは、Figmaから離れることなく、自分だけのデザインを構築し公開するためのFigmaプラグインです。ポートフォリオ、ランディングページ、レジュメなどのシンプルなサイトに最適です。もう「FigmaからWebflowへ」「Figmaからコードへ」なんてことはありません。",
+      "tagline": "Figmaの中にあるウェブサイトビルダー、完全なレスポンシブ、ノーコード"
+    },
+    {
+      "locale": "zh",
+      "description": "Makers.so 是一个 Figma 插件，帮助您建立和发布自己的设计，而无需离开 Figma。它非常适合于简单的网站，如作品集、登陆页或简历。不再需要 \"Figma到Webflow \"或 \"Figma到代码\"。",
+      "tagline": "Figma内部的网站建设者，完全响应，无代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Makers.so 是一個 Figma 插件，幫助您建立和發佈自己的設計，而無需離開 Figma。它非常適合於簡單的網站，如作品集、登陸頁或簡歷。不再需要 \"Figma到Webflow \"或 \"Figma到代碼\"。",
+      "tagline": "Figma內部的網站建設者，完全響應，無代碼"
+    }
+  ]
 }
