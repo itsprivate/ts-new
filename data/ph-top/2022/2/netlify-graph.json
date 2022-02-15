@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-15T17:51:43Z"
+  "original_createdAt": "2022-02-15T17:51:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Netlify Graphの紹介：GitHub, Spotify, StripeなどのサードパーティサービスのAPIを使ったWebアプリケーションをより速く開発する方法です。新しいサードパーティAPIをワンクリックで接続し、統一されたデータグラフでサービス間のデータを検索し、関数を自動生成します!",
+      "tagline": "APIやサービスを利用したWebアプリケーションをより速く構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍Netlify Graph：一种更快速的方式来开发来自第三方服务（如GitHub、Spotify和Stripe）的API的web应用程序。一键连接新的第三方API，在一个统一的数据图中搜索跨服务的数据，并自动生成函数",
+      "tagline": "用API和服务构建网络应用的更快方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹Netlify Graph：一種更快速的方式來開發來自第三方服務（如GitHub、Spotify和Stripe）的API的web應用程序。一鍵連接新的第三方API，在一個統一的數據圖中搜索跨服務的數據，並自動生成函數",
+      "tagline": "用API和服務構建網絡應用的更快方式"
+    }
+  ]
 }
