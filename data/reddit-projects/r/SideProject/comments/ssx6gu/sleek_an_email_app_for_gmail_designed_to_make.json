@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すっきり。受信箱ゼロへの到達を10倍速にするために設計されたGmail用メールアプリです"
+    },
+    {
+      "locale": "zh",
+      "title": "聪明的。一个为Gmail设计的电子邮件应用程序，使到达收件箱的速度提高了10倍!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聰明的。一個爲Gmail設計的電子郵件應用程序，使到達收件箱的速度提高了10倍!"
+    }
+  ]
 }
