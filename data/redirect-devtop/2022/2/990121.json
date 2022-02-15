@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-15T12:52:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2j91wXb1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/psutjqobo1aetx9y79rc.jpeg",
   "author": "Ilya Azovtsev",
-  "author_url": "https://dev.to/ilya_azovtsev"
+  "author_url": "https://dev.to/ilya_azovtsev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フィーチャーフラグ（Feature Flag）、別名フィーチャートグルは、どの言語でもリリースの爆発半径を大幅に縮小します...。",
+      "title": "JavaScriptの機能トグルを使って安全にデプロイする方法【Dev.to Appを使ったReact.jsの例】のページです。"
+    },
+    {
+      "locale": "zh",
+      "description": "在任何语言中，特性标志又称特性切换，可以大大减少发布的爆炸半径。",
+      "title": "如何使用JavaScript功能切换来安全部署[React.js例子与Dev.to App]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在任何語言中，特性標誌又稱特性切換，可以大大減少發佈的爆炸半徑。",
+      "title": "如何使用JavaScript功能切換來安全部署[React.js例子與Dev.to App]"
+    }
+  ]
 }
