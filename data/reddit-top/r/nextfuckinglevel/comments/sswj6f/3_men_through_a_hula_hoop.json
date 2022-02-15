@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "3人の男がフラフープをくぐる"
+    },
+    {
+      "locale": "zh",
+      "title": "3个男人穿过呼拉圈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "3個男人穿過呼拉圈。"
+    }
+  ]
 }
