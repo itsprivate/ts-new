@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title"
+  "the_new_excerpt": "Title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "Redditの女性たち、もっと背が高かったらと思ったことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题",
+      "title": "Reddit的女士们，你们是否曾希望自己更高大，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題",
+      "title": "Reddit的女士們，你們是否曾希望自己更高大，爲什麼？"
+    }
+  ]
 }
