@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I can’t be the only person that consistently reads texts throughout the day,\ndoesn’t have time to reply, and inevitably forgets to respond. I do this often\nwith emails as well, but I mark them as “unread” and normally respond later when\nI see it again. Is there a setting you can turn on to do this…"
+  "the_new_excerpt": "I can’t be the only person that consistently reads texts throughout the day,\ndoesn’t have time to reply, and inevitably forgets to respond. I do this often\nwith emails as well, but I mark them as “unread” and normally respond later when\nI see it again. Is there a setting you can turn on to do this…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "一日中メールを読み続けているのは、私だけではないはずです。\n返信する時間がなく、どうしても返信を忘れてしまう。私もよくやります。\nメールも同様ですが、「未読」にしておいて、後で返信するのが普通です。\nまた見ます。これをするためにオンにできる設定はありますか...",
+      "title": "メールにあるような「未読としてマークする」オプションは、なぜテキストメッセージにはないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不可能是唯一一个一天到晚都在看短信的人。\n没有时间回复，而且不可避免地忘记回复。我经常这样做\n但我把它们标记为 \"未读\"，通常会在稍后回复。\n我再次看到它时，通常会作出回应。是否有一个设置可以打开来做这个...",
+      "title": "为什么没有像电子邮件那样为短信提供 \"标记为未读 \"选项？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不可能是唯一一個一天到晚都在看短信的人。\n沒有時間回覆，而且不可避免地忘記回覆。我經常這樣做\n但我把它們標記爲 \"未讀\"，通常會在稍後回覆。\n我再次看到它時，通常會作出回應。是否有一個設置可以打開來做這個...",
+      "title": "爲什麼沒有像電子郵件那樣爲短信提供 \"標記爲未讀 \"選項？"
+    }
+  ]
 }

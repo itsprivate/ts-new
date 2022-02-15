@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素敵なことは素敵なんです。"
+    },
+    {
+      "locale": "zh",
+      "title": "做个好人很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做個好人很好。"
+    }
+  ]
 }
