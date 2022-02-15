@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-29T21:31:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OBsuNPdK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0on94k2rhnm7r3016mpp.jpg",
   "author": "kenny",
-  "author_url": "https://dev.to/krgrs"
+  "author_url": "https://dev.to/krgrs",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web3開発といえば、多くの人がすぐに思い浮かべるチェーンはイーサリアムでしょう。しかし...",
+      "title": "Bitcoinで構築する：StacksによるフルスタックWeb3開発入門"
+    },
+    {
+      "locale": "zh",
+      "description": "当大多数人想到web3开发时，立即想到的链条是以太坊。但是...",
+      "title": "建立在比特币上：使用Stacks的全栈式Web3开发介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當大多數人想到web3開發時，立即想到的鏈條是以太坊。但是...",
+      "title": "建立在比特幣上：使用Stacks的全棧式Web3開發介紹"
+    }
+  ]
 }

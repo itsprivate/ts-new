@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番不快だった褒め言葉は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你收到的最让人不舒服的赞美是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你收到的最讓人不舒服的讚美是什麼？"
+    }
+  ]
 }
