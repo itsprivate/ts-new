@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=74"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=74",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナ、国防省のウェブサイトと銀行へのサイバー攻撃を報告"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰报告称国防部网站和银行受到网络攻击"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭報告稱國防部網站和銀行受到網絡攻擊"
+    }
+  ]
 }
