@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友人と私は、音楽を仕事にしているiMessageに不満があったので、新しいメッセンジャーを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的朋友和我对iMessage在音乐方面的工作感到很沮丧，所以我们创建了一个新的信使。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的朋友和我對iMessage在音樂方面的工作感到很沮喪，所以我們創建了一個新的信使。"
+    }
+  ]
 }

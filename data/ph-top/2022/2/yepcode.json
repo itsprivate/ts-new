@@ -98,5 +98,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-15T08:04:24Z"
+  "original_createdAt": "2022-02-15T08:04:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YepCode は、統合および自動化プロセスの開発、実行、監視を可能にする Saas プラットフォームです。YepCode は、JavaScript を直接使用して、最も複雑な問題を解決するために必要な、すぐに使える「ステロイド」をすべて提供します。",
+      "tagline": "開発者のためのエンタープライズ対応統合プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "YepCode是一个Saas平台，允许开发、执行和监控集成和自动化流程。直接使用JavaScript，它提供了所有你需要的开箱即用的 \"类固醇\"，以解决最复杂的问题。",
+      "tagline": "面向开发者的企业级集成平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "YepCode是一個Saas平臺，允許開發、執行和監控集成和自動化流程。直接使用JavaScript，它提供了所有你需要的開箱即用的 \"類固醇\"，以解決最複雜的問題。",
+      "tagline": "面向開發者的企業級集成平臺"
+    }
+  ]
 }
