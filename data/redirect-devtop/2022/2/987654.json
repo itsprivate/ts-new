@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-13T08:41:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1Kd7Q3-x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gozc3xbg0hrf730kowa9.png",
   "author": "Nick | React tinkerer ⚛️",
-  "author_url": "https://dev.to/fromaline"
+  "author_url": "https://dev.to/fromaline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、カプセル化された再利用可能なコンポーネントを構築する能力をユーザーに提供しようと努めていますが、どのように...",
+      "title": "Reactでは、どのようにしてカスタムコンポーネントを作成することができるのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "React致力于为其用户提供构建封装的、可重复使用的组件的能力，但如何...",
+      "title": "React是如何允许创建自定义组件的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React致力於爲其用戶提供構建封裝的、可重複使用的組件的能力，但如何...",
+      "title": "React是如何允許創建自定義組件的？"
+    }
+  ]
 }
