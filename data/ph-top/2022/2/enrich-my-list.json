@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-15T08:41:25Z"
+  "original_createdAt": "2022-02-15T08:41:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リスト上のメール送信者のTwitterプロフィール、フォロワー数、経歴、所在地を取得します。",
+      "tagline": "メーリングリストに登録されている人たちを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "我们获取你名单上的电子邮件背后的人的Twitter资料、追随者数量、简历和位置。",
+      "tagline": "了解你的名单上的电子邮件背后的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們獲取你名單上的電子郵件背後的人的Twitter資料、追隨者數量、簡歷和位置。",
+      "tagline": "瞭解你的名單上的電子郵件背後的人"
+    }
+  ]
 }
