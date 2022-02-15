@@ -134,5 +134,22 @@
     "retweet_count": 1921,
     "favorite_count": 5733,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ConceptualJames: https://t.co/7bv5Etw7Gc",
+      "retweeted_status_full_text": "https://t.co/7bv5Etw7Gc"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ConceptualJames: https://t.co/7bv5Etw7Gc",
+      "retweeted_status_full_text": "https://t.co/7bv5Etw7Gc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ConceptualJames: https://t.co/7bv5Etw7Gc",
+      "retweeted_status_full_text": "https://t.co/7bv5Etw7Gc"
+    }
+  ]
 }
