@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の住所が書かれた荷物が届いたのに、他の人の名前が書かれていたら、法律的には誰の荷物なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你收到的包裹上有你的地址，但上面有其他人的名字，从法律上讲，这是谁的包裹？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你收到的包裹上有你的地址，但上面有其他人的名字，從法律上講，這是誰的包裹？"
+    }
+  ]
 }

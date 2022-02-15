@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "経済的自由"
+    },
+    {
+      "locale": "zh",
+      "title": "财务自由"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "財務自由"
+    }
+  ]
 }
