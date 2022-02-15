@@ -41,5 +41,22 @@
   "original_created_at": "2022-02-10T17:51:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--suG0oMbv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l9bk0uozwc7x4d5w0ua5.jpeg",
   "author": "Cat",
-  "author_url": "https://dev.to/cat"
+  "author_url": "https://dev.to/cat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "親愛なる新米開発者の皆さん、この仕事は大変です。  最初は気に入らないかもしれませんが、やがて...",
+      "title": "新人へのオープンレター"
+    },
+    {
+      "locale": "zh",
+      "description": "亲爱的新手开发者，这玩意很难。  你一开始不会喜欢它，而到了...",
+      "title": "给新手的一封公开信"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "親愛的新手開發者，這玩意很難。  你一開始不會喜歡它，而到了...",
+      "title": "給新手的一封公開信"
+    }
+  ]
 }
