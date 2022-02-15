@@ -138,5 +138,22 @@
     "retweet_count": 827,
     "favorite_count": 5368,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Excellion: 自国通貨がクソコインになる正確な瞬間 https://t.co/MXbQEdfngl",
+      "retweeted_status_full_text": "自国通貨がクソコインになる瞬間 https://t.co/MXbQEdfngl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Excellion: 你的国家货币变成狗屎币的确切时刻。https://t.co/MXbQEdfngl",
+      "retweeted_status_full_text": "你的国家货币变成屎币的确切时刻。https://t.co/MXbQEdfngl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Excellion: 你的國家貨幣變成狗屎幣的確切時刻。https://t.co/MXbQEdfngl",
+      "retweeted_status_full_text": "你的國家貨幣變成屎幣的確切時刻。https://t.co/MXbQEdfngl"
+    }
+  ]
 }
