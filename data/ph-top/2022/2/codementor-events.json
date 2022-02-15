@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-15T08:14:00Z"
+  "original_createdAt": "2022-02-15T08:14:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Codementor Eventsは、開発者が新しいツール、技術的なコンセプト、キャリアのヒントを学び、共有することができる開発者コミュニティとバーチャルイベントプラットフォームです。",
+      "tagline": "開発者向けバーチャルイベントへの参加・開催"
+    },
+    {
+      "locale": "zh",
+      "description": "Codementor Events是一个开发者社区和虚拟活动平台，开发者可以在这里学习和分享新工具、技术概念和职业技巧。",
+      "tagline": "参加并主持面向开发者的虚拟活动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Codementor Events是一個開發者社區和虛擬活動平臺，開發者可以在這裏學習和分享新工具、技術概念和職業技巧。",
+      "tagline": "參加並主持面向開發者的虛擬活動"
+    }
+  ]
 }
