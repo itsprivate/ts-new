@@ -46,5 +46,22 @@
   "original_created_at": "2022-02-15T06:02:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TYbHfcfl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0rj3mhd3a3k4a6vc4y6w.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者になって一番良かったことは何かと聞かれたら、私はいつもこう答えます。",
+      "title": "学びを止めない"
+    },
+    {
+      "locale": "zh",
+      "description": "当有人问我作为一个开发者最好的事情是什么时，我的回答总是...",
+      "title": "永远不要停止学习"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當有人問我作爲一個開發者最好的事情是什麼時，我的回答總是...",
+      "title": "永遠不要停止學習"
+    }
+  ]
 }
