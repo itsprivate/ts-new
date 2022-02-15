@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-14T15:59:54Z",
   "image": "https://dev.to/social_previews/article/989078.png",
   "author": "Jp De Los Trinos",
-  "author_url": "https://dev.to/devdotjp"
+  "author_url": "https://dev.to/devdotjp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "少し前に、Better Comments という VSCode Extension を見ていて知ったのですが...。",
+      "title": "より良いコメント（VScode Extension）"
+    },
+    {
+      "locale": "zh",
+      "description": "不久前，我在观看VSCode扩展时，发现了这个名为Better Comments的扩展。",
+      "title": "更好的评论(VScode扩展)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不久前，我在觀看VSCode擴展時，發現了這個名爲Better Comments的擴展。",
+      "title": "更好的評論(VScode擴展)"
+    }
+  ]
 }
