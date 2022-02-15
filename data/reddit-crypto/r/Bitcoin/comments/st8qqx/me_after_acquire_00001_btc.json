@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "0,0001BTCを取得した後の私"
+    },
+    {
+      "locale": "zh",
+      "title": "获得0,0001 BTC后的我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獲得0,0001 BTC後的我"
+    }
+  ]
 }
