@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日もまた、鳥のアプリで注目を集めるためにFUDを売りつける間抜けが現れた。"
+    },
+    {
+      "locale": "zh",
+      "title": "又是一天，又一个在鸟类应用程序上兜售虚假信息以获得关注的傻瓜。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "又是一天，又一個在鳥類應用程序上兜售虛假信息以獲得關注的傻瓜。"
+    }
+  ]
 }
