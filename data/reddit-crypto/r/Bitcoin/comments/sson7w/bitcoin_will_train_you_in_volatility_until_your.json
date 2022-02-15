@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは、2008年のような市場の不況に麻痺するまで、ボラティリティを鍛えることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币会在波动中训练你，直到你对2008年那样的市场衰退感到麻木。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣會在波動中訓練你，直到你對2008年那樣的市場衰退感到麻木。"
+    }
+  ]
 }
