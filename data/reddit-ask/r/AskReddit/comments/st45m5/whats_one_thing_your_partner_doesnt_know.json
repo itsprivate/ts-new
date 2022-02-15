@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのパートナーが知らないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的伴侣不知道的一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的伴侶不知道的一件事是什麼？"
+    }
+  ]
 }
