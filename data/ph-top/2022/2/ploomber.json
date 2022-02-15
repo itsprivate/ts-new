@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-15T08:05:00Z"
+  "original_createdAt": "2022-02-15T08:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ploomberは、データ科学者が開発したコードをインタラクティブな環境（Jupyter、VScode、PyCharmなど）で迅速に展開し、時間のかかる手動での本番環境への移植を不要にするためのオープンソースのフレームワークです。",
+      "tagline": "データサイエンスとMLパイプラインをモジュール化するオープンソースフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "Ploomber是一个开源框架，帮助数据科学家在互动环境（Jupyter、VScode、PyCharm等）中快速部署他们开发的代码，消除了耗时的手动移植到生产平台的需要。",
+      "tagline": "用于模块化数据科学、ML管道的开源框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ploomber是一個開源框架，幫助數據科學家在互動環境（Jupyter、VScode、PyCharm等）中快速部署他們開發的代碼，消除了耗時的手動移植到生產平臺的需要。",
+      "tagline": "用於模塊化數據科學、ML管道的開源框架"
+    }
+  ]
 }
