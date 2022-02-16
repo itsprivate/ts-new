@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの生活に構造をもたらすアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "一个为你的生活带来结构的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個爲你的生活帶來結構的應用程序"
+    }
+  ]
 }

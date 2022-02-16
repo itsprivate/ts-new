@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "また、何千票も獲得した投稿や発言の下にコメントを書かないことが多いのは、自分のコメントを誰も読んでくれないと確信しているからでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否也经常不在获得数千票和声明的帖子下写评论，因为你确信没有人会看你的评论？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否也經常不在獲得數千票和聲明的帖子下寫評論，因爲你確信沒有人會看你的評論？"
+    }
+  ]
 }
