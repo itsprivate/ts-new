@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-15T15:58:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wYbbp3JC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vctu7d4vqr5zebqnxbp2.jpg",
   "author": "Dragos Nedelcu",
-  "author_url": "https://dev.to/dragosnedelcu"
+  "author_url": "https://dev.to/dragosnedelcu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "3年前、私は残酷な現実に直面しました。 それまで、何十行も書いていたのに...。",
+      "title": "JS開発者の過酷な現実。基礎から学ばなければ、ただの「コーダー」になってしまう"
+    },
+    {
+      "locale": "zh",
+      "description": "三年前，我面对一个残酷的事实。 到那时为止，我一直在写几十行的...",
+      "title": "JS开发者的严酷现实。如果你不学习基础知识，你将只是另一个 \"程序员\""
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三年前，我面對一個殘酷的事實。 到那時爲止，我一直在寫幾十行的...",
+      "title": "JS開發者的嚴酷現實。如果你不學習基礎知識，你將只是另一個 \"程序員\""
+    }
+  ]
 }
