@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのユーザーネームがプレゼントを買ってくれる。何がもらえますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的用户名给你买了一份礼物。你会收到什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的用戶名給你買了一份禮物。你會收到什麼？"
+    }
+  ]
 }

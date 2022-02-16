@@ -13,5 +13,19 @@
   ],
   "objectID": "30356020",
   "original_created_at": "2022-02-16T03:25:47.000Z",
-  "image": "https://lab.allotropia.de/wasm/qtlogo.svg"
+  "image": "https://lab.allotropia.de/wasm/qtlogo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WebAssemblyによりブラウザ上でネイティブに動作するLibreOffice"
+    },
+    {
+      "locale": "zh",
+      "title": "LibreOffice通过WebAssembly在浏览器中原生运行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "LibreOffice通過WebAssembly在瀏覽器中原生運行"
+    }
+  ]
 }
