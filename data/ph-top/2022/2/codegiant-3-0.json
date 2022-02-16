@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-16T08:01:00Z"
+  "original_createdAt": "2022-02-16T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Codegiantは、ソフトウェア開発のための強力なプラットフォームです。Issue Tracker、Git Repositories、CI/CD、Codepods、Serverless Functions、Uptime Monitoringなど、ソフトウェア開発者に便利な機能を備えています。",
+      "tagline": "これからのソフトウェアデリバリープラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Codegiant是一个强大的软件开发平台。它具有问题跟踪器、Git存储库、CI/CD、Codepods、无服务器功能、正常运行时间监控等功能，对软件开发人员非常有用。",
+      "tagline": "未来的软件交付平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Codegiant是一個強大的軟件開發平臺。它具有問題跟蹤器、Git存儲庫、CI/CD、Codepods、無服務器功能、正常運行時間監控等功能，對軟件開發人員非常有用。",
+      "tagline": "未來的軟件交付平臺"
+    }
+  ]
 }
