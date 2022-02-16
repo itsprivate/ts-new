@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-18T01:23:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7viqUKU3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxjtidhjk4nranioe4pp.jpeg",
   "author": "Mage",
-  "author_url": "https://dev.to/mage_ai"
+  "author_url": "https://dev.to/mage_ai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ポケモンが誕生したのは1996年。この20年間で、最も認知度の高いポケモンのひとつになりました。",
+      "title": "AIに新しいポケモンを生成することを教える"
+    },
+    {
+      "locale": "zh",
+      "description": "口袋妖怪是在1996年首次创建的。在这二十年里，它已成为最知名的游戏之一...",
+      "title": "教导人工智能生成新的小精灵"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "口袋妖怪是在1996年首次創建的。在這二十年裏，它已成爲最知名的遊戲之一...",
+      "title": "教導人工智能生成新的小精靈"
+    }
+  ]
 }
