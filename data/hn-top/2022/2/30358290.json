@@ -12,5 +12,19 @@
   ],
   "objectID": "30358290",
   "original_created_at": "2022-02-16T10:26:42.000Z",
-  "image": "https://cappe.github.io/assets/img/sendgrid-image-telemetry.png"
+  "image": "https://cappe.github.io/assets/img/sendgrid-image-telemetry.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SendGridは無効化されていてもトラッキングピクセルを付加します。"
+    },
+    {
+      "locale": "zh",
+      "title": "即使在禁用的情况下，SendGrid也会附加一个跟踪像素"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "即使在禁用的情況下，SendGrid也會附加一個跟蹤像素"
+    }
+  ]
 }
