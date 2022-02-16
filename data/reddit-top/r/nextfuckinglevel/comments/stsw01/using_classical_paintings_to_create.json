@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古典絵画を使った..."
+    },
+    {
+      "locale": "zh",
+      "title": "利用古典绘画来创造..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "利用古典繪畫來創造..."
+    }
+  ]
 }
