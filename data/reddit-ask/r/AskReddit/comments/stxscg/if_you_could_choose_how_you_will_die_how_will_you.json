@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、自分の死に方を選べるとしたら、あなたはどのように死にますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以选择你的死亡方式，你将如何死亡？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以選擇你的死亡方式，你將如何死亡？"
+    }
+  ]
 }
