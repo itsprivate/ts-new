@@ -86,5 +86,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-16T08:01:00Z"
+  "original_createdAt": "2022-02-16T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glassは、会員制の写真プラットフォームであり、コミュニティです。iOSとiPadに対応し、Webは近日公開予定です。",
+      "tagline": "あなたの写真家、iPadに登場"
+    },
+    {
+      "locale": "zh",
+      "description": "Glass是一个会员支持的摄影平台和社区。没有广告或算法。iOS和iPad，网络版即将推出。",
+      "tagline": "你的摄影之家，现在在iPad上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glass是一個會員支持的攝影平臺和社區。沒有廣告或算法。iOS和iPad，網絡版即將推出。",
+      "tagline": "你的攝影之家，現在在iPad上"
+    }
+  ]
 }
