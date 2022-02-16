@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-16T08:32:17Z"
+  "original_createdAt": "2022-02-16T08:32:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UI Colorsは、TailwindのCSSカラーを作成、編集、プレビュー、エクスポート、保存するためのツールです。",
+      "tagline": "Tailwind CSSカラージェネレーター＆編集ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "UI Colors是一个创建、编辑、预览、导出和保存Tailwind CSS颜色的工具。",
+      "tagline": "Tailwind CSS颜色生成器和编辑工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UI Colors是一個創建、編輯、預覽、導出和保存Tailwind CSS顏色的工具。",
+      "tagline": "Tailwind CSS顏色生成器和編輯工具"
+    }
+  ]
 }
