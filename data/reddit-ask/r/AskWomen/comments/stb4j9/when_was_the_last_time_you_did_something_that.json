@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後に何か嬉しいことをしたのはいつですか？あなたは何をしましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最后一次做让你高兴的事情是什么时候？你做了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最後一次做讓你高興的事情是什麼時候？你做了什麼？"
+    }
+  ]
 }
