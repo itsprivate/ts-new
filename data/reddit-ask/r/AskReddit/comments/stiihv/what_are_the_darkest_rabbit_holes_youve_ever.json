@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまで遭遇した最も暗いウサギの穴は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你遇到过的最黑暗的兔子洞是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你遇到過的最黑暗的兔子洞是什麼？"
+    }
+  ]
 }
