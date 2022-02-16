@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの街の人に自分を紹介できるプラットフォームを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个平台，你可以把自己介绍给你所在城市的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個平臺，你可以把自己介紹給你所在城市的人"
+    }
+  ]
 }

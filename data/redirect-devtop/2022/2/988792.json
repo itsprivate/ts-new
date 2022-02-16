@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-14T13:02:44Z",
   "image": "https://dev.to/social_previews/article/988792.png",
   "author": "tarantool",
-  "author_url": "https://dev.to/tarantool"
+  "author_url": "https://dev.to/tarantool",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "著者 Igor Zolotarev こんにちは、私の名前はIgorです。このたびは...",
+      "title": "30分でできる分散ストレージ"
+    },
+    {
+      "locale": "zh",
+      "description": "作者。Igor Zolotarev 你好，我的名字是Igor，我是Tarantool DB团队的一员。当...",
+      "title": "30分钟内完成分布式存储"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作者。Igor Zolotarev 你好，我的名字是Igor，我是Tarantool DB團隊的一員。當...",
+      "title": "30分鐘內完成分佈式存儲"
+    }
+  ]
 }
