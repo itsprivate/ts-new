@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-15T06:39:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7gzKfVcv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/osnfichox34f0vv8dnno.jpg",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Amazon OpenSearch Service (OpenSearch Service)を使用すると、簡単にデプロイ、...",
+      "title": "Amazon OpenSearchサービスの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 亚马逊OpenSearch服务（OpenSearch Service）使其能够轻松地部署、...",
+      "title": "亚马逊OpenSearch服务简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 亞馬遜OpenSearch服務（OpenSearch Service）使其能夠輕鬆地部署、...",
+      "title": "亞馬遜OpenSearch服務簡介"
+    }
+  ]
 }
