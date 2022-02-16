@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-15T00:36:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vv2qBVqO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://microsoft.github.io/win-student-devs/30DaysOfPWA/core-concepts/_media/day-01.jpg",
   "author": "Nitya Narasimhan",
-  "author_url": "https://dev.to/nitya"
+  "author_url": "https://dev.to/nitya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "30DaysOfPWAのWeek1-Day1に@azureadvocates @windowsdev と @msedgedev と参加しよう！https://aka.ms/learn-pwa/30days-blog。",
+      "title": "#01 - Progressive Web Appsの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "加入@azureadvocates @windowsdev和@msedgedev的#30DaysOfPWA的第一周-第一天！https://aka.ms/learn-pwa/30days-blog",
+      "title": "#01 - 渐进式网络应用程序的介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "加入@azureadvocates @windowsdev和@msedgedev的#30DaysOfPWA的第一週-第一天！https://aka.ms/learn-pwa/30days-blog",
+      "title": "#01 - 漸進式網絡應用程序的介紹"
+    }
+  ]
 }
