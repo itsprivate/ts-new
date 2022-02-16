@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I created a classic Sudoku game that allows you and your friends to\nsimultaneously complete a sudoku game together. All you have to do is click Play\nWith Friends, create a new game code, share that code with your friends, and\nplay! You also have the ability to play alone, and many parts of the game…"
+  "the_new_excerpt": "I created a classic Sudoku game that allows you and your friends to\nsimultaneously complete a sudoku game together. All you have to do is click Play\nWith Friends, create a new game code, share that code with your friends, and\nplay! You also have the ability to play alone, and many parts of the game…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "友達と一緒にできるクラシックナンプレゲームを作りました。\n同時に数独を完成させることができます。遊び方は簡単\nゲームコードを作成し、そのコードを友人と共有します。\nプレイ! また、一人で遊ぶ機能もあり、多くの部分で...",
+      "title": "友達と一緒に遊べる数独ゲームを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我创建了一个经典的数独游戏，让你和你的朋友一起\n同时完成一个数独游戏。你所要做的就是点击Play\n与朋友一起玩，创建一个新的游戏代码，与你的朋友分享这个代码，然后\n玩！\"。你也可以单独玩，而且游戏的许多部分...",
+      "title": "我创建了一个数独游戏，允许你与朋友一起玩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我創建了一個經典的數獨遊戲，讓你和你的朋友一起\n同時完成一個數獨遊戲。你所要做的就是點擊Play\n與朋友一起玩，創建一個新的遊戲代碼，與你的朋友分享這個代碼，然後\n玩！\"。你也可以單獨玩，而且遊戲的許多部分...",
+      "title": "我創建了一個數獨遊戲，允許你與朋友一起玩。"
+    }
+  ]
 }
