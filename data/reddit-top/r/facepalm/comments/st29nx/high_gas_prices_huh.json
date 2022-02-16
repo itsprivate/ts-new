@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガソリン価格の高騰、あれ？"
+    },
+    {
+      "locale": "zh",
+      "title": "高油价，嗯？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "高油價，嗯？"
+    }
+  ]
 }
