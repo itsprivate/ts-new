@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベントレー、ブレイクチェック、バット"
+    },
+    {
+      "locale": "zh",
+      "title": "本特利, 突破性检查, 蝙蝠"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本特利, 突破性檢查, 蝙蝠"
+    }
+  ]
 }
