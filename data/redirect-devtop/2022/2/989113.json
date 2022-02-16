@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-14T16:51:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q6vjyf8o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hzn4dpynahqcnwwomn2u.jpeg",
   "author": "Wojciech Matuszewski",
-  "author_url": "https://dev.to/wojciechmatuszewski"
+  "author_url": "https://dev.to/wojciechmatuszewski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWS Step Functionsのフローをテストするための様々なテクニック。",
+      "title": "AWS Step Functionsのテストフロー"
+    },
+    {
+      "locale": "zh",
+      "description": "测试AWS步骤功能流的各种技术。",
+      "title": "测试AWS步骤函数流"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "測試AWS步驟功能流的各種技術。",
+      "title": "測試AWS步驟函數流"
+    }
+  ]
 }

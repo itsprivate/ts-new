@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お弁当です。ミニマムでエレガント、そしてシンプルなスタートページ。カスタムレイアウトも可能"
+    },
+    {
+      "locale": "zh",
+      "title": "便当。极简主义，优雅和简单的开始页。现在有了自定义布局!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "便當。極簡主義，優雅和簡單的開始頁。現在有了自定義佈局!"
+    }
+  ]
 }
