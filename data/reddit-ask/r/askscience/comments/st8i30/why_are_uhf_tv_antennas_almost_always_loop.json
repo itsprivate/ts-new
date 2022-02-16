@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜUHF帯のテレビアンテナは（ほとんど）ループアンテナで、VHF帯のアンテナはホイップアンテナなのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么UHF电视天线（几乎）总是环形天线，而VHF天线通常是鞭状天线？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼UHF電視天線（幾乎）總是環形天線，而VHF天線通常是鞭狀天線？"
+    }
+  ]
 }
