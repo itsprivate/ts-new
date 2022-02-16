@@ -155,5 +155,22 @@
     "retweet_count": 1887,
     "favorite_count": 4988,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @bennyjohnson: これは@DefiantLs Epstein'dを取得したツイートです https://t.co/J7nqPtReey",
+      "retweeted_status_full_text": "これは@DefiantLs Epstein'dになったツイートです https://t.co/J7nqPtReey"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @bennyjohnson: 这是让@DefiantLs Epstein'd的推特https://t.co/J7nqPtReey。",
+      "retweeted_status_full_text": "这是一条让@DefiantLs Epstein'd https://t.co/J7nqPtReey 的推特。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bennyjohnson: 這是讓@DefiantLs Epstein'd的推特https://t.co/J7nqPtReey。",
+      "retweeted_status_full_text": "這是一條讓@DefiantLs Epstein'd https://t.co/J7nqPtReey 的推特。"
+    }
+  ]
 }
