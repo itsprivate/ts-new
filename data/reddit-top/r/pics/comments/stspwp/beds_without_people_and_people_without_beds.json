@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人のいないベッド、ベッドのない人"
+    },
+    {
+      "locale": "zh",
+      "title": "有床无人，有人无床"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有牀無人，有人無牀"
+    }
+  ]
 }
