@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サイドプロジェクトチームを探すために作った、フィードバックを求めるためのもの（より良いビデオ）"
+    },
+    {
+      "locale": "zh",
+      "title": "做这个是为了找边上的项目组，寻找反馈（更好的视频）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做這個是爲了找邊上的項目組，尋找反饋（更好的視頻）。"
+    }
+  ]
 }
