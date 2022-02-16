@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが大好きな映画で、世界が忘れたかのように誰も語らないと断言できるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢哪部电影，你发誓没有人谈论过它，好像全世界都忘记了它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡哪部電影，你發誓沒有人談論過它，好像全世界都忘記了它？"
+    }
+  ]
 }
