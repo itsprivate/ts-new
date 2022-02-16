@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-16T08:34:08Z"
+  "original_createdAt": "2022-02-16T08:34:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WebflowのWebサイトをゼロからデザインするのはやめよう。Mozaik コンポーネントを使用して、次のサイトを数分で構築できます。ブラウザからコンポーネントをコピーして、Webflow プロジェクトに直接貼り付けることができるので、作業時間を大幅に短縮できます。",
+      "tagline": "すぐに使える無料のWebflowコンポーネントのライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "停止从头开始设计Webflow网站。用Mozaik组件在几分钟内建立你的下一个网站。从浏览器中直接复制和粘贴组件到你的Webflow项目中--节省了数小时的工作时间!",
+      "tagline": "一个随时可用的免费Webflow组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "停止從頭開始設計Webflow網站。用Mozaik組件在幾分鐘內建立你的下一個網站。從瀏覽器中直接複製和粘貼組件到你的Webflow項目中--節省了數小時的工作時間!",
+      "tagline": "一個隨時可用的免費Webflow組件庫"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はVLCの開発者ですが、このMonkeyはOpenSourceの技術に基づいた合理的なBitTorrent / Youtubeプレーヤーです。エンドユーザーに捧げられ、広告を表示することはありません。今日からMicrosoft Storeで完全に無料になりました🐵。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是VLC的开发者，这个Monkey是一个基于开源技术的精简的BitTorrent / Youtube播放器。它致力于为终端用户服务，从不显示广告。今天，它在微软商店完全免费🐵。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是VLC的開發者，這個Monkey是一個基於開源技術的精簡的BitTorrent / Youtube播放器。它致力於爲終端用戶服務，從不顯示廣告。今天，它在微軟商店完全免費🐵。"
+    }
+  ]
 }

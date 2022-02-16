@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-16T08:01:00Z"
+  "original_createdAt": "2022-02-16T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rutterは、あらゆる会計システム、決済代行会社、eコマースプラットフォームでコマースデータを読み書きするためのユニバーサルAPIです。新しい会計APIでは、Quickbooks、Xero、Netsuite、Freshbooks、Sageと1つのAPIで簡単に統合することができます。",
+      "tagline": "コマースデータのプレイド"
+    },
+    {
+      "locale": "zh",
+      "description": "Rutter是一个通用的API，用于在任何会计系统、支付处理器或电子商务平台上读取和写入商务数据。我们新的会计API使其很容易与Quickbooks、Xero、Netsuite、Freshbooks和Sage集成，只需一个API。",
+      "tagline": "商业数据的Plaid"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rutter是一個通用的API，用於在任何會計系統、支付處理器或電子商務平臺上讀取和寫入商務數據。我們新的會計API使其很容易與Quickbooks、Xero、Netsuite、Freshbooks和Sage集成，只需一個API。",
+      "tagline": "商業數據的Plaid"
+    }
+  ]
 }
