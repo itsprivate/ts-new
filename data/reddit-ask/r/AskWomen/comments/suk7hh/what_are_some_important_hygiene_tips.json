@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "衛生面で大切なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪些重要的卫生提示？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪些重要的衛生提示？"
+    }
+  ]
 }
