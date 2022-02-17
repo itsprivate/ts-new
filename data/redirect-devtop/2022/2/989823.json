@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-15T08:50:13Z",
   "image": "https://dev.to/social_previews/article/989823.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactの常として、まったく同じことを行うには100万通りの方法がある。たとえば、次のような場合だ。",
+      "title": "Reactコンポーネントをpropにする：正しい方法️。"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中，总是有一百万种方法来做完全相同的事情。例如，如果我需要...",
+      "title": "React组件作为道具：正确的方法™️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中，總是有一百萬種方法來做完全相同的事情。例如，如果我需要...",
+      "title": "React組件作爲道具：正確的方法™️"
+    }
+  ]
 }

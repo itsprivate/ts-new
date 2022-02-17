@@ -45,5 +45,22 @@
   "original_created_at": "2021-10-01T11:44:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BSSHczTt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbkg12o08s3az9xxvu61.jpeg",
   "author": "Aniket Pal",
-  "author_url": "https://dev.to/aniket762"
+  "author_url": "https://dev.to/aniket762",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がWeb制作の道を歩み始めた頃、いつもWebを変換するという概念に圧倒されていました...。",
+      "title": "PWA 学ぶ、実装する、愛する ft. NextJS 2分以内"
+    },
+    {
+      "locale": "zh",
+      "description": "当我开始我的网络开发之旅时，我总是被改造一个网络的概念所淹没。",
+      "title": "PWA。学习、实施和爱护英尺。2分钟内完成NextJS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我開始我的網絡開發之旅時，我總是被改造一個網絡的概念所淹沒。",
+      "title": "PWA。學習、實施和愛護英尺。2分鐘內完成NextJS"
+    }
+  ]
 }
