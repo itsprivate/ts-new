@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間の強さ"
+    },
+    {
+      "locale": "zh",
+      "title": "人类的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類的力量"
+    }
+  ]
 }
