@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "賢い犬は、一人で遊べる新しいゲームを発明した!"
+    },
+    {
+      "locale": "zh",
+      "title": "聪明的狗发明了一种它可以自己玩的新游戏!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聰明的狗發明了一種它可以自己玩的新遊戲!"
+    }
+  ]
 }
