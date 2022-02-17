@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-17T08:01:00Z"
+  "original_createdAt": "2022-02-17T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "shell.howは、シェルコマンドがどのように動作するかを説明します。Figのオープンソースデータ(https://fig.io)を使用し、dをサポートしています。",
+      "tagline": "シェルコマンドがどのように動作するかを説明する"
+    },
+    {
+      "locale": "zh",
+      "description": "shell.how解释了你的shell命令如何工作。它使用来自Fig（https://fig.io）的开源数据，支持数百种CLI工具的描述，如git、npm/yarn、docker和aws。今天的贡献：https://github.com/withfig/autocomplete",
+      "tagline": "解释你的shell命令如何工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "shell.how解釋了你的shell命令如何工作。它使用來自Fig（https://fig.io）的開源數據，支持數百種CLI工具的描述，如git、npm/yarn、docker和aws。今天的貢獻：https://github.com/withfig/autocomplete",
+      "tagline": "解釋你的shell命令如何工作"
+    }
+  ]
 }
