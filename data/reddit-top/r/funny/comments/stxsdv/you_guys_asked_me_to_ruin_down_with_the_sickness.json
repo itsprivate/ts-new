@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お前らからDown With The Sicknessをダメにしろと言われたんだよ。これは1950年代のドゥーワップバージョンです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你们要求我毁掉《随病倒下》。这里有一个50年代的嘟-沃普版本。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們要求我毀掉《隨病倒下》。這裏有一個50年代的嘟-沃普版本。"
+    }
+  ]
 }
