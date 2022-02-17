@@ -1,0 +1,16 @@
+{
+  "author": "ominous_anenome",
+  "original_created_utc": 1645053469,
+  "title": "CCIP-027 - Comments with Negative Karma Should NOT Get 2x Multiplier",
+  "created_utc": 1645123142,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;h1&gt;Problem:&lt;/h1&gt;\n\n&lt;p&gt;&lt;a href=\"https://np.reddit.com/r/CryptoCurrency/comments/k12wnd/moon_proposal_double_comment_karma/\"&gt;CCIP-001&lt;/a&gt; was a governance poll that passed over a year ago and resulted in doubling the karma earned by comments relative to posts. However a consequence of this poll is that comments with negative karma also receive the 2x multiplier.&lt;/p&gt;\n\n&lt;p&gt;For example, currently a comment that gets downvoted to -3 karma would count as -6 towards the Moons distribution.&lt;/p&gt;\n\n&lt;p&gt;This was likely not the intended effect and users already often express hesitance to voice controversial opinions due to fear of being downvoted. Having this multiplier for negative karma only adds to this issue.&lt;/p&gt;\n\n&lt;h1&gt;Solution:&lt;/h1&gt;\n\n&lt;p&gt;This proposal would prevent comments with negative Karma at the time of the snapshot from getting the 2x multiplier.&lt;/p&gt;\n\n&lt;p&gt;Mathematically this could be calculated as:&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;final_comment_karma = Max(comment_karma, 2*comment_karma)&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;To be clear, this proposal doesn&amp;#39;t change the impact of downvotes on comments that have positive karma. For instance, a comment with 10 karma that gets downvoted to 9 would end up with 18 karma instead of 20 (as intended, so that last downvote still &amp;quot;counts 2x&amp;quot;). The proposal is only for comments that &lt;em&gt;end up&lt;/em&gt; with negative karma.&lt;/p&gt;\n\n&lt;h1&gt;Examples (if proposal passes):&lt;/h1&gt;\n\n&lt;ul&gt;\n&lt;li&gt;A comment that gets -3 karma would count as -3 towards the Moons distribution&lt;/li&gt;\n&lt;li&gt;A comment that gets +3 karma would &lt;strong&gt;still&lt;/strong&gt; count as +6 towards the Moons distribution&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;h1&gt;Pros/Cons&lt;/h1&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Pro: Controversial opinions will be less penalized in comments&lt;/li&gt;\n&lt;li&gt;Pro: Mass-downvote actions will be less impactful&lt;/li&gt;\n&lt;li&gt;Con: Rewards for comment karma might be too high already&lt;/li&gt;\n&lt;li&gt;Con: Some comments with negative karma are low-quality and deserve 2x multiplier&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/poll/su9fy5\"&gt;View Poll&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 324,
+  "permalink": "/r/CryptoCurrency/comments/su9fy5/ccip027_comments_with_negative_karma_should_not/",
+  "subreddit": "CryptoCurrency",
+  "id": "su9fy5",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "PROBLEM:\n\nCCIP-001\n[https://np.reddit.com/r/CryptoCurrency/comments/k12wnd/moon_proposal_double_comment_karma/]\nwas a governance poll that passed over a year ago and resulted in doubling the\nkarma earned by comments relative to posts. However a consequence of this poll\nis that comments with…"
+}
