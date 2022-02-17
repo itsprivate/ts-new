@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-17T08:01:00Z"
+  "original_createdAt": "2022-02-17T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nuboは、TypeScriptやJavaScriptのアプリケーションを、世界中の複数の地域に同時に簡単にデプロイできるようにします。Nubo はユーザーを最も近いデプロイメントに自動的にルーティングするので、ユーザーはあなたのアプリケーションにすぐにアクセスできるようになります。",
+      "tagline": "グローバルなNode.jsとDenoのアプリを数秒でデプロイできる"
+    },
+    {
+      "locale": "zh",
+      "description": "Nubo让你可以轻松地将TypeScript和JavaScript应用程序同时部署到全球多个地区。Nubo会自动将你的用户导向最近的部署，这意味着他们可以立即访问你的应用程序。",
+      "tagline": "在几秒钟内部署全球Node.js和Deno应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nubo讓你可以輕鬆地將TypeScript和JavaScript應用程序同時部署到全球多個地區。Nubo會自動將你的用戶導向最近的部署，這意味着他們可以立即訪問你的應用程序。",
+      "tagline": "在幾秒鐘內部署全球Node.js和Deno應用程序"
+    }
+  ]
 }
