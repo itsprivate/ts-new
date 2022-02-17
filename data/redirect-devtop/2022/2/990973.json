@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-16T07:45:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O1WC3buk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/muhip4umklui02qw67pr.jpg",
   "author": "Tudor-Radu Barbu",
-  "author_url": "https://dev.to/djpysu"
+  "author_url": "https://dev.to/djpysu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ポルカドットは、完全にスケーラブルで異種混在のウェブになることに焦点を当て、マルチチェーン技術の構築に集中しました。",
+      "title": "Polkadot：ブロックチェーンプロトコルは、最終的に私たちを結びつける。"
+    },
+    {
+      "locale": "zh",
+      "description": "Polkadot专注于成为一个完全可扩展的、异构的网络，集中于创建一个多链技术。",
+      "title": "Polkadot：最终将使我们团结起来的区块链协议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Polkadot專注於成爲一個完全可擴展的、異構的網絡，集中於創建一個多鏈技術。",
+      "title": "Polkadot：最終將使我們團結起來的區塊鏈協議"
+    }
+  ]
 }
