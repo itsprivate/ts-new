@@ -48,5 +48,22 @@
   "original_created_at": "2022-02-16T17:50:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CM1tdQF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zp5g8hbf2wpm7ip6r4cf.png",
   "author": "Arit Amana",
-  "author_url": "https://dev.to/aritdeveloper"
+  "author_url": "https://dev.to/aritdeveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティーの皆様、こんにちは。 リッチコンテンツの埋め込み方法が大幅に改善されましたので、お知らせします。",
+      "title": "機能更新を行いました。リッチコンテンツの埋め込み"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，DEV社区!  我很高兴地宣布，我们在嵌入丰富内容方面有了重大改进。",
+      "title": "功能更新。丰富的内容嵌入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，DEV社區!  我很高興地宣佈，我們在嵌入豐富內容方面有了重大改進。",
+      "title": "功能更新。豐富的內容嵌入"
+    }
+  ]
 }
