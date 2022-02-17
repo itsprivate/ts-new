@@ -20,7 +20,7 @@ on:
         }
         item.original_created_at = item.isoDate;
         item.created_at = new Date().toISOString()
-        const uniqueId = helpers.createContentDigest(item.link)
+        const uniqueId = helpers.createContentDigest(item.title)
         item.original_guid = item.guid;
         item.id = uniqueId;
         item.guid = uniqueId;
