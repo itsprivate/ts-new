@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-16T06:47:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hD-nFuN7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2fudzn8cjlix02ktmk1g.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは、現在最も使われているプログラミング言語の一つであり、その性能は素晴らしいものです。しかし...",
+      "title": "TypeScriptはあなたの人生をどう変えるか"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript现在是最常用的编程语言之一，而且它的功能非常出色。但是...",
+      "title": "TypeScript如何改变你的生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript現在是最常用的編程語言之一，而且它的功能非常出色。但是...",
+      "title": "TypeScript如何改變你的生活"
+    }
+  ]
 }
