@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1645086619,
-  "the_new_excerpt": "Hi, take a look at the balance sheet of PENN\nhttps://finance.yahoo.com/quote/PENN/balance-sheet?p=PENN How the heck is net\ndebt 458,800 (thousands) if the formula for Net Debt is (short and long term\nliabilities minus current assets)... what am I missing. I'm trusting Yahoo less\nand less..."
+  "the_new_excerpt": "Hi, take a look at the balance sheet of PENN\nhttps://finance.yahoo.com/quote/PENN/balance-sheet?p=PENN How the heck is net\ndebt 458,800 (thousands) if the formula for Net Debt is (short and long term\nliabilities minus current assets)... what am I missing. I'm trusting Yahoo less\nand less...",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "PENN社のバランスシートをご覧ください。\nhttps://finance.yahoo.com/quote/PENN/balance-sheet?p=PENN ネットは一体どうなっているのでしょうか？\n純負債の計算式が（短期および長期）である場合、458,800（千）です。\n負債から流動資産を差し引いたもの）...何が足りないのでしょう。ヤフーの信用度が落ちてきた\nという感じです。",
+      "title": "ヤフーファイナンスの純債務の数字がおかしい！？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，请看一下PENN的资产负债表\nhttps://finance.yahoo.com/quote/PENN/balance-sheet?p=PENN 如果净债务是458,800（千），那么净债务到底是怎么来的呢？\n债务458,800（千），如果净债务的公式是（短期和长期负债减去流动资产\n负债减去流动资产）......我错过了什么。我对雅虎的信任越来越少\n越来越少...",
+      "title": "雅虎财经的净债务数字是错误的！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，請看一下PENN的資產負債表\nhttps://finance.yahoo.com/quote/PENN/balance-sheet?p=PENN 如果淨債務是458,800（千），那麼淨債務到底是怎麼來的呢？\n債務458,800（千），如果淨債務的公式是（短期和長期負債減去流動資產\n負債減去流動資產）......我錯過了什麼。我對雅虎的信任越來越少\n越來越少...",
+      "title": "雅虎財經的淨債務數字是錯誤的！？"
+    }
+  ]
 }
