@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英語以外の映画で見てほしいものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你建议人们看什么非英语电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你建議人們看什麼非英語電影？"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ずっとメディアコントロールされていた"
+    },
+    {
+      "locale": "zh",
+      "title": "一直以来都是媒体控制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一直以來都是媒體控制"
+    }
+  ]
 }

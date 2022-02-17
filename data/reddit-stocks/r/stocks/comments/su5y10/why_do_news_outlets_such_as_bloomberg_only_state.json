@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1645044363,
-  "the_new_excerpt": "I often listen to the news and even Bloomberg radio and when they announce the\nstock market index they almost always state \"The dow is down x points, the\nnasdaq x points, S&P x points\". Like, how does that mean anything without\npercentages??! It drives me crazy."
+  "the_new_excerpt": "I often listen to the news and even Bloomberg radio and when they announce the\nstock market index they almost always state \"The dow is down x points, the\nnasdaq x points, S&P x points\". Like, how does that mean anything without\npercentages??! It drives me crazy.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はよくニュースやブルームバーグのラジオを聴くのですが、彼らが発表するときに\n株式市場の指標は、ほとんどの場合、「ダウはXポイント、ダウはXポイント下がっています。\nnasdaq xポイント、S&P xポイント\"。というように\nパーセンテージで表示するんですか! 気が狂いそうです。",
+      "title": "なぜ、Bloombergなどのニュースメディアは、指数の損失や増加のポイントのみを記載し、パーセントを記載しないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我经常听新闻，甚至彭博社的广播，当他们宣布\n股市指数时，他们几乎总是说：\"道琼斯指数下降了x点，纳斯达克指数下降了x点，标准普尔指数下降了x点。\n纳斯达克指数下跌X点，标准普尔指数下跌X点\"。就像，如果没有百分比，这怎么意味着什么呢？\n百分比？这让我抓狂。",
+      "title": "为什么彭博社等新闻机构只说明指数的损失或增加的点数，而不是百分比？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我經常聽新聞，甚至彭博社的廣播，當他們宣佈\n股市指數時，他們幾乎總是說：\"道瓊斯指數下降了x點，納斯達克指數下降了x點，標準普爾指數下降了x點。\n納斯達克指數下跌X點，標準普爾指數下跌X點\"。就像，如果沒有百分比，這怎麼意味着什麼呢？\n百分比？這讓我抓狂。",
+      "title": "爲什麼彭博社等新聞機構只說明指數的損失或增加的點數，而不是百分比？"
+    }
+  ]
 }
