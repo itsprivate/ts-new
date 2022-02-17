@@ -52,5 +52,22 @@
     },
     "retweet_count": 1503,
     "favorite_count": 10874
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Snowden: ビットコインは、他の手段による政治の継続である。",
+      "retweeted_status_full_text": "ビットコインは、他の手段による政治の継続である。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Snowden: 比特币是政治通过其他方式的延续。",
+      "retweeted_status_full_text": "比特币是政治通过其他方式的延续。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Snowden: 比特幣是政治通過其他方式的延續。",
+      "retweeted_status_full_text": "比特幣是政治通過其他方式的延續。"
+    }
+  ]
 }

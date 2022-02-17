@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの採掘"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币开采"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣開採"
+    }
+  ]
 }
