@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お金の問題ではありません"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是钱的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是錢的問題"
+    }
+  ]
 }
