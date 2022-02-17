@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レシピサイトからごちゃごちゃしたものを取り除き、材料と作り方だけを表示するクローム拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个chrome扩展程序，可以去除食谱网站上的杂乱无章的内容，只显示成分和说明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個chrome擴展程序，可以去除食譜網站上的雜亂無章的內容，只顯示成分和說明。"
+    }
+  ]
 }

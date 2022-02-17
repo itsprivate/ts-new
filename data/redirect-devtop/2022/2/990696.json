@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-15T23:06:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VUJVBxaR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c2jtctzwtk4yxccyfnws.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Probotアプリケーションを作ったのですが、現在smee.ioを使ってwebhookのテストをしているのですが、その際に実行中の...",
+      "title": "My ProbotアプリをサーバーレスLambdaにデプロイする"
+    },
+    {
+      "locale": "zh",
+      "description": "我建立了一个Probot应用程序，但我目前使用smee.io来测试webhooks，并且我正在运行...",
+      "title": "将我的Probot应用部署到无服务器Lambda上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我建立了一個Probot應用程序，但我目前使用smee.io來測試webhooks，並且我正在運行...",
+      "title": "將我的Probot應用部署到無服務器Lambda上"
+    }
+  ]
 }
