@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And why did we put them up in the first place?\n\nThey're cool."
+  "the_new_excerpt": "And why did we put them up in the first place?\n\nThey're cool.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そして、そもそもなぜ、それを掲げたのか。\n\nかっこいいからです。",
+      "title": "なぜ、建物にガーゴイルを付けなくなったのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "而我们为什么一开始就把它们挂起来？\n\n它们很酷。",
+      "title": "为什么我们不再在建筑物上设置石像鬼？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "而我們爲什麼一開始就把它們掛起來？\n\n它們很酷。",
+      "title": "爲什麼我們不再在建築物上設置石像鬼？"
+    }
+  ]
 }
