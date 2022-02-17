@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "史上最も正確なジャンプをする猫"
+    },
+    {
+      "locale": "zh",
+      "title": "这只猫正在进行有史以来最精确的跳跃"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻貓正在進行有史以來最精確的跳躍"
+    }
+  ]
 }

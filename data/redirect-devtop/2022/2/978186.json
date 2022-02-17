@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-04T01:36:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wJVBEoLE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s7ad6iabznb8lv3cid4j.png",
   "author": "Sacha Greif",
-  "author_url": "https://dev.to/sachagreif"
+  "author_url": "https://dev.to/sachagreif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "年間開発者アンケートの改善点についてはこちら",
+      "title": "2021年「JavaScriptの現状調査」の新着情報"
+    },
+    {
+      "locale": "zh",
+      "description": "了解更多关于年度开发者调查的改进情况",
+      "title": "2021年JavaScript现状调查的新内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解更多關於年度開發者調查的改進情況",
+      "title": "2021年JavaScript現狀調查的新內容"
+    }
+  ]
 }
