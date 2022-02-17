@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの携帯電話で一番使っていない機能は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的手机上最不常用的功能是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的手機上最不常用的功能是什麼？"
+    }
+  ]
 }

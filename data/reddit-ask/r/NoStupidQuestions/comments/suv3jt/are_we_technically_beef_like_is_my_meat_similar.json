@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Edit: men are pigs, confirmed"
+  "the_new_excerpt": "Edit: men are pigs, confirmed",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：男は豚、確定",
+      "title": "技術的には牛肉なのか？もし誰かが私を食べたら、私の肉は牛と同じようになるのでしょうか？ありがとう"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：男人是猪，确认",
+      "title": "我们在技术上是牛肉吗？比如说如果有人吃了我，我的肉是不是和牛差不多？谢谢"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：男人是豬，確認",
+      "title": "我們在技術上是牛肉嗎？比如說如果有人吃了我，我的肉是不是和牛差不多？謝謝"
+    }
+  ]
 }
