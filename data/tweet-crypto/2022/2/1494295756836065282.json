@@ -134,5 +134,22 @@
     "retweet_count": 8738,
     "favorite_count": 28687,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JamesMelville: 今、カナダの銀行に一体何が起きているのか？ https://t.co/NRjPWlG0GE",
+      "retweeted_status_full_text": "今、カナダの銀行に一体何が起きているのか？https://t.co/NRjPWlG0GE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JamesMelville: 加拿大的银行现在到底发生了什么？https://t.co/NRjPWlG0GE",
+      "retweeted_status_full_text": "加拿大的银行现在到底发生了什么？https://t.co/NRjPWlG0GE"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JamesMelville: 加拿大的銀行現在到底發生了什麼？https://t.co/NRjPWlG0GE",
+      "retweeted_status_full_text": "加拿大的銀行現在到底發生了什麼？https://t.co/NRjPWlG0GE"
+    }
+  ]
 }
