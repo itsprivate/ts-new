@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-15T06:48:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6SYviH1c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22iek3yby9myuj9bkhss.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AngularJSの開発者であるMisko Heveryが、彼の新しいフレームワークを見るために近づいてきたとき、あなたは立ち止まるでしょう...。",
+      "title": "QwikでJavaScriptをリジュームする"
+    },
+    {
+      "locale": "zh",
+      "description": "当Misko Hevery（AngularJS的创造者）找你看他的新框架时，好吧，你停下来...",
+      "title": "使用Qwik的可恢复JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當Misko Hevery（AngularJS的創造者）找你看他的新框架時，好吧，你停下來...",
+      "title": "使用Qwik的可恢復JavaScript"
+    }
+  ]
 }
