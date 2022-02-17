@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm seeing to many people sharing the news that Canadian government blocked 40\nBitcoin wallets because they're related to the convoy protest.\n\nWhat's really happened is that the government told every exchange in Canada to\nblock any deposit coming from those 40 wallets. That's totally different…"
+  "the_new_excerpt": "I'm seeing to many people sharing the news that Canadian government blocked 40\nBitcoin wallets because they're related to the convoy protest.\n\nWhat's really happened is that the government told every exchange in Canada to\nblock any deposit coming from those 40 wallets. That's totally different…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "カナダ政府が40の国・地域を封鎖したというニュースを多くの人が見ています。\nビットコインのウォレットは、護送船団の抗議行動に関連しているという理由です。\n\n実際に起こったことは、政府がカナダのすべての取引所に、以下のように伝えたということです。\nその40のウォレットからの預金をすべてブロックします。それは全く違う...",
+      "title": "いいえ、カナダは、それが不可能であるため、単に任意のビットコインの財布をブロックしていない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我看到很多人在分享加拿大政府封锁了40个比特币钱包的消息。\n比特币钱包，因为他们与车队的抗议有关。\n\n真正发生的情况是，政府告诉加拿大的每一个交易所要\n阻止来自这40个钱包的任何存款。这完全不同...",
+      "title": "不，加拿大没有封锁任何比特币钱包，只是因为这是不可能的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我看到很多人在分享加拿大政府封鎖了40個比特幣錢包的消息。\n比特幣錢包，因爲他們與車隊的抗議有關。\n\n真正發生的情況是，政府告訴加拿大的每一個交易所要\n阻止來自這40個錢包的任何存款。這完全不同...",
+      "title": "不，加拿大沒有封鎖任何比特幣錢包，只是因爲這是不可能的。"
+    }
+  ]
 }
