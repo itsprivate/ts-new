@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "商船は、世界を動かす忘れられた軍隊である。"
+    },
+    {
+      "locale": "zh",
+      "title": "商船水手是维持世界运转的被遗忘的军队。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "商船水手是維持世界運轉的被遺忘的軍隊。"
+    }
+  ]
 }

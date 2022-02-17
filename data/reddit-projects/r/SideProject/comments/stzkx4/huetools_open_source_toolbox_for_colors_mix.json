@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "hue.tools - オープンソースの色彩のためのツールボックス。色の混合、変換、修正、検査、ブレンド。"
+    },
+    {
+      "locale": "zh",
+      "title": "hue.tools - 开源的颜色工具箱。混合、转换、修改、检查或混合颜色。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "hue.tools - 開源的顏色工具箱。混合、轉換、修改、檢查或混合顏色。"
+    }
+  ]
 }
