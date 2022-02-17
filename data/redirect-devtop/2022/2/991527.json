@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-16T18:06:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QEpAbuxl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/76t3jwjvtbtp6nthks7h.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、今回もState of JavaScriptの調査結果が発表されました。",
+      "title": "JavaScriptの現状2021年。フレームワークの振り返り"
+    },
+    {
+      "locale": "zh",
+      "description": "好了，JavaScript状态调查的结果又出来了，Solid公司第一次在短...",
+      "title": "2021年的JavaScript状态。框架反思"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好了，JavaScript狀態調查的結果又出來了，Solid公司第一次在短...",
+      "title": "2021年的JavaScript狀態。框架反思"
+    }
+  ]
 }
