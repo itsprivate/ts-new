@@ -91,5 +91,22 @@
     "retweet_count": 203,
     "favorite_count": 453,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JacquiHeinrich: 🚨ロシアの空爆が迫っているとの警告の中、ウクライナは昨日にも防空能力を要請してきた。",
+      "retweeted_status_full_text": "ウクライナは昨日、対空ミサイル砲台、対空レーダーシステム、電子妨害装置、MIM-104パトリオット地対空ミサイルシステムなどの防空能力を米国に要請した。https://t.co/9KobcQhkM6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JacquiHeinrich: 🚨在俄罗斯空袭迫在眉睫的警告下，乌克兰昨天要求俄罗斯提供防空能力。",
+      "retweeted_status_full_text": "🚨在俄罗斯空袭迫在眉睫的警告下，乌克兰最近要求美国提供防空能力，包括防空导弹电池、反火雷达系统、电子干扰装置和MIM-104爱国者地对空导弹系统https://t.co/9KobcQhkM6。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JacquiHeinrich: 🚨在俄羅斯空襲迫在眉睫的警告下，烏克蘭昨天要求俄羅斯提供防空能力。",
+      "retweeted_status_full_text": "🚨在俄羅斯空襲迫在眉睫的警告下，烏克蘭最近要求美國提供防空能力，包括防空導彈電池、反火雷達系統、電子干擾裝置和MIM-104愛國者地對空導彈系統https://t.co/9KobcQhkM6。"
+    }
+  ]
 }
