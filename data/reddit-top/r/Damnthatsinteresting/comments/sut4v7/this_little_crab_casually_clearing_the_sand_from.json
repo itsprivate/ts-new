@@ -55,5 +55,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この小さなカニは、さりげなく目についた砂を払っている"
+    },
+    {
+      "locale": "zh",
+      "title": "这只小螃蟹随意地清理着眼睛上的沙子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻小螃蟹隨意地清理着眼睛上的沙子"
+    }
+  ]
 }
