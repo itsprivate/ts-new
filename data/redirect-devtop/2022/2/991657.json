@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-16T19:10:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Po7RYJOm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5grz318m7h8ztmhz9hud.jpg",
   "author": "Maurício Linhares",
-  "author_url": "https://dev.to/mauriciolinhares"
+  "author_url": "https://dev.to/mauriciolinhares",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "商業的なプログラミングをやっている人なら、SQLデータベースとやりとりしたことがあるはず......なんだけど。",
+      "title": "MySQLクエリの最適化"
+    },
+    {
+      "locale": "zh",
+      "description": "很可能，如果你在做任何商业编程，你不得不与SQL数据库互动，....。",
+      "title": "优化你的MySQL查询"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很可能，如果你在做任何商業編程，你不得不與SQL數據庫互動，....。",
+      "title": "優化你的MySQL查詢"
+    }
+  ]
 }
