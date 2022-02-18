@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-18T14:40:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zu4eH56q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fh2g4alvpfs7y4r3o0g9.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドを利用すれば、ビジネスは持続可能か？調査によると、クラウドの利用はより環境に優しいとされています...",
+      "title": "クラウドの環境負荷。データに基づく5つの洞察と1つの良い解決策"
+    },
+    {
+      "locale": "zh",
+      "description": "使用云计算是否能使你的企业持续发展？研究表明，它是一个更绿色的选择。",
+      "title": "云的环境影响。5个基于数据的洞察力和一个好的解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用雲計算是否能使你的企業持續發展？研究表明，它是一個更綠色的選擇。",
+      "title": "雲的環境影響。5個基於數據的洞察力和一個好的解決方案"
+    }
+  ]
 }
