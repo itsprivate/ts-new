@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Reddit、Google、DuckDuckGoの高度な検索フォーム"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit、谷歌和DuckDuckGo的高级搜索表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit、谷歌和DuckDuckGo的高級搜索表格"
+    }
+  ]
 }
