@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "余命10分と宣告されたら、あなたはどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有10分钟的生命，你会用它做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有10分鐘的生命，你會用它做什麼？"
+    }
+  ]
 }
