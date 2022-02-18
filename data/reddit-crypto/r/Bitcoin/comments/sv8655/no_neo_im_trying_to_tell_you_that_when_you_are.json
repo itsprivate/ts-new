@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"いいえ、ネオ... 準備ができたら、その必要はない \"と言いたいんだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "\"不，尼奥...... 我是想告诉你，当你准备好的时候，你就不必如此了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"不，尼奧...... 我是想告訴你，當你準備好的時候，你就不必如此了。"
+    }
+  ]
 }
