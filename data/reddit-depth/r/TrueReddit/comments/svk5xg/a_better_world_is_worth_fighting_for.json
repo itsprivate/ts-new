@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "より良い世界のために、戦う価値がある"
+    },
+    {
+      "locale": "zh",
+      "title": "一个更好的世界值得我们为之奋斗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個更好的世界值得我們爲之奮鬥"
+    }
+  ]
 }
