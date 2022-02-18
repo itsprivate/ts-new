@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-16T18:02:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--26APvxwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qsqhcy3qtkuvbvbs449g.png",
   "author": "Elijah Trillionz",
-  "author_url": "https://dev.to/elijahtrillionz"
+  "author_url": "https://dev.to/elijahtrillionz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリケーションのスタイリングは、非常にわかりにくく、難しいと感じることが多々ありました。当初は...",
+      "title": "ReactでStyled-componentsを使用する方法に関する完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "我经常发现React应用程序的风格设计非常令人困惑和困难。最初，我是...",
+      "title": "如何在React中使用风格化组件的完整指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我經常發現React應用程序的風格設計非常令人困惑和困難。最初，我是...",
+      "title": "如何在React中使用風格化組件的完整指南"
+    }
+  ]
 }
