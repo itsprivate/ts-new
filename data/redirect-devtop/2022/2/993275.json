@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-18T09:04:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q_bWp85K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nknrxodnki4qvt1s55ig.png",
   "author": "Jeff Odhiambo",
-  "author_url": "https://dev.to/killallnano"
+  "author_url": "https://dev.to/killallnano",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、Python 101: Introduction to Modern Pythonの続きで、Pythonの紹介、セット...",
+      "title": "Pythonによるデータ構造とアルゴリズム入門"
+    },
+    {
+      "locale": "zh",
+      "description": "本文是《Python 101：现代Python简介》的延续，在这里我们介绍了、设置了...",
+      "title": "使用Python的数据结构和算法介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文是《Python 101：現代Python簡介》的延續，在這裏我們介紹了、設置了...",
+      "title": "使用Python的數據結構和算法介紹"
+    }
+  ]
 }
