@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TodoMap.xyz - 訪れたい場所のリストを保存・共有するためのウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "TodoMap.xyz - 一个保存和分享要去的地方的清单的网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TodoMap.xyz - 一個保存和分享要去的地方的清單的網絡應用程序"
+    }
+  ]
 }
