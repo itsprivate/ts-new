@@ -74,5 +74,22 @@
     "retweet_count": 77,
     "favorite_count": 252,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @duncanrobinson: 今週のコラム：英国国家はよりコストがかかり、提供するものが少なくなっている https://t.co/m0rXNU1Pxx",
+      "retweeted_status_full_text": "今週のコラム：英国国家はコストが高くなり、提供するものが少なくなっている https://t.co/m0rXNU1Pxx"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @duncanrobinson: 本周的专栏：英国国家的成本越来越高，提供的https://t.co/m0rXNU1Pxx。",
+      "retweeted_status_full_text": "本周专栏：英国国家的成本越来越高，提供的服务越来越少 https://t.co/m0rXNU1Pxx"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @duncanrobinson: 本週的專欄：英國國家的成本越來越高，提供的https://t.co/m0rXNU1Pxx。",
+      "retweeted_status_full_text": "本週專欄：英國國家的成本越來越高，提供的服務越來越少 https://t.co/m0rXNU1Pxx"
+    }
+  ]
 }
