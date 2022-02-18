@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アーノルドは本物のターミネーターだ"
+    },
+    {
+      "locale": "zh",
+      "title": "阿诺德是一个真正的终结者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿諾德是一個真正的終結者"
+    }
+  ]
 }
