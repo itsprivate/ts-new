@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-17T06:01:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gNB7XIiC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rl5lvrntzwizwknmtb01.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptといえば、型の定義が大きなポイントになります。 これを使えば、定義...",
+      "title": "TypeScriptの型"
+    },
+    {
+      "locale": "zh",
+      "description": "谈到TypeScript，游戏的一个重要部分是定义类型。 有了这个，我们可以定义...",
+      "title": "TypeScript中的类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "談到TypeScript，遊戲的一個重要部分是定義類型。 有了這個，我們可以定義...",
+      "title": "TypeScript中的類型"
+    }
+  ]
 }
