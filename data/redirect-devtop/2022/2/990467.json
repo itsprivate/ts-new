@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-15T18:45:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1OBhKuSU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxrqma42y80s76mu9wzw.png",
   "author": "Pascal Thormeier",
-  "author_url": "https://dev.to/thormeier"
+  "author_url": "https://dev.to/thormeier",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自動再生は厄介なものです。動くものがユーザーの集中力を奪っている。たくさんあるリスト記事...",
+      "title": "ラマをスタートさせ、ストップさせる！？自動再生しないGIFウェブコンポーネントの作り方🎞️🛑🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "自动播放可能很烦人。移动的东西正在夺走用户的注意力。一篇有很多内容的列表文章...",
+      "title": "启动和停止一只骆驼! 如何创建一个非自动播放的GIF网络组件 🎞️🛑🔥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動播放可能很煩人。移動的東西正在奪走用戶的注意力。一篇有很多內容的列表文章...",
+      "title": "啓動和停止一隻駱駝! 如何創建一個非自動播放的GIF網絡組件 🎞️🛑🔥"
+    }
+  ]
 }

@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-13T17:07:37Z",
   "image": "https://dev.to/social_previews/article/987995.png",
   "author": "Jared White",
-  "author_url": "https://dev.to/jaredcwhite"
+  "author_url": "https://dev.to/jaredcwhite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、型安全性の名の下に、他の方法とは異なる方法でソフトウェアを設計しているとしたら、それは文句なしの失策だと私は考えています。",
+      "title": "型安全性の名の下にソフトウェアアーキテクチャに害を与えることを拒否する"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你以不同的方式设计你的软件，而不是你可能喜欢的方式，都是以类型安全的名义，我认为这是一个不合格的错误。",
+      "title": "拒绝以类型安全的名义伤害你的软件架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你以不同的方式設計你的軟件，而不是你可能喜歡的方式，都是以類型安全的名義，我認爲這是一個不合格的錯誤。",
+      "title": "拒絕以類型安全的名義傷害你的軟件架構"
+    }
+  ]
 }
