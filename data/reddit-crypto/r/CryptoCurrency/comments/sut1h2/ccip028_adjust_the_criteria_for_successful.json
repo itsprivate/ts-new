@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Problem\n\nWe are currently using the default criteria for all governance polls, which says\na poll passes if the Moons voting in favor represent over 50% of the\nparticipating moons and exceed the Decision Threshold\n[https://www.reddit.com/community-points/documentation/reputation-and…"
+  "the_new_excerpt": "Problem\n\nWe are currently using the default criteria for all governance polls, which says\na poll passes if the Moons voting in favor represent over 50% of the\nparticipating moons and exceed the Decision Threshold\n[https://www.reddit.com/community-points/documentation/reputation-and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "問題点\n\n現在、すべてのガバナンスポールにデフォルトの基準を使用しています。\n賛成票を投じたムーンが全体の50%以上である場合、投票は成功します。\n参加ムーンのうち、判定しきい値を超えるもの\n[https://www.reddit.com/community-points/documentation/reputation-and...",
+      "title": "CCIP-028 - Subredditガバナンスの投票を成功させるための基準を調整する。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "问题\n\n我们目前使用的是所有治理投票的默认标准，其中规定\n如果投票赞成的月球占参与投票的月球的50%以上，并且超过决策门槛，则投票通过。\n并超过决策门槛\n[https://www.reddit.com/community-points/documentation/reputation-and...",
+      "title": "CCIP-028 - 调整成功的子论坛治理投票的标准"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "問題\n\n我們目前使用的是所有治理投票的默認標準，其中規定\n如果投票贊成的月球佔參與投票的月球的50%以上，並且超過決策門檻，則投票通過。\n並超過決策門檻\n[https://www.reddit.com/community-points/documentation/reputation-and...",
+      "title": "CCIP-028 - 調整成功的子論壇治理投票的標準"
+    }
+  ]
 }
