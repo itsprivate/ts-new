@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-16T14:41:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pz61Noxd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bomocdtjoio222od149p.png",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、ユーザーが対話したくなるような、見た目がおしゃれなコンソールアプリを構築する方法を紹介します。",
+      "title": "Spectreを使用して見栄えの良い.NETコンソールアプリを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本文展示了如何建立一个花哨的控制台应用程序，让你的用户愿意与之互动",
+      "title": "你如何用Spectre建立一个漂亮的.NET控制台应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文展示瞭如何建立一個花哨的控制檯應用程序，讓你的用戶願意與之互動",
+      "title": "你如何用Spectre建立一個漂亮的.NET控制檯應用程序"
+    }
+  ]
 }
