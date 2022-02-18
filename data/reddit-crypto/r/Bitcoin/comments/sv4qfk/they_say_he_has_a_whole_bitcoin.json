@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを丸ごと持っているそうです"
+    },
+    {
+      "locale": "zh",
+      "title": "他们说他有一整个比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們說他有一整個比特幣"
+    }
+  ]
 }
