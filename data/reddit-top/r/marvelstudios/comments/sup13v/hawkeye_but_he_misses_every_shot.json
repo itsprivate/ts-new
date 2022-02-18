@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホークアイ、しかし、彼はすべてのショットを逃す。"
+    },
+    {
+      "locale": "zh",
+      "title": "鹰眼，但他每次都没打中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鷹眼，但他每次都沒打中"
+    }
+  ]
 }
