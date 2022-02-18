@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのS/Oを困らせる馬鹿な質問は何ですか？(例) 私が虫だったらまだ愛してくれる？ 私がアリだったらどう？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会用哪些愚蠢的问题来烦扰你的配偶？(例如：如果我是一只虫子，你还会爱我吗？如果我是一只蚂蚁呢？等等)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會用哪些愚蠢的問題來煩擾你的配偶？(例如：如果我是一隻蟲子，你還會愛我嗎？如果我是一隻螞蟻呢？等等)"
+    }
+  ]
 }
