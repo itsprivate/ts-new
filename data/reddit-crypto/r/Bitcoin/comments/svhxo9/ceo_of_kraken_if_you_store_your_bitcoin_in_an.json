@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "KrakenのCEO - もしあなたがビットコインを取引所に保管するなら、あなたはANYビットコインを所有していないのです! 出金してウォレットに保管しましょう!"
+    },
+    {
+      "locale": "zh",
+      "title": "Kraken的CEO - 如果你把你的比特币存放在交易所，你就不拥有任何比特币! 把它提取出来并储存在一个钱包里!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Kraken的CEO - 如果你把你的比特幣存放在交易所，你就不擁有任何比特幣! 把它提取出來並儲存在一個錢包裏!"
+    }
+  ]
 }
