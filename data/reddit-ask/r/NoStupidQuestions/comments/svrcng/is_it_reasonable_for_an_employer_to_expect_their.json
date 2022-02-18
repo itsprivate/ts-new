@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "従業員が給料をもらわずに15～30分早く出社することを期待するのは、雇用主にとって妥当なことでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "雇主希望他们的员工提前15-30分钟到场而不拿工资，这合理吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "僱主希望他們的員工提前15-30分鐘到場而不拿工資，這合理嗎？"
+    }
+  ]
 }
