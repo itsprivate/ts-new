@@ -134,5 +134,22 @@
     "retweet_count": 154,
     "favorite_count": 230,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @UkrWarReport: 🇷🇺18歳から55歳までの男性は、LPRとDPRの支配地域からの出国を禁止された。 https://t.co/8QvQqOrmKn",
+      "retweeted_status_full_text": "🇷⚡18歳から55歳までの男性はLPRとDPRの支配地域からの出国を禁止された。https://t.co/8QvQqOrmKn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @UkrWarReport: ⚡18至55岁的男子被禁止离开由LPR和DPR控制的领土。https://t.co/8QvQqOrmKn",
+      "retweeted_status_full_text": "https://t.co/8QvQqOrmKn ⚡18至55岁的男子被禁止离开LPR和DPR控制的领土。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @UkrWarReport: ⚡18至55歲的男子被禁止離開由LPR和DPR控制的領土。https://t.co/8QvQqOrmKn",
+      "retweeted_status_full_text": "https://t.co/8QvQqOrmKn ⚡18至55歲的男子被禁止離開LPR和DPR控制的領土。"
+    }
+  ]
 }
