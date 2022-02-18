@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "履歴書に嘘を書いたことがありますか？何について嘘をつきましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否在简历上撒过谎？你撒了什么谎？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否在簡歷上撒過謊？你撒了什麼謊？"
+    }
+  ]
 }
