@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしあなたの友人が、あなたが自分自身に話すのと同じようにあなたに話すとしたら、あなたはその人をいつまで友人として許しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的朋友和你说话的方式和你对自己说话的方式一样，你会允许他们成为你的朋友多长时间？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的朋友和你說話的方式和你對自己說話的方式一樣，你會允許他們成爲你的朋友多長時間？"
+    }
+  ]
 }
