@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1時間15ドルは、1日8時間120ドルです。"
+    },
+    {
+      "locale": "zh",
+      "title": "15美元/小时就是120美元/8小时一天。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "15美元/小時就是120美元/8小時一天。"
+    }
+  ]
 }
