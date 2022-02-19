@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後に唇に触れたものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "最后接触你嘴唇的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最後接觸你嘴脣的東西是什麼？"
+    }
+  ]
 }
