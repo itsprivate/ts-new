@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-18T19:15:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hcJnI-Zw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/37k17ssge3c56oeq2rga.jpg",
   "author": "iAmGjert",
-  "author_url": "https://dev.to/iamgjert"
+  "author_url": "https://dev.to/iamgjert",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに JavaScriptでは、変数に値を渡す方法が2つあり、その方法を理解することで...",
+      "title": "値によるコピーと参照によるコピー"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 在JavaScript中，有两种方法可以将一个值传递给一个变量，了解它们是如何传递的。",
+      "title": "按值复制与参照复制"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 在JavaScript中，有兩種方法可以將一個值傳遞給一個變量，瞭解它們是如何傳遞的。",
+      "title": "按值複製與參照複製"
+    }
+  ]
 }
