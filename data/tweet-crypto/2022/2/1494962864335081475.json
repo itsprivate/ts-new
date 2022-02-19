@@ -134,5 +134,22 @@
     "retweet_count": 20582,
     "favorite_count": 66713,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ZubyMusic: 「カーブを平らにするまで」 🇦 https://t.co/Bz5TfnG788",
+      "retweeted_status_full_text": "\"カーブを平らにするまでの間\" 🇨🇦 https://t.co/Bz5TfnG788"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ZubyMusic: \"直到我们把曲线拉平\"🇨🇦https://t.co/Bz5TfnG788。",
+      "retweeted_status_full_text": "\"直到我们把曲线拉平为止\"🇨🇦https://t.co/Bz5TfnG788"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ZubyMusic: \"直到我們把曲線拉平\"🇨🇦https://t.co/Bz5TfnG788。",
+      "retweeted_status_full_text": "\"直到我們把曲線拉平爲止\"🇨🇦https://t.co/Bz5TfnG788"
+    }
+  ]
 }

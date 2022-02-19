@@ -134,5 +134,22 @@
     "retweet_count": 9650,
     "favorite_count": 22855,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @dulhunty: 明日のカナダの新聞にこの写真が掲載されることはないだろう。https://t.co/LJbTf1X1aO。",
+      "retweeted_status_full_text": "この写真が明日のカナダの新聞に掲載されることはないだろう。https://t.co/LJbTf1X1aO。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @dulhunty: 我猜你明天不会在加拿大的任何报纸上看到这张照片了。https://t.co/LJbTf1X1aO",
+      "retweeted_status_full_text": "我猜你明天不会在加拿大的任何报纸上看到这张照片了。https://t.co/LJbTf1X1aO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @dulhunty: 我猜你明天不會在加拿大的任何報紙上看到這張照片了。https://t.co/LJbTf1X1aO",
+      "retweeted_status_full_text": "我猜你明天不會在加拿大的任何報紙上看到這張照片了。https://t.co/LJbTf1X1aO"
+    }
+  ]
 }
