@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは警察に逮捕され、任意の架空の弁護士に弁護を依頼することができます。あなたは誰に依頼しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被警察逮捕了，可以聘请任何虚构的律师来代表你。你会找谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被警察逮捕了，可以聘請任何虛構的律師來代表你。你會找誰？"
+    }
+  ]
 }
