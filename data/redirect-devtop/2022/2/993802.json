@@ -39,5 +39,22 @@
   "original_created_at": "2022-02-18T16:58:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GJGISiWG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92789xeyht0169hch7re.jpg",
   "author": "muddassir",
-  "author_url": "https://dev.to/mohammed_muddassir"
+  "author_url": "https://dev.to/mohammed_muddassir",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptは高次の関数を受け付けるので、関数型プログラミング言語である。以前は...",
+      "title": "高次関数"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一种函数式编程语言，因为，它接受高阶函数。之前...",
+      "title": "高阶函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一種函數式編程語言，因爲，它接受高階函數。之前...",
+      "title": "高階函數"
+    }
+  ]
 }
