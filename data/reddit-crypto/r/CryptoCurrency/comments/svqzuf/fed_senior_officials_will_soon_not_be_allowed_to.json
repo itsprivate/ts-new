@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FRB高官はまもなく暗号、株式、債券の取引を許されなくなる これは良い判断か？"
+    },
+    {
+      "locale": "zh",
+      "title": "美联储高官很快将不被允许交易加密货币、股票和债券 这是个好主意吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美聯儲高官很快將不被允許交易加密貨幣、股票和債券 這是個好主意嗎？"
+    }
+  ]
 }
