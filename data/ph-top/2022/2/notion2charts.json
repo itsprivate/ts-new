@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-19T08:01:00Z"
+  "original_createdAt": "2022-02-19T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notion2Chartsは、Notionのデータベースから埋め込み可能な美しいチャートを簡単に生成するオンラインツールです。Notion2Charts では、以下の操作を行うだけです。 ⚙️ Notion ワークスペースに接続 📊 データベースを選択してチャートを作成 🔗 Notion 内の任意の場所にチャートを埋め込む",
+      "tagline": "Notionデータベースから埋め込み可能なグラフの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Notion2Charts是一个易于使用的在线工具，可以从你的Notion数据库中生成漂亮的可嵌入的图表。使用Notion2Charts，只需 - ⚙️连接你的Notion工作区 - 📊选择一个数据库并创建你的图表 - 🔗在Notion的任何地方嵌入你的图表",
+      "tagline": "从你的Notion数据库创建可嵌入的图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notion2Charts是一個易於使用的在線工具，可以從你的Notion數據庫中生成漂亮的可嵌入的圖表。使用Notion2Charts，只需 - ⚙️連接你的Notion工作區 - 📊選擇一個數據庫並創建你的圖表 - 🔗在Notion的任何地方嵌入你的圖表",
+      "tagline": "從你的Notion數據庫創建可嵌入的圖表"
+    }
+  ]
 }
