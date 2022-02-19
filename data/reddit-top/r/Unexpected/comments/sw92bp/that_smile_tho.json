@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その笑顔は"
+    },
+    {
+      "locale": "zh",
+      "title": "那个笑容"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那個笑容"
+    }
+  ]
 }
