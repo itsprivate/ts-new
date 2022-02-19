@@ -52,5 +52,22 @@
     },
     "retweet_count": 528,
     "favorite_count": 1680
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @cossackgundi: 私の3年間の前線での生活で、これは長い間聞いたことのない激しい砲撃だ。2箇所で...",
+      "retweeted_status_full_text": "3年間前線にいたけれども、このような激しい砲撃は初めてだ。現在2ヶ所で激しい砲撃が行われている"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @cossackgundi: 在我在前线的3年时间里，这是我很长时间以来听到的最猛烈的炮击。现在有两个地方被炸毁了。",
+      "retweeted_status_full_text": "在我在前线的3年时间里，这是我很长时间以来听到的最猛烈的炮击。现在有两个地方正在遭受猛烈的炮击"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @cossackgundi: 在我在前線的3年時間裏，這是我很長時間以來聽到的最猛烈的炮擊。現在有兩個地方被炸燬了。",
+      "retweeted_status_full_text": "在我在前線的3年時間裏，這是我很長時間以來聽到的最猛烈的炮擊。現在有兩個地方正在遭受猛烈的炮擊"
+    }
+  ]
 }
