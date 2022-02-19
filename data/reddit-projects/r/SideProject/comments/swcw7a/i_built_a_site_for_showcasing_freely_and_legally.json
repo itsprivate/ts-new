@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Youtubeで自由に（合法的に）視聴できる映画やシリーズを、Netlfixのようなインターフェースで紹介するサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个网站，在一个类似Netlfix的界面上展示Youtube上免费（和合法）的电影和系列节目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個網站，在一個類似Netlfix的界面上展示Youtube上免費（和合法）的電影和系列節目"
+    }
+  ]
 }
