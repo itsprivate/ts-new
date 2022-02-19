@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Recently released app that will perform some tasks based on your current\nlocation.\n\nPlace markers with up to 500m range on the map and configure what the phone\nshould do once you either enter or leave them. Make it change only once or force\nthe changes to stay as long as you are inside or outside…"
+  "the_new_excerpt": "Recently released app that will perform some tasks based on your current\nlocation.\n\nPlace markers with up to 500m range on the map and configure what the phone\nshould do once you either enter or leave them. Make it change only once or force\nthe changes to stay as long as you are inside or outside…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最近リリースされたアプリで、現在地に応じていくつかのタスクを実行してくれます。\nの位置です。\n\n地図上に最大500mまでのマーカーを設置し、携帯電話の動作を設定することができます。\nその場所に入ったり出たりしたら、どうすればいいのでしょう。一度だけ変更させるか、強制的に\n屋内外にいる限り、その変化は留まる。",
+      "title": "位置情報を元にスマホを変えるアンドロイドアプリを作った!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "最近发布的应用程序，将根据你当前的位置执行一些任务。\n位置。\n\n在地图上放置范围不超过500米的标记，并配置手机应该做什么。\n一旦你进入或离开它们应该做什么。让它只改变一次或强制\n变化，只要你在里面或外面，就能保持不变......",
+      "title": "做了一个安卓应用，可以根据你的位置来改变你的手机!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "最近發佈的應用程序，將根據你當前的位置執行一些任務。\n位置。\n\n在地圖上放置範圍不超過500米的標記，並配置手機應該做什麼。\n一旦你進入或離開它們應該做什麼。讓它只改變一次或強制\n變化，只要你在裏面或外面，就能保持不變......",
+      "title": "做了一個安卓應用，可以根據你的位置來改變你的手機!"
+    }
+  ]
 }
