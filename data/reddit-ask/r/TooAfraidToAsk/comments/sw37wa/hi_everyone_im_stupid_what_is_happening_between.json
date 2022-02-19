@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みなさんこんにちは、バカです。ウクライナとロシアの間で何が起こっていて、どうしてこんなことになったのか？問題の根源は何なのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "大家好，我很笨。乌克兰和俄罗斯之间发生了什么，怎么会变成这样？问题的根源是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大家好，我很笨。烏克蘭和俄羅斯之間發生了什麼，怎麼會變成這樣？問題的根源是什麼？"
+    }
+  ]
 }
