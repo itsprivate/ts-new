@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロケットの軌跡を伝って地上に降り注ぐ稲妻"
+    },
+    {
+      "locale": "zh",
+      "title": "闪电通过火箭轨道被引导到地面上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "閃電通過火箭軌道被引導到地面上"
+    }
+  ]
 }
