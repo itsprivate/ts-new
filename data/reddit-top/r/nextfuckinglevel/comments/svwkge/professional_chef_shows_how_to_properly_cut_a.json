@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロのシェフが教える、カワハギの正しい切り方"
+    },
+    {
+      "locale": "zh",
+      "title": "专业厨师展示如何正确地切割帝王鱼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "專業廚師展示如何正確地切割帝王魚"
+    }
+  ]
 }
