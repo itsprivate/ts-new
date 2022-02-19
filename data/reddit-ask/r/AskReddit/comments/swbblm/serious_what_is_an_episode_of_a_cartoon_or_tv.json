@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[漫画やテレビ番組で、あなたをダメにしたエピソードを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "[严肃]哪一集的动画片或电视节目把你搞砸了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[嚴肅]哪一集的動畫片或電視節目把你搞砸了？"
+    }
+  ]
 }
