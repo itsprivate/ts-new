@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-17T00:42:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wJVBEoLE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s7ad6iabznb8lv3cid4j.png",
   "author": "Sacha Greif",
-  "author_url": "https://dev.to/sachagreif"
+  "author_url": "https://dev.to/sachagreif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "エヴァン・ユー、リッチ・ハリス、他出演",
+      "title": "2021年のJavaScriptの状態。人々の声"
+    },
+    {
+      "locale": "zh",
+      "description": "埃文-尤、里奇-哈里斯等人的表演",
+      "title": "2021年的JavaScript状态。人们在说什么"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "埃文-尤、裏奇-哈里斯等人的表演",
+      "title": "2021年的JavaScript狀態。人們在說什麼"
+    }
+  ]
 }

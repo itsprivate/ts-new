@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-16T16:50:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fLStprUz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxc8rpitwouay3wbzcch.png",
   "author": "Mysterio",
-  "author_url": "https://dev.to/shubhamtiwari909"
+  "author_url": "https://dev.to/shubhamtiwari909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん。今日は、地図機能にフィルタを適用する方法を紹介します。 なぜ、このようなことをしなければならないのか？",
+      "title": "React JSのmap関数にフィルタをかける"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我将向大家展示如何在地图上应用过滤器功能。 那么，为什么我必须要...",
+      "title": "在React JS中对地图功能进行过滤"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我將向大家展示如何在地圖上應用過濾器功能。 那麼，爲什麼我必須要...",
+      "title": "在React JS中對地圖功能進行過濾"
+    }
+  ]
 }
