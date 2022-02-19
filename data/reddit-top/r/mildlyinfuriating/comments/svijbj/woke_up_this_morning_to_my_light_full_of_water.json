@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今朝、目が覚めたら、ライトが水でいっぱいになっていた。私たちのアパートは新築です。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天早上醒来，我的灯里全是水。我们的公寓是全新的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天早上醒來，我的燈裏全是水。我們的公寓是全新的。"
+    }
+  ]
 }
