@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-17T16:12:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DUqbg1YE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0b0gr63venaz7qgot6ng.png",
   "author": "RolandiXor (Roland L. Taylor)",
-  "author_url": "https://dev.to/rolandixor"
+  "author_url": "https://dev.to/rolandixor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！このクイックチュートリアルでは、画像だけでカスタムカーソルを作成する方法を紹介します。",
+      "title": "ウェブサイト用カスタムカーソルの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨！在这个快速教程中，我将向你展示如何只用图片和一个工具就能创建自定义光标。",
+      "title": "为你的网站创建自定义光标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨！在這個快速教程中，我將向你展示如何只用圖片和一個工具就能創建自定義光標。",
+      "title": "爲你的網站創建自定義光標"
+    }
+  ]
 }
