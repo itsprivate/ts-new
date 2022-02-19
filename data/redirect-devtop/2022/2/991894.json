@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-17T01:15:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ChrESo_F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opo3435mxyo9w8fhbbrx.jpeg",
   "author": "Jhey Tompkins",
-  "author_url": "https://dev.to/jh3y"
+  "author_url": "https://dev.to/jh3y",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダンボール箱が完全に平らになっているものがあるじゃないですか。折りたたんでテープでとめれば...",
+      "title": "Pure CSS 3Dパッケージトグルの作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道你可以得到完全平坦的纸板箱吗？你把它们折叠起来，然后用胶带粘住，使它们成为...",
+      "title": "如何制作一个纯CSS的3D包装切换器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道你可以得到完全平坦的紙板箱嗎？你把它們摺疊起來，然後用膠帶粘住，使它們成爲...",
+      "title": "如何製作一個純CSS的3D包裝切換器"
+    }
+  ]
 }
