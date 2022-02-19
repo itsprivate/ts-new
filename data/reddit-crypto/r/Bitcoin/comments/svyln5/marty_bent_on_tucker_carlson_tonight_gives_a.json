@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tucker Carlson Tonightに出演したMarty BentがBitcoinのセルフカストディについて講義します。"
+    },
+    {
+      "locale": "zh",
+      "title": "马蒂-本特在 \"塔克-卡尔森之夜 \"节目中给大家上了一堂关于比特币自我监管的课"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "馬蒂-本特在 \"塔克-卡爾森之夜 \"節目中給大家上了一堂關於比特幣自我監管的課"
+    }
+  ]
 }
