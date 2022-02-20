@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FIATを退場し、BTCに参入する"
+    },
+    {
+      "locale": "zh",
+      "title": "退出FIAT，进入BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "退出FIAT，進入BTC"
+    }
+  ]
 }
