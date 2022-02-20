@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、恋愛関係において「相手が望めばそうなる」という言葉を信じますか？その理由またはそうでない理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你相信浪漫关系中的 \"如果他们愿意，他们会 \"这句话吗？为什么或为什么不？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你相信浪漫關係中的 \"如果他們願意，他們會 \"這句話嗎？爲什麼或爲什麼不？"
+    }
+  ]
 }
