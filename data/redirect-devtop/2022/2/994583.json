@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-19T14:59:07Z",
   "image": "https://dev.to/social_previews/article/994583.png",
   "author": "Santan21",
-  "author_url": "https://dev.to/santan21"
+  "author_url": "https://dev.to/santan21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データ構造とは ➊配列 ➍スタック ➍キュー ➎ハッシュテーブル ➏木 ➀グラフ 私たちは、...",
+      "title": "ウェブ開発者が知っておくべきデータ構造\n"
+    },
+    {
+      "locale": "zh",
+      "description": "数据结构有 ➊数组 ➋集合 ➌堆栈 ➍队列 ➎哈希表 ➏树 ➐图 我们将...",
+      "title": "每个Web开发者都应该知道的数据结构\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數據結構有 ➊數組 ➋集合 ➌堆棧 ➍隊列 ➎哈希表 ➏樹 ➐圖 我們將...",
+      "title": "每個Web開發者都應該知道的數據結構\n"
+    }
+  ]
 }

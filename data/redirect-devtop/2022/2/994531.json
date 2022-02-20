@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-19T13:21:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pSmlxVgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmnppr14d5vnzj986r80.png",
   "author": "Anjan Shomodder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactjsには、多くの状態管理ライブラリが用意されています。ここでは、その中から5つのライブラリを紹介します。",
+      "title": "React用状態管理ライブラリトップ5"
+    },
+    {
+      "locale": "zh",
+      "description": "有很多状态管理库可用于Reactjs。在这里，你将了解到5个状态管理库。",
+      "title": "适用于React的5大状态管理库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有很多狀態管理庫可用於Reactjs。在這裏，你將瞭解到5個狀態管理庫。",
+      "title": "適用於React的5大狀態管理庫"
+    }
+  ]
 }
