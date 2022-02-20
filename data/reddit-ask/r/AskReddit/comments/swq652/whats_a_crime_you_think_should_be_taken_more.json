@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もっと重く受け止めるべき、あるいはもっとひどい罰を与えるべきだと思う犯罪は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为什么罪行应该被更认真对待，或者应该有更严重的惩罚？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲什麼罪行應該被更認真對待，或者應該有更嚴重的懲罰？"
+    }
+  ]
 }

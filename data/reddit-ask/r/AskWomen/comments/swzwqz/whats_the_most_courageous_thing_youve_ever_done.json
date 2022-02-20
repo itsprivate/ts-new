@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番勇気のいることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你做过的最有勇气的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你做過的最有勇氣的事情是什麼？"
+    }
+  ]
 }
