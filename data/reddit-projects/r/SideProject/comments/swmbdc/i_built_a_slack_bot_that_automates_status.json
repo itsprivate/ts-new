@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey r/SideProject [/r/SideProject], I recently launched StandupWizard\n[https://standupwizard.com] after having it in beta for a couple months and\ncollecting feedback from existing customers.\n\nThe project is a Slack bot that helps keep remote teams in sync by automating\nthe status check-in process…"
+  "the_new_excerpt": "Hey r/SideProject [/r/SideProject], I recently launched StandupWizard\n[https://standupwizard.com] after having it in beta for a couple months and\ncollecting feedback from existing customers.\n\nThe project is a Slack bot that helps keep remote teams in sync by automating\nthe status check-in process…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "r/SideProject [/r/SideProject]の皆さん、最近StandupWizardを立ち上げました。\n[https://standupwizard.com] 数ヶ月間、ベータ版として使用し、その後に\n既存のお客様からのフィードバックを集めています。\n\nこのプロジェクトはSlackのボットで、リモートチームの同期を自動化するのに役立ちます。\nステータスのチェックインプロセス...",
+      "title": "リモートで働くチームのステータスチェックイン（スタンドアップミーティング）を自動化するSlackボットを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，r/SideProject [/r/SideProject]，我最近推出了StandupWizard\n[https://standupwizard.com]，在此之前，我已经在测试版中运行了几个月，并收集了现有客户的反馈。\n在收集现有客户的反馈后，我最近推出了StandupWizard []。\n\n该项目是一个Slack机器人，通过自动化来帮助远程团队保持同步。\n状态检查过程...",
+      "title": "我建立了一个Slack机器人，为远程工作的团队自动进行状态检查（Standup会议）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，r/SideProject [/r/SideProject]，我最近推出了StandupWizard\n[https://standupwizard.com]，在此之前，我已經在測試版中運行了幾個月，並收集了現有客戶的反饋。\n在收集現有客戶的反饋後，我最近推出了StandupWizard []。\n\n該項目是一個Slack機器人，通過自動化來幫助遠程團隊保持同步。\n狀態檢查過程...",
+      "title": "我建立了一個Slack機器人，爲遠程工作的團隊自動進行狀態檢查（Standup會議）。"
+    }
+  ]
 }
