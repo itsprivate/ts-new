@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたのペットを嫌ったり、問題を抱えたりする人と付き合ったら、どのように感じますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你和不喜欢或对你的宠物有意见的人约会，你会有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你和不喜歡或對你的寵物有意見的人約會，你會有什麼感覺？"
+    }
+  ]
 }
