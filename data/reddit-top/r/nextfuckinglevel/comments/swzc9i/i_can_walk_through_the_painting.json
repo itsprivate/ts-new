@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "絵の中を歩くことができる"
+    },
+    {
+      "locale": "zh",
+      "title": "我可以穿行在画中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我可以穿行在畫中"
+    }
+  ]
 }
