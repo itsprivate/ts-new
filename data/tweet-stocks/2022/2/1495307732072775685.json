@@ -112,5 +112,22 @@
     "retweet_count": 183,
     "favorite_count": 311,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @konrad_muzyka: @CSISによる2つの地図を比べてみてください。1枚目は1月27日、2枚目は2月18日のものです。https://t.co/S0vdbMii...",
+      "retweeted_status_full_text": "CSISによる2つのマップを比較してみましょう。最初のものは1月27日のもので、2番目は2月18日のものです。https://t.co/S0vdbMiipH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @konrad_muzyka: 比较@CSIS的这两张地图。第一张是1月27日的，第二张是2月18日的。https://t.co/S0vdbMii...",
+      "retweeted_status_full_text": "比较@CSIS的这两张地图。第一张是1月27日的，第二张是2月18日的。https://t.co/S0vdbMiipH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @konrad_muzyka: 比較@CSIS的這兩張地圖。第一張是1月27日的，第二張是2月18日的。https://t.co/S0vdbMii...",
+      "retweeted_status_full_text": "比較@CSIS的這兩張地圖。第一張是1月27日的，第二張是2月18日的。https://t.co/S0vdbMiipH"
+    }
+  ]
 }
