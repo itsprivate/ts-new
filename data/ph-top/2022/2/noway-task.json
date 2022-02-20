@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-20T08:01:00Z"
+  "original_createdAt": "2022-02-20T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Noway Taskは、Notionで定期的なタスクを作成するためのサービスです。",
+      "tagline": "Notionで定期的なタスク。"
+    },
+    {
+      "locale": "zh",
+      "description": "Noway Task是一项用Notion创建重复性任务的服务。",
+      "tagline": "使用Notion的重复性任务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Noway Task是一項用Notion創建重複性任務的服務。",
+      "tagline": "使用Notion的重複性任務。"
+    }
+  ]
 }

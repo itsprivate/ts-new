@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブロックチェーンの仕組みを説明する、今まで見た中で最高のビデオです。実際に今、理解し始めたような気がします。"
+    },
+    {
+      "locale": "zh",
+      "title": "我见过的解释区块链工作原理的最佳视频。我实际上觉得我现在已经开始理解它了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我見過的解釋區塊鏈工作原理的最佳視頻。我實際上覺得我現在已經開始理解它了。"
+    }
+  ]
 }
