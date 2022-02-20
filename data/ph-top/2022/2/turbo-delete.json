@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-20T08:54:05Z"
+  "original_createdAt": "2022-02-20T08:54:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Turbodeleteは、Windowsのデフォルトの削除機能に代わる、高速な削除機能です。TurboDelete は、コマンドラインだけでなく、コンテキストメニューにも統合されています!",
+      "tagline": "Windows削除の代替となる超高速処理"
+    },
+    {
+      "locale": "zh",
+      "description": "TurboDelete是Windows默认删除功能的一个快速替代品。TurboDelete与你的上下文菜单以及命令行整合在一起!",
+      "tagline": "快速替代Windows删除"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TurboDelete是Windows默認刪除功能的一個快速替代品。TurboDelete與你的上下文菜單以及命令行整合在一起!",
+      "tagline": "快速替代Windows刪除"
+    }
+  ]
 }
