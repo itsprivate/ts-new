@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワンちゃんが大好きな人がわかる"
+    },
+    {
+      "locale": "zh",
+      "title": "我们知道狗狗更喜欢谁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們知道狗狗更喜歡誰"
+    }
+  ]
 }
