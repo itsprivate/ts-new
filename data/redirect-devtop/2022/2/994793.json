@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-19T19:12:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eJOod-7G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s17xp9xqt4stnkky2o1b.jpg",
   "author": "Adeoluwa Agbakosi",
-  "author_url": "https://dev.to/dev180memes"
+  "author_url": "https://dev.to/dev180memes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サイバーセキュリティについて聞かれたら、何を思い浮かべますか？  ほとんどの人がこの問いに答えるだろう...。",
+      "title": "サイバーセキュリティ 駆け足で説明します。"
+    },
+    {
+      "locale": "zh",
+      "description": "当被问及网络安全时，你会想到什么？  大多数人都会回答这个问题...",
+      "title": "网络安全。一路走来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當被問及網絡安全時，你會想到什麼？  大多數人都會回答這個問題...",
+      "title": "網絡安全。一路走來。"
+    }
+  ]
 }
