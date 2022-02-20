@@ -35,5 +35,22 @@
   "original_created_at": "2022-02-19T16:10:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fikbs2XD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uahv4id8iu8ai3qrjctp.png",
   "author": "Alex Merced",
-  "author_url": "https://dev.to/alexmercedcoder"
+  "author_url": "https://dev.to/alexmercedcoder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロトコルの世界 プロトコルとは、あくまでも、さまざまな人が簡単に利用できるようにするための規格です。",
+      "title": "RPCの理解（APIプロトコルのツアー、gRPC nodejs walkthrough、Apache Arrow Flight)"
+    },
+    {
+      "locale": "zh",
+      "description": "协议的世界 协议只是一种标准，使不同的人更容易接受。",
+      "title": "了解RPC（参观API协议、gRPC nodejs演练和Apache Arrow Flight）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "協議的世界 協議只是一種標準，使不同的人更容易接受。",
+      "title": "瞭解RPC（參觀API協議、gRPC nodejs演練和Apache Arrow Flight）。"
+    }
+  ]
 }
