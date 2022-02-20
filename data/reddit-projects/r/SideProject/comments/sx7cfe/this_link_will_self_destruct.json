@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このリンクは自己破壊します"
+    },
+    {
+      "locale": "zh",
+      "title": "这个链接会自毁"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個鏈接會自毀"
+    }
+  ]
 }
