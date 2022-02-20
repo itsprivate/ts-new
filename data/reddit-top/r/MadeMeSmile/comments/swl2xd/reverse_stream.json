@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リバースストリーム"
+    },
+    {
+      "locale": "zh",
+      "title": "反向流"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "反向流"
+    }
+  ]
 }
