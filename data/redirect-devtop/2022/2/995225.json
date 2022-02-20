@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-20T10:10:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kLlj6kPc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yuoa6u9ivony989ouesk.png",
   "author": "Brayan Kai",
-  "author_url": "https://dev.to/brayan_kai"
+  "author_url": "https://dev.to/brayan_kai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに データは誰にとっても身近なものですが、その活用方法を知ること...",
+      "title": "Pythonによるデータ構造とアルゴリズム入門"
+    },
+    {
+      "locale": "zh",
+      "description": "导语：数据是每个人都熟悉的东西，但知道如何...",
+      "title": "使用Python的数据结构和算法介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "導語：數據是每個人都熟悉的東西，但知道如何...",
+      "title": "使用Python的數據結構和算法介紹"
+    }
+  ]
 }
