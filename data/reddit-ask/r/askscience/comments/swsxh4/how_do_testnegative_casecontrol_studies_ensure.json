@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "In particular, how does one make sure that the vaccine does not simply make\ndetection of the virus more difficult without actually providing increased\nprotection, i.e. you're symptomatic but test negative?"
+  "the_new_excerpt": "In particular, how does one make sure that the vaccine does not simply make\ndetection of the virus more difficult without actually providing increased\nprotection, i.e. you're symptomatic but test negative?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "特に、ワクチンが単純に、「安全」であることをどのように確認するのでしょうか。\nウイルスの検出をより困難にし、実際に増加させることなく\nつまり、症状があっても検査で陰性になるのでしょうか？",
+      "title": "検査陰性のケースコントロール研究では、実際に感染して症状が出ているにもかかわらず、検査陰性になることだけはないようにするにはどうしたらよいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "特别是，如何确保疫苗不只是使病毒的检测更加困难，而实际上并没有提供更多信息？\n病毒的检测更加困难，而实际上却没有提供更多的保护。\n即你有症状但检测结果为阴性？",
+      "title": "测试阴性的病例对照研究如何确保不只是导致测试阴性，尽管实际上已经被感染并有症状？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "特別是，如何確保疫苗不只是使病毒的檢測更加困難，而實際上並沒有提供更多信息？\n病毒的檢測更加困難，而實際上卻沒有提供更多的保護。\n即你有症狀但檢測結果爲陰性？",
+      "title": "測試陰性的病例對照研究如何確保不只是導致測試陰性，儘管實際上已經被感染並有症狀？"
+    }
+  ]
 }
