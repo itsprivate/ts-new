@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-19T16:43:29Z",
   "image": "https://dev.to/social_previews/article/994651.png",
   "author": "Let's Code",
-  "author_url": "https://dev.to/frontendengineer"
+  "author_url": "https://dev.to/frontendengineer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは。今回は、以前面接でコーディングの依頼を受けた時の成功談を紹介したいと思います。",
+      "title": "ReactJS三目並べ（💥面接合格💥）。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 我想与大家分享我在之前的工作面试中的成功经验，我被要求在面试中为一个项目编码。",
+      "title": "ReactJS Tic-Tac-Toe (💥通过了工作面试💥)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 我想與大家分享我在之前的工作面試中的成功經驗，我被要求在面試中爲一個項目編碼。",
+      "title": "ReactJS Tic-Tac-Toe (💥通過了工作面試💥)"
+    }
+  ]
 }
