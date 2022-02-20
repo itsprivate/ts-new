@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供たちに算数を教えるために"
+    },
+    {
+      "locale": "zh",
+      "title": "教孩子们一些数学知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "教孩子們一些數學知識"
+    }
+  ]
 }
