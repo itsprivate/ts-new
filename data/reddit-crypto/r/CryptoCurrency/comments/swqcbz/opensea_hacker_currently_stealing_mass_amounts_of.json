@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OpenSeaのハッカーは現在、大量のイーサリアムを盗んでいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "OpenSea黑客目前正在窃取大量的以太币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OpenSea黑客目前正在竊取大量的以太幣"
+    }
+  ]
 }
