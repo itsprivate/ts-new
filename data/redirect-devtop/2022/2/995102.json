@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-20T07:20:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MI47ng5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tuop6mxj5ouzsmwpicl.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回は、まずTypeScriptのユーティリティ型について見ていきました。PartialとRequiredです。今回は...",
+      "title": "TypeScriptのユーティリティタイプ。ピックとオミット"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们首先了解了TypeScript的实用类型。局部和需要。我们将...",
+      "title": "TypeScript实用类型。挑选和省略"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們首先了解了TypeScript的實用類型。局部和需要。我們將...",
+      "title": "TypeScript實用類型。挑選和省略"
+    }
+  ]
 }
