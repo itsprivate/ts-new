@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女はいつもそこにいる...。"
+    },
+    {
+      "locale": "zh",
+      "title": "她总是在那里..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她總是在那裏..."
+    }
+  ]
 }
