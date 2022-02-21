@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ナイストライ"
+    },
+    {
+      "locale": "zh",
+      "title": "不错的尝试"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不錯的嘗試"
+    }
+  ]
 }
