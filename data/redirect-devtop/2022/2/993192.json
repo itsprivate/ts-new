@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-18T06:38:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zcA6kIUP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pblxcdry90ahj3pn3uqj.png",
   "author": "Cheruto",
-  "author_url": "https://dev.to/cheruto"
+  "author_url": "https://dev.to/cheruto",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データ構造とは、データを整理、処理、検索、保存するための特殊な形式です。これらは...",
+      "title": "Pythonによるデータ構造とアルゴリズム入門"
+    },
+    {
+      "locale": "zh",
+      "description": "数据结构是一种组织、处理、检索和存储数据的特殊格式。它们...",
+      "title": "使用Python的数据结构和算法介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數據結構是一種組織、處理、檢索和存儲數據的特殊格式。它們...",
+      "title": "使用Python的數據結構和算法介紹"
+    }
+  ]
 }
