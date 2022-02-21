@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-21T08:30:00Z"
+  "original_createdAt": "2022-02-21T08:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ある場所への行き方、泊まる場所、何をするかなどを決めるのに役立つウェブサイトがたくさんあります。フンボは、そもそもどこに行くかを決める手助けをします。",
+      "tagline": "旅のIMDb"
+    },
+    {
+      "locale": "zh",
+      "description": "有很多网站可以帮助你决定如何去一个地方，在哪里住宿，以及做什么。Humbo帮助你首先决定去哪里。",
+      "tagline": "旅行的IMDb"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有很多網站可以幫助你決定如何去一個地方，在哪裏住宿，以及做什麼。Humbo幫助你首先決定去哪裏。",
+      "tagline": "旅行的IMDb"
+    }
+  ]
 }
