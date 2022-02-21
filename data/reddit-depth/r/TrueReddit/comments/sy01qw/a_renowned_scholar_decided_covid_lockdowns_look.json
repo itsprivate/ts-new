@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "著名な学者がCOVIDロックダウンをナチスドイツに似ていると判断。それ以来、暴動が続いています。"
+    },
+    {
+      "locale": "zh",
+      "title": "一位著名的学者决定COVID的封锁看起来像纳粹德国。此后，其影响一直在持续。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一位著名的學者決定COVID的封鎖看起來像納粹德國。此後，其影響一直在持續。"
+    }
+  ]
 }
