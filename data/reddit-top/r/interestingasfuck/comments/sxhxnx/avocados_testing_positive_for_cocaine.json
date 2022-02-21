@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アボカドからコカインが検出される"
+    },
+    {
+      "locale": "zh",
+      "title": "鳄梨的可卡因检测呈阳性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鱷梨的可卡因檢測呈陽性"
+    }
+  ]
 }
