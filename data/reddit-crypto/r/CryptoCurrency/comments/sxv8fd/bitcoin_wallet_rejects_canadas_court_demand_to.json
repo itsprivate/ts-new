@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインウォレット、技術的に不可能であるとしてカナダ裁判所の資金凍結要求を拒否"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币钱包拒绝加拿大法院冻结资金的要求，称技术上不可能"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣錢包拒絕加拿大法院凍結資金的要求，稱技術上不可能"
+    }
+  ]
 }
