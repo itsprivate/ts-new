@@ -1,0 +1,195 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "Bogleheads",
+  "selftext": "If investors are more bearish than normal, does that mean future returns are likely to be low? After all, it seems like it could be bit of a self-fulfilling prophecy. If people are afraid of a crash, they're more likely to sell their assets, contributing to the very crash they fear. The reverse is also true: if people are bullish, they're more likely to buy-in, thus increasing asset prices.\n\nTo answer this, I've analyzed decades of [survey data](https://som.yale.edu/centers/international-center-for-finance/data/stock-market-confidence-indices/united-states) from Yale, and compared it to real returns. Yale regularly survey retail and institutional investors in the US about their expectations of future market behavior.\n\nFirst, let's take a look at historical data on *the percentage of survey respondents who* *are expecting an increase in the Dow in the coming year.* Can this percentage predict actual Dow returns for the next year? Let's see.\n\nhttps://preview.redd.it/cexby5b9d8j81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=3eb911b1bd489c7892007517af0e31a17cc2bb1a\n\nYou may think this looks a complete mess with no discernable correlation. Well that's precisely because there are none. **There is essentially no correlation between the percentage of investors who expect an increase, versus actual returns.**\n\n* Retail optimism is slightly inversely correlated with actual 1-year returns **(correlation: -0.133).**\n* Institutional optimism isn't correlated with 1-year returns whatsoever **(correlation: -0.003).**\n\nLet me clarify: this does not mean you should be a contrarian and do the opposite of what the market sentiment is. It actually means that market sentiment tells you basically nothing whatsoever about future returns. Whether lots of investors are bullish for the next year or not, does not give any indication of the 1-year forward return.\n\nSecondly, let's take a look at *the percent of investors who attach 10+% chance of a stock market crash in the next six months*. Can this percentage actually predict drawdowns within the next 6 months?\n\nhttps://preview.redd.it/i0db9xiad8j81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=60216db34f1dd8b40da362d53182997f585a61ab\n\nHere I've plotted the deepest drawdowns within six months of each survey. I've only used month-end data, so there are drawdowns that are actually lower than plotted. Also, I've not included the month-end in the month that the surveys were taken. This is why some \"drawdowns\" are actually positive. That just means that every single of the 6 months following the survey where positive.\n\n**Again, there's no meaningful correlation**\n\n* Institutional crash pessimism is very slightly correlated with 6-month forward maximum drawdown **(correlation: 0.041)**.\n* Retail crash pessimism isn't correlated with 6-month forward maximum drawdown whatsoever **(correlation: -0.003)**.\n\n**Conclusion**:\n\nStock market sentiment can't predict future returns, nor time market crashes.",
+  "author_fullname": "t2_jmbyqxxj",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Analysis: Can Market Sentiment Predict Future Returns and Crashes?",
+  "link_flair_richtext": [],
+  "subreddit_name_prefixed": "r/Bogleheads",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": null,
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "cexby5b9d8j81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/cexby5b9d8j81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=84f7779cf5f32a8f547fc62e417edfc4460051ba"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/cexby5b9d8j81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=5fa29ffbad0affda9cfedaf3b302202d526783e1"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/cexby5b9d8j81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=06a5523851875e4e22c3e8d7235d87f43348885b"
+        },
+        {
+          "y": 360,
+          "x": 640,
+          "u": "https://preview.redd.it/cexby5b9d8j81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=741311203447ac8a70991e87b6ddcc4ad861ef30"
+        },
+        {
+          "y": 540,
+          "x": 960,
+          "u": "https://preview.redd.it/cexby5b9d8j81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=94719d7fe52c4953fe84fee804176791e9a5c8af"
+        },
+        {
+          "y": 607,
+          "x": 1080,
+          "u": "https://preview.redd.it/cexby5b9d8j81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=075ce7c74d5eae064915494709bb0f840190bd4c"
+        }
+      ],
+      "s": {
+        "y": 1080,
+        "x": 1920,
+        "u": "https://preview.redd.it/cexby5b9d8j81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=3eb911b1bd489c7892007517af0e31a17cc2bb1a"
+      },
+      "id": "cexby5b9d8j81"
+    },
+    "i0db9xiad8j81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/i0db9xiad8j81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=600458055f73cbf125e271cde8a9826c4f3b9551"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/i0db9xiad8j81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=a8abb30a2ebebdda1a3ca1b205710c8de6f510e7"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/i0db9xiad8j81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=473f4eedfe3e9cbb2de6ddbc56e90682d02abd49"
+        },
+        {
+          "y": 360,
+          "x": 640,
+          "u": "https://preview.redd.it/i0db9xiad8j81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8c7f3847eab966a06ba077212fa4aef3464fa50"
+        },
+        {
+          "y": 540,
+          "x": 960,
+          "u": "https://preview.redd.it/i0db9xiad8j81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=97c06882002d8187c543f97b530ab9c044a25f2e"
+        },
+        {
+          "y": 607,
+          "x": 1080,
+          "u": "https://preview.redd.it/i0db9xiad8j81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=35f52b636de40df54c04a1bd45910812514bdad6"
+        }
+      ],
+      "s": {
+        "y": 1080,
+        "x": 1920,
+        "u": "https://preview.redd.it/i0db9xiad8j81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=60216db34f1dd8b40da362d53182997f585a61ab"
+      },
+      "id": "i0db9xiad8j81"
+    }
+  },
+  "name": "t3_sy0sne",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.96,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 18,
+  "total_awards_received": 0,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": null,
+  "can_mod_post": false,
+  "score": 18,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {},
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1645468572,
+  "link_flair_type": "text",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.Bogleheads",
+  "allow_live_comments": false,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If investors are more bearish than normal, does that mean future returns are likely to be low? After all, it seems like it could be bit of a self-fulfilling prophecy. If people are afraid of a crash, they&amp;#39;re more likely to sell their assets, contributing to the very crash they fear. The reverse is also true: if people are bullish, they&amp;#39;re more likely to buy-in, thus increasing asset prices.&lt;/p&gt;\n\n&lt;p&gt;To answer this, I&amp;#39;ve analyzed decades of &lt;a href=\"https://som.yale.edu/centers/international-center-for-finance/data/stock-market-confidence-indices/united-states\"&gt;survey data&lt;/a&gt; from Yale, and compared it to real returns. Yale regularly survey retail and institutional investors in the US about their expectations of future market behavior.&lt;/p&gt;\n\n&lt;p&gt;First, let&amp;#39;s take a look at historical data on &lt;em&gt;the percentage of survey respondents who&lt;/em&gt; &lt;em&gt;are expecting an increase in the Dow in the coming year.&lt;/em&gt; Can this percentage predict actual Dow returns for the next year? Let&amp;#39;s see.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/cexby5b9d8j81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3eb911b1bd489c7892007517af0e31a17cc2bb1a\"&gt;https://preview.redd.it/cexby5b9d8j81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3eb911b1bd489c7892007517af0e31a17cc2bb1a&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;You may think this looks a complete mess with no discernable correlation. Well that&amp;#39;s precisely because there are none. &lt;strong&gt;There is essentially no correlation between the percentage of investors who expect an increase, versus actual returns.&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Retail optimism is slightly inversely correlated with actual 1-year returns &lt;strong&gt;(correlation: -0.133).&lt;/strong&gt;&lt;/li&gt;\n&lt;li&gt;Institutional optimism isn&amp;#39;t correlated with 1-year returns whatsoever &lt;strong&gt;(correlation: -0.003).&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Let me clarify: this does not mean you should be a contrarian and do the opposite of what the market sentiment is. It actually means that market sentiment tells you basically nothing whatsoever about future returns. Whether lots of investors are bullish for the next year or not, does not give any indication of the 1-year forward return.&lt;/p&gt;\n\n&lt;p&gt;Secondly, let&amp;#39;s take a look at &lt;em&gt;the percent of investors who attach 10+% chance of a stock market crash in the next six months&lt;/em&gt;. Can this percentage actually predict drawdowns within the next 6 months?&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/i0db9xiad8j81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=60216db34f1dd8b40da362d53182997f585a61ab\"&gt;https://preview.redd.it/i0db9xiad8j81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=60216db34f1dd8b40da362d53182997f585a61ab&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Here I&amp;#39;ve plotted the deepest drawdowns within six months of each survey. I&amp;#39;ve only used month-end data, so there are drawdowns that are actually lower than plotted. Also, I&amp;#39;ve not included the month-end in the month that the surveys were taken. This is why some &amp;quot;drawdowns&amp;quot; are actually positive. That just means that every single of the 6 months following the survey where positive.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Again, there&amp;#39;s no meaningful correlation&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Institutional crash pessimism is very slightly correlated with 6-month forward maximum drawdown &lt;strong&gt;(correlation: 0.041)&lt;/strong&gt;.&lt;/li&gt;\n&lt;li&gt;Retail crash pessimism isn&amp;#39;t correlated with 6-month forward maximum drawdown whatsoever &lt;strong&gt;(correlation: -0.003)&lt;/strong&gt;.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;:&lt;/p&gt;\n\n&lt;p&gt;Stock market sentiment can&amp;#39;t predict future returns, nor time market crashes.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2shb7",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "sy0sne",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "ValueTheories",
+  "discussion_type": null,
+  "num_comments": 4,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/Bogleheads/comments/sy0sne/analysis_can_market_sentiment_predict_future/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/Bogleheads/comments/sy0sne/analysis_can_market_sentiment_predict_future/",
+  "subreddit_subscribers": 141735,
+  "created_utc": 1645485277,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1645468572,
+  "the_new_excerpt": "If investors are more bearish than normal, does that mean future returns are\nlikely to be low? After all, it seems like it could be bit of a self-fulfilling\nprophecy. If people are afraid of a crash, they're more likely to sell their\nassets, contributing to the very crash they fear. The reverse is…"
+}
