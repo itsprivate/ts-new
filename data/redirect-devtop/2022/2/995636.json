@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-20T21:12:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkwFDI3k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b8sd8sl0l54uic269mf1.jpeg",
   "author": "Aydın Akyol",
-  "author_url": "https://dev.to/biskuvit"
+  "author_url": "https://dev.to/biskuvit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsのベストUIフレームワーク この記事では、ベストなReact.jsのフレームワークをいくつかリストアップしました。",
+      "title": "開発者が知っておくべきReact JSのトップフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "最好的React.js的UI框架 在这篇文章中，我列出了一些最好的React.js框架。",
+      "title": "每个开发者都应该知道的顶级React JS框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最好的React.js的UI框架 在這篇文章中，我列出了一些最好的React.js框架。",
+      "title": "每個開發者都應該知道的頂級React JS框架"
+    }
+  ]
 }

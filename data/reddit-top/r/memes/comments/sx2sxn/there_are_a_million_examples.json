@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "事例はいくらでもあります"
+    },
+    {
+      "locale": "zh",
+      "title": "有一百万个例子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有一百萬個例子"
+    }
+  ]
 }
