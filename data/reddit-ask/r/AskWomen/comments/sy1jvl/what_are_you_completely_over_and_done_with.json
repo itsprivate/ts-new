@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完全に終わっているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你彻底结束了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你徹底結束了什麼？"
+    }
+  ]
 }
