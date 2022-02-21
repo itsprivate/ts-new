@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-20T13:15:20Z"
+  "original_createdAt": "2022-02-20T13:15:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RSS APIは、API経由でRSSフィードを簡単に扱えるようにします。今回のRSS APIのメジャーアップデートでは、バックエンドを完全に書き直し、パフォーマンスと信頼性を向上させ、詳細な統計情報を含む全く新しいダッシュボードを提供します。",
+      "tagline": "RSSフィードの登録とWebhooksによる更新情報の受信"
+    },
+    {
+      "locale": "zh",
+      "description": "RSS API使通过API处理RSS源变得尽可能简单 RSS API的这一重大更新带来了一个完全重写的后端，提高了性能和可靠性，以及一个带有详细统计数据的全新仪表板",
+      "tagline": "订阅RSS提要并通过网络钩子接收更新信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "RSS API使通過API處理RSS源變得儘可能簡單 RSS API的這一重大更新帶來了一個完全重寫的後端，提高了性能和可靠性，以及一個帶有詳細統計數據的全新儀表板",
+      "tagline": "訂閱RSS提要並通過網絡鉤子接收更新信息"
+    }
+  ]
 }

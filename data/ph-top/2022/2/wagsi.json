@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-21T08:01:00Z"
+  "original_createdAt": "2022-02-21T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WAGSIは、Polygon上に構築されたメタマスクユーザーのための定期支払いプラットフォームです。支払いページを作成して安定コインでの購読を受け入れたり、Wagsi JSコードをウェブサイトに貼り付けてコンテンツをロックしたり、Discordで有料オンラインコミュニティを作成したりすることができます。",
+      "tagline": "メタマスクユーザーの定期購読について"
+    },
+    {
+      "locale": "zh",
+      "description": "WAGSI是一个为Metamask用户建立在Polygon上的经常性支付平台。创建支付页面以接受稳定币的订阅，或将Wagsi JS代码粘贴到您的网站，以锁定内容或在Discord上创建付费在线社区。",
+      "tagline": "为Metamask用户提供重复订阅服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WAGSI是一個爲Metamask用戶建立在Polygon上的經常性支付平臺。創建支付頁面以接受穩定幣的訂閱，或將Wagsi JS代碼粘貼到您的網站，以鎖定內容或在Discord上創建付費在線社區。",
+      "tagline": "爲Metamask用戶提供重複訂閱服務"
+    }
+  ]
 }
