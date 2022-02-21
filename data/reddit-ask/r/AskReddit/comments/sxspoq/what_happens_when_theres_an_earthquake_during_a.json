@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "手術中に地震が起きたらどうなるのか、外科医の皆さんはどのような経験をお持ちですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在手术过程中发生地震时，会发生什么，外科医生们你们有什么经验？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在手術過程中發生地震時，會發生什麼，外科醫生們你們有什麼經驗？"
+    }
+  ]
 }
