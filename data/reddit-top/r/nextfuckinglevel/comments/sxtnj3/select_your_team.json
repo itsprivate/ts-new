@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チームを選択する"
+    },
+    {
+      "locale": "zh",
+      "title": "选择你的团队"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "選擇你的團隊"
+    }
+  ]
 }
