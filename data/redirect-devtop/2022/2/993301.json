@@ -35,5 +35,22 @@
   "original_created_at": "2022-02-18T09:28:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--shlAh2JN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edg8mhzdrtptd0c6uo5f.png",
   "author": "Kashu_happy",
-  "author_url": "https://dev.to/kashuhappy"
+  "author_url": "https://dev.to/kashuhappy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データ構造とは、より専門的に言えば、データ値、その接続、および...の集まりである。",
+      "title": "モダンなJavaScriptによるデータ構造とアルゴリズムの入門書。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个数据结构，在更多的技术术语中，是一个数据值的集合，它们的连接，以及...",
+      "title": "数据结构和算法介绍与现代JavaScript。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個數據結構，在更多的技術術語中，是一個數據值的集合，它們的連接，以及...",
+      "title": "數據結構和算法介紹與現代JavaScript。"
+    }
+  ]
 }

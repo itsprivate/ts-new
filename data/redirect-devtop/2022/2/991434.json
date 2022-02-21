@@ -35,5 +35,22 @@
   "original_created_at": "2022-02-16T16:20:33Z",
   "image": "https://dev.to/social_previews/article/991434.png",
   "author": "Nicolas Rocha Pereira",
-  "author_url": "https://dev.to/nicolaspereira"
+  "author_url": "https://dev.to/nicolaspereira",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発者、またはソフトウェア開発に関連する何らかの分野で働いている人であれば、...",
+      "title": "PHPか！？それは死んでいるのでは？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一名软件开发人员或在任何与软件开发有关的领域工作的人，你将能够...",
+      "title": "PHP吗！？那不是死了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一名軟件開發人員或在任何與軟件開發有關的領域工作的人，你將能夠...",
+      "title": "PHP嗎！？那不是死了嗎？"
+    }
+  ]
 }
