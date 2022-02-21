@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もが100％真実だと信じるような発言をニュースで発表することになったのですが、あなたは何と言いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以在新闻中宣布一个大家都相信是100%真实的声明，你怎么说？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以在新聞中宣佈一個大家都相信是100%真實的聲明，你怎麼說？"
+    }
+  ]
 }
