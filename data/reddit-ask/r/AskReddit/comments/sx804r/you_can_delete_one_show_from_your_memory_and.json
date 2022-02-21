@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある番組を記憶から削除して、初めてもう一度見ることができるのですが、どの番組を選んでいるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以从你的记忆中删除一个节目，然后再第一次看，你选的是什么节目？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以從你的記憶中刪除一個節目，然後再第一次看，你選的是什麼節目？"
+    }
+  ]
 }
