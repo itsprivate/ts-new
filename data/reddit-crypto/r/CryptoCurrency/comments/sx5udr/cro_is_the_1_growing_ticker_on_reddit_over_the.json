@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去3ヶ月のredditでのティッカー成長率1位はCRO"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的三个月中，CRO是reddit上增长最快的股票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的三個月中，CRO是reddit上增長最快的股票。"
+    }
+  ]
 }
