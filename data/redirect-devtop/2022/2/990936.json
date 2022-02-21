@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-16T07:11:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cnziy8NN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/etehgw8w5ll30q9zqq0y.gif",
   "author": "Emanuele Bartolesi",
-  "author_url": "https://dev.to/kasuken"
+  "author_url": "https://dev.to/kasuken",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロジェクトの概要 私たちは、このプロジェクトに参加することを目的として、このプロジェクトを開始しました。",
+      "title": "Azure Trial Hackathon - Moodflix - あなたの気分、私たちの提案"
+    },
+    {
+      "locale": "zh",
+      "description": "我们项目的概述 我们开始这个项目的目的是参与到...",
+      "title": "Azure试用黑客马拉松 - Moodflix - 你的心情，我们的建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們項目的概述 我們開始這個項目的目的是參與到...",
+      "title": "Azure試用黑客馬拉松 - Moodflix - 你的心情，我們的建議"
+    }
+  ]
 }
