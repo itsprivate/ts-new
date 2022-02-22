@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、誰もが死んだ後に「ライフスタッツ」を見ることができるとしたら、最初に何をチェックしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果每个人死后都能看到 \"生命统计\"，你会首先检查什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果每個人死後都能看到 \"生命統計\"，你會首先檢查什麼？"
+    }
+  ]
 }
