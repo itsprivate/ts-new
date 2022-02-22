@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明日は、Twosday（2/22(火)）という非公式な日です。皆さんのご予定はいかがでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "明天，是被称为Twosday（2/22/22，星期二）的非官方日子。你有什么计划？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "明天，是被稱爲Twosday（2/22/22，星期二）的非官方日子。你有什麼計劃？"
+    }
+  ]
 }
