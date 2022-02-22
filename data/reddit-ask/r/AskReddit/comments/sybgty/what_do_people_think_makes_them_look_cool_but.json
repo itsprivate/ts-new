@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人は、自分をかっこよく見せようと思っても、実は嫌な奴に見えてしまうものなのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "人们认为什么使他们看起来很酷，但实际上使他们看起来像个混蛋？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人們認爲什麼使他們看起來很酷，但實際上使他們看起來像個混蛋？"
+    }
+  ]
 }

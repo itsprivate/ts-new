@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドント・フォーゲット"
+    },
+    {
+      "locale": "zh",
+      "title": "不要忘记"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要忘記"
+    }
+  ]
 }
