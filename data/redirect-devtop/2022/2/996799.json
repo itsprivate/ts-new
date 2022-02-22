@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-21T20:57:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OQjGcFac--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sns4ct0bi6wuqp27vj3h.png",
   "author": "Temani Afif",
-  "author_url": "https://dev.to/afif"
+  "author_url": "https://dev.to/afif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドラゴンボールの世界から、また新たなCSSアートが誕生しました。これは、何も必要ないと思います。",
+      "title": "超サイヤ人CSSアート!"
+    },
+    {
+      "locale": "zh",
+      "description": "然而，另一个来自龙珠世界的CSS艺术。我认为这个人不需要任何...",
+      "title": "一个超级赛亚人的CSS艺术!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "然而，另一個來自龍珠世界的CSS藝術。我認爲這個人不需要任何...",
+      "title": "一個超級賽亞人的CSS藝術!"
+    }
+  ]
 }
