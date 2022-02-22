@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界最高のパフォーマンス"
+    },
+    {
+      "locale": "zh",
+      "title": "世界上最好的表演者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世界上最好的表演者"
+    }
+  ]
 }
