@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-20T08:21:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hByMOOr3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94rc0z7i6o8u12e0cw4q.jpeg",
   "author": "Wojciech Matuszewski",
-  "author_url": "https://dev.to/wojciechmatuszewski"
+  "author_url": "https://dev.to/wojciechmatuszewski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Amazon CloudWatch Logsのコストは、すぐに手に負えなくなります。ここでは、その救済策をご紹介します。",
+      "title": "AWS Lambda Amazon CloudWatch Logsのコスト削減について"
+    },
+    {
+      "locale": "zh",
+      "description": "亚马逊CloudWatch日志的成本很快就会失控。这里是补救措施。",
+      "title": "节省AWS Lambda亚马逊CloudWatch日志的费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "亞馬遜CloudWatch日誌的成本很快就會失控。這裏是補救措施。",
+      "title": "節省AWS Lambda亞馬遜CloudWatch日誌的費用"
+    }
+  ]
 }
