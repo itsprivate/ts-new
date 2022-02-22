@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-22T18:01:05Z"
+  "original_createdAt": "2022-02-22T18:01:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モダンエラートラッカー 完全なオープンソース。多くの統合が可能です。ついに、私たちはやり遂げました Editor.jsのクリエーターによって作られた",
+      "tagline": "オープンソースのエラートラッカー"
+    },
+    {
+      "locale": "zh",
+      "description": "现代错误追踪器。完全开放源代码。有许多集成可供选择。最后，我们做到了! 由Editor.js的创建者制作",
+      "tagline": "开源错误追踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現代錯誤追蹤器。完全開放源代碼。有許多集成可供選擇。最後，我們做到了! 由Editor.js的創建者製作",
+      "tagline": "開源錯誤追蹤器"
+    }
+  ]
 }
