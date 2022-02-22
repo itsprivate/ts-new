@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-21T13:49:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H7x-Tp9I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bru3yqbpnvuv0ilosfmn.jpg",
   "author": "ThemeSelection",
-  "author_url": "https://dev.to/theme_selection"
+  "author_url": "https://dev.to/theme_selection",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フルスタックWeb開発者としてのキャリアを追求しませんか？そのために必要なスキルは以下の通りです。",
+      "title": "フルスタックデベロッパースキルリスト👨💻。"
+    },
+    {
+      "locale": "zh",
+      "description": "想从事全栈式网络开发的职业吗？那么，这里有你要去的技能...",
+      "title": "全栈开发人员技能列表👨💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想從事全棧式網絡開發的職業嗎？那麼，這裏有你要去的技能...",
+      "title": "全棧開發人員技能列表👨💻"
+    }
+  ]
 }
