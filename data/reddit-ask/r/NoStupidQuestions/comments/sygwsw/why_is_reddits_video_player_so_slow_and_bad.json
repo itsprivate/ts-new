@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Sometimes it'll literally take like 10 seconds just to load a 144p 24 fps video.\nAnd why do videos have to pause when scrolling on browser?"
+  "the_new_excerpt": "Sometimes it'll literally take like 10 seconds just to load a 144p 24 fps video.\nAnd why do videos have to pause when scrolling on browser?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "144p 24fpsの動画を読み込むだけで、文字通り10秒くらいかかることがあります。\nまた、ブラウザでスクロールする際に、なぜ動画が一時停止するのでしょうか？",
+      "title": "なぜredditのビデオプレーヤーはこんなに遅くて悪いんだ。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有时，仅仅加载一个144p 24帧的视频就需要10秒钟。\n还有，为什么在浏览器上滚动时视频要暂停？",
+      "title": "为什么reddit的视频播放器如此缓慢和糟糕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有時，僅僅加載一個144p 24幀的視頻就需要10秒鐘。\n還有，爲什麼在瀏覽器上滾動時視頻要暫停？",
+      "title": "爲什麼reddit的視頻播放器如此緩慢和糟糕。"
+    }
+  ]
 }
