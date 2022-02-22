@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-21T11:29:44Z"
+  "original_createdAt": "2022-02-21T11:29:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "grouppage.appは、テレグラムやWhatsappのグループコミュニティで、ミートアップ、イベント、情報を1つのシンプルなリンクで組織する方法を提供します。🔗プロフィールが設定されたら、グループチャットの説明欄にリンクを設置し、メンバーが簡単に見つけられるようにしましょう。",
+      "tagline": "テレグラムやWhatsappのグループでイベントや情報を整理することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "grouppage.app提供了一种方法，在一个简单的链接上与你的Telegram或Whatsapp小组社区组织聚会、活动和信息。🔗 一旦你的个人资料设置完毕，将链接放在你的群组聊天描述部分，以便成员可以轻松找到它。",
+      "tagline": "与你的Telegram、Whatsapp群组一起组织活动和信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "grouppage.app提供了一種方法，在一個簡單的鏈接上與你的Telegram或Whatsapp小組社區組織聚會、活動和信息。🔗 一旦你的個人資料設置完畢，將鏈接放在你的羣組聊天描述部分，以便成員可以輕鬆找到它。",
+      "tagline": "與你的Telegram、Whatsapp羣組一起組織活動和信息"
+    }
+  ]
 }
