@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-21T19:13:10Z"
+  "original_createdAt": "2022-02-21T19:13:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Convoyは、オープンソースのWebhooksサービスです。Webhooksの断片的な実装をファーストクラスでサポートすることができます。私たちは、サイドプロジェクトからIPOまで、Webhooksのイベントを公開するためのインフラを構築しています。",
+      "tagline": "オープンソースのWebhooks基盤"
+    },
+    {
+      "locale": "zh",
+      "description": "Convoy是一个开源的webhooks服务。它为webhooks的几个零散的实现带来了一流的支持。我们正在建立一个webhooks基础设施，以帮助你发布从副业到IPO的webhook事件。",
+      "tagline": "开源的webhooks基础设施"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Convoy是一個開源的webhooks服務。它爲webhooks的幾個零散的實現帶來了一流的支持。我們正在建立一個webhooks基礎設施，以幫助你發佈從副業到IPO的webhook事件。",
+      "tagline": "開源的webhooks基礎設施"
+    }
+  ]
 }
