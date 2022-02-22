@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm calling bs on that stat, unless it's going off of imperial calories or\nsomething"
+  "the_new_excerpt": "I'm calling bs on that stat, unless it's going off of imperial calories or\nsomething",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この統計は、帝国カロリーとかでない限り、嘘だと思います。\n何か",
+      "title": "アメリカ人の平均摂取カロリーが3600ってどうよ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我认为这个统计数字是错误的，除非它是根据帝国的卡路里或其他东西来计算的。\n某种东西",
+      "title": "美国人的平均卡路里摄入量是怎样的3600？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我認爲這個統計數字是錯誤的，除非它是根據帝國的卡路里或其他東西來計算的。\n某種東西",
+      "title": "美國人的平均卡路里攝入量是怎樣的3600？"
+    }
+  ]
 }
