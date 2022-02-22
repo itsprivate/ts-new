@@ -41,5 +41,22 @@
   "original_created_at": "2022-02-21T10:40:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x41eUWnB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x8hamymq961l53ghobd5.jpg",
   "author": "Daniel Schulz",
-  "author_url": "https://dev.to/iamschulz"
+  "author_url": "https://dev.to/iamschulz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSは、スタイルシステムに特化した専門性の高いプログラミング言語である。そのため",
+      "title": "CSSでロジックを記述する"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS是一种高度专业化的编程语言，专注于样式系统。由于这种独特的风格系统，它是一种高度专业化的编程语言。",
+      "title": "在CSS中编写逻辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS是一種高度專業化的編程語言，專注於樣式系統。由於這種獨特的風格系統，它是一種高度專業化的編程語言。",
+      "title": "在CSS中編寫邏輯"
+    }
+  ]
 }
