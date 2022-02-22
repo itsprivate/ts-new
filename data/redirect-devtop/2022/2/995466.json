@@ -41,5 +41,22 @@
   "original_created_at": "2022-02-20T16:32:43Z",
   "image": "https://dev.to/social_previews/article/995466.png",
   "author": "Ary Borenszweig",
-  "author_url": "https://dev.to/asterite"
+  "author_url": "https://dev.to/asterite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "完璧なAPIを設計する 前回は、Rubyのメソッドコールがどのように...",
+      "title": "私がRubyを好きな理由（その4）"
+    },
+    {
+      "locale": "zh",
+      "description": "设计完美的API 在上一部分中，我谈到了在Ruby中方法调用是怎样的。",
+      "title": "我为什么爱红宝石（第四部分）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計完美的API 在上一部分中，我談到了在Ruby中方法調用是怎樣的。",
+      "title": "我爲什麼愛紅寶石（第四部分）"
+    }
+  ]
 }
