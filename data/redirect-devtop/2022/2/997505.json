@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-22T13:58:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5nvOsUc6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uktxxejyfs0n3dadb7lc.png",
   "author": "Alex Barashkov",
-  "author_url": "https://dev.to/alex_barashkov"
+  "author_url": "https://dev.to/alex_barashkov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ギャツビーとNext.jsは、一見するとほとんど同じに見えるかもしれません。どちらもReactベースの...",
+      "title": "Webサイト開発におけるギャツビーとNext.jsの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "Gatsby和Next.js，从第一眼看去，可以说是大同小异。两者都是基于React的...",
+      "title": "比较用于网站开发的Gatsby和Next.js"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gatsby和Next.js，從第一眼看去，可以說是大同小異。兩者都是基於React的...",
+      "title": "比較用於網站開發的Gatsby和Next.js"
+    }
+  ]
 }
