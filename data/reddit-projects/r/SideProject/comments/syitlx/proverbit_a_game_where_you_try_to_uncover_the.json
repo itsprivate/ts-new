@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ProverbIt - 単語を推測して秘密の英語のことわざを暴くゲームです。"
+    },
+    {
+      "locale": "zh",
+      "title": "ProverbIt - 一个通过猜测单词来揭开秘密英语谚语的游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ProverbIt - 一個通過猜測單詞來揭開祕密英語諺語的遊戲。"
+    }
+  ]
 }

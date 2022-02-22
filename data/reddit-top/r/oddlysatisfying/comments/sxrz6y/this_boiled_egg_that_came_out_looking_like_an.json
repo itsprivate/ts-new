@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このゆで卵、宇宙飛行士が腕を振っているような姿で出てきました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个煮熟的鸡蛋，出来时看起来像宇航员在挥动手臂。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個煮熟的雞蛋，出來時看起來像宇航員在揮動手臂。"
+    }
+  ]
 }
