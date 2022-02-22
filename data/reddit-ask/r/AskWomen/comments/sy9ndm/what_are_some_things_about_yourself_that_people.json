@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分自身について、人から嫌な思いをさせられたことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "关于你自己，有哪些事情是人们曾试图让你感到难过的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於你自己，有哪些事情是人們曾試圖讓你感到難過的？"
+    }
+  ]
 }
