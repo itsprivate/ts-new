@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"全てのビットコイン・クランクが預言者であることを証明する抗議である \"なんて、まだ信じられないよ。そして、私は謙虚なパイを切り、西洋民主主義における暗号の基本的な必要性について間違っていたことを認めなければならないのです。デイヴィッド・ハイネマイヤー・ハンソン - Ruby on Railsの生みの親"
+    },
+    {
+      "locale": "zh",
+      "title": "\"我仍然无法相信，这就是能证明每个比特币崇拜者都是先知的抗议。而我不得不切下一块谦卑的馅饼，承认我对加密货币在西方民主国家的根本必要性的看法是错误的。\" David Heinemeier Hansson - Ruby on Rails的创造者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我仍然無法相信，這就是能證明每個比特幣崇拜者都是先知的抗議。而我不得不切下一塊謙卑的餡餅，承認我對加密貨幣在西方民主國家的根本必要性的看法是錯誤的。\" David Heinemeier Hansson - Ruby on Rails的創造者"
+    }
+  ]
 }
