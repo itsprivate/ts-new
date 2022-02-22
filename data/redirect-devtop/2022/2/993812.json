@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-18T17:17:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SpgF7eJC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lxhjc1tvv3bpiql3zoag.jpg",
   "author": "m0nm",
-  "author_url": "https://dev.to/m0nm"
+  "author_url": "https://dev.to/m0nm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "状態管理にuseStateフックを使うのはよく見かけますが、Reactにはもう一つ状態管理にuseStateフックを使うものがあります。",
+      "title": "useStateとuseReducerの比較。これらは何ですか、そしていつ使うのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "人们经常看到useState钩子用于状态管理，然而React也有另一个钩子用于状态管理。",
+      "title": "useState vs useReducer。它们是什么，何时使用它们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "人們經常看到useState鉤子用於狀態管理，然而React也有另一個鉤子用於狀態管理。",
+      "title": "useState vs useReducer。它們是什麼，何時使用它們？"
+    }
+  ]
 }
