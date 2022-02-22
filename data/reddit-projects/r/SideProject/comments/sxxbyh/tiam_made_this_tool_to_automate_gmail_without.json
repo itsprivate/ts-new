@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[TIAM] キーボードから離れず、タブを切り替えることなく、Gmailを自動化するツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "[TIAM]做了这个工具来自动化Gmail，不用离开我的键盘或切换标签。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[TIAM]做了這個工具來自動化Gmail，不用離開我的鍵盤或切換標籤。"
+    }
+  ]
 }
