@@ -150,5 +150,22 @@
     "retweet_count": 304,
     "favorite_count": 2470,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Excellion: \"ミーム #ビットコインボンド\"\n\n最初は無視され、次に笑われ... https://t.co/JiNdoJJpYN",
+      "retweeted_status_full_text": "\"ミーム #ビットコインボンド\"\n\n最初は無視され、次に笑われ... https://t.co/JiNdoJJpYN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Excellion: \"Meme #Bitcoin Bond\"\n\n首先他们无视你，然后他们嘲笑你... https://t.co/JiNdoJJpYN",
+      "retweeted_status_full_text": "\"备忘录#比特币债券\"\n\n首先他们无视你，然后他们嘲笑你... https://t.co/JiNdoJJpYN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Excellion: \"Meme #Bitcoin Bond\"\n\n首先他們無視你，然後他們嘲笑你... https://t.co/JiNdoJJpYN",
+      "retweeted_status_full_text": "\"備忘錄#比特幣債券\"\n\n首先他們無視你，然後他們嘲笑你... https://t.co/JiNdoJJpYN"
+    }
+  ]
 }

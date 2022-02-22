@@ -52,5 +52,22 @@
     },
     "retweet_count": 6574,
     "favorite_count": 19434
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AlisonNeri1: 速報！モデナやファイザーの株価が下がっているのは、VAERSやDMED、あるいは覆された情報公開法75条のせいでもない。",
+      "retweeted_status_full_text": "VAERSやDMEDのせいでも、FOI 75モラトリアムが覆されたせいでもなく、保険データのせいなのです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AlisonNeri1: 突发新闻是Moderna和辉瑞的股票价格下跌，不是因为VAERS，或DMED，甚至是被推翻的FOI 75M。",
+      "retweeted_status_full_text": "爆炸性新闻是Moderna和辉瑞的股票价格下跌，不是因为VAERS，或DMED，甚至是被推翻的FOI 75暂停令--而是由于保险数据--金钱交易--人们正在出售。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AlisonNeri1: 突發新聞是Moderna和輝瑞的股票價格下跌，不是因爲VAERS，或DMED，甚至是被推翻的FOI 75M。",
+      "retweeted_status_full_text": "爆炸性新聞是Moderna和輝瑞的股票價格下跌，不是因爲VAERS，或DMED，甚至是被推翻的FOI 75暫停令--而是由於保險數據--金錢交易--人們正在出售。"
+    }
+  ]
 }

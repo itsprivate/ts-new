@@ -134,5 +134,22 @@
     "retweet_count": 6120,
     "favorite_count": 10417,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ezralevant: パペットマスター。https://t.co/ZhVax3fpeb",
+      "retweeted_status_full_text": "パペットマスター https://t.co/ZhVax3fpeb"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ezralevant: 木偶大师。https://t.co/ZhVax3fpeb",
+      "retweeted_status_full_text": "木偶大师。https://t.co/ZhVax3fpeb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ezralevant: 木偶大師。https://t.co/ZhVax3fpeb",
+      "retweeted_status_full_text": "木偶大師。https://t.co/ZhVax3fpeb"
+    }
+  ]
 }
