@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey everyone! I'd like to introduce you my current Android project - a simple,\nbut useful Shopping list/ToDo app.\n\nBesides other features, I recently implemented live synchronization between\naccounts. That means any change made to a list will instantly appear on both\ndevices.\n\nAnother great feature…"
+  "the_new_excerpt": "Hey everyone! I'd like to introduce you my current Android project - a simple,\nbut useful Shopping list/ToDo app.\n\nBesides other features, I recently implemented live synchronization between\naccounts. That means any change made to a list will instantly appear on both\ndevices.\n\nAnother great feature…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。今回は、私の現在のAndroidプロジェクトを紹介したいと思います。\nショッピングリスト/ToDoアプリです。\n\n最近、他の機能に加えて、ショッピングリストとToDoのライブ同期を実装しました。\nアカウントになります。つまり、リストに変更を加えると、即座に両方のアカウントに表示されます。\nを使用します。\n\nもうひとつの大きな特徴...",
+      "title": "ライブシンクとリマインダーを備えた買い物リスト＆To Doアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好! 我想向你们介绍我目前的安卓项目--一个简单但有用的购物清单/待办事项应用程序。\n但很有用的购物清单/待办事项应用程序。\n\n除了其他功能，我最近还实现了账户之间的实时同步。\n账户之间的实时同步。这意味着对清单的任何改变都会立即出现在两个\n设备上。\n\n另一个伟大的功能是...",
+      "title": "我建立了一个具有实时同步和提醒功能的购物清单&amp; To Do应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好! 我想向你們介紹我目前的安卓項目--一個簡單但有用的購物清單/待辦事項應用程序。\n但很有用的購物清單/待辦事項應用程序。\n\n除了其他功能，我最近還實現了賬戶之間的實時同步。\n賬戶之間的實時同步。這意味着對清單的任何改變都會立即出現在兩個\n設備上。\n\n另一個偉大的功能是...",
+      "title": "我建立了一個具有實時同步和提醒功能的購物清單&amp; To Do應用程序。"
+    }
+  ]
 }
