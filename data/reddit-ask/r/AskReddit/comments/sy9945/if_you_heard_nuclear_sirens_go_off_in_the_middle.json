@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、夜中に核のサイレンが鳴ったとしたら、あなたはどう反応しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你在半夜听到核警报器响起，你会有什么反应？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你在半夜聽到核警報器響起，你會有什麼反應？"
+    }
+  ]
 }
