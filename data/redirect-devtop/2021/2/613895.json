@@ -50,5 +50,17 @@
   "original_created_at": "2021-02-21T20:49:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--spd8pWs5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aijo3fdxgu3ho7koipov.gif",
   "author": "Hamed Baatour",
-  "author_url": "https://dev.to/hamedbaatour"
+  "author_url": "https://dev.to/hamedbaatour",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "说实话，很多开发者都讨厌使用CSS，因为：你必须尝试大量的CSS...",
+      "title": "讨厌CSS？用这个扩展来代替"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "說實話，很多開發者都討厭使用CSS，因爲：你必須嘗試大量的CSS...",
+      "title": "討厭CSS？用這個擴展來代替"
+    }
+  ]
 }
