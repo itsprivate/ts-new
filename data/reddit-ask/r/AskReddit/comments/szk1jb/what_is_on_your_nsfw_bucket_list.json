@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのNSFWバケットリストには何がありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的NSFW遗愿清单上有什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的NSFW遺願清單上有什麼？"
+    }
+  ]
 }
