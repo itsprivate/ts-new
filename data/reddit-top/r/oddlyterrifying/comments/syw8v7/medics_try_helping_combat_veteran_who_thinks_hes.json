@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まだ戦争中だと思っている退役軍人を助けようとするメディック。"
+    },
+    {
+      "locale": "zh",
+      "title": "医护人员试图帮助那些认为自己仍在战争中的作战老兵。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醫護人員試圖幫助那些認爲自己仍在戰爭中的作戰老兵。"
+    }
+  ]
 }
