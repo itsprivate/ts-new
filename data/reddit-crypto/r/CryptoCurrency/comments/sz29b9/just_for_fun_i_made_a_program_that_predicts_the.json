@@ -1,0 +1,62 @@
+{
+  "author": "haddock420",
+  "original_created_utc": 1645573758,
+  "title": "Just for fun, I made a program that predicts the price of bitcoin",
+  "created_utc": 1645598343,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I was bored trying to think of a python program to write and I decided to write a bitcoin predicting program.&lt;/p&gt;\n\n&lt;p&gt;How it works is it looks at the price graph for the last N (cycling through different values of N) days then tries to find the time the most similar pattern in price occurred in the past to the current pattern, then predicts the price based on what happened after that previous pattern occurred.&lt;/p&gt;\n\n&lt;p&gt;This is probably worthless and won&amp;#39;t be an accurate reflection of the future price at all, but just for fun, here&amp;#39;s what it says about the next few years of bitcoin.&lt;/p&gt;\n\n&lt;p&gt;It says that the current pattern we&amp;#39;re in is reminiscent of 2018-01-06.&lt;/p&gt;\n\n&lt;p&gt;On the graph, the left side of the green line is the recent price history (red line) and historical price history from 2018-01-06 (blue line), and right of the green line, the future price (red line) is modelled after the price history from 2018. The y-axis numbers on the left are the recent/future price and the y-axis numbers on the right are the historical prices from 2018.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;90-day prediction:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Graph: &lt;a href=\"https://i.imgur.com/gyQu523.png\"&gt;https://i.imgur.com/gyQu523.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Peak: 2022-02-24 $41,030.37&lt;/p&gt;\n\n&lt;p&gt;Bottom: 2022-04-19 $24,538.98&lt;/p&gt;\n\n&lt;p&gt;Final: 2022-05-21 $34,227.86&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;1-year prediction:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Graph: &lt;a href=\"https://i.imgur.com/1MZjLFX.png\"&gt;https://i.imgur.com/1MZjLFX.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Peak: 2022-02-24 $41,030.37&lt;/p&gt;\n\n&lt;p&gt;Bottom: 2022-10-06 $13,340.72&lt;/p&gt;\n\n&lt;p&gt;Final: 2023-02-20 $22,262.68&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;(just under) 3-year prediction:&lt;/strong&gt; (falls just short of 3 years, I think because it doesn&amp;#39;t have enough data)&lt;/p&gt;\n\n&lt;p&gt;Graph: &lt;a href=\"https://i.imgur.com/m76ks2c.png\"&gt;https://i.imgur.com/m76ks2c.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Peak: 2025-08-30 $282,899.62&lt;/p&gt;\n\n&lt;p&gt;Bottom: 2022-10-06 $13,340.72&lt;/p&gt;\n\n&lt;p&gt;Final: 2025-12-13 $155,385.66&lt;/p&gt;\n\n&lt;p&gt;So there you have it. Just a bit of entertainment. Don&amp;#39;t go investing based on this. I&amp;#39;m gonna keep track and see how successful its predictions were.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 342,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?auto=webp&amp;s=cca1eaa29966fbe50f3da7b57248020095b3ebc2",
+          "width": 1920,
+          "height": 1080
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=1e08400a539ddc0ab025abbc6a4e9579553838e9",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8a759e1615bf078411b5ebe2d22d2564c38dca44",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=67812086d06c87f04ef802554c2a537aaf30413f",
+            "width": 320,
+            "height": 180
+          },
+          {
+            "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f54121b4e0e74dd16b8dc298b88f4677344ecab7",
+            "width": 640,
+            "height": 360
+          },
+          {
+            "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=39c3aa08d467229394093fc8bdb260aa0dc9b739",
+            "width": 960,
+            "height": 540
+          },
+          {
+            "url": "https://external-preview.redd.it/B9q6m4OdzXoqwrCYERNdFVjIPgMKL8_OblSGVZtWTCk.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=da266af7c23ec2783af67b317413123bbb995433",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "fW-GvnoYMsmd_PG6XZoX8zNOltrWzQ-M9i8zPyDVbqQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/sz29b9/just_for_fun_i_made_a_program_that_predicts_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "sz29b9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "I was bored trying to think of a python program to write and I decided to write\na bitcoin predicting program.\n\nHow it works is it looks at the price graph for the last N (cycling through\ndifferent values of N) days then tries to find the time the most similar pattern\nin price occurred in the past…"
+}
