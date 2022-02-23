@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は利益を得るためにビットコインに来たが、革命のために滞在するつもりだ。私はCBDCにNOと言うでしょう"
+    },
+    {
+      "locale": "zh",
+      "title": "我来到比特币是为了收益，但我将为革命而留下来。我将对CBDC说不!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我來到比特幣是爲了收益，但我將爲革命而留下來。我將對CBDC說不!"
+    }
+  ]
 }
