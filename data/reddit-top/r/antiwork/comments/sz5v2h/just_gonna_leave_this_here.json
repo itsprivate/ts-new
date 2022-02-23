@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここに置いておくよ"
+    },
+    {
+      "locale": "zh",
+      "title": "只是要把这个留在这里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是要把這個留在這裏"
+    }
+  ]
 }
