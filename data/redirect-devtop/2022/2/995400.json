@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-20T14:41:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v72sHzi9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/zMh5LEI.png",
   "author": "arnu515",
-  "author_url": "https://dev.to/arnu515"
+  "author_url": "https://dev.to/arnu515",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいフルスタックJavaScriptフレームワークであるRedwoodJSを使って、人気ソーシャルメディアサイトRedditのクローンを作成する方法をご紹介します。",
+      "title": "RedwoodJSでRedditクローンを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何用RedwoodJS--一个新的全栈式javascript框架来克隆流行的社交媒体网站Reddit",
+      "title": "用RedwoodJS创建一个克隆的Reddit"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何用RedwoodJS--一個新的全棧式javascript框架來克隆流行的社交媒體網站Reddit",
+      "title": "用RedwoodJS創建一個克隆的Reddit"
+    }
+  ]
 }
