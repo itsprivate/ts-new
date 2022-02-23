@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was bored trying to think of a python program to write and I decided to write\na bitcoin predicting program.\n\nHow it works is it looks at the price graph for the last N (cycling through\ndifferent values of N) days then tries to find the time the most similar pattern\nin price occurred in the past…"
+  "the_new_excerpt": "I was bored trying to think of a python program to write and I decided to write\na bitcoin predicting program.\n\nHow it works is it looks at the price graph for the last N (cycling through\ndifferent values of N) days then tries to find the time the most similar pattern\nin price occurred in the past…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Pythonのプログラムを書くことを考えるのに退屈していた私は、書くことにしました。\nビットコインの予測プログラムです。\n\nこのプログラムの仕組みは、過去N年間（周期的に）の価格グラフを見ることで\nNの異なる値）、そして最も類似したパターンの時間を見つけようとします。\nというようなことが過去にありました。",
+      "title": "お遊びで、ビットコインの価格を予測するプログラムを作ってみました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我很无聊，想写一个python程序，我决定写一个\n一个预测比特币的程序。\n\n它的工作原理是，它查看过去N天的价格图（通过不同的N值循环），然后试图找到摩根的时间。\n不同的N值），然后试图找到过去最相似的价格模式的时间\n在过去发生的价格...",
+      "title": "只是为了好玩，我做了一个预测比特币价格的程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我很無聊，想寫一個python程序，我決定寫一個\n一個預測比特幣的程序。\n\n它的工作原理是，它查看過去N天的價格圖（通過不同的N值循環），然後試圖找到摩根的時間。\n不同的N值），然後試圖找到過去最相似的價格模式的時間\n在過去發生的價格...",
+      "title": "只是爲了好玩，我做了一個預測比特幣價格的程序"
+    }
+  ]
 }
