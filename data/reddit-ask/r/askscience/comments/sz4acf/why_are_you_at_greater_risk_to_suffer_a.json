@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I just learned this fact. Why is this?"
+  "the_new_excerpt": "I just learned this fact. Why is this?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この事実は今知りました。なぜでしょう？",
+      "title": "なぜ、1回目から脳震盪を起こすリスクが高くなるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚了解到这个事实。这是为什么呢？",
+      "title": "为什么在第一次发生脑震荡后，你会有更大的风险？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛瞭解到這個事實。這是爲什麼呢？",
+      "title": "爲什麼在第一次發生腦震盪後，你會有更大的風險？"
+    }
+  ]
 }
