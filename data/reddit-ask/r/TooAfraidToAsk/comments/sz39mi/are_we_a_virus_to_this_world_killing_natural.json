@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは、この世界にとってウイルスなのか？自然環境の破壊、戦争、飢餓、気候変動......。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们是这个世界的病毒吗？杀害自然栖息地、战争、饥荒、气候变化 ....."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們是這個世界的病毒嗎？殺害自然棲息地、戰爭、饑荒、氣候變化 ....."
+    }
+  ]
 }
