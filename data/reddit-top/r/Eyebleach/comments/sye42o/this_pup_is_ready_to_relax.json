@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この子犬はリラックスする準備ができています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只小狗已经准备好放松。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻小狗已經準備好放鬆。"
+    }
+  ]
 }

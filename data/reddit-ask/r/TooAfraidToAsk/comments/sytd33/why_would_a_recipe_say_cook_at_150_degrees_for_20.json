@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レシピに「300度で10分加熱」ではなく、「150度で20分加熱」と書かれているのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么食谱上说 \"在150度下煮20分钟 \"而不是 \"在300度下煮10分钟\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼食譜上說 \"在150度下煮20分鐘 \"而不是 \"在300度下煮10分鐘\"？"
+    }
+  ]
 }
