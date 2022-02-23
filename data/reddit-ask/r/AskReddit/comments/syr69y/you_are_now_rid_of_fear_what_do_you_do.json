@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは今、恐怖から解放されましたが、何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在已经摆脱了恐惧，你要做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在已經擺脫了恐懼，你要做什麼？"
+    }
+  ]
 }
