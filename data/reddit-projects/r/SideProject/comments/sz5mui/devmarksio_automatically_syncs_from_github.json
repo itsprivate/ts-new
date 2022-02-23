@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "devmarks.io - GitHub、Twitter、Hacker News、Pinboard.inから自動的に同期する"
+    },
+    {
+      "locale": "zh",
+      "title": "devmarks.io - 从GitHub、Twitter、Hacker News和Pinboard.in自动同步。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "devmarks.io - 從GitHub、Twitter、Hacker News和Pinboard.in自動同步。"
+    }
+  ]
 }
