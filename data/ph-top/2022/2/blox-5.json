@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-23T08:39:05Z"
+  "original_createdAt": "2022-02-23T08:39:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "bloxは、開発者が記録的な速さでTailwind CSS UIを構築することを可能にするVS Codeエクステンションです。1500以上のアクセシブル、クロスブラウザ、レスポンシブコンポーネントを利用でき、Angular、React、Vue、Alpine、Svelte、Laravelに対応しています。",
+      "tagline": "美しく作り込まれたTailwind CSS UIコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "blox是一个VS代码扩展，使开发人员能够在创纪录的时间内建立Tailwind CSS用户界面。有1500多个可访问、跨浏览器和响应式组件，支持Angular、React、Vue、Alpine、Svelte和Laravel。",
+      "tagline": "精心制作的Tailwind CSS用户界面组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "blox是一個VS代碼擴展，使開發人員能夠在創紀錄的時間內建立Tailwind CSS用戶界面。有1500多個可訪問、跨瀏覽器和響應式組件，支持Angular、React、Vue、Alpine、Svelte和Laravel。",
+      "tagline": "精心製作的Tailwind CSS用戶界面組件"
+    }
+  ]
 }
