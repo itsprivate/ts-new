@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-490417/social"
+  "image": "https://images.wsj.net/im-490417/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシア・ウクライナ危機の最新情報"
+    },
+    {
+      "locale": "zh",
+      "title": "关于俄乌危机的最新消息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於俄烏危機的最新消息"
+    }
+  ]
 }
