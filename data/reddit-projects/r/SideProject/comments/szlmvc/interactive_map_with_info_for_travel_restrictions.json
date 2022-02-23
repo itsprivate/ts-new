@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界各地の渡航制限、封じ込め対策、予防接種情報などのインタラクティブマップ。"
+    },
+    {
+      "locale": "zh",
+      "title": "互动地图上有全球各地的旅行限制、遏制措施和疫苗接种信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "互動地圖上有全球各地的旅行限制、遏制措施和疫苗接種信息。"
+    }
+  ]
 }
