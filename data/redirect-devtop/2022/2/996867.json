@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-21T22:59:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v8UxkuNY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jkqrspa8x2guxgpprikb.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIをモックすることは、フロントエンドアプリを先に構築したい場合や、他のチームにその部分の完成を任せたい場合などに有効なアプローチです。以下は、C#と最小限のAPIでモックを構築する方法です。 ",
+      "title": "ASP .NETと最小限のAPIでJSONベースのモックREST APIを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想先建立前端应用，或者依靠其他团队完成他们的部分，模拟API可以是一个很好的方法。下面是你如何用C#和最小的API建立一个API的方法  ",
+      "title": "你如何为ASP .NET和最小的API建立一个基于JSON的Mock REST API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想先建立前端應用，或者依靠其他團隊完成他們的部分，模擬API可以是一個很好的方法。下面是你如何用C#和最小的API建立一個API的方法  ",
+      "title": "你如何爲ASP .NET和最小的API建立一個基於JSON的Mock REST API？"
+    }
+  ]
 }

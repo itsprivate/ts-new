@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "近い将来、または遠い将来に起こることを恐れていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你害怕在近期或远期发生的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你害怕在近期或遠期發生的事情是什麼？"
+    }
+  ]
 }
