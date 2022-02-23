@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-22T02:31:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y-kzbw-3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7cfetz421z319cbp2sa.png",
   "author": "Caleb Weeks",
-  "author_url": "https://dev.to/sethcalebweeks"
+  "author_url": "https://dev.to/sethcalebweeks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "reduce配列法は、mapやfilterと一緒に紹介されることが多いのですが、それだけ強力な...",
+      "title": "リデュースのさまざまな使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "减少数组方法经常与map和filter一起被介绍，但它是一个如此强大的...",
+      "title": "减少的许多用途"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "減少數組方法經常與map和filter一起被介紹，但它是一個如此強大的...",
+      "title": "減少的許多用途"
+    }
+  ]
 }
