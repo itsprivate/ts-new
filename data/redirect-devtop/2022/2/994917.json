@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-20T00:26:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DuMOku1h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hhqszxwt4qweeg8waya.jpg",
   "author": "Somtochukwu Okafor",
-  "author_url": "https://dev.to/wavist"
+  "author_url": "https://dev.to/wavist",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに CSSを使用しているとき、最終的に必要となるデザインに遭遇することがあります。",
+      "title": "CSSによるレイアウトポジショニングの理解\n"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：在使用CSS时，你最终会遇到需要你的设计...",
+      "title": "了解用CSS进行布局定位\n"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：在使用CSS時，你最終會遇到需要你的設計...",
+      "title": "瞭解用CSS進行佈局定位\n"
+    }
+  ]
 }
