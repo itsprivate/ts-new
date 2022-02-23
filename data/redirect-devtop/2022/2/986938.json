@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-12T10:38:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H0f4Nkk5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oj0wjtih00fmm3qdd4l5.png",
   "author": "Nzekwe Emmanuel",
-  "author_url": "https://dev.to/nze02"
+  "author_url": "https://dev.to/nze02",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ASP.Net Core RESTful APIは、さまざまな方法で実装することができます。この記事では、ASP.Net.CoreのRESTful APIを実装するための方法を説明します。",
+      "title": "ASP.Net Core Web APIのリポジトリパターンを解明する"
+    },
+    {
+      "locale": "zh",
+      "description": "ASP.Net Core RESTful API可以用不同的方式实现。这篇文章将剖析在RESTful API中使用的各种方法。",
+      "title": "揭开ASP.Net Core Web API中存储库模式的神秘面纱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ASP.Net Core RESTful API可以用不同的方式實現。這篇文章將剖析在RESTful API中使用的各種方法。",
+      "title": "揭開ASP.Net Core Web API中存儲庫模式的神祕面紗"
+    }
+  ]
 }
