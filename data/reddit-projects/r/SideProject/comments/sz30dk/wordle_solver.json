@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey guys so I was thinking of solving Wordle using a Trie. But I am stuck on\nsomething that I can not wrap my head around. So I understand a trie essentially\nhas 26 initial children nodes and each child node has another possible 26 and so\non and so on.\n\nWith a trie it would be simple if the users…"
+  "the_new_excerpt": "Hey guys so I was thinking of solving Wordle using a Trie. But I am stuck on\nsomething that I can not wrap my head around. So I understand a trie essentially\nhas 26 initial children nodes and each child node has another possible 26 and so\non and so on.\n\nWith a trie it would be simple if the users…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "WordleをTrieを使って解こうと考えています。しかし、私は行き詰まりました。\nというのが、どうも腑に落ちないのです。トライは基本的に\n26個の初期子ノードがあり、各子ノードはさらに26個の可能性を持っている。\nといった具合に。\n\nトライの場合、ユーザは単純に...",
+      "title": "ワードルソルバー"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，伙计们，我正在考虑用Trie来解决Wordle问题。但我被卡在\n一些我不能理解的东西。我知道一个Trie的本质是\n有26个初始子节点，每个子节点又有26个可能的子节点，等等。\n诸如此类。\n\n在三段式中，如果用户有一个简单的...",
+      "title": "字谜解决方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，夥計們，我正在考慮用Trie來解決Wordle問題。但我被卡在\n一些我不能理解的東西。我知道一個Trie的本質是\n有26個初始子節點，每個子節點又有26個可能的子節點，等等。\n諸如此類。\n\n在三段式中，如果用戶有一個簡單的...",
+      "title": "字謎解決方法"
+    }
+  ]
 }
