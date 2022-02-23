@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "商人の6割が1年以内に暗号を受け入れたいと考えている。レポート"
+    },
+    {
+      "locale": "zh",
+      "title": "60%的商家希望在一年内接受加密货币。报告显示，60%的商家希望在一年内接受加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "60%的商家希望在一年內接受加密貨幣。報告顯示，60%的商家希望在一年內接受加密貨幣"
+    }
+  ]
 }
