@@ -39,5 +39,22 @@
   "original_created_at": "2022-02-22T09:53:07Z",
   "image": "https://dev.to/social_previews/article/997242.png",
   "author": "Rasmus Schultz",
-  "author_url": "https://dev.to/mindplay"
+  "author_url": "https://dev.to/mindplay",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今まで2回、かなりの時間をかけて丁寧に記事を書いたのに、20〜30件のアクセスがあるのを見ただけです......。",
+      "title": "ここで声を出すのは無理がある"
+    },
+    {
+      "locale": "zh",
+      "description": "现在有两次，我花了相当多的时间仔细地写一篇文章，只是看着它得到20-30个点击率......",
+      "title": "在这里不可能有声音了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在有兩次，我花了相當多的時間仔細地寫一篇文章，只是看着它得到20-30個點擊率......",
+      "title": "在這裏不可能有聲音了"
+    }
+  ]
 }
