@@ -1,0 +1,853 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": "I have a confession to make. Even after all the [analyses and strategies I have created](https://www.reddit.com/user/nobjos/?sort=top), I allocate most of my investments to the S&amp;P500 while keeping some part of it for the moonshots. I have told the exact same thing to everyone who has asked me personally for investment advice.\n\nBut as explained in this [fantastic article](https://ofdollarsanddata.com/the-problem-with-most-financial-advice/) by Nick, the problem with most financial advice is that it’s biased heavily towards your experience. I started investing in 2017 and have experienced nothing but a bull market (albeit the brief Covid-19 dip). But consider the situation of someone who started investing in 2000 or in the peak of the 2007 bubble. In both cases, it would have taken more than 6-7 years just to break even on their investments. I can’t even imagine waiting more than half a decade just for my investment to grow to its initial value, given the current market conditions.\n\nGiven that there is no one size fits all approach in the stock market, in this week’s analysis, I am doing a deep-dive into the various types of investment strategies, the returns generated, and their limitations.\n\nI should warn you now that this is not about finding the strategy that gives you the most returns. This is more so about finding what type of investment strategy fits you the best. While putting all your portfolio into crypt\\* might end up giving you a 10,000% return (which is fully viable for a 20-something-year-old with a small portfolio), having an 80% drawdown is not something a 50-year-old with a retirement account would be looking forward to.\n\nThe point I am trying to make here is that investing isn’t an absolute game, it’s a relative game. What fits you perfectly might be terrible for others. Your risk tolerance might be way higher. So I am offering you a choice:\n\n[All I’m offering is the truth. Nothing more.](https://preview.redd.it/djttp8bdzdj81.png?width=700&amp;format=png&amp;auto=webp&amp;s=72279b8af4bf16dcdacff63120f80f5d514aa008)\n\n&gt;*You take the blue pill, the story ends, you can close the page now and believe that DCAing into S&amp;P 500 is your best bet. You take the red pill, you stay in wonderland, and I show you how deep the rabbit-hole goes.*\n\nhttps://preview.redd.it/9vxcbcg5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=4ff1c8397b104cdf30d5042a4ec90adbe5038f39\n\nLet’s start with the various types of investing strategies that are out there. Granted, this is not a conclusive list of the various types of investments, but I have tried to cover the popular strategies that are out there.\n\nBefore we jump into the results, now would be the right time to explain some concepts relating to how to analyze your investments objectively.\n\na. **Cumulative Return:** It’s the total return you would have made on your invested amount. Let’s say you invested $100 and over the next two years the investment went up to $200. Then the cumulative return is 100%.\n\nb. **Rate of Return (aka annualized return):** It’s the measure of how much your investment has grown or shrunk in an annualized format. This allows us to compare investments that are active across different time periods.\n\nb. [**Sharpe Ratio**](https://www.investopedia.com/articles/07/sharpe_ratio.asp)**:** Sharpe ratio measures your investment return while making an adjustment for risk. For example, two investors A &amp; B generate a return of 15% and 12% respectively. However, if A took much larger risks when compared to B, it may be that B has a better **risk-adjusted return**. All else equal, the higher the Sharpe Ratio, the better is your investment.\n\nc. **Max Drawdown:** This is the maximum observed loss from a peak to a subsequent bottom of the portfolio. It is an indicator of the downside risk over a specified time period. A 30% max drawdown implies that your portfolio was down 30% from its all-time high at some point during your investment period.\n\n**A quick note on how the investments are made:** I am considering an equal amount invested monthly into every strategy (Since this is the most realistic way of investing for a large majority of investors and lump-sum investing returns are heavily influenced by the starting point) \\[1\\].\n\nhttps://preview.redd.it/87uprhj5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=99c2a247bb54400f0234217d968190395d666a92\n\n**SPY and Chill**\n\nI feel that this is one of the most common types of investment out there with a person investing an equal amount into SPY every month and holding on for a long time. The basic principle behind this strategy is that the stock market as a whole will keep rising over the long period as the national economy grows. Wealth creation would be possible by just tagging along with the index rather than trying to pick and choose winners within the stock market.\n\nhttps://preview.redd.it/kkv55rsgzdj81.png?width=1233&amp;format=png&amp;auto=webp&amp;s=4d896896d6e1ec867c40f2510eee145c537de63e\n\nAs expected, just investing in SPY gave an excellent annual return of 12.3% over the last two decades. On the flip side, since your portfolio is consisting of 100% equity, you would have experienced a max drawdown of \\~40% at one point (Around the 2008 crash). The fluctuations in the portfolio value are also captured by the low Sharpe Ratio of 0.62 which showcases that you are not adequately compensated for the risk that you are taking by holding 100% equity.\n\nIn most statistical tests, it is usually required to set a base rate - To see what is the “average” rate of success. The SPY’s rate of returns and risk is usually set as the benchmark because it accounts for the bulk of “safe returns”. Any returns outside this are usually accounted to an edge, the “alpha”, and finding that edge is what beating the market is all about. \\[2\\]\n\nhttps://preview.redd.it/g5j37cg5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=a596a3ea3c417089e2585df91847c50d02cb6475\n\n**Balanced Portfolio**\n\n[50&amp;#37; Stocks. 50&amp;#37; Bonds. Perfectly balanced, as all things should be.](https://preview.redd.it/pmq1ss4izdj81.png?width=557&amp;format=png&amp;auto=webp&amp;s=ff54e80e963ba1e2a63741d08a6a8acbfbf9ccfa)\n\nThis is the type of investment strategy where you are taking a balanced approach to investment. Having a 50:50 split on stocks and bonds would definitely impact your overall returns, but you can sleep better knowing that even in the case of downturns, your portfolio is well protected.\n\nhttps://preview.redd.it/0n2fxe1jzdj81.png?width=1327&amp;format=png&amp;auto=webp&amp;s=7f2857fa8e49866b95a1ffb166f2896fa05c76c7\n\nWhile the balanced portfolio did end up giving lower returns, it’s much better in terms of the max drawdown. Your portfolio would only have had a max drop of 14% when compared to the 40% drop experienced by SPY. Adding to this, the portfolio has an excellent Sharpe Ratio of 1.35 when compared to just 0.69 of SPY during the same period.\n\nhttps://preview.redd.it/i9uzbavjzdj81.png?width=1074&amp;format=png&amp;auto=webp&amp;s=5c5fb0c713992ab8f1c69c4d81419b697b4270e8\n\nWhat’s even more interesting is that the portfolio ends up performing better than SPY during crashes\\[3\\]. As you can see from the backtest, during the financial and Covid’19 stock market crashes, your portfolio would have done much better than the market. The 2.5% CAGR \\[4\\] you are sacrificing by not going 100% in SPY is rewarded in terms of a better portfolio during the tough times.\n\n&gt;*Harry Markowitz, the father of Modern Portfolio Theory, himself preferred the balanced strategy though his models indicated a more nuanced split. His reasoning was that it allowed him to sleep better at night.*\n\n[Link to the balanced portfolio backtest](https://app.composer.trade/symphony/Vhhi0M0jPwArFBskS258/details) \\[5\\]\n\nhttps://preview.redd.it/xvnj7xg5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=3c4f59cf4b939ae34c0a85e8fce4c710c13bec87\n\n**Diversified Portfolio**\n\nIn this type of investment, we are looking to get a piece of all types of companies. I have considered **an equal split (33.33%)** between Large-cap, Mid-cap, and Small-cap funds.\n\nhttps://preview.redd.it/9mubz0elzdj81.png?width=1327&amp;format=png&amp;auto=webp&amp;s=40e85cda2a6d4ad2adde1a4ee1a9b221b6498570\n\nThe proposed type of diversification lessens the portfolio risk (as can be seen from max drawdown) but at the same time ends up giving a slightly lower return than purely holding the S&amp;P 500. If you consider the Sharpe Ratio, SPY performs slightly better as you would have had similar fluctuations holding a diversified portfolio while generating slightly lower returns.\n\nI expected that the addition of Small and Mid-Cap should have generated better returns than SPY, but my hypothesis here is that the heavy concentration of tech stocks in SPY (\\~25% now) pushed the rate of return higher than that of the diversified portfolio containing small and mid-cap stocks given the recent performance of tech stocks. This brings us to the:\n\n&amp;#x200B;\n\n**Tech Enthusiast**\n\nAnother one of the common strategies that has paid out handsomely over the past few decades. In this, we are allocating 100% of our monthly investments towards Nasdaq-100 (QQQ). \\[6\\]\n\nhttps://preview.redd.it/mcddi21nzdj81.png?width=1336&amp;format=png&amp;auto=webp&amp;s=f601e9070104eb263d15dbaa59e53105f9dffcf5\n\nWell, would you look at that! Over the last 2 decades, **QQQ has returned more than double the investment return of the S&amp;P 500**. This can be attributed predominantly to two reasons.\n\n1. Tech stocks had an amazing run due to the advances in tech as well as the availability of cheap capital after the 2007 crisis.\n2. Our starting point (2002) is heavily biased towards QQQ. It’s the lull after the 2000 dot com bubble. If we had started the same analysis in say 1990, we would have had a very different result (QQQ dropped 78% from its peak compared to only a 46% drop in SPY during the same period).\n\nHaving 100% of your investment in one sector that performed phenomenally is bound to give stunning portfolio returns. Hindsight 20/20!\n\nhttps://preview.redd.it/ogngegh5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=369f61976e26408e095ff061031bae173dd4a4ff\n\n**Growth Seeker**\n\nHere we are only focused on growth. Our investments are towards companies that are fast-growing. Since we are taking a higher risk on these growth stocks, we expect a higher portfolio return over the long run which is exactly what happened over the last 2 decades.\n\nhttps://preview.redd.it/scesx2yozdj81.png?width=1332&amp;format=png&amp;auto=webp&amp;s=7acd9d8aa45191844fc7d5cf7a84dedd9c603cae\n\nBut once again this can be closely associated with investing in QQQ. I had considered Vanguard Growth ETF as my growth fund and as of today, their top 5 holdings are Apple, Microsoft, Google, Amazon, and Tesla. **We are in a very rare time period where the largest companies in the world are considered to be the ones that are growing above the market rate!** Adding to this, going 100% on a growth fund gave us better risk-adjusted returns than just investing in the S&amp;P 500.\n\n**Buying the Dip**\n\nThe idea here is simple. In this type of investing, you would not invest in the stock market and keep accumulating your cash position waiting for a crash. While this is a risky strategy, the returns do justify that investing during a crash tends to give you the best return.\n\nhttps://preview.redd.it/7rr21twpzdj81.png?width=861&amp;format=png&amp;auto=webp&amp;s=2a75fd510135fe3ed1882c452e3a532814723953\n\nI had already done an extensive analysis on Buying the dip that highlights the limitations as well as the nuances around buying the dip that is a must-read in case you are trying to replicate this strategy.\n\nhttps://preview.redd.it/21cqpyh5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=8bd2120aa029a185c1054bcb904ffb0b9b18cf69\n\nPhew! That was a lot to digest for sure. As I said in the beginning, this was not about finding an investment strategy that generates the most amount of returns. This was more about finding a strategy that fits you.\n\nMaybe you are still in the SPY and Chill bucket and want the simplicity associated with your portfolio. Or maybe you were swayed by the excellent drawdown protection of the balanced portfolio or the eye-popping returns generated by tech enthusiasts. Finally, you might want to dip your toes in the crypt\\* market after seeing the 10,000%+ returns if you have an above-average tolerance for risk.\n\nWe have barely scratched the surface here and there are many more strategies out there that we haven’t covered that might be perfect for you. The idea here is that there are much better strategies (both in terms of risk-adjusted returns and max volatility) than just investing in the S&amp;P 500. It’s up to you to find one that fits you the best!\n\nIn the immortal words of Morpheus,\n\nhttps://i.redd.it/8pwiqj600ej81.gif\n\nhttps://preview.redd.it/lhcg9bj5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=7c395d2c3d3c5ae3e0577f40ebad10214eee2841\n\nData used in the analysis: [**Here**](https://rows.com/market-sentiment/my-spreadsheets/untitled-spreadsheet-3-6FxZVmEYa4DNdVYzn4LTZx/live)\n\nLumpsum investment backtests : ([SPY](https://app.composer.trade/symphony/OV3ohHkJ4tKA6HqqSfle/details), [Balanced](https://app.composer.trade/symphony/Vhhi0M0jPwArFBskS258/details), [Diversified](https://app.composer.trade/symphony/aXiDzYzGFlraxOVfSXtL/details), [Tech](https://app.composer.trade/symphony/BOH7t4anTqXMBc2iA78F/details))\n\n**Footnotes**\n\n**\\[1\\]** For example, in case you are considering lump-sum investing, placing the starting point in the dot-com bubble (2000) would give vastly different results than if you consider your starting point as 2002. Case in point, [CISCO stock](https://www.google.com/search?q=cisco+stock&amp;rlz=1C5CHFA_enIN981IN981&amp;oq=cisco+stock&amp;aqs=chrome..69i57.2312j0j7&amp;sourceid=chrome&amp;ie=UTF-8) still hasn’t breached its dot-com bubble value.\n\n\\[2\\] Though there are a few other factors now that are recognized as adding minor increases to the market returns - Such as value, growth, small-cap, etc.\n\n\\[3\\] Please note that this backtest is made using a lump-sum investment and not a monthly investment. It’s more for the purpose of an insight into how holding bonds can be beneficial in case of a crash.\n\n\\[4\\] While 2.5% CAGR does seem negligible, if you look at the cumulative returns, the 100% SPY portfolio gives 293% vs the balanced portfolio only returning 192%. That’s a difference of \\~100% on your returns! Yeah, compounding is a b\\*\\*\\*h when it works against you.\n\n\\[5\\] Please note that this link is for lumpsum and not DCA.\n\n\\[6\\] I know that QQQ is not completely tech but when compared to the 23% allocation towards tech in S&amp;P500, QQQ has more than 70%+ allocated to tech.\n\n\\[7\\] The returns here are calculated using an investment period between 2014 and 2021.",
+  "author_fullname": "t2_q15pxyy",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Backtesting the most popular investment strategies over the last two decades!",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "DD"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "dd",
+  "downs": 0,
+  "thumbnail_height": 84,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "pmq1ss4izdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 40,
+          "x": 108,
+          "u": "https://preview.redd.it/pmq1ss4izdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d8555d22079681056204c4f1d00a3e2e3f69d48d"
+        },
+        {
+          "y": 81,
+          "x": 216,
+          "u": "https://preview.redd.it/pmq1ss4izdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f209432c25400086c5db7527d8b1e2ebb23b4227"
+        },
+        {
+          "y": 121,
+          "x": 320,
+          "u": "https://preview.redd.it/pmq1ss4izdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a39378516149b536cacf11341b7ac16d0e89eb75"
+        }
+      ],
+      "s": {
+        "y": 211,
+        "x": 557,
+        "u": "https://preview.redd.it/pmq1ss4izdj81.png?width=557&amp;format=png&amp;auto=webp&amp;s=ff54e80e963ba1e2a63741d08a6a8acbfbf9ccfa"
+      },
+      "id": "pmq1ss4izdj81"
+    },
+    "djttp8bdzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 64,
+          "x": 108,
+          "u": "https://preview.redd.it/djttp8bdzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=366c15b738eacd404c43ee0a65f3604c1edbbabc"
+        },
+        {
+          "y": 129,
+          "x": 216,
+          "u": "https://preview.redd.it/djttp8bdzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3ef9c08644dafe58794c79335c91a66b005f30ee"
+        },
+        {
+          "y": 192,
+          "x": 320,
+          "u": "https://preview.redd.it/djttp8bdzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=471e69cb454b4967215f2f8904cce5265df6ee61"
+        },
+        {
+          "y": 384,
+          "x": 640,
+          "u": "https://preview.redd.it/djttp8bdzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a10f9b239113dc56100b1c28250de0aa9af51fe4"
+        }
+      ],
+      "s": {
+        "y": 420,
+        "x": 700,
+        "u": "https://preview.redd.it/djttp8bdzdj81.png?width=700&amp;format=png&amp;auto=webp&amp;s=72279b8af4bf16dcdacff63120f80f5d514aa008"
+      },
+      "id": "djttp8bdzdj81"
+    },
+    "21cqpyh5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=997d9f627ce620c69c4547e3688deabc6549514e"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=3af49792030b9db6b999f5b51f32b3cdb5acc6a0"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=4399bea6984610262c2680c756ff366926a48e52"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8c128236c53522ef44b8c228cc9e540750e1cbf1"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=2de029f94e8d3328cc1e31f81030df70b600a168"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2339dd0575d476a0add1605e89dc179fe1b4892a"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/21cqpyh5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=8bd2120aa029a185c1054bcb904ffb0b9b18cf69"
+      },
+      "id": "21cqpyh5zdj81"
+    },
+    "kkv55rsgzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 11,
+          "x": 108,
+          "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b194e7d72405562173f8c5f1d60ffd3c23bc17a9"
+        },
+        {
+          "y": 23,
+          "x": 216,
+          "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=70d2e8b59ae8f1610eb28dfd69ff5d34374c2bba"
+        },
+        {
+          "y": 34,
+          "x": 320,
+          "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5e8e92de6463950e516d5546abc0fa002b83f53a"
+        },
+        {
+          "y": 68,
+          "x": 640,
+          "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7990db2dc4873aa021a132a4df7b14bf30cef397"
+        },
+        {
+          "y": 102,
+          "x": 960,
+          "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=9d80cd0ff4ef36ac0031ab47802b3b75d4ba2f86"
+        },
+        {
+          "y": 115,
+          "x": 1080,
+          "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=71069dc02e997e5b62f8385295cb530441a77838"
+        }
+      ],
+      "s": {
+        "y": 132,
+        "x": 1233,
+        "u": "https://preview.redd.it/kkv55rsgzdj81.png?width=1233&amp;format=png&amp;auto=webp&amp;s=4d896896d6e1ec867c40f2510eee145c537de63e"
+      },
+      "id": "kkv55rsgzdj81"
+    },
+    "i9uzbavjzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 53,
+          "x": 108,
+          "u": "https://preview.redd.it/i9uzbavjzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=3452331b869cec8b6cb4fbbbc7b7dff30cdf087e"
+        },
+        {
+          "y": 106,
+          "x": 216,
+          "u": "https://preview.redd.it/i9uzbavjzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=eabae8b4c34a89b659ae2aa17750c8524d732a81"
+        },
+        {
+          "y": 158,
+          "x": 320,
+          "u": "https://preview.redd.it/i9uzbavjzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=bc3f9050c0fb1758a2bdc40e79fe34cb96c394da"
+        },
+        {
+          "y": 317,
+          "x": 640,
+          "u": "https://preview.redd.it/i9uzbavjzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7aff7b05001d2e61a822875ee1965726786c3fcb"
+        },
+        {
+          "y": 475,
+          "x": 960,
+          "u": "https://preview.redd.it/i9uzbavjzdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=04f3f3af67cc4ea4310d0a03a2631ef1bc40d593"
+        }
+      ],
+      "s": {
+        "y": 532,
+        "x": 1074,
+        "u": "https://preview.redd.it/i9uzbavjzdj81.png?width=1074&amp;format=png&amp;auto=webp&amp;s=5c5fb0c713992ab8f1c69c4d81419b697b4270e8"
+      },
+      "id": "i9uzbavjzdj81"
+    },
+    "9vxcbcg5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=f85be475d83f97ffc745c9a666feb2d73889991e"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=74ce3a1d118202ed2ca98e6e559f426bb86dfa61"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=252f3eb164e094259e2286b273f51f88b652ac6c"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8481e10519a9baf0a940ffda751499ce838f3397"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=a0c3df746d3e7d096f9bedc8439ce33d93961174"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3a106a5d3cb2c859db6d4b220af6ccb9a3f87967"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/9vxcbcg5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=4ff1c8397b104cdf30d5042a4ec90adbe5038f39"
+      },
+      "id": "9vxcbcg5zdj81"
+    },
+    "0n2fxe1jzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 14,
+          "x": 108,
+          "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=c9426cf33ca1d567faf218fed6f1d646dc9b5a93"
+        },
+        {
+          "y": 29,
+          "x": 216,
+          "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=c4ef7cb0c10e7affe25e76b318bb865bca7ffc41"
+        },
+        {
+          "y": 43,
+          "x": 320,
+          "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d603128451b7815b79a92e202208d979763a9c0e"
+        },
+        {
+          "y": 86,
+          "x": 640,
+          "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfea00814ca8831706345489e809534f1b078cf6"
+        },
+        {
+          "y": 129,
+          "x": 960,
+          "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=be4be05b0c1268774727107170ba4a5a52b08a14"
+        },
+        {
+          "y": 145,
+          "x": 1080,
+          "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0836655c2bc62fd05208b90f44e43ff4fb8530da"
+        }
+      ],
+      "s": {
+        "y": 179,
+        "x": 1327,
+        "u": "https://preview.redd.it/0n2fxe1jzdj81.png?width=1327&amp;format=png&amp;auto=webp&amp;s=7f2857fa8e49866b95a1ffb166f2896fa05c76c7"
+      },
+      "id": "0n2fxe1jzdj81"
+    },
+    "7rr21twpzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 50,
+          "x": 108,
+          "u": "https://preview.redd.it/7rr21twpzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=8c06133689310304ae84bc02290561e8085ea55d"
+        },
+        {
+          "y": 101,
+          "x": 216,
+          "u": "https://preview.redd.it/7rr21twpzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=24b57921c602888d4cad7ab29e8b0f5c757c91a7"
+        },
+        {
+          "y": 149,
+          "x": 320,
+          "u": "https://preview.redd.it/7rr21twpzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=50a1a79c9379bfae7bbdcf3020278b9b1f3c7d5f"
+        },
+        {
+          "y": 299,
+          "x": 640,
+          "u": "https://preview.redd.it/7rr21twpzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=904a20b531e09daf4522d9d5b421fbf2351898fd"
+        }
+      ],
+      "s": {
+        "y": 403,
+        "x": 861,
+        "u": "https://preview.redd.it/7rr21twpzdj81.png?width=861&amp;format=png&amp;auto=webp&amp;s=2a75fd510135fe3ed1882c452e3a532814723953"
+      },
+      "id": "7rr21twpzdj81"
+    },
+    "lhcg9bj5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b24493513ba2c9515a471de4799f92153084baa0"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=199a5edb52863360a822bdd07774ca0ae2401e2a"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c35d15e928c5eee04af8eafec6bb35027b0c6f69"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=62507c5c1e24830a1ff94db1b0888355f3a39f9b"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=e2ee8af6ed3e73775ff7b85c2756582733763ca8"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=200a49d01134e1fdf60b6a10a1c5e22239e18ccf"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/lhcg9bj5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=7c395d2c3d3c5ae3e0577f40ebad10214eee2841"
+      },
+      "id": "lhcg9bj5zdj81"
+    },
+    "xvnj7xg5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=e339b7ca4b15e877c7376bc9aaddb2380cc15b48"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=2778713a86470ea2bca8cac2fa8ca50a3cc38a14"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7714b7232dd0f0c06849ca1b8ccc0ac0d7ebdc69"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=437cf069f2da1d3a50ed00443335845d0683bc4a"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=ed706c477f851d5df1c62624f79a1df31c1fd199"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=707748e373169bbd1d5a08bd383124796207cb63"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/xvnj7xg5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=3c4f59cf4b939ae34c0a85e8fce4c710c13bec87"
+      },
+      "id": "xvnj7xg5zdj81"
+    },
+    "scesx2yozdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 15,
+          "x": 108,
+          "u": "https://preview.redd.it/scesx2yozdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=1bdb75c2ca2fc057b88298312f2722c91cd8c5c4"
+        },
+        {
+          "y": 30,
+          "x": 216,
+          "u": "https://preview.redd.it/scesx2yozdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ebe6076e61ba7b9dc73b979e6adacc2090e29275"
+        },
+        {
+          "y": 45,
+          "x": 320,
+          "u": "https://preview.redd.it/scesx2yozdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0bf3050be7e6ca84feb221458a0c90eaf2fa75b7"
+        },
+        {
+          "y": 90,
+          "x": 640,
+          "u": "https://preview.redd.it/scesx2yozdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ccd5e383baae82039a70c4695d73d4199d1c371"
+        },
+        {
+          "y": 135,
+          "x": 960,
+          "u": "https://preview.redd.it/scesx2yozdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=aeb618985f8ceb7deb23ecca4bd0ae5912915504"
+        },
+        {
+          "y": 152,
+          "x": 1080,
+          "u": "https://preview.redd.it/scesx2yozdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e8b27e02dc92e1a1e40540ebfc27caf6796face2"
+        }
+      ],
+      "s": {
+        "y": 188,
+        "x": 1332,
+        "u": "https://preview.redd.it/scesx2yozdj81.png?width=1332&amp;format=png&amp;auto=webp&amp;s=7acd9d8aa45191844fc7d5cf7a84dedd9c603cae"
+      },
+      "id": "scesx2yozdj81"
+    },
+    "g5j37cg5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=109cd00a0002f04a81a155c20c2cbff82ac7b12a"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=e62d628fe98662b21965562090e936a8da8a4b6e"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=eb50904561fff0468bab50113e67ec99a6155803"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=917ae194111332151dbaef7cb7e375da04f9d8c8"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=da55d8dc1a661c73f0cf6b05048cfcff089c46da"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a69718cce40c010eca272c02750ec858618af4c0"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/g5j37cg5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=a596a3ea3c417089e2585df91847c50d02cb6475"
+      },
+      "id": "g5j37cg5zdj81"
+    },
+    "9mubz0elzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 14,
+          "x": 108,
+          "u": "https://preview.redd.it/9mubz0elzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a6892851f88f1af0b5e12f8c77b0ad0455607d36"
+        },
+        {
+          "y": 29,
+          "x": 216,
+          "u": "https://preview.redd.it/9mubz0elzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=80195afd8b054f4d63b5085014a046148defb8dd"
+        },
+        {
+          "y": 43,
+          "x": 320,
+          "u": "https://preview.redd.it/9mubz0elzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f136e1ab45fd0610f0aff91061cbff507dd05ba7"
+        },
+        {
+          "y": 86,
+          "x": 640,
+          "u": "https://preview.redd.it/9mubz0elzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9288c6ca0837ebc822d85cb5e7d339d16890edc0"
+        },
+        {
+          "y": 130,
+          "x": 960,
+          "u": "https://preview.redd.it/9mubz0elzdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=d8ad85c6903fcc21075ab5fc70df2a7a754570a4"
+        },
+        {
+          "y": 146,
+          "x": 1080,
+          "u": "https://preview.redd.it/9mubz0elzdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=92f60d88ec124b2b127cc63a73ef54c7a279a758"
+        }
+      ],
+      "s": {
+        "y": 180,
+        "x": 1327,
+        "u": "https://preview.redd.it/9mubz0elzdj81.png?width=1327&amp;format=png&amp;auto=webp&amp;s=40e85cda2a6d4ad2adde1a4ee1a9b221b6498570"
+      },
+      "id": "9mubz0elzdj81"
+    },
+    "8pwiqj600ej81": {
+      "status": "valid",
+      "e": "AnimatedImage",
+      "m": "image/gif",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/8pwiqj600ej81.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=b26c2e396acf5b3688ca74c525d90f2674b0e960"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/8pwiqj600ej81.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=723e6787613970b525e64f400ffd4e690ea7234f"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/8pwiqj600ej81.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=d427e950e988341abae95c8a9104a1243b09101e"
+        },
+        {
+          "y": 360,
+          "x": 640,
+          "u": "https://preview.redd.it/8pwiqj600ej81.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=4331dc3094118fc593c1fa0c3710a8c6a1c08539"
+        }
+      ],
+      "s": {
+        "y": 360,
+        "gif": "https://i.redd.it/8pwiqj600ej81.gif",
+        "mp4": "https://preview.redd.it/8pwiqj600ej81.gif?format=mp4&amp;s=cf1aed184b70ae7e2cf74b49d506d87a991ab3b7",
+        "x": 640
+      },
+      "id": "8pwiqj600ej81"
+    },
+    "mcddi21nzdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 16,
+          "x": 108,
+          "u": "https://preview.redd.it/mcddi21nzdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a6cf241325a82bc8d1d1b7faa27f2a1f6fc5ffad"
+        },
+        {
+          "y": 32,
+          "x": 216,
+          "u": "https://preview.redd.it/mcddi21nzdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=10178b57f50e41786d8192cf2cd5015a20214d9e"
+        },
+        {
+          "y": 47,
+          "x": 320,
+          "u": "https://preview.redd.it/mcddi21nzdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f51237acd367551ec05a9247906d6a512f680744"
+        },
+        {
+          "y": 95,
+          "x": 640,
+          "u": "https://preview.redd.it/mcddi21nzdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=09932b60458fb0a52d8cad8e4453061013785aea"
+        },
+        {
+          "y": 142,
+          "x": 960,
+          "u": "https://preview.redd.it/mcddi21nzdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=0d4a2571c9056b611b9d6331603e637aa60719a2"
+        },
+        {
+          "y": 160,
+          "x": 1080,
+          "u": "https://preview.redd.it/mcddi21nzdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4a18eac8693c2ccd9eda0df4e25150a70b62917a"
+        }
+      ],
+      "s": {
+        "y": 199,
+        "x": 1336,
+        "u": "https://preview.redd.it/mcddi21nzdj81.png?width=1336&amp;format=png&amp;auto=webp&amp;s=f601e9070104eb263d15dbaa59e53105f9dffcf5"
+      },
+      "id": "mcddi21nzdj81"
+    },
+    "ogngegh5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/ogngegh5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=418b62d0f97a14c8cdac982a269dfc96aa1df61e"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/ogngegh5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=4c0f73d7de54cda0c204b529dc85ad010e586fa0"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/ogngegh5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=574fb4169f00ef677126e66701428915bfe87510"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/ogngegh5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=855320a1320ffda822888cf57abd74014160daf0"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/ogngegh5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=aa0375f3bcabb70d7dda63624a1d5732d25680c1"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/ogngegh5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=0daaf77b4ca87c277eaa1b2613ed09bf7ab015ed"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/ogngegh5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=369f61976e26408e095ff061031bae173dd4a4ff"
+      },
+      "id": "ogngegh5zdj81"
+    },
+    "87uprhj5zdj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 0,
+          "x": 108,
+          "u": "https://preview.redd.it/87uprhj5zdj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=19127889906c014a74029e419517c3ab444f0ff9"
+        },
+        {
+          "y": 0,
+          "x": 216,
+          "u": "https://preview.redd.it/87uprhj5zdj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=30b924804b06bf615f861410fce0b296056622a5"
+        },
+        {
+          "y": 0,
+          "x": 320,
+          "u": "https://preview.redd.it/87uprhj5zdj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f294957172ea340def12c5a6394a093ec885448e"
+        },
+        {
+          "y": 1,
+          "x": 640,
+          "u": "https://preview.redd.it/87uprhj5zdj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dbc3a2940ad7c7bade00d2c82532192da0a350e"
+        },
+        {
+          "y": 2,
+          "x": 960,
+          "u": "https://preview.redd.it/87uprhj5zdj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=46f654505385933829a62f3bf63aab6e1957e074"
+        },
+        {
+          "y": 3,
+          "x": 1080,
+          "u": "https://preview.redd.it/87uprhj5zdj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=1748a12dbb8ae550d215943b33bda28f216a5e63"
+        }
+      ],
+      "s": {
+        "y": 5,
+        "x": 1728,
+        "u": "https://preview.redd.it/87uprhj5zdj81.png?width=1728&amp;format=png&amp;auto=webp&amp;s=99c2a247bb54400f0234217d968190395d666a92"
+      },
+      "id": "87uprhj5zdj81"
+    }
+  },
+  "name": "t3_synpkf",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": "#373c3f",
+  "ups": 1000,
+  "total_awards_received": 19,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": "28fbe25a-7c59-11ea-965e-0e0a65cd3f97",
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "DD",
+  "can_mod_post": false,
+  "score": 1000,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": true,
+  "thumbnail": "https://b.thumbs.redditmedia.com/eZAOqBtQy1oFJ7KkA6nQvtJeK-NCI4LX-IzZ33CP9oA.jpg",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Anal(yst)"
+    }
+  ],
+  "gildings": {
+    "gid_1": 7
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "subreddit_type": "public",
+  "created": 1645536751,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": false,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I have a confession to make. Even after all the &lt;a href=\"https://www.reddit.com/user/nobjos/?sort=top\"&gt;analyses and strategies I have created&lt;/a&gt;, I allocate most of my investments to the S&amp;amp;P500 while keeping some part of it for the moonshots. I have told the exact same thing to everyone who has asked me personally for investment advice.&lt;/p&gt;\n\n&lt;p&gt;But as explained in this &lt;a href=\"https://ofdollarsanddata.com/the-problem-with-most-financial-advice/\"&gt;fantastic article&lt;/a&gt; by Nick, the problem with most financial advice is that it’s biased heavily towards your experience. I started investing in 2017 and have experienced nothing but a bull market (albeit the brief Covid-19 dip). But consider the situation of someone who started investing in 2000 or in the peak of the 2007 bubble. In both cases, it would have taken more than 6-7 years just to break even on their investments. I can’t even imagine waiting more than half a decade just for my investment to grow to its initial value, given the current market conditions.&lt;/p&gt;\n\n&lt;p&gt;Given that there is no one size fits all approach in the stock market, in this week’s analysis, I am doing a deep-dive into the various types of investment strategies, the returns generated, and their limitations.&lt;/p&gt;\n\n&lt;p&gt;I should warn you now that this is not about finding the strategy that gives you the most returns. This is more so about finding what type of investment strategy fits you the best. While putting all your portfolio into crypt* might end up giving you a 10,000% return (which is fully viable for a 20-something-year-old with a small portfolio), having an 80% drawdown is not something a 50-year-old with a retirement account would be looking forward to.&lt;/p&gt;\n\n&lt;p&gt;The point I am trying to make here is that investing isn’t an absolute game, it’s a relative game. What fits you perfectly might be terrible for others. Your risk tolerance might be way higher. So I am offering you a choice:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/djttp8bdzdj81.png?width=700&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=72279b8af4bf16dcdacff63120f80f5d514aa008\"&gt;All I’m offering is the truth. Nothing more.&lt;/a&gt;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;em&gt;You take the blue pill, the story ends, you can close the page now and believe that DCAing into S&amp;amp;P 500 is your best bet. You take the red pill, you stay in wonderland, and I show you how deep the rabbit-hole goes.&lt;/em&gt;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/9vxcbcg5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4ff1c8397b104cdf30d5042a4ec90adbe5038f39\"&gt;https://preview.redd.it/9vxcbcg5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4ff1c8397b104cdf30d5042a4ec90adbe5038f39&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Let’s start with the various types of investing strategies that are out there. Granted, this is not a conclusive list of the various types of investments, but I have tried to cover the popular strategies that are out there.&lt;/p&gt;\n\n&lt;p&gt;Before we jump into the results, now would be the right time to explain some concepts relating to how to analyze your investments objectively.&lt;/p&gt;\n\n&lt;p&gt;a. &lt;strong&gt;Cumulative Return:&lt;/strong&gt; It’s the total return you would have made on your invested amount. Let’s say you invested $100 and over the next two years the investment went up to $200. Then the cumulative return is 100%.&lt;/p&gt;\n\n&lt;p&gt;b. &lt;strong&gt;Rate of Return (aka annualized return):&lt;/strong&gt; It’s the measure of how much your investment has grown or shrunk in an annualized format. This allows us to compare investments that are active across different time periods.&lt;/p&gt;\n\n&lt;p&gt;b. &lt;a href=\"https://www.investopedia.com/articles/07/sharpe_ratio.asp\"&gt;&lt;strong&gt;Sharpe Ratio&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;:&lt;/strong&gt; Sharpe ratio measures your investment return while making an adjustment for risk. For example, two investors A &amp;amp; B generate a return of 15% and 12% respectively. However, if A took much larger risks when compared to B, it may be that B has a better &lt;strong&gt;risk-adjusted return&lt;/strong&gt;. All else equal, the higher the Sharpe Ratio, the better is your investment.&lt;/p&gt;\n\n&lt;p&gt;c. &lt;strong&gt;Max Drawdown:&lt;/strong&gt; This is the maximum observed loss from a peak to a subsequent bottom of the portfolio. It is an indicator of the downside risk over a specified time period. A 30% max drawdown implies that your portfolio was down 30% from its all-time high at some point during your investment period.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;A quick note on how the investments are made:&lt;/strong&gt; I am considering an equal amount invested monthly into every strategy (Since this is the most realistic way of investing for a large majority of investors and lump-sum investing returns are heavily influenced by the starting point) [1].&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/87uprhj5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=99c2a247bb54400f0234217d968190395d666a92\"&gt;https://preview.redd.it/87uprhj5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=99c2a247bb54400f0234217d968190395d666a92&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;SPY and Chill&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;I feel that this is one of the most common types of investment out there with a person investing an equal amount into SPY every month and holding on for a long time. The basic principle behind this strategy is that the stock market as a whole will keep rising over the long period as the national economy grows. Wealth creation would be possible by just tagging along with the index rather than trying to pick and choose winners within the stock market.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/kkv55rsgzdj81.png?width=1233&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4d896896d6e1ec867c40f2510eee145c537de63e\"&gt;https://preview.redd.it/kkv55rsgzdj81.png?width=1233&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4d896896d6e1ec867c40f2510eee145c537de63e&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;As expected, just investing in SPY gave an excellent annual return of 12.3% over the last two decades. On the flip side, since your portfolio is consisting of 100% equity, you would have experienced a max drawdown of ~40% at one point (Around the 2008 crash). The fluctuations in the portfolio value are also captured by the low Sharpe Ratio of 0.62 which showcases that you are not adequately compensated for the risk that you are taking by holding 100% equity.&lt;/p&gt;\n\n&lt;p&gt;In most statistical tests, it is usually required to set a base rate - To see what is the “average” rate of success. The SPY’s rate of returns and risk is usually set as the benchmark because it accounts for the bulk of “safe returns”. Any returns outside this are usually accounted to an edge, the “alpha”, and finding that edge is what beating the market is all about. [2]&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/g5j37cg5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a596a3ea3c417089e2585df91847c50d02cb6475\"&gt;https://preview.redd.it/g5j37cg5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a596a3ea3c417089e2585df91847c50d02cb6475&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Balanced Portfolio&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/pmq1ss4izdj81.png?width=557&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ff54e80e963ba1e2a63741d08a6a8acbfbf9ccfa\"&gt;50&amp;#37; Stocks. 50&amp;#37; Bonds. Perfectly balanced, as all things should be.&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;This is the type of investment strategy where you are taking a balanced approach to investment. Having a 50:50 split on stocks and bonds would definitely impact your overall returns, but you can sleep better knowing that even in the case of downturns, your portfolio is well protected.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/0n2fxe1jzdj81.png?width=1327&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f2857fa8e49866b95a1ffb166f2896fa05c76c7\"&gt;https://preview.redd.it/0n2fxe1jzdj81.png?width=1327&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7f2857fa8e49866b95a1ffb166f2896fa05c76c7&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;While the balanced portfolio did end up giving lower returns, it’s much better in terms of the max drawdown. Your portfolio would only have had a max drop of 14% when compared to the 40% drop experienced by SPY. Adding to this, the portfolio has an excellent Sharpe Ratio of 1.35 when compared to just 0.69 of SPY during the same period.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/i9uzbavjzdj81.png?width=1074&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5c5fb0c713992ab8f1c69c4d81419b697b4270e8\"&gt;https://preview.redd.it/i9uzbavjzdj81.png?width=1074&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=5c5fb0c713992ab8f1c69c4d81419b697b4270e8&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;What’s even more interesting is that the portfolio ends up performing better than SPY during crashes[3]. As you can see from the backtest, during the financial and Covid’19 stock market crashes, your portfolio would have done much better than the market. The 2.5% CAGR [4] you are sacrificing by not going 100% in SPY is rewarded in terms of a better portfolio during the tough times.&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&lt;em&gt;Harry Markowitz, the father of Modern Portfolio Theory, himself preferred the balanced strategy though his models indicated a more nuanced split. His reasoning was that it allowed him to sleep better at night.&lt;/em&gt;&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;a href=\"https://app.composer.trade/symphony/Vhhi0M0jPwArFBskS258/details\"&gt;Link to the balanced portfolio backtest&lt;/a&gt; [5]&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/xvnj7xg5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3c4f59cf4b939ae34c0a85e8fce4c710c13bec87\"&gt;https://preview.redd.it/xvnj7xg5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3c4f59cf4b939ae34c0a85e8fce4c710c13bec87&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Diversified Portfolio&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;In this type of investment, we are looking to get a piece of all types of companies. I have considered &lt;strong&gt;an equal split (33.33%)&lt;/strong&gt; between Large-cap, Mid-cap, and Small-cap funds.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/9mubz0elzdj81.png?width=1327&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=40e85cda2a6d4ad2adde1a4ee1a9b221b6498570\"&gt;https://preview.redd.it/9mubz0elzdj81.png?width=1327&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=40e85cda2a6d4ad2adde1a4ee1a9b221b6498570&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The proposed type of diversification lessens the portfolio risk (as can be seen from max drawdown) but at the same time ends up giving a slightly lower return than purely holding the S&amp;amp;P 500. If you consider the Sharpe Ratio, SPY performs slightly better as you would have had similar fluctuations holding a diversified portfolio while generating slightly lower returns.&lt;/p&gt;\n\n&lt;p&gt;I expected that the addition of Small and Mid-Cap should have generated better returns than SPY, but my hypothesis here is that the heavy concentration of tech stocks in SPY (~25% now) pushed the rate of return higher than that of the diversified portfolio containing small and mid-cap stocks given the recent performance of tech stocks. This brings us to the:&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Tech Enthusiast&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Another one of the common strategies that has paid out handsomely over the past few decades. In this, we are allocating 100% of our monthly investments towards Nasdaq-100 (QQQ). [6]&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/mcddi21nzdj81.png?width=1336&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f601e9070104eb263d15dbaa59e53105f9dffcf5\"&gt;https://preview.redd.it/mcddi21nzdj81.png?width=1336&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f601e9070104eb263d15dbaa59e53105f9dffcf5&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Well, would you look at that! Over the last 2 decades, &lt;strong&gt;QQQ has returned more than double the investment return of the S&amp;amp;P 500&lt;/strong&gt;. This can be attributed predominantly to two reasons.&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;Tech stocks had an amazing run due to the advances in tech as well as the availability of cheap capital after the 2007 crisis.&lt;/li&gt;\n&lt;li&gt;Our starting point (2002) is heavily biased towards QQQ. It’s the lull after the 2000 dot com bubble. If we had started the same analysis in say 1990, we would have had a very different result (QQQ dropped 78% from its peak compared to only a 46% drop in SPY during the same period).&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;Having 100% of your investment in one sector that performed phenomenally is bound to give stunning portfolio returns. Hindsight 20/20!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ogngegh5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=369f61976e26408e095ff061031bae173dd4a4ff\"&gt;https://preview.redd.it/ogngegh5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=369f61976e26408e095ff061031bae173dd4a4ff&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Growth Seeker&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Here we are only focused on growth. Our investments are towards companies that are fast-growing. Since we are taking a higher risk on these growth stocks, we expect a higher portfolio return over the long run which is exactly what happened over the last 2 decades.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/scesx2yozdj81.png?width=1332&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7acd9d8aa45191844fc7d5cf7a84dedd9c603cae\"&gt;https://preview.redd.it/scesx2yozdj81.png?width=1332&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7acd9d8aa45191844fc7d5cf7a84dedd9c603cae&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;But once again this can be closely associated with investing in QQQ. I had considered Vanguard Growth ETF as my growth fund and as of today, their top 5 holdings are Apple, Microsoft, Google, Amazon, and Tesla. &lt;strong&gt;We are in a very rare time period where the largest companies in the world are considered to be the ones that are growing above the market rate!&lt;/strong&gt; Adding to this, going 100% on a growth fund gave us better risk-adjusted returns than just investing in the S&amp;amp;P 500.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Buying the Dip&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;The idea here is simple. In this type of investing, you would not invest in the stock market and keep accumulating your cash position waiting for a crash. While this is a risky strategy, the returns do justify that investing during a crash tends to give you the best return.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/7rr21twpzdj81.png?width=861&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2a75fd510135fe3ed1882c452e3a532814723953\"&gt;https://preview.redd.it/7rr21twpzdj81.png?width=861&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=2a75fd510135fe3ed1882c452e3a532814723953&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I had already done an extensive analysis on Buying the dip that highlights the limitations as well as the nuances around buying the dip that is a must-read in case you are trying to replicate this strategy.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/21cqpyh5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8bd2120aa029a185c1054bcb904ffb0b9b18cf69\"&gt;https://preview.redd.it/21cqpyh5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8bd2120aa029a185c1054bcb904ffb0b9b18cf69&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Phew! That was a lot to digest for sure. As I said in the beginning, this was not about finding an investment strategy that generates the most amount of returns. This was more about finding a strategy that fits you.&lt;/p&gt;\n\n&lt;p&gt;Maybe you are still in the SPY and Chill bucket and want the simplicity associated with your portfolio. Or maybe you were swayed by the excellent drawdown protection of the balanced portfolio or the eye-popping returns generated by tech enthusiasts. Finally, you might want to dip your toes in the crypt* market after seeing the 10,000%+ returns if you have an above-average tolerance for risk.&lt;/p&gt;\n\n&lt;p&gt;We have barely scratched the surface here and there are many more strategies out there that we haven’t covered that might be perfect for you. The idea here is that there are much better strategies (both in terms of risk-adjusted returns and max volatility) than just investing in the S&amp;amp;P 500. It’s up to you to find one that fits you the best!&lt;/p&gt;\n\n&lt;p&gt;In the immortal words of Morpheus,&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://i.redd.it/8pwiqj600ej81.gif\"&gt;https://i.redd.it/8pwiqj600ej81.gif&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/lhcg9bj5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7c395d2c3d3c5ae3e0577f40ebad10214eee2841\"&gt;https://preview.redd.it/lhcg9bj5zdj81.png?width=1728&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7c395d2c3d3c5ae3e0577f40ebad10214eee2841&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Data used in the analysis: &lt;a href=\"https://rows.com/market-sentiment/my-spreadsheets/untitled-spreadsheet-3-6FxZVmEYa4DNdVYzn4LTZx/live\"&gt;&lt;strong&gt;Here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Lumpsum investment backtests : (&lt;a href=\"https://app.composer.trade/symphony/OV3ohHkJ4tKA6HqqSfle/details\"&gt;SPY&lt;/a&gt;, &lt;a href=\"https://app.composer.trade/symphony/Vhhi0M0jPwArFBskS258/details\"&gt;Balanced&lt;/a&gt;, &lt;a href=\"https://app.composer.trade/symphony/aXiDzYzGFlraxOVfSXtL/details\"&gt;Diversified&lt;/a&gt;, &lt;a href=\"https://app.composer.trade/symphony/BOH7t4anTqXMBc2iA78F/details\"&gt;Tech&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Footnotes&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;[1]&lt;/strong&gt; For example, in case you are considering lump-sum investing, placing the starting point in the dot-com bubble (2000) would give vastly different results than if you consider your starting point as 2002. Case in point, &lt;a href=\"https://www.google.com/search?q=cisco+stock&amp;amp;rlz=1C5CHFA_enIN981IN981&amp;amp;oq=cisco+stock&amp;amp;aqs=chrome..69i57.2312j0j7&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8\"&gt;CISCO stock&lt;/a&gt; still hasn’t breached its dot-com bubble value.&lt;/p&gt;\n\n&lt;p&gt;[2] Though there are a few other factors now that are recognized as adding minor increases to the market returns - Such as value, growth, small-cap, etc.&lt;/p&gt;\n\n&lt;p&gt;[3] Please note that this backtest is made using a lump-sum investment and not a monthly investment. It’s more for the purpose of an insight into how holding bonds can be beneficial in case of a crash.&lt;/p&gt;\n\n&lt;p&gt;[4] While 2.5% CAGR does seem negligible, if you look at the cumulative returns, the 100% SPY portfolio gives 293% vs the balanced portfolio only returning 192%. That’s a difference of ~100% on your returns! Yeah, compounding is a b***h when it works against you.&lt;/p&gt;\n\n&lt;p&gt;[5] Please note that this link is for lumpsum and not DCA.&lt;/p&gt;\n\n&lt;p&gt;[6] I know that QQQ is not completely tech but when compared to the 23% allocation towards tech in S&amp;amp;P500, QQQ has more than 70%+ allocated to tech.&lt;/p&gt;\n\n&lt;p&gt;[7] The returns here are calculated using an investment period between 2014 and 2021.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?auto=webp&amp;s=d58d3881280c63c62fefe67e7fdd447a4a825054",
+          "width": 7360,
+          "height": 4912
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=3616102ec319af793e6dafb35d9b3189aec0aa4e",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=86e384d3e77277f77d247bac391a5304f4632279",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=126dca2610a7aa677f114198ba2bc959bbd46849",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e87fd5dc5cb02b54c1969b1ea19e9b0be958dd27",
+            "width": 640,
+            "height": 427
+          },
+          {
+            "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=46ffbfdf39aff332975a20c67157d2bdb7d4a0c5",
+            "width": 960,
+            "height": 640
+          },
+          {
+            "url": "https://external-preview.redd.it/3uedRog2f6mlsy4ApZh47YIDFXc5cMI_QQcHRlwpHTU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=6279deee841bc3c1413902b675cb0f30e453fbd0",
+            "width": 1080,
+            "height": 720
+          }
+        ],
+        "variants": {},
+        "id": "QoI7G5RNCQeEKrabQq8q9LuNl5A3pVBzjQniouXeJv4"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "5692ce02-b860-11e5-b542-0edc7016bbd3",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "Anal(yst)",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "mod_note": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "num_reports": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#365b8c",
+  "id": "synpkf",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "nobjos",
+  "discussion_type": null,
+  "num_comments": 118,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "light",
+  "permalink": "/r/wallstreetbets/comments/synpkf/backtesting_the_most_popular_investment/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/synpkf/backtesting_the_most_popular_investment/",
+  "subreddit_subscribers": 11650295,
+  "created_utc": 1645585282,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1645536751,
+  "the_new_excerpt": "I have a confession to make. Even after all the analyses and strategies I have\ncreated [https://www.reddit.com/user/nobjos/?sort=top], I allocate most of my\ninvestments to the S&P500 while keeping some part of it for the moonshots. I\nhave told the exact same thing to everyone who has asked me…"
+}
