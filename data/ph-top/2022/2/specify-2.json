@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-24T08:01:00Z"
+  "original_createdAt": "2022-02-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Specify は、デザインおよび開発チームのためのデザイン データ プラットフォームです： 🎨&nbsp;Figma からデザイン トークンとアセットを収集 🤖 それらを単一の真実のソースに格納 ⚡ カスタム配信パイプラインでブランドを配信 無料で始める → https://specifyapp.com",
+      "tagline": "FigmaファイルとGitHubリポジトリの同期が数分で完了"
+    },
+    {
+      "locale": "zh",
+      "description": "Specify是为您的设计和开发团队提供的设计数据平台： 🎨&nbsp;从Figma收集您的设计令牌和资产 🤖将它们存储在一个单一的真实源中 ⚡️用自定义交付管道分发您的品牌 免费开始 → https://specifyapp.com",
+      "tagline": "在几分钟内将你的Figma文件与GitHub存储库进行同步"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Specify是爲您的設計和開發團隊提供的設計數據平臺： 🎨&nbsp;從Figma收集您的設計令牌和資產 🤖將它們存儲在一個單一的真實源中 ⚡️用自定義交付管道分發您的品牌 免費開始 → https://specifyapp.com",
+      "tagline": "在幾分鐘內將你的Figma文件與GitHub存儲庫進行同步"
+    }
+  ]
 }
