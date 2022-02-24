@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-23T22:59:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uKUPb-Hm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22r9ndg7o2doutl3pkni.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Microsoft Azureのツール群を利用してアプリケーションを構築し、豪華賞品を獲得するチャンスです。",
+      "title": "お知らせ Microsoft Azure Trial Hackathonに参加して賞品（およびコミュニティーの自慢）を獲得してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "加入我们的挑战，使用微软Azure的工具套件构建应用程序，以换取赢得一些明星奖品的机会。",
+      "title": "提醒您。加入微软Azure试用黑客马拉松，赢取奖品（和社区吹嘘的权利）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "加入我們的挑戰，使用微軟Azure的工具套件構建應用程序，以換取贏得一些明星獎品的機會。",
+      "title": "提醒您。加入微軟Azure試用黑客馬拉松，贏取獎品（和社區吹噓的權利）"
+    }
+  ]
 }

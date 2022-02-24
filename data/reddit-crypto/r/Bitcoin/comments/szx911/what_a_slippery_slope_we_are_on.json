@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このスレは何なんだ"
+    },
+    {
+      "locale": "zh",
+      "title": "我们所处的是一个多么滑坡的坡道啊"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們所處的是一個多麼滑坡的坡道啊"
+    }
+  ]
 }
