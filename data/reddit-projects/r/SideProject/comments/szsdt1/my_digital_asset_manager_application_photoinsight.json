@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のデジタルアセットマネージャーアプリケーション[PhotoInsight]が、3Dファイルに対応しました。ほぼ1年間の作業の後、このアップデートはベータプログラムで利用可能です。https://photoinsight.io からダウンロードできます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的数字资产管理应用程序[PhotoInsight]现在支持3D文件。经过近一年的工作，这个更新在一个测试程序中可用。你可以在https://photoinsight.io 下载。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的數字資產管理應用程序[PhotoInsight]現在支持3D文件。經過近一年的工作，這個更新在一個測試程序中可用。你可以在https://photoinsight.io 下載。"
+    }
+  ]
 }
