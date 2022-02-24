@@ -52,5 +52,22 @@
     },
     "retweet_count": 151,
     "favorite_count": 788
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DAlperovitch: ゼレンスキーが総動員を命じなかったのは、侵攻がないと確信していたからだ...ということを思い出してください。",
+      "retweeted_status_full_text": "ただ、ゼレンスキーは侵略が起こらないと確信していたので、総動員を命じなかったことを思い出してほしい...今さら遅いか"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DAlperovitch: 只是提醒一下，泽伦斯基从未下令全面动员，因为他非常确信入侵不会发生。",
+      "retweeted_status_full_text": "只是提醒一下，泽伦斯基从未下令进行全面动员，因为他确信入侵不会发生......现在这样做太晚了"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DAlperovitch: 只是提醒一下，澤倫斯基從未下令全面動員，因爲他非常確信入侵不會發生。",
+      "retweeted_status_full_text": "只是提醒一下，澤倫斯基從未下令進行全面動員，因爲他確信入侵不會發生......現在這樣做太晚了"
+    }
+  ]
 }
