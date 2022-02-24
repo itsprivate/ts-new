@@ -12,5 +12,19 @@
   ],
   "objectID": "30440162",
   "original_created_at": "2022-02-23T12:03:49.000Z",
-  "image": "https://taras.glek.net"
+  "image": "https://taras.glek.net",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "eBPF - Firefox がライブラリを読み込むためにページフォルトを使用する方法をトレースします。"
+    },
+    {
+      "locale": "zh",
+      "title": "eBPF用于追踪Firefox如何使用页面故障来加载库的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "eBPF用於追蹤Firefox如何使用頁面故障來加載庫的情況"
+    }
+  ]
 }
