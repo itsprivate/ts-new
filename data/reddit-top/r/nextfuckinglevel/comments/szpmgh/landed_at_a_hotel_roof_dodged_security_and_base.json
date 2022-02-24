@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホテルの屋上に着地し、警備をかわしてビーチにベースジャンプ。"
+    },
+    {
+      "locale": "zh",
+      "title": "降落在一个酒店的屋顶上，躲过了保安，然后跳到了海滩上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "降落在一個酒店的屋頂上，躲過了保安，然後跳到了海灘上。"
+    }
+  ]
 }
