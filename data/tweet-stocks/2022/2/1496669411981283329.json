@@ -82,5 +82,22 @@
     },
     "retweet_count": 893,
     "favorite_count": 1561
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @marcorubio: ロシアによる #ウクライナ への侵攻が始まりました。",
+      "retweeted_status_full_text": "ロシアによる #ウクライナ への侵攻が始まりました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @marcorubio: 俄罗斯对乌克兰的入侵现在正在进行中",
+      "retweeted_status_full_text": "俄国对乌克兰的入侵正在进行中"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @marcorubio: 俄羅斯對烏克蘭的入侵現在正在進行中",
+      "retweeted_status_full_text": "俄國對烏克蘭的入侵正在進行中"
+    }
+  ]
 }

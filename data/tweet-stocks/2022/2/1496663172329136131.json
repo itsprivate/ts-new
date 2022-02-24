@@ -52,5 +52,22 @@
     },
     "retweet_count": 3023,
     "favorite_count": 15269
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @TomM71190988: EAが終わったので、銀行口座の凍結が解除されました。\n明日は出金後、BMOの口座を全て解約します...。",
+      "retweeted_status_full_text": "EAが終わったので、銀行口座の凍結が解除されました。\n明日は出金後、BMOの口座を全て解約する予定です。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @TomM71190988: 我的银行账户已经被解冻，现在EA已经结束。\n明天我将关闭我所有的BMO账户，在提取后...",
+      "retweeted_status_full_text": "我的银行账户已经被解冻，现在EA已经结束。\n明天我取完钱后会关闭我所有的BMO账户。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @TomM71190988: 我的銀行賬戶已經被解凍，現在EA已經結束。\n明天我將關閉我所有的BMO賬戶，在提取後...",
+      "retweeted_status_full_text": "我的銀行賬戶已經被解凍，現在EA已經結束。\n明天我取完錢後會關閉我所有的BMO賬戶。"
+    }
+  ]
 }
