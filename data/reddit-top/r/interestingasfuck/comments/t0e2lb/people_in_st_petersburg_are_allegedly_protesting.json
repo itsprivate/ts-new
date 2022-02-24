@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サンクトペテルブルクでは、ウクライナへの侵攻に抗議する人々がいるとされる"
+    },
+    {
+      "locale": "zh",
+      "title": "据称圣彼得堡的人们正在抗议对乌克兰的入侵"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據稱聖彼得堡的人們正在抗議對烏克蘭的入侵"
+    }
+  ]
 }

@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ国連は何もしないんだ」と言う皆さんへ。これらは基本的に、彼らの唯一の選択肢です。"
+    },
+    {
+      "locale": "zh",
+      "title": "对于每个说 \"为什么联合国不做任何事情？\"的人来说。这些基本上是他们唯一的选择。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於每個說 \"爲什麼聯合國不做任何事情？\"的人來說。這些基本上是他們唯一的選擇。"
+    }
+  ]
 }
