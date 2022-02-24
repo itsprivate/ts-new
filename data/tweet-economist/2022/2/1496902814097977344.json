@@ -154,5 +154,22 @@
     "retweet_count": 77,
     "favorite_count": 138,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AlexSelbyB: ロシアによるウクライナへの空爆が報告された - 16:00 GMT\nhttps://t.co/l26BsB8gWe https://t.co/hajCzbxtP9",
+      "retweeted_status_full_text": "ウクライナにおけるロシアの空爆の報告 - 16:00 GMT\nhttps://t.co/l26BsB8gWe https://t.co/hajCzbxtP9"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AlexSelbyB: 据报道，俄罗斯在乌克兰的打击 - 16:00 GMT\nhttps://t.co/l26BsB8gWe https://t.co/hajCzbxtP9",
+      "retweeted_status_full_text": "据报道，俄罗斯对乌克兰的打击 - 16:00 GMT\nhttps://t.co/l26BsB8gWe https://t.co/hajCzbxtP9"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AlexSelbyB: 據報道，俄羅斯在烏克蘭的打擊 - 16:00 GMT\nhttps://t.co/l26BsB8gWe https://t.co/hajCzbxtP9",
+      "retweeted_status_full_text": "據報道，俄羅斯對烏克蘭的打擊 - 16:00 GMT\nhttps://t.co/l26BsB8gWe https://t.co/hajCzbxtP9"
+    }
+  ]
 }
