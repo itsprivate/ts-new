@@ -52,5 +52,22 @@
     },
     "retweet_count": 285,
     "favorite_count": 1153
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ikhurshudyan: ハリコフで泊まっているところ、スタッフがパニックになっています。\"どうしたんだ？ニュースは見ていない。ニュースなんて見てないよ。",
+      "retweeted_status_full_text": "私が滞在しているハリコフでは、スタッフがパニックになっています。「どうなっているんだ？ニュースは見ていない。これは何だ？\""
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ikhurshudyan: 我在哈尔科夫住的地方，工作人员都吓坏了。\"发生了什么事？我不看新闻。这是什么？\"",
+      "retweeted_status_full_text": "我在哈尔科夫住的地方，工作人员都吓坏了。\"发生了什么事？我不看新闻。这是什么？\""
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ikhurshudyan: 我在哈爾科夫住的地方，工作人員都嚇壞了。\"發生了什麼事？我不看新聞。這是什麼？\"",
+      "retweeted_status_full_text": "我在哈爾科夫住的地方，工作人員都嚇壞了。\"發生了什麼事？我不看新聞。這是什麼？\""
+    }
+  ]
 }

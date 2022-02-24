@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を言わずに、あなたが何歳なのかがわかる子どもの頃の思い出を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果不说你有多大年纪，哪个童年记忆能告诉人们你有多大年纪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果不說你有多大年紀，哪個童年記憶能告訴人們你有多大年紀？"
+    }
+  ]
 }
