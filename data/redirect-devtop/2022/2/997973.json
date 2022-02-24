@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-22T20:59:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j27IS8cb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6hfyjipi8p81a50675h.png",
   "author": "Justin Schroeder",
-  "author_url": "https://dev.to/justinschroeder"
+  "author_url": "https://dev.to/justinschroeder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブフォームは、インターネットの結合組織です。これがなければ、人々は自分の健康を要求することができません...",
+      "title": "FormKitのご紹介です。Vue 3 のフォーム構築フレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "网络表格是互联网的连接组织。没有它们，人们就不能要求他们的健康。",
+      "title": "介绍一下FormKit。一个Vue 3的表单构建框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡表格是互聯網的連接組織。沒有它們，人們就不能要求他們的健康。",
+      "title": "介紹一下FormKit。一個Vue 3的表單構建框架"
+    }
+  ]
 }
