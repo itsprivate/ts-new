@@ -13,5 +13,19 @@
   ],
   "objectID": "30457261",
   "original_created_at": "2022-02-24T17:07:07.000Z",
-  "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+  "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rust 1.59.0 インラインアセンブリ対応など。"
+    },
+    {
+      "locale": "zh",
+      "title": "Rust 1.59.0，支持内联汇编等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rust 1.59.0，支持內聯彙編等。"
+    }
+  ]
 }
