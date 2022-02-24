@@ -1,0 +1,195 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "Bogleheads",
+  "selftext": "If an analyst makes 50 stock recommendations that outperform the market, does that mean his subsequent recommendations are likely to beat the market as well? Likewise, if some analyst makes 50 bad recommendations, does that indicate that his future stock picks will be bad?\n\nThat is the question I want to answer.\n\nUsing historical analyst recommendations data from Yahoo finance - Thanks Nobjos! - I compared analysts' earliest recommendations versus their subsequent recommendations. My reasoning is that if past successes can predict future returns, then the performance of analysts earliest recommendations should correlate with performance of subsequent recommendations.\n\nA central question is how long of a track record is sufficient to gain insight in future performance. As a start, let’s try 50 stock recommendations. Below I’ve plotted the 4-month performance of analysts’ first 50 stock recommendations (x-axis), and compared it to the performance of all of the analysts’ recommendations since then (y-axis).\n\nhttps://preview.redd.it/hac6an1p3oj81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=79d41e8883b410b62aa392cf15a811cee980daae\n\nThe exact correlation is -0.083, which is very low. This means that the first 50 stocks have no (or even a slightly inverse) correlation with subsequent performance. Basically, if an analyst did well early, it does not mean they will do well in subsequent predictions. **A good example to illustrate this is Wolfe research: their first 50 recommendations performed on average 2.8 (absolute) percent over the S&amp;P 500. However, their subsequent 81 recommendations underperformed by a whopping 5.4%.**\n\nIf you’re wondering about the outlier on the left. That's BofA (deez nuts). No seriously, BofA Securities, Inc., previously Bank of America Merrill Lynch (BAML), who's f**irst 50 recommendations underperformed the S&amp;P 500 by a disturbing 9.5%**. If you had seen their track record back then, you probably never would’ve listened to them again right? Well, **their subsequent 242 stock recommendations averaged an amazing 3.3% over the S&amp;P 500.**\n\nBut you might think “*Well if 50 stocks isn’t enough of a track record to predict future returns, what about 100?*” Here’s how that looks:\n\nhttps://preview.redd.it/pazyt36q3oj81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c52ab855f73adb803acd03d2eb894896061c409e\n\nAgain, it’s a complete mess with no discernible correlation. This time, the exact correlation is -0.062. *A lot of large firms had a negative track record up till this point, including Morgan Stanley, UBS, Citigroup, Guggenheim and Deutsche Bank. Yet all of these would go on to outperform the market in their subsequent recommendations.* But you wouldn’t know that if you just looked at their first 100 recommendations.\n\nSo what number of stocks is sufficient to be a reliable indicator of future returns? 200? 300? 500? 750? Well, the problem is that very few investment firms actually recommend this many stocks, so the data will be quite weak for a statistical analysis. But I did it anyway:\n\n||Correlation with subsequent returns|\n|:-|:-|\n|First 50|\\-0.083|\n|First 100|\\-0.062|\n|First 200|\\-0.086|\n|First 300|\\-0.079|\n|First 400|\\-0.241|\n|First 500|0.095|\n|First 750|0.293|\n\nNow, I want to say that this dataset is far from perfect. For instance, I think it’s unreasonable to think that the performance of first 400 recommendations vs. subsequent recommendations are really that highly inversely correlated. At the same time, I think that if there really was a high correlation between early and subsequent performance, this statistical analysis could’ve picked it up. As a final note, I will say that I trust this data more in light of previous research. Indeed a lot of research indicates that past performance does not correlate highly with future success. Famously, Daniel Kahneman has calculated the year to year correlation of professional investment advisors to be 0.01.\n\n**Conclusion:**\n\nPast performance does not (meaningfully) predict future returns.",
+  "author_fullname": "t2_jmbyqxxj",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "I analyzed 30,000+ stock recommendations by financial analysts to see if past success can predict subsequent returns",
+  "link_flair_richtext": [],
+  "subreddit_name_prefixed": "r/Bogleheads",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": null,
+  "downs": 0,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "hac6an1p3oj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/hac6an1p3oj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=20b6d0d7acaee2a126ef8a0ea99ce1f13246ae7d"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/hac6an1p3oj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8288cf5b893d9a34f0ceaf40a0b517dbeda6b166"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/hac6an1p3oj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b5cedb525c54dac98d482d732abc99f6cb2d932d"
+        },
+        {
+          "y": 360,
+          "x": 640,
+          "u": "https://preview.redd.it/hac6an1p3oj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e86a7f6623033d7070e67577cf4b02896145e7d"
+        },
+        {
+          "y": 540,
+          "x": 960,
+          "u": "https://preview.redd.it/hac6an1p3oj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=aefe3b42f1a7ca970eb6af6946ba3d3317bd8f24"
+        },
+        {
+          "y": 607,
+          "x": 1080,
+          "u": "https://preview.redd.it/hac6an1p3oj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2ca4c3c11f527b479c5d128b964e8beb6556ae43"
+        }
+      ],
+      "s": {
+        "y": 1080,
+        "x": 1920,
+        "u": "https://preview.redd.it/hac6an1p3oj81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=79d41e8883b410b62aa392cf15a811cee980daae"
+      },
+      "id": "hac6an1p3oj81"
+    },
+    "pazyt36q3oj81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 60,
+          "x": 108,
+          "u": "https://preview.redd.it/pazyt36q3oj81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=635faabdda5f257fcf3adfd3fb15e3742f0526a1"
+        },
+        {
+          "y": 121,
+          "x": 216,
+          "u": "https://preview.redd.it/pazyt36q3oj81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=b75d7d75f49d36bedfa9f06a440df0ae9072cb69"
+        },
+        {
+          "y": 180,
+          "x": 320,
+          "u": "https://preview.redd.it/pazyt36q3oj81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b0401d50241c769ee1d74b2e215188ac8462aeb6"
+        },
+        {
+          "y": 360,
+          "x": 640,
+          "u": "https://preview.redd.it/pazyt36q3oj81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b2ead9d6326a8277fec56d73220c864f22280ed"
+        },
+        {
+          "y": 540,
+          "x": 960,
+          "u": "https://preview.redd.it/pazyt36q3oj81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=1ecbf8a410e03c31ff776500700277e23a509565"
+        },
+        {
+          "y": 607,
+          "x": 1080,
+          "u": "https://preview.redd.it/pazyt36q3oj81.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3e16033f22e514e08c4f7cd5ec7bf8565654aec0"
+        }
+      ],
+      "s": {
+        "y": 1080,
+        "x": 1920,
+        "u": "https://preview.redd.it/pazyt36q3oj81.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c52ab855f73adb803acd03d2eb894896061c409e"
+      },
+      "id": "pazyt36q3oj81"
+    }
+  },
+  "name": "t3_szveu4",
+  "quarantine": false,
+  "link_flair_text_color": "dark",
+  "upvote_ratio": 0.95,
+  "author_flair_background_color": null,
+  "subreddit_type": "public",
+  "ups": 20,
+  "total_awards_received": 0,
+  "media_embed": {},
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": null,
+  "can_mod_post": false,
+  "score": 20,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "",
+  "edited": false,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [],
+  "gildings": {},
+  "content_categories": null,
+  "is_self": true,
+  "mod_note": null,
+  "created": 1645659073,
+  "link_flair_type": "text",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "text",
+  "domain": "self.Bogleheads",
+  "allow_live_comments": false,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;If an analyst makes 50 stock recommendations that outperform the market, does that mean his subsequent recommendations are likely to beat the market as well? Likewise, if some analyst makes 50 bad recommendations, does that indicate that his future stock picks will be bad?&lt;/p&gt;\n\n&lt;p&gt;That is the question I want to answer.&lt;/p&gt;\n\n&lt;p&gt;Using historical analyst recommendations data from Yahoo finance - Thanks Nobjos! - I compared analysts&amp;#39; earliest recommendations versus their subsequent recommendations. My reasoning is that if past successes can predict future returns, then the performance of analysts earliest recommendations should correlate with performance of subsequent recommendations.&lt;/p&gt;\n\n&lt;p&gt;A central question is how long of a track record is sufficient to gain insight in future performance. As a start, let’s try 50 stock recommendations. Below I’ve plotted the 4-month performance of analysts’ first 50 stock recommendations (x-axis), and compared it to the performance of all of the analysts’ recommendations since then (y-axis).&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/hac6an1p3oj81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=79d41e8883b410b62aa392cf15a811cee980daae\"&gt;https://preview.redd.it/hac6an1p3oj81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=79d41e8883b410b62aa392cf15a811cee980daae&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The exact correlation is -0.083, which is very low. This means that the first 50 stocks have no (or even a slightly inverse) correlation with subsequent performance. Basically, if an analyst did well early, it does not mean they will do well in subsequent predictions. &lt;strong&gt;A good example to illustrate this is Wolfe research: their first 50 recommendations performed on average 2.8 (absolute) percent over the S&amp;amp;P 500. However, their subsequent 81 recommendations underperformed by a whopping 5.4%.&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;If you’re wondering about the outlier on the left. That&amp;#39;s BofA (deez nuts). No seriously, BofA Securities, Inc., previously Bank of America Merrill Lynch (BAML), who&amp;#39;s f&lt;strong&gt;irst 50 recommendations underperformed the S&amp;amp;P 500 by a disturbing 9.5%&lt;/strong&gt;. If you had seen their track record back then, you probably never would’ve listened to them again right? Well, &lt;strong&gt;their subsequent 242 stock recommendations averaged an amazing 3.3% over the S&amp;amp;P 500.&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;But you might think “&lt;em&gt;Well if 50 stocks isn’t enough of a track record to predict future returns, what about 100?&lt;/em&gt;” Here’s how that looks:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/pazyt36q3oj81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c52ab855f73adb803acd03d2eb894896061c409e\"&gt;https://preview.redd.it/pazyt36q3oj81.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c52ab855f73adb803acd03d2eb894896061c409e&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Again, it’s a complete mess with no discernible correlation. This time, the exact correlation is -0.062. &lt;em&gt;A lot of large firms had a negative track record up till this point, including Morgan Stanley, UBS, Citigroup, Guggenheim and Deutsche Bank. Yet all of these would go on to outperform the market in their subsequent recommendations.&lt;/em&gt; But you wouldn’t know that if you just looked at their first 100 recommendations.&lt;/p&gt;\n\n&lt;p&gt;So what number of stocks is sufficient to be a reliable indicator of future returns? 200? 300? 500? 750? Well, the problem is that very few investment firms actually recommend this many stocks, so the data will be quite weak for a statistical analysis. But I did it anyway:&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"left\"&gt;&lt;/th&gt;\n&lt;th align=\"left\"&gt;Correlation with subsequent returns&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 50&lt;/td&gt;\n&lt;td align=\"left\"&gt;-0.083&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 100&lt;/td&gt;\n&lt;td align=\"left\"&gt;-0.062&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 200&lt;/td&gt;\n&lt;td align=\"left\"&gt;-0.086&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 300&lt;/td&gt;\n&lt;td align=\"left\"&gt;-0.079&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 400&lt;/td&gt;\n&lt;td align=\"left\"&gt;-0.241&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 500&lt;/td&gt;\n&lt;td align=\"left\"&gt;0.095&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;First 750&lt;/td&gt;\n&lt;td align=\"left\"&gt;0.293&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;Now, I want to say that this dataset is far from perfect. For instance, I think it’s unreasonable to think that the performance of first 400 recommendations vs. subsequent recommendations are really that highly inversely correlated. At the same time, I think that if there really was a high correlation between early and subsequent performance, this statistical analysis could’ve picked it up. As a final note, I will say that I trust this data more in light of previous research. Indeed a lot of research indicates that past performance does not correlate highly with future success. Famously, Daniel Kahneman has calculated the year to year correlation of professional investment advisors to be 0.01.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Conclusion:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Past performance does not (meaningfully) predict future returns.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "likes": null,
+  "suggested_sort": null,
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "awarders": [],
+  "media_only": false,
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": null,
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "num_reports": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2shb7",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "removal_reason": null,
+  "link_flair_background_color": "",
+  "id": "szveu4",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "ValueTheories",
+  "discussion_type": null,
+  "num_comments": 6,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": null,
+  "permalink": "/r/Bogleheads/comments/szveu4/i_analyzed_30000_stock_recommendations_by/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/Bogleheads/comments/szveu4/i_analyzed_30000_stock_recommendations_by/",
+  "subreddit_subscribers": 142114,
+  "created_utc": 1645669112,
+  "num_crossposts": 0,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1645659073,
+  "the_new_excerpt": "If an analyst makes 50 stock recommendations that outperform the market, does\nthat mean his subsequent recommendations are likely to beat the market as well?\nLikewise, if some analyst makes 50 bad recommendations, does that indicate that\nhis future stock picks will be bad?\n\nThat is the question I…"
+}
