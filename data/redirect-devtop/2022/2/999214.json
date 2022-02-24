@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-23T17:55:42Z",
   "image": "https://dev.to/social_previews/article/999214.png",
   "author": "Jeffrey T. Fritz",
-  "author_url": "https://dev.to/csharpfritz"
+  "author_url": "https://dev.to/csharpfritz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FritzはMinimal APIsを取り上げ、Web APIの構築を容易にするためのプロトタイプを示した",
+      "title": "ASP.NET Core 6でWeb用APIを瞬時に構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "Fritz看了看Minimal APIs，并展示了一个原型，使构建网络API更容易。",
+      "title": "用ASP.NET Core 6即时构建网络API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Fritz看了看Minimal APIs，並展示了一個原型，使構建網絡API更容易。",
+      "title": "用ASP.NET Core 6即時構建網絡API"
+    }
+  ]
 }
