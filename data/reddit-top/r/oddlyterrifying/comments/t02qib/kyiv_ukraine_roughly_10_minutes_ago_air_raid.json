@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナのキエフ、およそ10分前。空襲警報が発令されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰基辅，大约10分钟前。空袭警报被启动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭基輔，大約10分鐘前。空襲警報被啓動。"
+    }
+  ]
 }

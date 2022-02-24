@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CropScoreの紹介。コンテンツ制作者のための画像切り抜きツール"
+    },
+    {
+      "locale": "zh",
+      "title": "介绍一下CropScore。为内容创作者提供的图像裁剪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "介紹一下CropScore。爲內容創作者提供的圖像裁剪器"
+    }
+  ]
 }
