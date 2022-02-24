@@ -13,5 +13,19 @@
   ],
   "objectID": "30446530",
   "original_created_at": "2022-02-23T21:13:36.000Z",
-  "image": "https://img.shields.io/pypi/v/sqlite-utils.svg"
+  "image": "https://img.shields.io/pypi/v/sqlite-utils.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "sqlite-utils - SQLite データベースを操作するための CLI & Python ユーティリティ関数"
+    },
+    {
+      "locale": "zh",
+      "title": "sqlite-utils - 用于操作SQLite数据库的CLI和Python实用函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "sqlite-utils - 用於操作SQLite數據庫的CLI和Python實用函數"
+    }
+  ]
 }
