@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-24T08:01:00Z"
+  "original_createdAt": "2022-02-24T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Data Fetcherは、コードなしでAirtableにデータをインポートする最も簡単な方法です。Google Analyticsのデータ、Webflowのコレクション、株価など、様々なデータをインポートすることができます。カスタムリクエストを使用して、任意のJSON/XML APIに接続します。そして、自動実行をスケジュールします。",
+      "tagline": "コードレスでどこからでもAirtableにデータをインポートできる"
+    },
+    {
+      "locale": "zh",
+      "description": "数据采集器是最简单的方法来导入数据到Airtable而不需要代码。使用我们的集成来导入谷歌分析数据、Webflow集合、股票价格和更多。使用自定义请求来连接到任何JSON/XML API。然后安排自动运行。",
+      "tagline": "从任何地方导入数据到Airtable，无需代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數據採集器是最簡單的方法來導入數據到Airtable而不需要代碼。使用我們的集成來導入谷歌分析數據、Webflow集合、股票價格和更多。使用自定義請求來連接到任何JSON/XML API。然後安排自動運行。",
+      "tagline": "從任何地方導入數據到Airtable，無需代碼"
+    }
+  ]
 }
