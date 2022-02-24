@@ -134,5 +134,22 @@
     "retweet_count": 153,
     "favorite_count": 325,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 欧州の天然ガス価格、60％上昇 1日で過去最大の上昇 https://t.co/4992VMtkU5",
+      "retweeted_status_full_text": "欧州の天然ガス価格は現在60％上昇、1日で過去最大の上昇 https://t.co/4992VMtkU5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 欧洲天然气价格目前上涨了60%，是有记录以来最大的单日涨幅 https://t.co/4992VMtkU5",
+      "retweeted_status_full_text": "欧洲天然气价格目前上涨60%，创下最大单日跳涨记录 https://t.co/4992VMtkU5"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 歐洲天然氣價格目前上漲了60%，是有記錄以來最大的單日漲幅 https://t.co/4992VMtkU5",
+      "retweeted_status_full_text": "歐洲天然氣價格目前上漲60%，創下最大單日跳漲記錄 https://t.co/4992VMtkU5"
+    }
+  ]
 }

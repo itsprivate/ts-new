@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はロシア人だ、ロシアのルーブルは死んでいる、我々の株も死んでいる。全ては暗号で。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是俄罗斯人，俄罗斯卢布死了，我们的股票也死了。都在加密货币中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是俄羅斯人，俄羅斯盧布死了，我們的股票也死了。都在加密貨幣中。"
+    }
+  ]
 }
