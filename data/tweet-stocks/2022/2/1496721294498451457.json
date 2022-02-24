@@ -134,5 +134,22 @@
     "retweet_count": 278,
     "favorite_count": 690,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JustinPulitzer: CNN &amp; MSNBCはこれを放送しなかったので、私が放送することにした。https://t.co/6V1vRKxP8p",
+      "retweeted_status_full_text": "CNN &amp; MSNBCはこれを放送したことがないので、そうしようと思ったんだ。https://t.co/6V1vRKxP8p"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JustinPulitzer: 我知道CNN &amp；MSNBC从来没有播过这个，所以我想我会的。一针见血，你不觉得吗？https://t.co/6V1vRKxP8p",
+      "retweeted_status_full_text": "我知道CNN&amp；MSNBC从来没有播过这个，所以我想我会的。准确无误，你不觉得吗？https://t.co/6V1vRKxP8p"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JustinPulitzer: 我知道CNN &amp；MSNBC從來沒有播過這個，所以我想我會的。一針見血，你不覺得嗎？https://t.co/6V1vRKxP8p",
+      "retweeted_status_full_text": "我知道CNN&amp；MSNBC從來沒有播過這個，所以我想我會的。準確無誤，你不覺得嗎？https://t.co/6V1vRKxP8p"
+    }
+  ]
 }
