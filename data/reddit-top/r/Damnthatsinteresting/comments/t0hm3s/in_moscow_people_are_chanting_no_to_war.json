@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モスクワでは、人々が \"戦争反対！\"と叫んでいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "在莫斯科，人们正在高呼 \"反对战争\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在莫斯科，人們正在高呼 \"反對戰爭\"。"
+    }
+  ]
 }
