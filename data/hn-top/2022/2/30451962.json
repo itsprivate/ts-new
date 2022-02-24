@@ -13,5 +13,19 @@
   ],
   "objectID": "30451962",
   "original_created_at": "2022-02-24T07:57:43.000Z",
-  "image": "https://bugzilla.mozilla.org/static/v20220218.1/extensions/BMO/web/images/moz-fav-one-color-white-rgb.svg"
+  "image": "https://bugzilla.mozilla.org/static/v20220218.1/extensions/BMO/web/images/moz-fav-one-color-white-rgb.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "15年前に開いたバグが4時間前に閉じていた"
+    },
+    {
+      "locale": "zh",
+      "title": "我15年前打开的一个漏洞在4小时前被关闭了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我15年前打開的一個漏洞在4小時前被關閉了"
+    }
+  ]
 }

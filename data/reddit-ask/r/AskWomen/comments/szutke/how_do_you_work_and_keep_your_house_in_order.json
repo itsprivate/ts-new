@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "In order for instance cleaning rooms, vacuuming, laundry, etc."
+  "the_new_excerpt": "In order for instance cleaning rooms, vacuuming, laundry, etc.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、部屋の掃除、掃除機がけ、洗濯などです。",
+      "title": "どうやって仕事をし、家を維持しているのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如打扫房间、吸尘、洗衣服等。",
+      "title": "你是如何工作并保持你的家的秩序的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如打掃房間、吸塵、洗衣服等。",
+      "title": "你是如何工作並保持你的家的秩序的？"
+    }
+  ]
 }
