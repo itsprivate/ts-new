@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-22T19:08:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kLDQQNF9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkfbflcbonve3sfu08vm.jpg",
   "author": "Parth Agarwal",
-  "author_url": "https://dev.to/ra101"
+  "author_url": "https://dev.to/ra101",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前提条件 C++でのコーディングに慣れていること。  私は5年前に初めてC++のライブラリをコーディングしましたが、...",
+      "title": "C++ライブラリの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "先决条件。必须熟悉C++的编码。  我早在5年前就编码了我的第一个C++库，...",
+      "title": "如何编写一个C++库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "先決條件。必須熟悉C++的編碼。  我早在5年前就編碼了我的第一個C++庫，...",
+      "title": "如何編寫一個C++庫"
+    }
+  ]
 }
