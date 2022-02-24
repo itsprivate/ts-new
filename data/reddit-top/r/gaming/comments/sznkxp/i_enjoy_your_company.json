@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お付き合いありがとうございます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢你的陪伴"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡你的陪伴"
+    }
+  ]
 }
