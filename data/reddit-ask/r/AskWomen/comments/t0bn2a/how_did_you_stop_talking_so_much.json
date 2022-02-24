@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どうしてそんなにしゃべらなくなったんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你怎么不说那么多了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你怎麼不說那麼多了？"
+    }
+  ]
 }
