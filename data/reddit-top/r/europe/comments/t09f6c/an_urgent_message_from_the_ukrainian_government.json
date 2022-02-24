@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナ政府からの緊急メッセージ"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰政府的紧急信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭政府的緊急信息"
+    }
+  ]
 }
