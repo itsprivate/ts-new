@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "先週、KrakenのCEOのツイートを見て、すぐにハードウェアウォレットを注文しました"
+    },
+    {
+      "locale": "zh",
+      "title": "上周我看到了Kraken首席执行官的一条推文，并立即订购了一个硬件钱包"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "上週我看到了Kraken首席執行官的一條推文，並立即訂購了一個硬件錢包"
+    }
+  ]
 }
