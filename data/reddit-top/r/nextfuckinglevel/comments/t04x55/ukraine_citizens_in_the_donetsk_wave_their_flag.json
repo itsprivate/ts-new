@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドネツクのウクライナ市民は、ロシア戦争前に国旗を振り、国歌を歌う"
+    },
+    {
+      "locale": "zh",
+      "title": "顿涅茨克的乌克兰公民在俄罗斯战争前挥舞国旗并唱国歌"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "頓涅茨克的烏克蘭公民在俄羅斯戰爭前揮舞國旗並唱國歌"
+    }
+  ]
 }
