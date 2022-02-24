@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "3回以上観た映画で、何度でも観たい映画はどれですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪部电影你看了3遍以上，你很想反复观看？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪部電影你看了3遍以上，你很想反覆觀看？"
+    }
+  ]
 }
