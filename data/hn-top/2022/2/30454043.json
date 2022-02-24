@@ -13,5 +13,19 @@
   ],
   "objectID": "30454043",
   "original_created_at": "2022-02-24T12:50:31.000Z",
-  "image": "https://blog.saeloun.com/images/og_logo.png"
+  "image": "https://blog.saeloun.com/images/og_logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RailsがファイバーセーフのActiveRecord ConnectionPoolsのサポートを追加"
+    },
+    {
+      "locale": "zh",
+      "title": "Rails增加了对光纤安全的ActiveRecord连接池的支持"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rails增加了對光纖安全的ActiveRecord連接池的支持"
+    }
+  ]
 }
