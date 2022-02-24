@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-23T08:52:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k0sgfENT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txwjv8jebfu8bmxuy295.png",
   "author": "Nikola Brežnjak",
-  "author_url": "https://dev.to/nikola"
+  "author_url": "https://dev.to/nikola",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日で、私がdev.toを始めて5年になります。",
+      "title": "5年クラブ at dev.to"
+    },
+    {
+      "locale": "zh",
+      "description": "今天是我在dev.to上的5年。",
+      "title": "五年俱乐部在dev.to"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天是我在dev.to上的5年。",
+      "title": "五年俱樂部在dev.to"
+    }
+  ]
 }
