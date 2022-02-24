@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-22T01:07:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1ITmZofm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gprijlnyd81mvijhqgw.jpeg",
   "author": "ΛGΣΣK",
-  "author_url": "https://dev.to/ageekdev"
+  "author_url": "https://dev.to/ageekdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "個人的なプロジェクトで作業しているとき、あなたはランダムな乱雑な短い意味のないメッセージでコミットすることができます...のような。",
+      "title": "従来のGitコミットメッセージの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "在从事个人项目时，你可以用随机乱七八糟的无意义的短消息来承诺，比如...",
+      "title": "编写常规的 Git 提交消息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在從事個人項目時，你可以用隨機亂七八糟的無意義的短消息來承諾，比如...",
+      "title": "編寫常規的 Git 提交消息"
+    }
+  ]
 }
