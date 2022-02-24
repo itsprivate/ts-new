@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "落ち込む」というより、「もうこんなゲームやりたくない」という感じでしょうか。ゲームとは人生のことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "有没有一个词可以形容--不是 \"沮丧\"，更像是 \"我不想再玩这个游戏\"。这个游戏就是生活。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有沒有一個詞可以形容--不是 \"沮喪\"，更像是 \"我不想再玩這個遊戲\"。這個遊戲就是生活。"
+    }
+  ]
 }

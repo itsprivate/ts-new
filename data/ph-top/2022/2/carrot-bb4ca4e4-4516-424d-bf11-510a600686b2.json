@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-24T08:08:54Z"
+  "original_createdAt": "2022-02-24T08:08:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CarrotはPlaintain Labsによって作られたモデルで、Banana.devでホストされています。インスピレーションは、GPT3などの汎用テキストモデルを見て、\"これをコンピュータビジョンにもできないか？\"と思ったことから来ています。",
+      "tagline": "コンピュータビジョンのためのGPT3"
+    },
+    {
+      "locale": "zh",
+      "description": "Carrot是一个由Plaintain实验室建立的模型，托管在Banana.dev上。灵感来自于看到GPT3等通用文本模型，并问道：\"我们能不能也为计算机视觉做这个？\"",
+      "tagline": "用于计算机视觉的GPT3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Carrot是一個由Plaintain實驗室建立的模型，託管在Banana.dev上。靈感來自於看到GPT3等通用文本模型，並問道：\"我們能不能也爲計算機視覺做這個？\"",
+      "tagline": "用於計算機視覺的GPT3"
+    }
+  ]
 }
