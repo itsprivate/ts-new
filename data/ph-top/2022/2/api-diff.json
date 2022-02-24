@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-24T08:01:48Z"
+  "original_createdAt": "2022-02-24T08:01:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://api-diff.io API の 2 つのバージョン内の変更点を確認することができます。2つのファイルをドラッグ＆ドロップするか、URLを追加すると、瞬時に変更点を確認することができます。さらに、CLIやGithub Actionを利用することもできます。",
+      "tagline": "2つのAPIバージョンを数秒で差分し、何が変わったかを確認できる"
+    },
+    {
+      "locale": "zh",
+      "description": "https://api-diff.io 帮助你检查一个API的两个版本内的变化。在我们的平台上拖放或添加两个文件的URL，在眨眼间就能看到修改情况。如果你更喜欢这样，你可以使用CLI或Github Action。",
+      "tagline": "在几秒钟内比较两个API版本，看看有什么变化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://api-diff.io 幫助你檢查一個API的兩個版本內的變化。在我們的平臺上拖放或添加兩個文件的URL，在眨眼間就能看到修改情況。如果你更喜歡這樣，你可以使用CLI或Github Action。",
+      "tagline": "在幾秒鐘內比較兩個API版本，看看有什麼變化"
+    }
+  ]
 }
