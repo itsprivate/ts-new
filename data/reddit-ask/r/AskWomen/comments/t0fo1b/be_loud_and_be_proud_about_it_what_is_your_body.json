@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大きな声で、堂々と あなたの体型は？"
+    },
+    {
+      "locale": "zh",
+      "title": "大声点，并为此感到自豪 你的体型是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大聲點，併爲此感到自豪 你的體型是什麼？"
+    }
+  ]
 }
