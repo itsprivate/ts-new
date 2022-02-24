@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このミームは、マルコに捧げます。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个备忘录是给你马可..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個備忘錄是給你馬可..."
+    }
+  ]
 }
