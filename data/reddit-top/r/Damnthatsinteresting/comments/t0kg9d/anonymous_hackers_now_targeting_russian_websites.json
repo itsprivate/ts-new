@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナ侵攻の報復としてロシアのウェブサイトを狙うAnonymousハッカーが登場。"
+    },
+    {
+      "locale": "zh",
+      "title": "匿名黑客现在针对俄罗斯网站，以报复乌克兰的入侵。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "匿名黑客現在針對俄羅斯網站，以報復烏克蘭的入侵。"
+    }
+  ]
 }
