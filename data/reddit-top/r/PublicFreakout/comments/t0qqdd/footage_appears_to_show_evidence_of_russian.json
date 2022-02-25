@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初日にロシア兵が戦闘を放棄し、制服を脱いで逃走した痕跡を示す映像があるようだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "录像似乎显示了俄罗斯士兵在第1天放弃战斗的证据，他们脱下军装并逃跑了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "錄像似乎顯示了俄羅斯士兵在第1天放棄戰鬥的證據，他們脫下軍裝並逃跑了。"
+    }
+  ]
 }
