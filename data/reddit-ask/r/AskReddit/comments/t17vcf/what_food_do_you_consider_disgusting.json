@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが不味いと思う食べ物は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为什么食物是令人厌恶的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲什麼食物是令人厭惡的？"
+    }
+  ]
 }
