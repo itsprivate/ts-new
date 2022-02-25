@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大統領顧問がロイター通信に語ったところによると、ウクライナ軍はキエフ北西部郊外のホストメル飛行場を奪還したとのこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "一名总统顾问告诉路透社记者，乌克兰军队已经夺回了位于基辅西北郊的霍斯托梅尔机场。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一名總統顧問告訴路透社記者，烏克蘭軍隊已經奪回了位於基輔西北郊的霍斯托梅爾機場。"
+    }
+  ]
 }

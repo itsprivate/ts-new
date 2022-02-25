@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "面接の際、いくら提示されても引き受けないと即断した出来事は？"
+    },
+    {
+      "locale": "zh",
+      "title": "在面试中发生了什么，让你立即意识到无论他们给你多少钱，你都不会接受这份工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在面試中發生了什麼，讓你立即意識到無論他們給你多少錢，你都不會接受這份工作？"
+    }
+  ]
 }

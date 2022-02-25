@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-24T14:01:00Z"
+  "original_createdAt": "2022-02-24T14:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Booqsiは、本のコミュニティのために特別に作られたモダンなソーシャルプラットフォームで、本についてより有意義に他の人と関わることができるようになります。私たちの目標は、本好きの人たちに、Goodreadsに代わる、よりソーシャルでAmazonに依存しないサービスを提供することです。",
+      "tagline": "GoodreadsやStoryGraphに代わる、よりソーシャルなサービス"
+    },
+    {
+      "locale": "zh",
+      "description": "Booqsi是一个专门为图书社区建立的现代社交平台，让你以一种更有意义的方式与他人进行图书交流。我们的目标是：为图书爱好者提供一个更加社会化的、不含亚马逊的Goodreads替代品。",
+      "tagline": "一个比Goodreads和StoryGraph更具社会性的选择"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Booqsi是一個專門爲圖書社區建立的現代社交平臺，讓你以一種更有意義的方式與他人進行圖書交流。我們的目標是：爲圖書愛好者提供一個更加社會化的、不含亞馬遜的Goodreads替代品。",
+      "tagline": "一個比Goodreads和StoryGraph更具社會性的選擇"
+    }
+  ]
 }
