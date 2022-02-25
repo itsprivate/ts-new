@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "an extractor API for semantic markup (json-ld, microdata and opengraph).\n\nYou can build a simple recipe app, or tiny search engines to discover any\nentity. (for example - Book, Movie, music, Recipe, health, Person, Place, Local\nbusiness, Restaurant etc)\n\nhttps://extract.dev/ (hosted on rapidapi)"
+  "the_new_excerpt": "an extractor API for semantic markup (json-ld, microdata and opengraph).\n\nYou can build a simple recipe app, or tiny search engines to discover any\nentity. (for example - Book, Movie, music, Recipe, health, Person, Place, Local\nbusiness, Restaurant etc)\n\nhttps://extract.dev/ (hosted on rapidapi)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "セマンティックマークアップ（json-ld、microdata、opengraph）のための抽出器APIです。\n\n簡単なレシピアプリを作ったり、小さな検索エンジンを作って、あらゆる\nエンティティーがあります。(例えば、本、映画、音楽、レシピ、健康、人、場所、地域、など。\nビジネス、レストランなど)\n\nhttps://extract.dev/ (rapidapiにホスティングされています)",
+      "title": "セマンティックマークアップ/メタデータ抽出のためのAPIを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一个用于语义标记（json-ld、microdata和opengraph）的提取器API。\n\n你可以建立一个简单的菜谱应用程序，或微小的搜索引擎来发现任何\n实体。(例如--书籍、电影、音乐、食谱、健康、人物、地点、当地企业、餐馆等）。\n企业、餐厅等)\n\nhttps://extract.dev/ (托管在rapidapi上)",
+      "title": "我做了一个用于语义标记/元数据提取的api"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一個用於語義標記（json-ld、microdata和opengraph）的提取器API。\n\n你可以建立一個簡單的菜譜應用程序，或微小的搜索引擎來發現任何\n實體。(例如--書籍、電影、音樂、食譜、健康、人物、地點、當地企業、餐館等）。\n企業、餐廳等)\n\nhttps://extract.dev/ (託管在rapidapi上)",
+      "title": "我做了一個用於語義標記/元數據提取的api"
+    }
+  ]
 }
