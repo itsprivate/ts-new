@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは歴史に残ることだ、誰かがついに言ったんだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这是为历史书准备的，终于有人说出来了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是爲歷史書準備的，終於有人說出來了"
+    }
+  ]
 }
