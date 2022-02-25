@@ -41,5 +41,22 @@
   "original_created_at": "2022-02-24T23:59:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mEzJCjOX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q4tmw4xbom0xyrikkqzo.png",
   "author": "Rob OLeary",
-  "author_url": "https://dev.to/robole"
+  "author_url": "https://dev.to/robole",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "XKCDは、おそらくデベロッパーに最も人気のあるウェブコミックです。それは、あなたが...からそれを読むことができる唯一の権利のように思える。",
+      "title": "bashの魔法でターミナルでXKCDを読む"
+    },
+    {
+      "locale": "zh",
+      "description": "XKCD可能是最受开发者欢迎的网络漫画。你可以从《XKCD》中阅读它，这似乎是正确的。",
+      "title": "用一些bash魔法在终端阅读XKCD"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "XKCD可能是最受開發者歡迎的網絡漫畫。你可以從《XKCD》中閱讀它，這似乎是正確的。",
+      "title": "用一些bash魔法在終端閱讀XKCD"
+    }
+  ]
 }
