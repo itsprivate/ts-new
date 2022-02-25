@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-25T08:01:00Z"
+  "original_createdAt": "2022-02-25T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MD Vinylを使えば、音楽を聴きながら、ホーム画面でレコード盤のような効果を楽しむことができます。現在、Apple Musicのみ対応。",
+      "tagline": "Apple Music用Vinylウィジェット"
+    },
+    {
+      "locale": "zh",
+      "description": "有了MD Vinyl，你可以在听音乐时在主屏幕上享受黑胶唱片的效果。目前只支持苹果音乐。",
+      "tagline": "苹果音乐的黑胶小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了MD Vinyl，你可以在聽音樂時在主屏幕上享受黑膠唱片的效果。目前只支持蘋果音樂。",
+      "tagline": "蘋果音樂的黑膠小工具"
+    }
+  ]
 }
