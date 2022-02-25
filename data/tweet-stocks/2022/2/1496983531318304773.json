@@ -52,5 +52,22 @@
     },
     "retweet_count": 223,
     "favorite_count": 1482
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Osinttechnical: ゼレンスキーは敵の「破壊工作」部隊がキエフに入ったと主張しているが、自分はここに留まっている。",
+      "retweeted_status_full_text": "ゼレンスキーは敵の「破壊工作」部隊がキエフに侵入したが、自分はここに留まると主張した"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Ointtechnical: 泽伦斯基称敌人的 \"破坏 \"部队已进入基辅，但他要留下来。",
+      "retweeted_status_full_text": "泽伦斯基称敌人的 \"破坏 \"部队已进入基辅，但他要留下来"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Ointtechnical: 澤倫斯基稱敵人的 \"破壞 \"部隊已進入基輔，但他要留下來。",
+      "retweeted_status_full_text": "澤倫斯基稱敵人的 \"破壞 \"部隊已進入基輔，但他要留下來"
+    }
+  ]
 }

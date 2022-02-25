@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-24T14:26:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--APRC9I5S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4u82bf702imc8jtshag.png",
   "author": "PortfolioDesigners",
-  "author_url": "https://dev.to/portfoliodesigners"
+  "author_url": "https://dev.to/portfoliodesigners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "採用担当者は毎日何百通もの求人票を受け取りますが、その中で目立つものはありません。 しかし、そのような応募書類では、目立つことはできません。",
+      "title": "あなたのポートフォリオを際立たせる"
+    },
+    {
+      "locale": "zh",
+      "description": "招聘人员每天都会收到成百上千份工作申请，但没有一份能脱颖而出。 有了这样一个平台，我们就可以在招聘会上展示我们的产品。",
+      "title": "让你的作品集脱颖而出"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "招聘人員每天都會收到成百上千份工作申請，但沒有一份能脫穎而出。 有了這樣一個平臺，我們就可以在招聘會上展示我們的產品。",
+      "title": "讓你的作品集脫穎而出"
+    }
+  ]
 }
