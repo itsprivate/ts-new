@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアが侵攻して以来、410万ドルの暗号通貨がウクライナ軍に流される"
+    },
+    {
+      "locale": "zh",
+      "title": "自俄罗斯入侵以来，410万美元的加密货币被输送给乌克兰军队"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自俄羅斯入侵以來，410萬美元的加密貨幣被輸送給烏克蘭軍隊"
+    }
+  ]
 }

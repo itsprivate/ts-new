@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タリバンがロシアとウクライナに \"平和的手段 \"による危機の打開を呼びかけ"
+    },
+    {
+      "locale": "zh",
+      "title": "塔利班呼吁俄罗斯和乌克兰通过 \"和平手段 \"结束危机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "塔利班呼籲俄羅斯和烏克蘭通過 \"和平手段 \"結束危機"
+    }
+  ]
 }

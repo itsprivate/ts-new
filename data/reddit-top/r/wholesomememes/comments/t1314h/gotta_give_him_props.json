@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼を褒め称えなければならない。"
+    },
+    {
+      "locale": "zh",
+      "title": "必须给他点赞。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "必須給他點贊。"
+    }
+  ]
 }
