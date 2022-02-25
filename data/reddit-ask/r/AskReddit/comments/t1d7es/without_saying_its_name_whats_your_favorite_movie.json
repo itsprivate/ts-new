@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "名前を言わずに、好きな映画を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "不说它的名字，你最喜欢的电影是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不說它的名字，你最喜歡的電影是什麼？"
+    }
+  ]
 }
