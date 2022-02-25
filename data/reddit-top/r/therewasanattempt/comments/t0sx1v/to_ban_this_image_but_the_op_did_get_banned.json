@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この画像を禁止するには（しかし、OPは禁止され、削除され、存在からパージされたので、さようなら、Reddit; あなたは私のものもパージできる🖕）。"
+    },
+    {
+      "locale": "zh",
+      "title": "为了禁止这张图片（但OP确实被禁止、移除、删除和清除了，所以再见，Reddit；你也可以清除我的🖕）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了禁止這張圖片（但OP確實被禁止、移除、刪除和清除了，所以再見，Reddit；你也可以清除我的🖕）。"
+    }
+  ]
 }
