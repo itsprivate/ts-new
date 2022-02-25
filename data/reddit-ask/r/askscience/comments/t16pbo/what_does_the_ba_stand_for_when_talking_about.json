@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As in BA.1 and BA.2"
+  "the_new_excerpt": "As in BA.1 and BA.2",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "BA.1、BA.2同様",
+      "title": "オミクロンの変種といえば「BA」ですが、これは何の略なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "与BA.1和BA.2中一样",
+      "title": "谈到奥米加变体时，\"BA \"代表什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "與BA.1和BA.2中一樣",
+      "title": "談到奧米加變體時，\"BA \"代表什麼？"
+    }
+  ]
 }
