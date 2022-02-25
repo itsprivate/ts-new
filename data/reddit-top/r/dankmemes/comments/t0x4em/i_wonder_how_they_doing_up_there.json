@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "向こうはどうなんだろう"
+    },
+    {
+      "locale": "zh",
+      "title": "我想知道他们在那里做得怎么样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想知道他們在那裏做得怎麼樣"
+    }
+  ]
 }
