@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-25T07:46:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xNkaGgLu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4wa2p018usa9q3er7bc.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、私が一日を過ごすのに役立つ、Jestのモッキングのスニペットをいくつか紹介します。 きっと皆さんも...",
+      "title": "Jest Mocking Cheatsheet（ジェスト・モッキング・チートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有几个有用的Jest嘲讽片段，帮助我度过了一天。 我打赌你们都喜欢...",
+      "title": "Jest 嘲讽小册子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有幾個有用的Jest嘲諷片段，幫助我度過了一天。 我打賭你們都喜歡...",
+      "title": "Jest 嘲諷小冊子"
+    }
+  ]
 }
