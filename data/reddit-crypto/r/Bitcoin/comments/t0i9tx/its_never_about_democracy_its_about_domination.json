@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは決して民主主義についてではない それは支配についてです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这绝不是关于民主。它是关于统治的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這絕不是關於民主。它是關於統治的。"
+    }
+  ]
 }
