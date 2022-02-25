@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナのビットコイン取引量が200％急増、ロシア戦争で通貨不安が広がる"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯战争引发货币担忧，乌克兰比特币交易所交易量激增200％。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯戰爭引發貨幣擔憂，烏克蘭比特幣交易所交易量激增200％。"
+    }
+  ]
 }
