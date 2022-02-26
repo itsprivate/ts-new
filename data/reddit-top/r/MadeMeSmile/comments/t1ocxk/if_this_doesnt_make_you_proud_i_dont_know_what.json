@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これがあなたの誇りでないなら、何が誇りなのかわからない。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果这还不能让你感到自豪，我不知道什么能让你感到自豪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果這還不能讓你感到自豪，我不知道什麼能讓你感到自豪。"
+    }
+  ]
 }
