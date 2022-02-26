@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "倫理的な一夫一婦制についてどう思われますか？もしあれば、それはうまくいきましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对伦理上的非一夫一妻制有什么看法？ 你曾经尝试过吗？如果有的话，它的效果如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對倫理上的非一夫一妻制有什麼看法？ 你曾經嘗試過嗎？如果有的話，它的效果如何？"
+    }
+  ]
 }
