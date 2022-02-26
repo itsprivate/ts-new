@@ -134,5 +134,22 @@
     "retweet_count": 156,
     "favorite_count": 680,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @TikTokInvestors: https://t.co/QOaGNzCNMw",
+      "retweeted_status_full_text": "https://t.co/QOaGNzCNMw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @TikTokInvestors: https://t.co/QOaGNzCNMw",
+      "retweeted_status_full_text": "https://t.co/QOaGNzCNMw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @TikTokInvestors: https://t.co/QOaGNzCNMw",
+      "retweeted_status_full_text": "https://t.co/QOaGNzCNMw"
+    }
+  ]
 }

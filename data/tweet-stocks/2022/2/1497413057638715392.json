@@ -91,5 +91,22 @@
     "retweet_count": 151,
     "favorite_count": 1234,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: もしあなたが5日前に寝て、今起きたところなら、S&amp;Pが正確に0...動いたと知って喜ぶことでしょう。",
+      "retweeted_status_full_text": "もしあなたが5取引日前に寝て、今起きたところなら、S&amp;Pが正確に0.00%動いたことを知り、喜ぶことでしょう https://t.co/OIyxjKSC4N"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 如果你在5个交易日前睡觉，现在刚刚醒来，你会很高兴地知道，S&amp;P已经正好移动了0....。",
+      "retweeted_status_full_text": "如果你在5个交易日前睡觉，现在刚刚醒来，你会很高兴地知道，S&amp;P已经正好移动了0.00%https://t.co/OIyxjKSC4N。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 如果你在5個交易日前睡覺，現在剛剛醒來，你會很高興地知道，S&amp;P已經正好移動了0....。",
+      "retweeted_status_full_text": "如果你在5個交易日前睡覺，現在剛剛醒來，你會很高興地知道，S&amp;P已經正好移動了0.00%https://t.co/OIyxjKSC4N。"
+    }
+  ]
 }
