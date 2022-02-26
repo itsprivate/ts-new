@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-25T04:23:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FLLJQK92--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cijxkzrjxfphuwzdlhd.gif",
   "author": "Sebastian Tiedtke",
-  "author_url": "https://dev.to/sourishkrout"
+  "author_url": "https://dev.to/sourishkrout",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "他の開発者と一緒に仕事をすることで、仲間意識が芽生えるだけでなく、それが火種になることも少なくありません...。",
+      "title": "VS Codeのコーディング状況を共有することで、他のユーザーと交流することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在工作时，其他开发者的共同存在不只是促进友谊，它往往是火花。",
+      "title": "通过分享您的VS代码编码状态与他人联系"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在工作時，其他開發者的共同存在不只是促進友誼，它往往是火花。",
+      "title": "通過分享您的VS代碼編碼狀態與他人聯繫"
+    }
+  ]
 }
