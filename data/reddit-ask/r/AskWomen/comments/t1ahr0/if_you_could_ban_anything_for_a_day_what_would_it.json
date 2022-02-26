@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが1日だけ何かを禁止できるとしたら、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以禁止任何东西一天，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以禁止任何東西一天，那會是什麼？"
+    }
+  ]
 }
