@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-23T15:51:26Z",
   "image": "https://dev.to/social_previews/article/998988.png",
   "author": "Cosme Escobedo",
-  "author_url": "https://dev.to/cosmeoes"
+  "author_url": "https://dev.to/cosmeoes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はlaravelremote.com（Laravelのリモートジョブアグリゲーター）を構築している間、それぞれの...",
+      "title": "ウェブサイトにゼロ・ダウン展開を追加した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当我在建立laravelremote.com（一个Laravel远程工作聚合器）时，我担心每个...",
+      "title": "我如何在我的网站上增加零首付部署"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我在建立laravelremote.com（一個Laravel遠程工作聚合器）時，我擔心每個...",
+      "title": "我如何在我的網站上增加零首付部署"
+    }
+  ]
 }
