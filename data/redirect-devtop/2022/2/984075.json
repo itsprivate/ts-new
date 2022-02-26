@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-09T18:35:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d8K_D-ih--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/335ns4gp73emzwmak9ne.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSで書かれたCSSについてのウェブコミック、comiCSSのプロジェクトを紹介します。",
+      "title": "comiCSSの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍comiCSS项目：一个关于CSS的网络漫画，用CSS编码。",
+      "title": "介绍一下comiCSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹comiCSS項目：一個關於CSS的網絡漫畫，用CSS編碼。",
+      "title": "介紹一下comiCSS"
+    }
+  ]
 }
