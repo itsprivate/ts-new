@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "According to Bureau of Labor Statistics, the average wage for a person with a\nliberal arts degree is 50k\nhttps://www.bls.gov/ooh/field-of-degree/liberal-arts/mobile/liberal-arts-field-of-degree.htm"
+  "the_new_excerpt": "According to Bureau of Labor Statistics, the average wage for a person with a\nliberal arts degree is 50k\nhttps://www.bls.gov/ooh/field-of-degree/liberal-arts/mobile/liberal-arts-field-of-degree.htm",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "労働統計局の調べによると、平均的な賃金は、1,000万円以上です。\nリベラルアーツ学部卒は5万円\nhttps://www.bls.gov/ooh/field-of-degree/liberal-arts/mobile/liberal-arts-field-of-degree.htm",
+      "title": "統計ではそうなっているのに、なぜ文系は無駄だと言われるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "根据劳工统计局的数据，拥有文科学位的人的平均工资是5万美元。\n文科学位的平均工资是5万\nhttps://www.bls.gov/ooh/field-of-degree/liberal-arts/mobile/liberal-arts-field-of-degree.htm",
+      "title": "为什么有人说文科学位是无用的，而统计数据却说是无用的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "根據勞工統計局的數據，擁有文科學位的人的平均工資是5萬美元。\n文科學位的平均工資是5萬\nhttps://www.bls.gov/ooh/field-of-degree/liberal-arts/mobile/liberal-arts-field-of-degree.htm",
+      "title": "爲什麼有人說文科學位是無用的，而統計數據卻說是無用的？"
+    }
+  ]
 }

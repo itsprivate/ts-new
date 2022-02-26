@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-26T08:00:00Z"
+  "original_createdAt": "2022-02-26T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Wordleにインスパイアされた、できるだけ少ない試行回数でイントロから曲を当てるゲームです",
+      "tagline": "Wordleのような、しかし音楽のための"
+    },
+    {
+      "locale": "zh",
+      "description": "一个受Wordle启发的游戏，你必须在尽可能少的尝试中猜出前奏中的歌曲。",
+      "tagline": "像Wordle一样，但对于音乐来说"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個受Wordle啓發的遊戲，你必須在儘可能少的嘗試中猜出前奏中的歌曲。",
+      "tagline": "像Wordle一樣，但對於音樂來說"
+    }
+  ]
 }
