@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-24T19:40:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PpUveFRF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ymfb26kolzknmjl364t.png",
   "author": "Dawson Codes",
-  "author_url": "https://dev.to/dawsoncodes"
+  "author_url": "https://dev.to/dawsoncodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、フロントエンドの開発において最高のツールになり得る。",
+      "title": "Reactコミュニティの10個のフックを使用する必要があります。"
+    },
+    {
+      "locale": "zh",
+      "description": "当涉及到前端开发时，React可能是最好的工具，React本身是非常...",
+      "title": "10个你应该使用的React社区钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當涉及到前端開發時，React可能是最好的工具，React本身是非常...",
+      "title": "10個你應該使用的React社區鉤子"
+    }
+  ]
 }
