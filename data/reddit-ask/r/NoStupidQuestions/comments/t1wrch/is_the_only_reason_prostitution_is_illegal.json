@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I’ve been told that the only reason it’s illegal is because there’s no way for\nthe government to get themselves a cut of the money, same with drug dealers."
+  "the_new_excerpt": "I’ve been told that the only reason it’s illegal is because there’s no way for\nthe government to get themselves a cut of the money, same with drug dealers.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "違法なのは、その方法がないからだと聞いたことがあります。\n麻薬の売人と同じように、政府は自分たちの分け前を得ることができない。",
+      "title": "売春が違法なのは、政府がそれでお金を得られないから？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有人告诉我，它是非法的唯一原因是没有办法让\n政府没有办法让自己分到钱，和毒贩子一样。",
+      "title": "卖淫违法的唯一原因是政府没有从中获得任何金钱吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有人告訴我，它是非法的唯一原因是沒有辦法讓\n政府沒有辦法讓自己分到錢，和毒販子一樣。",
+      "title": "賣淫違法的唯一原因是政府沒有從中獲得任何金錢嗎？"
+    }
+  ]
 }
