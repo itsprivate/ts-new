@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナ政府がクリプトの寄付を募集しています。ウクライナ政府の公式ツイッターアカウントが、ビットコイン（BTC）、イーサリアム（ETH）、安定コインであるテザー（USDT）の寄付のためのウォレットアドレスを提供しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰政府正在寻求加密货币捐款。乌克兰政府的官方推特账户提供了捐赠比特币（BTC）、以太坊（ETH）和稳定币tether（USDT）的钱包地址。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭政府正在尋求加密貨幣捐款。烏克蘭政府的官方推特賬戶提供了捐贈比特幣（BTC）、以太坊（ETH）和穩定幣tether（USDT）的錢包地址。"
+    }
+  ]
 }
