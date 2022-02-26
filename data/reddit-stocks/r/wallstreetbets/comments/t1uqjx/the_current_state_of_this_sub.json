@@ -146,5 +146,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1645873807,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このサブの現在の状態。"
+    },
+    {
+      "locale": "zh",
+      "title": "该子的当前状态。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該子的當前狀態。"
+    }
+  ]
 }
