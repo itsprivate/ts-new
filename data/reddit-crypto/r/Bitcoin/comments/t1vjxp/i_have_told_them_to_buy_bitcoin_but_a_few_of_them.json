@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを買えと言ったことがあるが、その時聞いてくれるのは数人である"
+    },
+    {
+      "locale": "zh",
+      "title": "我曾告诉他们购买比特币，但他们中只有少数人听我的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我曾告訴他們購買比特幣，但他們中只有少數人聽我的。"
+    }
+  ]
 }
