@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供の頃に初めて意識した大きな「ニュース」は何でしたか、またそれについてどう考えていたか覚えていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的记忆中，你小时候意识到的第一个大的 \"新闻事件 \"是什么，你还记得对它有什么想法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的記憶中，你小時候意識到的第一個大的 \"新聞事件 \"是什麼，你還記得對它有什麼想法？"
+    }
+  ]
 }
