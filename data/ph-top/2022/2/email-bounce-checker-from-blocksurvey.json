@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-02-26T08:27:13Z"
+  "original_createdAt": "2022-02-26T08:27:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BlockSurveyのメールバウンスチェッカーは無料ツールです。メールが有効かどうかを調べるのに役立ちます! メールを入力するだけで、データが記録される心配もなく、検証できます。オープンソースです。",
+      "tagline": "プライバシーに配慮したメールバウンスチェッカー。広告やトラッカーは一切なし。"
+    },
+    {
+      "locale": "zh",
+      "description": "BlockSurvey的Email bounce checker是一个免费工具。它可以帮助您找出电子邮件是否有效 只需输入电子邮件并验证，不用担心你的数据被记录。它是开源的。",
+      "tagline": "以隐私为重点的电子邮件退信检查器。没有广告，没有跟踪器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BlockSurvey的Email bounce checker是一個免費工具。它可以幫助您找出電子郵件是否有效 只需輸入電子郵件並驗證，不用擔心你的數據被記錄。它是開源的。",
+      "tagline": "以隱私爲重點的電子郵件退信檢查器。沒有廣告，沒有跟蹤器。"
+    }
+  ]
 }
