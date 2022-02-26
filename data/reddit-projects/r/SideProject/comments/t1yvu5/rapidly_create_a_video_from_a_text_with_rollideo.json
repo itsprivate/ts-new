@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rollideoでテキストから動画を高速作成"
+    },
+    {
+      "locale": "zh",
+      "title": "用Rollideo从文本中快速创建一个视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Rollideo從文本中快速創建一個視頻"
+    }
+  ]
 }
