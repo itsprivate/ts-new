@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Steamがビットコインを支払いに受け入れたとき、「50%の取引が不正だった」とGabe Newellは言う。"
+    },
+    {
+      "locale": "zh",
+      "title": "Gabe Newell说，当Steam接受比特币支付时，\"50%的交易是欺诈性的\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Gabe Newell說，當Steam接受比特幣支付時，\"50%的交易是欺詐性的\"。"
+    }
+  ]
 }
