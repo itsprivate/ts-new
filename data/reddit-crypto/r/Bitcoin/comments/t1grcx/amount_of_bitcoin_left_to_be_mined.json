@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "採掘可能なビットコインの残量。"
+    },
+    {
+      "locale": "zh",
+      "title": "尚待开采的比特币数量。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "尚待開採的比特幣數量。"
+    }
+  ]
 }
