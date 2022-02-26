@@ -134,5 +134,22 @@
     "retweet_count": 1643,
     "favorite_count": 3121,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BeckkieParnell: うわー2回も死ぬとか超不運！！！ https://t.co/VS5zMgG1l9",
+      "retweeted_status_full_text": "うわー2回も死ぬとか超不運！！！ https://t.co/VS5zMgG1l9"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BeckkieParnell: 哇，死了两次，超级不走运!!!!!!!! https://t.co/VS5zMgG1l9。",
+      "retweeted_status_full_text": "哇，死了两次，超级倒霉!!!!!!!! https://t.co/VS5zMgG1l9"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BeckkieParnell: 哇，死了兩次，超級不走運!!!!!!!! https://t.co/VS5zMgG1l9。",
+      "retweeted_status_full_text": "哇，死了兩次，超級倒黴!!!!!!!! https://t.co/VS5zMgG1l9"
+    }
+  ]
 }
