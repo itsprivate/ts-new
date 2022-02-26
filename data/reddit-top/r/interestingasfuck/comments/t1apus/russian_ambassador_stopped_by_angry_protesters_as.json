@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アイルランドの大使館に入ろうとしたロシア大使が、怒ったデモ隊に止められる。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯大使在试图进入驻爱尔兰大使馆时被愤怒的抗议者阻止。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯大使在試圖進入駐愛爾蘭大使館時被憤怒的抗議者阻止。"
+    }
+  ]
 }
