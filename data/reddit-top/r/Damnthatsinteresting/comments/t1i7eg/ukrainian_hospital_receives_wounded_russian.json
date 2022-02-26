@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナの病院が負傷したロシア兵を受け入れる。これはロシアのテレビでは放映されない。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰医院接收受伤的俄罗斯士兵。这不会在俄罗斯电视上播放。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭醫院接收受傷的俄羅斯士兵。這不會在俄羅斯電視上播放。"
+    }
+  ]
 }

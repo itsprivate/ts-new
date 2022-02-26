@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-21T12:15:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LDgE3Hxi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gydptqoa3eszs9p3v5li.png",
   "author": "Johannes Kettmann",
-  "author_url": "https://dev.to/jkettmann"
+  "author_url": "https://dev.to/jkettmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactのフォルダ構造...様々なアプローチや意見があります。しかし、それらはどのように進化し、どのような犠牲を払っているのでしょうか？これは、機能主導のフォルダ構造を最後に、成長するコードベースの旅です。",
+      "title": "Screaming Architecture - Reactのフォルダ構造を進化させる"
+    },
+    {
+      "locale": "zh",
+      "description": "React文件夹结构......有很多方法和意见。但它们是如何演变的，代价是什么？这是一个不断增长的代码库的旅程，其终点是一个功能驱动的文件夹结构。",
+      "title": "Screaming Architecture - React文件夹结构的演变"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React文件夾結構......有很多方法和意見。但它們是如何演變的，代價是什麼？這是一個不斷增長的代碼庫的旅程，其終點是一個功能驅動的文件夾結構。",
+      "title": "Screaming Architecture - React文件夾結構的演變"
+    }
+  ]
 }
