@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ両方でないのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么不同时进行？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼不同時進行？"
+    }
+  ]
 }
