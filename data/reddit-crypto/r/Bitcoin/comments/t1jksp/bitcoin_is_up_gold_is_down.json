@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは上昇、ゴールドは下降"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币上涨 - 黄金下跌"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣上漲 - 黃金下跌"
+    }
+  ]
 }
