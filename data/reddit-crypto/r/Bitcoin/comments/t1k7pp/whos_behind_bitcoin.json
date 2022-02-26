@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを支える人たち"
+    },
+    {
+      "locale": "zh",
+      "title": "谁是比特币的幕后推手"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰是比特幣的幕後推手"
+    }
+  ]
 }
