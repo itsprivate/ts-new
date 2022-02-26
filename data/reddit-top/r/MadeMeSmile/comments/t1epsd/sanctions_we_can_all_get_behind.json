@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちが支持することができる制裁措置。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们都可以支持的制裁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們都可以支持的制裁。"
+    }
+  ]
 }
