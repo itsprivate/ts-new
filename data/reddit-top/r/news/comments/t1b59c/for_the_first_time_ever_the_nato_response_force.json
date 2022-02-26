@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナへの侵攻を続けるロシアに対し、防衛手段として初めてNATO対応部隊を発動した。"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来第一次，北约反应部队被启动，作为对俄罗斯持续入侵乌克兰的防御措施。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來第一次，北約反應部隊被啓動，作爲對俄羅斯持續入侵烏克蘭的防禦措施。"
+    }
+  ]
 }
