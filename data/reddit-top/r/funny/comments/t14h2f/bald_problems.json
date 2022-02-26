@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハゲの問題"
+    },
+    {
+      "locale": "zh",
+      "title": "秃头问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "禿頭問題"
+    }
+  ]
 }
