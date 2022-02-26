@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なーんだ、そんなもんか。"
+    },
+    {
+      "locale": "zh",
+      "title": "咦？\"\"不是吧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "咦？\"\"不是吧？"
+    }
+  ]
 }
