@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And how accurate is it?"
+  "the_new_excerpt": "And how accurate is it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、その精度はどの程度なのでしょうか？",
+      "title": "スマートウォッチで血圧が測れるのはなぜ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那么它的准确性如何呢？",
+      "title": "智能手表如何测量血压？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那麼它的準確性如何呢？",
+      "title": "智能手錶如何測量血壓？"
+    }
+  ]
 }
