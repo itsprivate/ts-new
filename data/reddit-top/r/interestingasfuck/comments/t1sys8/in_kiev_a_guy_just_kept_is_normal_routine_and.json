@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キエフでは、ある男が普段通りの生活を送りながら、戦車に囲まれてサイクリングに出かけました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在基辅，一个人只是保持了正常的生活习惯，在坦克的包围下骑自行车。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在基輔，一個人只是保持了正常的生活習慣，在坦克的包圍下騎自行車。"
+    }
+  ]
 }
