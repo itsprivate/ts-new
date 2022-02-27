@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バットマンの名前の由来はコウモリが怖かったからだそうですが、あなたのスーパーヒーローの名前は何でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "既然蝙蝠侠因害怕蝙蝠而得名，那么你的超级英雄名字会是什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "既然蝙蝠俠因害怕蝙蝠而得名，那麼你的超級英雄名字會是什麼呢？"
+    }
+  ]
 }
