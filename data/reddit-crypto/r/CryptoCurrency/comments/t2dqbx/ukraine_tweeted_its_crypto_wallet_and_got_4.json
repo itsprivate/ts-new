@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナは暗号ウォレットをツイートし、ロシアとの戦いを支援するために400万ドルの寄付を得た。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰在推特上发布其加密钱包，并获得400万美元的捐款以帮助对抗俄罗斯"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭在推特上發佈其加密錢包，並獲得400萬美元的捐款以幫助對抗俄羅斯"
+    }
+  ]
 }
