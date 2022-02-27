@@ -134,5 +134,22 @@
     "retweet_count": 4077,
     "favorite_count": 9695,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @FLATHORIZON1: よく考えてみてください...すべてはテレビで見えているものとは違うのです https://t.co/NvoqviokYK",
+      "retweeted_status_full_text": "よく考えてみてください...すべてはテレビで見ているようなものではありません https://t.co/NvoqviokYK"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @FLATHORIZON1: 三思而行......一切都不是电视上看起来的那样 https://t.co/NvoqviokYK",
+      "retweeted_status_full_text": "三思而行......一切都不是电视上看起来的那样 https://t.co/NvoqviokYK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @FLATHORIZON1: 三思而行......一切都不是電視上看起來的那樣 https://t.co/NvoqviokYK",
+      "retweeted_status_full_text": "三思而行......一切都不是電視上看起來的那樣 https://t.co/NvoqviokYK"
+    }
+  ]
 }

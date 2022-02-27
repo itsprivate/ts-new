@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが左対右のパラダイムでプロットされていることに失望。これは、私たちが主流の普及段階に入ったときに起こることだと思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "很失望地看到比特币被绘制成了左边与右边的范本。我猜这就是我们进入主流采用阶段后的情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很失望地看到比特幣被繪製成了左邊與右邊的範本。我猜這就是我們進入主流採用階段後的情況。"
+    }
+  ]
 }

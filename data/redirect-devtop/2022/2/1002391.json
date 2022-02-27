@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-26T15:44:26Z",
   "image": "https://dev.to/social_previews/article/1002391.png",
   "author": "Keshav",
-  "author_url": "https://dev.to/keshav44483499"
+  "author_url": "https://dev.to/keshav44483499",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML、CSS、JavaScriptによるWebサイトの構築 Reactまたは...によるフロントエンドのWebアプリケーションの構築",
+      "title": "2022年、開発者としてやっておくべきこと..."
+    },
+    {
+      "locale": "zh",
+      "description": "用HTML、CSS和JavaScript建立一个网站 用React 或... 建立一个前端网络应用程序",
+      "title": "2022年作为开发者应该做的事..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用HTML、CSS和JavaScript建立一個網站 用React 或... 建立一個前端網絡應用程序",
+      "title": "2022年作爲開發者應該做的事..."
+    }
+  ]
 }
