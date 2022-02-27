@@ -52,5 +52,22 @@
   "original_created_at": "2022-01-21T10:01:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RC7DpY5E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0pdzde3t72b0jphi5zm.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このホワイトペーパーでは、災害対策の計画、実施、維持のためのベストプラクティスを概説しています。",
+      "title": "オンプレミスアプリケーションのAWSへのディザスターリカバリー｜AWSホワイトペーパーの概要"
+    },
+    {
+      "locale": "zh",
+      "description": "本白皮书概述了规划、实施和维护灾难的最佳做法。",
+      "title": "企业内部应用的灾难恢复到AWS | AWS白皮书摘要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本白皮書概述了規劃、實施和維護災難的最佳做法。",
+      "title": "企業內部應用的災難恢復到AWS | AWS白皮書摘要"
+    }
+  ]
 }
