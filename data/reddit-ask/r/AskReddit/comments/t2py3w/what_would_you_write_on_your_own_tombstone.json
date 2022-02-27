@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の墓石には何を書きますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会在自己的墓碑上写什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會在自己的墓碑上寫什麼？"
+    }
+  ]
 }
