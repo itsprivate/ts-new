@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り「ワン」と鳴く犬！？"
+    },
+    {
+      "locale": "zh",
+      "title": "狗真的在说 \"汪\"!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狗真的在說 \"汪\"!"
+    }
+  ]
 }
