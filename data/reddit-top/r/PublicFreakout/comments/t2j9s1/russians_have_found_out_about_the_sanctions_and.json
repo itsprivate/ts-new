@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシア人は、制裁とSWIFTの禁止を知った。バンクランが始まっているようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯人已经发现了制裁和SWIFT禁令的问题。银行挤兑似乎已经开始。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯人已經發現了制裁和SWIFT禁令的問題。銀行擠兌似乎已經開始。"
+    }
+  ]
 }
