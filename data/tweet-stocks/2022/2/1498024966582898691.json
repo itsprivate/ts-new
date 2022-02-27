@@ -134,5 +134,22 @@
     "retweet_count": 7452,
     "favorite_count": 28881,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @edwardrussl: https://t.co/VJ97Axcfmw",
+      "retweeted_status_full_text": "https://t.co/VJ97Axcfmw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @edwardrussl: https://t.co/VJ97Axcfmw",
+      "retweeted_status_full_text": "https://t.co/VJ97Axcfmw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @edwardrussl: https://t.co/VJ97Axcfmw",
+      "retweeted_status_full_text": "https://t.co/VJ97Axcfmw"
+    }
+  ]
 }
