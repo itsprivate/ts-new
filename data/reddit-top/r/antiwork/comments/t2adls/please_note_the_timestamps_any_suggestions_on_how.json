@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイムスタンプにご注目ください。このとんでもない不公平に対処する方法について、何かご意見はありませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "请注意时间戳。对如何处理这种无耻的不公平现象有什么建议吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請注意時間戳。對如何處理這種無恥的不公平現象有什麼建議嗎？"
+    }
+  ]
 }
