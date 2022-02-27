@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゼレンスクライ社長とご家族。この人は、何のために戦っているのかを知っている人だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "泽兰斯克雷总统与他的家人。这是一个知道自己在为之奋斗的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "澤蘭斯克雷總統與他的家人。這是一個知道自己在爲之奮鬥的人。"
+    }
+  ]
 }
