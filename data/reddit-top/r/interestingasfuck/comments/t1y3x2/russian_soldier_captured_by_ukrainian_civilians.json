@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナの市民に捕らえられたロシア兵"
+    },
+    {
+      "locale": "zh",
+      "title": "被乌克兰平民俘虏的俄罗斯士兵"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "被烏克蘭平民俘虜的俄羅斯士兵"
+    }
+  ]
 }
