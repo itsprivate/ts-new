@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クリーニングを受ける小さなカメ"
+    },
+    {
+      "locale": "zh",
+      "title": "小乌龟被清洗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小烏龜被清洗"
+    }
+  ]
 }
