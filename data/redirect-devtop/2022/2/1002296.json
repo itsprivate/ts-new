@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-26T14:25:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z2wGP2Gx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ypgcmk9w847o2rtxmes.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptで型を扱う場合、どのような型があるのかを知っていることが前提になります...",
+      "title": "TypeScriptの汎用型"
+    },
+    {
+      "locale": "zh",
+      "description": "在TypeScript中处理类型时，我们假设我们知道我们将处理什么样的类型。",
+      "title": "TypeScript通用类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在TypeScript中處理類型時，我們假設我們知道我們將處理什麼樣的類型。",
+      "title": "TypeScript通用類型"
+    }
+  ]
 }
