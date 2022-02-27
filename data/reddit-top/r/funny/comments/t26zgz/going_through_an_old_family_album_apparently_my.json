@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古い家族のアルバムを見ると、どうやら兄は30年前のアンディ・サンバーグに似ているようだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "翻阅旧的家庭相册，显然我哥哥在30年前就像安迪-萨姆伯格了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "翻閱舊的家庭相冊，顯然我哥哥在30年前就像安迪-薩姆伯格了"
+    }
+  ]
 }
