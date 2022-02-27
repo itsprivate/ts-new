@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "医師が \"Do you smoke? \"と尋ねるとき、彼らはタバコやベイプだけを指しているのでしょうか？ マリファナも含まれるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当医生问 \"你吸烟吗？\"他们是否只指香烟/吸管？ 这是否包括大麻？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當醫生問 \"你吸菸嗎？\"他們是否只指香菸/吸管？ 這是否包括大麻？"
+    }
+  ]
 }
