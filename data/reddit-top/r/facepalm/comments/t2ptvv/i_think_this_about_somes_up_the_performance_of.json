@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、これまでのロシア軍のパフォーマンスを象徴していると思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "我认为这大约说明了俄罗斯军队迄今为止的表现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我認爲這大約說明了俄羅斯軍隊迄今爲止的表現。"
+    }
+  ]
 }
