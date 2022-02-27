@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロジェクト・オービトロン Mathematica で実装された特許取得済みのユニークな制御アルゴリズムを持つ球体車輪の乗り物．"
+    },
+    {
+      "locale": "zh",
+      "title": "Orbitron项目。一个球形轮子的车辆，有一个独特的专利控制算法，在Mathematica中实现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Orbitron項目。一個球形輪子的車輛，有一個獨特的專利控制算法，在Mathematica中實現。"
+    }
+  ]
 }
