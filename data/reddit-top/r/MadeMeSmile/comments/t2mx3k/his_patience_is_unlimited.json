@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼の忍耐は無限である"
+    },
+    {
+      "locale": "zh",
+      "title": "他的耐心是无限的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他的耐心是無限的"
+    }
+  ]
 }
