@@ -91,5 +91,22 @@
     "retweet_count": 5019,
     "favorite_count": 9975,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @lotusctr: ファイザー社製ワクチンのRNAは、最速6時間でDNAに逆転写されることが判明しました。でも、安心してください。",
+      "retweeted_status_full_text": "ファイザー社製ワクチンのRNAは、6時間という短時間でDNAに逆転写されることが判明しました。でも、心配しないで、これはin vitroの話だから、in vivoではきっと研究されていて、何も問題ないんだろう・・・ね？🤨 https://t.co/ThP87iIUTl"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @lotusctr: Woops. 原来辉瑞疫苗的RNA可以在6小时内迅速逆转录成DNA! 但不要担心，...",
+      "retweeted_status_full_text": "咦，原来辉瑞公司疫苗的RNA在6小时内就能迅速逆转录成DNA! 但不要担心，这是在体外，我相信在体内他们一定研究过，一切都很好......对吗？🤨https://t.co/ThP87iIUTl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @lotusctr: Woops. 原來輝瑞疫苗的RNA可以在6小時內迅速逆轉錄成DNA! 但不要擔心，...",
+      "retweeted_status_full_text": "咦，原來輝瑞公司疫苗的RNA在6小時內就能迅速逆轉錄成DNA! 但不要擔心，這是在體外，我相信在體內他們一定研究過，一切都很好......對嗎？🤨https://t.co/ThP87iIUTl"
+    }
+  ]
 }
