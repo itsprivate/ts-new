@@ -52,5 +52,22 @@
   "original_created_at": "2021-11-15T04:58:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C-1-s41G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txiumsqfcnt5yur46atg.png",
   "author": "Adit Modi",
-  "author_url": "https://dev.to/aditmodi"
+  "author_url": "https://dev.to/aditmodi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Amazon QuickSightは、スケーラブル、サーバーレス、エンベデッド、マシン...",
+      "title": "Amazon QuickSightの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：亚马逊QuickSight是一个可扩展的、无服务器的、可嵌入的、机器化的、可扩展的系统。",
+      "title": "亚马逊QuickSight简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：亞馬遜QuickSight是一個可擴展的、無服務器的、可嵌入的、機器化的、可擴展的系統。",
+      "title": "亞馬遜QuickSight簡介"
+    }
+  ]
 }
