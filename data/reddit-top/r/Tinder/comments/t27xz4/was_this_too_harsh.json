@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは厳しすぎましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这是不是太苛刻了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是不是太苛刻了？"
+    }
+  ]
 }
