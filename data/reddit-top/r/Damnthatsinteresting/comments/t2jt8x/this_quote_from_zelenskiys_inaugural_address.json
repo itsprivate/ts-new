@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゼレンスキー氏の就任演説からの引用です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这段话来自泽伦斯基的就职演说"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這段話來自澤倫斯基的就職演說"
+    }
+  ]
 }
