@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Share!!"
+  "the_new_excerpt": "Share!!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "シェア！！（笑",
+      "title": "恋愛中の健全な人から言われて、恋愛観が変わったことは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "分享！！！。",
+      "title": "关系中的某人告诉你什么健康的事情，改变了你看待关系的方式？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "分享！！！。",
+      "title": "關係中的某人告訴你什麼健康的事情，改變了你看待關係的方式？"
+    }
+  ]
 }
