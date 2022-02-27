@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just really wondering."
+  "the_new_excerpt": "Just really wondering.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ただ、本当に不思議です。",
+      "title": "長く付き合っているSOに結婚の意志がないかどうか、どうすればわかるのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是真的想知道。",
+      "title": "你怎么知道你多年的SO是否没有与你结婚的打算？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是真的想知道。",
+      "title": "你怎麼知道你多年的SO是否沒有與你結婚的打算？"
+    }
+  ]
 }
