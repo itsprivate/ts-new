@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スイスの首都ベルンで2万人が抗議活動 🇺🇨 政府がロシアに制裁を課さないため"
+    },
+    {
+      "locale": "zh",
+      "title": "🇺🇦🇨🇭 两万人在瑞士首都伯尔尼抗议，因为政府没有对俄罗斯实施制裁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "🇺🇦🇨🇭 兩萬人在瑞士首都伯爾尼抗議，因爲政府沒有對俄羅斯實施制裁。"
+    }
+  ]
 }
