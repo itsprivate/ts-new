@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アノニマスが「ロシアTVをハッキングしてウクライナ前線の映像を流す」。"
+    },
+    {
+      "locale": "zh",
+      "title": "匿名者 \"黑进俄罗斯电视台，播放乌克兰前线的录像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "匿名者 \"黑進俄羅斯電視臺，播放烏克蘭前線的錄像"
+    }
+  ]
 }
