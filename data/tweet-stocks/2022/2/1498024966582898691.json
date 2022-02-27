@@ -1,0 +1,138 @@
+{
+  "created_at": "Sun Feb 27 20:39:8 +0000 2022",
+  "id_str": "1498024966582898691",
+  "full_text": "RT @edwardrussl: https://t.co/VJ97Axcfmw",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "edwardrussl",
+        "name": "Edward",
+        "id": 1250920251887366100,
+        "id_str": "1250920251887366144",
+        "indices": [
+          3,
+          15
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1497767338912845800,
+        "id_str": "1497767338912845825",
+        "indices": [
+          17,
+          40
+        ],
+        "media_url": "http://pbs.twimg.com/media/FMkjdZAVEAEuyDh.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FMkjdZAVEAEuyDh.jpg",
+        "url": "https://t.co/VJ97Axcfmw",
+        "display_url": "pic.twitter.com/VJ97Axcfmw",
+        "expanded_url": "https://twitter.com/edwardrussl/status/1497767342914162692/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "h": 1280,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1497767342914162700,
+        "source_status_id_str": "1497767342914162692",
+        "source_user_id": 1250920251887366100,
+        "source_user_id_str": "1250920251887366144"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 7452,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Feb 27 19:59:18 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Sun Feb 27 02:55:36 +0000 2022",
+    "id_str": "1497767342914162692",
+    "full_text": "https://t.co/VJ97Axcfmw",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1497767338912845800,
+          "id_str": "1497767338912845825",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/media/FMkjdZAVEAEuyDh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FMkjdZAVEAEuyDh.jpg",
+          "url": "https://t.co/VJ97Axcfmw",
+          "display_url": "pic.twitter.com/VJ97Axcfmw",
+          "expanded_url": "https://twitter.com/edwardrussl/status/1497767342914162692/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 544,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Edward",
+      "screen_name": "edwardrussl",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1437948259394154497/UguC3Cgm_normal.jpg"
+    },
+    "retweet_count": 7452,
+    "favorite_count": 28881,
+    "possibly_sensitive": false
+  }
+}
