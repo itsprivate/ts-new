@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-26T09:47:05Z",
   "image": "https://dev.to/social_previews/article/1002177.png",
   "author": "Boateng Dickson",
-  "author_url": "https://dev.to/dboatenggg"
+  "author_url": "https://dev.to/dboatenggg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTML、CSS、JavaScriptは、スタイリッシュでダイナミックなWeb要素を構築するために使用されますが、その便利な要素の1つ...",
+      "title": "HTML、CSS、JavaScriptでリアルタイムに変化するデジタル時計を作る"
+    },
+    {
+      "locale": "zh",
+      "description": "HTML、CSS和JavaScript用于构建时尚、动态的网络元素，其中一个有用的元素是...",
+      "title": "使用HTML、CSS和JavaScript建立一个实时变化的数字时钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HTML、CSS和JavaScript用於構建時尚、動態的網絡元素，其中一個有用的元素是...",
+      "title": "使用HTML、CSS和JavaScript建立一個實時變化的數字時鐘"
+    }
+  ]
 }
