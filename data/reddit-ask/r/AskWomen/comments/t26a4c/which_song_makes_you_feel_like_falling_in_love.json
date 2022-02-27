@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It can be a whole song or a couple of lines"
+  "the_new_excerpt": "It can be a whole song or a couple of lines",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "曲全体でもいいし、数行でもいい。",
+      "title": "恋をしたくなるような曲は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它可以是一整首歌，也可以是几句歌词",
+      "title": "哪首歌让你有坠入爱河的感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它可以是一整首歌，也可以是幾句歌詞",
+      "title": "哪首歌讓你有墜入愛河的感覺？"
+    }
+  ]
 }
