@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マイクはいいやつだ"
+    },
+    {
+      "locale": "zh",
+      "title": "麦克是个好人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "麥克是個好人"
+    }
+  ]
 }
