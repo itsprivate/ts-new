@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "美しい言葉です。"
+    },
+    {
+      "locale": "zh",
+      "title": "说得很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說得很好。"
+    }
+  ]
 }
