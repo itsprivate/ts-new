@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-28T06:45:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vfGQbzaX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90q0hffp9nztrolhvewt.png",
   "author": "Judicaël Andriamahandry",
-  "author_url": "https://dev.to/judionit"
+  "author_url": "https://dev.to/judionit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "async/await地獄からの脱出、連鎖するasyncタスクの回避 まず最初に...についてです。",
+      "title": "非同期/待ち合わせ地獄を回避する"
+    },
+    {
+      "locale": "zh",
+      "description": "逃离async/await地狱或避免连锁的async任务 首先让我们谈谈...",
+      "title": "避免async/await地狱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "逃離async/await地獄或避免連鎖的async任務 首先讓我們談談...",
+      "title": "避免async/await地獄"
+    }
+  ]
 }
