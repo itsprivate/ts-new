@@ -150,5 +150,22 @@
     "retweet_count": 163,
     "favorite_count": 1500,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @TXMCtrades: FTXの40kドルでの1.2k #BTC セルウォールは完全にローストされました。https://t.co/pDuMp7Bq1l。",
+      "retweeted_status_full_text": "FTXの40kドルでの〜1.2k #BTCの売り壁は絶対に焼かれた。https://t.co/pDuMp7Bq1l。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @TXMCtrades: 在FTX上的~1.2k #BTC卖墙在4万美元的时候被彻底烤熟了。https://t.co/pDuMp7Bq1l",
+      "retweeted_status_full_text": "在FTX上，约1.2万#BTC的卖墙在4万美元时被彻底烤熟。https://t.co/pDuMp7Bq1l"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @TXMCtrades: 在FTX上的~1.2k #BTC賣牆在4萬美元的時候被徹底烤熟了。https://t.co/pDuMp7Bq1l",
+      "retweeted_status_full_text": "在FTX上，約1.2萬#BTC的賣牆在4萬美元時被徹底烤熟。https://t.co/pDuMp7Bq1l"
+    }
+  ]
 }
