@@ -52,5 +52,22 @@
     },
     "retweet_count": 505,
     "favorite_count": 1680
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BNONews: ロシア、暴落防止のため為替相場の上限を設定。1ユーロ＝101ルーブル、1ドル＝90ルーブル。",
+      "retweeted_status_full_text": "ロシア、暴落防止のため為替相場の上限を設定。1ユーロ＝101ルーブル、1米ドル＝90ルーブル。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BNONews: 俄罗斯为汇率设定上限以防止崩溃。1欧元兑换101卢布，1美元兑换90卢布。",
+      "retweeted_status_full_text": "俄罗斯设定汇率上限以防止崩溃。1欧元兑换101卢布，1美元兑换90卢布"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BNONews: 俄羅斯爲匯率設定上限以防止崩潰。1歐元兌換101盧布，1美元兌換90盧布。",
+      "retweeted_status_full_text": "俄羅斯設定匯率上限以防止崩潰。1歐元兌換101盧布，1美元兌換90盧布"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナに投降したロシア兵は500万ルーブル相当の暗号を受け取ることができる"
+    },
+    {
+      "locale": "zh",
+      "title": "向乌克兰投降的俄罗斯士兵将获得价值500万卢布的加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "向烏克蘭投降的俄羅斯士兵將獲得價值500萬盧布的加密貨幣"
+    }
+  ]
 }
