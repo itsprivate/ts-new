@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、現実でポケモンを飼えるとしたら、どのポケモンを選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在现实生活中拥有一只小精灵，你会选择哪一只？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在現實生活中擁有一隻小精靈，你會選擇哪一隻？"
+    }
+  ]
 }
