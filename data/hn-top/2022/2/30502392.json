@@ -13,5 +13,19 @@
   ],
   "objectID": "30502392",
   "original_created_at": "2022-02-28T17:25:58.000Z",
-  "image": "https://github.githubassets.com/images/modules/gists/gist-og-image.png"
+  "image": "https://github.githubassets.com/images/modules/gists/gist-og-image.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Fork()は悪、vfork()は善、afork()はより良い、clone()は愚かである。"
+    },
+    {
+      "locale": "zh",
+      "title": "Fork()是邪恶的；vfork()是善良的；afork()会更好；clone()是愚蠢的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fork()是邪惡的；vfork()是善良的；afork()會更好；clone()是愚蠢的。"
+    }
+  ]
 }
