@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは美しいアイデアです"
+    },
+    {
+      "locale": "zh",
+      "title": "这是个美丽的想法!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個美麗的想法!"
+    }
+  ]
 }
