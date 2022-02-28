@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゲームに戻る"
+    },
+    {
+      "locale": "zh",
+      "title": "回到游戏中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "回到遊戲中"
+    }
+  ]
 }
