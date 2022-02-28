@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Even if the answer is only \"yes\", I still think the question is relevant."
+  "the_new_excerpt": "Even if the answer is only \"yes\", I still think the question is relevant.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "たとえ答えが「はい」だけであっても、私はこの質問は適切だと思います。",
+      "title": "電磁波を発生させるには電荷の加速しかないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "即使答案只是 \"是\"，我仍然认为这个问题是相关的。",
+      "title": "电荷的加速是产生电磁辐射的唯一途径吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "即使答案只是 \"是\"，我仍然認爲這個問題是相關的。",
+      "title": "電荷的加速是產生電磁輻射的唯一途徑嗎？"
+    }
+  ]
 }
