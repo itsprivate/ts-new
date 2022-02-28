@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: please refrain from giving answers that are too specific to any particular\nevent, this is not a question about Ukraine, but rather about all events of this\nkind. Thanks."
+  "the_new_excerpt": "Edit: please refrain from giving answers that are too specific to any particular\nevent, this is not a question about Ukraine, but rather about all events of this\nkind. Thanks.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：あまりに具体的な回答はご遠慮ください。\nこれはウクライナに関する質問ではなく、この種の出来事すべてに関するものです。\nのようなものです。ありがとうございます。",
+      "title": "自分ではどうしようもないような時事問題について、よく知ることが道徳的な義務なのだろうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：请不要对任何特定事件给出太具体的答案。\n这不是一个关于乌克兰的问题，而是关于所有这类事件的问题。\n类事件。谢谢。",
+      "title": "我是否有道德上的责任去充分了解我不可能影响的时事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：請不要對任何特定事件給出太具體的答案。\n這不是一個關於烏克蘭的問題，而是關於所有這類事件的問題。\n類事件。謝謝。",
+      "title": "我是否有道德上的責任去充分了解我不可能影響的時事？"
+    }
+  ]
 }
