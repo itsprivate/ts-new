@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-24T10:22:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--liI8-q1P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nzxjoli1q5aq4z3i7v59.jpg",
   "author": "Sobhan Dash",
-  "author_url": "https://dev.to/sobhandash"
+  "author_url": "https://dev.to/sobhandash",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私はFullStackのMERN Webappに取り組んでいます。そのために、いくつかのミニゲームを作りました。",
+      "title": "FullStackのWebアプリを作るときに陥りやすいミス"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我一直在做一个全栈式的MERN Web应用。为了给大家一个概念，我做了一些小型的网络应用程序。",
+      "title": "制作FullStack网络应用程序时犯的错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我一直在做一個全棧式的MERN Web應用。爲了給大家一個概念，我做了一些小型的網絡應用程序。",
+      "title": "製作FullStack網絡應用程序時犯的錯誤"
+    }
+  ]
 }
