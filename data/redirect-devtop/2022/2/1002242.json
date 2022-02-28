@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-26T13:21:06Z",
   "image": "https://dev.to/social_previews/article/1002242.png",
   "author": "Horace FAYOMI",
-  "author_url": "https://dev.to/fayomihorace"
+  "author_url": "https://dev.to/fayomihorace",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "重要なお知らせ：（課題を解かずにスレッドのコメントを読まないでください）。 この...",
+      "title": "プログラミングにおけるネーミングの技術と難しさ"
+    },
+    {
+      "locale": "zh",
+      "description": "重要提示：（在没有解决挑战的情况下，请不要阅读该线程中的任何评论）。 这...",
+      "title": "编程中命名的艺术和困难"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "重要提示：（在沒有解決挑戰的情況下，請不要閱讀該線程中的任何評論）。 這...",
+      "title": "編程中命名的藝術和困難"
+    }
+  ]
 }
