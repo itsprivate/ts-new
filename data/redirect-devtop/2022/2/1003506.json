@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-27T22:14:13Z",
   "image": "https://dev.to/social_previews/article/1003506.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactのフックが高次コンポーネントを陳腐化させたって本当？そして、それらの唯一のユースケースは...",
+      "title": "React Hooks時代の高次コンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "React钩子让高阶组件过时了，这是真的吗？而那些唯一的用例...",
+      "title": "React Hooks时代的高阶组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React鉤子讓高階組件過時了，這是真的嗎？而那些唯一的用例...",
+      "title": "React Hooks時代的高階組件"
+    }
+  ]
 }
