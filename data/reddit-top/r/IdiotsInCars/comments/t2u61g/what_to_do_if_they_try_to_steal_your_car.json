@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "車を盗まれそうになったときの対処法"
+    },
+    {
+      "locale": "zh",
+      "title": "如果他们试图偷你的车，该怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果他們試圖偷你的車，該怎麼辦？"
+    }
+  ]
 }
