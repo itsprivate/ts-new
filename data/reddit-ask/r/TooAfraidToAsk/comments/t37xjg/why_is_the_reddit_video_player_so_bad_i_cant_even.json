@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜredditのビデオプレーヤーはそんなに悪いのですか？私はほとんどの場合、コメントをクリックすることさえできません、それはちょうど愚かなビデオプレーヤーを開きます。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么reddit的视频播放器这么差？我甚至不能在大多数时候点击评论，它只是打开愚蠢的视频播放器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼reddit的視頻播放器這麼差？我甚至不能在大多數時候點擊評論，它只是打開愚蠢的視頻播放器。"
+    }
+  ]
 }
