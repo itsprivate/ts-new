@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マジキチ"
+    },
+    {
+      "locale": "zh",
+      "title": "这是很严重的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是很嚴重的事情"
+    }
+  ]
 }
