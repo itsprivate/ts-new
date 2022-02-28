@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし誰かが何度も何度もキスを求めてきて、あなたが断り続けていたら、それはハラスメントですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人不断要求亲吻你，而且持续了几个小时，而你一直说不，这算不算骚扰？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人不斷要求親吻你，而且持續了幾個小時，而你一直說不，這算不算騷擾？"
+    }
+  ]
 }
