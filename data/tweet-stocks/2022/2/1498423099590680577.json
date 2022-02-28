@@ -91,5 +91,22 @@
     "retweet_count": 255,
     "favorite_count": 884,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @lookner: ウクライナ軍によると、必要であれば、他のNATO諸国から調達している飛行機を「ベースとすることができる」そうです。",
+      "retweeted_status_full_text": "ウクライナ軍によると、必要であれば、他のNATO諸国から調達する飛行機は「ポーランドの飛行場を拠点とすることができ、そこからウクライナのパイロットが戦闘任務を遂行する」https://t.co/85QXA6A4bQ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @lookner: 乌克兰武装部队表示，如果有必要，他们从其他北约国家获得的飞机 \"将能够以...",
+      "retweeted_status_full_text": "乌克兰武装部队表示，如果有必要，他们从其他北约国家获得的飞机 \"将能够以波兰机场为基地，乌克兰飞行员将从那里执行战斗任务\" https://t.co/85QXA6A4bQ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @lookner: 烏克蘭武裝部隊表示，如果有必要，他們從其他北約國家獲得的飛機 \"將能夠以...",
+      "retweeted_status_full_text": "烏克蘭武裝部隊表示，如果有必要，他們從其他北約國家獲得的飛機 \"將能夠以波蘭機場爲基地，烏克蘭飛行員將從那裏執行戰鬥任務\" https://t.co/85QXA6A4bQ"
+    }
+  ]
 }
