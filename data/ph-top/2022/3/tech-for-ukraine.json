@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-01T08:02:00Z"
+  "original_createdAt": "2022-03-01T08:02:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "#TechForUkraineは、Tech To The Rescueが、紛争中のウクライナを支援する国際的な非営利団体とIT企業をマッチングさせるキャンペーンです。すべての技術系企業の参加を歓迎し、必要なところに支援を提供します。",
+      "tagline": "ウクライナを支援するNPOとIT企業のマッチングを実施"
+    },
+    {
+      "locale": "zh",
+      "description": "#TechForUkraine是一个由Tech To The Rescue发起的活动，将IT公司与帮助乌克兰战争的国际非营利组织相匹配。欢迎所有科技公司加入，为需要的地方提供帮助。",
+      "tagline": "为IT公司和帮助乌克兰的非营利组织牵线搭桥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "#TechForUkraine是一個由Tech To The Rescue發起的活動，將IT公司與幫助烏克蘭戰爭的國際非營利組織相匹配。歡迎所有科技公司加入，爲需要的地方提供幫助。",
+      "tagline": "爲IT公司和幫助烏克蘭的非營利組織牽線搭橋"
+    }
+  ]
 }
