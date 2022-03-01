@@ -68,5 +68,22 @@
     },
     "retweet_count": 4352,
     "favorite_count": 25161
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @nayibbukele: ビットコインの本質的な価値が全世界に知れ渡りましたね。",
+      "retweeted_status_full_text": "ビットコインの本質的な価値が全世界に知れ渡った。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @nayibbukele: 现在，#比特币的内在价值在全世界范围内得到充分展示。",
+      "retweeted_status_full_text": "现在，#比特币的内在价值在全世界范围内得到充分展示。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @nayibbukele: 現在，#比特幣的內在價值在全世界範圍內得到充分展示。",
+      "retweeted_status_full_text": "現在，#比特幣的內在價值在全世界範圍內得到充分展示。"
+    }
+  ]
 }
