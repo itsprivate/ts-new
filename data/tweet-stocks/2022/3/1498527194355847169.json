@@ -91,5 +91,22 @@
     "retweet_count": 275,
     "favorite_count": 1032,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Osinttechnical: ロシアの商業貨物機がEUの領空閉鎖に抵触したようです。現在スロバキアに着陸しています。https://t.co/0yck...",
+      "retweeted_status_full_text": "ロシアの商業貨物機がEUの空域閉鎖に違反したようです。現在、スロバキアに着陸中。https://t.co/0yckAE5lYt。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Ointtechnical: 俄罗斯商业货机似乎违反了欧盟的空域封锁。现在降落在斯洛伐克。https://t.co/0yck...",
+      "retweeted_status_full_text": "俄罗斯商业货机似乎违反了欧盟的空域封锁。现在降落在斯洛伐克。https://t.co/0yckAE5lYt"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Ointtechnical: 俄羅斯商業貨機似乎違反了歐盟的空域封鎖。現在降落在斯洛伐克。https://t.co/0yck...",
+      "retweeted_status_full_text": "俄羅斯商業貨機似乎違反了歐盟的空域封鎖。現在降落在斯洛伐克。https://t.co/0yckAE5lYt"
+    }
+  ]
 }
