@@ -105,5 +105,19 @@
   },
   "is_video": true,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアの侵略者が市民を撃ち殺す。息子の目の前で父親が撃たれた。キエフ州イヴァンキフ。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯入侵者射杀平民。父亲在儿子的眼前被枪杀。基辅地区，伊万科夫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯入侵者射殺平民。父親在兒子的眼前被槍殺。基輔地區，伊萬科夫。"
+    }
+  ]
 }
