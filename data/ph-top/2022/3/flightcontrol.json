@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-01T12:01:00Z"
+  "original_createdAt": "2022-03-01T12:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Herokuは制限が多すぎるし、値段も高い。AWSは複雑すぎる。私たちは、世界トップクラスのデプロイメントDXをお客様のAWSアカウントにネイティブに導入することで、この2つを解決します。",
+      "tagline": "Blitz.jsの開発チームによる、あらゆるものを簡単にAWSにデプロイする方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "Heroku的局限性太大，价格昂贵。AWS太复杂了。我们通过将世界级的部署DX原生地带到你的AWS账户来解决这两个问题。",
+      "tagline": "轻松地将任何东西部署到AWS--由Blitz.js背后的团队完成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Heroku的侷限性太大，價格昂貴。AWS太複雜了。我們通過將世界級的部署DX原生地帶到你的AWS賬戶來解決這兩個問題。",
+      "tagline": "輕鬆地將任何東西部署到AWS--由Blitz.js背後的團隊完成"
+    }
+  ]
 }
