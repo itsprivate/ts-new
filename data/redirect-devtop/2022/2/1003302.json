@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-27T17:03:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pWh569hs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aa1qkgg9cflvm5fwqeed.png",
   "author": "FRANCIS ODERO",
-  "author_url": "https://dev.to/oderofrancis"
+  "author_url": "https://dev.to/oderofrancis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ある企業の製品のデータが欲しいとします。例えば、全商品の価格を...",
+      "title": "みんなのPython 正しい方法でPythonをマスターする。"
+    },
+    {
+      "locale": "zh",
+      "description": "假设你想从一家公司获得一些产品的数据？比方说，所有商品的价格要...",
+      "title": "适合所有人的Python。掌握Python的正确方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "假設你想從一家公司獲得一些產品的數據？比方說，所有商品的價格要...",
+      "title": "適合所有人的Python。掌握Python的正確方法。"
+    }
+  ]
 }
