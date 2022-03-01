@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "毛のない猫は毛皮が好きだから、せめてヘルメットで止めてくれ。"
+    },
+    {
+      "locale": "zh",
+      "title": "无毛猫喜欢皮毛，至少头盔能阻止它们。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無毛貓喜歡皮毛，至少頭盔能阻止它們。"
+    }
+  ]
 }
