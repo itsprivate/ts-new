@@ -52,5 +52,22 @@
     },
     "retweet_count": 151,
     "favorite_count": 414
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @flacqua: 最大手の輸送会社マースクは、一時的にロシアの予約を停止しています。世界のコンテナ輸送の17％を支配している。",
+      "retweeted_status_full_text": "輸送最大手マースク、ロシアでの予約を一時停止。同社は世界のコンテナ船隊の17％を支配している。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @flacqua: 马士基，最大的运输公司之一，暂时中止了俄罗斯的预订。公司控制着全球17%的集装箱运输量。",
+      "retweeted_status_full_text": "最大的运输公司之一马士基暂时中止了俄罗斯的预订。公司控制着全球17%的集装箱船队。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @flacqua: 馬士基，最大的運輸公司之一，暫時中止了俄羅斯的預訂。公司控制着全球17%的集裝箱運輸量。",
+      "retweeted_status_full_text": "最大的運輸公司之一馬士基暫時中止了俄羅斯的預訂。公司控制着全球17%的集裝箱船隊。"
+    }
+  ]
 }
