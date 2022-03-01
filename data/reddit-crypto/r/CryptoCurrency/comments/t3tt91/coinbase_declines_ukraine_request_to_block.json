@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Coinbase、ウクライナのロシア人暗号ユーザーブロック要請を拒否 - Decrypt"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase拒绝了乌克兰封锁俄罗斯加密货币用户的要求 - Decrypt"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase拒絕了烏克蘭封鎖俄羅斯加密貨幣用戶的要求 - Decrypt"
+    }
+  ]
 }
