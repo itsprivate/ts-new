@@ -50,5 +50,22 @@
   "original_created_at": "2022-02-25T07:43:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GkdJD8pN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ub0jvoe13mq2qgl398g2.jpg",
   "author": "Nicolas Frankel",
-  "author_url": "https://dev.to/nfrankel"
+  "author_url": "https://dev.to/nfrankel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "直感的でユーザーフレンドリーなRESTful APIを設計するのは大変な仕事です。すでに大仕事になっているかもしれませんが...。",
+      "title": "RESTful APIを進化させる、ステップバイステップアプローチ"
+    },
+    {
+      "locale": "zh",
+      "description": "设计一个直观的、用户友好的RESTful API是一项艰难的工作。它可能已经是一项庞大的任务...",
+      "title": "逐步发展你的RESTful APIs，一个循序渐进的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計一個直觀的、用戶友好的RESTful API是一項艱難的工作。它可能已經是一項龐大的任務...",
+      "title": "逐步發展你的RESTful APIs，一個循序漸進的方法"
+    }
+  ]
 }
