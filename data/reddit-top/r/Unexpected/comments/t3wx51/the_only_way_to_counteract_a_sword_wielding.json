@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "剣を振り回す襲撃者に対抗する唯一の方法です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是对抗挥舞着剑的袭击者的唯一方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是對抗揮舞着劍的襲擊者的唯一方法。"
+    }
+  ]
 }
