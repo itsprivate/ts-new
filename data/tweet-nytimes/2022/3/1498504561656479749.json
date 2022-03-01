@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Mar 01 03:45:03 +0000 2022"
+  "original_created_at": "Tue Mar 01 03:45:03 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ロシアが侵攻する数時間前にウクライナを標的にした「ワイパー」マルウェアが出現したとき、マイクロソフトは戦争の渦中に身を投じて介入しました。https://t.co/wM51WB5G43。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "当 \"wiper \"恶意软件在俄罗斯入侵前几小时出现在乌克兰的目标上时，微软介入了，把自己扔到了战争的中间。https://t.co/wM51WB5G43"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "當 \"wiper \"惡意軟件在俄羅斯入侵前幾小時出現在烏克蘭的目標上時，微軟介入了，把自己扔到了戰爭的中間。https://t.co/wM51WB5G43"
+    }
+  ]
 }
