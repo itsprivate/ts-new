@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi there,\n\nLike the title says, I was wondering if this is possible. If so, how would such\na lens look?"
+  "the_new_excerpt": "Hi there,\n\nLike the title says, I was wondering if this is possible. If so, how would such\na lens look?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\nタイトルにあるように、こんなことが可能なのかと思いました。もし可能であれば、どのように\nレンズはどのように見えますか？",
+      "title": "楕円形の焦点面を持つ両凸レンズを作ることは可能ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你们好。\n\n就像标题所说，我想知道这是否可行。如果可以，这样的\n镜头的样子？",
+      "title": "有可能建造一个具有椭圆焦平面的双凸透镜吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你們好。\n\n就像標題所說，我想知道這是否可行。如果可以，這樣的\n鏡頭的樣子？",
+      "title": "有可能建造一個具有橢圓焦平面的雙凸透鏡嗎？"
+    }
+  ]
 }
