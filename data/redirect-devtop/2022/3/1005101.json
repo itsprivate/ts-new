@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-01T10:09:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRmuYTMA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zhesaxgqsgh7su1rx8pu.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "グローバルJSONオブジェクトは、フェッチリクエストなど、いろいろなことに使われていると思うのですが...。",
+      "title": "あなたの知らないJSONの5つの秘密機能🤯。"
+    },
+    {
+      "locale": "zh",
+      "description": "我很确定你已经将全局JSON对象用于各种事情，比如在获取请求中。",
+      "title": "5个你不知道的JSON的秘密特性 🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我很確定你已經將全局JSON對象用於各種事情，比如在獲取請求中。",
+      "title": "5個你不知道的JSON的祕密特性 🤯"
+    }
+  ]
 }
