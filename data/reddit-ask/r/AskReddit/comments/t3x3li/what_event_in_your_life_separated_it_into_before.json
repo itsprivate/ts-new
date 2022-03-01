@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの人生の中で、どのような出来事があって、それが前と後に分かれたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你生命中的哪件事把它分成了前后两部分？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你生命中的哪件事把它分成了前後兩部分？"
+    }
+  ]
 }

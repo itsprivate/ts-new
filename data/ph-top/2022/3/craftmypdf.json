@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-01T08:01:00Z"
+  "original_createdAt": "2022-03-01T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コード不要! ドラッグ＆ドロップで簡単にPDFテンプレートをデザインし、再利用可能なテンプレートとJSONデータからピクセルパーフェクトなPDFドキュメントを生成することを可能にします。デモ: https://craftmypdf.com/live-demo-pdf-template-editor/",
+      "tagline": "ピクセルパーフェクトなPDFドキュメントを数分でデザイン・作成可能"
+    },
+    {
+      "locale": "zh",
+      "description": "不需要密码! 我们让你简单地通过拖放设计PDF模板，并通过可重复使用的模板和JSON数据生成像素完美的PDF文档。演示：https://craftmypdf.com/live-demo-pdf-template-editor/",
+      "tagline": "在几分钟内设计并生成像素完美的PDF文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不需要密碼! 我們讓你簡單地通過拖放設計PDF模板，並通過可重複使用的模板和JSON數據生成像素完美的PDF文檔。演示：https://craftmypdf.com/live-demo-pdf-template-editor/",
+      "tagline": "在幾分鐘內設計並生成像素完美的PDF文件"
+    }
+  ]
 }
