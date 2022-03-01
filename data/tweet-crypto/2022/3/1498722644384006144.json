@@ -164,5 +164,22 @@
     "retweet_count": 165,
     "favorite_count": 886,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Schuldensuehner: https://t.co/tlEhXFYX7W #ビットコイン が #ロシア ルーブルで測定された新たな上限を更新しました。",
+      "retweeted_status_full_text": "https://t.co/tlEhXFYX7W #ビットコイン が #ロシア ルーブル で測定された新たな ATH を更新。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Schuldensuehner: #比特币创下以#俄罗斯卢布衡量的新的ATH。https://t.co/tlEhXFYX7W",
+      "retweeted_status_full_text": "#比特币创下新的ATH，以#俄罗斯卢布衡量。https://t.co/tlEhXFYX7W"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Schuldensuehner: #比特幣創下以#俄羅斯盧布衡量的新的ATH。https://t.co/tlEhXFYX7W",
+      "retweeted_status_full_text": "#比特幣創下新的ATH，以#俄羅斯盧布衡量。https://t.co/tlEhXFYX7W"
+    }
+  ]
 }
