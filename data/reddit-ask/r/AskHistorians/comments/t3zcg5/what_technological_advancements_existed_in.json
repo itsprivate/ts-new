@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古代ギリシャやローマに存在し、数世紀後に再発見された技術的な進歩は何か？"
+    },
+    {
+      "locale": "zh",
+      "title": "在古希腊和古罗马存在哪些技术进步，只是在几个世纪后才被重新发现？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在古希臘和古羅馬存在哪些技術進步，只是在幾個世紀後才被重新發現？"
+    }
+  ]
 }
