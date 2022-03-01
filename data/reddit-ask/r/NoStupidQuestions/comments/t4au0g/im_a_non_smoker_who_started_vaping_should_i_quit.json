@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "VAPEを始めたノンスモーカーです。今のうちにやめるべきか、ほどほどにするべきか。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一个不吸烟的人，开始使用Vaping。我应该趁早戒烟还是适度戒烟？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一個不吸菸的人，開始使用Vaping。我應該趁早戒菸還是適度戒菸？"
+    }
+  ]
 }
