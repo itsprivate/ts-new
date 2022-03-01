@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-01T08:11:43Z"
+  "original_createdAt": "2022-03-01T08:11:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "This Interview Does Not Existは、自然言語AI（GPT-3）を用いて、あらゆる職種の面接質問を生成しています。また、AIは自分の質問にも答えてくれます -&nbsp;it's crazy ⚡️。",
+      "tagline": "AIが生成する面接の質問と回答"
+    },
+    {
+      "locale": "zh",
+      "description": "这个面试并不存在，它使用自然语言人工智能（GPT-3）来生成任何职位的面试问题。人工智能也会回答自己的问题--&nbsp;这很疯狂 ⚡️",
+      "tagline": "AI产生的面试问题和答案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個面試並不存在，它使用自然語言人工智能（GPT-3）來生成任何職位的面試問題。人工智能也會回答自己的問題--&nbsp;這很瘋狂 ⚡️",
+      "tagline": "AI產生的面試問題和答案"
+    }
+  ]
 }
