@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウォッカだけでなく"
+    },
+    {
+      "locale": "zh",
+      "title": "不仅仅是伏特加酒"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不僅僅是伏特加酒"
+    }
+  ]
 }
