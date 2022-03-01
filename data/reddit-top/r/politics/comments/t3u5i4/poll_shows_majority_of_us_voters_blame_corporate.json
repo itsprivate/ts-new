@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世論調査により、米国の有権者の大多数がインフレの原因を企業の利益誘導に求めていることが判明"
+    },
+    {
+      "locale": "zh",
+      "title": "民调显示大多数美国选民将通货膨胀归咎于企业的暴利行为"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "民調顯示大多數美國選民將通貨膨脹歸咎於企業的暴利行爲"
+    }
+  ]
 }
