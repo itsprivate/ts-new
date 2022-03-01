@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、ASL（アメリカ手話）の基本を学ぶことができれば、特にスター・ウォーズの大ファンである誰かを喜ばせることができますよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能学会一些基本的ASL，（美国手语），你真的可以让别人过上好日子，特别是一个大的星战迷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能學會一些基本的ASL，（美國手語），你真的可以讓別人過上好日子，特別是一個大的星戰迷。"
+    }
+  ]
 }

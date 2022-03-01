@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣"
+    }
+  ]
 }
