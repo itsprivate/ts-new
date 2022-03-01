@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがうらやましいと思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有的话，什么东西是你所羡慕的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有的話，什麼東西是你所羨慕的？"
+    }
+  ]
 }

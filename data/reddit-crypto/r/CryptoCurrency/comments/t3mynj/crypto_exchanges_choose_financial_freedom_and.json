@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "暗号取引所は「金融の自由」を選択し、ロシア人ユーザーのブロックを拒否する"
+    },
+    {
+      "locale": "zh",
+      "title": "加密货币交易所选择 \"金融自由\"，拒绝封锁俄罗斯用户"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "加密貨幣交易所選擇 \"金融自由\"，拒絕封鎖俄羅斯用戶"
+    }
+  ]
 }
