@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシア兵はウクライナで何をやっているのかわからない。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯士兵不知道他在乌克兰做了什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯士兵不知道他在烏克蘭做了什麼。"
+    }
+  ]
 }
