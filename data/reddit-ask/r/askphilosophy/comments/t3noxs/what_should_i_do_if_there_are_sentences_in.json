@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Should I move forward and hope to understand more later?"
+  "the_new_excerpt": "Should I move forward and hope to understand more later?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "前に進んで、後でもっと理解できることを期待したほうがいいのでしょうか？",
+      "title": "哲学書の中に、何度読んでも意味が分からない文章があったらどうしたらいいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是否应该继续前进，希望以后能了解更多？",
+      "title": "如果哲学书中有些句子无论我读多少遍都没有意义，我应该怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是否應該繼續前進，希望以後能瞭解更多？",
+      "title": "如果哲學書中有些句子無論我讀多少遍都沒有意義，我應該怎麼辦？"
+    }
+  ]
 }
