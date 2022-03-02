@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-02T12:03:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q2f1-g9d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmgg0lrm09mhasp9cq0n.jpeg",
   "author": "Color Tools 🌈",
-  "author_url": "https://dev.to/colortools"
+  "author_url": "https://dev.to/colortools",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "美しく、統一感のあるカラーパレットを作るのは難しい。適切な色を見つけ、そして、その色に合うように作らなければならないのです。",
+      "title": "マテリアルデザインカラーパレットジェネレーター"
+    },
+    {
+      "locale": "zh",
+      "description": "创建美丽、一致的调色板是很难的。你必须找到正确的颜色，并使其成为一个有意义的整体。",
+      "title": "材料设计调色板生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建美麗、一致的調色板是很難的。你必須找到正確的顏色，並使其成爲一個有意義的整體。",
+      "title": "材料設計調色板生成器"
+    }
+  ]
 }
