@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2年後、私たちはリモートワークは非同期なしでは成立しないことに気づきました。そこで、その文化を加速させるために、ジョブボードを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "2年后，我们意识到远程工作没有Async是不完整的。所以我建立了一个招聘网站来加速这种文化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2年後，我們意識到遠程工作沒有Async是不完整的。所以我建立了一個招聘網站來加速這種文化。"
+    }
+  ]
 }
