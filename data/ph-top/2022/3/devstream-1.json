@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-02T08:01:00Z"
+  "original_createdAt": "2022-03-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DevStreamはオープンソースのDevOpsツールチェーンマネージャで、1コマンドで5分以内に柔軟なDevOpsツールチェーンをセットアップすることができます。https://github.com/merico-dev/stream ツールの設定、管理、自動化を簡単に行うことができます。",
+      "tagline": "DevOpsツールチェーンの起動、5分、1コマンド。"
+    },
+    {
+      "locale": "zh",
+      "description": "DevStream是一个开源的DevOps工具链管理器，使你能够在5分钟内用一个命令建立灵活的DevOps工具链。https://github.com/merico-dev/stream，毫不费力地配置、管理和自动化你的工具。",
+      "tagline": "启动DevOps工具链，5分钟，一个命令。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DevStream是一個開源的DevOps工具鏈管理器，使你能夠在5分鐘內用一個命令建立靈活的DevOps工具鏈。https://github.com/merico-dev/stream，毫不費力地配置、管理和自動化你的工具。",
+      "tagline": "啓動DevOps工具鏈，5分鐘，一個命令。"
+    }
+  ]
 }

@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-02T08:03:00Z"
+  "original_createdAt": "2022-03-02T08:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFTトラッキング」ツールは存在しますが、多くの場合、NFTのフロアプライスしか表示されません。Asset Moneyは、NFTを管理し、レア度や特徴などに基づいてその価値を推定することができるプラットフォームです。",
+      "tagline": "NFTを管理し、レアリティに応じた価値を見積もることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "虽然存在 \"NFT追踪 \"工具，但它们通常只显示NFT的最低价格。Asset Money是一个平台，在这里你可以管理你的NFT，并根据稀有性、特征和更多因素来估计它们的价值。",
+      "tagline": "管理你的NFT，并根据稀有程度估计其价值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雖然存在 \"NFT追蹤 \"工具，但它們通常只顯示NFT的最低價格。Asset Money是一個平臺，在這裏你可以管理你的NFT，並根據稀有性、特徵和更多因素來估計它們的價值。",
+      "tagline": "管理你的NFT，並根據稀有程度估計其價值"
+    }
+  ]
 }
