@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは、世界で何が起ころうとも、ブロックに次ぐブロックの取引を生み出し続けるのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币继续产生一个又一个的交易区块，不管世界上发生了什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣繼續產生一個又一個的交易區塊，不管世界上發生了什麼。"
+    }
+  ]
 }

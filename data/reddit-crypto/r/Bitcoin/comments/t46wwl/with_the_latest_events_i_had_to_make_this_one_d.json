@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近の出来事で、私はこれを作らなければなりませんでした :D ビットコイナーは皆、共感してくれます。"
+    },
+    {
+      "locale": "zh",
+      "title": "由于最近的事件，我不得不做这个:D比特币者都能体会到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由於最近的事件，我不得不做這個:D比特幣者都能體會到。"
+    }
+  ]
 }
