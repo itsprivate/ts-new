@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし自分の性器にテレビ番組や映画の名前をつけるとしたら、どんな名前にしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你必须用一部电视剧或电影的名字来命名你的生殖器，你会给它起什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你必須用一部電視劇或電影的名字來命名你的生殖器，你會給它起什麼名字？"
+    }
+  ]
 }
