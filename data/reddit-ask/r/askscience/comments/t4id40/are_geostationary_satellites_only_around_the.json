@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I assume the orbital planes of every satellite has to cross the centre of the\nearth, otherwise what are they turning around? And geostationary satellites are\nmeant to stay still in the sky when you look up at them, right? But that only\nworks around the equator otherwise the geostationary satellite…"
+  "the_new_excerpt": "I assume the orbital planes of every satellite has to cross the centre of the\nearth, otherwise what are they turning around? And geostationary satellites are\nmeant to stay still in the sky when you look up at them, right? But that only\nworks around the equator otherwise the geostationary satellite…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "すべての人工衛星の軌道面は中心を通過しているはずです。\nそうでなければ、地球をどのように回っているのでしょうか？また、静止衛星は\n見上げると空でじっとしているのが当たり前でしょう？でも、それは\n赤道付近で作動し、そうでなければ静止衛星は...",
+      "title": "静止衛星は赤道付近だけなのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我假设每颗卫星的轨道平面都要穿过地球中心\n不然的话，它们是怎么转的？而地球静止轨道卫星是\n当你抬头看它们的时候，它们应该在天空中保持静止，对吗？但这只在\n但这只适用于赤道周围，否则地球静止卫星...",
+      "title": "地球静止卫星只在赤道周围吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我假設每顆衛星的軌道平面都要穿過地球中心\n不然的話，它們是怎麼轉的？而地球靜止軌道衛星是\n當你抬頭看它們的時候，它們應該在天空中保持靜止，對嗎？但這隻在\n但這隻適用於赤道周圍，否則地球靜止衛星...",
+      "title": "地球靜止衛星只在赤道周圍嗎？"
+    }
+  ]
 }
