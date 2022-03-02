@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-06T11:40:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kcRA3J5J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yi2030hp8l2qfxtyvydn.jpg",
   "author": "Arturo G. Bruno",
-  "author_url": "https://dev.to/arturogbruno"
+  "author_url": "https://dev.to/arturogbruno",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者として、この分野で働くことの素晴らしさのひとつは、新しいことを学ぶことができることです...",
+      "title": "JavaScriptのクロージャを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名开发人员，在这一领域工作的一个好处是，你可以学习新的知识。",
+      "title": "了解JavaScript中的闭包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名開發人員，在這一領域工作的一個好處是，你可以學習新的知識。",
+      "title": "瞭解JavaScript中的閉包"
+    }
+  ]
 }
