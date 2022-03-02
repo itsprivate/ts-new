@@ -52,5 +52,22 @@
     },
     "retweet_count": 1173,
     "favorite_count": 3083
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @konotaromp: 今朝、ロシアのヘリコプターが根室半島上空で領空侵犯をしました。",
+      "retweeted_status_full_text": "今朝、ロシアのヘリコプターが根室半島上空で領空侵犯を行いました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @konotaromp: 一架俄罗斯直升机今天上午在尼姆罗半岛上空侵犯了我们的领土领空。",
+      "retweeted_status_full_text": "一架俄罗斯直升机今天上午在尼姆罗半岛上空侵犯了我国的领土领空。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @konotaromp: 一架俄羅斯直升機今天上午在尼姆羅半島上空侵犯了我們的領土領空。",
+      "retweeted_status_full_text": "一架俄羅斯直升機今天上午在尼姆羅半島上空侵犯了我國的領土領空。"
+    }
+  ]
 }
