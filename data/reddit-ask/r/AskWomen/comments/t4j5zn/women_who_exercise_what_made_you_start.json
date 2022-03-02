@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "what are your goals pertaining body type, health, & nutrition?"
+  "the_new_excerpt": "what are your goals pertaining body type, health, & nutrition?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "体型、健康、栄養に関するあなたの目標は何ですか？",
+      "title": "運動している女性、始めたきっかけは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你在体型、健康和营养方面的目标是什么？",
+      "title": "锻炼的女性，是什么让你开始？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你在體型、健康和營養方面的目標是什麼？",
+      "title": "鍛鍊的女性，是什麼讓你開始？"
+    }
+  ]
 }
