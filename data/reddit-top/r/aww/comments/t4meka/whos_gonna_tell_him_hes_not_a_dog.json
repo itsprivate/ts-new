@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰が彼に犬じゃないと言うんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "谁来告诉他，他不是一只狗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰來告訴他，他不是一隻狗？"
+    }
+  ]
 }
