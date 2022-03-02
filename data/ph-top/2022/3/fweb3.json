@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-01T17:15:43Z"
+  "original_createdAt": "2022-03-01T17:15:43Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "web3で学び、構築する。 ブロックチェーン（この場合はPolygon）上で何かをすることで点灯する9つのドットがある。全て点灯させると、追加の$FWEB3トークンと記念のNFTが当たります。",
+      "tagline": "無料で遊べるWeb3学習ゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "在web3中学习和构建。 有9个点可以通过在区块链（在这种情况下，Polygon）上做事情来点亮。一旦你把它们全部点亮，你将赢得额外的$FWEB3代币和一个纪念性的NFT。",
+      "tagline": "免费游戏学习web3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在web3中學習和構建。 有9個點可以通過在區塊鏈（在這種情況下，Polygon）上做事情來點亮。一旦你把它們全部點亮，你將贏得額外的$FWEB3代幣和一個紀念性的NFT。",
+      "tagline": "免費遊戲學習web3"
+    }
+  ]
 }
