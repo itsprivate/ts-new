@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "史上最高値で購入したビットコイン投資家のほとんどが売却している。レポート"
+    },
+    {
+      "locale": "zh",
+      "title": "大多数在历史最高点买入的比特币投资者已经卖出。报告显示，大多数在历史高位买入的比特币投资者已经卖出"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大多數在歷史最高點買入的比特幣投資者已經賣出。報告顯示，大多數在歷史高位買入的比特幣投資者已經賣出"
+    }
+  ]
 }

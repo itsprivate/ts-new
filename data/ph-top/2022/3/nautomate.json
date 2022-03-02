@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-02T08:01:00Z"
+  "original_createdAt": "2022-03-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nautomate は、Apple Shortcuts に強力な Notion のネイティブアクションを追加し、ワークスペースを自動化することができます。⠀",
+      "tagline": "ショートカット用ノーティオンアクション"
+    },
+    {
+      "locale": "zh",
+      "description": "Nautomate为Apple Shortcuts增加了强大的、原生的Notion动作，让你的工作空间实现自动化。⠀ 创建强大的自定义工作流程，可以添加到（或从）你的数据库中读取，创建丰富的页面或将现有的页面导出为Markdown。",
+      "tagline": "捷径的概念行动"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nautomate爲Apple Shortcuts增加了強大的、原生的Notion動作，讓你的工作空間實現自動化。⠀ 創建強大的自定義工作流程，可以添加到（或從）你的數據庫中讀取，創建豐富的頁面或將現有的頁面導出爲Markdown。",
+      "tagline": "捷徑的概念行動"
+    }
+  ]
 }
