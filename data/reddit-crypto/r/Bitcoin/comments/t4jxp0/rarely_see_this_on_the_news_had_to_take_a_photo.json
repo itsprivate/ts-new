@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニュースではめったに見ることができないので、思わず写真を撮ってしまいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "很少在新闻中看到这种情况......不得不拍了一张照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很少在新聞中看到這種情況......不得不拍了一張照片"
+    }
+  ]
 }
