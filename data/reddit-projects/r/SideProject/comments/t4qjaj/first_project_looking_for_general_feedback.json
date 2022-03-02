@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello. I'm an AS graduate in CS and also partially self-taught as well. I'm new\nto the programming world and am looking for general feedback regarding my first\nprogramming project, an image gallery written in Java/JavaFX. I've worked on it\nfor some time(about 8 months) while also learning some Git…"
+  "the_new_excerpt": "Hello. I'm an AS graduate in CS and also partially self-taught as well. I'm new\nto the programming world and am looking for general feedback regarding my first\nprogramming project, an image gallery written in Java/JavaFX. I've worked on it\nfor some time(about 8 months) while also learning some Git…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。私はCSのASを卒業し、また一部独学で勉強しています。私は初めて\nプログラミングの世界では、私の最初の作品に関する一般的なフィードバックを求めています。\nJava/JavaFXで書かれたイメージギャラリーです。私はそれに取り組んできました\nGitの勉強もしながら、しばらく（約8ヶ月）。",
+      "title": "最初のプロジェクト、一般的なフィードバックを求めている"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好。我是CS的AS毕业生，也有部分是自学的。我是一个新\n我是编程界的新手，正在寻找关于我的第一个编程项目的一般反馈。\n我的第一个编程项目是一个用Java/JavaFX编写的图片库。我已经在这个项目上工作了\n已经有一段时间了（大约8个月），同时也在学习一些Git...",
+      "title": "第一个项目，寻找一般的反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好。我是CS的AS畢業生，也有部分是自學的。我是一個新\n我是編程界的新手，正在尋找關於我的第一個編程項目的一般反饋。\n我的第一個編程項目是一個用Java/JavaFX編寫的圖片庫。我已經在這個項目上工作了\n已經有一段時間了（大約8個月），同時也在學習一些Git...",
+      "title": "第一個項目，尋找一般的反饋"
+    }
+  ]
 }
