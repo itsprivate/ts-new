@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "戦闘中のウクライナとロシアの無線交信"
+    },
+    {
+      "locale": "zh",
+      "title": "战斗中乌克兰和俄罗斯的无线电交流"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "戰鬥中烏克蘭和俄羅斯的無線電交流"
+    }
+  ]
 }
