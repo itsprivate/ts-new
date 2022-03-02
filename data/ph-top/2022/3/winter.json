@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-02T08:01:00Z"
+  "original_createdAt": "2022-03-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Winterは、あなたの顧客がクレジットカードや銀行口座でNFTを購入するのをサポートします。Winterでは、簡単にインストールできるNFTチェックアウトウィジェットで、簡単にNFTを販売することができます!",
+      "tagline": "クレジットカードまたは銀行口座によるNFTの販売"
+    },
+    {
+      "locale": "zh",
+      "description": "Winter帮助你的客户用信用卡或银行账户购买NFT。Winter提供了一个易于安装的NFT结账小工具，可以轻松地销售NFT!",
+      "tagline": "通过信用卡或银行账户出售NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Winter幫助你的客戶用信用卡或銀行賬戶購買NFT。Winter提供了一個易於安裝的NFT結賬小工具，可以輕鬆地銷售NFT!",
+      "tagline": "通過信用卡或銀行賬戶出售NFTs"
+    }
+  ]
 }
