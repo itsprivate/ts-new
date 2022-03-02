@@ -48,5 +48,22 @@
   "original_created_at": "2022-02-28T18:27:02Z",
   "image": "https://dev.to/social_previews/article/1004473.png",
   "author": "Hamp Goodwin",
-  "author_url": "https://dev.to/hampgoodwin"
+  "author_url": "https://dev.to/hampgoodwin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、新しい仕事を始めたんです。まだ携わる機会のない技術もいくつかありますが...。",
+      "title": "ドキュメントの読み方"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近开始了一项新的工作。有几项技术我还没有机会去工作...",
+      "title": "如何阅读文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近開始了一項新的工作。有幾項技術我還沒有機會去工作...",
+      "title": "如何閱讀文件"
+    }
+  ]
 }
