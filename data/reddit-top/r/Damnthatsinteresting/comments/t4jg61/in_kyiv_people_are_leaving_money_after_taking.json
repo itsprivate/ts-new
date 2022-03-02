@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キエフでは、店にレジがないため、飲み物を飲んだ後、お金を置いていく人がいる。"
+    },
+    {
+      "locale": "zh",
+      "title": "在基辅，人们在喝完饮料后留下钱，因为商店里没有收银员。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在基輔，人們在喝完飲料後留下錢，因爲商店裏沒有收銀員。"
+    }
+  ]
 }
