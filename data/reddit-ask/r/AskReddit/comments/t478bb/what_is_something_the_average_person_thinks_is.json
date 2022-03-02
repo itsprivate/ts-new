@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一般の人が違法だと思っていることで、実は違法でないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是普通人认为是非法的而实际上不是的东西？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是普通人認爲是非法的而實際上不是的東西？"
+    }
+  ]
 }
