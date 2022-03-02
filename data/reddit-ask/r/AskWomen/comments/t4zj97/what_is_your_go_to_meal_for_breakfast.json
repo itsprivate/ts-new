@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It's morning where I am at and I know I probably just gonna skip it and have\ncoffee. What are your favorites in the AM?"
+  "the_new_excerpt": "It's morning where I am at and I know I probably just gonna skip it and have\ncoffee. What are your favorites in the AM?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私がいるところは朝なので、おそらくスキップして飲むことになると思います。\nコーヒー 午前中のお気に入りは何ですか？",
+      "title": "朝食によく食べるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我所在的地方是早上，我知道我可能只是要跳过它，然后喝咖啡。\n咖啡。你在早上最喜欢什么？",
+      "title": "你的早餐是哪一餐？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我所在的地方是早上，我知道我可能只是要跳過它，然後喝咖啡。\n咖啡。你在早上最喜歡什麼？",
+      "title": "你的早餐是哪一餐？"
+    }
+  ]
 }
