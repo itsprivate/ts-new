@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベラルーシ軍が国境を越えてウクライナに侵入し、正式に侵攻に加わったことをウクライナ当局が確認している。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰当局证实，白俄罗斯军队刚刚越过边境进入乌克兰，并正式加入了入侵行动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭當局證實，白俄羅斯軍隊剛剛越過邊境進入烏克蘭，並正式加入了入侵行動。"
+    }
+  ]
 }
