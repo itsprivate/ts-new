@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-29T10:11:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zJpnzXm7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/toar0dp5n4ilcver9yal.png",
   "author": "Alexander",
-  "author_url": "https://dev.to/aleksk1ng"
+  "author_url": "https://dev.to/aleksk1ng",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、より実世界に近いEvent Sourcing CQRS microserviceを以下の方法で作成してみましょう。",
+      "title": "EventStoreDBを使ったGo EventSourcingとCQRSのマイクロサービス👋⚡️💫。"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，让我们尝试创建更接近真实世界的事件源CQRS微服务，使用：...",
+      "title": "使用EventStoreDB的Go EventSourcing和CQRS微服务 👋⚡️💫"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，讓我們嘗試創建更接近真實世界的事件源CQRS微服務，使用：...",
+      "title": "使用EventStoreDB的Go EventSourcing和CQRS微服務 👋⚡️💫"
+    }
+  ]
 }

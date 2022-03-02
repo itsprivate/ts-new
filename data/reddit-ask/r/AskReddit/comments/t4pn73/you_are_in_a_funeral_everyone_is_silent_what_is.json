@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたはお葬式で、誰もが沈黙している。沈黙の間に流すべき最悪の着信音は何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在一个葬礼上，每个人都沉默不语。在寂静中播放的最糟糕的铃声是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在一個葬禮上，每個人都沉默不語。在寂靜中播放的最糟糕的鈴聲是什麼？"
+    }
+  ]
 }
