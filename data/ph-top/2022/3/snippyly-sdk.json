@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-02T08:01:00Z"
+  "original_createdAt": "2022-03-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Snippylyは、FigmaやGoogle Docsのように、Webアプリをマルチプレイヤー化するSDKです。Y",
+      "tagline": "アプリをマルチプレイにする"
+    },
+    {
+      "locale": "zh",
+      "description": "Snippyly是一个SDK，它使你的网络应用成为多人游戏，就像Figma或Google Docs一样。你可以让你的终端用户在不离开你的应用程序的情况下留下上下文评论，进行讨论并查看谁在在线。最重要的是，你可以在30分钟内设置好它。",
+      "tagline": "使你的应用程序成为多人游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Snippyly是一個SDK，它使你的網絡應用成爲多人遊戲，就像Figma或Google Docs一樣。你可以讓你的終端用戶在不離開你的應用程序的情況下留下上下文評論，進行討論並查看誰在在線。最重要的是，你可以在30分鐘內設置好它。",
+      "tagline": "使你的應用程序成爲多人遊戲"
+    }
+  ]
 }
