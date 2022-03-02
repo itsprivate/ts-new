@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-01T20:53:34Z",
   "image": "https://dev.to/social_previews/article/1005724.png",
   "author": "Cher",
-  "author_url": "https://dev.to/cher"
+  "author_url": "https://dev.to/cher",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨年の秋、アップルから追い出されたことが明らかになり、求職活動を始めたのですが......。",
+      "title": "ソフトウェアエンジニアとしての面接は最悪です。"
+    },
+    {
+      "locale": "zh",
+      "description": "去年秋天，我开始寻找工作，因为我清楚地意识到，我被挤出了Apple....。",
+      "title": "作为一名软件工程师，面试很糟糕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "去年秋天，我開始尋找工作，因爲我清楚地意識到，我被擠出了Apple....。",
+      "title": "作爲一名軟件工程師，面試很糟糕。"
+    }
+  ]
 }

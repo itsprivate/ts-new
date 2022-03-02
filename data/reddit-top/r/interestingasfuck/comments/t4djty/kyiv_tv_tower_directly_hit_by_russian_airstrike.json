@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシア軍の空爆を受けたキエフのテレビ塔は、溶接コアによる非常識な構造安定性を証明した"
+    },
+    {
+      "locale": "zh",
+      "title": "基辅电视塔，直接被俄罗斯空袭击中，证明因焊接核心而具有疯狂的结构稳定性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基輔電視塔，直接被俄羅斯空襲擊中，證明因焊接核心而具有瘋狂的結構穩定性"
+    }
+  ]
 }
