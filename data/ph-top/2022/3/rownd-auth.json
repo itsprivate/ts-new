@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-02T08:01:00Z"
+  "original_createdAt": "2022-03-02T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rownd Authは、コードスニペットにより、ブランドのすべてのWebサイトに摩擦のない認証とアカウント作成を追加します。Jamstack、Webflow、Wordpress？問題ありません。開発者は、サーバーサイドの呼び出しなしにローカルでプロファイル情報を使用し、ユーザー向けにあらゆるサイトをカスタマイズすることができます。",
+      "tagline": "Jamstack、Wordpress、Webflowのためのフリクションレス認証。"
+    },
+    {
+      "locale": "zh",
+      "description": "Rownd Auth通过一个代码片段为一个品牌的所有网站增加无摩擦的认证和账户创建。Jamstack、Webflow、Wordpress？没问题! 开发人员可以在本地使用个人资料信息，而无需服务器端调用，为用户定制任何网站。",
+      "tagline": "用于Jamstack、Wordpress、Webflow的无摩擦认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rownd Auth通過一個代碼片段爲一個品牌的所有網站增加無摩擦的認證和賬戶創建。Jamstack、Webflow、Wordpress？沒問題! 開發人員可以在本地使用個人資料信息，而無需服務器端調用，爲用戶定製任何網站。",
+      "tagline": "用於Jamstack、Wordpress、Webflow的無摩擦認證"
+    }
+  ]
 }
