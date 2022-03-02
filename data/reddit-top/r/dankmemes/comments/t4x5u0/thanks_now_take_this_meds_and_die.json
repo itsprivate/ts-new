@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ありがとうございます。さあ、この薬を飲んで死んでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "谢谢。现在吃了这个药就死吧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "謝謝。現在吃了這個藥就死吧。"
+    }
+  ]
 }
