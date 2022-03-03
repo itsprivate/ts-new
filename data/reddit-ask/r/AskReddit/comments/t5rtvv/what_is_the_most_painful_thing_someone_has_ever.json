@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで言われた中で一番辛かった言葉は何ですか？(真剣)"
+    },
+    {
+      "locale": "zh",
+      "title": "有人告诉你的最痛苦的事情是什么？(严肃的)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人告訴你的最痛苦的事情是什麼？(嚴肅的)"
+    }
+  ]
 }
