@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "代名詞"
+    },
+    {
+      "locale": "zh",
+      "title": "代词"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "代詞"
+    }
+  ]
 }
