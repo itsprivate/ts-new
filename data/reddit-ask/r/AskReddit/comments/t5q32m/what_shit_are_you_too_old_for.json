@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いい年して何言ってんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的年龄太大，有什么问题吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的年齡太大，有什麼問題嗎？"
+    }
+  ]
 }
