@@ -52,5 +52,22 @@
     },
     "retweet_count": 201,
     "favorite_count": 387
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @EchoMskNews: 非NATOのフィンランドとスウェーデンに、ロシアの安全保障を要求するクレムリンの書簡が届く。",
+      "retweeted_status_full_text": "非NATOのフィンランドとスウェーデンに、ロシアの安全保障を要求するクレムリンの書簡が届く。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @EchoMskNews: 非北约的芬兰和瑞典收到克里姆林宫的信件，要求俄罗斯提供安全保障",
+      "retweeted_status_full_text": "非北约的芬兰和瑞典收到克里姆林宫要求俄罗斯提供安全保障的信件"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @EchoMskNews: 非北約的芬蘭和瑞典收到克里姆林宮的信件，要求俄羅斯提供安全保障",
+      "retweeted_status_full_text": "非北約的芬蘭和瑞典收到克里姆林宮要求俄羅斯提供安全保障的信件"
+    }
+  ]
 }
