@@ -134,5 +134,22 @@
     "retweet_count": 468,
     "favorite_count": 2568,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @cryptograffiti: このボンド映画の名前を教えてください https://t.co/WGkul675Xj",
+      "retweeted_status_full_text": "このボンド映画の名前を教えてください https://t.co/WGkul675Xj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @cryptograffiti: 请说出这部邦德电影的名字 https://t.co/WGkul675Xj",
+      "retweeted_status_full_text": "请说出这部邦德电影的名字 https://t.co/WGkul675Xj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @cryptograffiti: 請說出這部邦德電影的名字 https://t.co/WGkul675Xj",
+      "retweeted_status_full_text": "請說出這部邦德電影的名字 https://t.co/WGkul675Xj"
+    }
+  ]
 }
