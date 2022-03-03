@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was tired of picking up soggy messes from the back of my fridge, so I built an\napp that lets me manage a grocery list that starts a clock when items are\npurchased. The app sorts my pantry/fridge/freezer based on when things are about\nto go bad. Oh, and it also lets you scrape websites for recipes…"
+  "the_new_excerpt": "I was tired of picking up soggy messes from the back of my fridge, so I built an\napp that lets me manage a grocery list that starts a clock when items are\npurchased. The app sorts my pantry/fridge/freezer based on when things are about\nto go bad. Oh, and it also lets you scrape websites for recipes…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "冷蔵庫の奥からグチャグチャになったものを拾うのが嫌で、作ったんです。\n食材リストを管理するアプリで、食材を購入すると時計がスタートします。\n購入しました。このアプリは、私のパントリー/冷蔵庫/冷凍庫を、いつごろのものかを基準に仕分けしてくれます。\n腐りかけの それと、ウェブサイトからレシピを探し出すこともできますよ...",
+      "title": "食料品リスト、レシピ、食料品を記録するアプリを作り、物が腐りそうになるとアラームで知らせるようにした"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经厌倦了从冰箱后面捡起湿漉漉的东西，所以我建立了一个应用程序，让我能够管理杂货清单，并在物品到达时启动时钟。\n因此，我建立了一个应用程序，让我能够管理一个杂货清单，当物品被购买时就会启动一个时钟。\n购买。这个应用程序根据物品即将变质的时间对我的储藏室/冰箱/冰柜进行分类。\n要变坏。哦，它还可以让你在网站上搜刮食谱......",
+      "title": "我建立了一个应用程序来跟踪我的杂货清单、食谱和储藏室物品，并在东西即将变坏时发出警报。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經厭倦了從冰箱後面撿起溼漉漉的東西，所以我建立了一個應用程序，讓我能夠管理雜貨清單，並在物品到達時啓動時鐘。\n因此，我建立了一個應用程序，讓我能夠管理一個雜貨清單，當物品被購買時就會啓動一個時鐘。\n購買。這個應用程序根據物品即將變質的時間對我的儲藏室/冰箱/冰櫃進行分類。\n要變壞。哦，它還可以讓你在網站上搜刮食譜......",
+      "title": "我建立了一個應用程序來跟蹤我的雜貨清單、食譜和儲藏室物品，並在東西即將變壞時發出警報。"
+    }
+  ]
 }
