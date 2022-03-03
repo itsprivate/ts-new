@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-02T08:59:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UT9vk18e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6fy3kztwx8czyqeknvle.png",
   "author": "Zoltán Szőgyényi",
-  "author_url": "https://dev.to/zolidev"
+  "author_url": "https://dev.to/zolidev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Svelteは、現代的で成長中のフロントエンドコンパイラです。開発者は、Svelteを使用して、ボイラープレート不要のコンポーネントを構築することができます...",
+      "title": "SvelteとFlowbiteでTailwind CSSをインストールする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Svelte是一个现代的、不断发展的前端编译器。开发人员使用Svelte来构建无锅炉板的组件。",
+      "title": "如何用Svelte和Flowbite安装Tailwind CSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Svelte是一個現代的、不斷髮展的前端編譯器。開發人員使用Svelte來構建無鍋爐板的組件。",
+      "title": "如何用Svelte和Flowbite安裝Tailwind CSS"
+    }
+  ]
 }
