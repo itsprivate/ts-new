@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "web: https://dbgate.org\nsource code: https://github.com/dbgate/dbgate\ndemo: https://demo.dbgate.org"
+  "the_new_excerpt": "web: https://dbgate.org\nsource code: https://github.com/dbgate/dbgate\ndemo: https://demo.dbgate.org",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ウェブ：https://dbgate.org\nソースコード： https://github.com/dbgate/dbgate\nデモ: https://demo.dbgate.org",
+      "title": "MySQL、MS SQL、Postgres、SQLite、MongoDBといった一般的なSQL+noSQLデータベース用のデータベースクライアントを作成しました。クロスプラットフォーム（Windows、Linux、Mac、Web）、完全フリー＋オープンソース（MITライセンス）です。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "网络: https://dbgate.org\n源代码: https://github.com/dbgate/dbgate\n演示：https://demo.dbgate.org",
+      "title": "我创建了一个数据库客户端，用于流行的SQL+noSQL数据库 - MySQL, MS SQL, Postgres, SQLite, MongoDB。它是跨平台的（Windows、Linux、Mac、Web），完全免费+开源的（MIT许可）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "網絡: https://dbgate.org\n源代碼: https://github.com/dbgate/dbgate\n演示：https://demo.dbgate.org",
+      "title": "我創建了一個數據庫客戶端，用於流行的SQL+noSQL數據庫 - MySQL, MS SQL, Postgres, SQLite, MongoDB。它是跨平臺的（Windows、Linux、Mac、Web），完全免費+開源的（MIT許可）。"
+    }
+  ]
 }
