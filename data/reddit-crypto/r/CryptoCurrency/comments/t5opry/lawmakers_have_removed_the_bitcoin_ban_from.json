@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "議員たちは、EUの暗号法の最新版から「ビットコイン禁止」を削除した"
+    },
+    {
+      "locale": "zh",
+      "title": "立法者已经从欧盟最新版本的加密货币立法中删除了 \"比特币禁令\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "立法者已經從歐盟最新版本的加密貨幣立法中刪除了 \"比特幣禁令\"。"
+    }
+  ]
 }
