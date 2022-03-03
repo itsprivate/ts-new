@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さあ、パーティーの始まりだ"
+    },
+    {
+      "locale": "zh",
+      "title": "让我们开始这个聚会吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我們開始這個聚會吧"
+    }
+  ]
 }

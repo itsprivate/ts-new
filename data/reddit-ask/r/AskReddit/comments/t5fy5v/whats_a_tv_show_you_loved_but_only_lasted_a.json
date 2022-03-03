@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが大好きなテレビ番組で、1シーズンか2シーズンしか放送されなかったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢的电视节目是什么，但只持续了一两季？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡的電視節目是什麼，但只持續了一兩季？"
+    }
+  ]
 }
