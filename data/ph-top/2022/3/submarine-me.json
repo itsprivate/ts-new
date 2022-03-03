@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-03T08:01:00Z"
+  "original_createdAt": "2022-03-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アンロックされた限定コンテンツを誰とでも共有できる。トークン・ゲートを次のレベルへ。NFTゲートのメディアはついに登場し、かつてないほど簡単になりました。Pinataがお届けします。",
+      "tagline": "IPFSで保護されたコンテンツをNFTでアンロック可能にする。"
+    },
+    {
+      "locale": "zh",
+      "description": "与任何人分享可解锁的独家内容。将代币门槛提高到新的水平。NFT门控媒体终于来了，而且从未如此简单。由Pinata为您带来。",
+      "tagline": "让IPFS支持的内容可以用NFT解锁"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "與任何人分享可解鎖的獨家內容。將代幣門檻提高到新的水平。NFT門控媒體終於來了，而且從未如此簡單。由Pinata爲您帶來。",
+      "tagline": "讓IPFS支持的內容可以用NFT解鎖"
+    }
+  ]
 }
