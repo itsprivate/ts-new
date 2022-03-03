@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-02T14:26:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--joksYTES--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mxpiecne3b8lcs9xjvil.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数型プログラミングとは、純粋な関数を組み合わせてプログラムを考える方法です。それは、...",
+      "title": "FizzBuzzを書き直すことで、関数型プログラミングの基本を理解する。"
+    },
+    {
+      "locale": "zh",
+      "description": "函数式编程是一种通过组成纯函数来思考程序的方式。它试图...",
+      "title": "通过（重新）编写FizzBuzz，了解函数式编程基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "函數式編程是一種通過組成純函數來思考程序的方式。它試圖...",
+      "title": "通過（重新）編寫FizzBuzz，瞭解函數式編程基礎知識"
+    }
+  ]
 }
