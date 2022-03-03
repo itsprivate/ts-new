@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "特別委員会は、トランプ氏が選挙を覆すために複数の法律に違反したと結論付けた"
+    },
+    {
+      "locale": "zh",
+      "title": "特别委员会得出结论：特朗普违反多项法律，试图推翻选举"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "特別委員會得出結論：特朗普違反多項法律，試圖推翻選舉"
+    }
+  ]
 }
