@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんな風に言われると、なんとも微笑ましいですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "你这样说的时候，多么有趣。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你這樣說的時候，多麼有趣。"
+    }
+  ]
 }
