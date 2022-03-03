@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在、貯金しているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你目前在为什么而攒钱？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你目前在爲什麼而攢錢？"
+    }
+  ]
 }
