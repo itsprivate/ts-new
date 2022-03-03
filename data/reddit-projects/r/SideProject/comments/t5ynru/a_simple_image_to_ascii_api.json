@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルな画像からASCIIへの変換API"
+    },
+    {
+      "locale": "zh",
+      "title": "一个简单的图像到ascii的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個簡單的圖像到ascii的API"
+    }
+  ]
 }
