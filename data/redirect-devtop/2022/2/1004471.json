@@ -57,5 +57,22 @@
   "original_created_at": "2022-02-28T18:19:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IhmAGLas--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hij1ym0wtcdxc70mq1d7.jpg",
   "author": "Eldad A. Fux",
-  "author_url": "https://dev.to/eldadfux"
+  "author_url": "https://dev.to/eldadfux",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwrite 0.12のリリースからわずか1ヶ月で、我々はAppwrite...のリリースを発表することに興奮しています。",
+      "title": "ストレージと機能の大幅なアップグレードを伴うAppwrite 0.13のアナウンスメント"
+    },
+    {
+      "locale": "zh",
+      "description": "在Appwrite 0.12发布仅一个月后，我们很高兴地宣布Appwrite...",
+      "title": "宣布Appwrite 0.13版本，对存储和功能进行了重大升级"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Appwrite 0.12發佈僅一個月後，我們很高興地宣佈Appwrite...",
+      "title": "宣佈Appwrite 0.13版本，對存儲和功能進行了重大升級"
+    }
+  ]
 }
