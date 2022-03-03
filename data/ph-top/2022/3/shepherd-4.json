@@ -81,5 +81,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-03T08:01:56Z"
+  "original_createdAt": "2022-03-03T08:01:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Shepherdは、GoogleカレンダーとGoogle Meetに直接プラグインして、チームで共同メモを取ったり、カスタム議題を設定したり、アクションアイテムを割り当てたり、他の生産性アプリケーションと接続するためのChrome拡張機能です。すべてを1つの場所で",
+      "tagline": "会議のメモ、アジェンダ、タスク - GoogleカレンダーとMeetに掲載"
+    },
+    {
+      "locale": "zh",
+      "description": "Shepherd是一个Chrome扩展，可以直接插入谷歌日历和谷歌会议，让团队进行协作笔记，设置自定义议程和分配行动项目，并与其他生产力应用程序连接。一切都在一个地方!",
+      "tagline": "会议记录、议程和任务 - 在谷歌日历和Meet中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Shepherd是一個Chrome擴展，可以直接插入谷歌日曆和谷歌會議，讓團隊進行協作筆記，設置自定義議程和分配行動項目，並與其他生產力應用程序連接。一切都在一個地方!",
+      "tagline": "會議記錄、議程和任務 - 在谷歌日曆和Meet中"
+    }
+  ]
 }
