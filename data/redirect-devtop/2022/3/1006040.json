@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-02T05:27:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rJCm6kUD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58wvth2b5s3zbnreyr2z.png",
   "author": "imsabir",
-  "author_url": "https://dev.to/msabir"
+  "author_url": "https://dev.to/msabir",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スプレッドオペレーターという言葉を聞いたことがあるかもしれませんし、普段の開発でも使っているかと思いますが......。",
+      "title": "ジャバスクリプト 表計算ソフト CheetSheet  "
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经听说过这个Spread Operators，并且在日常开发中也在使用它....。",
+      "title": "脚本。Spread Operators CheetSheet  "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經聽說過這個Spread Operators，並且在日常開發中也在使用它....。",
+      "title": "腳本。Spread Operators CheetSheet  "
+    }
+  ]
 }
