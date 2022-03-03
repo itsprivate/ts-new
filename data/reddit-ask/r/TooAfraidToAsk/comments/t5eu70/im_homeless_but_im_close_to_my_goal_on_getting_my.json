@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はホームレスですが、4月にアパートを借りるという目標まであと少しです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我无家可归，但我已经接近我的目标，在4月得到我的公寓，感觉很沮丧，谁能给我一些鼓励的话？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我無家可歸，但我已經接近我的目標，在4月得到我的公寓，感覺很沮喪，誰能給我一些鼓勵的話？"
+    }
+  ]
 }
