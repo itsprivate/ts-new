@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "量的には、これまでの人生で最も多く食べた食品は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "按数量计算，你在生活中吃的最多的是什么食物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按數量計算，你在生活中喫的最多的是什麼食物？"
+    }
+  ]
 }

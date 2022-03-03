@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-01T15:51:42Z",
   "image": "https://dev.to/social_previews/article/1005406.png",
   "author": "Katarina Harbuzava",
-  "author_url": "https://dev.to/anaflatlogic"
+  "author_url": "https://dev.to/anaflatlogic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Node.jsの登場は、フロントエンドとバックエンドを同期させるきっかけとなり、JavaScriptの新時代となった。",
+      "title": "トップ7+ Node.js Reactテンプレートと管理画面のためのテーマ"
+    },
+    {
+      "locale": "zh",
+      "description": "Node.js的出现成为了JavaScript的新时代，因为有机会使前端和后端同步。",
+      "title": "顶级7+ Node.js React模板和主题的管理面板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node.js的出現成爲了JavaScript的新時代，因爲有機會使前端和後端同步。",
+      "title": "頂級7+ Node.js React模板和主題的管理面板"
+    }
+  ]
 }
