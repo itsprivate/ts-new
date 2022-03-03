@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-02T12:14:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TvjQD0wB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmz32jqh80imuybmr9a3.png",
   "author": "CodeBucks",
-  "author_url": "https://dev.to/codebucks"
+  "author_url": "https://dev.to/codebucks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋、数日前にいろいろなサイトでクールなアニメーションやエフェクトを見かけました。だから、私は作った...",
+      "title": "ReactJS🔴でNFTコレクションサイトのランディングページを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，几天前我在不同的网站上看到一些很酷的动画和效果。所以我做了...",
+      "title": "用ReactJS🔴创建一个NFT系列网站的登陆页"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，幾天前我在不同的網站上看到一些很酷的動畫和效果。所以我做了...",
+      "title": "用ReactJS🔴創建一個NFT系列網站的登陸頁"
+    }
+  ]
 }

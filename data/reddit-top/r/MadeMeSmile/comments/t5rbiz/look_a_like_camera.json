@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "じろじろ見る"
+    },
+    {
+      "locale": "zh",
+      "title": "模样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "模樣"
+    }
+  ]
 }
