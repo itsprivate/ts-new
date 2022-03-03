@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-03T08:01:00Z"
+  "original_createdAt": "2022-03-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appleデバイス（iPhone/iPad/Mac）で利用できるTrebleのネイティブなオールインワンアプリでAPI管理を再構築しましょう🎉 リアルタイムAPIモニタリング、プッシュ通知アラート、自動生成ドキュメント、API分析、テスト、その他多くの機能を手に入れましょう。",
+      "tagline": "次世代型APIマネジメント"
+    },
+    {
+      "locale": "zh",
+      "description": "通过我们在所有苹果设备（iPhone/iPad/Mac）上为Treblle提供的原生、一体化的应用程序，重新认识API管理 🎉 获得实时API监控、推送通知提醒、自动生成文档、API分析、测试等功能。",
+      "tagline": "下一代的API管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過我們在所有蘋果設備（iPhone/iPad/Mac）上爲Treblle提供的原生、一體化的應用程序，重新認識API管理 🎉 獲得實時API監控、推送通知提醒、自動生成文檔、API分析、測試等功能。",
+      "tagline": "下一代的API管理"
+    }
+  ]
 }
