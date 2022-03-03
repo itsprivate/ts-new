@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Not an ordered assassination, but in a direct one-on-one confrontation. Leader\nmight be a broad description, but basically any key figure killing their enemy\ncounterpart, say a general shooting a general, or a king striking down another\nking on a battlefield."
+  "the_new_excerpt": "Not an ordered assassination, but in a direct one-on-one confrontation. Leader\nmight be a broad description, but basically any key figure killing their enemy\ncounterpart, say a general shooting a general, or a king striking down another\nking on a battlefield.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "命令された暗殺ではなく、1対1の直接対決で。リーダー\nというのは大雑把かもしれませんが、基本的には要人が敵を殺すということです。\n例えば、将軍が将軍を撃つとか、王が王を打ちのめすとか。\n戦場での王",
+      "title": "リーダーが他のリーダーを直接殺したことがあるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不是下令暗杀，而是在一对一的直接对抗中。领导人\n可能是一个宽泛的描述，但基本上任何关键人物都会杀死他们的敌人。\n的对手，比如说一个将军射杀另一个将军，或者一个国王在战场上击倒另一个\n领袖可能是一个宽泛的描述，但基本上是任何关键人物杀死他们的对手，例如一个将军射杀一个将军，或一个国王在战场上击倒另一个国王。",
+      "title": "一个领导人曾经直接杀害过另一个领导人吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不是下令暗殺，而是在一對一的直接對抗中。領導人\n可能是一個寬泛的描述，但基本上任何關鍵人物都會殺死他們的敵人。\n的對手，比如說一個將軍射殺另一個將軍，或者一個國王在戰場上擊倒另一個\n領袖可能是一個寬泛的描述，但基本上是任何關鍵人物殺死他們的對手，例如一個將軍射殺一個將軍，或一個國王在戰場上擊倒另一個國王。",
+      "title": "一個領導人曾經直接殺害過另一個領導人嗎？"
+    }
+  ]
 }

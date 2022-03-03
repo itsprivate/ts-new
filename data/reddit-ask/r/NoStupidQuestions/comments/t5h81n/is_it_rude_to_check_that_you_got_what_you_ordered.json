@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドライブスルーで車を止める前に、注文したものが出てきたかどうか確認するのは失礼にあたりますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在开车时检查你是否得到了你所点的东西，然后再拉走，这是否很不礼貌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在開車時檢查你是否得到了你所點的東西，然後再拉走，這是否很不禮貌？"
+    }
+  ]
 }
