@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後にググったものが、今まさにあなたを追いかけていて、急速に近づいてきています。"
+    },
+    {
+      "locale": "zh",
+      "title": "你搜索的最后一件事现在正在追捕你，而且正在快速接近，是什么在追捕你？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你搜索的最後一件事現在正在追捕你，而且正在快速接近，是什麼在追捕你？"
+    }
+  ]
 }
