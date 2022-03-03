@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-03T08:01:00Z"
+  "original_createdAt": "2022-03-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Karmaは、900以上のユニークなブロックと組み立て済みの部品で構成された、丁寧に作られたワイヤーフレームキットです。Karmaは、Figmaユーザーのために作られたワイヤーフレームキットです。Figmaの最も進んだ部分をベースに、デザインの一貫性を一元化して共有できるようになっています。",
+      "tagline": "900以上のブロックを含むFigmaのHQワイヤーフレームキット"
+    },
+    {
+      "locale": "zh",
+      "description": "Karma是一个精心制作的线框套件，有900多个独特的积木和预制组件。Karma 是一个为 Figma 用户制作的线框套件。它以Figma最先进的方面为基础，具有集中和可共享的设计一致性。",
+      "tagline": "带有900多个Figma块的总部线框套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Karma是一個精心製作的線框套件，有900多個獨特的積木和預製組件。Karma 是一個爲 Figma 用戶製作的線框套件。它以Figma最先進的方面爲基礎，具有集中和可共享的設計一致性。",
+      "tagline": "帶有900多個Figma塊的總部線框套件"
+    }
+  ]
 }
