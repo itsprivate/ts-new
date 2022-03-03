@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-16T17:01:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y7IISRl7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mktl8y83olim8vr6wcqa.jpg",
   "author": "Martin Heinz",
-  "author_url": "https://dev.to/martinheinz"
+  "author_url": "https://dev.to/martinheinz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パフォーマンスの最適化というと、通常は速度とCPU使用率にのみ焦点が当てられます。めったにないことですが...",
+      "title": "Pythonアプリケーションのメモリ使用量の最適化"
+    },
+    {
+      "locale": "zh",
+      "description": "谈到性能优化，人们通常只关注速度和CPU使用率。很少有...",
+      "title": "优化Python应用程序的内存使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "談到性能優化，人們通常只關注速度和CPU使用率。很少有...",
+      "title": "優化Python應用程序的內存使用"
+    }
+  ]
 }
