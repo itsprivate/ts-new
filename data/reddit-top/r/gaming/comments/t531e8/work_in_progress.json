@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "進行中の作品"
+    },
+    {
+      "locale": "zh",
+      "title": "正在进行的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在進行的工作"
+    }
+  ]
 }
