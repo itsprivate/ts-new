@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんどん悪くなっていく"
+    },
+    {
+      "locale": "zh",
+      "title": "它只是变得越来越糟糕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它只是變得越來越糟糕"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナ報道で、欧米の報道機関が「私たちのような人々」への厳しい偏見を露わにした。"
+    },
+    {
+      "locale": "zh",
+      "title": "在乌克兰的报道中，西方媒体显示出对 \"像我们这样的人 \"的严峻偏见"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在烏克蘭的報道中，西方媒體顯示出對 \"像我們這樣的人 \"的嚴峻偏見"
+    }
+  ]
 }

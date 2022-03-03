@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのノード数が15,000に到達しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币节点的数量已经达到15,000个。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣節點的數量已經達到15,000個。"
+    }
+  ]
 }
