@@ -1,0 +1,110 @@
+{
+  "created_at": "Thu Mar 03 12:19:6 +0000 2022",
+  "id_str": "1499355491692158976",
+  "full_text": "RT @timjudah1: I can’t tell you what is happening where there is fighting but my local supermarket has reopened after being closed for a we…",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "timjudah1",
+        "name": "Tim Judah",
+        "id": 191852684,
+        "id_str": "191852684",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 97,
+  "favorite_count": 0,
+  "original_created_at": "Thu Mar 03 12:06:20 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Thu Mar 03 10:44:48 +0000 2022",
+    "id_str": "1499334973010190340",
+    "full_text": "I can’t tell you what is happening where there is fighting but my local supermarket has reopened after being closed for a week. Only a small queue. Importantly it has had deliveries including bread and milk! #Kyiv #Ukraine https://t.co/sXirFoA1HH",
+    "display_text_range": [
+      0,
+      222
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Kyiv",
+          "indices": [
+            208,
+            213
+          ]
+        },
+        {
+          "text": "Ukraine",
+          "indices": [
+            214,
+            222
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1499334964546003000,
+          "id_str": "1499334964546002946",
+          "indices": [
+            223,
+            246
+          ],
+          "media_url": "http://pbs.twimg.com/media/FM61NNkWYAItZBb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FM61NNkWYAItZBb.jpg",
+          "url": "https://t.co/sXirFoA1HH",
+          "display_url": "pic.twitter.com/sXirFoA1HH",
+          "expanded_url": "https://twitter.com/timjudah1/status/1499334973010190340/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Tim Judah",
+      "screen_name": "timjudah1",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1130492442/Walter_normal.jpg"
+    },
+    "retweet_count": 97,
+    "favorite_count": 659,
+    "possibly_sensitive": false
+  }
+}
