@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-04T08:01:00Z"
+  "original_createdAt": "2022-03-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MassdriverはDevOpsを容易にし、エンジニアはシンプルなダイアグラム・インターフェースを使用して、安全で本番環境に近いインフラを迅速にデプロイすることができます。IAM、ファイアウォール、アラート、モニタリングなど、コンテキストに応じた設定がすぐに可能です。",
+      "tagline": "エフォートレス・デブオプス"
+    },
+    {
+      "locale": "zh",
+      "description": "Massdriver使DevOps不费吹灰之力，允许工程师使用一个简单的图表界面快速部署安全、可生产的基础设施。IAM、防火墙、警报和监控的上下文感知配置为您开箱配置。",
+      "tagline": "不费吹灰之力的DevOps"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Massdriver使DevOps不費吹灰之力，允許工程師使用一個簡單的圖表界面快速部署安全、可生產的基礎設施。IAM、防火牆、警報和監控的上下文感知配置爲您開箱配置。",
+      "tagline": "不費吹灰之力的DevOps"
+    }
+  ]
 }
