@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなコーヒーは何ですか？☕️"
+    },
+    {
+      "locale": "zh",
+      "title": "您最喜欢的咖啡是什么？☕️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "您最喜歡的咖啡是什麼？☕️"
+    }
+  ]
 }

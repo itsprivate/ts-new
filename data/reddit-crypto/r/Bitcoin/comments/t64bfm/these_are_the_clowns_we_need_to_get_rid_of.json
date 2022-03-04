@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これらのピエロは、私たちが排除する必要があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些是我们需要摆脱的小丑们"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些是我們需要擺脫的小丑們"
+    }
+  ]
 }
