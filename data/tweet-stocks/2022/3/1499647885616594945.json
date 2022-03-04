@@ -1,0 +1,158 @@
+{
+  "created_at": "Fri Mar 04 7:37:29 +0000 2022",
+  "id_str": "1499647885616594945",
+  "full_text": "RT @nypost: Ukrainian oligarch found dead in UK mansion https://t.co/hZBVBubLTB https://t.co/PE562eVPjs",
+  "display_text_range": [
+    0,
+    103
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "nypost",
+        "name": "New York Post",
+        "id": 17469289,
+        "id_str": "17469289",
+        "indices": [
+          3,
+          10
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/hZBVBubLTB",
+        "expanded_url": "https://trib.al/THCsGhS",
+        "display_url": "trib.al/THCsGhS",
+        "indices": [
+          56,
+          79
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1499466370966241300,
+        "id_str": "1499466370966241285",
+        "indices": [
+          80,
+          103
+        ],
+        "media_url": "http://pbs.twimg.com/media/FM8suEoWQAUPRy9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FM8suEoWQAUPRy9.jpg",
+        "url": "https://t.co/PE562eVPjs",
+        "display_url": "pic.twitter.com/PE562eVPjs",
+        "expanded_url": "https://twitter.com/nypost/status/1499466372887240706/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1024,
+            "h": 682,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1499466372887240700,
+        "source_status_id_str": "1499466372887240706",
+        "source_user_id": 17469289,
+        "source_user_id_str": "17469289"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 193,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Mar 04 07:28:12 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Thu Mar 03 19:26:56 +0000 2022",
+    "id_str": "1499466372887240706",
+    "full_text": "Ukrainian oligarch found dead in UK mansion https://t.co/hZBVBubLTB https://t.co/PE562eVPjs",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hZBVBubLTB",
+          "expanded_url": "https://trib.al/THCsGhS",
+          "display_url": "trib.al/THCsGhS",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1499466370966241300,
+          "id_str": "1499466370966241285",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/FM8suEoWQAUPRy9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FM8suEoWQAUPRy9.jpg",
+          "url": "https://t.co/PE562eVPjs",
+          "display_url": "pic.twitter.com/PE562eVPjs",
+          "expanded_url": "https://twitter.com/nypost/status/1499466372887240706/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "New York Post",
+      "screen_name": "nypost",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg"
+    },
+    "retweet_count": 193,
+    "favorite_count": 442,
+    "possibly_sensitive": false
+  }
+}
