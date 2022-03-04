@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EA開発者のためにFボタンを押す"
+    },
+    {
+      "locale": "zh",
+      "title": "为EA开发人员按F键"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲EA開發人員按F鍵"
+    }
+  ]
 }
