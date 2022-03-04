@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアによるハリコフ大学寮への攻撃で中国人学生4名とインド人1名が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "哈尔科夫大学宿舍遭俄罗斯袭击，4名中国学生和1名印度人死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哈爾科夫大學宿舍遭俄羅斯襲擊，4名中國學生和1名印度人死亡"
+    }
+  ]
 }

@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さよなら相棒"
+    },
+    {
+      "locale": "zh",
+      "title": "再见了，伙计"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "再見了，夥計"
+    }
+  ]
 }
