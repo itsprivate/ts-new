@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、ロシアがウクライナでやっていること"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯现在在乌克兰做什么"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯現在在烏克蘭做什麼"
+    }
+  ]
 }
