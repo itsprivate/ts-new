@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな言葉は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的一句话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的一句話是什麼？"
+    }
+  ]
 }
