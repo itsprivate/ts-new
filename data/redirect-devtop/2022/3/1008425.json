@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-03T21:53:38Z",
   "image": "https://dev.to/social_previews/article/1008425.png",
   "author": "Gracrys",
-  "author_url": "https://dev.to/gracrys"
+  "author_url": "https://dev.to/gracrys",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がいた多くのコミュニティでは、CSSを書くことに対してある種の嫌悪感があり、人々はイライラしていました。",
+      "title": "なんでみんなcssが苦手なんだろう？"
+    },
+    {
+      "locale": "zh",
+      "description": "在我去过的许多社区中，存在着对编写css的某些厌恶，人们会感到沮丧，...",
+      "title": "为什么人们对css这么差？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我去過的許多社區中，存在着對編寫css的某些厭惡，人們會感到沮喪，...",
+      "title": "爲什麼人們對css這麼差？"
+    }
+  ]
 }
