@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "教師が生徒の名前をわざと間違える!"
+    },
+    {
+      "locale": "zh",
+      "title": "老师故意弄错学生的名字！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老師故意弄錯學生的名字！？"
+    }
+  ]
 }
