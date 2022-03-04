@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お勧めの白黒映画を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你会推荐哪些黑白电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會推薦哪些黑白電影？"
+    }
+  ]
 }
