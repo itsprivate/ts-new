@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-04T08:01:00Z"
+  "original_createdAt": "2022-03-04T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "対ロシア制裁に参加し、たった1行のJavaScriptコードであなたのウェブサイトへのロシアのトラフィックをブロックします。",
+      "tagline": "ウクライナを支援するために、あなたのウェブサイトのロシア語トラフィックをブロックします。"
+    },
+    {
+      "locale": "zh",
+      "description": "参加对俄罗斯的制裁，只用一行JavaScript代码就能阻止俄罗斯对你的网站的访问。",
+      "tagline": "阻止您网站上的俄罗斯流量以支持乌克兰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "參加對俄羅斯的制裁，只用一行JavaScript代碼就能阻止俄羅斯對你的網站的訪問。",
+      "tagline": "阻止您網站上的俄羅斯流量以支持烏克蘭"
+    }
+  ]
 }
