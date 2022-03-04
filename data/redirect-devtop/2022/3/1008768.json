@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-04T05:36:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vpjz5Yel--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhsj74xrkqsl5ni1n8xj.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログをリニューアルする際に、こんな洒落たヘッダーエフェクトを作りました。   私は...",
+      "title": "CSSボックスデコレーションブレイクによる救済"
+    },
+    {
+      "locale": "zh",
+      "description": "当我在重新设计这个博客的时候，我创造了这个看起来很光滑的标题效果。   我...",
+      "title": "CSS箱体装饰断裂救援"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我在重新設計這個博客的時候，我創造了這個看起來很光滑的標題效果。   我...",
+      "title": "CSS箱體裝飾斷裂救援"
+    }
+  ]
 }
