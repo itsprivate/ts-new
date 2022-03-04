@@ -1,0 +1,62 @@
+{
+  "author": "TheScriptDude",
+  "original_created_utc": 1646365630,
+  "title": "I wrote a very small state manager (Vssm) in pure Javascript.",
+  "created_utc": 1646402010,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Wanted to share my first serious package with you.&lt;/p&gt;\n\n&lt;p&gt;I wrote a Very Small State Manager (Vssm) in pure Javascript. It has no dependencies, is plug-and-play and weighs &amp;lt;2Kb minified.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.npmjs.com/package/vssm\"&gt;Npm&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://tk-ni.github.io/Vssm-docs/\"&gt;Documentation&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/tk-ni/Vssm\"&gt;Source code&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;It’s designed to give a state management solution to smaller-scale projects without having to install and configure robust libraries just to define some variables (It does work with React/Vue with minor adjustments, explained in detail in the doc site).&lt;/p&gt;\n\n&lt;p&gt;I did not intend it to replace popular state management libraries (they do their job very well).\nI meant to create a plug-and-play solution for smaller (or simpler) frontend projects that wish to stay small (functionality-wise) and still enjoy simple global state management.&lt;/p&gt;\n\n&lt;p&gt;Using Vssm is really simple, create your state with&lt;/p&gt;\n\n&lt;p&gt;```javascript&lt;/p&gt;\n\n&lt;p&gt;createVSSM({\n    test: createState(“test”, {\n            param: 0\n        })\n})&lt;/p&gt;\n\n&lt;p&gt;```&lt;/p&gt;\n\n&lt;p&gt;Read your state with&lt;/p&gt;\n\n&lt;p&gt;```javascript&lt;/p&gt;\n\n&lt;p&gt;const { test } = getVSSM() \nconsole.log(test.param) // 0&lt;/p&gt;\n\n&lt;p&gt;```&lt;/p&gt;\n\n&lt;p&gt;Listen to changes on a specific parameter with&lt;/p&gt;\n\n&lt;p&gt;```javascript&lt;/p&gt;\n\n&lt;p&gt;const { test } = getVSSM() \ntest.param = () =&amp;gt; {\n    console.log(&amp;quot;New value after mutation&amp;quot;, test.param)\n}&lt;/p&gt;\n\n&lt;p&gt;```&lt;/p&gt;\n\n&lt;p&gt;Set your state parameters as if they were normal variables&lt;/p&gt;\n\n&lt;p&gt;```javascript&lt;/p&gt;\n\n&lt;p&gt;const { test } = getVSSM() \ntest.param = 1 // Emits the mutation event&lt;/p&gt;\n\n&lt;p&gt;```&lt;/p&gt;\n\n&lt;p&gt;No awkward configuration or robust files, no combined reducers or bloated actions. I made it as simple and as plug-and-play as I could.&lt;/p&gt;\n\n&lt;p&gt;Code-wise It’s far from perfect, I know. \nI will improve it in the near future, but for now I hope you like it. It would be amazing if you used it and/or starred it on GH.&lt;/p&gt;\n\n&lt;p&gt;Even if it won&amp;#39;t be widely used (it probably won&amp;#39;t), I really enjoyed writing and releasing my own package. It definitely won&amp;#39;t be my last.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?auto=webp&amp;s=dc9f3722e4f26a0d394e974bdc658bd002ee6f3d",
+          "width": 1200,
+          "height": 630
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=29849972d1063666bb20bfca982ed849dbab0739",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c2e78155bcf431bc82859db1b9cc141779445961",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7b8fc1121ee3f0761b7c5ec9e306f65c99c715db",
+            "width": 320,
+            "height": 168
+          },
+          {
+            "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18cce76337e2ca3f939805374b20a68b0a1671af",
+            "width": 640,
+            "height": 336
+          },
+          {
+            "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=940123d8c0b4043a88a028062a5a195676254f4d",
+            "width": 960,
+            "height": 504
+          },
+          {
+            "url": "https://external-preview.redd.it/WaI7ci8y_BucxfTyRMw9rEGVoXvk-w3erN7z645l-H8.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=70f261d64e65120035e417a634c19726e4e3576d",
+            "width": 1080,
+            "height": 567
+          }
+        ],
+        "variants": {},
+        "id": "3CAm7f2euOP7diXidheIHavSdc1loh3U46B-FOssKu4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/t69sjz/i_wrote_a_very_small_state_manager_vssm_in_pure/",
+  "subreddit": "SideProject",
+  "id": "t69sjz",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Wanted to share my first serious package with you.\n\nI wrote a Very Small State Manager (Vssm) in pure Javascript. It has no\ndependencies, is plug-and-play and weighs <2Kb minified.\n\nNpm [https://www.npmjs.com/package/vssm]\n\nDocumentation [https://tk-ni.github.io/Vssm-docs/]\n\nSource code…"
+}
