@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "美しいパフォーマンス"
+    },
+    {
+      "locale": "zh",
+      "title": "美丽的表现"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美麗的表現"
+    }
+  ]
 }
