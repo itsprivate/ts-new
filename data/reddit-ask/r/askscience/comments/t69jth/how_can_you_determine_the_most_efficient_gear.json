@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I am part of a robotics team and thought that it would be useful to find the\nrelationship between gear ratio and the efficiency of a DC motor. When I looked\nit up I found plenty of graphs that represent the efficiency as a parabola,\nincreasing as RPM increases and torque decreases, then dropping…"
+  "the_new_excerpt": "I am part of a robotics team and thought that it would be useful to find the\nrelationship between gear ratio and the efficiency of a DC motor. When I looked\nit up I found plenty of graphs that represent the efficiency as a parabola,\nincreasing as RPM increases and torque decreases, then dropping…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はロボット工学のチームに所属しており、このような情報を得ることは有用だと考えています。\nギア比とDCモータの効率の関係。調べてみると\n調べると、効率を放物線状に表したグラフがたくさん出てきました。\n回転数が上がり、トルクが低下すると上昇し、その後下降する。",
+      "title": "電気モーターの最も効率の良いギア比は、どのように決めればよいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是一个机器人团队的成员，我认为找到齿轮比和直流电动机效率之间的关系会很有用。\n我是机器人团队的一员，我认为找到齿轮比和直流电动机的效率之间的关系会很有用。当我查阅\n时，我发现了很多表示效率为抛物线的图表。\n随着转速的增加和扭矩的减少，效率也在增加，然后下降......",
+      "title": "如何确定电动马达的最有效齿轮比？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是一個機器人團隊的成員，我認爲找到齒輪比和直流電動機效率之間的關係會很有用。\n我是機器人團隊的一員，我認爲找到齒輪比和直流電動機的效率之間的關係會很有用。當我查閱\n時，我發現了很多表示效率爲拋物線的圖表。\n隨着轉速的增加和扭矩的減少，效率也在增加，然後下降......",
+      "title": "如何確定電動馬達的最有效齒輪比？"
+    }
+  ]
 }
