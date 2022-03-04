@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It‘s everywhere and known to everyone (at least in Europe/North-America). Could\nnot google it."
+  "the_new_excerpt": "It‘s everywhere and known to everyone (at least in Europe/North-America). Could\nnot google it.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "どこにでもあり、誰でも知っている（少なくともヨーロッパ／北米では）。しかし\nググらないでください。",
+      "title": "ダバダバ～ダバダバ～とノックするメロディーはどこから来ているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它无处不在，人人皆知（至少在欧洲/北美洲）。可以\n不能用谷歌搜索。",
+      "title": "dab-daba-dab-dab - - dab-dab敲击的旋律从何而来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它無處不在，人人皆知（至少在歐洲/北美洲）。可以\n不能用谷歌搜索。",
+      "title": "dab-daba-dab-dab - - dab-dab敲擊的旋律從何而來？"
+    }
+  ]
 }
