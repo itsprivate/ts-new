@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "I am so lost"
+    },
+    {
+      "locale": "zh",
+      "title": "我是如此迷失"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是如此迷失"
+    }
+  ]
 }

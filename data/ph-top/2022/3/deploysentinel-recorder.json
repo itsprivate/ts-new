@@ -80,5 +80,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-03T08:01:00Z"
+  "original_createdAt": "2022-03-03T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DeploySentinel Recorderは、ブラウザのインタラクション（クリック、タイプ、スクロールなど）から直接PlaywrightとPuppeteerのスクリプトを自動生成します。完全なオープンソースで、ChromeとFirefoxで利用可能です。",
+      "tagline": "Playwright & Puppeteerスクリプトの自動生成"
+    },
+    {
+      "locale": "zh",
+      "description": "不再需要手动编写浏览器自动化脚本--DeploySentinel Recorder可直接从您的浏览器互动（例如点击、键入、滚动）中自动生成Playwright和Puppeteer脚本。完全开放源代码，可用于Chrome或Firefox。",
+      "tagline": "自动生成 Playwright 和 Puppeteer 脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不再需要手動編寫瀏覽器自動化腳本--DeploySentinel Recorder可直接從您的瀏覽器互動（例如點擊、鍵入、滾動）中自動生成Playwright和Puppeteer腳本。完全開放源代碼，可用於Chrome或Firefox。",
+      "tagline": "自動生成 Playwright 和 Puppeteer 腳本"
+    }
+  ]
 }
