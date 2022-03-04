@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditで写真や動画を閲覧するための素敵なウェブクライアントを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我为Reddit创建了一个漂亮的网络客户端，用于浏览图片和视频。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲Reddit創建了一個漂亮的網絡客戶端，用於瀏覽圖片和視頻。"
+    }
+  ]
 }
