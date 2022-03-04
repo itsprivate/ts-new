@@ -3,7 +3,7 @@
   "title": "How generics are implemented in Go 1.18",
   "url": "https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md",
   "author": "komuW",
-  "points": 110,
+  "points": 283,
   "num_comments": 23,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Go 1.18中是如何實現泛型的？"
     }
-  ]
+  ],
+  "source_updated_at": 1646386899195
 }
