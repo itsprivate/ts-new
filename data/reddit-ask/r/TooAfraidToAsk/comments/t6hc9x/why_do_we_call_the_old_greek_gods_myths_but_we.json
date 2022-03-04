@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I really don’t want to have this conversation face to face."
+  "the_new_excerpt": "I really don’t want to have this conversation face to face.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "本当は面と向かって会話したくないんだけどね。",
+      "title": "なぜ、昔のギリシャの神々を神話と呼び、神々を宗教と呼ばないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我真的不想面对面地进行这种对话。",
+      "title": "为什么我们把古希腊诸神称为神话，却不把神称为宗教？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我真的不想面對面地進行這種對話。",
+      "title": "爲什麼我們把古希臘諸神稱爲神話，卻不把神稱爲宗教？"
+    }
+  ]
 }
