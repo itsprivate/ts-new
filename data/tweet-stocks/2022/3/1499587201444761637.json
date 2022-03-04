@@ -73,5 +73,22 @@
     },
     "retweet_count": 221,
     "favorite_count": 1593
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: @tobyliiiiiiii ロシアのサイバー攻撃により、ウクライナのほぼ全てのユーザー端末が永久に使用不能になりました。",
+      "retweeted_status_full_text": "@tobyliiiiiii 侵略当日にロシアのサイバー攻撃により、ほぼ全てのViasatウクライナのユーザー端末が永久に使用不能になりましたので、...はい。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: @tobyliiiiiiii 几乎所有Viasat乌克兰的用户终端都被俄罗斯的网络攻击弄得永久无法使用。",
+      "retweeted_status_full_text": "@tobyliiiiiiiiii 几乎所有Viasat乌克兰的用户终端都在入侵当天被俄罗斯的网络攻击弄得永久无法使用，所以......是的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: @tobyliiiiiiii 幾乎所有Viasat烏克蘭的用戶終端都被俄羅斯的網絡攻擊弄得永久無法使用。",
+      "retweeted_status_full_text": "@tobyliiiiiiiiii 幾乎所有Viasat烏克蘭的用戶終端都在入侵當天被俄羅斯的網絡攻擊弄得永久無法使用，所以......是的。"
+    }
+  ]
 }

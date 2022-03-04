@@ -52,5 +52,22 @@
     },
     "retweet_count": 229,
     "favorite_count": 1120
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MarketRebels: モスクワ証券取引所がこれほど長く閉鎖されたのは、1917年のこと。75年間も閉鎖されたままだった。",
+      "retweeted_status_full_text": "モスクワ証券取引所がこれほど長く閉鎖されたのは、1917年のことである。75年間も閉鎖されたままだった。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MarketRebels: 上一次莫斯科证券交易所关闭这么长时间是在1917年。它一直关闭了75年。",
+      "retweeted_status_full_text": "上一次莫斯科证券交易所关闭这么长时间是在1917年。它持续关闭了75年。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MarketRebels: 上一次莫斯科證券交易所關閉這麼長時間是在1917年。它一直關閉了75年。",
+      "retweeted_status_full_text": "上一次莫斯科證券交易所關閉這麼長時間是在1917年。它持續關閉了75年。"
+    }
+  ]
 }
