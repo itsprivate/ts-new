@@ -68,5 +68,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弁護士は、依頼人が他の複数の犯罪を自白したため、中で死亡した"
+    },
+    {
+      "locale": "zh",
+      "title": "律师在其客户承认其他几项罪行时死在里面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "律師在其客戶承認其他幾項罪行時死在裏面"
+    }
+  ]
 }
