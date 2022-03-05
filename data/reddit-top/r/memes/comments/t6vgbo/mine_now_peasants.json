@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のは今、農民"
+    },
+    {
+      "locale": "zh",
+      "title": "我现在的农民"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我現在的農民"
+    }
+  ]
 }
