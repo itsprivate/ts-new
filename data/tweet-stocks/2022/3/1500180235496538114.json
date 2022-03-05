@@ -134,5 +134,22 @@
     "retweet_count": 389,
     "favorite_count": 1239,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @vtchakarova: これまでにロシア市場から撤退した企業 https://t.co/0s2IMhjB5V",
+      "retweeted_status_full_text": "これまでにロシア市場から撤退した企業 https://t.co/0s2IMhjB5V"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @vtchakarova: 到目前为止离开俄罗斯市场的公司。https://t.co/0s2IMhjB5V",
+      "retweeted_status_full_text": "到目前为止离开俄罗斯市场的公司。https://t.co/0s2IMhjB5V"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @vtchakarova: 到目前爲止離開俄羅斯市場的公司。https://t.co/0s2IMhjB5V",
+      "retweeted_status_full_text": "到目前爲止離開俄羅斯市場的公司。https://t.co/0s2IMhjB5V"
+    }
+  ]
 }

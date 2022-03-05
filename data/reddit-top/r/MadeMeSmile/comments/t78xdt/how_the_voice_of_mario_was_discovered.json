@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マリオの声はどのようにして発見されたのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "马里奥的声音是如何被发现的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "馬里奧的聲音是如何被發現的。"
+    }
+  ]
 }
