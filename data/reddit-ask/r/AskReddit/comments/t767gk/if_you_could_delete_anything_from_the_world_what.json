@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが世の中から何かを「削除」できるとしたら、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能从世界上 \"删除 \"任何东西，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能從世界上 \"刪除 \"任何東西，那會是什麼？"
+    }
+  ]
 }
