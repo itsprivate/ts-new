@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Craigslist &amp; FB Marketplaceに投稿するアプリを作った＋自動更新、自動値下げを自動で行う。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个应用程序，可以发布到Craigslist &amp; FB Marketplace +自动续约和自动降价。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個應用程序，可以發佈到Craigslist &amp; FB Marketplace +自動續約和自動降價。"
+    }
+  ]
 }
