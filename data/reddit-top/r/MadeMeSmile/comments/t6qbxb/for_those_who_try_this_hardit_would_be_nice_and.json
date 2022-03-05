@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これだけ頑張っているのだから...こういう講演会に参加するのもいいし、楽しいかもしれない。"
+    },
+    {
+      "locale": "zh",
+      "title": "对于那些如此努力的人来说......参加这些讲座会很好，也很有趣"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於那些如此努力的人來說......參加這些講座會很好，也很有趣"
+    }
+  ]
 }

@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かが彼を助けたのは良いことだ"
+    },
+    {
+      "locale": "zh",
+      "title": "好在有人帮他解决了问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好在有人幫他解決了問題"
+    }
+  ]
 }
