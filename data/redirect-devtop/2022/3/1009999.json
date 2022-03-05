@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-04T20:12:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vlKLgxeU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxuoah9d6z89kz2yag0a.png",
   "author": "Conor Bronsdon",
-  "author_url": "https://dev.to/conorbronsdon"
+  "author_url": "https://dev.to/conorbronsdon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事はDev InterruptedのためにKathryn Koehlerが独占的に書き下ろしたものです。",
+      "title": "ネットフリックスでエンジニアの生産性を高める文化を創る"
+    },
+    {
+      "locale": "zh",
+      "description": "本文由Kathryn Koehler为Dev Interrupted独家撰写 在Netflix，我们不...",
+      "title": "在Netflix创建一个工程生产力的文化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文由Kathryn Koehler爲Dev Interrupted獨家撰寫 在Netflix，我們不...",
+      "title": "在Netflix創建一個工程生產力的文化"
+    }
+  ]
 }
