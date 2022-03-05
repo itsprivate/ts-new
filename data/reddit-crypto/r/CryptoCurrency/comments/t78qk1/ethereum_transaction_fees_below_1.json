@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムの取引手数料が1ドルを下回る"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊交易费低于1美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊交易費低於1美元"
+    }
+  ]
 }

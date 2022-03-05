@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルイジアナ州で、ビットコインや仮想通貨を税金の支払いとして認める法案が提出される。"
+    },
+    {
+      "locale": "zh",
+      "title": "路易斯安那州提出了一项法案，允许比特币和虚拟货币作为税收的支付。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "路易斯安那州提出了一項法案，允許比特幣和虛擬貨幣作爲稅收的支付。"
+    }
+  ]
 }
