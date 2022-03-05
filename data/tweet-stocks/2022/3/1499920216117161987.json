@@ -134,5 +134,22 @@
     "retweet_count": 5355,
     "favorite_count": 23814,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Billbrowder: これは本当に面白い。Appleがロシアから去った今、Apple Mapsはクリミアをウクライナに戻した https://t.co/sZbei4kFIz",
+      "retweeted_status_full_text": "これ、本当に面白いんですよ。Appleがロシアを離れた今、Apple Mapsはクリミアをウクライナに戻した https://t.co/sZbei4kFIz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Billbrowder: 这真的很有趣。现在苹果已经离开了俄罗斯，苹果地图把克里米亚放回了乌克兰 https://t.co/sZbei4kFIz",
+      "retweeted_status_full_text": "这真的很有趣。现在苹果已经离开了俄罗斯，苹果地图把克里米亚放回了乌克兰https://t.co/sZbei4kFIz。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Billbrowder: 這真的很有趣。現在蘋果已經離開了俄羅斯，蘋果地圖把克里米亞放回了烏克蘭 https://t.co/sZbei4kFIz",
+      "retweeted_status_full_text": "這真的很有趣。現在蘋果已經離開了俄羅斯，蘋果地圖把克里米亞放回了烏克蘭https://t.co/sZbei4kFIz。"
+    }
+  ]
 }
