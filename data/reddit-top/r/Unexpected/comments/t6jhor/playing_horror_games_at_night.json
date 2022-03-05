@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "夜中にホラーゲームをする"
+    },
+    {
+      "locale": "zh",
+      "title": "在晚上玩恐怖游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在晚上玩恐怖遊戲"
+    }
+  ]
 }
