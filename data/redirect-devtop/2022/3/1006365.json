@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-02T13:13:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bFtk7xfc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/midmsczaiufnqz0uhdty.png",
   "author": "Nate Anderson",
-  "author_url": "https://dev.to/nate_anderson"
+  "author_url": "https://dev.to/nate_anderson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はジュニアエンジニアとして、ソフトウェア開発における2つの側面、すなわち、大規模なソフトウェア開発の構造化に苦労しました。",
+      "title": "JavaScriptにおける依存性注入（DI）。テスト可能なコードを簡単に書く"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名初级工程师，我在软件开发的两个方面进行了斗争：构建大型的...",
+      "title": "JavaScript中的依赖注入。轻松写出可测试的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名初級工程師，我在軟件開發的兩個方面進行了鬥爭：構建大型的...",
+      "title": "JavaScript中的依賴注入。輕鬆寫出可測試的代碼"
+    }
+  ]
 }
