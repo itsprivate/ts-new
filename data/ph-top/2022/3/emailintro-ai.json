@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-05T08:00:00Z"
+  "original_createdAt": "2022-03-05T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは EmailIntro.aiは、コールドメールに使用するためのパーソナライズされた1-2センテンスを作成します。リード.csvをアップロード→各プロスペクトのLinkedinプロファイルを使用して紹介文を作成→「Intro」カラムが追加された出力csvをダウンロードします。",
+      "tagline": "パーソナライズされた1-2文のメールイントロースを書くためのAI。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，EmailIntro.ai为你写个性化的1-2句话，用于你的冷门邮件中。只需上传你的线索.csv-->应用程序使用每个潜在客户的Linkedin资料来编写介绍-->下载你的输出csv，并添加'介绍'栏。",
+      "tagline": "用于编写个性化的1-2句话的电子邮件介绍的AI。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，EmailIntro.ai爲你寫個性化的1-2句話，用於你的冷門郵件中。只需上傳你的線索.csv-->應用程序使用每個潛在客戶的Linkedin資料來編寫介紹-->下載你的輸出csv，並添加'介紹'欄。",
+      "tagline": "用於編寫個性化的1-2句話的電子郵件介紹的AI。"
+    }
+  ]
 }
