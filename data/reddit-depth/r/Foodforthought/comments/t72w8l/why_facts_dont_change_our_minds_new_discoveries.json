@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ事実は私たちの心を変えないのか。人間の心に関する新しい発見は、理性の限界を示すものである。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么事实不能改变我们的想法。关于人类思维的新发现显示了理性的局限性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼事實不能改變我們的想法。關於人類思維的新發現顯示了理性的侷限性。"
+    }
+  ]
 }
