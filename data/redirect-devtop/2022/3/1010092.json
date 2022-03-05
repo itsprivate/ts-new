@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-04T22:01:57Z",
   "image": "https://dev.to/social_previews/article/1010092.png",
   "author": "Nick Taylor",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、ある友人が私たちが参加しているSlackで、どんなNode.jsのリソースがお勧めか尋ねてきました。という質問がありました。",
+      "title": "Node.jsのリソースは何がありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，一个朋友在我们参加的Slack中问，大家推荐了哪些Node.js资源？他说。",
+      "title": "你有什么好的Node.js资源？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，一個朋友在我們參加的Slack中問，大家推薦了哪些Node.js資源？他說。",
+      "title": "你有什麼好的Node.js資源？"
+    }
+  ]
 }

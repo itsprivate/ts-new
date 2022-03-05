@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-04T05:41:00Z",
   "image": "https://dev.to/social_previews/article/1008770.png",
   "author": "ilyxium",
-  "author_url": "https://dev.to/ilyxium"
+  "author_url": "https://dev.to/ilyxium",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ようこそ   なぜこの定型文が一番いいのか？なぜなら、githubにあるトップethのボイラープレートはすべて...",
+      "title": "最高のWeb3ボイラープレートを作りました!"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎！欢迎   为什么这个模板是最好的？因为在github上所有的顶级伦理模板都是...",
+      "title": "我创造了最好的web3模板!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎！歡迎   爲什麼這個模板是最好的？因爲在github上所有的頂級倫理模板都是...",
+      "title": "我創造了最好的web3模板!"
+    }
+  ]
 }
