@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで自分のために買ってよかったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你为自己买过的最好的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你爲自己買過的最好的東西是什麼？"
+    }
+  ]
 }
