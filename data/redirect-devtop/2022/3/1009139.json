@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-04T11:15:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-1mkyhA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ytd3oti439aorz9bf2ll.png",
   "author": "Nourdine Labib",
-  "author_url": "https://dev.to/nourdinedev"
+  "author_url": "https://dev.to/nourdinedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、3Dソフトで作成した3Dアセットをレンダリングして設定する方法を紹介します...",
+      "title": "Three.jsとReactを使って自分自身の3Dモデルをレンダリングする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将介绍如何渲染和配置在三维软件程序中创建的三维资产...",
+      "title": "如何使用Three.js和React来渲染你自己的3D模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將介紹如何渲染和配置在三維軟件程序中創建的三維資產...",
+      "title": "如何使用Three.js和React來渲染你自己的3D模型"
+    }
+  ]
 }

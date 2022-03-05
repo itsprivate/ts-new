@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このバス停の広告は、ケースから取り出され、破壊された後、再びケースに戻されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个巴士站的广告被从箱子里拿出来，遭到破坏，然后又被放回箱子里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個巴士站的廣告被從箱子裏拿出來，遭到破壞，然後又被放回箱子裏。"
+    }
+  ]
 }
