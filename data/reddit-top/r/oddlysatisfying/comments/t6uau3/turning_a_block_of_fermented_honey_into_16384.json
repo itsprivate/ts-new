@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "発酵させたハチミツのブロックを1分以内に16,384個の文字列に変換する"
+    },
+    {
+      "locale": "zh",
+      "title": "在不到一分钟的时间内将一块发酵的蜂蜜变成16,384条字符串"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不到一分鐘的時間內將一塊發酵的蜂蜜變成16,384條字符串"
+    }
+  ]
 }

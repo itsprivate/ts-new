@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もう疲れました"
+    },
+    {
+      "locale": "zh",
+      "title": "我已经筋疲力尽了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我已經筋疲力盡了"
+    }
+  ]
 }
