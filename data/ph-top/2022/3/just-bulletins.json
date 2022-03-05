@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-05T08:00:00Z"
+  "original_createdAt": "2022-03-05T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ニュースヘッドライン、Twitterトレンド、redditミーム、引用、fatcsなどをRSSフィードやapisを使用して表示するPWAサイトです。",
+      "tagline": "一日の始まりは、世界と一緒に!"
+    },
+    {
+      "locale": "zh",
+      "description": "一个使用rss feeds和apis的PWA网站，有新闻头条、twitter趋势、reddit memes、报价、fatcs等。",
+      "tagline": "与世界一起开始你的一天!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個使用rss feeds和apis的PWA網站，有新聞頭條、twitter趨勢、reddit memes、報價、fatcs等。",
+      "tagline": "與世界一起開始你的一天!"
+    }
+  ]
 }
