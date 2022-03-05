@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It might just be a stomach bug but idk its bee 5 days"
+  "the_new_excerpt": "It might just be a stomach bug but idk its bee 5 days",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "腹痛かもしれないが、5日目なのでわからない。",
+      "title": "酔えば、サナダムシを退治できるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "可能只是胃病，但不知道是什么原因，已经有5天了。",
+      "title": "如果我喝醉了，我可以杀死我可能有的绦虫吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "可能只是胃病，但不知道是什麼原因，已經有5天了。",
+      "title": "如果我喝醉了，我可以殺死我可能有的絛蟲嗎？"
+    }
+  ]
 }
