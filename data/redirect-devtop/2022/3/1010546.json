@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-05T05:39:02Z",
   "image": "https://dev.to/social_previews/article/1010546.png",
   "author": "Pratham",
-  "author_url": "https://dev.to/pratham10"
+  "author_url": "https://dev.to/pratham10",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQLは、APIをより効率的に、強力に開発できることから、人気を集めています...",
+      "title": "GraphQLはREST APIを置き換えるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "GraphQL越来越受欢迎，因为它能够更有效、更强大地开发API，并且...",
+      "title": "GraphQL是否取代了REST API？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GraphQL越來越受歡迎，因爲它能夠更有效、更強大地開發API，並且...",
+      "title": "GraphQL是否取代了REST API？"
+    }
+  ]
 }
