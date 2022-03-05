@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-04T00:42:43Z",
   "image": "https://dev.to/social_previews/article/1008541.png",
   "author": "Don Cadavona",
-  "author_url": "https://dev.to/doncadavona"
+  "author_url": "https://dev.to/doncadavona",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ごちゃごちゃしたエディターからあなたの目を守ります。Visual Studio Codeをもっと見やすくする。これは...",
+      "title": "Visual Studioのコードをきれいにする"
+    },
+    {
+      "locale": "zh",
+      "description": "把你的眼睛从杂乱无章的编辑器中拯救出来。让Visual Studio Code更加赏心悦目。这就是...",
+      "title": "让Visual Studio的代码变得漂亮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "把你的眼睛從雜亂無章的編輯器中拯救出來。讓Visual Studio Code更加賞心悅目。這就是...",
+      "title": "讓Visual Studio的代碼變得漂亮"
+    }
+  ]
 }
