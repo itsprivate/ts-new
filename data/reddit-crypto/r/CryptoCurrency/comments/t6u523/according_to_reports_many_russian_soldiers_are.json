@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "報道によると、多くのロシア軍兵士が「Anonymous」の主張に賛同し、ビットコインと引き換えに戦車を交換することを望んでいるとのこと"
+    },
+    {
+      "locale": "zh",
+      "title": "据报道，许多俄罗斯士兵愿意同意 \"匿名者 \"的说法，并希望用他们的坦克来换取比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，許多俄羅斯士兵願意同意 \"匿名者 \"的說法，並希望用他們的坦克來換取比特幣"
+    }
+  ]
 }
