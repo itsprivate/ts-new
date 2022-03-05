@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "45年前にクリーンエネルギーで米国のエネルギー自立を図ろうとしたが、皆に笑われ、ソーラーパネルを壊された時の顔"
+    },
+    {
+      "locale": "zh",
+      "title": "45年前你试图通过清洁能源实现美国的能源独立，但所有人都嘲笑并拆掉你的太阳能电池板时的表情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "45年前你試圖通過清潔能源實現美國的能源獨立，但所有人都嘲笑並拆掉你的太陽能電池板時的表情"
+    }
+  ]
 }
