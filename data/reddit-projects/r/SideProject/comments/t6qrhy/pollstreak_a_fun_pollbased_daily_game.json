@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PollStreak 投票ベースの楽しいデイリーゲーム"
+    },
+    {
+      "locale": "zh",
+      "title": "民意调查。一个有趣的基于投票的每日游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "民意調查。一個有趣的基於投票的每日遊戲"
+    }
+  ]
 }
