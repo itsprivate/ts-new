@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bla bla blaの時間を浪費するビデオを見ることなくBlenderを学習できるアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个应用程序，用于学习Blender，而不必看布拉布拉的浪费时间的视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個應用程序，用於學習Blender，而不必看布拉布拉的浪費時間的視頻"
+    }
+  ]
 }

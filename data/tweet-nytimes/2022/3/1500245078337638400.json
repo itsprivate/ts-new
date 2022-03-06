@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Mar 05 23:01:14 +0000 2022"
+  "original_created_at": "Sat Mar 05 23:01:14 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ニューヨーク・タイムズが検証したビデオでは、ウクライナ東部の小さな町でロシアに支援された分離主義者がデモ参加者に発砲し、1人が足を負傷しているように見える。https://t.co/paZ4nDtdWF。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "经《纽约时报》核实的视频似乎显示，俄罗斯支持的分离主义分子在乌克兰东部的一个小镇上向抗议者开火，击中了一个人的腿。https://t.co/paZ4nDtdWF。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "經《紐約時報》覈實的視頻似乎顯示，俄羅斯支持的分離主義分子在烏克蘭東部的一個小鎮上向抗議者開火，擊中了一個人的腿。https://t.co/paZ4nDtdWF。"
+    }
+  ]
 }
