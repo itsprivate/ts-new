@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんなが使うのをやめてほしいフレーズは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望人们停止使用哪句话？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望人們停止使用哪句話？"
+    }
+  ]
 }
