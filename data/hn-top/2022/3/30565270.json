@@ -12,5 +12,19 @@
   ],
   "objectID": "30565270",
   "original_created_at": "2022-03-05T07:28:32.000Z",
-  "image": "https://fbinfer.com/img/logo.png"
+  "image": "https://fbinfer.com/img/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JavaおよびC/C++/Objective-Cのコードのバグを出荷前に検出するツールです。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个在发货前检测Java和C/C++/Objective-C代码中的错误的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個在發貨前檢測Java和C/C++/Objective-C代碼中的錯誤的工具"
+    }
+  ]
 }
