@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I don’t really understand economics so sorry if this is an easy answer."
+  "the_new_excerpt": "I don’t really understand economics so sorry if this is an easy answer.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "経済がよくわからないので、安易な答えだったらごめんなさい。",
+      "title": "この狂ったようなインフレの後、日常品の価格は下がるのだろうか、それともこれが新常態なのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不太了解经济学，所以如果这是个简单的答案，请原谅。",
+      "title": "在这次疯狂的通货膨胀之后，每天的商品价格是否会下降，或者这就是新的常态？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不太瞭解經濟學，所以如果這是個簡單的答案，請原諒。",
+      "title": "在這次瘋狂的通貨膨脹之後，每天的商品價格是否會下降，或者這就是新的常態？"
+    }
+  ]
 }
