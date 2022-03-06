@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-05T11:02:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jf49PXY2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8u764f6ke53kf70eu4no.PNG",
   "author": "Jeff Odhiambo",
-  "author_url": "https://dev.to/killallnano"
+  "author_url": "https://dev.to/killallnano",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JAVAとは？  Javaは、C,C++,...といった高水準の第三世代プログラミング言語です。",
+      "title": "初心者のためのJava。Java入門"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是JAVA？  Java是一种高级的第三代编程语言，像C,C++,...",
+      "title": "初学者的Java。Java简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是JAVA？  Java是一種高級的第三代編程語言，像C,C++,...",
+      "title": "初學者的Java。Java簡介"
+    }
+  ]
 }
