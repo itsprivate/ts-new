@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが今まで経験した有名人の中で、その人に対する見方がガラッと変わったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "一个名人做了什么事情，完全改变了你对他的看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個名人做了什麼事情，完全改變了你對他的看法？"
+    }
+  ]
 }
