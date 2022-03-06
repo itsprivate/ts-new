@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-06T08:05:00Z"
+  "original_createdAt": "2022-03-06T08:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mockoverは、プロフェッショナルなデザインプレゼンテーションを簡単に作成することができる3Dワープツールです。",
+      "tagline": "ウェブ上のあらゆる画像からアパレルモックアップを作成できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Mockover是一个三维翘曲工具，可以轻松创建专业的设计演示。",
+      "tagline": "从网络上的任何图片创建服装模型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mockover是一個三維翹曲工具，可以輕鬆創建專業的設計演示。",
+      "tagline": "從網絡上的任何圖片創建服裝模型。"
+    }
+  ]
 }
