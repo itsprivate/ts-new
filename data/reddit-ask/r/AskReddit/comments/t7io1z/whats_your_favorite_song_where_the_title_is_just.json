@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイトルがそのまま人名になっている曲で好きなものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪首标题只是一个人名的歌曲？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪首標題只是一個人名的歌曲？"
+    }
+  ]
 }
