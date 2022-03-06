@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見てください、この幸せそうな顔"
+    },
+    {
+      "locale": "zh",
+      "title": "看看他有多高兴!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看看他有多高興!"
+    }
+  ]
 }
