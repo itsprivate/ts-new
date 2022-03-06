@@ -12,5 +12,19 @@
   ],
   "objectID": "30566037",
   "original_created_at": "2022-03-05T09:48:31.000Z",
-  "image": "https://qrdate.org/og.jpg"
+  "image": "https://qrdate.org/og.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "QR Date - 日付を検証するために内部に署名されたタイムスタンプ"
+    },
+    {
+      "locale": "zh",
+      "title": "QR Date - 里面的签名时间戳用于验证日期"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "QR Date - 裏面的簽名時間戳用於驗證日期"
+    }
+  ]
 }
