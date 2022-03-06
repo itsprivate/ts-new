@@ -63,5 +63,21 @@
     "retweet_count": 76,
     "favorite_count": 177,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Sondreus: ロシアからの出国方法」をGoogleに問い合わせるロシア人の数は、このデータが公開されてからの過去18年間を上回っている。W..."
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Sondreus: 更多的俄罗斯人在询问谷歌 \"如何离开俄罗斯\"，这比过去18年中公开此类数据的次数还要多。W...",
+      "retweeted_status_full_text": "问谷歌 \"如何离开俄罗斯 \"的俄罗斯人比过去18年里问过这种数据的人还要多。我们使用该国的搜索数据来追踪不满情绪：https://t.co/t99bflGx95"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Sondreus: 更多的俄羅斯人在詢問谷歌 \"如何離開俄羅斯\"，這比過去18年中公開此類數據的次數還要多。W...",
+      "retweeted_status_full_text": "問谷歌 \"如何離開俄羅斯 \"的俄羅斯人比過去18年裏問過這種數據的人還要多。我們使用該國的搜索數據來追蹤不滿情緒：https://t.co/t99bflGx95"
+    }
+  ]
 }
