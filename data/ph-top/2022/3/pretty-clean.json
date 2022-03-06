@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-06T08:01:00Z"
+  "original_createdAt": "2022-03-06T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最新のmacOSディスククリーンアップツール",
+      "tagline": "macOSディスククリーンアップツール"
+    },
+    {
+      "locale": "zh",
+      "description": "现代macOS磁盘清理工具",
+      "tagline": "macOS磁盘清理工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現代macOS磁盤清理工具",
+      "tagline": "macOS磁盤清理工具"
+    }
+  ]
 }
