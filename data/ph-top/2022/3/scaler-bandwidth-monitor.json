@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-05T08:09:03Z"
+  "original_createdAt": "2022-03-05T08:09:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Scalerは、あなたのmacOSデバイスのための帯域幅モニターアプリです。Scaler Bandwidth Monitorはメニューバーの中に入っています。このアプリは、あなたのデバイスの現在の受信と送信のネットワークトラフィックを追跡することができます。",
+      "tagline": "macOSデバイス用リアルタイム帯域モニターアプリケーション。"
+    },
+    {
+      "locale": "zh",
+      "description": "Scaler是一个用于你的macOS设备的带宽监控应用程序。Scaler带宽监控器位于菜单栏内。它可以让你跟踪你的设备当前的综合传入和传出的网络流量。",
+      "tagline": "用于macOS设备的实时带宽监控应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Scaler是一個用於你的macOS設備的帶寬監控應用程序。Scaler帶寬監控器位於菜單欄內。它可以讓你跟蹤你的設備當前的綜合傳入和傳出的網絡流量。",
+      "tagline": "用於macOS設備的實時帶寬監控應用程序。"
+    }
+  ]
 }
