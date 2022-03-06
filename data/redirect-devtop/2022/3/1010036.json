@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-04T21:05:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cQudlIHC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/74lrlibrm7b9gi0q6kye.png",
   "author": "Adam Nathaniel Davis",
-  "author_url": "https://dev.to/bytebodger"
+  "author_url": "https://dev.to/bytebodger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はReactが大好きです。 しかし、このフレームワークには、以前から私を苦しめたいくつかの側面があります。 ひとつは...",
+      "title": "フックを使ってReact API呼び出しを制御する"
+    },
+    {
+      "locale": "zh",
+      "description": "我喜欢React。 但这个框架的某些方面以前让我很不爽。 一个是...",
+      "title": "用钩子控制React API的调用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我喜歡React。 但這個框架的某些方面以前讓我很不爽。 一個是...",
+      "title": "用鉤子控制React API的調用"
+    }
+  ]
 }
