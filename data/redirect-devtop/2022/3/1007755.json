@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-03T12:56:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RkhhbXIh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycpitdwj8hirds426gtw.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"でも、私のマシンでは動くのに。\"という恐ろしい言葉を聞いたことがあります。単純なものから複雑なものまで、...",
+      "title": "Dockerをはじめよう"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都听过这样一句可怕的话：\"但它在我的机器上可以工作。\" 无论是简单还是复杂，...",
+      "title": "开始使用Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都聽過這樣一句可怕的話：\"但它在我的機器上可以工作。\" 無論是簡單還是複雜，...",
+      "title": "開始使用Docker"
+    }
+  ]
 }
