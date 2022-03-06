@@ -1,0 +1,64 @@
+{
+  "author": "CyberPunkMetalHead",
+  "original_created_utc": 1646574980,
+  "title": "We've always been joking how much money we'd make if we would somehow place the opposite orders, so I made a Chrome extension that inverts your Binance trades",
+  "created_utc": 1646584379,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I decided to test this urban myth out by creating a chrome extension that will invert my Spot, Margin and Futures trades on Binance and test it out.&lt;/p&gt;\n\n&lt;p&gt;I can report that, I do not yet own a private island or a yacht, but it was really fun building it and didn&amp;#39;t make my daytrading any worse lol. I have open sourced the extension so you can play around with it yourself. Maybe it&amp;#39;ll make you into a literal trading GOD - maybe it&amp;#39;ll bankrupt you, who knows.&lt;/p&gt;\n\n&lt;p&gt;If you want to run the extension you would need to go to &amp;quot;Manage Extension&amp;quot; and click &amp;quot;Load Unpacked&amp;quot; and then select the root folder of the Repo. Feel free to inspect the source code first, and if you like the idea, you can submit a PR and help develop it further.&lt;/p&gt;\n\n&lt;p&gt;To enable it, make sure you&amp;#39;re on a Spot, Margin or Futures page, open the extension and click &amp;quot;Enable&amp;quot; - done.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/qehpe7w3qrl81.jpg?width=778&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=2c1df1d2d8f23830adebe5923315a9cfba96f638\"&gt;https://preview.redd.it/qehpe7w3qrl81.jpg?width=778&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=2c1df1d2d8f23830adebe5923315a9cfba96f638&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;On Spot and Margin (naturally) you need to pre-own the coin in order to sell it. But on Futures (which are derivatives)  you can place the opposite order on a contract meaning you don&amp;#39;t have to pre-own the assets in order go short. Def not saying you should trade futures but that&amp;#39;s where this extension works best.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;If you&amp;#39;re curious about how it works, how I&amp;#39;ve built it and my own results after a week of testing:&lt;/strong&gt;&lt;a href=\"https://youtu.be/3QAJWENW-20\"&gt;&lt;strong&gt;https://youtu.be/3QAJWENW-20&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Source code here:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/CyberPunkMetalHead/binance-inverse-trades-chrome-extension\"&gt;&lt;strong&gt;https://github.com/CyberPunkMetalHead/binance-inverse-trades-chrome-extension&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Detailed guide on how to install it and make sure it works properly&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.cryptomaton.org/2022/03/06/finally-a-chrome-extension-that-inverts-your-binance-trades/\"&gt;&lt;strong&gt;https://www.cryptomaton.org/2022/03/06/finally-a-chrome-extension-that-inverts-your-binance-trades/&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 343,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/uGxPH7fwcb9bA9c3onUUNbt6gHyraMrxgA3q3pvu-fQ.jpg?auto=webp&amp;s=7ee46a9d5df3733853762cfe6f30f1d58435fa8c",
+          "width": 480,
+          "height": 360
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/uGxPH7fwcb9bA9c3onUUNbt6gHyraMrxgA3q3pvu-fQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8091f6fe89cadf6f614cd7daa7acd6bacacc2083",
+            "width": 108,
+            "height": 81
+          },
+          {
+            "url": "https://external-preview.redd.it/uGxPH7fwcb9bA9c3onUUNbt6gHyraMrxgA3q3pvu-fQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=15ac37dc3a98b6d59d6982ca883c16386a8a5e79",
+            "width": 216,
+            "height": 162
+          },
+          {
+            "url": "https://external-preview.redd.it/uGxPH7fwcb9bA9c3onUUNbt6gHyraMrxgA3q3pvu-fQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0fcbf65176c6cac75bd7fa2253486d9b4e7063ee",
+            "width": 320,
+            "height": 240
+          }
+        ],
+        "variants": {},
+        "id": "iHqfDqMfO1pSm02iQfoldw3x49mwTW-pSmkn2wVrya0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/t7z8u1/weve_always_been_joking_how_much_money_wed_make/",
+  "subreddit": "CryptoCurrency",
+  "id": "t7z8u1",
+  "is_self": true,
+  "media": {
+    "oembed": {
+      "provider_url": "https://www.youtube.com/",
+      "title": "I made a chrome extension that places the opposite of my trades on Binance",
+      "html": "&lt;iframe width=\"356\" height=\"200\" src=\"https://www.youtube.com/embed/3QAJWENW-20?feature=oembed&amp;enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen&gt;&lt;/iframe&gt;",
+      "thumbnail_width": 480,
+      "height": 200,
+      "width": 356,
+      "version": "1.0",
+      "author_name": "CyberPunkMetalHead",
+      "provider_name": "YouTube",
+      "thumbnail_url": "https://i.ytimg.com/vi/3QAJWENW-20/hqdefault.jpg",
+      "type": "video",
+      "thumbnail_height": 360,
+      "author_url": "https://www.youtube.com/channel/UCdivFuqMWgUcXG2w8osnzAA"
+    },
+    "type": "youtube.com"
+  },
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "I decided to test this urban myth out by creating a chrome extension that will\ninvert my Spot, Margin and Futures trades on Binance and test it out.\n\nI can report that, I do not yet own a private island or a yacht, but it was\nreally fun building it and didn't make my daytrading any worse lol. I…"
+}
