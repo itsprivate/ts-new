@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最高のパパ"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最好的父亲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最好的父親"
+    }
+  ]
 }
