@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし今日、ゾンビが出現したら、あなたはどんなスキルを持っていて、生存者の一団に役立つでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果僵尸启示录今天开始，你有什么技能可以使你对幸存者队伍有用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果殭屍啓示錄今天開始，你有什麼技能可以使你對倖存者隊伍有用？"
+    }
+  ]
 }
