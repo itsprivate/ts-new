@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "また別のドメイン名を買おうとすると怒鳴られるChrome拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Chrome扩展，当我试图购买另一个域名时，它会对我喊话。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Chrome擴展，當我試圖購買另一個域名時，它會對我喊話。"
+    }
+  ]
 }
