@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在、モスクワのボリショイ劇場付近で抗議活動を行っています。悲鳴をあげています。戦争反対！"
+    },
+    {
+      "locale": "zh",
+      "title": "现在在莫斯科的抗议活动，在大剧院附近。呐喊着。不要战争！不要战争"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在在莫斯科的抗議活動，在大劇院附近。吶喊着。不要戰爭！不要戰爭"
+    }
+  ]
 }
