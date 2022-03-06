@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-04T13:26:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--StbETPyv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rhggbcjp9ov5tqwi9nu.jpg",
   "author": "Angelos Chalaris",
-  "author_url": "https://dev.to/chalarangelo"
+  "author_url": "https://dev.to/chalarangelo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、あるコードで、オブジェクトを通常の配列として扱う必要があることに遭遇したのですが、その際、いくつかの...",
+      "title": "JavaScriptでオブジェクトを変更せずに配列として使用することはできますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "有一天，我偶然发现了一些代码，我需要将一个对象作为一个普通的数组来处理，这时，我就发现了一些问题。",
+      "title": "我可以在不修改对象的情况下将其作为一个数组在JavaScript中使用吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一天，我偶然發現了一些代碼，我需要將一個對象作爲一個普通的數組來處理，這時，我就發現了一些問題。",
+      "title": "我可以在不修改對象的情況下將其作爲一個數組在JavaScript中使用嗎？"
+    }
+  ]
 }
