@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたなら誰を生き返らせますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会让谁复生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會讓誰復生？"
+    }
+  ]
 }

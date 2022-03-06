@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-04T17:41:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jyXrn67N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ts3q02co540scso4asc7.png",
   "author": "Jasmin Virdi",
-  "author_url": "https://dev.to/jasmin"
+  "author_url": "https://dev.to/jasmin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ECMA Scriptの新バージョンが数ヶ月以内に標準化される予定です。そこで、今回はその内容をご紹介します。",
+      "title": "ES2022の新機能 🤔"
+    },
+    {
+      "locale": "zh",
+      "description": "很快，新版本的ECMA脚本将在几个月内成为标准。因此，让我们来了解一下...",
+      "title": "ES2022中的新内容是什么？🤔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很快，新版本的ECMA腳本將在幾個月內成爲標準。因此，讓我們來了解一下...",
+      "title": "ES2022中的新內容是什麼？🤔"
+    }
+  ]
 }
