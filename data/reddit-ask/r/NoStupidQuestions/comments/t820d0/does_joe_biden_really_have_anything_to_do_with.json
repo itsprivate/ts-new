@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If so, how? And if not, what is the cause?"
+  "the_new_excerpt": "If so, how? And if not, what is the cause?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もしそうなら、どのように？また、そうでない場合、その原因は何ですか？",
+      "title": "Joe Bidenは、本当にアメリカのガソリン価格上昇と関係があるのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果是这样，怎么做？如果不是，原因是什么？",
+      "title": "乔-拜登真的与美国的油价上涨有关系吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果是這樣，怎麼做？如果不是，原因是什麼？",
+      "title": "喬-拜登真的與美國的油價上漲有關係嗎？"
+    }
+  ]
 }
