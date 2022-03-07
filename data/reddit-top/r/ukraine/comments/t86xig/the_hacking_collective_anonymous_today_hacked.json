@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッキング集団Anonymousは本日、ロシアのストリーミングサービスWinkとIvi（Netflixのようなもの）、ライブTVチャンネルRussia 24, Channel One, Moscow 24にハッキングし、ウクライナからの戦争映像を放送しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客组织Anonymous今天入侵了俄罗斯流媒体服务Wink和Ivi（如Netflix）以及电视直播频道Russia 24、Channel One、Moscow 24，播放来自乌克兰的战争录像。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客組織Anonymous今天入侵了俄羅斯流媒體服務Wink和Ivi（如Netflix）以及電視直播頻道Russia 24、Channel One、Moscow 24，播放來自烏克蘭的戰爭錄像。"
+    }
+  ]
 }
