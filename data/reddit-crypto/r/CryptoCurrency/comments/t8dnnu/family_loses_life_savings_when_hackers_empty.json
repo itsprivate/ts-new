@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッカーが暗号財布を空にし、家族が生活費を失う"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客清空加密货币钱包，家人失去毕生积蓄"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客清空加密貨幣錢包，家人失去畢生積蓄"
+    }
+  ]
 }
