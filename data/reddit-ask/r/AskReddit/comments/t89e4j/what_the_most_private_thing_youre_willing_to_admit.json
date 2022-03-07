@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが認めている最もプライベートなことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你愿意承认的最隐私的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你願意承認的最隱私的事情是什麼？"
+    }
+  ]
 }
