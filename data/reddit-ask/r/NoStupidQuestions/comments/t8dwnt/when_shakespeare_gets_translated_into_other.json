@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シェイクスピアは他の言語に翻訳されるとき、その言語の「古い」バージョンに翻訳されるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当莎士比亚被翻译成其他语言时，它是否被翻译成该语言的 \"旧 \"版本？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當莎士比亞被翻譯成其他語言時，它是否被翻譯成該語言的 \"舊 \"版本？"
+    }
+  ]
 }
