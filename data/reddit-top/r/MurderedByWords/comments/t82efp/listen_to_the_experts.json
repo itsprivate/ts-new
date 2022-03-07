@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "専門家の意見を聞く"
+    },
+    {
+      "locale": "zh",
+      "title": "听取专家意见"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聽取專家意見"
+    }
+  ]
 }
