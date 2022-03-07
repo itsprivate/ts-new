@@ -45,5 +45,22 @@
   "original_created_at": "2021-12-16T14:01:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--50YNjPUH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://archives.bulbagarden.net/media/upload/d/df/Evolution_VIII.png",
   "author": "jen chan",
-  "author_url": "https://dev.to/jenc"
+  "author_url": "https://dev.to/jenc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "キャリアに悩むあなたに贈るストーリータイム",
+      "title": "レベルアップについて"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的职业低迷提供故事时间",
+      "title": "关于提升等级"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的職業低迷提供故事時間",
+      "title": "關於提升等級"
+    }
+  ]
 }
