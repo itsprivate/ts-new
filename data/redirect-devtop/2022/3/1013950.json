@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-07T07:40:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VVP0zQyd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6dpa0ek073srtusttpyq.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSの学習はかなり大変です。近道はなく、自分の手を動かしていくことになります。",
+      "title": "CSSを学ぶための10の素晴らしいゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "学习CSS可能是一个相当大的挑战。没有什么捷径可走，你必须亲自动手...",
+      "title": "10个学习CSS的神奇游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習CSS可能是一個相當大的挑戰。沒有什麼捷徑可走，你必須親自動手...",
+      "title": "10個學習CSS的神奇遊戲"
+    }
+  ]
 }
