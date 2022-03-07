@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-07T03:02:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-W3Tzah--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9w7w2f46sp1ev4zw3ry.png",
   "author": "Tahsin",
-  "author_url": "https://dev.to/tahsinature"
+  "author_url": "https://dev.to/tahsinature",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、この記事の中で、オペレーティングシステムでよく使われる2つの処理技術について分析します...",
+      "title": "並行処理は並列処理ではない - その重要な違いをより深く理解するために"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，在这篇文章中，我们将分析操作系统使用的两种常见处理技术...",
+      "title": "并发不是并行 - 深入了解它们的关键区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，在這篇文章中，我們將分析操作系統使用的兩種常見處理技術...",
+      "title": "併發不是並行 - 深入瞭解它們的關鍵區別"
+    }
+  ]
 }
