@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男は、妊娠中のパートナーが腹ばいになれるように、砂に穴を掘っていた"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人在沙地上挖了一个洞，以便他怀孕的伴侣可以躺在她的肚子里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人在沙地上挖了一個洞，以便他懷孕的伴侶可以躺在她的肚子裏"
+    }
+  ]
 }
