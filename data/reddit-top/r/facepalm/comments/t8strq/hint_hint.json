@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヒントヒント"
+    },
+    {
+      "locale": "zh",
+      "title": "温馨提示 温馨提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "溫馨提示 溫馨提示"
+    }
+  ]
 }
