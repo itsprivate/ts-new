@@ -46,5 +46,22 @@
   "original_created_at": "2022-03-03T20:16:44Z",
   "image": "https://dev.to/social_previews/article/1008332.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティーの皆様へ、Forem社（オープンソースソフトウェアの開発会社）が、この度、...",
+      "title": "ウクライナの人々を支援するフォレムの取り組み"
+    },
+    {
+      "locale": "zh",
+      "description": "亲爱的DEV社区，我想让你知道，Forem(Forem背后的开源软件公司)已经开始了新的发展。",
+      "title": "福尔姆是如何支持乌克兰人民的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "親愛的DEV社區，我想讓你知道，Forem(Forem背後的開源軟件公司)已經開始了新的發展。",
+      "title": "福爾姆是如何支持烏克蘭人民的"
+    }
+  ]
 }
