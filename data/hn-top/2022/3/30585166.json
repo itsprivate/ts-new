@@ -13,5 +13,19 @@
   ],
   "objectID": "30585166",
   "original_created_at": "2022-03-07T07:40:00.000Z",
-  "image": "http://www.graememcc.co.uk/micropolisJS/images/tiles.png"
+  "image": "http://www.graememcc.co.uk/micropolisJS/images/tiles.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MicropolisJS: オリジナルのSimCityのJavaScriptクローン"
+    },
+    {
+      "locale": "zh",
+      "title": "MicropolisJS：一个克隆的模拟城市的JavaScript。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MicropolisJS：一個克隆的模擬城市的JavaScript。"
+    }
+  ]
 }

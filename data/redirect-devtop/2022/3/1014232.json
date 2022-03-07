@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-07T11:03:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q_0Q9IId--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5n0p95ncwml546a7hpu.png",
   "author": "Bradley Schofield",
-  "author_url": "https://dev.to/ionicisere"
+  "author_url": "https://dev.to/ionicisere",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドファンクションとは？  クラウドファンクションとは、クラウド事業者のサービスを拡張する方法です。",
+      "title": "Appwrite 0.13でサーバーレスファンクションを新しい速度にする"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是云功能？  云功能是扩展云供应商的一种方式。",
+      "title": "用Appwrite 0.13将你的无服务器功能提升到新的速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是雲功能？  雲功能是擴展雲供應商的一種方式。",
+      "title": "用Appwrite 0.13將你的無服務器功能提升到新的速度"
+    }
+  ]
 }
