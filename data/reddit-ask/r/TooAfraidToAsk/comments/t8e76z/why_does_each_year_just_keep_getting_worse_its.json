@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ、年々悪化していくのでしょうか？まるで世界の終わりに近づいているようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么每年的情况都在不断恶化？这几乎就像我们正在接近世界末日一样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼每年的情況都在不斷惡化？這幾乎就像我們正在接近世界末日一樣。"
+    }
+  ]
 }
