@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人材はここにあり、あとはサポートするだけだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这里有人才，我们只需要支持它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏有人才，我們只需要支持它。"
+    }
+  ]
 }
