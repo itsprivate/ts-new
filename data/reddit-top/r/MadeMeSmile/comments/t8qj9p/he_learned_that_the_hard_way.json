@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はそれを苦労して学んだ"
+    },
+    {
+      "locale": "zh",
+      "title": "他学到的东西是很难的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他學到的東西是很難的"
+    }
+  ]
 }
