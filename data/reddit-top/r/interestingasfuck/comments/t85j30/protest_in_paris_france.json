@@ -105,5 +105,19 @@
   },
   "is_video": true,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フランス・パリでの抗議行動"
+    },
+    {
+      "locale": "zh",
+      "title": "在法国巴黎的抗议活动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在法國巴黎的抗議活動"
+    }
+  ]
 }
