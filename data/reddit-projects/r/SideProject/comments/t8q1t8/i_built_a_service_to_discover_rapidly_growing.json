@@ -1,0 +1,62 @@
+{
+  "author": "jakobgreenfeld",
+  "original_created_utc": 1646662233,
+  "title": "I built a service to discover rapidly growing startups, topics and apps",
+  "created_utc": 1646667631,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone, as a bootstrapped founder, I&amp;#39;m always looking for emerging trends since I definitely don&amp;#39;t have the budget to create demand from scratch. So I built &lt;a href=\"https://undertheradar.io\"&gt;Under the Radar,&lt;/a&gt; a simple tool that automatically surfaces interesting new trends.&lt;/p&gt;\n\n&lt;p&gt;The raw input comes from hundreds of sources. For example, niche communities like certain subreddits and Hacker News are famous for recognizing trends long before they hit the mainstream. Similarly there are hundreds of awesome newsletters that cover specific niches and do a great job helping their readers stay ahead of the curve. But it&amp;#39;s an extremely time-consuming task to keep up with all the chatter. So I wrote a script that automatically parses the conversations going on and extracts the most interesting keywords. These keywords are then enriched using data from Google Trends and the Google Keyword Planner. All rapidly growing keywords then end up in the database (Google Sheets!) where they&amp;#39;re manually checked. Curated trends are shown on the site, together with a short explanation.&lt;/p&gt;\n\n&lt;p&gt;The backend and frontend code is all written in Python. For the frontend I&amp;#39;m using Flask.&lt;/p&gt;\n\n&lt;p&gt;Let me know if you have any questions, and any feedback is much appreciated!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?auto=webp&amp;s=bb7b41066c23dc9841a5650feea50c5bba28fd50",
+          "width": 1861,
+          "height": 924
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4142ec6d8766adfde94496cf7d4857913c21e249",
+            "width": 108,
+            "height": 53
+          },
+          {
+            "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d3a4bb333db0dda58d22e962e5167b6e415fc70d",
+            "width": 216,
+            "height": 107
+          },
+          {
+            "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7c910404fc66eeced82871931acffde49d1ce342",
+            "width": 320,
+            "height": 158
+          },
+          {
+            "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b40bca4dd994ccb9a0cf0542f6d55b0020e58c7",
+            "width": 640,
+            "height": 317
+          },
+          {
+            "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=578a5a83467d4f0a8d5748c0698fb9f7a457834e",
+            "width": 960,
+            "height": 476
+          },
+          {
+            "url": "https://external-preview.redd.it/zannlXo1I9NpDpnV-pV_oyhp4faNz_NIci9DpuOluT0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=a62947c884eac73de8b2db8416754aca45e8f7a5",
+            "width": 1080,
+            "height": 536
+          }
+        ],
+        "variants": {},
+        "id": "FcsaYn2dLcYg5nOJweLwlqBuKzbN8OjLLDD2ZCjq8LY"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/t8q1t8/i_built_a_service_to_discover_rapidly_growing/",
+  "subreddit": "SideProject",
+  "id": "t8q1t8",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Hey everyone, as a bootstrapped founder, I'm always looking for emerging trends\nsince I definitely don't have the budget to create demand from scratch. So I\nbuilt Under the Radar, [https://undertheradar.io] a simple tool that\nautomatically surfaces interesting new trends.\n\nThe raw input comes from…"
+}
