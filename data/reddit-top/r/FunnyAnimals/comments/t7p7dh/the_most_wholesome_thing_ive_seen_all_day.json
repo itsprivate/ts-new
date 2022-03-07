@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日一番ほっこりした。🥰"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我今天看到的最健康的东西。🥰"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我今天看到的最健康的東西。🥰"
+    }
+  ]
 }
