@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こうしてエスカレートし、革命に発展していくのです。ロシア、サンクトペテルブルク。"
+    },
+    {
+      "locale": "zh",
+      "title": "&amp; 这就是它如何升级&amp; 变成一场革命。俄罗斯，圣彼得堡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "&amp; 這就是它如何升級&amp; 變成一場革命。俄羅斯，聖彼得堡。"
+    }
+  ]
 }
