@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おお、すごい！ありがとうございます。"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，哇，谢谢你!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，哇，謝謝你!"
+    }
+  ]
 }
