@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こいつはメガネで不潔なんだよ"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙的眼镜很脏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙的眼鏡很髒。"
+    }
+  ]
 }
