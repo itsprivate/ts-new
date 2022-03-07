@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "react-creme - A Comprehensive UI Toolkit (aka component library for React) を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了react-creme - 一个用于React的综合UI工具包（又称组件库）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了react-creme - 一個用於React的綜合UI工具包（又稱組件庫）。"
+    }
+  ]
 }
