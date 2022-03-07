@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、新しい趣味やスキルを学ぶために授業を受けるとしたら、何を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以通过上课来学习新的爱好/技能，你会选择什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以通過上課來學習新的愛好/技能，你會選擇什麼？"
+    }
+  ]
 }
