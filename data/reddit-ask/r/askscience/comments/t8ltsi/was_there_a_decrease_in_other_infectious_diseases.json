@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "過去2年間、マスク着用により、コビド以外の感染症は減少しましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去两年中，除科维德外，其他传染病是否因戴口罩而减少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去兩年中，除科維德外，其他傳染病是否因戴口罩而減少？"
+    }
+  ]
 }
