@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2022/03/07/world/08ukraine-blog-header1/07ukraine-blog-kharkiv-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2022/03/07/world/08ukraine-blog-header1/07ukraine-blog-kharkiv-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナ・ロシア最新情報。最新の戦争ニュース"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰-俄罗斯最新消息。最新战争新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭-俄羅斯最新消息。最新戰爭新聞"
+    }
+  ]
 }
