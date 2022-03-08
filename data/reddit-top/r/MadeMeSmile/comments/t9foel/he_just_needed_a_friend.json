@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はただ、友達が欲しかっただけなのだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "他只是需要一个朋友。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他只是需要一個朋友。"
+    }
+  ]
 }
