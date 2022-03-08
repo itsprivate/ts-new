@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "定年退職の年齢"
+    },
+    {
+      "locale": "zh",
+      "title": "退休年龄"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "退休年齡"
+    }
+  ]
 }
