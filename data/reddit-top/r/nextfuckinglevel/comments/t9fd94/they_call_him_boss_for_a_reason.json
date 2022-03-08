@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ボスと呼ばれる所以は"
+    },
+    {
+      "locale": "zh",
+      "title": "他们叫他老板是有原因的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們叫他老闆是有原因的"
+    }
+  ]
 }
