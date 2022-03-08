@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-06T16:28:28Z",
   "image": "https://dev.to/social_previews/article/1012959.png",
   "author": "Tanvir Rahman",
-  "author_url": "https://dev.to/tanvirrahman"
+  "author_url": "https://dev.to/tanvirrahman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "問題 明確な整数からなるソートされた配列と目標値が与えられたとき，目標値が......であればインデックスを返せ．",
+      "title": "日々の問題解決-JS（9日目）"
+    },
+    {
+      "locale": "zh",
+      "description": "问题 给出一个由不同整数组成的排序数组和一个目标值，如果目标值为0，返回索引。",
+      "title": "每日问题解决 - JS（第9天）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "問題 給出一個由不同整數組成的排序數組和一個目標值，如果目標值爲0，返回索引。",
+      "title": "每日問題解決 - JS（第9天）。"
+    }
+  ]
 }
