@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "問題解決能力..."
+    },
+    {
+      "locale": "zh",
+      "title": "解决问题的能力..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "解決問題的能力..."
+    }
+  ]
 }
