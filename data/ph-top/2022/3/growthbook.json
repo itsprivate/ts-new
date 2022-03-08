@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-08T08:01:00Z"
+  "original_createdAt": "2022-03-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GrowthBookは、オープンソースの機能フラグ立てと実験のプラットフォームです。機能を安全に本番にリリースし、主要なメトリクスへの影響を測定します。",
+      "tagline": "オープンソースのLaunchDarklyの代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "GrowthBook是一个开源的功能标记和实验平台。安全地发布功能到生产中，并测量对你的关键指标的影响。",
+      "tagline": "开源的LaunchDarkly替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GrowthBook是一個開源的功能標記和實驗平臺。安全地發佈功能到生產中，並測量對你的關鍵指標的影響。",
+      "tagline": "開源的LaunchDarkly替代品"
+    }
+  ]
 }
