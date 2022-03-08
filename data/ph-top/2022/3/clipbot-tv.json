@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-08T08:01:00Z"
+  "original_createdAt": "2022-03-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TwitchのクリップをTikTokやYouTube Shortsに自動的にアップロードし、一晩で成長させることができます。コンテンツ作成にストレスを感じることなく、好きなこと、つまりストリーミングを行うだけです。あとはClipbotが処理します。",
+      "tagline": "Twitchのクリップを自動的に編集し、TikTokやYouTubeにアップロードすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "自动将您的Twitch片段上传到TikTok和YouTube Shorts，并在一夜之间成长。不要为创造内容而紧张，只需做你喜欢的部分：流媒体。Clipbot会处理其余的事情。",
+      "tagline": "自动编辑和上传Twitch片段到TikTok和YouTube"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動將您的Twitch片段上傳到TikTok和YouTube Shorts，並在一夜之間成長。不要爲創造內容而緊張，只需做你喜歡的部分：流媒體。Clipbot會處理其餘的事情。",
+      "tagline": "自動編輯和上傳Twitch片段到TikTok和YouTube"
+    }
+  ]
 }
