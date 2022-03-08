@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タンクトップへのスクリーン印刷"
+    },
+    {
+      "locale": "zh",
+      "title": "在背心上进行丝网印刷"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在背心上進行絲網印刷"
+    }
+  ]
 }
