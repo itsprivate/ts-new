@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-08T07:47:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zwzOuXgH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5rect63sauqc4dwhk2qu.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイトやブログ、その他というと、私たちはしばしばこれらのシステムにCMSの力を期待します。 I...",
+      "title": "CMSは必ずしも必要ではありません"
+    },
+    {
+      "locale": "zh",
+      "description": "说到网站、博客什么的，我们常常期望能找到一个CMS来驱动这些系统。 I...",
+      "title": "你并不总是需要一个CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "說到網站、博客什麼的，我們常常期望能找到一個CMS來驅動這些系統。 I...",
+      "title": "你並不總是需要一個CMS"
+    }
+  ]
 }
