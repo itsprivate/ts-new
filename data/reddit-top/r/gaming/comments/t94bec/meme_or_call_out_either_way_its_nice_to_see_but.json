@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミームなのか呼びかけなのか。いずれにせよ、うれしいことです。しかし、やはり残念だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "忆苦思甜还是呼风唤雨？不管是哪种方式，都很高兴看到。但仍然是一个耻辱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "憶苦思甜還是呼風喚雨？不管是哪種方式，都很高興看到。但仍然是一個恥辱。"
+    }
+  ]
 }

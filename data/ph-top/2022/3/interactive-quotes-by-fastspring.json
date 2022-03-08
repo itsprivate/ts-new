@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-08T08:01:00Z"
+  "original_createdAt": "2022-03-08T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FastSpringのInteractive Quotesは、SaaSの価格に関する会話を簡素化し、販売プロセスを加速させます。価格計算機や提案書を捨てて、見込み客が価格を理解できるようにし、より早く取引を成立させることができます。",
+      "tagline": "SaaSの価格設定に関する会話を簡素化"
+    },
+    {
+      "locale": "zh",
+      "description": "FastSpring的交互式报价简化了SaaS定价对话并加速了销售过程。因此，抛弃定价计算器和提案文件，帮助您的潜在客户了解您的定价，以便您能更快地达成交易。",
+      "tagline": "简化SaaS定价对话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FastSpring的交互式報價簡化了SaaS定價對話並加速了銷售過程。因此，拋棄定價計算器和提案文件，幫助您的潛在客戶瞭解您的定價，以便您能更快地達成交易。",
+      "tagline": "簡化SaaS定價對話"
+    }
+  ]
 }
