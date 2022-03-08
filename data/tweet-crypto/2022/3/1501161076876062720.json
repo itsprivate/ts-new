@@ -134,5 +134,22 @@
     "retweet_count": 152,
     "favorite_count": 823,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AndreasSteno: なぜ1970年代のようなシナリオに突入しないのか、多くの質問を受ける。\n\nその答えがこれです https://t.co/kbht6AtEcW",
+      "retweeted_status_full_text": "なぜ1970年代のようなシナリオに入らないのか、という質問をよく受けますが\n\nその答えがこれです https://t.co/kbht6AtEcW"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AndreasSteno: 我收到很多问题，为什么我们没有进入类似1970年代的情况？\n\n答案是这样的 https://t.co/kbht6AtEcW",
+      "retweeted_status_full_text": "我收到很多问题，为什么我们没有进入1970年代那样的情况？\n\n答案是这样的：https://t.co/kbht6AtEcW"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AndreasSteno: 我收到很多問題，爲什麼我們沒有進入類似1970年代的情況？\n\n答案是這樣的 https://t.co/kbht6AtEcW",
+      "retweeted_status_full_text": "我收到很多問題，爲什麼我們沒有進入1970年代那樣的情況？\n\n答案是這樣的：https://t.co/kbht6AtEcW"
+    }
+  ]
 }

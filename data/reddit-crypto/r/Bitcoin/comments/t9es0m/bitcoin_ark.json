@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの箱舟"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币方舟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣方舟"
+    }
+  ]
 }
