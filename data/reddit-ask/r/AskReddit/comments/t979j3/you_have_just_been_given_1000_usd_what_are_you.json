@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは今、1000米ドルを手にしました。何を買いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你刚刚得到了1000美元。你要买什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你剛剛得到了1000美元。你要買什麼？"
+    }
+  ]
 }
