@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このヴィンテージのアビエーターフレームに私の度付きメガネのレンズを装着すると、とても厚くなるのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的处方眼镜镜片装在这些复古飞行员框架上时是如此的厚。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的處方眼鏡鏡片裝在這些復古飛行員框架上時是如此的厚。"
+    }
+  ]
 }
