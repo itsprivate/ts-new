@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-07T20:16:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L76qwyJN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdwse1lgzp4sawvp1v4h.jpg",
   "author": "Stanislav Ilin",
-  "author_url": "https://dev.to/frezyx"
+  "author_url": "https://dev.to/frezyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アプリケーションでボタンをよく見かけますよね🧐？  どのアプリケーションでも見かけると思います...",
+      "title": "ボタン群を高速に作成するFlutterウィジェット ✈️。"
+    },
+    {
+      "locale": "zh",
+      "description": "你经常在应用程序🧐中看到按钮吗？  我想在你看到的每一个应用程序中，都有一个按钮。",
+      "title": "Flutter小部件快速创建一组按钮 ✈️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你經常在應用程序🧐中看到按鈕嗎？  我想在你看到的每一個應用程序中，都有一個按鈕。",
+      "title": "Flutter小部件快速創建一組按鈕 ✈️"
+    }
+  ]
 }
