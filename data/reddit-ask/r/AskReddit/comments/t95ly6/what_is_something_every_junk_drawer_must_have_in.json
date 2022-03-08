@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガラクタの引き出し」に必ず入っているもの、「ガラクタの引き出し」らしくないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西是每个 \"杂物抽屉 \"必须具备的，以便被认为是一个适当的 \"杂物抽屉\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西是每個 \"雜物抽屜 \"必須具備的，以便被認爲是一個適當的 \"雜物抽屜\"？"
+    }
+  ]
 }
