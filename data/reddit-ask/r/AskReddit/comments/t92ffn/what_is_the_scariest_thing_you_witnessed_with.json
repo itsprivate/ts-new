@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の目で見た一番怖いものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你亲眼目睹的最可怕的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你親眼目睹的最可怕的事情是什麼？"
+    }
+  ]
 }
