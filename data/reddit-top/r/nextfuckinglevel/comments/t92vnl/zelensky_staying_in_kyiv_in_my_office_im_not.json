@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キエフに滞在するゼレンスキー。私のオフィスに 私は隠れてはいない。そして誰も恐れていない"
+    },
+    {
+      "locale": "zh",
+      "title": "泽伦斯基留在基辅。在我的办公室里。我没有躲起来。我也不惧怕任何人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "澤倫斯基留在基輔。在我的辦公室裏。我沒有躲起來。我也不懼怕任何人"
+    }
+  ]
 }

@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カリフォルニア州議会で、ビットコインを法定通貨として制定する法案が提出されました"
+    },
+    {
+      "locale": "zh",
+      "title": "加州立法机构已经提出一项法案，可以将比特币确立为该州的法定货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "加州立法機構已經提出一項法案，可以將比特幣確立爲該州的法定貨幣。"
+    }
+  ]
 }
