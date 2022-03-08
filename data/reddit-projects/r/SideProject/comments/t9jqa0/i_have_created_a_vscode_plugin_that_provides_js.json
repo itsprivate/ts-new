@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It's no secret software developers search the web a lot.\nAccording to some source, we waste about 15% of our coding time searching for\ncode snippets online.\n\nTo overcome this time waste, I have created a plugin that allows developers to\ntype, in plain English, what they want to do and provides them…"
+  "the_new_excerpt": "It's no secret software developers search the web a lot.\nAccording to some source, we waste about 15% of our coding time searching for\ncode snippets online.\n\nTo overcome this time waste, I have created a plugin that allows developers to\ntype, in plain English, what they want to do and provides them…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ソフトウェア開発者がWebをよく検索していることは周知の事実です。\nある情報筋によると、私たちはコーディング時間の約15％を無駄にしているそうです。\nコードスニペット\n\nこの時間の無駄をなくすために、私は開発者が以下のことを行えるようにするプラグインを作りました。\nを平易な文章で入力すると、その内容が表示されます。",
+      "title": "私は、JS開発者にオンデマンドでコードスニペットを提供するvscodeプラグインを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "软件开发人员经常在网上搜索，这已经不是什么秘密了。\n根据一些资料，我们浪费了大约15%的编码时间在网上搜索\n代码片段。\n\n为了克服这种时间浪费，我创建了一个插件，允许开发人员\n用简单的英语输入他们想做的事情，并为他们提供...",
+      "title": "我已经创建了一个vscode插件，为JS开发者提供所需的代码片段。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "軟件開發人員經常在網上搜索，這已經不是什麼祕密了。\n根據一些資料，我們浪費了大約15%的編碼時間在網上搜索\n代碼片段。\n\n爲了克服這種時間浪費，我創建了一個插件，允許開發人員\n用簡單的英語輸入他們想做的事情，併爲他們提供...",
+      "title": "我已經創建了一個vscode插件，爲JS開發者提供所需的代碼片段。"
+    }
+  ]
 }
