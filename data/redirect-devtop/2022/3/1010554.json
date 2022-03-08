@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-05T05:54:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w2uAzA1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpc0dsoavq14an61os8x.jpg",
   "author": "Dmitrii",
-  "author_url": "https://dev.to/dbolotov"
+  "author_url": "https://dev.to/dbolotov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの開発者は皆、独自のJSフレームワークを実装しなければならないと言われていますし、EPAMは皆、...",
+      "title": "システム設計の面接の質問です。スケジューラの実装"
+    },
+    {
+      "locale": "zh",
+      "description": "人们说，每个前端开发者都必须实现自己的JS框架，而每个EPAM...",
+      "title": "系统设计面试问题。实现一个调度器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "人們說，每個前端開發者都必須實現自己的JS框架，而每個EPAM...",
+      "title": "系統設計面試問題。實現一個調度器"
+    }
+  ]
 }
