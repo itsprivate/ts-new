@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インフレが進む中、64％のアメリカ人が給料日前の生活を送っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "随着通货膨胀的升温，64%的美国人现在是拿着工资生活的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "隨着通貨膨脹的升溫，64%的美國人現在是拿着工資生活的。"
+    }
+  ]
 }
