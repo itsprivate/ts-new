@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男性の運動能力のピーク"
+    },
+    {
+      "locale": "zh",
+      "title": "男性运动能力的峰值"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男性運動能力的峯值"
+    }
+  ]
 }
