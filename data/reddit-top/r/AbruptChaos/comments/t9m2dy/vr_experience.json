@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "VR体験"
+    },
+    {
+      "locale": "zh",
+      "title": "VR体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "VR體驗"
+    }
+  ]
 }
