@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "元彼からもらったもので、今でも持っているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的前任给你的一件东西是什么，你现在还保留着？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的前任給你的一件東西是什麼，你現在還保留着？"
+    }
+  ]
 }
