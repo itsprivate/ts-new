@@ -150,5 +150,22 @@
     "retweet_count": 171,
     "favorite_count": 895,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @FungiblePleb: #ビットコイン https://t.co/xKEGzai6MY",
+      "retweeted_status_full_text": "#Bitcoin https://t.co/xKEGzai6MY"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @FungiblePleb: #比特币https://t.co/xKEGzai6MY",
+      "retweeted_status_full_text": "#Bitcoin https://t.co/xKEGzai6MY"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @FungiblePleb: #比特幣https://t.co/xKEGzai6MY",
+      "retweeted_status_full_text": "#Bitcoin https://t.co/xKEGzai6MY"
+    }
+  ]
 }

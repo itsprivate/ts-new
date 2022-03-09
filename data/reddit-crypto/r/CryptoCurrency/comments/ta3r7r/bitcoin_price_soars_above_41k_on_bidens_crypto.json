@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイデン氏の暗号行政命令リークでビットコイン価格が41Kドル超に急騰"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币价格因拜登的加密货币行政命令泄露而飙升至4.1万美元以上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣價格因拜登的加密貨幣行政命令泄露而飆升至4.1萬美元以上"
+    }
+  ]
 }
