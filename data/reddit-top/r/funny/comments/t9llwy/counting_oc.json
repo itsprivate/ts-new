@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カウント中です。[OC]"
+    },
+    {
+      "locale": "zh",
+      "title": "计数。[OC]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "計數。[OC]"
+    }
+  ]
 }
