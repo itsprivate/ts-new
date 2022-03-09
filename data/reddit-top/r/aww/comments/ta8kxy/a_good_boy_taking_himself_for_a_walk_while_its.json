@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "雨の中、散歩するいい子。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个好孩子在下雨时带自己去散步"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個好孩子在下雨時帶自己去散步"
+    }
+  ]
 }
