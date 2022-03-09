@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-27T20:16:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZjKVGkP6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6iikidauhjays0o2uvll.png",
   "author": "AabhasSao",
-  "author_url": "https://dev.to/aabhassao"
+  "author_url": "https://dev.to/aabhassao",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの有名なGitHubリポジトリで、.shファイルを見たことがあるかもしれません。また、...",
+      "title": "NodeJSによるシェルスクリプトの実行 "
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经在许多流行的GitHub仓库中看到了.sh文件。甚至你们中的一些人可能已经使用了...",
+      "title": "用NodeJS执行壳牌脚本 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經在許多流行的GitHub倉庫中看到了.sh文件。甚至你們中的一些人可能已經使用了...",
+      "title": "用NodeJS執行殼牌腳本 "
+    }
+  ]
 }
