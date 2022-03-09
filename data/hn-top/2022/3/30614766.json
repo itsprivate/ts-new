@@ -13,5 +13,19 @@
   ],
   "objectID": "30614766",
   "original_created_at": "2022-03-09T14:32:47.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Debian ベースのディストロに影響を及ぼす予期せぬ Redis サンドボックスのエスケープ"
+    },
+    {
+      "locale": "zh",
+      "title": "一个意外的Redis沙盒逃逸影响了基于Debian的发行版"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個意外的Redis沙盒逃逸影響了基於Debian的發行版"
+    }
+  ]
 }
