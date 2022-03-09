@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラジオ局、伝説の人物に出会う。"
+    },
+    {
+      "locale": "zh",
+      "title": "电台偶然发现了一个绝对的传奇人物。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "電臺偶然發現了一個絕對的傳奇人物。"
+    }
+  ]
 }

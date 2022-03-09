@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "異なる惑星における重力"
+    },
+    {
+      "locale": "zh",
+      "title": "不同星球上的重力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不同星球上的重力"
+    }
+  ]
 }

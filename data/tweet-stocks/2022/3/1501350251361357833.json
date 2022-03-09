@@ -134,5 +134,22 @@
     "retweet_count": 207,
     "favorite_count": 554,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: コンテキスト https://t.co/gIkIhGE8rI",
+      "retweeted_status_full_text": "コンテキスト https://t.co/gIkIhGE8rI"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 语境 https://t.co/gIkIhGE8rI",
+      "retweeted_status_full_text": "语境 https://t.co/gIkIhGE8rI"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 語境 https://t.co/gIkIhGE8rI",
+      "retweeted_status_full_text": "語境 https://t.co/gIkIhGE8rI"
+    }
+  ]
 }
