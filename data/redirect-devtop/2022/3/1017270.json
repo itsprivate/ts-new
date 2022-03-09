@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-09T12:11:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xbFr4fhz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/su6wqlyua9ytylxgrg3c.png",
   "author": "Ayesha Sahar",
-  "author_url": "https://dev.to/iayeshasahar"
+  "author_url": "https://dev.to/iayeshasahar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに ユーザーをコントロールするために ユーザーを快適にするため...........................。",
+      "title": "より良いUI/UXデザインを実現するためのデザイン原則"
+    },
+    {
+      "locale": "zh",
+      "description": "目录简介 将用户置于掌控之中 让你的用户感到舒适 减少...",
+      "title": "实现更好的UI/UX设计的设计原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄簡介 將用戶置於掌控之中 讓你的用戶感到舒適 減少...",
+      "title": "實現更好的UI/UX設計的設計原則"
+    }
+  ]
 }
