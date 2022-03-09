@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッピーウィメンズデー"
+    },
+    {
+      "locale": "zh",
+      "title": "妇女节快乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "婦女節快樂"
+    }
+  ]
 }
