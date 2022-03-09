@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-05T04:24:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UlR8QTCq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxda7oxep0vylk5m36np.png",
   "author": "Leví Arista",
-  "author_url": "https://dev.to/leviarista"
+  "author_url": "https://dev.to/leviarista",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "投稿の概要 「Github Profile Header Generator」は、シンプルだけど素敵なヘッダーです。",
+      "title": "Githubプロフィールのためのシンプルで素敵なヘッダージェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "我提交的概述 \"Github简介标题生成器 \"是一个简单但漂亮的标题。",
+      "title": "为你的Github简介生成一个简单但漂亮的头像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我提交的概述 \"Github簡介標題生成器 \"是一個簡單但漂亮的標題。",
+      "title": "爲你的Github簡介生成一個簡單但漂亮的頭像"
+    }
+  ]
 }
