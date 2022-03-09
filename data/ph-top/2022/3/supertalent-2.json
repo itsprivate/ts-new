@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-09T08:01:00Z"
+  "original_createdAt": "2022-03-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Supertalent は、主に企業の価値観や文化に合うかどうかに基づいて、適切な人材と適切な企業のみを結び付ける価値ベースの人材ポータルです。https://supertalent.io。",
+      "tagline": "共通の価値観に基づき、人材と企業をつなぐ"
+    },
+    {
+      "locale": "zh",
+      "description": "Supertalent是一个以价值为基础的人才门户网站，主要根据人才与公司价值和文化的契合度，只将合适的人才与合适的公司联系起来。https://supertalent.io",
+      "tagline": "在共同的价值观基础上连接人才和公司"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Supertalent是一個以價值爲基礎的人才門戶網站，主要根據人才與公司價值和文化的契合度，只將合適的人才與合適的公司聯繫起來。https://supertalent.io",
+      "tagline": "在共同的價值觀基礎上連接人才和公司"
+    }
+  ]
 }
