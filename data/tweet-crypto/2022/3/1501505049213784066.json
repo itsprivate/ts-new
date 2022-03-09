@@ -52,5 +52,22 @@
     },
     "retweet_count": 4011,
     "favorite_count": 20494
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @KyivIndependent: ⚡️ロシアが外貨の売却を停止している。\n\n顧客は最大1万ドルの外貨を引き出すことができるようになる...",
+      "retweeted_status_full_text": "⚡️ロシア、外貨の売却を停止。\n\n顧客は口座から最大1万ドルの外貨を引き出すことができるようになる。その他の資金はすべてルーブルで支払われるようになる。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @KyivIndependent: ⚡️俄罗斯暂停销售外币。\n\n客户最多可以提取1万美元的外币。",
+      "retweeted_status_full_text": "⚡️俄罗斯暂停销售外币。\n\n客户将能够从他们的账户中提取最多1万美元的外币。所有其他资金现在将以卢布支付。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @KyivIndependent: ⚡️俄羅斯暫停銷售外幣。\n\n客戶最多可以提取1萬美元的外幣。",
+      "retweeted_status_full_text": "⚡️俄羅斯暫停銷售外幣。\n\n客戶將能夠從他們的賬戶中提取最多1萬美元的外幣。所有其他資金現在將以盧布支付。"
+    }
+  ]
 }
