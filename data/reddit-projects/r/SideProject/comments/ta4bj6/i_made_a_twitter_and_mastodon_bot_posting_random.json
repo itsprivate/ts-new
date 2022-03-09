@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi :)\n\nI made a bot to post every hour a random indie website:\n\nTwitter bot: https://twitter.com/IndieRandWeb\n\nMastodon bot: https://mastodon.social/web/@FunRandWeb\n\nSource code: https://github.com/xojoc/randomwebsitebot\n\nThe websites are fetched from https://stumblingon.com/ (made by…"
+  "the_new_excerpt": "Hi :)\n\nI made a bot to post every hour a random indie website:\n\nTwitter bot: https://twitter.com/IndieRandWeb\n\nMastodon bot: https://mastodon.social/web/@FunRandWeb\n\nSource code: https://github.com/xojoc/randomwebsitebot\n\nThe websites are fetched from https://stumblingon.com/ (made by…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは :)\n\n1時間ごとにランダムなインディーズサイトを投稿するbotを作りました。\n\nツイッターボット: https://twitter.com/IndieRandWeb\n\nマストドンbot: https://mastodon.social/web/@FunRandWeb\n\nソースコード： https://github.com/xojoc/randomwebsitebot\n\nウェブサイトは https://stumblingon.com/ (made by...) から取得されます。",
+      "title": "インディーズサイトをランダムに投稿するTwitterとMastodonのbotを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好 :)\n\n我做了一个机器人，每小时发布一个随机的独立网站。\n\nTwitter机器人：https://twitter.com/IndieRandWeb\n\nMastodon机器人: https://mastodon.social/web/@FunRandWeb\n\n源代码：https://github.com/xojoc/randomwebsitebot\n\n这些网站都是从https://stumblingon.com/（由...",
+      "title": "我做了一个Twitter和Mastodon的机器人，发布随机的独立网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好 :)\n\n我做了一個機器人，每小時發佈一個隨機的獨立網站。\n\nTwitter機器人：https://twitter.com/IndieRandWeb\n\nMastodon機器人: https://mastodon.social/web/@FunRandWeb\n\n源代碼：https://github.com/xojoc/randomwebsitebot\n\n這些網站都是從https://stumblingon.com/（由...",
+      "title": "我做了一個Twitter和Mastodon的機器人，發佈隨機的獨立網站"
+    }
+  ]
 }

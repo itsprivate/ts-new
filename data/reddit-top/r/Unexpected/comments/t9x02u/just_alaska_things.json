@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アラスカのこと"
+    },
+    {
+      "locale": "zh",
+      "title": "只是阿拉斯加的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是阿拉斯加的事情"
+    }
+  ]
 }
