@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アベンジャーズは彼の居場所を知りたがっている"
+    },
+    {
+      "locale": "zh",
+      "title": "复仇者联盟想知道他的位置"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "復仇者聯盟想知道他的位置"
+    }
+  ]
 }
