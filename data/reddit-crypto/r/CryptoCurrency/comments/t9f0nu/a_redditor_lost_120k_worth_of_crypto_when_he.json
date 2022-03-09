@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditorが悪意のあるリンクを誤ってクリックし、120kドル相当の暗号を紛失した。"
+    },
+    {
+      "locale": "zh",
+      "title": "一名红客因误点了一个恶意链接而损失了价值12万美元的加密货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一名紅客因誤點了一個惡意鏈接而損失了價值12萬美元的加密貨幣。"
+    }
+  ]
 }
