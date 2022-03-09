@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Figmaの中にホームページビルダーを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我在Figma内部创建了一个网站建设者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在Figma內部創建了一個網站建設者"
+    }
+  ]
 }
