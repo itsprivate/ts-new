@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-08T16:07:47Z",
   "image": "https://dev.to/social_previews/article/1016322.png",
   "author": "Tawhid",
-  "author_url": "https://dev.to/dumboprogrammer"
+  "author_url": "https://dev.to/dumboprogrammer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分のサイトがハッキングされるようなことはないと思うかもしれませんが、ウェブサイトは常に危険にさらされています。",
+      "title": "ウェブサイトを守るための11のセキュリティ対策"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能不认为你的网站有什么值得被黑客攻击的地方，但网站一直在被破坏。",
+      "title": "11个安全提示，保护你的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能不認爲你的網站有什麼值得被黑客攻擊的地方，但網站一直在被破壞。",
+      "title": "11個安全提示，保護你的網站"
+    }
+  ]
 }
