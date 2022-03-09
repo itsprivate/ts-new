@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うちの子は今日これで停学になったよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的孩子今天因为这个被学校停课了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的孩子今天因爲這個被學校停課了。"
+    }
+  ]
 }
