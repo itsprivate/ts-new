@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "天体の違いによる重力の感じ方"
+    },
+    {
+      "locale": "zh",
+      "title": "对不同天体的重力感知"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對不同天體的重力感知"
+    }
+  ]
 }
