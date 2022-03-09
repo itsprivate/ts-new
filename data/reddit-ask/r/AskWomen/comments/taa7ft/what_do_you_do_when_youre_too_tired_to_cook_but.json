@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Especially if you’re living on your own."
+  "the_new_excerpt": "Especially if you’re living on your own.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "特に一人暮らしならなおさらです。",
+      "title": "疲れて料理ができないけど、食べなきゃいけない時、どうする？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "特别是当你自己生活的时候。",
+      "title": "当你太累了，无法做饭但又不得不吃时，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "特別是當你自己生活的時候。",
+      "title": "當你太累了，無法做飯但又不得不喫時，你會怎麼做？"
+    }
+  ]
 }
