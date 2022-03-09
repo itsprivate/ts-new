@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-09T08:01:00Z"
+  "original_createdAt": "2022-03-09T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザイン・トークンを使用して、Figma のデザイン・ワークフローを次のレベルに引き上げましょう。マルチブランドのシステムで簡単に作業でき、開発者に簡単に引き渡すことができます。ジャン・シックス（Figmaトークンの開発者）と共同で開発されました。",
+      "tagline": "Figma用デザインシステム powered by Design Tokens"
+    },
+    {
+      "locale": "zh",
+      "description": "通过设计令牌，将您在 Figma 中的设计工作流程提高到新的水平。轻松地在多品牌系统上工作，并毫不费力地移交给您的开发人员。与 Jan Six（Figma Tokens 的创造者）共同构建。",
+      "tagline": "由设计代币驱动的Figma设计系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過設計令牌，將您在 Figma 中的設計工作流程提高到新的水平。輕鬆地在多品牌系統上工作，並毫不費力地移交給您的開發人員。與 Jan Six（Figma Tokens 的創造者）共同構建。",
+      "tagline": "由設計代幣驅動的Figma設計系統"
+    }
+  ]
 }
