@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "紅茶に入れた砂糖は、紅茶が温まらないと溶けないのに、冷やすと溶けてしまうのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么我的茶中的糖在冰冻后不会从溶液中崩解出来，尽管茶首先需要温热来溶解它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼我的茶中的糖在冰凍後不會從溶液中崩解出來，儘管茶首先需要溫熱來溶解它？"
+    }
+  ]
 }
