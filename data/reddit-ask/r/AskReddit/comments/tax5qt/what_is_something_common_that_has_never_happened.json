@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "よくあることで、自分に起こったことのないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么常见的事情从来没有发生在你身上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼常見的事情從來沒有發生在你身上？"
+    }
+  ]
 }
