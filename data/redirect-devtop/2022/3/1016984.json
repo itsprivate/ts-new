@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-09T07:23:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N6EMTMez--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j752734keve626ysfp2f.jpg",
   "author": "Mr. Paul Ishaili ",
-  "author_url": "https://dev.to/mrpaulishaili"
+  "author_url": "https://dev.to/mrpaulishaili",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のは       React Router DOM (V6) - ページルーティングとビューの切り替えに使用します。React Hooks - UseState、...など。",
+      "title": "Reactでお気に入りのツールは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我的是。      React Router DOM (V6) - 用于页面路由和视图切换。React Hooks - UseState,...",
+      "title": "你最喜欢React中的哪些工具，以及为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的是。      React Router DOM (V6) - 用於頁面路由和視圖切換。React Hooks - UseState,...",
+      "title": "你最喜歡React中的哪些工具，以及爲什麼？"
+    }
+  ]
 }
