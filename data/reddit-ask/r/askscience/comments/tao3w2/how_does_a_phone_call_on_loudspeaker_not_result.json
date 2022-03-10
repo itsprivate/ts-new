@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "拡声器による電話は、どうしてフィードバックループにならないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "喇叭里的电话怎么会不导致反馈循环？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喇叭裏的電話怎麼會不導致反饋循環？"
+    }
+  ]
 }
