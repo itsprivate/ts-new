@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが頂点だった"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个巅峰"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個巔峯"
+    }
+  ]
 }

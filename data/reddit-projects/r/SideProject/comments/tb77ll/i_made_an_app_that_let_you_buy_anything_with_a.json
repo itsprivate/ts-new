@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキストで何でも買えるアプリを作りました（使用無料・インストール不要）"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序，让你用文字购买任何东西（免费使用 - 无需安装）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序，讓你用文字購買任何東西（免費使用 - 無需安裝）。"
+    }
+  ]
 }
