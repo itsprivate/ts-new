@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-10T08:00:00Z"
+  "original_createdAt": "2022-03-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WatermarkRemover.ioは、ユーザーが手動で選択することなく、自動的に画像から透かしを除去することを支援します。これは、市場で最も正確なAIツールです。自動検出 ✨ 多色透かし除去サポート ✨ 複数透かし除去サポート",
+      "tagline": "ロバストなAI技術で画像から透かしを取り除く"
+    },
+    {
+      "locale": "zh",
+      "description": "WatermarkRemover.io帮助用户自动去除图片上的水印，不需要手动选择。这是市场上最准确的AI工具。自动检测 ✨ 支持多色水印去除 ✨ 支持多种水印去除",
+      "tagline": "使用我们强大的AI技术去除图像中的水印"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WatermarkRemover.io幫助用戶自動去除圖片上的水印，不需要手動選擇。這是市場上最準確的AI工具。自動檢測 ✨ 支持多色水印去除 ✨ 支持多種水印去除",
+      "tagline": "使用我們強大的AI技術去除圖像中的水印"
+    }
+  ]
 }
