@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-10T08:00:00Z"
+  "original_createdAt": "2022-03-10T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HEADZは、フル装備の頭部のかわいい3Dライブラリです。Appleのmemojisに代わるものです。男性（黒・茶・白）、女性（黒・茶・白）、ペット（犬2匹＋猫）があります。",
+      "tagline": "40万通り以上の組み合わせのかわいい3Dヘッド"
+    },
+    {
+      "locale": "zh",
+      "description": "HEADZ是一个可爱的完全装配好的头部3D库。它是Apple memojis的替代品。你可以找到男性（黑/棕/白）和女性（黑/棕/白）以及宠物（2只狗+猫）。",
+      "tagline": "400,000+种可爱的3D头像组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HEADZ是一個可愛的完全裝配好的頭部3D庫。它是Apple memojis的替代品。你可以找到男性（黑/棕/白）和女性（黑/棕/白）以及寵物（2只狗+貓）。",
+      "tagline": "400,000+種可愛的3D頭像組合"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "朝起きて最初にする3つのことを順番に教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "按顺序，你早上起床后做的前三件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按順序，你早上起牀後做的前三件事是什麼？"
+    }
+  ]
 }
