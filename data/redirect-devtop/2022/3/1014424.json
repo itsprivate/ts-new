@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-07T12:52:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-K2Ps8q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58ow04lpf6tfcpluibo0.jpg",
   "author": "Pascal Thormeier",
-  "author_url": "https://dev.to/thormeier"
+  "author_url": "https://dev.to/thormeier",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(Cover photo by Flickr user FolsomNatural) 手を挙げてください。この絶対的な名作を何時間もプレイしたことのある人は...。",
+      "title": "爆音で楽しもう! NodeJSでCLI用のMinesweeperクローンを作る方法 💣💣💣💣。"
+    },
+    {
+      "locale": "zh",
+      "description": "(封面照片由Flickr用户FolsomNatural拍摄）举起手来--谁玩过这个绝对经典的游戏几个小时？",
+      "title": "让我们来体验一下爆炸性的乐趣! 如何用NodeJS为CLI建立一个扫雷的克隆 💣🔍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "(封面照片由Flickr用戶FolsomNatural拍攝）舉起手來--誰玩過這個絕對經典的遊戲幾個小時？",
+      "title": "讓我們來體驗一下爆炸性的樂趣! 如何用NodeJS爲CLI建立一個掃雷的克隆 💣🔍"
+    }
+  ]
 }
