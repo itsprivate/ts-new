@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は中学生の頃から、ペンのインクカートリッジの中に入っている小さな玉をコレクションしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "从中学开始，我就一直收藏着钢笔墨盒里的小球。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從中學開始，我就一直收藏着鋼筆墨盒裏的小球。"
+    }
+  ]
 }
