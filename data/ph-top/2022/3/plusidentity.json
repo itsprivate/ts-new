@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-10T08:01:00Z"
+  "original_createdAt": "2022-03-10T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのチームは、Slack上で平文でパスワードを共有していますか？もしそうなら、Slackのワークスペースに常駐するパスワード管理ツール、PlusIdentityをぜひ使ってみてください。PlusIdentityは10人以下のチームなら無料で、インストールも使い始めも超簡単です。",
+      "tagline": "チーム向けに作られたSlack上のパスワードマネージャー"
+    },
+    {
+      "locale": "zh",
+      "description": "你的团队是否在Slack上以明文方式分享密码？😱 如果是这样，你肯定应该使用PlusIdentity，一个住在Slack工作区的密码管理器。PlusIdentity对于10人以下的团队来说是免费的，而且安装和使用都非常简单。",
+      "tagline": "Slack上的密码管理器，为团队而建"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你的團隊是否在Slack上以明文方式分享密碼？😱 如果是這樣，你肯定應該使用PlusIdentity，一個住在Slack工作區的密碼管理器。PlusIdentity對於10人以下的團隊來說是免費的，而且安裝和使用都非常簡單。",
+      "tagline": "Slack上的密碼管理器，爲團隊而建"
+    }
+  ]
 }
