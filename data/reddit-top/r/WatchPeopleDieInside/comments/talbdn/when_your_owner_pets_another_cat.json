@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飼い主が他の猫をペットにしているとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你的主人抚摸另一只猫时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你的主人撫摸另一隻貓時"
+    }
+  ]
 }
