@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チョウゲンボウの雛をジャコウネコから救出し、猛禽類の箱に保護装置を取り付ける。"
+    },
+    {
+      "locale": "zh",
+      "title": "人从豺狼手中救出红隼雏鸟，并在猛禽箱上安装了保护装置。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人從豺狼手中救出紅隼雛鳥，並在猛禽箱上安裝了保護裝置。"
+    }
+  ]
 }
