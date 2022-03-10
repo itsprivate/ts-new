@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近、非公開にすべきことが過剰に共有されていると思うのですが、いかがでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为这些天有哪些东西被过度分享，而这些东西应该保持隐私？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲這些天有哪些東西被過度分享，而這些東西應該保持隱私？"
+    }
+  ]
 }
