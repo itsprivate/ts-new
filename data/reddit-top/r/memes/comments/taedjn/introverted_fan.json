@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "内向的なファン"
+    },
+    {
+      "locale": "zh",
+      "title": "内向型粉丝"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "內向型粉絲"
+    }
+  ]
 }
