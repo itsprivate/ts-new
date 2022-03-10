@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パンデミックのとき、「ああ、しばらくはここにいるんだな」と実感したのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在大流行病期间，是什么让你意识到 \"是的，我们将在这里呆上一段时间？\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在大流行病期間，是什麼讓你意識到 \"是的，我們將在這裏呆上一段時間？\""
+    }
+  ]
 }
