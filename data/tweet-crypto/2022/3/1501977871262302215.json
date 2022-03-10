@@ -74,5 +74,22 @@
     "retweet_count": 330,
     "favorite_count": 2018,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @NorthmanTrader: 笑、始まりますね。\n\nhttps://t.co/IQ0t4BF49g",
+      "retweeted_status_full_text": "笑）始まります。\n\nhttps://t.co/IQ0t4BF49g"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @NorthmanTrader: lol, it begins.\n\nhttps://t.co/IQ0t4BF49g",
+      "retweeted_status_full_text": "lol, it begins.\n\nhttps://t.co/IQ0t4BF49g"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @NorthmanTrader: lol, it begins.\n\nhttps://t.co/IQ0t4BF49g",
+      "retweeted_status_full_text": "lol, it begins.\n\nhttps://t.co/IQ0t4BF49g"
+    }
+  ]
 }
