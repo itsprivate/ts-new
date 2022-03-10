@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アニメを見る時間、ゲームをする時間"
+    },
+    {
+      "locale": "zh",
+      "title": "看动画片或玩电子游戏的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看動畫片或玩電子遊戲的時間"
+    }
+  ]
 }
