@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-07T17:52:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QpER1UIc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3dhjdeyh75mzlfv2g0q7.jpg",
   "author": "BekahHW",
-  "author_url": "https://dev.to/bekahhw"
+  "author_url": "https://dev.to/bekahhw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "文章や技術文書を作成するための開発者向けガイドです。",
+      "title": "テクニカルライティング ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "开发者创建书面和技术文档的指南。",
+      "title": "技术写作。初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發者創建書面和技術文檔的指南。",
+      "title": "技術寫作。初學者指南"
+    }
+  ]
 }
