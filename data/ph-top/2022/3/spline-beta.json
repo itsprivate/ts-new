@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-10T11:00:00Z"
+  "original_createdAt": "2022-03-10T11:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Splineはフレンドリーなリアルタイム・コラボレーション3Dデザインツール/アプリです。ブラウザで動作し、Mac/Win/Linuxでも動作します。私たちの目標は、3D を簡単にすることです!",
+      "tagline": "3Dでデザインし、コラボレーションする"
+    },
+    {
+      "locale": "zh",
+      "description": "👋 Spline是一个友好的实时协作3D设计工具/应用程序。🥕 它在浏览器中工作，也适用于Mac/Win/Linux。🎨 我们的目标是让3D变得简单",
+      "tagline": "在3D中设计和合作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "👋 Spline是一個友好的實時協作3D設計工具/應用程序。🥕 它在瀏覽器中工作，也適用於Mac/Win/Linux。🎨 我們的目標是讓3D變得簡單",
+      "tagline": "在3D中設計和合作"
+    }
+  ]
 }
