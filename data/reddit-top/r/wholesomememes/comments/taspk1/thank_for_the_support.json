@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "応援ありがとうございました。"
+    },
+    {
+      "locale": "zh",
+      "title": "谢谢你的支持。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "謝謝你的支持。"
+    }
+  ]
 }
