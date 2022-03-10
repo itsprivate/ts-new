@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-24T01:39:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KoZsgb2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eni908xa8i6l6x6kkeyf.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回のDeepgram×DEVハッカソンでは、誰もが楽しめる内容になっています。ぜひ、ご参加ください。",
+      "title": "Deepgramがお届けする、DEVの新しいハッカソンにご参加ください。"
+    },
+    {
+      "locale": "zh",
+      "description": "这次Deepgram x DEV黑客马拉松为每个人都准备了东西。我们希望你能加入这个行列",
+      "title": "加入我们，参加DEV上的新型黑客马拉松--由Deepgram为您带来！您可以在Deepgram的网站上找到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這次Deepgram x DEV黑客馬拉松爲每個人都準備了東西。我們希望你能加入這個行列",
+      "title": "加入我們，參加DEV上的新型黑客馬拉松--由Deepgram爲您帶來！您可以在Deepgram的網站上找到。"
+    }
+  ]
 }
