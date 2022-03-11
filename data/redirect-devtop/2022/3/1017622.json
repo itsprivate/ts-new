@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-09T18:03:00Z",
   "image": "https://dev.to/social_previews/article/1017622.png",
   "author": "Rajat Gupta",
-  "author_url": "https://dev.to/therajatg"
+  "author_url": "https://dev.to/therajatg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これだけは理解してください。ビューがレンダリングされた後に何かをするために useEffect を使用しています。  さて、それでは...",
+      "title": "react.内のuseEffectを使用します。知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "只了解这一点。我们使用useEffect在视图被渲染后做一些事情。  现在，让我们...",
+      "title": "react中的useEffect。你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只瞭解這一點。我們使用useEffect在視圖被渲染後做一些事情。  現在，讓我們...",
+      "title": "react中的useEffect。你需要知道的一切"
+    }
+  ]
 }
