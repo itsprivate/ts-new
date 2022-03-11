@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-11T02:06:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--476eWd62--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ftx134hc3ppm0ay548y.jpg",
   "author": "William Queiroz",
-  "author_url": "https://dev.to/wnqueiroz"
+  "author_url": "https://dev.to/wnqueiroz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Ferenc Almasi on Unsplash Summary Introduction ソフトウェア品質 なぜ、私は...",
+      "title": "単体テスト。基礎とソフトウェア品質!"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Ferenc Almasi on Unsplash 摘要 简介 软件质量 我为什么要...",
+      "title": "单元测试。基础知识和软件质量!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Ferenc Almasi on Unsplash 摘要 簡介 軟件質量 我爲什麼要...",
+      "title": "單元測試。基礎知識和軟件質量!"
+    }
+  ]
 }
