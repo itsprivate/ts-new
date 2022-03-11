@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのインフレ率は米ドルの5倍となり、低下している"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币的通货膨胀率现在比美元低5倍，并在不断下降"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣的通貨膨脹率現在比美元低5倍，並在不斷下降"
+    }
+  ]
 }
