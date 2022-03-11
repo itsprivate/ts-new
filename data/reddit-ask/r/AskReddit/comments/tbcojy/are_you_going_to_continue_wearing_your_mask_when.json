@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "生活する場所でマスクの義務化が解除されても、マスクをつけ続けるのですか？もしそうなら、いつまでですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你生活的地方取消口罩规定时，你还会继续戴口罩吗？如果是这样，会持续多久？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你生活的地方取消口罩規定時，你還會繼續戴口罩嗎？如果是這樣，會持續多久？"
+    }
+  ]
 }
