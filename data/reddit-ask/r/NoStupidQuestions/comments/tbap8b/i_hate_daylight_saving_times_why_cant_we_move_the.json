@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サマータイムが嫌いです。なぜ時計を30分戻して、永遠に終わらないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我讨厌日光节约时间。为什么我们不能把时钟往后移30分钟，并且永远不这样做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我討厭日光節約時間。爲什麼我們不能把時鐘往後移30分鐘，並且永遠不這樣做？"
+    }
+  ]
 }
