@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一瞬の躊躇もなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "一刻也没有犹豫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一刻也沒有猶豫"
+    }
+  ]
 }
