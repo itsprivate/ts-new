@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は母を愛しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我爱我的妈妈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我愛我的媽媽。"
+    }
+  ]
 }
