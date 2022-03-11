@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミッキー ... 猫"
+    },
+    {
+      "locale": "zh",
+      "title": "米奇 ... 貓咪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "米奇 ... 貓咪"
+    }
+  ]
 }
