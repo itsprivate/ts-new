@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I'm just curious don't come after me. Genuine question."
+  "the_new_excerpt": "I'm just curious don't come after me. Genuine question.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ちょっと気になっただけだ......追及しないでくれ。純粋な疑問です。",
+      "title": "なぜ無害な薬物が発明できないのか？素晴らしい気分にさせるが、全く無害なドーパミン注射のように？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我只是好奇，不要来找我。真正的问题。",
+      "title": "为什么我们不能发明无害的药物？像多巴胺注射剂，让你感觉很好，但完全无害？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我只是好奇，不要來找我。真正的問題。",
+      "title": "爲什麼我們不能發明無害的藥物？像多巴胺注射劑，讓你感覺很好，但完全無害？"
+    }
+  ]
 }
