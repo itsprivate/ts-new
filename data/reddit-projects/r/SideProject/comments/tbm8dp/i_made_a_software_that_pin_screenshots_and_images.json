@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スクリーンショットや画像をコンピュータの画面にピン留めするソフトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个软件，可以把截图和图片钉在电脑屏幕上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個軟件，可以把截圖和圖片釘在電腦屏幕上"
+    }
+  ]
 }
