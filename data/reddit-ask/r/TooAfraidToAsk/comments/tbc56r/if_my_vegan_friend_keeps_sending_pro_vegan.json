@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、私のビーガンの友人がビーガン向けのコンテンツを送り続けた場合、私は肉向けのコンテンツを送り返すことができますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我的素食主义者朋友一直发送支持素食主义者的内容，我可以发回支持肉类的内容吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我的素食主義者朋友一直髮送支持素食主義者的內容，我可以發回支持肉類的內容嗎？"
+    }
+  ]
 }

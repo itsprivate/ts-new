@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポリゴンネットワークがダウンしています..."
+    },
+    {
+      "locale": "zh",
+      "title": "Polygon网络瘫痪了..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Polygon網絡癱瘓了..."
+    }
+  ]
 }
