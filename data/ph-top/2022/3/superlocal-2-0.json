@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-11T08:01:00Z"
+  "original_createdAt": "2022-03-11T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スーパーローカルは、場所に行くと暗号とNFTを獲得できるソーシャルネットワークです。チェックインして、投稿し、実際の報酬を得ることができます。",
+      "tagline": "暗号を獲得し、場所に行くとNFTを収集する"
+    },
+    {
+      "locale": "zh",
+      "description": "Superlocal是一个社交网络，让你在去一些地方时赚取加密货币和NFTs。你签到，提交你的帖子，并获得真正的奖励。",
+      "tagline": "在你去的地方赚取加密货币并收集NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Superlocal是一個社交網絡，讓你在去一些地方時賺取加密貨幣和NFTs。你簽到，提交你的帖子，並獲得真正的獎勵。",
+      "tagline": "在你去的地方賺取加密貨幣並收集NFTs"
+    }
+  ]
 }
