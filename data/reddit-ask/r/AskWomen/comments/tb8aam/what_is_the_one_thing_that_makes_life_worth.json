@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたにとって生きがいとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对你来说，使生活有价值的一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對你來說，使生活有價值的一件事是什麼？"
+    }
+  ]
 }
