@@ -45,5 +45,22 @@
   "original_created_at": "2022-02-23T10:16:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HOPJoTdk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tarqa6l9d8e3t0t9j52d.png",
   "author": "mohsen",
-  "author_url": "https://dev.to/mohsenkamrani"
+  "author_url": "https://dev.to/mohsenkamrani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "データベースは、実世界のほとんどのソフトウェアシステムの心臓部であり、その選択に際しては、...",
+      "title": "HerokuデータベースとAWS RDSの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "数据库是几乎所有现实世界的软件系统的核心，而当涉及到选择...",
+      "title": "Heroku数据库VS AWS RDS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數據庫是幾乎所有現實世界的軟件系統的核心，而當涉及到選擇...",
+      "title": "Heroku數據庫VS AWS RDS"
+    }
+  ]
 }
