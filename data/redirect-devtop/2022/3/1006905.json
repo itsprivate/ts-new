@@ -57,5 +57,22 @@
   "original_created_at": "2022-03-02T22:00:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OC23xU55--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uzxsqlcl4qonl0p6344o.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVのDeepgramハッカソンで何かお困りのことがありましたら、こちらにコメントください。",
+      "title": "Deepgram x DEV Hackathon ヘルプスレッド"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在Deepgram黑客马拉松期间需要任何帮助，请在此评论DEV!",
+      "title": "Deepgram x DEV黑客马拉松帮助主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在Deepgram黑客馬拉松期間需要任何幫助，請在此評論DEV!",
+      "title": "Deepgram x DEV黑客馬拉松幫助主題"
+    }
+  ]
 }
