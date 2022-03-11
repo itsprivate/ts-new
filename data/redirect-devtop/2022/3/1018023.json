@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-10T03:51:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jRaQMiWc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0d8y2cf5ro0gfom89vp.png",
   "author": "Abayomi Ogunnusi",
-  "author_url": "https://dev.to/drsimplegraffiti"
+  "author_url": "https://dev.to/drsimplegraffiti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "console.logは、JavaScript開発者が使うデバッグの武器、ロガーの一つです。コンソール・ログは...",
+      "title": "本番モードからconsole.logを削除する"
+    },
+    {
+      "locale": "zh",
+      "description": "console.log是我们作为javascript开发者使用的调试武器或记录器之一。控制台.日志...",
+      "title": "移除控制台.l"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "console.log是我們作爲javascript開發者使用的調試武器或記錄器之一。控制檯.日誌...",
+      "title": "移除控制檯.l"
+    }
+  ]
 }
