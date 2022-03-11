@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この子はヘアデザインの才能がある"
+    },
+    {
+      "locale": "zh",
+      "title": "这个女孩很有才华，做发型设计"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個女孩很有才華，做髮型設計"
+    }
+  ]
 }
