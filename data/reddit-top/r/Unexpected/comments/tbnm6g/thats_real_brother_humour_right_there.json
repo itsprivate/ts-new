@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これぞ、\"リアルブラザー \"のユーモアですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是真正的兄弟幽默，就在那里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是真正的兄弟幽默，就在那裏。"
+    }
+  ]
 }
