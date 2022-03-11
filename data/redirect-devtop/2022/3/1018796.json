@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-10T19:16:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2CvoLTCN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u0jnqo3yreb8mmcq8rme.png",
   "author": "Kathryn Grayson Nanz",
-  "author_url": "https://dev.to/kathryngrayson"
+  "author_url": "https://dev.to/kathryngrayson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React 18の最終リリースは数週間後に迫っています。",
+      "title": "React 18 RCについて知っておくべきすべてのこと"
+    },
+    {
+      "locale": "zh",
+      "description": "再过几周，React 18的最终版本就要发布了--是时候准备好了。",
+      "title": "关于React 18 RC你需要知道的一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "再過幾周，React 18的最終版本就要發佈了--是時候準備好了。",
+      "title": "關於React 18 RC你需要知道的一切"
+    }
+  ]
 }
