@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCのインフレ率は、現在、USDのインフレ率の5倍になっています。1.7％対7.9"
+    },
+    {
+      "locale": "zh",
+      "title": "BTC通胀率现在比美元通胀率低5倍。1.7% vs 7.9%"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BTC通脹率現在比美元通脹率低5倍。1.7% vs 7.9%"
+    }
+  ]
 }
