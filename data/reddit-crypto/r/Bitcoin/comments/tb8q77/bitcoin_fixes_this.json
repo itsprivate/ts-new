@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "#ビットコインはこれを解決する"
+    },
+    {
+      "locale": "zh",
+      "title": "#比特币解决了这个问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "#比特幣解決了這個問題"
+    }
+  ]
 }
