@@ -93,5 +93,22 @@
       "retweet_count": 1774,
       "favorite_count": 8086
     }
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Timcast: DuckDuckGo、たった1つのツイートで唯一の価値提案をぶち壊す",
+      "retweeted_status_full_text": "DuckDuckGo、たった1つのツイートで唯一の価値観を破壊 https://t.co/eh8nHsw8po"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Timcast: DuckDuckGo用一条推特破坏了他们唯一的价值主张",
+      "retweeted_status_full_text": "DuckDuckGo用一条推特毁掉了他们唯一的价值主张 https://t.co/eh8nHsw8po"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Timcast: DuckDuckGo用一條推特破壞了他們唯一的價值主張",
+      "retweeted_status_full_text": "DuckDuckGo用一條推特毀掉了他們唯一的價值主張 https://t.co/eh8nHsw8po"
+    }
+  ]
 }

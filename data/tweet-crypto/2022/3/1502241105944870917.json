@@ -150,5 +150,22 @@
     "retweet_count": 266,
     "favorite_count": 1639,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Dennis_Porter_: ビットコインの採掘前と採掘後。 https://t.co/96V8HFKiCG",
+      "retweeted_status_full_text": "ビフォーアフター #ビットコインマイニング https://t.co/96V8HFKiCG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Dennis_Porter_: 在#比特币开采之前和之后。https://t.co/96V8HFKiCG",
+      "retweeted_status_full_text": "在#比特币开采前后。https://t.co/96V8HFKiCG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Dennis_Porter_: 在#比特幣開採之前和之後。https://t.co/96V8HFKiCG",
+      "retweeted_status_full_text": "在#比特幣開採前後。https://t.co/96V8HFKiCG"
+    }
+  ]
 }
