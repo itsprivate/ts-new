@@ -1,0 +1,97 @@
+{
+  "created_at": "Fri Mar 11 12:55:54 +0000 2022",
+  "id_str": "1502217454352805888",
+  "full_text": "RT @Timcast: DuckDuckGo destroys their only value proposition with a single tweet",
+  "display_text_range": [
+    0,
+    81
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Timcast",
+        "name": "Tim Pool",
+        "id": 27000730,
+        "id_str": "27000730",
+        "indices": [
+          3,
+          11
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 4749,
+  "favorite_count": 0,
+  "original_created_at": "Fri Mar 11 09:38:45 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Thu Mar 10 18:15:39 +0000 2022",
+    "id_str": "1501985147469639683",
+    "full_text": "DuckDuckGo destroys their only value proposition with a single tweet https://t.co/eh8nHsw8po",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/eh8nHsw8po",
+          "expanded_url": "https://twitter.com/yegg/status/1501716484761997318",
+          "display_url": "twitter.com/yegg/status/15…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Tim Pool",
+      "screen_name": "Timcast",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1445446333762916354/3XUgveAY_normal.jpg"
+    },
+    "retweet_count": 4749,
+    "favorite_count": 28793,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Thu Mar 10 00:28:05 +0000 2022",
+      "id_str": "1501716484761997318",
+      "full_text": "Like so many others I am sickened by Russia’s invasion of Ukraine and the gigantic humanitarian crisis it continues to create. #StandWithUkraine️\n\nAt DuckDuckGo, we've been rolling out search updates that down-rank sites associated with Russian disinformation.",
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "StandWithUkraine️",
+            "indices": [
+              127,
+              145
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "user": {
+        "name": "Gabriel Weinberg",
+        "screen_name": "yegg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/949433688202326017/Cc4K_zku_normal.jpg"
+      },
+      "retweet_count": 1774,
+      "favorite_count": 8086
+    }
+  }
+}
