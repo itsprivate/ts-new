@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在の状況"
+    },
+    {
+      "locale": "zh",
+      "title": "目前的状况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "目前的狀況"
+    }
+  ]
 }
