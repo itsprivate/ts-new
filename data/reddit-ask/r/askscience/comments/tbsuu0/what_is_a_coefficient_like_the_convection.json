@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "係数とは何ですか？ 対流熱伝達率や抗力係数のようなものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是系数？ 比如对流传热系数和阻力系数。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是係數？ 比如對流傳熱係數和阻力系數。"
+    }
+  ]
 }
