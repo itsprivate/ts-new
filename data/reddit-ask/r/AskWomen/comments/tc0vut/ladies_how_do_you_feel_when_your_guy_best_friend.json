@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Feel free to rant"
+  "the_new_excerpt": "Feel free to rant",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自由に発言してください",
+      "title": "女性の皆さん、男の親友に断られた後、一切の連絡を絶たれたら、どう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "随意咆哮",
+      "title": "女士们，当你的男闺蜜在你拒绝他之后切断了与你的所有联系，你会有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "隨意咆哮",
+      "title": "女士們，當你的男閨蜜在你拒絕他之後切斷了與你的所有聯繫，你會有什麼感覺？"
+    }
+  ]
 }
