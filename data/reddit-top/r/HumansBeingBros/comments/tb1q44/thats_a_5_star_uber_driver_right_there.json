@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さすがは5つ星のユーバードライバーですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个五星级的uber司机，就在那里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個五星級的uber司機，就在那裏。"
+    }
+  ]
 }
