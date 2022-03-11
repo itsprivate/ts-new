@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も役に立たないスキルは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你拥有的最无用的技能是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你擁有的最無用的技能是什麼？"
+    }
+  ]
 }
