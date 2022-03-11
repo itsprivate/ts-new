@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-10T16:08:16Z",
   "image": "https://dev.to/social_previews/article/1018555.png",
   "author": "Konnor Rogers",
-  "author_url": "https://dev.to/paramagicdev"
+  "author_url": "https://dev.to/paramagicdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Railsアプリに忍び寄るあるパターンを見てきました。そのパターンとは、以下のようなケースです。",
+      "title": "従来のRailsフォームからの脱却"
+    },
+    {
+      "locale": "zh",
+      "description": "我在Rails应用程序中看到了一种模式。这种模式是，在有些情况下，...",
+      "title": "摆脱传统的Rails形式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在Rails應用程序中看到了一種模式。這種模式是，在有些情況下，...",
+      "title": "擺脫傳統的Rails形式"
+    }
+  ]
 }
