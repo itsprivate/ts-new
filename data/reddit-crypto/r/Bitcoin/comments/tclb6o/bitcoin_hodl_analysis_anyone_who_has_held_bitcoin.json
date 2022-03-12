@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインHODL分析。ビットコインを少なくとも3年以上保有している人は、100％プラスのリターン期間しか見ていない"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币HODL分析。任何持有比特币至少3年的人都只看到100%的正回报期"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣HODL分析。任何持有比特幣至少3年的人都只看到100%的正回報期"
+    }
+  ]
 }
