@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-09T13:56:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTq9MxPr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mlc92fpwou8lcry7iv9g.png",
   "author": "Johannes Kettmann",
-  "author_url": "https://dev.to/jkettmann"
+  "author_url": "https://dev.to/jkettmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このガイドでは、人気のある技術スタックを使用して、新しいReactアプリを作成する方法を説明します。Next.js、TypeScript、ESLint、Prettier、styled-components、Cypress、Storybookといった人気の技術スタックを使って、新しいReactアプリを作る方法を説明します。",
+      "title": "プロフェッショナルなReactプロジェクトの立ち上げ方(スクリーンキャスト含む)"
+    },
+    {
+      "locale": "zh",
+      "description": "本指南解释了如何使用流行的技术栈创建一个新的React应用程序。Next.js, TypeScript, ESLint, Prettier, styled-components, Cypress, Storybook.",
+      "title": "如何建立一个专业的React项目（包括截屏）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本指南解釋瞭如何使用流行的技術棧創建一個新的React應用程序。Next.js, TypeScript, ESLint, Prettier, styled-components, Cypress, Storybook.",
+      "title": "如何建立一個專業的React項目（包括截屏）。"
+    }
+  ]
 }
