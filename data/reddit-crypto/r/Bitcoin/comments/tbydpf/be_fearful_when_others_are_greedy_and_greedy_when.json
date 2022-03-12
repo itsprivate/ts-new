@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "他人が貪欲なときは恐れ、他人が恐れているときは貪欲になれ。"
+    },
+    {
+      "locale": "zh",
+      "title": "在别人贪婪的时候要恐惧，在别人恐惧的时候要贪婪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在別人貪婪的時候要恐懼，在別人恐懼的時候要貪婪。"
+    }
+  ]
 }
