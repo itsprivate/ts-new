@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナは、受け取った約1億ドルの暗号寄付金を防弾チョッキ、ヘルメット、食料などの購入に充てたという。"
+    },
+    {
+      "locale": "zh",
+      "title": "乌克兰表示，它已将收到的近1亿美元的加密货币捐款用于购买防弹衣、头盔、食品等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏克蘭表示，它已將收到的近1億美元的加密貨幣捐款用於購買防彈衣、頭盔、食品等。"
+    }
+  ]
 }

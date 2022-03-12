@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはこの瞬間のために作られた。では、なぜブームになっていないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币是为这一时刻而生的。那么，为什么它没有蓬勃发展呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣是爲這一時刻而生的。那麼，爲什麼它沒有蓬勃發展呢？"
+    }
+  ]
 }
