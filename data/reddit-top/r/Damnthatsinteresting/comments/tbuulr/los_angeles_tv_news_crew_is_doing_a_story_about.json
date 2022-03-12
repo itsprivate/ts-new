@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロサンゼルスのTVニュースクルーが、この地域で最も危険な交差点について取材中、ライブ中に事故を目撃する"
+    },
+    {
+      "locale": "zh",
+      "title": "洛杉矶电视新闻组正在做一个关于该地区最危险的十字路口的报道，并在现场目睹了一场事故。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "洛杉磯電視新聞組正在做一個關於該地區最危險的十字路口的報道，並在現場目睹了一場事故。"
+    }
+  ]
 }
