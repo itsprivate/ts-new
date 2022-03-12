@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-12T08:01:00Z"
+  "original_createdAt": "2022-03-12T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FSNotesは、macOSとiOSのためのモダンなメモマネージャです。GitHub Flavored Markdownのようなオープンなフォーマットを尊重しているので、iPhoneやMacBookで簡単に文書を書くことができます。",
+      "tagline": "生活を便利にするメモ帳"
+    },
+    {
+      "locale": "zh",
+      "description": "FSNotes是适用于MacOS和iOS的现代笔记管理器。这款应用尊重GitHub Flavored Markdown等开放格式，因此你可以在iPhone和MacBook上轻松地编写文档。",
+      "tagline": "笔记管理器使你的生活更轻松"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FSNotes是適用於MacOS和iOS的現代筆記管理器。這款應用尊重GitHub Flavored Markdown等開放格式，因此你可以在iPhone和MacBook上輕鬆地編寫文檔。",
+      "tagline": "筆記管理器使你的生活更輕鬆"
+    }
+  ]
 }
