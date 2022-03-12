@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-09T18:17:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UZtt0Nsi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.antjanus.com/images/react-banner.jpg",
   "author": "Antonin Januska",
-  "author_url": "https://dev.to/antjanus"
+  "author_url": "https://dev.to/antjanus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の非常に意見の多いReact Componentのウォークスルーです。",
+      "title": "私が理想とするReactコンポーネントの解剖学"
+    },
+    {
+      "locale": "zh",
+      "description": "我非常有主见的React组件的演练。",
+      "title": "我理想中的React组件的剖析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我非常有主見的React組件的演練。",
+      "title": "我理想中的React組件的剖析"
+    }
+  ]
 }
