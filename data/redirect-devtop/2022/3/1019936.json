@@ -53,5 +53,22 @@
   "original_created_at": "2022-03-11T19:34:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pyDLAPme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cl.ly/188e843c2985/download/Image%25202019-02-15%2520at%25202.36.37%2520PM.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ミーティングに時間通りに参加できたか？新しいプロジェクトを開始しましたか？厄介なバグを修正しましたか？",
+      "title": "今週の勝因は？"
+    },
+    {
+      "locale": "zh",
+      "description": "能否按时参加所有的会议？开始了一个新项目？修复了一个棘手的错误？",
+      "title": "本周你的胜利是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "能否按時參加所有的會議？開始了一個新項目？修復了一個棘手的錯誤？",
+      "title": "本週你的勝利是什麼？"
+    }
+  ]
 }
