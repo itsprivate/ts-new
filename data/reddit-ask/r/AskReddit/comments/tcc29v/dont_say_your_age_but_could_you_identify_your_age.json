@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を言わずに、好きなおもちゃやテレビ番組を言って、あなたの年齢を特定することができますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "不要说你的年龄，但你可以通过说你最喜欢的玩具或电视节目来确定你的年龄吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要說你的年齡，但你可以通過說你最喜歡的玩具或電視節目來確定你的年齡嗎？"
+    }
+  ]
 }
