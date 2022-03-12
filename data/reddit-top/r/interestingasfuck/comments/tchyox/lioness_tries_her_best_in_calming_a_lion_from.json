@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライオンと目を合わせていた飼育係に襲いかかるライオンを、懸命になだめる雌ライオンの姿。"
+    },
+    {
+      "locale": "zh",
+      "title": "母狮尽力安抚一只狮子，不让它攻击正在与狮子进行眼神交流的动物园管理员。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "母獅盡力安撫一隻獅子，不讓它攻擊正在與獅子進行眼神交流的動物園管理員。"
+    }
+  ]
 }
