@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人手不足を解消!"
+    },
+    {
+      "locale": "zh",
+      "title": "没有劳动力短缺!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有勞動力短缺!"
+    }
+  ]
 }
