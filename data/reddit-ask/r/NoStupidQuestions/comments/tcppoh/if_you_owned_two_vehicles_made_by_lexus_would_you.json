@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたがレクサス製のクルマを2台持っていたら、レクサスを2台持つのか、レクシィを2台持つのか、どちらでしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你拥有两辆雷克萨斯制造的汽车，那么你是拥有两辆雷克萨斯还是两辆雷克萨斯？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你擁有兩輛雷克薩斯製造的汽車，那麼你是擁有兩輛雷克薩斯還是兩輛雷克薩斯？"
+    }
+  ]
 }
