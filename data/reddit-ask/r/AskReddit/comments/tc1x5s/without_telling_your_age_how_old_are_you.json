@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を告げずに、あなたは何歳ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "不说你的年龄，你多大了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不說你的年齡，你多大了？"
+    }
+  ]
 }
