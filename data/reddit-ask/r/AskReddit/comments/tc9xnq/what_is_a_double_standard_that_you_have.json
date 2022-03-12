@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男として経験したことで、女だったら大丈夫と思われるダブルスタンダードは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你作为一个男人所经历的双重标准，但如果你是一个女孩，则被视为没有问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你作爲一個男人所經歷的雙重標準，但如果你是一個女孩，則被視爲沒有問題？"
+    }
+  ]
 }
