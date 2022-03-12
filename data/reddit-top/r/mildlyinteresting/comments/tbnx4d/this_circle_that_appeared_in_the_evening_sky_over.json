@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国・北京の夕空に現れたこの円は"
+    },
+    {
+      "locale": "zh",
+      "title": "这个出现在中国北京晚间天空的圆圈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個出現在中國北京晚間天空的圓圈"
+    }
+  ]
 }
