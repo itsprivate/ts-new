@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-12T08:10:58Z"
+  "original_createdAt": "2022-03-12T08:10:58Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "システムは、世界のあらゆるものが他のあらゆるものとどのように関連しているかを説明することを目的とした、無料、オープン、かつ生きた公的リソースです。以下はその概要です。https://about.system.com/about/overview",
+      "tagline": "世界のあらゆるものが、他のあらゆるものとどのように関係しているのか"
+    },
+    {
+      "locale": "zh",
+      "description": "系统是一个免费、开放和活生生的公共资源，旨在解释世界上任何事物与其他事物的关系。这里有一个概述：https://about.system.com/about/overview",
+      "tagline": "世界上的任何事物都与其他事物有关系"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "系統是一個免費、開放和活生生的公共資源，旨在解釋世界上任何事物與其他事物的關係。這裏有一個概述：https://about.system.com/about/overview",
+      "tagline": "世界上的任何事物都與其他事物有關係"
+    }
+  ]
 }

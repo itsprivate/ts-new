@@ -48,5 +48,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "MetaMask users are being sent KYC emails, asking customers to verify their\nidentity otherwise their account will be closed. THESE EMAILS ARE A PHISHING\nATTEMPT.\n\nAn example of the…"
+  "the_new_excerpt": "MetaMask users are being sent KYC emails, asking customers to verify their\nidentity otherwise their account will be closed. THESE EMAILS ARE A PHISHING\nATTEMPT.\n\nAn example of the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "MetaMaskのユーザーにはKYCメールが送信され、顧客確認を求めています。\nを確認しないと口座が閉鎖されます。これらの電子メールはフィッシングです。\nATTEMPT（攻撃）。\n\n例...",
+      "title": "MetaMaskの詐欺にご注意ください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "MetaMask的用户正在被发送KYC电子邮件，要求客户验证他们的身份，否则他们的账户将被关闭。\n否则他们的账户将被关闭。这些电子邮件是一种网络钓鱼\n企图。\n\n一个例子是...",
+      "title": "警惕这个MetaMask骗局"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "MetaMask的用戶正在被髮送KYC電子郵件，要求客戶驗證他們的身份，否則他們的賬戶將被關閉。\n否則他們的賬戶將被關閉。這些電子郵件是一種網絡釣魚\n企圖。\n\n一個例子是...",
+      "title": "警惕這個MetaMask騙局"
+    }
+  ]
 }
