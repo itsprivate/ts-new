@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-12T01:45:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s_9Um6vD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c8msios5o00tv2jgpbro.png",
   "author": "Peter Kelvin Torver",
-  "author_url": "https://dev.to/techfortified"
+  "author_url": "https://dev.to/techfortified",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは、リアルタイムデータストリーミングが最重要視される世界に生きています。リアルタイム・データ・ストリーミングは...",
+      "title": "react.jsとnode.jsによるサーバ送信イベント(SSE)を用いたリアルタイムデータストリーミング"
+    },
+    {
+      "locale": "zh",
+      "description": "我们生活在一个实时数据流已成为最重要的世界中。实时数据流已经...",
+      "title": "使用react.js和node.js的服务器发送事件（SSE）的实时数据流"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們生活在一個實時數據流已成爲最重要的世界中。實時數據流已經...",
+      "title": "使用react.js和node.js的服務器發送事件（SSE）的實時數據流"
+    }
+  ]
 }
