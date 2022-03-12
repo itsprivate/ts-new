@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-12T10:14:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_By_wkkZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gn0n77iq86vmcvvvercu.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React上で作られた、モダンで目を引くUIキットの厳選リストです。すべての製品は無料かつオープンソースです。",
+      "title": "React UI Kits - オープンソースとフリーソフト"
+    },
+    {
+      "locale": "zh",
+      "description": "在React的基础上，精心策划了一个现代、醒目的UI工具包的列表。所有产品都是免费和开源的。",
+      "title": "React UI工具包 - 开源的和免费的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React的基礎上，精心策劃了一個現代、醒目的UI工具包的列表。所有產品都是免費和開源的。",
+      "title": "React UI工具包 - 開源的和免費的"
+    }
+  ]
 }
