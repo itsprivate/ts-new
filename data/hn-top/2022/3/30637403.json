@@ -12,5 +12,19 @@
   ],
   "objectID": "30637403",
   "original_created_at": "2022-03-11T07:52:20.000Z",
-  "image": "http://jiataogu.me/style_nerf/files/pipeline_image.png"
+  "image": "http://jiataogu.me/style_nerf/files/pipeline_image.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "StyleNeRF: 高解像度画像合成のためのスタイルベース3Dアウェアジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "title": "StyleNeRF：基于风格的高分辨率图像合成的3D感知发生器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "StyleNeRF：基於風格的高分辨率圖像合成的3D感知發生器"
+    }
+  ]
 }
