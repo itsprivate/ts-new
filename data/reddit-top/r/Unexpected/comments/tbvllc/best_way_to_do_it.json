@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベストな方法です。"
+    },
+    {
+      "locale": "zh",
+      "title": "最好的方法是。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最好的方法是。"
+    }
+  ]
 }
