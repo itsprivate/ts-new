@@ -52,5 +52,22 @@
     },
     "retweet_count": 6867,
     "favorite_count": 23702
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Killa_ru: ロシア/モスクワで今何が起きているのか。かなり適当なスレッドです。",
+      "retweeted_status_full_text": "ロシア/モスクワで今何が起きているのか。かなり適当なスレッドです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Killa_ru: 俄罗斯/莫斯科正在发生什么。一个相当随机的主题。",
+      "retweeted_status_full_text": "俄罗斯/莫斯科正在发生什么。一个相当随机的主题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Killa_ru: 俄羅斯/莫斯科正在發生什麼。一個相當隨機的主題。",
+      "retweeted_status_full_text": "俄羅斯/莫斯科正在發生什麼。一個相當隨機的主題。"
+    }
+  ]
 }

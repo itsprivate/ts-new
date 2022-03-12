@@ -134,5 +134,22 @@
     "retweet_count": 1771,
     "favorite_count": 7312,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Rothmus: ロン・ポールは正しかった。https://t.co/cHGyOYc7I6",
+      "retweeted_status_full_text": "ロン・ポールは正しかった。https://t.co/cHGyOYc7I6"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Rothmus: 罗恩-保罗是对的。https://t.co/cHGyOYc7I6",
+      "retweeted_status_full_text": "罗恩-保罗是对的。https://t.co/cHGyOYc7I6"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Rothmus: 羅恩-保羅是對的。https://t.co/cHGyOYc7I6",
+      "retweeted_status_full_text": "羅恩-保羅是對的。https://t.co/cHGyOYc7I6"
+    }
+  ]
 }
