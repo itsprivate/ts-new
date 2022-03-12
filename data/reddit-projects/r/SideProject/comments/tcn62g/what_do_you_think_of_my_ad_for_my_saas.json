@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のサースの広告をご覧になって、どう思われますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你觉得我的Saas广告怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你覺得我的Saas廣告怎麼樣？"
+    }
+  ]
 }
