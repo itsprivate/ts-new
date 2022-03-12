@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "watchはbatch, catch, latch, matchなどと違い、なぜ「ウォッチ」と発音するのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么watch的发音是 \"手表\"，而不像batch、catch、latch、match等那样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼watch的發音是 \"手錶\"，而不像batch、catch、latch、match等那樣。"
+    }
+  ]
 }
