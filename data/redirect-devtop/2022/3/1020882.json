@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-12T22:50:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oSWaR9uv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2q4eice3wtdp6olngq5w.jpeg",
   "author": "Adam Nathaniel Davis",
-  "author_url": "https://dev.to/bytebodger"
+  "author_url": "https://dev.to/bytebodger",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは死ぬほど単純な観察ですが、ほとんど見ないので書きたかったのです...。",
+      "title": "Object.freeze()によるJavaScript定数"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个死一般的观察，我想写出来，因为我几乎从来没有看到这个...",
+      "title": "使用Object.freeze()的JavaScript常量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個死一般的觀察，我想寫出來，因爲我幾乎從來沒有看到這個...",
+      "title": "使用Object.freeze()的JavaScript常量"
+    }
+  ]
 }
