@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1000字のエッセイを書いていたら、Fキーがキーボードから外れてしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "在写1000字的文章时，我的F键决定从键盘上掉下来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在寫1000字的文章時，我的F鍵決定從鍵盤上掉下來。"
+    }
+  ]
 }
