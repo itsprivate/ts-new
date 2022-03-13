@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "蜜蜂は暗いところでは飛べない"
+    },
+    {
+      "locale": "zh",
+      "title": "蜜蜂不在黑暗中飞行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蜜蜂不在黑暗中飛行"
+    }
+  ]
 }
