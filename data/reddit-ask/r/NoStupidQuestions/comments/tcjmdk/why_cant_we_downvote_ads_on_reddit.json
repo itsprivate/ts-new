@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was just scrolling r/assholedesign [/r/assholedesign]—quite ironically—and\nfound that whenever I downvote an ad it says that it had trouble doing so and\nreverts the downvote. This happens with upvotes too.\n\nI can upvote and downvote posts just fine. I just found this ironic."
+  "the_new_excerpt": "I was just scrolling r/assholedesign [/r/assholedesign]—quite ironically—and\nfound that whenever I downvote an ad it says that it had trouble doing so and\nreverts the downvote. This happens with upvotes too.\n\nI can upvote and downvote posts just fine. I just found this ironic.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "r/assholedesign [/r/assholedesign]をスクロールしていたところ、皮肉にも\n広告にダウンヴォートすると、「ダウンヴォートするのに問題が発生しました」と表示され\nダウンボートを取り消す。これはアップヴォートでも起こります。\n\nアップヴォートもダウンヴォートも問題なくできるのですが。ただ、これは皮肉なことだと思います。",
+      "title": "なぜRedditでは広告のダウンヴォートができないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我刚刚浏览了r/assholedesign [/r/assholedesign]--颇具讽刺意味的是--发现每当我对一个广告进行降级投票时，它都会说难以做到。\n我发现，每当我给一个广告投下票的时候，它就说它在做这件事的时候遇到了麻烦，然后就恢复了投下票。\n我发现每当我对一个广告进行下调时，它就会说它在进行下调时遇到了麻烦，并将下调的内容还原。这种情况也发生在加注上。\n\n我可以正常地给帖子加注和降注。我只是觉得这很讽刺。",
+      "title": "为什么我们不能对Reddit上的广告进行降权投票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我剛剛瀏覽了r/assholedesign [/r/assholedesign]--頗具諷刺意味的是--發現每當我對一個廣告進行降級投票時，它都會說難以做到。\n我發現，每當我給一個廣告投下票的時候，它就說它在做這件事的時候遇到了麻煩，然後就恢復了投下票。\n我發現每當我對一個廣告進行下調時，它就會說它在進行下調時遇到了麻煩，並將下調的內容還原。這種情況也發生在加註上。\n\n我可以正常地給帖子加註和降注。我只是覺得這很諷刺。",
+      "title": "爲什麼我們不能對Reddit上的廣告進行降權投票？"
+    }
+  ]
 }

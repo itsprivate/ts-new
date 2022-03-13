@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レモンスクイージー!"
+    },
+    {
+      "locale": "zh",
+      "title": "柠檬榨汁!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "檸檬榨汁!"
+    }
+  ]
 }
