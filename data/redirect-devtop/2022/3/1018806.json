@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-10T20:01:37Z",
   "image": "https://dev.to/social_previews/article/1018806.png",
   "author": "Melissa Guachun ",
-  "author_url": "https://dev.to/melguachun"
+  "author_url": "https://dev.to/melguachun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "就職活動は、まるで陸の見えない大海原を漂っているような気分です。ソフトウエアに限らず...",
+      "title": "初めての開発者職で学んだこと...ここまで!"
+    },
+    {
+      "locale": "zh",
+      "description": "找工作的感觉就像你在海上漂泊，看不到陆地。作为一名软件工程师，你需要做的事情很多。",
+      "title": "我从我的第一份开发者工作中学到了什么......到目前为止!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "找工作的感覺就像你在海上漂泊，看不到陸地。作爲一名軟件工程師，你需要做的事情很多。",
+      "title": "我從我的第一份開發者工作中學到了什麼......到目前爲止!"
+    }
+  ]
 }
