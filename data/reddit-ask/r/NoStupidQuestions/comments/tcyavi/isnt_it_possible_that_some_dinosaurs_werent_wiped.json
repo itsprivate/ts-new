@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "恐竜の中には、絶滅せず、まだ人類が探検していない辺境の森に住んでいるものもいるのではないか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是不是有可能一些恐龙没有被消灭，仍然生活在我们人类还没有探索的偏远森林里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是不是有可能一些恐龍沒有被消滅，仍然生活在我們人類還沒有探索的偏遠森林裏？"
+    }
+  ]
 }
