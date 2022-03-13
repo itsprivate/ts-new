@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "怠けているのかもしれない"
+    },
+    {
+      "locale": "zh",
+      "title": "可能是他们太懒了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "可能是他們太懶了"
+    }
+  ]
 }
