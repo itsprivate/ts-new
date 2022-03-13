@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日も一日頑張ろう"
+    },
+    {
+      "locale": "zh",
+      "title": "希望这能让你过上好日子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "希望這能讓你過上好日子"
+    }
+  ]
 }
