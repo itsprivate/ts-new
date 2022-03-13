@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本当によくできたコメントの最後に「English isn't my first language」と言うのが面白いという、英語ネイティブの人たちがたくさんいるだけなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是不是有一群以英语为母语的人觉得在写得很好的评论后面说 \"英语不是我的第一语言 \"很有趣？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是不是有一羣以英語爲母語的人覺得在寫得很好的評論後面說 \"英語不是我的第一語言 \"很有趣？"
+    }
+  ]
 }
