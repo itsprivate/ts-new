@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-12T08:05:00Z"
+  "original_createdAt": "2022-03-12T08:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "静止画と動画のWEBPから変換できるツールです。",
+      "tagline": "WEBPをWEBM、MP4、GIF、PNGなどに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "这个工具允许你从静态和动画的WEBP转换。",
+      "tagline": "将WEBP转换为WEBM、MP4、GIF、PNG和更多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個工具允許你從靜態和動畫的WEBP轉換。",
+      "tagline": "將WEBP轉換爲WEBM、MP4、GIF、PNG和更多。"
+    }
+  ]
 }
