@@ -27,5 +27,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Okay, the second half of the title is slight clickbait (but true). Let me\nexplain:\n\nThere have been three different Bitcoin symbols in use since its inception. The\noriginal one was designed by Satoshi and looked like this\n[https://upload.wikimedia.org/wikipedia/commons/8/8f/Bitcoin_old.png] -…"
+  "the_new_excerpt": "Okay, the second half of the title is slight clickbait (but true). Let me\nexplain:\n\nThere have been three different Bitcoin symbols in use since its inception. The\noriginal one was designed by Satoshi and looked like this\n[https://upload.wikimedia.org/wikipedia/commons/8/8f/Bitcoin_old.png] -…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "さて、タイトルの後半は若干のクリックベイト（でも事実）です。では\nを説明します。\n\nビットコインのシンボルは、設立当初から3種類使用されています。最初の\nオリジナルのものはサトシがデザインしたもので、以下のようなものです。\n[https://upload.wikimedia.org/wikipedia/commons/8/8f/Bitcoin_old.png] -...",
+      "title": "オリジナルのBitcoinのロゴはサトシ自身がデザインしたもので、信じられないほど醜いものだったということ、そして現在のロゴはBitboyが作成したものだということをTIL"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "好吧，标题的后半部分是轻微的点击率（但真实）。让我\n解释一下。\n\n自比特币诞生以来，已经有三种不同的比特币符号在使用。最初的\n最初的符号是由中本聪设计的，看起来像这样\n[https://upload.wikimedia.org/wikipedia/commons/8/8f/Bitcoin_old.png] -...",
+      "title": "我不知道最初的比特币标志是由中本聪自己设计的，而且非常丑陋，而现在的标志是由Bitboy创造的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "好吧，標題的後半部分是輕微的點擊率（但真實）。讓我\n解釋一下。\n\n自比特幣誕生以來，已經有三種不同的比特幣符號在使用。最初的\n最初的符號是由中本聰設計的，看起來像這樣\n[https://upload.wikimedia.org/wikipedia/commons/8/8f/Bitcoin_old.png] -...",
+      "title": "我不知道最初的比特幣標誌是由中本聰自己設計的，而且非常醜陋，而現在的標誌是由Bitboy創造的。"
+    }
+  ]
 }
