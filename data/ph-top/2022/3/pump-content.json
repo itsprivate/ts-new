@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-13T08:01:00Z"
+  "original_createdAt": "2022-03-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pump Contentは、手を2回叩くことで動画の撮影を開始/停止でき（そのため、常に携帯電話から行ったり来たりする必要がなくなりました）、拍手は自動的に切り取られるようになっていますよ。",
+      "tagline": "AIで楽々コンテンツ収録"
+    },
+    {
+      "locale": "zh",
+      "description": "Pump Content允许你通过拍两下手开始/停止录制视频（所以你不再需要不断地从手机上来回走动），而且拍手会自动为你裁剪出来",
+      "tagline": "用AI轻松地记录内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pump Content允許你通過拍兩下手開始/停止錄製視頻（所以你不再需要不斷地從手機上來回走動），而且拍手會自動爲你裁剪出來",
+      "tagline": "用AI輕鬆地記錄內容"
+    }
+  ]
 }

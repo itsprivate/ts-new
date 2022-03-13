@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スタックオーバーフロー CLONE (MySQL + Sequelize + Node + React)"
+    },
+    {
+      "locale": "zh",
+      "title": "Stack Overflow CLONE（MySQL + Sequelize + Node + React）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Stack Overflow CLONE（MySQL + Sequelize + Node + React）。"
+    }
+  ]
 }
