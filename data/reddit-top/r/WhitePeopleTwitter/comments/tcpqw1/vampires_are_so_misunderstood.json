@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヴァンパイアは誤解されている"
+    },
+    {
+      "locale": "zh",
+      "title": "吸血鬼是如此被误解"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "吸血鬼是如此被誤解"
+    }
+  ]
 }
