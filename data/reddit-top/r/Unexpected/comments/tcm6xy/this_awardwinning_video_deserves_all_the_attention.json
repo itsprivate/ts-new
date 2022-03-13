@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "受賞したこの映像は、すべての注目に値します。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个获奖的视频值得所有的人关注。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個獲獎的視頻值得所有的人關注。"
+    }
+  ]
 }
