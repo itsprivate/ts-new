@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-13T08:01:00Z"
+  "original_createdAt": "2022-03-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "File dogeは、広告を一切表示せず、完全無料でファイルを共有することができます。また、あなたのプロジェクトと統合するための使いやすいAPIを提供しています。",
+      "tagline": "無制限のファイル共有サービス、アンメットメーターのAPIを使用します。"
+    },
+    {
+      "locale": "zh",
+      "description": "File doge让您轻松分享您的文件，完全免费，没有任何广告。我们还提供一个易于使用的API，以便与您的项目整合。",
+      "tagline": "无限的文件共享服务，不计费的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "File doge讓您輕鬆分享您的文件，完全免費，沒有任何廣告。我們還提供一個易於使用的API，以便與您的項目整合。",
+      "tagline": "無限的文件共享服務，不計費的API"
+    }
+  ]
 }
