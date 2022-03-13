@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "小さなプロジェクトを作りながらWeb制作を学ぶサイトを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个网站，通过制作小项目来学习网络开发"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個網站，通過製作小項目來學習網絡開發"
+    }
+  ]
 }
