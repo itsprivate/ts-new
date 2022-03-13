@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-13T08:01:00Z"
+  "original_createdAt": "2022-03-13T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Owl Linksは、btc.usのドメイン名を使用した分散型バイオリンクです。Owl リンクを作成すると、Bitcoin によって保護されている Stacks ブロックチェーンに保存されます。",
+      "tagline": "ビットコインで構築された分散型バイオリンク"
+    },
+    {
+      "locale": "zh",
+      "description": "猫头鹰链接是去中心化的生物链接，使用来自btc.us的域名。当你创建一个猫头鹰链接时，它被存储在Stacks区块链中，该区块链由比特币担保。",
+      "tagline": "去中心化的生物链接，建立在比特币之上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "貓頭鷹鏈接是去中心化的生物鏈接，使用來自btc.us的域名。當你創建一個貓頭鷹鏈接時，它被存儲在Stacks區塊鏈中，該區塊鏈由比特幣擔保。",
+      "tagline": "去中心化的生物鏈接，建立在比特幣之上"
+    }
+  ]
 }
