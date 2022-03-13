@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-11T15:20:07Z",
   "image": "https://dev.to/social_previews/article/1019635.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSと色に関する皮肉な記事",
+      "title": "CSSのカラー関数に新たな意味を与える"
+    },
+    {
+      "locale": "zh",
+      "description": "一篇关于CSS和颜色的调侃性文章",
+      "title": "赋予CSS中的颜色功能以新的含义"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一篇關於CSS和顏色的調侃性文章",
+      "title": "賦予CSS中的顏色功能以新的含義"
+    }
+  ]
 }
