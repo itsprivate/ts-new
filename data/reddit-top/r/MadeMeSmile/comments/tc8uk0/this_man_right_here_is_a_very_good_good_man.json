@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人はとても良い人です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人就在这里，是一个非常好的好人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人就在這裏，是一個非常好的好人。"
+    }
+  ]
 }
