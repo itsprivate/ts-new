@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T16:44:36Z",
   "image": "https://dev.to/social_previews/article/1021465.png",
   "author": "Muhammad Asif",
-  "author_url": "https://dev.to/muhammad_asif"
+  "author_url": "https://dev.to/muhammad_asif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブストレージとは？ウェブストレージとは、データを保存することができるブラウザの記憶場所のことです...",
+      "title": "WebストレージAPIを使いこなす"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是网络存储？网络存储是我们浏览器中的一个存储位置，可以存储数据...",
+      "title": "掌握网络存储API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是網絡存儲？網絡存儲是我們瀏覽器中的一個存儲位置，可以存儲數據...",
+      "title": "掌握網絡存儲API"
+    }
+  ]
 }
