@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EU議会、ビットコインなどの暗号の基礎となるプルーフ・オブ・ワーク機構の禁止に反対を表明"
+    },
+    {
+      "locale": "zh",
+      "title": "欧盟议会投票反对禁止比特币等加密货币的工作证明机制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歐盟議會投票反對禁止比特幣等加密貨幣的工作證明機制"
+    }
+  ]
 }
