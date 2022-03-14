@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も話題になった映画のテイクは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最有争议的电影作品是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最有爭議的電影作品是什麼？"
+    }
+  ]
 }
