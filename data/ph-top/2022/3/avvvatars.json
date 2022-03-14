@@ -66,5 +66,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-14T07:01:00Z"
+  "original_createdAt": "2022-03-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "無料で使えるオープンソースのプレースホルダーアバターデザインシステムとreactプラグインです。",
+      "tagline": "オープンソースのReact独自のUIアバターライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "免费开源的占位符头像设计系统和反应插件，适合你的项目。",
+      "tagline": "开源的React独特的UI头像库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免費開源的佔位符頭像設計系統和反應插件，適合你的項目。",
+      "tagline": "開源的React獨特的UI頭像庫"
+    }
+  ]
 }
