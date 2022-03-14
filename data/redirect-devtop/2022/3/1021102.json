@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T05:34:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L_wReloG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pqfe10lbkh7m1z3xn72u.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "複数の開発者と共同でプロジェクトを進める場合、一貫したコードスタイルを維持すること...",
+      "title": "Husky、ESLint、Prettierを使ってGitコミット時にコードを自動的にフォーマットする（9分"
+    },
+    {
+      "locale": "zh",
+      "description": "当与其他几个开发人员在一个项目上合作时，保持一致的代码风格...",
+      "title": "使用Husky、ESLint、Prettier在9分钟内自动格式化你在Git提交的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當與其他幾個開發人員在一個項目上合作時，保持一致的代碼風格...",
+      "title": "使用Husky、ESLint、Prettier在9分鐘內自動格式化你在Git提交的代碼"
+    }
+  ]
 }
