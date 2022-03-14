@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-12T11:58:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YmWmHE9K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8di3spoal8fl38u4w5oe.png",
   "author": "Carlos Cuesta",
-  "author_url": "https://dev.to/carloscuesta"
+  "author_url": "https://dev.to/carloscuesta",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アーキテクチャ決定記録は、ADRとも呼ばれ、重要なアーキテクチャの決定を、その背景や結果を含めて記録した文書である。",
+      "title": "アーキテクチャ決定記録の作成"
+    },
+    {
+      "locale": "zh",
+      "description": "架构决策记录也被称为ADR，是一份记录重要架构决策的文件，包括背景和后果。",
+      "title": "撰写架构决策记录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "架構決策記錄也被稱爲ADR，是一份記錄重要架構決策的文件，包括背景和後果。",
+      "title": "撰寫架構決策記錄"
+    }
+  ]
 }
