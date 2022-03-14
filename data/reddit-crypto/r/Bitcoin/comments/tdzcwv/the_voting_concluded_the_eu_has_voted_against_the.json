@@ -48,5 +48,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "投票が終了しました。EUは捕虜禁止に反対票を投じました。"
+    },
+    {
+      "locale": "zh",
+      "title": "投票结束。欧盟对战俘禁令投了反对票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "投票結束。歐盟對戰俘禁令投了反對票。"
+    }
+  ]
 }
