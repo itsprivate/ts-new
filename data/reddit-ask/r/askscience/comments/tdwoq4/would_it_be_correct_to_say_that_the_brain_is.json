@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある神経細胞が発火しているかしていないか、二値言語で脳が構築されていると言っていいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果说大脑是围绕着二进制语言建立的，鉴于某个神经元要么在燃烧，要么不在燃烧，这是否正确呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果說大腦是圍繞着二進制語言建立的，鑑於某個神經元要麼在燃燒，要麼不在燃燒，這是否正確呢？"
+    }
+  ]
 }
