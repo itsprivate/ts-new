@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T19:24:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zHMH0LXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zall0esj7rrcfaumlct.png",
   "author": "BestOfStuff",
-  "author_url": "https://dev.to/bestofstuff"
+  "author_url": "https://dev.to/bestofstuff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらのコーデペンのほとんどはレスポンシブなので、1倍、0.5倍、0.25倍と縮尺を変えて試してみてください ...",
+      "title": "10 GORGEOUS Web Components That You Can Freely Add To Your Projects😍️✨️."
+    },
+    {
+      "locale": "zh",
+      "description": "这些密码笔大部分都是有反应的，所以在不同的比例下尝试：1x，0.5x，0.25x。 ...",
+      "title": "10个漂亮的网络组件，你可以自由地添加到你的项目中😍️✨️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些密碼筆大部分都是有反應的，所以在不同的比例下嘗試：1x，0.5x，0.25x。 ...",
+      "title": "10個漂亮的網絡組件，你可以自由地添加到你的項目中😍️✨️"
+    }
+  ]
 }

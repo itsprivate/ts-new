@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人生は短い。こんな小さなことでも喜びを感じる。楽しんでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "生命是短暂的。像这样的小事会带来快乐。走出去，享受快乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生命是短暫的。像這樣的小事會帶來快樂。走出去，享受快樂"
+    }
+  ]
 }
