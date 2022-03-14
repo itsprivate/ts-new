@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Do you wish to read more but can't make time for it, or stay focused? I always\nwanted to read more from history's best minds. At one place - instead of\ngoogling an author every time. So I made this bot that does exactly that …"
+  "the_new_excerpt": "Do you wish to read more but can't make time for it, or stay focused? I always\nwanted to read more from history's best minds. At one place - instead of\ngoogling an author every time. So I made this bot that does exactly that …",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もっと本を読みたいと思いつつ、なかなか時間が作れない、集中力が続かないという方はいらっしゃいませんか？私はいつも\n歴史上の偉人たちの作品をもっと読みたいと思いました。1つの場所で - 代わりに\n毎回、著者をググっています。そこで、まさにそれを実現するボットを作りました ...",
+      "title": "もっと読みたいけど、集中力が続かない？そこで、こんなものを作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你是否希望读更多的书，但却无法抽出时间来，或者无法保持专注？我一直\n想多读一些历史上最优秀的人的作品。在一个地方 - 而不是\n而不是每次都在谷歌上搜索一个作者。因此，我做了这个机器人，正是这样做的 ...",
+      "title": "想读更多的书但不能保持专注？好吧，我做了这个..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你是否希望讀更多的書，但卻無法抽出時間來，或者無法保持專注？我一直\n想多讀一些歷史上最優秀的人的作品。在一個地方 - 而不是\n而不是每次都在谷歌上搜索一個作者。因此，我做了這個機器人，正是這樣做的 ...",
+      "title": "想讀更多的書但不能保持專注？好吧，我做了這個..."
+    }
+  ]
 }
