@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、すべての仕事の給料が平等で、自分の幸せだけを考えて職業を選ぶとしたら、あなたはどんな仕事をしたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果所有的工作都是同等报酬，而你只根据你的幸福感来选择职业，你会以什么为生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果所有的工作都是同等報酬，而你只根據你的幸福感來選擇職業，你會以什麼爲生？"
+    }
+  ]
 }
