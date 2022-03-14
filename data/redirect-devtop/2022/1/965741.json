@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-24T11:03:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X9D2wQDO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fjhm3pew8twv7suf3cin.png",
   "author": "Anshuman Bhardwaj",
-  "author_url": "https://dev.to/anshuman_bhardwaj"
+  "author_url": "https://dev.to/anshuman_bhardwaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "モチベーション 数週間前、私は自分の人気記事を投稿するためのTwitterボットを作っていた...",
+      "title": "Next.jsとMongoDBで10分間で独自のURL短縮ツールを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "激励 几周前，我正在开发一个Twitter机器人，以发布我的热门文章...",
+      "title": "用Next.js和MongoDB在10分钟内创建你自己的URL缩短器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "激勵 幾周前，我正在開發一個Twitter機器人，以發佈我的熱門文章...",
+      "title": "用Next.js和MongoDB在10分鐘內創建你自己的URL縮短器"
+    }
+  ]
 }

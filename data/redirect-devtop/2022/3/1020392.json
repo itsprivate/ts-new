@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-12T09:05:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Zzg0x4Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jz093l4msot8jhdfvg89.png",
   "author": "IsraelMitolu",
-  "author_url": "https://dev.to/israelmitolu"
+  "author_url": "https://dev.to/israelmitolu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このような構文に出会ったとき、自動生成されたものだと思い込んで、あまり気にしなかったことはないでしょうか。",
+      "title": "BEMメソッドを使ったよりきれいなCSSの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经遇到过这种语法，并认为它是自动生成的，而没有给它很多...",
+      "title": "使用BEM方法编写更清洁的CSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經遇到過這種語法，並認爲它是自動生成的，而沒有給它很多...",
+      "title": "使用BEM方法編寫更清潔的CSS"
+    }
+  ]
 }
