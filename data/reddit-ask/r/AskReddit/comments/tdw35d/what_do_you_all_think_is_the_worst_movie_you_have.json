@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みなさんは、今まで見た中で一番ひどい映画は何だと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "大家认为你看过的最糟糕的电影是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大家認爲你看過的最糟糕的電影是什麼？"
+    }
+  ]
 }
