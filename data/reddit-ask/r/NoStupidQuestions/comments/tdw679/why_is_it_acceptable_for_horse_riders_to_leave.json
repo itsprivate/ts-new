@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "disclaimer: I don't own a dog or a horse."
+  "the_new_excerpt": "disclaimer: I don't own a dog or a horse.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "disclaimer: 私は犬や馬を飼っていません。",
+      "title": "なぜ、馬に乗る人がトレイルに大きな糞の山を残すことは許されて、犬の散歩をする人は許されないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "免责声明：我不拥有狗或马。",
+      "title": "为什么骑马者在小径上留下大堆粪便是可以接受的，而遛狗者就不能接受？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "免責聲明：我不擁有狗或馬。",
+      "title": "爲什麼騎馬者在小徑上留下大堆糞便是可以接受的，而遛狗者就不能接受？"
+    }
+  ]
 }

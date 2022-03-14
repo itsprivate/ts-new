@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Basically, should I have the balls to ask for a salary increase if they fire me\nand then want me back?"
+  "the_new_excerpt": "Basically, should I have the balls to ask for a salary increase if they fire me\nand then want me back?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "基本的に、彼らが私を解雇した場合、私は給料の増加を要求する勇気があるべきでしょうか？\nそして、また戻ってきてほしい？",
+      "title": "会社の都合で解雇され、その後、私の仕事が本当に重要であることに気づき、戻ってきてほしいと言われた場合、給与のアップを求めるべきでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "基本上，如果他们解雇我，我应该有胆量要求加薪吗？\n然后再要我回来？",
+      "title": "如果我因为自己的原因被公司解雇，然后他们意识到我的工作真的很重要，他们希望我回来，我应该要求加薪吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "基本上，如果他們解僱我，我應該有膽量要求加薪嗎？\n然後再要我回來？",
+      "title": "如果我因爲自己的原因被公司解僱，然後他們意識到我的工作真的很重要，他們希望我回來，我應該要求加薪嗎？"
+    }
+  ]
 }
