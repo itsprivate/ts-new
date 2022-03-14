@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの配偶者が刑務所に行ったとしたら、あなたはどれくらい前に進むまで待ちますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的兄弟姐妹进了监狱，你会等他们多久，直到你继续前进？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的兄弟姐妹進了監獄，你會等他們多久，直到你繼續前進？"
+    }
+  ]
 }
