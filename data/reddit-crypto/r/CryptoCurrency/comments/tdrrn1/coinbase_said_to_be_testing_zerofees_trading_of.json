@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースがビットコイン、イーサリアム、Dogecoinの手数料ゼロの取引をテスト中と言われる - Benzinga"
+    },
+    {
+      "locale": "zh",
+      "title": "据称Coinbase正在测试比特币、以太坊、Dogecoin的零费用交易 - Benzinga"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據稱Coinbase正在測試比特幣、以太坊、Dogecoin的零費用交易 - Benzinga"
+    }
+  ]
 }
