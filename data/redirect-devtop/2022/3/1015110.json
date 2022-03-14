@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-07T21:58:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cIpxRZLe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oqy9wgjo4oxbbvogt18u.jpg",
   "author": "Henrick Tissink",
-  "author_url": "https://dev.to/htissink"
+  "author_url": "https://dev.to/htissink",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "C# through the Ages 何年も何年も前に✨、C#は古風な、OOPに焦点を当てたものに過ぎませんでした...。",
+      "title": "モダンC#で楽しむ8つのスイーツ"
+    },
+    {
+      "locale": "zh",
+      "description": "C#穿越时空 很多很多年前，C#只是一个古老的、专注于OOP的工具。",
+      "title": "现代C#中的8种甜蜜待遇"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "C#穿越時空 很多很多年前，C#只是一個古老的、專注於OOP的工具。",
+      "title": "現代C#中的8種甜蜜待遇"
+    }
+  ]
 }
