@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どの国にも国民的英雄はいますが、あなたの国の悪役は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "每个国家都有一个民族英雄，但谁是你的民族恶棍？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個國家都有一個民族英雄，但誰是你的民族惡棍？"
+    }
+  ]
 }
