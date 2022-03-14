@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-14T07:00:00Z"
+  "original_createdAt": "2022-03-14T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MyLastVideoは、ストリーマーが自分のコミュニティを最新のYouTubeビデオにリダイレクトするためのシングルURL作成ツールです。",
+      "tagline": "最新のYouTube動画へのリンクを常備する"
+    },
+    {
+      "locale": "zh",
+      "description": "MyLastVideo是一个单一的URL创建器，允许流媒体人将他们的社区重定向到他们最新的YouTube视频。",
+      "tagline": "总是有一个链接到你的最新YouTube视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MyLastVideo是一個單一的URL創建器，允許流媒體人將他們的社區重定向到他們最新的YouTube視頻。",
+      "tagline": "總是有一個鏈接到你的最新YouTube視頻"
+    }
+  ]
 }
