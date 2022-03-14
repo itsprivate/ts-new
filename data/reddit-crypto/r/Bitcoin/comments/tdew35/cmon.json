@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おいおい..."
+    },
+    {
+      "locale": "zh",
+      "title": "来吧..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來吧..."
+    }
+  ]
 }
