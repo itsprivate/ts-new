@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T09:28:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OZNli_mC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ngravxc8h78grapkash.png",
   "author": "Moscatelli Marco",
-  "author_url": "https://dev.to/moscatellimarco"
+  "author_url": "https://dev.to/moscatellimarco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちはデジタルにどっぷり浸かった世界に住んでいて、ウェブAPIが100万ドルのビジネスを生み出すこともあります。",
+      "title": "Stripe Mongoose Apiを使ってマネタイズする。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们生活在一个沉浸在数字化的世界里，一个网络应用程序就能创造出一百万美元的业务，在这个世界上，我们的生活是如此的丰富多彩。",
+      "title": "使用Stripe Mongoose Api使你的api货币化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們生活在一個沉浸在數字化的世界裏，一個網絡應用程序就能創造出一百萬美元的業務，在這個世界上，我們的生活是如此的豐富多彩。",
+      "title": "使用Stripe Mongoose Api使你的api貨幣化"
+    }
+  ]
 }
