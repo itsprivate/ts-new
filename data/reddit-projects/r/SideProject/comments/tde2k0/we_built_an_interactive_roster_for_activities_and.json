@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スプレッドシートを使うのに飽きて、活動やグループのためのインタラクティブな名簿を作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "在厌倦了使用电子表格后，我们为活动和小组建立了一个互动的名册。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在厭倦了使用電子表格後，我們爲活動和小組建立了一個互動的名冊。"
+    }
+  ]
 }
