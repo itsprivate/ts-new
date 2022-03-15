@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-15T19:10:34Z"
+  "original_createdAt": "2022-03-15T19:10:34Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UpstashはServerless RedisとKafkaをサービスとして提供しています。リクエスト単位の価格設定で、使った分だけ支払います。Redis/Kafkaのクライアントは何でも利用できます。内蔵のREST APIにより、サーバーレスやエッジ機能によるユースケースを実現します。",
+      "tagline": "RedisとKafkaのためのサーバーレスデータプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Upstash将无服务器的Redis和Kafka作为一项服务提供。通过每个请求的定价，你只需为你使用的东西付费。你可以使用任何Redis/Kafka客户端。内置的REST API可以实现无服务器和边缘功能的用例。",
+      "tagline": "用于Redis和Kafka的无服务器数据平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Upstash將無服務器的Redis和Kafka作爲一項服務提供。通過每個請求的定價，你只需爲你使用的東西付費。你可以使用任何Redis/Kafka客戶端。內置的REST API可以實現無服務器和邊緣功能的用例。",
+      "tagline": "用於Redis和Kafka的無服務器數據平臺"
+    }
+  ]
 }
