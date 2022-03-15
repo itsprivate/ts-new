@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-15T02:18:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kr8EOknr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gbwp3fmc52tiy8iheaqn.jpg",
   "author": "Min",
-  "author_url": "https://dev.to/happping_min"
+  "author_url": "https://dev.to/happping_min",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一人でやるのもいいけど...でも... もう疲れたよ...こんなクソみたいな...",
+      "title": "一人で仕事をすると疲れるので、自分でアシスタントを作りました"
+    },
+    {
+      "locale": "zh",
+      "description": "独自工作很好...但是... 我已经厌倦了处理所有这些... 这些低劣的...",
+      "title": "独自工作是如此疲惫，所以我创建了自己的助手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "獨自工作很好...但是... 我已經厭倦了處理所有這些... 這些低劣的...",
+      "title": "獨自工作是如此疲憊，所以我創建了自己的助手"
+    }
+  ]
 }
