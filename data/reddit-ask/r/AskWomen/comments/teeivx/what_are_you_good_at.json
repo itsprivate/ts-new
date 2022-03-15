@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "得意なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你擅长的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你擅長的是什麼？"
+    }
+  ]
 }
