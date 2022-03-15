@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポーリッシュボーダーでは、ウクライナの子どもたちを喜ばせるために、ボランティアが活躍しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在波兰边境，志愿者们正在努力工作，以使乌克兰的孩子们感到高兴!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在波蘭邊境，志願者們正在努力工作，以使烏克蘭的孩子們感到高興!"
+    }
+  ]
 }
