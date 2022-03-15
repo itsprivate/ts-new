@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの好きな漫画やアニメは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的漫画/动画是什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的漫畫/動畫是什麼，爲什麼？"
+    }
+  ]
 }
