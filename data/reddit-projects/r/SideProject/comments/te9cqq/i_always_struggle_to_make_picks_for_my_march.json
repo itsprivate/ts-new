@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はいつもマーチマッドネスブラケットのピックを作るのに苦労しているので、それをやってくれるウェブサイトを作りました!"
+    },
+    {
+      "locale": "zh",
+      "title": "我一直在努力为我的 \"疯狂三月 \"支架做选择，所以我做了一个网站来为我做这件事!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我一直在努力爲我的 \"瘋狂三月 \"支架做選擇，所以我做了一個網站來爲我做這件事!"
+    }
+  ]
 }
