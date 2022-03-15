@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アノニマスハッカーがロシアの石油大手ロスネフチを攻撃、20TBのデータを確保"
+    },
+    {
+      "locale": "zh",
+      "title": "匿名黑客攻击俄罗斯石油巨头Rosneft，确保20TB数据安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "匿名黑客攻擊俄羅斯石油巨頭Rosneft，確保20TB數據安全"
+    }
+  ]
 }
