@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私には夢のような仕事だと思える。"
+    },
+    {
+      "locale": "zh",
+      "title": "对我来说，这似乎是一份梦想的工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對我來說，這似乎是一份夢想的工作。"
+    }
+  ]
 }
