@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-15T07:01:00Z"
+  "original_createdAt": "2022-03-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VesselはCRM間でデータの読み書きを行うためのユニバーサルなAPIです。",
+      "tagline": "CRMのためのユニバーサルAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "Vessel是跨CRM读取和写入数据的通用API。",
+      "tagline": "用于CRM的通用API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vessel是跨CRM讀取和寫入數據的通用API。",
+      "tagline": "用於CRM的通用API"
+    }
+  ]
 }
