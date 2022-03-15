@@ -57,5 +57,22 @@
   "original_created_at": "2022-02-26T10:24:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R0Rcqr-G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qbqhmp2nczqjnx6n42v.png",
   "author": "Matej Bačo",
-  "author_url": "https://dev.to/meldiron"
+  "author_url": "https://dev.to/meldiron",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteはオープンソースのbackend-as-a-serviceで、...に関わるすべての複雑さを抽象化する。",
+      "title": "Appwrite Storageと無制限S3の出会い"
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite是一个开源的后台即服务，它将所有涉及到的复杂问题抽象化。",
+      "title": "Appwrite存储满足无限的S3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite是一個開源的後臺即服務，它將所有涉及到的複雜問題抽象化。",
+      "title": "Appwrite存儲滿足無限的S3"
+    }
+  ]
 }
