@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Dude?"
+  "the_new_excerpt": "Dude?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "おい？",
+      "title": "性別に関係なく誰にでも使えるフレーズを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "老兄？",
+      "title": "你用什么短语来指代任何人，无论其性别如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "老兄？",
+      "title": "你用什麼短語來指代任何人，無論其性別如何？"
+    }
+  ]
 }
