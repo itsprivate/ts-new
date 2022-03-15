@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YCが出資している企業をすべてGoogle Trendsに入れ、今何が流行っているのかを見てみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我把所有YC资助的公司放到谷歌趋势中，看看现在有哪些公司正在起飞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我把所有YC資助的公司放到谷歌趨勢中，看看現在有哪些公司正在起飛"
+    }
+  ]
 }

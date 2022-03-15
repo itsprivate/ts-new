@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-15T12:06:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NA954Zql--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgo38idehxtw753oe3kz.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Medusaは、オープンソースのヘッドレス・コマース・プラットフォームであり、エンジニアに...",
+      "title": "MedusaとNext.jsを使ってオープンソースのECストアを作ろう"
+    },
+    {
+      "locale": "zh",
+      "description": "Medusa是一个开源的无头商业平台，为工程师们提供了建立一个新的平台的基础。",
+      "title": "使用Medusa和Next.js创建你的开源电子商务商店"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Medusa是一個開源的無頭商業平臺，爲工程師們提供了建立一個新的平臺的基礎。",
+      "title": "使用Medusa和Next.js創建你的開源電子商務商店"
+    }
+  ]
 }
