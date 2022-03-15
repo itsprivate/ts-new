@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "30gh/zのバタフライラボマイナーを発見 - 最初のマイナーの1つ。"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚发现我的旧30gh/z蝴蝶实验室矿机--最早的矿机之一，仍然可以使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛發現我的舊30gh/z蝴蝶實驗室礦機--最早的礦機之一，仍然可以使用"
+    }
+  ]
 }
