@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Let's keep it non-judgemental."
+  "the_new_excerpt": "Let's keep it non-judgemental.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ノンジャッジメントでいきましょう。",
+      "title": "思っていても口に出せないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "让我们保持非评判性。",
+      "title": "你有什么想法，但从未大声说出来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "讓我們保持非評判性。",
+      "title": "你有什麼想法，但從未大聲說出來？"
+    }
+  ]
 }
