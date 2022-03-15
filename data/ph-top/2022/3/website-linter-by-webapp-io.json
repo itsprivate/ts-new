@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-14T08:09:00Z"
+  "original_createdAt": "2022-03-14T08:09:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "元Webサイトのアクセシビリティエンジニアによって作られたWebsite Linterは、Webapp.ioが提供する無料の開発者向けツールで、Webサイトの健全性のための技術的エラーをキャッチするためのレポートをプロアクティブに作成することができます。",
+      "tagline": "Webアプリケーションのエラーを顧客より先に発見する "
+    },
+    {
+      "locale": "zh",
+      "description": "Website Linter由一位前网站可访问性工程师创建，是Webapp.io的一个免费开发工具，允许你主动创建报告，帮助你捕捉技术错误，以促进网站健康。",
+      "tagline": "在客户出错之前抓住网络应用程序的错误 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Website Linter由一位前網站可訪問性工程師創建，是Webapp.io的一個免費開發工具，允許你主動創建報告，幫助你捕捉技術錯誤，以促進網站健康。",
+      "tagline": "在客戶出錯之前抓住網絡應用程序的錯誤 "
+    }
+  ]
 }
