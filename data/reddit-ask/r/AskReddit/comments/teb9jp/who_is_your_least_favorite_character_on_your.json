@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな番組で一番嫌いなキャラクターは誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的节目中，谁是你最不喜欢的角色？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的節目中，誰是你最不喜歡的角色？"
+    }
+  ]
 }
