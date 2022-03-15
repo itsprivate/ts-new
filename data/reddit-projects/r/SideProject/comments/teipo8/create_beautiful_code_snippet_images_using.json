@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マークダウンテキストを使った美しいコードスニペット画像の作成が簡単にできる"
+    },
+    {
+      "locale": "zh",
+      "title": "使用markdown文本非常容易地创建漂亮的代码片段图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用markdown文本非常容易地創建漂亮的代碼片段圖像"
+    }
+  ]
 }
