@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロードオブビットコインリング"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币戒指之王"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣戒指之王"
+    }
+  ]
 }
