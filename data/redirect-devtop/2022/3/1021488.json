@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-13T17:37:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--je_9lxlF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m28qcuihdd4k4p54z8ax.jpg",
   "author": "Anastasia 🏄🏻‍♀️",
-  "author_url": "https://dev.to/coffeestasia"
+  "author_url": "https://dev.to/coffeestasia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "*header pic by Kelsey Wroten 開発者というのは簡単な仕事ではありません。",
+      "title": "開発者から開発者への20の生産性向上のヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "*标题图片：Kelsey Wroten 作为一名开发人员并不容易--这是一份精神上要求很高的工作。",
+      "title": "20个来自开发者的生产力技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "*標題圖片：Kelsey Wroten 作爲一名開發人員並不容易--這是一份精神上要求很高的工作。",
+      "title": "20個來自開發者的生產力技巧"
+    }
+  ]
 }

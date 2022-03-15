@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-14T15:56:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LKGTUk71--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ivbqbo7xm43966klza69.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "C#のコードはできるだけ読みやすく、理解しやすいものであるべきですが、これがなかなか難しい場合があります...。",
+      "title": "C#でよりきれいなコードを書くための5つのガイドライン"
+    },
+    {
+      "locale": "zh",
+      "description": "你的C#代码应该尽可能地易于阅读和理解，但这往往是困难的。",
+      "title": "在C#中编写更清洁的代码的5个准则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你的C#代碼應該儘可能地易於閱讀和理解，但這往往是困難的。",
+      "title": "在C#中編寫更清潔的代碼的5個準則"
+    }
+  ]
 }
