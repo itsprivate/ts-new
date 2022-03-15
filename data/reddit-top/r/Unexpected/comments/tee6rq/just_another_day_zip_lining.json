@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジップラインの日"
+    },
+    {
+      "locale": "zh",
+      "title": "又是一个拉练的日子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "又是一個拉練的日子"
+    }
+  ]
 }

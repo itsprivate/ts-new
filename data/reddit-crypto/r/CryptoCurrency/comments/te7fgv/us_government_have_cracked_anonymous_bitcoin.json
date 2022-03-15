@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国政府が「匿名」ビットコインウォレットWasabiをクラッキング"
+    },
+    {
+      "locale": "zh",
+      "title": "美国政府破解了 \"匿名 \"比特币钱包Wasabi"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國政府破解了 \"匿名 \"比特幣錢包Wasabi"
+    }
+  ]
 }
