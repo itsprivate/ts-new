@@ -74,5 +74,22 @@
     "retweet_count": 162,
     "favorite_count": 360,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 中国、5100万人にロックダウンを命令 COVIDの数字が急増 https://t.co/kR1Eh9CyTE",
+      "retweeted_status_full_text": "中国、COVIDの数が急増したため、5100万人にロックダウンを命令 https://t.co/kR1Eh9CyTE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 由于COVID数量激增，中国下令封锁5100万辆https://t.co/kR1Eh9CyTE。",
+      "retweeted_status_full_text": "中国下令封锁5100万，因为COVID数字激增 https://t.co/kR1Eh9CyTE"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 由於COVID數量激增，中國下令封鎖5100萬輛https://t.co/kR1Eh9CyTE。",
+      "retweeted_status_full_text": "中國下令封鎖5100萬，因爲COVID數字激增 https://t.co/kR1Eh9CyTE"
+    }
+  ]
 }
