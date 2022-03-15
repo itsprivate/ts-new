@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-15T10:18:07Z"
+  "original_createdAt": "2022-03-15T10:18:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すぐに使えるSaaS Boilerplateで、数日でSaaSプロジェクトを立ち上げられます。Infrastructure as code + CI/CDのセットアップが可能です。",
+      "tagline": "DjangoとReactでSaaSプロダクトを高速に構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "即用型SaaS模板，可在几天内建立SaaS项目。基础设施即代码+CI/CD，可随时设置。",
+      "tagline": "用Django和React更快地构建SaaS产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "即用型SaaS模板，可在幾天內建立SaaS項目。基礎設施即代碼+CI/CD，可隨時設置。",
+      "tagline": "用Django和React更快地構建SaaS產品"
+    }
+  ]
 }
