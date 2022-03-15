@@ -13,5 +13,19 @@
   ],
   "objectID": "30686919",
   "original_created_at": "2022-03-15T15:57:36.000Z",
-  "image": "https://leaningtech.com/wp-content/uploads/2022/03/1_vxHhaQ83s1gjNHrIq3HO9A.png"
+  "image": "https://leaningtech.com/wp-content/uploads/2022/03/1_vxHhaQ83s1gjNHrIq3HO9A.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パーシャルエクセキュータ。LLVMですべての実行を探索することにより、WebAssemblyのサイズを縮小する"
+    },
+    {
+      "locale": "zh",
+      "title": "局部执行者。通过探索LLVM中的所有执行来减少WebAssembly的大小"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "局部執行者。通過探索LLVM中的所有執行來減少WebAssembly的大小"
+    }
+  ]
 }
