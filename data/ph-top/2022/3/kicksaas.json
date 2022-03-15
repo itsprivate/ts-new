@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-15T07:00:00Z"
+  "original_createdAt": "2022-03-15T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SaaS（Sofware as a Service）アプリケーション、リソース、ウェブサイトは、あらゆることを手助けしてくれます。",
+      "tagline": "クールなアプリ、リソース、ガイドで、何でも解決できる"
+    },
+    {
+      "locale": "zh",
+      "description": "酷炫的SaaS（软件即服务）应用程序、资源和网站可以帮助你处理任何事情。",
+      "tagline": "酷炫的应用程序、资源和指南可以帮助你处理任何事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "酷炫的SaaS（軟件即服務）應用程序、資源和網站可以幫助你處理任何事情。",
+      "tagline": "酷炫的應用程序、資源和指南可以幫助你處理任何事情"
+    }
+  ]
 }
