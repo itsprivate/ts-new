@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-15T11:32:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzYmcdQD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rve1sp69aqe615u2ufjt.png",
   "author": "Christian Heilmann",
-  "author_url": "https://dev.to/codepo8"
+  "author_url": "https://dev.to/codepo8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これらは、ソーシャルメディアにおけるテクノロジーに関するコミュニケーションにおいて、もはや使うべきでないいくつかのアンチパターンです。",
+      "title": "ソーシャルメディア上のテクノロジー議論に使われる、死ぬべき破壊的な議論"
+    },
+    {
+      "locale": "zh",
+      "description": "这些是社交媒体上关于技术沟通的一些反模式，我们不应该再使用了。",
+      "title": "社交媒体上的技术讨论中使用的破坏性论点必须消亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這些是社交媒體上關於技術溝通的一些反模式，我們不應該再使用了。",
+      "title": "社交媒體上的技術討論中使用的破壞性論點必須消亡"
+    }
+  ]
 }
