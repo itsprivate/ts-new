@@ -39,5 +39,22 @@
   "original_created_at": "2022-03-14T03:53:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-pf275q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2661acd7le1htv1rfcha.png",
   "author": "Ateev Duggal",
-  "author_url": "https://dev.to/ateevduggal"
+  "author_url": "https://dev.to/ateevduggal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者は皆、自分のアプリケーションのために、クリーンで簡潔なコードを書きたいと考えています。",
+      "title": "React JSのバッドプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "每个开发人员都希望为他的应用程序编写干净和简洁的代码，这样他就不会面临任何问题。",
+      "title": "错误的React JS实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個開發人員都希望爲他的應用程序編寫乾淨和簡潔的代碼，這樣他就不會面臨任何問題。",
+      "title": "錯誤的React JS實踐"
+    }
+  ]
 }
