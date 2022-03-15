@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Exacly, everyone is not the same"
+    },
+    {
+      "locale": "zh",
+      "title": "确切地说，每个人都是不一样的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "確切地說，每個人都是不一樣的"
+    }
+  ]
 }
