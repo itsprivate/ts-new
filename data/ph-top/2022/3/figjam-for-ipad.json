@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-15T14:00:00Z"
+  "original_createdAt": "2022-03-15T14:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iPad上のFigJamは、チームメイトと共有する前に、アイデアをスケッチし、考えをまとめるための自由な空間として使用できます。Figma iPadアプリで利用でき、外出先でもファイルやプロトタイプを見ることができます。",
+      "tagline": "声に出して考えるあなたの空間"
+    },
+    {
+      "locale": "zh",
+      "description": "在您的iPad上使用FigJam，作为一个无干扰的区域，在与您的队友分享之前，您可以画出草图，收集您的想法。在Figma iPad应用程序中，您还可以随时查看文件和原型。",
+      "tagline": "你可以大声思考的空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在您的iPad上使用FigJam，作爲一個無干擾的區域，在與您的隊友分享之前，您可以畫出草圖，收集您的想法。在Figma iPad應用程序中，您還可以隨時查看文件和原型。",
+      "tagline": "你可以大聲思考的空間"
+    }
+  ]
 }
