@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T14:40:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OH1QABwu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53ayhv69mcpmaifj4u5f.jpg",
   "author": "Jean-Michel Plourde",
-  "author_url": "https://dev.to/bigj1m"
+  "author_url": "https://dev.to/bigj1m",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるコードで作業をしていて、別のブランチに切り替える必要があるとき、作業を失わないためには、厄介な解決策しかないように思われます。同じプロジェクトフォルダ内の複数のブランチを一度にチェックアウトするための git-worktree について詳しく説明します。",
+      "title": "git-worktreeです。複数のブランチで同時に作業する"
+    },
+    {
+      "locale": "zh",
+      "description": "当你在处理一些代码时，需要切换到不同的分支，似乎只有混乱的解决方案才不会丢失你的工作。了解更多关于git-worktree的信息，以便在同一个项目文件夹中一次性签出多个分支。",
+      "title": "git-worktree。同时在多个分支上工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你在處理一些代碼時，需要切換到不同的分支，似乎只有混亂的解決方案纔不會丟失你的工作。瞭解更多關於git-worktree的信息，以便在同一個項目文件夾中一次性簽出多個分支。",
+      "title": "git-worktree。同時在多個分支上工作"
+    }
+  ]
 }

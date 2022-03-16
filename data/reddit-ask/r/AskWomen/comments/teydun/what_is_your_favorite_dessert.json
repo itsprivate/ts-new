@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなデザートは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的甜点是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的甜點是什麼？"
+    }
+  ]
 }
