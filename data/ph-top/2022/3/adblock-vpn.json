@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-16T07:01:00Z"
+  "original_createdAt": "2022-03-16T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AdBlock VPNを使用して、Wi-Fi接続を保護し、第三者があなたの位置を追跡することを困難にし、より安全にオンラインで過ごすことができます。すべてワンクリックで。",
+      "tagline": "AdBlockが提供する安全、シンプル、リーズナブルなログなしVPNサービス"
+    },
+    {
+      "locale": "zh",
+      "description": "使用AdBlock VPN来保护你的Wi-Fi连接，使第三方更难跟踪你的位置，并保持更安全的在线。只需一次点击。",
+      "tagline": "来自AdBlock的安全、简单、实惠的无日志VPN服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用AdBlock VPN來保護你的Wi-Fi連接，使第三方更難跟蹤你的位置，並保持更安全的在線。只需一次點擊。",
+      "tagline": "來自AdBlock的安全、簡單、實惠的無日誌VPN服務"
+    }
+  ]
 }
