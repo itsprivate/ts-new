@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1週間で12億ドル相当のビットコインがCoinbaseを離れ、機関投資家が大量に流入していることが証明される"
+    },
+    {
+      "locale": "zh",
+      "title": "一周内价值12亿美元的比特币离开Coinbase，证明机构投资正大量涌入"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一週內價值12億美元的比特幣離開Coinbase，證明機構投資正大量湧入"
+    }
+  ]
 }
