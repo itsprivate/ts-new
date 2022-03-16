@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-14T15:53:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UbpjslHJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0u9j8m1fug3diqbfulkn.jpg",
   "author": "BekahHW",
-  "author_url": "https://dev.to/bekahhw"
+  "author_url": "https://dev.to/bekahhw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テクニカルライティングやドキュメンテーションにストーリーテリングを導入するためのヒントやトリックを紹介する完全な開発者向けガイドです。詳しくはこちらをご覧ください。",
+      "title": "テクニカルライティング 開発者のためのストーリーテリングガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "一本完整的开发者指南，包含了在技术写作和文档中实施讲故事的技巧和诀窍。在此阅读更多信息。",
+      "title": "技术写作。开发人员讲故事的指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一本完整的開發者指南，包含了在技術寫作和文檔中實施講故事的技巧和訣竅。在此閱讀更多信息。",
+      "title": "技術寫作。開發人員講故事的指南"
+    }
+  ]
 }
