@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-15T09:58:56Z"
+  "original_createdAt": "2022-03-15T09:58:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rex the Sniffer（レックス・ザ・スニッファー）：紛失したBluetoothデバイスの信号の発信地を案内し、発見を支援します。さらに、このアプリは、デバイスが置き去りにされたときにもユーザーに通知します。",
+      "tagline": "Bluetoothデバイストラッカー"
+    },
+    {
+      "locale": "zh",
+      "description": "Rex the Sniffer -- 帮助用户找到他们丢失的蓝牙设备，提供信号来源的方向。此外，该应用程序还在设备被遗弃时通知其用户。",
+      "tagline": "蓝牙设备追踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rex the Sniffer -- 幫助用戶找到他們丟失的藍牙設備，提供信號來源的方向。此外，該應用程序還在設備被遺棄時通知其用戶。",
+      "tagline": "藍牙設備追蹤器"
+    }
+  ]
 }
