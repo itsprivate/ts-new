@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-15T12:08:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRvTOFzc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/61ihqtcojjgyzd29ie8s.png",
   "author": "Alex Omeyer",
-  "author_url": "https://dev.to/alexomeyer"
+  "author_url": "https://dev.to/alexomeyer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "技術的負債という表現はよく使われますが、技術者であれば誰でも、技術的負債が生産性を低下させることは知っています。",
+      "title": "技術的負債を防ぐための3つの戦略💪。"
+    },
+    {
+      "locale": "zh",
+      "description": "技术债务这个说法被抛来抛去，每个工程师都知道它拖慢了...",
+      "title": "遵循这3个策略防止技术债务💪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "技術債務這個說法被拋來拋去，每個工程師都知道它拖慢了...",
+      "title": "遵循這3個策略防止技術債務💪"
+    }
+  ]
 }
