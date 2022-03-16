@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-15T00:39:29Z",
   "image": "https://dev.to/social_previews/article/1022889.png",
   "author": "Allison McMillan",
-  "author_url": "https://dev.to/asheren"
+  "author_url": "https://dev.to/asheren",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティの皆様、こんにちは。 私たちのコミュニティの寄付について、簡単なメモを残しておきたいと思います...",
+      "title": "#SheCodedがGirls Who Codeのために2,000ドルを集めました。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，亲爱的DEV社区  我想就我们社区的捐赠问题做一个简短的备忘录...",
+      "title": "#SheCoded为 \"编码女孩 \"筹集了2,000美元!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，親愛的DEV社區  我想就我們社區的捐贈問題做一個簡短的備忘錄...",
+      "title": "#SheCoded爲 \"編碼女孩 \"籌集了2,000美元!"
+    }
+  ]
 }

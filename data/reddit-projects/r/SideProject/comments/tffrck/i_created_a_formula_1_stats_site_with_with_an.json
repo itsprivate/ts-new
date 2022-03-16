@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://podiumdb.com/\n\nSite uses mySQL, C# and Angular as the main stack. Plus a load of other npm\nplugins of course.\n\nJust thought it would be fun to visualise the F1 data, and add a game on top.\n\nKeen to hear what you think.\n\nThanks"
+  "the_new_excerpt": "https://podiumdb.com/\n\nSite uses mySQL, C# and Angular as the main stack. Plus a load of other npm\nplugins of course.\n\nJust thought it would be fun to visualise the F1 data, and add a game on top.\n\nKeen to hear what you think.\n\nThanks",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://podiumdb.com/\n\nこのサイトでは、メインスタックとしてmySQL、C#、Angularを使用しています。その他にnpm\nプラグインがあります。\n\nF1のデータをビジュアル化して、その上にゲームを追加したら面白いんじゃないかと思ったんだ。\n\nあなたのご意見をお聞かせください。\n\nありがとう。",
+      "title": "本業の傍らで、F1の統計情報サイトと、ゲームを追加して作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://podiumdb.com/\n\n网站使用mySQL、C#和Angular作为主要堆栈。当然还有大量的其他npm\n插件。\n\n只是觉得将F1数据可视化，并在上面添加一个游戏会很有趣。\n\n很想听听你的意见。\n\n谢谢",
+      "title": "我创建了一个带有附加游戏的F1统计网站，作为我实际工作的一个副业。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://podiumdb.com/\n\n網站使用mySQL、C#和Angular作爲主要堆棧。當然還有大量的其他npm\n插件。\n\n只是覺得將F1數據可視化，並在上面添加一個遊戲會很有趣。\n\n很想聽聽你的意見。\n\n謝謝",
+      "title": "我創建了一個帶有附加遊戲的F1統計網站，作爲我實際工作的一個副業。"
+    }
+  ]
 }
