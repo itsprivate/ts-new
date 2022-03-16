@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミームは10.000語の価値がある"
+    },
+    {
+      "locale": "zh",
+      "title": "一个备忘录胜过一万个字"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個備忘錄勝過一萬個字"
+    }
+  ]
 }
