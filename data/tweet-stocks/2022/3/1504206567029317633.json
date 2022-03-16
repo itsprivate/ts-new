@@ -134,5 +134,22 @@
     "retweet_count": 1420,
     "favorite_count": 6993,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @loganclarkhall: https://t.co/VD8uemRxQa",
+      "retweeted_status_full_text": "https://t.co/VD8uemRxQa"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @loganclarkhall: https://t.co/VD8uemRxQa",
+      "retweeted_status_full_text": "https://t.co/VD8uemRxQa"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @loganclarkhall: https://t.co/VD8uemRxQa",
+      "retweeted_status_full_text": "https://t.co/VD8uemRxQa"
+    }
+  ]
 }
