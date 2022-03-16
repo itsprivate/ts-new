@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最初は痛いが、数秒後に気持ちよくなるものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西一开始很疼，但几秒钟后感觉很好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西一開始很疼，但幾秒鐘後感覺很好？"
+    }
+  ]
 }
