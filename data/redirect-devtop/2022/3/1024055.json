@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-15T21:27:19Z",
   "image": "https://dev.to/social_previews/article/1024055.png",
   "author": "Briggs Elsperger",
-  "author_url": "https://dev.to/i3uckwheat"
+  "author_url": "https://dev.to/i3uckwheat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コールバックを理解する コールバックは、初心者の方にとっては、なかなか難しい問題です。",
+      "title": "コールバックの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "理解回调 回调似乎是初入职场者的一个症结所在。",
+      "title": "了解回调"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "理解回調 回調似乎是初入職場者的一個癥結所在。",
+      "title": "瞭解回調"
+    }
+  ]
 }
