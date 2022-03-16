@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T06:09:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S9-2ZBgx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rix9oblwajfxxrtwc9xk.jpg",
   "author": "Taylor Hunt",
-  "author_url": "https://dev.to/tigt"
+  "author_url": "https://dev.to/tigt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドのJavaScriptを使わずに本物のeコマースを試みる気違い開発者。",
+      "title": "世界最速のウェブサイトを作ること、その他の失敗談"
+    },
+    {
+      "locale": "zh",
+      "description": "疯狂的开发者尝试没有前端JavaScript的真正电子商务，以证明你们都在玩耍",
+      "title": "制作世界上最快的网站，以及其他错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瘋狂的開發者嘗試沒有前端JavaScript的真正電子商務，以證明你們都在玩耍",
+      "title": "製作世界上最快的網站，以及其他錯誤"
+    }
+  ]
 }
