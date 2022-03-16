@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Share some wild experiences!"
+  "the_new_excerpt": "Share some wild experiences!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ワイルドな体験を共有しよう",
+      "title": "結婚式でNGなこととは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "分享一些狂野的经验!",
+      "title": "什么是婚礼上的禁忌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "分享一些狂野的經驗!",
+      "title": "什麼是婚禮上的禁忌？"
+    }
+  ]
 }
