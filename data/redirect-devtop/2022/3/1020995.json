@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-13T01:45:42Z",
   "image": "https://dev.to/social_previews/article/1020995.png",
   "author": "Konnor Rogers",
-  "author_url": "https://dev.to/paramagicdev"
+  "author_url": "https://dev.to/paramagicdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "同期関数を非同期で実行させたい場合があります。例えば、複数の同期関数を非同期で実行させたい場合です。",
+      "title": "コールバックをプロミスに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "有时你想让你的同步函数以异步方式运行。也许你想运行多个...",
+      "title": "将一个回调转换为一个承诺"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時你想讓你的同步函數以異步方式運行。也許你想運行多個...",
+      "title": "將一個回調轉換爲一個承諾"
+    }
+  ]
 }
