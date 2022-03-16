@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "波と一緒に「サーフィン」するクジラ"
+    },
+    {
+      "locale": "zh",
+      "title": "一头鲸鱼随波 \"冲浪\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一頭鯨魚隨波 \"衝浪\"。"
+    }
+  ]
 }
