@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: Everyone saying WHAT they want to eat and not WHERE 🥲"
+  "the_new_excerpt": "Edit: Everyone saying WHAT they want to eat and not WHERE 🥲",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：みんなWHEREじゃなくてWHAT食べたいって言ってる🥲🥲。",
+      "title": "どこで食べる？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：每个人都在说他们想吃什么，而不是在哪里🥲。",
+      "title": "你想在哪里吃饭？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：每個人都在說他們想喫什麼，而不是在哪裏🥲。",
+      "title": "你想在哪裏喫飯？"
+    }
+  ]
 }
