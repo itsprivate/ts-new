@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-14T17:10:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q8av5DYU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqs50vvpgkt08zsrgckw.jpg",
   "author": "Taylor Hunt",
-  "author_url": "https://dev.to/tigt"
+  "author_url": "https://dev.to/tigt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Time To First Byteを大幅に改善する文字通りの \"一発芸\"",
+      "title": "ストリーミングHTMLの奇妙に不明瞭な技術"
+    },
+    {
+      "locale": "zh",
+      "description": "从字面上看，\"一个怪异的技巧 \"可以大规模地提高第一个字节的时间。",
+      "title": "诡异晦涩的HTML流艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從字面上看，\"一個怪異的技巧 \"可以大規模地提高第一個字節的時間。",
+      "title": "詭異晦澀的HTML流藝術"
+    }
+  ]
 }
