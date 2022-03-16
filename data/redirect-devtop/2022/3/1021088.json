@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T04:59:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6r1TNXUX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ug275uzdq9feoymccs0h.png",
   "author": "Harsh Singh",
-  "author_url": "https://dev.to/harshhhdev"
+  "author_url": "https://dev.to/harshhhdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは。今日は、シンプルなNext.jsを構築していきます。",
+      "title": "Next.jsとCockroachDBでサーバーレスアプリケーションを構築！？"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，你在吗？希望你有一个美好的白天或夜晚 - 今天，我们将建立一个简单的Next.js...",
+      "title": "用Next.js和CockroachDB构建无服务器应用程序!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，你在嗎？希望你有一個美好的白天或夜晚 - 今天，我們將建立一個簡單的Next.js...",
+      "title": "用Next.js和CockroachDB構建無服務器應用程序!"
+    }
+  ]
 }
