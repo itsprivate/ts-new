@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-15T10:16:59Z",
   "image": "https://dev.to/social_previews/article/1023248.png",
   "author": "Rahul Sharma",
-  "author_url": "https://dev.to/devsmitra"
+  "author_url": "https://dev.to/devsmitra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はここ4～5年、React.jsを使い続け、様々な...",
+      "title": "Reactのベストプラクティスとパターンによるコード削減"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的4到5年里，我一直在使用React.js，并将其用于许多领域。",
+      "title": "减少代码的React最佳实践和模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的4到5年裏，我一直在使用React.js，並將其用於許多領域。",
+      "title": "減少代碼的React最佳實踐和模式"
+    }
+  ]
 }
