@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-11T18:08:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tXGU2Upv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41ws8krsmldruftnjydh.jpg",
   "author": "Danny Adams",
-  "author_url": "https://dev.to/doabledanny"
+  "author_url": "https://dev.to/doabledanny",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "有用な配列手法を頭の中に入れておくと、問題解決能力が向上します。 だから私は...",
+      "title": "JavaScript Array Method Cheat Sheet (17 must-know methods) 📄"
+    },
+    {
+      "locale": "zh",
+      "description": "把有用的数组方法记在脑子里，会提高你解决问题的能力。 所以我...",
+      "title": "JavaScript数组方法小抄（17个必须知道的方法）📄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "把有用的數組方法記在腦子裏，會提高你解決問題的能力。 所以我...",
+      "title": "JavaScript數組方法小抄（17個必須知道的方法）📄"
+    }
+  ]
 }
