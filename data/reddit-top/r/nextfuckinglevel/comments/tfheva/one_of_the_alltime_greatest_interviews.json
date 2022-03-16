@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "史上最高のインタビューのひとつ"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最伟大的采访之一"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最偉大的採訪之一"
+    }
+  ]
 }
