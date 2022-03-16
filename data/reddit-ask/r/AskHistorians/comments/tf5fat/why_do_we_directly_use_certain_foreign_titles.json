@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Simply put, why does English translate certain titles but directly use a\ntransliteration of others?"
+  "the_new_excerpt": "Simply put, why does English translate certain titles but directly use a\ntransliteration of others?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "簡単に言えば、なぜ英語では特定のタイトルを翻訳し、直接使用するのか、ということです。\n他の音訳は？",
+      "title": "なぜ、「スルタン」や「皇帝」のような外国の称号はそのまま使うのに、中国の「公」は「デューク」（「ゴン」とは違う）と訳すのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "简单地说，为什么英语翻译某些标题却直接使用\n词的音译？",
+      "title": "为什么我们直接使用某些外国头衔，如 \"苏丹 \"和 \"沙皇\"，而翻译其他头衔，如中国的 \"公 \"成为 \"公\"（相对于 \"公\"）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "簡單地說，爲什麼英語翻譯某些標題卻直接使用\n詞的音譯？",
+      "title": "爲什麼我們直接使用某些外國頭銜，如 \"蘇丹 \"和 \"沙皇\"，而翻譯其他頭銜，如中國的 \"公 \"成爲 \"公\"（相對於 \"公\"）？"
+    }
+  ]
 }

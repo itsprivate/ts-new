@@ -13,5 +13,19 @@
   ],
   "objectID": "30699829",
   "original_created_at": "2022-03-16T15:16:10.000Z",
-  "image": "http://libmill.org/libmill.png"
+  "image": "http://libmill.org/libmill.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "libmill - C による囲碁スタイルの並行処理"
+    },
+    {
+      "locale": "zh",
+      "title": "libmill - C语言中的Go式并发性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "libmill - C語言中的Go式併發性"
+    }
+  ]
 }
