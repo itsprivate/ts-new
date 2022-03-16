@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インフレ率が21％であることを言わずに21％であることを言え"
+    },
+    {
+      "locale": "zh",
+      "title": "不告诉我通胀率是21%，就告诉我通胀率是21%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不告訴我通脹率是21%，就告訴我通脹率是21%。"
+    }
+  ]
 }

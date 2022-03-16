@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この悪ガキを覚えている人はいるだろうか？電卓の最高の機能です。"
+    },
+    {
+      "locale": "zh",
+      "title": "谁还记得这些坏小子？计算器上的最佳功能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰還記得這些壞小子？計算器上的最佳功能。"
+    }
+  ]
 }
