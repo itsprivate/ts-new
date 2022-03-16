@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "My boi on some grind"
+    },
+    {
+      "locale": "zh",
+      "title": "我的兄弟在一些磨练"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的兄弟在一些磨練"
+    }
+  ]
 }
