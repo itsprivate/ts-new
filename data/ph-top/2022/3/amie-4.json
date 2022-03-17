@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-17T07:01:00Z"
+  "original_createdAt": "2022-03-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "楽しい生産性向上アプリ。TODO、イベント、連絡先の時間をスケジュールする。",
+      "tagline": "楽しい生産性向上アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "快乐的生产力应用程序。安排时间的任务、事件和联系人。",
+      "tagline": "快乐的生产力应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快樂的生產力應用程序。安排時間的任務、事件和聯繫人。",
+      "tagline": "快樂的生產力應用程序"
+    }
+  ]
 }
