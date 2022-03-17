@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-16T07:01:00Z"
+  "original_createdAt": "2022-03-16T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reveryは、ファッションビジネスやデベロッパーがAPIを通じてバーチャル試着体験を作成することを可能にします。衣服をアップロードするだけで、試着室（https://demo.revery.ai）を公開したり、APIを使ってウェブサイトやアプリのためのカスタム体験を作成することができます。",
+      "tagline": "ファッションビジネスとデベロッパーのためのバーチャル試着API"
+    },
+    {
+      "locale": "zh",
+      "description": "Revery使时尚企业或开发者能够通过我们的API创建虚拟试穿体验。你可以通过简单地上传服装来发布一个试衣间（如https://demo.revery.ai），或者通过我们的API为你的网站/应用程序创建一个定制体验。",
+      "tagline": "面向时尚企业和开发者的虚拟试穿API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Revery使時尚企業或開發者能夠通過我們的API創建虛擬試穿體驗。你可以通過簡單地上傳服裝來發佈一個試衣間（如https://demo.revery.ai），或者通過我們的API爲你的網站/應用程序創建一個定製體驗。",
+      "tagline": "面向時尚企業和開發者的虛擬試穿API"
+    }
+  ]
 }
