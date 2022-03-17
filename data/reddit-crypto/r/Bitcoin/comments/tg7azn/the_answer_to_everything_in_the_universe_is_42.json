@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "That is all."
+  "the_new_excerpt": "That is all.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "以上です。",
+      "title": "宇宙のすべての答えは42だ。ビットコインは21です。つまりビットコインはすべての半分に答えているのです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是全部。",
+      "title": "宇宙中一切事物的答案是42。比特币是21。所以，比特币回答了一切的一半。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是全部。",
+      "title": "宇宙中一切事物的答案是42。比特幣是21。所以，比特幣回答了一切的一半。"
+    }
+  ]
 }
