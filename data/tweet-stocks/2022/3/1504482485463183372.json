@@ -74,5 +74,22 @@
     "retweet_count": 275,
     "favorite_count": 769,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: NYT、バイデンのノートPCを認める - 偽称「ロシアの偽情報」 - 本物である https://t.co/niBp7wShiB",
+      "retweeted_status_full_text": "NYT、バイデンのラップトップが「ロシアの偽情報」と呼ばれる本物であることを認める https://t.co/niBp7wShiB"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 纽约时报现在承认拜登的笔记本电脑--被错误地称为 \"俄罗斯虚假信息\"--是真实的 https://t.co/niBp7wShiB",
+      "retweeted_status_full_text": "纽约时报》现在承认拜登的笔记本电脑--被错误地称为 \"俄罗斯虚假信息\"--是真实的 https://t.co/niBp7wShiB"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 紐約時報現在承認拜登的筆記本電腦--被錯誤地稱爲 \"俄羅斯虛假信息\"--是真實的 https://t.co/niBp7wShiB",
+      "retweeted_status_full_text": "紐約時報》現在承認拜登的筆記本電腦--被錯誤地稱爲 \"俄羅斯虛假信息\"--是真實的 https://t.co/niBp7wShiB"
+    }
+  ]
 }
