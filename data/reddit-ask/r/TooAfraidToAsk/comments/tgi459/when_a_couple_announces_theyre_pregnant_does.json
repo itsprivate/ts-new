@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "or just me?"
+  "the_new_excerpt": "or just me?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それとも僕だけ？",
+      "title": "夫婦が妊娠を発表したとき、誰もがその夫婦がセックスしている姿を思い浮かべますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还是只有我？",
+      "title": "当一对夫妇宣布他们怀孕时，每个人都会想象这对夫妇在做爱吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還是隻有我？",
+      "title": "當一對夫婦宣佈他們懷孕時，每個人都會想象這對夫婦在做愛嗎？"
+    }
+  ]
 }
