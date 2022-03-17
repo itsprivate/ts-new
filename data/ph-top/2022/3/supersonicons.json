@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-17T07:53:24Z"
+  "original_createdAt": "2022-03-17T07:53:24Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "iOSのシステムアイコンをダーク、ライト、そして8つのマッチングした壁紙で構成されたミニマルパックです。",
+      "tagline": "iOS 14以降に対応したミニマルなダーク＆ライトアイコン"
+    },
+    {
+      "locale": "zh",
+      "description": "一个最小的包，包括iOS系统图标的黑暗，光明和8个匹配的壁纸。",
+      "tagline": "适用于iOS 14及以上版本的极简主义黑暗和光明图标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個最小的包，包括iOS系統圖標的黑暗，光明和8個匹配的壁紙。",
+      "tagline": "適用於iOS 14及以上版本的極簡主義黑暗和光明圖標"
+    }
+  ]
 }
