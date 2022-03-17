@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "有名ブランドだけを使って、あなたの国は？"
+    },
+    {
+      "locale": "zh",
+      "title": "只使用著名的品牌，你的国家是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只使用著名的品牌，你的國家是什麼？"
+    }
+  ]
 }
