@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "少なくとも、私はそれを売ることができます"
+    },
+    {
+      "locale": "zh",
+      "title": "至少我可以卖掉它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "至少我可以賣掉它"
+    }
+  ]
 }
