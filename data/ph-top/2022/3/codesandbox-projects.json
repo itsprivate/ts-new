@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-17T15:23:12Z"
+  "original_createdAt": "2022-03-17T15:23:12Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CodeSandbox Projectsは、CodeSandboxでおなじみのスピードと経験を持ちながら、お気に入りのツールと深く統合され、あらゆる規模のプロジェクトに対応する、意見交換型のクラウド開発プラットフォームです。",
+      "tagline": "Webのための次世代開発プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "CodeSandbox Projects是一个有主见的云开发平台，具有熟悉的CodeSandbox的速度和经验，但与你最喜欢的工具深度整合，并与任何规模的项目合作。",
+      "tagline": "下一代的网络开发平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CodeSandbox Projects是一個有主見的雲開發平臺，具有熟悉的CodeSandbox的速度和經驗，但與你最喜歡的工具深度整合，並與任何規模的項目合作。",
+      "tagline": "下一代的網絡開發平臺"
+    }
+  ]
 }
