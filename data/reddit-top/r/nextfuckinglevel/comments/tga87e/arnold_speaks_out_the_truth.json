@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アーノルドは真実を語る。"
+    },
+    {
+      "locale": "zh",
+      "title": "阿诺德说出了真相。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿諾德說出了真相。"
+    }
+  ]
 }
