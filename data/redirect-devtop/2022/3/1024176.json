@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-16T02:06:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---6uwL7eQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsvw6wi2epl5ryq2u7cl.png",
   "author": "Yongchang He",
-  "author_url": "https://dev.to/yongchanghe"
+  "author_url": "https://dev.to/yongchanghe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オーディオファイルやオーディオストリームを文字に変換するDeepgramのAPIで遊ぶ...",
+      "title": "チュートリアル Node.jsを使った音声合成APIで遊ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "播放Deepgram的API，将音频文件或音频流转换为书面文件。",
+      "title": "教程。使用Node.js玩转语音到文本的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "播放Deepgram的API，將音頻文件或音頻流轉換爲書面文件。",
+      "title": "教程。使用Node.js玩轉語音到文本的API"
+    }
+  ]
 }
