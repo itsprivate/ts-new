@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの一日をより良いものにするためのヒントがここにあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "这里有一些东西可以让你的日子变得更好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏有一些東西可以讓你的日子變得更好"
+    }
+  ]
 }
