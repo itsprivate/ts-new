@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "母よ、私はアニメーションを必要とします。"
+    },
+    {
+      "locale": "zh",
+      "title": "母亲，我需要动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "母親，我需要動畫"
+    }
+  ]
 }
