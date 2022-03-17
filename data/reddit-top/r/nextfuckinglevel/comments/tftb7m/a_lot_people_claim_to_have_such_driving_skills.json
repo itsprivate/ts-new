@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような運転技術を主張する人はたくさんいますが、この人は実際にそれを裏付けています。"
+    },
+    {
+      "locale": "zh",
+      "title": "很多人都声称自己有这样的驾驶技术，但这个人实际上支持了这一点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很多人都聲稱自己有這樣的駕駛技術，但這個人實際上支持了這一點。"
+    }
+  ]
 }
