@@ -42,5 +42,22 @@
   "original_created_at": "2022-03-14T10:24:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QQBHSgPH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yogrot6r4mhu79ypzbyg.png",
   "author": "Scott Molinari",
-  "author_url": "https://dev.to/smolinari"
+  "author_url": "https://dev.to/smolinari",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週は、Quasarのロードマップにおける大きなマイルストーンが達成されたことをお知らせします。Vite...の統合が完了しました。",
+      "title": "QuasarとVite - 光速のフロントエンドアプリケーション開発"
+    },
+    {
+      "locale": "zh",
+      "description": "本周，Quasar公司完成了其路线图中的一个重要里程碑。Vite...",
+      "title": "Quasar和Vite--以光速进行前端应用开发"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週，Quasar公司完成了其路線圖中的一個重要里程碑。Vite...",
+      "title": "Quasar和Vite--以光速進行前端應用開發"
+    }
+  ]
 }
