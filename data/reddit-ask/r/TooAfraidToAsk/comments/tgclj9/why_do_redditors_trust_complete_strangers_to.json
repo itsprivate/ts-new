@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜRedditorは、10秒以内にグーグル検索できるような質問に対して、見ず知らずの人が回答してくれることを信用するのでしょうか？特に、意見に基づかない質問。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么Redditors信任完全陌生的人提供答案，而这些问题可以在10秒内通过谷歌搜索到？尤其是那些非意见性的问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼Redditors信任完全陌生的人提供答案，而這些問題可以在10秒內通過谷歌搜索到？尤其是那些非意見性的問題。"
+    }
+  ]
 }
