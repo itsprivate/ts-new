@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-16T08:35:13Z"
+  "original_createdAt": "2022-03-16T08:35:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pointnutsは、あなたのツイートをより魅力的にするために選択可能なテキストスタイルを生成します。",
+      "tagline": "つぶやきをポップにする"
+    },
+    {
+      "locale": "zh",
+      "description": "Pointnuts生成的文本样式，你可以选择，使你的推特更有吸引力。",
+      "tagline": "让你的推特流行起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pointnuts生成的文本樣式，你可以選擇，使你的推特更有吸引力。",
+      "tagline": "讓你的推特流行起來"
+    }
+  ]
 }
