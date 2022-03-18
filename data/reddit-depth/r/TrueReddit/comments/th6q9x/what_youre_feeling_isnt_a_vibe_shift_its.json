@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが感じていることは、バイブシフトではありません。恒久的な変化なのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你所感受到的并不是一种情绪的转变。它是永久性的改变。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你所感受到的並不是一種情緒的轉變。它是永久性的改變。"
+    }
+  ]
 }
