@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-18T07:10:40Z"
+  "original_createdAt": "2022-03-18T07:10:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OpenSourceAlternative.Toでは、250以上のオープンソース代替品を、カテゴリ、ライセンス、言語、スターゲイザー、追加日などで検索・フィルタリングすることができます。すべてのデータは1日1回GitHubから更新され、誰もが簡単にお気に入りの代替品を投稿することができます。",
+      "tagline": "プロプライエタリなSaaSに代わるオープンソースを発見する"
+    },
+    {
+      "locale": "zh",
+      "description": "OpenSourceAlternative.To让你按类别、许可证、语言、追星族和添加日期搜索和过滤250多个开源替代品。所有数据每天从GitHub更新一次，每个人都可以轻松地提交他们最喜欢的替代品。",
+      "tagline": "发现替代你的专有SaaS的开源产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OpenSourceAlternative.To讓你按類別、許可證、語言、追星族和添加日期搜索和過濾250多個開源替代品。所有數據每天從GitHub更新一次，每個人都可以輕鬆地提交他們最喜歡的替代品。",
+      "tagline": "發現替代你的專有SaaS的開源產品"
+    }
+  ]
 }

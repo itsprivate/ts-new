@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-18T07:01:00Z"
+  "original_createdAt": "2022-03-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Posture Palは、AppleのAirPodsに搭載されているモーションセンサーを利用して、首や肩の姿勢を改善することができます。Posture Sessionを開始すると、Posture Palが首の傾きを記録し、悪い姿勢が検出されるとバックグラウンドでもアラートが表示されます。",
+      "tagline": "AirPodsで姿勢を良くする"
+    },
+    {
+      "locale": "zh",
+      "description": "Posture Pal通过使用苹果AirPods中的运动传感器，帮助你改善颈部和肩部的姿势。启动一个姿势会话，Posture Pal将跟踪你的颈部倾斜，并在检测到不良姿势时提醒你，甚至在后台。",
+      "tagline": "用AirPods改善你的姿势"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Posture Pal通過使用蘋果AirPods中的運動傳感器，幫助你改善頸部和肩部的姿勢。啓動一個姿勢會話，Posture Pal將跟蹤你的頸部傾斜，並在檢測到不良姿勢時提醒你，甚至在後臺。",
+      "tagline": "用AirPods改善你的姿勢"
+    }
+  ]
 }
