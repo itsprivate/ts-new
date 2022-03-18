@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-15T13:48:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gE_vK87m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u0uim4ii7ylj2k3335zh.png",
   "author": "Abbey Perini",
-  "author_url": "https://dev.to/abbeyperini"
+  "author_url": "https://dev.to/abbeyperini",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "内容 HTMLの要素を本来の目的に沿って使用する。 コンテンツと...",
+      "title": "セマンティックHTML。何を、なぜ、どのように"
+    },
+    {
+      "locale": "zh",
+      "description": "什么 将HTML元素用于其预期目的。 分离内容和功能。",
+      "title": "Semantic HTML: 什么，为什么，以及如何"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼 將HTML元素用於其預期目的。 分離內容和功能。",
+      "title": "Semantic HTML: 什麼，爲什麼，以及如何"
+    }
+  ]
 }
