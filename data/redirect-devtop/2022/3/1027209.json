@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-18T17:35:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JpkTFr5k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1595013694368-aab1b4f70dcd",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "タスク管理、カレンダー、メモ帳など、Cassidyの現在の「スタック」。",
+      "title": "2022年に私が使っている生産性向上アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "卡西迪目前的任务追踪、日历和记事本应用程序的 \"堆栈\"。",
+      "title": "我在2022年使用的生产力应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "卡西迪目前的任務追蹤、日曆和記事本應用程序的 \"堆棧\"。",
+      "title": "我在2022年使用的生產力應用程序"
+    }
+  ]
 }

@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おしゃべりな2匹の猫"
+    },
+    {
+      "locale": "zh",
+      "title": "两只会说话的猫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兩隻會說話的貓"
+    }
+  ]
 }
