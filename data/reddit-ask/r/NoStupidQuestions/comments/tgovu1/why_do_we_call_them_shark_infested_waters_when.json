@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Seems manipulative idk"
+  "the_new_excerpt": "Seems manipulative idk",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "操作しているように見えるが、どうだろう。",
+      "title": "文字通りサメが生息する海域なのに、なぜサメが生息する海域と呼ぶのだろう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "似乎是操纵性的，不知道",
+      "title": "为什么我们称其为鲨鱼出没的水域，而这确实是它们的家？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "似乎是操縱性的，不知道",
+      "title": "爲什麼我們稱其爲鯊魚出沒的水域，而這確實是它們的家？"
+    }
+  ]
 }
