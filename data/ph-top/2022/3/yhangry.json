@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-18T07:01:00Z"
+  "original_createdAt": "2022-03-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "yhangryは、ディナーパーティーのためにプライベートシェフをたった$40ppから予約できるマーケットプレイスです。詳しくはこちら：booking.yhangry.com",
+      "tagline": "ディナーパーティーのためのプライベートシェフマーケットプレイス $40pp から"
+    },
+    {
+      "locale": "zh",
+      "description": "yhangry是一个市场，在这里你可以为你的晚餐聚会预订一个私人厨师，价格仅40美元起。请查看我们的网站： booking.yhangry.com",
+      "tagline": "一个私人厨师市场的晚餐聚会，从40美元起"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "yhangry是一個市場，在這裏你可以爲你的晚餐聚會預訂一個私人廚師，價格僅40美元起。請查看我們的網站： booking.yhangry.com",
+      "tagline": "一個私人廚師市場的晚餐聚會，從40美元起"
+    }
+  ]
 }

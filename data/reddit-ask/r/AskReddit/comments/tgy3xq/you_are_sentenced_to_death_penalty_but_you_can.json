@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは死刑を宣告されましたが、死に方を選ぶことができます。あなたは何を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被判处死刑，但你可以选择你的死亡方式。你选择什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被判處死刑，但你可以選擇你的死亡方式。你選擇什麼？"
+    }
+  ]
 }
