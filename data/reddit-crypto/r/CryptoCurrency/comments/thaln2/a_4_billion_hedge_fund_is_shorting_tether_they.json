@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "40億ドルのヘッジファンドがテザー社を空売りしている。彼らはそれを借りて売っており、USDTの裏付けが今後12ヶ月で価値が下がり、デペッグすることに賭けています。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个40亿美元的对冲基金正在做空Tether。他们正在借入和卖出，打赌USDT的支持将在未来12个月内降低价值并贬值。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個40億美元的對沖基金正在做空Tether。他們正在借入和賣出，打賭USDT的支持將在未來12個月內降低價值並貶值。"
+    }
+  ]
 }

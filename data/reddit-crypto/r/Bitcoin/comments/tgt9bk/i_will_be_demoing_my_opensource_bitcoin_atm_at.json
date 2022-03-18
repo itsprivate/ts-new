@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明日のSXSWで、私のオープンソースビットコインATMのデモを行う予定です。6番街で私を探してください"
+    },
+    {
+      "locale": "zh",
+      "title": "明天我将在SXSW上演示我的开源比特币ATM机。在第六街找到我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "明天我將在SXSW上演示我的開源比特幣ATM機。在第六街找到我"
+    }
+  ]
 }
