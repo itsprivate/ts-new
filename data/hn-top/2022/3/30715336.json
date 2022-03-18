@@ -13,5 +13,19 @@
   ],
   "objectID": "30715336",
   "original_created_at": "2022-03-17T20:07:46.000Z",
-  "image": "https://tanelpoder.com/files/images/icons/twitter-social.png"
+  "image": "https://tanelpoder.com/files/images/icons/twitter-social.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MySQL が OS レベルでスレッド名を表示するようになり、トラブルシューティングが容易になりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "MySQL现在在操作系统层面显示其线程名称，以便更好地进行故障排除"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MySQL現在在操作系統層面顯示其線程名稱，以便更好地進行故障排除"
+    }
+  ]
 }
