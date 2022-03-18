@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-18T07:01:00Z"
+  "original_createdAt": "2022-03-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テキスト、メール、Slack、LinkedIn、Twitterなどのメッセージのやり取りをしながら、瞬時に時間を提案したり、カレンダーを共有したりすることができます。Undockは、どこでも最速でスケジュールを組むことができる方法です。",
+      "tagline": "カレンダーのオートコンプリート"
+    },
+    {
+      "locale": "zh",
+      "description": "在发短信、写邮件、在Slack、LinkedIn、Twitter上发信息的同时，即时提出时间或分享你的日历! Undock是最快的安排方式，随时随地。",
+      "tagline": "日历的自动完成"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在發短信、寫郵件、在Slack、LinkedIn、Twitter上發信息的同時，即時提出時間或分享你的日曆! Undock是最快的安排方式，隨時隨地。",
+      "tagline": "日曆的自動完成"
+    }
+  ]
 }
