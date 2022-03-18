@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで読んだ本の中で、一番「ウケた」本は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你读过的最 \"WTF \"的书是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你讀過的最 \"WTF \"的書是什麼？"
+    }
+  ]
 }
