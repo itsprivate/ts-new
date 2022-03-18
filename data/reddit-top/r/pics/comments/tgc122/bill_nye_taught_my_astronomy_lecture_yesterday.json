@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日、ビル・ナイが私の天文学の講義を担当してくれました"
+    },
+    {
+      "locale": "zh",
+      "title": "比尔-奈昨天给我上了一堂天文学课!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比爾-奈昨天給我上了一堂天文學課!"
+    }
+  ]
 }
