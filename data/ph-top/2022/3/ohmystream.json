@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-18T07:01:00Z"
+  "original_createdAt": "2022-03-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ohmystreamは、Facebook、Twitch、Youtube、そしてカスタムのRTMP送信先に、ブラウザから直接ストリーミングできるマルチストリーミングプラットフォームです。オーマイストリームはソフトウェアのダウンロードが不要で、設定にかかる時間は2分未満です。",
+      "tagline": "Youtube、Twitch、Facebook、RTMPへのマルチストリーミングを一挙に実現"
+    },
+    {
+      "locale": "zh",
+      "description": "Ohmystream是一个多流媒体平台，使用户能够一次流向Facebook、Twitch、Youtube和自定义RTMP目的地；直接从浏览器 Ohmystream不需要下载软件，只需<2分钟即可完成配置。",
+      "tagline": "同时向Youtube、Twitch、Facebook和RTMP提供多流媒体服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ohmystream是一個多流媒體平臺，使用戶能夠一次流向Facebook、Twitch、Youtube和自定義RTMP目的地；直接從瀏覽器 Ohmystream不需要下載軟件，只需<2分鐘即可完成配置。",
+      "tagline": "同時向Youtube、Twitch、Facebook和RTMP提供多流媒體服務"
+    }
+  ]
 }
