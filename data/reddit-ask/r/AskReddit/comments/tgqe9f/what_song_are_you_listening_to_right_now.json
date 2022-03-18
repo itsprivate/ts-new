@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、聴いている曲は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在在听什么歌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在在聽什麼歌？"
+    }
+  ]
 }
