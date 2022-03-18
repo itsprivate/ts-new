@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-16T15:26:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kZTssouR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/slrv6nlbz1nzgsjws0jj.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラムやアプリにバグを発生させないためには、バグを発生させる可能性のあるエラーを処理しないようにすることが一番です。",
+      "title": "C#のエラー処理に関する5つのグッドプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "防止在你的程序或应用程序中出现bug的最好方法是避免处理可能出现的错误。",
+      "title": "5种C#中错误处理的良好做法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "防止在你的程序或應用程序中出現bug的最好方法是避免處理可能出現的錯誤。",
+      "title": "5種C#中錯誤處理的良好做法"
+    }
+  ]
 }
