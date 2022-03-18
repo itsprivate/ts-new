@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "250ETHがあれば、ロシアの戦車を所有することができます。(ピックアップのみ)"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你身边有250个ETH，你就可以拥有一辆俄罗斯坦克。(只限于提货)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你身邊有250個ETH，你就可以擁有一輛俄羅斯坦克。(只限於提貨)"
+    }
+  ]
 }
