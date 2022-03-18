@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の大学では、図書館での食事が許可されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我的大学里，食物是可以进入图书馆的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我的大學裏，食物是可以進入圖書館的。"
+    }
+  ]
 }
