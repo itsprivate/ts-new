@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "風が辛い"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么空气很辣"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼空氣很辣"
+    }
+  ]
 }
