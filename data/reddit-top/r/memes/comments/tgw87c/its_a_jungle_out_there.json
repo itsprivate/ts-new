@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "外はジャングル"
+    },
+    {
+      "locale": "zh",
+      "title": "外面是一片丛林"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "外面是一片叢林"
+    }
+  ]
 }

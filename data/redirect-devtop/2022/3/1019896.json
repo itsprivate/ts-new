@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-11T17:49:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zdzYo5Ak--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tiy1bu3o0eso4m2uf2fo.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、何千ものレポが活発に使用されている大規模なエンジニアリング組織で働いています。ユニークなのは...",
+      "title": "良いREADMEには何が含まれるか"
+    },
+    {
+      "locale": "zh",
+      "description": "我在一个大型工程组织工作，该组织有数千个正在积极使用的资源库。独特的是...",
+      "title": "每个好的README应该包含什么"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在一個大型工程組織工作，該組織有數千個正在積極使用的資源庫。獨特的是...",
+      "title": "每個好的README應該包含什麼"
+    }
+  ]
 }

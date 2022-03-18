@@ -46,5 +46,22 @@
   "original_created_at": "2022-03-18T12:10:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H1_LQUCz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mmjjc5kguq9c4g93xpb0.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "それは具体的で十分な技術的専門知識なのか、それとも単にあなたが得意とする技術の一部なのか。",
+      "title": "開発者としての一番のスキルは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "无论是足够具体的技术专长，还是只是你所擅长的工艺的一部分？",
+      "title": "作为一名开发人员，你最擅长的技能是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論是足夠具體的技術專長，還是隻是你所擅長的工藝的一部分？",
+      "title": "作爲一名開發人員，你最擅長的技能是什麼？"
+    }
+  ]
 }
