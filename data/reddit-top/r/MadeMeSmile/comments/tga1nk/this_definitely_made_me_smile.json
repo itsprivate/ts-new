@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは間違いなく私を微笑ませました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这绝对让我微笑"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這絕對讓我微笑"
+    }
+  ]
 }
