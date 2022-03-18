@@ -3,7 +3,7 @@
   "title": "OpenSSL security advisory: Infinite loop reachable when parsing certificates",
   "url": "https://www.openssl.org/news/secadv/20220315.txt",
   "author": "psanford",
-  "points": 118,
+  "points": 178,
   "num_comments": 8,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "OpenSSL安全公告：解析證書時可達到無限循環"
     }
-  ]
+  ],
+  "source_updated_at": 1647596546584
 }
