@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "That stuff was the goat. That is all"
+  "the_new_excerpt": "That stuff was the goat. That is all",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そのネタがヤギだった。それがすべて",
+      "title": "あのピンクのアモキシシリンの薬の美味しさを覚えている人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那东西是山羊的。这就是所有",
+      "title": "谁还记得那种粉红色的阿莫西林药有多好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那東西是山羊的。這就是所有",
+      "title": "誰還記得那種粉紅色的阿莫西林藥有多好？"
+    }
+  ]
 }
