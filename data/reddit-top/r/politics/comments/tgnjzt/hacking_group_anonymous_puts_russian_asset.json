@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッキング集団「Anonymous」が「ロシアの資産」Marjorie Taylor Greeneに警告を発する"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客组织 \"匿名者 \"将 \"俄罗斯资产 \"马乔里-泰勒-格林列入通知名单"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客組織 \"匿名者 \"將 \"俄羅斯資產 \"馬喬裏-泰勒-格林列入通知名單"
+    }
+  ]
 }
