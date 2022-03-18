@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-07T13:52:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MRq9bj_2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v02akb5hue5n09svjonw.jpg",
   "author": "Martin Heinz",
-  "author_url": "https://dev.to/martinheinz"
+  "author_url": "https://dev.to/martinheinz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべてのプロジェクトは、アプリケーションを構築する堅牢な継続的インテグレーション・パイプラインから恩恵を受けることができます。",
+      "title": "Pythonプロジェクトのための究極のCIパイプライン"
+    },
+    {
+      "locale": "zh",
+      "description": "每个项目都可以从一个强大的持续集成管道中受益，该管道可以构建你的应用程序，...",
+      "title": "适用于所有Python项目的终极CI管道"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個項目都可以從一個強大的持續集成管道中受益，該管道可以構建你的應用程序，...",
+      "title": "適用於所有Python項目的終極CI管道"
+    }
+  ]
 }
