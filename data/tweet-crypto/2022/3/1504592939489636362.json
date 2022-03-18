@@ -91,5 +91,22 @@
     "retweet_count": 490,
     "favorite_count": 2307,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @NorthmanTrader: 速報】FRBがQEを終了、バランスシートを1週間で430億ドル拡大し、過去最高の8兆954億ドルとなった。",
+      "retweeted_status_full_text": "速報：FRBはQEを終了し、直ちにバランスシートを1週間で430億ドル拡大し、過去最高の8兆954億ドルとした。\n\n*But we're really serious about fighting inflation. https://t.co/QyXeZgTZzq"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @NorthmanTrader: 爆炸：美联储结束QE，并迅速在一周内将其资产负债表扩大了430亿美元，达到8.954万亿美元的新纪录高点。",
+      "retweeted_status_full_text": "爆炸：美联储结束QE，并迅速在一周内将其资产负债表扩大430亿美元，达到8.954万亿美元的新纪录。\n\n*但我们真的是在认真对抗通货膨胀。https://t.co/QyXeZgTZzq"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @NorthmanTrader: 爆炸：美聯儲結束QE，並迅速在一週內將其資產負債表擴大了430億美元，達到8.954萬億美元的新紀錄高點。",
+      "retweeted_status_full_text": "爆炸：美聯儲結束QE，並迅速在一週內將其資產負債表擴大430億美元，達到8.954萬億美元的新紀錄。\n\n*但我們真的是在認真對抗通貨膨脹。https://t.co/QyXeZgTZzq"
+    }
+  ]
 }
