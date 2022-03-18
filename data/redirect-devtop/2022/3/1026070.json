@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-17T13:27:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XChjfvsw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a3d3j0z6alvwq2rmr8id.jpeg",
   "author": "Wojciech Matuszewski",
-  "author_url": "https://dev.to/wojciechmatuszewski"
+  "author_url": "https://dev.to/wojciechmatuszewski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "長期保存可能なクレデンシャルと決別し、AWS SSOサービスを導入しよう",
+      "title": "個人向けAWS開発のための最小限のAWS SSO設定"
+    },
+    {
+      "locale": "zh",
+      "description": "告别漫长的凭证，拥抱AWS SSO服务!",
+      "title": "用于个人AWS开发的最低限度的AWS SSO设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "告別漫長的憑證，擁抱AWS SSO服務!",
+      "title": "用於個人AWS開發的最低限度的AWS SSO設置"
+    }
+  ]
 }
