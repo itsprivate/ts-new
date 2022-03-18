@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "After reading an article about what Google’s doing to drive orders to food\ndelivery apps rather than restaurants’ websites, I decided to build a bot. It\nrandomly tweets pizza places where you can order directly from their website.\n\nI’ll be delighted if it helps restaurants…"
+  "the_new_excerpt": "After reading an article about what Google’s doing to drive orders to food\ndelivery apps rather than restaurants’ websites, I decided to build a bot. It\nrandomly tweets pizza places where you can order directly from their website.\n\nI’ll be delighted if it helps restaurants…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Googleが食品への注文を促進するために行っていることについての記事を読んだ後\nレストランのウェブサイトではなく、宅配アプリを作ることにしました。それは\nホームページから直接注文できるピザ屋さんをランダムにツイートします。\n\n飲食店様のお役に立てれば幸いです...。",
+      "title": "金曜日＝ピザ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在阅读了一篇关于谷歌为推动食品订单所做的工作的文章之后\n而不是餐馆的网站，我决定建立一个机器人。它\n随机推送披萨店，你可以直接从他们的网站订购。\n\n如果它能帮助餐馆，我会很高兴...",
+      "title": "周五=比萨"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在閱讀了一篇關於谷歌爲推動食品訂單所做的工作的文章之後\n而不是餐館的網站，我決定建立一個機器人。它\n隨機推送披薩店，你可以直接從他們的網站訂購。\n\n如果它能幫助餐館，我會很高興...",
+      "title": "週五=比薩"
+    }
+  ]
 }
