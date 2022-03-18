@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時速103kmのスピードスケート"
+    },
+    {
+      "locale": "zh",
+      "title": "以每小时103公里的速度滑行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以每小時103公里的速度滑行"
+    }
+  ]
 }
