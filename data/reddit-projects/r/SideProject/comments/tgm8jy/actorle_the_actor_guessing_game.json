@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi,\n\nInspired by Wordle, I've created a small game where you can try to guess actors\nbased on their movies.\n\nactorle.com [https://actorle.com]\n\nLet me know what you think."
+  "the_new_excerpt": "Hi,\n\nInspired by Wordle, I've created a small game where you can try to guess actors\nbased on their movies.\n\nactorle.com [https://actorle.com]\n\nLet me know what you think.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\nWordleに触発されて、俳優を当てる小さなゲームを作りました。\nを、映画から読み解く。\n\nactorle.com [https://actorle.com]\n\nご意見をお聞かせください。",
+      "title": "俳優当てゲーム「アクターレ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好。\n\n受到Wordle的启发，我创建了一个小游戏，你可以根据演员的电影来猜测他们的身份。\n根据他们的电影。\n\nactorle.com [https://actorle.com]\n\n让我知道你的想法。",
+      "title": "Actorle--演员的猜测游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好。\n\n受到Wordle的啓發，我創建了一個小遊戲，你可以根據演員的電影來猜測他們的身份。\n根據他們的電影。\n\nactorle.com [https://actorle.com]\n\n讓我知道你的想法。",
+      "title": "Actorle--演員的猜測遊戲"
+    }
+  ]
 }
