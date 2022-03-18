@@ -13,5 +13,19 @@
   ],
   "objectID": "30716177",
   "original_created_at": "2022-03-17T21:39:33.000Z",
-  "image": "http://www.jakubkonka.com/images/jakub.jpeg"
+  "image": "http://www.jakubkonka.com/images/jakub.jpeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ZigによるmacOS/arm64でのホットコードリローディング"
+    },
+    {
+      "locale": "zh",
+      "title": "用Zig在macOS/arm64上重载热代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Zig在macOS/arm64上重載熱代碼"
+    }
+  ]
 }
