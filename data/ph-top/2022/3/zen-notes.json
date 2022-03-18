@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-18T07:01:00Z"
+  "original_createdAt": "2022-03-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zen Notesは、誰でも簡単にノートを作成し、共有できるコラボレーション対応のオンラインノートアプリです。",
+      "tagline": "Notionのように、しかしもっとシンプルに"
+    },
+    {
+      "locale": "zh",
+      "description": "Zen Notes是一个可以协作的在线记事应用程序，让任何人都可以轻松地创建和分享笔记。",
+      "tagline": "像Notion，但更简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zen Notes是一個可以協作的在線記事應用程序，讓任何人都可以輕鬆地創建和分享筆記。",
+      "tagline": "像Notion，但更簡單"
+    }
+  ]
 }
