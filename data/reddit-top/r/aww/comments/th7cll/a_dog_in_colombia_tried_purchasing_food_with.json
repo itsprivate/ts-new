@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コロンビアで、学生が食べ物を買うのを見た犬が、葉っぱで食べ物を買おうとした。"
+    },
+    {
+      "locale": "zh",
+      "title": "哥伦比亚的一只狗在观察到学生购买食物后尝试用树叶购买食物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哥倫比亞的一隻狗在觀察到學生購買食物後嘗試用樹葉購買食物"
+    }
+  ]
 }
