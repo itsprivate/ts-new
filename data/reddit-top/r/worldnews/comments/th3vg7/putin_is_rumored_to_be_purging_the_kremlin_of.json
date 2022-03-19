@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プーチンは、ウクライナ侵攻が頓挫したことを非難するロシア政府高官をクレムリンに粛清していると噂されている"
+    },
+    {
+      "locale": "zh",
+      "title": "据传普京正在清除克里姆林宫中被他指责为入侵乌克兰行动失败的俄罗斯官员"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據傳普京正在清除克里姆林宮中被他指責爲入侵烏克蘭行動失敗的俄羅斯官員"
+    }
+  ]
 }
