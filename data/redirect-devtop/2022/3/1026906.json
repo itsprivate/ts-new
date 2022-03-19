@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-18T11:03:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C3msQkAZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ft6j6ahoanhpg89l7ik.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React用の人気コンポーネントライブラリChakra UIをベースに作られた、オープンソースのスターターやテンプレートを集めたキュレーションリストです。",
+      "title": "Chakra UI スターター - オープンソース・無料"
+    },
+    {
+      "locale": "zh",
+      "description": "一个精心策划的列表，包含了在Chakra UI之上制作的开源启动器和模板，Chakra UI是React的流行组件库。",
+      "title": "Chakra UI启动器 - 开源的和免费的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個精心策劃的列表，包含了在Chakra UI之上製作的開源啓動器和模板，Chakra UI是React的流行組件庫。",
+      "title": "Chakra UI啓動器 - 開源的和免費的"
+    }
+  ]
 }
