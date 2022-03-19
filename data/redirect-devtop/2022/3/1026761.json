@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-18T07:55:13Z",
   "image": "https://dev.to/social_previews/article/1026761.png",
   "author": "goaty92",
-  "author_url": "https://dev.to/goaty92"
+  "author_url": "https://dev.to/goaty92",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、Yes, PHP Is Faster Than C#というタイトルのブログポストがあり、かなりの反響を呼んでいます...",
+      "title": "\"Yes, PHP Is Faster Than C#\" に対応しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "最近有一篇题为《是的，PHP比C#更快》的博文引发了不少人的关注。",
+      "title": "作为对 \"是的，PHP比C#更快 \"的回应"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近有一篇題爲《是的，PHP比C#更快》的博文引發了不少人的關注。",
+      "title": "作爲對 \"是的，PHP比C#更快 \"的回應"
+    }
+  ]
 }
