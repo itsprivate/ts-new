@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-12T15:06:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OIqaBKkc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/si033j6elfhhjfxm03w3.jpg",
   "author": "Jacob Cofman",
-  "author_url": "https://dev.to/jcofman"
+  "author_url": "https://dev.to/jcofman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、VS Codeの開発体験を少しでも良くするための5つのヒントを説明します（少なくとも...",
+      "title": "いくつかの設定を編集・更新することで、VS Codeをより良くすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "本文介绍了如何使VS Code的开发体验更好一些的五个技巧（至少是...",
+      "title": "通过编辑和更新一些设置使VS代码变得更好"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文介紹瞭如何使VS Code的開發體驗更好一些的五個技巧（至少是...",
+      "title": "通過編輯和更新一些設置使VS代碼變得更好"
+    }
+  ]
 }
