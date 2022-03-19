@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハーフコートからシュートするハンドル型ロボット。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个机器人有把手，可以在半场投篮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個機器人有把手，可以在半場投籃。"
+    }
+  ]
 }
