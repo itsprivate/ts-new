@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-19T08:10:35Z"
+  "original_createdAt": "2022-03-19T08:10:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "macOSのコマンドパレットツールをオープンソース版に置き換え、レイキャストやアルフレッドのような高度なツールの特典をすべて指先で操作できます。",
+      "tagline": "オープンソースのmacOSコマンドパレット"
+    },
+    {
+      "locale": "zh",
+      "description": "用一个开源版本取代你的macOS命令调色板工具，像raycast或Alfred这样的高级工具的所有好处都在你的指尖。",
+      "tagline": "开源的macOS命令调色板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用一個開源版本取代你的macOS命令調色板工具，像raycast或Alfred這樣的高級工具的所有好處都在你的指尖。",
+      "tagline": "開源的macOS命令調色板"
+    }
+  ]
 }
