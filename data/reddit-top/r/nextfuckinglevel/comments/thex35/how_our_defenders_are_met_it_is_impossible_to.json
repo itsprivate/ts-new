@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちの守備範囲はどうなっているのか。軍隊と人民が団結している国に勝つことは不可能である"
+    },
+    {
+      "locale": "zh",
+      "title": "我们的捍卫者是如何被满足的。要打败一个军队和人民团结一致的国家是不可能的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們的捍衛者是如何被滿足的。要打敗一個軍隊和人民團結一致的國家是不可能的。"
+    }
+  ]
 }
