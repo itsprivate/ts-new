@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国名を伏せて、あなたの文化における神話的な獣は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果不说你的国家，你文化中的神兽是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果不說你的國家，你文化中的神獸是什麼？"
+    }
+  ]
 }
