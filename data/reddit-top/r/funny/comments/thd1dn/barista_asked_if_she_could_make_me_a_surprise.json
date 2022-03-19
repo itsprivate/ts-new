@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バリスタが「サプライズコーヒーを無料で作れますか」と聞いてきて、こんなものを出してきた。"
+    },
+    {
+      "locale": "zh",
+      "title": "咖啡师问她是否可以为我做一杯 \"免费的惊喜咖啡\"，她回来的时候给我的是这个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "咖啡師問她是否可以爲我做一杯 \"免費的驚喜咖啡\"，她回來的時候給我的是這個"
+    }
+  ]
 }
