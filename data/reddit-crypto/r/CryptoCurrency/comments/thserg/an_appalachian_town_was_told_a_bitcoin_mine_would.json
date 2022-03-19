@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アパラチアのある町は、ビットコイン鉱山が経済的なブームをもたらすと言われていました。その結果、騒音公害と目障りになってしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个阿巴拉契亚镇被告知一个比特币矿会带来经济繁荣。它得到的是噪音污染和碍眼的东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個阿巴拉契亞鎮被告知一個比特幣礦會帶來經濟繁榮。它得到的是噪音污染和礙眼的東西。"
+    }
+  ]
 }
