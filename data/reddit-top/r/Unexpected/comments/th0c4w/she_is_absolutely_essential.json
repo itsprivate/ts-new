@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は絶対に必要な存在"
+    },
+    {
+      "locale": "zh",
+      "title": "她是绝对必要的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她是絕對必要的"
+    }
+  ]
 }
