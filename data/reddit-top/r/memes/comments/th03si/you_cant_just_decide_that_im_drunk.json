@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "酔った勢いで決めないでよ"
+    },
+    {
+      "locale": "zh",
+      "title": "你不能就这样决定我醉了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你不能就這樣決定我醉了"
+    }
+  ]
 }
