@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-18T18:12:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jvplZhiA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qi6mr6ntteu6vx2w4auo.png",
   "author": "Rahul Sharma",
-  "author_url": "https://dev.to/devsmitra"
+  "author_url": "https://dev.to/devsmitra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactのベストプラクティスとコードを減らすためのパターンについて、別の記事を書きました。これは良い記事です...",
+      "title": "コードを減らすためのReactのベストプラクティスとパターン - Part 2"
+    },
+    {
+      "locale": "zh",
+      "description": "我又写了一篇关于React最佳实践和模式的文章来减少代码。这是一篇很好的文章。",
+      "title": "减少代码的React最佳实践和模式 - 第二部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我又寫了一篇關於React最佳實踐和模式的文章來減少代碼。這是一篇很好的文章。",
+      "title": "減少代碼的React最佳實踐和模式 - 第二部分"
+    }
+  ]
 }
