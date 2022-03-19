@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "豚が熊をやっつける"
+    },
+    {
+      "locale": "zh",
+      "title": "猪与熊的斗争"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "豬與熊的鬥爭"
+    }
+  ]
 }
