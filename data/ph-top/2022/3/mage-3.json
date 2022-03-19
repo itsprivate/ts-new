@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-19T07:00:00Z"
+  "original_createdAt": "2022-03-19T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "医療記録を管理・共有するためのセキュアなプラットフォームで、患者をコントロールすることができます。",
+      "tagline": "自分のカルテを持つ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个管理和分享医疗记录的安全平台，使病人处于掌控之中。",
+      "tagline": "拥有你的医疗记录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個管理和分享醫療記錄的安全平臺，使病人處於掌控之中。",
+      "tagline": "擁有你的醫療記錄"
+    }
+  ]
 }
