@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ISSに到着したロシアの宇宙飛行士は、黄色と青の服を着ています。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯宇航员在抵达国际空间站时穿着黄色和蓝色的衣服。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯宇航員在抵達國際空間站時穿着黃色和藍色的衣服。"
+    }
+  ]
 }
