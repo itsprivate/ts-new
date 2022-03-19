@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "激しい酸性雨"
+    },
+    {
+      "locale": "zh",
+      "title": "强酸雨"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "強酸雨"
+    }
+  ]
 }
