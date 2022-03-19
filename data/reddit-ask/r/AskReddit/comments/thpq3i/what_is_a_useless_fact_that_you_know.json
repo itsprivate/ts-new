@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "知っているようで知らない、役に立たない事実とは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的一个无用的事实是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的一個無用的事實是什麼？"
+    }
+  ]
 }

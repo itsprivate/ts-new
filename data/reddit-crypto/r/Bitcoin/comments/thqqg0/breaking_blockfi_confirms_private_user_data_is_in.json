@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "速報】BlockFi、ユーザーの個人情報が不正な第三者の手に渡っていることを確認。"
+    },
+    {
+      "locale": "zh",
+      "title": "爆炸性新闻：BlockFi证实私人用户数据在未经授权的第三方手中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爆炸性新聞：BlockFi證實私人用戶數據在未經授權的第三方手中。"
+    }
+  ]
 }
