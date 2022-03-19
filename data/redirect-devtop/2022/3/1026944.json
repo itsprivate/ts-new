@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-18T12:41:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tZFclzxU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aflvglw554343szzyrqy.jpg",
   "author": "Santosh Yadav",
-  "author_url": "https://dev.to/santoshyadav198613"
+  "author_url": "https://dev.to/santoshyadav198613",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Luca Bravo on Unsplash 注：NDAの関係上、クライアントの名前は伏せておきます。 私たちが完成させたのは...",
+      "title": "Angular CLIからNxに移行した理由と方法"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Luca Bravo on Unsplash 注：由于NDA，我们不会提及客户的名字。 我们完成了...",
+      "title": "我们为什么以及如何从Angular CLI迁移到Nx？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Luca Bravo on Unsplash 注：由於NDA，我們不會提及客戶的名字。 我們完成了...",
+      "title": "我們爲什麼以及如何從Angular CLI遷移到Nx？"
+    }
+  ]
 }
