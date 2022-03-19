@@ -74,5 +74,22 @@
     "retweet_count": 158,
     "favorite_count": 1243,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: ファウチ、退任を検討中と発言 https://t.co/ZwBZpD6rCr",
+      "retweeted_status_full_text": "ファウチ、退任を検討中と発言 https://t.co/ZwBZpD6rCr"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: Fauci说他正在考虑卸任 https://t.co/ZwBZpD6rCr",
+      "retweeted_status_full_text": "Fauci说他正在考虑卸任https://t.co/ZwBZpD6rCr"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: Fauci說他正在考慮卸任 https://t.co/ZwBZpD6rCr",
+      "retweeted_status_full_text": "Fauci說他正在考慮卸任https://t.co/ZwBZpD6rCr"
+    }
+  ]
 }
