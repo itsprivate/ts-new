@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-18T12:34:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nb36aYKf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bmhenvulkzg8as4smqgi.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは私だけではないと思いますが、キャリアの初期には、マージコンフリクトは私の悩みの種でした。",
+      "title": "Mergeのコンフリクトを解決する方法は？"
+    },
+    {
+      "locale": "zh",
+      "description": "我不认为我是唯一这么说的人；在我职业生涯的早期，合并冲突是我的祸根。",
+      "title": "我如何解决合并冲突？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不認爲我是唯一這麼說的人；在我職業生涯的早期，合併衝突是我的禍根。",
+      "title": "我如何解決合併衝突？"
+    }
+  ]
 }
