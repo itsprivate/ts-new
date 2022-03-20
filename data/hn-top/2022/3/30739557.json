@@ -13,5 +13,19 @@
   ],
   "objectID": "30739557",
   "original_created_at": "2022-03-20T02:43:17.000Z",
-  "image": "https://gankra.github.io/blah/img/error-base.png"
+  "image": "https://gankra.github.io/blah/img/error-base.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rustの安全でないポインタ型はオーバーホールが必要だ"
+    },
+    {
+      "locale": "zh",
+      "title": "Rust的不安全指针类型需要大修"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rust的不安全指針類型需要大修"
+    }
+  ]
 }
