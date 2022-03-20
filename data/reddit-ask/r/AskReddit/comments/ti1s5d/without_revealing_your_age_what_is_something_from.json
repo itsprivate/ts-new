@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を伏せた上で、「最近の子供にはわからない」と思うような子供の頃のエピソードを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在不透露你的年龄的情况下，你的童年有什么事情是 \"现在的孩子 \"无法理解的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不透露你的年齡的情況下，你的童年有什麼事情是 \"現在的孩子 \"無法理解的？"
+    }
+  ]
 }
