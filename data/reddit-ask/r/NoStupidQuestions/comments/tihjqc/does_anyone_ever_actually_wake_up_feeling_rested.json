@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm usually asleep by 12 and usually get 7-8 hours"
+  "the_new_excerpt": "I'm usually asleep by 12 and usually get 7-8 hours",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "12時までに寝て、だいたい7～8時間くらいです",
+      "title": "目覚めたとき、休息と豆のような感覚を覚えた人はいますか？今までの人生で、疲れを感じて目覚めたことは一度しかありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我通常在12点前入睡，通常有7-8个小时。",
+      "title": "有谁曾经真正醒来时感到休息和充满了豆子？在我的一生中，我发誓我只在醒来时感觉到疲惫！这就是我的生活。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我通常在12點前入睡，通常有7-8個小時。",
+      "title": "有誰曾經真正醒來時感到休息和充滿了豆子？在我的一生中，我發誓我只在醒來時感覺到疲憊！這就是我的生活。"
+    }
+  ]
 }
