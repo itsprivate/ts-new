@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モーニングコール"
+    },
+    {
+      "locale": "zh",
+      "title": "醒来的时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醒來的時候"
+    }
+  ]
 }
