@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が相手を見なければ、相手も私を見れない"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我看不到他们，他们也看不到我"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我看不到他們，他們也看不到我"
+    }
+  ]
 }
