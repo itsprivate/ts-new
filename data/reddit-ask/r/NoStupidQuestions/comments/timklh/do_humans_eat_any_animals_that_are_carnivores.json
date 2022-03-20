@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Im dumb"
+  "the_new_excerpt": "Im dumb",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アイムダブリュー",
+      "title": "人間は肉食の動物を食べているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是个哑巴",
+      "title": "人类是否吃任何食肉动物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是個啞巴",
+      "title": "人類是否喫任何食肉動物？"
+    }
+  ]
 }
