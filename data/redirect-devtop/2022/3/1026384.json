@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-17T18:51:37Z",
   "image": "https://dev.to/social_previews/article/1026384.png",
   "author": "Voltra",
-  "author_url": "https://dev.to/voltra"
+  "author_url": "https://dev.to/voltra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、3ヶ月足らずの間に3回も政治の話をしなければならないというのは...。",
+      "title": "Fakerjs、colors、node-ipc...。開発者が信頼できない理由"
+    },
+    {
+      "locale": "zh",
+      "description": "女士们，先生们，我在不到3个月的时间里要谈3次政治，这是一个事实。",
+      "title": "Fakerjs、颜色、node-ipc... 为什么开发人员不能被信任"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "女士們，先生們，我在不到3個月的時間裏要談3次政治，這是一個事實。",
+      "title": "Fakerjs、顏色、node-ipc... 爲什麼開發人員不能被信任"
+    }
+  ]
 }
