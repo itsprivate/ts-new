@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このシャドウは完璧なグラデーションを作り出します。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个影子创造了一个完美的梯度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個影子創造了一個完美的梯度。"
+    }
+  ]
 }
