@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うん、まだ見てる"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，还在看"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，還在看"
+    }
+  ]
 }
