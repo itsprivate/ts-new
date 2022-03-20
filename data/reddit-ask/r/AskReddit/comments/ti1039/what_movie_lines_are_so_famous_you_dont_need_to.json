@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画のタイトルに言及する必要がないほど有名な映画のセリフは？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些电影台词是如此著名的，你不需要提到电影的名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些電影臺詞是如此著名的，你不需要提到電影的名字？"
+    }
+  ]
 }
