@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-17T12:05:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GSxztzhn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5e1wfw5edolh280gpgj.png",
   "author": "Johannes Kettmann",
-  "author_url": "https://dev.to/jkettmann"
+  "author_url": "https://dev.to/jkettmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソロの開発者はメインブランチで作業しています。チームはそうではありません。彼らはトランクベース開発のようなプロフェッショナルなワークフローを使っています。このガイドでは、あなたにもできる方法を紹介します。",
+      "title": "React開発者のためのGitワークフローとGitHubセットアップ (スクリーンキャスト付き)"
+    },
+    {
+      "locale": "zh",
+      "description": "单独的开发人员在主分支上工作。团队则不然。他们使用专业的工作流程，如基于主干的开发。本指南展示了你如何做到这一点。",
+      "title": "为（React）开发人员提供专业的Git工作流程和GitHub设置（包括截屏）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "單獨的開發人員在主分支上工作。團隊則不然。他們使用專業的工作流程，如基於主幹的開發。本指南展示了你如何做到這一點。",
+      "title": "爲（React）開發人員提供專業的Git工作流程和GitHub設置（包括截屏）。"
+    }
+  ]
 }
