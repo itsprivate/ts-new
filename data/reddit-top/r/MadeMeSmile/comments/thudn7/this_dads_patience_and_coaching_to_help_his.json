@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このお父さんは、娘さんのスケートボードの技術を向上させるために忍耐強くコーチングし、上達するにつれて感動を与えています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位父亲耐心指导，帮助他的女儿发展滑板技能，并在她的进步中兴奋不已。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位父親耐心指導，幫助他的女兒發展滑板技能，並在她的進步中興奮不已。"
+    }
+  ]
 }

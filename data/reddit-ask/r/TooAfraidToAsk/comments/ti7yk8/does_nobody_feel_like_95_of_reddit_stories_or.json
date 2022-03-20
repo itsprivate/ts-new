@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Even the comments"
+  "the_new_excerpt": "Even the comments",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コメントも",
+      "title": "Redditのストーリーやシチュエーションの95％はフェイクだと感じている人はいないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "即使是评论",
+      "title": "没有人觉得95%的Reddit故事或情况是假的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "即使是評論",
+      "title": "沒有人覺得95%的Reddit故事或情況是假的嗎？"
+    }
+  ]
 }
