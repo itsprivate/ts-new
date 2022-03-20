@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-20T07:01:00Z"
+  "original_createdAt": "2022-03-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Theneoは、StripeのようなAPIドキュメントを生成するAIツールです。私たちのMLモデルは、APIドキュメントの生成と公開における面倒な手作業を代行し、ライターにとっては技術的な負担が少なく、開発者にとっては文章作成の負担が少ない、より簡単なドキュメントを作成することができます。",
+      "tagline": "StripeのようなAPIドキュメントをわずか数クリックで作成可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Theneo是一个人工智能工具，可以生成类似Stripe的API文档。我们的ML模型处理了生成和发布API文档的繁琐的手工工作，使它们更容易产生--对编写者的技术要求不高，对开发人员的写作要求不高。",
+      "tagline": "只需点击几下就能建立类似Stripe的API文档"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Theneo是一個人工智能工具，可以生成類似Stripe的API文檔。我們的ML模型處理了生成和發佈API文檔的繁瑣的手工工作，使它們更容易產生--對編寫者的技術要求不高，對開發人員的寫作要求不高。",
+      "tagline": "只需點擊幾下就能建立類似Stripe的API文檔"
+    }
+  ]
 }
