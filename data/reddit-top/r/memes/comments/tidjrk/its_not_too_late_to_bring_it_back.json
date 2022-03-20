@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今からでも遅くはない、復活させるんだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在把它带回来还不算太晚。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在把它帶回來還不算太晚。"
+    }
+  ]
 }
