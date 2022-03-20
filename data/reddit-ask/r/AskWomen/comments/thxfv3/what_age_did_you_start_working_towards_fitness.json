@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何歳からフィットネスに取り組んだのですか？あなたが選んだフィットネス・アクティビティは何ですか？週に何回くらいやっていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你从什么年龄开始为健身而努力？你选择的健身活动是什么？你每周做多少次？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你從什麼年齡開始爲健身而努力？你選擇的健身活動是什麼？你每週做多少次？"
+    }
+  ]
 }
