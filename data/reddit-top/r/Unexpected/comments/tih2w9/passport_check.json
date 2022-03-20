@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パスポートチェック"
+    },
+    {
+      "locale": "zh",
+      "title": "护照检查"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "護照檢查"
+    }
+  ]
 }
