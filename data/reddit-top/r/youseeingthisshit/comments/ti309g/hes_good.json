@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は優秀だ!"
+    },
+    {
+      "locale": "zh",
+      "title": "他很厉害！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他很厲害！"
+    }
+  ]
 }

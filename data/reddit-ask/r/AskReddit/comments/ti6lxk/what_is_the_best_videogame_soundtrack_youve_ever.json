@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで聴いたビデオゲームのサウンドトラックの中で、最も優れたものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你听过的最好的电子游戏原声音乐是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽過的最好的電子遊戲原聲音樂是什麼？"
+    }
+  ]
 }
