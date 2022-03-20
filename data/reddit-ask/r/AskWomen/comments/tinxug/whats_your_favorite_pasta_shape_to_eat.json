@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Orzo, penne, etc."
+  "the_new_excerpt": "Orzo, penne, etc.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "オルゾー、ペンネなど",
+      "title": "好きなパスタの形は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "玉米面、通心粉，等等。",
+      "title": "你最喜欢吃什么形状的意大利面？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "玉米麪、通心粉，等等。",
+      "title": "你最喜歡喫什麼形狀的意大利麪？"
+    }
+  ]
 }
