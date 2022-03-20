@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-19T13:44:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mJByjFIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7kdq72js2t5pqg64i89t.png",
   "author": "abdellah hariti",
-  "author_url": "https://dev.to/_hariti"
+  "author_url": "https://dev.to/_hariti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プロミスは非同期処理の大きな転換点であり、新しいタイプのプロミスを可能にしました。",
+      "title": "プロミス: async/await vs .then(), どうしてこうなったか、なぜ両方使うのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们是如何走到这一步的 诺言标志着异步js的一个巨大转折点，它使一种新型的...",
+      "title": "承诺：async/await与.then()，我们是如何走到这一步的，以及为什么我同时使用两者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們是如何走到這一步的 諾言標誌着異步js的一個巨大轉折點，它使一種新型的...",
+      "title": "承諾：async/await與.then()，我們是如何走到這一步的，以及爲什麼我同時使用兩者"
+    }
+  ]
 }
