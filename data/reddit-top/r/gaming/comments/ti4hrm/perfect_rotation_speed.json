@@ -72,5 +72,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完全回転速度"
+    },
+    {
+      "locale": "zh",
+      "title": "完美的旋转速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "完美的旋轉速度"
+    }
+  ]
 }
