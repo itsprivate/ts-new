@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And if you don’t mind, what industry and how long ago?"
+  "the_new_excerpt": "And if you don’t mind, what industry and how long ago?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、差し支えなければ、業種や何年前かを教えてください。",
+      "title": "大学卒業後の初任給は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你不介意的话，什么行业，多长时间以前？",
+      "title": "你大学毕业后的起薪是多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你不介意的話，什麼行業，多長時間以前？",
+      "title": "你大學畢業後的起薪是多少？"
+    }
+  ]
 }
