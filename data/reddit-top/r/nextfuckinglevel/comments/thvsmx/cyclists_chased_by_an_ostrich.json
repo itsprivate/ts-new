@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダチョウに追いかけられるサイクリストたち"
+    },
+    {
+      "locale": "zh",
+      "title": "骑自行车的人被一只鸵鸟追赶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "騎自行車的人被一隻鴕鳥追趕"
+    }
+  ]
 }

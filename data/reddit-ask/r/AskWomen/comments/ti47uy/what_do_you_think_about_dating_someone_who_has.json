@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If you don’t mind please also write if you have children or not"
+  "the_new_excerpt": "If you don’t mind please also write if you have children or not",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "差し支えなければ、お子様の有無もお書きください。",
+      "title": "すでにお子さんがいらっしゃる方とお付き合いすることについてどう思われますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你不介意的话，也请写上你是否有孩子。",
+      "title": "你对与已经有孩子的人约会有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你不介意的話，也請寫上你是否有孩子。",
+      "title": "你對與已經有孩子的人約會有什麼看法？"
+    }
+  ]
 }
