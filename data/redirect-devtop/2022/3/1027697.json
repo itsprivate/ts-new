@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-19T06:07:53Z",
   "image": "https://dev.to/social_previews/article/1027697.png",
   "author": "Kristian Quirapas",
-  "author_url": "https://dev.to/kquirapas"
+  "author_url": "https://dev.to/kquirapas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は今大学に在籍しています。私たちはグループとして、自分たちのアプリケーションを構築することを課されました...",
+      "title": "少人数のチームでプロジェクトを立ち上げる前に、どのような基準やガイドなどを決済するのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，我目前在大学里，我们的任务是作为一个小组，建立一个我们的应用程序。",
+      "title": "在开始用一个小团队建立一个项目之前，你会解决哪些标准、指南等？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，我目前在大學裏，我們的任務是作爲一個小組，建立一個我們的應用程序。",
+      "title": "在開始用一個小團隊建立一個項目之前，你會解決哪些標準、指南等？"
+    }
+  ]
 }
