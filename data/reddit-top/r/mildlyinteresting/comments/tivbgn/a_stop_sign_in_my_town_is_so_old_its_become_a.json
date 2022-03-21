@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の町のストップサインは古すぎて、デスメタルバンドのロゴになってしまいました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我镇上的一个站牌太老了，已经成了死亡金属乐队的标志"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我鎮上的一個站牌太老了，已經成了死亡金屬樂隊的標誌"
+    }
+  ]
 }
