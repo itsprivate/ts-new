@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは法律を破っている"
+    },
+    {
+      "locale": "zh",
+      "title": "你在犯法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在犯法"
+    }
+  ]
 }
