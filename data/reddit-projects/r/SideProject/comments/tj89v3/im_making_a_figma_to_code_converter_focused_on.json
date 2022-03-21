@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ピクセルの完成度、応答性、人間が読みやすいコードに焦点を当てたFigmaからコードへのコンバーターを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在制作一个Figma到代码的转换器，专注于像素的完美性、响应性和人类可读的代码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在製作一個Figma到代碼的轉換器，專注於像素的完美性、響應性和人類可讀的代碼。"
+    }
+  ]
 }
