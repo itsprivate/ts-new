@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-20T04:49:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zGh0adyD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pba5049v4hhvwxazi6b7.png",
   "author": "Nayaab Khan",
-  "author_url": "https://dev.to/nayaabkhan"
+  "author_url": "https://dev.to/nayaabkhan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React、Vue、Svelteなどのコンポーネントベースのライブラリ/フレームワークを使用しているアプリケーションでは、そのパワーを活用することができます...",
+      "title": "デザインシステムに不可欠なレイアウトコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你的应用程序使用基于组件的库/框架，如React、Vue或Svelte，就可以利用其强大的功能。",
+      "title": "为你的设计系统提供必要的布局组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你的應用程序使用基於組件的庫/框架，如React、Vue或Svelte，就可以利用其強大的功能。",
+      "title": "爲你的設計系統提供必要的佈局組件"
+    }
+  ]
 }
