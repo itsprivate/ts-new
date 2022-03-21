@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-01T19:54:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6WCD1HI6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m73omkbnm8m7huweaa6.png",
   "author": "Aditya Oberai",
-  "author_url": "https://dev.to/adityaoberai"
+  "author_url": "https://dev.to/adityaoberai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私たちAppwriteは、オープンソースを通じてより良い開発者になるためのTwitterスペースを主催した。",
+      "title": "オープンソースでより良い開発者になるために"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我们在Appwrite举办了一个关于通过开源成为一个更好的开发者的Twitter空间。",
+      "title": "通过开源成为一个更好的开发者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我們在Appwrite舉辦了一個關於通過開源成爲一個更好的開發者的Twitter空間。",
+      "title": "通過開源成爲一個更好的開發者"
+    }
+  ]
 }
