@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベリエッサ湖のグローリーホール。洪水を防ぐための排水管である。"
+    },
+    {
+      "locale": "zh",
+      "title": "Berryessa湖的光荣洞。这是一个排水管，用于防止洪水。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Berryessa湖的光榮洞。這是一個排水管，用於防止洪水。"
+    }
+  ]
 }
