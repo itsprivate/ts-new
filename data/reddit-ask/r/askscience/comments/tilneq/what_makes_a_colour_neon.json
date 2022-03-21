@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is there a special ingredient in neon yellow or neon orange dyes or colours that\nmakes them particularly glowing?"
+  "the_new_excerpt": "Is there a special ingredient in neon yellow or neon orange dyes or colours that\nmakes them particularly glowing?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ネオンイエローやネオンオレンジの染料や色には、特別な成分が含まれているのでしょうか？\n特に光っているのでしょうか？",
+      "title": "色を \"ネオン \"と呼ぶのはなぜか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "霓虹黄或霓虹橙的染料或颜色中是否有一种特殊的成分，使它们特别容易发光？\n使它们特别发光？",
+      "title": "什么使一种颜色成为 \"霓虹灯\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "霓虹黃或霓虹橙的染料或顏色中是否有一種特殊的成分，使它們特別容易發光？\n使它們特別發光？",
+      "title": "什麼使一種顏色成爲 \"霓虹燈\"？"
+    }
+  ]
 }
