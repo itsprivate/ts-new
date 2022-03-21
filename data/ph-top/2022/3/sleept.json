@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-21T07:01:00Z"
+  "original_createdAt": "2022-03-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sleeptは、優しい音楽や目覚ましライトなどを使って、簡単にリラックスして目覚めることができる目覚まし時計アプリです。朝起きるのは大変ですが、Sleeptがあれば少しは楽になります。",
+      "tagline": "Sleeptは、簡単に目覚めることができる目覚まし時計アプリです"
+    },
+    {
+      "locale": "zh",
+      "description": "Sleept是一款闹钟应用，通过使用轻柔的音乐、唤醒灯等帮助你轻松地醒来。早上起床很难，但Sleept让它变得更容易一些。",
+      "tagline": "Sleept是一款帮助你轻松醒来的闹钟应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sleept是一款鬧鐘應用，通過使用輕柔的音樂、喚醒燈等幫助你輕鬆地醒來。早上起牀很難，但Sleept讓它變得更容易一些。",
+      "tagline": "Sleept是一款幫助你輕鬆醒來的鬧鐘應用"
+    }
+  ]
 }

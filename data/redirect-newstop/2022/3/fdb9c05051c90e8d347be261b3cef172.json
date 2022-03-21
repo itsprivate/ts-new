@@ -14,5 +14,19 @@
   "tags": [
     "The New York Times"
   ],
-  "image": "https://static01.nyt.com/images/2022/03/21/world/21china-crash-header/21china-crash-01-facebookJumbo.jpg"
+  "image": "https://static01.nyt.com/images/2022/03/21/world/21china-crash-header/21china-crash-01-facebookJumbo.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国機墜落事故。ライブアップデートと最新ニュース"
+    },
+    {
+      "locale": "zh",
+      "title": "中国飞机失事。实时更新和最新新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國飛機失事。實時更新和最新新聞"
+    }
+  ]
 }

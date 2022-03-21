@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-21T12:49:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SS-DkKa3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2be4y5ejvqhbprah2lsn.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例えば、あなたが独立して仕事をしていて、何とかやっていけるとします。でも、もし誰かが...",
+      "title": "一般的に理解されているようで学んだことのないコーディングのコンセプトやプラクティスは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "比方说，你独立工作，你过得很好，但也许你有点害怕，如果有人...",
+      "title": "什么编码概念或实践似乎是普遍理解的，但你从未学过？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "比方說，你獨立工作，你過得很好，但也許你有點害怕，如果有人...",
+      "title": "什麼編碼概念或實踐似乎是普遍理解的，但你從未學過？"
+    }
+  ]
 }
