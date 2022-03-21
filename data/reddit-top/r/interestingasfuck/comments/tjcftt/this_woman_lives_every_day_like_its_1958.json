@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この女性は、毎日を1958年のように生きています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个女人每天都过得像1958年一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個女人每天都過得像1958年一樣"
+    }
+  ]
 }
