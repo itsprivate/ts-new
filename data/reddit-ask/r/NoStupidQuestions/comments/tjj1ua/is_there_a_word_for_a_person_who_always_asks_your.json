@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつもあなたの意見を聞いて、なぜあなたが間違っていて、彼らが正しいのかをただ説明する人のことを言う言葉はありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有没有一个词可以形容一个人，他总是问你的意见，然后只是向你解释为什么你是错的，他们是对的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有沒有一個詞可以形容一個人，他總是問你的意見，然後只是向你解釋爲什麼你是錯的，他們是對的？"
+    }
+  ]
 }
