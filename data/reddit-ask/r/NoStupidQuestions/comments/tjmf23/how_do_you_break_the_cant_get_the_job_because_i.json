@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "経験がないから仕事を得られない、経験を積める仕事に就けないというサイクルをどう打破するのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你如何打破因为我没有经验而找不到工作，因为我找不到能给我带来经验的工作的循环？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你如何打破因爲我沒有經驗而找不到工作，因爲我找不到能給我帶來經驗的工作的循環？"
+    }
+  ]
 }
