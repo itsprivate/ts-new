@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-21T09:14:57Z"
+  "original_createdAt": "2022-03-21T09:14:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイト上のクッキーを識別するためのシンプルで使いやすいクッキースキャナーです。ウェブサイトのURLを入力して送信するだけで、数秒で完全なクッキー・スキャン・レポートが得られます。",
+      "tagline": "WebサイトのCookieをワンクリックで確認できるツール"
+    },
+    {
+      "locale": "zh",
+      "description": "一个简单易行的cookie扫描器，用于识别网站上的cookie。只需输入网站的URL并提交，你将在几秒钟内得到完整的cookie扫描报告。",
+      "tagline": "一键式工具，检查网站的cookies"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個簡單易行的cookie掃描器，用於識別網站上的cookie。只需輸入網站的URL並提交，你將在幾秒鐘內得到完整的cookie掃描報告。",
+      "tagline": "一鍵式工具，檢查網站的cookies"
+    }
+  ]
 }
