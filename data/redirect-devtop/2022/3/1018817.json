@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-10T20:40:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JrHFWE0Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkj767b9i035yoarigij.jpg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "野心的な記事のタイトルですね。一般的には野心的な目標です。水分補給、その過程...",
+      "title": "JavaScriptの水分補給を克服する"
+    },
+    {
+      "locale": "zh",
+      "description": "对于一篇文章来说，这是一个雄心勃勃的标题。一般来说，这是一个雄心勃勃的目标。水合，是指水合的过程...",
+      "title": "征服JavaScript的水合作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於一篇文章來說，這是一個雄心勃勃的標題。一般來說，這是一個雄心勃勃的目標。水合，是指水合的過程...",
+      "title": "征服JavaScript的水合作用"
+    }
+  ]
 }
