@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-19T18:40:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aunPgx8Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfqpc6qmbn1rth2hchkj.png",
   "author": "Rahul Sharma",
-  "author_url": "https://dev.to/devsmitra"
+  "author_url": "https://dev.to/devsmitra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Reactのベストプラクティスに関する記事の第3回目です。",
+      "title": "コードを減らすためのReactのベストプラクティスとパターン - Part 3"
+    },
+    {
+      "locale": "zh",
+      "description": "这是第三篇关于React最佳实践的文章，如果你没有看过我以前的文章，...",
+      "title": "减少代码的React最佳实践和模式 - 第三部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是第三篇關於React最佳實踐的文章，如果你沒有看過我以前的文章，...",
+      "title": "減少代碼的React最佳實踐和模式 - 第三部分"
+    }
+  ]
 }
