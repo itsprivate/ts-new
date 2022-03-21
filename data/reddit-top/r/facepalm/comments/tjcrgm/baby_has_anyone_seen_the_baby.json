@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Baby! 誰か赤ん坊を見たか!"
+    },
+    {
+      "locale": "zh",
+      "title": "宝贝! 有谁见过这个孩子吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "寶貝! 有誰見過這個孩子嗎？"
+    }
+  ]
 }
