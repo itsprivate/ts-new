@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジャストファイブニュース - デイリーニュース"
+    },
+    {
+      "locale": "zh",
+      "title": "仅仅是五条新闻 - 每日新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "僅僅是五條新聞 - 每日新聞"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-19T13:59:12Z",
   "image": "https://dev.to/social_previews/article/1027872.png",
   "author": "jsmanifest",
-  "author_url": "https://dev.to/jsmanifest"
+  "author_url": "https://dev.to/jsmanifest",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラマーとしてコードを書くとき、私たちは常に適切な判断を下そうと努めています。それは、常に...",
+      "title": "JavaScriptにおけるファクトリーデザインパターンの威力"
+    },
+    {
+      "locale": "zh",
+      "description": "作为程序员，我们在写代码时总是试图做出好的决定。这并不总是一个...",
+      "title": "工厂设计模式在JavaScript中的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲程序員，我們在寫代碼時總是試圖做出好的決定。這並不總是一個...",
+      "title": "工廠設計模式在JavaScript中的力量"
+    }
+  ]
 }
