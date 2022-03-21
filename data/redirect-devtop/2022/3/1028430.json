@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-20T05:37:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S9E0vaAD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8k18zp4jqadx7rsul70i.png",
   "author": "SnowBit",
-  "author_url": "https://dev.to/codewithsnowbit"
+  "author_url": "https://dev.to/codewithsnowbit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 今回は、CSSでカスタムスクロールバーを作る方法について説明します...。",
+      "title": "CSSで美しいグラデーションのスクロールバーを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 在这篇文章中，我们将解释如何在CSS.... 中制作一个自定义滚动条。",
+      "title": "如何用CSS制作一个漂亮的渐变滚动条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 在這篇文章中，我們將解釋如何在CSS.... 中製作一個自定義滾動條。",
+      "title": "如何用CSS製作一個漂亮的漸變滾動條"
+    }
+  ]
 }
