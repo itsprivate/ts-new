@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアのいたずら好きが、エレベーターにプーチンの写真を飾り、住民の反応を撮影する。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯恶作剧者将普京的照片挂在电梯里，并拍摄居民的反应。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯惡作劇者將普京的照片掛在電梯裏，並拍攝居民的反應。"
+    }
+  ]
 }
