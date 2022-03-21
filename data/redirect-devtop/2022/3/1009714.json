@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-04T16:36:43Z",
   "image": "https://dev.to/social_previews/article/1009714.png",
   "author": "Emmanuil B.",
-  "author_url": "https://dev.to/emmanuilsb"
+  "author_url": "https://dev.to/emmanuilsb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Svelteは、2021年に開発者が最も愛したWebフレームワークと評価されました（リンク）。では、Svelteとはどのようなもので、...",
+      "title": "ウェブ開発を複雑にしない - Svelteを試す"
+    },
+    {
+      "locale": "zh",
+      "description": "Svelte被评为2021年最受开发者喜爱的网络框架（链接）。那么，什么是Svelte和...",
+      "title": "停止过度复杂的网络开发--尝试Svelte"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Svelte被評爲2021年最受開發者喜愛的網絡框架（鏈接）。那麼，什麼是Svelte和...",
+      "title": "停止過度複雜的網絡開發--嘗試Svelte"
+    }
+  ]
 }
