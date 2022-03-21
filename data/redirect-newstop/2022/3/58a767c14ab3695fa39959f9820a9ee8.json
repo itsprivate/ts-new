@@ -14,5 +14,19 @@
   "tags": [
     "Reuters"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=79",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国のボーイングが132人乗りのまま墜落、生存者の痕跡はなし"
+    },
+    {
+      "locale": "zh",
+      "title": "中国波音飞机坠毁，机上有132人，没有生还者的迹象"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國波音飛機墜毀，機上有132人，沒有生還者的跡象"
+    }
+  ]
 }
