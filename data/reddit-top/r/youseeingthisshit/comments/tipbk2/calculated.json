@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "計算される。"
+    },
+    {
+      "locale": "zh",
+      "title": "计算出来的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "計算出來的。"
+    }
+  ]
 }
