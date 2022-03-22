@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-22T07:01:00Z"
+  "original_createdAt": "2022-03-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは、イベントや体験を創造、発見、管理することができるNFTイベントチケッティングプラットフォームです。既存のコレクションや新しいコレクションを使用してイベントを作成する機能をサポートしています。eth, sol, avax, bsc, matic.",
+      "tagline": "Apple walletと連携したマルチチェーンNFTのイベントチケッティング"
+    },
+    {
+      "locale": "zh",
+      "description": "我们是一个NFT活动票务平台，允许你创建、发现和管理活动和体验。我们支持用预先存在的或新的集合与我们支持的任何连锁店创建一个事件的能力。eth, sol, avax, bsc, matic.",
+      "tagline": "Multichain NFT活动票务与苹果钱包整合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們是一個NFT活動票務平臺，允許你創建、發現和管理活動和體驗。我們支持用預先存在的或新的集合與我們支持的任何連鎖店創建一個事件的能力。eth, sol, avax, bsc, matic.",
+      "tagline": "Multichain NFT活動票務與蘋果錢包整合"
+    }
+  ]
 }

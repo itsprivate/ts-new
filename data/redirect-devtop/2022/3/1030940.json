@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-22T13:31:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6r7BhMez--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jcv7r1r82y6zuw0bbfwa.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テクノロジーがより一般的になり、より多くの人がアクセスできるようになるにつれて、あなたも経験したことがあるかもしれません。",
+      "title": "ご家族やご友人で、ソフトウェア関連の仕事に興味をお持ちの方はいらっしゃいますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "随着技术越来越流行，希望更多的人能够接触到，你可能已经...",
+      "title": "你是否有家人和朋友对软件方面的工作感兴趣？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着技術越來越流行，希望更多的人能夠接觸到，你可能已經...",
+      "title": "你是否有家人和朋友對軟件方面的工作感興趣？"
+    }
+  ]
 }
