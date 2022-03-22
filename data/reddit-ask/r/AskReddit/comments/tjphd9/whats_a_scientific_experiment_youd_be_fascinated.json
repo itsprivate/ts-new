@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "倫理的な問題で実施できないけれども、ぜひやってみたい科学実験があれば教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么科学实验是你很想看到的结果，但由于道德方面的考虑而无法进行的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼科學實驗是你很想看到的結果，但由於道德方面的考慮而無法進行的？"
+    }
+  ]
 }
