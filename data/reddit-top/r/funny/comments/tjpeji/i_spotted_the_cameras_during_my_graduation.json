@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "卒業式でカメラを発見"
+    },
+    {
+      "locale": "zh",
+      "title": "我在毕业典礼上发现了这些摄像机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在畢業典禮上發現了這些攝像機"
+    }
+  ]
 }
