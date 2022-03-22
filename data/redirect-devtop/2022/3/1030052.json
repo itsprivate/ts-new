@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-21T17:48:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qm-kEAzd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.youtube.com/vi/N9W6rhHMKbA/0.jpg",
   "author": "Domi",
-  "author_url": "https://dev.to/domiii"
+  "author_url": "https://dev.to/domiii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "虫の知らせにお困りではありませんか？Dbuxは、必要なものすべてを表示する新しいタイプのデバッガ（フルオープンソース）です。お気軽にお試しいただき、フィードバックをお寄せください。",
+      "title": "JavaScriptのための全く新しいDEBUGGER (Dbux: Why? What?)"
+    },
+    {
+      "locale": "zh",
+      "description": "在寻找那些讨厌的bug时遇到问题？Dbux 是一种新的调试器（完全开源），可以向您展示您需要的一切。请随时试用并给我们反馈",
+      "title": "一个全新的JavaScript DEBUGGER (Dbux: Why? What?）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在尋找那些討厭的bug時遇到問題？Dbux 是一種新的調試器（完全開源），可以向您展示您需要的一切。請隨時試用並給我們反饋",
+      "title": "一個全新的JavaScript DEBUGGER (Dbux: Why? What?）"
+    }
+  ]
 }
