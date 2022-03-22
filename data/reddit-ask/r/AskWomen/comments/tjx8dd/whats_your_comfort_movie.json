@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What’s that movie you can always watch or bring you back to a comfy space\nmentally, and why?"
+  "the_new_excerpt": "What’s that movie you can always watch or bring you back to a comfy space\nmentally, and why?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "いつも見ている映画、心地よい空間に誘ってくれる映画は何ですか？\nその理由は？",
+      "title": "あなたにとって心地よい映画とは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你总是可以看什么电影，或者把你带回一个舒适的空间？\n精神上，为什么？",
+      "title": "什么是你的舒适电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你總是可以看什麼電影，或者把你帶回一個舒適的空間？\n精神上，爲什麼？",
+      "title": "什麼是你的舒適電影？"
+    }
+  ]
 }
