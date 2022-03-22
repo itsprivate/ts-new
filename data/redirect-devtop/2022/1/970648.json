@@ -50,5 +50,22 @@
   "original_created_at": "2022-01-28T09:06:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h-pZImEP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/riadmszpmviv83goianw.jpg",
   "author": "Ingo Steinke",
-  "author_url": "https://dev.to/ingosteinke"
+  "author_url": "https://dev.to/ingosteinke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正しいことを間違った理由でするのは構わないが、そのためだけに何かをするのはやめてほしい。",
+      "title": "生産的な先延ばしと見かけ上の生産性の比較"
+    },
+    {
+      "locale": "zh",
+      "description": "我不介意你因为错误的原因而做正确的事情，但请不要只为了......而做任何事情。",
+      "title": "生产性拖延与明显的生产力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不介意你因爲錯誤的原因而做正確的事情，但請不要只爲了......而做任何事情。",
+      "title": "生產性拖延與明顯的生產力"
+    }
+  ]
 }
