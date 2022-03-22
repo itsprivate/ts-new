@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-22T07:01:00Z"
+  "original_createdAt": "2022-03-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slack、Gmail、Jira、Asana、GitHub など、すでに使用しているツールとの双方向統合により、すべてのタスクとコミュニケーションを単一のビューに表示 🗓 Taskable から直接カレンダーにタスクをドラッグ＆ドロップ 👓 最優先事項への集中を維持",
+      "tagline": "タスクとカレンダーを統合し、一日中生産性を向上"
+    },
+    {
+      "locale": "zh",
+      "description": "🔌 与你已经使用的工具（如Slack、Gmail、Jira、Asana、GitHub等）进行双向集成，将你的所有任务和通信纳入单一视图 🗓 从Taskable中直接在日历中拖放任务 👓 专注于你的首要任务",
+      "tagline": "集成了任务和日历，实现了全天的生产力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔌 與你已經使用的工具（如Slack、Gmail、Jira、Asana、GitHub等）進行雙向集成，將你的所有任務和通信納入單一視圖 🗓 從Taskable中直接在日曆中拖放任務 👓 專注於你的首要任務",
+      "tagline": "集成了任務和日曆，實現了全天的生產力"
+    }
+  ]
 }
