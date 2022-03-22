@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-19T08:49:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nYkPmgdD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mosr0fwjhx8sfhu8rwc2.jpg",
   "author": "Deepu K Sasidharan",
-  "author_url": "https://dev.to/deepu105"
+  "author_url": "https://dev.to/deepu105",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "安全なプログラミングが重要な理由と、そのために私がRustを選ぶ理由。また、Rustを使った高速で安全なプログラミングについてもお話します。",
+      "title": "なぜ安全なプログラミングが重要なのか、なぜRustのような言語が重要なのか"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么安全编程很重要，以及为什么我会选择Rust来做这个。我们还将讨论用Rust进行快速和安全编程。",
+      "title": "为什么安全编程很重要，为什么Rust这样的语言很重要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼安全編程很重要，以及爲什麼我會選擇Rust來做這個。我們還將討論用Rust進行快速和安全編程。",
+      "title": "爲什麼安全編程很重要，爲什麼Rust這樣的語言很重要"
+    }
+  ]
 }
