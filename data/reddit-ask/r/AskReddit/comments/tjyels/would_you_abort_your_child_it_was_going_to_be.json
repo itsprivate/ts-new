@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、重度の障害を持つ子供が生まれた場合、その子供を中絶しますか？ なぜですか、それともしませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的孩子一出生就有严重的残疾，你会打掉他吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的孩子一出生就有嚴重的殘疾，你會打掉他嗎？"
+    }
+  ]
 }
