@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポジティブバイブのみ"
+    },
+    {
+      "locale": "zh",
+      "title": "只有积极的氛围"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只有積極的氛圍"
+    }
+  ]
 }
