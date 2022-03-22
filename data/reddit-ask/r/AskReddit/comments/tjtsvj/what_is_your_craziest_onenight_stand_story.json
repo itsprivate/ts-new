@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの一夜限りのクレイジーなエピソードを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你最疯狂的一夜情故事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最瘋狂的一夜情故事是什麼？"
+    }
+  ]
 }
