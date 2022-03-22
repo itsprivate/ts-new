@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-22T07:00:00Z"
+  "original_createdAt": "2022-03-22T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glideの新しいデータソースをサポートすることを発表できることを嬉しく思っています。Airtableです。今、GlideはAirtableを使用して、美しく、データ駆動型で、機能豊富なモバイルとWebアプリケーションを提供することができ、あなたの顧客はあなたのソフトウェアをより多くのコンテキストとデバイスで使用できるようになります。",
+      "tagline": "Airtableの上にモバイルおよびWebアプリケーションを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "我们很高兴地宣布支持Glide中的一个新数据源。Airtable。现在，Glide可以使用Airtable来支持漂亮的、数据驱动的、功能丰富的移动和网络应用，这样你的客户就可以在更多的场合、更多的设备上使用你的软件。",
+      "tagline": "在Airtable基础上构建移动和网络应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們很高興地宣佈支持Glide中的一個新數據源。Airtable。現在，Glide可以使用Airtable來支持漂亮的、數據驅動的、功能豐富的移動和網絡應用，這樣你的客戶就可以在更多的場合、更多的設備上使用你的軟件。",
+      "tagline": "在Airtable基礎上構建移動和網絡應用"
+    }
+  ]
 }
