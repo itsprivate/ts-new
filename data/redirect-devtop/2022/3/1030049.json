@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-21T17:46:12Z",
   "image": "https://dev.to/social_previews/article/1030049.png",
   "author": "Jordy Koppen",
-  "author_url": "https://dev.to/jordykoppen"
+  "author_url": "https://dev.to/jordykoppen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、前置きが長くなりました。これは製品化される前の実装ではありません。これは...",
+      "title": "Next.js、NodeJS、puppeteerでReactアプリをPDFにする"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，让我先说一下。这不是一个可供生产的实施方案。有...",
+      "title": "用Next.js、NodeJS和puppeteer将React应用变成PDF文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，讓我先說一下。這不是一個可供生產的實施方案。有...",
+      "title": "用Next.js、NodeJS和puppeteer將React應用變成PDF文件"
+    }
+  ]
 }
