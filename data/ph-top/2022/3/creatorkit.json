@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-22T07:01:00Z"
+  "original_createdAt": "2022-03-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CreatorKitは、Eコマースのために作られた初めての動画作成ソフトです。⠀ビデオエディターもShopifyに深く統合されているので、ワンクリックで商品ビデオ、ストーリー、広告を作成することができます。",
+      "tagline": "Eコマースや商品動画広告の動画クリエイター"
+    },
+    {
+      "locale": "zh",
+      "description": "CreatorKit是第一个专门为电子商务而设的视频创作工具。⠀ 该视频编辑器也被深度整合到Shopify中，所以你只需点击一下就可以创建产品视频、故事和广告。",
+      "tagline": "电子商务和产品视频广告的视频创建者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CreatorKit是第一個專門爲電子商務而設的視頻創作工具。⠀ 該視頻編輯器也被深度整合到Shopify中，所以你只需點擊一下就可以創建產品視頻、故事和廣告。",
+      "tagline": "電子商務和產品視頻廣告的視頻創建者"
+    }
+  ]
 }
