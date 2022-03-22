@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-22T19:36:05Z"
+  "original_createdAt": "2022-03-22T19:36:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WordPressのワークフローを再発明。プル、プッシュ、マージで時間を浪費する必要はありません。WordPress の中で Visual Studio を体験できます。Scripts Organizer は、WordPress のための高度なコードエディターです。",
+      "tagline": "Wordpress用アドバンストコードエディタ"
+    },
+    {
+      "locale": "zh",
+      "description": "重新发明的WordPress工作流程。不需要在拉、推和合并上浪费时间。在WordPress中获得Visual Studio的经验。Scripts Organizer是WordPress的高级代码编辑器。",
+      "tagline": "Wordpress的高级代码编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "重新發明的WordPress工作流程。不需要在拉、推和合並上浪費時間。在WordPress中獲得Visual Studio的經驗。Scripts Organizer是WordPress的高級代碼編輯器。",
+      "tagline": "Wordpress的高級代碼編輯器"
+    }
+  ]
 }
