@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も批判されたコメントと、そのコメントを支持する理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你被降权最多的评论是什么，为什么你仍然坚持它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被降權最多的評論是什麼，爲什麼你仍然堅持它？"
+    }
+  ]
 }
