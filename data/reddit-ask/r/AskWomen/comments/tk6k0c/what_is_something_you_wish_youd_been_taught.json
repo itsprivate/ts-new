@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分で考えるのではなく、教えてもらいたかったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望有人教你什么，而不是让你自己去想办法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望有人教你什麼，而不是讓你自己去想辦法？"
+    }
+  ]
 }
