@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ラン・ビットコイン・ラン"
+    },
+    {
+      "locale": "zh",
+      "title": "运行比特币运行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "運行比特幣運行"
+    }
+  ]
 }

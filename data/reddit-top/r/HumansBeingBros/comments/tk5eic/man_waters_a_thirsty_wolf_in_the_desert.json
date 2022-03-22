@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "狼に水"
+    },
+    {
+      "locale": "zh",
+      "title": "男子为沙漠中的饥荒狼浇水"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男子爲沙漠中的饑荒狼澆水"
+    }
+  ]
 }
