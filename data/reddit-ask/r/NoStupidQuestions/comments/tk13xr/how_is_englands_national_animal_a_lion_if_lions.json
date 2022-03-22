@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライオンの原産地がイギリスでないなら、どうしてイギリスの国獣はライオンなのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果狮子不是来自英格兰，那么英格兰的国家动物怎么会是狮子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果獅子不是來自英格蘭，那麼英格蘭的國家動物怎麼會是獅子？"
+    }
+  ]
 }
