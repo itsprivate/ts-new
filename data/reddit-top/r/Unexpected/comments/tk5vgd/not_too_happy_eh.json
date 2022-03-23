@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あまり嬉しくないですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "不太高兴，是吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不太高興，是嗎？"
+    }
+  ]
 }
