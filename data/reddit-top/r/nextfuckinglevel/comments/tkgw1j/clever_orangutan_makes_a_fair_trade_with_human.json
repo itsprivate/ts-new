@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "賢いオランウータンは人間と公正な取引をする"
+    },
+    {
+      "locale": "zh",
+      "title": "聪明的红毛猩猩与人类进行公平交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聰明的紅毛猩猩與人類進行公平交易"
+    }
+  ]
 }
