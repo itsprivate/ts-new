@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-23T18:35:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9cRfWQA5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/64fe9r7reu3e6uum06n5.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVはForemのインスタンスで、私たちが配布しているオープンソースのコミュニティソフトウェアです。",
+      "title": "商用オープンソースについてもっと知りたいと思いませんか？そのためのForemがあります。"
+    },
+    {
+      "locale": "zh",
+      "description": "DEV是Forem的一个实例：开源社区软件，我们将其分发给任何愿意使用的人。",
+      "title": "有兴趣了解更多关于商业开放源代码的信息吗？这里有一个Forem。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DEV是Forem的一個實例：開源社區軟件，我們將其分發給任何願意使用的人。",
+      "title": "有興趣瞭解更多關於商業開放源代碼的信息嗎？這裏有一個Forem。"
+    }
+  ]
 }
