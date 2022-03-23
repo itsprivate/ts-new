@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "女性であることを理由にされた最も不適切な質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被问到的最不合适的问题是什么，因为你是一个女人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被問到的最不合適的問題是什麼，因爲你是一個女人？"
+    }
+  ]
 }
