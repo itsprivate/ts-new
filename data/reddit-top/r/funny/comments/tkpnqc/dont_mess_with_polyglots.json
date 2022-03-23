@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポリグロットに手を出すな"
+    },
+    {
+      "locale": "zh",
+      "title": "不要招惹多语言者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要招惹多語言者"
+    }
+  ]
 }
