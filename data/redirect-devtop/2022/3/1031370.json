@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-22T21:41:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZB74tbLi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/inayndnqqdvee33qaaqe.jpeg",
   "author": "Michael Rawlings",
-  "author_url": "https://dev.to/mlrawlings"
+  "author_url": "https://dev.to/mlrawlings",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者は自分のサイトを速くしたいと思うものですが、パフォーマンスを向上させるには、小さな成果を積み重ねる必要があります。",
+      "title": "SSRが遅い、開発ツールが嘘をついている"
+    },
+    {
+      "locale": "zh",
+      "description": "作为开发人员，我们希望我们的网站是快速的，这需要许多小的胜利来增加一个高性能的网站。",
+      "title": "你的SSR很慢，你的devtools在欺骗你"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲開發人員，我們希望我們的網站是快速的，這需要許多小的勝利來增加一個高性能的網站。",
+      "title": "你的SSR很慢，你的devtools在欺騙你"
+    }
+  ]
 }
