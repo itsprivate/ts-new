@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヤマアラシのチャーリーは、危険なほど鋭い羽を持ちながらも、撫でてもらうのが大好きです。"
+    },
+    {
+      "locale": "zh",
+      "title": "尽管豪猪查理的毛很锋利，但他还是喜欢被人抚摸。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "儘管豪豬查理的毛很鋒利，但他還是喜歡被人撫摸。"
+    }
+  ]
 }
