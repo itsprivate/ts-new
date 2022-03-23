@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニューヨーク・タイムズ紙が伝える信じがたいFUD"
+    },
+    {
+      "locale": "zh",
+      "title": "来自《纽约时报》的令人难以置信的虚假信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來自《紐約時報》的令人難以置信的虛假信息"
+    }
+  ]
 }

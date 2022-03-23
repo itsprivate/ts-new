@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-23T07:01:00Z"
+  "original_createdAt": "2022-03-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Chrome、Meet、Calendarで、話のネタ、メモ、タスクを簡単に記録できます。Loopinは自動的に会議ごとにメモを整理するので、次の定期的な電話や1:1の電話でメモを探す必要はありません。簡単な共有オプションで、全員がループに入ることができます。",
+      "tagline": "Google ChromeとMeetでメモ、タスク、ミーティングを実現"
+    },
+    {
+      "locale": "zh",
+      "description": "在谷歌浏览器、Meet或日历上轻松捕捉谈话要点、笔记和任务。Loopin按会议自动组织笔记，因此你不必在下一次循环或1:1电话中搜索它们。通过简单的分享选项，让每个人都能了解情况。",
+      "tagline": "谷歌浏览器和Meet上的笔记、任务和会议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在谷歌瀏覽器、Meet或日曆上輕鬆捕捉談話要點、筆記和任務。Loopin按會議自動組織筆記，因此你不必在下一次循環或1:1電話中搜索它們。通過簡單的分享選項，讓每個人都能瞭解情況。",
+      "tagline": "谷歌瀏覽器和Meet上的筆記、任務和會議"
+    }
+  ]
 }
