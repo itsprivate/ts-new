@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "特定の州は、オーストラリアNGLを単独で使用できる"
+    },
+    {
+      "locale": "zh",
+      "title": "某些国家可以独占澳大利亚的NGL"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "某些國家可以獨佔澳大利亞的NGL"
+    }
+  ]
 }
