@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Go, Kotlin &amp; React で書かれた、電話やデスクトップにプッシュ通知を送るためのオープンソースツール"
+    },
+    {
+      "locale": "zh",
+      "title": "一个用Go、Kotlin和React编写的向你的手机/桌面发送推送通知的开源工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個用Go、Kotlin和React編寫的向你的手機/桌面發送推送通知的開源工具。"
+    }
+  ]
 }
