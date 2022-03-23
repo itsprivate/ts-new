@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マルチストリングリプレイサー - 複数の単語やテキストを同時に置換または交換する"
+    },
+    {
+      "locale": "zh",
+      "title": "多字符串替换器--同时替换或交换多个单词和文本!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多字符串替換器--同時替換或交換多個單詞和文本!"
+    }
+  ]
 }
