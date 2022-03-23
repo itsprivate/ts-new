@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もが受け入れているようで、あなたがまったくのデタラメだと思うものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "大家似乎都接受了什么，但你认为完全是胡说八道？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大家似乎都接受了什麼，但你認爲完全是胡說八道？"
+    }
+  ]
 }
