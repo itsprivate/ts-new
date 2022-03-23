@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、データマイナーの方にアプライアンスを納品しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天向一位数据挖掘者交付了设备"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天向一位數據挖掘者交付了設備"
+    }
+  ]
 }
