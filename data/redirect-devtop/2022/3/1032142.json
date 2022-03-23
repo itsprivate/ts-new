@@ -44,5 +44,22 @@
   "original_created_at": "2022-03-23T14:57:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UbduOPa1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2g86wjqt9ce7qplixp7i.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいプログラミング言語、生産性向上アプリ、何でもありです。 何が新しいのか、なぜ始めたのか...。",
+      "title": "最近使い始めた新しいものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "新的编程语言，生产力应用程序，等等。 对你来说什么是新的，你为什么开始...",
+      "title": "你最近开始使用的一个新东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新的編程語言，生產力應用程序，等等。 對你來說什麼是新的，你爲什麼開始...",
+      "title": "你最近開始使用的一個新東西是什麼？"
+    }
+  ]
 }
