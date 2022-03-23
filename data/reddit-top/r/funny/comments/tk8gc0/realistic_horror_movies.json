@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リアルなホラー映画"
+    },
+    {
+      "locale": "zh",
+      "title": "现实主义的恐怖电影"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現實主義的恐怖電影"
+    }
+  ]
 }
