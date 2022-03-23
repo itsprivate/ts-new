@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-23T07:01:00Z"
+  "original_createdAt": "2022-03-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bracketは、一般的なビジネスツールとバックエンドデータベースの間の双方向のデータパイプラインです。例えば、運用チームがAirtableでデータを更新し、エンジニアがMongoDBでデータを更新する場合、Bracketは2つのソースを接続して、同じ情報を反映させることができます。",
+      "tagline": "リッチで完全なデータを社内ツールなしで"
+    },
+    {
+      "locale": "zh",
+      "description": "Bracket是流行的业务工具和后端数据库之间的双向数据管道。例如，当运营团队在Airtable中更新数据，而工程师在MongoDB中更新数据时，Bracket将这两个来源连接起来以反映相同的信息。",
+      "tagline": "丰富、完整的数据，无需内部工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bracket是流行的業務工具和後端數據庫之間的雙向數據管道。例如，當運營團隊在Airtable中更新數據，而工程師在MongoDB中更新數據時，Bracket將這兩個來源連接起來以反映相同的信息。",
+      "tagline": "豐富、完整的數據，無需內部工具"
+    }
+  ]
 }
