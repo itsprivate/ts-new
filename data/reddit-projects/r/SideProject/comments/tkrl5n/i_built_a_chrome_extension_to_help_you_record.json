@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見栄えの良いデモビデオを撮影するためのChrome拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个Chrome扩展来帮助你录制漂亮的演示视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個Chrome擴展來幫助你錄製漂亮的演示視頻"
+    }
+  ]
 }
