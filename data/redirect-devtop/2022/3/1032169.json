@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-23T15:44:45Z",
   "image": "https://dev.to/social_previews/article/1032169.png",
   "author": "David Backeus",
-  "author_url": "https://dev.to/dbackeus"
+  "author_url": "https://dev.to/dbackeus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR; heroku labs:enable build-in-app-dir -a &lt;APP_NAME&gt; これでRailsアプリが起動するようになりました......。",
+      "title": "HerokuでのRails起動時間を1つのコマンドで半分にする"
+    },
+    {
+      "locale": "zh",
+      "description": "TLDR; heroku labs:enable build-in-app-dir -a &lt;APP_NAME&gt; 现在享受你的Rails应用程序的启动。",
+      "title": "用一个命令将你在Heroku上的Rails启动时间减少一半"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TLDR; heroku labs:enable build-in-app-dir -a &lt;APP_NAME&gt; 現在享受你的Rails應用程序的啓動。",
+      "title": "用一個命令將你在Heroku上的Rails啓動時間減少一半"
+    }
+  ]
 }
