@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-24T10:05:07Z"
+  "original_createdAt": "2022-03-24T10:05:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stack OverflowはDeveloper Storiesの廃止を発表し、400万人以上のデベロッパーが仕事、マイルストーン、プロジェクトなどのデータを失うことになります。そうでない場合もあります。あなたのDeveloper StoryのURLを貼り付けて、JSONファイルとしてダウンロードします。メールはありません。無料で。とても簡単です。",
+      "tagline": "データをゴミ箱に捨てないで"
+    },
+    {
+      "locale": "zh",
+      "description": "Stack Overflow宣布他们将停止开发者故事，超过400万的开发者将失去他们的数据：工作、里程碑、项目......。或者不会。粘贴你的开发故事URL并下载为JSON文件。没有邮件。免费的。就这么简单。",
+      "tagline": "拯救你的数据不被破坏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stack Overflow宣佈他們將停止開發者故事，超過400萬的開發者將失去他們的數據：工作、里程碑、項目......。或者不會。粘貼你的開發故事URL並下載爲JSON文件。沒有郵件。免費的。就這麼簡單。",
+      "tagline": "拯救你的數據不被破壞"
+    }
+  ]
 }

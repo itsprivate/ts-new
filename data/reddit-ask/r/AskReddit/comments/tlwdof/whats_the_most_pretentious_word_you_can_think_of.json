@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も気取った言葉は何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你能想到的最自命不凡的词是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你能想到的最自命不凡的詞是什麼？"
+    }
+  ]
 }
