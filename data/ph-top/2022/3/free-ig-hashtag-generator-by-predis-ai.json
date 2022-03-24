@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-24T07:29:16Z"
+  "original_createdAt": "2022-03-24T07:29:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このツールは、Predis.aiを構築する際のAI研究から生まれました。ハッシュタグジェネレーターが1つ増えたってマジ？そうです。一つのキーワードから#を生成するのではなく、フレーズを与えて#を得ることができます。これは、あなたのInstagramの投稿のコンテキストに、より正確な＃を意味します。",
+      "tagline": "AIから効果のあるInstagramハッシュタグを無料で取得する"
+    },
+    {
+      "locale": "zh",
+      "description": "这个工具是我们在建立Predis.ai时进行的人工智能研究的结果。说真的--还有一个Hashtag生成器？是的--不是从一个单一的关键词生成#s，而是给出一个短语并获得#s。这意味着你的Instagram帖子的背景更准确的#s!",
+      "tagline": "从我们的人工智能中免费获得Instagram的标签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個工具是我們在建立Predis.ai時進行的人工智能研究的結果。說真的--還有一個Hashtag生成器？是的--不是從一個單一的關鍵詞生成#s，而是給出一個短語並獲得#s。這意味着你的Instagram帖子的背景更準確的#s!",
+      "tagline": "從我們的人工智能中免費獲得Instagram的標籤"
+    }
+  ]
 }
