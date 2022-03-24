@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "投げられたものは何でも食べる魚"
+    },
+    {
+      "locale": "zh",
+      "title": "鱼，吃一切扔在它身上的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "魚，喫一切扔在它身上的東西"
+    }
+  ]
 }

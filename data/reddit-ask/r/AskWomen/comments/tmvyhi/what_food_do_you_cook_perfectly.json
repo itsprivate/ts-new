@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたはどんな料理を完璧に作りますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你做什么食物是完美的呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你做什麼食物是完美的呢？"
+    }
+  ]
 }
