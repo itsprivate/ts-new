@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちが彼らの通貨を使うからこそ、彼らは私たちをコントロールできるのです。ビットコインはこれを解決します"
+    },
+    {
+      "locale": "zh",
+      "title": "他们只能控制我们，因为我们使用他们的货币。比特币解决了这个问题。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們只能控制我們，因爲我們使用他們的貨幣。比特幣解決了這個問題。"
+    }
+  ]
 }
