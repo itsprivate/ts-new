@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "They say you can't take it with you when you die, but they're actually wrong\nthanks to the novel invention of Bitcoin. Simply memorize your seed phrase and\nrecover your wallet when you get to heaven. There's literally no reason this\nshouldn't work, prove me wrong."
+  "the_new_excerpt": "They say you can't take it with you when you die, but they're actually wrong\nthanks to the novel invention of Bitcoin. Simply memorize your seed phrase and\nrecover your wallet when you get to heaven. There's literally no reason this\nshouldn't work, prove me wrong.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "死ぬときに持っていけないと言われるが、実はそれは間違っている\nビットコインという斬新な発明のおかげです。シードフレーズを記憶しておくだけで\n天国へ行けば財布を取り戻せる。これは文字通り\n私が間違っていることを証明してください。",
+      "title": "死ぬときにビットコインを持っていく。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们说你死后不能带着它，但他们实际上错了\n多亏了比特币的新颖发明。只需记住你的种子短语并\n当你到了天堂就可以找回你的钱包。从字面上看，这没有任何理由\n不应该工作，证明我错了。",
+      "title": "当你死的时候，把你的比特币带走。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們說你死後不能帶着它，但他們實際上錯了\n多虧了比特幣的新穎發明。只需記住你的種子短語並\n當你到了天堂就可以找回你的錢包。從字面上看，這沒有任何理由\n不應該工作，證明我錯了。",
+      "title": "當你死的時候，把你的比特幣帶走。"
+    }
+  ]
 }
