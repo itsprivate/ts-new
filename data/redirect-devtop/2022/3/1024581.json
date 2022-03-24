@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-16T10:42:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DNFS3HgF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zknnvdfq99mpsjirhb5g.jpg",
   "author": "Kevin Lewis",
-  "author_url": "https://dev.to/_phzn"
+  "author_url": "https://dev.to/_phzn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、P5.jsとDeepgramの音声認識APIを使って、音声で操作するゲームを作ってみましょう。今すぐ方法を学ぶ",
+      "title": "P5.jsで遊ぶ。音声で操作するゲームを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将用P5.js和Deepgram的语音识别API构建一个语音控制的游戏。现在就来了解一下吧。",
+      "title": "用P5.js玩耍。创建一个语音控制的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將用P5.js和Deepgram的語音識別API構建一個語音控制的遊戲。現在就來了解一下吧。",
+      "title": "用P5.js玩耍。創建一個語音控制的遊戲"
+    }
+  ]
 }
