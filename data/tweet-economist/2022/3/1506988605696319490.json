@@ -1,0 +1,124 @@
+{
+  "created_at": "Thu Mar 24 14:5:12 +0000 2022",
+  "id_str": "1506988605696319490",
+  "full_text": "RT @_rospearce: Most data comes with some uncertainty, yet it looks definitive when plotted on a chart. Making this uncertainty visible is…",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "_rospearce",
+        "name": "Rosamund Pearce",
+        "id": 2149815847,
+        "id_str": "2149815847",
+        "indices": [
+          3,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "The Economist",
+    "screen_name": "TheEconomist",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879361767914262528/HdRauDM-_normal.jpg"
+  },
+  "retweet_count": 78,
+  "favorite_count": 0,
+  "original_created_at": "Thu Mar 24 13:37:36 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Wed Mar 23 18:16:01 +0000 2022",
+    "id_str": "1506696281321836550",
+    "full_text": "Most data comes with some uncertainty, yet it looks definitive when plotted on a chart. Making this uncertainty visible is one of the trickiest aspects of #dataviz\n\nI've written a brief intro to some of our approaches @TheEconomist in our data newsletter https://t.co/t161JzTq3L https://t.co/HfYOWGjOhH",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dataviz",
+          "indices": [
+            155,
+            163
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TheEconomist",
+          "name": "The Economist",
+          "id": 5988062,
+          "id_str": "5988062",
+          "indices": [
+            218,
+            231
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t161JzTq3L",
+          "expanded_url": "https://view.e.economist.com/?qs=47ab3ac6d352c46ac7318d7ce367556d7dd97ad337f8c0bd9584627d2072e25be7c052eda584f94b1154492e5b90b2aa4dd29f251253986ac11aacd0f5a6aece322558c7960c6cbb0457d840b80d5f7b",
+          "display_url": "view.e.economist.com/?qs=47ab3ac6d3…",
+          "indices": [
+            255,
+            278
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1506649979884118000,
+          "id_str": "1506649979884118017",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOiyLJPXoAEhPoR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOiyLJPXoAEhPoR.jpg",
+          "url": "https://t.co/HfYOWGjOhH",
+          "display_url": "pic.twitter.com/HfYOWGjOhH",
+          "expanded_url": "https://twitter.com/_rospearce/status/1506696281321836550/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 676,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1329,
+              "h": 749,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Rosamund Pearce",
+      "screen_name": "_rospearce",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1347589618305273856/RYXUODw2_normal.jpg"
+    },
+    "retweet_count": 78,
+    "favorite_count": 367,
+    "possibly_sensitive": false
+  }
+}
