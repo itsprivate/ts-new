@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-16T16:10:21Z",
   "image": "https://dev.to/social_previews/article/1024920.png",
   "author": "Adam Davis",
-  "author_url": "https://dev.to/brewinstallbuzzwords"
+  "author_url": "https://dev.to/brewinstallbuzzwords",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを書いているときにメモを取るのは好きですか？ あなたは、何らかの方法でメモを整理していますか、それとも...",
+      "title": "コーディング中にどのようにメモを取るのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你在写代码时喜欢做笔记吗？ 你是否以某种方式组织它们，或者你只...",
+      "title": "你是如何在编码时做笔记的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你在寫代碼時喜歡做筆記嗎？ 你是否以某種方式組織它們，或者你只...",
+      "title": "你是如何在編碼時做筆記的？"
+    }
+  ]
 }

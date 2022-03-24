@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かとチャットするとき、「相手にしつこいと思われないように20分待って返信する」のは意味があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "与人聊天时，\"等20分钟再回复，这样对方就不会认为我很粘人\"，这有什么意义吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與人聊天時，\"等20分鐘再回復，這樣對方就不會認爲我很粘人\"，這有什麼意義嗎？"
+    }
+  ]
 }

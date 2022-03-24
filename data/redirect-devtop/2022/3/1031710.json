@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-23T08:46:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NN-y1E4F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajj6vthzt6a9wkm2tcfs.png",
   "author": "keyvan",
-  "author_url": "https://dev.to/kevinkh89"
+  "author_url": "https://dev.to/kevinkh89",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "reactの領域で入力を扱う場合、2つのオプションがあります。",
+      "title": "reactの入力遅延(遅れ)を解消する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们在处理反应领域的输入时，我们有两个选择：受控的...",
+      "title": "如何解决反应中的输入延迟（滞后）问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們在處理反應領域的輸入時，我們有兩個選擇：受控的...",
+      "title": "如何解決反應中的輸入延遲（滯後）問題"
+    }
+  ]
 }
