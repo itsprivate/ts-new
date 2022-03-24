@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-22T23:01:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3wcuFtIH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://forem.dev/remoteimages/uploads/articles/f7nihr3z8nacgyb8ptrn.png",
   "author": "Jennie Ocken (she/her)",
-  "author_url": "https://dev.to/jennieocken"
+  "author_url": "https://dev.to/jennieocken",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいForem AndroidアプリをApp Storeでダウンロードする",
+      "title": "Android版Foremが登場 🤖"
+    },
+    {
+      "locale": "zh",
+      "description": "在App Store上下载新的Forem Android应用程序",
+      "title": "安卓版Forem来了! 🤖"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在App Store上下載新的Forem Android應用程序",
+      "title": "安卓版Forem來了! 🤖"
+    }
+  ]
 }
