@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-23T22:40:01Z",
   "image": "https://dev.to/social_previews/article/1032493.png",
   "author": "Felippe Regazio",
-  "author_url": "https://dev.to/felipperegazio"
+  "author_url": "https://dev.to/felipperegazio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドのプロジェクトでセキュリティを向上させるための一般的なヒントと一般的でないヒントをいくつか紹介します。",
+      "title": "フロントエンドプロジェクトにおけるセキュリティの10のポイント"
+    },
+    {
+      "locale": "zh",
+      "description": "一些常见和不常见的提示，以提高前端项目的安全性",
+      "title": "前端项目的10条安全原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一些常見和不常見的提示，以提高前端項目的安全性",
+      "title": "前端項目的10條安全原則"
+    }
+  ]
 }

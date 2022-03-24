@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初取引のコピーを発見 以上です。"
+    },
+    {
+      "locale": "zh",
+      "title": "找到了我第一笔交易的副本。这就是全部。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "找到了我第一筆交易的副本。這就是全部。"
+    }
+  ]
 }
