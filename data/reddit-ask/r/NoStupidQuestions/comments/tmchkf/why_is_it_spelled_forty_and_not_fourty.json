@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Four... Fourteen... FORty... why???"
+  "the_new_excerpt": "Four... Fourteen... FORty... why???",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "4... 14... フォーティー...なぜ？",
+      "title": "なぜfourtyではなくfortyと表記するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "四... 十四... 四十...为什么？",
+      "title": "为什么写成四十而不是四十？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "四... 十四... 四十...爲什麼？",
+      "title": "爲什麼寫成四十而不是四十？"
+    }
+  ]
 }
