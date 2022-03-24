@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-24T07:28:18Z"
+  "original_createdAt": "2022-03-24T07:28:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IntelliBrushは、複雑な画像にピクセル単位の正確なアノテーションを施すことができる、Datature社のAIガイド付き画像ラベリングツールです。使いやすく、柔軟性があり、モデルの事前学習が不要です🪄。",
+      "tagline": "AIで複雑なデータに10倍速でアノテーションを施す"
+    },
+    {
+      "locale": "zh",
+      "description": "IntelliBrush是Datature的AI指导下的图像标注工具，使用户能够对复杂的图像进行像素精确的标注。它使用方便、灵活，而且不需要对模型进行任何预先训练🪄。",
+      "tagline": "用人工智能对复杂数据进行注释，速度提高10倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "IntelliBrush是Datature的AI指導下的圖像標註工具，使用戶能夠對複雜的圖像進行像素精確的標註。它使用方便、靈活，而且不需要對模型進行任何預先訓練🪄。",
+      "tagline": "用人工智能對複雜數據進行註釋，速度提高10倍"
+    }
+  ]
 }
