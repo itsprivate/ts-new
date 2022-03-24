@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-23T15:20:17Z",
   "image": "https://dev.to/social_previews/article/1032158.png",
   "author": "Anjan Shomodder",
-  "author_url": "https://dev.to/thatanjan"
+  "author_url": "https://dev.to/thatanjan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、プロ並みのif文の書き方を学ぶことができます。 このブログでは、if文の書き方について説明します。",
+      "title": "JavaScriptでより良いif文を書くための7つのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，你将学习如何像专家一样写if语句。 我将通过给你讲授...",
+      "title": "在JavaScript中编写更好的if语句的7个技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，你將學習如何像專家一樣寫if語句。 我將通過給你講授...",
+      "title": "在JavaScript中編寫更好的if語句的7個技巧"
+    }
+  ]
 }
