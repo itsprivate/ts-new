@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-21T21:34:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B0QH6R21--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f836cs81zhnw30c31y7y.jpg",
   "author": "mai-mohamed",
-  "author_url": "https://dev.to/maimohamed"
+  "author_url": "https://dev.to/maimohamed",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリケーションを構成する正しい方法については、コンセンサスが得られていません。Reactは多くの...",
+      "title": "Reactを使ったフォルダ構造"
+    },
+    {
+      "locale": "zh",
+      "description": "对于组织React应用程序的正确方式，目前还没有共识。React给你提供了很多...",
+      "title": "使用React的文件夹结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於組織React應用程序的正確方式，目前還沒有共識。React給你提供了很多...",
+      "title": "使用React的文件夾結構"
+    }
+  ]
 }
