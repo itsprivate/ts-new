@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-24T07:25:46Z"
+  "original_createdAt": "2022-03-24T07:25:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "決済・コマースプラットフォームは、QuickBooksやXeroとのネイティブな統合を構築し、加盟店が帳簿を自動化できるようにします。これは大変なことです。会計は複雑で、プラットフォームによってAPIが大きく異なるからです。Sync for Commerceはそれを簡単にします。",
+      "tagline": "決済プラットフォームで会計統合が容易に"
+    },
+    {
+      "locale": "zh",
+      "description": "支付和商务平台正在建立与QuickBooks和Xero的原生集成，以便商家能够自动记账。这很难。会计是复杂的，不同的平台有非常不同的API。Sync for Commerce使之变得简单。",
+      "tagline": "支付平台的会计整合变得简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "支付和商務平臺正在建立與QuickBooks和Xero的原生集成，以便商家能夠自動記賬。這很難。會計是複雜的，不同的平臺有非常不同的API。Sync for Commerce使之變得簡單。",
+      "tagline": "支付平臺的會計整合變得簡單"
+    }
+  ]
 }
