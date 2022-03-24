@@ -120,5 +120,21 @@
     "retweet_count": 78,
     "favorite_count": 367,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "retweeted_status_full_text": "ほとんどのデータは不確実性を含んでいますが、チャート上にプロットされると確定的に見えます。この不確実性を可視化することが、#dataviz の最も難しい点の1つである。\n\n私たちのアプローチのいくつかについて、@TheEconomistのデータニュースレター https://t.co/t161JzTq3L https://t.co/HfYOWGjOhH に簡単に紹介を書きました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @_rospearce: 大多数数据都带有一些不确定性，但当它被绘制在图表上时，看起来是确定的。让这种不确定性显而易见是...",
+      "retweeted_status_full_text": "大多数数据都有一些不确定性，但当它被绘制在图表上时，看起来是确定的。让这种不确定性变得可见是#dataviz最棘手的方面之一。\n\n我在我们的数据通讯https://t.co/t161JzTq3L https://t.co/HfYOWGjOhH，简要介绍了我们的一些方法@TheEconomist。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @_rospearce: 大多數數據都帶有一些不確定性，但當它被繪製在圖表上時，看起來是確定的。讓這種不確定性顯而易見是...",
+      "retweeted_status_full_text": "大多數數據都有一些不確定性，但當它被繪製在圖表上時，看起來是確定的。讓這種不確定性變得可見是#dataviz最棘手的方面之一。\n\n我在我們的數據通訊https://t.co/t161JzTq3L https://t.co/HfYOWGjOhH，簡要介紹了我們的一些方法@TheEconomist。"
+    }
+  ]
 }
