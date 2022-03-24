@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "48時間時間が止まり、あなただけが影響を受けない。あなたは何を選択しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "时间冻结48小时，你是唯一不受影响的人。你选择做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "時間凍結48小時，你是唯一不受影響的人。你選擇做什麼？"
+    }
+  ]
 }

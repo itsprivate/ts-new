@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Saw this in a cooking subreddit and I’d like broader answers."
+  "the_new_excerpt": "Saw this in a cooking subreddit and I’d like broader answers.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "クッキングのサブレディットでこれを見たのですが、より広い範囲の回答が欲しいです。",
+      "title": "あなたが死んでもいいと思う一番小さな丘はどこですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在一个烹饪分论坛上看到这个问题，我想得到更广泛的答案。",
+      "title": "你愿意死在哪个最小的山上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在一個烹飪分論壇上看到這個問題，我想得到更廣泛的答案。",
+      "title": "你願意死在哪個最小的山上？"
+    }
+  ]
 }
