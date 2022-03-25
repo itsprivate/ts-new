@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-25T12:44:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bUOPQ1F8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q4jwkoahih3zz9a89phu.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドインフラの管理が複雑になったと感じるのは、あなただけではありません。ほとんど...",
+      "title": "Kubernetesの自動化でクラウドオペレーションゲームに勝利し、その過程でコスト削減を実現する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你觉得管理你的云基础设施变得更加复杂，你并不孤单。几乎...",
+      "title": "如何利用Kubernetes自动化赢得云计算运营游戏并在此过程中削减成本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你覺得管理你的雲基礎設施變得更加複雜，你並不孤單。幾乎...",
+      "title": "如何利用Kubernetes自動化贏得雲計算運營遊戲並在此過程中削減成本"
+    }
+  ]
 }

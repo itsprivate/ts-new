@@ -52,5 +52,22 @@
     },
     "retweet_count": 293,
     "favorite_count": 932
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: インド政府は来週にもINR-RUB決済を正式に発表する見込みで、これにより迂回決済が可能になる。",
+      "retweeted_status_full_text": "インド政府は来週、米国の制裁を回避することができるINR-RUB決済の取り決めを正式に発表する見込みです"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 印度政府预计将在下周正式宣布印度卢比的支付安排，这将允许绕过印度政府。",
+      "retweeted_status_full_text": "印度政府预计将在下周正式宣布印度卢比的支付安排，这将允许绕过美国的制裁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 印度政府預計將在下週正式宣佈印度盧比的支付安排，這將允許繞過印度政府。",
+      "retweeted_status_full_text": "印度政府預計將在下週正式宣佈印度盧比的支付安排，這將允許繞過美國的制裁。"
+    }
+  ]
 }
