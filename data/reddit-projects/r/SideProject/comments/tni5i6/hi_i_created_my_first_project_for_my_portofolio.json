@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんにちは、私は私のportofolioのための私の最初のプロジェクトを作成し、1つの作品（漫画）に特化したgoとgraphQLで、愚かな/単純なAPIですが、私はとにかくとても誇りに思って、あなたがそれをスターまたはそれを改善するために一緒に働くことを願っています ⭐️"
+    },
+    {
+      "locale": "zh",
+      "title": "嗨，我在go和graphQL中为我的作品（漫画）创建了第一个项目，是一个愚蠢的/简单的API，但我还是很自豪，希望你会喜欢它，或者一起工作来改进它 ⭐️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗨，我在go和graphQL中爲我的作品（漫畫）創建了第一個項目，是一個愚蠢的/簡單的API，但我還是很自豪，希望你會喜歡它，或者一起工作來改進它 ⭐️"
+    }
+  ]
 }
