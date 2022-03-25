@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-25T02:03:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NFp6Gixo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bp8atlmv5g2n81bmugvt.jpeg",
   "author": "Renan Franca",
-  "author_url": "https://dev.to/renanfranca"
+  "author_url": "https://dev.to/renanfranca",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "失敗する前に、週刊誌のブログをやめようと思っています。その理由を説明しようと思います。",
+      "title": "なぜ、ブログ記事のバッファを作る必要があるのか？(週刊誌のブログをやめる)いいえ"
+    },
+    {
+      "locale": "zh",
+      "description": "在我失败之前，我将停止每周的博客。我将解释原因。",
+      "title": "为什么我需要建立一个博客文章缓冲区？(停止每周写博客)不"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我失敗之前，我將停止每週的博客。我將解釋原因。",
+      "title": "爲什麼我需要建立一個博客文章緩衝區？(停止每週寫博客)不"
+    }
+  ]
 }
