@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-25T13:47:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MR2j64O9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/debfaxqq0r9j9so0b82r.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一日を気持ちよくスタートさせることは大切です。",
+      "title": "一日の仕事の始め方は？"
+    },
+    {
+      "locale": "zh",
+      "description": "让一天的工作有一个正确的开始很重要--这对你来说意味着什么？",
+      "title": "你是如何开始你的工作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓一天的工作有一個正確的開始很重要--這對你來說意味着什麼？",
+      "title": "你是如何開始你的工作的？"
+    }
+  ]
 }
