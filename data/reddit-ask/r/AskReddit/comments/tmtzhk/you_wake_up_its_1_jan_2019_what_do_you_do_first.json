@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、2019年1月1日に目を覚まします。あなたはまず何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你醒来的时候是2019年1月1日。你首先做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你醒來的時候是2019年1月1日。你首先做什麼？"
+    }
+  ]
 }
