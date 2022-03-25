@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-24T22:17:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2IIQrSMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/us1lhoc0msa076nuwmfp.png",
   "author": "Corbin @ CoderPad",
-  "author_url": "https://dev.to/coderpad"
+  "author_url": "https://dev.to/coderpad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近のWebアプリケーションの多くは、コンポーネントを用いて構築されています。Reactのようなフレームワークが存在する一方で、...",
+      "title": "ウェブコンポーネント入門：バニラJavaScript"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，许多现代网络应用都是使用组件构建的。虽然像React这样的框架的存在是为了给应用程序添加一个新的组件。",
+      "title": "网络组件101：凡诺亚的JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，許多現代網絡應用都是使用組件構建的。雖然像React這樣的框架的存在是爲了給應用程序添加一個新的組件。",
+      "title": "網絡組件101：凡諾亞的JavaScript"
+    }
+  ]
 }
