@@ -171,5 +171,22 @@
     "retweet_count": 295,
     "favorite_count": 2006,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Excellion: エルサルバドル政府は現在、#Bitcoin Core full node と @Liquid_BTC node を稼働させています。🌋 🇻 https://t.co/IZBMZvedhX",
+      "retweeted_status_full_text": "エルサルバドル政府は現在、#Bitcoin Coreフルノードと@Liquid_BTCノードを稼働させています。🌋 🇻 https://t.co/IZBMZvedhX"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Excellion: 萨尔瓦多政府现在正在运行一个#Bitcoin Core全节点和一个@Liquid_BTC节点。🌋🇸🇻 https://t.co/IZBMZvedhX",
+      "retweeted_status_full_text": "萨尔瓦多政府现在正在运行一个#比特币核心全节点和一个@Liquid_BTC节点。🌋🇸🇻 https://t.co/IZBMZvedhX"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Excellion: 薩爾瓦多政府現在正在運行一個#Bitcoin Core全節點和一個@Liquid_BTC節點。🌋🇸🇻 https://t.co/IZBMZvedhX",
+      "retweeted_status_full_text": "薩爾瓦多政府現在正在運行一個#比特幣核心全節點和一個@Liquid_BTC節點。🌋🇸🇻 https://t.co/IZBMZvedhX"
+    }
+  ]
 }

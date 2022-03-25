@@ -68,5 +68,22 @@
     },
     "retweet_count": 767,
     "favorite_count": 4935
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTC_Archive: 昨日、フィデリティがスイスで2つの #ビットコインETP をローンチした。 彼らは米国を待っているわけではない...",
+      "retweeted_status_full_text": "昨日、フィデリティがスイスで2つのビットコインETPをローンチしました。 彼らは米国を待っているわけではない..."
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTC_Archive: 富达公司昨天在瑞士推出了两个#比特币ETPs。 他们不是在等待美国...",
+      "retweeted_status_full_text": "富达公司昨天在瑞士推出了两个#比特币ETPs。 他们不是在等待美国的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTC_Archive: 富達公司昨天在瑞士推出了兩個#比特幣ETPs。 他們不是在等待美國...",
+      "retweeted_status_full_text": "富達公司昨天在瑞士推出了兩個#比特幣ETPs。 他們不是在等待美國的..."
+    }
+  ]
 }
