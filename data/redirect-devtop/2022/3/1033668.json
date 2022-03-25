@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-24T22:07:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KoZsgb2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eni908xa8i6l6x6kkeyf.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVで開催されるDeepgramハッカソン、まだ間に合いますよ！？DEVの様々な方法でご参加ください。",
+      "title": "Deepgramハッカソンリマインダー ⏰。"
+    },
+    {
+      "locale": "zh",
+      "description": "你仍然有时间参加DEV上的Deepgram黑客马拉松! 在DEV上，你可以通过各种方式加入到活动中来。",
+      "title": "Deepgram黑客马拉松提醒 ⏰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你仍然有時間參加DEV上的Deepgram黑客馬拉松! 在DEV上，你可以通過各種方式加入到活動中來。",
+      "title": "Deepgram黑客馬拉松提醒 ⏰"
+    }
+  ]
 }
