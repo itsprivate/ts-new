@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが大学に入学した頃にタイムスリップできるとしたら、どのようなヒントをあげたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能回到你刚上大学的时候，你会给自己哪些建议？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能回到你剛上大學的時候，你會給自己哪些建議？"
+    }
+  ]
 }
