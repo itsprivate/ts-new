@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちが最も欲しいものは雲に見える #bitcoin"
+    },
+    {
+      "locale": "zh",
+      "title": "我们在云端看到我们最想要的东西#比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們在雲端看到我們最想要的東西#比特幣"
+    }
+  ]
 }
