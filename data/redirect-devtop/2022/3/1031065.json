@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-22T17:43:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lyMRpM-o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8f5srxc87elgt0pyofyi.jpg",
   "author": "Pascal Thormeier",
-  "author_url": "https://dev.to/thormeier"
+  "author_url": "https://dev.to/thormeier",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カバー写真：FlickrユーザーBrendan Keene ああ、北半球は春の季節です。その...",
+      "title": "あなたのi-moon-ginationを使ってください。CSSとJSで月の満ち欠けのビジュアライザーを作ろう! "
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片由Flickr用户Brendan Keene拍摄 啊，现在是北半球的春天! 在这一时期，我们要做的是，让我们的生活更加美好。",
+      "title": "使用你的i-moon-gination。让我们用CSS和JS建立一个月相显示器! 🗓️🌙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片由Flickr用戶Brendan Keene拍攝 啊，現在是北半球的春天! 在這一時期，我們要做的是，讓我們的生活更加美好。",
+      "title": "使用你的i-moon-gination。讓我們用CSS和JS建立一個月相顯示器! 🗓️🌙"
+    }
+  ]
 }
