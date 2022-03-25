@@ -13,5 +13,19 @@
   ],
   "objectID": "30804702",
   "original_created_at": "2022-03-25T17:10:09.000Z",
-  "image": "https://opengraph.githubassets.com/b8914d8317426761d176984371c66421606281a20ee15666934a8307dfa28369/nonamecoder/CVE-2022-27254"
+  "image": "https://opengraph.githubassets.com/b8914d8317426761d176984371c66421606281a20ee15666934a8307dfa28369/nonamecoder/CVE-2022-27254",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホンダの各種車両は、ドアを開けるたびに暗号化されていない同じRF信号を送信する"
+    },
+    {
+      "locale": "zh",
+      "title": "本田的各种车辆在每次打开车门时都会发送相同的、未加密的射频信号。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本田的各種車輛在每次打開車門時都會發送相同的、未加密的射頻信號。"
+    }
+  ]
 }
