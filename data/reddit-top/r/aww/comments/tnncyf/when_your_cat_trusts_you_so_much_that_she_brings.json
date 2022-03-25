@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの猫があなたを信頼して、生まれたばかりの赤ちゃんを連れてきて、避難所や保護をしてくれるとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当你的猫非常信任你，以至于把她的新生儿带到你身边寻求庇护和保护时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你的貓非常信任你，以至於把她的新生兒帶到你身邊尋求庇護和保護時"
+    }
+  ]
 }
