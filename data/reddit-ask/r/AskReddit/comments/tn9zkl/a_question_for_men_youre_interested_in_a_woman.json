@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男性に質問です、あなたは女性に興味を持ち、彼女の家に入りました。一瞬で興味をなくすようなものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "一个给男人的问题，你对一个女人感兴趣，走进她家。你看到什么东西会让你立刻不再有兴趣？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個給男人的問題，你對一個女人感興趣，走進她家。你看到什麼東西會讓你立刻不再有興趣？"
+    }
+  ]
 }
