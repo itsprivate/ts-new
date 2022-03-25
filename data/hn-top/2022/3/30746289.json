@@ -3,7 +3,7 @@
   "title": "Embedded Malicious Code in node-ipc",
   "url": "https://github.com/advisories/GHSA-97m3-w2cp-4xx6",
   "author": "planb",
-  "points": 116,
+  "points": 138,
   "num_comments": 84,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "嵌入惡意代碼的node-ipc"
     }
-  ]
+  ],
+  "source_updated_at": 1648201359504
 }
