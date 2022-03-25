@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは敵のためのものですが、それがはびこるものは何でも同じ目的を達成するでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币是为敌人准备的，但在它侵占的地方会达到同样的目的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣是爲敵人準備的，但在它侵佔的地方會達到同樣的目的。"
+    }
+  ]
 }
