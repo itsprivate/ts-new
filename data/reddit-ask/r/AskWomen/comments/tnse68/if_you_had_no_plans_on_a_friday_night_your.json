@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、金曜日の夜に予定がなく、パートナーも留守にしていたら、あなたならどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你在周五晚上没有计划，你的伴侣不在城里，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你在週五晚上沒有計劃，你的伴侶不在城裏，你會怎麼做？"
+    }
+  ]
 }
