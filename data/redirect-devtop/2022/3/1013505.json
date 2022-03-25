@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-07T00:37:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eE9A9uws--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqahx5987ocy0q19fg7p.jpg",
   "author": "Taylor Hunt",
-  "author_url": "https://dev.to/tigt"
+  "author_url": "https://dev.to/tigt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デザインの微調整を行うグラブ。一番遅い色である紫を避けたとか（嘘）",
+      "title": "スピードにはデザインが必要、か。迷惑をかけたユーザーを喜ばせることはできない"
+    },
+    {
+      "locale": "zh",
+      "description": "设计调整的抓包。比如避免使用紫色，这是最慢的颜色（撒谎）。",
+      "title": "速度需要设计，或者说。你无法取悦被你惹恼的用户"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "設計調整的抓包。比如避免使用紫色，這是最慢的顏色（撒謊）。",
+      "title": "速度需要設計，或者說。你無法取悅被你惹惱的用戶"
+    }
+  ]
 }
