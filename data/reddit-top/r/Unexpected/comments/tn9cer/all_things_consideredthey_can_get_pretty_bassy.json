@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "All Things Considered...かなり \"バシー \"になってしまうんです。"
+    },
+    {
+      "locale": "zh",
+      "title": "所有的事情都考虑到了......他们可以得到相当的 \"bassy\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "所有的事情都考慮到了......他們可以得到相當的 \"bassy\"。"
+    }
+  ]
 }
