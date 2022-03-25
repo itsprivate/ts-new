@@ -60,5 +60,22 @@
     },
     "retweet_count": 214,
     "favorite_count": 1302
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: S&amp;P 500は、過去8回の取引日のうち6回、1%以上上昇している。\n\n過去80年間では、このようなことは...",
+      "retweeted_status_full_text": "S&amp;P500は、過去8回の取引日のうち6回、1%以上上昇して取引を終えています。\n\n過去80年間で、このようなことは他に2回しかありません...。\n\n1974年10月と2020年11月です。\n\nSPX"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: 在过去8个交易日中，S&amp;P 500指数有6个收盘上涨超过1%。\n\n在过去的80年里，这只发生在...",
+      "retweeted_status_full_text": "在过去8个交易日中，S&amp;P 500指数有6个收盘上涨超过1%。\n\n在过去80年中，这只发生过2次。\n\n1974年10月和2020年11月。\n\n$SPX"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: 在過去8個交易日中，S&amp;P 500指數有6個收盤上漲超過1%。\n\n在過去的80年裏，這隻發生在...",
+      "retweeted_status_full_text": "在過去8個交易日中，S&amp;P 500指數有6個收盤上漲超過1%。\n\n在過去80年中，這隻發生過2次。\n\n1974年10月和2020年11月。\n\n$SPX"
+    }
+  ]
 }
