@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなはずなのに、実は嫌いなものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你应该喜欢但实际上讨厌的一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你應該喜歡但實際上討厭的一件事是什麼？"
+    }
+  ]
 }
