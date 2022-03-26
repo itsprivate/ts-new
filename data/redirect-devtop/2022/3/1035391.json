@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-26T17:29:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Nyrgxkb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ai70pqbzbogisfh9dbow.gif",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Djangoで動くオープンソースのスターターを集めたキュレーションリスト - すべてのプロジェクトのソースコードはGithubでダウンロード可能 (MITライセンス)。",
+      "title": "Djangoフルスタックスターター - オープンソースと無料"
+    },
+    {
+      "locale": "zh",
+      "description": "一个由Django驱动的开源启动器的策划列表 - 所有项目的源代码都可以在Github上下载（MIT许可）。",
+      "title": "Django全栈启动器 - 开源和免费"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個由Django驅動的開源啓動器的策劃列表 - 所有項目的源代碼都可以在Github上下載（MIT許可）。",
+      "title": "Django全棧啓動器 - 開源和免費"
+    }
+  ]
 }
