@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-24T09:41:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lD0Kvssg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nx86505fs1wtse3rf3z5.png",
   "author": "Nicolò Marchesi",
-  "author_url": "https://dev.to/pethron"
+  "author_url": "https://dev.to/pethron",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは。またもや退屈なリストに笑いを取るためにここをクリックしたんでしょ？私は...",
+      "title": "知っておくべき一般的でないDevOpsツールトップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好! 你点击这里是为了嘲笑另一个无聊的名单，对吗？我将尝试...",
+      "title": "你应该知道的十大不常见的DevOps工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好! 你點擊這裏是爲了嘲笑另一個無聊的名單，對嗎？我將嘗試...",
+      "title": "你應該知道的十大不常見的DevOps工具"
+    }
+  ]
 }
