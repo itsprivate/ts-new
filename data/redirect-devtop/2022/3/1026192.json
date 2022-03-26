@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-17T17:58:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9QyN2J9d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3cqhje4vpsapib045xs5.jpg",
   "author": "Andrew Schmelyun",
-  "author_url": "https://dev.to/aschmelyun"
+  "author_url": "https://dev.to/aschmelyun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHubの物理的なチケットを目の前に置いておく方法が欲しかったのです。Epson のプリンターと Raspberry Pi、そして PHP を使って、私はシステムを完成させました。",
+      "title": "GitHubの課題用レシートプリンターを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "我希望有一种方法可以把GitHub上的实体票据放在我面前。一台爱普生打印机、一台树莓派和一些PHP之后，我有了一个工作系统。",
+      "title": "我为GitHub问题建立了一个收据打印机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我希望有一種方法可以把GitHub上的實體票據放在我面前。一臺愛普生打印機、一臺樹莓派和一些PHP之後，我有了一個工作系統。",
+      "title": "我爲GitHub問題建立了一個收據打印機"
+    }
+  ]
 }
