@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "画像を視覚的な類似性で整理するウェブサイト"
+    },
+    {
+      "locale": "zh",
+      "title": "按视觉相似度组织你的图片的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "按視覺相似度組織你的圖片的網站"
+    }
+  ]
 }
