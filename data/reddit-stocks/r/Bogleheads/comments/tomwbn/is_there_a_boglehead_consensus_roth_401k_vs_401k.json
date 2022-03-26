@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1648295499,
-  "the_new_excerpt": "The title."
+  "the_new_excerpt": "The title.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルです。",
+      "title": "BogleheadのコンセンサスRoth 401k vs 401kはあるのか？あなたはどちらが好きですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "该标题。",
+      "title": "是否有一个Boglehead共识 罗斯401k与401k？你更喜欢哪个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "該標題。",
+      "title": "是否有一個Boglehead共識 羅斯401k與401k？你更喜歡哪個？"
+    }
+  ]
 }
