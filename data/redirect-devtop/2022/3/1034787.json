@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-26T01:04:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bpzJ3l21--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hurs5x435k11rkd4nbnt.jpeg",
   "author": "Nick Taylor",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ライブ配信で何度かやったことがあるのですが、いつも知らない人がいるので、欲を言えば...。",
+      "title": "npx gitignore"
+    },
+    {
+      "locale": "zh",
+      "description": "我在直播中做过几次这样的事情，总是有人不知道，所以我想...",
+      "title": "npx gitignore"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在直播中做過幾次這樣的事情，總是有人不知道，所以我想...",
+      "title": "npx gitignore"
+    }
+  ]
 }
