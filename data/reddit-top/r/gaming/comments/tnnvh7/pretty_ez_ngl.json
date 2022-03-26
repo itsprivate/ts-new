@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "pretty ez ngl..."
+    },
+    {
+      "locale": "zh",
+      "title": "很容易的事..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很容易的事..."
+    }
+  ]
 }
