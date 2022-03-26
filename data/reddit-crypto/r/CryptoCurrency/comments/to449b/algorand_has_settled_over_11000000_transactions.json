@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "The latest upgrades:\n\n * Smart contract compatibility with contract to contract calls.  This allows\n   complex dApps to be built that can efficiently and trustlessly interact with\n   other smart contract based dApps to extend functionality and usability. \n   Additional details and background on…"
+  "the_new_excerpt": "The latest upgrades:\n\n * Smart contract compatibility with contract to contract calls.  This allows\n   complex dApps to be built that can efficiently and trustlessly interact with\n   other smart contract based dApps to extend functionality and usability. \n   Additional details and background on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最新のバージョンアップを行いました。\n\n * スマートコントラクトに対応し、コントラクト間の通話が可能になりました。  これにより\n   複雑なdAppsを構築し、効率的かつ信頼性の高い相互作用を行うことができます。\n   他のスマートコントラクトベースのdAppsと連携し、機能や使い勝手を拡張することができます。 \n   その他の詳細と背景",
+      "title": "アルゴランドは、過去7日間で11,000,000件以上の取引を決済し、1日平均1,600,000件の取引を行っています。3年間でダウンタイム0回、取引コストは1/8ペニー。12月以降、6,000,000の新しいAlgorandアドレスが作成されました。Algorandで起きている巨大な出来事。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "最新的升级。\n\n * 智能合约与合约之间的调用兼容。  这允许\n   复杂的dApps，可以有效地和其他基于智能合约的dApps进行互动，以扩展功能和可用性。\n   其他基于智能合约的dApps，以扩展功能和可用性。 \n   额外的细节和背景...",
+      "title": "Algorand在过去7天内结算了超过11,000,000笔交易，平均每天1,600,000笔。三年来零停机，交易成本为1/8便士。自12月以来，有600万个新的Algorand地址被创建。Algorand上发生了巨大的事情。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "最新的升級。\n\n * 智能合約與合約之間的調用兼容。  這允許\n   複雜的dApps，可以有效地和其他基於智能合約的dApps進行互動，以擴展功能和可用性。\n   其他基於智能合約的dApps，以擴展功能和可用性。 \n   額外的細節和背景...",
+      "title": "Algorand在過去7天內結算了超過11,000,000筆交易，平均每天1,600,000筆。三年來零停機，交易成本爲1/8便士。自12月以來，有600萬個新的Algorand地址被創建。Algorand上發生了巨大的事情。"
+    }
+  ]
 }

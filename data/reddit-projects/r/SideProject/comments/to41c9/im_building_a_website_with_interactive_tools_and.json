@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "音楽理論（スケール、コード、キー）のためのインタラクティブなツールとリファレンスを備えたウェブサイトを構築しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在建立一个网站，提供互动工具和音乐理论的参考资料（音阶、和弦&amp; 键）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在建立一個網站，提供互動工具和音樂理論的參考資料（音階、和絃&amp; 鍵）。"
+    }
+  ]
 }
