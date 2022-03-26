@@ -13,5 +13,19 @@
   ],
   "objectID": "30808945",
   "original_created_at": "2022-03-26T03:11:58.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "_COPY -chmod` により、コンテナイメージのサイズが35%減少しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "`_COPY -chmod`将我的容器镜像的大小减少了35%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "`_COPY -chmod`將我的容器鏡像的大小減少了35%。"
+    }
+  ]
 }
