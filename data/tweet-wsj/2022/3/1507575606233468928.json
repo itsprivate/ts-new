@@ -1,0 +1,72 @@
+{
+  "created_at": "Sat Mar 26 6:18:34 +0000 2022",
+  "id_str": "1507575606233468928",
+  "full_text": "Here is an early look at the front page of The Wall Street Journal's weekend edition https://t.co/6fmcJBYSom https://t.co/WPg3LkCnQl",
+  "display_text_range": [
+    0,
+    108
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/6fmcJBYSom",
+        "expanded_url": "https://on.wsj.com/3qDag4q",
+        "display_url": "on.wsj.com/3qDag4q",
+        "indices": [
+          85,
+          108
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1507575602349498400,
+        "id_str": "1507575602349498370",
+        "indices": [
+          109,
+          132
+        ],
+        "media_url": "http://pbs.twimg.com/media/FOv8BdoWYAIv3Hd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FOv8BdoWYAIv3Hd.jpg",
+        "url": "https://t.co/WPg3LkCnQl",
+        "display_url": "pic.twitter.com/WPg3LkCnQl",
+        "expanded_url": "https://twitter.com/WSJ/status/1507575606233468928/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1062,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 622,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 353,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 29,
+  "favorite_count": 94,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Mar 26 04:30:08 +0000 2022"
+}
