@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-25T14:13:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7w0azL6s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z3vls3bzj3p1tc8vy5xc.png",
   "author": "ali navidi",
-  "author_url": "https://dev.to/westernal"
+  "author_url": "https://dev.to/westernal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このような場合、「痒いところに手が届く」という言葉がありますが、痒いところに手が届くとはどういうことでしょうか？",
+      "title": "cssはどのように書いているのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我是一个初学者，有一个问题，就是如何写我的css。css本身有很多行的代码，而且有很多人在写。",
+      "title": "你的css是怎么写的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是一個初學者，有一個問題，就是如何寫我的css。css本身有很多行的代碼，而且有很多人在寫。",
+      "title": "你的css是怎麼寫的？"
+    }
+  ]
 }
