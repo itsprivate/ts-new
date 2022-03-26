@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カスタマイズ可能なデイリーダッシュボードを作成し、必要なツールを選択することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个日常仪表板，你可以自定义并选择你想要的工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個日常儀表板，你可以自定義並選擇你想要的工具。"
+    }
+  ]
 }
