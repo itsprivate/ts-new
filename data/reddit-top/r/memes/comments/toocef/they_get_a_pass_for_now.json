@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今のところ合格点"
+    },
+    {
+      "locale": "zh",
+      "title": "他们得到了一个通行证，目前"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們得到了一個通行證，目前"
+    }
+  ]
 }
