@@ -1,0 +1,105 @@
+{
+  "created_at": "Sat Mar 26 4:38:21 +0000 2022",
+  "id_str": "1507479023793975311",
+  "full_text": "FFS https://t.co/HtG0ywf8AG",
+  "display_text_range": [
+    0,
+    3
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/HtG0ywf8AG",
+        "expanded_url": "https://twitter.com/nypost/status/1507468302251356160",
+        "display_url": "twitter.com/nypost/status/…",
+        "indices": [
+          4,
+          27
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 27,
+  "favorite_count": 251,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Mar 25 22:06:21 +0000 2022",
+  "quoted_status": {
+    "created_at": "Fri Mar 25 21:23:45 +0000 2022",
+    "id_str": "1507468302251356160",
+    "full_text": "Ukrainian President Zelensky in talks with Academy to make Oscars appearance https://t.co/C8DwQW47te https://t.co/8H7rr4v6iZ",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/C8DwQW47te",
+          "expanded_url": "https://trib.al/rGm4hAU",
+          "display_url": "trib.al/rGm4hAU",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1507468300468510700,
+          "id_str": "1507468300468510723",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/FOuabq-WYAMYgvQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FOuabq-WYAMYgvQ.jpg",
+          "url": "https://t.co/8H7rr4v6iZ",
+          "display_url": "pic.twitter.com/8H7rr4v6iZ",
+          "expanded_url": "https://twitter.com/nypost/status/1507468302251356160/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "New York Post",
+      "screen_name": "nypost",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg"
+    },
+    "retweet_count": 662,
+    "favorite_count": 1971,
+    "possibly_sensitive": false
+  }
+}
