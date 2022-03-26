@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "逃げようとするリザード"
+    },
+    {
+      "locale": "zh",
+      "title": "蜥蜴试图逃跑"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蜥蜴試圖逃跑"
+    }
+  ]
 }
