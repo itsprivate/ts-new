@@ -134,5 +134,22 @@
     "retweet_count": 1877,
     "favorite_count": 9901,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @MonstersOfRock: テイラー・ホーキンス 💔 Somebody to Love https://t.co/guZyahvyLG",
+      "retweeted_status_full_text": "テイラー・ホーキンス 💔 サムバディ・トゥ・ラブ https://t.co/guZyahvyLG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @MonstersOfRock: Taylor Hawkins 💔 Somebody to Love https://t.co/guZyahvyLG",
+      "retweeted_status_full_text": "Taylor Hawkins 💔 Somebody to Love https://t.co/guZyahvyLG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @MonstersOfRock: Taylor Hawkins 💔 Somebody to Love https://t.co/guZyahvyLG",
+      "retweeted_status_full_text": "Taylor Hawkins 💔 Somebody to Love https://t.co/guZyahvyLG"
+    }
+  ]
 }
