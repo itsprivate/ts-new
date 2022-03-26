@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "reactとcanvasでハッキング端末の偽シミュレーションを作ってみた。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在react和canvas中做了一个假的黑客终端模拟。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在react和canvas中做了一個假的黑客終端模擬。"
+    }
+  ]
 }
