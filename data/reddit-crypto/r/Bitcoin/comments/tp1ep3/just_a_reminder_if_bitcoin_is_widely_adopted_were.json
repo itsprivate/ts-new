@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "念のため。ビットコインが広く普及したら、みんな死ぬよ、これは冗談じゃない』🤣。"
+    },
+    {
+      "locale": "zh",
+      "title": "只是提醒一下。如果比特币被广泛采用，我们都会死，这不是一个笑话' 🤣"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是提醒一下。如果比特幣被廣泛採用，我們都會死，這不是一個笑話' 🤣"
+    }
+  ]
 }
