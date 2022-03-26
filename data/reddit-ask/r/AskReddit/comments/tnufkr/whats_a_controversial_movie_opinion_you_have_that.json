@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "賛否両論ある映画の中で、あなたが常に支持している意見は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么有争议的电影意见，你会一直坚持下去？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼有爭議的電影意見，你會一直堅持下去？"
+    }
+  ]
 }
