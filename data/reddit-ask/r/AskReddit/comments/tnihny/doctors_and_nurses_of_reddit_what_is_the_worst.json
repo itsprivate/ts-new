@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レディットの医師や看護師の皆さん、これまで経験した患者の中で、最悪の事態を乗り越えて生き残ったのはどんなことですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit的医生和护士们，你们看到病人经历的最糟糕的事情是什么，而且还能活下来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit的醫生和護士們，你們看到病人經歷的最糟糕的事情是什麼，而且還能活下來？"
+    }
+  ]
 }
