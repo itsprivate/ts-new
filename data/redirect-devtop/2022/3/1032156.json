@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-23T15:19:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mRINy0Cm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/usc78j8jbxpcrfpw5m4n.jpg",
   "author": "scottshipp",
-  "author_url": "https://dev.to/scottshipp"
+  "author_url": "https://dev.to/scottshipp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者によくある神話に、「見積もりは不可能だ」というものがあります。ここでは、それが真実でない理由を説明します。",
+      "title": "見積もりは不可能ではない"
+    },
+    {
+      "locale": "zh",
+      "description": "一个常见的开发者神话是，估算是不可能的。下面是为什么这不是真的。",
+      "title": "估算并非不可能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個常見的開發者神話是，估算是不可能的。下面是爲什麼這不是真的。",
+      "title": "估算並非不可能"
+    }
+  ]
 }

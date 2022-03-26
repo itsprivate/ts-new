@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ああそうだペンギン🐧🐧🐧🐧🐧🐧🐧。"
+    },
+    {
+      "locale": "zh",
+      "title": "啊，是的，企鹅🐧🐧🐧🐧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "啊，是的，企鵝🐧🐧🐧🐧。"
+    }
+  ]
 }
