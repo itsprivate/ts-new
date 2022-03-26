@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-24T04:44:45Z",
   "image": "https://dev.to/social_previews/article/1032683.png",
   "author": "Melissa Guachun ",
-  "author_url": "https://dev.to/melguachun"
+  "author_url": "https://dev.to/melguachun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ブートキャンプでこの言語に出会って以来、私はその可能性にとまどいを感じています...",
+      "title": "過去を学び直す。バニラJavaScriptのシングルページアプリケーション"
+    },
+    {
+      "locale": "zh",
+      "description": "自从我在训练营期间接触到这门语言后，我就一直被它的可能性所困扰。",
+      "title": "重新学习过去的知识。单一的JavaScript单页应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從我在訓練營期間接觸到這門語言後，我就一直被它的可能性所困擾。",
+      "title": "重新學習過去的知識。單一的JavaScript單頁應用"
+    }
+  ]
 }
