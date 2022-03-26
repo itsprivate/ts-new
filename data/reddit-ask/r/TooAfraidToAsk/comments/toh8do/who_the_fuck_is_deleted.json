@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "AND WHY DOES HE KEEP POSTING [removed]???"
+  "the_new_excerpt": "AND WHY DOES HE KEEP POSTING [removed]???",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そして、なぜ彼は[removed]を投稿し続けるのだろうか？",
+      "title": "誰だ[削除しました]？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么他一直在发帖[删除]呢？",
+      "title": "谁他妈的是[删除]？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼他一直在發帖[刪除]呢？",
+      "title": "誰他媽的是[刪除]？"
+    }
+  ]
 }
