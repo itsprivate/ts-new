@@ -39,5 +39,22 @@
   "original_created_at": "2022-03-26T07:57:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rpLaqIBR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbeb5r808hnhohxjs3vg.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React（原子）のロゴは見たことがあると思いますが、備忘録として、こんな感じです...。",
+      "title": "CSSのロゴマーク Reactロゴ"
+    },
+    {
+      "locale": "zh",
+      "description": "我相信你以前见过React（类似原子）的标志，但作为提醒，这是它的样子......",
+      "title": "CSS标志。React标志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我相信你以前見過React（類似原子）的標誌，但作爲提醒，這是它的樣子......",
+      "title": "CSS標誌。React標誌"
+    }
+  ]
 }
