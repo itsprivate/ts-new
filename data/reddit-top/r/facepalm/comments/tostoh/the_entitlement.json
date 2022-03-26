@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エンタイトルメント"
+    },
+    {
+      "locale": "zh",
+      "title": "应享权利"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "應享權利"
+    }
+  ]
 }
