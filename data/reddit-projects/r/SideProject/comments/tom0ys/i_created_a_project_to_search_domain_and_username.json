@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドメインとユーザー名を同じ場所で検索するプロジェクトを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个项目，在同一个地方搜索域名和用户名"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個項目，在同一個地方搜索域名和用戶名"
+    }
+  ]
 }
