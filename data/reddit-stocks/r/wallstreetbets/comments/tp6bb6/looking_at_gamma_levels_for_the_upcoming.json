@@ -1,0 +1,308 @@
+{
+  "approved_at_utc": null,
+  "subreddit": "wallstreetbets",
+  "selftext": " Hi guys, I wanted to take a look at the upcoming options chain for $GME before Monday and see how it would affect next week and what we need to look out for and the levels we need to break to continue this massive rally. I'll also be looking at historical data that also point to another bullish week coming up.\n\nAll data found is scraped from various sources and are subject to change based on options buying and selling\n\nWhat is Gamma and how does it affect the price?\n\nGamma is the rate of change in delta, Delta is the amount of underlying MMs need to hedge their options positions (assuming that MMs are hedging correctly). So a Gamma ramp would cause a massive increase in delta and MMs would then need to buy a massive amount of underlying stock the stay correctly hedged.\n\n[Gamma levels for the 4\\/1 and 4\\/8 expiry](https://preview.redd.it/mu9wgy6f1tp81.png?width=1020&amp;format=png&amp;auto=webp&amp;s=ccf43dcde31fd11e8c7d3d52e04bd74c1c645d5c)\n\nAs you can see we have huge notional gamma at the 150, 160, and 200 levels. As demonstrated last week 160 was a pretty big resistance level for us, usually retail would sell their call options as they edge near the money however with such a big push for option exercising I could see that we push straight through these resistances, especially for T+1 options settlement on Tuesday. Looking at the rest of the chain after we push through 160 there are no real resistances until we hit the 200 level so If we break 160 I expect 200 is very likely after.\n\n(As more options are bought and sold gamma levels can change and we could see a change in the chain)\n\n&amp;#x200B;\n\n[Open interest for 4\\/1 and 4\\/8](https://preview.redd.it/rlpt3cti1tp81.png?width=1068&amp;format=png&amp;auto=webp&amp;s=83878bc444587d03ec63b1d9b52a3d1111835f16)\n\nHuge open interest on the 200 and 265 strikes and as the price nears these strikes the gamma would increase exponentially, especially for very OTM strikes causing a huge upswing in positive delta and MM buying. It would also cause the negative delta on the puts to be unwound and cause buying pressure as the MMs unhedge those puts that are now OTM.\n\n&amp;#x200B;\n\n[Weekly close &amp;#37; based on historical data for $GME](https://preview.redd.it/7mksjirk1tp81.png?width=956&amp;format=png&amp;auto=webp&amp;s=109b7e2c11ab57e5b229d1e5dbccfa0b8f8031c2)\n\nAs you can see Week 13 based on historical data is a bullish week for us, January and February are skewed due to the sneeze but having a historically good week will help for a push up this week. \n\n[Daily average returns &amp;#37; based on historical data for $GME](https://preview.redd.it/ohz0np2m1tp81.png?width=891&amp;format=png&amp;auto=webp&amp;s=26324a27bc0ec26b294ac34488dd1e114ecdb856)\n\nWe also have historically greater returns at the beginning of the week than later so especially with options settlement we could see a very explosive Tuesday and Wednesday.\n\nTLDR: We have a lot of positive factors this week that will increase the pressure on the shorts, I would like to see us break above 160 and then likely see a big push to 200. I would expect a big push on Tuesday or Wednesday based on historical data.\n\nPositions:\n\n* 3 APR 14 $150C \n* 2 APR 14 $160C\n* 2 APR 14 $200C\n* 2 APR 14 $300C\n\nIll likely upload an update post Tuesday after the close to see how the options chain has changed",
+  "author_fullname": "t2_9kgzf8fv",
+  "saved": false,
+  "mod_reason_title": null,
+  "gilded": 0,
+  "clicked": false,
+  "title": "Looking at gamma levels for the upcoming expirations for $GME",
+  "link_flair_richtext": [
+    {
+      "e": "text",
+      "t": "Technical Analysis"
+    }
+  ],
+  "subreddit_name_prefixed": "r/wallstreetbets",
+  "hidden": false,
+  "pwls": 7,
+  "link_flair_css_class": "chart",
+  "downs": 0,
+  "thumbnail_height": 93,
+  "top_awarded_type": null,
+  "hide_score": false,
+  "media_metadata": {
+    "ohz0np2m1tp81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 71,
+          "x": 108,
+          "u": "https://preview.redd.it/ohz0np2m1tp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=62f579604962fbab8f08839ccd18c278d25d22fd"
+        },
+        {
+          "y": 142,
+          "x": 216,
+          "u": "https://preview.redd.it/ohz0np2m1tp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=bc57280e6cd7e7d8aa5d81c2c5a3743ee949f1a9"
+        },
+        {
+          "y": 211,
+          "x": 320,
+          "u": "https://preview.redd.it/ohz0np2m1tp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3989fb1b19a05f021fb0f706e9680e3deabc7b04"
+        },
+        {
+          "y": 423,
+          "x": 640,
+          "u": "https://preview.redd.it/ohz0np2m1tp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4aa86034b66003d0e10447ab8ee7210e8c18cccf"
+        }
+      ],
+      "s": {
+        "y": 589,
+        "x": 891,
+        "u": "https://preview.redd.it/ohz0np2m1tp81.png?width=891&amp;format=png&amp;auto=webp&amp;s=26324a27bc0ec26b294ac34488dd1e114ecdb856"
+      },
+      "id": "ohz0np2m1tp81"
+    },
+    "mu9wgy6f1tp81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 72,
+          "x": 108,
+          "u": "https://preview.redd.it/mu9wgy6f1tp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d693a46ca1a4cc1daa8f07a59d6be5715ebde0b3"
+        },
+        {
+          "y": 144,
+          "x": 216,
+          "u": "https://preview.redd.it/mu9wgy6f1tp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f7a60623d5c5ace8e8fbd1785c8aadf7ef0496cb"
+        },
+        {
+          "y": 213,
+          "x": 320,
+          "u": "https://preview.redd.it/mu9wgy6f1tp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=507f06b10580e7964a01ebee36591f9ed2160aa7"
+        },
+        {
+          "y": 426,
+          "x": 640,
+          "u": "https://preview.redd.it/mu9wgy6f1tp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5da2055f9807e17a05f7f9721c19b22cd20739b"
+        },
+        {
+          "y": 640,
+          "x": 960,
+          "u": "https://preview.redd.it/mu9wgy6f1tp81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=19a7ebf364101bbf1378c09e9de387b55056a3e2"
+        }
+      ],
+      "s": {
+        "y": 680,
+        "x": 1020,
+        "u": "https://preview.redd.it/mu9wgy6f1tp81.png?width=1020&amp;format=png&amp;auto=webp&amp;s=ccf43dcde31fd11e8c7d3d52e04bd74c1c645d5c"
+      },
+      "id": "mu9wgy6f1tp81"
+    },
+    "rlpt3cti1tp81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 78,
+          "x": 108,
+          "u": "https://preview.redd.it/rlpt3cti1tp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=779cb73271692014efb06741d3c43cc8febf0710"
+        },
+        {
+          "y": 157,
+          "x": 216,
+          "u": "https://preview.redd.it/rlpt3cti1tp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=ad6e8d339f4a49549decdb53ee80289550b8e795"
+        },
+        {
+          "y": 233,
+          "x": 320,
+          "u": "https://preview.redd.it/rlpt3cti1tp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=dcc3fa739375e21f07d09e140636f195da67d00f"
+        },
+        {
+          "y": 466,
+          "x": 640,
+          "u": "https://preview.redd.it/rlpt3cti1tp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e82d44948764c7b5d552ea7703d5000c537fd0e2"
+        },
+        {
+          "y": 700,
+          "x": 960,
+          "u": "https://preview.redd.it/rlpt3cti1tp81.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=84cc0bfa619bb3001dfa19de764cf19d035ef9ce"
+        }
+      ],
+      "s": {
+        "y": 779,
+        "x": 1068,
+        "u": "https://preview.redd.it/rlpt3cti1tp81.png?width=1068&amp;format=png&amp;auto=webp&amp;s=83878bc444587d03ec63b1d9b52a3d1111835f16"
+      },
+      "id": "rlpt3cti1tp81"
+    },
+    "7mksjirk1tp81": {
+      "status": "valid",
+      "e": "Image",
+      "m": "image/png",
+      "p": [
+        {
+          "y": 66,
+          "x": 108,
+          "u": "https://preview.redd.it/7mksjirk1tp81.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=6847b3df8d788a9f125830f81cc532fa25090cfb"
+        },
+        {
+          "y": 132,
+          "x": 216,
+          "u": "https://preview.redd.it/7mksjirk1tp81.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9f3eb2aa02615aad5c4c79f03712e0948ce47431"
+        },
+        {
+          "y": 196,
+          "x": 320,
+          "u": "https://preview.redd.it/7mksjirk1tp81.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=98ed3add394ba73b44e35bc57f384d38db3eb039"
+        },
+        {
+          "y": 392,
+          "x": 640,
+          "u": "https://preview.redd.it/7mksjirk1tp81.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c712a1f837a5d7282f9572070f2d2b49a772c03"
+        }
+      ],
+      "s": {
+        "y": 587,
+        "x": 956,
+        "u": "https://preview.redd.it/7mksjirk1tp81.png?width=956&amp;format=png&amp;auto=webp&amp;s=109b7e2c11ab57e5b229d1e5dbccfa0b8f8031c2"
+      },
+      "id": "7mksjirk1tp81"
+    }
+  },
+  "name": "t3_tp6bb6",
+  "quarantine": false,
+  "link_flair_text_color": "light",
+  "upvote_ratio": 0.96,
+  "author_flair_background_color": "",
+  "ups": 1027,
+  "total_awards_received": 5,
+  "media_embed": {},
+  "thumbnail_width": 140,
+  "author_flair_template_id": null,
+  "is_original_content": false,
+  "user_reports": [],
+  "secure_media": null,
+  "is_reddit_media_domain": false,
+  "is_meta": false,
+  "category": null,
+  "secure_media_embed": {},
+  "link_flair_text": "Technical Analysis",
+  "can_mod_post": false,
+  "score": 1027,
+  "approved_by": null,
+  "is_created_from_ads_ui": false,
+  "author_premium": false,
+  "thumbnail": "https://b.thumbs.redditmedia.com/wtGZRaEpmkFgCr8wtDfNM0MJ52xQmowYhGIeyBjPf1k.jpg",
+  "edited": 1648338015,
+  "author_flair_css_class": null,
+  "author_flair_richtext": [
+    {
+      "e": "text",
+      "t": "🦍🦍🦍"
+    }
+  ],
+  "gildings": {
+    "gid_1": 1
+  },
+  "post_hint": "self",
+  "content_categories": null,
+  "is_self": true,
+  "subreddit_type": "public",
+  "created": 1648334162,
+  "link_flair_type": "richtext",
+  "wls": 7,
+  "removed_by_category": null,
+  "banned_by": null,
+  "author_flair_type": "richtext",
+  "domain": "self.wallstreetbets",
+  "allow_live_comments": false,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi guys, I wanted to take a look at the upcoming options chain for $GME before Monday and see how it would affect next week and what we need to look out for and the levels we need to break to continue this massive rally. I&amp;#39;ll also be looking at historical data that also point to another bullish week coming up.&lt;/p&gt;\n\n&lt;p&gt;All data found is scraped from various sources and are subject to change based on options buying and selling&lt;/p&gt;\n\n&lt;p&gt;What is Gamma and how does it affect the price?&lt;/p&gt;\n\n&lt;p&gt;Gamma is the rate of change in delta, Delta is the amount of underlying MMs need to hedge their options positions (assuming that MMs are hedging correctly). So a Gamma ramp would cause a massive increase in delta and MMs would then need to buy a massive amount of underlying stock the stay correctly hedged.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/mu9wgy6f1tp81.png?width=1020&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=ccf43dcde31fd11e8c7d3d52e04bd74c1c645d5c\"&gt;Gamma levels for the 4/1 and 4/8 expiry&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;As you can see we have huge notional gamma at the 150, 160, and 200 levels. As demonstrated last week 160 was a pretty big resistance level for us, usually retail would sell their call options as they edge near the money however with such a big push for option exercising I could see that we push straight through these resistances, especially for T+1 options settlement on Tuesday. Looking at the rest of the chain after we push through 160 there are no real resistances until we hit the 200 level so If we break 160 I expect 200 is very likely after.&lt;/p&gt;\n\n&lt;p&gt;(As more options are bought and sold gamma levels can change and we could see a change in the chain)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/rlpt3cti1tp81.png?width=1068&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=83878bc444587d03ec63b1d9b52a3d1111835f16\"&gt;Open interest for 4/1 and 4/8&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Huge open interest on the 200 and 265 strikes and as the price nears these strikes the gamma would increase exponentially, especially for very OTM strikes causing a huge upswing in positive delta and MM buying. It would also cause the negative delta on the puts to be unwound and cause buying pressure as the MMs unhedge those puts that are now OTM.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/7mksjirk1tp81.png?width=956&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=109b7e2c11ab57e5b229d1e5dbccfa0b8f8031c2\"&gt;Weekly close &amp;#37; based on historical data for $GME&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;As you can see Week 13 based on historical data is a bullish week for us, January and February are skewed due to the sneeze but having a historically good week will help for a push up this week. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ohz0np2m1tp81.png?width=891&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=26324a27bc0ec26b294ac34488dd1e114ecdb856\"&gt;Daily average returns &amp;#37; based on historical data for $GME&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;We also have historically greater returns at the beginning of the week than later so especially with options settlement we could see a very explosive Tuesday and Wednesday.&lt;/p&gt;\n\n&lt;p&gt;TLDR: We have a lot of positive factors this week that will increase the pressure on the shorts, I would like to see us break above 160 and then likely see a big push to 200. I would expect a big push on Tuesday or Wednesday based on historical data.&lt;/p&gt;\n\n&lt;p&gt;Positions:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;3 APR 14 $150C &lt;/li&gt;\n&lt;li&gt;2 APR 14 $160C&lt;/li&gt;\n&lt;li&gt;2 APR 14 $200C&lt;/li&gt;\n&lt;li&gt;2 APR 14 $300C&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Ill likely upload an update post Tuesday after the close to see how the options chain has changed&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "likes": null,
+  "suggested_sort": "confidence",
+  "banned_at_utc": null,
+  "view_count": null,
+  "archived": false,
+  "no_follow": false,
+  "is_crosspostable": false,
+  "pinned": false,
+  "over_18": false,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/tHINsu6qz2nfTZ3Ubond58qSwkMHKBIVkGsLbdcHEeA.png?auto=webp&amp;s=bfb010fe45a9dca881cf1759361efdb38c8ce847",
+          "width": 1020,
+          "height": 680
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/tHINsu6qz2nfTZ3Ubond58qSwkMHKBIVkGsLbdcHEeA.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=bf756e5f660868ba0fee7d06d44fc0b6ee5a3426",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/tHINsu6qz2nfTZ3Ubond58qSwkMHKBIVkGsLbdcHEeA.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=6a049483bb9bf173af79b46ce82c4af1ab810293",
+            "width": 216,
+            "height": 144
+          },
+          {
+            "url": "https://external-preview.redd.it/tHINsu6qz2nfTZ3Ubond58qSwkMHKBIVkGsLbdcHEeA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=dee57fffbe474662375f7a4ee217bb20c3dc072b",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/tHINsu6qz2nfTZ3Ubond58qSwkMHKBIVkGsLbdcHEeA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff2fec350ebad8143424ae23be0d8b965e40852c",
+            "width": 640,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/tHINsu6qz2nfTZ3Ubond58qSwkMHKBIVkGsLbdcHEeA.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=a3634980490be31121be3f63e4a43c860e624cd8",
+            "width": 960,
+            "height": 640
+          }
+        ],
+        "variants": {},
+        "id": "Nj4YIjFnuI767BkTyQo-ArE0AiVIRak4DgoPRK4uZMI"
+      }
+    ],
+    "enabled": false
+  },
+  "awarders": [],
+  "media_only": false,
+  "link_flair_template_id": "e7bce9ea-4b49-11eb-ad96-0e210774c543",
+  "can_gild": false,
+  "spoiler": false,
+  "locked": false,
+  "author_flair_text": "🦍🦍🦍",
+  "treatment_tags": [],
+  "visited": false,
+  "removed_by": null,
+  "mod_note": null,
+  "distinguished": null,
+  "subreddit_id": "t5_2th52",
+  "author_is_blocked": false,
+  "mod_reason_by": null,
+  "num_reports": null,
+  "removal_reason": null,
+  "link_flair_background_color": "#ff4500",
+  "id": "tp6bb6",
+  "is_robot_indexable": true,
+  "report_reasons": null,
+  "author": "BearsGonnaCOPE",
+  "discussion_type": null,
+  "num_comments": 150,
+  "send_replies": true,
+  "whitelist_status": "some_ads",
+  "contest_mode": false,
+  "mod_reports": [],
+  "author_patreon_flair": false,
+  "author_flair_text_color": "dark",
+  "permalink": "/r/wallstreetbets/comments/tp6bb6/looking_at_gamma_levels_for_the_upcoming/",
+  "parent_whitelist_status": "some_ads",
+  "stickied": false,
+  "url": "https://www.reddit.com/r/wallstreetbets/comments/tp6bb6/looking_at_gamma_levels_for_the_upcoming/",
+  "subreddit_subscribers": 11817547,
+  "created_utc": 1648364063,
+  "num_crossposts": 2,
+  "media": null,
+  "is_video": false,
+  "original_created_utc": 1648334162,
+  "the_new_excerpt": "Hi guys, I wanted to take a look at the upcoming options chain for $GME before\nMonday and see how it would affect next week and what we need to look out for\nand the levels we need to break to continue this massive rally. I'll also be\nlooking at historical data that also point to another bullish…"
+}
