@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガラスに付着した塗料を除去する"
+    },
+    {
+      "locale": "zh",
+      "title": "清除玻璃上的油漆"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "清除玻璃上的油漆"
+    }
+  ]
 }
