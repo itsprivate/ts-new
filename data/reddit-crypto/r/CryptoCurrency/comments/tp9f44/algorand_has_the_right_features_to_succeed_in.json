@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アルゴランドは、2022年に成功するための適切な機能を備えています。ユースケースの広がりで、暗号のランクを上げることができる"
+    },
+    {
+      "locale": "zh",
+      "title": "Algorand拥有在2022年取得成功的正确特征。随着其使用范围的扩大，它可以在加密货币的行列中崛起。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Algorand擁有在2022年取得成功的正確特徵。隨着其使用範圍的擴大，它可以在加密貨幣的行列中崛起。"
+    }
+  ]
 }
