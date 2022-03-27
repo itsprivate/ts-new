@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "医師を変えるきっかけとなった医師の言動は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的医生做了什么/说了什么，让你换了医生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的醫生做了什麼/說了什麼，讓你換了醫生？"
+    }
+  ]
 }
