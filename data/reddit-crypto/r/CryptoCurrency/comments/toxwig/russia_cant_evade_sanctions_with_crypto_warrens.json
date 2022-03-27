@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"ロシアは暗号で制裁を逃れることはできない。ウォーレンの提案は米国に害を与えるだけ\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"俄罗斯不能用加密货币逃避制裁。沃伦的提议只会伤害美国\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"俄羅斯不能用加密貨幣逃避制裁。沃倫的提議只會傷害美國\""
+    }
+  ]
 }
