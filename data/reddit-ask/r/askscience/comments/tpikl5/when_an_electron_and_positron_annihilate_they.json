@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And what if a proton and an antiproton annihilate? Will that also usually be two\ngamma rays?"
+  "the_new_excerpt": "And what if a proton and an antiproton annihilate? Will that also usually be two\ngamma rays?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "陽子と反陽子が対消滅したら？これも通常2つの\nガンマ線は？",
+      "title": "電子と陽電子が対消滅するとき、2つのガンマ線が放出されますが、いつも正確に2つなのですか？もっと多いかもしれない？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那么如果一个质子和一个反质子湮灭了呢？这通常也会是两个\n伽马射线？",
+      "title": "当电子和正电子湮灭时，它们会放出两条伽马射线--是否总是正好两条？可能会更多吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那麼如果一個質子和一個反質子湮滅了呢？這通常也會是兩個\n伽馬射線？",
+      "title": "當電子和正電子湮滅時，它們會放出兩條伽馬射線--是否總是正好兩條？可能會更多嗎？"
+    }
+  ]
 }
