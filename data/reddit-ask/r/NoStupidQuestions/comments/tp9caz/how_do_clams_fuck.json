@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "you heard me"
+  "the_new_excerpt": "you heard me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "聞こえてる",
+      "title": "アサリはどうやってヤルのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你听我说",
+      "title": "蛤蜊如何性交？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你聽我說",
+      "title": "蛤蜊如何性交？"
+    }
+  ]
 }
