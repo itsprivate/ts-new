@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "少なくとも、アプリを終了するタイミングはわかるはず"
+    },
+    {
+      "locale": "zh",
+      "title": "至少你知道何时关闭应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "至少你知道何時關閉應用程序"
+    }
+  ]
 }
