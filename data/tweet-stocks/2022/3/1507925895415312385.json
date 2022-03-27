@@ -66,5 +66,19 @@
   "retweet_count": 37,
   "favorite_count": 234,
   "possibly_sensitive": false,
-  "original_created_at": "Sun Mar 27 03:42:04 +0000 2022"
+  "original_created_at": "Sun Mar 27 03:42:04 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$TWTR https://t.co/KIuNBcr5go"
+    },
+    {
+      "locale": "zh",
+      "full_text": "$TWTR https://t.co/KIuNBcr5go"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$TWTR https://t.co/KIuNBcr5go"
+    }
+  ]
 }
