@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-13T01:30:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SHTzMD_o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5uei6tur7wo7sfla72e4.png",
   "author": "Bruno Drugowick",
-  "author_url": "https://dev.to/brunodrugowick"
+  "author_url": "https://dev.to/brunodrugowick",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "重要事項 全て無料です。このアイデアは、お金をかけずに動作するソリューションを手に入れることです...",
+      "title": "dev.toからの投稿でGitHub Pagesのウェブサイトを自動で更新する"
+    },
+    {
+      "locale": "zh",
+      "description": "重要提示 这都是免费的。这里的想法是在不花钱的情况下得到一个工作解决方案...",
+      "title": "用dev.to的帖子自动更新你的GitHub Pages网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "重要提示 這都是免費的。這裏的想法是在不花錢的情況下得到一個工作解決方案...",
+      "title": "用dev.to的帖子自動更新你的GitHub Pages網站"
+    }
+  ]
 }
