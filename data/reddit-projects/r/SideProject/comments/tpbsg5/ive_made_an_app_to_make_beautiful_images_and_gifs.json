@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コードの美しい画像やGIFを作るアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序，可以制作漂亮的图片和GIF的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序，可以製作漂亮的圖片和GIF的代碼"
+    }
+  ]
 }

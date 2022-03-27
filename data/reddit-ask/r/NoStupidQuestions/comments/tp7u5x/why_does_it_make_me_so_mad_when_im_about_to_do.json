@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It makes me irrationally angry, I just wanna know whats wrong with me."
+  "the_new_excerpt": "It makes me irrationally angry, I just wanna know whats wrong with me.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何が悪いのか知りたくて仕方がない。",
+      "title": "何かをしようとしているときに、誰かがそれをするように要求したり、しようとしていることをするように指示したりすると、なぜそんなに腹が立つのだろう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这让我失去理智地生气，我只想知道我有什么问题。",
+      "title": "为什么当我要做一件事，然后有人要求我做/告诉我做我要做的事时，会让我如此生气？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這讓我失去理智地生氣，我只想知道我有什麼問題。",
+      "title": "爲什麼當我要做一件事，然後有人要求我做/告訴我做我要做的事時，會讓我如此生氣？"
+    }
+  ]
 }
