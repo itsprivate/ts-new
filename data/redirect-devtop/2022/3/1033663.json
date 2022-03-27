@@ -55,5 +55,22 @@
   "original_created_at": "2022-03-24T21:42:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zgGshMkC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/upr5uxye641kjqnbjp72.gif",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティの他のメンバーとBreak the Code 2について議論する場です。",
+      "title": "ブレイク・ザ・コード2×DEVチャット"
+    },
+    {
+      "locale": "zh",
+      "description": "这是您与DEV社区的其他成员讨论《破译密码2》的地方!",
+      "title": "破解密码 2 x DEV 聊天"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是您與DEV社區的其他成員討論《破譯密碼2》的地方!",
+      "title": "破解密碼 2 x DEV 聊天"
+    }
+  ]
 }
