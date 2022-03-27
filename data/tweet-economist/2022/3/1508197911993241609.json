@@ -104,5 +104,22 @@
     "retweet_count": 82,
     "favorite_count": 240,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @olliecarroll: 金曜日にゼレンスキーの屋敷を見に行きました。これは、@ArkadyOstrovsky と @zannymb の鋭い包括的な作品です。",
+      "retweeted_status_full_text": "金曜日にゼレンスキーの屋敷に会いに行ったんだ。これは @ArkadyOstrovsky と @zannymb の鋭い包括的な作品です。 https://t.co/eyJ1VTbBnS"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @olliecarroll: 我们周五去了泽伦斯基的院子里看他。这是@ArkadyOstrovsky和@zannymb 精辟的总体性文章。",
+      "retweeted_status_full_text": "我们周五去了泽伦斯基的院子里看他。这是@ArkadyOstrovsky和@zannymb 精辟的总体性文章。https://t.co/eyJ1VTbBnS"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @olliecarroll: 我們週五去了澤倫斯基的院子裏看他。這是@ArkadyOstrovsky和@zannymb 精闢的總體性文章。",
+      "retweeted_status_full_text": "我們週五去了澤倫斯基的院子裏看他。這是@ArkadyOstrovsky和@zannymb 精闢的總體性文章。https://t.co/eyJ1VTbBnS"
+    }
+  ]
 }
