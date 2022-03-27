@@ -39,5 +39,22 @@
   "original_created_at": "2022-03-27T11:08:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---5cNpQOy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vhcf6evt12yk39x1ngt7.jpg",
   "author": "Debbie O'Brien",
-  "author_url": "https://dev.to/debs_obrien"
+  "author_url": "https://dev.to/debs_obrien",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私のサイトのトップページや講演のイントロスライドをご覧になった方は、おそらく私が...と思われるでしょう。",
+      "title": "偽者であること"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你曾经看过我网站的主页或我讲座的介绍幻灯片，你可能会认为我...",
+      "title": "做一个冒牌货"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你曾經看過我網站的主頁或我講座的介紹幻燈片，你可能會認爲我...",
+      "title": "做一個冒牌貨"
+    }
+  ]
 }
