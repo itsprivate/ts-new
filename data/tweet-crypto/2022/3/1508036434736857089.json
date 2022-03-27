@@ -1,0 +1,78 @@
+{
+  "created_at": "Sun Mar 27 11:37:5 +0000 2022",
+  "id_str": "1508036434736857089",
+  "full_text": "RT @CNBC: Exxon is mining bitcoin in North Dakota as part of its plan to slash emissions https://t.co/PtcVO3SQoA",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CNBC",
+        "name": "CNBC",
+        "id": 20402945,
+        "id_str": "20402945",
+        "indices": [
+          3,
+          8
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/PtcVO3SQoA",
+        "expanded_url": "https://cnb.cx/3Dbxcgl",
+        "display_url": "cnb.cx/3Dbxcgl",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 876,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Mar 27 11:01:18 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Sat Mar 26 13:05:35 +0000 2022",
+    "id_str": "1507705324085600265",
+    "full_text": "Exxon is mining bitcoin in North Dakota as part of its plan to slash emissions https://t.co/PtcVO3SQoA",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PtcVO3SQoA",
+          "expanded_url": "https://cnb.cx/3Dbxcgl",
+          "display_url": "cnb.cx/3Dbxcgl",
+          "indices": [
+            79,
+            102
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "CNBC",
+      "screen_name": "CNBC",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1451346007594315779/fJq985Yf_normal.png"
+    },
+    "retweet_count": 876,
+    "favorite_count": 3443,
+    "possibly_sensitive": false
+  }
+}
