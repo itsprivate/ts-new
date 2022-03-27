@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在生きている人の中で、その分野で紛れもなく、そして当然に史上最高と認められている人は誰でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "今天活着的哪个人不可否认地、理所当然地被认为是其领域中最伟大的人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天活着的哪個人不可否認地、理所當然地被認爲是其領域中最偉大的人？"
+    }
+  ]
 }
