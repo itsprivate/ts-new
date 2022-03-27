@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "There’s articles talking about temperature spikes of almost 70 degrees.\nShouldn’t this be like super important??? No one is talking about it, and it\nconfuses me."
+  "the_new_excerpt": "There’s articles talking about temperature spikes of almost 70 degrees.\nShouldn’t this be like super important??? No one is talking about it, and it\nconfuses me.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "70度近くまで気温が上がるという記事もあります。\nこれは超重要なことではありませんか？誰もそれについて話していない、そしてそれは\nという感じです。",
+      "title": "北極と南極の天気はもっと大きなニュースであるべきではないか"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有文章谈到温度飙升到近70度。\n这不应该是超级重要的吗？没有人在谈论它，而且它\n让我感到困惑。",
+      "title": "北极和南极的天气不应该是更大的新闻吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有文章談到溫度飆升到近70度。\n這不應該是超級重要的嗎？沒有人在談論它，而且它\n讓我感到困惑。",
+      "title": "北極和南極的天氣不應該是更大的新聞嗎？"
+    }
+  ]
 }
