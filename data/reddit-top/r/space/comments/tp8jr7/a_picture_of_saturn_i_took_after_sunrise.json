@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日の出後に撮った土星の写真"
+    },
+    {
+      "locale": "zh",
+      "title": "我在日出后拍摄的一张土星的照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在日出後拍攝的一張土星的照片"
+    }
+  ]
 }
