@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "直感的に感じたことを無視し、結果的にそれが正しかったと思うことは？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么时候你对某件事情有一种直觉，但却忽略了它，最后却发现它是对的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼時候你對某件事情有一種直覺，但卻忽略了它，最後卻發現它是對的？"
+    }
+  ]
 }
