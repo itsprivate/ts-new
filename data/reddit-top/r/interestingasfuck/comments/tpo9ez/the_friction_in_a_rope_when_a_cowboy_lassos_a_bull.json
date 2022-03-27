@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カウボーイが牛を投げ飛ばすときのロープの摩擦。"
+    },
+    {
+      "locale": "zh",
+      "title": "牛仔套住公牛时绳子的摩擦力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "牛仔套住公牛時繩子的摩擦力"
+    }
+  ]
 }
