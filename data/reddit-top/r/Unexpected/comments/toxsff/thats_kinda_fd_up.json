@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "That's Kinda F'd up"
+    },
+    {
+      "locale": "zh",
+      "title": "这是很糟糕的事情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是很糟糕的事情"
+    }
+  ]
 }
