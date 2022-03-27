@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-25T18:25:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yEeZ7as2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zs8dr23udfblmnieui4u.png",
   "author": "Tina Huynh",
-  "author_url": "https://dev.to/tmchuynh"
+  "author_url": "https://dev.to/tmchuynh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ECMAScript 2022が目前に迫っていますが、多くのエキサイティングな機能がありました...",
+      "title": "注目のJavaScript機能"
+    },
+    {
+      "locale": "zh",
+      "description": "ECMAScript 2022就在眼前，但有许多令人兴奋的功能被...",
+      "title": "你需要关注的JavaScript功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ECMAScript 2022就在眼前，但有許多令人興奮的功能被...",
+      "title": "你需要關注的JavaScript功能"
+    }
+  ]
 }
