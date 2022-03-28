@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"カナダ人はビットコインなど他の貨幣を使う自由を持つべき\" - カナダ首相候補"
+    },
+    {
+      "locale": "zh",
+      "title": "\"加拿大人应该有使用其他货币的自由，比如比特币\"。- 加拿大总理候选人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"加拿大人應該有使用其他貨幣的自由，比如比特幣\"。- 加拿大總理候選人"
+    }
+  ]
 }
