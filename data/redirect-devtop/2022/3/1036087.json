@@ -46,5 +46,22 @@
   "original_created_at": "2022-03-27T18:03:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rNnC11WS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e2oomorimsk6w5t3w5se.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "活用できているかどうかは別として...。",
+      "title": "保有しているドメイン名について教えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是否在利用它们...",
+      "title": "你持有的是什么域名？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是否在利用它們...",
+      "title": "你持有的是什麼域名？"
+    }
+  ]
 }
