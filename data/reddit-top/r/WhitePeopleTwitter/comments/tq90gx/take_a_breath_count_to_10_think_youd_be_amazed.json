@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一息ついて、10数えて、考える。最初の反応に流されないと、どんな可能性が開けるか、あなたは驚くでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "吸一口气，数到10，思考。如果你不跟着你的第一反应走，你会惊奇地发现有什么可能性。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "吸一口氣，數到10，思考。如果你不跟着你的第一反應走，你會驚奇地發現有什麼可能性。"
+    }
+  ]
 }
