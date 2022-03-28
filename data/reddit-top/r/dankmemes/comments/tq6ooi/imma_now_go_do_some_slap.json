@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今からビンタをしに行く"
+    },
+    {
+      "locale": "zh",
+      "title": "我现在要去做一些巴掌"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我現在要去做一些巴掌"
+    }
+  ]
 }
