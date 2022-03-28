@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-26T17:18:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--35AcykLd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kd5kcuhhqi2ed3ps6p5m.jpg",
   "author": "LeafKn",
-  "author_url": "https://dev.to/knaagar"
+  "author_url": "https://dev.to/knaagar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンド開発とは、コンピュータシステムやアプリケーションのうち、...",
+      "title": "これらの素晴らしいツールを使って、フロントエンドのマスターになる 🖱。"
+    },
+    {
+      "locale": "zh",
+      "description": "前端开发指的是开发计算机系统或应用程序的部分，与之相关的是...",
+      "title": "💪使用这些强大的工具成为前端大师 🖱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "前端開發指的是開發計算機系統或應用程序的部分，與之相關的是...",
+      "title": "💪使用這些強大的工具成爲前端大師 🖱"
+    }
+  ]
 }
