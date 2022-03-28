@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近悩んでいることで、誰にも言っていないことがあれば教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你最近有什么事情在挣扎，但没有告诉别人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最近有什麼事情在掙扎，但沒有告訴別人？"
+    }
+  ]
 }
