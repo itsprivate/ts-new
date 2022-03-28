@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダイバーが見つけた、宇宙の秘密をすべて知っているかのようなカメ。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个潜水员发现了一只乌龟，看起来它知道宇宙的所有秘密。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個潛水員發現了一隻烏龜，看起來它知道宇宙的所有祕密。"
+    }
+  ]
 }
