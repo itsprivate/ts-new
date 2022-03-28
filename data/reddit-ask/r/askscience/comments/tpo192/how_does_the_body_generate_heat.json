@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Whenever you get an infection, the body turns up the temperature, which we call\na fever right? So how exactly does it generate this excess heat"
+  "the_new_excerpt": "Whenever you get an infection, the body turns up the temperature, which we call\na fever right? So how exactly does it generate this excess heat",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "感染症にかかると、体はいつも温度を上げます。\n熱があるでしょ？では、具体的にどのようにしてこの余分な熱を発生させているかというと",
+      "title": "体の熱はどのように発生するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "每当你受到感染时，身体的温度就会升高，我们称之为\n发烧，对吗？那么，它究竟是如何产生这种多余的热量",
+      "title": "身体是如何产生热量的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "每當你受到感染時，身體的溫度就會升高，我們稱之爲\n發燒，對嗎？那麼，它究竟是如何產生這種多餘的熱量",
+      "title": "身體是如何產生熱量的？"
+    }
+  ]
 }
