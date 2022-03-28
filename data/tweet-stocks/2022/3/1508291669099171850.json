@@ -52,5 +52,22 @@
     },
     "retweet_count": 213,
     "favorite_count": 785
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: *TREASURY 5-TO-30 YIELD CURVE INVERTS FIRST SINCE SINCE 2006.",
+      "retweeted_status_full_text": "*国債の5年から30年のイールドカーブは2006年以来初めて反転。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: *TREASURY 5-30年收益率曲线自2006年以来首次出现反转。",
+      "retweeted_status_full_text": "*国债5至30年收益率曲线自2006年以来首次出现倒挂"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: *TREASURY 5-30年收益率曲線自2006年以來首次出現反轉。",
+      "retweeted_status_full_text": "*國債5至30年收益率曲線自2006年以來首次出現倒掛"
+    }
+  ]
 }
