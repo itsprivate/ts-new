@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべての時間"
+    },
+    {
+      "locale": "zh",
+      "title": "所有的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "所有的時間"
+    }
+  ]
 }
