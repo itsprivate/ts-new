@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、明日起きたら、好きなスキルを1万時間、自動的に身につけられるとしたら、どれにしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你明天醒来就能自动获得你所选择的任何技能的10,000小时的经验，你会选择哪一项？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你明天醒來就能自動獲得你所選擇的任何技能的10,000小時的經驗，你會選擇哪一項？"
+    }
+  ]
 }

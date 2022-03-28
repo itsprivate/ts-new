@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハル・フィニーの予測通り、ビットコインは基軸通貨としての役割を果たすために購入されつつある"
+    },
+    {
+      "locale": "zh",
+      "title": "正如哈尔-芬尼所预测的那样，比特币正在被购买以充当储备货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正如哈爾-芬尼所預測的那樣，比特幣正在被購買以充當儲備貨幣"
+    }
+  ]
 }
