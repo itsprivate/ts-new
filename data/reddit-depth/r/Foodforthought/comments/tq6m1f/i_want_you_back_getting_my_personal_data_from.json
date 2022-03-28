@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたを取り戻したい。アマゾンから私の個人データを取得するのは、数週間の混乱と手探り状態だった"
+    },
+    {
+      "locale": "zh",
+      "title": "我想让你回来。从亚马逊获取我的个人数据是几周的混乱和乏味"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想讓你回來。從亞馬遜獲取我的個人數據是幾周的混亂和乏味"
+    }
+  ]
 }
