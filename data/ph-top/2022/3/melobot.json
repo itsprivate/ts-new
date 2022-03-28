@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-27T16:31:33Z"
+  "original_createdAt": "2022-03-27T16:31:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あらゆるプロンプトに答えるレコメンドボット。MelobotはGPT3を使って、完全な文章をもとに推薦を行う。映画や音楽を推薦する。",
+      "tagline": "自然言語による曲・映画の推薦"
+    },
+    {
+      "locale": "zh",
+      "description": "一个能回答任何提示的推荐机器人。Melobot使用GPT3来进行基于完整句子的推荐。Melobot会推荐电影或歌曲。",
+      "tagline": "自然语言歌曲/电影推荐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個能回答任何提示的推薦機器人。Melobot使用GPT3來進行基於完整句子的推薦。Melobot會推薦電影或歌曲。",
+      "tagline": "自然語言歌曲/電影推薦"
+    }
+  ]
 }
