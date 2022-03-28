@@ -52,5 +52,22 @@
     },
     "retweet_count": 606,
     "favorite_count": 3259
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Blockworks_: ゴールドマンサックス調査。顧客の6割が暗号投資を増やす意向あり",
+      "retweeted_status_full_text": "ゴールドマン・サックス調査 顧客の60％が暗号投資を増やす意向を示す"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Blockworks_: 高盛调查。60%的客户打算增加他们的加密货币投资",
+      "retweeted_status_full_text": "高盛调查。60%的客户打算增加他们的加密货币投资"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Blockworks_: 高盛調查。60%的客戶打算增加他們的加密貨幣投資",
+      "retweeted_status_full_text": "高盛調查。60%的客戶打算增加他們的加密貨幣投資"
+    }
+  ]
 }
