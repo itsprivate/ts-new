@@ -39,5 +39,22 @@
   "original_created_at": "2022-03-20T05:04:40Z",
   "image": "https://dev.to/social_previews/article/1028422.png",
   "author": "ashleygraf_",
-  "author_url": "https://dev.to/ashleygraf_"
+  "author_url": "https://dev.to/ashleygraf_",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "注：これはテスト省のブロガーズクラブの挑戦の一環として書かれたものです。もしあなたが...",
+      "title": "コードレビューがテストにおいて過小評価されている理由"
+    },
+    {
+      "locale": "zh",
+      "description": "注意：这是作为测试部的博客俱乐部挑战的一部分而写的。如果你是...",
+      "title": "为什么代码审查是测试中被低估的技能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "注意：這是作爲測試部的博客俱樂部挑戰的一部分而寫的。如果你是...",
+      "title": "爲什麼代碼審查是測試中被低估的技能"
+    }
+  ]
 }
