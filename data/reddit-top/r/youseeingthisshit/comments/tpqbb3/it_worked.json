@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うまくいったのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "它起作用了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它起作用了嗎？"
+    }
+  ]
 }
