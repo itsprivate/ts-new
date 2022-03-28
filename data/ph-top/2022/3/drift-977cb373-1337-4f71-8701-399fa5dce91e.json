@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-28T07:01:00Z"
+  "original_createdAt": "2022-03-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Driftは、コードやテキストのスニペットを友人と共有するためのシンプルな方法で、以下をサポートしています。GitHubフレーバーのレンダリング Markdown プライベート、パブリック、パスワード保護された投稿 構文強調表示と自動言語検出 ドラッグドロップによるファイルのアップロード",
+      "tagline": "オープンソースのGistとpastebinの代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "Drift是一种与你的朋友分享代码和文本片段的简单方法，支持以下内容。渲染GitHub味道 Markdown 私人、公共和密码保护的帖子 语法高亮和自动语言检测 拖放文件上传",
+      "tagline": "一个开源的Gist和pastebin替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Drift是一種與你的朋友分享代碼和文本片段的簡單方法，支持以下內容。渲染GitHub味道 Markdown 私人、公共和密碼保護的帖子 語法高亮和自動語言檢測 拖放文件上傳",
+      "tagline": "一個開源的Gist和pastebin替代品"
+    }
+  ]
 }
