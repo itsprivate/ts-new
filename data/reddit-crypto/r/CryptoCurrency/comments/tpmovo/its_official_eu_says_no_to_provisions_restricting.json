@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "公式発表です。EU、ビットコインを制限する規定にノーと回答"
+    },
+    {
+      "locale": "zh",
+      "title": "这是官方的。欧盟对限制比特币的条款说不"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是官方的。歐盟對限制比特幣的條款說不"
+    }
+  ]
 }
