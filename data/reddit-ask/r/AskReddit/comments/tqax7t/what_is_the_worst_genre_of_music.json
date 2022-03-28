@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一番嫌いな音楽のジャンルは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是最糟糕的音乐类型？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是最糟糕的音樂類型？"
+    }
+  ]
 }
