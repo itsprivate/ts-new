@@ -46,5 +46,22 @@
   "original_created_at": "2022-03-28T12:54:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AX4vAWkh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q24unbclntvzmjq5rhwn.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "... そして、それを最も変えた新しいものは何ですか？",
+      "title": "この10年で、JavaScriptの開発はどのように変化したのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "description": "... 那么哪些新事物对它的改变最大呢？",
+      "title": "在过去的十年中，JavaScript的发展有什么变化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "... 那麼哪些新事物對它的改變最大呢？",
+      "title": "在過去的十年中，JavaScript的發展有什麼變化？"
+    }
+  ]
 }
