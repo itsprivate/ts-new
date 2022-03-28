@@ -91,5 +91,22 @@
     "retweet_count": 163,
     "favorite_count": 554,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 2021年の米国世帯の純資産は18.2兆ドル増加し、3年連続で史上最大の増加率となりました。",
+      "retweeted_status_full_text": "2021年の米家計の純資産は18.2兆ドル増加、3年連続で史上最大の増加幅に https://t.co/Ypho3JQvPh."
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: 2021年美国家庭的净资产增加了18.2万亿美元，这是历史上连续第三年的最大增幅。",
+      "retweeted_status_full_text": "2021年美国家庭净资产增加了18.2万亿美元，连续3年创下历史上最大增幅。https://t.co/Ypho3JQvPh。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: 2021年美國家庭的淨資產增加了18.2萬億美元，這是歷史上連續第三年的最大增幅。",
+      "retweeted_status_full_text": "2021年美國家庭淨資產增加了18.2萬億美元，連續3年創下歷史上最大增幅。https://t.co/Ypho3JQvPh。"
+    }
+  ]
 }
