@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは皆、ビットコインの負け組で、数学のようなものの陰に隠れているのですが、この男は真実を知っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们所有人都是比特币的失败者，躲在数学等东西后面；这个人知道真相"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們所有人都是比特幣的失敗者，躲在數學等東西后面；這個人知道真相"
+    }
+  ]
 }
