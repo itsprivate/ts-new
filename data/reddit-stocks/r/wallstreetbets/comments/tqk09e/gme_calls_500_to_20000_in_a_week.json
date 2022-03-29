@@ -235,5 +235,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1648503327,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "$GMEからの電話です。1週間で$500から$20,000。"
+    },
+    {
+      "locale": "zh",
+      "title": "$GME调用。一周内500美元到20,000美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "$GME調用。一週內500美元到20,000美元。"
+    }
+  ]
 }
