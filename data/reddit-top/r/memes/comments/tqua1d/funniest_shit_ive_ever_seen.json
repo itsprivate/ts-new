@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで見た中で一番面白いクソゲー"
+    },
+    {
+      "locale": "zh",
+      "title": "我见过的最有趣的狗屎。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我見過的最有趣的狗屎。"
+    }
+  ]
 }
