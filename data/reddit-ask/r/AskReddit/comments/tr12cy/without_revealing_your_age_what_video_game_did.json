@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢を伏せた上で、最もよく遊んだゲームソフトを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在不透露年龄的情况下，你玩得最多的是什么电子游戏？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不透露年齡的情況下，你玩得最多的是什麼電子遊戲？"
+    }
+  ]
 }
