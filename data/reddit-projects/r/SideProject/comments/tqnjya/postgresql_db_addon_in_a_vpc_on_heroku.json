@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I used Heroku extensively at my previous job where I became aware of what seemed\nto be a major drawback of database add-ons in Heroku's marketplace: they all\nseem to allow connections directly from the public internet (or at least from\nanywhere on AWS's network). That way is certainly convenient,…"
+  "the_new_excerpt": "I used Heroku extensively at my previous job where I became aware of what seemed\nto be a major drawback of database add-ons in Heroku's marketplace: they all\nseem to allow connections directly from the public internet (or at least from\nanywhere on AWS's network). That way is certainly convenient,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "前職でHerokuを多用しており、そこで意識するようになったのが、以下のようなことです。\nHerokuのマーケットプレイスにあるデータベースアドオンの大きな欠点は、どれも同じです。\n公衆インターネットから直接接続できるようです。\nAWSのネットワーク上であればどこでもいいのです。） 確かにその方法は便利なのですが、...",
+      "title": "Heroku上のVPCでPostgreSQL DBアドオン"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在以前的工作中广泛使用Heroku，在那里我意识到了一个似乎是\n在那里我意识到Heroku市场上的数据库插件的一个主要缺点：它们都\n它们似乎都允许直接从公共互联网（或至少从\n至少从AWS的网络上的任何地方）。这种方式当然很方便，...",
+      "title": "在Heroku的VPC中的PostgreSQL DB插件"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在以前的工作中廣泛使用Heroku，在那裏我意識到了一個似乎是\n在那裏我意識到Heroku市場上的數據庫插件的一個主要缺點：它們都\n它們似乎都允許直接從公共互聯網（或至少從\n至少從AWS的網絡上的任何地方）。這種方式當然很方便，...",
+      "title": "在Heroku的VPC中的PostgreSQL DB插件"
+    }
+  ]
 }
