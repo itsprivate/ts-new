@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-28T16:35:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NBwmN8Qr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8jx0vy2dbgwqsfpynbu.jpeg",
   "author": "Nick Taylor",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラスコンポーネントでフックを使用できることをご存知ですか？  ウソです、ちょっとだけ。フックを使うことはできませんが...",
+      "title": "クラスコンポーネントでフックを使用する"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道你可以在类组件中使用钩子吗？  好吧，我是在撒谎，有点像。你不能使用一个...",
+      "title": "在类组件中使用钩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道你可以在類組件中使用鉤子嗎？  好吧，我是在撒謊，有點像。你不能使用一個...",
+      "title": "在類組件中使用鉤子"
+    }
+  ]
 }
