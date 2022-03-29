@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-29T07:01:00Z"
+  "original_createdAt": "2022-03-29T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドメインとユーザー名を同一箇所で検索する",
+      "tagline": "ドメインとユーザー名を同じ場所で検索"
+    },
+    {
+      "locale": "zh",
+      "description": "在同一地点搜索域名和用户名",
+      "tagline": "在同一个地方搜索域名和用户名"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在同一地點搜索域名和用戶名",
+      "tagline": "在同一個地方搜索域名和用戶名"
+    }
+  ]
 }

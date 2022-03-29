@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "週末に起こった最大のニュースは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "周末最大的新闻事件是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "週末最大的新聞事件是什麼？"
+    }
+  ]
 }
