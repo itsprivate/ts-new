@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-29T07:05:00Z"
+  "original_createdAt": "2022-03-29T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "訪問したサイトのテキスト、画像、動画をWejeパーソナルボードに保存することができます。共有プロジェクトでチームメイトと共同作業。",
+      "tagline": "オンラインホワイトボードに何でも保存できる無料Chrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "将访问过的网站上的文字、图片或视频保存到Weje个人板块中。在共享项目中与你的队友合作。",
+      "tagline": "免费的Chrome扩展程序可以将任何东西保存到在线白板上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將訪問過的網站上的文字、圖片或視頻保存到Weje個人板塊中。在共享項目中與你的隊友合作。",
+      "tagline": "免費的Chrome擴展程序可以將任何東西保存到在線白板上"
+    }
+  ]
 }
