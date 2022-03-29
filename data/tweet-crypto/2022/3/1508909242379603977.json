@@ -107,5 +107,22 @@
     "retweet_count": 556,
     "favorite_count": 4335,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: \"プルーフ・オブ・ワークへの攻撃を #BTC への攻撃と見なさないなら、どちらも理解していない。\" - 米国下院議員 https:/...",
+      "retweeted_status_full_text": "\"プルーフ・オブ・ワークへの攻撃を #BTC への攻撃と見なさないなら、どちらも理解していない。\" - 米国下院議員 https://t.co/MIgS5He41h"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: \"如果你不认为对工作证明的攻击是对#BTC的攻击，那么你也不了解。\" - 美国国会议员 https:/...",
+      "retweeted_status_full_text": "\"如果你不把对工作证明的攻击看作是对#BTC的攻击，那么你也不了解。\" - 美国国会议员https://t.co/MIgS5He41h"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: \"如果你不認爲對工作證明的攻擊是對#BTC的攻擊，那麼你也不瞭解。\" - 美國國會議員 https:/...",
+      "retweeted_status_full_text": "\"如果你不把對工作證明的攻擊看作是對#BTC的攻擊，那麼你也不瞭解。\" - 美國國會議員https://t.co/MIgS5He41h"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが経験していないことで、周囲が当たり前のように感じていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么事情是你没有经历过的，但似乎是你周围所有人的常态？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼事情是你沒有經歷過的，但似乎是你周圍所有人的常態？"
+    }
+  ]
 }
