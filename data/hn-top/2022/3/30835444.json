@@ -13,5 +13,19 @@
   ],
   "objectID": "30835444",
   "original_created_at": "2022-03-28T20:54:05.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Goでゼロから文書データベースを書く。Lucene 風のフィルタとインデックス"
+    },
+    {
+      "locale": "zh",
+      "title": "用Go编写一个从头开始的文档数据库。类似Lucene的过滤器和索引"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Go編寫一個從頭開始的文檔數據庫。類似Lucene的過濾器和索引"
+    }
+  ]
 }
