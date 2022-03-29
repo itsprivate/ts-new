@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "No, I did not volunteer in this..."
+  "the_new_excerpt": "No, I did not volunteer in this...",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "いいえ、私はボランティアで参加したわけではありません...。",
+      "title": "私は「ストレート」キャンプに送られるのですが、何を期待すればいいのでしょうか、また、彼らは私を「改心」させようとするのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不，我没有自愿参加这个...",
+      "title": "我被送到 \"直人 \"营地，我可以期待什么，他们会做什么来试图 \"改变 \"我？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不，我沒有自願參加這個...",
+      "title": "我被送到 \"直人 \"營地，我可以期待什麼，他們會做什麼來試圖 \"改變 \"我？"
+    }
+  ]
 }
