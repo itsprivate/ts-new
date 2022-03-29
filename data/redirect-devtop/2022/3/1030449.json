@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-22T04:25:33Z",
   "image": "https://dev.to/social_previews/article/1030449.png",
   "author": "Nicolas Rocha Pereira",
-  "author_url": "https://dev.to/nicolaspereira"
+  "author_url": "https://dev.to/nicolaspereira",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発者であれば、「デザイン」という言葉を耳にしたことがあるのではないでしょうか。",
+      "title": "デザインパターンとは何か、その重要性は？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个软件开发人员，毫无疑问，你已经遇到了设计这个术语。",
+      "title": "什么是设计模式，它们的重要性如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一個軟件開發人員，毫無疑問，你已經遇到了設計這個術語。",
+      "title": "什麼是設計模式，它們的重要性如何？"
+    }
+  ]
 }
