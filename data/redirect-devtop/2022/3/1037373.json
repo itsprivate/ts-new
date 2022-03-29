@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-28T20:44:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iVz4_co2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xdhxdm68pv7hgq32p5b2.png",
   "author": "Jasmin Virdi",
-  "author_url": "https://dev.to/jasmin"
+  "author_url": "https://dev.to/jasmin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JS開発者なら誰でも、イベントループという言葉を聞いたことがあるはずです。JSとNode Jsはどちらもイベントループをベースにしています。",
+      "title": "BrowserとNode Jsのイベントループの違い？"
+    },
+    {
+      "locale": "zh",
+      "description": "每个JS开发者都一定听说过 \"事件循环 \"一词。JS和Node Js都是基于事件循环的。",
+      "title": "浏览器和Node Js中的事件循环的区别？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個JS開發者都一定聽說過 \"事件循環 \"一詞。JS和Node Js都是基於事件循環的。",
+      "title": "瀏覽器和Node Js中的事件循環的區別？"
+    }
+  ]
 }

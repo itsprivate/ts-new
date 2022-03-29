@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-29T13:15:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bOOckCun--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bzf3xnw28natuisn9w4.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Amazon ECSからEKSへの移行は、おそらくあなたが時間を費やしたい最後の手段です。 それでも、...",
+      "title": "ECSからEKSへの移行方法とEKSを簡単にするための1つのコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "从Amazon ECS迁移到EKS可能是你最不想花时间的事情。 然而，...",
+      "title": "如何从ECS迁移到EKS以及使EKS更容易的第一招"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從Amazon ECS遷移到EKS可能是你最不想花時間的事情。 然而，...",
+      "title": "如何從ECS遷移到EKS以及使EKS更容易的第一招"
+    }
+  ]
 }
