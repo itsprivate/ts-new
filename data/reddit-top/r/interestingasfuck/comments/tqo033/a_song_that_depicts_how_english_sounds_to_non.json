@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "非英語圏の人々にとって、英語がどのように聞こえるかを表現した曲"
+    },
+    {
+      "locale": "zh",
+      "title": "一首描述英语在非英语使用者听起来的歌曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一首描述英語在非英語使用者聽起來的歌曲"
+    }
+  ]
 }
