@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HueHouse - iPadの画面上のどこにでも色を塗ることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "HueHouse - 在你的iPad屏幕上的任何地方挑选颜色!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "HueHouse - 在你的iPad屏幕上的任何地方挑選顏色!"
+    }
+  ]
 }
