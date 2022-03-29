@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日々の簡単なリマインダーのためのブラウザ拡張機能を作ってみた🚀🚀🚀。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个浏览器扩展，用于简单的日常提醒🚀🚀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個瀏覽器擴展，用於簡單的日常提醒🚀🚀。"
+    }
+  ]
 }
