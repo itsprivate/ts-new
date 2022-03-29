@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditorの皆さん、あなたの学校では「あの先生」はどんなことでクビになったのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "Redditors，你们学校的 \"那个老师 \"是因为什么被解雇的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Redditors，你們學校的 \"那個老師 \"是因爲什麼被解僱的？"
+    }
+  ]
 }
