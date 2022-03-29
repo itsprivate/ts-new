@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-29T08:35:05Z",
   "image": "https://dev.to/social_previews/article/1037758.png",
   "author": "Lucius Emmanuel Emmaccen",
-  "author_url": "https://dev.to/emmaccen"
+  "author_url": "https://dev.to/emmaccen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "技術系の人が「新しいものが出てきた」「すごいものが出てきた」と話すのを見るのはよくあることです。",
+      "title": "ソフトウェア開発者の多くは、うつ病である"
+    },
+    {
+      "locale": "zh",
+      "description": "经常看到科技界人士谈论外面的新东西，以及一个人有多么了不起。",
+      "title": "大多数软件开发人员都很沮丧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "經常看到科技界人士談論外面的新東西，以及一個人有多麼了不起。",
+      "title": "大多數軟件開發人員都很沮喪"
+    }
+  ]
 }
