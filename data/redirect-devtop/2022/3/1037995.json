@@ -48,5 +48,22 @@
   "original_created_at": "2022-03-29T12:39:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E7l9Y7HA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6fnktdiztc3ee1tf3e3.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、ユーティリティファーストのCSSが流行っていますね。次に来るのはどんなものなのか、誰か感じている人はいますか？",
+      "title": "CSSの未来はどうなる？"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，实用至上的CSS大行其道。有没有人对下一步的发展有什么感受？",
+      "title": "CSS的未来是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，實用至上的CSS大行其道。有沒有人對下一步的發展有什麼感受？",
+      "title": "CSS的未來是什麼？"
+    }
+  ]
 }
