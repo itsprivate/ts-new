@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の教科書によるとカナダ人"
+    },
+    {
+      "locale": "zh",
+      "title": "根据一本日本教科书，加拿大人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據一本日本教科書，加拿大人"
+    }
+  ]
 }
