@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある時点から、すべてが常に気が散っているように感じられるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在某种程度上，这一切都让人觉得是一种持续的分心。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在某種程度上，這一切都讓人覺得是一種持續的分心。"
+    }
+  ]
 }
