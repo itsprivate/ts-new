@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"アメリカはビットコインを愛しています。\" \"アメリカ人に自由を与えてくれるからです。\" - 米国下院議員"
+    },
+    {
+      "locale": "zh",
+      "title": "\"美国喜欢比特币，因为它将给美国人带来自由。\" - 美国国会议员"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"美國喜歡比特幣，因爲它將給美國人帶來自由。\" - 美國國會議員"
+    }
+  ]
 }
