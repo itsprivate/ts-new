@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-30T07:01:00Z"
+  "original_createdAt": "2022-03-30T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "強力で安全なPDF APIを使用して、文書の処理方法を簡素化します。迅速かつ容易な統合により、ワークフローの中でPDF文書を即座に生成、変換、変更することができます。",
+      "tagline": "PDF文書の生成、変換、修正"
+    },
+    {
+      "locale": "zh",
+      "description": "通过一个强大而安全的PDF API简化您处理文件的方式。快速和简单的集成使你能够在你的工作流程中立即生成、转换和修改PDF文档。",
+      "tagline": "生成、转换和修改PDF文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過一個強大而安全的PDF API簡化您處理文件的方式。快速和簡單的集成使你能夠在你的工作流程中立即生成、轉換和修改PDF文檔。",
+      "tagline": "生成、轉換和修改PDF文件"
+    }
+  ]
 }
