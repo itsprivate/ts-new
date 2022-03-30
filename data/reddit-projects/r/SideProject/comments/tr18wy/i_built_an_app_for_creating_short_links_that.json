@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTube、Medium、Substackの最新コンテンツに自動的にリダイレクトするショートリンクを作成するためのアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个应用程序，用于创建短链接，自动重定向到你在YouTube、Medium和Substack的最新内容。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個應用程序，用於創建短鏈接，自動重定向到你在YouTube、Medium和Substack的最新內容。"
+    }
+  ]
 }
