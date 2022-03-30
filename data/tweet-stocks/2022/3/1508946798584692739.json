@@ -138,5 +138,22 @@
     "retweet_count": 717,
     "favorite_count": 6930,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @stoolpresidente: このボストン市長は、市長の歴史の中で最も反ビジネスの市長であるようだ。 https://t.co/tpym8vzAVj",
+      "retweeted_status_full_text": "このボストン市長は、市長史上最も反ビジネスの市長であるようだ。https://t.co/tpym8vzAVj。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT@stoolpresidente: 这位波士顿市长似乎是历史上最反对商业的市长。https://t.co/tpym8vzAVj",
+      "retweeted_status_full_text": "这位波士顿市长似乎是历史上最反商业的市长。https://t.co/tpym8vzAVj。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT@stoolpresidente: 這位波士頓市長似乎是歷史上最反對商業的市長。https://t.co/tpym8vzAVj",
+      "retweeted_status_full_text": "這位波士頓市長似乎是歷史上最反商業的市長。https://t.co/tpym8vzAVj。"
+    }
+  ]
 }
