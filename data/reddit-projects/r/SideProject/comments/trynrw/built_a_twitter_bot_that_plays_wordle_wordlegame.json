@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WordleをプレイするTwitterボットを作りました！ @WordleGame_Bot"
+    },
+    {
+      "locale": "zh",
+      "title": "建立了一个玩Wordle的Twitter机器人 @WordleGame_Bot!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立了一個玩Wordle的Twitter機器人 @WordleGame_Bot!"
+    }
+  ]
 }
