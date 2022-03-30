@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-29T18:05:14Z",
   "image": "https://dev.to/social_previews/article/1038358.png",
   "author": "Gabriel de Biasi",
-  "author_url": "https://dev.to/gabrielbiasi"
+  "author_url": "https://dev.to/gabrielbiasi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "トライベをご存じない方のために説明すると、トライベはWeb制作の学校であり、純粋なコミットメントを持つ...",
+      "title": "トライベが週2万件以上の査定を添削する方法とは!"
+    },
+    {
+      "locale": "zh",
+      "description": "对于那些不了解Trybe的人来说，它是一所真正致力于网络开发的学校。",
+      "title": "Trybe是如何每周纠正超过20,000份评估的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於那些不瞭解Trybe的人來說，它是一所真正致力於網絡開發的學校。",
+      "title": "Trybe是如何每週糾正超過20,000份評估的!"
+    }
+  ]
 }
