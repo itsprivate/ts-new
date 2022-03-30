@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の相続小切手1ドル"
+    },
+    {
+      "locale": "zh",
+      "title": "我的1美元遗产支票"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的1美元遺產支票"
+    }
+  ]
 }

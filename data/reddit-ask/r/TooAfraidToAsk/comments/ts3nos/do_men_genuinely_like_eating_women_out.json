@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I'm a girl and basically a virgin."
+  "the_new_excerpt": "I'm a girl and basically a virgin.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は女の子で基本的に処女です。",
+      "title": "男性は純粋に女性を食べ歩くのが好きなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是个女孩，基本上是个处女。",
+      "title": "男人真的喜欢吃女人吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是個女孩，基本上是個處女。",
+      "title": "男人真的喜歡喫女人嗎？"
+    }
+  ]
 }
