@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ノーペイン・ノーゲイン"
+    },
+    {
+      "locale": "zh",
+      "title": "没有痛苦，就没有收获"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有痛苦，就沒有收穫"
+    }
+  ]
 }

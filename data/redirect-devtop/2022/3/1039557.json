@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-30T19:36:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oMMKwnHa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcr8frmrbi15mgi3lba9.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVの投稿をマネタイズして、一部のユーザーからマイクロペイメントを受け取ることができることをご存知ですか？",
+      "title": "コンテンツ主導のマイクロペイメントに興味はありませんか？Webマネタイズコミュニティに参加するのもいいかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道吗，你可以将你的DEV帖子货币化，并从你的一些帖子中获得小额支付的滴漏。",
+      "title": "对内容驱动的小额支付感到好奇？你可能想加入网络货币化社区"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道嗎，你可以將你的DEV帖子貨幣化，並從你的一些帖子中獲得小額支付的滴漏。",
+      "title": "對內容驅動的小額支付感到好奇？你可能想加入網絡貨幣化社區"
+    }
+  ]
 }
