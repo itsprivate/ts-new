@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-30T07:00:00Z"
+  "original_createdAt": "2022-03-30T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "無料の Figma UI ライブラリにある既製のセクションと低レベルの要素を使用して、素晴らしいプロジェクトを作成できます。それらを Shuffle Editor と統合することで、Tailwind CSS コンポーネントを入手し、開発者の作業をスピードアップすることができます。",
+      "tagline": "Tailwind CSSのために作られた700以上の無料のFigmaセクション。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用免费的Figma UI库中现成的部分和低级元素，创造出令人惊叹的项目。将它们与Shuffle Editor整合，以获得Tailwind CSS组件，并加快你的开发人员的工作。",
+      "tagline": "为Tailwind CSS建立的700多个免费Figma部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用免費的Figma UI庫中現成的部分和低級元素，創造出令人驚歎的項目。將它們與Shuffle Editor整合，以獲得Tailwind CSS組件，並加快你的開發人員的工作。",
+      "tagline": "爲Tailwind CSS建立的700多個免費Figma部分"
+    }
+  ]
 }
