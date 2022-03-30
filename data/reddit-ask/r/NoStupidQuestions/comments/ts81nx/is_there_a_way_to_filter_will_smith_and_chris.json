@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'd like to block all of the posts about them."
+  "the_new_excerpt": "I'd like to block all of the posts about them.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それらに関する書き込みを全てブロックしたい。",
+      "title": "FacebookのニュースフィードからWill SmithとChris Rockをフィルタリングする方法はありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想屏蔽所有关于他们的帖子。",
+      "title": "有什么办法可以从我的Facebook Newsfeed中过滤掉威尔-史密斯和克里斯-洛克吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想屏蔽所有關於他們的帖子。",
+      "title": "有什麼辦法可以從我的Facebook Newsfeed中過濾掉威爾-史密斯和克里斯-洛克嗎？"
+    }
+  ]
 }
