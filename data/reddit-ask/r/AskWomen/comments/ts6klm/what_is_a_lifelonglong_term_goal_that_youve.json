@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "We’re celebrating today my dudes."
+  "the_new_excerpt": "We’re celebrating today my dudes.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今日はお祝いだ......みんな。",
+      "title": "あなたが達成した生涯の目標、長期的な目標は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们今天要庆祝，我的伙计们。",
+      "title": "你已经实现的一个终身/长期目标是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們今天要慶祝，我的夥計們。",
+      "title": "你已經實現的一個終身/長期目標是什麼？"
+    }
+  ]
 }
