@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを取引所に預けてはいけない理由 -&gt; ハードウェアウォレットを買おう"
+    },
+    {
+      "locale": "zh",
+      "title": "友情提示：为什么你不把你的比特币放在交易所 -&gt; 买一个硬件钱包"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "友情提示：爲什麼你不把你的比特幣放在交易所 -&gt; 買一個硬件錢包"
+    }
+  ]
 }
