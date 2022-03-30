@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが学んだ情報の中で、今となっては知ることが違法に近いと感じるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你学到的哪一条信息，现在觉得知道它几乎是违法的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你學到的哪一條信息，現在覺得知道它幾乎是違法的？"
+    }
+  ]
 }

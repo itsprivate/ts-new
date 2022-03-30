@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-30T07:19:32Z"
+  "original_createdAt": "2022-03-30T07:19:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Inbox Shieldは、あなたにメールを送ることを許可する人を完全にコントロールすることができます。誰かがあなたに初めてメールを送ってきた時、そのメールを受信し続けるか、ダイジェストにまとめるか、完全にブロックするかを決めることができます。",
+      "tagline": "あらゆるメールアカウントに対応するメールスクリーナー"
+    },
+    {
+      "locale": "zh",
+      "description": "Inbox Shield让你完全控制谁可以给你发电子邮件。W",
+      "tagline": "可用于任何电子邮件账户的电子邮件筛选器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Inbox Shield讓你完全控制誰可以給你發電子郵件。W",
+      "tagline": "可用於任何電子郵件賬戶的電子郵件篩選器"
+    }
+  ]
 }
