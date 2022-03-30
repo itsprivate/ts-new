@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは地獄の新しい支配者です、あなたの命令は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是地狱的新统治者，你有什么命令？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是地獄的新統治者，你有什麼命令？"
+    }
+  ]
 }
