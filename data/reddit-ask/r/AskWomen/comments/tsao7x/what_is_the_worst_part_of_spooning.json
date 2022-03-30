@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "if you are the small spoon?"
+  "the_new_excerpt": "if you are the small spoon?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もし、あなたが小さなスプーンなら？",
+      "title": "スプーンの悪いところとは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你是那个小勺子？",
+      "title": "勺子的最糟糕的部分是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你是那個小勺子？",
+      "title": "勺子的最糟糕的部分是什麼？"
+    }
+  ]
 }
