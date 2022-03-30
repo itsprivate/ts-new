@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ピザの発音は「PEET-zah」「PEE-zah」どちらですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对比萨的发音是 \"PEET-zah \"还是 \"PEE-zah\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對比薩的發音是 \"PEET-zah \"還是 \"PEE-zah\"？"
+    }
+  ]
 }
