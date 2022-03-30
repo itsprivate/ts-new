@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECはリップル社に対して、明日2022年3月30日までに冗長化された文書を提出するよう義務付けられている"
+    },
+    {
+      "locale": "zh",
+      "title": "美国证券交易委员会已被要求在明天（2022年3月30日）之前为瑞波公司提供经编辑的文件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國證券交易委員會已被要求在明天（2022年3月30日）之前爲瑞波公司提供經編輯的文件。"
+    }
+  ]
 }
