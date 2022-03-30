@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タイミングが命 : \"いつ、どこで吠えるか\" を知らなければならない。"
+    },
+    {
+      "locale": "zh",
+      "title": "时机至关重要：\"你必须知道什么时候和在哪里叫\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "時機至關重要：\"你必須知道什麼時候和在哪裏叫\""
+    }
+  ]
 }
