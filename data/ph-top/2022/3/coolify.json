@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-30T07:05:55Z"
+  "original_createdAt": "2022-03-30T07:05:55Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Coolifyは、アプリケーション、データベース、その他のオープンソースサービスをホストするための、オープンソースでセルフホスティング可能なオールインワン（IaaS）ソリューションです。HerokuやNetlifyなど、世の中にある同様のソフトウェアに代わるソフトウェアです。",
+      "tagline": "オープンソースでセルフホスティング可能なHerokuとNetlifyの代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "Coolify是一个开源的、可自行托管的一体式（IaaS）解决方案，用于托管您的应用程序、数据库或其他开源服务。它是Heroku和Netlify以及其他类似软件的一个替代软件。",
+      "tagline": "一个开源的、可自行托管的Heroku、Netlify替代方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Coolify是一個開源的、可自行託管的一體式（IaaS）解決方案，用於託管您的應用程序、數據庫或其他開源服務。它是Heroku和Netlify以及其他類似軟件的一個替代軟件。",
+      "tagline": "一個開源的、可自行託管的Heroku、Netlify替代方案"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはビットコインの本物の紙コピーなのか、それとも妻の同僚が詐欺に遭ったのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这些是真正的比特币的纸质拷贝，还是我妻子的同事被骗了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些是真正的比特幣的紙質拷貝，還是我妻子的同事被騙了？"
+    }
+  ]
 }
