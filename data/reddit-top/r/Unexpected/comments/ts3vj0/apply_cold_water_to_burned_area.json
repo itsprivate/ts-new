@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "やけどをした部分に冷水をかける"
+    },
+    {
+      "locale": "zh",
+      "title": "用冷水浇灌烧伤的部位"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用冷水澆灌燒傷的部位"
+    }
+  ]
 }
