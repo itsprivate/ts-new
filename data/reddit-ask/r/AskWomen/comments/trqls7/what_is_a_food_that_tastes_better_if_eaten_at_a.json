@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "特定の時間に、特定の場所で食べるとおいしい食べ物とは何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么食物如果在非常特定的时间和/或地点吃会更美味？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼食物如果在非常特定的時間和/或地點喫會更美味？"
+    }
+  ]
 }

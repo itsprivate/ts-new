@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c\n\nPlease tweet here twitter.com/Europarl_EN [https://twitter.com/Europarl_EN] or\nsend an e-mail to one of your country's MEPs. If this vote passes, all\nself-hosted wallets will be in extreme danger."
+  "the_new_excerpt": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c\n\nPlease tweet here twitter.com/Europarl_EN [https://twitter.com/Europarl_EN] or\nsend an e-mail to one of your country's MEPs. If this vote passes, all\nself-hosted wallets will be in extreme danger.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c\n\nこちらのtwitter.com/Europarl_EN [https://twitter.com/Europarl_EN]でつぶやいていただくか\nあなたの国の欧州議会議員にメールを送ってください。この投票が可決されると、すべての\nセルフサービス型ウォレットは極めて危険な状態に陥ります。",
+      "title": "この投票が可決されれば、EUはセルフホスティングウォレットを禁止するかもしれません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c\n\n请在这里发推特twitter.com/Europarl_EN [https://twitter.com/Europarl_EN] 或\n给贵国的一位欧洲议会议员发送电子邮件。如果这次投票通过，所有\n自我托管的钱包将处于极端危险之中。",
+      "title": "如果这次投票通过，欧盟可能会禁止自我托管的钱包。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://blog.coinbase.com/making-your-voice-heard-ahead-of-thursdays-critical-eu-vote-f03730e83e5c\n\n請在這裏發推特twitter.com/Europarl_EN [https://twitter.com/Europarl_EN] 或\n給貴國的一位歐洲議會議員發送電子郵件。如果這次投票通過，所有\n自我託管的錢包將處於極端危險之中。",
+      "title": "如果這次投票通過，歐盟可能會禁止自我託管的錢包。"
+    }
+  ]
 }
