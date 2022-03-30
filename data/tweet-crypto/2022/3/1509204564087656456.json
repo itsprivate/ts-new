@@ -68,5 +68,22 @@
     },
     "retweet_count": 737,
     "favorite_count": 5602
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTC_Archive: テラは現在$1.45bの#Bitcoinを保有し、$10bへの道を歩んでいます。🙌",
+      "retweeted_status_full_text": "テラは現在、$1.45bの#Bitcoinを保有し、$10bへの道を歩んでいます。🙌"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTC_Archive: 💥Terra现在持有14.5亿美元#比特币，正在向100亿美元迈进! 🙌",
+      "retweeted_status_full_text": "💥Terra现在持有14.5亿美元#比特币，正在向100亿美元迈进! 🙌"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTC_Archive: 💥Terra現在持有14.5億美元#比特幣，正在向100億美元邁進! 🙌",
+      "retweeted_status_full_text": "💥Terra現在持有14.5億美元#比特幣，正在向100億美元邁進! 🙌"
+    }
+  ]
 }

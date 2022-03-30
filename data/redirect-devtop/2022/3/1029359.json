@@ -41,5 +41,22 @@
   "original_created_at": "2022-03-21T05:18:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2yQtlbgp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdhyr6ssgrscrywckdgj.png",
   "author": "Alex Reardon",
-  "author_url": "https://dev.to/alexandereardon"
+  "author_url": "https://dev.to/alexandereardon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、私がソフトウェアエンジニアとして成長するために、これまで蓄積してきたアドバイスを紹介します。",
+      "title": "ソフトウェア技術者として成長するには"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，我分享了一些关于如何成长为一名软件工程师的建议，这些建议是我通过收集...",
+      "title": "如何成长为一名软件工程师"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，我分享了一些關於如何成長爲一名軟件工程師的建議，這些建議是我通過收集...",
+      "title": "如何成長爲一名軟件工程師"
+    }
+  ]
 }
