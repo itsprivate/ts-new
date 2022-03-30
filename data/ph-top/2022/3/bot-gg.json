@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-30T07:01:00Z"
+  "original_createdAt": "2022-03-30T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bot.ggは新しいボット一覧サイトで、何千もの新しい人気Discordボットが紹介されています。ベストなボットのキュレーションリストをチェックしたり、今すぐボットを投稿して、ボットコミュニティの拡大を始めましょう。Autocode APIで機能を拡張する。",
+      "tagline": "何千もの人気Discordボットを発見したり、自分自身のボットを構築することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Bot.gg是一个新的机器人列表网站，有数以千计的新的和流行的Discord机器人可以探索。查看我们精心策划的最佳机器人列表，或者今天就提交你的机器人，开始发展你的机器人社区。用Autocode APIs扩展功能。",
+      "tagline": "发现数以千计的流行Discord机器人或建立你自己的机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bot.gg是一個新的機器人列表網站，有數以千計的新的和流行的Discord機器人可以探索。查看我們精心策劃的最佳機器人列表，或者今天就提交你的機器人，開始發展你的機器人社區。用Autocode APIs擴展功能。",
+      "tagline": "發現數以千計的流行Discord機器人或建立你自己的機器人"
+    }
+  ]
 }
