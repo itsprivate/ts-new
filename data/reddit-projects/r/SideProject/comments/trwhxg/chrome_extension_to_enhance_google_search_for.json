@@ -33,5 +33,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi everyone,\n\nWe have created a chrome extension which allows you to access all the frequent\ndev utilities right from your Google search page! No need to go to those pesky\nwebsites full of ads and clickbaits.Please checkout the extension, install it,\ntry it and let us know thoughts or any feedback…"
+  "the_new_excerpt": "Hi everyone,\n\nWe have created a chrome extension which allows you to access all the frequent\ndev utilities right from your Google search page! No need to go to those pesky\nwebsites full of ads and clickbaits.Please checkout the extension, install it,\ntry it and let us know thoughts or any feedback…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "みなさん、こんにちは。\n\nこの度、クローム拡張機能により、頻繁に使用される全ての\nデベロッパーユーティリティをGoogle検索ページから直接利用できます。面倒な\n広告やクリックベイトでいっぱいのウェブサイトをチェックアウトし、それをインストールしてください。\n試してみて、感想やご意見をお聞かせください。",
+      "title": "プログラマーのためのgoogle検索を強化するChrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n我们已经创建了一个chrome扩展，允许你在谷歌搜索页面上访问所有经常使用的\n开发工具，就在你的谷歌搜索页面上！不需要再去那些讨厌的网站。没有必要去那些讨厌的\n网站上的广告和点击率。请检查扩展，安装它。\n请检查扩展，安装它，尝试它，并让我们知道想法或任何反馈......",
+      "title": "浏览器扩展为程序员加强谷歌搜索"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n我們已經創建了一個chrome擴展，允許你在谷歌搜索頁面上訪問所有經常使用的\n開發工具，就在你的谷歌搜索頁面上！不需要再去那些討厭的網站。沒有必要去那些討厭的\n網站上的廣告和點擊率。請檢查擴展，安裝它。\n請檢查擴展，安裝它，嘗試它，並讓我們知道想法或任何反饋......",
+      "title": "瀏覽器擴展爲程序員加強谷歌搜索"
+    }
+  ]
 }

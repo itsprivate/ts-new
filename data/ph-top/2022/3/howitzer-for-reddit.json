@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-30T07:02:00Z"
+  "original_createdAt": "2022-03-30T07:02:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Redditで新規顧客を見つけ、パーソナライズされたRedditメッセージを大規模に送信することができます。Howitzerは、Redditを活用したダイレクトアウトリーチを支援し、他のマーケティングチャネルとは異なるレスポンス率を得ることができる世界初のマーケティングオートメーションツールです。",
+      "tagline": "パーソナライズされたDMでRedditマーケティングを自動化する"
+    },
+    {
+      "locale": "zh",
+      "description": "在Reddit上寻找新客户，并大规模地向他们发送个性化的Reddit信息。Howitzer是世界上第一个营销自动化工具，帮助你利用Reddit进行直接推广，并获得不同于其他营销渠道的响应率。",
+      "tagline": "用个性化的DMs自动化你的Reddit营销"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Reddit上尋找新客戶，並大規模地向他們發送個性化的Reddit信息。Howitzer是世界上第一個營銷自動化工具，幫助你利用Reddit進行直接推廣，並獲得不同於其他營銷渠道的響應率。",
+      "tagline": "用個性化的DMs自動化你的Reddit營銷"
+    }
+  ]
 }
