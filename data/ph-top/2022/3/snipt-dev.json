@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-31T07:01:00Z"
+  "original_createdAt": "2022-03-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "snipt.devは、コードスニペットのための検索エンジンです。StackoverflowやSourcegraph、GitHubで再利用するコードを探す代わりに、開発者は探しているものを入力すれば、IDEにコピーできる安全で再利用可能なコードを見つけることができます。",
+      "tagline": "コードスニペットの検索エンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "snipt.dev是一个搜索代码片段的引擎。与其在Stackoverflow、Sourcegraph或GitHub上寻找可重用的代码，开发者可以输入他们正在寻找的内容，并找到可以在他们的IDE中复制的安全和可重用的代码。",
+      "tagline": "代码片断的搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "snipt.dev是一個搜索代碼片段的引擎。與其在Stackoverflow、Sourcegraph或GitHub上尋找可重用的代碼，開發者可以輸入他們正在尋找的內容，並找到可以在他們的IDE中複製的安全和可重用的代碼。",
+      "tagline": "代碼片斷的搜索引擎"
+    }
+  ]
 }
