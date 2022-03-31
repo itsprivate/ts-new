@@ -39,5 +39,22 @@
   "original_created_at": "2022-03-31T06:02:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tXF3zKXm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/is7f71wggjrs53s87xft.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアテストは、ソフトウェアのエコシステムにおいて最も意見が分かれるものの1つであるようです。ある人は...",
+      "title": "ソフトウェアテストについて話そう"
+    },
+    {
+      "locale": "zh",
+      "description": "软件测试似乎是软件生态系统中最有意见的事情之一。有些人...",
+      "title": "让我们来谈谈软件测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "軟件測試似乎是軟件生態系統中最有意見的事情之一。有些人...",
+      "title": "讓我們來談談軟件測試"
+    }
+  ]
 }
