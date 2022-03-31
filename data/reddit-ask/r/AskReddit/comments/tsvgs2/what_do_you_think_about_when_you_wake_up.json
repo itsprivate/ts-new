@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目覚めたとき、どんなことを考えていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你醒来的时候，你会想到什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你醒來的時候，你會想到什麼？"
+    }
+  ]
 }
