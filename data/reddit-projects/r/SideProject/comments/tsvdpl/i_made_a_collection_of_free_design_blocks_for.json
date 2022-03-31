@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TailwindCSSのフリーデザインブロック集を作りました【MITライセンス】。"
+    },
+    {
+      "locale": "zh",
+      "title": "我为TailwindCSS做了一个免费设计块的集合[MIT许可证]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲TailwindCSS做了一個免費設計塊的集合[MIT許可證]"
+    }
+  ]
 }
