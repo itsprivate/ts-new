@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メディア＆ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "title": "媒体&amp; Bitcoin"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "媒體&amp; Bitcoin"
+    }
+  ]
 }
