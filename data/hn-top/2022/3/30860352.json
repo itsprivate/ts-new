@@ -13,5 +13,19 @@
   ],
   "objectID": "30860352",
   "original_created_at": "2022-03-30T20:26:23.000Z",
-  "image": "https://www.praetorian.com/wp-content/uploads/2022/03/spring.jpg"
+  "image": "https://www.praetorian.com/wp-content/uploads/2022/03/spring.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JDK9 上の Spring Core には、リモートでコードを実行される脆弱性があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "JDK9上的Spring Core存在远程代码执行漏洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "JDK9上的Spring Core存在遠程代碼執行漏洞"
+    }
+  ]
 }
