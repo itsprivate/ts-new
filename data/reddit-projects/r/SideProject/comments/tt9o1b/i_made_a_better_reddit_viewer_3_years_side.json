@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditの閲覧者をより良くしてみました。個人的に毎日使っている3年以上のサイドプロジェクト。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个更好的Reddit查看器。3年多的副业项目，我个人每天都在使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個更好的Reddit查看器。3年多的副業項目，我個人每天都在使用。"
+    }
+  ]
 }
