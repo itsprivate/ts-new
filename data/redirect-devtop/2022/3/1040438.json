@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-31T12:42:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cmwdHOxI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8v5x975it0gapf478i6v.png",
   "author": "Shubham Jain",
-  "author_url": "https://dev.to/shubhamjain"
+  "author_url": "https://dev.to/shubhamjain",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Eight Colorsは、円形のブロックをずらしてゴールを目指すブロックシフトゲームです",
+      "title": "私のHTML5ゲームについてどう思われますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "八色是一个积木移位游戏，目标是移位圆形积木以达到目标。",
+      "title": "你觉得我的HTML5游戏怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "八色是一個積木移位遊戲，目標是移位圓形積木以達到目標。",
+      "title": "你覺得我的HTML5遊戲怎麼樣？"
+    }
+  ]
 }
