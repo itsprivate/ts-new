@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "社会的に「普通」とされていることで、あなたが拒否していることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么事情被社会认为是 \"正常 \"的，而你却拒绝去做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼事情被社會認爲是 \"正常 \"的，而你卻拒絕去做？"
+    }
+  ]
 }
