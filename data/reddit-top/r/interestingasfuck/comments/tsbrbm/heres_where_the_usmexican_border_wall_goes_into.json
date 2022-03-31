@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国とメキシコの国境の壁が海に入る場所はここだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这里是美国/墨西哥边境墙进入海洋的地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏是美國/墨西哥邊境牆進入海洋的地方"
+    }
+  ]
 }
