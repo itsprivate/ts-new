@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-03-31T07:01:00Z"
+  "original_createdAt": "2022-03-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Block Cryptojacking by Incoggo ⛔️ 悪質なサイトがあなたのCPU、GPU、帯域幅をハイジャックして暗号通貨をマイニングするのを自動的に防止します。🔗&nbsp; Mac版あり、Windows版は近日公開予定！ www.incoggo.com/block-cryptojacking",
+      "tagline": "不要なクリプトジャック攻撃を無料で簡単にブロック"
+    },
+    {
+      "locale": "zh",
+      "description": "Block Cryptojacking by Incoggo ⛔️自动防止恶意网站劫持你的CPU、GPU和带宽来挖掘加密货币。🔗&nbsp; 适用于Mac，即将推出Windows版！ www.incoggo.com/block-cryptojacking",
+      "tagline": "免费轻松阻止不需要的加密劫持攻击"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Block Cryptojacking by Incoggo ⛔️自動防止惡意網站劫持你的CPU、GPU和帶寬來挖掘加密貨幣。🔗&nbsp; 適用於Mac，即將推出Windows版！ www.incoggo.com/block-cryptojacking",
+      "tagline": "免費輕鬆阻止不需要的加密劫持攻擊"
+    }
+  ]
 }
