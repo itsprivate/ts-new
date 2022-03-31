@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Wouldn't it make more sense to have the Coulomb, the unit of charge, to be a\nbase unit instead? After all, current is the flow of charge. It seems backwards\nto define the Coulomb as 1 A*s."
+  "the_new_excerpt": "Wouldn't it make more sense to have the Coulomb, the unit of charge, to be a\nbase unit instead? After all, current is the flow of charge. It seems backwards\nto define the Coulomb as 1 A*s.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "電荷の単位であるクーロンにする方が理にかなっているのでは？\nを基本単位としています。結局のところ、電流は電荷の流れなのです。それなのに\nクーロンを1A*sと定義しています。",
+      "title": "なぜアンペアがSI基本単位なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "库仑，电荷的单位，不是更有意义吗？\nb",
+      "title": "为什么安培是一个SI基本单位？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "庫侖，電荷的單位，不是更有意義嗎？\nb",
+      "title": "爲什麼安培是一個SI基本單位？"
+    }
+  ]
 }
