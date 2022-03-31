@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-29T20:24:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sh7mHcCx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0syv49wrvji1hbykrw9c.png",
   "author": "Vincent Ge",
-  "author_url": "https://dev.to/gewenyu99"
+  "author_url": "https://dev.to/gewenyu99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteでは、私たちのソフトウェアを、どんな技術スタックやユースケースに対しても柔軟かつ不可知論的なものにしようと努めています。一方...",
+      "title": "Appwriteのクラウド機能でモデレーションDiscord Botsを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "在Appwrite，我们努力使我们的软件灵活，不受任何技术栈或使用情况的影响。虽然...",
+      "title": "用Appwrite的云功能构建节制的Discord机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Appwrite，我們努力使我們的軟件靈活，不受任何技術棧或使用情況的影響。雖然...",
+      "title": "用Appwrite的雲功能構建節制的Discord機器人"
+    }
+  ]
 }

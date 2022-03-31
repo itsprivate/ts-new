@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "次回は新しいシャツかな？"
+    },
+    {
+      "locale": "zh",
+      "title": "也许下次要换件新衬衫？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "也許下次要換件新襯衫？"
+    }
+  ]
 }

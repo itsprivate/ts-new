@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-27T20:48:19Z",
   "image": "https://dev.to/social_previews/article/1036232.png",
   "author": "Brent Mitchell",
-  "author_url": "https://dev.to/brentmitchell"
+  "author_url": "https://dev.to/brentmitchell",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーレスコンピューティングとストレージを5年近く使ってきて、やっと飽きた......という感じです。",
+      "title": "5年後、サーバーレス・コンピュート・カルトから脱却する"
+    },
+    {
+      "locale": "zh",
+      "description": "我已经使用无服务器计算和存储近五年了，我终于厌倦了....。",
+      "title": "5年后，我退出了无服务器计算的行列"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經使用無服務器計算和存儲近五年了，我終於厭倦了....。",
+      "title": "5年後，我退出了無服務器計算的行列"
+    }
+  ]
 }
