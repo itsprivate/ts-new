@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんにちは、皆さん 今月の収支を書き留める簡単なアプリを開発しました😁 ぜひチェックしてみてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗨，伙计们! 我开发了一个简单的应用程序，可以写下本月的收入和支出😁看看吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗨，夥計們! 我開發了一個簡單的應用程序，可以寫下本月的收入和支出😁看看吧"
+    }
+  ]
 }
