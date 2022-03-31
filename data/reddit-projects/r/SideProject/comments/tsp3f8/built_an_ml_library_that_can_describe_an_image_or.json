@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "画像の説明や文章に関連する画像の検索が可能なMLライブラリを構築"
+    },
+    {
+      "locale": "zh",
+      "title": "建立了一个ML库，可以描述一个图像或为一个句子找到相关的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立了一個ML庫，可以描述一個圖像或爲一個句子找到相關的圖像"
+    }
+  ]
 }
