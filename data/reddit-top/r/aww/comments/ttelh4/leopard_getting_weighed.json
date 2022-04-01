@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "体重を測定するレオパード"
+    },
+    {
+      "locale": "zh",
+      "title": "豹子被称重"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "豹子被稱重"
+    }
+  ]
 }
