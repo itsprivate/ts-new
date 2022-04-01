@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm black and even I don't understand this."
+  "the_new_excerpt": "I'm black and even I don't understand this.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "黒人の私でもこれは理解できない。",
+      "title": "なぜ「有色人種」はOKで「有色人種」はNGとされているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是黑人，甚至我都不明白这一点。",
+      "title": "为什么 \"有色人种 \"被认为可以，而 \"有色人种 \"却不可以？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是黑人，甚至我都不明白這一點。",
+      "title": "爲什麼 \"有色人種 \"被認爲可以，而 \"有色人種 \"卻不可以？"
+    }
+  ]
 }
