@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What do you think? Statehood for Puerto Rico?"
+  "the_new_excerpt": "What do you think? Statehood for Puerto Rico?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたはどう思いますか？プエルトリコの州化？",
+      "title": "プエルトリコを州として認め、米国51番目の州にするべきか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你怎么看？波多黎各的州地位？",
+      "title": "波多黎各是否应被授予州地位，成为美国第51个州？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你怎麼看？波多黎各的州地位？",
+      "title": "波多黎各是否應被授予州地位，成爲美國第51個州？"
+    }
+  ]
 }
