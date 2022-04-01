@@ -41,5 +41,22 @@
   "original_created_at": "2022-04-01T03:31:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kzB8DJTv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7sjay11pqa91it8euj0l.png",
   "author": "Nick Taylor",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私が参加しているSlackコミュニティのある人が、TypeScriptでJSONを入力する方法を尋ねてきました...",
+      "title": "TypeScriptで作る強い型付けされたJSON"
+    },
+    {
+      "locale": "zh",
+      "description": "在我参与的Slack社区中，有人今天问如何在TypeScript中输入JSON，...",
+      "title": "TypeScript中的强类型JSON"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我參與的Slack社區中，有人今天問如何在TypeScript中輸入JSON，...",
+      "title": "TypeScript中的強類型JSON"
+    }
+  ]
 }
