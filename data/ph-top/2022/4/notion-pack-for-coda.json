@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-01T07:01:00Z"
+  "original_createdAt": "2022-04-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パックでできること 📊 Notionのデータベースをワードクラウドやチャートとして可視化することができます。📧 Notionの値が変わると、オートメーションでSlackメッセージを送信します。🔄 アクションとPacksを使った2ウェイ同期で、Notionのアイコンやカバー、ページのプロパティを更新できます",
+      "tagline": "Notion のページとデータベースに Coda のスーパーパワーを与える。"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以用该软件包做什么？📊 将你的Notion数据库可视化为文字云和图表。📧 当Notion中的值发生变化时，通过自动程序发送Slack消息。🔄 使用动作和包进行双向同步，更新Notion的图标、封面和页面属性!",
+      "tagline": "赋予你的Notion页面和数据库Coda的超能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以用該軟件包做什麼？📊 將你的Notion數據庫可視化爲文字雲和圖表。📧 當Notion中的值發生變化時，通過自動程序發送Slack消息。🔄 使用動作和包進行雙向同步，更新Notion的圖標、封面和頁面屬性!",
+      "tagline": "賦予你的Notion頁面和數據庫Coda的超能力"
+    }
+  ]
 }

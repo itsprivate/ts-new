@@ -13,5 +13,19 @@
   ],
   "objectID": "30876056",
   "original_created_at": "2022-04-01T07:50:13.000Z",
-  "image": "https://c5.patreon.com/external/logo/become_a_patron_button.png"
+  "image": "https://c5.patreon.com/external/logo/become_a_patron_button.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rustc_codegen_GCC が rustc をブートストラップできるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Rustc_codegen_GCC现在可以引导rustc了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rustc_codegen_GCC現在可以引導rustc了。"
+    }
+  ]
 }
