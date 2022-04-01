@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "娘がフォートナイトで400円分近くのVバックスなどを購入しました。(こんなの買えないよ)"
+    },
+    {
+      "locale": "zh",
+      "title": "我女儿在《堡垒之夜》上购买了价值近400美元的V币和其他东西。(我负担不起这个)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我女兒在《堡壘之夜》上購買了價值近400美元的V幣和其他東西。(我負擔不起這個)"
+    }
+  ]
 }
