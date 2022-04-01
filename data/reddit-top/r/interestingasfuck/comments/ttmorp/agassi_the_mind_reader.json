@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "心を読むアガシ。"
+    },
+    {
+      "locale": "zh",
+      "title": "阿加西，读心者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿加西，讀心者。"
+    }
+  ]
 }
