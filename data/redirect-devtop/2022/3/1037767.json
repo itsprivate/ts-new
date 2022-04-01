@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-29T08:53:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sVBN19kn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vbp0zc66at4vvdsrqtj5.png",
   "author": "Juri Strumpflohner",
-  "author_url": "https://dev.to/juristr"
+  "author_url": "https://dev.to/juristr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nxの概要と、Reactアプリケーションの開発におけるNxの機能の利点をご紹介します。",
+      "title": "ずっと欲しかったけど知らなかったReact CLI"
+    },
+    {
+      "locale": "zh",
+      "description": "了解Nx，以及你如何从它的功能中获益，以开发你的React应用程序",
+      "title": "你一直想要但不知道的React CLI"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解Nx，以及你如何從它的功能中獲益，以開發你的React應用程序",
+      "title": "你一直想要但不知道的React CLI"
+    }
+  ]
 }

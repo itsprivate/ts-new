@@ -52,5 +52,22 @@
     },
     "retweet_count": 224,
     "favorite_count": 897
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 米国の2年→30年カーブは2007年以降初めて反転。",
+      "retweeted_status_full_text": "米国の2年物から30年物へのカーブは2007年以来初めて反転した"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 美国2年到30年的曲线自2007年以来首次出现反转。",
+      "retweeted_status_full_text": "美国2年期至30年期曲线自2007年以来首次出现倒挂现象"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 美國2年到30年的曲線自2007年以來首次出現反轉。",
+      "retweeted_status_full_text": "美國2年期至30年期曲線自2007年以來首次出現倒掛現象"
+    }
+  ]
 }
