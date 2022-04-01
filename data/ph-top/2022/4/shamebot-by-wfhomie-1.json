@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-01T07:01:00Z"
+  "original_createdAt": "2022-04-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://app.wfhomie.com/shame/、Slack上で同僚を公に貶めるには最適な方法です。あまり好かれていないチームメイトがミスをしたり、つまらない質問をしたり、下品なコメントをしたときは、ShameBotを使うのが一番簡単な方法で、相手の自尊心を疑わせることができます。",
+      "tagline": "チームメイトをSlackで公開し、相応の恥をかかせる"
+    },
+    {
+      "locale": "zh",
+      "description": "https://app.wfhomie.com/shame/，是通过Slack公开羞辱你的同事的最好方式。每当一个不太喜欢的队友犯了错误，问了一个无聊的问题或发表了一个蹩脚的评论，使用ShameBot是让他们质疑自我价值的最简单方法。",
+      "tagline": "在Slack上公开羞辱你的队友，就像他们应得的那样"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://app.wfhomie.com/shame/，是通過Slack公開羞辱你的同事的最好方式。每當一個不太喜歡的隊友犯了錯誤，問了一個無聊的問題或發表了一個蹩腳的評論，使用ShameBot是讓他們質疑自我價值的最簡單方法。",
+      "tagline": "在Slack上公開羞辱你的隊友，就像他們應得的那樣"
+    }
+  ]
 }
