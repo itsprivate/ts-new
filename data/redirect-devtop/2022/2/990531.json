@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-15T21:16:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--idwzmkvD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wcvniu52jqzaa31lm638.png",
   "author": "Pramit Marattha",
-  "author_url": "https://dev.to/pramit_marattha"
+  "author_url": "https://dev.to/pramit_marattha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誤字脱字に強く、効果的で、効率的な検索エンジンを作るのは至難の業です。A...",
+      "title": "ReactjsとTypesenseで作るアニメ検索アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "创建一个能容忍错别字、有效和高效的搜索引擎是非常困难的。A...",
+      "title": "使用Reactjs和Typesense构建的动漫搜索应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "創建一個能容忍錯別字、有效和高效的搜索引擎是非常困難的。A...",
+      "title": "使用Reactjs和Typesense構建的動漫搜索應用"
+    }
+  ]
 }
