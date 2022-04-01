@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-01T17:19:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YQVCRK9K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ck2f1bcskd7hrwtd1c1s.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Express/NodeJSによるM-UI React設計を採用したシンプルなフルスタックスターター",
+      "title": "React NodeJS Soft Dashboard - オープンソース・フルスタック・スターター"
+    },
+    {
+      "locale": "zh",
+      "description": "简单的全栈启动器，使用由Express/NodeJS驱动的M-UI React设计",
+      "title": "React NodeJS软仪表板 - 开源全栈启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡單的全棧啓動器，使用由Express/NodeJS驅動的M-UI React設計",
+      "title": "React NodeJS軟儀表板 - 開源全棧啓動器"
+    }
+  ]
 }
