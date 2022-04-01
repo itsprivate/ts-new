@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://theminimalist.news"
+  "the_new_excerpt": "https://theminimalist.news",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://theminimalist.news",
+      "title": "ミニマムなニュースアプリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://theminimalist.news",
+      "title": "我建立了一个简约的新闻应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://theminimalist.news",
+      "title": "我建立了一個簡約的新聞應用程序"
+    }
+  ]
 }
