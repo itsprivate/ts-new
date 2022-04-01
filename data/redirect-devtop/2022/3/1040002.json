@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-31T07:17:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HyL-JN3A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quqc2bqb0list1wzn6jl.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Star Adminの上にAppSeedによって生成された無料のDjango Dashboard - ソースはGithubで入手できます。",
+      "title": "Star Admin - オープンソースのDjangoスターター"
+    },
+    {
+      "locale": "zh",
+      "description": "由AppSeed在Star Admin基础上生成的免费Django仪表盘--Github上有来源。",
+      "title": "明星管理 - 开源的Django启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由AppSeed在Star Admin基礎上生成的免費Django儀表盤--Github上有來源。",
+      "title": "明星管理 - 開源的Django啓動器"
+    }
+  ]
 }

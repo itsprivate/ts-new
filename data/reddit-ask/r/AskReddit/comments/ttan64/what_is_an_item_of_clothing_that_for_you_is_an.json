@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたにとって、一瞬で嫌いになってしまう服は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对你来说，哪件衣服会让你立刻感到厌恶？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對你來說，哪件衣服會讓你立刻感到厭惡？"
+    }
+  ]
 }
