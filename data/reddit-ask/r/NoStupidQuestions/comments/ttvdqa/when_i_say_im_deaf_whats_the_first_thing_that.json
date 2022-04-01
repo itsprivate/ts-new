@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "First question, not first thing, sorry, can’t edit title. Doing this for a\nschool assignment. Feel free to ask questions (I am deaf)"
+  "the_new_excerpt": "First question, not first thing, sorry, can’t edit title. Doing this for a\nschool assignment. Feel free to ask questions (I am deaf)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最初の質問、ではなく、すみません、タイトルを編集できません。この質問は\n学校の課題です。気軽に質問してください（私は耳が不自由です）",
+      "title": "耳が聞こえないというと、まず何を思い浮かべるでしょうか"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "第一个问题，不是第一件事，对不起，不能编辑标题。做这个是为了一个\n学校作业。欢迎提出问题（我是聋哑人）",
+      "title": "当我说我是聋子时，你首先想到的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "第一個問題，不是第一件事，對不起，不能編輯標題。做這個是爲了一個\n學校作業。歡迎提出問題（我是聾啞人）",
+      "title": "當我說我是聾子時，你首先想到的是什麼？"
+    }
+  ]
 }
