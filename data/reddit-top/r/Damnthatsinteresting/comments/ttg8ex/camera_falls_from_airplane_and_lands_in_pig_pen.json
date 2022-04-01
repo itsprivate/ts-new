@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飛行機からカメラが落下し、豚舎に着地する。"
+    },
+    {
+      "locale": "zh",
+      "title": "相机从飞机上掉下来，落在猪圈里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "相機從飛機上掉下來，落在豬圈裏"
+    }
+  ]
 }
