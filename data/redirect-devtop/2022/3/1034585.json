@@ -50,5 +50,22 @@
   "original_created_at": "2022-03-25T19:09:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G3JlhOgc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wm8zei0y4vunx62uc8jl.png",
   "author": "Charlie Gerard",
-  "author_url": "https://dev.to/devdevcharlie"
+  "author_url": "https://dev.to/devdevcharlie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ペイメントリンクを使用して、瞬時に支払いを要求する方法について説明します。",
+      "title": "ペイメントリンクでいつでもどこでも支払い依頼"
+    },
+    {
+      "locale": "zh",
+      "description": "了解如何在几秒钟内通过支付链接申请付款",
+      "title": "使用支付链接，随时随地要求付款"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解如何在幾秒鐘內通過支付鏈接申請付款",
+      "title": "使用支付鏈接，隨時隨地要求付款"
+    }
+  ]
 }
