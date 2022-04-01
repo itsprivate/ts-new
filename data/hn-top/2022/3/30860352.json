@@ -3,7 +3,7 @@
   "title": "Spring Core on JDK9 is vulnerable to remote code execution",
   "url": "https://www.praetorian.com/blog/spring-core-jdk9-rce/",
   "author": "groundshark",
-  "points": 103,
+  "points": 157,
   "num_comments": 31,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "JDK9上的Spring Core存在遠程代碼執行漏洞"
     }
-  ]
+  ],
+  "source_updated_at": 1648806137511
 }
