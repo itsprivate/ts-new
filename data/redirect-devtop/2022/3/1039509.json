@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-30T17:40:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rQ2EK8W2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zo12gonmljxvaxo1y9q9.png",
   "author": "Bellatrix",
-  "author_url": "https://dev.to/bellatrix"
+  "author_url": "https://dev.to/bellatrix",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HEY エブリワン!  今日はもっと愛国的になろう :P これは私の最初のプロジェクトチュートリアルです。",
+      "title": "NodejsとExpressjsにHELLOと言おう"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，大家好!  这是我的第一个项目教程，我们将在这里进行。",
+      "title": "对Nodejs和Expressjs说你好"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，大家好!  這是我的第一個項目教程，我們將在這裏進行。",
+      "title": "對Nodejs和Expressjs說你好"
+    }
+  ]
 }
