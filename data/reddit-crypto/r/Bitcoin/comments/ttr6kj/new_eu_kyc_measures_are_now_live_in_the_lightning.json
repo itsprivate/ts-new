@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "EUの新しいKYC対策がUmbrelのLightningノードで公開されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "新的欧盟KYC措施现已在Umbrel的闪电节点上线"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新的歐盟KYC措施現已在Umbrel的閃電節點上線"
+    }
+  ]
 }
