@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1648785188,
-  "the_new_excerpt": "Hi, am I understanding expense ratios correctly?\n\nIf I invest in VTI and the value of my investment reaches $1,000,000 then I\nessentially have paid $300?"
+  "the_new_excerpt": "Hi, am I understanding expense ratios correctly?\n\nIf I invest in VTI and the value of my investment reaches $1,000,000 then I\nessentially have paid $300?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは、経費率について正しく理解していますか？\n\nVTIに投資して、投資額が100万円になった場合、私は以下のようになります。\n実質的に300ドルを支払ったことになるのでしょうか？",
+      "title": "100万円の経費率0.03%は、ちょうど300円なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好，我对费用比率的理解是否正确？\n\n如果我投资于VTI，并且我的投资价值达到100万美元，那么我\n基本上已经支付了300美元？",
+      "title": "100万美元的0.03%的费用率是否只是300美元？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好，我對費用比率的理解是否正確？\n\n如果我投資於VTI，並且我的投資價值達到100萬美元，那麼我\n基本上已經支付了300美元？",
+      "title": "100萬美元的0.03%的費用率是否只是300美元？"
+    }
+  ]
 }
