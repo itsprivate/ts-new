@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自己防衛チュートリアル"
+    },
+    {
+      "locale": "zh",
+      "title": "自卫教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "自衛教程"
+    }
+  ]
 }
