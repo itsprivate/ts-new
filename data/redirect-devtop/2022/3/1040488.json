@@ -44,5 +44,22 @@
   "original_created_at": "2022-03-31T14:53:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CaMAb_6P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8vqigzn4my5kwuooa4pe.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最高のプログラミング言語は何か」と尋ねると、必ずと言っていいほど、次のような答えが返ってきます。",
+      "title": "あなたにとって、「仕事に適した道具を使う」とはどういうことですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你要问什么是 \"最好的编程语言\"，你一定会得到这样的回答。",
+      "title": "对你来说，\"为工作使用正确的工具 \"意味着什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你要問什麼是 \"最好的編程語言\"，你一定會得到這樣的回答。",
+      "title": "對你來說，\"爲工作使用正確的工具 \"意味着什麼？"
+    }
+  ]
 }
