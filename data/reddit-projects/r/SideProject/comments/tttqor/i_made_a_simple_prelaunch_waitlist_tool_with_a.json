@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi,\n\nI test lots of project ideas by creating a simple landing page to collect email\naddresses before building a fully feature MVP. Creating a landing page is\nsimple, but it takes a lot of time to integrate a signup form because of\nhandling the database and server. So, I made…"
+  "the_new_excerpt": "Hi,\n\nI test lots of project ideas by creating a simple landing page to collect email\naddresses before building a fully feature MVP. Creating a landing page is\nsimple, but it takes a lot of time to integrate a signup form because of\nhandling the database and server. So, I made…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n私は多くのプロジェクトのアイデアを、電子メールを収集するための簡単なランディングページを作成することによってテストします。\nを作成することができます。ランディングページの作成は\nしかし、サインアップフォームを実装するのは非常に時間がかかります。\nデータベースとサーバーの処理 そこで、私が作ったのは...",
+      "title": "ランディングページから素早くサインアップを集めるために、紹介システムを組み込んだシンプルな発売前ウェイトリストツールを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好。\n\n我在建立一个完整的MVP之前，通过创建一个简单的登陆页面来收集电子邮件地址来测试很多项目的想法。\n在建立一个完整功能的MVP之前，我通过创建一个简单的着陆页来测试很多项目的想法，以收集电子邮件地址。创建一个登陆页面是\n简单，但由于要处理数据库和服务器，整合一个注册表格需要很多时间。\n处理数据库和服务器。所以，我做了...",
+      "title": "我做了一个简单的启动前等待名单工具，有一个内置的推荐系统，可以快速从你的登陆页面收集注册信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好。\n\n我在建立一個完整的MVP之前，通過創建一個簡單的登陸頁面來收集電子郵件地址來測試很多項目的想法。\n在建立一個完整功能的MVP之前，我通過創建一個簡單的着陸頁來測試很多項目的想法，以收集電子郵件地址。創建一個登陸頁面是\n簡單，但由於要處理數據庫和服務器，整合一個註冊表格需要很多時間。\n處理數據庫和服務器。所以，我做了...",
+      "title": "我做了一個簡單的啓動前等待名單工具，有一個內置的推薦系統，可以快速從你的登陸頁面收集註冊信息"
+    }
+  ]
 }
