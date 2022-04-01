@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-31T08:30:15Z",
   "image": "https://dev.to/social_previews/article/1040162.png",
   "author": "Melih Ekinci",
-  "author_url": "https://dev.to/mlhekinci"
+  "author_url": "https://dev.to/mlhekinci",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この例では、React Hook Formを使用してファイルをアップロードする方法を学びます。",
+      "title": "React Hook FormでFormDataを使ったファイルアップロードをマルチパート化する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个例子中，我们将学习如何用React Hook Form上传文件，这是非常受欢迎的。",
+      "title": "如何使用React Hook Form的FormData进行多部分文件上传"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個例子中，我們將學習如何用React Hook Form上傳文件，這是非常受歡迎的。",
+      "title": "如何使用React Hook Form的FormData進行多部分文件上傳"
+    }
+  ]
 }
