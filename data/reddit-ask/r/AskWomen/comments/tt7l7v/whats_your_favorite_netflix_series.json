@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お気に入りのNetflixシリーズは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的Netflix系列是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的Netflix系列是什麼？"
+    }
+  ]
 }

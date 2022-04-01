@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さて、明日4月1日ですが、あなたがした、またはされた最悪の四月馬鹿の悪戯は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "那么，明天是4月1日，你做过或被人做过的最糟糕的愚人节恶作剧是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那麼，明天是4月1日，你做過或被人做過的最糟糕的愚人節惡作劇是什麼？"
+    }
+  ]
 }
