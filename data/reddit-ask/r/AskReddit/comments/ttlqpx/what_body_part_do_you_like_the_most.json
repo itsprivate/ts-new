@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一番好きな体の部位は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢身体的哪个部分？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡身體的哪個部分？"
+    }
+  ]
 }
