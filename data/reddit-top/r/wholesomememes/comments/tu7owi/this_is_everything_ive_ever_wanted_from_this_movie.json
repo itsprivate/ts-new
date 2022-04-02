@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この映画には、私が今まで望んでいたすべてが詰まっています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我对这部电影的一切期待"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我對這部電影的一切期待"
+    }
+  ]
 }
