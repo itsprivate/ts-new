@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在進行形の究極の戦い - あなたはどっちの味方？"
+    },
+    {
+      "locale": "zh",
+      "title": "正在进行的终极战斗--你站在哪一边？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在進行的終極戰鬥--你站在哪一邊？"
+    }
+  ]
 }
