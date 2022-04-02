@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "12時間分のr/Placeを12秒に凝縮"
+    },
+    {
+      "locale": "zh",
+      "title": "12小时的r/Place在12秒内完成"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "12小時的r/Place在12秒內完成"
+    }
+  ]
 }
