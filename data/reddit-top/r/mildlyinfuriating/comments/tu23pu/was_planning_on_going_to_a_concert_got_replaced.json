@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コンサートに行こうと思っていたのに、開始1時間前に交代させられた。"
+    },
+    {
+      "locale": "zh",
+      "title": "原本打算去看一场音乐会，在开始前一小时被替换了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "原本打算去看一場音樂會，在開始前一小時被替換了。"
+    }
+  ]
 }
