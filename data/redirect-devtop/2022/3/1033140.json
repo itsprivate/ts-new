@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-24T14:39:00Z",
   "image": "https://dev.to/social_previews/article/1033140.png",
   "author": "Learning Locker",
-  "author_url": "https://dev.to/learninglocker"
+  "author_url": "https://dev.to/learninglocker",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. コードの構造 新しい開発者の仕事を始める上で、最も難しいのは間違いなく、...",
+      "title": "ジュニアエンジニアが理解しやすいコードを維持する5つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 代码结构 这可以说是开始一个新的开发角色的最困难的部分---被...",
+      "title": "我们让初级工程师理解我们的代码的5种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 代碼結構 這可以說是開始一個新的開發角色的最困難的部分---被...",
+      "title": "我們讓初級工程師理解我們的代碼的5種方法"
+    }
+  ]
 }
