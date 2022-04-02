@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-31T15:05:24Z",
   "image": "https://dev.to/social_previews/article/1040495.png",
   "author": "Nathan",
-  "author_url": "https://dev.to/nathan20"
+  "author_url": "https://dev.to/nathan20",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQLは、開発者が簡単にデータを取得できるようにするために、2012年にFacebookが作成したものです...",
+      "title": "GraphQL : 新しいREST"
+    },
+    {
+      "locale": "zh",
+      "description": "GraphQL是由Facebook在2012年创建的，作为一种使开发者更容易获取数据的方式。",
+      "title": "GraphQL：新的REST"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GraphQL是由Facebook在2012年創建的，作爲一種使開發者更容易獲取數據的方式。",
+      "title": "GraphQL：新的REST"
+    }
+  ]
 }
