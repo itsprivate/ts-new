@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "EDIT: thanks for the replies!"
+  "the_new_excerpt": "EDIT: thanks for the replies!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "EDIT: 返信ありがとうございました",
+      "title": "大きなムードキラーとは？本当にイライラさせるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "EDIT: 谢谢你的回答!",
+      "title": "什么是大的情绪杀手？真正让你恼火的事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "EDIT: 謝謝你的回答!",
+      "title": "什麼是大的情緒殺手？真正讓你惱火的事情？"
+    }
+  ]
 }
