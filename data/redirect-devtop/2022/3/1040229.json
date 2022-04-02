@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-31T10:53:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2rm4fH_O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tt6ui8i4xwssewwuehd5.png",
   "author": "Johannes Kettmann",
-  "author_url": "https://dev.to/jkettmann"
+  "author_url": "https://dev.to/jkettmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チームは、実装を開始する前に、アイデア出し、設計、計画、見積もり、機能の優先順位を決定します。ここでは、最初の仕事で遭遇する可能性が高い、典型的な機能計画のプロセスを紹介します。",
+      "title": "プロフェッショナル（React）開発チームの機能計画・見積もり方法（スクリーンキャスト含む）"
+    },
+    {
+      "locale": "zh",
+      "description": "团队在开始实施之前，要对功能进行构思、设计、规划、估计和优先排序。下面是一个典型的功能规划过程，你在第一份工作中可能会遇到。",
+      "title": "专业（React）开发团队如何计划和估算功能（包括截屏）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "團隊在開始實施之前，要對功能進行構思、設計、規劃、估計和優先排序。下面是一個典型的功能規劃過程，你在第一份工作中可能會遇到。",
+      "title": "專業（React）開發團隊如何計劃和估算功能（包括截屏）。"
+    }
+  ]
 }
