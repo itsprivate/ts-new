@@ -53,5 +53,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "New research team has built a quantum machine with 13 million qubits that\ncracked Bitcoin encryption.\n\nScientists from the University of Sussex in the UK have built quantum systems\nwith 13 million qubits, which was sufficient enough to break the cryptographic\nalgorithm (SHA-256) that secures the…"
+  "the_new_excerpt": "New research team has built a quantum machine with 13 million qubits that\ncracked Bitcoin encryption.\n\nScientists from the University of Sussex in the UK have built quantum systems\nwith 13 million qubits, which was sufficient enough to break the cryptographic\nalgorithm (SHA-256) that secures the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "新しい研究チームが1300万量子ビットを持つ量子マシンを構築し\nビットコインの暗号を解読\n\n英国サセックス大学の科学者たちが、量子システムを構築しました。\n1,300万量子ビットの暗号を解読するのに十分な性能でした。\nの安全性を確保するアルゴリズム（SHA-256）...",
+      "title": "量子コンピュータがビットコインのアルゴリズムを史上初めて解き、BTCは数分で20％下落"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "新的研究团队建立了一个拥有1300万个量子比特的量子机，该机器\n破解了比特币的加密。\n\n来自英国苏塞克斯大学的科学家们已经建立了具有1300万个量子比特的量子系统\n拥有1300万个量子比特，这足以破解保障比特币加密的密码学\n算法（SHA-256），该算法保证了...",
+      "title": "量子计算机历史上首次解决了比特币的算法，BTC在几分钟内下跌了20%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "新的研究團隊建立了一個擁有1300萬個量子比特的量子機，該機器\n破解了比特幣的加密。\n\n來自英國蘇塞克斯大學的科學家們已經建立了具有1300萬個量子比特的量子系統\n擁有1300萬個量子比特，這足以破解保障比特幣加密的密碼學\n算法（SHA-256），該算法保證了...",
+      "title": "量子計算機歷史上首次解決了比特幣的算法，BTC在幾分鐘內下跌了20%。"
+    }
+  ]
 }
