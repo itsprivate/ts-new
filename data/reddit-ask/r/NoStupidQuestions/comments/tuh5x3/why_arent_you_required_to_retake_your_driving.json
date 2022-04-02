@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Cant think of any other licence where you're operating machinery that doesnt\nrequire regular renewal."
+  "the_new_excerpt": "Cant think of any other licence where you're operating machinery that doesnt\nrequire regular renewal.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "機械類を操作する他のライセンスは考えられません。\n定期的な更新が必要です。",
+      "title": "なぜ5年ごとに運転免許の再試験が必要なのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想不出还有什么其他的执照是不需要定期更新的，因为你是在操作机器。\n需要定期更新。",
+      "title": "为什么不要求你每5年重新参加驾驶考试？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想不出還有什麼其他的執照是不需要定期更新的，因爲你是在操作機器。\n需要定期更新。",
+      "title": "爲什麼不要求你每5年重新參加駕駛考試？"
+    }
+  ]
 }
