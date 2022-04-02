@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "They are technically not sugar cookies, as those have different amount of flour\nand use only white sugar, while chocolate chip cookie recipes call for both\nwhite and brown. Dough cookie maybe?"
+  "the_new_excerpt": "They are technically not sugar cookies, as those have different amount of flour\nand use only white sugar, while chocolate chip cookie recipes call for both\nwhite and brown. Dough cookie maybe?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "シュガークッキーは小麦粉の量が違うので、厳密にはシュガークッキーではありません。\nチョコレートチップクッキーのレシピでは、両方の砂糖が必要ですが、白砂糖のみを使用します。\n白と茶 生地クッキーかな？",
+      "title": "チョコチップのないチョコチップクッキーってなんだろう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "从技术上讲，它们不是糖饼干，因为它们的面粉量不同。\n而且只使用白糖，而巧克力饼干的食谱则要求同时使用白糖和红糖。\n白糖和红糖。也许是面团饼干？",
+      "title": "如果没有巧克力片，你怎么会把巧克力片饼干叫做巧克力片？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "從技術上講，它們不是糖餅乾，因爲它們的麪粉量不同。\n而且只使用白糖，而巧克力餅乾的食譜則要求同時使用白糖和紅糖。\n白糖和紅糖。也許是麪糰餅乾？",
+      "title": "如果沒有巧克力片，你怎麼會把巧克力片餅乾叫做巧克力片？"
+    }
+  ]
 }
