@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは何なんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "伙计们，这到底是什么...？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夥計們，這到底是什麼...？"
+    }
+  ]
 }
