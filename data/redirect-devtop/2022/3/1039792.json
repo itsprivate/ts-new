@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-31T02:05:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OkWi_P9m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/17n9yuwvj4x9jo6vkq9r.jpg",
   "author": "Victor Novais",
-  "author_url": "https://dev.to/vicnovais"
+  "author_url": "https://dev.to/vicnovais",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の皆さん、こんにちは。この記事では、遅延プロミスフックの作成方法と使用方法を紹介します。",
+      "title": "Reactで遅延プロミスフックを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "各位读者朋友，大家好 在这篇文章中，我将展示如何创建和使用一个递延承诺钩。",
+      "title": "在React中创建一个推迟的承诺钩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "各位讀者朋友，大家好 在這篇文章中，我將展示如何創建和使用一個遞延承諾鉤。",
+      "title": "在React中創建一個推遲的承諾鉤"
+    }
+  ]
 }
