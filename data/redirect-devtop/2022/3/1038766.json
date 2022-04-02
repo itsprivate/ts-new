@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-30T04:25:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BFfjnZwN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu2ulhvf8evbndzoxeqo.gif",
   "author": "Rahul Sharma",
-  "author_url": "https://dev.to/devsmitra"
+  "author_url": "https://dev.to/devsmitra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typescriptは型チェックの面で非常に強力ですが、いくつかの型がある場合、面倒になることがあります...",
+      "title": "13 タイプスクリプト・ユーティリティ。開発者のためのチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "在类型检查方面，Typescript是非常强大的，但有时当一些类型......就会变得很乏味。",
+      "title": "13 排版工具。开发者的小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在類型檢查方面，Typescript是非常強大的，但有時當一些類型......就會變得很乏味。",
+      "title": "13 排版工具。開發者的小抄"
+    }
+  ]
 }
