@@ -134,5 +134,22 @@
     "retweet_count": 683,
     "favorite_count": 2450,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AlanRMacLeod: エコノミストはついに支持しない侵略を見つけた。 https://t.co/vcLzb2bn47",
+      "retweeted_status_full_text": "エコノミストはついに、支持しない侵略を見つけた。https://t.co/vcLzb2bn47。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AlanRMacLeod: 《经济学人》终于找到了它不支持的入侵行为。https://t.co/vcLzb2bn47",
+      "retweeted_status_full_text": "经济学人》终于找到了它不支持的入侵行为。https://t.co/vcLzb2bn47"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AlanRMacLeod: 《經濟學人》終於找到了它不支持的入侵行爲。https://t.co/vcLzb2bn47",
+      "retweeted_status_full_text": "經濟學人》終於找到了它不支持的入侵行爲。https://t.co/vcLzb2bn47"
+    }
+  ]
 }
