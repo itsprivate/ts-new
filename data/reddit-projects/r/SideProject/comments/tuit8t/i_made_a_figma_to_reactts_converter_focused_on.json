@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間が読みやすいコード、レスポンシブ、ピクセルの完成度にこだわったFigma→React+TSコンバーターを作ってみた【TOOL"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Figma到React+TS的转换器，专注于人类可读的代码、响应性和像素的完美性[工具] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Figma到React+TS的轉換器，專注於人類可讀的代碼、響應性和像素的完美性[工具] 。"
+    }
+  ]
 }
