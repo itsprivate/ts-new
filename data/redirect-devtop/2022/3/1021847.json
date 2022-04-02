@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-14T04:56:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FmjjO-lB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e79bvdtj04yxomtm65h8.png",
   "author": "Ritesh Kumar",
-  "author_url": "https://dev.to/nyctonio"
+  "author_url": "https://dev.to/nyctonio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まず、ReactはJSライブラリであり、完全なフレームワークではありません🙂そのため、完全なWebを作るには...",
+      "title": "Reactのフックとコンセプトを一挙に公開! 🤗"
+    },
+    {
+      "locale": "zh",
+      "description": "首先，React是一个JS库，而不是一个完整的框架 🙂所以要做一个完整的网络。",
+      "title": "所有的React钩子和概念都在一个帖子里！! 🤗"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "首先，React是一個JS庫，而不是一個完整的框架 🙂所以要做一個完整的網絡。",
+      "title": "所有的React鉤子和概念都在一個帖子裏！! 🤗"
+    }
+  ]
 }
