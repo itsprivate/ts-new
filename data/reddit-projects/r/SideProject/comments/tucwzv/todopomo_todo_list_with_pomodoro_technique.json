@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TodoPomo - ポモドーロテクニックを使ったTodoリスト"
+    },
+    {
+      "locale": "zh",
+      "title": "TodoPomo - 带有Pomodoro技术的Todo列表"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TodoPomo - 帶有Pomodoro技術的Todo列表"
+    }
+  ]
 }
