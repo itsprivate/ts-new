@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-01T17:42:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qATlkp2a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9i7fh1reaum3esht42f.jpg",
   "author": "Maurício Linhares",
-  "author_url": "https://dev.to/mauriciolinhares"
+  "author_url": "https://dev.to/mauriciolinhares",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "静的バイナリとクロスコンパイルのおかげで、Go でコマンドライン アプリケーションをビルドして配布することができます...",
+      "title": "Golangでのコマンドラインツールの構築と配布"
+    },
+    {
+      "locale": "zh",
+      "description": "由于其静态二进制文件和交叉编译，用Go构建和发布命令行应用程序...",
+      "title": "用Golang构建和发布一个命令行工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由於其靜態二進制文件和交叉編譯，用Go構建和發佈命令行應用程序...",
+      "title": "用Golang構建和發佈一個命令行工具"
+    }
+  ]
 }
