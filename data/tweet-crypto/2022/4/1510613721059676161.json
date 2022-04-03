@@ -134,5 +134,21 @@
     "retweet_count": 719,
     "favorite_count": 5528,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PopMech: 南アフリカの億万長者は、世界で最も裕福な人の一人です。イーロンはどうやって銀行をつくったのか、ご紹介します。 https://t.co/Bo6U9LjON0",
+      "retweeted_status_full_text": "南アフリカの億万長者は、世界で最も裕福な人物の一人です。イーロンはどうやって銀行をつくったのか、ご紹介します。https://t.co/Bo6U9LjON0。"
+    },
+    {
+      "locale": "zh",
+      "retweeted_status_full_text": "这位南非的亿万富翁是世界上最富有的人之一。以下是埃隆是如何赚取银行的。https://t.co/Bo6U9LjON0"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PopMech: 南アフリカの億萬長者は、世界で最も裕福な人の一人です。イーロンはどうやって銀行をつくったのか、ご紹介します。 https://t.co/Bo6U9LjON0",
+      "retweeted_status_full_text": "這位南非的億萬富翁是世界上最富有的人之一。以下是埃隆是如何賺取銀行的。https://t.co/Bo6U9LjON0"
+    }
+  ]
 }
