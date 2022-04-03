@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WebサイトのコンテンツをリフレーズできるWebアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个网络应用，可以重新措辞你的网站内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個網絡應用，可以重新措辭你的網站內容"
+    }
+  ]
 }
