@@ -39,5 +39,22 @@
   "original_created_at": "2022-04-02T05:14:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hv6uNR-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ueg0cblu9qc45emxj3v.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テストについて話している今、かなりよく使われているテストフレームワークであるJestを試してみましょう...",
+      "title": "プロジェクトにJestのテストを追加する"
+    },
+    {
+      "locale": "zh",
+      "description": "现在我们正在谈论测试，让我们试试Jest，一个相当好用的测试框架。",
+      "title": "将Jest测试添加到一个项目中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在我們正在談論測試，讓我們試試Jest，一個相當好用的測試框架。",
+      "title": "將Jest測試添加到一個項目中"
+    }
+  ]
 }
