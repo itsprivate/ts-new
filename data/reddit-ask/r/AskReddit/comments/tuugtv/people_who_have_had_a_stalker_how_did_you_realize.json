@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストーカーにあったことがある人、どうやって自分がストーカーされていることに気づき、結局どうなったのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有过跟踪者的人，你是如何意识到自己被跟踪的，最后发生了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有過跟蹤者的人，你是如何意識到自己被跟蹤的，最後發生了什麼？"
+    }
+  ]
 }
