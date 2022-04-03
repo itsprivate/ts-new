@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-01T19:50:03Z",
   "image": "https://dev.to/social_previews/article/1042005.png",
   "author": "Tyrell Curry",
-  "author_url": "https://dev.to/tyrellcurry"
+  "author_url": "https://dev.to/tyrellcurry",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どうも！DEVでは初めての投稿です。2021年後半からWeb開発の勉強を始めました。今まで...",
+      "title": "チャットできる開発者募集中"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿！这是我在DEV上的第一个帖子。我在2021年年底开始学习网络开发。我一直在...",
+      "title": "寻找可以聊天的开发者!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿！這是我在DEV上的第一個帖子。我在2021年年底開始學習網絡開發。我一直在...",
+      "title": "尋找可以聊天的開發者!"
+    }
+  ]
 }
