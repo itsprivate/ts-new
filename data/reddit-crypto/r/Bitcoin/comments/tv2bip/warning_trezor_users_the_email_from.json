@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Trezor users have received a malicious email that appears legitimate but these\nemails were actually sent by an attacker. Here is what the emails look like\n[https://i.redd.it/2d1872nv68r81.jpg]. The emails also contain a link to click\nand download the latest version.\n\nDo not click the link and…"
+  "the_new_excerpt": "Trezor users have received a malicious email that appears legitimate but these\nemails were actually sent by an attacker. Here is what the emails look like\n[https://i.redd.it/2d1872nv68r81.jpg]. The emails also contain a link to click\nand download the latest version.\n\nDo not click the link and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Trezorのユーザーが、一見正当なメールに見えるが、これらの悪意あるメールを受け取っている。\n実は、このメールは攻撃者によって送信されたものなのです。以下は、そのメールの内容です。\n[https://i.redd.it/2d1872nv68r81.jpg]. また、このメールには、以下のようなリンクが含まれています。\nをクリックし、最新版をダウンロードしてください。\n\nリンクをクリックしないようにし...",
+      "title": "トレゾアユーザーへの警告 noreply@trezor.us からのメールはフェイクです。リンクをクリックしないでください"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Trezor用户收到了一封看似合法的恶意邮件，但这些\n恶意邮件，但这些邮件实际上是由攻击者发送的。以下是这些电子邮件的外观\n[https://i.redd.it/2d1872nv68r81.jpg]. 这些电子邮件还包含一个链接，可以点击\n并下载最新版本。\n\n不要点击该链接并...",
+      "title": "警告trezor用户。来自noreply@trezor.us 的电子邮件是假的。请不要点击该链接!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Trezor用戶收到了一封看似合法的惡意郵件，但這些\n惡意郵件，但這些郵件實際上是由攻擊者發送的。以下是這些電子郵件的外觀\n[https://i.redd.it/2d1872nv68r81.jpg]. 這些電子郵件還包含一個鏈接，可以點擊\n並下載最新版本。\n\n不要點擊該鏈接並...",
+      "title": "警告trezor用戶。來自noreply@trezor.us 的電子郵件是假的。請不要點擊該鏈接!"
+    }
+  ]
 }
