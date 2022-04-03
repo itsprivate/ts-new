@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が作ったsvgの落書きを簡単にコピー＆ペーストできるサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个网站，你可以轻松地复制和粘贴我做的svg涂鸦。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個網站，你可以輕鬆地複製和粘貼我做的svg塗鴉。"
+    }
+  ]
 }
