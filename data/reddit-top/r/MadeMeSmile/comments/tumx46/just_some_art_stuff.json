@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アートなものばかり"
+    },
+    {
+      "locale": "zh",
+      "title": "只是一些艺术方面的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是一些藝術方面的東西"
+    }
+  ]
 }
