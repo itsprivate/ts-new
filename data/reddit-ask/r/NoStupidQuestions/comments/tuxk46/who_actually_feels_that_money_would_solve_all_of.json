@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I feel like I would pay for the top notch medical care"
+  "the_new_excerpt": "I feel like I would pay for the top notch medical care",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "一流の医療にお金を払う気がする",
+      "title": "お金ですべての問題が解決すると思っている人は実際にいるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得我愿意为一流的医疗服务买单",
+      "title": "谁真的觉得钱能解决他们所有的问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得我願意爲一流的醫療服務買單",
+      "title": "誰真的覺得錢能解決他們所有的問題？"
+    }
+  ]
 }
