@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-03T07:03:22Z"
+  "original_createdAt": "2022-04-03T07:03:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cronotion は、概念データベースの繰り返し項目を設定する簡単な方法を提供します。Cron 式は慣れていれば使えますし、簡単な UI 要素を使って簡単にルールを設定することもできます。",
+      "tagline": "cronのパワーであなたの概念のための繰り返しタスク"
+    },
+    {
+      "locale": "zh",
+      "description": "Cronotion提供了一个简单的方法来为你的概念数据库设置重复项目。如果你熟悉Cron表达式，可以使用它，或者你可以使用简单的UI元素轻松地配置一个规则。",
+      "tagline": "用cron的力量为你的概念重复执行任务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cronotion提供了一個簡單的方法來爲你的概念數據庫設置重複項目。如果你熟悉Cron表達式，可以使用它，或者你可以使用簡單的UI元素輕鬆地配置一個規則。",
+      "tagline": "用cron的力量爲你的概念重複執行任務"
+    }
+  ]
 }

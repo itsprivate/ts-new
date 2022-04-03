@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "redditのMODが不正をしており、それを指摘する投稿をMODが削除している。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个reddit的mod在作弊，而mod们正在删除指出它的帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個reddit的mod在作弊，而mod們正在刪除指出它的帖子"
+    }
+  ]
 }
