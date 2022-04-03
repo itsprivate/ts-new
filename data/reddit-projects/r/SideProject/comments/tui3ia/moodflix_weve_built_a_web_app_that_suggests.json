@@ -122,5 +122,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[Moodflix】私たちは、あなたの実際の気分に基づいて映画を提案するウェブアプリを作りました。自撮り写真を撮るだけで、観るべき映画を提案してくれます。React、SCSS、Framer Motion、Azure Cognitive Services &amp; Face APIを使用して構築されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "[Moodflix]我们已经建立了一个网络应用，根据你的实际心情来推荐电影。你只需拍一张自拍照，我们就会向你推荐一些电影。它是由React、SCSS、Framer Motion、Azure Cognitive Services &amp; Face API构建的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[Moodflix]我們已經建立了一個網絡應用，根據你的實際心情來推薦電影。你只需拍一張自拍照，我們就會向你推薦一些電影。它是由React、SCSS、Framer Motion、Azure Cognitive Services &amp; Face API構建的。"
+    }
+  ]
 }
