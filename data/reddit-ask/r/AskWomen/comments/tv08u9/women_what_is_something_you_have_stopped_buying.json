@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What is something you have decided to stop buying for whatever reason?"
+  "the_new_excerpt": "What is something you have decided to stop buying for whatever reason?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何らかの理由で買うのをやめようと思ったものは何ですか？",
+      "title": "女性、買わなくなったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "无论出于什么原因，你决定不再购买的东西是什么？",
+      "title": "妇女们，你们停止购买的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "無論出於什麼原因，你決定不再購買的東西是什麼？",
+      "title": "婦女們，你們停止購買的東西是什麼？"
+    }
+  ]
 }
