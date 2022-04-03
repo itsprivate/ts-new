@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-31T21:23:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qbtRdmLB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5o39gq15zsi3xjkd4lh.png",
   "author": "CoderPad",
-  "author_url": "https://dev.to/coderpad"
+  "author_url": "https://dev.to/coderpad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React 18のアップグレードが完了し、軽いQAテストを行ったところ、次のような問題が見つかりました。",
+      "title": "React 18があなたのアプリを壊した理由"
+    },
+    {
+      "locale": "zh",
+      "description": "你刚刚完成了React 18的升级，在进行了一些简单的QA测试后，你没有发现...",
+      "title": "为什么React 18破坏了你的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你剛剛完成了React 18的升級，在進行了一些簡單的QA測試後，你沒有發現...",
+      "title": "爲什麼React 18破壞了你的應用程序"
+    }
+  ]
 }
