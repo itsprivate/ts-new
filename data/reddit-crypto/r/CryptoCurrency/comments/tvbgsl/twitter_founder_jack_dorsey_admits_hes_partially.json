@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twitter創業者のJack Dorseyは、中央集権的なインターネットについて「部分的に責任がある」と認めている。"
+    },
+    {
+      "locale": "zh",
+      "title": "推特创始人杰克-多尔西承认，他对集中式互联网 \"负有部分责任\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "推特創始人傑克-多爾西承認，他對集中式互聯網 \"負有部分責任\"。"
+    }
+  ]
 }
