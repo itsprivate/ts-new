@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最も熱い言葉をかけられたのは？"
+    },
+    {
+      "locale": "zh",
+      "title": "有人对你说的最热的话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人對你說的最熱的話是什麼？"
+    }
+  ]
 }
