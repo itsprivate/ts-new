@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人差し指の指紋があれば、AIは残りの手のひらの指紋を生成できるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我只有食指的指纹，如果用大量的人类手掌数据集来训练AI，它能生成手掌的其他部分的指纹吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我只有食指的指紋，如果用大量的人類手掌數據集來訓練AI，它能生成手掌的其他部分的指紋嗎？"
+    }
+  ]
 }
