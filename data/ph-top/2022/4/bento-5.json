@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-04T08:04:18Z"
+  "original_createdAt": "2022-04-04T08:04:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "タスクに追われていませんか？Bento をご紹介します。より少ないタスクで、より有意義な作業ができるようお手伝いします。",
+      "tagline": "Do Less To-Do リスト"
+    },
+    {
+      "locale": "zh",
+      "description": "你被你的任务压得喘不过气来吗？介绍一下便当--帮助你做更少，但更有意义的任务。",
+      "tagline": "少做事的清单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你被你的任務壓得喘不過氣來嗎？介紹一下便當--幫助你做更少，但更有意義的任務。",
+      "tagline": "少做事的清單"
+    }
+  ]
 }
