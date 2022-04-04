@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "犬がバレーボールをする"
+    },
+    {
+      "locale": "zh",
+      "title": "狗在打排球"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狗在打排球"
+    }
+  ]
 }
