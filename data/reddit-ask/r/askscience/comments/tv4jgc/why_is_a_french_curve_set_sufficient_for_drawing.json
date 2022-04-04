@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "The instrument in question is this: https://en.m.wikipedia.org/wiki/French_curve\n\nIt seems to be based on euler curves, and its use is to take a number of points,\nfind the part of the toolset that best lines up with some of them and using that\nas a ruler.\n\nWhat I can't wrap my head around is…"
+  "the_new_excerpt": "The instrument in question is this: https://en.m.wikipedia.org/wiki/French_curve\n\nIt seems to be based on euler curves, and its use is to take a number of points,\nfind the part of the toolset that best lines up with some of them and using that\nas a ruler.\n\nWhat I can't wrap my head around is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "問題の楽器はこれです：https://en.m.wikipedia.org/wiki/French_curve\n\nオイラー曲線がベースになっているようで、用途は点数を取ることです。\nツールセットの中から、いくつかのツールに最もよく合致する部分を見つけ、それを使って\nを定規として使用します。\n\nどうしても理解できないのは...",
+      "title": "なぜ、フランス式カーブセットで曲線を描くのに「十分」なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有关的仪器是这样的：https://en.m.wikipedia.org/wiki/French_curve\n\n它似乎是基于欧拉曲线的，其用途是取一些点。\n找到与其中一些点最吻合的工具集的部分，并使用该部分\n作为一个标尺。\n\n我无法理解的是...",
+      "title": "为什么法国的曲线集对绘制曲线来说是 \"足够的\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有關的儀器是這樣的：https://en.m.wikipedia.org/wiki/French_curve\n\n它似乎是基於歐拉曲線的，其用途是取一些點。\n找到與其中一些點最吻合的工具集的部分，並使用該部分\n作爲一個標尺。\n\n我無法理解的是...",
+      "title": "爲什麼法國的曲線集對繪製曲線來說是 \"足夠的\"？"
+    }
+  ]
 }
