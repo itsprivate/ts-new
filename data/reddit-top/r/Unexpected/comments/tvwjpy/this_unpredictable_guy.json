@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この予測不可能な男"
+    },
+    {
+      "locale": "zh",
+      "title": "这个不可预知的家伙"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個不可預知的傢伙"
+    }
+  ]
 }
