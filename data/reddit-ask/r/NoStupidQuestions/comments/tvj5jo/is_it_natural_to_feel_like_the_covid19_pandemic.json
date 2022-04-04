@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I feel like it’s changed me. I don’t even recognise who I am anymore."
+  "the_new_excerpt": "I feel like it’s changed me. I don’t even recognise who I am anymore.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自分を変えてくれたような気がします。自分が誰なのかもわからなくなった。",
+      "title": "COVID-19のパンデミックによって、自分が変わったと感じるのは自然なことなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得它已经改变了我。我甚至不认识我是谁了。",
+      "title": "感觉COVID-19大流行病改变了你，这是否很自然？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得它已經改變了我。我甚至不認識我是誰了。",
+      "title": "感覺COVID-19大流行病改變了你，這是否很自然？"
+    }
+  ]
 }
