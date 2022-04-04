@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間には利き腎があるのか？人間には左利きと右利きがありますが、腎臓も同じなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "人类是否有一个显性的肾脏？人类可以是左撇子或右撇子，肾脏也是这样吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類是否有一個顯性的腎臟？人類可以是左撇子或右撇子，腎臟也是這樣嗎？"
+    }
+  ]
 }
