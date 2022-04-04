@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Minecraftのr/placeを更新して、ブロックが変わると積み重ねるバージョン第2弾を作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我更新了Minecraft中的r/place，有了第二个版本，可以在变化时堆积积木"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我更新了Minecraft中的r/place，有了第二個版本，可以在變化時堆積積木"
+    }
+  ]
 }
