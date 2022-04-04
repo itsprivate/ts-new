@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-26T23:27:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KKEhjVKO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz818beif2va7cebyfou.jpg",
   "author": "Karina Kato",
-  "author_url": "https://dev.to/karinakato"
+  "author_url": "https://dev.to/karinakato",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "My Submissionの概要 このチュートリアルでは、ブログの記事を作成する方法について説明します...",
+      "title": "動画からブログ記事を自動作成"
+    },
+    {
+      "locale": "zh",
+      "description": "我的提交概述 本教程将教你如何创建博客文章...",
+      "title": "从视频中创建自动博客文章"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的提交概述 本教程將教你如何創建博客文章...",
+      "title": "從視頻中創建自動博客文章"
+    }
+  ]
 }
