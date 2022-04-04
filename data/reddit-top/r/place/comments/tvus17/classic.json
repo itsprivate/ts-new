@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クラシック"
+    },
+    {
+      "locale": "zh",
+      "title": "经典"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "經典"
+    }
+  ]
 }
