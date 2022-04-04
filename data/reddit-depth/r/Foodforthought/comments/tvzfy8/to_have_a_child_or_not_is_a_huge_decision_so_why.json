@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供を産むか産まないかは、大きな決断です。それなのに、なぜ議論が少ないのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "要不要生孩子是一个巨大的决定。那么，为什么对它的讨论这么少呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "要不要生孩子是一個巨大的決定。那麼，爲什麼對它的討論這麼少呢？"
+    }
+  ]
 }
