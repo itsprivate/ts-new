@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現地のBTC ATMは異常なほど普及している。何か安い取引コストで済む方法はないでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当地的BTC ATM有疯狂的传播。有什么便宜的交易费用选择吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當地的BTC ATM有瘋狂的傳播。有什麼便宜的交易費用選擇嗎？"
+    }
+  ]
 }
