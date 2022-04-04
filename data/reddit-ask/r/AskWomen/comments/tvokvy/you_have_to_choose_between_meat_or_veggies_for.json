@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一生、肉か野菜かどちらかを選ばなければならない場合、どちらを選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的余生中，你必须在肉类或蔬菜中做出选择*，你会选择哪一种，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的餘生中，你必須在肉類或蔬菜中做出選擇*，你會選擇哪一種，爲什麼？"
+    }
+  ]
 }
