@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-04T08:49:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eSifVK81--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vkmonxtwrvn28k0k6fc5.png",
   "author": "Michael",
-  "author_url": "https://dev.to/itsmichael1"
+  "author_url": "https://dev.to/itsmichael1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitLiveは、あらゆるGitリポジトリでオフラインモードですぐに使えるようになったことを発表します。",
+      "title": "GitLiveがIntelliJのあらゆるGitリポジトリと連動するようになりました!"
+    },
+    {
+      "locale": "zh",
+      "description": "我们很高兴地宣布，GitLive现在可以在离线模式下与任何Git仓库一起工作，即开即用。",
+      "title": "GitLive现在可以与IntelliJ中的任何Git存储库一起工作了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們很高興地宣佈，GitLive現在可以在離線模式下與任何Git倉庫一起工作，即開即用。",
+      "title": "GitLive現在可以與IntelliJ中的任何Git存儲庫一起工作了!"
+    }
+  ]
 }
