@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あえて、スクロールして行く...!"
+    },
+    {
+      "locale": "zh",
+      "title": "我敢说你会去翻阅它...!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我敢說你會去翻閱它...!"
+    }
+  ]
 }
