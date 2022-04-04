@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実際の事件と同じように沈むタイタニック模型"
+    },
+    {
+      "locale": "zh",
+      "title": "一个像真实事件一样沉没的泰坦尼克号模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個像真實事件一樣沉沒的泰坦尼克號模型"
+    }
+  ]
 }
