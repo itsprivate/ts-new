@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "名前を伏せて、好きなゲームを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "不说它的名字，你最喜欢的游戏是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不說它的名字，你最喜歡的遊戲是什麼？"
+    }
+  ]
 }

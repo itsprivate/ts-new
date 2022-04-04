@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このままではいけないと、みんな思っているのでは？"
+    },
+    {
+      "locale": "zh",
+      "title": "我们都能同意，这必须得走吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們都能同意，這必須得走嗎？"
+    }
+  ]
 }
