@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "[ Removed by reddit on account of violating the content policy\n[/help/contentpolicy]. ]"
+  "the_new_excerpt": "[ Removed by reddit on account of violating the content policy\n[/help/contentpolicy]. ]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "[ コンテンツポリシー違反のため、redditにより削除されました。\n[/help/contentpolicy]を参照してください。]",
+      "title": "[Redditによって削除されました。］"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "[因违反内容政策而被reddit删除\n[/help/contentpolicy]. ]",
+      "title": "[由Reddit删除]"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "[因違反內容政策而被reddit刪除\n[/help/contentpolicy]. ]",
+      "title": "[由Reddit刪除]"
+    }
+  ]
 }
