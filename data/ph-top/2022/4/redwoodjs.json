@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-04T14:33:40Z"
+  "original_createdAt": "2022-04-04T14:33:40Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Redwoodは、あなたのアプリがサイドプロジェクトからスタートアップに成長しても、素早く動き続けられるように設計された、意見交換型のフルスタック、JavaScript/TypeScriptウェブアプリフレームワークです。React、GraphQL、Prisma、Storybook、Jestがすべて統合されているので、アプリの構築に集中できます。",
+      "tagline": "スタートアップのためのアプリフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "Redwood是一个有主见的全栈式JavaScript/TypeScript网络应用程序框架，旨在让你的应用程序从副业发展到初创公司时保持快速发展。有了React、GraphQL、Prisma、Storybook和Jest的整合，你可以专注于构建你的应用",
+      "tagline": "初创企业的应用程序框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Redwood是一個有主見的全棧式JavaScript/TypeScript網絡應用程序框架，旨在讓你的應用程序從副業發展到初創公司時保持快速發展。有了React、GraphQL、Prisma、Storybook和Jest的整合，你可以專注於構建你的應用",
+      "tagline": "初創企業的應用程序框架"
+    }
+  ]
 }
