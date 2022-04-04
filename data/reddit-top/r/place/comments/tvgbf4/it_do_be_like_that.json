@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そんな感じです :/)"
+    },
+    {
+      "locale": "zh",
+      "title": "它确实是这样的：/"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它確實是這樣的：/"
+    }
+  ]
 }
