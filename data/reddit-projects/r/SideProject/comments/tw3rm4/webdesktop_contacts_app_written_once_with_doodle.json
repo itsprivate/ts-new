@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Doodleで一度書いたWeb/デスクトップ用連絡先アプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "用Doodle写一次网页/桌面联系人应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Doodle寫一次網頁/桌面聯繫人應用程序"
+    }
+  ]
 }
