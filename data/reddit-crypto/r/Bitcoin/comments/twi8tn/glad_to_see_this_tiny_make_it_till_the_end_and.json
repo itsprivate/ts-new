@@ -33,5 +33,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この小さな₹が最後までやり遂げたことを嬉しく思いますし、参加された皆さんもお疲れ様でした。"
+    },
+    {
+      "locale": "zh",
+      "title": "很高兴看到这个小小的₿能坚持到最后，参与的每个人都做得很好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很高興看到這個小小的₿能堅持到最後，參與的每個人都做得很好。"
+    }
+  ]
 }
