@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-05T06:17:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TKXfEm7C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e53ryqldmb7bub8qvlbv.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最新の技術で作られた、ピクセルパーフェクトなオープンソースダッシュボードの厳選リストです。React、Vue3、Boostrap 5、Tailwind CSS。",
+      "title": "オープンソースのダッシュボード - React、Vue3、Bootstrap 5、Tailwind"
+    },
+    {
+      "locale": "zh",
+      "description": "用现代技术制作的像素完美的开源仪表盘的精选列表。React, Vue3, Boostrap 5, Tailwind CSS",
+      "title": "开源仪表盘 - React, Vue3, Bootstrap 5, Tailwind"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用現代技術製作的像素完美的開源儀表盤的精選列表。React, Vue3, Boostrap 5, Tailwind CSS",
+      "title": "開源儀表盤 - React, Vue3, Bootstrap 5, Tailwind"
+    }
+  ]
 }
