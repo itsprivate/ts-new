@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example, people say 19O1 (nineteen-O-one) instead of saying 1901\n(ninteen-zero-one)? It just seems weird considering O is a letter and 0 is the\nnumber. We use them backwards verbally... which is just weird to me."
+  "the_new_excerpt": "For example, people say 19O1 (nineteen-O-one) instead of saying 1901\n(ninteen-zero-one)? It just seems weird considering O is a letter and 0 is the\nnumber. We use them backwards verbally... which is just weird to me.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、1901と言わずに19O1（ナインティーン・オー・ワン）と言う人がいます。\n(ninteen-zero-one)? Oが文字で、0が文字であることを考えると、奇妙な感じがします。\n数字です。言葉では逆に使うのですが...私にはそれが不思議で仕方ありません。",
+      "title": "なぜ、日付は「0」ではなく口頭で「o」と言うのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，人们说19O1（十九-一），而不是说1901\n(ninteen-zero-one)？考虑到O是字母，0是数字，这似乎很奇怪。\n数字。我们在口头上把它们倒过来用......这对我来说就是很奇怪。",
+      "title": "为什么我们在口头上说 \"o \"而不是 \"0 \"表示日期？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，人們說19O1（十九-一），而不是說1901\n(ninteen-zero-one)？考慮到O是字母，0是數字，這似乎很奇怪。\n數字。我們在口頭上把它們倒過來用......這對我來說就是很奇怪。",
+      "title": "爲什麼我們在口頭上說 \"o \"而不是 \"0 \"表示日期？"
+    }
+  ]
 }
