@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気象予報士が生放送を中断し、子供に竜巻を警告。"
+    },
+    {
+      "locale": "zh",
+      "title": "气象学家中断直播，警告他的孩子们有龙卷风。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "氣象學家中斷直播，警告他的孩子們有龍捲風。"
+    }
+  ]
 }
