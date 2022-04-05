@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カタールで開催されるワールドカップでは、8つのスタジアムに巨大なエアコンが設置され、猛暑を乗り切ります。"
+    },
+    {
+      "locale": "zh",
+      "title": "卡塔尔世界杯的8个体育场中的每一个都将有大量巨大的空调阵列，以应对非常炎热的温度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "卡塔爾世界盃的8個體育場中的每一個都將有大量巨大的空調陣列，以應對非常炎熱的溫度。"
+    }
+  ]
 }
