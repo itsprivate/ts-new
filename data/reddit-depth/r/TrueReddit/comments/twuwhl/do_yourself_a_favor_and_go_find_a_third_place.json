@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分のために、「サードプレイス」を探しに行こう"
+    },
+    {
+      "locale": "zh",
+      "title": "帮你自己一个忙，去找一个 \"第三地\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幫你自己一個忙，去找一個 \"第三地\"。"
+    }
+  ]
 }
