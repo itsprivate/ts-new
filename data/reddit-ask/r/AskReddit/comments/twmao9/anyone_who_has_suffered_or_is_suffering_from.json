@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うつ病になった人、なっている人、感動したこと、役に立ったこと、アドバイスをお願いします。"
+    },
+    {
+      "locale": "zh",
+      "title": "任何曾经或正在遭受抑郁症困扰的人，有什么建议让你感动或帮助你？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "任何曾經或正在遭受抑鬱症困擾的人，有什麼建議讓你感動或幫助你？"
+    }
+  ]
 }
