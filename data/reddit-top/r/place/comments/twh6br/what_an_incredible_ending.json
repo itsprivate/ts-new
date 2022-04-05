@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "信じられないような結末ですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "多么不可思议的结局。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多麼不可思議的結局。"
+    }
+  ]
 }
