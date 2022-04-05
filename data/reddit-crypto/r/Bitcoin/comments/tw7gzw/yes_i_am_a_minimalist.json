@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "はい、私はミニマリストです。"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，我是一个极简主义者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，我是一個極簡主義者。"
+    }
+  ]
 }

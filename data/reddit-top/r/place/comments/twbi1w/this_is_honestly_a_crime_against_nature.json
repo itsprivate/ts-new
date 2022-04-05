@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは正直言って、自然に対する罪である"
+    },
+    {
+      "locale": "zh",
+      "title": "老实说，这是对自然的犯罪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老實說，這是對自然的犯罪"
+    }
+  ]
 }
