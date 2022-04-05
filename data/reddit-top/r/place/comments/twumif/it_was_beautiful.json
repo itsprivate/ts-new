@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは...美しかった"
+    },
+    {
+      "locale": "zh",
+      "title": "它是......美丽的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它是......美麗的。"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アート \"アート \"で検索したときにGoogle画像に表示されるようにアップボーティングしてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "艺术。给这个投票，这样当你搜索 \"艺术 \"时，它就会出现在谷歌图片中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "藝術。給這個投票，這樣當你搜索 \"藝術 \"時，它就會出現在谷歌圖片中。"
+    }
+  ]
 }
