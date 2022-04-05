@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-04T16:02:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mIa_JxJV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jcfcb6ubzphzwb2h2vkb.png",
   "author": "Matteo Bianchi",
-  "author_url": "https://dev.to/mb337"
+  "author_url": "https://dev.to/mb337",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "同じコードを何度も何度も書き直し、ほんの少しの変更しかしなかった経験はありませんか？",
+      "title": "パルメットJS"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经不得不一遍又一遍地编写相同的代码，也许只改变了小部分。",
+      "title": "帕尔梅特JS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經不得不一遍又一遍地編寫相同的代碼，也許只改變了小部分。",
+      "title": "帕爾梅特JS"
+    }
+  ]
 }
