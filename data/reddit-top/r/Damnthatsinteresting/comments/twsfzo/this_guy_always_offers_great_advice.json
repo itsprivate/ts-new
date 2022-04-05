@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人はいつも素晴らしいアドバイスをしてくれる"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人总是提供很好的建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人總是提供很好的建議"
+    }
+  ]
 }
