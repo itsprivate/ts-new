@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メガネをかけると視力が上がるのか、それとも時間が経つと視力が低下するのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "眼镜是否会随着时间的推移而改善视力，还是会随着时间的推移而使视力下降？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "眼鏡是否會隨着時間的推移而改善視力，還是會隨着時間的推移而使視力下降？"
+    }
+  ]
 }
