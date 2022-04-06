@@ -13,5 +13,19 @@
   ],
   "objectID": "30929024",
   "original_created_at": "2022-04-06T06:23:40.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Debian はまだ /usr のマージに問題があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "蝶变在合并后的/usr方面仍有问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蝶變在合併後的/usr方面仍有問題"
+    }
+  ]
 }
