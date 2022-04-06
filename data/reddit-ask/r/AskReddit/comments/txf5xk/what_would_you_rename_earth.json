@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球の名前をどうするか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会给地球改什么名字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會給地球改什麼名字？"
+    }
+  ]
 }
