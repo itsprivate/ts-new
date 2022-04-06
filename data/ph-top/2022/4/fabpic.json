@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-06T07:00:00Z"
+  "original_createdAt": "2022-04-06T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FabPicは使いやすく、無料で強力なグラフィックエディタで、数秒でスクリーンショットを美化できます。",
+      "tagline": "スクリーンショットを素敵にする"
+    },
+    {
+      "locale": "zh",
+      "description": "FabPic是一个易于使用、免费且功能强大的图形编辑器，只需几秒钟就能美化屏幕截图。",
+      "tagline": "让截图变得精彩纷呈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FabPic是一個易於使用、免費且功能強大的圖形編輯器，只需幾秒鐘就能美化屏幕截圖。",
+      "tagline": "讓截圖變得精彩紛呈"
+    }
+  ]
 }
