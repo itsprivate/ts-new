@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "出て行け"
+    },
+    {
+      "locale": "zh",
+      "title": "来人啊，快走吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來人啊，快走吧"
+    }
+  ]
 }

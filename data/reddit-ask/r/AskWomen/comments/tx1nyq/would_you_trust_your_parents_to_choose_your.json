@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、自分の親に自分のパートナーを選んでもらうことを信用しますか？ なぜですか、それともしませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会相信你的父母为你选择伴侣吗？ 为什么或为什么不？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會相信你的父母爲你選擇伴侶嗎？ 爲什麼或爲什麼不？"
+    }
+  ]
 }

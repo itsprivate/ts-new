@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国連は、地球が「住みにくい世界に向かってしっかりと進んでいる」と警告している。"
+    },
+    {
+      "locale": "zh",
+      "title": "联合国警告说，地球 \"正朝着一个无法生存的世界稳步前进"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聯合國警告說，地球 \"正朝着一個無法生存的世界穩步前進"
+    }
+  ]
 }
