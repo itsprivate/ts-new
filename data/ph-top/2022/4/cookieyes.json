@@ -108,5 +108,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-06T07:00:00Z"
+  "original_createdAt": "2022-04-06T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CookieYesは、GDPR、CCPA、CNIL、LGPDなどの法律に準拠したウェブサイトを簡単に実現するためのCookie同意ソリューションです。クッキー同意バナーの作成から、サイト訪問時の訪問者設定管理まで、すべてお任せください。",
+      "tagline": "必要な唯一のクッキー同意ソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "CookieYes是一个cookie同意解决方案，使您的网站更容易符合GDPR、CCPA、CNIL和LGPD等法律规定。我们负责一切，从创建一个cookie同意横幅到管理访客访问您的网站时的偏好。",
+      "tagline": "你唯一需要的饼干同意解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CookieYes是一個cookie同意解決方案，使您的網站更容易符合GDPR、CCPA、CNIL和LGPD等法律規定。我們負責一切，從創建一個cookie同意橫幅到管理訪客訪問您的網站時的偏好。",
+      "tagline": "你唯一需要的餅乾同意解決方案"
+    }
+  ]
 }
