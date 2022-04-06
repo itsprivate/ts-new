@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-06T07:01:00Z"
+  "original_createdAt": "2022-04-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub APIを楽しみすぎて、ダミーリポジトリをたくさん作ってしまったことはありませんか？この小さなCLIツールは、リポジトリを素早くクリーンアップします。複数のリポジトリを選択し、それらを高速に削除することができます。GitHub OAuth を使っており、オープンソースです。",
+      "tagline": "ピューピュー不要のGitHubレポ、CLIでレポをクリーンアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经对GitHub的API玩得太过火，结果创建了太多的假仓库？这个小小的CLI工具可以快速清理仓库。你可以选择多个仓库，并以极快的速度删除它们。它使用GitHub OAuth，而且是开源的。",
+      "tagline": "Pew pew不必要的GitHub仓库，通过CLI清理你的仓库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經對GitHub的API玩得太過火，結果創建了太多的假倉庫？這個小小的CLI工具可以快速清理倉庫。你可以選擇多個倉庫，並以極快的速度刪除它們。它使用GitHub OAuth，而且是開源的。",
+      "tagline": "Pew pew不必要的GitHub倉庫，通過CLI清理你的倉庫"
+    }
+  ]
 }
