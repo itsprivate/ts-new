@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I mean they aren't really \"mine\""
+  "the_new_excerpt": "I mean they aren't really \"mine\"",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "つまり、\"私のもの \"ではないんです。",
+      "title": "もし私が野生のカラスに餌を与え、やがて餌と引き換えにお金を持ってくるように教えたら、彼らが誰かから盗んだ場合、私は法的責任を負うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的意思是他们并不是真正的 \"我的\"。",
+      "title": "如果我给野生乌鸦喂食，并最终教它们给我带钱来换取食物，如果它们偷了别人的东西，我是否要承担法律责任？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的意思是他們並不是真正的 \"我的\"。",
+      "title": "如果我給野生烏鴉餵食，並最終教它們給我帶錢來換取食物，如果它們偷了別人的東西，我是否要承擔法律責任？"
+    }
+  ]
 }

@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昔と今"
+    },
+    {
+      "locale": "zh",
+      "title": "当时和现在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當時和現在"
+    }
+  ]
 }
