@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-06T12:29:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SIT85qRL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sdbigdksb4mzhlis33li.png",
   "author": "Ben H",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発は、失敗と学習の歴史として口頭や文書で語り継がれるものです。",
+      "title": "どの原則や格言が、間違っている、あるいは間違って使われているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "软件开发是以口头和书面的错误和教训的历史形式流传下来的--而...",
+      "title": "哪个原则或说法是错误的和/或误用的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "軟件開發是以口頭和書面的錯誤和教訓的歷史形式流傳下來的--而...",
+      "title": "哪個原則或說法是錯誤的和/或誤用的？"
+    }
+  ]
 }
