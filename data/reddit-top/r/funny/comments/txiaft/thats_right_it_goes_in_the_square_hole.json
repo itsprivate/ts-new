@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そうです、四角い穴に入れるのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就对了，它可以放入方孔中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就對了，它可以放入方孔中。"
+    }
+  ]
 }
