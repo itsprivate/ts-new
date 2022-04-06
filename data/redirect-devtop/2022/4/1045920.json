@@ -41,5 +41,22 @@
   "original_created_at": "2022-04-05T23:06:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PEZ7LoMd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bhfo3fzcoqoixqagbpwy.jpeg",
   "author": "Dylan Anthony",
-  "author_url": "https://dev.to/dbanty"
+  "author_url": "https://dev.to/dbanty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "表紙写真：Jazlyn Borkowski \"DRY \"という頭字語は、一見、普遍的に導入されているように見えますが...。",
+      "title": "DRYなコードを書くのはやめよう"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片由Jazlyn Borkowski创作 \"DRY \"是一个缩写，似乎被普遍引入，以...",
+      "title": "停止编写DRY代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片由Jazlyn Borkowski創作 \"DRY \"是一個縮寫，似乎被普遍引入，以...",
+      "title": "停止編寫DRY代碼"
+    }
+  ]
 }
