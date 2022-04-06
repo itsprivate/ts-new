@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界で最も価値のあるAIユニコーン"
+    },
+    {
+      "locale": "zh",
+      "title": "世界上最有价值的人工智能独角兽企业"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "世界上最有價值的人工智能獨角獸企業"
+    }
+  ]
 }

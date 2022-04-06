@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは忘れているようですが、暗号通貨の最も重要な目的の1つは、インフレ、銀行、政府の腐敗に対する盾として立つことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们似乎忘记了，但加密货币最重要的目的之一是作为对抗通货膨胀、银行和政府腐败的盾牌。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們似乎忘記了，但加密貨幣最重要的目的之一是作爲對抗通貨膨脹、銀行和政府腐敗的盾牌。"
+    }
+  ]
 }
