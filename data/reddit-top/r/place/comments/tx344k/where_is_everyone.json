@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いぬもくわない"
+    },
+    {
+      "locale": "zh",
+      "title": "人在哪里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人在哪裏"
+    }
+  ]
 }
