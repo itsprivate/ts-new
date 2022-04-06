@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これぞ、クリエイティビティの極みです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是创造力的巅峰。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是創造力的巔峯。"
+    }
+  ]
 }
