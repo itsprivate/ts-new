@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TikTokはロシアのユーザーにはウクライナの戦争を見せない"
+    },
+    {
+      "locale": "zh",
+      "title": "TikTok不向俄罗斯用户展示乌克兰的战争情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TikTok不向俄羅斯用戶展示烏克蘭的戰爭情況"
+    }
+  ]
 }
