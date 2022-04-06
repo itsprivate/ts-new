@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この評価モデルに基づくと、イーサは6,000ドル以上の価値があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据这个估值模型，以太币的价值超过了6000美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據這個估值模型，以太幣的價值超過了6000美元"
+    }
+  ]
 }
