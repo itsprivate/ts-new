@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "報道ステーションが初めて白黒テレビからカラーテレビに切り替わる"
+    },
+    {
+      "locale": "zh",
+      "title": "新闻台首次从黑/白电视转为彩色电视"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新聞臺首次從黑/白電視轉爲彩色電視"
+    }
+  ]
 }
