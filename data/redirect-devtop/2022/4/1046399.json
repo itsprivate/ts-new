@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-06T09:51:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---fOm4P2G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wghh495aqhp9jyz15jz6.jpg",
   "author": "James Livesey",
-  "author_url": "https://dev.to/jameslivesey"
+  "author_url": "https://dev.to/jameslivesey",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Progressive Web Appsを中核としたPinePhoneベースのスマートフォンをどのように構築しているか",
+      "title": "Project Prism：オープンスマートフォン構築への道のり"
+    },
+    {
+      "locale": "zh",
+      "description": "我们如何打造基于PinePhone的智能手机，其核心是渐进式网络应用程序",
+      "title": "棱镜项目：在打造开放式智能手机的道路上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們如何打造基於PinePhone的智能手機，其核心是漸進式網絡應用程序",
+      "title": "棱鏡項目：在打造開放式智能手機的道路上"
+    }
+  ]
 }
