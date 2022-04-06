@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の性別について、どんなことが嬉しいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "关于你的性别，你为哪些事情感到高兴？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於你的性別，你爲哪些事情感到高興？"
+    }
+  ]
 }
