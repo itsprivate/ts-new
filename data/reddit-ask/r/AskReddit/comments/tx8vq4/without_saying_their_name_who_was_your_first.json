@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "名前を言わずに、初めて好きになった有名人は？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果不说他们的名字，你第一个暗恋的名人是谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果不說他們的名字，你第一個暗戀的名人是誰？"
+    }
+  ]
 }
