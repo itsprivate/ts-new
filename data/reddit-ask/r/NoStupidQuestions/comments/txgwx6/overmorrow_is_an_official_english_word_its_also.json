@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Overmorrow \"は正式な英単語です。また、\"the day after tomorrow \"よりもずっと短く言うことができます。なぜ誰も使わないのだろう？"
+    },
+    {
+      "locale": "zh",
+      "title": "\"Overmorrow \"是一个正式的英语单词。它也比 \"后天 \"短得多。为什么没有人使用它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"Overmorrow \"是一個正式的英語單詞。它也比 \"後天 \"短得多。爲什麼沒有人使用它？"
+    }
+  ]
 }
