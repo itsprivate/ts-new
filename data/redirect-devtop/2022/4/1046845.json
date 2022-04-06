@@ -57,5 +57,22 @@
   "original_created_at": "2022-04-06T18:58:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--syTU3YTT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b05xa9l5u8sb3ornrl4u.jpeg",
   "author": "Ben H",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本日早朝、DEVが一部ダウンしたのをご覧になった方もいらっしゃると思います。",
+      "title": "Web3の熱狂的なファンが家を持つ。メタパンク"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你今天早些时候在附近闲逛，你可能已经看到DEV遭受了一些部分的停机时间...",
+      "title": "Web3爱好者们有了一个家。元朋克"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你今天早些時候在附近閒逛，你可能已經看到DEV遭受了一些部分的停機時間...",
+      "title": "Web3愛好者們有了一個家。元朋克"
+    }
+  ]
 }
