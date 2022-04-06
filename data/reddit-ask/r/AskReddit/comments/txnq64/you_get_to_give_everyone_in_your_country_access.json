@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、あなたの国のすべての人に、あるものを無料で提供することができるのですが、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以让你的国家的每个人都能免费获得一样东西，那是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以讓你的國家的每個人都能免費獲得一樣東西，那是什麼？"
+    }
+  ]
 }
