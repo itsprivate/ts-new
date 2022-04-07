@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-05T14:24:37Z",
   "image": "https://dev.to/social_previews/article/1045566.png",
   "author": "jsmanifest",
-  "author_url": "https://dev.to/jsmanifest"
+  "author_url": "https://dev.to/jsmanifest",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が後年学んだ興味深いパターンのひとつに、「Proxy」があります。 そのとき...",
+      "title": "JavScript における Proxy パターンの威力"
+    },
+    {
+      "locale": "zh",
+      "description": "我在职业生涯的后期学到的一个更有趣的模式是代理。 当...",
+      "title": "JavScript中代理模式的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在職業生涯的後期學到的一個更有趣的模式是代理。 當...",
+      "title": "JavScript中代理模式的力量"
+    }
+  ]
 }
