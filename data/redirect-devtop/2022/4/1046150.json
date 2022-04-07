@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-06T05:18:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c2-2NoRS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ab65qvutw93vsrmdnct3.jpg",
   "author": "Marcin Wosinek",
-  "author_url": "https://dev.to/marcinwosinek"
+  "author_url": "https://dev.to/marcinwosinek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者のプログラマーは、コードをテストするようにとよく言われます。これは良いアドバイスですが、ではどのように...",
+      "title": "単体テストの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个初级程序员，你经常听到测试你的代码的建议。这是一个很好的建议--让我们看看如何...",
+      "title": "如何编写单元测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個初級程序員，你經常聽到測試你的代碼的建議。這是一個很好的建議--讓我們看看如何...",
+      "title": "如何編寫單元測試"
+    }
+  ]
 }
