@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-07T07:15:00Z"
+  "original_createdAt": "2022-04-07T07:15:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pipedreamは、ワークフローを構築し、クラウドサービスを接続する開発者のために作られた統合プラットフォームです。700以上のアプリケーションを統合し、コードレスでワークフローを作成できます。また、Node.js、Python、Go、Bashのコードを記述して、カスタムロジックを作成できます。",
+      "tagline": "開発者向けインテグレーション・プラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Pipedream是一个为开发者建立工作流程和连接云服务的集成平台。无需代码即可编写工作流程，有700多个集成应用程序，或编写任何Node.js、Python、Go或Bash代码进行自定义逻辑。",
+      "tagline": "开发者的集成平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pipedream是一個爲開發者建立工作流程和連接雲服務的集成平臺。無需代碼即可編寫工作流程，有700多個集成應用程序，或編寫任何Node.js、Python、Go或Bash代碼進行自定義邏輯。",
+      "tagline": "開發者的集成平臺"
+    }
+  ]
 }

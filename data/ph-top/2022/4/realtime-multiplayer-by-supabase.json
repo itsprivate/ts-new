@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-07T07:10:00Z"
+  "original_createdAt": "2022-04-07T07:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Supabaseは、開発者がWebSocketを使用して、マルチプレイヤー・ゲームやコラボレーション・アプリケーションを構築し、幅広い最新のリアルタイム・ユースケースをサポートする機能を紹介します。",
+      "tagline": "ユーザーコラボレーションを実現するリアルタイムアプリを簡単に構築可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Supabase正在为开发者引入使用WebSockets的能力，以建立多人游戏、协作式应用程序，并支持广泛的现代实时用例。",
+      "tagline": "轻松构建实时应用程序，实现用户协作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Supabase正在爲開發者引入使用WebSockets的能力，以建立多人遊戲、協作式應用程序，並支持廣泛的現代實時用例。",
+      "tagline": "輕鬆構建實時應用程序，實現用戶協作"
+    }
+  ]
 }
