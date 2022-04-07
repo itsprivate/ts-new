@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example being a super famous pop singer, celeb, detective, supercop etc"
+  "the_new_excerpt": "For example being a super famous pop singer, celeb, detective, supercop etc",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、超有名なポップシンガー、セレブ、刑事、スーパーコップなど。",
+      "title": "デイドリーマーの女性たち、あなたはどんなシチュエーションでデイドリームを見ますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，成为一个超级著名的流行歌手、名人、侦探、超级警察等。",
+      "title": "做白日梦的女人，你到底在什么情况下做白日梦？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，成爲一個超級著名的流行歌手、名人、偵探、超級警察等。",
+      "title": "做白日夢的女人，你到底在什麼情況下做白日夢？"
+    }
+  ]
 }

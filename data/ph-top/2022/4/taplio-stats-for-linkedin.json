@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-07T07:01:00Z"
+  "original_createdAt": "2022-04-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Taplio Statsは、LinkedInの投稿のアイデアを得たり、アナリティクスをモニターするのに役立つ無料のChrome拡張機能です。LinkedIn.comに直行、そして無料です。",
+      "tagline": "LinkedInのコンテンツのインスピレーションと分析を無料で提供します。"
+    },
+    {
+      "locale": "zh",
+      "description": "Taplio Stats是一个免费的Chrome扩展，可以帮助你获得LinkedIn的帖子创意，并监控你的分析。直接在LinkedIn.com上，而且免费。",
+      "tagline": "免费提供LinkedIn内容灵感和分析服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Taplio Stats是一個免費的Chrome擴展，可以幫助你獲得LinkedIn的帖子創意，並監控你的分析。直接在LinkedIn.com上，而且免費。",
+      "tagline": "免費提供LinkedIn內容靈感和分析服務"
+    }
+  ]
 }
