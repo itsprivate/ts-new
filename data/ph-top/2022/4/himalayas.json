@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-07T07:01:00Z"
+  "original_createdAt": "2022-04-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "http://himalayas.app/、あなたが気に入るリモートワークを見つけるお手伝いをします。http://himalayas.app/jobs を http://himalayas.app/companies で検索してください。タイムゾーン、ビザ、スキル、会社、給与、技術スタックなどでフィルタリングしたり、会社プロファイルを読んで新しいリモート会社を研究・発見することができます。",
+      "tagline": "楽しく使えるリモートジョブボード"
+    },
+    {
+      "locale": "zh",
+      "description": "http://himalayas.app/，帮助你找到一份你喜欢的远程工作。在http://himalayas.app/companies，搜索http://himalayas.app/jobs。按时区、签证、技能、公司、工资、技术栈等进行筛选，或阅读我们的公司简介，研究和发现新的远程公司。",
+      "tagline": "你会喜欢使用的远程招聘网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "http://himalayas.app/，幫助你找到一份你喜歡的遠程工作。在http://himalayas.app/companies，搜索http://himalayas.app/jobs。按時區、簽證、技能、公司、工資、技術棧等進行篩選，或閱讀我們的公司簡介，研究和發現新的遠程公司。",
+      "tagline": "你會喜歡使用的遠程招聘網站"
+    }
+  ]
 }
