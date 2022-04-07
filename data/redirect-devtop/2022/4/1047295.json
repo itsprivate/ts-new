@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-07T05:22:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vnxg-S2C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9s7g9ndkx2c89scf27sl.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Creative-Timが作ったオープンソースのReact UI Kit - Material Kit ReactはGithubからダウンロードできます（MIT License）。",
+      "title": "Material Kit React - オープンソースのReactテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "由Creative-Tim制作的开源React UI Kit - Material Kit React可以从Github（MIT许可）下载。",
+      "title": "Material Kit React - 开源的React模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "由Creative-Tim製作的開源React UI Kit - Material Kit React可以從Github（MIT許可）下載。",
+      "title": "Material Kit React - 開源的React模板"
+    }
+  ]
 }
