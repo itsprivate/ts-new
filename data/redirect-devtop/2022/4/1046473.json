@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-06T12:16:13Z",
   "image": "https://dev.to/social_previews/article/1046473.png",
   "author": "Mike Levan",
-  "author_url": "https://dev.to/thenjdevopsguy"
+  "author_url": "https://dev.to/thenjdevopsguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesは、今日、みんなの頭の中にある。エンジニアからCTO、シニアリーダーまで...",
+      "title": "Kubernetesを学び、理解するための前提条件"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，Kubernetes是每个人心中的头等大事。从工程师到CTO和高级领导层...",
+      "title": "学习和了解Kubernetes的先决条件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，Kubernetes是每個人心中的頭等大事。從工程師到CTO和高級領導層...",
+      "title": "學習和了解Kubernetes的先決條件"
+    }
+  ]
 }
