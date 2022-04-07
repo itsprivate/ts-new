@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCが0.08ドルだった12.4年後に100ビットコインを含む休眠アドレスが有効化される"
+    },
+    {
+      "locale": "zh",
+      "title": "包含100个比特币的休眠地址在12.4年后被激活，当时BTC为0.08美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "包含100個比特幣的休眠地址在12.4年後被激活，當時BTC爲0.08美元"
+    }
+  ]
 }
