@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-19T22:48:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E3NmrKMy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y8lw2k48uv17ab2eltdv.png",
   "author": "AJ Stuyvenberg",
-  "author_url": "https://dev.to/astuyve"
+  "author_url": "https://dev.to/astuyve",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lambda関数の新しい呼び出し方をご紹介します。",
+      "title": "ラムダ関数URLの導入"
+    },
+    {
+      "locale": "zh",
+      "description": "快速浏览一下调用Lambda函数的全新方式!",
+      "title": "兰姆达函数URL的介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "快速瀏覽一下調用Lambda函數的全新方式!",
+      "title": "蘭姆達函數URL的介紹"
+    }
+  ]
 }
