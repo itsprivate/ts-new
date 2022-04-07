@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は安全な空間に反対した保守的な教授です。私は間違っていた。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一个反对安全空间的保守派教授。我错了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一個反對安全空間的保守派教授。我錯了。"
+    }
+  ]
 }
