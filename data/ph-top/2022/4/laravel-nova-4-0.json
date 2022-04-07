@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-07T07:01:00Z"
+  "original_createdAt": "2022-04-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Novaは、Laravelのための美しくデザインされた管理パネルです。Laravelのクリエイターによって慎重に作られたNovaは、あなたを銀河系で最も生産的な開発者にするために設計されています。",
+      "tagline": "Laravelのために美しくデザインされた管理パネル"
+    },
+    {
+      "locale": "zh",
+      "description": "Nova是一个为Laravel设计的漂亮的管理面板。由Laravel的创造者们精心打造，Nova的设计是为了让你成为银河系中最有生产力的开发者。",
+      "tagline": "为Laravel设计的漂亮的管理面板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nova是一個爲Laravel設計的漂亮的管理面板。由Laravel的創造者們精心打造，Nova的設計是爲了讓你成爲銀河系中最有生產力的開發者。",
+      "tagline": "爲Laravel設計的漂亮的管理面板"
+    }
+  ]
 }

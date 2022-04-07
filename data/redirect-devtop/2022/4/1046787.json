@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-06T17:12:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--azSwC401--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/agxf0lf3y7p0kqd0d286.png",
   "author": "Shruti Kapoor",
-  "author_url": "https://dev.to/shrutikapoor08"
+  "author_url": "https://dev.to/shrutikapoor08",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React 18は、将来のReactの機能が構築されるであろう同時レンダリングAPIの基盤を提供するものである...",
+      "title": "React 18 クイックガイドとコアコンセプトの解説"
+    },
+    {
+      "locale": "zh",
+      "description": "React 18为并发渲染API奠定了基础，未来的React功能将被建立。",
+      "title": "React 18快速指南与核心概念解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React 18爲併發渲染API奠定了基礎，未來的React功能將被建立。",
+      "title": "React 18快速指南與核心概念解釋"
+    }
+  ]
 }
