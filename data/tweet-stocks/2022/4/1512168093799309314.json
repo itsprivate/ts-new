@@ -91,5 +91,22 @@
     "retweet_count": 337,
     "favorite_count": 1337,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @sentdefender: 国防総省はバイデン大統領に対し、欧州への大規模な軍派遣に関する選択肢を起草しています。",
+      "retweeted_status_full_text": "国防総省は、ロシアの侵略に対抗するため、ヨーロッパへの大規模な軍事展開について、バイデン大統領に選択肢を起草している。また、ヨーロッパ戦域の特定のシナリオに関する有事作戦を起草しているとの報告もある。https://t.co/b7GmsFCDCi。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @sentdefender: 国防部正在为拜登总统起草关于向欧洲进行大规模军事部署的方案，以...",
+      "retweeted_status_full_text": "国防部正在为拜登总统起草关于向欧洲进行大规模军事部署以应对俄罗斯侵略的方案，还有报告称他们正在起草关于欧洲战场某些情况的应急行动。https://t.co/b7GmsFCDCi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @sentdefender: 國防部正在爲拜登總統起草關於向歐洲進行大規模軍事部署的方案，以...",
+      "retweeted_status_full_text": "國防部正在爲拜登總統起草關於向歐洲進行大規模軍事部署以應對俄羅斯侵略的方案，還有報告稱他們正在起草關於歐洲戰場某些情況的應急行動。https://t.co/b7GmsFCDCi"
+    }
+  ]
 }
