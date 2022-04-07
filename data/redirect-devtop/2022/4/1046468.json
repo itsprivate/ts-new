@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-06T12:13:56Z",
   "image": "https://dev.to/social_previews/article/1046468.png",
   "author": "Matt Coulter",
-  "author_url": "https://dev.to/nideveloper"
+  "author_url": "https://dev.to/nideveloper",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、1年前くらいから温めていたものなのですが、なかなか書く時間が取れませんでした...",
+      "title": "サーバーレスを実現するために、アーキテクチャ、DevOps、およびデリバリーチームは異なる考え方をする必要があります。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我酝酿了大概一年的一个帖子，但我从来没有花时间去写我的...",
+      "title": "架构、DevOps和交付团队需要以不同的方式思考来实现无服务器化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我醞釀了大概一年的一個帖子，但我從來沒有花時間去寫我的...",
+      "title": "架構、DevOps和交付團隊需要以不同的方式思考來實現無服務器化"
+    }
+  ]
 }
