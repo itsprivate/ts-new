@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Thu Apr 07 00:10:03 +0000 2022"
+  "original_created_at": "Thu Apr 07 00:10:03 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "米国は、世界中のコンピュータ・ネットワークからマルウェアを密かに削除したと発表。これは、ロシアのサイバー攻撃を先取りしたものと考えられる。https://t.co/afnVqQhI93"
+    },
+    {
+      "locale": "zh",
+      "full_text": "美国表示，它秘密地从世界各地的计算机网络中删除了恶意软件，此举被认为是预先阻止了俄罗斯的网络攻击。https://t.co/afnVqQhI93"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國表示，它祕密地從世界各地的計算機網絡中刪除了惡意軟件，此舉被認爲是預先阻止了俄羅斯的網絡攻擊。https://t.co/afnVqQhI93"
+    }
+  ]
 }

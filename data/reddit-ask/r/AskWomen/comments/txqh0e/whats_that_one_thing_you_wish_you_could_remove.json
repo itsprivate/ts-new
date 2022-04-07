@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スーパーマーケットから排除したいものは何ですか？その商品は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望能从超市中删除什么东西？那件产品是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望能從超市中刪除什麼東西？那件產品是什麼？"
+    }
+  ]
 }

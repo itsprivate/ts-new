@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-06T14:41:32Z",
   "image": "https://dev.to/social_previews/article/1046697.png",
   "author": "Michael Tharrington",
-  "author_url": "https://dev.to/michaeltharrington"
+  "author_url": "https://dev.to/michaeltharrington",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVでは、あるタグをどうすれば無視できるのか、あるいはあまり見ないようにできるのか、という質問がよくあります。さて、私は...",
+      "title": "DEVのあまり知られていない機能 - Negative Follow Weightsによるタグの無視"
+    },
+    {
+      "locale": "zh",
+      "description": "DEV上的人们经常会问，他们如何能够忽略或少看某个标签。那么，我...",
+      "title": "鲜为人知的DEV功能--通过负追随权重忽略一个标签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "DEV上的人們經常會問，他們如何能夠忽略或少看某個標籤。那麼，我...",
+      "title": "鮮爲人知的DEV功能--通過負追隨權重忽略一個標籤"
+    }
+  ]
 }
