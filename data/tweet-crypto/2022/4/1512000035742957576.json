@@ -134,5 +134,22 @@
     "retweet_count": 38749,
     "favorite_count": 375554,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: https://t.co/TW2lLQakE5",
+      "retweeted_status_full_text": "https://t.co/TW2lLQakE5"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: https://t.co/TW2lLQakE5",
+      "retweeted_status_full_text": "https://t.co/TW2lLQakE5"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: https://t.co/TW2lLQakE5",
+      "retweeted_status_full_text": "https://t.co/TW2lLQakE5"
+    }
+  ]
 }

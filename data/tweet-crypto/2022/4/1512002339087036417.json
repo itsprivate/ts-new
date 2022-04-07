@@ -52,5 +52,22 @@
     },
     "retweet_count": 216,
     "favorite_count": 2005
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @HODLBitty: 10は1と100の中間。\n\nリニアな頭脳はこれで混乱するだろう。",
+      "retweeted_status_full_text": "10は1と100の中間の値です。\n\n直線的な頭脳はこれで混乱するだろう。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @HODLBitty: 10是1和100之间的一半。\n\n线性思维会对此感到困惑。",
+      "retweeted_status_full_text": "10是1和100之间的一半。\n\n线性思维会对此感到困惑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @HODLBitty: 10是1和100之間的一半。\n\n線性思維會對此感到困惑。",
+      "retweeted_status_full_text": "10是1和100之間的一半。\n\n線性思維會對此感到困惑。"
+    }
+  ]
 }
