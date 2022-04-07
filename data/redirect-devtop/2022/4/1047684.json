@@ -52,5 +52,21 @@
   "original_created_at": "2022-04-07T12:58:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uahfzach--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mb1qez9cls8c8dslt6cx.png",
   "author": "Agnieszka Stec",
-  "author_url": "https://dev.to/stecagnieszka"
+  "author_url": "https://dev.to/stecagnieszka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいチームサイドバーでは、チーム全体の進行中の作業を一度に確認できるようになりました。",
+      "title": "GitLiveのチームサイドバーがVS Codeでメジャーバージョンアップしました🙌。"
+    },
+    {
+      "locale": "zh",
+      "title": "GitLive的团队侧边栏在VS Code中得到了重大升级 🙌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新しいチームサイドバーでは、チーム全體の進行中の作業を一度に確認できるようになりました。",
+      "title": "GitLive的團隊側邊欄在VS Code中得到了重大升級 🙌"
+    }
+  ]
 }
