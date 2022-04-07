@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-06T14:57:56Z"
+  "original_createdAt": "2022-04-06T14:57:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "バックエンドAPI、認証、ストレージを1分以内に作成するKontenbaseのノーコードプラットフォーム / Backend as a Service (BaaS)。ホストサービス ✅ データベース ✅ REST API ✅ SDK ✅ Object Storage ✅ Auth ✅ Realtime",
+      "tagline": "バックエンドAPIのコードなし。高速で簡単!"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Kontenbase无代码平台/后端即服务（BaaS），在1分钟内创建后端API、授权和存储。托管服务 ✅ 数据库 ✅ REST API ✅ SDK ✅ 对象存储 ✅ 授权 ✅ 实时性",
+      "tagline": "无代码的后端API。快速和简单!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Kontenbase無代碼平臺/後端即服務（BaaS），在1分鐘內創建後端API、授權和存儲。託管服務 ✅ 數據庫 ✅ REST API ✅ SDK ✅ 對象存儲 ✅ 授權 ✅ 實時性",
+      "tagline": "無代碼的後端API。快速和簡單!"
+    }
+  ]
 }
