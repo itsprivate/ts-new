@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-06T12:03:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--70Rtz6z7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n0m0qb4dld6w2ynmo8z2.jpeg",
   "author": "Daniel Favour",
-  "author_url": "https://dev.to/danielfavour"
+  "author_url": "https://dev.to/danielfavour",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerの公式ドキュメントによると、Dockerは、開発、...",
+      "title": "Docker 101：Dockerの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "根据Docker的官方文档，Docker是一个开放的平台，用于开发、...",
+      "title": "Docker 101: Docker简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "根據Docker的官方文檔，Docker是一個開放的平臺，用於開發、...",
+      "title": "Docker 101: Docker簡介"
+    }
+  ]
 }
