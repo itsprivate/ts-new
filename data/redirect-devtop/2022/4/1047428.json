@@ -35,5 +35,22 @@
   "original_created_at": "2022-04-07T08:58:32Z",
   "image": "https://dev.to/social_previews/article/1047428.png",
   "author": "Christian Nwamba",
-  "author_url": "https://dev.to/codebeast"
+  "author_url": "https://dev.to/codebeast",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに AWS Amplifyは、フロントエンドの開発者が、より効率的な開発を行えるようにするためのツールや機能のセットです。",
+      "title": "FigmaからNext.jsアプリまで数分で完成"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：AWS Amplify是一套专门设计的工具和功能，可以让前端用户在使用过程中更方便。",
+      "title": "在几分钟内从Figma到Next.js应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：AWS Amplify是一套專門設計的工具和功能，可以讓前端用戶在使用過程中更方便。",
+      "title": "在幾分鐘內從Figma到Next.js應用程序"
+    }
+  ]
 }
