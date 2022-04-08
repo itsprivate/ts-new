@@ -48,5 +48,21 @@
   "original_created_at": "2022-04-08T12:31:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--quQEx052--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ub78c5t7wtw29x0bnmg.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちの多くは、ソフトウェアという職業に就く前に、何らかの他の仕事をしていたのではないでしょうか。ぜひとも..."
+    },
+    {
+      "locale": "zh",
+      "description": "我们中的大多数人在进入软件行业之前可能都有一些其他工作。我很想...",
+      "title": "在从事软件开发之前，你做过哪些工作*？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們中的大多數人在進入軟件行業之前可能都有一些其他工作。我很想...",
+      "title": "在從事軟件開發之前，你做過哪些工作*？"
+    }
+  ]
 }
