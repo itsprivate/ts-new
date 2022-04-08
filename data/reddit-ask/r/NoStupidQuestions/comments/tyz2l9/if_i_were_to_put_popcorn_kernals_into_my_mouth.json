@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、ポップコーンの粒を口に含んで、ポップコーンに必要な電圧のショックを受けたら、うまくいくのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我把爆米花粒放进嘴里，并把自己电击到爆米花所需的电压，这能行吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我把爆米花粒放進嘴裏，並把自己電擊到爆米花所需的電壓，這能行嗎？"
+    }
+  ]
 }
