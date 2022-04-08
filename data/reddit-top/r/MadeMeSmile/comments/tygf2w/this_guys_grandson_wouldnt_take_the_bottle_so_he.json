@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人の孫はボトルを飲まないので、即席で作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人的孙子不愿意接受瓶子，所以他即兴创作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人的孫子不願意接受瓶子，所以他即興創作。"
+    }
+  ]
 }
