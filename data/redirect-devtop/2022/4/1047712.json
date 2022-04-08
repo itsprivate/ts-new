@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-07T13:27:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W-nvGx1o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0jmpo8p7aqubgyvv3j2z.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは皆、単なる「プログラマー」ではなく、時間をかけてWeb開発者、リード開発者、SREなどになっていきます。 あなたはどのような...",
+      "title": "キャリアを通じて、ご自身の専門分野はどのように変化してきましたか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们不仅仅是 \"程序员\"--随着时间的推移，我们会成为网络开发员、首席开发员、SRE，等等。 你是什么人？",
+      "title": "在你的职业生涯中，你的专业有什么变化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們不僅僅是 \"程序員\"--隨着時間的推移，我們會成爲網絡開發員、首席開發員、SRE，等等。 你是什麼人？",
+      "title": "在你的職業生涯中，你的專業有什麼變化？"
+    }
+  ]
 }
