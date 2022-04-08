@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バンク・オブ・アメリカは「リセッションショック」の到来を警告、暗号が株式をアウトパフォームする可能性を指摘"
+    },
+    {
+      "locale": "zh",
+      "title": "美国银行警告 \"衰退冲击 \"即将到来，称加密货币的表现可能优于股票"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國銀行警告 \"衰退衝擊 \"即將到來，稱加密貨幣的表現可能優於股票"
+    }
+  ]
 }
