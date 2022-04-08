@@ -74,5 +74,22 @@
     "retweet_count": 1374,
     "favorite_count": 6474,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: 私が見た中で最高の「なぜビットコインなのか」イントロとパネル https://t.co/ssrHOh4tPK",
+      "retweeted_status_full_text": "私が見た中で最高の「なぜビットコインなのか」イントロとパネル https://t.co/ssrHOh4tPK"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: 我见过的最好的 \"为什么是比特币 \"的介绍和讨论 https://t.co/ssrHOh4tPK",
+      "retweeted_status_full_text": "我见过的最好的 \"为什么是比特币 \"的介绍和讨论https://t.co/ssrHOh4tPK"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: 我見過的最好的 \"爲什麼是比特幣 \"的介紹和討論 https://t.co/ssrHOh4tPK",
+      "retweeted_status_full_text": "我見過的最好的 \"爲什麼是比特幣 \"的介紹和討論https://t.co/ssrHOh4tPK"
+    }
+  ]
 }
