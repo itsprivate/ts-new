@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-07T14:57:09Z",
   "image": "https://dev.to/social_previews/article/1047789.png",
   "author": "Eknoorpreet Singh",
-  "author_url": "https://dev.to/eknoor4197"
+  "author_url": "https://dev.to/eknoor4197",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やあみんな、僕の最新のプロジェクトを紹介しようと思うんだ。DEVクローンです。           なぜそれを作ったか 私の...",
+      "title": "DEV.toのクローンを一から作った（APIも！）💸🥳💸。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们，我想展示一下我的最新项目。一个DEV的克隆。           为什么我做了它 我的...",
+      "title": "我从头开始建立了一个DEV.to克隆（包括API！）👨💻🥳。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們，我想展示一下我的最新項目。一個DEV的克隆。           爲什麼我做了它 我的...",
+      "title": "我從頭開始建立了一個DEV.to克隆（包括API！）👨💻🥳。"
+    }
+  ]
 }
