@@ -33,5 +33,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello everyone! I recently developed a service that gets data of Crunchbase. Do\ncheck it out-\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4 I am\nlooking for feedback regarding what data points shall I further include and how\nuseful this is. Thanks!"
+  "the_new_excerpt": "Hello everyone! I recently developed a service that gets data of Crunchbase. Do\ncheck it out-\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4 I am\nlooking for feedback regarding what data points shall I further include and how\nuseful this is. Thanks!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは。最近、Crunchbaseのデータを取得するサービスを開発しました。ぜひ\nをご覧ください。\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4 私は\nどのようなデータポイントをさらに含めるか、またどの程度含めるかについてのフィードバックを求\n有用です。ありがとうございました。",
+      "title": "Crunchbaseからデータを取得するAPIを開発しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好! 我最近开发了一个获取Crunchbase数据的服务。请\n检查一下吧--\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4 我正在\n我正在寻找反馈，关于我应该进一步包括哪些数据点以及这\n有多大作用。谢谢!",
+      "title": "我开发了一个API来从Crunchbase获取数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好! 我最近開發了一個獲取Crunchbase數據的服務。請\n檢查一下吧--\nhttps://rapidapi.com/shake-chillies-shake-chillies-default/api/crunchbase4 我正在\n我正在尋找反饋，關於我應該進一步包括哪些數據點以及這\n有多大作用。謝謝!",
+      "title": "我開發了一個API來從Crunchbase獲取數據"
+    }
+  ]
 }
