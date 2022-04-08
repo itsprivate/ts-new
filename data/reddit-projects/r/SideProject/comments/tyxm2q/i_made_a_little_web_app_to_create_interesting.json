@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "面白いメロディーや音楽のループを作るための小さなウェブアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个小的网络应用来创造有趣的旋律和音乐循环"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個小的網絡應用來創造有趣的旋律和音樂循環"
+    }
+  ]
 }
