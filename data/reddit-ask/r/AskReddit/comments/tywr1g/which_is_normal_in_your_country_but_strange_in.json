@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国では普通だけど、他の国では不思議なこと？"
+    },
+    {
+      "locale": "zh",
+      "title": "这在你的国家是正常的，但在另一个国家却很奇怪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這在你的國家是正常的，但在另一個國家卻很奇怪？"
+    }
+  ]
 }
