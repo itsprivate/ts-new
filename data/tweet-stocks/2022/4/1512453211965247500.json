@@ -134,5 +134,22 @@
     "retweet_count": 392,
     "favorite_count": 4025,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Raddsurfer: この男を解放しろ！この男は恐れている https://t.co/2B3AdB1uui",
+      "retweeted_status_full_text": "free this man, this man is afraid https://t.co/2B3AdB1uui"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Raddsurfer: 释放这个人，这个人很害怕 https://t.co/2B3AdB1uui",
+      "retweeted_status_full_text": "释放这个人，这个人很害怕 https://t.co/2B3AdB1uui"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Raddsurfer: 釋放這個人，這個人很害怕 https://t.co/2B3AdB1uui",
+      "retweeted_status_full_text": "釋放這個人，這個人很害怕 https://t.co/2B3AdB1uui"
+    }
+  ]
 }

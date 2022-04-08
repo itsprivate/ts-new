@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッピーエンド...なんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "幸福的结局......是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幸福的結局......是什麼？"
+    }
+  ]
 }
