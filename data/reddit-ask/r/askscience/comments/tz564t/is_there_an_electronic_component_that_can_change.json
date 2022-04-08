@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Basically satisfying the following equation: R(q) = C * sum(q) where R is the\nresistance, C is an arbitrary constant and q is the charge that traveled trough\nthe device with a negative and a positive direction."
+  "the_new_excerpt": "Basically satisfying the following equation: R(q) = C * sum(q) where R is the\nresistance, C is an arbitrary constant and q is the charge that traveled trough\nthe device with a negative and a positive direction.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "基本的に以下の式を満たします。R(q) = C * sum(q) ここで、Rは\n抵抗、Cは任意の定数、qは通過した電荷です。\nを負方向と正方向の2種類に分けることができます。",
+      "title": "流れた電流によって抵抗値が変わるような電子部品はないのか？空気のイオン化と同じで、より永続的なものです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "基本上满足以下公式。R(q) = C * sum(q) 其中R是电阻\nR是电阻，C是一个任意常数，q是通过该装置的电荷量。\n的电荷，其方向分别为负和正。",
+      "title": "是否有一种电子元件可以根据流经它的电流来改变其电阻？有点像空气电离，只是更持久。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "基本上滿足以下公式。R(q) = C * sum(q) 其中R是電阻\nR是電阻，C是一個任意常數，q是通過該裝置的電荷量。\n的電荷，其方向分別爲負和正。",
+      "title": "是否有一種電子元件可以根據流經它的電流來改變其電阻？有點像空氣電離，只是更持久。"
+    }
+  ]
 }

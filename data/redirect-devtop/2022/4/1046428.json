@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-06T10:36:58Z",
   "image": "https://dev.to/social_previews/article/1046428.png",
   "author": "Julien Maury",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デベロッパーである以上、マシンを使い分けたり、ノートパソコンやデバイスを一新したりすることは珍しくありません。そんな時に困るのが...",
+      "title": "dotfilesのリポジトリはありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为开发人员，使用不同的机器或更新笔记本电脑和设备是很常见的。你不希望...",
+      "title": "你有一个dotfiles库吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲開發人員，使用不同的機器或更新筆記本電腦和設備是很常見的。你不希望...",
+      "title": "你有一個dotfiles庫嗎？"
+    }
+  ]
 }
