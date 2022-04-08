@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-07T09:00:51Z",
   "image": "https://dev.to/social_previews/article/1047430.png",
   "author": "Braincuber Technologies",
-  "author_url": "https://dev.to/braincuber_technologies"
+  "author_url": "https://dev.to/braincuber_technologies",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちJavaScript開発者は、通常、出力をテストするため、あるいは単に楽しむためにconsole.log()を使用します。私でも...",
+      "title": "2022年、もうconsole.log()を使うな😎」。"
+    },
+    {
+      "locale": "zh",
+      "description": "作为JavaScript开发人员，我们通常使用console.log()来测试输出，或者只是为了好玩。甚至我可以...",
+      "title": "现在是2022年，不要再使用console.log()了 😎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲JavaScript開發人員，我們通常使用console.log()來測試輸出，或者只是爲了好玩。甚至我可以...",
+      "title": "現在是2022年，不要再使用console.log()了 😎"
+    }
+  ]
 }
