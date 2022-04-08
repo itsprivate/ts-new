@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "風景を見るのが好き"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢看风景"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡看風景"
+    }
+  ]
 }
