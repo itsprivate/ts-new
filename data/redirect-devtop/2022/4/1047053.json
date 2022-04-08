@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-06T23:28:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--85-nJ2hD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vaujtzvv6o29m8ml3hv8.png",
   "author": "Alex Eagleson",
-  "author_url": "https://dev.to/alexeagleson"
+  "author_url": "https://dev.to/alexeagleson",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルのすべてのコードを完全なパッケージとして、このリポジトリで公開しています。 もしあなたがこれを見つけたら...",
+      "title": "Next.jsプロジェクトでスケーラブルなアーキテクチャを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程的所有代码作为一个完整的包都可以在这个资源库中找到。 如果你发现这个...",
+      "title": "如何为你的Next.js项目建立可扩展的架构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程的所有代碼作爲一個完整的包都可以在這個資源庫中找到。 如果你發現這個...",
+      "title": "如何爲你的Next.js項目建立可擴展的架構"
+    }
+  ]
 }
