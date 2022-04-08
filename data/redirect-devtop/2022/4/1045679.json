@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-05T17:43:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OF2yyyHM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4q112qc6q8as1hfjjot.png",
   "author": "Oluwatunkunmi Okupa",
-  "author_url": "https://dev.to/tunkunmi"
+  "author_url": "https://dev.to/tunkunmi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに みなさんは、たくさんのツイートや投稿、会話を見てきたと思います...。",
+      "title": "全くの初心者のためのWeb3"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 我相信你已经看到了很多推特、帖子和对话...",
+      "title": "为完全的新手准备的Web3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 我相信你已經看到了很多推特、帖子和對話...",
+      "title": "爲完全的新手準備的Web3"
+    }
+  ]
 }
