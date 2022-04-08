@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-07T23:20:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E38tu54X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1580569214296-5cf2bffc5ccd%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1770%26q%3D80",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プレーンな箇条書きを使いたくない場合は、 ::marker psuedo-element を使用します!",
+      "title": "CSS で ::marker を使って箇条書きの記号に Unicode 文字を使用する"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你不想使用普通的子弹，那么::marker psuedo-element就是为你准备的。",
+      "title": "在CSS中使用::marker为子弹头使用Unicode字符"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你不想使用普通的子彈，那麼::marker psuedo-element就是爲你準備的。",
+      "title": "在CSS中使用::marker爲子彈頭使用Unicode字符"
+    }
+  ]
 }
