@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "生まれたばかりの息子に0.2022BTCを贈ります。18日までは秘密鍵にアクセスできないようにコールドウォレットにロックしておきます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我准备把0.2022 BTC给我刚出生的儿子。锁在冰冷的钱包里，在他18岁之前不能接触到私钥。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我準備把0.2022 BTC給我剛出生的兒子。鎖在冰冷的錢包裏，在他18歲之前不能接觸到私鑰。"
+    }
+  ]
 }

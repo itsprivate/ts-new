@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-07T20:52:29Z",
   "image": "https://dev.to/social_previews/article/1048281.png",
   "author": "Wojciech Maj",
-  "author_url": "https://dev.to/wojtekmaj"
+  "author_url": "https://dev.to/wojtekmaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactアプリをWebpackからViteに移行する方法について、不足しているガイドを紹介します。",
+      "title": "ReactアプリをWebpackからViteに移行する"
+    },
+    {
+      "locale": "zh",
+      "description": "关于如何将你的React应用从Webpack迁移到Vite的缺失指南。",
+      "title": "将你的React应用从Webpack迁移到Vite"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於如何將你的React應用從Webpack遷移到Vite的缺失指南。",
+      "title": "將你的React應用從Webpack遷移到Vite"
+    }
+  ]
 }

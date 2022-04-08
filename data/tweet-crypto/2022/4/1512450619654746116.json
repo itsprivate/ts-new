@@ -74,5 +74,22 @@
     "retweet_count": 299,
     "favorite_count": 1149,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @CNBC: テスラ、ブロック、ブロックストリームが提携、テキサス州の太陽光発電所からビットコインを採掘 https://t.co/4RBzfas9VE",
+      "retweeted_status_full_text": "テスラ、ブロック、ブロックストリームが提携し、テキサス州の太陽光発電所からビットコインを採掘 https://t.co/4RBzfas9VE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @CNBC: 特斯拉、Block和Blockstream合作，在德克萨斯州的太阳能发电站上开采比特币 https://t.co/4RBzfas9VE",
+      "retweeted_status_full_text": "特斯拉、Block和Blockstream合作，在德克萨斯州的太阳能发电站上开采比特币 https://t.co/4RBzfas9VE"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @CNBC: 特斯拉、Block和Blockstream合作，在德克薩斯州的太陽能發電站上開採比特幣 https://t.co/4RBzfas9VE",
+      "retweeted_status_full_text": "特斯拉、Block和Blockstream合作，在德克薩斯州的太陽能發電站上開採比特幣 https://t.co/4RBzfas9VE"
+    }
+  ]
 }
