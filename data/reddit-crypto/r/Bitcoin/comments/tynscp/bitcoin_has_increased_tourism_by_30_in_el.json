@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのおかげでエルサルバドルの観光が30％増加したと観光大臣が発表"
+    },
+    {
+      "locale": "zh",
+      "title": "萨尔瓦多旅游部长说，比特币使萨尔瓦多的旅游业增长了30%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "薩爾瓦多旅遊部長說，比特幣使薩爾瓦多的旅遊業增長了30%。"
+    }
+  ]
 }

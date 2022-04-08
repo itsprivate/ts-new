@@ -55,5 +55,22 @@
   "original_created_at": "2022-04-07T12:02:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qhtIONQx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c81y5q0i10ajytzas2kq.png",
   "author": "Jeremy Friesen",
-  "author_url": "https://dev.to/jeremyf"
+  "author_url": "https://dev.to/jeremyf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は2021年10月にフォレムに入社し、パワーアップしたコードベースに素早く身を置く必要がありました。",
+      "title": "あなたにとって新しい」コードベースへのオリエンテーションはどのように行うのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我于2021年10月开始在Forem工作，我需要快速定位到一个支持的代码库。",
+      "title": "你如何定位一个 \"对你来说新的 \"代码库？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我於2021年10月開始在Forem工作，我需要快速定位到一個支持的代碼庫。",
+      "title": "你如何定位一個 \"對你來說新的 \"代碼庫？"
+    }
+  ]
 }
