@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "視力は最新です。"
+    },
+    {
+      "locale": "zh",
+      "title": "视觉是最新的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "視覺是最新的。"
+    }
+  ]
 }
