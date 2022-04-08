@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "When looking at responses to my comments I sometimes want to view the rest of\nthe thread to see how it's progressed. Anytime I click \"View All Comments\" it\ndoes absolutely nothing. Any ideas?"
+  "the_new_excerpt": "When looking at responses to my comments I sometimes want to view the rest of\nthe thread to see how it's progressed. Anytime I click \"View All Comments\" it\ndoes absolutely nothing. Any ideas?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自分のコメントに対する反応を見るとき、残りの部分を見たくなることがあります。\nスレッドの進行状況を確認するためです。すべてのコメントを見る」をクリックしても\nは全く何もしません。何かアイデアはありますか？",
+      "title": "View All Comments \"ですべてのコメントが表示されないのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "当看到对我的评论的回应时，我有时想查看其余的评论。\n以了解其进展情况。当我点击 \"查看所有评论 \"时，它\n完全没有作用。有什么想法吗？",
+      "title": "为什么 \"查看所有评论 \"永远不会显示所有评论？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "當看到對我的評論的回應時，我有時想查看其餘的評論。\n以瞭解其進展情況。當我點擊 \"查看所有評論 \"時，它\n完全沒有作用。有什麼想法嗎？",
+      "title": "爲什麼 \"查看所有評論 \"永遠不會顯示所有評論？"
+    }
+  ]
 }
