@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "史上最も伝説的な腕立て伏せ。"
+    },
+    {
+      "locale": "zh",
+      "title": "最具传奇色彩的俯卧撑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最具傳奇色彩的俯臥撐。"
+    }
+  ]
 }
