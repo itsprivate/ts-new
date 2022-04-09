@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For those of us who don’t have one :)"
+  "the_new_excerpt": "For those of us who don’t have one :)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "持っていない人のために :)",
+      "title": "お姉さんの生活の知恵をお聞かせください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对于我们这些没有的人来说 :)",
+      "title": "你的大姐姐有什么生活小窍门？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對於我們這些沒有的人來說 :)",
+      "title": "你的大姐姐有什麼生活小竅門？"
+    }
+  ]
 }
