@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "vl ls a tool for writing shell scripts using typescript with zero configuration.\nvl uses deno as its the javascript runtime.\n\ngithub repository [https://github.com/japiirainen/vl]"
+  "the_new_excerpt": "vl ls a tool for writing shell scripts using typescript with zero configuration.\nvl uses deno as its the javascript runtime.\n\ngithub repository [https://github.com/japiirainen/vl]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "vl ls タイプスクリプトを使用して、設定なしでシェルスクリプトを書くためのツールです。\nvlはjavascriptのランタイムとしてdenoを使用しています。\n\ngithubリポジトリ [https://github.com/japiirainen/vl]",
+      "title": "vl - TypeScriptによるシェルスクリプトの発表"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "vl ls 一个使用typescript编写shell脚本的工具，无需配置。\nvl使用deno作为它的javascript运行时间。\n\ngithub资源库 [https://github.com/japiirainen/vl]",
+      "title": "宣布vl - TypeScript中的shell脚本"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "vl ls 一個使用typescript編寫shell腳本的工具，無需配置。\nvl使用deno作爲它的javascript運行時間。\n\ngithub資源庫 [https://github.com/japiirainen/vl]",
+      "title": "宣佈vl - TypeScript中的shell腳本"
+    }
+  ]
 }
