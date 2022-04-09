@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-06T22:14:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C7gS65X2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ta932xz3g3h0oq02afay.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TypeScriptでは、オブジェクトが必要なプロパティを持つことを強制する必要がある場合があります。",
+      "title": "TypeScriptのRequired Typeの仕組み"
+    },
+    {
+      "locale": "zh",
+      "description": "在TypeScript中，我们有时需要强制要求一个对象具有所需的属性，即使是...",
+      "title": "TypeScript所需类型如何工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在TypeScript中，我們有時需要強制要求一個對象具有所需的屬性，即使是...",
+      "title": "TypeScript所需類型如何工作"
+    }
+  ]
 }
