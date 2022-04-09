@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-07T18:46:52Z",
   "image": "https://dev.to/social_previews/article/1048150.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くのオープンソースプロジェクトが存在し、その多くは人気のある製品の代替品として機能しています。",
+      "title": "もっとサポートされるべきだと思うオープンソースプロジェクトは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "外面有许多开源项目，其中许多项目充当了流行的替代品。",
+      "title": "你认为什么是值得更多支持的开源项目？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "外面有許多開源項目，其中許多項目充當了流行的替代品。",
+      "title": "你認爲什麼是值得更多支持的開源項目？"
+    }
+  ]
 }
