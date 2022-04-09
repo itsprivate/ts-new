@@ -1,0 +1,192 @@
+{
+  "created_at": "Sat Apr 09 10:37:5 +0000 2022",
+  "id_str": "1512719783409721350",
+  "full_text": "RT @jack: happy to partner with @adam3us. He’s excellent.",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jack",
+        "name": "jack⚡️",
+        "id": 12,
+        "id_str": "12",
+        "indices": [
+          3,
+          8
+        ]
+      },
+      {
+        "screen_name": "adam3us",
+        "name": "Adam Back",
+        "id": 213236426,
+        "id_str": "213236426",
+        "indices": [
+          32,
+          40
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 409,
+  "favorite_count": 0,
+  "original_created_at": "Sat Apr 09 09:11:15 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Sat Apr 09 00:22:44 +0000 2022",
+    "id_str": "1512586774568181761",
+    "full_text": "happy to partner with @adam3us. He’s excellent. https://t.co/Gva5VNsu1P",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "adam3us",
+          "name": "Adam Back",
+          "id": 213236426,
+          "id_str": "213236426",
+          "indices": [
+            22,
+            30
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Gva5VNsu1P",
+          "expanded_url": "https://twitter.com/documentingbtc/status/1512583173317799939",
+          "display_url": "twitter.com/documentingbtc…",
+          "indices": [
+            48,
+            71
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "jack⚡️",
+      "screen_name": "jack",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1115644092329758721/AFjOr-K8_normal.jpg"
+    },
+    "retweet_count": 409,
+    "favorite_count": 3246,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "created_at": "Sat Apr 09 00:08:25 +0000 2022",
+      "id_str": "1512583173317799939",
+      "full_text": "\"We're proving that #bitcoin mining can fund green energy infrastructure,\" says Blockstream CEO @adam3us discussing their fully solar-powered mining project with @blocks and @Tesla\n\nhttps://t.co/Ke6Hyl4uup",
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "bitcoin",
+            "indices": [
+              20,
+              28
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "adam3us",
+            "name": "Adam Back",
+            "id": 213236426,
+            "id_str": "213236426",
+            "indices": [
+              96,
+              104
+            ]
+          },
+          {
+            "screen_name": "blocks",
+            "name": "Block",
+            "id": 1449098672252199000,
+            "id_str": "1449098672252198921",
+            "indices": [
+              162,
+              169
+            ]
+          },
+          {
+            "screen_name": "Tesla",
+            "name": "Tesla",
+            "id": 13298072,
+            "id_str": "13298072",
+            "indices": [
+              174,
+              180
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1512549440728436700,
+            "id_str": "1512549440728436736",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1512549440728436736/pu/img/LnxTGVPBGtyAXTEJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1512549440728436736/pu/img/LnxTGVPBGtyAXTEJ.jpg",
+            "url": "https://t.co/Ke6Hyl4uup",
+            "display_url": "pic.twitter.com/Ke6Hyl4uup",
+            "expanded_url": "https://twitter.com/i/status/1512549862146863107/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1512549862146863000,
+            "source_status_id_str": "1512549862146863107",
+            "source_user_id": 2307692107,
+            "source_user_id_str": "2307692107"
+          }
+        ]
+      },
+      "user": {
+        "name": "Documenting Bitcoin 📄",
+        "screen_name": "DocumentingBTC",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg"
+      },
+      "retweet_count": 179,
+      "favorite_count": 902,
+      "possibly_sensitive": false
+    }
+  }
+}
