@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この猫はいつも赤ん坊の部屋に侵入している"
+    },
+    {
+      "locale": "zh",
+      "title": "这只猫总是闯入宝宝的房间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻貓總是闖入寶寶的房間"
+    }
+  ]
 }
