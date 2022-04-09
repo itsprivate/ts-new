@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ザ・ショーマスト・ゴー・オン"
+    },
+    {
+      "locale": "zh",
+      "title": "节目必须继续下去"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "節目必須繼續下去"
+    }
+  ]
 }
