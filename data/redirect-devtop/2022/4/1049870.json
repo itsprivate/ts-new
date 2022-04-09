@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-09T12:18:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SW_TlBj2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r3pm1jr0ovpbkskclspv.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React開発者のためのJavascriptの重要なコンセプトの短いリスト - コードサンプル付き。",
+      "title": "React初心者のための10のJavaScriptコンセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "为React开发者提供的重要Javascript概念的简短清单--附带代码样本。",
+      "title": "适合React初学者的10个JavaScript概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲React開發者提供的重要Javascript概念的簡短清單--附帶代碼樣本。",
+      "title": "適合React初學者的10個JavaScript概念"
+    }
+  ]
 }
