@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで言われたことのある言葉で、「うわーこの人バカだなー」と思ったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "一个人对你说过什么话，让你觉得 \"哇，这个人是个白痴\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個人對你說過什麼話，讓你覺得 \"哇，這個人是個白癡\"？"
+    }
+  ]
 }
