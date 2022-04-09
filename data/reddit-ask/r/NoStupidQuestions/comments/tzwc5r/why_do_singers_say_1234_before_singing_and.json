@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ、歌手は歌う前に「1234」と言い、ダンサーは踊る前に「5678」と言うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么歌手在唱歌前说 \"1234\"，而舞者在跳舞前说 \"5678\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼歌手在唱歌前說 \"1234\"，而舞者在跳舞前說 \"5678\"？"
+    }
+  ]
 }
