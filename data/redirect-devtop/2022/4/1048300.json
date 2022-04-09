@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-07T21:24:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KoZsgb2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eni908xa8i6l6x6kkeyf.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティーの皆様、こんにちは👋 Deepgram x DEVの開催についてお知らせします。",
+      "title": "Deepgram×DEVハッカソン、まもなく終了! この機会をお見逃しなく！⏰。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，DEV社区 👋 我想在你们的饲料中快速提醒一下Deepgram x DEV...",
+      "title": "Deepgram x DEV黑客马拉松即将结束! 不要错过参加这个活动的机会⏰。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，DEV社區 👋 我想在你們的飼料中快速提醒一下Deepgram x DEV...",
+      "title": "Deepgram x DEV黑客馬拉松即將結束! 不要錯過參加這個活動的機會⏰。"
+    }
+  ]
 }
