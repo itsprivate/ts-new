@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just moved into my new apartment after couch surfing for a year and I need a\nfunny wifi name to troll my neighbors"
+  "the_new_excerpt": "Just moved into my new apartment after couch surfing for a year and I need a\nfunny wifi name to troll my neighbors",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "1年間カウチサーフィンをした後、新しいアパートに引っ越したばかりである。\nご近所さんを困らせるための面白いwifiの名前",
+      "title": "無線LANのネーミングを手伝ってほしい"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在沙发冲浪一年后，我刚刚搬进我的新公寓，我需要一个\n有趣的WIFI名称，以嘲弄我的邻居们",
+      "title": "我需要帮助命名我的wifi"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在沙發衝浪一年後，我剛剛搬進我的新公寓，我需要一個\n有趣的WIFI名稱，以嘲弄我的鄰居們",
+      "title": "我需要幫助命名我的wifi"
+    }
+  ]
 }
