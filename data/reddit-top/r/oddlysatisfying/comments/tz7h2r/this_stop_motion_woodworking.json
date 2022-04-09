@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このストップモーション木工"
+    },
+    {
+      "locale": "zh",
+      "title": "这个定格动画的木工作品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個定格動畫的木工作品"
+    }
+  ]
 }
