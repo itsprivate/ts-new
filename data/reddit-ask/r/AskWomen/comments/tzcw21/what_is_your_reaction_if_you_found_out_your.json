@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Would you have an abortion?"
+  "the_new_excerpt": "Would you have an abortion?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたは中絶をしますか？",
+      "title": "もし、自分の将来の子どもがダウン症だとわかったら、どんな反応をしますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你会去堕胎吗？",
+      "title": "如果你发现你未来的孩子有唐氏综合症，你的反应是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你會去墮胎嗎？",
+      "title": "如果你發現你未來的孩子有唐氏綜合症，你的反應是什麼？"
+    }
+  ]
 }
