@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-08T15:25:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u-sn1N-J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kffosn47qb4sbhey5el.png",
   "author": "Paweł Ludwiczak",
-  "author_url": "https://dev.to/pp"
+  "author_url": "https://dev.to/pp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イントロ トグルは、スイッチのように見える真/偽のスイッチです... 似たような操作で...",
+      "title": "アクセシブルトグル"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 拨动是一个真/假的开关，看起来像......开关......。类似的控制，你可以...",
+      "title": "无障碍切换"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 撥動是一個真/假的開關，看起來像......開關......。類似的控制，你可以...",
+      "title": "無障礙切換"
+    }
+  ]
 }

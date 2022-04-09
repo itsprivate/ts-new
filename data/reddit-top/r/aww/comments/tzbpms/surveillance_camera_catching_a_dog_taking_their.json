@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飼い主が不在の時に犬が飼い主の靴を奪い、その傍らで寝ているところを監視カメラが捉えた。"
+    },
+    {
+      "locale": "zh",
+      "title": "监控摄像头捕捉到一只狗在主人不在屋内时拿走了主人的鞋子，并在鞋子旁边睡觉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "監控攝像頭捕捉到一隻狗在主人不在屋內時拿走了主人的鞋子，並在鞋子旁邊睡覺。"
+    }
+  ]
 }
