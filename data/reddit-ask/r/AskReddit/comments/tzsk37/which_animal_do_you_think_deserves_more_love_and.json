@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、どの動物がもっと愛され、評価されるべきだと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为哪种动物应该得到更多的爱和认可？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲哪種動物應該得到更多的愛和認可？"
+    }
+  ]
 }
