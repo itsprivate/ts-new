@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんにちは、私はニコラス・ケイジです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你好，我是尼古拉斯-凯奇，欢迎来到《随问随答》。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你好，我是尼古拉斯-凱奇，歡迎來到《隨問隨答》。"
+    }
+  ]
 }
