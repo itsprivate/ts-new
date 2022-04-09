@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初めての技術書執筆の完全ストーリー。発売初年度に640冊を販売。"
+    },
+    {
+      "locale": "zh",
+      "title": "撰写我的第一本技术书籍的完整故事。在销售的第一年就售出了640本。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "撰寫我的第一本技術書籍的完整故事。在銷售的第一年就售出了640本。"
+    }
+  ]
 }
