@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sun Apr 10 12:25:08 +0000 2022"
+  "original_created_at": "Sun Apr 10 12:25:08 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ニューヨークには750マイルの新しい自転車ルートがある。マンハッタンからバッファロー、カナダ国境まで、その隅々まで走りました。こんな感じです。https://t.co/elKOP6LdIO"
+    },
+    {
+      "locale": "zh",
+      "full_text": "在纽约有一条新的750英里的自行车路线。我们骑着它的每一寸土地，从曼哈顿到水牛城到加拿大边境。这就是它的样子。https://t.co/elKOP6LdIO"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "在紐約有一條新的750英里的自行車路線。我們騎着它的每一寸土地，從曼哈頓到水牛城到加拿大邊境。這就是它的樣子。https://t.co/elKOP6LdIO"
+    }
+  ]
 }
