@@ -39,5 +39,21 @@
   "original_created_at": "2022-04-08T08:13:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8Tya6wS4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ablb7wsooiocbui62oj.png",
   "author": "Dillion Megida",
-  "author_url": "https://dev.to/dillionmegida"
+  "author_url": "https://dev.to/dillionmegida",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JavaScriptでsetTimeoutをキャンセルする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，setTimeout是一个本地函数，它可以设置一个函数在指定的时间内被执行。",
+      "title": "如何取消JavaScript中的setTimeout"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，setTimeout是一個本地函數，它可以設置一個函數在指定的時間內被執行。",
+      "title": "如何取消JavaScript中的setTimeout"
+    }
+  ]
 }
