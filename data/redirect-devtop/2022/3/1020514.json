@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-12T12:15:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VxIqIfgf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3zv5h47d0p5qqio293v.png",
   "author": "Dara Olayebi",
-  "author_url": "https://dev.to/daraolayebi"
+  "author_url": "https://dev.to/daraolayebi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、React、WAGMI &amp; を使ってDAppを構築した私のプロセスと学習のウォークスルーです。",
+      "title": "初めてのDApp構築で学んだことすべて - フロントエンドの視点"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章介绍了我使用React、WAGMI&amp;构建DApp的过程和学习情况。",
+      "title": "构建我的第一个DApp所学到的一切 - 前端视角"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章介紹了我使用React、WAGMI&amp;構建DApp的過程和學習情況。",
+      "title": "構建我的第一個DApp所學到的一切 - 前端視角"
+    }
+  ]
 }
