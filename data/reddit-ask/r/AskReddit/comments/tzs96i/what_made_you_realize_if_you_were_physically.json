@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分が魅力的か、平均的か、魅力的でないかを判断した理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是什么让你意识到自己的身体是有吸引力的，是普通的还是没有吸引力的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是什麼讓你意識到自己的身體是有吸引力的，是普通的還是沒有吸引力的？"
+    }
+  ]
 }

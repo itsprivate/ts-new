@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジムでの有酸素運動"
+    },
+    {
+      "locale": "zh",
+      "title": "在健身房做有氧运动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在健身房做有氧運動"
+    }
+  ]
 }
