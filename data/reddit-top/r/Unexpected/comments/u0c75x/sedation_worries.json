@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "セデーションの心配"
+    },
+    {
+      "locale": "zh",
+      "title": "镇静剂的忧虑"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鎮靜劑的憂慮"
+    }
+  ]
 }
