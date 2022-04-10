@@ -41,5 +41,22 @@
   "original_created_at": "2022-04-08T16:37:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JTCjOXwC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0xbljv60ahwpvio2alkd.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Laravel 9（最新版）上に作られたフルスタックオープンソーススターターの厳選リスト - すべてのプロジェクトのソースコードはGithubで公開されています。",
+      "title": "Laravel 9 - オープンソース・フルスタック・スターターズ"
+    },
+    {
+      "locale": "zh",
+      "description": "在Laravel 9(最新版本)的基础上精心设计的全栈式开源启动器列表 - 所有项目的源代码都可以在Github上找到。",
+      "title": "Laravel 9 - 开源的全栈式启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Laravel 9(最新版本)的基礎上精心設計的全棧式開源啓動器列表 - 所有項目的源代碼都可以在Github上找到。",
+      "title": "Laravel 9 - 開源的全棧式啓動器"
+    }
+  ]
 }
