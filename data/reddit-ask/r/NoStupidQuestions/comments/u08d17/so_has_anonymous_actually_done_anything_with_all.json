@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "では、『Anonymous』は実際に脅しで何かをしたのでしょうか？成果があったとは聞いていませんが、いくつかの脅迫があっただけです。"
+    },
+    {
+      "locale": "zh",
+      "title": "那么，\"匿名者 \"对他们所有的威胁是否真的做了什么？我没有听说过任何结果，只是听说过一些威胁。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那麼，\"匿名者 \"對他們所有的威脅是否真的做了什麼？我沒有聽說過任何結果，只是聽說過一些威脅。"
+    }
+  ]
 }
