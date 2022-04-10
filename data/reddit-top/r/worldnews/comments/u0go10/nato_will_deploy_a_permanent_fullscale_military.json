@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NATOは将来の侵略に対抗するため、ロシアとの国境に常設の本格的な軍事力を配備する、と同盟の長が述べた。"
+    },
+    {
+      "locale": "zh",
+      "title": "北约负责人表示，北约将在其与俄罗斯的边界部署一支永久性的全面军事力量，以打击未来的入侵。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "北約負責人表示，北約將在其與俄羅斯的邊界部署一支永久性的全面軍事力量，以打擊未來的入侵。"
+    }
+  ]
 }
