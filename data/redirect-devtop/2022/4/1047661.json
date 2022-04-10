@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-07T12:08:17Z",
   "image": "https://dev.to/social_previews/article/1047661.png",
   "author": "Dhravya",
-  "author_url": "https://dev.to/dhravya"
+  "author_url": "https://dev.to/dhravya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者の方に必ずと言っていいほど聞かれるのが、「何から始めたらいいのか」「独学でどう...",
+      "title": "どうやってコードを覚えたか？"
+    },
+    {
+      "locale": "zh",
+      "description": "对于初学者来说，一个非常常见的问题总是：\"从哪里开始 \"和 \"你是如何自学成才的\"。",
+      "title": "我是如何学会编码的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於初學者來說，一個非常常見的問題總是：\"從哪裏開始 \"和 \"你是如何自學成才的\"。",
+      "title": "我是如何學會編碼的？"
+    }
+  ]
 }
