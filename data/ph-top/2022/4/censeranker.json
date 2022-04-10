@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-10T07:01:00Z"
+  "original_createdAt": "2022-04-10T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CenseRankerは、すべてのキーワードを簡単に追跡できる、シンプルなSEOツールです。毎日の更新ランク、タイトルと説明を取得します。世界中のさまざまな場所からGoogleの検索結果を追跡します。",
+      "tagline": "シンプルなGoogleキーワードランクトラッカー"
+    },
+    {
+      "locale": "zh",
+      "description": "CenseRanker是一个简单的SEO工具，可以轻松地跟踪你所有的关键词。获得每日更新的排名，标题和描述。追踪来自世界各地不同地点的谷歌搜索结果。",
+      "tagline": "一个简单的谷歌关键词排名追踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CenseRanker是一個簡單的SEO工具，可以輕鬆地跟蹤你所有的關鍵詞。獲得每日更新的排名，標題和描述。追蹤來自世界各地不同地點的谷歌搜索結果。",
+      "tagline": "一個簡單的谷歌關鍵詞排名追蹤器"
+    }
+  ]
 }
