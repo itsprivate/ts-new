@@ -71,5 +71,15 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "火车经过居民区时，窗户会自动失明"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "火車經過居民區時，窗戶會自動失明"
+    }
+  ]
 }
