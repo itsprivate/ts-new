@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-07T07:56:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qtiGunfx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://github.com/PicardParis/cherry-on-py-pics/raw/main/cr_image_processing/pics/preview.gif",
   "author": "Laurent Picard",
-  "author_url": "https://dev.to/picardparis"
+  "author_url": "https://dev.to/picardparis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "200行以下のコードで、自動的にカラーリングページを生成します。",
+      "title": "サービスとしての画像処理 🎨  ．"
+    },
+    {
+      "locale": "zh",
+      "description": "自动生成着色页，只需不到200行的代码",
+      "title": "🎨 图像处理作为一种服务 🐍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動生成着色頁，只需不到200行的代碼",
+      "title": "🎨 圖像處理作爲一種服務 🐍"
+    }
+  ]
 }

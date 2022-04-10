@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "聴覚障害者が語るノイズの世界。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个聋人眼中的噪音世界。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個聾人眼中的噪音世界。"
+    }
+  ]
 }
