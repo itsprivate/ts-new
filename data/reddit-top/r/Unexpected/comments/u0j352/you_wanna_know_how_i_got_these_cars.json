@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私がどうやってこの車を手に入れたか知りたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你想知道我是如何得到这些车的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你想知道我是如何得到這些車的嗎？"
+    }
+  ]
 }
