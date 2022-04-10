@@ -154,5 +154,22 @@
     "retweet_count": 885,
     "favorite_count": 2066,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTCGandalf: このメッセージは十分な時間をかけて共有することはできません。\n\n#ビットコイン https://t.co/W1QKDCn1j7",
+      "retweeted_status_full_text": "このメッセージは何度伝えても足りない。\n\n#ビットコイン https://t.co/W1QKDCn1j7"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTCGandalf: 这个消息永远不会被分享足够的时间。\n\n#Bitcoin https://t.co/W1QKDCn1j7",
+      "retweeted_status_full_text": "这条信息的分享时间永远不够。\n\n#Bitcoin https://t.co/W1QKDCn1j7"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTCGandalf: 這個消息永遠不會被分享足夠的時間。\n\n#Bitcoin https://t.co/W1QKDCn1j7",
+      "retweeted_status_full_text": "這條信息的分享時間永遠不夠。\n\n#Bitcoin https://t.co/W1QKDCn1j7"
+    }
+  ]
 }
