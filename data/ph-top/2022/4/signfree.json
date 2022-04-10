@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-10T07:06:38Z"
+  "original_createdAt": "2022-04-10T07:06:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "電子署名は無料で無制限 30秒以内に署名する。アカウント不要",
+      "tagline": "電子署名は無料で無制限"
+    },
+    {
+      "locale": "zh",
+      "description": "免费电子签署无限量文件 在30秒内完成签署。不需要账户",
+      "tagline": "免费的电子签名，无限制的文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免費電子簽署無限量文件 在30秒內完成簽署。不需要賬戶",
+      "tagline": "免費的電子簽名，無限制的文件"
+    }
+  ]
 }
