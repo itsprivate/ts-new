@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-10T11:44:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ayS6eF6a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/veyqajcnp2piz0fn1oc1.png",
   "author": "Jasmin Virdi",
-  "author_url": "https://dev.to/jasmin"
+  "author_url": "https://dev.to/jasmin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるプロジェクトで作業しているとき、HTMLのウェブページを...に変換する機能を実装しなければなりませんでした。",
+      "title": "HTMLのウェブページを画像にするには？"
+    },
+    {
+      "locale": "zh",
+      "description": "当我在一个项目中工作时，我不得不实现一个功能，我必须把一个HTML网页变成...",
+      "title": "如何把HTML网页变成一个图像？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我在一個項目中工作時，我不得不實現一個功能，我必須把一個HTML網頁變成...",
+      "title": "如何把HTML網頁變成一個圖像？"
+    }
+  ]
 }
