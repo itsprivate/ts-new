@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-09T18:59:35Z",
   "image": "https://dev.to/social_previews/article/1050154.png",
   "author": "Sam Magura",
-  "author_url": "https://dev.to/srmagura"
+  "author_url": "https://dev.to/srmagura",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "中堅のReact開発者で、上級のReact開発者を目指している方、このポストは...",
+      "title": "中堅のReact開発者の悪い習慣"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你是一个中级的React开发者，希望成为一个高级的React开发者，这个职位是为你准备的。",
+      "title": "中级React开发者的坏习惯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你是一箇中級的React開發者，希望成爲一個高級的React開發者，這個職位是爲你準備的。",
+      "title": "中級React開發者的壞習慣"
+    }
+  ]
 }
