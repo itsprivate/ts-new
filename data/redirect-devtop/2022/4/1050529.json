@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-10T08:59:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--merDkpdZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.bloggu.io/ipfs/bafkreiarfpqcdmn723dzx6zv24sk4d4i3pc5nmuw7efvpfmh3x4ta4ftou",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TDD（テスト駆動開発）の最初のルールは、機能をコーディングする前にテストを書くことです。これは...",
+      "title": "初心者のためのReactによるテスト駆動開発入門"
+    },
+    {
+      "locale": "zh",
+      "description": "测试驱动开发（TDD）的第一条规则是在对功能进行编码之前写一个测试。它...",
+      "title": "React中的测试驱动开发入门教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "測試驅動開發（TDD）的第一條規則是在對功能進行編碼之前寫一個測試。它...",
+      "title": "React中的測試驅動開發入門教程"
+    }
+  ]
 }
