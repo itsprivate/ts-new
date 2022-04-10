@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファイターが相手を倒すために使ったサブミッションを教える"
+    },
+    {
+      "locale": "zh",
+      "title": "拳击手向对手传授他用来击败对手的降服方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拳擊手向對手傳授他用來擊敗對手的降服方法"
+    }
+  ]
 }
