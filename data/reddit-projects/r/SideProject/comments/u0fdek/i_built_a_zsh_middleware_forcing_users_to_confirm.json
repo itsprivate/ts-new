@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "危険なコマンドを実行するたびにユーザーに確認を求めるZSHミドルウェアを作りました。例：アプリケーションを本番環境にデプロイする、または 'rm -rf' を実行する。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个ZSH中间件，强迫用户在每次执行危险命令时进行确认。例如：将应用程序部署到生产环境或运行 \"rm -rf\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個ZSH中間件，強迫用戶在每次執行危險命令時進行確認。例如：將應用程序部署到生產環境或運行 \"rm -rf\"。"
+    }
+  ]
 }
