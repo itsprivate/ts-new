@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの人生のどの数字にも「0」を足すことができるとしたら、どこに足しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以在你生活中的任何数字上加一个 \"0\"，你会把它放在哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以在你生活中的任何數字上加一個 \"0\"，你會把它放在哪裏？"
+    }
+  ]
 }

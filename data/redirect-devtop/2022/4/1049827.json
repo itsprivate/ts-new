@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-09T08:36:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w0yZkVLL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w5zla8o026xajfh03e0h.png",
   "author": "Code_Jedi",
-  "author_url": "https://dev.to/code_jedi"
+  "author_url": "https://dev.to/code_jedi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、初心者にとっては奇妙に思えるかもしれないが、しかし、すべての初心者がすべきことである。",
+      "title": "ググればわかることは覚えるな!"
+    },
+    {
+      "locale": "zh",
+      "description": "这对初学者来说可能显得很奇怪，然而却是每个初学者都应该做的事情。",
+      "title": "不要背诵你能在谷歌上找到的东西!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這對初學者來說可能顯得很奇怪，然而卻是每個初學者都應該做的事情。",
+      "title": "不要背誦你能在谷歌上找到的東西!"
+    }
+  ]
 }
