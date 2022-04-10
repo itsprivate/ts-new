@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ADAのエコシステムが活発化し、約1000のプロジェクトがCardanoで構築されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "近1000个项目正在建立在Cardano上，ADA生态系统因大量活动而爆发"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "近1000個項目正在建立在Cardano上，ADA生態系統因大量活動而爆發"
+    }
+  ]
 }
