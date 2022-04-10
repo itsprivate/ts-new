@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "VidGaze.tv - YouTube、Twitch、Vimeo、Dailymotionを一度に見ることができるプラットフォームです。"
+    },
+    {
+      "locale": "zh",
+      "title": "VidGaze.tv - 在一个地方观看YouTube、Twitch、Vimeo和Dailymotion的平台。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "VidGaze.tv - 在一個地方觀看YouTube、Twitch、Vimeo和Dailymotion的平臺。"
+    }
+  ]
 }
