@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-10T18:41:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ap4PKv8u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5g96uogmqjt1ielmtp3.jpg",
   "author": "Horace FAYOMI",
-  "author_url": "https://dev.to/fayomihorace"
+  "author_url": "https://dev.to/fayomihorace",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "bloggu.ioを利用して投稿した記事です。無料でお試しください。 ある変数が存在するシナリオを想像してみてください。",
+      "title": "短絡的な評価で美しくエレガントなJavascriptコードを書くことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "文章使用bloggu.io发布。免费试用。 想象一下这样的场景，你有一个变量...",
+      "title": "用短路评估法写出漂亮而优雅的Javascript代码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "文章使用bloggu.io發佈。免費試用。 想象一下這樣的場景，你有一個變量...",
+      "title": "用短路評估法寫出漂亮而優雅的Javascript代碼。"
+    }
+  ]
 }
