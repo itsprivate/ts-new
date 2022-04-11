@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-10T07:07:29Z"
+  "original_createdAt": "2022-04-10T07:07:29Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "役割名、勤務地、会社名からリモートデザインの仕事を検索できます。",
+      "tagline": "リモートで採用する会社から、理想のデザインの仕事を見つける。"
+    },
+    {
+      "locale": "zh",
+      "description": "按角色名称、地点或公司名称搜索远程设计工作。",
+      "tagline": "从远程招聘的公司找到你梦想的设计工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "按角色名稱、地點或公司名稱搜索遠程設計工作。",
+      "tagline": "從遠程招聘的公司找到你夢想的設計工作。"
+    }
+  ]
 }
