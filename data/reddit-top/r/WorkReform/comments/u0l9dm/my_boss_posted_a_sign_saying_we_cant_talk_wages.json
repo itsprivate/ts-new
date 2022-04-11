@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "上司が「職場で賃金の話はするな」と張り紙をしたんです。同僚が自分の反論を投稿した。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的老板贴出告示说我们不能在工作中谈论工资。我的同事张贴了她自己的反驳。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的老闆貼出告示說我們不能在工作中談論工資。我的同事張貼了她自己的反駁。"
+    }
+  ]
 }
