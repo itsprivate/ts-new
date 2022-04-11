@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-11T07:02:04Z"
+  "original_createdAt": "2022-04-11T07:02:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Lingooは、中小企業、開発者、Webサイト向けのAIを活用した翻訳サービスです。GitHubレポをインポートし、翻訳したいjsonファイルを選択するだけです。私たちのビルトインCI/CDシステムは、すべてのコード変更に対してトリガーされます。",
+      "tagline": "AIで正確、シンプル、翻訳"
+    },
+    {
+      "locale": "zh",
+      "description": "Lingoo是为小型企业、开发商和网站提供的人工智能翻译服务。我们允许你导入你的GitHub repo，然后只需选择你要翻译的json文件。我们内置的CI/CD系统会对每一个代码变化进行触发。",
+      "tagline": "由AI驱动的准确、简单的翻译"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Lingoo是爲小型企業、開發商和網站提供的人工智能翻譯服務。我們允許你導入你的GitHub repo，然後只需選擇你要翻譯的json文件。我們內置的CI/CD系統會對每一個代碼變化進行觸發。",
+      "tagline": "由AI驅動的準確、簡單的翻譯"
+    }
+  ]
 }
