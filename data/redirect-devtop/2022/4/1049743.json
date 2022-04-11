@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-09T07:02:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PlPqqzvH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1541851818-cb1b5e20e2ca",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時には、厄介な改行文字が実際に機能するようにしたいものです。",
+      "title": "ReactやVueのコンポーネントでテキストをレンダリングするときに改行が効くようにする"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，你只是希望那些讨厌的换行符能够真正发挥作用",
+      "title": "当你在React或Vue组件中渲染文本时，让换行符发挥作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，你只是希望那些討厭的換行符能夠真正發揮作用",
+      "title": "當你在React或Vue組件中渲染文本時，讓換行符發揮作用"
+    }
+  ]
 }

@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ああ、これのアップデートが必要だ"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，我需要关于这个问题的更新。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，我需要關於這個問題的更新。"
+    }
+  ]
 }
