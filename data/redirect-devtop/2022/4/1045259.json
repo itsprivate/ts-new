@@ -39,5 +39,22 @@
   "original_created_at": "2022-04-05T09:12:37Z",
   "image": "https://dev.to/social_previews/article/1045259.png",
   "author": "Kithmini Indimagedara 🌱",
-  "author_url": "https://dev.to/kithminiii"
+  "author_url": "https://dev.to/kithminiii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 実は私、ディープグラムは初めてなんです。そのため、deepgramがどのように機能するかについて自分自身を教育する必要がありましたし、作る...",
+      "title": "ボイスウェブ - Deepgram Dev Hackathonに向けて🌱✨。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好👋 其实我是 deepgram 的新手。因此，我必须了解deepgram的工作原理，并在此基础上进行自我教育。",
+      "title": "语音网络 - 为Deepgram Dev Hackathon 🌱✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好👋 其實我是 deepgram 的新手。因此，我必須瞭解deepgram的工作原理，並在此基礎上進行自我教育。",
+      "title": "語音網絡 - 爲Deepgram Dev Hackathon 🌱✨"
+    }
+  ]
 }
