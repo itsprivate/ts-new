@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Today I became a whole coiner. I believe in the future."
+  "the_new_excerpt": "Today I became a whole coiner. I believe in the future.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今日、私はホールコイナーになりました。私は未来を信じます。",
+      "title": "2100万円マイナス1"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "今天，我成为了一个完整的投币者。我相信未来。",
+      "title": "2100万减去1"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "今天，我成爲了一個完整的投幣者。我相信未來。",
+      "title": "2100萬減去1"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の父は若い頃、アイザック・アシモフに質問を書き、アシモフは時間を割いてそれに答えてくれたそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我爸爸年轻时给艾萨克-阿西莫夫写了一个问题，阿西莫夫花时间回答了他。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爸爸年輕時給艾薩克-阿西莫夫寫了一個問題，阿西莫夫花時間回答了他。"
+    }
+  ]
 }

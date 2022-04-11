@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "60 minutesの新エピソードでこのようなグラフを見るのは悲しいことです。完全にデータを誤って伝えている。横軸が年単位から月単位になっていることに注目。"
+    },
+    {
+      "locale": "zh",
+      "title": "在新的60分钟节目中看到这样的图表，让人感到难过。完全误导了数据。注意横轴是如何从几年变成几个月的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在新的60分鐘節目中看到這樣的圖表，讓人感到難過。完全誤導了數據。注意橫軸是如何從幾年變成幾個月的"
+    }
+  ]
 }
