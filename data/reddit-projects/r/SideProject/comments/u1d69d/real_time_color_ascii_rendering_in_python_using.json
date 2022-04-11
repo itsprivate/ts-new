@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PythonによるNumPyベクタライズを用いたリアルタイムカラーASCIIレンダリング"
+    },
+    {
+      "locale": "zh",
+      "title": "使用NumPy矢量化在Python中进行实时彩色ASCII渲染"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用NumPy矢量化在Python中進行實時彩色ASCII渲染"
+    }
+  ]
 }
