@@ -13,5 +13,19 @@
   ],
   "objectID": "30976040",
   "original_created_at": "2022-04-10T11:03:48.000Z",
-  "image": "https://reactjs.org/logo-og.png"
+  "image": "https://reactjs.org/logo-og.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PSA: React 18は副作用を検出するために厳密な開発モードでコードを2回呼び出します。"
+    },
+    {
+      "locale": "zh",
+      "title": "PSA：React 18在严格的开发模式下调用两次代码以检测副作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PSA：React 18在嚴格的開發模式下調用兩次代碼以檢測副作用"
+    }
+  ]
 }
