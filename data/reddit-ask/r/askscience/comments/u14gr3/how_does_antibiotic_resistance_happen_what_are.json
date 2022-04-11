@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "抗生物質耐性はどのようにして起こるのですか？すでに発症してしまった人への代替医療は？"
+    },
+    {
+      "locale": "zh",
+      "title": "抗生素耐药性是如何发生的？对于已经产生耐药性的人来说，有哪些医疗选择？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "抗生素耐藥性是如何發生的？對於已經產生耐藥性的人來說，有哪些醫療選擇？"
+    }
+  ]
 }
