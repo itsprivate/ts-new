@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "That’s taxation without representation. The United States was founded after we\nfought a war over that issue."
+  "the_new_excerpt": "That’s taxation without representation. The United States was founded after we\nfought a war over that issue.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それは代表権のない課税です。アメリカ合衆国は\nその問題をめぐって戦争をしたのです。",
+      "title": "重罪犯が投票できないなら、なぜ税金を払わなければならないのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这就是没有代表权的征税。美国的建立是在我们\n为这个问题打了一场战争。",
+      "title": "如果重刑犯不能投票，那么他们为什么要交税？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這就是沒有代表權的徵稅。美國的建立是在我們\n爲這個問題打了一場戰爭。",
+      "title": "如果重刑犯不能投票，那麼他們爲什麼要交稅？"
+    }
+  ]
 }
