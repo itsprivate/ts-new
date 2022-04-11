@@ -66,5 +66,19 @@
   "retweet_count": 32,
   "favorite_count": 240,
   "possibly_sensitive": false,
-  "original_created_at": "Mon Apr 11 15:15:50 +0000 2022"
+  "original_created_at": "Mon Apr 11 15:15:50 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "elonさんがこのツイートをお気に入りにしました $twtr https://t.co/6MD7OwTYAn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "elon喜欢这条微博 $twtr https://t.co/6MD7OwTYAn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "elon喜歡這條微博 $twtr https://t.co/6MD7OwTYAn"
+    }
+  ]
 }
