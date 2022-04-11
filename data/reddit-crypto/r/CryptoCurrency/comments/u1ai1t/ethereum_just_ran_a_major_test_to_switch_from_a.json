@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムは、プルーフ・オブ・ワークモデルからプルーフ・オブ・ステークモデルに切り替えるための大規模なテストを実施したばかりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊刚刚进行了一次重大测试，从工作证明模式转换为股权证明模式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊剛剛進行了一次重大測試，從工作證明模式轉換爲股權證明模式。"
+    }
+  ]
 }
