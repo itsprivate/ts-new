@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "牛肉でできているのに、なぜハンバーガーと呼ばれるのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果它是由牛肉制成的，为什么叫汉堡包？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果它是由牛肉製成的，爲什麼叫漢堡包？"
+    }
+  ]
 }
