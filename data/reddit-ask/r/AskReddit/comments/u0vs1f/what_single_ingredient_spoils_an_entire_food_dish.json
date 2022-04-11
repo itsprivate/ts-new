@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たった一つの食材が入るだけで、料理全体が台無しになってしまうものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果包含哪种单一成分，会破坏你的整道食物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果包含哪種單一成分，會破壞你的整道食物？"
+    }
+  ]
 }
