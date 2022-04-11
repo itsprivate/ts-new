@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大きな筋肉は必要ありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "你真的不需要很大的肌肉就能做到这一点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你真的不需要很大的肌肉就能做到這一點"
+    }
+  ]
 }
