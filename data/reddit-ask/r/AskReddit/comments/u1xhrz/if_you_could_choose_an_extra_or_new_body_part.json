@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが体の部位を選ぶことができるとしたら、何が欲しいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你可以选择一个额外的或新的身体部位，你会想要什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你可以選擇一個額外的或新的身體部位，你會想要什麼，爲什麼？"
+    }
+  ]
 }
