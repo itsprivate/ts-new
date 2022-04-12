@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm really into pirates right now but I don't get the name of the ship"
+  "the_new_excerpt": "I'm really into pirates right now but I don't get the name of the ship",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今、海賊にハマっているのですが、船の名前がわかりません",
+      "title": "黒ひげの船は「アン女王の復讐号」と呼ばれて有名である。しかし、アン女王とは誰で、なぜ復讐が必要なのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我现在非常喜欢海盗，但我不知道这艘船的名字。",
+      "title": "黑胡子的船被称为 \"安妮女王的复仇号\"。但安妮女王是谁，她为什么需要复仇？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我現在非常喜歡海盜，但我不知道這艘船的名字。",
+      "title": "黑鬍子的船被稱爲 \"安妮女王的復仇號\"。但安妮女王是誰，她爲什麼需要復仇？"
+    }
+  ]
 }
