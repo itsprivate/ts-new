@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どの俳優が自分の役をうまく演じられたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪个演员把自己的角色演得太好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪個演員把自己的角色演得太好？"
+    }
+  ]
 }
