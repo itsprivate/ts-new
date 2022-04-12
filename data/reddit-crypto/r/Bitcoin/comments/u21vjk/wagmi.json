@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワグミ"
+    },
+    {
+      "locale": "zh",
+      "title": "纬度网"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "緯度網"
+    }
+  ]
 }
