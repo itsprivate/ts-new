@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-11T07:21:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5f6rjhXB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1kwxzrhvt40nuulijge.png",
   "author": "Deepu K Sasidharan",
-  "author_url": "https://dev.to/deepu105"
+  "author_url": "https://dev.to/deepu105",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaにおけるFFI(Foreign Function Interface)の状況を見てみよう。",
+      "title": "Java 18はついにJNIに代わるより良いものを手に入れたのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来看看Java中的外国函数接口（FFI）的状况。",
+      "title": "Java 18终于有了一个更好的JNI替代品了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來看看Java中的外國函數接口（FFI）的狀況。",
+      "title": "Java 18終於有了一個更好的JNI替代品了嗎？"
+    }
+  ]
 }
