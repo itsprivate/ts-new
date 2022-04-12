@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-10T06:11:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ABB4T9fZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbqgkn1u005msz1ilos2.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactの世界に飛び込もうとしている人、でもReactの操作方法を忘れてしまっている人、いませんか？",
+      "title": "Reactチートシート(React 18搭載)"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否试图进入React的世界，但一直忘记如何做东西&amp;。",
+      "title": "React Cheat Sheet (with React 18)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否試圖進入React的世界，但一直忘記如何做東西&amp;。",
+      "title": "React Cheat Sheet (with React 18)"
+    }
+  ]
 }
