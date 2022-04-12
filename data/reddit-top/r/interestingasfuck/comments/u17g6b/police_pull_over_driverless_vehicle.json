@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察が無人運転車を停車させる。"
+    },
+    {
+      "locale": "zh",
+      "title": "警方将无人驾驶汽车拦下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警方將無人駕駛汽車攔下。"
+    }
+  ]
 }
