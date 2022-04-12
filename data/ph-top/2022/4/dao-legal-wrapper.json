@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-12T07:30:00Z"
+  "original_createdAt": "2022-04-12T07:30:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DAOが現実世界とビジネスを行うためには、法的な仕組みが必要です。Legal NodesのDAO Legal Wrapperは、創設者がプロジェクトの法的要件を把握するのを助け、どの国がその法的構造に最も適しているかなどを説明します。",
+      "tagline": "DAOを実世界で運用するための構造化"
+    },
+    {
+      "locale": "zh",
+      "description": "为了让你的DAO与现实世界做生意，它将需要一个法律结构。来自Legal Nodes的DAO法律包装器帮助创始人弄清他们项目的法律要求，包括哪些国家最适合他们的法律结构。",
+      "tagline": "构建你的DAO以在现实世界中运作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了讓你的DAO與現實世界做生意，它將需要一個法律結構。來自Legal Nodes的DAO法律包裝器幫助創始人弄清他們項目的法律要求，包括哪些國家最適合他們的法律結構。",
+      "tagline": "構建你的DAO以在現實世界中運作"
+    }
+  ]
 }
