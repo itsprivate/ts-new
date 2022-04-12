@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Apologies if I sound rude, but I want as many details as possible, this is a\nquestion that has always bothered me"
+  "the_new_excerpt": "Apologies if I sound rude, but I want as many details as possible, this is a\nquestion that has always bothered me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "失礼な言い方かもしれませんが、できるだけ多くの詳細が欲しいのです。\nずっと気になっていた質問",
+      "title": "兵役が義務化されている国、なぜ義務化されているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果我听起来很无礼，请原谅，但我想知道尽可能多的细节，这是一个\n问题一直困扰着我",
+      "title": "那些强制服兵役的国家，为什么要强制服兵役？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果我聽起來很無禮，請原諒，但我想知道盡可能多的細節，這是一個\n問題一直困擾着我",
+      "title": "那些強制服兵役的國家，爲什麼要強制服兵役？"
+    }
+  ]
 }
