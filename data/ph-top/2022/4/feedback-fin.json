@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-12T09:38:04Z"
+  "original_createdAt": "2022-04-12T09:38:04Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WebflowからReactのWebアプリケーションまで、数行のコードをプラグインするだけで、あらゆるWebサイトのフィードバックを収集することができます。Feedback Finは、オープンソースで、完全にカスタマイズ可能であり、無料です。",
+      "tagline": "あらゆるウェブサイトからフィードバックを収集するためのオープンソースのウィジェットです。"
+    },
+    {
+      "locale": "zh",
+      "description": "只需插入几行代码，就可以在任何网站上收集反馈（从Webflow到React webapp）。Feedback Fin是开源的，完全可定制的，而且是免费的。",
+      "tagline": "一个开源的小工具，可以从任何网站收集反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只需插入幾行代碼，就可以在任何網站上收集反饋（從Webflow到React webapp）。Feedback Fin是開源的，完全可定製的，而且是免費的。",
+      "tagline": "一個開源的小工具，可以從任何網站收集反饋。"
+    }
+  ]
 }
