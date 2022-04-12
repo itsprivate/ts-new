@@ -134,5 +134,22 @@
     "retweet_count": 1147,
     "favorite_count": 7805,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @neontaster: ああ、そうだ - 自由で、オープンで、検閲されないインターネットという権威主義の夢。 https://t.co/uI19hJmUjo",
+      "retweeted_status_full_text": "ああ、そうだ-自由で、オープンで検閲のないインターネットという権威主義の夢だ。https://t.co/uI19hJmUjo。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @neontaster: 啊，是的--自由、开放、不受审查的互联网的威权主义梦想。https://t.co/uI19hJmUjo",
+      "retweeted_status_full_text": "啊，是的--自由、开放、不受审查的互联网的专制梦想。https://t.co/uI19hJmUjo。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @neontaster: 啊，是的--自由、開放、不受審查的互聯網的威權主義夢想。https://t.co/uI19hJmUjo",
+      "retweeted_status_full_text": "啊，是的--自由、開放、不受審查的互聯網的專制夢想。https://t.co/uI19hJmUjo。"
+    }
+  ]
 }
