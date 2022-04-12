@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フレームワークを使わず、HTML、CSS、JavascriptのみでmacbookのUX/UIを再現しようとしている!"
+    },
+    {
+      "locale": "zh",
+      "title": "试图用HTML、CSS和Javascript来复制macbook的UX/UI，没有框架!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "試圖用HTML、CSS和Javascript來複制macbook的UX/UI，沒有框架!"
+    }
+  ]
 }
