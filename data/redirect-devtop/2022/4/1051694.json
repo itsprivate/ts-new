@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-11T14:13:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QxjcBn7v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ztxomv3m6vrx1f9qn7f.png",
   "author": "Safak",
-  "author_url": "https://dev.to/safak"
+  "author_url": "https://dev.to/safak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、開発において最も過小評価されている部分の1つについてお話します。テストです。私たちは皆...",
+      "title": "初心者のためのReactテスト"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们要谈的是开发中最被低估的部分之一。测试。我们都...",
+      "title": "反应式测试的初学者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們要談的是開發中最被低估的部分之一。測試。我們都...",
+      "title": "反應式測試的初學者"
+    }
+  ]
 }
