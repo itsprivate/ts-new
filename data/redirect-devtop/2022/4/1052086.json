@@ -55,5 +55,22 @@
   "original_created_at": "2022-04-11T21:08:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SNqcMKCn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62k4dnq8se1hqz57c91c.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVのAppwrite Hackathonで何か助けが必要な場合は、ここにコメントしてください。",
+      "title": "Appwrite x DEV Hackathon ヘルプスレッド"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在Appwrite黑客马拉松期间需要任何帮助，请在此评论。",
+      "title": "Appwrite x DEV黑客马拉松帮助主题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在Appwrite黑客馬拉松期間需要任何幫助，請在此評論。",
+      "title": "Appwrite x DEV黑客馬拉松幫助主題"
+    }
+  ]
 }
