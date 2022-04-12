@@ -55,5 +55,22 @@
   "original_created_at": "2022-04-09T13:22:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EE8SGtMY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgtptfw80na60oauka72.jpg",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Medusaは、オープンソースのeコマースプラットフォームです。オープンソースにした理由の1つは、...",
+      "title": "オープンソースのプロジェクトに貢献していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Medusa是一个开源的电子商务平台。我们使其开源的原因之一是，我们...",
+      "title": "你对开源项目有贡献吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Medusa是一個開源的電子商務平臺。我們使其開源的原因之一是，我們...",
+      "title": "你對開源項目有貢獻嗎？"
+    }
+  ]
 }
