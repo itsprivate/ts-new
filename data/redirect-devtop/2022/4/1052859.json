@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-12T14:51:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rRNY5zLy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8hb2ye84ugt7po1tc8i.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この質問は初めてではないし、最後でもないだろう。 音楽のタイトルやリンクを教えてください。",
+      "title": "最近、ヘッドホンから流れている曲は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这不是第一次被问到，也不会是最后一次。 请提交音乐的标题和/或链接...",
+      "title": "这些天你的耳机里播放的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這不是第一次被問到，也不會是最後一次。 請提交音樂的標題和/或鏈接...",
+      "title": "這些天你的耳機裏播放的是什麼？"
+    }
+  ]
 }
