@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-12T16:46:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VhNt2Mr8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l1tvvtmf6iqs291cyupk.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初心者のためのNodeJS総合入門 - 無料サンプル付き。",
+      "title": "初心者のためのNodeJS実践ガイド(サンプル付き)"
+    },
+    {
+      "locale": "zh",
+      "description": "全面介绍NodeJS的初学者--附带免费样本。",
+      "title": "初学者的NodeJS--实用指南（含样本）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "全面介紹NodeJS的初學者--附帶免費樣本。",
+      "title": "初學者的NodeJS--實用指南（含樣本）"
+    }
+  ]
 }
