@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-12T03:26:36Z",
   "image": "https://dev.to/social_previews/article/1052372.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactで最も興味深く、挑戦的なことの1つは、高度な技術を習得することではありません...",
+      "title": "Reactコンポーネントの構成：正しく理解する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中，最有趣和最具挑战性的事情之一不是掌握一些高级...",
+      "title": "React组件的构成：如何正确地使用它"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中，最有趣和最具挑戰性的事情之一不是掌握一些高級...",
+      "title": "React組件的構成：如何正確地使用它"
+    }
+  ]
 }
