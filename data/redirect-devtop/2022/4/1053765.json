@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-13T11:59:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nWPhdrQv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2i71gwk7hnxvlyodzfc3.png",
   "author": "Zouhir Yaçouri",
-  "author_url": "https://dev.to/yacouri"
+  "author_url": "https://dev.to/yacouri",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactJSには多くのフォルダ構造があり、どれを使えばいいのか迷うかもしれません。",
+      "title": "⚛️ ReactJSのフォルダ構造＋Boilerplate。"
+    },
+    {
+      "locale": "zh",
+      "description": "在ReactJS中，有许多文件夹结构需要遵循，你可能会困惑于你有哪一个。",
+      "title": "⚛️ ReactJS文件夹结构+模板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在ReactJS中，有許多文件夾結構需要遵循，你可能會困惑於你有哪一個。",
+      "title": "⚛️ ReactJS文件夾結構+模板。"
+    }
+  ]
 }
