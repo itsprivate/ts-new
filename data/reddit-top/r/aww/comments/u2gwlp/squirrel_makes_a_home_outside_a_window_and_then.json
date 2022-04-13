@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リスは窓の外に家を作り、寒い時期になると家族を移動させます。"
+    },
+    {
+      "locale": "zh",
+      "title": "松鼠在窗外安了家，然后在寒冷的月份里把家人搬进来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "松鼠在窗外安了家，然後在寒冷的月份裏把家人搬進來"
+    }
+  ]
 }

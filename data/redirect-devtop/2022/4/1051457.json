@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-11T10:04:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FJIClaco--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://onlinux.ams3.digitaloceanspaces.com/openshot/openshot_banner.png",
   "author": "Erika Heidi",
-  "author_url": "https://dev.to/erikaheidi"
+  "author_url": "https://dev.to/erikaheidi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このガイドでは、Linux Ubuntu (21.10)上でOpenShotを使って動画を編集する方法について説明します。",
+      "title": "Ubuntu LinuxでOpenShotを使って動画を編集する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在本指南中，你将学习如何在Linux Ubuntu (21.10)上使用OpenShot来编辑视频。",
+      "title": "如何在Ubuntu Linux上用OpenShot编辑视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本指南中，你將學習如何在Linux Ubuntu (21.10)上使用OpenShot來編輯視頻。",
+      "title": "如何在Ubuntu Linux上用OpenShot編輯視頻"
+    }
+  ]
 }
