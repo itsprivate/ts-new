@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-12T15:52:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mn8BcUgE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gfuqkxpty9f40k0yl271.png",
   "author": "Ali Spittel",
-  "author_url": "https://dev.to/aspittel"
+  "author_url": "https://dev.to/aspittel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先週、私が所属するAWS Amplifyのチームでは、新しいマップUIコンポーネントを発表しました。私はこれを...",
+      "title": "AWSで地図アプリケーションを10ステップで構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "上周，我在AWS Amplify工作的团队推出了新的地图UI组件。我想把这个...",
+      "title": "用10个步骤在AWS上构建一个地图应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上週，我在AWS Amplify工作的團隊推出了新的地圖UI組件。我想把這個...",
+      "title": "用10個步驟在AWS上構建一個地圖應用程序"
+    }
+  ]
 }
