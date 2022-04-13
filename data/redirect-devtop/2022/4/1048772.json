@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-08T09:45:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--th_zrPCk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1rq45sghyw8mghsec9au.png",
   "author": "Elias Brange",
-  "author_url": "https://dev.to/eliasbrange"
+  "author_url": "https://dev.to/eliasbrange",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーレスにより、信じられないほど簡単にAPIを記録的な速さで稼働させることができます。しかし、どのように...",
+      "title": "LambdaでFastAPIを実行する際のオブザベイラビリティのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "无服务器使得在创纪录的时间内启动和运行API变得异常容易。但你如何...",
+      "title": "在Lambda中运行FastAPI时的可观察性最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無服務器使得在創紀錄的時間內啓動和運行API變得異常容易。但你如何...",
+      "title": "在Lambda中運行FastAPI時的可觀察性最佳實踐"
+    }
+  ]
 }
