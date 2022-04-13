@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ケバブを食べに来ませんか？そして、その灯りに包まれてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "来吃烤肉串。留下来是因为这里的灯光很亮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來喫烤肉串。留下來是因爲這裏的燈光很亮。"
+    }
+  ]
 }
