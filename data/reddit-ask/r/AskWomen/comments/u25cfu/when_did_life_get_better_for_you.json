@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつから生活が豊かになったのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的生活何时变得更好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的生活何時變得更好？"
+    }
+  ]
 }
