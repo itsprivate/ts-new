@@ -63,5 +63,22 @@
     "retweet_count": 76,
     "favorite_count": 220,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PedderSophie: エマニュエル・マクロン氏は、フランス大統領選の第1回投票で、見かけよりも良い結果を出し、前回よりも100万票多く獲得した。",
+      "retweeted_status_full_text": "エマニュエル・マクロンは、フランス選挙の第1回投票で、2017年よりも1m多く票を獲得し、最初に見たよりも良い結果を残しました。当社の最新の予測モデルでは、彼の再選の可能性を81%としています。\nhttps://t.co/ajFoJQEhZy"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PedderSophie: 埃马纽埃尔-马克龙在法国第一轮选举中的表现可能比最初看起来要好，他赢得的选票比第一轮选举多100万张。",
+      "retweeted_status_full_text": "埃马纽埃尔-马克龙在法国第一轮选举中的表现可能比最初看起来要好，比2017年多赢得100万张选票。我们更新的预测模型现在认为他连任的可能性为81%。\nhttps://t.co/ajFoJQEhZy"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PedderSophie: 埃馬紐埃爾-馬克龍在法國第一輪選舉中的表現可能比最初看起來要好，他贏得的選票比第一輪選舉多100萬張。",
+      "retweeted_status_full_text": "埃馬紐埃爾-馬克龍在法國第一輪選舉中的表現可能比最初看起來要好，比2017年多贏得100萬張選票。我們更新的預測模型現在認爲他連任的可能性爲81%。\nhttps://t.co/ajFoJQEhZy"
+    }
+  ]
 }
