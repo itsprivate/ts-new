@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-13T08:23:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W3GpmPg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qx8iwti5uejgah76v8c.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MUIライブラリとReactを使った簡単なランディングページのコーディング方法を紹介 - サンプルコードはGithubで公開されています。",
+      "title": "MUI React - シンプルなランディングページをコーディングする"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何用MUI库和React编码一个简单的着陆页 - Github上有样本代码。",
+      "title": "MUI React - 编码一个简单的登陆页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何用MUI庫和React編碼一個簡單的着陸頁 - Github上有樣本代碼。",
+      "title": "MUI React - 編碼一個簡單的登陸頁面"
+    }
+  ]
 }
