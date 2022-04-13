@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-13T11:09:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ozj7QoAm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u49d6nlg5tk9q8g08tr8.jpg",
   "author": "Rob OLeary",
-  "author_url": "https://dev.to/robole"
+  "author_url": "https://dev.to/robole",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ベタなアイデアを試してみたくなったんです。あるサイトのロゴが倒れるようにアニメーションさせたかったんです...。",
+      "title": "vanilla JavaScriptでスクロールの方向を検出する方法 (グーフィーなロゴアニメーションを作る)"
+    },
+    {
+      "locale": "zh",
+      "description": "我想尝试一个愚蠢的想法。我想把一个网站的标志做成动画，让它倒下。",
+      "title": "如何在vanilla JavaScript中检测滚动方向（做一个呆板的logo动画）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想嘗試一個愚蠢的想法。我想把一個網站的標誌做成動畫，讓它倒下。",
+      "title": "如何在vanilla JavaScript中檢測滾動方向（做一個呆板的logo動畫）。"
+    }
+  ]
 }
