@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OSSデータベース。オープンソースの代替品に関する公開データベース"
+    },
+    {
+      "locale": "zh",
+      "title": "开放源码软件数据库。一个开放源码替代品的公共数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "開放源碼軟件數據庫。一個開放源碼替代品的公共數據庫"
+    }
+  ]
 }

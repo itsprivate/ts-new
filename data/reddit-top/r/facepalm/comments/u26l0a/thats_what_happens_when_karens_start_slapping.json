@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カレンが人を叩き始めるとこうなる。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是卡伦开始打人时的情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是卡倫開始打人時的情況。"
+    }
+  ]
 }
