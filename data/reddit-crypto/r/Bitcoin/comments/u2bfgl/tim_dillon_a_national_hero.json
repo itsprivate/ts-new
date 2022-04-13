@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国民的英雄、ティム・ディロン。"
+    },
+    {
+      "locale": "zh",
+      "title": "蒂姆-狄龙，一位民族英雄。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "蒂姆-狄龍，一位民族英雄。"
+    }
+  ]
 }
