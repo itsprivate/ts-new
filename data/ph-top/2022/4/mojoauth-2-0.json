@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-13T07:01:00Z"
+  "original_createdAt": "2022-04-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MojoAuthは、複雑な認証機構を簡単にするために作られた、パスワードのいらない認証ツールです。たった5分であなたのアプリやウェブサイトにMojoAuthを組み込んで、ユーザーがパスワードなしで簡単にあなたのプラットフォームにログインできるようになります。",
+      "tagline": "オールインワンのパスワードレス認証 - SMS、MFA、MagicLink"
+    },
+    {
+      "locale": "zh",
+      "description": "MojoAuth是一个无密码的认证工具，是为了使复杂的认证机制更容易。在短短5分钟内将MojoAuth整合到您的应用程序或网站，让您的用户不需要任何密码就能轻松登录到您的平台。",
+      "tagline": "多合一的无密码认证--短信、MFA、MagicLink"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MojoAuth是一個無密碼的認證工具，是爲了使複雜的認證機制更容易。在短短5分鐘內將MojoAuth整合到您的應用程序或網站，讓您的用戶不需要任何密碼就能輕鬆登錄到您的平臺。",
+      "tagline": "多合一的無密碼認證--短信、MFA、MagicLink"
+    }
+  ]
 }
