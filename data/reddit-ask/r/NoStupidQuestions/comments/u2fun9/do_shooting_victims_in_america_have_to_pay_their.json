@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just as the title says"
+  "the_new_excerpt": "Just as the title says",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル通り",
+      "title": "アメリカの銃乱射事件の被害者は、医療費を自己負担しなければならないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "正如标题所说",
+      "title": "美国的枪击案受害者必须自己支付医疗费用吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "正如標題所說",
+      "title": "美國的槍擊案受害者必須自己支付醫療費用嗎？"
+    }
+  ]
 }
