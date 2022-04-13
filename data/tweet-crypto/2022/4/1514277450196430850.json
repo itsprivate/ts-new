@@ -134,5 +134,22 @@
     "retweet_count": 7835,
     "favorite_count": 42731,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Hedgeye: https://t.co/2o5JfAua5B",
+      "retweeted_status_full_text": "https://t.co/2o5JfAua5B"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Hedgeye: https://t.co/2o5JfAua5B",
+      "retweeted_status_full_text": "https://t.co/2o5JfAua5B"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Hedgeye: https://t.co/2o5JfAua5B",
+      "retweeted_status_full_text": "https://t.co/2o5JfAua5B"
+    }
+  ]
 }

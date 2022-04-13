@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "r/WTFにこんなものがありました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在r/WTF上发现这个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在r/WTF上發現這個"
+    }
+  ]
 }
