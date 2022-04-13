@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブルームバーグ...あなたの偏見が現れています。"
+    },
+    {
+      "locale": "zh",
+      "title": "彭博社......你的偏见正在显现"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "彭博社......你的偏見正在顯現"
+    }
+  ]
 }

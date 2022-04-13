@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-12T16:10:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pIF3cC8G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8coatjj625zra3oyeh0.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": ".NETアプリケーションのセキュリティは必要であり、それを保護する方法を知ることは必ずしも容易ではありません...",
+      "title": "安全なアプリケーションのために.NET開発者が実践すべき10の戒め"
+    },
+    {
+      "locale": "zh",
+      "description": ".NET应用程序的安全是必要的，知道如何保护它并不总是一件容易的事。",
+      "title": ".NET开发人员必须适用于安全应用程序的10条戒律"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": ".NET應用程序的安全是必要的，知道如何保護它並不總是一件容易的事。",
+      "title": ".NET開發人員必須適用於安全應用程序的10條戒律"
+    }
+  ]
 }
