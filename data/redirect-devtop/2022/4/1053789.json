@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-13T13:04:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MsNGK4is--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0mdzihlemq23tuu5qpz.jpeg",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ben Halpern氏の投稿",
+      "title": "ソロで作業する場合、gitはどのように使うのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Ben Halpern的一篇文章",
+      "title": "你在独自工作时如何使用git？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ben Halpern的一篇文章",
+      "title": "你在獨自工作時如何使用git？"
+    }
+  ]
 }
