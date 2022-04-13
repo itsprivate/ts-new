@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースがインサイダー取引で訴えられる - コインベース社員が訴えられるのは今回が初めてではない"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase被指控进行内幕交易--这不是Coinbase员工第一次被指控。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase被指控進行內幕交易--這不是Coinbase員工第一次被指控。"
+    }
+  ]
 }
