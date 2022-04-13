@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っているクールで楽しい事実は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的一个很酷的趣事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的一個很酷的趣事是什麼？"
+    }
+  ]
 }
