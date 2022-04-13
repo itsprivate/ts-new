@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-12T14:38:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rPHXiSh3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zafn3mp252bpv9eh0y7j.jpg",
   "author": "Julien Maury",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UNIXシステムは、他の多くのオペレーティングシステムに影響を与えた大きなブレークスルーである。特に...",
+      "title": "UNIXシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "UNIX系统是一个重大的突破，启发了许多其他操作系统。它特别...",
+      "title": "UNIX系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UNIX系統是一個重大的突破，啓發了許多其他操作系統。它特別...",
+      "title": "UNIX系統"
+    }
+  ]
 }
