@@ -41,5 +41,22 @@
   "original_created_at": "2022-04-11T06:15:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9sey4a8F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t9qwiszz93gijf9se3nx.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ある要素がレンダリングされないかどうかをチェックするテストを書きたいことがあります。 例えば、...",
+      "title": "JestでReactコンポーネントが存在しないかどうかをテストする"
+    },
+    {
+      "locale": "zh",
+      "description": "有时我们想写测试来检查某些元素是否没有被渲染。 例如，我们...",
+      "title": "用Jest测试一个React组件是否不存在"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時我們想寫測試來檢查某些元素是否沒有被渲染。 例如，我們...",
+      "title": "用Jest測試一個React組件是否不存在"
+    }
+  ]
 }
