@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きなチーズの種類は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪种类型的奶酪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪種類型的奶酪？"
+    }
+  ]
 }
