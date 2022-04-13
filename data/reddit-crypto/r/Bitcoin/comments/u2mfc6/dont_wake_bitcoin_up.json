@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを起こさない"
+    },
+    {
+      "locale": "zh",
+      "title": "不要唤醒比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要喚醒比特幣"
+    }
+  ]
 }
