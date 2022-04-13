@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テスラ モデル3は、悲惨な事故を回避するために自ら停止しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "特斯拉Model 3自行停车以避免潜在的灾难性事故。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "特斯拉Model 3自行停車以避免潛在的災難性事故。"
+    }
+  ]
 }
