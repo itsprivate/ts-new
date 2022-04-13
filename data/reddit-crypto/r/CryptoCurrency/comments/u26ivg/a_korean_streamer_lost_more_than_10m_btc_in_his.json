@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "韓国のストリーマーがライブ配信で数時間に1,000万BTC以上の損失を出した。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个韩国流媒体人在短短几个小时内通过利用他的生活流损失了超过1000万美元的BTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個韓國流媒體人在短短几個小時內通過利用他的生活流損失了超過1000萬美元的BTC。"
+    }
+  ]
 }
