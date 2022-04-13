@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-13T18:30:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2w72JlDA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efouj9ag3u9xd7ehuazz.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、DEVの皆さんにとって関連性の高いフォレムを紹介します：...",
+      "title": "開発者としての社会的インパクトに興味がありますか？こちらの記事をお読みください。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我很高兴地强调一个对DEV的每个人都有很大意义的Forem：...",
+      "title": "对你作为一个开发者所能产生的社会影响感兴趣吗？请阅读这篇文章。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我很高興地強調一個對DEV的每個人都有很大意義的Forem：...",
+      "title": "對你作爲一個開發者所能產生的社會影響感興趣嗎？請閱讀這篇文章。"
+    }
+  ]
 }
