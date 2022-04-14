@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッブルは、これまでで最大の彗星を発見しました。彗星の大きさには上限があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "哈勃刚刚发现了迄今为止最大的彗星。彗星的大小会有一个上限吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哈勃剛剛發現了迄今爲止最大的彗星。彗星的大小會有一個上限嗎？"
+    }
+  ]
 }
