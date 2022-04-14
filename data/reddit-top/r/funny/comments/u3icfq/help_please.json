@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "助けて！お願い"
+    },
+    {
+      "locale": "zh",
+      "title": "请帮助我!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請幫助我!"
+    }
+  ]
 }
