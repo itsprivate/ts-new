@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-13T09:54:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8XoR-zPX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sb1yxfht2b1myzo64lqo.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに GitHubがCopilotを発表したとき、私はGitHubで働いていなかったのですが、覚えています...。",
+      "title": "GitHub CopilotとCopilot Labsを使用する理由。AIペアプログラマのための実用的な使用例"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 尽管GitHub宣布Copilot时我还没有在该公司工作，但我记得...",
+      "title": "为什么使用GitHub Copilot和Copilot Labs: AI配对程序员的实际使用案例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 儘管GitHub宣佈Copilot時我還沒有在該公司工作，但我記得...",
+      "title": "爲什麼使用GitHub Copilot和Copilot Labs: AI配對程序員的實際使用案例"
+    }
+  ]
 }
