@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの夢は何ですか？(好きなだけクレイジーになれる)"
+    },
+    {
+      "locale": "zh",
+      "title": "你的梦想工作是什么？(可以是你想要的那样疯狂)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的夢想工作是什麼？(可以是你想要的那樣瘋狂)"
+    }
+  ]
 }
