@@ -159,5 +159,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1649891873,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SP500の週足での私のテクニカル分析によるものです。この指数は上昇することもあれば下降することもある。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据我对SP500指数周度时间框架的技术分析。该指数可以上升或下降。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據我對SP500指數週度時間框架的技術分析。該指數可以上升或下降。"
+    }
+  ]
 }
