@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-13T10:19:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WL0ZA8ui--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3w4qn4soc07bs22om98u.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、読んだり、見たり、やったりして学ぶのが一番好きなので、いろいろなリソースが必要です。",
+      "title": "Copilotを使って二値探索アルゴリズムを書き、翻訳する"
+    },
+    {
+      "locale": "zh",
+      "description": "我从阅读、观察和实践中学习的效果最好，这意味着我需要各种资源来创造一个。",
+      "title": "使用Copilot编写和翻译二进制搜索算法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我從閱讀、觀察和實踐中學習的效果最好，這意味着我需要各種資源來創造一個。",
+      "title": "使用Copilot編寫和翻譯二進制搜索算法"
+    }
+  ]
 }
