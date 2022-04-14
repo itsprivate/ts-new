@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの好きなバンドの名前が、実際のバンド名と対極にあるとしたら、どんな名前になりますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你最喜欢的乐队被命名为其实际名称的对立面，它将是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你最喜歡的樂隊被命名爲其實際名稱的對立面，它將是什麼？"
+    }
+  ]
 }

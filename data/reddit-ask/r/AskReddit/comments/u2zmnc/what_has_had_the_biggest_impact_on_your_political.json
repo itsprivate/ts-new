@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの政治的信条に最も大きな影響を与えたものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么对你的政治信仰产生了最大的影响？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼對你的政治信仰產生了最大的影響？"
+    }
+  ]
 }

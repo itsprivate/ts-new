@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マイアミからポーランドのウクライナ人にビットコインを送ったら、3分以内に現金として引き出された。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们从迈阿密向波兰的一个乌克兰人发送比特币，后者将其作为现金提取，所有这些都在不到三分钟内完成。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們從邁阿密向波蘭的一個烏克蘭人發送比特幣，後者將其作爲現金提取，所有這些都在不到三分鐘內完成。"
+    }
+  ]
 }
