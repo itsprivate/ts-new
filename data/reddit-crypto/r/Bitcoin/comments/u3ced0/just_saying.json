@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言ってみただけ"
+    },
+    {
+      "locale": "zh",
+      "title": "只是说说而已"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是說說而已"
+    }
+  ]
 }
