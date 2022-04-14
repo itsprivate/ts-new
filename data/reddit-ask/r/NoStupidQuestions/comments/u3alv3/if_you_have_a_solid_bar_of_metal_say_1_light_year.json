@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "i saw a yt vid explaining this a long time ago, but i dont remember and google\ndoesnt help"
+  "the_new_excerpt": "i saw a yt vid explaining this a long time ago, but i dont remember and google\ndoesnt help",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "昔、YTのビデオでこれを説明するのを見たが、覚えていないし、ググってもわからない。\nは役に立ちません。",
+      "title": "例えば、1光年の長さの金属の棒があったとして、もう一方の端を押すと、どれくらいの時間で動くでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我很久以前看过一个YT视频，解释了这个问题，但我不记得了，谷歌也没有帮助。\n并没有帮助",
+      "title": "如果你有一根实心的金属棒，比如说1光年长，当你推动另一端时，需要多长时间才能移动？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我很久以前看過一個YT視頻，解釋了這個問題，但我不記得了，谷歌也沒有幫助。\n並沒有幫助",
+      "title": "如果你有一根實心的金屬棒，比如說1光年長，當你推動另一端時，需要多長時間才能移動？"
+    }
+  ]
 }
