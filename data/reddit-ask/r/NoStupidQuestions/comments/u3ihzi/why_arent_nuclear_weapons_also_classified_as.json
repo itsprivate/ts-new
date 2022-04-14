@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "核兵器はなぜ化学兵器に分類されないのですか？核兵器は、爆発と同じように放射能による死者を出します。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么核武器不也被归类为化学武器？由此产生的辐射所造成的死亡与爆炸一样多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼核武器不也被歸類爲化學武器？由此產生的輻射所造成的死亡與爆炸一樣多。"
+    }
+  ]
 }
