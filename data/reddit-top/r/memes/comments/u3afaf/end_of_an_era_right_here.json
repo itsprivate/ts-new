@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ひとつの時代の終わりを、ここで。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个时代的结束就在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個時代的結束就在這裏。"
+    }
+  ]
 }
