@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1649919382,
-  "the_new_excerpt": "I use the Alpaca API to trade penny stocks. Yesterday I got an email:\n\n> We have reviewed the activity in your account. The orders continue to be\n> executed on the opening and closing auctions. Starting on Tuesday we will\n> route your orders to a non retail route and you will be charged a fee of…"
+  "the_new_excerpt": "I use the Alpaca API to trade penny stocks. Yesterday I got an email:\n\n> We have reviewed the activity in your account. The orders continue to be\n> executed on the opening and closing auctions. Starting on Tuesday we will\n> route your orders to a non retail route and you will be charged a fee of…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アルパカAPIを使って、ペニーストックを取引しています。昨日、メールが届きました。\n\n> あなたの口座のアクティビティを確認しました。注文は引き続き\n> オープニングとクロージングオークションで約定しました。火曜日から、私たちは\n> お客様のご注文を非リテールルートに転送するため、手数料が発生します。",
+      "title": "「手数料無料」ブローカーのアルパカが手数料を請求してくるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我使用Alpaca API来交易细价股。昨天我收到一封电子邮件。\n\n> 我们已经审查了你账户的活动。订单继续被\n> 在开盘和收盘时执行。从星期二开始，我们将\n> 将您的订单转为非零售途径，您将被收取一笔费用。",
+      "title": "\"无佣金 \"经纪人Alpaca现在试图向我收取佣金"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我使用Alpaca API來交易細價股。昨天我收到一封電子郵件。\n\n> 我們已經審查了你賬戶的活動。訂單繼續被\n> 在開盤和收盤時執行。從星期二開始，我們將\n> 將您的訂單轉爲非零售途徑，您將被收取一筆費用。",
+      "title": "\"無佣金 \"經紀人Alpaca現在試圖向我收取佣金"
+    }
+  ]
 }

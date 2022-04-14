@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-13T03:34:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wgfo1uDM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1gxngd0mhuira1kcizh.png",
   "author": "Nourdine Labib",
-  "author_url": "https://dev.to/nourdinedev"
+  "author_url": "https://dev.to/nourdinedev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリーンでスケーラブル、かつメンテナンスが容易なコードを書くことは、すべてのプログラマの夢です。",
+      "title": "Reactのベストプラクティス - 2022年、より良いコードを書くための方法"
+    },
+    {
+      "locale": "zh",
+      "description": "编写干净、可扩展和易于维护的代码，是每个程序员的梦想，这...",
+      "title": "React最佳实践--在2022年写出更好代码的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編寫乾淨、可擴展和易於維護的代碼，是每個程序員的夢想，這...",
+      "title": "React最佳實踐--在2022年寫出更好代碼的方法"
+    }
+  ]
 }

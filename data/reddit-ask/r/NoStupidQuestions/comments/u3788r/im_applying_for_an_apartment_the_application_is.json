@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I’ve applied for apartments before, and I’ve never had an application ask for\nthis before. It’s asking for the name of my bank and account number so I just\nwant to know if I’m being overly paranoid."
+  "the_new_excerpt": "I’ve applied for apartments before, and I’ve never had an application ask for\nthis before. It’s asking for the name of my bank and account number so I just\nwant to know if I’m being overly paranoid.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今までマンションを申し込んだことがありますが、申し込み時に\nこのようなことは初めてです。銀行名と口座番号を聞かれるので、ちょっと\n私が被害妄想に陥っていないか知りたいのです。",
+      "title": "アパートを申し込んでいるのですが、申し込みの際に銀行口座の番号を聞かれるのですが、これは詐欺なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我以前也申请过公寓，但我从来没有在申请中要求过\n这个问题。它要求提供我的银行名称和账户号码，所以我只想知道我是否过于偏执。\n我想知道我是否过于偏执了。",
+      "title": "我正在申请一个公寓 ，申请书要求我提供银行账号，这是一个骗局吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我以前也申請過公寓，但我從來沒有在申請中要求過\n這個問題。它要求提供我的銀行名稱和賬戶號碼，所以我只想知道我是否過於偏執。\n我想知道我是否過於偏執了。",
+      "title": "我正在申請一個公寓 ，申請書要求我提供銀行賬號，這是一個騙局嗎？"
+    }
+  ]
 }

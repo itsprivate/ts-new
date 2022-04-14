@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは1日だけ、あなたのユーザーネームになります。何をするんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你成为你的用户名，为期一天。你是做什么的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你成爲你的用戶名，爲期一天。你是做什麼的？"
+    }
+  ]
 }

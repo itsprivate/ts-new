@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "蚊に血液を与える前に、実験室で蚊をいじめる。"
+    },
+    {
+      "locale": "zh",
+      "title": "在向蚊子提供血食之前，在实验室里挑逗蚊子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在向蚊子提供血食之前，在實驗室裏挑逗蚊子"
+    }
+  ]
 }
