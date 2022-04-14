@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-11T20:08:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pT2DH1jm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png",
   "author": "Mahmoud",
-  "author_url": "https://dev.to/wiseai"
+  "author_url": "https://dev.to/wiseai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Textualのあらゆる側面を解明するシリーズの第一弾です。この記事では、...",
+      "title": "テキスチュアル：決定版ガイド - パート1。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我关于解开Textual每一个该死的方面的系列的第一部分。在这篇文章中，我们将...",
+      "title": "文本：明确的指南--第一部分。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我關於解開Textual每一個該死的方面的系列的第一部分。在這篇文章中，我們將...",
+      "title": "文本：明確的指南--第一部分。"
+    }
+  ]
 }
