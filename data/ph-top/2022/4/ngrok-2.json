@@ -68,5 +68,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-14T07:01:00Z"
+  "original_createdAt": "2022-04-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "より多くの時間をプログラミングに費やすことができます。1つのコマンドで、セキュリティ、観測性、生産スケールを備えたローカルホストアプリをインターネットに追加します。"
+    },
+    {
+      "locale": "zh",
+      "description": "花更多时间编程。A",
+      "tagline": "用一个命令服务于本地网络应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "花更多時間編程。A",
+      "tagline": "用一個命令服務於本地網絡應用"
+    }
+  ]
 }
