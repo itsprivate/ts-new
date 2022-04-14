@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-14T07:01:00Z"
+  "original_createdAt": "2022-04-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CT、X線、MRI、超音波などのDICOM画像を拡大縮小してアノテーションすることができます。EncordのDICOMツールは、フル3Dビュー、ネイティブウィンドウ機能、AIによる自動化機能など、特に放射線科医のために作られた真に最適な医療画像ツールです。",
+      "tagline": "ヘルスケアAI向け初の総合3Dアノテーションツール"
+    },
+    {
+      "locale": "zh",
+      "description": "按比例对DICOM图像进行注释，包括CT、X射线、MRI和超声波。Encord的DICOM工具是专门为放射科医生建立的真正优化的医学影像工具，具有全三维视图、原生窗口功能和AI驱动的自动化功能。",
+      "tagline": "首个用于医疗保健AI的综合3D注释工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "按比例對DICOM圖像進行註釋，包括CT、X射線、MRI和超聲波。Encord的DICOM工具是專門爲放射科醫生建立的真正優化的醫學影像工具，具有全三維視圖、原生窗口功能和AI驅動的自動化功能。",
+      "tagline": "首個用於醫療保健AI的綜合3D註釋工具"
+    }
+  ]
 }
