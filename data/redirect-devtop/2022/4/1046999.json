@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-06T21:04:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZL1_M_-h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b7jxcztxzgnb418rdvoe.png",
   "author": "Gaël Thomas",
-  "author_url": "https://dev.to/gaelgthomas"
+  "author_url": "https://dev.to/gaelgthomas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コーヒー片手に、あなたのライフスタイルをより良くするために役立つさまざまなリソースをご覧ください。",
+      "title": "開発者として知っておくべき5つのGithubレポジトリ"
+    },
+    {
+      "locale": "zh",
+      "description": "拿起咖啡，准备在许多有用的资源之间进行导航，这些资源可以帮助你改善你的生活。",
+      "title": "作为一个开发者，你应该知道的5个Github仓库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "拿起咖啡，準備在許多有用的資源之間進行導航，這些資源可以幫助你改善你的生活。",
+      "title": "作爲一個開發者，你應該知道的5個Github倉庫"
+    }
+  ]
 }
