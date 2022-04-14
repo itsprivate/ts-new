@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキスト選択からワンクリックで画像を生成する拡張機能を作る"
+    },
+    {
+      "locale": "zh",
+      "title": "创建一个扩展，只需点击一下就能从文本选择中生成图像。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建一個擴展，只需點擊一下就能從文本選擇中生成圖像。"
+    }
+  ]
 }
