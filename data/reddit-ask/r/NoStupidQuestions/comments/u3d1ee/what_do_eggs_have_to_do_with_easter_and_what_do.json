@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "卵とイースターって関係あるんですか？ウサギは卵とどんな関係があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "鸡蛋与复活节有什么关系？兔子和鸡蛋又有什么关系呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "雞蛋與復活節有什麼關係？兔子和雞蛋又有什麼關係呢？"
+    }
+  ]
 }
