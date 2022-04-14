@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-13T13:20:06Z"
+  "original_createdAt": "2022-04-13T13:20:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stacktapeは、開発者のために作られたDevOpsフリーのクラウドフレームワークです。AWS上でアプリケーションの開発、デプロイ、実行を可能にします。98%少ない構成で、DevOpsやクラウドの専門家は必要ありません。",
+      "tagline": "AWSのフルパワーとHerokuのような使い心地"
+    },
+    {
+      "locale": "zh",
+      "description": "Stacktape是一个为开发人员制作的无DevOps的云框架。它允许你在AWS上开发、部署和运行应用程序。减少98%的配置，并且不需要DevOps或云计算专家。",
+      "tagline": "以类似Heroku的经验充分发挥AWS的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stacktape是一個爲開發人員製作的無DevOps的雲框架。它允許你在AWS上開發、部署和運行應用程序。減少98%的配置，並且不需要DevOps或雲計算專家。",
+      "tagline": "以類似Heroku的經驗充分發揮AWS的力量"
+    }
+  ]
 }
