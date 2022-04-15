@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-11T19:26:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7OezXroq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cb63xwz1f8iy5pmiz6pe.jpg",
   "author": "Santosh Yadav",
-  "author_url": "https://dev.to/santoshyadav198613"
+  "author_url": "https://dev.to/santoshyadav198613",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Annie Spratt on Unsplash ここ2、3年で、開発者の貢献が増えました...",
+      "title": "GitHubによる開発者エクスペリエンス向上への取り組み"
+    },
+    {
+      "locale": "zh",
+      "description": "图片来源：Annie Spratt on Unsplash 在过去的几年里，作出贡献的开发商数量在不断增加。",
+      "title": "GitHub是如何改善开发者体验的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圖片來源：Annie Spratt on Unsplash 在過去的幾年裏，作出貢獻的開發商數量在不斷增加。",
+      "title": "GitHub是如何改善開發者體驗的"
+    }
+  ]
 }
