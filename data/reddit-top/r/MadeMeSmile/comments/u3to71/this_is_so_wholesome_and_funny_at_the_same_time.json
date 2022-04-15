@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはとても健全で、同時に面白い。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是很健康的，同时也很有趣。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是很健康的，同時也很有趣。"
+    }
+  ]
 }
