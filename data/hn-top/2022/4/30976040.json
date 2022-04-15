@@ -3,7 +3,7 @@
   "title": "PSA: React 18 calls code twice in strict dev mode to detect side effects",
   "url": "https://reactjs.org/docs/strict-mode.html#detecting-unexpected-side-effects",
   "author": "tomduncalf",
-  "points": 105,
+  "points": 135,
   "num_comments": 93,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "PSA：React 18在嚴格的開發模式下調用兩次代碼以檢測副作用"
     }
-  ]
+  ],
+  "source_updated_at": 1650015787181
 }
