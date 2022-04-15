@@ -13,5 +13,19 @@
   ],
   "objectID": "31037273",
   "original_created_at": "2022-04-15T06:56:23.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "国境にいるRustaceans [Linux Kernel]（リナックス・カーネル）。"
+    },
+    {
+      "locale": "zh",
+      "title": "边境上的Rustaceans [Linux Kernel] 。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "邊境上的Rustaceans [Linux Kernel] 。"
+    }
+  ]
 }
