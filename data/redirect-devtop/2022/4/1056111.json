@@ -44,5 +44,22 @@
   "original_created_at": "2022-04-14T17:48:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nk_lBjOv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81l8cajuxx9pxmo8iyaw.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、言語の好みにもよるので、正解は1つではないと思いますし、...",
+      "title": "APIのみのスタンドアローンサービスを作るための簡単なツールは？"
+    },
+    {
+      "locale": "zh",
+      "description": "我怀疑是否有一个正确的答案，因为这将取决于语言的偏好，以及是否有必要将其作为 \"一个人\"。",
+      "title": "创建独立的纯API服务的简单工具是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我懷疑是否有一個正確的答案，因爲這將取決於語言的偏好，以及是否有必要將其作爲 \"一個人\"。",
+      "title": "創建獨立的純API服務的簡單工具是什麼？"
+    }
+  ]
 }
