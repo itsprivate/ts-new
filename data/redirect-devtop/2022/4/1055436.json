@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-14T03:19:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JxmhxfJx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4odhw2oqbhzioltyxeey.png",
   "author": "Ayu Adiati",
-  "author_url": "https://dev.to/adiatiayu"
+  "author_url": "https://dev.to/adiatiayu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みなさん、こんにちは👋 技術職は自分の居場所がないと思ったことはありませんか？主に女性だからとか...。",
+      "title": "テクノロジーはみんなのためにある。そうでない人に言わせない"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好 👋 你是否曾觉得自己不属于技术行业？主要是因为你是一个女人，或者你是个女人。",
+      "title": "技术是为所有人服务的。不要让别人告诉你。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好 👋 你是否曾覺得自己不屬於技術行業？主要是因爲你是一個女人，或者你是個女人。",
+      "title": "技術是爲所有人服務的。不要讓別人告訴你。"
+    }
+  ]
 }
