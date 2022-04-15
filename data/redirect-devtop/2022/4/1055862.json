@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-14T13:06:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hz8ELqlJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q2t3jcakqxk5krdjkvct.jpeg",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "また、私たちのような仕事は、時に肉体的な負担が大きいのですが、何か積極的に取り組んでいらっしゃいますか？",
+      "title": "一度にどれくらいの時間座っているのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否做了任何积极主动的事情来帮助解决我们这种工作有时会带来的身体负担？",
+      "title": "你每次坐多久？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否做了任何積極主動的事情來幫助解決我們這種工作有時會帶來的身體負擔？",
+      "title": "你每次坐多久？"
+    }
+  ]
 }
