@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-15T07:01:00Z"
+  "original_createdAt": "2022-04-15T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SAFE.newは、AngelList Stackが提供する、創業者やVCがSAFEドキュメントを作成するためのツールです。フィールドに入力した後、署名のために送信するPDFをダウンロードすることができます。",
+      "tagline": "数秒でSAFEを作成"
+    },
+    {
+      "locale": "zh",
+      "description": "SAFE.new是一个来自AngelList Stack的工具，帮助创始人和VC生成SAFE文件。在您填写完字段后，您将能够下载一个PDF文件来发送签名。",
+      "tagline": "在几秒钟内创建一个SAFE"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SAFE.new是一個來自AngelList Stack的工具，幫助創始人和VC生成SAFE文件。在您填寫完字段後，您將能夠下載一個PDF文件來發送簽名。",
+      "tagline": "在幾秒鐘內創建一個SAFE"
+    }
+  ]
 }
