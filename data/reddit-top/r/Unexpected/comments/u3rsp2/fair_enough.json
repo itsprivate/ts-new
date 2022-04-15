@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "十分フェア"
+    },
+    {
+      "locale": "zh",
+      "title": "够公平"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夠公平"
+    }
+  ]
 }
