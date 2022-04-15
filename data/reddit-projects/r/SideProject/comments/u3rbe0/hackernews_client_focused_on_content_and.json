@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コンテンツと読みやすさを重視したHackerNewsのクライアント"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客新闻客户端专注于内容和可读性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客新聞客戶端專注於內容和可讀性"
+    }
+  ]
 }
