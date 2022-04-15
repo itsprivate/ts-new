@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しい「Unreal Engine 5」でのライティングの仕組み"
+    },
+    {
+      "locale": "zh",
+      "title": "新的虚幻引擎5中的照明工作方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新的虛幻引擎5中的照明工作方式"
+    }
+  ]
 }
