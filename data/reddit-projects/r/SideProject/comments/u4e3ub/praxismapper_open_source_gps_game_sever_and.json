@@ -1,0 +1,47 @@
+{
+  "author": "cerol_debeers",
+  "original_created_utc": 1650046258,
+  "title": "PraxisMapper - Open Source GPS Game Sever and Client. I made my own Pokemon Go-like game! You can too!",
+  "created_utc": 1650050469,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://github.com/drakewill-CRL/PraxisMapper\"&gt;Server code&lt;/a&gt; and &lt;a href=\"https://github.com/drakewill-CRL/Hypothesis\"&gt;Client code&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://user-images.githubusercontent.com/46307022/163604513-fb2271a4-0d42-43ce-8fa2-300be87cc475.png\"&gt;Client Image - Creature Collector Map&lt;/a&gt;\n&lt;a href=\"https://pbs.twimg.com/media/FQWk7C_UcAQ9VU9?format=png\"&gt;Client Image - Creature Collected&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;PraxisMapper is a server set up to make GPS games. Or location-based game. Or maybe AR games if you insist on the latest buzzwords. You know, the kind where you walk around in realspace and interact with stuff on your phone based on where you are. Pokemon Go, Ingress, Zombie Run, that vein of game.&lt;/p&gt;\n\n&lt;p&gt;Most importantly: it works, it is self-contained, it is scalable, and it is cheap. I have a test server up that covers the state of Ohio for gameplay, and it has slightly more CPU power than a Raspberry Pi 3. No live stress testing has happened yet, but estimates on how many active players can play at once are somewhere between 20 and 100, depending on some client settings. Currently it supports 3 different database backends (MS Sql Server and MariaDB, though for PostgreSQL you&amp;#39;ll have to set that database up manually at the moment).&lt;/p&gt;\n\n&lt;p&gt;The server is written entirely in C#, using OpenStreetMap data to fill in the database, and draws map tiles itself. This might be the only C# project drawing OSM maptiles in any form. I looked around and found nothing that did any drawing logic so I had to write it up myself. This is a generic server, so it only handles storing data and generating map tiles. The client is where all the game logic goes right now, though if someone wanted to make a more robust server-side game they can pull the PraxisCore.dll out of my solution and use that to power a solution that has the specific game logic.&lt;/p&gt;\n\n&lt;p&gt;The app is written with Solar2D, since its one of the few game engines that provides direct support for GPS data on mobile. I am not as good in Lua as I am in C#, so the client code probably has much more room for improvement. I will probably need to rewrite this to work in the HTML5 export instead of building mobile apps to support some of my projected use cases for this system, such as convention games in a small area or augmenting LARPs with some tracked/shared info, where it&amp;#39;s unreasonable to jump through all the hoops for 2 mobile app stores for a short-term event.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve spent the last 2 years working on this side project, and yesterday was the first day where I was able to walk around my block and have the original Pokemon Go-style idea work, where creatures were scattered around the map, and I could walk around to pick them up. The original motivation came about when I quit Pokemon Go for being too heavy for my phone to run, and when it did open I spent 5 minutes waiting for popups, alerts, reminders, and notifications to go away before I could actually interact with the game itself. I just want a chill game that gives me a reason to get away from my desk and get outside when I can. I have that now.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/GW4JoVnEHRXSKPKlSSfYKY-Kz_ChSX1jpUTK29hjAHg.png?auto=webp&amp;s=415d1085e688d16bdda8063526539eb86bd9900f",
+          "width": 362,
+          "height": 638
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/GW4JoVnEHRXSKPKlSSfYKY-Kz_ChSX1jpUTK29hjAHg.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=b4974ba76b274a5960187eb40e6879d9cf4d2f6e",
+            "width": 108,
+            "height": 190
+          },
+          {
+            "url": "https://external-preview.redd.it/GW4JoVnEHRXSKPKlSSfYKY-Kz_ChSX1jpUTK29hjAHg.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=812a6b4d80bdb5ee168467d87aae5b1e902fe41f",
+            "width": 216,
+            "height": 380
+          },
+          {
+            "url": "https://external-preview.redd.it/GW4JoVnEHRXSKPKlSSfYKY-Kz_ChSX1jpUTK29hjAHg.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=422ce41f5aba30314f37eedfb1c9b8a9e2c65d3c",
+            "width": 320,
+            "height": 563
+          }
+        ],
+        "variants": {},
+        "id": "iLXnkgBGYl9CgUPemJFIvzAPT2mEk1qGd6pd7esC-nA"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/u4e3ub/praxismapper_open_source_gps_game_sever_and/",
+  "subreddit": "SideProject",
+  "id": "u4e3ub",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Server code [https://github.com/drakewill-CRL/PraxisMapper] and Client code\n[https://github.com/drakewill-CRL/Hypothesis]\n\nClient Image - Creature Collector Map\n[https://user-images.githubusercontent.com/46307022/163604513-fb2271a4-0d42-43ce-8fa2-300be87cc475.png]\nClient Image - Creature…"
+}
