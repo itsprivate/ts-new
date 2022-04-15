@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "In other words: is there any reason to believe that this glyph’s presence points\nto anything more significant than one 15th century Eastern European guy’s\nhandwriting quirks?"
+  "the_new_excerpt": "In other words: is there any reason to believe that this glyph’s presence points\nto anything more significant than one 15th century Eastern European guy’s\nhandwriting quirks?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "言い換えれば、このグリフが存在することで、何か意味があるのでしょうか？\n15世紀の東欧の一人の男の話より、もっと重要なことがあるのでは？\n筆跡のクセ？",
+      "title": "多眼のOは、古教会スラヴ語の \"серафими мн҄оꙮ \"という一句にのみ登場する。(1429年の『詩篇』一篇に「多眼のセラフィム」とある。老修道士が芸術的センスを加えただけのように見えるのに、なぜユニコードに含めるほど歴史的に重要だと考えられているのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "换句话说：是否有任何理由相信这个石刻的存在是指向\n有什么理由相信这个字形的出现比一个15世纪的东欧人的笔迹古怪更有意义？\n的笔迹怪癖？",
+      "title": "多目O只出现在一个旧教会斯拉夫语短语中，即 \"серафими мн҄оꙮ҄читїи҄\" (多眼蛇夫)，在1429年的一份《诗篇》副本中。为什么它被认为具有重要的历史意义，足以被纳入Unicode，而它看起来只是一个老和尚添加艺术天赋的结果？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "換句話說：是否有任何理由相信這個石刻的存在是指向\n有什麼理由相信這個字形的出現比一個15世紀的東歐人的筆跡古怪更有意義？\n的筆跡怪癖？",
+      "title": "多目O只出現在一箇舊教會斯拉夫語短語中，即 \"серафими мн҄оꙮ҄читїи҄\" (多眼蛇夫)，在1429年的一份《詩篇》副本中。爲什麼它被認爲具有重要的歷史意義，足以被納入Unicode，而它看起來只是一個老和尚添加藝術天賦的結果？"
+    }
+  ]
 }
