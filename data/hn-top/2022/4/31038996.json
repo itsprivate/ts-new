@@ -12,5 +12,19 @@
   ],
   "objectID": "31038996",
   "original_created_at": "2022-04-15T11:35:23.000Z",
-  "image": "https://ramanlabs.in/static/assets/logo_name.min.svg"
+  "image": "https://ramanlabs.in/static/assets/logo_name.min.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Nim言語によるPython拡張機能の生成"
+    },
+    {
+      "locale": "zh",
+      "title": "使用Nim语言生成Python扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用Nim語言生成Python擴展"
+    }
+  ]
 }
