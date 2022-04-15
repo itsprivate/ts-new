@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "唇を読む人のために、視覚的にアクセントを検出することはできますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对于读唇语的人来说，口音是否可以通过视觉来检测？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於讀脣語的人來說，口音是否可以通過視覺來檢測？"
+    }
+  ]
 }
