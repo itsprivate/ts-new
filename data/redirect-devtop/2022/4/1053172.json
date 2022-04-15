@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-12T19:59:49Z",
   "image": "https://dev.to/social_previews/article/1053172.png",
   "author": "Michael Tharrington",
-  "author_url": "https://dev.to/michaeltharrington"
+  "author_url": "https://dev.to/michaeltharrington",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "インディーゲームを開発したことがある、またはこれから開発する可能性がありますか？ぜひお聞かせください！...",
+      "title": "インディーゲーム開発者募集中！あなたのゲームを展示しませんか？👾"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否开发过独立游戏或可能正在开发独立游戏？我很想听听你的意见！...",
+      "title": "召唤所有的独立游戏开发者，来展示你的游戏吧! 👾"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否開發過獨立遊戲或可能正在開發獨立遊戲？我很想聽聽你的意見！...",
+      "title": "召喚所有的獨立遊戲開發者，來展示你的遊戲吧! 👾"
+    }
+  ]
 }
