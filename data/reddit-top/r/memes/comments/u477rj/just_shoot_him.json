@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さっさと撃て"
+    },
+    {
+      "locale": "zh",
+      "title": "开枪打死他"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "開槍打死他"
+    }
+  ]
 }
