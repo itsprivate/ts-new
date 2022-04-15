@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-14T17:52:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V--GdqLD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7csr7wrszizzfofzm2n.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React用フォームライブラリ3種の公正な比較。Formik、React-Hook-Form、React-Final-Form - コードサンプルと検証を含む。",
+      "title": "React Forms - Formik vs. Hook-Form vs. Final-Form"
+    },
+    {
+      "locale": "zh",
+      "description": "对React的三个顶级表单库进行了公平的比较。Formik、React-Hook-Form和React-Final-Form - 带有代码样本和验证。",
+      "title": "React表单 - Formik vs. Hook-Form vs. Final-Form"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對React的三個頂級表單庫進行了公平的比較。Formik、React-Hook-Form和React-Final-Form - 帶有代碼樣本和驗證。",
+      "title": "React表單 - Formik vs. Hook-Form vs. Final-Form"
+    }
+  ]
 }

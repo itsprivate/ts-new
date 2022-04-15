@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "幼いころは好きでなかったことが、大人になった今では好きになっていることはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "今天，作为一个成年女性，你喜欢什么，而在你作为一个小女孩的成长过程中却不喜欢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天，作爲一個成年女性，你喜歡什麼，而在你作爲一個小女孩的成長過程中卻不喜歡？"
+    }
+  ]
 }

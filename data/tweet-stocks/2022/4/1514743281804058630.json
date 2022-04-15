@@ -134,5 +134,22 @@
     "retweet_count": 16106,
     "favorite_count": 68538,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DefiantLs: https://t.co/JZU09e6oEU",
+      "retweeted_status_full_text": "https://t.co/JZU09e6oEU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DefiantLs: https://t.co/JZU09e6oEU",
+      "retweeted_status_full_text": "https://t.co/JZU09e6oEU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DefiantLs: https://t.co/JZU09e6oEU",
+      "retweeted_status_full_text": "https://t.co/JZU09e6oEU"
+    }
+  ]
 }

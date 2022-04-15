@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNBCの記者がマイアミからライトニングネットワーク経由でポーランドの人物にビットコインを送ったところ、わずか3分でビットコインATMで現金として引き出された。"
+    },
+    {
+      "locale": "zh",
+      "title": "CNBC记者通过闪电网络从迈阿密向波兰的某人发送比特币，后者仅用3分钟就在比特币ATM机上将其作为现金提取。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CNBC記者通過閃電網絡從邁阿密向波蘭的某人發送比特幣，後者僅用3分鐘就在比特幣ATM機上將其作爲現金提取。"
+    }
+  ]
 }

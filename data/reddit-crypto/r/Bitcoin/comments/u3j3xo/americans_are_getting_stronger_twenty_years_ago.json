@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Henny Youngman died in 1998."
+  "the_new_excerpt": "Henny Youngman died in 1998.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ヘニー・ヤングマンは1998年に死去。",
+      "title": "\"アメリカ人は強くなった。20年前、10ドル分の食料品を運ぶのに2人必要だった。今は5歳の子供でもできる」- ヘニー・ヤングマン"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "亨尼-杨曼于1998年去世。",
+      "title": "\"美国人正在变得更加强大。20年前，需要两个人携带价值10美元的杂货。今天，一个五岁的孩子就能做到。\"--亨尼-杨曼"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "亨尼-楊曼於1998年去世。",
+      "title": "\"美國人正在變得更加強大。20年前，需要兩個人攜帶價值10美元的雜貨。今天，一個五歲的孩子就能做到。\"--亨尼-楊曼"
+    }
+  ]
 }

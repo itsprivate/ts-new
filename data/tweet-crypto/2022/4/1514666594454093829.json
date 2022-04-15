@@ -68,5 +68,22 @@
     },
     "retweet_count": 349,
     "favorite_count": 3763
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: *マスクは、入札が受け入れられなかった場合、「プランB」があると言っている。\nTWTR",
+      "retweeted_status_full_text": "*マスクは、入札が受け入れられなかった場合、「プランB」があると述べています。\nTWTR"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: *Musk说如果出价不被接受，有一个 \"B计划\"。\n$TWTR",
+      "retweeted_status_full_text": "*Musk说，如果不接受出价，有一个 \"B计划\"。\n$TWTR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: *Musk說如果出價不被接受，有一個 \"B計劃\"。\n$TWTR",
+      "retweeted_status_full_text": "*Musk說，如果不接受出價，有一個 \"B計劃\"。\n$TWTR"
+    }
+  ]
 }
