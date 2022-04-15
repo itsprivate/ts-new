@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-14T14:37:39Z",
   "image": "https://dev.to/social_previews/article/1056020.png",
   "author": "Sloan",
-  "author_url": "https://dev.to/sloan"
+  "author_url": "https://dev.to/sloan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、名前を公開したくない会員から送られた匿名の投稿です。どうか...",
+      "title": "どのJavaScriptフレームワークを選べばいいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个不希望透露姓名的会员发来的匿名帖子。请注意...",
+      "title": "我应该选择哪个JavaScript框架？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個不希望透露姓名的會員發來的匿名帖子。請注意...",
+      "title": "我應該選擇哪個JavaScript框架？"
+    }
+  ]
 }
