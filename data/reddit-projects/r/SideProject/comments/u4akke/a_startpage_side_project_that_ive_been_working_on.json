@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スタートページのサイドプロジェクトで"
+    },
+    {
+      "locale": "zh",
+      "title": "我一直在做的一个起始页的辅助项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我一直在做的一個起始頁的輔助項目"
+    }
+  ]
 }
