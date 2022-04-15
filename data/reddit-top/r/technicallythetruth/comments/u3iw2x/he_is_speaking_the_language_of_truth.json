@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は真実の言葉を話している"
+    },
+    {
+      "locale": "zh",
+      "title": "他说的是真理的语言"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他說的是真理的語言"
+    }
+  ]
 }
