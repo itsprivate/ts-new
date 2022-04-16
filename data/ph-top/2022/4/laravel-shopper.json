@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-15T09:48:00Z"
+  "original_createdAt": "2022-04-15T09:48:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Shopperは、Laravelパッケージとして構築された、カスタムLivewireコンポーネントを使用したeコマースストア管理用のモダンなPHPアプリケーションです。",
+      "tagline": "Laravel用スタック型eコマース管理パネル"
+    },
+    {
+      "locale": "zh",
+      "description": "Shopper是一个现代的PHP应用程序，作为一个Laravel包，用于电子商务商店管理与定制的Livewire组件。",
+      "tagline": "一个用于Laravel的堆栈式电子商务管理面板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Shopper是一個現代的PHP應用程序，作爲一個Laravel包，用於電子商務商店管理與定製的Livewire組件。",
+      "tagline": "一個用於Laravel的堆棧式電子商務管理面板"
+    }
+  ]
 }
