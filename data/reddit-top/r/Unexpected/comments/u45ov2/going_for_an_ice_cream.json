@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アイスクリームを食べに行く"
+    },
+    {
+      "locale": "zh",
+      "title": "去吃冰激凌"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "去喫冰激凌"
+    }
+  ]
 }
