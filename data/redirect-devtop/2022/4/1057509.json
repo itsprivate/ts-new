@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-16T00:43:08Z",
   "image": "https://dev.to/social_previews/article/1057509.png",
   "author": "tato",
-  "author_url": "https://dev.to/zyc9012"
+  "author_url": "https://dev.to/zyc9012",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "表計算ソフトは、データの保存や計算を行う最も重要なフォーマットの一つであり、また、重要な...",
+      "title": "Excelのようなjavascriptのスプレッドシートを10行以下のコードで作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "电子表格是存储和计算数据的最重要格式之一，也是关键...",
+      "title": "在不到10行的代码中创建类似Excel的JavaScript电子表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "電子表格是存儲和計算數據的最重要格式之一，也是關鍵...",
+      "title": "在不到10行的代碼中創建類似Excel的JavaScript電子表格"
+    }
+  ]
 }

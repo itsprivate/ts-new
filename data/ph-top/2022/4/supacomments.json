@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-16T07:02:54Z"
+  "original_createdAt": "2022-04-16T07:02:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SupaCommentsは、JamStackのウェブサイトやブログのためのオープンソースのコメントシステムです。バンドルサイズは初回ロード時25kb以下、キャッシュ時45Bytesです。今はまだあまり多くの機能を備えていません。しかし、それを改善するためにあなたのフィードバックを求めています。",
+      "tagline": "JamStackサイトのための超高速コメントシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "SupaComments是一个用于JamStack网站和博客的开源评论系统。捆绑的大小在第一次加载时小于25kb，缓存时为45Bytes。它现在没有很多的功能。但我正在寻找你的反馈来改进它。",
+      "tagline": "为您的JamStack网站提供一个快速的评论系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SupaComments是一個用於JamStack網站和博客的開源評論系統。捆綁的大小在第一次加載時小於25kb，緩存時爲45Bytes。它現在沒有很多的功能。但我正在尋找你的反饋來改進它。",
+      "tagline": "爲您的JamStack網站提供一個快速的評論系統"
+    }
+  ]
 }
