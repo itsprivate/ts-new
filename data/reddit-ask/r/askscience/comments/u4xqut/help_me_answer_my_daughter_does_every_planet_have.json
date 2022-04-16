@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "She read an article about Mars and saw that it has “marsquakes”. Which lead her\nto ask a question I did not have the answer too. Help!"
+  "the_new_excerpt": "She read an article about Mars and saw that it has “marsquakes”. Which lead her\nto ask a question I did not have the answer too. Help!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "彼女は火星についての記事を読み、火星には「火星地震」があることを知りました。それがきっかけで\nという質問をしてきたのですが、私は答えられませんでした。助けて！」。",
+      "title": "娘に答えるのを手伝ってください。どの惑星にも地殻変動プレートがあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "她读了一篇关于火星的文章，看到它有 \"火星地震\"。这导致她\n问了一个我不知道答案的问题。帮助!",
+      "title": "帮助我回答我的女儿。每个星球都有构造板块吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "她讀了一篇關於火星的文章，看到它有 \"火星地震\"。這導致她\n問了一個我不知道答案的問題。幫助!",
+      "title": "幫助我回答我的女兒。每個星球都有構造板塊嗎？"
+    }
+  ]
 }
