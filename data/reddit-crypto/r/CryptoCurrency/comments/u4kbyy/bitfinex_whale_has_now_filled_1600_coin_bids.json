@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Link to previous posts will be in the comments.\n\nThis is a visual orderbook and shows where resting (limit) orders are, the\nbrighter the white the higher value the order is, the more blue to colour the\nlower the blue.\nAs most of you will know most of the 'whales' trade on bitfinex, and…"
+  "the_new_excerpt": "Link to previous posts will be in the comments.\n\nThis is a visual orderbook and shows where resting (limit) orders are, the\nbrighter the white the higher value the order is, the more blue to colour the\nlower the blue.\nAs most of you will know most of the 'whales' trade on bitfinex, and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "過去の投稿へのリンクはコメント欄に記載します。\n\nこれはビジュアルなオーダーブックで、レスト（指値）オーダーがどこにあるのか、その\n白が明るいほど高い値の注文で、青が多いほど高い値の注文です。\n青を低くする。\nほとんどの人が知っているように、「クジラ」のほとんどはbitfinexで取引しており、...",
+      "title": "Bitfinexのクジラは、45-48kのアスクに成功した後、現在44-40kの間で1,600コインのビッドを満たしています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "以前的帖子的链接将在评论中。\n\n这是一个可视化的订单簿，显示了静止（限价）订单的位置，白色越亮的订单价值越高，蓝色越多的订单价值越高。\n白色越亮的订单价值越高，蓝色越多的订单价值就越高。\n蓝色越多越低。\n正如你们大多数人知道的那样，大多数 \"鲸鱼 \"都在bitfinex上交易，而...",
+      "title": "Bitfinex的鲸鱼在成功填补了4.5-4.8万的叫价后，现在已经填补了1600个币的叫价。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "以前的帖子的鏈接將在評論中。\n\n這是一個可視化的訂單簿，顯示了靜止（限價）訂單的位置，白色越亮的訂單價值越高，藍色越多的訂單價值越高。\n白色越亮的訂單價值越高，藍色越多的訂單價值就越高。\n藍色越多越低。\n正如你們大多數人知道的那樣，大多數 \"鯨魚 \"都在bitfinex上交易，而...",
+      "title": "Bitfinex的鯨魚在成功填補了4.5-4.8萬的叫價後，現在已經填補了1600個幣的叫價。"
+    }
+  ]
 }
