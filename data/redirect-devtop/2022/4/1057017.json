@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-15T13:57:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sj7JajLB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ul7rpcj853tabw9smjhq.png",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cloudflare Workers を利用したシンプルな Node.js の URL 短縮アプリです。 このアプリは...",
+      "title": "Upstash KafkaとMaterializeで動くサーバーレスNode.js URL短縮アプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个简单的Node.js URL缩短器应用，使用Cloudflare Workers。 该应用程序是由...",
+      "title": "由Upstash Kafka和Materialize驱动的无服务器Node.js URL Shortener应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個簡單的Node.js URL縮短器應用，使用Cloudflare Workers。 該應用程序是由...",
+      "title": "由Upstash Kafka和Materialize驅動的無服務器Node.js URL Shortener應用"
+    }
+  ]
 }
