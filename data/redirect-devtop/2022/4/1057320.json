@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-15T18:13:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nrAjUYv8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/13apcg1nz46a62akc207.png",
   "author": "Jasmin Virdi",
-  "author_url": "https://dev.to/jasmin"
+  "author_url": "https://dev.to/jasmin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるスタイルシートを別のスタイルシートにインポートするために、CSSファイル内で@importを使ったことがあるはずです。作業中...",
+      "title": "CSSで@importはどのように機能するのですか？その長所と短所は？🤔"
+    },
+    {
+      "locale": "zh",
+      "description": "我们一定都在我们的css文件中使用过@import，用于将一个样式表导入到另一个。在工作中...",
+      "title": "在CSS中，@import是如何工作的？有什么优点和缺点。🤔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們一定都在我們的css文件中使用過@import，用於將一個樣式表導入到另一個。在工作中...",
+      "title": "在CSS中，@import是如何工作的？有什麼優點和缺點。🤔"
+    }
+  ]
 }
