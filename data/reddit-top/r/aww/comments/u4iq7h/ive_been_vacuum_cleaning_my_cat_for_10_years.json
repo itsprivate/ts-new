@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫の掃除機がけは10年前から。"
+    },
+    {
+      "locale": "zh",
+      "title": "我用真空吸尘器清理我的猫已经10年了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用真空吸塵器清理我的貓已經10年了。"
+    }
+  ]
 }
