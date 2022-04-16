@@ -104,5 +104,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "うーん、うーん。うん。了解。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯嗯。是的。明白了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯嗯。是的。明白了。"
+    }
+  ]
 }
