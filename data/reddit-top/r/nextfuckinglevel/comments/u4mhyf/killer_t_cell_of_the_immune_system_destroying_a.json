@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "巨大な卵巣がん細胞を破壊する免疫系のキラーT細胞（Credit- Alex Ritter）"
+    },
+    {
+      "locale": "zh",
+      "title": "免疫系统的杀手T细胞摧毁了一个可怕的卵巢癌细胞（图片来源：Alex Ritter）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "免疫系統的殺手T細胞摧毀了一個可怕的卵巢癌細胞（圖片來源：Alex Ritter）。"
+    }
+  ]
 }
