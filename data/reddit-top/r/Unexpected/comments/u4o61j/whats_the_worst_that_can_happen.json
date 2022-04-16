@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最悪の事態は？"
+    },
+    {
+      "locale": "zh",
+      "title": "可能发生的最坏情况是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "可能發生的最壞情況是什麼？"
+    }
+  ]
 }
