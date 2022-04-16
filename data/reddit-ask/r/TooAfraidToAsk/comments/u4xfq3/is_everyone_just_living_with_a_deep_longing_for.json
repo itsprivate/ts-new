@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんな自然や旅に深い憧れを抱いて生きているだけで、それを口にすることはほとんどないのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人都只是生活在对去大自然和旅行的深深渴望中，但我们却很少谈论它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人都只是生活在對去大自然和旅行的深深渴望中，但我們卻很少談論它？"
+    }
+  ]
 }
