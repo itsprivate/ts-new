@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "特に何もないところから、適当にアドバイスしてもらってもいいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我能得到一些无关紧要的随机建议吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我能得到一些無關緊要的隨機建議嗎？"
+    }
+  ]
 }

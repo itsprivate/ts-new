@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "窓の修理に関する古いビデオです。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个关于窗户维修的老视频。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個關於窗戶維修的老視頻。"
+    }
+  ]
 }
