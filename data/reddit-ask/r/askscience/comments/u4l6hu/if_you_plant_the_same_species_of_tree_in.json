@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example, if you plant a cherry tree in the southern hemisphere, will it\nstill flower in march-april? or in semptember-october (spring)?"
+  "the_new_excerpt": "For example, if you plant a cherry tree in the southern hemisphere, will it\nstill flower in march-april? or in semptember-october (spring)?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、南半球に桜の木を植えた場合、その桜の木は、南半球で育つのでしょうか？\nそれとも9月〜10月（春）に咲くのでしょうか？",
+      "title": "同じ種類の木を異なる半球に植えても、同じ時期に花が咲くのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，如果你在南半球种植一棵樱花树，它是在三月至四月开花？\n还是在9月至10月（春季）开花呢？",
+      "title": "如果你在不同的半球种植相同的树种，它们还会在同一时间开花吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，如果你在南半球種植一棵櫻花樹，它是在三月至四月開花？\n還是在9月至10月（春季）開花呢？",
+      "title": "如果你在不同的半球種植相同的樹種，它們還會在同一時間開花嗎？"
+    }
+  ]
 }
