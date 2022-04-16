@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "WW2 RAFユニフォームのボタンを組み合わせると、敵陣で撃墜されたときに使うミニコンパスとなる。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你把二战时期英国皇家空军制服的纽扣放在一起时，它们就成了一个迷你指南针，供你在敌后被击落时使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你把二戰時期英國皇家空軍制服的紐扣放在一起時，它們就成了一個迷你指南針，供你在敵後被擊落時使用。"
+    }
+  ]
 }
