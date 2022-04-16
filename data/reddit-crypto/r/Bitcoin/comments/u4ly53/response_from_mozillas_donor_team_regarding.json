@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの寄付について、Mozillaのドナーチームからの回答です。"
+    },
+    {
+      "locale": "zh",
+      "title": "来自Mozilla捐赠团队的回应，关于比特币捐赠。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "來自Mozilla捐贈團隊的回應，關於比特幣捐贈。"
+    }
+  ]
 }
