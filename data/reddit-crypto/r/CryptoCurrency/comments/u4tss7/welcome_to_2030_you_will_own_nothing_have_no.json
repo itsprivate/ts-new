@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2030年へようこそ：あなたは何も持たず、プライバシーもなく、人生はかつてないほど残酷になる。"
+    },
+    {
+      "locale": "zh",
+      "title": "欢迎来到2030年：你将一无所有，没有隐私，生活从未变得如此残酷"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歡迎來到2030年：你將一無所有，沒有隱私，生活從未變得如此殘酷"
+    }
+  ]
 }
