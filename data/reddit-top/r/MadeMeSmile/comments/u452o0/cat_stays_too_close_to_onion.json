@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫がタマネギに近づきすぎる"
+    },
+    {
+      "locale": "zh",
+      "title": "猫咪离洋葱太近了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓咪離洋蔥太近了"
+    }
+  ]
 }
