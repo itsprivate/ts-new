@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "透明シールドで約90%隠れる"
+    },
+    {
+      "locale": "zh",
+      "title": "隐身盾牌可以隐藏你大约90%的身影"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "隱身盾牌可以隱藏你大約90%的身影"
+    }
+  ]
 }
