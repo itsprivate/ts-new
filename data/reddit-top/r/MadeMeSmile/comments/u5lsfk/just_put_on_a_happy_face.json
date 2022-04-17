@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "幸せな顔をしていればいい。"
+    },
+    {
+      "locale": "zh",
+      "title": "只要装出一副高兴的样子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只要裝出一副高興的樣子。"
+    }
+  ]
 }
