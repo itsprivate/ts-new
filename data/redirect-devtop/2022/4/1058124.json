@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-16T18:45:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s2IWzjvt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cjteap86t0yet4ib2nhx.gif",
   "author": "Vishwak ❤️ JS",
-  "author_url": "https://dev.to/urstrulyvishwak"
+  "author_url": "https://dev.to/urstrulyvishwak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは面白い面接の質問ですね。 一般的に、我々は任意のサイズのマトリックスを知っているが、何ですか...",
+      "title": "Javascriptによるスパイラルマトリクス"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个有趣的面试问题。 一般来说，我们知道任何规模的矩阵，但什么是...",
+      "title": "Javascript中的螺旋矩阵"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個有趣的面試問題。 一般來說，我們知道任何規模的矩陣，但什麼是...",
+      "title": "Javascript中的螺旋矩陣"
+    }
+  ]
 }

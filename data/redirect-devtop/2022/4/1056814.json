@@ -57,5 +57,22 @@
   "original_created_at": "2022-04-15T10:48:47Z",
   "image": "https://dev.to/social_previews/article/1056814.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もしあなたがビルダーを自称するならば、それがスタートアップやオープンソース、あるいは個人的な仕事であろうと...。",
+      "title": "FaunaDBは次のビッグデータベース技術か？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你称自己为建设者，无论这意味着在创业公司、开放源码或个人工作。",
+      "title": "FaunaDB是下一个大型数据库技术吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你稱自己爲建設者，無論這意味着在創業公司、開放源碼或個人工作。",
+      "title": "FaunaDB是下一個大型數據庫技術嗎？"
+    }
+  ]
 }
