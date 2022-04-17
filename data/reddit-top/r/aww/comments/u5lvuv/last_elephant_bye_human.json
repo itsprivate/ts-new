@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後のゾウ：バイバイ人間"
+    },
+    {
+      "locale": "zh",
+      "title": "最后一头大象：人类再见!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最後一頭大象：人類再見!"
+    }
+  ]
 }
