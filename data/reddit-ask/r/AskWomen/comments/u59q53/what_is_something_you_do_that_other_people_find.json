@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがやっていることで、他の人が変だと思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你做的什么事情让别人觉得很奇怪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你做的什麼事情讓別人覺得很奇怪？"
+    }
+  ]
 }
