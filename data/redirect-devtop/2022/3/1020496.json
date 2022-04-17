@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-12T11:19:38Z",
   "image": "https://dev.to/social_previews/article/1020496.png",
   "author": "Andrey Frolov",
-  "author_url": "https://dev.to/frolovdev"
+  "author_url": "https://dev.to/frolovdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イントロダクション シニアJavaScriptのWeb3.0スチームパンクソフトウェアで10年の経験を持っているわけですが、...",
+      "title": "コンパイラ設計のハイレベルな概要"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 所以你有10年的高级JavaScript web3.0蒸汽朋克软件的经验，...",
+      "title": "编译器设计的高层概述"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 所以你有10年的高級JavaScript web3.0蒸汽朋克軟件的經驗，...",
+      "title": "編譯器設計的高層概述"
+    }
+  ]
 }
