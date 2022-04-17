@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜそうなのか、そうなのです"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么是的，是的，它是"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼是的，是的，它是"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Do you recommend it?"
+  "the_new_excerpt": "Do you recommend it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "おすすめですか？",
+      "title": "Bisqを使っている人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你是否推荐它？",
+      "title": "有谁在使用Bisq吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你是否推薦它？",
+      "title": "有誰在使用Bisq嗎？"
+    }
+  ]
 }

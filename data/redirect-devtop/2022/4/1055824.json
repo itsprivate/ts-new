@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-14T11:05:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hZUg-knP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xigenu6l53ybl15erz5m.png",
   "author": "Mirco Bellagamba",
-  "author_url": "https://dev.to/mbellagamba"
+  "author_url": "https://dev.to/mbellagamba",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロフロントエンドは、大規模なクライアントサイドアプリケーションをスケーリングするための現在と未来です。なぜ...",
+      "title": "マイクロフロントエンドの実装 - レガシーコードベースを進化させる道"
+    },
+    {
+      "locale": "zh",
+      "description": "微前端是扩展大型客户端应用程序的现在和未来。为什么...",
+      "title": "实施微前端--进化遗留代码库的途径"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微前端是擴展大型客戶端應用程序的現在和未來。爲什麼...",
+      "title": "實施微前端--進化遺留代碼庫的途徑"
+    }
+  ]
 }
