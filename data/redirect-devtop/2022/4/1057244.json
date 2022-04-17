@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-15T15:43:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rYeHxXPQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://httpie.io/Images/Share/stardust.png",
   "author": "Jakub Roztocil",
-  "author_url": "https://dev.to/jakubroztocil"
+  "author_url": "https://dev.to/jakubroztocil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソース史上最大の事故によるコミュニティの喪失、10年にわたるスターゲイザーとウォッチャーを失って学んだこと。",
+      "title": "GitHubのスターを54k個も失った理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我们从失去十年的追星族和观星族中学到了什么，这是开源史上最大的意外社区损失。",
+      "title": "我们是如何失去54000个GitHub之星的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們從失去十年的追星族和觀星族中學到了什麼，這是開源史上最大的意外社區損失。",
+      "title": "我們是如何失去54000個GitHub之星的"
+    }
+  ]
 }
