@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-17T20:06:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pT2DH1jm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png",
   "author": "Mahmoud",
-  "author_url": "https://dev.to/wiseai"
+  "author_url": "https://dev.to/wiseai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "子犬、子猫の皆さん、こんにちは。この記事では、私たちのシリーズを続けて、すべてのクソを解明する...",
+      "title": "テキスチュアル：決定版ガイド-その3。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，小狗和小猫! 在这篇文章中，我们将继续我们的系列解密每一个该死的...",
+      "title": "文本：权威指南--第三部分。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，小狗和小貓! 在這篇文章中，我們將繼續我們的系列解密每一個該死的...",
+      "title": "文本：權威指南--第三部分。"
+    }
+  ]
 }
