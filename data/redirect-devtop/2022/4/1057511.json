@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-16T01:13:59Z",
   "image": "https://dev.to/social_previews/article/1057511.png",
   "author": "Jordan Jaramillo",
-  "author_url": "https://dev.to/jordandev"
+  "author_url": "https://dev.to/jordandev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この例では、javascriptの.mapでasync/awaitを使用する方法について説明します。",
+      "title": "jsの.mapでasync/awaitを使用する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个例子中，我们将看到如何在javascript中使用async/await与.map。",
+      "title": "如何在js中用.map使用async/await"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個例子中，我們將看到如何在javascript中使用async/await與.map。",
+      "title": "如何在js中用.map使用async/await"
+    }
+  ]
 }

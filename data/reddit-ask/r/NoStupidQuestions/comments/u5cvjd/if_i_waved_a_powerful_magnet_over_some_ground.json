@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ひき肉の上に強力な磁石を振りかざしたら、鉄分が引き出されるのでは？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我在一些碎牛肉上挥动一块强大的磁铁，它会把铁从里面拉出来吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我在一些碎牛肉上揮動一塊強大的磁鐵，它會把鐵從裏面拉出來嗎？"
+    }
+  ]
 }
