@@ -1,0 +1,62 @@
+{
+  "author": "kurta999",
+  "original_created_utc": 1650142809,
+  "title": "Macros everywhere and other useful stuff. I've attached a second keyboard to PC for just macros.",
+  "created_utc": 1650215511,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/e4qlwegqfyt81.png?width=786&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=76679f219ba02ac6c398d4b09bc5fb5c062c91c9\"&gt;Main page&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;You can check this project on my GitHub, it has a lot of other stuff which I use regulary:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/kurta999/CustomKeyboard\"&gt;https://github.com/kurta999/CustomKeyboard&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Features:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;CustomMacro&lt;/strong&gt; - Connect a second keyboard and binding macros to it&amp;#39;s keys - full GUI support for macro editing (WIP recording mode)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;StructParser&lt;/strong&gt; - Generate offsets of C structures&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;ScreenshotSaver&lt;/strong&gt; - Saving screenshot to .png from clipboard&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;DirectoryBackup&lt;/strong&gt; - Backup folders to another place(s) from tray menu&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;LinkCreator&lt;/strong&gt; - Easy symlink &amp;amp; hardlink creator within Windows&amp;#39; file explorer&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sensors&lt;/strong&gt; - Backend for sensors with SQLite database for measurements &amp;amp; graphs generation to .html file&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;wxWidget&amp;#39;s GUI editor&lt;/strong&gt; - A very basic GUI editor with move &amp;amp; resize support&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AntiLock&lt;/strong&gt; - Bypass idle timeout for Windows to avoid lock screen by pressing SCROLL LOCK &amp;amp; moving mouse in given interval&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AntiNumLock&lt;/strong&gt; - Doesn&amp;#39;t allow to disable NumLock, re-enables it immendiately when it&amp;#39;s disabled.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;TerminalHotkey&lt;/strong&gt; - Hotkey for terminal, like in Linux. Can be started from Windows Explorer and from Desktop&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;Explanation:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;CustomMacro&lt;/strong&gt; - Currently requires an external Nucleo L495ZG board with UART-TTL to USB adapter for transmitting keypresses to PC. The nucleo is just a simple USB Host, which receives key-presses from the connected keyboard and transmits it to PC via UART. It could be done with hooking in windows, but this solution always crashed the debugger in MSVC, so I went with the more expensive way. Macros can be added in configuration page or in settings.ini file directly. Firmware for Nucle board is available here: &lt;a href=\"https://github.com/kurta999/UsbHost\"&gt;https://github.com/kurta999/UsbHost&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;StructParser&lt;/strong&gt; - Paste the structure to input dialog and click on prarse. The application automatically calculates offsets for it&amp;#39;s members. It&amp;#39;s useful if you work with communication and had to calculate the offset of members in bytes manually. Supports embedded structures, struct alignment (fixed alignment supported, pragma pack implementation isn&amp;#39;t finished yet), preprocessor definitions &amp;amp; unions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;ScreenshotSaver&lt;/strong&gt; - Press screenshot save key (F12 by default, on second keyboard) and screenshot from the clipboard will be saved to (app path)/Screenshots folder by default as .png file. Can be changed in configuration.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;DirectoryBackup&lt;/strong&gt; - Setup backups in configuration or in settings.ini manually and those will appear in tray menu of this application. Click on them, and backing up files will start. Supports ignore list &amp;amp; SHA-256 checksum for backed up files for more secure backups.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;LinkCreator&lt;/strong&gt; - Select desired files from File Explorer and click the mark key (key down on second keyboard by default) and files (directories too) will be marked for link creation. Go to target directory where you want to place the links for marked files, press symlink key (KEY UP) by default for symlink or hardlink key (KEY RIGHT) by default for hardlinks. That&amp;#39;s all, symlink or hardlink is created from marked files in target directory.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sensors&lt;/strong&gt; - Backend means simple TCP server with boost asio where sensor conencts and sends measurements. Each measurement is inserted to a local SQLite database and a graph generated with last 30 measurements, last day &amp;amp; last week average data by default, this can be changed in settings.ini. Database is updated in every 10 minutes, but you can update manually by clicking on &amp;quot;Generate graphs&amp;quot; in front panel.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;wxWidget&amp;#39;s GUI editor&lt;/strong&gt; - Oversimplified GUI editor which sometimes can be useful beside &lt;a href=\"https://github.com/wxFormBuilder/wxFormBuilder\"&gt;wxFormBuilder&lt;/a&gt;. GUI items are movable &amp;amp; resizable - directly without sizers. C++ code generation also implemented, current workspace can be saved &amp;amp; loaded to/from XML file.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;Feel free to write critics and ideas :) I&amp;#39;m working on this project for more than one year, it was just an idea to write something in modern C++ to learn the language, but now I can&amp;#39;t imagine my computer usage without this tool.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?auto=webp&amp;s=db464a8e6705f76c00f34096257bd835e8bb87f3",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d712876be718e58e5b514ac6923de0fb7e73aabc",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4750a418a4f6952de4ac4a628fe0b1688698504c",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=2b33ea171ca8d6cbfea9a02d83c7a4a5899d2d18",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c29783d5d3f3836860eee9b21f2af95ec16b84a",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=6f309317dadb57484c228601edf6d5ed92c68d7c",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/sM61NN0xw8b8d_kNDswKofD7fdBzt91RnZ1f6LtTPcE.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=8ffa1e1b134ec9ad03e46771076d9967eb0ca577",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "rORSOR3QIcUc9EE4crr68RX8TFxzBw1xws14dIxhR8M"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/u573h2/macros_everywhere_and_other_useful_stuff_ive/",
+  "subreddit": "SideProject",
+  "id": "u573h2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Main page\n[https://preview.redd.it/e4qlwegqfyt81.png?width=786&format=png&auto=webp&s=76679f219ba02ac6c398d4b09bc5fb5c062c91c9]\n\nYou can check this project on my GitHub, it has a lot of other stuff which I use\nregulary:\n\nhttps://github.com/kurta999/CustomKeyboard\n\nFeatures:\n\n 1.  CustomMacro -…"
+}
