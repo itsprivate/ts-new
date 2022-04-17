@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "borb, オープンソースの純粋なPythonのPDFエンジン"
+    },
+    {
+      "locale": "zh",
+      "title": "borb，开源的纯Python PDF引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "borb，開源的純Python PDF引擎"
+    }
+  ]
 }
