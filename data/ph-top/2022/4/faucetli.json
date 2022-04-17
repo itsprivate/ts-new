@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-16T12:08:53Z"
+  "original_createdAt": "2022-04-16T12:08:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🦄 Faucetli は、ターミナルからすぐに testnet トークンを受信するための最小限のコマンドラインツールです。どのように動作するのですか？- faucetli requestコマンドでウォレットアドレスを設定すれば完了です🎉。",
+      "tagline": "🦄 テストネットでトークンを素早く取得するためのコマンドラインツール!"
+    },
+    {
+      "locale": "zh",
+      "description": "🦄 Faucetli是一个最小的命令行工具，可以从你的终端立即接收testnet令牌。它是如何工作的？- 通过使用faucetli request命令配置你的钱包地址，就可以了 🎉。",
+      "tagline": "🦄 一个命令行工具，可以快速获得测试网的令牌!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🦄 Faucetli是一個最小的命令行工具，可以從你的終端立即接收testnet令牌。它是如何工作的？- 通過使用faucetli request命令配置你的錢包地址，就可以了 🎉。",
+      "tagline": "🦄 一個命令行工具，可以快速獲得測試網的令牌!"
+    }
+  ]
 }
