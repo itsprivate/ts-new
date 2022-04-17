@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I don’t mean to offend anybody, but I don’t really understand the concept of it\nand I want to learn."
+  "the_new_excerpt": "I don’t mean to offend anybody, but I don’t really understand the concept of it\nand I want to learn.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "悪気はないのですが、コンセプトがよくわからないのです\nと学びたい。",
+      "title": "誰かノンバイナリーの仕組みを説明してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我无意冒犯任何人，但我不太理解它的概念\n而且我想学习。",
+      "title": "谁能解释一下非二进制是如何运作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我無意冒犯任何人，但我不太理解它的概念\n而且我想學習。",
+      "title": "誰能解釋一下非二進制是如何運作的？"
+    }
+  ]
 }
