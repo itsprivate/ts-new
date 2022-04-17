@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日の猫ちゃんは元気ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的猫今天好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的貓今天好嗎？"
+    }
+  ]
 }
