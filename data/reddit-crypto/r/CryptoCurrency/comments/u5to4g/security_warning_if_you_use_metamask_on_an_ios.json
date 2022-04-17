@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "TL:DR\n\nIf you have MetaMask on an iPhone or Mac, then you're likely also using iCloud\nbackup. MetaMask backup your Valut containing your seed by default, so turn that\noff from Settings\\Profile\\iCloud\\Manage Storage!\n\n\n\nSummary\n\nI have been following this developing story on Twitter about a user…"
+  "the_new_excerpt": "TL:DR\n\nIf you have MetaMask on an iPhone or Mac, then you're likely also using iCloud\nbackup. MetaMask backup your Valut containing your seed by default, so turn that\noff from Settings\\Profile\\iCloud\\Manage Storage!\n\n\n\nSummary\n\nI have been following this developing story on Twitter about a user…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TL:DR\n\niPhoneやMacでMetaMaskを使っているなら、iCloudも使っているはずです。\nのバックアップが必要です。MetaMaskはデフォルトであなたのシードを含むValutをバックアップします。\nSettingsProfileiCloudManage StorageからOFF!\n\n\n\nまとめ\n\n私はTwitterで、あるユーザーに関するこの発展途上のストーリーを追っていました...",
+      "title": "セキュリティ上の警告 - iCloudバックアップが有効なiOSデバイスでMetaMaskを使用する場合、デフォルトであなたのVaultシードは自動的にバックアップされます。AppleIDをリセットするためにフィッシングに遭い、昨日一人の被害者が65万ドルを失いました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TL:DR\n\n如果你在iPhone或Mac上有MetaMask，那么你可能也在使用iCloud\n备份。默认情况下，MetaMask会备份包含你的种子的Valut，所以请在设置/配置文件/iCloud/管理存储中关闭该功能\n关掉它！从Settings/Profile/iCloud/Manage Storage!\n\n\n\n摘要\n\n我一直在关注Twitter上这个正在发展的故事，关于一个用户...",
+      "title": "安全警告--如果您在启用了iCloud备份的iOS设备上使用MetaMask，那么您的金库种子会自动默认备份。人们正在被钓鱼，要求重置AppleID，一名受害者昨天损失了65万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TL:DR\n\n如果你在iPhone或Mac上有MetaMask，那麼你可能也在使用iCloud\n備份。默認情況下，MetaMask會備份包含你的種子的Valut，所以請在設置/配置文件/iCloud/管理存儲中關閉該功能\n關掉它！從Settings/Profile/iCloud/Manage Storage!\n\n\n\n摘要\n\n我一直在關注Twitter上這個正在發展的故事，關於一個用戶...",
+      "title": "安全警告--如果您在啓用了iCloud備份的iOS設備上使用MetaMask，那麼您的金庫種子會自動默認備份。人們正在被釣魚，要求重置AppleID，一名受害者昨天損失了65萬美元。"
+    }
+  ]
 }

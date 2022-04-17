@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "デトロイトでは、住宅所有者に6億ドルの超過課税を行い、その結果、10万人が差し押さえにより住宅を失うことになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "底特律非法向房主多征收6亿美元的税，导致10万人因丧失抵押品赎回权而失去住房。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "底特律非法向房主多徵收6億美元的稅，導致10萬人因喪失抵押品贖回權而失去住房。"
+    }
+  ]
 }
