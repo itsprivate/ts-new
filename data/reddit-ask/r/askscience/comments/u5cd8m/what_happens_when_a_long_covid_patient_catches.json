@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Does the person get a more severe case of covid or does it just extend the long\ncovid period further?"
+  "the_new_excerpt": "Does the person get a more severe case of covid or does it just extend the long\ncovid period further?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "コビドをより重症化させるのか、それとも単に長期化させるのか。\nコビド期間はさらに長くなるのですか？",
+      "title": "コビドを長く使っている人が、再びコビドにかかるとどうなるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这个人是否会得到更严重的covid病例，或者它只是将漫长的covid期进一步延长？\n的时间更长？",
+      "title": "长时间的科维德患者再次抓到科维德时，会发生什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這個人是否會得到更嚴重的covid病例，或者它只是將漫長的covid期進一步延長？\n的時間更長？",
+      "title": "長時間的科維德患者再次抓到科維德時，會發生什麼？"
+    }
+  ]
 }
