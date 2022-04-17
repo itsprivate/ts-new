@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-17T06:13:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jdZ4BJxV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/37z6bruah92cb9mt8iui.png",
   "author": "Hackers Reboot",
-  "author_url": "https://dev.to/hrbt"
+  "author_url": "https://dev.to/hrbt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "V-langは、さまざまなアプリケーションを作成するのに役立つ、非常に強力な言語です......。",
+      "title": "こんにちは、V-Langです。"
+    },
+    {
+      "locale": "zh",
+      "description": "V-lang是一种异常强大的语言，可以帮助你创建各种应用....。",
+      "title": "你好，V-Lang"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "V-lang是一種異常強大的語言，可以幫助你創建各種應用....。",
+      "title": "你好，V-Lang"
+    }
+  ]
 }
