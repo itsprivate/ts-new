@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I have finally found time to refactor the code and learning enough ios\ndevelopment to actually release it in app store. Thanks to react native.\nhttps://github.com/croma-app/croma-react\nApp is open source and already available on play store.\nAppstore: https://apps.apple.com/app/croma-palette…"
+  "the_new_excerpt": "I have finally found time to refactor the code and learning enough ios\ndevelopment to actually release it in app store. Thanks to react native.\nhttps://github.com/croma-app/croma-react\nApp is open source and already available on play store.\nAppstore: https://apps.apple.com/app/croma-palette…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はようやくコードをリファクタリングする時間を見つけ、iosを十分に学ぶことができました。\nを開発し、実際にアプリストアにリリースすることができました。react nativeに感謝です。\nhttps://github.com/croma-app/croma-react\nアプリはオープンソースで、すでにプレイストアで公開されています。\nAppstore: https://apps.apple.com/app/croma-palette...",
+      "title": "私のサイドプロジェクトであるカラーパレットマネージャーのアプリがついにApp Storeで公開されました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我终于找到时间来重构代码，并学习足够的ios\n开发，以便真正在应用商店发布。多亏了react native。\nhttps://github.com/croma-app/croma-react\n应用程序是开源的，并已在Play Store上提供。\nAppstore：https://apps.apple.com/app/croma-palette...",
+      "title": "我的副业--调色板管理应用终于在应用商店上线了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我終於找到時間來重構代碼，並學習足夠的ios\n開發，以便真正在應用商店發佈。多虧了react native。\nhttps://github.com/croma-app/croma-react\n應用程序是開源的，並已在Play Store上提供。\nAppstore：https://apps.apple.com/app/croma-palette...",
+      "title": "我的副業--調色板管理應用終於在應用商店上線了。"
+    }
+  ]
 }
