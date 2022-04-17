@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-16T11:22:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T-lL3w0u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7gjkskm7jtadzo7ts23.jpg",
   "author": "Arghya Sahoo",
-  "author_url": "https://dev.to/arghyasahoo"
+  "author_url": "https://dev.to/arghyasahoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンピュータ・プログラミングの基本概念のひとつに「変数」があります。コンピュータを勉強している方なら",
+      "title": "ポイント"
+    },
+    {
+      "locale": "zh",
+      "description": "计算机编程中的一个基本概念是变量。如果你正在学习计算机编程，那么你就会发现它是一个非常重要的概念。",
+      "title": "指示器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "計算機編程中的一個基本概念是變量。如果你正在學習計算機編程，那麼你就會發現它是一個非常重要的概念。",
+      "title": "指示器"
+    }
+  ]
 }
