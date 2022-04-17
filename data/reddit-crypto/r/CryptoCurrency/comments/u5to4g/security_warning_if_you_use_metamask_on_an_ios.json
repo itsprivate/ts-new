@@ -1,0 +1,47 @@
+{
+  "author": "_s79",
+  "original_created_utc": 1650221947,
+  "title": "Security Warning - If you use MetaMask on an iOS device with iCloud backup enabled, then your vault seed is automatically backed up by default. People are being phished for AppleID resets with one victim losing $650K yesterday.",
+  "created_utc": 1650234872,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;strong&gt;TL:DR&lt;/strong&gt; &lt;/p&gt;\n\n&lt;p&gt;If you have MetaMask on an iPhone or Mac, then you&amp;#39;re likely also using iCloud backup.  MetaMask backup your Valut containing your seed by default, so turn that off from Settings\\Profile\\iCloud\\Manage Storage!&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;I have been following this developing story on Twitter about a user that lost $650K yesterday due to the following phishing method with others coming forward claiming that the same has also happened to them.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;  &lt;/p&gt;\n\n&lt;p&gt;When you create a wallet using MetaMask on an iPhone, the app will create a JSON containing your wallet, this is stored on your device.  Most users use iCloud to automatically backup their phone and app data, but unbeknown to many users, MetaMask include this file as part of the backup.  From a google search, this isn&amp;#39;t new, it was discovered in 2019, but MetaMask have today acknowledged (addressed) it &lt;a href=\"https://nitter.net/MetaMask\"&gt;HERE&lt;/a&gt; after a number of users were targeted resulting in lost funds.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/zwx26nnww4u81.png?width=744&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=46e5360122bdbed0ef700bee43cab95cbfc5ec25\"&gt;MetaMask iCloud Backup&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Phishing Method&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;For the user that lost $650K, it appears to be a very sophisticated attack. They fell victim as follows...&lt;/p&gt;\n\n&lt;p&gt;The malicious attacker requested several password resets against their AppleID/iCloud generating several emails to their account.  From there, they using a spoofed caller id to call the victim and claimed that they were from Apple and calling about suspicious activity on their account.  They asked them to generate their MFA one time pass to confirm that they were the account owner.   The hacker used this to reset the password and take control of the Apple account.  From there, they were able to restore from a backup and drain the wallet of all funds. &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;More reading / source&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://twitter.com/Serpent/status/1515545806857990149\"&gt;HERE&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 317,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/EK9bIo_EtVS77n_WNpiU8ynGqwq3pUkBy_m5lsQjm4c.jpg?auto=webp&amp;s=34eff5c3117c150ae2337385ede4171d6cae225d",
+          "width": 325,
+          "height": 325
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/EK9bIo_EtVS77n_WNpiU8ynGqwq3pUkBy_m5lsQjm4c.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=e52d8dd3f9b4992b13e019588ace1df726cc4a16",
+            "width": 108,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/EK9bIo_EtVS77n_WNpiU8ynGqwq3pUkBy_m5lsQjm4c.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=46ee3984d991c62342b77b92cea22fb0e7150941",
+            "width": 216,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/EK9bIo_EtVS77n_WNpiU8ynGqwq3pUkBy_m5lsQjm4c.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bead8f5394bc80f0aae20a0565f84c38d9ea08e5",
+            "width": 320,
+            "height": 320
+          }
+        ],
+        "variants": {},
+        "id": "aBDJSqCX-iMmF5ZOo85ZJDtvfGCNuIUyAHfDWaEsryk"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/u5to4g/security_warning_if_you_use_metamask_on_an_ios/",
+  "subreddit": "CryptoCurrency",
+  "id": "u5to4g",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "TL:DR\n\nIf you have MetaMask on an iPhone or Mac, then you're likely also using iCloud\nbackup. MetaMask backup your Valut containing your seed by default, so turn that\noff from Settings\\Profile\\iCloud\\Manage Storage!\n\n\n\nSummary\n\nI have been following this developing story on Twitter about a user…"
+}
