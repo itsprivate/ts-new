@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "A.I.は言語をマスターしている。その言葉を信じるべきか？"
+    },
+    {
+      "locale": "zh",
+      "title": "A.I.正在掌握语言。我们应该相信它所说的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "A.I.正在掌握語言。我們應該相信它所說的嗎？"
+    }
+  ]
 }
