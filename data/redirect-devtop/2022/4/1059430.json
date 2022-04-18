@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-18T11:13:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F80i7XGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wpxwgqzn3mhktykirkjy.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ben Halpern氏の投稿",
+      "title": "どのようなクラウドサービスを利用していますか？(個人・チーム)"
+    },
+    {
+      "locale": "zh",
+      "description": "Ben Halpern的一篇文章",
+      "title": "你使用哪些云服务？(个人和团队)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ben Halpern的一篇文章",
+      "title": "你使用哪些雲服務？(個人和團隊)"
+    }
+  ]
 }
