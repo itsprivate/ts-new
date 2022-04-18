@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パーティを開くなと言い、パーティを開き、その反応で解雇される。"
+    },
+    {
+      "locale": "zh",
+      "title": "告诉他们不要开派对，开了派对，然后因为你的反应而被解雇。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "告訴他們不要開派對，開了派對，然後因爲你的反應而被解僱。"
+    }
+  ]
 }
