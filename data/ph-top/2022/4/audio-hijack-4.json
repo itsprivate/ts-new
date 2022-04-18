@@ -111,5 +111,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-18T07:01:00Z"
+  "original_createdAt": "2022-04-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Audio Hijackは、MacOS上であらゆるオーディオを録音・処理するための強力なユーティリティです。SafariやSkypeなどのアプリケーション、マイクやミキサーなどのハードウェア、さらにはシステム全体のオーディオ出力からのオーディオを、すべて保存することが可能です。聞こえるものなら、Audio Hijackはそれを録音することができます。",
+      "tagline": "MacOSであらゆる音声を録音"
+    },
+    {
+      "locale": "zh",
+      "description": "Audio Hijack是一个强大的工具，用于记录和处理MacOS上的任何音频。来自Safari或Skype等应用程序的音频、麦克风和调音台等硬件，甚至整个系统的音频输出，都可以被保存。如果你能听到它，Audio Hijack就能记录它。",
+      "tagline": "在MacOS上录制任何音频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Audio Hijack是一個強大的工具，用於記錄和處理MacOS上的任何音頻。來自Safari或Skype等應用程序的音頻、麥克風和調音臺等硬件，甚至整個系統的音頻輸出，都可以被保存。如果你能聽到它，Audio Hijack就能記錄它。",
+      "tagline": "在MacOS上錄製任何音頻"
+    }
+  ]
 }
