@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインペプシ"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币百事可乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣百事可樂"
+    }
+  ]
 }
