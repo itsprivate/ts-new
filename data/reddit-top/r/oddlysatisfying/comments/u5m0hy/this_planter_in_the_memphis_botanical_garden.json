@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メンフィス植物園にあるこのプランター"
+    },
+    {
+      "locale": "zh",
+      "title": "孟菲斯植物园的这个花槽"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "孟菲斯植物園的這個花槽"
+    }
+  ]
 }
