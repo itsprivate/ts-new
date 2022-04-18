@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は1文で4人をローストした"
+    },
+    {
+      "locale": "zh",
+      "title": "她用一句话烤了4个人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她用一句話烤了4個人"
+    }
+  ]
 }
