@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-17T18:11:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h26o3car--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xja0u74u9qizaw31gxq.png",
   "author": "Jean Santana",
-  "author_url": "https://dev.to/jssantana"
+  "author_url": "https://dev.to/jssantana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私が初めてコードのブロックを書き始めたときから、多くの開発者から「コメントなんて無駄だ...」と聞かされてきました。",
+      "title": "\"コードをコメントしてはいけない、セルフドキュメントであるべきだ\"。まあ... 私は同意しません。"
+    },
+    {
+      "locale": "zh",
+      "description": "自从我开始写我的第一个代码块以来，我从许多开发者那里听说，注释是没有用的。",
+      "title": "\"不要注释你的代码，它应该是自我记录的\"。嗯... 我不同意。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從我開始寫我的第一個代碼塊以來，我從許多開發者那裏聽說，註釋是沒有用的。",
+      "title": "\"不要註釋你的代碼，它應該是自我記錄的\"。嗯... 我不同意。"
+    }
+  ]
 }
