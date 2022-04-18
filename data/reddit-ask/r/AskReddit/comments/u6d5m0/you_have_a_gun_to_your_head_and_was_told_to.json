@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "頭に銃を突きつけられ、生き残るために1曲完璧に暗唱するように言われたあなたは、どんな曲を歌っているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被枪指着头，被告知要完美地背诵一首歌曲才能生存，你唱的是什么歌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被槍指着頭，被告知要完美地背誦一首歌曲才能生存，你唱的是什麼歌？"
+    }
+  ]
 }
