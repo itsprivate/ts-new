@@ -43,5 +43,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-18T07:01:00Z"
+  "original_createdAt": "2022-04-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ビデオゲーム「Elon-Mars」=== イーロン・マスクが火星に降り立ち、できるだけ多くのDogecoinを集めるのが目的、敵としてジェフ・ベゾスが登場。ジェフ・ベゾスが敵として登場する。IronhackのBootcampで最初のJavascriptプロジェクトとして開発されました。",
+      "tagline": "JSで開発されたイーロン・マーズのビデオゲーム"
+    },
+    {
+      "locale": "zh",
+      "description": "视频游戏 \"Elon-Mars\" ==> Elon Musk在火星上，目标是收集尽可能多的Dogecoins；Jeff Bezos作为一个敌人出现。这是我在Ironhack的网络开发训练营中开发的第一个Javascript项目。在Ironhack的Bootcamp期间，我开发了第一个Javascript项目。",
+      "tagline": "用JS开发的埃隆-火星视频游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "視頻遊戲 \"Elon-Mars\" ==> Elon Musk在火星上，目標是收集儘可能多的Dogecoins；Jeff Bezos作爲一個敵人出現。這是我在Ironhack的網絡開發訓練營中開發的第一個Javascript項目。在Ironhack的Bootcamp期間，我開發了第一個Javascript項目。",
+      "tagline": "用JS開發的埃隆-火星視頻遊戲"
+    }
+  ]
 }
