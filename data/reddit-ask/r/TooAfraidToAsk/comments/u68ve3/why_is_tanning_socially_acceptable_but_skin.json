@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "“Skin bleaching is dangerous!” but so are tanning beds.."
+  "the_new_excerpt": "“Skin bleaching is dangerous!” but so are tanning beds..",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "\"肌の漂白は危険！\" でも、日焼けマシーンも同じ。",
+      "title": "なぜ日焼けは社会的に許されるのに、美白は許されないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "\"皮肤漂白是危险的！\"但日光浴床也是如此。",
+      "title": "为什么晒黑是社会可以接受的，而皮肤美白却不可以？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "\"皮膚漂白是危險的！\"但日光浴牀也是如此。",
+      "title": "爲什麼曬黑是社會可以接受的，而皮膚美白卻不可以？"
+    }
+  ]
 }
