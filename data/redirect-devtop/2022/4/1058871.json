@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-17T18:50:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--udrXC_Ei--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xxprv5vwfnon4ljqxdmh.jpg",
   "author": "Bidisha Das",
-  "author_url": "https://dev.to/officialbidisha"
+  "author_url": "https://dev.to/officialbidisha",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "3月8日、ReactチームはReact 18 RC(Release Candidate)をリリースしました。この最新リリースには...",
+      "title": "React 18 - 新機能と改善策"
+    },
+    {
+      "locale": "zh",
+      "description": "3月8日，React团队发布了React 18 RC(Release Candidate)。这个最新的版本有...",
+      "title": "React 18 - 新功能和改进策略"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "3月8日，React團隊發佈了React 18 RC(Release Candidate)。這個最新的版本有...",
+      "title": "React 18 - 新功能和改進策略"
+    }
+  ]
 }
