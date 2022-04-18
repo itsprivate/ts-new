@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は12人の創業者にインタビューを行い、そのアドバイスを無料の戦略ガイド集にまとめました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我采访了十几位创始人，并将他们的建议变成了一套免费的战略指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我採訪了十幾位創始人，並將他們的建議變成了一套免費的戰略指南。"
+    }
+  ]
 }
