@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-17T12:48:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tyZQMKck--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.bloggu.io/ipfs/bafkreigckhma7r5rcumchxeixtnpy3hlcitop35rvfz7wg4ewiq6xvqiea",
   "author": "Mangabo Kolawole",
-  "author_url": "https://dev.to/koladev"
+  "author_url": "https://dev.to/koladev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このような記事をもっと読みたい方は、遠慮なく私のメルマガを購読してください😁 ライティング...",
+      "title": "ReactとReduxによるテスト駆動開発：Thunk、Slices、Requests Mocking"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想阅读更多这些文章，不要犹豫，请订阅我的通讯。😁 写作...",
+      "title": "用React和Redux进行测试驱动开发：Thunk、Slices和Requests Mocking"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想閱讀更多這些文章，不要猶豫，請訂閱我的通訊。😁 寫作...",
+      "title": "用React和Redux進行測試驅動開發：Thunk、Slices和Requests Mocking"
+    }
+  ]
 }

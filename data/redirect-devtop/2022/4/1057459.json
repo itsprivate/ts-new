@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-15T20:30:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lAjHlWMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xowqkvhgux779g1aibmf.jpg",
   "author": "Nicolas Frankel",
-  "author_url": "https://dev.to/nfrankel"
+  "author_url": "https://dev.to/nfrankel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "好むと好まざるとにかかわらず、GitHubは自分のコードをホストする主要なプロバイダーになっています。あなたやあなたの...",
+      "title": "GitHubレポを美しくする"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你喜欢与否，GitHub已经成为托管个人代码的主要供应商。你或你的...",
+      "title": "美化你的GitHub repo"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你喜歡與否，GitHub已經成爲託管個人代碼的主要供應商。你或你的...",
+      "title": "美化你的GitHub repo"
+    }
+  ]
 }
