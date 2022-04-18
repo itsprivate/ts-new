@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このペットショップはイースターにウサギを売らない。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家宠物店在复活节不卖小兔子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這家寵物店在復活節不賣小兔子"
+    }
+  ]
 }
