@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "名言の最後に「このクソ野郎！」と付け加えるとしたら、どんな言葉を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在任何一句名言的末尾加上 \"你这坨屎！\"，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在任何一句名言的末尾加上 \"你這坨屎！\"，那會是什麼？"
+    }
+  ]
 }
