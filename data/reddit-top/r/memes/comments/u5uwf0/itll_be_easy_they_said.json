@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "簡単でしょう、と言われました"
+    },
+    {
+      "locale": "zh",
+      "title": "他们说，这将是很容易的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們說，這將是很容易的!"
+    }
+  ]
 }
