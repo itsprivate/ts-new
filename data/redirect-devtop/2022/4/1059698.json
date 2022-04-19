@@ -43,5 +43,21 @@
   "original_created_at": "2022-04-18T15:11:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IuOqTKq4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dv8k5y2ps8388can9a2w.png",
   "author": "Kacha",
-  "author_url": "https://dev.to/kmukabe"
+  "author_url": "https://dev.to/kmukabe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 私は、今後30年間でGolangを学ぶというチャレンジに参加することにしました。",
+      "title": "30日間の碁。1日目"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我决定参加一个挑战，在未来30天内学习Golang。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我決定參加一個挑戰，在未來30天內學習Golang。",
+      "title": "30日間の碁。1日目"
+    }
+  ]
 }
