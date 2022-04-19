@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-19T10:34:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X59_SvFS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lb0xacsu5kenjoe9phad.jpg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSクラウドのコストを追跡したいチームは、通常、業界標準のAWS Cost Explorerを利用します。",
+      "title": "AWS Cost Explorerだけでは、クラウド費用を本格的に削減することはできない理由"
+    },
+    {
+      "locale": "zh",
+      "description": "对追踪他们的AWS云计算成本感兴趣的团队通常会转向AWS成本资源管理器，这是业界的...",
+      "title": "为什么AWS成本资源管理器不足以严重降低你的云计算开支？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對追蹤他們的AWS雲計算成本感興趣的團隊通常會轉向AWS成本資源管理器，這是業界的...",
+      "title": "爲什麼AWS成本資源管理器不足以嚴重降低你的雲計算開支？"
+    }
+  ]
 }
