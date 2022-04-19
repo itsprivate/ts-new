@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-19T07:01:00Z"
+  "original_createdAt": "2022-04-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フリーローダー＆スピナー HTML、CSS、そしてSVGで作られています。Reactとcopypastaで利用可能です。",
+      "tagline": "次のプロジェクトで使える楽しいローディングアニメーション"
+    },
+    {
+      "locale": "zh",
+      "description": "自由装载机和纺纱机。用HTML、CSS和少量的SVG构建。可用于React和copypasta。",
+      "tagline": "为你的下一个项目提供令人愉快的加载动画"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自由裝載機和紡紗機。用HTML、CSS和少量的SVG構建。可用於React和copypasta。",
+      "tagline": "爲你的下一個項目提供令人愉快的加載動畫"
+    }
+  ]
 }
