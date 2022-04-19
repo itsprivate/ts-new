@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-19T13:02:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gdDtrjDS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vtc7orrvwhfwnub7oylu.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さあ、ここからだ!",
+      "title": "コマンドラインのコツは？"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来看看他们",
+      "title": "你有什么命令行提示？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來看看他們",
+      "title": "你有什麼命令行提示？"
+    }
+  ]
 }
