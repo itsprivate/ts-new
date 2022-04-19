@@ -13,5 +13,19 @@
   ],
   "objectID": "31079144",
   "original_created_at": "2022-04-19T02:13:11.000Z",
-  "image": "https://nixery.dev/nixery-logo.png"
+  "image": "https://nixery.dev/nixery-logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Nixery - NixでオンザフライのDockerイメージ"
+    },
+    {
+      "locale": "zh",
+      "title": "Nixery - 使用Nix飞行的Docker图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Nixery - 使用Nix飛行的Docker圖像"
+    }
+  ]
 }
