@@ -153,5 +153,22 @@
     },
     "retweet_count": 417,
     "favorite_count": 2593
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: RealSarahIdan @espiers @brianstelter @pbump @CNN ファーガソンでのデモに参加し、その様子を見たからこそ分かることがある。",
+      "retweeted_status_full_text": "@RealSarahIdan @espiers @brianstelter @pbump @CNN ファーガソンでの抗議行動で、彼らが争いを起こそうとしてそれを撮影し、抗議者たちが \"Fuck CNN\" と唱えるのを見たので、これはわかる。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: @RealSarahIdan @espiers @brianstelter @pbump @CNN 我是在弗格森的抗议活动中在街上看到的。",
+      "retweeted_status_full_text": "@RealSarahIdan @espiers @brianstelter @pbump @CNN 我是在弗格森街头的抗议活动中知道的，看着他们试图制造冲突并拍摄，导致抗议者高呼 \"去他妈的CNN\""
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: @RealSarahIdan @espiers @brianstelter @pbump @CNN 我是在弗格森的抗議活動中在街上看到的。",
+      "retweeted_status_full_text": "@RealSarahIdan @espiers @brianstelter @pbump @CNN 我是在弗格森街頭的抗議活動中知道的，看着他們試圖製造衝突並拍攝，導致抗議者高呼 \"去他媽的CNN\""
+    }
+  ]
 }
