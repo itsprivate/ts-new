@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-18T03:40:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2Z8tsx2h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d289y3d6y8yzvvec2kuk.jpg",
   "author": "Daniel Favour",
-  "author_url": "https://dev.to/danielfavour"
+  "author_url": "https://dev.to/danielfavour",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesは、Googleが開発したオープンソースのコンテナオーケストレーションツールで、K8sとしても知られています。",
+      "title": "Kubernetes 101: ビギナーズガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes也被称为K8s，是一个开源的容器编排工具，由谷歌开发。",
+      "title": "Kubernetes 101: A Beginner's Guide"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes也被稱爲K8s，是一個開源的容器編排工具，由谷歌開發。",
+      "title": "Kubernetes 101: A Beginner's Guide"
+    }
+  ]
 }
