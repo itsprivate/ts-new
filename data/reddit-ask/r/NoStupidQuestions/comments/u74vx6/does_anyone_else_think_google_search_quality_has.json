@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I feel like SEO (search engine optimization) has ruined Google. Unless you are\nlooking for something obvious, all the search results are websites that are\nbarely tangential to your search terms."
+  "the_new_excerpt": "I feel like SEO (search engine optimization) has ruined Google. Unless you are\nlooking for something obvious, all the search results are websites that are\nbarely tangential to your search terms.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "SEO（検索エンジン最適化）がGoogleをダメにしたような気がします。よっぽどのことがない限り\n検索結果には、明らかに「？」なサイトばかりが表示されます。\n検索キーワードとほとんど関連性がない。",
+      "title": "Googleの検索品質が急速に低下していると思う人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得SEO（搜索引擎优化）已经毁了谷歌。除非你是\n除非你正在寻找一些明显的东西，否则所有的搜索结果都是一些与你的搜索条件几乎没有关系的网站。\n勉强与你的搜索条件相联系的网站。",
+      "title": "还有人认为谷歌的搜索质量已经快速走下坡路了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得SEO（搜索引擎優化）已經毀了谷歌。除非你是\n除非你正在尋找一些明顯的東西，否則所有的搜索結果都是一些與你的搜索條件幾乎沒有關係的網站。\n勉強與你的搜索條件相聯繫的網站。",
+      "title": "還有人認爲谷歌的搜索質量已經快速走下坡路了嗎？"
+    }
+  ]
 }
