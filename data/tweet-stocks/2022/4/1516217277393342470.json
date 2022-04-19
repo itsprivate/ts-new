@@ -93,5 +93,22 @@
     },
     "retweet_count": 2111,
     "favorite_count": 21021
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @jack: ブライアン・ステルター @pbump そして、あなた方は希望を売っているのですか？",
+      "retweeted_status_full_text": "brianstelter @pbump そして、あなた方は希望を売っているのですか？"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @jack: @brianstelter @pbump 而你们都在推销希望？",
+      "retweeted_status_full_text": "@brianstelter @pbump 而你们都在推销希望？"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @jack: @brianstelter @pbump 而你們都在推銷希望？",
+      "retweeted_status_full_text": "@brianstelter @pbump 而你們都在推銷希望？"
+    }
+  ]
 }

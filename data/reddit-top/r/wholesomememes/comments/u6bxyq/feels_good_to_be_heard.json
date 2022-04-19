@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "聞いてもらえることが嬉しい"
+    },
+    {
+      "locale": "zh",
+      "title": "被倾听的感觉很好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "被傾聽的感覺很好"
+    }
+  ]
 }
