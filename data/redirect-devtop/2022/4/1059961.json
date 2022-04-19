@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-18T21:33:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--877IpqXy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9g5ozde8peu5jna66gk.png",
   "author": "Pachi 🪐 (she/her/ela)",
-  "author_url": "https://dev.to/pachicodes"
+  "author_url": "https://dev.to/pachicodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日はGithubのCo-Pilotを紹介します。多くの人に取って代わることができる技術です...",
+      "title": "Github Co-Pilot。人工知能を用いたペアプログラミング"
+    },
+    {
+      "locale": "zh",
+      "description": "今天我在这里向大家介绍Github的Co-Pilot，这项技术可以取代很多人...",
+      "title": "Github Co-Pilot: 结对编程与人工智能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天我在這裏向大家介紹Github的Co-Pilot，這項技術可以取代很多人...",
+      "title": "Github Co-Pilot: 結對編程與人工智能"
+    }
+  ]
 }
