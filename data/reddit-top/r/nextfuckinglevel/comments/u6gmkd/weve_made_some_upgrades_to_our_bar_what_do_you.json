@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バーがグレードアップしました! いかがでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我们已经对我们的酒吧进行了一些升级! 你觉得怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們已經對我們的酒吧進行了一些升級! 你覺得怎麼樣？"
+    }
+  ]
 }
