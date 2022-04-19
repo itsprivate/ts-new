@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-19T07:05:28Z"
+  "original_createdAt": "2022-04-19T07:05:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chakra UIとReactのためのオープンソース管理者テンプレート、Horizon UIでダッシュボードの構築を始めましょう!",
+      "tagline": "流行のオープンソースReact管理画面テンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Horizon UI开始构建你的仪表板，这是Chakra UI和React最时尚的开源管理模板",
+      "tagline": "最流行的开源React管理模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Horizon UI開始構建你的儀表板，這是Chakra UI和React最時尚的開源管理模板",
+      "tagline": "最流行的開源React管理模板"
+    }
+  ]
 }
