@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "練習すれば何でもできる"
+    },
+    {
+      "locale": "zh",
+      "title": "任何事情都是可能的，只要你实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "任何事情都是可能的，只要你實踐"
+    }
+  ]
 }
