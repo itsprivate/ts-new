@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-18T15:48:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GuxeLQdQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fmpca1adw2br56ev05oe.png",
   "author": "Bobby Plunkett",
-  "author_url": "https://dev.to/skinnypetethegiraffe"
+  "author_url": "https://dev.to/skinnypetethegiraffe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Context 私が開発を始めた頃は、REST APIが主流で、すべての開発現場でデファクトになっていました。",
+      "title": "RESTとGraphQL、あなたはどちらを選びますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "背景 当我开始开发时，REST API是最常用的，并成为事实上的所有。",
+      "title": "REST和GraphQL，你选择哪个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "背景 當我開始開發時，REST API是最常用的，併成爲事實上的所有。",
+      "title": "REST和GraphQL，你選擇哪個？"
+    }
+  ]
 }
