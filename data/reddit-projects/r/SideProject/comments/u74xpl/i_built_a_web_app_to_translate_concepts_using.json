@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Wikipediaの記事を使って概念を翻訳するWebアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个网络应用，利用维基百科的文章来翻译概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個網絡應用，利用維基百科的文章來翻譯概念"
+    }
+  ]
 }
