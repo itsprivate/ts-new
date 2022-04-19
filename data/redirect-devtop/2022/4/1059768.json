@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-18T17:45:09Z",
   "image": "https://dev.to/social_previews/article/1059768.png",
   "author": "Bhupesh Varshney 👾",
-  "author_url": "https://dev.to/bhupesh"
+  "author_url": "https://dev.to/bhupesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gitは2005年に誕生し、おそらく90%の開発者が毎日使っているはずです。",
+      "title": "gitの気に入らない点は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Git从2005年开始诞生，可能90%的开发者每天都在使用它，有哪些...",
+      "title": "你不喜欢git的哪些地方？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Git從2005年開始誕生，可能90%的開發者每天都在使用它，有哪些...",
+      "title": "你不喜歡git的哪些地方？"
+    }
+  ]
 }
