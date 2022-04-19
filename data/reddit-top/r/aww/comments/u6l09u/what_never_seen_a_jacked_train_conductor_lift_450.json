@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "え...？ジャッキアップした車掌がコーギーを背負って450ポンドを持ち上げるのを見たことがない？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么......？没见过一个千斤重的火车售票员背着一只柯基犬举起450磅？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼......？沒見過一個千斤重的火車售票員揹着一隻柯基犬舉起450磅？"
+    }
+  ]
 }
