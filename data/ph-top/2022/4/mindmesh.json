@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-19T07:01:00Z"
+  "original_createdAt": "2022-04-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mindmeshは、あなたをコントロールするためのワークスペースです。仕事、メモ、ToDo、ミーティングを一元管理。Gmail、Slack、Jira...すべてのツールから仕事を取り込むことができます。一瞬で戻ることができます。今、やるべきことに集中できる。",
+      "tagline": "一日をコントロールするバーチャルデスク"
+    },
+    {
+      "locale": "zh",
+      "description": "Mindmesh是一个让你掌控的工作空间。集中管理工作、笔记、待办事项和会议。从你所有的工具中引入工作 - Gmail、Slack、Jira... 瞬间跳回。专注于你应该做的事情，现在就做。",
+      "tagline": "让你控制你的一天的虚拟办公桌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Mindmesh是一個讓你掌控的工作空間。集中管理工作、筆記、待辦事項和會議。從你所有的工具中引入工作 - Gmail、Slack、Jira... 瞬間跳回。專注於你應該做的事情，現在就做。",
+      "tagline": "讓你控制你的一天的虛擬辦公桌"
+    }
+  ]
 }
