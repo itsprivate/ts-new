@@ -44,5 +44,22 @@
   "original_created_at": "2022-04-19T05:39:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B5JPgql3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/giocca525ab5ls3x60uf.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この旅を始めてからかなり早い段階で、完璧を目指すのは無理だと悟りました。",
+      "title": "間違いは大丈夫ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "很早以前，在开始这段旅程时，我就意识到作为一个人，完美是不可能实现的。",
+      "title": "错误可以吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很早以前，在開始這段旅程時，我就意識到作爲一個人，完美是不可能實現的。",
+      "title": "錯誤可以嗎？"
+    }
+  ]
 }
