@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "砂の城が作れるのに、どうして砂の城を作るの？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能做这些，为什么还要做沙堡？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能做這些，爲什麼還要做沙堡？"
+    }
+  ]
 }
