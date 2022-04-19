@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-19T05:37:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--owB7ts1J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z8zqr4fbd8pxnbpl52w6.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppSeedの新バージョンは、デザインの改善とサイト構造の完全なリファクタリングによって実現しました。",
+      "title": "AppSeed - 新バージョン"
+    },
+    {
+      "locale": "zh",
+      "description": "新版本的AppSeed已经上线--改进了设计并完全重构了网站结构。",
+      "title": "AppSeed - 新版本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新版本的AppSeed已經上線--改進了設計並完全重構了網站結構。",
+      "title": "AppSeed - 新版本"
+    }
+  ]
 }
