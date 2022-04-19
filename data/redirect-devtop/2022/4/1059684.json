@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-18T14:28:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tsjKZDBx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/noyk0vk0y71dts6cd5vy.png",
   "author": "Paulo Castro",
-  "author_url": "https://dev.to/cyytrus"
+  "author_url": "https://dev.to/cyytrus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事を書くきっかけとなったのは、私がプラグの勉強で苦労したことです。",
+      "title": "エリクサーにプラグインを導入"
+    },
+    {
+      "locale": "zh",
+      "description": "导言这篇文章的动机来自于我在学习《插头》时遇到的一个困难。",
+      "title": "了解插头的作用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "導言這篇文章的動機來自於我在學習《插頭》時遇到的一個困難。",
+      "title": "瞭解插頭的作用"
+    }
+  ]
 }
