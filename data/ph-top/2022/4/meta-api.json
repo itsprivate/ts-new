@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-19T08:56:01Z"
+  "original_createdAt": "2022-04-19T08:56:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Meta APIは、統合がチームの延長となり、一貫してスピードと敏捷性を備えたイノベーションを提供することを可能にします。* API認証管理 * 自動デプロイメントとモニタリング",
+      "tagline": "次世代オートメーションの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Meta API是集成成为你的团队的延伸，使你能够始终如一地以速度和敏捷性提供创新。* 导入和使用您自己的API * API认证管理 * 自动部署和监控",
+      "tagline": "建立下一级的自动化系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Meta API是集成成爲你的團隊的延伸，使你能夠始終如一地以速度和敏捷性提供創新。* 導入和使用您自己的API * API認證管理 * 自動部署和監控",
+      "tagline": "建立下一級的自動化系統"
+    }
+  ]
 }
