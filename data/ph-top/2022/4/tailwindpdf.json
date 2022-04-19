@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-19T08:57:53Z"
+  "original_createdAt": "2022-04-19T08:57:53Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "tailwindpdfを使えば、tailwindcssでスタイル付けされたHTMLから、PDFや画像を作成することができます。",
+      "tagline": "tailwindcssでスタイル付けしたHTMLからPDFや画像を作成する。"
+    },
+    {
+      "locale": "zh",
+      "description": "有了tailwindpdf，你就可以从用tailwindcss设计的HTML中创建PDF和图像。",
+      "tagline": "用tailwindcss样式的HTML创建PDF或图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了tailwindpdf，你就可以從用tailwindcss設計的HTML中創建PDF和圖像。",
+      "tagline": "用tailwindcss樣式的HTML創建PDF或圖片"
+    }
+  ]
 }
