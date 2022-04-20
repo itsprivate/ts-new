@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UPSとUSPSが同時に表示された場合"
+    },
+    {
+      "locale": "zh",
+      "title": "当UPS和USPS同时出现的时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當UPS和USPS同時出現的時候"
+    }
+  ]
 }

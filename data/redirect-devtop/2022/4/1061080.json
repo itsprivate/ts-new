@@ -41,5 +41,22 @@
   "original_created_at": "2022-04-19T20:16:25Z",
   "image": "https://dev.to/social_previews/article/1061080.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は頻繁に、master以外のローカルブランチを削除するコードを検索し、コピー＆ペーストできるようにしています。",
+      "title": "ローカルの git ブランチをすべて削除し、main ブランチは残す。"
+    },
+    {
+      "locale": "zh",
+      "description": "我经常搜索代码，以删除除Master之外的所有本地分支，这样我就可以复制/粘贴...",
+      "title": "删除所有的本地git分支，但保留主分支"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我經常搜索代碼，以刪除除Master之外的所有本地分支，這樣我就可以複製/粘貼...",
+      "title": "刪除所有的本地git分支，但保留主分支"
+    }
+  ]
 }
