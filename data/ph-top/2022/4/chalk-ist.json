@@ -52,5 +52,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-20T07:01:00Z"
+  "original_createdAt": "2022-04-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソースコードの美しい画像を作成",
+      "tagline": "ソースコードの美しい画像を作成"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的源代码创建美丽的图像",
+      "tagline": "为你的源代码创建美丽的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的源代碼創建美麗的圖像",
+      "tagline": "爲你的源代碼創建美麗的圖像"
+    }
+  ]
 }
