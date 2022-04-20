@@ -58,5 +58,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just a heads up for those of you who may be unaware, perhaps you haven't been\ngetting the emails, or ignoring them as spam, like me. Coinbase, Gemini, and\nPublic are just three exchanges I use, and ALL are affected by this (others\ninclude Robinhood and Venmo). When you initially make an account…"
+  "the_new_excerpt": "Just a heads up for those of you who may be unaware, perhaps you haven't been\ngetting the emails, or ignoring them as spam, like me. Coinbase, Gemini, and\nPublic are just three exchanges I use, and ALL are affected by this (others\ninclude Robinhood and Venmo). When you initially make an account…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もしかしたら、ご存じない方もいらっしゃるかもしれませんので、一応お知らせしておきますと\nメールを受け取っていないか、私のようにスパムとして無視しているかもしれません。Coinbase、Gemini、そして\nPublicは私が使っている3つの取引所ですが、すべてこの影響を受けています（他にはRobinhoodやVenmoなど\nRobinhoodやVenmoも含まれます）。最初にアカウントを作るとき..."
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是给那些可能不知道的人提个醒，也许你没有收到过\n收到这些邮件，或者像我一样把它们当作垃圾邮件忽略掉。Coinbase, Gemini, 和\nPublic是我使用的三个交易所，所有这些交易所都受到影响（其他交易所包括\n包括Robinhood和Venmo）。当你最初创建一个账户时...",
+      "title": "对Plaid的集体诉讼：如果你去年使用Coinbase或Gemini等加密货币交易所，Plaid储存并出售了你的银行信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是給那些可能不知道的人提個醒，也許你沒有收到過\n收到這些郵件，或者像我一樣把它們當作垃圾郵件忽略掉。Coinbase, Gemini, 和\nPublic是我使用的三個交易所，所有這些交易所都受到影響（其他交易所包括\n包括Robinhood和Venmo）。當你最初創建一個賬戶時...",
+      "title": "對Plaid的集體訴訟：如果你去年使用Coinbase或Gemini等加密貨幣交易所，Plaid儲存並出售了你的銀行信息"
+    }
+  ]
 }
