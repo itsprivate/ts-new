@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウェブ上からめちゃめちゃ便利なサイトを発見するためのサイトを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，帮助你从网上发现非常有用的网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，幫助你從網上發現非常有用的網站。"
+    }
+  ]
 }
