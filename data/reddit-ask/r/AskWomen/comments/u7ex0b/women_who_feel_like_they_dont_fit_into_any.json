@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "*do?"
+  "the_new_excerpt": "*do?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "*do?",
+      "title": "どの友人グループにも当てはまらないと感じている女性たち、あなたはどうですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "*做？",
+      "title": "感觉自己不适合任何友谊团体的女性--你是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "*做？",
+      "title": "感覺自己不適合任何友誼團體的女性--你是什麼？"
+    }
+  ]
 }
