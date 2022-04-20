@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "然様"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，孩子..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，孩子..."
+    }
+  ]
 }
