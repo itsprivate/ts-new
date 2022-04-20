@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このままでは衰退していく一方だ 覚悟を決めたほうがいい"
+    },
+    {
+      "locale": "zh",
+      "title": "这事只会走下坡路，不如做好准备。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這事只會走下坡路，不如做好準備。"
+    }
+  ]
 }

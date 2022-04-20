@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Walk to pay phone? Other options"
+  "the_new_excerpt": "Walk to pay phone? Other options",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "公衆電話まで歩く？その他のオプション",
+      "title": "私は30歳で、11年生から携帯電話を持っています。誰もいないところで車が故障したとき、昔の人はどうしていたのでしょう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "步行到付费电话？其他选择",
+      "title": "我30岁了，从11年级起就有了手机，以前人们在车坏在半路上的时候会怎么做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "步行到付費電話？其他選擇",
+      "title": "我30歲了，從11年級起就有了手機，以前人們在車壞在半路上的時候會怎麼做。"
+    }
+  ]
 }

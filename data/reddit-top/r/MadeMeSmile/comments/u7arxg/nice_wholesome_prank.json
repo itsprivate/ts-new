@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "健全な悪ふざけ"
+    },
+    {
+      "locale": "zh",
+      "title": "好一个健康的恶作剧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好一個健康的惡作劇"
+    }
+  ]
 }

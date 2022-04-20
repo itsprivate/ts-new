@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1000 IQレベル"
+    },
+    {
+      "locale": "zh",
+      "title": "1000智商水平"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1000智商水平"
+    }
+  ]
 }
