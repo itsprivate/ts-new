@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シェルターから新しく飼われることになった犬。新しい飼い主の手を片時も離さない犬"
+    },
+    {
+      "locale": "zh",
+      "title": "新近从收容所收养的狗。这只狗一刻也不肯放开新主人的手"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新近從收容所收養的狗。這隻狗一刻也不肯放開新主人的手"
+    }
+  ]
 }
