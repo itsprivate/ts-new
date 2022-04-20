@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-20T07:01:00Z"
+  "original_createdAt": "2022-04-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LTTR/INKは、ストロークを完全にきれいなアウトラインでベクター化するAdobe Illustrator用のストローク描画プラグインです。ベクターパスをスケルトンにして、ブラシでストロークを描き始める。スケルトンタイプデザインのコンセプトは、LTTR/INK for Glyphsで実証済みです。",
+      "tagline": "ストロークを正確なアウトラインにベクトル化する唯一のブラシ"
+    },
+    {
+      "locale": "zh",
+      "description": "LTTR/INK是Adobe Illustrator的笔触绘制插件，它可以将笔触矢量化，使其具有完美的轮廓线。开始使用矢量路径作为骨架，用笔刷绘制笔画。骨架字体设计的概念通过LTTR/INK for Glyphs得到了验证。",
+      "tagline": "唯一能将笔触矢量化为精确轮廓的画笔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LTTR/INK是Adobe Illustrator的筆觸繪製插件，它可以將筆觸矢量化，使其具有完美的輪廓線。開始使用矢量路徑作爲骨架，用筆刷繪製筆畫。骨架字體設計的概念通過LTTR/INK for Glyphs得到了驗證。",
+      "tagline": "唯一能將筆觸矢量化爲精確輪廓的畫筆"
+    }
+  ]
 }
