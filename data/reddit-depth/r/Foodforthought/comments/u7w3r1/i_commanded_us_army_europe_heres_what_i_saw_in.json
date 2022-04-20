@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はヨーロッパ米軍を指揮していた。ロシアとウクライナの軍隊で見たものはこれだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我指挥过欧洲的美国陆军。以下是我在俄罗斯和乌克兰军队中看到的情况。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我指揮過歐洲的美國陸軍。以下是我在俄羅斯和烏克蘭軍隊中看到的情況。"
+    }
+  ]
 }
