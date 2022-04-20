@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが正直なところ、ハードウェアウォレットの最も実用的な使い方だと思います。なぜみんなデスクトップで使っているのかわからない？"
+    },
+    {
+      "locale": "zh",
+      "title": "老实说，这是使用硬件钱包最实用的方式。不知道为什么每个人都在桌面上使用他们的钱包？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老實說，這是使用硬件錢包最實用的方式。不知道爲什麼每個人都在桌面上使用他們的錢包？"
+    }
+  ]
 }
