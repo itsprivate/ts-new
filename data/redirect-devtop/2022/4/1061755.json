@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-20T15:10:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PTZZvRXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9adbbjzf8mm1urag1ojm.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "gitのどのコマンドや概念を理解し、使用するのに苦労していますか...",
+      "title": "あなたが苦労しているgitコマンドはどれですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "哪些git命令和概念是你很难理解和使用的？",
+      "title": "你对哪些git命令感到纠结？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "哪些git命令和概念是你很難理解和使用的？",
+      "title": "你對哪些git命令感到糾結？"
+    }
+  ]
 }
