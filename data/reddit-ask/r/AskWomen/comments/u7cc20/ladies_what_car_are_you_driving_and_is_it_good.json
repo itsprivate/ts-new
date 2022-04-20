@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is there something special about that particular car that makes you attached to\nit?"
+  "the_new_excerpt": "Is there something special about that particular car that makes you attached to\nit?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そのクルマには、何か特別な愛着があるのでしょうか。\n何か特別なものがありますか？",
+      "title": "女性の皆さん、どんな車に乗っていますか、そしてそれは良いものですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这辆车是否有什么特别之处，使你对它情有独钟？\n它？",
+      "title": "女士们，你们开的是什么车，它好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這輛車是否有什麼特別之處，使你對它情有獨鍾？\n它？",
+      "title": "女士們，你們開的是什麼車，它好嗎？"
+    }
+  ]
 }
