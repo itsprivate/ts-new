@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Chakra UIとReactに対応した、最もトレンディなオープンソースの無料管理画面テンプレート!"
+    },
+    {
+      "locale": "zh",
+      "title": "最时尚的Chakra UI和React的免费开源管理模板!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最時尚的Chakra UI和React的免費開源管理模板!"
+    }
+  ]
 }

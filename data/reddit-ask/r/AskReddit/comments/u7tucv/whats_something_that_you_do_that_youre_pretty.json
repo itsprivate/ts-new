@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがやっていることで、普通だと確信しているけれども、はっきりとはわからないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你所做的什么事情你很确定是正常的，但你并不确定？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你所做的什麼事情你很確定是正常的，但你並不確定？"
+    }
+  ]
 }
