@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誕生日を控えた友人にRIPを。(BTCの話ばかりしていると、もう文句を言われます）。"
+    },
+    {
+      "locale": "zh",
+      "title": "给我那些即将过生日的朋友们的RIP。(他们已经抱怨我谈论BTC太多了）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給我那些即將過生日的朋友們的RIP。(他們已經抱怨我談論BTC太多了）。"
+    }
+  ]
 }

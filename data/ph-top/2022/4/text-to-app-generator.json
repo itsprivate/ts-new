@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-20T07:07:49Z"
+  "original_createdAt": "2022-04-20T07:07:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "No Code Text to App Generatorは、AIを活用してテキストをネイティブのアンドロイドやiOSのモバイルアプリに変換します。音声またはテキストを入力するだけで、この革新的なテクノロジーが文脈を理解し、数分で完全に機能するアプリを作成します。",
+      "tagline": "コーディングなしでテキストをモバイルアプリに"
+    },
+    {
+      "locale": "zh",
+      "description": "No Code Text to App Generator利用AI将文本转换为本地安卓和iOS移动应用程序。你所要做的就是提供语音或文字输入，这项革命性的技术将理解上下文并在几分钟内创建一个功能齐全的应用程序。",
+      "tagline": "不需要任何编码就能将文本变成移动应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "No Code Text to App Generator利用AI將文本轉換爲本地安卓和iOS移動應用程序。你所要做的就是提供語音或文字輸入，這項革命性的技術將理解上下文並在幾分鐘內創建一個功能齊全的應用程序。",
+      "tagline": "不需要任何編碼就能將文本變成移動應用程序"
+    }
+  ]
 }
