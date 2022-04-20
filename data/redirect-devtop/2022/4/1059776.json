@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-18T18:00:33Z",
   "image": "https://dev.to/social_previews/article/1059776.png",
   "author": "Katie",
-  "author_url": "https://dev.to/katieraby"
+  "author_url": "https://dev.to/katieraby",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Testing Libraryは、フロントエンドテストのための人気の高いテストユーティリティツールです。 課題が発生することも...",
+      "title": "React Testing Libraryでtesting-playgroundを使用する。"
+    },
+    {
+      "locale": "zh",
+      "description": "React测试库是一个流行的测试实用工具，用于前端测试。 挑战可能会出现...",
+      "title": "在React测试库中使用testing-playground"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React測試庫是一個流行的測試實用工具，用於前端測試。 挑戰可能會出現...",
+      "title": "在React測試庫中使用testing-playground"
+    }
+  ]
 }
