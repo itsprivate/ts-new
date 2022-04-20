@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Webullは、なぜBitcoinがお金ではないのかを説明しようとするメールを送ってきました(笑)"
+    },
+    {
+      "locale": "zh",
+      "title": "Webull刚刚给我发了一封邮件，试图解释为什么比特币不是钱 lol"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Webull剛剛給我發了一封郵件，試圖解釋爲什麼比特幣不是錢 lol"
+    }
+  ]
 }
