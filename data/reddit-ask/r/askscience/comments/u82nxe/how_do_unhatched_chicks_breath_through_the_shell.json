@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "They need oxygen but they can't get it from the mother like a mammal.."
+  "the_new_excerpt": "They need oxygen but they can't get it from the mother like a mammal..",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "酸素が必要ですが、哺乳類のように母親からもらうことができないのです。",
+      "title": "孵化していないヒナは、どのようにして殻の中で呼吸しているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们需要氧气，但他们不能像哺乳动物那样从母亲那里获得氧气。",
+      "title": "未孵化的雏鸟如何通过壳呼吸？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們需要氧氣，但他們不能像哺乳動物那樣從母親那裏獲得氧氣。",
+      "title": "未孵化的雛鳥如何通過殼呼吸？"
+    }
+  ]
 }
