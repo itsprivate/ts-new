@@ -77,5 +77,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-20T07:01:00Z"
+  "original_createdAt": "2022-04-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "毎日の生産性向上とコラボレーションのために使うツールです 🎯 Ricotta Todosで、タスクリストの作成と共有、Slackメッセージのブックマーク、リマインダーの設定、タイムラインの見逃しをなくしましょう。Slackでの作業を効率化します。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个你将用于日常生产力和协作的工具! 🎯 使用Ricotta Todos，可以创建和分享任务列表，为Slack信息添加书签，设置提醒，并且绝不会错过时间线。让在Slack上工作变得高效。",
+      "tagline": "在Slack上管理你的待办事项清单、提醒和书签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個你將用於日常生產力和協作的工具! 🎯 使用Ricotta Todos，可以創建和分享任務列表，爲Slack信息添加書籤，設置提醒，並且絕不會錯過時間線。讓在Slack上工作變得高效。",
+      "tagline": "在Slack上管理你的待辦事項清單、提醒和書籤"
+    }
+  ]
 }
