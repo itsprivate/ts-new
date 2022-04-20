@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-19T12:55:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6eb3qHMV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7xwf12avj2jbo6wt37iz.jpeg",
   "author": "Julien Maury",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "弱いパスワードについて説明します。          明らかな弱点 以下のパスワードは、必ず...",
+      "title": "あなたのパスワードは強固だと思う？"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来谈谈弱点密码。          明显的弱点 以下密码必须是...",
+      "title": "所以你认为你的密码很强"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來談談弱點密碼。          明顯的弱點 以下密碼必須是...",
+      "title": "所以你認爲你的密碼很強"
+    }
+  ]
 }
