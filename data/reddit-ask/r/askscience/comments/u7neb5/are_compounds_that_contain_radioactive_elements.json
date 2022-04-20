@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Asked another way: is radioactivity affected by the fact that the radionuclide\nis bound with other atoms in a compound?"
+  "the_new_excerpt": "Asked another way: is radioactivity affected by the fact that the radionuclide\nis bound with other atoms in a compound?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "放射性核種が化合物の中で他の原子と結合していることは、放射能に影響するのでしょうか？\n放射性核種が化合物の中で他の原子と結合していることによって、放射能は影響を受けるのでしょうか？",
+      "title": "放射性元素を含む化合物も放射性物質なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "换个角度问：放射性活动是否受到放射性核素的影响？\n与化合物中的其他原子结合，是否会影响放射性？",
+      "title": "含有放射性元素的化合物是否也具有放射性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "換個角度問：放射性活動是否受到放射性核素的影響？\n與化合物中的其他原子結合，是否會影響放射性？",
+      "title": "含有放射性元素的化合物是否也具有放射性？"
+    }
+  ]
 }
