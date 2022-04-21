@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんなことがあっても絶対にやらないことは？"
+    },
+    {
+      "locale": "zh",
+      "title": "在任何情况下，你都不会做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在任何情況下，你都不會做什麼？"
+    }
+  ]
 }
