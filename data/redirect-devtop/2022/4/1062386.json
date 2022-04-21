@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-21T05:10:53Z",
   "image": "https://dev.to/social_previews/article/1062386.png",
   "author": "valeshgopal",
-  "author_url": "https://dev.to/valeshgopal"
+  "author_url": "https://dev.to/valeshgopal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webページ上の各要素をボックスで囲みます。これらのボックスの配置によって、...",
+      "title": "CSSボックスモデルの簡略化"
+    },
+    {
+      "locale": "zh",
+      "description": "网页上的每个元素都被一个盒子包裹着。这些盒子的排列组成了网页的结构。",
+      "title": "简化的CSS盒式模型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網頁上的每個元素都被一個盒子包裹着。這些盒子的排列組成了網頁的結構。",
+      "title": "簡化的CSS盒式模型"
+    }
+  ]
 }
