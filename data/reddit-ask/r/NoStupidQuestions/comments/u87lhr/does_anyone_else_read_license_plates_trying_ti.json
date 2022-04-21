@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ナンバープレートを読むとき、ランダムでもいいから言葉を聞き出そうとする人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有人在看车牌时，即使是随机的，也会试图找出其中的文字？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有人在看車牌時，即使是隨機的，也會試圖找出其中的文字？"
+    }
+  ]
 }
