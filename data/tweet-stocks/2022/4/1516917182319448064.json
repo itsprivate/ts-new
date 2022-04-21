@@ -52,5 +52,22 @@
     },
     "retweet_count": 154,
     "favorite_count": 1732
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: またもやアイカーンがアックマンを追い込む\n\nアイカーン NFLXの利益: 20億ドル\nアックマンNFLXの損失: $430MM",
+      "retweeted_status_full_text": "またもやアイカーンがアックマンを追い込む\n\nアイカーン NFLXの利益：20億ドル\nアックマン NFLXの損失: $430MM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 然而，伊坎又一次把阿克曼逼上了绝路。\n\n伊坎NFLX利润：20亿美元\n阿克曼NFLX损失：4.3亿美元",
+      "retweeted_status_full_text": "伊坎再次挤兑阿克曼\n\n伊坎NFLX利润：20亿美元\n阿克曼NFLX损失：4.3亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 然而，伊坎又一次把阿克曼逼上了絕路。\n\n伊坎NFLX利潤：20億美元\n阿克曼NFLX損失：4.3億美元",
+      "retweeted_status_full_text": "伊坎再次擠兌阿克曼\n\n伊坎NFLX利潤：20億美元\n阿克曼NFLX損失：4.3億美元"
+    }
+  ]
 }
