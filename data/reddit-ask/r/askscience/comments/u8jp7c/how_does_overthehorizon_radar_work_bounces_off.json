@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "or what?"
+  "the_new_excerpt": "or what?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それとも何？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "还是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "還是什麼？"
+    }
+  ]
 }
