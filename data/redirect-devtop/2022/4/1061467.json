@@ -48,5 +48,21 @@
   "original_created_at": "2022-04-20T07:59:20Z",
   "image": "https://dev.to/social_previews/article/1061467.png",
   "author": "Adam Crockett",
-  "author_url": "https://dev.to/adam_cyclones"
+  "author_url": "https://dev.to/adam_cyclones",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "年齢に関すること：崖"
+    },
+    {
+      "locale": "zh",
+      "description": "来自JavaScript状态调查的图表，结果显示随着时间的推移，JavaScript开发人员越来越少。",
+      "title": "关于年龄：悬崖"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "來自JavaScript狀態調查的圖表，結果顯示隨着時間的推移，JavaScript開發人員越來越少。",
+      "title": "關於年齡：懸崖"
+    }
+  ]
 }
