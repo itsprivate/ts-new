@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "all that bacteria touching my torn tissue paper but no infection. weird."
+  "the_new_excerpt": "all that bacteria touching my torn tissue paper but no infection. weird.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "破れたティッシュペーパーに細菌が触れても、感染しないんだ。",
+      "title": "なぜ、開いた涙、肛門の切り傷は即座に感染しないのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所有的细菌都接触到我撕碎的纸巾，但没有感染。",
+      "title": "为什么打开的眼泪，屁股上的伤口不会立即被感染？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所有的細菌都接觸到我撕碎的紙巾，但沒有感染。",
+      "title": "爲什麼打開的眼淚，屁股上的傷口不會立即被感染？"
+    }
+  ]
 }
