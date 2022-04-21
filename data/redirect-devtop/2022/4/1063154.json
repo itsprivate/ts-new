@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-21T18:54:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--22FGFmWU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zu8wlxha6yccdxag8d0b.jpg",
   "author": "Tessa Mero",
-  "author_url": "https://dev.to/tessamero"
+  "author_url": "https://dev.to/tessamero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しい旅が始まる <3",
+      "title": "Appwriteのデベロッパーリレーションズ責任者としての新たな旅立ち"
+    },
+    {
+      "locale": "zh",
+      "description": "新的旅程开始了 <3",
+      "title": "在Appwrite担任开发者关系主管的新旅程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "新的旅程開始了 <3",
+      "title": "在Appwrite擔任開發者關係主管的新旅程"
+    }
+  ]
 }
