@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は金融に疎いサイコパスです"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一个不懂财务的精神病患者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一個不懂財務的精神病患者"
+    }
+  ]
 }
