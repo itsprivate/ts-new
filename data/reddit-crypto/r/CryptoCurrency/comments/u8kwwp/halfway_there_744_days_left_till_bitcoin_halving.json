@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中途半端。ビットコイン半減まであと744日"
+    },
+    {
+      "locale": "zh",
+      "title": "进展到一半了。距离比特币减半还有744天"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "進展到一半了。距離比特幣減半還有744天"
+    }
+  ]
 }
