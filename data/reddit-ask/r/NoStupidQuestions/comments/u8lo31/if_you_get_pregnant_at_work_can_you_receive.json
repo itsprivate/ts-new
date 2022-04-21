@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "仕事中に妊娠した場合、妊娠中に労災を受けることができますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你在工作中怀孕，在怀孕期间你能得到工伤赔偿吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你在工作中懷孕，在懷孕期間你能得到工傷賠償嗎？"
+    }
+  ]
 }
