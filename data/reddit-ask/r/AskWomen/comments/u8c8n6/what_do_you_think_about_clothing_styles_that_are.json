@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What do you think about clothing styles that are popular today?"
+  "the_new_excerpt": "What do you think about clothing styles that are popular today?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今、流行している洋服のスタイルについてどう思いますか？",
+      "title": "今、流行している洋服のスタイルについてどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你对今天流行的服装风格有什么看法？",
+      "title": "你对当今流行的服装风格有什么看法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你對今天流行的服裝風格有什麼看法？",
+      "title": "你對當今流行的服裝風格有什麼看法？"
+    }
+  ]
 }
