@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "舞台と映画の境界をあいまいにする"
+    },
+    {
+      "locale": "zh",
+      "title": "模糊舞台和电影之间的界限"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "模糊舞臺和電影之間的界限"
+    }
+  ]
 }
