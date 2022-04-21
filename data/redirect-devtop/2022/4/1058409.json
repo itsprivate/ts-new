@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-17T07:19:36Z",
   "image": "https://dev.to/social_previews/article/1058409.png",
   "author": "Rahul Sharma",
-  "author_url": "https://dev.to/devsmitra"
+  "author_url": "https://dev.to/devsmitra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptのコンソールオブジェクトは、ブラウザのデバッグ機能へのアクセスを提供するグローバルオブジェクトです...",
+      "title": "Javascriptのコンソールメソッド。開発者のためのチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "一个Javascript控制台对象是一个全局对象，提供对浏览器调试的访问。",
+      "title": "脚本控制台方法。开发人员的小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個Javascript控制檯對象是一個全局對象，提供對瀏覽器調試的訪問。",
+      "title": "腳本控制檯方法。開發人員的小抄"
+    }
+  ]
 }
