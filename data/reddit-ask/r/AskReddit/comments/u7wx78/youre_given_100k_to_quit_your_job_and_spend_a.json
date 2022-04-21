@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは10万ドルを与えられ、仕事を辞め、1年かけて新しい何かの専門家になることを決めます。それは何でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "给你10万美元，让你辞掉工作，花一年时间成为新事物的专家。那是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給你10萬美元，讓你辭掉工作，花一年時間成爲新事物的專家。那是什麼？"
+    }
+  ]
 }

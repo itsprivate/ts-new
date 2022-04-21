@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "よく引用されるのに、あまり読まれない本は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些书经常被引用，但很少被阅读？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些書經常被引用，但很少被閱讀？"
+    }
+  ]
 }
