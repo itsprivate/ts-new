@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パパが親権を取得"
+    },
+    {
+      "locale": "zh",
+      "title": "爸爸得到了完全的监护权"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爸爸得到了完全的監護權"
+    }
+  ]
 }
