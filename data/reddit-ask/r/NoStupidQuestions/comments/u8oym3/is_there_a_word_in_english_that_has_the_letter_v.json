@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英語で、'V'の後に母音がつかない単語はありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在英语中，是否有一个单词有字母 \"V \"且后面没有元音？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在英語中，是否有一個單詞有字母 \"V \"且後面沒有元音？"
+    }
+  ]
 }
