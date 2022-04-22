@@ -48,5 +48,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://slackscheduler.vercel.app/"
+  "the_new_excerpt": "https://slackscheduler.vercel.app/",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://slackscheduler.vercel.app/",
+      "title": "Slackのステータスを自動化して時間を節約できるサイトを作ってみた / メンタルヘルスの話"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://slackscheduler.vercel.app/",
+      "title": "我做了一个网站，可以让你自动处理Slack状态，节省你的时间/精神健康"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://slackscheduler.vercel.app/",
+      "title": "我做了一個網站，可以讓你自動處理Slack狀態，節省你的時間/精神健康"
+    }
+  ]
 }
