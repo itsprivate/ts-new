@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんどん良くなっていく？もっと悪い？それはあなたが決めること"
+    },
+    {
+      "locale": "zh",
+      "title": "它一直在变得更好？更糟？我不知道，你决定吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它一直在變得更好？更糟？我不知道，你決定吧"
+    }
+  ]
 }

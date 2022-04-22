@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最終的に0.1ビットコインに到達したら・・・。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你最终达到0.1比特币时......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你最終達到0.1比特幣時......"
+    }
+  ]
 }
