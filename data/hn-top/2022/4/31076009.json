@@ -3,7 +3,7 @@
   "title": "Arbitrary file write vulnerability in GNU gzip's zgrep utility",
   "url": "https://access.redhat.com/security/cve/cve-2022-1271",
   "author": "perihelions",
-  "points": 112,
+  "points": 151,
   "num_comments": 47,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "GNU gzip的zgrep工具存在任意寫入文件的漏洞"
     }
-  ]
+  ],
+  "source_updated_at": 1650620681396
 }
