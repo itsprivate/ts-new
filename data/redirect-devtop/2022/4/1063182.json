@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-21T20:24:43Z",
   "image": "https://dev.to/social_previews/article/1063182.png",
   "author": "Prosper Yong",
-  "author_url": "https://dev.to/yongdev"
+  "author_url": "https://dev.to/yongdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、prosperです。PCが壊れてしまい、代わりのPCが必要です。",
+      "title": "助けてください"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我是繁荣，目前有一个停机时间。我的电脑坏了，我需要一个替代品。请...",
+      "title": "请帮助我!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我是繁榮，目前有一個停機時間。我的電腦壞了，我需要一個替代品。請...",
+      "title": "請幫助我!"
+    }
+  ]
 }
