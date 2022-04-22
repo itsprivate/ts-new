@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "正直なところ、何か不安なことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "说实话，你有什么不安全的地方？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說實話，你有什麼不安全的地方？"
+    }
+  ]
 }
