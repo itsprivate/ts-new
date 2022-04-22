@@ -71,5 +71,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-22T07:01:00Z"
+  "original_createdAt": "2022-04-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "STEPNは、ゲームやソーシャルな要素が楽しいWeb3ランニングアプリです。ユーザーは、スニーカーの形をしたNFTを装備します。屋外でウォーキングやジョギング、ランニングをすることで、GSTとNFTを収集することができます。",
+      "tagline": "Web3が動作するアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "STEPN是一个具有有趣的游戏和社交元素的Web3运行应用程序。用户以运动鞋的形式为自己配备了NFTs。通过在户外行走、慢跑或跑步，用户将收集GST和NFTs。",
+      "tagline": "一个正在运行的web3应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "STEPN是一個具有有趣的遊戲和社交元素的Web3運行應用程序。用戶以運動鞋的形式爲自己配備了NFTs。通過在戶外行走、慢跑或跑步，用戶將收集GST和NFTs。",
+      "tagline": "一個正在運行的web3應用程序"
+    }
+  ]
 }
