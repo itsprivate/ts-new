@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "手品が見たい"
+    },
+    {
+      "locale": "zh",
+      "title": "想看一个魔术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "想看一個魔術"
+    }
+  ]
 }
