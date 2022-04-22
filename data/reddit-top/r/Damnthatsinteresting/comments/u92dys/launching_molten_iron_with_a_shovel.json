@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シャベルで溶けた鉄を打ち出す"
+    },
+    {
+      "locale": "zh",
+      "title": "用铲子发射熔化的铁水"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用鏟子發射熔化的鐵水"
+    }
+  ]
 }
