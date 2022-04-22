@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Hi!\n\nI've been experimenting on seeing real-time activity as it happens on Reddit. As\na proof-of-concept I've built a site that shows images posted to Reddit sort of\nin real time.\n\nIt's a SPA built with Vue.js and deployed to Vercel.\n\nAs you can imagine, the result turned out very very NSFW. Reddit…"
+  "the_new_excerpt": "Hi!\n\nI've been experimenting on seeing real-time activity as it happens on Reddit. As\na proof-of-concept I've built a site that shows images posted to Reddit sort of\nin real time.\n\nIt's a SPA built with Vue.js and deployed to Vercel.\n\nAs you can imagine, the result turned out very very NSFW. Reddit…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\nRedditで起きているアクティビティをリアルタイムで見る実験をしています。その実験として\nRedditに投稿された画像をリアルタイムで表示するサイトを作りました。\nリアルタイムで表示するサイトを作りました。\n\nこれはVue.jsで作られたSPAで、Vercelにデプロイされています。\n\nご想像の通り、結果はとてもとてもNSFWなものになりました。Reddit...",
+      "title": "Redditに投稿された全ての画像をストリーミングするサイトを作りました。ネタバレ：とてもNSFWです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好!\n\n我一直在试验如何看到Reddit上发生的实时活动。作为\n作为一个概念验证，我建立了一个网站，显示发布在Reddit上的图片，有点像\n实时的图片。\n\n这是一个用Vue.js构建的SPA，并部署在Vercel上。\n\n你可以想象，其结果是非常非常的NSFW。Reddit...",
+      "title": "我建立了一个网站，将所有张贴在Reddit上的图片进行流式处理。剧透：这是个很有NSFW的网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好!\n\n我一直在試驗如何看到Reddit上發生的實時活動。作爲\n作爲一個概念驗證，我建立了一個網站，顯示發佈在Reddit上的圖片，有點像\n實時的圖片。\n\n這是一個用Vue.js構建的SPA，並部署在Vercel上。\n\n你可以想象，其結果是非常非常的NSFW。Reddit...",
+      "title": "我建立了一個網站，將所有張貼在Reddit上的圖片進行流式處理。劇透：這是個很有NSFW的網站。"
+    }
+  ]
 }
