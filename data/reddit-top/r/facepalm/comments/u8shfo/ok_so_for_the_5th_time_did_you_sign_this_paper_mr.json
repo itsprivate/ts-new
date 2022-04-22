@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それで5回目だけど... この書類にサインしましたか デップさん？"
+    },
+    {
+      "locale": "zh",
+      "title": "好了，这是第五次了... 你在这份文件上签字了吗，德普先生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好了，這是第五次了... 你在這份文件上簽字了嗎，德普先生？"
+    }
+  ]
 }
