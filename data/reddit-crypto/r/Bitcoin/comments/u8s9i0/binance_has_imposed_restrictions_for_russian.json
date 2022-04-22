@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイナンスは、ロシア国民に対して、残高が1万ユーロを超える口座に制限を課しています"
+    },
+    {
+      "locale": "zh",
+      "title": "Binance对俄罗斯公民的账户余额超过10,000欧元施加限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Binance對俄羅斯公民的賬戶餘額超過10,000歐元施加限制"
+    }
+  ]
 }
