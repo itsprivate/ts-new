@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オンラインオーディエンスからマイクロドネーション（0.01ドル～）を受け取る簡単な方法を構築しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个简单的方法来接收来自你的在线受众的小额捐款（从0.01美元起）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個簡單的方法來接收來自你的在線受衆的小額捐款（從0.01美元起）。"
+    }
+  ]
 }

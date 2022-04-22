@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"金融政策が何か良いことをしたことがあるのか？害にしかならなかったと思う。\" - F.A.ハイエク (1984年)"
+    },
+    {
+      "locale": "zh",
+      "title": "\"货币政策曾经做过什么好事吗？我认为它只做了坏事\"。- 哈耶克(F.A. Hayek) (1984)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"貨幣政策曾經做過什麼好事嗎？我認爲它只做了壞事\"。- 哈耶克(F.A. Hayek) (1984)"
+    }
+  ]
 }
