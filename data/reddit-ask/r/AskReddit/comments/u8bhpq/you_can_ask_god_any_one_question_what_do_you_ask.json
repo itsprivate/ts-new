@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "神様に何か1つ質問することができますが、何を質問するのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以问上帝任何一个问题，你问他什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以問上帝任何一個問題，你問他什麼？"
+    }
+  ]
 }

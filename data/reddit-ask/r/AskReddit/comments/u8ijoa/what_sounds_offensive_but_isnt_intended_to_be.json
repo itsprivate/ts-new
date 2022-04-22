@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "攻撃的に聞こえるが、攻撃的であることを意図していないものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西听起来很冒犯，但并不打算冒犯人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西聽起來很冒犯，但並不打算冒犯人？"
+    }
+  ]
 }
