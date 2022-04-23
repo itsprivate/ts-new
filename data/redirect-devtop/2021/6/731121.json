@@ -45,5 +45,22 @@
   "original_created_at": "2021-06-17T15:21:22Z",
   "image": "https://dev.to/social_previews/article/731121.png",
   "author": "Andrey Frolov",
-  "author_url": "https://dev.to/frolovdev"
+  "author_url": "https://dev.to/frolovdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このおとぎ話は、ずいぶん前に始まった。人生ではしばしば、間違った馬に賭けることがありますが、、、。",
+      "title": "OsomeでJavascriptとFlowからTypeScriptに移行した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这个童话故事开始于很久以前。很多时候，你在生活中押错了马，但是，...",
+      "title": "我们如何在Osome从Javascript和Flow迁移到TypeScript的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個童話故事開始於很久以前。很多時候，你在生活中押錯了馬，但是，...",
+      "title": "我們如何在Osome從Javascript和Flow遷移到TypeScript的？"
+    }
+  ]
 }
