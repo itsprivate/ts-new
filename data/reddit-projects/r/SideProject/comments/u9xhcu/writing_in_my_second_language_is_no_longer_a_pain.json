@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "第二外国語で文章を書くのが苦にならない-ai搭載の文章作成支援ソフトを構築"
+    },
+    {
+      "locale": "zh",
+      "title": "用第二语言写作对我来说不再是件痛苦的事--建立了一个由AI驱动的写作助手软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用第二語言寫作對我來說不再是件痛苦的事--建立了一個由AI驅動的寫作助手軟件"
+    }
+  ]
 }
