@@ -55,5 +55,22 @@
   "original_created_at": "2022-04-22T20:01:30Z",
   "image": "https://dev.to/social_previews/article/1064308.png",
   "author": "Jeremy Friesen",
-  "author_url": "https://dev.to/jeremyf"
+  "author_url": "https://dev.to/jeremyf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私はCommunity Wellness badgeのプルリクエストのドラフトをレビューしていたのですが、私は頭を抱えていました。",
+      "title": "PostgresqlとDEVを掘り下げる"
+    },
+    {
+      "locale": "zh",
+      "description": "今天早些时候，我正在审查社区健康徽章的拉动请求草案；而且，我的头深陷...",
+      "title": "钻研Postgresql和DEV"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天早些時候，我正在審查社區健康徽章的拉動請求草案；而且，我的頭深陷...",
+      "title": "鑽研Postgresql和DEV"
+    }
+  ]
 }
