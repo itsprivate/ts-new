@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If a raccoon was rabid, would other raccoons avoid it?"
+  "the_new_excerpt": "If a raccoon was rabid, would other raccoons avoid it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アライグマが狂犬病にかかったら、他のアライグマはそれを避けるのだろうか？",
+      "title": "動物が狂犬病にかかったら、同類を避けるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果一只浣熊有狂犬病，其他浣熊会避开它吗？",
+      "title": "如果动物患有狂犬病，动物会避开自己的同类吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果一隻浣熊有狂犬病，其他浣熊會避開它嗎？",
+      "title": "如果動物患有狂犬病，動物會避開自己的同類嗎？"
+    }
+  ]
 }
