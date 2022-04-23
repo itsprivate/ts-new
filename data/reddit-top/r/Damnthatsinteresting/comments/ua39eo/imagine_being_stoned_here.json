@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここで石を投げられているところを想像してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "想象一下在这里被砸死的情景。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "想象一下在這裏被砸死的情景。"
+    }
+  ]
 }
