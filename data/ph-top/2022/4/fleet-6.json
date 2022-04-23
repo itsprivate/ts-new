@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-23T07:37:06Z"
+  "original_createdAt": "2022-04-23T07:37:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rust 🚀の高速ビルドツールFleetで5倍速ビルドを楽しもう。Fleet はオープンソースで、完全に無料で使用できます。入手先: https://fleet.rs Dimensionの製品: https://dimension.dev",
+      "tagline": "Rust 用の高速ビルドツール"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Fleet，享受高达5倍的构建速度，这是Rust🚀的快速构建工具。Fleet是开源的，完全可以免费使用! 获取方式：https://fleet.rs 来自Dimension的产品：https://dimension.dev",
+      "tagline": "用于Rust的极速构建工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Fleet，享受高達5倍的構建速度，這是Rust🚀的快速構建工具。Fleet是開源的，完全可以免費使用! 獲取方式：https://fleet.rs 來自Dimension的產品：https://dimension.dev",
+      "tagline": "用於Rust的極速構建工具"
+    }
+  ]
 }
