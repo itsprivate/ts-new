@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-21T17:22:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_dFeLQTa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z54u70ocx0ezperdg8w7.png",
   "author": "Luke Cartwright",
-  "author_url": "https://dev.to/lukeecart"
+  "author_url": "https://dev.to/lukeecart",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "reactのプロジェクトを作成する際、公開したりコミットしたりしたくない変数があるかもしれません。",
+      "title": "reactアプリで秘密を暴露していませんか？"
+    },
+    {
+      "locale": "zh",
+      "description": "当创建一个反应项目时，你可能有一些你不想暴露和提交的变量。",
+      "title": "你是否在你的反应应用中暴露了秘密？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當創建一個反應項目時，你可能有一些你不想暴露和提交的變量。",
+      "title": "你是否在你的反應應用中暴露了祕密？"
+    }
+  ]
 }
