@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNC旋盤で鉛筆を削るようにプログラムされている（上司の留守中に）。"
+    },
+    {
+      "locale": "zh",
+      "title": "CNC-Lathe machine编程为工人削铅笔（当老板不在时）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CNC-Lathe machine編程爲工人削鉛筆（當老闆不在時）。"
+    }
+  ]
 }
