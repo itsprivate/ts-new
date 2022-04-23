@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "沈黙は金"
+    },
+    {
+      "locale": "zh",
+      "title": "沉默是金"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沉默是金"
+    }
+  ]
 }
