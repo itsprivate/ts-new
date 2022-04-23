@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "親なら誰でも知っているこの気持ち"
+    },
+    {
+      "locale": "zh",
+      "title": "每个父母都知道这种感觉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個父母都知道這種感覺"
+    }
+  ]
 }
