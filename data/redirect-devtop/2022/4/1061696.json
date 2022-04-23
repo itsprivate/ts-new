@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-20T13:21:52Z",
   "image": "https://dev.to/social_previews/article/1061696.png",
   "author": "Guillaume Martigny",
-  "author_url": "https://dev.to/gmartigny"
+  "author_url": "https://dev.to/gmartigny",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "⚠️TypeScriptに我慢できなくなったので吐き出したいので、ちょっとした雑記です。 一方...",
+      "title": "TypeScriptは私の時間を浪費している"
+    },
+    {
+      "locale": "zh",
+      "description": "⚠️这有点像咆哮，因为我对TypeScript已经失去了耐心，我需要发泄。 虽然...",
+      "title": "TypeScript是在浪费我的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "⚠️這有點像咆哮，因爲我對TypeScript已經失去了耐心，我需要發泄。 雖然...",
+      "title": "TypeScript是在浪費我的時間"
+    }
+  ]
 }
