@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人生、あっという間。岩の袋よりバカ"
+    },
+    {
+      "locale": "zh",
+      "title": "生活来的太快了。比一袋石头还笨。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生活來的太快了。比一袋石頭還笨。"
+    }
+  ]
 }
