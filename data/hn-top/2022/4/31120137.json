@@ -13,5 +13,19 @@
   ],
   "objectID": "31120137",
   "original_created_at": "2022-04-22T10:52:19.000Z",
-  "image": "https://www.agwa.name/art/portrait/tiny2.png"
+  "image": "https://www.agwa.name/art/portrait/tiny2.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SNIプロキシとIPv6を使用して、Webアプリケーション間で443番ポートを共有する。"
+    },
+    {
+      "locale": "zh",
+      "title": "使用SNI代理和IPv6在webapps之间共享443端口"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用SNI代理和IPv6在webapps之間共享443端口"
+    }
+  ]
 }
