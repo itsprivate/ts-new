@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As of this quarter or so, Netflix is losing more subscribers than it is gaining,\nfor the first time. What do you think is the reason for this?"
+  "the_new_excerpt": "As of this quarter or so, Netflix is losing more subscribers than it is gaining,\nfor the first time. What do you think is the reason for this?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今期くらいから、Netflixは加入者を増やすより、減らす方が多くなってきています。\n初めてです。この理由は何だと思いますか？",
+      "title": "Netflixが加入者を失い始めている理由は何だと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "截至本季度左右，Netflix失去的用户比它获得的用户多。\n这是第一次。你认为这其中的原因是什么？",
+      "title": "在你看来，Netflix开始失去用户的原因是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "截至本季度左右，Netflix失去的用戶比它獲得的用戶多。\n這是第一次。你認爲這其中的原因是什麼？",
+      "title": "在你看來，Netflix開始失去用戶的原因是什麼？"
+    }
+  ]
 }
