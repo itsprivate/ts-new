@@ -122,5 +122,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルなことほど、喜びは大きい。"
+    },
+    {
+      "locale": "zh",
+      "title": "简单的事情才会带来最大的快乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "簡單的事情纔會帶來最大的快樂"
+    }
+  ]
 }
