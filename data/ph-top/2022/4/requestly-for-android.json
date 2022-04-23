@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-23T07:01:00Z"
+  "original_createdAt": "2022-04-23T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Requestly Android Debuggerは、ローカルで設定するのが困難で時間のかかるProxyソリューションの設定を不要にします。開発者からQA、プロダクトマネージャー、CTO/CEOまで、組織の誰もが使用することができます。とてもシンプルです。6ヶ月間無料です。",
+      "tagline": "Androidアプリケーションのための強力なオープンソースデバッガ"
+    },
+    {
+      "locale": "zh",
+      "description": "Requestly Android调试器消除了在本地设置代理解决方案的困难和耗费时间。组织中的任何人都可以使用它，从开发人员到质量保证人员到产品经理到CTO/CEO。就是这么简单! 🎁 获得6个月的免费服务!",
+      "tagline": "一个强大的安卓应用开源调试器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Requestly Android調試器消除了在本地設置代理解決方案的困難和耗費時間。組織中的任何人都可以使用它，從開發人員到質量保證人員到產品經理到CTO/CEO。就是這麼簡單! 🎁 獲得6個月的免費服務!",
+      "tagline": "一個強大的安卓應用開源調試器"
+    }
+  ]
 }
