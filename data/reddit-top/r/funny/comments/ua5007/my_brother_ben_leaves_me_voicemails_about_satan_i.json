@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弟のベンがサタンについてボイスメールを送ってくる。これは \"Armagetten \"という曲にしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的兄弟本给我留下了关于撒旦的语音邮件。我把这一条做成了一首歌，叫做 \"Armagetten\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的兄弟本給我留下了關於撒旦的語音郵件。我把這一條做成了一首歌，叫做 \"Armagetten\"。"
+    }
+  ]
 }
