@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "小さな丸い雨蛙が目を覚まし、あくびをして、目をこすり、そして小さな穴に体を押し込む"
+    },
+    {
+      "locale": "zh",
+      "title": "小小的圆形雨蛙醒来，打了个哈欠，揉了揉眼睛，然后把自己挤进了小洞里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小小的圓形雨蛙醒來，打了個哈欠，揉了揉眼睛，然後把自己擠進了小洞裏"
+    }
+  ]
 }
