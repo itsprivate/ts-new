@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MVPの立ち上げ - ベータ版を立ち上げられるツール&amp;サイトのリスト ⚡️。"
+    },
+    {
+      "locale": "zh",
+      "title": "启动你的MVP - 一个工具&amp; 网站的列表，你可以启动你的测试版⚡️。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "啓動你的MVP - 一個工具&amp; 網站的列表，你可以啓動你的測試版⚡️。"
+    }
+  ]
 }
