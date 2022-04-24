@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-24T05:53:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lGtyWoCC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rtprrxqjj0mxi2a2f3dz.png",
   "author": "Siddharth",
-  "author_url": "https://dev.to/siddharthshyniben"
+  "author_url": "https://dev.to/siddharthshyniben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": ".toLocaleStringとその仲間たちは、JavaScriptの機能の中で最も過小評価されているものの一つです。私はその上に来たのです...",
+      "title": ".toLocaleString、最も過小評価されているJavaScript機能の1つ"
+    },
+    {
+      "locale": "zh",
+      "description": ".toLocaleString和朋友们是JavaScript中最被低估的一些功能。我来到他们身边...",
+      "title": ".toLocaleString，最被低估的JavaScript功能之一"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": ".toLocaleString和朋友們是JavaScript中最被低估的一些功能。我來到他們身邊...",
+      "title": ".toLocaleString，最被低估的JavaScript功能之一"
+    }
+  ]
 }
