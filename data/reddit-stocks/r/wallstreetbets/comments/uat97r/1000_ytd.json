@@ -194,5 +194,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1650801627,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "前年同期比 +1000"
+    },
+    {
+      "locale": "zh",
+      "title": "+今年以来增长了1000%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "+今年以來增長了1000%。"
+    }
+  ]
 }
