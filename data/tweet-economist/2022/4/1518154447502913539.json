@@ -91,5 +91,22 @@
     "retweet_count": 97,
     "favorite_count": 362,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @PedderSophie: 今日はフランスの次期大統領を選ぶ大事な日です。エマニュエル・マクロンをどう思うかは別として、この投票は次の大統領をどうするかということです。",
+      "retweeted_status_full_text": "今日はフランスで次期大統領を選出する大事な日。エマニュエル・マクロンをどう思おうとも、これは、マリーヌ・ルペン https://t.co/dGQYW9KRlR が体現するナショナリズムとポピュリズムの力に対して、民主主義の中心が持ちこたえられるかどうかの投票である。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @PedderSophie: 今天是个大日子，法国人要选举他们的下一任总统。无论你对埃马纽埃尔-马克龙有什么看法，这都是一次关于何时选举的投票。",
+      "retweeted_status_full_text": "今天是个重要的日子，法国人将选举他们的下一任总统。无论你对埃马纽埃尔-马克龙有什么看法，这都是关于民主中心能否抵御民族主义和民粹主义的力量的投票，Marine Le Pen就是其中的代表 https://t.co/dGQYW9KRlR"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @PedderSophie: 今天是個大日子，法國人要選舉他們的下一任總統。無論你對埃馬紐埃爾-馬克龍有什麼看法，這都是一次關於何時選舉的投票。",
+      "retweeted_status_full_text": "今天是個重要的日子，法國人將選舉他們的下一任總統。無論你對埃馬紐埃爾-馬克龍有什麼看法，這都是關於民主中心能否抵禦民族主義和民粹主義的力量的投票，Marine Le Pen就是其中的代表 https://t.co/dGQYW9KRlR"
+    }
+  ]
 }
