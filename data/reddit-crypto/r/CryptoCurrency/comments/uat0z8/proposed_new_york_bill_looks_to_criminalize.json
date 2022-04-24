@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニューヨークの提案された法案は、Crypto Rug Pullsと詐欺を犯罪にするようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "拟议的纽约法案希望将加密货币拉霸和诈骗行为定为刑事犯罪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "擬議的紐約法案希望將加密貨幣拉霸和詐騙行爲定爲刑事犯罪"
+    }
+  ]
 }
