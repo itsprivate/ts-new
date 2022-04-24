@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Apecoinが最高値を更新する一方で、APEホルダーの上位100人が供給量の52％を支配しているというデータが示されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "阿佩克恩价格再创新高，数据显示前100名APE持有者控制52%的供应量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿佩克恩價格再創新高，數據顯示前100名APE持有者控制52%的供應量"
+    }
+  ]
 }
