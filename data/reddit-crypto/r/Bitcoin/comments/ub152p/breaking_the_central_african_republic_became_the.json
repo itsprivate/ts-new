@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "速報】中央アフリカ共和国、アフリカで初めてビットコインを法定通貨に採用"
+    },
+    {
+      "locale": "zh",
+      "title": "爆炸性新闻：中非共和国成为第一个采用比特币作为法定货币的非洲国家"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爆炸性新聞：中非共和國成爲第一個採用比特幣作爲法定貨幣的非洲國家"
+    }
+  ]
 }
