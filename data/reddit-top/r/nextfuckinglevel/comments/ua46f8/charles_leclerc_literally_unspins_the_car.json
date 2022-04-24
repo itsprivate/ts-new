@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シャルル・ルクレール（※文字通りマシンのスピンを外す"
+    },
+    {
+      "locale": "zh",
+      "title": "查尔斯-莱克勒克 *实际上是解开了汽车的旋转*。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "查爾斯-萊克勒克 *實際上是解開了汽車的旋轉*。"
+    }
+  ]
 }
