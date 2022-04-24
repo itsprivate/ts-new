@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-22T19:13:27Z",
   "image": "https://dev.to/social_previews/article/1064293.png",
   "author": "Jareer Abdullah",
-  "author_url": "https://dev.to/jareer"
+  "author_url": "https://dev.to/jareer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "console.log()は、node.jsアプリの速度を低下させる可能性があることに気づきました。 説明します。もし、あなたが...",
+      "title": "Javascriptのループでやってはいけないこと"
+    },
+    {
+      "locale": "zh",
+      "description": "所以我刚刚意识到，console.log()会拖慢你的node.js应用程序。 解释一下。因此，如果你有一个...",
+      "title": "不要在Javascript中这样做循环"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以我剛剛意識到，console.log()會拖慢你的node.js應用程序。 解釋一下。因此，如果你有一個...",
+      "title": "不要在Javascript中這樣做循環"
+    }
+  ]
 }
