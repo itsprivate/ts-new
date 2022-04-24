@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知りたい、あなたの人生の統計は何ですか？例えば、何歩歩いたかとか、何本髪を伸ばしたかとか。"
+    },
+    {
+      "locale": "zh",
+      "title": "关于你的生活，你想知道的一个统计数字是什么？例如，你走了多少步，或者你的头发长到了什么长度。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於你的生活，你想知道的一個統計數字是什麼？例如，你走了多少步，或者你的頭髮長到了什麼長度。"
+    }
+  ]
 }

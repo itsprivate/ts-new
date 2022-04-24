@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-24T08:04:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eRkn_3tI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dqmu669aul48z39ee0f2.png",
   "author": "ItayLisaey",
-  "author_url": "https://dev.to/itaylisaey"
+  "author_url": "https://dev.to/itaylisaey",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "自分が手がけたサイトや公開したばかりの新機能を紹介したいと思ったことはありませんか？",
+      "title": "アプリ内の機密情報を隠すリアクトコンポーネントを作りました。"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾经想展示你所做的一个网站或你刚刚发布的一个新功能？",
+      "title": "我做了一个反应组件，可以在你的应用程序中隐藏敏感信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾經想展示你所做的一個網站或你剛剛發佈的一個新功能？",
+      "title": "我做了一個反應組件，可以在你的應用程序中隱藏敏感信息。"
+    }
+  ]
 }
