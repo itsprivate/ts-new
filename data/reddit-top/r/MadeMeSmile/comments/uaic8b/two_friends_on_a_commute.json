@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "通勤中の二人の友人"
+    },
+    {
+      "locale": "zh",
+      "title": "两个朋友在通勤中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兩個朋友在通勤中"
+    }
+  ]
 }
