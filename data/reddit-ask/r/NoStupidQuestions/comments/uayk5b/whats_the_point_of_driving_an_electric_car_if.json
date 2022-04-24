@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "電気自動車に乗る意味はあるのでしょうか。そもそも、その電気のほとんどは化石燃料を燃やすことで得られたものでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果大部分电力可能首先来自于燃烧化石燃料，那么驾驶电动汽车的意义何在？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果大部分電力可能首先來自於燃燒化石燃料，那麼駕駛電動汽車的意義何在？"
+    }
+  ]
 }
