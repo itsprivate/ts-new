@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-23T20:03:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sCQD1dXK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k589krw41wpazfeg4dg1.jpg",
   "author": "Julien Maury",
-  "author_url": "https://dev.to/jmau111"
+  "author_url": "https://dev.to/jmau111",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、人物を特定するために使用できる、最もポピュラーな vs. ありえないテクニックを紹介します ...",
+      "title": "プライバシーを害するテクニックをおさらいしておこう"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一些最流行的与不可能的技术，可以用来识别人。 ...",
+      "title": "让我们回顾一下伤害隐私的一些技术"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一些最流行的與不可能的技術，可以用來識別人。 ...",
+      "title": "讓我們回顧一下傷害隱私的一些技術"
+    }
+  ]
 }
