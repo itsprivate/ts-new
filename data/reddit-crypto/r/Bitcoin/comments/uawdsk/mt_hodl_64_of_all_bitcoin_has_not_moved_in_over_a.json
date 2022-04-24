@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Mt.Hodl: 全ビットコインの64%がウォレットから1年以上移動していない。これは過去最高のHODLINGの量である。"
+    },
+    {
+      "locale": "zh",
+      "title": "霍德尔山：64%的比特币在一年多的时间里没有从他们的钱包里移动过。这是有史以来最高的HODLING数量记录。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "霍德爾山：64%的比特幣在一年多的時間裏沒有從他們的錢包裏移動過。這是有史以來最高的HODLING數量記錄。"
+    }
+  ]
 }
