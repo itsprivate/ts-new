@@ -68,5 +68,22 @@
     },
     "retweet_count": 920,
     "favorite_count": 4324
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Dennis_Porter_: 重大ニュース - 中央アフリカ共和国は、ビットコインを法定通貨として採用する法案を全会一致で可決しました。",
+      "retweeted_status_full_text": "HUGE BREAKING NEWS - 中央アフリカ共和国は、#ビットコインを法定通貨として採用する法案を全会一致で可決しました。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Dennis_Porter_: 巨大的爆炸性新闻 - 中非共和国已经一致通过了一项法案，将#比特币作为法定货币。",
+      "retweeted_status_full_text": "巨大的爆炸性新闻 - 中非共和国已一致通过一项法案，采用#比特币作为法定货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Dennis_Porter_: 巨大的爆炸性新聞 - 中非共和國已經一致通過了一項法案，將#比特幣作爲法定貨幣。",
+      "retweeted_status_full_text": "巨大的爆炸性新聞 - 中非共和國已一致通過一項法案，採用#比特幣作爲法定貨幣。"
+    }
+  ]
 }
