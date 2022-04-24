@@ -41,5 +41,22 @@
   "original_created_at": "2022-04-24T19:35:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UM-4qnWi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p2fmsioliexm71zfcub.png",
   "author": "Mahmoud Harmouch",
-  "author_url": "https://dev.to/wiseai"
+  "author_url": "https://dev.to/wiseai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マルチモニターよりワンモニターの方がいいのか、という議論は何年も前から続いていますが......。",
+      "title": "プログラマーとして1台のモニターを使いこなすための完全ガイド。"
+    },
+    {
+      "locale": "zh",
+      "description": "关于一个显示器是否比多个显示器好的争论已经持续了多年....。",
+      "title": "作为一个程序员使用一台显示器的完整指南。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於一個顯示器是否比多個顯示器好的爭論已經持續了多年....。",
+      "title": "作爲一個程序員使用一臺顯示器的完整指南。"
+    }
+  ]
 }
