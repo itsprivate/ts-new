@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-23T09:16:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ql0Unf-A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7fohokl472ro4dwir1o.png",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回は、ブラウザが最初に表示する「ナビゲーション」について説明しました。",
+      "title": "ウェブブラウザの仕組み - データの取得（その2、図解付き）🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我们谈到了导航，即浏览器显示的第一个步骤。",
+      "title": "网络浏览器如何工作--获取数据（第二部分，附图）🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我們談到了導航，即瀏覽器顯示的第一個步驟。",
+      "title": "網絡瀏覽器如何工作--獲取數據（第二部分，附圖）🚀"
+    }
+  ]
 }

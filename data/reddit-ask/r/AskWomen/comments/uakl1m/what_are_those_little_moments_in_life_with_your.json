@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Re-Upload: (Sorry, the bot didn't recognise my correction in the comments.\nThanks for those that answered before though!)"
+  "the_new_excerpt": "Re-Upload: (Sorry, the bot didn't recognise my correction in the comments.\nThanks for those that answered before though!)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "再アップロードです。(すみません、ボットはコメントで私の訂正を認識しませんでした。\nでも、前に答えてくれた人たちに感謝します！)",
+      "title": "大切な人との生活の中で、「ああ、この人は間違いなく私を愛してくれている」と思うような、ちょっとした瞬間はどんなものでしょうか。?"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "重新上载。(对不起，机器人没有识别我在评论中的更正。\n不过还是要感谢之前回答的人！)",
+      "title": "在生活中，与你的重要伴侣在一起的那些小时刻，让你觉得：\"是的，他们肯定爱我。\" ?"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "重新上載。(對不起，機器人沒有識別我在評論中的更正。\n不過還是要感謝之前回答的人！)",
+      "title": "在生活中，與你的重要伴侶在一起的那些小時刻，讓你覺得：\"是的，他們肯定愛我。\" ?"
+    }
+  ]
 }
