@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時間を確認しようとスマホを取り出したら、時計を見るのを忘れてもう一度やり直すなんてことありませんか、私がバカなだけでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否曾经掏出手机查看时间，但因为忘记看钟而不得不再做一次，还是我太笨了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否曾經掏出手機查看時間，但因爲忘記看鐘而不得不再做一次，還是我太笨了？"
+    }
+  ]
 }
