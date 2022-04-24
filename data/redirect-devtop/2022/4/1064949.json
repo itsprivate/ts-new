@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-23T15:32:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rsEZ64Cw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mj12yu5j5p0tyljqxm7.png",
   "author": "Rustam Apay",
-  "author_url": "https://dev.to/apayrus"
+  "author_url": "https://dev.to/apayrus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カバー画像は、1番目のモニターでYoutubeを見ながら、2番目のモニターでコードを書いているところです。 私は...",
+      "title": "学習用と作業用で2台のモニターを使用"
+    },
+    {
+      "locale": "zh",
+      "description": "封面图显示我在第二台显示器上写代码时用第一台显示器看YouTube。 因为我买了一个新的显示器。",
+      "title": "使用2台显示器进行学习和工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面圖顯示我在第二臺顯示器上寫代碼時用第一臺顯示器看YouTube。 因爲我買了一個新的顯示器。",
+      "title": "使用2臺顯示器進行學習和工作"
+    }
+  ]
 }
