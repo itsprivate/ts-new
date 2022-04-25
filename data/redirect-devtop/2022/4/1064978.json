@@ -45,5 +45,21 @@
   "original_created_at": "2022-04-23T16:48:13Z",
   "image": "https://dev.to/social_previews/article/1064978.png",
   "author": "Chadwin Deysel",
-  "author_url": "https://dev.to/chadwinjdeysel"
+  "author_url": "https://dev.to/chadwinjdeysel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フルスタックデベロッパーの皆さん、私たちの中に偽者がいます。残念ながら、それは私です。私はこう考えたい...",
+      "title": "私がC#を選んだ理由"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么我选择了C#"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "フルスタックデベロッパーの皆さん、私たちの中に偽者がいます。殘念ながら、それは私です。私はこう考えたい...",
+      "title": "爲什麼我選擇了C#"
+    }
+  ]
 }
