@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1977年アカデミー賞でのモハメド・アリとシルベスター・スタローン"
+    },
+    {
+      "locale": "zh",
+      "title": "穆罕默德-阿里和西尔维斯特-史泰龙出席1977年奥斯卡颁奖典礼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "穆罕默德-阿里和西爾維斯特-史泰龍出席1977年奧斯卡頒獎典禮"
+    }
+  ]
 }
