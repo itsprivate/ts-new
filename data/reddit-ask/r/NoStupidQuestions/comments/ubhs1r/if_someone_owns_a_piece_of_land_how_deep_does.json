@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かが土地を所有しているとしたら、その所有権はどこまで深いのだろうか？地球の中心まで所有しているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人拥有一块土地，他们的所有权有多深？他们是否一直拥有到地球的中心？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人擁有一塊土地，他們的所有權有多深？他們是否一直擁有到地球的中心？"
+    }
+  ]
 }
