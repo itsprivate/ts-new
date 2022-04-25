@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目の前の信号待ちで"
+    },
+    {
+      "locale": "zh",
+      "title": "在我前面的红绿灯处。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我前面的紅綠燈處。"
+    }
+  ]
 }

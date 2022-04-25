@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GPUマイニングはすぐには戻ってこない。NVIDIA RTX 3080 Tiは、1日あたりわずか2ドルの収益しか生み出さない"
+    },
+    {
+      "locale": "zh",
+      "title": "GPU挖矿很快就不会再出现了。英伟达RTX 3080 Ti每天仅产生2美元收入"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "GPU挖礦很快就不會再出現了。英偉達RTX 3080 Ti每天僅產生2美元收入"
+    }
+  ]
 }

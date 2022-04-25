@@ -42,5 +42,22 @@
   "original_created_at": "2022-04-22T19:04:01Z",
   "image": "https://dev.to/social_previews/article/1064287.png",
   "author": "Alexander Bartlow",
-  "author_url": "https://dev.to/alexbartlow"
+  "author_url": "https://dev.to/alexbartlow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プランナーを養え、プランを信じろ アハ！エンジニアリングツールの出費のうち、私が...",
+      "title": "PostgreSQL の決定論的クエリプランナによる最適化"
+    },
+    {
+      "locale": "zh",
+      "description": "哺育计划者，信任计划 在所有的Aha！工程工具费用中，我的钱是...",
+      "title": "用PostgreSQL的确定性查询计划器进行优化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "哺育計劃者，信任計劃 在所有的Aha！工程工具費用中，我的錢是...",
+      "title": "用PostgreSQL的確定性查詢計劃器進行優化"
+    }
+  ]
 }
