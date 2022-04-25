@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-24T11:25:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MRoXv7vV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxl2hdrof7xjmds1euos.jpg",
   "author": "Wordsmith",
-  "author_url": "https://dev.to/wordsmithcloud"
+  "author_url": "https://dev.to/wordsmithcloud",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨日、私たちの会社「Wordsmith」を皆さんに（簡単に）紹介し、その後、私たちの会社に対するフィードバックをお願いしました。",
+      "title": "THANK YOU DEV! (コミュニティからのフィードバックの力！💘)"
+    },
+    {
+      "locale": "zh",
+      "description": "昨天我向大家介绍了我们的公司Wordsmith（简单介绍），然后征求大家对我们的反馈。",
+      "title": "谢谢你，DEV! (社区反馈的力量！💘)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "昨天我向大家介紹了我們的公司Wordsmith（簡單介紹），然後徵求大家對我們的反饋。",
+      "title": "謝謝你，DEV! (社區反饋的力量！💘)"
+    }
+  ]
 }
