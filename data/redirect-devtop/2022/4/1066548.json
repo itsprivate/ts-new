@@ -48,5 +48,22 @@
   "original_created_at": "2022-04-25T15:11:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bi0qwlHX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v9baosisclai9tqt8jue.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パンデミックの真っ只中、世界は主に遠隔地になった。そして、「普通」に戻りつつある世界...。",
+      "title": "ソフトウェア開発におけるリモートワークの未来は？"
+    },
+    {
+      "locale": "zh",
+      "description": "在大流行病的高峰期，世界主要进入远程。随着事情恢复到 \"正常 \"的状态，人们的生活水平也在不断提高。",
+      "title": "软件开发中远程工作的未来是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在大流行病的高峯期，世界主要進入遠程。隨着事情恢復到 \"正常 \"的狀態，人們的生活水平也在不斷提高。",
+      "title": "軟件開發中遠程工作的未來是什麼？"
+    }
+  ]
 }
