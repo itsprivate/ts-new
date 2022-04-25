@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-25T07:01:06Z"
+  "original_createdAt": "2022-04-25T07:01:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Passageを使えば、Webアプリケーションに最新のバイオメトリクス認証を驚くほど簡単に実装することができます。数行のコードで、ユーザーは Face ID、Touch ID、Windows Hello、その他デバイスに組み込まれた生体認証を迅速かつ安全に利用することができます。",
+      "tagline": "生体認証を手元で。"
+    },
+    {
+      "locale": "zh",
+      "description": "Passage使在你的网络应用中实施现代生物识别认证变得非常容易。只需几行代码，你的用户就可以快速、安全地使用Face ID、Touch ID、Windows Hello或其他任何内置在设备中的生物识别进行认证。",
+      "tagline": "指尖上的生物识别认证。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Passage使在你的網絡應用中實施現代生物識別認證變得非常容易。只需幾行代碼，你的用戶就可以快速、安全地使用Face ID、Touch ID、Windows Hello或其他任何內置在設備中的生物識別進行認證。",
+      "tagline": "指尖上的生物識別認證。"
+    }
+  ]
 }
