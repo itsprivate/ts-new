@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こちらへどうぞ"
+    },
+    {
+      "locale": "zh",
+      "title": "这边走，先生"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這邊走，先生"
+    }
+  ]
 }
