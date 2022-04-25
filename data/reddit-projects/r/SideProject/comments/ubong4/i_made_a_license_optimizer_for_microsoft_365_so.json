@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Microsoft 365のライセンスオプティマイザーを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我为微软365做了一个许可证优化器，所以用户完全按照他们的需要付费"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲微軟365做了一個許可證優化器，所以用戶完全按照他們的需要付費"
+    }
+  ]
 }
