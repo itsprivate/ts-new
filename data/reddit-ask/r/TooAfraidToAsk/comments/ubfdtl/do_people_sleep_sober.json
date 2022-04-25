@@ -12,5 +12,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "How do you do it?"
+  "the_new_excerpt": "How do you do it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんなシラフで寝てるんですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你是如何做到的？",
+      "title": "人们睡觉时是否清醒？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你是如何做到的？",
+      "title": "人們睡覺時是否清醒？"
+    }
+  ]
 }
