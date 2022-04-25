@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見ていて飽きない"
+    },
+    {
+      "locale": "zh",
+      "title": "我无法停止观看"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我無法停止觀看"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この手書きのメモは、折りたたまれて風除室のドアに挟んであった...。"
+    },
+    {
+      "locale": "zh",
+      "title": "这张手写的纸条被折叠起来，塞在我的微风门里......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張手寫的紙條被摺疊起來，塞在我的微風門裏......"
+    }
+  ]
 }
