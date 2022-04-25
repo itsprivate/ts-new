@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This is a visual orderbook and shows where resting (limit) orders are, the\nbrighter the white the higher value the order is, the more blue to colour the\nlower the blue. If price pierces through the colour it means the order has been\nfilled, however orders can also be removed in which case the…"
+  "the_new_excerpt": "This is a visual orderbook and shows where resting (limit) orders are, the\nbrighter the white the higher value the order is, the more blue to colour the\nlower the blue. If price pierces through the colour it means the order has been\nfilled, however orders can also be removed in which case the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これはビジュアルなオーダーブックで、レスト（指値）オーダーがどこにあるのかを示しています。\n白が明るいほど高い値の注文、青が多いほど低い値の注文です。\n青が多いほど青くなります。価格がこの色を突き抜けた場合、その注文が成立したことを意味します。\nしかし、注文は削除することも可能で、その場合は...",
+      "title": "底値買い、上値売りの前回のbitfinexクジラは、今回、37kと34kから1000BTC以上の入札を取りやめました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是一个可视化的订单簿，显示休息（限价）订单的位置，白色越亮越好，蓝色越多越好。\n白色越亮的订单价值越高，蓝色越多的颜色越\n蓝色越低。如果价格穿透颜色，意味着订单已被执行。\n然而，订单也可以被删除，在这种情况下。",
+      "title": "之前买底卖顶的bitfinex鲸鱼，现在已经把他的1000多个BTC的出价从37K和34K拉开了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是一個可視化的訂單簿，顯示休息（限價）訂單的位置，白色越亮越好，藍色越多越好。\n白色越亮的訂單價值越高，藍色越多的顏色越\n藍色越低。如果價格穿透顏色，意味着訂單已被執行。\n然而，訂單也可以被刪除，在這種情況下。",
+      "title": "之前買底賣頂的bitfinex鯨魚，現在已經把他的1000多個BTC的出價從37K和34K拉開了。"
+    }
+  ]
 }

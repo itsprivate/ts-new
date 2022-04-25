@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"いいえ、金融システムを破壊するためのものではありません\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"不，它的目的不是为了破坏金融系统\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"不，它的目的不是爲了破壞金融系統\""
+    }
+  ]
 }
