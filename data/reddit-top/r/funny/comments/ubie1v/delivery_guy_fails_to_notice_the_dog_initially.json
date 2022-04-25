@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "配達員は最初、犬に気がつかなかった!"
+    },
+    {
+      "locale": "zh",
+      "title": "送货员一开始没有注意到这只狗!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "送貨員一開始沒有注意到這隻狗!"
+    }
+  ]
 }
