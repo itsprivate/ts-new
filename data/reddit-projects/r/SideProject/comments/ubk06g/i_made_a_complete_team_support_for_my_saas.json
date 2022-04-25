@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SaaS Boilerplate: マルチテナンシーSaaSのための完全なチームサポートを作りました。ライブデモはコメント欄で"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我的SaaS Boilerplate做了一个完整的团队支持：一个多租户SaaS。评论中的现场演示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我的SaaS Boilerplate做了一個完整的團隊支持：一個多租戶SaaS。評論中的現場演示"
+    }
+  ]
 }
