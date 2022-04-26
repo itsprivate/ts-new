@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Jira用ビジュアルフィードバック＆バグ報告ソリューション「Snapshot」を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我制作了Snapshot--一个视觉反馈&amp；Jira的错误报告解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我製作了Snapshot--一個視覺反饋&amp；Jira的錯誤報告解決方案"
+    }
+  ]
 }
