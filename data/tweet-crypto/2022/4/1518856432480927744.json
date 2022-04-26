@@ -63,5 +63,22 @@
     "retweet_count": 269,
     "favorite_count": 885,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @WSJ: フィデリティは今年後半、401(k)プランのオプションとしてビットコインを追加する予定だ。",
+      "retweeted_status_full_text": "フィデリティが今年後半に401(k)プランのオプションとしてビットコインを追加、大手退職年金プロバイダーとして初の試み https://t.co/3k0F4rUMni"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @WSJ: 富达公司将在今年晚些时候把比特币作为401（k）计划的一个选项，这是第一个这样做的主要退休计划供应商， https:...",
+      "retweeted_status_full_text": "富达公司将在今年晚些时候把比特币作为401(k)计划的一个选项，这是第一个这样做的主要退休计划供应商 https://t.co/3k0F4rUMni"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @WSJ: 富達公司將在今年晚些時候把比特幣作爲401（k）計劃的一個選項，這是第一個這樣做的主要退休計劃供應商， https:...",
+      "retweeted_status_full_text": "富達公司將在今年晚些時候把比特幣作爲401(k)計劃的一個選項，這是第一個這樣做的主要退休計劃供應商 https://t.co/3k0F4rUMni"
+    }
+  ]
 }
