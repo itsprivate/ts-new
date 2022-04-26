@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "仕事で疲れたら、しっかり休息をとることが大切です"
+    },
+    {
+      "locale": "zh",
+      "title": "在枯燥的工作会议之后，好好休息一下是很重要的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在枯燥的工作會議之後，好好休息一下是很重要的。"
+    }
+  ]
 }
