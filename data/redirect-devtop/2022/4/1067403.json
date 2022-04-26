@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-26T08:00:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cmF8htGY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15mab95t5cek1jzlpj3r.png",
   "author": "Dhravya",
-  "author_url": "https://dev.to/dhravya"
+  "author_url": "https://dev.to/dhravya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ツイートを見た後、https://poet.so、そのスクリーンショットを撮ることがよくある。しかし、この...",
+      "title": "ツイートのスクリーンショットを綺麗に撮るTwitterボットを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "很多时候，看到一条推文后，我去https://poet.so，对其进行截图。然而，这...",
+      "title": "我做了一个twitter机器人，可以对一条推文进行漂亮的截图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多時候，看到一條推文後，我去https://poet.so，對其進行截圖。然而，這...",
+      "title": "我做了一個twitter機器人，可以對一條推文進行漂亮的截圖"
+    }
+  ]
 }
