@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "(considering factors other than covid)"
+  "the_new_excerpt": "(considering factors other than covid)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "(むねざんまい）",
+      "title": "新しい出会いが難しくなっているのか、それとも僕だけなのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "(考虑到除covid以外的因素)",
+      "title": "认识新朋友越来越难了，还是说这只是我的问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "(考慮到除covid以外的因素)",
+      "title": "認識新朋友越來越難了，還是說這只是我的問題？"
+    }
+  ]
 }
