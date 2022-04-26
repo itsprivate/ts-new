@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-22T17:10:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OyGvG2yn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3vh2n9lii6hw2jivz4r6.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事を書くのに2年間も居座ってしまいました。私の心の中では、これは私がしようとしていた記事でした...",
+      "title": "サイトにはMarko、アプリにはSolid"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在等待写这篇文章，已经两年了。在我心里，这是我要写的文章。",
+      "title": "为网站提供的Marko，为应用程序提供的Solid"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在等待寫這篇文章，已經兩年了。在我心裏，這是我要寫的文章。",
+      "title": "爲網站提供的Marko，爲應用程序提供的Solid"
+    }
+  ]
 }
