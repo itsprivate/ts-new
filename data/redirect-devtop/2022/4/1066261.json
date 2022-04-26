@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-25T08:41:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iPl_yIPi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fx6uo1ffeyr66gfvev7b.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マイクロソフトが止まらない! ここ数ヶ月、私たちは.NET開発チームからのアップデートやニュースを見てきました...",
+      "title": ".NET 7の新機能を公式リリース（より速く、より軽く⚡）。"
+    },
+    {
+      "locale": "zh",
+      "description": "微软并没有停止! 几个月来，我们已经看到来自.NET开发团队的更新和消息。",
+      "title": "新的官方.NET 7功能发布（现在更快、更轻⚡）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微軟並沒有停止! 幾個月來，我們已經看到來自.NET開發團隊的更新和消息。",
+      "title": "新的官方.NET 7功能發佈（現在更快、更輕⚡）。"
+    }
+  ]
 }

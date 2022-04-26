@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-26T07:01:00Z"
+  "original_createdAt": "2022-04-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アクセラレーターへの応募、資金調達、法律に関する質問、グロースハックなど、様々なことをSlackから直接話し合うことができます。",
+      "tagline": "スタートアップ創業者のためのSlackコミュニティ"
+    },
+    {
+      "locale": "zh",
+      "description": "直接从你的Slack中讨论加速器申请、筹款、法律问题、增长技巧等等",
+      "tagline": "创业公司创始人的Slack社区"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "直接從你的Slack中討論加速器申請、籌款、法律問題、增長技巧等等",
+      "tagline": "創業公司創始人的Slack社區"
+    }
+  ]
 }
