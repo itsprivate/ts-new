@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人はコールオブデューティのマップ「ヌークタウン」を自分のペイントボールフィールドにした。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人把《使命召唤》的地图 \"核弹镇 \"作为他自己的彩弹射击场。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人把《使命召喚》的地圖 \"核彈鎮 \"作爲他自己的彩彈射擊場。"
+    }
+  ]
 }
