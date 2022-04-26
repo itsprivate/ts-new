@@ -1,0 +1,62 @@
+{
+  "author": "Divinux",
+  "original_created_utc": 1650920022,
+  "title": "PSA: My phone just guessed my private key. If you use mobile (phone) wallets, clear your text prediction cache.",
+  "created_utc": 1650933319,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So, you know how when creating a new seed phrase in a wallet some apps make you reenter the entire seed?&lt;/p&gt;\n\n&lt;p&gt;Yeah, predictive typing remembers your used words and will suggest the second word as soon as you type the first one, especially if it&amp;#39;s a word you not commonly use. &lt;/p&gt;\n\n&lt;p&gt;In my case my phone is in a different language than english as well, so it automatically adds typed words to the dictionary, which means my custom dictionary contains words in my language, and 24 english words...&lt;/p&gt;\n\n&lt;p&gt;This makes it easy to attack, get your hands on a phone, start any chat app, and start typing any words off the BIP39 list, and see what the phone suggests. &lt;/p&gt;\n\n&lt;p&gt;Do yourself a solid and prevent that from happening by clearing your predictive type cache.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Here&amp;#39;s how to do it on Android:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://intoput.com/clear-samsung-keyboard-history/\"&gt;https://intoput.com/clear-samsung-keyboard-history/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Here&amp;#39;s how to do it on iPhone:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.macworld.co.uk/how-to/how-remove-words-from-iphone-predictive-text-3642859/#:%7E:text=To%20reset%20your%20keyboard%20dictionary,%20head%20into%20your%20iPhone&amp;#x27;s%20settings,predictive%20words%20from%20showing%20up\"&gt;https://www.macworld.co.uk/how-to/how-remove-words-from-iphone-predictive-text-3642859/#:~:text=To%20reset%20your%20keyboard%20dictionary,%20head%20into%20your%20iPhone&amp;#39;s%20settings,predictive%20words%20from%20showing%20up&lt;/a&gt;.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 427,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?auto=webp&amp;s=025a8d03462e9f3b43c7785326988c3a75fbf6d1",
+          "width": 2560,
+          "height": 1706
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=822a9b3ef914b496492d2318a2033a1c8b71bec4",
+            "width": 108,
+            "height": 71
+          },
+          {
+            "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6e73c49ac9b90de418714a4dfe15d223d5b0d9a8",
+            "width": 216,
+            "height": 143
+          },
+          {
+            "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f0b3555c743726117085145049db77db1a38ec9d",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1f01721ff57f2df325e9570f19bde06aa659363",
+            "width": 640,
+            "height": 426
+          },
+          {
+            "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3adbca1fe9716c579538446c6caff2e760739e03",
+            "width": 960,
+            "height": 639
+          },
+          {
+            "url": "https://external-preview.redd.it/Qi74G-C1Lutk50XR98ArM7oHL6OzorojOB-JwVZFoyA.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=22aa4a03f2da1ecf9b219dc39c792190e22ae956",
+            "width": 1080,
+            "height": 719
+          }
+        ],
+        "variants": {},
+        "id": "Rjav0tn24MHx6l3fgE0lHCzIJ4JF4duLVvC7DPOzOV4"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/ubv81z/psa_my_phone_just_guessed_my_private_key_if_you/",
+  "subreddit": "CryptoCurrency",
+  "id": "ubv81z",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "So, you know how when creating a new seed phrase in a wallet some apps make you\nreenter the entire seed?\n\nYeah, predictive typing remembers your used words and will suggest the second\nword as soon as you type the first one, especially if it's a word you not\ncommonly use.\n\nIn my case my phone is in…"
+}
