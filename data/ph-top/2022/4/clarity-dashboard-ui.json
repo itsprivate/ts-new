@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-26T07:02:44Z"
+  "original_createdAt": "2022-04-26T07:02:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Clarity Dashboard UIは、Tailwind CSSのための強力なUIキットで、111以上のコンポーネントを使って美しいダッシュボードやアプリケーションを素早く構築することができます。",
+      "tagline": "次のダッシュボードを光の速さよりも速く構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "Clarity Dashboard UI是Tailwind CSS的一个强大的UI工具包，有超过111个组件，可以快速建立漂亮的仪表盘和应用程序。",
+      "tagline": "以超过光速的速度建立你的下一个仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Clarity Dashboard UI是Tailwind CSS的一個強大的UI工具包，有超過111個組件，可以快速建立漂亮的儀表盤和應用程序。",
+      "tagline": "以超過光速的速度建立你的下一個儀表板"
+    }
+  ]
 }
