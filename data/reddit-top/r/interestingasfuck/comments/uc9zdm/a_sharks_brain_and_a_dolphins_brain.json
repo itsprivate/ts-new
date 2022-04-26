@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サメの脳と、イルカの脳。"
+    },
+    {
+      "locale": "zh",
+      "title": "鲨鱼的大脑，和海豚的大脑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鯊魚的大腦，和海豚的大腦。"
+    }
+  ]
 }
