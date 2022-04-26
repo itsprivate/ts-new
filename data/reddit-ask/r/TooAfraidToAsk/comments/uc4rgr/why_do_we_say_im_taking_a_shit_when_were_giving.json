@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Why wouldn’t it be called giving a shit?"
+  "the_new_excerpt": "Why wouldn’t it be called giving a shit?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "なぜ、それをgiving a shitと言わないのでしょうか？",
+      "title": "なぜ、トイレにあげるときに「ウンコする」と言うのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么不叫 \"给个屁 \"呢？",
+      "title": "为什么我们在给马桶拉屎的时候要说 \"我在拉屎\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼不叫 \"給個屁 \"呢？",
+      "title": "爲什麼我們在給馬桶拉屎的時候要說 \"我在拉屎\"？"
+    }
+  ]
 }
