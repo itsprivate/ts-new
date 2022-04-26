@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-26T08:11:16Z"
+  "original_createdAt": "2022-04-26T08:11:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SaaSのスターターキットやテンプレートを考えるのは時間の無駄です。Dashibaseですぐにダッシュボードを作成できます。Supabase認証とデータベースでプラグアンドプレイ、さらにオープンソースです。",
+      "tagline": "Supabaseユーザーのためのインスタントダッシュボード"
+    },
+    {
+      "locale": "zh",
+      "description": "不要浪费时间去琢磨SaaS的启动包和模板。用Dashibase创建即时仪表盘。与Supabase认证和数据库一起即插即用，而且我们是开源的!",
+      "tagline": "为Supabase用户提供即时仪表盘"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要浪費時間去琢磨SaaS的啓動包和模板。用Dashibase創建即時儀表盤。與Supabase認證和數據庫一起即插即用，而且我們是開源的!",
+      "tagline": "爲Supabase用戶提供即時儀表盤"
+    }
+  ]
 }
