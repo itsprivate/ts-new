@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "So, you know how when creating a new seed phrase in a wallet some apps make you\nreenter the entire seed?\n\nYeah, predictive typing remembers your used words and will suggest the second\nword as soon as you type the first one, especially if it's a word you not\ncommonly use.\n\nIn my case my phone is in…"
+  "the_new_excerpt": "So, you know how when creating a new seed phrase in a wallet some apps make you\nreenter the entire seed?\n\nYeah, predictive typing remembers your used words and will suggest the second\nword as soon as you type the first one, especially if it's a word you not\ncommonly use.\n\nIn my case my phone is in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ウォレットで新しいシードフレーズを作成するとき、いくつかのアプリでは、次のようなことが行われます。\n再入力させるアプリがありますよね？\n\n予測入力は、使用した単語を記憶し、2番目の単語を提案します。\nを入力するとすぐに2つ目の単語を提案してくれます。\n特に、普段使わないような単語を入力すると、2つ目の単語を提案してくれます。\n\n私の場合、私の携帯電話は...",
+      "title": "PSA: 私の携帯電話が私の秘密鍵を推測しました。モバイル（携帯電話）ウォレットを使用している場合は、テキスト予測キャッシュをクリアしてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "所以，你知道当在钱包中创建一个新的种子短语时，一些应用程序让你\n重新输入整个种子词？\n\n是的，预测性打字会记住你使用过的单词，并且在你输入第一个单词时，会建议输入第二个单词。\n词，尤其是当你输入第一个词的时候，如果它是一个你不\n常使用的词。\n\n在我的情况下，我的手机是在...",
+      "title": "PSA：我的手机刚刚猜中了我的私钥。如果你使用移动（手机）钱包，请清除你的文本预测缓存。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "所以，你知道當在錢包中創建一個新的種子短語時，一些應用程序讓你\n重新輸入整個種子詞？\n\n是的，預測性打字會記住你使用過的單詞，並且在你輸入第一個單詞時，會建議輸入第二個單詞。\n詞，尤其是當你輸入第一個詞的時候，如果它是一個你不\n常使用的詞。\n\n在我的情況下，我的手機是在...",
+      "title": "PSA：我的手機剛剛猜中了我的私鑰。如果你使用移動（手機）錢包，請清除你的文本預測緩存。"
+    }
+  ]
 }
