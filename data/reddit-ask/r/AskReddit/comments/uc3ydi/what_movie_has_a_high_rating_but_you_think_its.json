@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "評価が高いのに、平均点だと思う映画は？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么电影的评分很高，但你认为它很一般？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼電影的評分很高，但你認爲它很一般？"
+    }
+  ]
 }
