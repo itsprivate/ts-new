@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-22T18:04:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KQldVVHj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/903tjwv4h9m6ebaqz58d.jpg",
   "author": "SauhardoSengupta",
-  "author_url": "https://dev.to/thejavascripter"
+  "author_url": "https://dev.to/thejavascripter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "discordのゲームサーバーやコミュニティサーバーを作成する場合、何らかのモデレーターが必要です...",
+      "title": "Node.jsを使った司会者ボットの作成"
+    },
+    {
+      "locale": "zh",
+      "description": "不管是创建一个discord游戏服务器还是一个社区服务器，你都需要某种类型的主持人...",
+      "title": "使用Node.js创建一个主持人机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不管是創建一個discord遊戲服務器還是一個社區服務器，你都需要某種類型的主持人...",
+      "title": "使用Node.js創建一個主持人機器人"
+    }
+  ]
 }
