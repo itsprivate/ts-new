@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分のことを考えるとき、自分は自分の体の中にいると思いますか、それとも自分の体そのものだと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你想到自己时，你认为你是*在*你的身体里，还是你*是*你的身体？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你想到自己時，你認爲你是*在*你的身體裏，還是你*是*你的身體？"
+    }
+  ]
 }
