@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "期待したけれども、失敗してしまったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你真正热衷的是什么，但却完全失败了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你真正熱衷的是什麼，但卻完全失敗了？"
+    }
+  ]
 }
