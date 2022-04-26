@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-25T08:48:57Z",
   "image": "https://dev.to/social_previews/article/1066266.png",
   "author": "Walter Miani",
-  "author_url": "https://dev.to/walterego"
+  "author_url": "https://dev.to/walterego",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事のアイデアは、あなたが逃げるために必要な最低限の対処法を紹介することです...",
+      "title": "ジャバスクリプトの配列メソッド。本当に知っておくべきこと"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章的想法是向你展示你需要处理的最低限度的一套方法，以摆脱...",
+      "title": "脚本数组方法。所有你真正需要知道的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章的想法是向你展示你需要處理的最低限度的一套方法，以擺脫...",
+      "title": "腳本數組方法。所有你真正需要知道的。"
+    }
+  ]
 }
