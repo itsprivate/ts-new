@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-25T19:53:17Z",
   "image": "https://dev.to/social_previews/article/1066887.png",
   "author": "Pavel Morava",
-  "author_url": "https://dev.to/hanpari"
+  "author_url": "https://dev.to/hanpari",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "dev.toの皆さんへの公正な警告",
+      "title": "Dev.toが危険になってきた!"
+    },
+    {
+      "locale": "zh",
+      "description": "对dev.to的每个人发出公平的警告",
+      "title": "Dev.to正在变得危险!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對dev.to的每個人發出公平的警告",
+      "title": "Dev.to正在變得危險!"
+    }
+  ]
 }
