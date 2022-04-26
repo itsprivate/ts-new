@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ボストンは2003年に高速道路を地下に移した。その結果、こうなったのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "波士顿在2003年将它的高速公路移到地下。这就是结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "波士頓在2003年將它的高速公路移到地下。這就是結果。"
+    }
+  ]
 }
