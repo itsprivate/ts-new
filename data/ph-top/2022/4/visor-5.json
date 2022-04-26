@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-26T07:01:00Z"
+  "original_createdAt": "2022-04-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "スプレッドシートは好きだけど、SaaSアプリは必要？双方向の統合が可能な唯一のコラボレーション・スプレッドシートをご紹介します。Jira との間の SaaS アプリのデータ同期を利用して、ワークフローに完全に適合するソリューションを構築できます。ライブ Salesforce。Alpha Hubspot: アルファ",
+      "tagline": "SaaSアプリのデータを共同スプレッドシートで確認・編集"
+    },
+    {
+      "locale": "zh",
+      "description": "喜欢电子表格但需要SaaS应用？迎接唯一具有双向集成的协作式电子表格。通过与Jira同步的SaaS应用数据，构建完全适合你工作流程的解决方案。活的Salesforce。Alpha Hubspot。阿尔法",
+      "tagline": "在协作电子表格中查看和编辑SaaS应用数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "喜歡電子表格但需要SaaS應用？迎接唯一具有雙向集成的協作式電子表格。通過與Jira同步的SaaS應用數據，構建完全適合你工作流程的解決方案。活的Salesforce。Alpha Hubspot。阿爾法",
+      "tagline": "在協作電子表格中查看和編輯SaaS應用數據"
+    }
+  ]
 }

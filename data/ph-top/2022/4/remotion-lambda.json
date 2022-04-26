@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-26T07:08:54Z"
+  "original_createdAt": "2022-04-26T07:08:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Remotion Lambdaは、自前のAWS Lambda関数でRemotionの動画（Reactで書かれている）をレンダリングすることができます。動画を多くのチャンクに分割し、多くのLambda関数を生成することで、動画は単一のマシンでレンダリングするよりもはるかに高速にレンダリングされます。",
+      "tagline": "分散型ビデオレンダラー"
+    },
+    {
+      "locale": "zh",
+      "description": "Remotion Lambda允许你在你自我托管的AWS Lambda函数上渲染Remotion视频（用React编写）。通过将视频分成许多块并催生许多Lambda函数，视频的渲染速度比在单台机器上快得多。",
+      "tagline": "一个分布式视频渲染器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Remotion Lambda允許你在你自我託管的AWS Lambda函數上渲染Remotion視頻（用React編寫）。通過將視頻分成許多塊並催生許多Lambda函數，視頻的渲染速度比在單臺機器上快得多。",
+      "tagline": "一個分佈式視頻渲染器"
+    }
+  ]
 }
