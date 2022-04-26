@@ -134,5 +134,22 @@
     "retweet_count": 460,
     "favorite_count": 3877,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: https://t.co/4MZI1ER47O",
+      "retweeted_status_full_text": "https://t.co/4MZI1ER47O"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: https://t.co/4MZI1ER47O",
+      "retweeted_status_full_text": "https://t.co/4MZI1ER47O"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: https://t.co/4MZI1ER47O",
+      "retweeted_status_full_text": "https://t.co/4MZI1ER47O"
+    }
+  ]
 }
