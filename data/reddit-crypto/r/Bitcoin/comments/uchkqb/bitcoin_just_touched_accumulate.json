@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが \"蓄積 \"にタッチしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币刚刚触及 \"累积\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣剛剛觸及 \"累積\"。"
+    }
+  ]
 }
