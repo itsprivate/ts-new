@@ -63,5 +63,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-26T08:00:00Z"
+  "original_createdAt": "2022-04-26T08:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WaldoのPipeline Gatekeeperは、モバイルチームがPRに継続的なエンドツーエンドテストを統合することを可能にします。エンジニアは、開発中にテストのフィードバックを得て、バグを早期に発見し、迅速に修正することができるようになった。"
+    },
+    {
+      "locale": "zh",
+      "description": "Waldo的Pipeline Gatekeeper使移动团队能够将持续的端到端测试整合到PR中。工程师们现在可以在开发过程中获得测试反馈，从而更早更快地捕捉和修复错误。",
+      "tagline": "将移动测试向左转移的简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Waldo的Pipeline Gatekeeper使移動團隊能夠將持續的端到端測試整合到PR中。工程師們現在可以在開發過程中獲得測試反饋，從而更早更快地捕捉和修復錯誤。",
+      "tagline": "將移動測試向左轉移的簡單方法"
+    }
+  ]
 }
