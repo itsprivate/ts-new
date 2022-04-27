@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-26T13:48:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pw-sVVgJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/abht688xa9afrsqs111z.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この週末、3D CSSを使ったデモ：インタラクティブなスーファミのコントローラーを作成しました。",
+      "title": "HTML + CSSで作るインタラクティブなスーファミコントローラ"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的这个周末，我使用3D CSS创建了一个演示：一个互动的SNES控制器",
+      "title": "互动式SNES控制器的HTML+CSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的這個週末，我使用3D CSS創建了一個演示：一個互動的SNES控制器",
+      "title": "互動式SNES控制器的HTML+CSS"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-26T14:29:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6iigIz1w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kyhbrw0bqvvdgia1fh4s.jpg",
   "author": "Todd Libby",
-  "author_url": "https://dev.to/colabottles"
+  "author_url": "https://dev.to/colabottles",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブページのインタラクティブなアイテムの周りにあるボーダーをご存知ですか？リンク、フォームコンポーネント（チェックボックス、...",
+      "title": "フォーカスの削除をやめる"
+    },
+    {
+      "locale": "zh",
+      "description": "你知道网页上互动项目周围的边界吗？链接、表单组件（复选框、...",
+      "title": "停止删除焦点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道網頁上互動項目周圍的邊界嗎？鏈接、表單組件（複選框、...",
+      "title": "停止刪除焦點"
+    }
+  ]
 }
