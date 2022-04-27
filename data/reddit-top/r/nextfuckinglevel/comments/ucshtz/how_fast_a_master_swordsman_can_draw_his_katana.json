@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マスターソードマンがカタナを抜く速さ"
+    },
+    {
+      "locale": "zh",
+      "title": "剑术大师拔出剑的速度有多快？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "劍術大師拔出劍的速度有多快？"
+    }
+  ]
 }
