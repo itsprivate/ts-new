@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-26T17:46:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pZ-Z5xFq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9nemkwz7uv5q4rwq8sj.png",
   "author": "JoelBonetR",
-  "author_url": "https://dev.to/joelbonetr"
+  "author_url": "https://dev.to/joelbonetr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JS vs TSの戦いみたいなのがあって、いつもTSでTSと対戦するのが好きなんですけど...。",
+      "title": "TSをするかしないか、それは問題ではありません。そうでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "好像有一场关于JS与TS的斗争或类似的事情，我总是喜欢在TS中与TS作对......",
+      "title": "TS或不TS，这不是问题所在。是吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好像有一場關於JS與TS的鬥爭或類似的事情，我總是喜歡在TS中與TS作對......",
+      "title": "TS或不TS，這不是問題所在。是嗎？"
+    }
+  ]
 }
