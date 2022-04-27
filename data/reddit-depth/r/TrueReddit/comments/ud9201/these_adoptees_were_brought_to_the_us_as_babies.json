@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "赤ん坊の時に米国に引き取られた養子たち。今、彼らは盗まれたと恐れられている。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些被收养者被带到美国的时候还是婴儿。现在有人担心他们被偷走了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些被收養者被帶到美國的時候還是嬰兒。現在有人擔心他們被偷走了。"
+    }
+  ]
 }
