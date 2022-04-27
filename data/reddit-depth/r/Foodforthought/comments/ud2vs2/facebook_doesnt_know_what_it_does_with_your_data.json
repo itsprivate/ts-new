@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フェイスブックはあなたのデータをどう扱うか、どこへ送るかを知らない。リークされた文書"
+    },
+    {
+      "locale": "zh",
+      "title": "Facebook不知道它用你的数据做了什么，也不知道它去了哪里。泄露的文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Facebook不知道它用你的數據做了什麼，也不知道它去了哪裏。泄露的文件"
+    }
+  ]
 }
