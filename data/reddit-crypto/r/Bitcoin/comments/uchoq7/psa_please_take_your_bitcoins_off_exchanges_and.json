@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "See title. Thanks. Fight fiat. Spread the word."
+  "the_new_excerpt": "See title. Thanks. Fight fiat. Spread the word.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルを見る ありがとうございます。フィアットと戦う。言葉を広める。",
+      "title": "PSA：ビットコインのショートを防ぎ、紙と現物のビットコインを切り離すために、ビットコインを取引所から持ち出し、自己保管してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "见标题。谢谢。与法权斗争。传播消息。",
+      "title": "PSA: 请把你的比特币从交易所取出来，并进行自我保管，以防止空头，并使纸币和实物比特币脱钩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "見標題。謝謝。與法權鬥爭。傳播消息。",
+      "title": "PSA: 請把你的比特幣從交易所取出來，並進行自我保管，以防止空頭，並使紙幣和實物比特幣脫鉤。"
+    }
+  ]
 }
