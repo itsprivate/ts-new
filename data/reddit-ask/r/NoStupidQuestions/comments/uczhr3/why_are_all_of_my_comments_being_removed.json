@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Did a shadowban check and it turns out all of my posts from a different\nforum/board(not sure what separate places are called) are being removed? Fail to\nunderstand why since I haven't violated any of their terms."
+  "the_new_excerpt": "Did a shadowban check and it turns out all of my posts from a different\nforum/board(not sure what separate places are called) are being removed? Fail to\nunderstand why since I haven't violated any of their terms.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "シャドウバンのチェックをしたところ、別のフォーラム/ボード(別の場所というのがよくわからない)からの私の投稿がすべて削除されていることが判明しました。\nフォーラム/ボード(別の場所というのがよくわからない)からの私の投稿はすべて削除されているのでしょうか？失敗した\n私は彼らの条件のいずれにも違反していないので、なぜ理解できない。",
+      "title": "なぜ私のコメントはすべて削除されるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "做了一个影子禁令检查，结果是我在不同的\n论坛/板块（不知道不同的地方叫什么）的帖子都被删除了？我不明白\n不明白为什么，因为我没有违反他们的任何条款。",
+      "title": "为什么我所有的评论都被删除了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "做了一個影子禁令檢查，結果是我在不同的\n論壇/板塊（不知道不同的地方叫什麼）的帖子都被刪除了？我不明白\n不明白爲什麼，因爲我沒有違反他們的任何條款。",
+      "title": "爲什麼我所有的評論都被刪除了？"
+    }
+  ]
 }
