@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "The idea is to bring the tools and content used in meetings into shared\nworkspaces in your calendar. This makes it easier to focus on the discussion\nwith everyone on the same page. It also removes a lot of the overhead of\norganizing meetings, such as creating documents for notes, setting…"
+  "the_new_excerpt": "The idea is to bring the tools and content used in meetings into shared\nworkspaces in your calendar. This makes it easier to focus on the discussion\nwith everyone on the same page. It also removes a lot of the overhead of\norganizing meetings, such as creating documents for notes, setting…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "会議で使用するツールやコンテンツを共有化することです。\nワークスペースに導入することです。そうすることで、より議論に集中することができます。\nまた また、メモのためのドキュメントを作成したり、設定を変更したりと\nまた、メモ用のドキュメントを作成したり、会議の内容を設定したりと、会議運営に必要な多くのオーバーヘッドを取り除くことができます。",
+      "title": "会議を運営する人のためのカレンダーを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这个想法是将会议中使用的工具和内容带入你日历中的共享工作区。\n的工作空间。这使你更容易专注于讨论\n大家都在同一个页面上。它还消除了很多组织会议的开销，如\n组织会议的大量开销，例如为笔记创建文件，设置...",
+      "title": "我为主持会议的人做了一个日历"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這個想法是將會議中使用的工具和內容帶入你日曆中的共享工作區。\n的工作空間。這使你更容易專注於討論\n大家都在同一個頁面上。它還消除了很多組織會議的開銷，如\n組織會議的大量開銷，例如爲筆記創建文件，設置...",
+      "title": "我爲主持會議的人做了一個日曆"
+    }
+  ]
 }
