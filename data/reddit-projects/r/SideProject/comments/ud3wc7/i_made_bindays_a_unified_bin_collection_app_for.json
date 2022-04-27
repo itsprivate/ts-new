@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はBinDaysという、現在15の自治体をサポートしているイギリスの統一ゴミ収集アプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我制作了BinDays--英国统一的垃圾收集应用，目前支持15个议会。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我製作了BinDays--英國統一的垃圾收集應用，目前支持15個議會。"
+    }
+  ]
 }

@@ -155,5 +155,22 @@
     "retweet_count": 160,
     "favorite_count": 1487,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: @wef 少なくともこのWEFのビットコインに対する攻撃/誤報は、WEFのミッションに合致している https://t.co/ceQ4D2wBza",
+      "retweeted_status_full_text": "@wef 少なくとも、このWEFのビットコインに対する攻撃/誤報は、WEFのミッションに合致している https://t.co/ceQ4D2wBza"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: @wef 至少WEF对比特币的攻击/误导是符合WEF的使命的：https://t.co/ceQ4D2wBza",
+      "retweeted_status_full_text": "@wef 至少这个WEF对比特币的攻击/误导是符合WEF的使命的：https://t.co/ceQ4D2wBza"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: @wef 至少WEF對比特幣的攻擊/誤導是符合WEF的使命的：https://t.co/ceQ4D2wBza",
+      "retweeted_status_full_text": "@wef 至少這個WEF對比特幣的攻擊/誤導是符合WEF的使命的：https://t.co/ceQ4D2wBza"
+    }
+  ]
 }
