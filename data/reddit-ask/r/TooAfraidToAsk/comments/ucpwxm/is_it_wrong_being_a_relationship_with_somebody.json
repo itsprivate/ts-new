@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "...and does it change the situation if I'm honest with them about it?"
+  "the_new_excerpt": "...and does it change the situation if I'm honest with them about it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "...それを正直に話したら、状況は変わるのでしょうか？",
+      "title": "一人でいることを避けるために、好きでもない人と関係を持つことはいけないことなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "...如果我对他们坦诚相待，是否会改变情况？",
+      "title": "为了避免孤独而与你不爱的人建立关系是错误的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "...如果我對他們坦誠相待，是否會改變情況？",
+      "title": "爲了避免孤獨而與你不愛的人建立關係是錯誤的嗎？"
+    }
+  ]
 }
