@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが常に守っているルールは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你将永远遵循的一条规则是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你將永遠遵循的一條規則是什麼？"
+    }
+  ]
 }
