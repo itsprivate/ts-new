@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-25T06:39:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qZ6SSsJN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hcv9zzvq73m60rdij9u.jpg",
   "author": "Kevin Wan",
-  "author_url": "https://dev.to/kevwan"
+  "author_url": "https://dev.to/kevwan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜこのベストプラクティスを書くのか 多くのスタートアップ企業にとって、私たちがもっと注力すべきなのは、...",
+      "title": "Goでモノリシックなサービスを開発するためのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么要写这个最佳实践 对于许多初创企业来说，我们应该更多地关注于提供...",
+      "title": "在Go中开发单体服务的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼要寫這個最佳實踐 對於許多初創企業來說，我們應該更多地關注於提供...",
+      "title": "在Go中開發單體服務的最佳實踐"
+    }
+  ]
 }
