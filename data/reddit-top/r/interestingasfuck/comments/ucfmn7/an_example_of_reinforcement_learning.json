@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "強化学習の一例。"
+    },
+    {
+      "locale": "zh",
+      "title": "强化学习的一个例子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "強化學習的一個例子。"
+    }
+  ]
 }
