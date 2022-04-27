@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このお母さんは釘付けになりましたね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位妈妈说得很好!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位媽媽說得很好!"
+    }
+  ]
 }

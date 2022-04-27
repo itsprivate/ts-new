@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "About 80% percent of the time, when I am on Reddit replying to posts or\ncomments, right before I tap send, I read and think to myself, 'ya... mmm....\nprobably shouldn't say.' delete."
+  "the_new_excerpt": "About 80% percent of the time, when I am on Reddit replying to posts or\ncomments, right before I tap send, I read and think to myself, 'ya... mmm....\nprobably shouldn't say.' delete.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redditで投稿やコメントに返信するとき、約8割の確率で、送信をタップする直前に、「うーん......」と思いながら読んでいます。\n送信をタップする直前に、「ああ......うーん......」と思いながら読みます。\nと思って削除します。",
+      "title": "悪い兆候なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大约80%的时间，当我在Reddit上回复帖子或\n评论时，就在我点击发送之前，我阅读并对自己说，'ya... mmm....\n也许不应该说。\"删除。",
+      "title": "这是一个不好的征兆吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大約80%的時間，當我在Reddit上回復帖子或\n評論時，就在我點擊發送之前，我閱讀並對自己說，'ya... mmm....\n也許不應該說。\"刪除。",
+      "title": "這是一個不好的徵兆嗎？"
+    }
+  ]
 }
