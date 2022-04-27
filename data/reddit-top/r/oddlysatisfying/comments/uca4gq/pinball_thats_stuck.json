@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "動かなくなったピンボール"
+    },
+    {
+      "locale": "zh",
+      "title": "被卡住的弹球。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "被卡住的彈球。"
+    }
+  ]
 }
