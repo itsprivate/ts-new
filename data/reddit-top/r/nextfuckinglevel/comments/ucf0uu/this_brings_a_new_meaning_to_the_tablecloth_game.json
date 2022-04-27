@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはテーブルクロスゲームに新しい意味をもたらすものです"
+    },
+    {
+      "locale": "zh",
+      "title": "这给桌布游戏带来了新的意义"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這給桌布遊戲帶來了新的意義"
+    }
+  ]
 }
