@@ -13,5 +13,19 @@
   ],
   "objectID": "31176138",
   "original_created_at": "2022-04-27T04:00:36.000Z",
-  "image": "https://www.ctrl.blog/media/hero/selinux.1280x720.png"
+  "image": "https://www.ctrl.blog/media/hero/selinux.1280x720.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SELinuxは管理しきれないので、邪魔になるならオフにすればいい"
+    },
+    {
+      "locale": "zh",
+      "title": "SELinux是无法管理的；如果它妨碍了你，就把它关掉吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "SELinux是無法管理的；如果它妨礙了你，就把它關掉吧"
+    }
+  ]
 }
