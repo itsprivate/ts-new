@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワードル（クリック）ボットを作ってみた - 100ゲームの統計はこちら"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个wordle（点击）机器人--这里有100场比赛的统计数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個wordle（點擊）機器人--這裏有100場比賽的統計數據"
+    }
+  ]
 }
