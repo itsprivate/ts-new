@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファーム、アニマルへようこそ! CBDC - 中央集権的な民間所有の糞コインで、供給は無制限。"
+    },
+    {
+      "locale": "zh",
+      "title": "欢迎来到农场，动物! CBDC--集中式私人拥有的粪币，供应量无限。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歡迎來到農場，動物! CBDC--集中式私人擁有的糞幣，供應量無限。"
+    }
+  ]
 }
