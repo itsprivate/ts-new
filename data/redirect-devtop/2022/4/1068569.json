@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-27T11:39:01Z",
   "image": "https://dev.to/social_previews/article/1068569.png",
   "author": "Víctor Falcón",
-  "author_url": "https://dev.to/victoor"
+  "author_url": "https://dev.to/victoor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "6ヶ月前、私はmonse.appに取り組みました。これは、普通の人のためのシンプルで自動化された個人用財務システムです。",
+      "title": "私のソロ開発者スタックでSaaSを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "六个月前，我开始在monse.app上工作，这是一个简单和自动化的个人财务，适用于普通人。",
+      "title": "我单独的开发者堆栈，做一个SaaS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "六個月前，我開始在monse.app上工作，這是一個簡單和自動化的個人財務，適用於普通人。",
+      "title": "我單獨的開發者堆棧，做一個SaaS"
+    }
+  ]
 }
