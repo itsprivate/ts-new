@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1978年、16歳の少女がクイーンのコンサートにカメラを忍び込ませて撮影した驚くべき写真。"
+    },
+    {
+      "locale": "zh",
+      "title": "这张惊人的照片来自于一个16岁的女孩，她在1978年偷偷地把相机带进了皇后乐队的音乐会。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這張驚人的照片來自於一個16歲的女孩，她在1978年偷偷地把相機帶進了皇后樂隊的音樂會。"
+    }
+  ]
 }
