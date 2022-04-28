@@ -50,5 +50,21 @@
   "original_created_at": "2022-04-19T15:15:09Z",
   "image": "https://dev.to/social_previews/article/1060823.png",
   "author": "Sloan",
-  "author_url": "https://dev.to/sloan"
+  "author_url": "https://dev.to/sloan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、名前を公開したくない会員から送られた匿名の投稿です。どうか...",
+      "title": "コーディングは単なる仕事なのか、それともライフスタイル全体に影響を及ぼすものなのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "编码可以只是一份工作，还是必须影响我的整个生活方式？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "これは、名前を公開したくない會員から送られた匿名の投稿です。どうか...",
+      "title": "編碼可以只是一份工作，還是必須影響我的整個生活方式？"
+    }
+  ]
 }
