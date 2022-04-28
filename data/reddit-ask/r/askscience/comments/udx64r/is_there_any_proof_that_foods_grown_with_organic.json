@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "有機農薬で栽培された食品が、通常の非有機農薬で栽培された食品よりも「健康に良い」という証明はあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有证据表明用有机农药种植的食物比普通的非有机农药 \"更健康 \"地食用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有證據表明用有機農藥種植的食物比普通的非有機農藥 \"更健康 \"地食用？"
+    }
+  ]
 }

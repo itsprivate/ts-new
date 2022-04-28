@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10個のアラームでは不十分"
+    },
+    {
+      "locale": "zh",
+      "title": "10个警报器是不够的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "10個警報器是不夠的"
+    }
+  ]
 }
