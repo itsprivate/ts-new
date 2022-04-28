@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼のパラリーガルは、それを受け入れなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "他的律师助理们并不接受"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他的律師助理們並不接受"
+    }
+  ]
 }
