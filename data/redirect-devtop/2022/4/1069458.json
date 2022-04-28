@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-28T06:01:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iDhgtnfS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q1tio1z6pa153zd8d20t.jpg",
   "author": "ProgrammerHumor.io",
-  "author_url": "https://dev.to/prgrmmrhumor_io"
+  "author_url": "https://dev.to/prgrmmrhumor_io",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ProgrammerHumor.io プログラマーがユーモアと感じるものはかなり限定されており、私個人としては、...",
+      "title": "ユーモアはプログラミングを発見し、楽しむための素晴らしい方法なので、ProgrammerHumor.ioを作りました。"
+    },
+    {
+      "locale": "zh",
+      "description": "ProgrammerHumor.io 程序员认为幽默的东西是相当有限的，对我个人来说，...",
+      "title": "幽默是发现和享受编程的一个好方法，所以我建立了ProgrammerHumor.io"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ProgrammerHumor.io 程序員認爲幽默的東西是相當有限的，對我個人來說，...",
+      "title": "幽默是發現和享受編程的一個好方法，所以我建立了ProgrammerHumor.io"
+    }
+  ]
 }
