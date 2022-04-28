@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-28T07:00:00Z"
+  "original_createdAt": "2022-04-28T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PopGraphはミニマリスト・ブロガーやライターのためのOpen Graph画像やブログカバーを作成するシンプルなツールです。URLを取得するだけで、画像を生成することができます。",
+      "tagline": "オープングラフ画像やブログの表紙もワンクリックで作成可能"
+    },
+    {
+      "locale": "zh",
+      "description": "PopGraph是一个简单的工具，可以为极简主义博客和作家创建Open Graph图片或博客封面。只要获取你的URL，我们就会为你生成图片。",
+      "tagline": "一键创建开放图谱图像，甚至博客封面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PopGraph是一個簡單的工具，可以爲極簡主義博客和作家創建Open Graph圖片或博客封面。只要獲取你的URL，我們就會爲你生成圖片。",
+      "tagline": "一鍵創建開放圖譜圖像，甚至博客封面"
+    }
+  ]
 }
