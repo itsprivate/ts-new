@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "へぇ～、ドキドキ"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，该死的，被人告发了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，該死的，被人告發了"
+    }
+  ]
 }

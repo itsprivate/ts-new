@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React jsで開発した動画配信Webアプリ、デザインはAdobe xd。"
+    },
+    {
+      "locale": "zh",
+      "title": "使用React js开发的电影流媒体网络应用，设计Adobe xd"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用React js開發的電影流媒體網絡應用，設計Adobe xd"
+    }
+  ]
 }
