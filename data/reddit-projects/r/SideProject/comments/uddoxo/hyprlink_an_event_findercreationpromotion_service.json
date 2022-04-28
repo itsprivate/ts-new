@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Hyprlink：イベントの品質を事前に予測できる評価システムを備えた、イベント検索／作成／プロモーション・サービス"
+    },
+    {
+      "locale": "zh",
+      "title": "Hyprlink：一个带有评级系统的活动查找/创建/推广服务，帮助你在去之前看到一个活动的预测质量。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Hyprlink：一個帶有評級系統的活動查找/創建/推廣服務，幫助你在去之前看到一個活動的預測質量。"
+    }
+  ]
 }
