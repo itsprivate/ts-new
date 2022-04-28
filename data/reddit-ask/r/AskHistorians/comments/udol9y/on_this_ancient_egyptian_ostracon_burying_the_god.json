@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This is the ostracon in question\n[https://www.britishmuseum.org/collection/object/Y_EA5634]"
+  "the_new_excerpt": "This is the ostracon in question\n[https://www.britishmuseum.org/collection/object/Y_EA5634]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これが問題のオストラコン\n[https://www.britishmuseum.org/collection/object/Y_EA5634]",
+      "title": "この古代エジプトのオストラコには、欠勤の理由として「神を葬る」ことが書かれています。神を葬る」とはどういうことか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是有问题的岩画\n[https://www.britishmuseum.org/collection/object/Y_EA5634]",
+      "title": "在这块古埃及古碑上，\"埋葬神灵 \"被作为旷工的理由。埋葬神灵 \"是什么意思？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是有問題的巖畫\n[https://www.britishmuseum.org/collection/object/Y_EA5634]",
+      "title": "在這塊古埃及古碑上，\"埋葬神靈 \"被作爲曠工的理由。埋葬神靈 \"是什麼意思？"
+    }
+  ]
 }
