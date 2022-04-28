@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-28T12:48:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9hYeQAi4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1wq1qgwz4r983wbaux8.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "聞かせてください。",
+      "title": "あなたがこれまでに受けた最悪の面接について説明してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们听听吧",
+      "title": "描述一下你参加过的最糟糕的工作面试吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們聽聽吧",
+      "title": "描述一下你參加過的最糟糕的工作面試吧"
+    }
+  ]
 }
