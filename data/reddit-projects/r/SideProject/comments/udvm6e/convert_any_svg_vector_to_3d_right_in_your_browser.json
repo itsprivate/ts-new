@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あらゆるSVGベクターをブラウザ上で3Dに変換する"
+    },
+    {
+      "locale": "zh",
+      "title": "将任何SVG矢量转换为3D，就在你的浏览器中。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將任何SVG矢量轉換爲3D，就在你的瀏覽器中。"
+    }
+  ]
 }
