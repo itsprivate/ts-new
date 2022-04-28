@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-26T12:09:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--boYvTJB9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l7kdmfr8c1plv2hfv7gf.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜ作ったのか GitHub PagesにコードをデプロイするVS Code Extensionを作りました。私はいつも...",
+      "title": "どうやって作ったか。VS Code拡張機能の仕組み"
+    },
+    {
+      "locale": "zh",
+      "description": "我为什么建造它 我建造了一个VS Code扩展，可以将代码部署到GitHub页面。我一直...",
+      "title": "我是如何建造它的。剖析VS代码的扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我爲什麼建造它 我建造了一個VS Code擴展，可以將代碼部署到GitHub頁面。我一直...",
+      "title": "我是如何建造它的。剖析VS代碼的擴展"
+    }
+  ]
 }
