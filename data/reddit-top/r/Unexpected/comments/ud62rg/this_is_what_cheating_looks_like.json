@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これぞ、ズルい。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是作弊的样子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是作弊的樣子。"
+    }
+  ]
 }
