@@ -13,5 +13,19 @@
   ],
   "objectID": "31195476",
   "original_created_at": "2022-04-28T17:33:10.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "HNに伝える：デフォルトでは、New Relicは5/3に本番用ログデータの収集を開始します。"
+    },
+    {
+      "locale": "zh",
+      "title": "告诉HN：默认情况下，New Relic将在5/3开始收集生产日志数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "告訴HN：默認情況下，New Relic將在5/3開始收集生產日誌數據"
+    }
+  ]
 }
