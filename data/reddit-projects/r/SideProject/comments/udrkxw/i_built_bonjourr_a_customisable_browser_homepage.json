@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "iOSにインスパイアされたカスタマイズ可能なブラウザホームページ「Bonjourr」を作ってみた 🌤️。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了Bonjourr，一个可定制的浏览器主页，灵感来自于iOS 🌤️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了Bonjourr，一個可定製的瀏覽器主頁，靈感來自於iOS 🌤️"
+    }
+  ]
 }
