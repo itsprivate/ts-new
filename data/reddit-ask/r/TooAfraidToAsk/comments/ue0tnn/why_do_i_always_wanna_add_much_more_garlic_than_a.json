@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Whenever I make a recipe, it’ll usually say something like “2 cloves of garlic,”\nand then I end up using way more garlic because it just tastes better;\napparently a ton of other people do this, and I was wondering why that is."
+  "the_new_excerpt": "Whenever I make a recipe, it’ll usually say something like “2 cloves of garlic,”\nand then I end up using way more garlic because it just tastes better;\napparently a ton of other people do this, and I was wondering why that is.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "レシピを作るときはいつも、\"ニンニク2片 \"とか書いてあるんです。\nでも、結局はもっとニンニクを使ってしまうんです。\n多くの人がそうしているようですが、なぜなのでしょう？",
+      "title": "どうしていつも、レシピに書いてあるよりずっとたくさんニンニクを入れたくなるんだろう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "每当我做一个菜谱时，它通常会说 \"2瓣大蒜 \"之类的话。\n然后我最终使用更多的大蒜，因为它的味道更好。\n显然，很多人都是这样做的，我想知道这是为什么。",
+      "title": "为什么我总是想加入比食谱要求多得多的大蒜？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "每當我做一個菜譜時，它通常會說 \"2瓣大蒜 \"之類的話。\n然後我最終使用更多的大蒜，因爲它的味道更好。\n顯然，很多人都是這樣做的，我想知道這是爲什麼。",
+      "title": "爲什麼我總是想加入比食譜要求多得多的大蒜？"
+    }
+  ]
 }
