@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニュースキャスターを別角度から見る"
+    },
+    {
+      "locale": "zh",
+      "title": "从另一个角度看新闻主播"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從另一個角度看新聞主播"
+    }
+  ]
 }
