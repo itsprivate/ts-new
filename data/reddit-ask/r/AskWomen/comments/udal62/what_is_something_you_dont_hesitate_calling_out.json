@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見たり聞いたりしたときに、ためらわずに声をかけるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你看到/听到什么东西时，你会毫不犹豫地叫出来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你看到/聽到什麼東西時，你會毫不猶豫地叫出來？"
+    }
+  ]
 }
