@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Like not wanting to die, just so I don’t have to go in."
+  "the_new_excerpt": "Like not wanting to die, just so I don’t have to go in.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "死にたくない、ただ、入らなくていいように。",
+      "title": "通勤途中で事故に遭えば入らなくて済むのにと思う人はいないのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "就像不想死，只是为了不用进去。",
+      "title": "有没有人觉得他们希望自己在上班的路上发生事故，这样他们就不必进去了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "就像不想死，只是爲了不用進去。",
+      "title": "有沒有人覺得他們希望自己在上班的路上發生事故，這樣他們就不必進去了？"
+    }
+  ]
 }
