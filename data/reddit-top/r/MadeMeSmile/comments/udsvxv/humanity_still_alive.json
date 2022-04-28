@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人類はまだ生きている"
+    },
+    {
+      "locale": "zh",
+      "title": "人类仍然活着"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類仍然活着"
+    }
+  ]
 }
