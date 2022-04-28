@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-28T07:01:00Z"
+  "original_createdAt": "2022-04-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rootlyは、インシデントチャンネル、Jiraチケット、Zoomルームの作成、事後処理タイムラインの生成などの手動管理作業をすべてSlack内から自動化し、一貫したインシデント対応プロセスの構築を支援します。Canva、Grammarly、Boltなどに信頼されています。",
+      "tagline": "Slackで直接インシデントを管理"
+    },
+    {
+      "locale": "zh",
+      "description": "Rootly通过自动化手动管理工作，如创建事件频道、Jira票据、Zoom房间和生成事后报告时间表，帮助建立一个一致的事件响应流程，所有这些工作都在Slack内进行。受到Canva、Grammarly、Bolt等公司的信任。",
+      "tagline": "直接在Slack中管理事件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rootly通過自動化手動管理工作，如創建事件頻道、Jira票據、Zoom房間和生成事後報告時間表，幫助建立一個一致的事件響應流程，所有這些工作都在Slack內進行。受到Canva、Grammarly、Bolt等公司的信任。",
+      "tagline": "直接在Slack中管理事件"
+    }
+  ]
 }

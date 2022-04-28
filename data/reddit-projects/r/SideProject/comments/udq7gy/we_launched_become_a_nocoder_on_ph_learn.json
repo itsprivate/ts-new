@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PHでnocoderになる🚀～200時間以上かけずにノーコードの全てを学ぼう～を開始しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们推出了《成为PH的nocoder》🚀--无需花费200多个小时就能了解关于无代码的一切！我们的目标是让更多人了解无代码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們推出了《成爲PH的nocoder》🚀--無需花費200多個小時就能瞭解關於無代碼的一切！我們的目標是讓更多人瞭解無代碼。"
+    }
+  ]
 }
