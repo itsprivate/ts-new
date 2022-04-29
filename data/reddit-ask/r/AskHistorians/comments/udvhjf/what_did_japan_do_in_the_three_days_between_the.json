@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "How did they respond to the first nuclear bomb before they were hit with the\nsecond one?"
+  "the_new_excerpt": "How did they respond to the first nuclear bomb before they were hit with the\nsecond one?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "2発目の核兵器を受ける前に、1発目の核兵器にどう対応したのか。\nどのように対応したのでしょうか。",
+      "title": "広島と長崎に原爆が投下されるまでの3日間、日本は何をしていたのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在他们被击中之前，他们是如何应对第一颗核弹的？\n第二颗核弹？",
+      "title": "在轰炸广岛和长崎的三天里，日本做了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在他們被擊中之前，他們是如何應對第一顆核彈的？\n第二顆核彈？",
+      "title": "在轟炸廣島和長崎的三天裏，日本做了什麼？"
+    }
+  ]
 }
