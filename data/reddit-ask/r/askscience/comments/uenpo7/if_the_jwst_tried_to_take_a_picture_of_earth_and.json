@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Could it take a picture of my house? Of the ants on the ground?\n\nThis is probably a stupid question."
+  "the_new_excerpt": "Could it take a picture of my house? Of the ants on the ground?\n\nThis is probably a stupid question.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の家の写真を撮ってくれないかな？地面にいる蟻の写真も？\n\nこれはおそらく愚かな質問です。",
+      "title": "もしJWSTが地球の写真を撮ろうとし、そのために適切な校正や設計がされていたとしたら、写真はどのくらい拡大されるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它能给我的房子拍张照片吗？地面上的蚂蚁？\n\n这可能是一个愚蠢的问题。",
+      "title": "如果JWST试图拍摄一张地球的照片，并经过适当的校准/设计，照片会被放大到什么程度？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它能給我的房子拍張照片嗎？地面上的螞蟻？\n\n這可能是一個愚蠢的問題。",
+      "title": "如果JWST試圖拍攝一張地球的照片，並經過適當的校準/設計，照片會被放大到什麼程度？"
+    }
+  ]
 }
