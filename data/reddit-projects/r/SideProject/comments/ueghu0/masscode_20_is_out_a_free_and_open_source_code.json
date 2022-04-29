@@ -1,0 +1,62 @@
+{
+  "author": "antonreshetov",
+  "original_created_utc": 1651217069,
+  "title": "massCode 2.0 is out - A free and open source code snippets manager for developers",
+  "created_utc": 1651230579,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"https://github.com/massCodeIO/massCode\"&gt;https://github.com/massCodeIO/massCode&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/wkm5qmub6fw81.png?width=2000&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=143c89f66020de9e09d55acbd392abf2f4cf6e96\"&gt;massCode image&lt;/a&gt;&lt;/p&gt;\n\n&lt;h2&gt;Organization&lt;/h2&gt;\n\n&lt;p&gt;massCode allows you to organize snippets using multi-level folders as well as tags. Each snippet has fragments - tabs, which gives even greater level of organization.&lt;/p&gt;\n\n&lt;h2&gt;Editor&lt;/h2&gt;\n\n&lt;p&gt;A snippet manager must not only provide organization of snippets but also have a good code editor. That&amp;#39;s why under the hood of massCode there&amp;#39;s &lt;a href=\"https://ace.c9.io/\"&gt;Ace&lt;/a&gt;. Ace is a high performance code editor which supports syntax highlighting for over 170 languages. We also added a &lt;a href=\"https://prettier.io/\"&gt;Prettier&lt;/a&gt; to code formatter.&lt;/p&gt;\n\n&lt;h2&gt;Markdown&lt;/h2&gt;\n\n&lt;p&gt;massCode allows you to write in Markdown and also provide syntax highlighting inside a code block. And of course there is a preview.&lt;/p&gt;\n\n&lt;h2&gt;Search&lt;/h2&gt;\n\n&lt;p&gt;It is impossible to imagine a productive snippets manager without quick access to snippets. Therefore massCode has a fast full-text search with highlighting of the search query.&lt;/p&gt;\n\n&lt;h2&gt;Autosave&lt;/h2&gt;\n\n&lt;p&gt;massCode automatically saves any changes you make during work, so you don&amp;#39;t have to worry about losing changes.&lt;/p&gt;\n\n&lt;h2&gt;Sync&lt;/h2&gt;\n\n&lt;p&gt;You can use any service that provides cloud synchronization, such as iCloud Drive, Google Drive, Dropbox or other similar.&lt;/p&gt;\n\n&lt;h2&gt;Database&lt;/h2&gt;\n\n&lt;p&gt;massCode uses a simple JSON to store your data. The database files are on your local computer.&lt;/p&gt;\n\n&lt;h2&gt;Integrations&lt;/h2&gt;\n\n&lt;p&gt;massCode supports extensions for &lt;a href=\"https://marketplace.visualstudio.com/items?itemName=AntonReshetov.masscode-assistant\"&gt;VS Code&lt;/a&gt;, &lt;a href=\"https://www.raycast.com/antonreshetov/masscode\"&gt;Raycast&lt;/a&gt; and &lt;a href=\"https://github.com/massCodeIO/assistant-alfred\"&gt;Alfred&lt;/a&gt;, which gives even more possibilities to use application. With the VS Code extension you get practically zen mode, search for the necessary snippets and insert them immediately or save the selected code sections as a snippet.&lt;/p&gt;\n\n&lt;p&gt;Best,Anton&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?auto=webp&amp;s=6448a8ff60b1463a351d828014227f3476d155fa",
+          "width": 1280,
+          "height": 640
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a46f970a23013349bd1f02d476a4bc0469868113",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=8211fb197c5af89e1d9b64f50f953cd9b2969212",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=374bb2b840b4fee3af6c7bcf0927d44eb170e980",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b5c5e70cab0dcd0d2c4de1c38631c9aa5816fa9",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=afdc4026e0d9c285f7e045ab7d47e5e4d0c6426b",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/eUWAo8WngZmX_-bSnkDoNcchIQvZNc7DeSxbmud3qY0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4185ec1eb0705e096c712eae46863ad375a0dbe5",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "tYtorkqG9jmm_nUaH4yJ-kx06gbVSWG_uoM1wweTM2A"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/ueghu0/masscode_20_is_out_a_free_and_open_source_code/",
+  "subreddit": "SideProject",
+  "id": "ueghu0",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "https://github.com/massCodeIO/massCode\n\nmassCode image\n[https://preview.redd.it/wkm5qmub6fw81.png?width=2000&format=png&auto=webp&s=143c89f66020de9e09d55acbd392abf2f4cf6e96]\n\n\nORGANIZATION\n\nmassCode allows you to organize snippets using multi-level folders as well as\ntags. Each snippet has…"
+}
