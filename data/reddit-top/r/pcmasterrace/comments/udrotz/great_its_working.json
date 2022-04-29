@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "素晴らしい動作"
+    },
+    {
+      "locale": "zh",
+      "title": "很好，它的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很好，它的工作"
+    }
+  ]
 }
