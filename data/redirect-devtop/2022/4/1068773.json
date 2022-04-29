@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-27T14:52:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AYaAUJHn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3af3in6ynwcfjox4c98d.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウドホスティングプロバイダーやSaaS（Software-as-a-Service）プラットフォームでは、サーバーレスを提供するところが増えてきています。",
+      "title": "私たちはそれで生きている しかし、「エッジ」とはいったい何なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "越来越多的云主机供应商和软件即服务平台正在提供无服务器...",
+      "title": "我们都生活在它上面。但究竟什么是 \"边缘\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "越來越多的雲主機供應商和軟件即服務平臺正在提供無服務器...",
+      "title": "我們都生活在它上面。但究竟什麼是 \"邊緣\"？"
+    }
+  ]
 }
