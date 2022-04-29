@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近作った新しいガラスのランプ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我最近做的一个新的玻璃灯。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我最近做的一個新的玻璃燈。"
+    }
+  ]
 }
