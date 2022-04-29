@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トム"
+    },
+    {
+      "locale": "zh",
+      "title": "汤姆"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "湯姆"
+    }
+  ]
 }
