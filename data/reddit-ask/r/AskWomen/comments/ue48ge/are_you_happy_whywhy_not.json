@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was wondering if you are happy and why or why not ? I have no intention so\nfeel free to understand the question as you like"
+  "the_new_excerpt": "I was wondering if you are happy and why or why not ? I have no intention so\nfeel free to understand the question as you like",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は、あなたが幸せかどうか、なぜ、なぜそうでないのか、知りたかったのです。私は何も考えていませんので\nこの質問を理解するのは自由です。",
+      "title": "あなたは幸せですか？ なぜですか／なぜですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想知道你是否快乐，为什么或为什么不快乐？我没有任何意图，所以\n你可以自由地理解这个问题",
+      "title": "你快乐吗？ 为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想知道你是否快樂，爲什麼或爲什麼不快樂？我沒有任何意圖，所以\n你可以自由地理解這個問題",
+      "title": "你快樂嗎？ 爲什麼？"
+    }
+  ]
 }
