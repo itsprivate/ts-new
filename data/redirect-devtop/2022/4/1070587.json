@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-29T08:25:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rknPXitj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://miro.medium.com/max/1400/1%2AAgap4Upvp4UoSb6ODSU9Og.png",
   "author": "AlessandroMinoccheri",
-  "author_url": "https://dev.to/minompi"
+  "author_url": "https://dev.to/minompi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブソケットイベントとサーバー送信型イベントの違いと理想的なケースを理解しましょう。",
+      "title": "WebSocketとサーバー送信型イベントの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们了解一下websocket和服务器发送的事件之间有什么区别以及它们的理想情况",
+      "title": "WebSocket与服务器发送的事件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們瞭解一下websocket和服務器發送的事件之間有什麼區別以及它們的理想情況",
+      "title": "WebSocket與服務器發送的事件"
+    }
+  ]
 }
