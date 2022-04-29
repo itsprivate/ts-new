@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditの自動名前生成アルゴリズムは、このユーザー名を私に与えないように賢くなっているはずだと思いませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为Reddit的自动名称生成算法应该足够聪明，不会给我这个用户名吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲Reddit的自動名稱生成算法應該足夠聰明，不會給我這個用戶名嗎？"
+    }
+  ]
 }
