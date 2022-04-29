@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-29T07:35:38Z"
+  "original_createdAt": "2022-04-29T07:35:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pixyは、Snap対応のドローンから撮影できるメガネの技術を応用して作られた新しいカメラです。カメラとセンサーを使い、被写体を追いかけ、囲むなどして撮影する。",
+      "tagline": "空飛ぶカメラ、Snapを搭載。"
+    },
+    {
+      "locale": "zh",
+      "description": "Pixy是一种建立在眼镜技术上的新相机，允许人们从兼容Snap的无人机上拍摄。使用相机和传感器来跟踪拍摄对象，包围他们，等等。",
+      "tagline": "你友好的飞行相机，由Snap提供动力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Pixy是一種建立在眼鏡技術上的新相機，允許人們從兼容Snap的無人機上拍攝。使用相機和傳感器來跟蹤拍攝對象，包圍他們，等等。",
+      "tagline": "你友好的飛行相機，由Snap提供動力"
+    }
+  ]
 }
