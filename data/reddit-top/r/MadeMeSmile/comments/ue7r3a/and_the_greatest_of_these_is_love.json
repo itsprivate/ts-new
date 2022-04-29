@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そして、最も偉大なものは愛である"
+    },
+    {
+      "locale": "zh",
+      "title": "其中最伟大的是爱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "其中最偉大的是愛"
+    }
+  ]
 }
