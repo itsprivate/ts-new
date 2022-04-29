@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-28T14:11:33Z"
+  "original_createdAt": "2022-04-28T14:11:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Permify React Roleは、オープンソースのロールベースアクセス管理ソリューションで、バックエンドとの接続なしに、Reactアプリケーション全体のアクセスチェックとユーザー権限を制御するためのコンポーネント、フック、ヘルパーメソッドを提供します。",
+      "tagline": "Reactアプリケーションのロール＆パーミッションの管理"
+    },
+    {
+      "locale": "zh",
+      "description": "Permify React角色是开源的基于角色的访问管理解决方案，它提供了组件、钩子和辅助方法，用于控制整个React应用程序的访问检查和用户权限，而无需任何后端连接。",
+      "tagline": "在你的React应用程序中管理角色和权限"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Permify React角色是開源的基於角色的訪問管理解決方案，它提供了組件、鉤子和輔助方法，用於控制整個React應用程序的訪問檢查和用戶權限，而無需任何後端連接。",
+      "tagline": "在你的React應用程序中管理角色和權限"
+    }
+  ]
 }
