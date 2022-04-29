@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "才能を残そう"
+    },
+    {
+      "locale": "zh",
+      "title": "为我们其他人保留一些人才"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲我們其他人保留一些人才"
+    }
+  ]
 }
