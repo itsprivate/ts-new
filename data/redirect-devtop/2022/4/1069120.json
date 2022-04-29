@@ -46,5 +46,22 @@
   "original_created_at": "2022-04-27T18:22:12Z",
   "image": "https://dev.to/social_previews/article/1069120.png",
   "author": "Adrian Carter",
-  "author_url": "https://dev.to/adrvnc"
+  "author_url": "https://dev.to/adrvnc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、ある記事を読みました。著者のJerry Low氏は、開発者がCSSを記述することを提案しています。",
+      "title": "オープンディスカッション クリーンなコードを書くためのヒントがあれば教えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我读了一篇文章，作者Jerry Low建议开发者在写CSS的时候，要有自己的想法。",
+      "title": "公开讨论。你有什么写清洁代码的技巧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我讀了一篇文章，作者Jerry Low建議開發者在寫CSS的時候，要有自己的想法。",
+      "title": "公開討論。你有什麼寫清潔代碼的技巧？"
+    }
+  ]
 }
