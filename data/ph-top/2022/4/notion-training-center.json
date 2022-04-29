@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-29T07:01:00Z"
+  "original_createdAt": "2022-04-29T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このNotionのテンプレートを使えば、Notionのワークスペースを離れることなく、トレーニングライブラリの構築、受講者の進捗管理、クイズによるレッスンの理解度確認が可能です。",
+      "tagline": "Notionのワークスペースをトレーニングセンターへ"
+    },
+    {
+      "locale": "zh",
+      "description": "使用这个Notion模板来建立培训库，衡量学员的进度，并通过分级测验跟踪课程的理解情况--所有这些都不需要离开你的Notion工作区。",
+      "tagline": "把你的Notion工作区变成一个训练中心"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用這個Notion模板來建立培訓庫，衡量學員的進度，並通過分級測驗跟蹤課程的理解情況--所有這些都不需要離開你的Notion工作區。",
+      "tagline": "把你的Notion工作區變成一個訓練中心"
+    }
+  ]
 }

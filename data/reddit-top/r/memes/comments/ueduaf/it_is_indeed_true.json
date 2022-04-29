@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "じつはそうなのです"
+    },
+    {
+      "locale": "zh",
+      "title": "果然是这样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "果然是這樣"
+    }
+  ]
 }
