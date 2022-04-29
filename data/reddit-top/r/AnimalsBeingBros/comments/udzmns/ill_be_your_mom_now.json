@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これからは私があなたのお母さんになります"
+    },
+    {
+      "locale": "zh",
+      "title": "我现在要做你的妈妈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我現在要做你的媽媽"
+    }
+  ]
 }
