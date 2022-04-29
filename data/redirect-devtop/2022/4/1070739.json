@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-29T09:50:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--70Gza1_y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uas9zi2dy3x52qbdxykf.jpg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア・エンジニアは、通常、インフラストラクチャのコストを気にすることはありません。 しかし...",
+      "title": "クラウドコストマネジメントの重要性を開発チームに納得させる方法とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "软件工程师通常不关心基础设施的成本，因为他们从来不需要关心。 但是...",
+      "title": "如何说服你的开发团队相信云计算成本管理的重要性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "軟件工程師通常不關心基礎設施的成本，因爲他們從來不需要關心。 但是...",
+      "title": "如何說服你的開發團隊相信雲計算成本管理的重要性？"
+    }
+  ]
 }
