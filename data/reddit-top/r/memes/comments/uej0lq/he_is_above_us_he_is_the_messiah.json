@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は私たちの上にいる、彼は救世主だ"
+    },
+    {
+      "locale": "zh",
+      "title": "他在我们之上，他是弥赛亚。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他在我們之上，他是彌賽亞。"
+    }
+  ]
 }
