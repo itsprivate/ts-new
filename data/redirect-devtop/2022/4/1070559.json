@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-29T07:20:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pc_vHa_C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c78kbvxba12a1p9l3ewp.jpg",
   "author": "Michelle Mannering",
-  "author_url": "https://dev.to/mishmanners"
+  "author_url": "https://dev.to/mishmanners",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Copilot の新機能は、熟練したプログラマーであれ、これから始める人であれ、...",
+      "title": "GitHub Copilotを使ったコードの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是经验丰富的程序员，还是刚刚起步的人，GitHub Copilot的新功能都会让你有机会。",
+      "title": "使用GitHub Copilot了解你的代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是經驗豐富的程序員，還是剛剛起步的人，GitHub Copilot的新功能都會讓你有機會。",
+      "title": "使用GitHub Copilot瞭解你的代碼"
+    }
+  ]
 }
