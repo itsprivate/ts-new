@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "政治的傾向"
+    },
+    {
+      "locale": "zh",
+      "title": "极端政治倾向"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "極端政治傾向"
+    }
+  ]
 }

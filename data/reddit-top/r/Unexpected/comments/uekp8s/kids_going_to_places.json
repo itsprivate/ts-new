@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子どもたちがいろいろなところに行く"
+    },
+    {
+      "locale": "zh",
+      "title": "孩子们去的地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "孩子們去的地方"
+    }
+  ]
 }

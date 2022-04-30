@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-29T07:01:00Z"
+  "original_createdAt": "2022-04-29T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イーサリアムを初めて使うとき、みんな生まれ変わるんだ。Eth Birthdaysは、Twitter上で暗号の友達にEthereumの誕生日（初めての取引）を祝うことができるウェブアプリ＋Twitterボットです。",
+      "tagline": "あなたのイーサリアム誕生日は？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们第一次使用以太坊的时候都是重生的。Eth Birthdays是一个网络应用程序+Twitter机器人，让你在Twitter上祝加密货币朋友以太坊生日快乐（他们的第一次交易）。",
+      "tagline": "你的以太坊生日是什么时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們第一次使用以太坊的時候都是重生的。Eth Birthdays是一個網絡應用程序+Twitter機器人，讓你在Twitter上祝加密貨幣朋友以太坊生日快樂（他們的第一次交易）。",
+      "tagline": "你的以太坊生日是什麼時候"
+    }
+  ]
 }
