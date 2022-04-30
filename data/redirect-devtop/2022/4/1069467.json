@@ -50,5 +50,22 @@
   "original_created_at": "2022-04-28T06:35:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q77r01fh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4b33a7eq4920fxa1jalj.jpg",
   "author": "Corbin Crutchley",
-  "author_url": "https://dev.to/crutchcorn"
+  "author_url": "https://dev.to/crutchcorn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正規表現（regex）とは、特定の文字列をマッチングさせる構文です。",
+      "title": "正規表現(Regex)の完全ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "正则表达式--或简称为regex--是一种语法，允许你以特定的方式匹配字符串。",
+      "title": "正则表达式(Regex)完全指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正則表達式--或簡稱爲regex--是一種語法，允許你以特定的方式匹配字符串。",
+      "title": "正則表達式(Regex)完全指南"
+    }
+  ]
 }
