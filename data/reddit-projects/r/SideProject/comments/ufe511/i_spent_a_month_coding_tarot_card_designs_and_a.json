@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タロットカードのデザインとウェブサイトのコーディングに1ヶ月を費やしましたが、その結果得られたのは「死」だけです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我花了一个月的时间编码塔罗牌设计和网站，而我所得到的是死亡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我花了一個月的時間編碼塔羅牌設計和網站，而我所得到的是死亡。"
+    }
+  ]
 }
