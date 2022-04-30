@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブル"
+    },
+    {
+      "locale": "zh",
+      "title": "傻子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "傻子"
+    }
+  ]
 }

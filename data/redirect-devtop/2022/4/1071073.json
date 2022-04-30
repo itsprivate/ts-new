@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-29T17:08:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gcixdedR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6dnzqxovaib4byxxnsmk.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OpenAPI定義編集用の無料インブラウザツール - AppSeed（無料開発ツール）により提供されます。",
+      "title": "OpenAPI Editor - 無料のブラウザ内開発ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "免费的、用于编辑OpenAPI定义的浏览器内工具--由AppSeed（免费开发者工具）提供。",
+      "title": "OpenAPI编辑器 - 免费的浏览器内开发工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免費的、用於編輯OpenAPI定義的瀏覽器內工具--由AppSeed（免費開發者工具）提供。",
+      "title": "OpenAPI編輯器 - 免費的瀏覽器內開發工具"
+    }
+  ]
 }
