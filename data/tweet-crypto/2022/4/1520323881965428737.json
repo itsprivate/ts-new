@@ -134,5 +134,22 @@
     "retweet_count": 515,
     "favorite_count": 1844,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @TimmerFidelity: パンデミック時代のマーケットを1つのチャートで。 https://t.co/ckMkpjYe1g",
+      "retweeted_status_full_text": "パンデミック時代のマーケットを1つのチャートで見る https://t.co/ckMkpjYe1g."
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @TimmerFidelity: 大流行时代的市场在一个图表中。https://t.co/ckMkpjYe1g",
+      "retweeted_status_full_text": "大流行时代的市场一目了然。https://t.co/ckMkpjYe1g"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @TimmerFidelity: 大流行時代的市場在一個圖表中。https://t.co/ckMkpjYe1g",
+      "retweeted_status_full_text": "大流行時代的市場一目瞭然。https://t.co/ckMkpjYe1g"
+    }
+  ]
 }
