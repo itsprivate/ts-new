@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おやすみなさい"
+    },
+    {
+      "locale": "zh",
+      "title": "稳坐钓鱼台..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "穩坐釣魚臺..."
+    }
+  ]
 }
