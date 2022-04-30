@@ -134,5 +134,22 @@
     "retweet_count": 775,
     "favorite_count": 3832,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTCLiotta04: しかし、ビットコインのエネルギー使用量は問題ですね🤔 https://t.co/UBCLlbIJVp",
+      "retweeted_status_full_text": "しかし、ビットコインのエネルギー使用量は問題ですね🤔 https://t.co/UBCLlbIJVp"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTCLiotta04: But bitcoin energy use is a problem 🤔 https://t.co/UBCLlbIJVp",
+      "retweeted_status_full_text": "但比特币的能源使用是个问题 🤔https://t.co/UBCLlbIJVp"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTCLiotta04: But bitcoin energy use is a problem 🤔 https://t.co/UBCLlbIJVp",
+      "retweeted_status_full_text": "但比特幣的能源使用是個問題 🤔https://t.co/UBCLlbIJVp"
+    }
+  ]
 }
