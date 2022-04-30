@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゴールまでずっとシングルタッチ。"
+    },
+    {
+      "locale": "zh",
+      "title": "一路单刀直入。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一路單刀直入。"
+    }
+  ]
 }
