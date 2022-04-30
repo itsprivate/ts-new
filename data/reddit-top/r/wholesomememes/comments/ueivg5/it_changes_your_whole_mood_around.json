@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "周囲の雰囲気を一変させる"
+    },
+    {
+      "locale": "zh",
+      "title": "它改变了你的整个心情"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它改變了你的整個心情"
+    }
+  ]
 }
