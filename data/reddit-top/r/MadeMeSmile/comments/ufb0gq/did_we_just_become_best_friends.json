@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"私たち親友になったのかしら？\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我们刚刚成为最好的朋友吗？\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我們剛剛成爲最好的朋友嗎？\""
+    }
+  ]
 }
