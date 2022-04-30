@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界のベストビーチを探すためのクラウドソーシングサイト「Beach Nearby」を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个众包网站，帮助你找到世界上最好的海滩--Beach Nearby。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個衆包網站，幫助你找到世界上最好的海灘--Beach Nearby。"
+    }
+  ]
 }
