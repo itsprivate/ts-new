@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、アメリカにメッカがあるとしたら、それはどこでしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果美国有一个麦加，一个每个美国人一生中至少要去一次的地方，那会是哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果美國有一個麥加，一個每個美國人一生中至少要去一次的地方，那會是哪裏？"
+    }
+  ]
 }
