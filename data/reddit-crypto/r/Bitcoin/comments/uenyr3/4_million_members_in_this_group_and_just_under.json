@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このグループには400万人のメンバーがおり、17k弱のノードが稼動しています。自分の役割を果たし、ノードを走らせましょう"
+    },
+    {
+      "locale": "zh",
+      "title": "这个小组有400万成员，只有不到17000个节点在运作。做好你的工作，运行一个节点!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個小組有400萬成員，只有不到17000個節點在運作。做好你的工作，運行一個節點!"
+    }
+  ]
 }
