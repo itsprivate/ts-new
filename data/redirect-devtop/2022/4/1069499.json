@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-28T08:05:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J4HOVhEF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3esp6nj25dor38wh2su.png",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLの解析が終わったら、今度はCSS（外部のCSSファイルや、...にあるもの）を解析します。",
+      "title": "ウェブブラウザの仕組み - CSSを解析する（その4、図解付き）⏳🌐。"
+    },
+    {
+      "locale": "zh",
+      "description": "在HTML被解析后，现在是解析CSS的时候了（在外部CSS文件中和在...",
+      "title": "网络浏览器如何工作--解析CSS（第4部分，附图）⏳🌐"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在HTML被解析後，現在是解析CSS的時候了（在外部CSS文件中和在...",
+      "title": "網絡瀏覽器如何工作--解析CSS（第4部分，附圖）⏳🌐"
+    }
+  ]
 }
