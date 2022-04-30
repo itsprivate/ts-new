@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-04-30T07:33:36Z"
+  "original_createdAt": "2022-04-30T07:33:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CookieLawInfoは、Cookieやデータ・プライバシーに関する法律やコンプライアンス・ソリューションについて、常に最新の情報を提供することを目的としたウェブサイトです。",
+      "tagline": "ウェブサイトのクッキー、個人情報保護法、コンプライアンスについて読み解く"
+    },
+    {
+      "locale": "zh",
+      "description": "CookieLawInfo是一个致力于提供信息和解决方案的网站，以帮助您随时了解有关cookies和数据隐私法律和合规解决方案的最新情况。",
+      "tagline": "阅读关于网站cookies、隐私法和合规性的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CookieLawInfo是一個致力於提供信息和解決方案的網站，以幫助您隨時瞭解有關cookies和數據隱私法律和合規解決方案的最新情況。",
+      "tagline": "閱讀關於網站cookies、隱私法和合規性的內容"
+    }
+  ]
 }
