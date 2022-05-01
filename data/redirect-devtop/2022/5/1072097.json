@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-01T02:27:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3IUCZ7ip--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3brnoog2wa065aogetr3.jpeg",
   "author": "Tina Huynh",
-  "author_url": "https://dev.to/tmchuynh"
+  "author_url": "https://dev.to/tmchuynh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜ開発者はあるプログラミング言語を嫌うのか？  とか、「---は遅いし...」とか。",
+      "title": "あなたが使うことを拒むONE言語/フレームワークは何ですか？でも...なぜ？"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么开发人员憎恨某些编程语言？  你会听到这样的话：\"---比较慢，而且...",
+      "title": "你拒绝使用的一种语言/框架是什么？但是......为什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼開發人員憎恨某些編程語言？  你會聽到這樣的話：\"---比較慢，而且...",
+      "title": "你拒絕使用的一種語言/框架是什麼？但是......爲什麼呢？"
+    }
+  ]
 }

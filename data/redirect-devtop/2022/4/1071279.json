@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-29T22:12:51Z",
   "image": "https://dev.to/social_previews/article/1071279.png",
   "author": "Ria Pacheco",
-  "author_url": "https://dev.to/riapacheco"
+  "author_url": "https://dev.to/riapacheco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ローカルストレージとは？  ローカルストレージは DOM 内のオブジェクトで、データ、...を保存することができます。",
+      "title": "ユーザーの訪問を記憶するためのローカルストレージの使用"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是本地存储？  本地存储是DOM中的一个对象，你可以在那里存储数据，...",
+      "title": "使用本地存储来记忆用户的访问"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是本地存儲？  本地存儲是DOM中的一個對象，你可以在那裏存儲數據，...",
+      "title": "使用本地存儲來記憶用戶的訪問"
+    }
+  ]
 }
