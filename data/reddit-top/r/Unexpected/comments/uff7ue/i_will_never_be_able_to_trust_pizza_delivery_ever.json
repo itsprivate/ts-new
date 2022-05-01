@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もう二度とピザの宅配を信用することはできない。"
+    },
+    {
+      "locale": "zh",
+      "title": "我再也不能相信披萨外卖了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我再也不能相信披薩外賣了。"
+    }
+  ]
 }
