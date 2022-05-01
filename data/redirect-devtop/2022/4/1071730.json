@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-30T14:48:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--imtFk16s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vh89jbvdb7ge8w1buz9.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSと1つのHTML要素によるシンプルな効果",
+      "title": "CSSで花火のエフェクトを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "用CSS和一个HTML元素做一个简单的效果",
+      "title": "用CSS创建一个烟花效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用CSS和一個HTML元素做一個簡單的效果",
+      "title": "用CSS創建一個煙花效果"
+    }
+  ]
 }
