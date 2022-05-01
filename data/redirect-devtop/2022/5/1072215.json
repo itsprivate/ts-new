@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-01T07:04:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qIo6hEkT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yj0rv8kn5w3mufn6nm78.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Django、Charts.JS、DRF で作られたサンプルプロジェクトで、円グラフ、線グラフ、棒グラフをどのように描画するかを紹介しています。",
+      "title": "DRF による Django チャート - ステップバイステップチュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Django、Charts.JS和DRF制作的示例项目，展示了如何绘制不同的图表饼图、线形图和条形图。",
+      "title": "通过DRF的Django图表--分步骤教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Django、Charts.JS和DRF製作的示例項目，展示瞭如何繪製不同的圖表餅圖、線形圖和條形圖。",
+      "title": "通過DRF的Django圖表--分步驟教程"
+    }
+  ]
 }
