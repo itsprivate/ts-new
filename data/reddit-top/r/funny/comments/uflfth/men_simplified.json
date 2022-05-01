@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男性用簡易型"
+    },
+    {
+      "locale": "zh",
+      "title": "男子简化"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "男子簡化"
+    }
+  ]
 }
