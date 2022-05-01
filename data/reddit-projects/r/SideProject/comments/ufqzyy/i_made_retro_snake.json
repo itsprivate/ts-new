@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レトロスネークを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了复古蛇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了復古蛇"
+    }
+  ]
 }
