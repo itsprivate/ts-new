@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: As a non native speaker, it's always so confusing to me when people in\nmovies say \"I'm in love with you\" and then the other person says \"I love you\ntoo\"."
+  "the_new_excerpt": "Edit: As a non native speaker, it's always so confusing to me when people in\nmovies say \"I'm in love with you\" and then the other person says \"I love you\ntoo\".",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：非ネイティブの私としては、映画で人が「I'm in love with you」と言った後、相手が「Love!\nを言った後、相手が \"I love you \"と言っているのを見ると、非ネイティブの私はいつも混乱し\nを言うとき。",
+      "title": "恋している」と「愛している」は違うのでは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：作为一个不讲母语的人，当电影中的人说 \"我爱上了你\"，然后对方说 \"我喜欢你 \"时，我总是感到很困惑。\n电影中的人说 \"我爱上了你\"，然后另一个人说 \"我也爱你\n也爱你\"。",
+      "title": "\"我爱上了你 \"不是与 \"我爱你 \"不同吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：作爲一個不講母語的人，當電影中的人說 \"我愛上了你\"，然後對方說 \"我喜歡你 \"時，我總是感到很困惑。\n電影中的人說 \"我愛上了你\"，然後另一個人說 \"我也愛你\n也愛你\"。",
+      "title": "\"我愛上了你 \"不是與 \"我愛你 \"不同嗎？"
+    }
+  ]
 }
