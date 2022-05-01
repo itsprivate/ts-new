@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがどうしても気になる話題は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你绝对不能给一个他妈的话题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你絕對不能給一個他媽的話題？"
+    }
+  ]
 }
