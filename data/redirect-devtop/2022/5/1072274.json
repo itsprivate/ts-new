@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-01T09:44:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oIw527ft--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mex7tt4zpegdwvtm7vvg.png",
   "author": "Simon Egersand",
-  "author_url": "https://dev.to/simeg"
+  "author_url": "https://dev.to/simeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアエンジニアになるには、多くのスキルを身につける必要があります。私はこれまで、さまざまな分野の人たちと一緒に仕事をしてきました。",
+      "title": "優れたソフトウェアエンジニアに必要なスキルとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一名软件工程师，你需要拥有许多技能。在我的职业生涯中，我曾与来自...",
+      "title": "什么技能能使一个伟大的软件工程师成功？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一名軟件工程師，你需要擁有許多技能。在我的職業生涯中，我曾與來自...",
+      "title": "什麼技能能使一個偉大的軟件工程師成功？"
+    }
+  ]
 }
