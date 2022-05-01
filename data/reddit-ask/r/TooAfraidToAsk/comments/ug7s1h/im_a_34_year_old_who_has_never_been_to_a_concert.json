@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What's more, I'm going alone."
+  "the_new_excerpt": "What's more, I'm going alone.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "しかも、一人で行くんです。",
+      "title": "コンサートに行ったことがない34歳です。来月はRammsteinを見に行く予定です。何か知っておくべきことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "更重要的是，我是一个人去的。",
+      "title": "我是一个34岁的人，从来没有去过音乐会。下个月我准备去看Rammstein。有什么我需要知道的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "更重要的是，我是一個人去的。",
+      "title": "我是一個34歲的人，從來沒有去過音樂會。下個月我準備去看Rammstein。有什麼我需要知道的嗎？"
+    }
+  ]
 }
