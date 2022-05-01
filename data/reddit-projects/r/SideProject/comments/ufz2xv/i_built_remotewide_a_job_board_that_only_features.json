@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "勤務地に依存しない給与の仕事だけを集めた求人サイト「Remotewide」を作りました!"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了Remotewide，一个只提供不受地点限制的工作岗位的招聘网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了Remotewide，一個只提供不受地點限制的工作崗位的招聘網站"
+    }
+  ]
 }
