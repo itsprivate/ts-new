@@ -13,5 +13,19 @@
   ],
   "objectID": "31224756",
   "original_created_at": "2022-05-01T13:12:44.000Z",
-  "image": "https://lemire.me/img/portrait2018facebook.jpg"
+  "image": "https://lemire.me/img/portrait2018facebook.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AVX-512による文字列からの文字削除の高速化"
+    },
+    {
+      "locale": "zh",
+      "title": "用AVX-512更快地从字符串中删除字符"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用AVX-512更快地從字符串中刪除字符"
+    }
+  ]
 }
