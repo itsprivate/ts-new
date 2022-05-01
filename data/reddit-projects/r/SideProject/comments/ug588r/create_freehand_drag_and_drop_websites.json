@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドラッグ＆ドロップによるフリーハンドのWebサイト作成"
+    },
+    {
+      "locale": "zh",
+      "title": "创建自由拖放的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建自由拖放的網站"
+    }
+  ]
 }
