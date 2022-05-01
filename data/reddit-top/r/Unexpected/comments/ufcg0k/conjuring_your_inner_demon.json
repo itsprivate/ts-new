@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの中の悪魔を呼び起こす"
+    },
+    {
+      "locale": "zh",
+      "title": "唤醒你内心的恶魔"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喚醒你內心的惡魔"
+    }
+  ]
 }
