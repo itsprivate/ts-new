@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "経済学は難しい"
+    },
+    {
+      "locale": "zh",
+      "title": "经济学是硬道理"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "經濟學是硬道理"
+    }
+  ]
 }
