@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで行った中で一番汚い町は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你去过的最恶心/最诡异的城镇是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你去過的最噁心/最詭異的城鎮是什麼？"
+    }
+  ]
 }
