@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "質問させてください"
+    },
+    {
+      "locale": "zh",
+      "title": "让我问你这个问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我問你這個問題"
+    }
+  ]
 }

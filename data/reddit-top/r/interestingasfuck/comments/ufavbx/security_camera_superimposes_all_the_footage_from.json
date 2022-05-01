@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "防犯カメラでその日の映像を重ね合わせ、まとめ映像にする"
+    },
+    {
+      "locale": "zh",
+      "title": "监控摄像头将当天的所有录像叠加成一个摘要视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "監控攝像頭將當天的所有錄像疊加成一個摘要視頻"
+    }
+  ]
 }
