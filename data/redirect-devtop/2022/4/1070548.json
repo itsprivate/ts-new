@@ -45,5 +45,21 @@
   "original_created_at": "2022-04-29T07:04:57Z",
   "image": "https://dev.to/social_previews/article/1070548.png",
   "author": "Lars Grammel",
-  "author_url": "https://dev.to/lgrammel"
+  "author_url": "https://dev.to/lgrammel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "If-statementsは、最小限の違いで重複したステートメントを含むことができます。例えば、コピーペースト..."
+    },
+    {
+      "locale": "zh",
+      "description": "If-statements可以包含重复的声明，但差异很小。例如，复制-粘贴...",
+      "title": "JavaScript重构组合。简化if-else语句中重复的函数调用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "If-statements可以包含重複的聲明，但差異很小。例如，複製-粘貼...",
+      "title": "JavaScript重構組合。簡化if-else語句中重複的函數調用"
+    }
+  ]
 }
