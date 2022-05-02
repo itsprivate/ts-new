@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし誰も映画上映のチケットを買わなかったら、その劇場はまだ映画を上映しているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果没有人买电影放映的票，影院还能放映电影吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果沒有人買電影放映的票，影院還能放映電影嗎？"
+    }
+  ]
 }
