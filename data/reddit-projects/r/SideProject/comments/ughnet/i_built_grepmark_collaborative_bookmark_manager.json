@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "grepmarkを作りました! -- 共同ブックマーク・マネージャーを作りました。どうぞお楽しみください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了grepmark! -- 协作式书签管理器。请欣赏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了grepmark! -- 協作式書籤管理器。請欣賞。"
+    }
+  ]
 }
