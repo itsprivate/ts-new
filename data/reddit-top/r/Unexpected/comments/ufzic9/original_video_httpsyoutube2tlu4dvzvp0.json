@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オリジナルビデオ： https://youtu.be/2tLU4DvZVp0"
+    },
+    {
+      "locale": "zh",
+      "title": "原始视频: https://youtu.be/2tLU4DvZVp0"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "原始視頻: https://youtu.be/2tLU4DvZVp0"
+    }
+  ]
 }
