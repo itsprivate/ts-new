@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このオリンピックのアーチャーの精度"
+    },
+    {
+      "locale": "zh",
+      "title": "本届奥运会射手的准确性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本屆奧運會射手的準確性"
+    }
+  ]
 }
