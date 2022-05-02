@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TESLA IN NEW SEC FILING: 我々はビットコインの \"長期的な可能性 \"と \"現金に代わる流動的なものとして \"を信じています。"
+    },
+    {
+      "locale": "zh",
+      "title": "特斯拉在美国证券交易委员会的新文件中说：我们相信比特币的 \"长期潜力 \"和 \"作为现金的流动性替代品\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "特斯拉在美國證券交易委員會的新文件中說：我們相信比特幣的 \"長期潛力 \"和 \"作爲現金的流動性替代品\""
+    }
+  ]
 }
