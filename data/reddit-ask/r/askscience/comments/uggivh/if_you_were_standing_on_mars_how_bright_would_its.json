@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが火星にいたとしたら、火星の2つの衛星は、地球の月と比べてどのくらい明るく見えるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你站在火星上，与我们地球上的月球相比，它的两颗卫星看起来会有多亮？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你站在火星上，與我們地球上的月球相比，它的兩顆衛星看起來會有多亮？"
+    }
+  ]
 }

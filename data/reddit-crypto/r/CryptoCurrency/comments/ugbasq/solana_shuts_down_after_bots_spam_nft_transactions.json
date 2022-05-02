@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NFTトランザクションのボットスパムを受け、Solanaがシャットダウンされる"
+    },
+    {
+      "locale": "zh",
+      "title": "在机器人发送垃圾邮件的NFT交易后，Solana关闭了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在機器人發送垃圾郵件的NFT交易後，Solana關閉了。"
+    }
+  ]
 }
