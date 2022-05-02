@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-01T10:49:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--syCWcVVY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo9bz4zi6po1gi7ggcjw.jpg",
   "author": "Yıldıray Ünlü",
-  "author_url": "https://dev.to/yildirayunlu"
+  "author_url": "https://dev.to/yildirayunlu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "素早く開発できるヘッドレスCMSシステムは、必要な機能を多く含んでおり、従来のシステムに比べて非常に早く製品を作ることができます。",
+      "title": "次のアプリケーションに最適なオープンソースのヘッドレスCMS"
+    },
+    {
+      "locale": "zh",
+      "description": "无头CMS系统，可以快速开发，包含许多你需要的功能，与传统系统相比，可以帮助你非常快速地生产产品。",
+      "title": "最好的开源无头CMS，为你的下一个应用程序尝试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無頭CMS系統，可以快速開發，包含許多你需要的功能，與傳統系統相比，可以幫助你非常快速地生產產品。",
+      "title": "最好的開源無頭CMS，爲你的下一個應用程序嘗試"
+    }
+  ]
 }
