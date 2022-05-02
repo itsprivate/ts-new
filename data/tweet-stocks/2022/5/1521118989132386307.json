@@ -107,5 +107,22 @@
     "retweet_count": 718,
     "favorite_count": 2532,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: S&amp;P 500は2022年の最初の82取引日で13.3%下落し、史上3番目に悪い年明けのスタートとなった。$SPX https://...",
+      "retweeted_status_full_text": "S&amp;P 500は2022年の最初の82取引日で13.3%下落し、史上3番目に悪い年明けのスタートとなった。$SPX https://t.co/2LhAmjTbHp"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: 在2022年的前82个交易日，S&amp;P 500指数下跌了13.3%，是历史上第三糟糕的开局。$SPX https://...",
+      "retweeted_status_full_text": "在2022年的前82个交易日中，S&amp;P 500指数下跌了13.3%，是历史上第三糟糕的年度开局。$SPX https://t.co/2LhAmjTbHp"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: 在2022年的前82個交易日，S&amp;P 500指數下跌了13.3%，是歷史上第三糟糕的開局。$SPX https://...",
+      "retweeted_status_full_text": "在2022年的前82個交易日中，S&amp;P 500指數下跌了13.3%，是歷史上第三糟糕的年度開局。$SPX https://t.co/2LhAmjTbHp"
+    }
+  ]
 }
