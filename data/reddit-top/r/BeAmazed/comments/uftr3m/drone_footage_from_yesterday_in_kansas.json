@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日カンザスで撮影したドローン映像。"
+    },
+    {
+      "locale": "zh",
+      "title": "昨天在堪萨斯州拍摄的无人机画面。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨天在堪薩斯州拍攝的無人機畫面。"
+    }
+  ]
 }

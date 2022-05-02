@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title itself."
+  "the_new_excerpt": "Title itself.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルそのもの。",
+      "title": "断食すると細胞の老化速度が遅くなるって本当？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题本身。",
+      "title": "禁食真的能使我们的细胞以较慢的速度衰老吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題本身。",
+      "title": "禁食真的能使我們的細胞以較慢的速度衰老嗎？"
+    }
+  ]
 }
