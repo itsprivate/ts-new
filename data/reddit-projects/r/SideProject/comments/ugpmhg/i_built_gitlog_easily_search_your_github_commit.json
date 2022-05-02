@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I was working on another side project and hit a bug that I had thought I fixed\nso went to GitHub to search through the commit messages to search for certain\nkeywords I think I would have used but to my surprise found GitHub doesn't\nsupport it.\n\nI therefore built GitLog over the course of a few…"
+  "the_new_excerpt": "I was working on another side project and hit a bug that I had thought I fixed\nso went to GitHub to search through the commit messages to search for certain\nkeywords I think I would have used but to my surprise found GitHub doesn't\nsupport it.\n\nI therefore built GitLog over the course of a few…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "別のサイドプロジェクトで作業していたところ、修正したつもりのバグにぶつかったので\nGitHub にアクセスし、コミットメッセージから自分が使ったと思われるキーワードを探しました。\nを検索してみたのですが、なんと GitHub はそれをサポートしていないのです。\nがサポートしていないことに気づきました。\n\nそこで、数日かけてGitLogを作りました。",
+      "title": "GitLogを作りました - GitHubのコミットメッセージを簡単に検索できます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在做另一个副业的时候，遇到了一个我以为已经修复的错误\n所以去GitHub上搜索提交信息，寻找我认为应该使用的某些\n关键词，但我惊讶地发现GitHub并不支持这些关键词。\n支持它。\n\n因此，我在几个月的时间里建立了GitLog...",
+      "title": "我建立了GitLog - 轻松搜索你的GitHub提交信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在做另一個副業的時候，遇到了一個我以爲已經修復的錯誤\n所以去GitHub上搜索提交信息，尋找我認爲應該使用的某些\n關鍵詞，但我驚訝地發現GitHub並不支持這些關鍵詞。\n支持它。\n\n因此，我在幾個月的時間裏建立了GitLog...",
+      "title": "我建立了GitLog - 輕鬆搜索你的GitHub提交信息"
+    }
+  ]
 }
