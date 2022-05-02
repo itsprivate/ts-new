@@ -45,5 +45,21 @@
   "original_created_at": "2022-04-29T17:55:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---HKesXoF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lw9fsbb6eca57k9578dr.png",
   "author": "Josue Bustos",
-  "author_url": "https://dev.to/josuebustos"
+  "author_url": "https://dev.to/josuebustos",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AWS Lambda関数のURLを使用してSlackにメッセージを投稿する"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 本教程将向您展示如何使用Slack应用程序发布消息。",
+      "title": "使用AWS Lambda函数URL向Slack发布消息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 本教程將向您展示如何使用Slack應用程序發佈消息。",
+      "title": "使用AWS Lambda函數URL向Slack發佈消息"
+    }
+  ]
 }

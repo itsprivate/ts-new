@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがビットコインが死ぬという議論を始めると、いつもこのツイートが表示される。彼らは皆、学ぶだろう。いずれはね。"
+    },
+    {
+      "locale": "zh",
+      "title": "当有人开始争论比特币的死亡时，我总是看到这条推文。他们都会学习。最终。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當有人開始爭論比特幣的死亡時，我總是看到這條推文。他們都會學習。最終。"
+    }
+  ]
 }
