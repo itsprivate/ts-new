@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "致命傷、致命傷。タイトルが短すぎる？では、Modsのために長いタイトルを。"
+    },
+    {
+      "locale": "zh",
+      "title": "致命，致命。标题太短？好吧，这里有一个较长的标题，供修改者参考"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "致命，致命。標題太短？好吧，這裏有一個較長的標題，供修改者參考"
+    }
+  ]
 }
