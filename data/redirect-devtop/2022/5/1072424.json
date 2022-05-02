@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-01T14:18:29Z",
   "image": "https://dev.to/social_previews/article/1072424.png",
   "author": "Tawhid",
-  "author_url": "https://dev.to/dumboprogrammer"
+  "author_url": "https://dev.to/dumboprogrammer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "個人的なプロジェクトや仕事でどのような技術スタック（MERN、MEVNなど）を使っていますか？また、その理由は？",
+      "title": "どのような技術スタックを使っていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你们在个人项目或工作中使用什么技术栈（MERN、MEVN等）？ 你们为什么...",
+      "title": "你使用什么技术堆栈？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你們在個人項目或工作中使用什麼技術棧（MERN、MEVN等）？ 你們爲什麼...",
+      "title": "你使用什麼技術堆棧？"
+    }
+  ]
 }
