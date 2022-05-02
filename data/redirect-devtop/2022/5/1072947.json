@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-02T03:44:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8JuRxqTY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdtl1rf2sjhg6owxue88.jpeg",
   "author": "Manuel Odendahl",
-  "author_url": "https://dev.to/wesen"
+  "author_url": "https://dev.to/wesen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(タイトル写真：Ophelia photos - Creative Commons） このツイッターのスレッドを偶然見つけ、...",
+      "title": "ソフトウェアエンジニアリングの90%はジャンキーなAPIを統合することであり、私はそれが大好きです。"
+    },
+    {
+      "locale": "zh",
+      "description": "(标题照片：Ophelia photos - Creative Commons）我偶然发现了这个微博话题，并...",
+      "title": "90%的软件工程都是在整合古怪的API，我喜欢这样做"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "(標題照片：Ophelia photos - Creative Commons）我偶然發現了這個微博話題，並...",
+      "title": "90%的軟件工程都是在整合古怪的API，我喜歡這樣做"
+    }
+  ]
 }
