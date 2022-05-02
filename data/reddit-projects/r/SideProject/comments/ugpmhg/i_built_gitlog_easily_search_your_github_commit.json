@@ -1,0 +1,16 @@
+{
+  "author": "boardy89",
+  "original_created_utc": 1651498018,
+  "title": "I built GitLog - Easily search your GitHub Commit Messages",
+  "created_utc": 1651503824,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I was working on another side project and hit a bug that I had thought I fixed so went to GitHub to search through the commit messages to search for certain keywords I think I would have used but to my surprise found GitHub doesn&amp;#39;t support it.&lt;/p&gt;\n\n&lt;p&gt;I therefore built GitLog over the course of a few evenings after work. The idea is you set up a webhook within your repository to GitLog and each time you push to your repository, GitLog receives that event and stores the push along with the commits to your account. This then allows you to easily search through your commit messages and then view the comparison from that commit or view the repository in that point in time.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/jvrd8ye2e2x81.png?width=1901&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=913d55ee7aa5e5f8cc547d84499666e02228a711\"&gt;Dashboard where you select the repository to look at&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/8a9niqc4e2x81.png?width=1906&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3766141d2494c03aa66eb6961252d1fe62e57e4b\"&gt;Your pushes and commits received into GitLog&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;At the moment its in a very early preview to see if there&amp;#39;s any demand for this type of project so at the moment its currently free with a limit of 25 push events being received.&lt;/p&gt;\n\n&lt;p&gt;I would love to get some feedback, is this something you&amp;#39;d want to use yourself, any other features you think would be useful that GitHub might be missing let me know.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/ugpmhg/i_built_gitlog_easily_search_your_github_commit/",
+  "subreddit": "SideProject",
+  "id": "ugpmhg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "I was working on another side project and hit a bug that I had thought I fixed\nso went to GitHub to search through the commit messages to search for certain\nkeywords I think I would have used but to my surprise found GitHub doesn't\nsupport it.\n\nI therefore built GitLog over the course of a few…"
+}
