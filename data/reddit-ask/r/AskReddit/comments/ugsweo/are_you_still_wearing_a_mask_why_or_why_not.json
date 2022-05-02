@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたはまだマスクをつけていますか？その理由、またはそうでない理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你还戴着面具吗？为什么或为什么不？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你還戴着面具嗎？爲什麼或爲什麼不？"
+    }
+  ]
 }
