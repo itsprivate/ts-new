@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ピザを食べたばかりなのに"
+    },
+    {
+      "locale": "zh",
+      "title": "我真的刚刚吃了一个比萨饼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我真的剛剛吃了一個比薩餅"
+    }
+  ]
 }
