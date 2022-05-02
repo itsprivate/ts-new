@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完全に非現実的"
+    },
+    {
+      "locale": "zh",
+      "title": "完全不切实际"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "完全不切實際"
+    }
+  ]
 }
