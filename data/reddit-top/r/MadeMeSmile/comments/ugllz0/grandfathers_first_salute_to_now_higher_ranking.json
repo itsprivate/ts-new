@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "祖父から孫娘への初敬礼"
+    },
+    {
+      "locale": "zh",
+      "title": "祖父向现在地位更高的孙女的第一个敬礼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "祖父向現在地位更高的孫女的第一個敬禮"
+    }
+  ]
 }

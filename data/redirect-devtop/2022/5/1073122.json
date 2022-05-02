@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-02T09:07:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K8I5dD9n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jb4v2fsuk2avq8m2vqrp.jpeg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "精神病の一般的な定義は、おおまかに言うと、「証明されていないことを信じること」です。",
+      "title": "OOPはソフトウェア開発の集団精神病"
+    },
+    {
+      "locale": "zh",
+      "description": "精神病的广义外行定义大致是：\"相信一些已经被证实的东西。",
+      "title": "OOP是一种软件开发的集体精神病"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "精神病的廣義外行定義大致是：\"相信一些已經被證實的東西。",
+      "title": "OOP是一種軟件開發的集體精神病"
+    }
+  ]
 }
