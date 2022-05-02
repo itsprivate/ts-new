@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just a philosophical question I was having with a buddy of mine today."
+  "the_new_excerpt": "Just a philosophical question I was having with a buddy of mine today.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今日、友人と哲学的な質問をしたんだ。",
+      "title": "女性が男性をレイプして妊娠した場合、男性は中絶を義務付けることができるのか、それとも養育費を支払わなければならないのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是一个哲学问题，我今天和我的一个兄弟在一起。",
+      "title": "如果一个女人强奸了一个男人并怀孕了，那么这个男人应该能够强制要求堕胎，还是应该支付孩子的抚养费？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是一個哲學問題，我今天和我的一個兄弟在一起。",
+      "title": "如果一個女人強姦了一個男人並懷孕了，那麼這個男人應該能夠強制要求墮胎，還是應該支付孩子的撫養費？"
+    }
+  ]
 }
