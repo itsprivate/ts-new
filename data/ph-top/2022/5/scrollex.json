@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-03T07:01:00Z"
+  "original_createdAt": "2022-05-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Scrollexはframer-motionの上に構築されたリアクトライブラリで、精巧なスクロール体験を超簡単に構築することができます。Scrollexを使うと、各スクロール位置のスケール、変換、回転などを定義するスクロールキーフレームを要素に追加することができます。",
+      "tagline": "美しいスクロール体験を構築するためのリアクトライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Scrollex是一个建立在framer-motion之上的react库，它使建立精细的滚动体验变得超级简单。Scrollex让你为元素添加滚动关键帧，定义每个滚动位置的比例/翻译/旋转等。",
+      "tagline": "构建美丽滚动体验的反应库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Scrollex是一個建立在framer-motion之上的react庫，它使建立精細的滾動體驗變得超級簡單。Scrollex讓你爲元素添加滾動關鍵幀，定義每個滾動位置的比例/翻譯/旋轉等。",
+      "tagline": "構建美麗滾動體驗的反應庫"
+    }
+  ]
 }

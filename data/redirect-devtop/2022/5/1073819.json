@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-03T00:33:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VVOmCE42--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ybhqefue87mgvb7k49k.png",
   "author": "Michael",
-  "author_url": "https://dev.to/free_one"
+  "author_url": "https://dev.to/free_one",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "#DISCUSSION この質問は、大規模な/非自明な...に取り組んだことのある経験豊富な開発者に向けられます。",
+      "title": "オープンソースデベロッパーになるには？"
+    },
+    {
+      "locale": "zh",
+      "description": "#DISCUSSION 这个问题是给有经验的开发者的，他们曾在可观的/非+琐碎的...",
+      "title": "如何成为一名开放源码的开发者？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "#DISCUSSION 這個問題是給有經驗的開發者的，他們曾在可觀的/非+瑣碎的...",
+      "title": "如何成爲一名開放源碼的開發者？"
+    }
+  ]
 }
