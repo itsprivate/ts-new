@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-03T07:01:00Z"
+  "original_createdAt": "2022-05-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ContentrainはGitベースのHeadless CMSで、Jamstackのウェブアプリケーションとシームレスに統合できるよう、開発者とコンテンツエディターの体験に焦点を当てたものです。収集したテンプレートを保存し、後で別のプロジェクトに使用したり、コミュニティに共有することができます。",
+      "tagline": "Gitベースの新しいヘッドレスCMSの体験"
+    },
+    {
+      "locale": "zh",
+      "description": "Contentrain是一个基于Git的无头CMS，专注于开发者和内容编辑的体验，提供与Jamstack网络应用的无缝集成。保存你的收集模板，以后可用于其他项目或分享给社区",
+      "tagline": "你的基于Git的无头CMS新体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Contentrain是一個基於Git的無頭CMS，專注於開發者和內容編輯的體驗，提供與Jamstack網絡應用的無縫集成。保存你的收集模板，以後可用於其他項目或分享給社區",
+      "tagline": "你的基於Git的無頭CMS新體驗"
+    }
+  ]
 }
