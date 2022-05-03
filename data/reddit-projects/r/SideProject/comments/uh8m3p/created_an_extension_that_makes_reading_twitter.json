@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twitterのスレッドを超簡単に読むことができ、すべてのスレッドのテキストをコピーして記事を作成できる拡張機能を作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "创建了一个扩展，使阅读Twitter线程变得超级容易，所有线程文本可以被复制，以创建文章出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建了一個擴展，使閱讀Twitter線程變得超級容易，所有線程文本可以被複制，以創建文章出來。"
+    }
+  ]
 }
