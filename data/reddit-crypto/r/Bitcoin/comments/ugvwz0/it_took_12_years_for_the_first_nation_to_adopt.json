@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最初の国がビットコインを採用するまでには12年かかりました。2番目の国は9ヶ月かかりました"
+    },
+    {
+      "locale": "zh",
+      "title": "第一个国家花了12年时间才采用比特币。第二个国家花了9个月。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "第一個國家花了12年時間才採用比特幣。第二個國家花了9個月。"
+    }
+  ]
 }
