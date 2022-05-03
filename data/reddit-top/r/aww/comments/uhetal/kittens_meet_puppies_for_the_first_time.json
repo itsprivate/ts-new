@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子猫が子犬に初対面!"
+    },
+    {
+      "locale": "zh",
+      "title": "小猫第一次与小狗见面!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "小貓第一次與小狗見面!"
+    }
+  ]
 }
