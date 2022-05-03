@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが今まで聞いた誰かの言葉で、信じられないほど、心が麻痺してしまうほど愚かで、一生忘れられないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你听过什么人说的事情是如此令人难以置信、令人麻木的愚蠢，以至于你会在余生中记住它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你聽過什麼人說的事情是如此令人難以置信、令人麻木的愚蠢，以至於你會在餘生中記住它？"
+    }
+  ]
 }
