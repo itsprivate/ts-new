@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[真面目な話】あなたの住んでいる地域の都市伝説で、後に事実となったものを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "[严肃]在你的地区，有什么城市传说后来碰巧是真的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[嚴肅]在你的地區，有什麼城市傳說後來碰巧是真的？"
+    }
+  ]
 }
