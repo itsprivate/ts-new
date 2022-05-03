@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まさに 最高裁の建物周辺にバリケードが設置され、SCOTUSがRoe v. Wadeを覆す投票を行ったというPoliticoの報道がリークされた数分後のことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在。就在 \"政治家 \"的报道被泄露后几分钟，最高法院大楼周围竖起了路障，表明上合组织已投票推翻罗伊-韦德案。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在。就在 \"政治家 \"的報道被泄露後幾分鐘，最高法院大樓周圍豎起了路障，表明上合組織已投票推翻羅伊-韋德案。"
+    }
+  ]
 }
