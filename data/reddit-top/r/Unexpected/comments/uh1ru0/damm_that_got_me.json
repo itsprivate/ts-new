@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダマされた"
+    },
+    {
+      "locale": "zh",
+      "title": "这让我很感动"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這讓我很感動"
+    }
+  ]
 }
