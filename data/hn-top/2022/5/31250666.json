@@ -13,5 +13,19 @@
   ],
   "objectID": "31250666",
   "original_created_at": "2022-05-03T17:02:53.000Z",
-  "image": "https://test.mensa.no/images/example01.png"
+  "image": "https://test.mensa.no/images/example01.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ノルウェー・メンサ社製IQテスト"
+    },
+    {
+      "locale": "zh",
+      "title": "挪威门萨公司的智商测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "挪威門薩公司的智商測試"
+    }
+  ]
 }
