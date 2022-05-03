@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "80歳差の金メダル獲得跳躍。"
+    },
+    {
+      "locale": "zh",
+      "title": "赢得金牌的跳楼事件相隔80年。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "贏得金牌的跳樓事件相隔80年。"
+    }
+  ]
 }
