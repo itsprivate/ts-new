@@ -39,5 +39,22 @@
   "original_created_at": "2021-07-17T17:04:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IjW1VSeM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8l0x599jnspghmv30lk7.png",
   "author": "Anton Ukhanev",
-  "author_url": "https://dev.to/xedinunknown"
+  "author_url": "https://dev.to/xedinunknown",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PHP を少しばかり扱ったことのある開発者なら誰でも、最もよく使われる複合型のひとつに...",
+      "title": "PHPの配列。重大な過ち"
+    },
+    {
+      "locale": "zh",
+      "description": "任何花了一点时间与PHP打交道的开发者都知道最常用的复合类型之一...",
+      "title": "PHP阵列。一个严重的错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何花了一點時間與PHP打交道的開發者都知道最常用的複合類型之一...",
+      "title": "PHP陣列。一個嚴重的錯誤"
+    }
+  ]
 }
