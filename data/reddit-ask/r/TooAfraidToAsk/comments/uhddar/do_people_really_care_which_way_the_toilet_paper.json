@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Do people care or is it just something to \"be right about\""
+  "the_new_excerpt": "Do people care or is it just something to \"be right about\"",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "人々はそれを気にしているのか、それとも \"正しいこと \"なのか。",
+      "title": "トイレットペーパーがどっちに入れられるか、みんな気にしてるの？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "人们是否关心，还是只是为了 \"对号入座\"？",
+      "title": "人们真的关心卫生纸卷是以哪种方式放进去的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "人們是否關心，還是隻是爲了 \"對號入座\"？",
+      "title": "人們真的關心衛生紙卷是以哪種方式放進去的嗎？"
+    }
+  ]
 }
