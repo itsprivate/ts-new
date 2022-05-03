@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "todoist、openweather、電子ペーパー開発ボードpaperd.inkを使って個人用ダッシュボードを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "使用todoist、openweather和paperd.ink电子纸开发板制作了一个个人仪表板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用todoist、openweather和paperd.ink電子紙開發板製作了一個個人儀表板。"
+    }
+  ]
 }
