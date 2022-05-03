@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エクストリームフィアー"
+    },
+    {
+      "locale": "zh",
+      "title": "极端恐惧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "極端恐懼!"
+    }
+  ]
 }

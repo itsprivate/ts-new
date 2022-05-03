@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-03T07:01:00Z"
+  "original_createdAt": "2022-05-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MyPath.aiは、ユーザー独自のスキルや興味を評価し、AIを用いてカスタムフィットするキャリアパスを構築します。あなたのキャリアをデザインし、あなたのキャリアパスを発見してください。",
+      "tagline": "あなた専用のAIキャリアアシスタント"
+    },
+    {
+      "locale": "zh",
+      "description": "MyPath.ai评估用户的独特技能和兴趣，利用人工智能建立一个适合的职业道路。设计你的职业，发现你的职业道路。",
+      "tagline": "你的个人AI职业助理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MyPath.ai評估用戶的獨特技能和興趣，利用人工智能建立一個適合的職業道路。設計你的職業，發現你的職業道路。",
+      "tagline": "你的個人AI職業助理"
+    }
+  ]
 }
