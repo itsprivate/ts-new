@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-03T07:01:00Z"
+  "original_createdAt": "2022-05-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "理想の顧客像を明確にすることで、より良いリードとコンバージョンを生み出す。Revealは、Hubspot、Salesforce、Marketoなどのデータを取り込んで分析し、1）どのデータが信頼できるか、2）どの属性が収益の最適な予測因子となるかを明らかにします。",
+      "tagline": "MLを活用した理想的な顧客像のインサイトにより、より多くの案件を獲得"
+    },
+    {
+      "locale": "zh",
+      "description": "明确你的理想客户资料，可以促进更好的销售和更多的转换。Reveal从Hubspot、Salesforce、Marketo和更多的地方摄取和分析数据，以发现：1）哪些数据可以信任；2）哪些属性是收入的最佳预测因素。",
+      "tagline": "以ML驱动的理想客户档案洞察力赢得更多交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "明確你的理想客戶資料，可以促進更好的銷售和更多的轉換。Reveal從Hubspot、Salesforce、Marketo和更多的地方攝取和分析數據，以發現：1）哪些數據可以信任；2）哪些屬性是收入的最佳預測因素。",
+      "tagline": "以ML驅動的理想客戶檔案洞察力贏得更多交易"
+    }
+  ]
 }
