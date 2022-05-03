@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "次の動きを知られてはならない..."
+    },
+    {
+      "locale": "zh",
+      "title": "永远不要让他们知道你的下一步行动......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "永遠不要讓他們知道你的下一步行動......"
+    }
+  ]
 }

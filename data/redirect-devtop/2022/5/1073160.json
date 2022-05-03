@@ -43,5 +43,22 @@
   "original_created_at": "2022-05-02T10:51:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4r8nVfQh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i5oibtgf54ycwpjfe7wc.jpg",
   "author": "Nathan",
-  "author_url": "https://dev.to/nathan20"
+  "author_url": "https://dev.to/nathan20",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "世の中にはたくさんのプログラミング言語があり、それぞれに長所と短所があります。しかし、何...",
+      "title": "錆の秘めたる力"
+    },
+    {
+      "locale": "zh",
+      "description": "现在有很多编程语言，每一种都有自己的优势和劣势。但是，什么...",
+      "title": "锈的隐藏力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在有很多編程語言，每一種都有自己的優勢和劣勢。但是，什麼...",
+      "title": "鏽的隱藏力量"
+    }
+  ]
 }

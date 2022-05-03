@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-03T07:30:25Z"
+  "original_createdAt": "2022-05-03T07:30:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Contemberは、あなたをコントロールする。あなたのプロジェクトに合わせた管理インターフェースとデータ構造を作成します。GraphQL API、ロールベースのアクセス制御、認証、構造化されたPostgreSQLデータベースをお楽しみください。開発者が開発者のために構築しました。",
+      "tagline": "オープンソースで制限のないヘッドレスCMS"
+    },
+    {
+      "locale": "zh",
+      "description": "Contember使你处于控制之中。创建一个适合你的项目的管理界面和数据结构。享受GraphQL API，基于角色的访问控制，认证和一个结构良好的PostgreSQL数据库。由开发者为开发者构建。",
+      "tagline": "开源的、没有限制的无头CMS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Contember使你處於控制之中。創建一個適合你的項目的管理界面和數據結構。享受GraphQL API，基於角色的訪問控制，認證和一個結構良好的PostgreSQL數據庫。由開發者爲開發者構建。",
+      "tagline": "開源的、沒有限制的無頭CMS"
+    }
+  ]
 }
