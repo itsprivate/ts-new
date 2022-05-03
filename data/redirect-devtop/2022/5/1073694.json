@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-02T22:05:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ub5mj5Y3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wc9ys2smw1yecdcxvoc.png",
   "author": "Corbin Crutchley",
-  "author_url": "https://dev.to/crutchcorn"
+  "author_url": "https://dev.to/crutchcorn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラミングの専門用語は、かなり混乱することがあります。初めて「React Refs」という言葉を聞いたときは...。",
+      "title": "React Refs: 完全版"
+    },
+    {
+      "locale": "zh",
+      "description": "编程术语可能是相当混乱的。我第一次听说 \"React Refs \"时，它是...",
+      "title": "React Refs。完整的故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "編程術語可能是相當混亂的。我第一次聽說 \"React Refs \"時，它是...",
+      "title": "React Refs。完整的故事"
+    }
+  ]
 }
