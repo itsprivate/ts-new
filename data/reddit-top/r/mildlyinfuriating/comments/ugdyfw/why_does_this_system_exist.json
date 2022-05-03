@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜこのようなシステムが存在するのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个系统为什么会存在？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個系統爲什麼會存在？"
+    }
+  ]
 }
