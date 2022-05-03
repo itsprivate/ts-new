@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今朝の通勤途中の出来事で、言葉が出ません...。"
+    },
+    {
+      "locale": "zh",
+      "title": "我没有任何言语，这发生在我今天早上上班的路上......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我沒有任何言語，這發生在我今天早上上班的路上......"
+    }
+  ]
 }
