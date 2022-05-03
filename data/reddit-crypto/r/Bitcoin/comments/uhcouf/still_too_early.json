@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まだ早すぎる。"
+    },
+    {
+      "locale": "zh",
+      "title": "还是太早了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還是太早了。"
+    }
+  ]
 }
