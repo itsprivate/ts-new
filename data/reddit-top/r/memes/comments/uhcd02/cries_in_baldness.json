@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "*ハゲで泣く*"
+    },
+    {
+      "locale": "zh",
+      "title": "*在秃头中哭泣*"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "*在禿頭中哭泣*"
+    }
+  ]
 }
