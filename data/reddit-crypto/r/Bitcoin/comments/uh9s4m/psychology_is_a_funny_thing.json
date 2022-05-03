@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "心理学とは面白いものである"
+    },
+    {
+      "locale": "zh",
+      "title": "心理学是一个有趣的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "心理學是一個有趣的東西"
+    }
+  ]
 }
