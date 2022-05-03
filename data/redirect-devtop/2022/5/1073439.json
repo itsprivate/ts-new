@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-02T16:21:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JKsi9GYm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c08qso4jjl57t4g6vk2q.png",
   "author": "Pachi 🪐 (she/her/ela)",
-  "author_url": "https://dev.to/pachicodes"
+  "author_url": "https://dev.to/pachicodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の同僚であるRizèl Scarlettが、VScodeの拡張機能を作成しましたので、アップロードすることができます...",
+      "title": "コードエディタを離れずにGitHub Pagesにサイトをアップロードする"
+    },
+    {
+      "locale": "zh",
+      "description": "我的同事Rizèl Scarlett为VScode创建了一个扩展，允许你上传你的...",
+      "title": "不离开代码编辑器将网站上传到GitHub页面"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的同事Rizèl Scarlett爲VScode創建了一個擴展，允許你上傳你的...",
+      "title": "不離開代碼編輯器將網站上傳到GitHub頁面"
+    }
+  ]
 }
