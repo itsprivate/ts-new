@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-29T20:09:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gi3VSXWx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l76vi2z985wf724vp3j1.png",
   "author": "Taishi",
-  "author_url": "https://dev.to/taishi"
+  "author_url": "https://dev.to/taishi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Devsの皆さん、こんにちは。バンクーバーでソフトウェア開発をしているTaishiです!  Enumsを使おうと思っているのですが・・・。",
+      "title": "もうTypeScriptでEnumを使うべきではない。"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，开发者们! 我是Taishi，是温哥华的一名软件开发人员!  我一直在考虑使用Enums...",
+      "title": "我们不应该再在TypeScript上使用Enums。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，開發者們! 我是Taishi，是溫哥華的一名軟件開發人員!  我一直在考慮使用Enums...",
+      "title": "我們不應該再在TypeScript上使用Enums。"
+    }
+  ]
 }
