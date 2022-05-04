@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "cat -&gt; コンピュータ周辺機器(キーボード、マウス、コントローラ)"
+    },
+    {
+      "locale": "zh",
+      "title": "cat -&gt; 计算机外围设备（键盘、鼠标、控制器）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "cat -&gt; 計算機外圍設備（鍵盤、鼠標、控制器）。"
+    }
+  ]
 }
