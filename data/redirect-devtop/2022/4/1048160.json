@@ -55,5 +55,22 @@
   "original_created_at": "2022-04-07T19:28:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pjlKNU1P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72gh3fgp1v7vevwg7y78.png",
   "author": "Geoff Stevens",
-  "author_url": "https://dev.to/thegeoffstevens"
+  "author_url": "https://dev.to/thegeoffstevens",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最も成功しているエンジニアリングチームは、通常、ワークフローの期間を5～10秒に抑えています...",
+      "title": "これまで経験した中で、最も長いビルドタイムは？"
+    },
+    {
+      "locale": "zh",
+      "description": "最成功的工程团队通常将其工作流程的持续时间保持在五到十年之间。",
+      "title": "你所经历的最长的建造时间是多久？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最成功的工程團隊通常將其工作流程的持續時間保持在五到十年之間。",
+      "title": "你所經歷的最長的建造時間是多久？"
+    }
+  ]
 }
