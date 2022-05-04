@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-04T03:29:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xlYzb7DH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdx3briho23xslsbt1bh.png",
   "author": "Nirazan Basnet",
-  "author_url": "https://dev.to/nirazanbasnet"
+  "author_url": "https://dev.to/nirazanbasnet",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一般に、フルスクリーンレイアウトにはheight:100vhを使用します。これは、簡単にハックでき、便利な方法です。",
+      "title": "モバイル対応で100vhを使わないでください"
+    },
+    {
+      "locale": "zh",
+      "description": "一般来说，我们使用height:100vh进行全屏布局，这是很容易的黑客和方便的方式来获得...",
+      "title": "不要用100vh做移动响应"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一般來說，我們使用height:100vh進行全屏佈局，這是很容易的黑客和方便的方式來獲得...",
+      "title": "不要用100vh做移動響應"
+    }
+  ]
 }

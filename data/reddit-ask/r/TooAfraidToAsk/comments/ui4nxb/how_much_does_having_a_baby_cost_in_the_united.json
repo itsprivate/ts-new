@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "To clarify, I mean giving birth"
+  "the_new_excerpt": "To clarify, I mean giving birth",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "はっきり言って、産むということ",
+      "title": "アメリカでは、出産にいくらかかるのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "澄清一下，我指的是分娩",
+      "title": "在美国生孩子的费用是多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "澄清一下，我指的是分娩",
+      "title": "在美國生孩子的費用是多少？"
+    }
+  ]
 }
