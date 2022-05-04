@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-04T07:00:00Z"
+  "original_createdAt": "2022-05-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "キャッシュインフローとキャッシュアウトフローを監視・管理するためのツール一式。",
+      "tagline": "稼ぐ、数える、使う、投資する"
+    },
+    {
+      "locale": "zh",
+      "description": "用于监测和管理现金流入和现金流出的一套工具。",
+      "tagline": "赚取、计算、花费、投资"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用於監測和管理現金流入和現金流出的一套工具。",
+      "tagline": "賺取、計算、花費、投資"
+    }
+  ]
 }
