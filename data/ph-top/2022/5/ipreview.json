@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-04T07:56:59Z"
+  "original_createdAt": "2022-05-04T07:56:59Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本アプリは、macOSのQuick Lookでプレビューできないファイルがある問題を解決し、コードハイライト、Markdown & Jupyterレンダリングプレビューなど、多くの実用的な機能を提供するものです。macOSの体験と作業効率を大幅に向上させるのに役立ちます。",
+      "tagline": "強力なmacOSクイックルックエクステンションアプリケーション"
+    },
+    {
+      "locale": "zh",
+      "description": "这款应用解决了一些文件无法在macOS Quick Look中预览的问题，并提供了许多实用功能，如代码高亮、Markdown & Jupyter渲染预览等。帮助你大大提升macOS的使用体验和工作效率。",
+      "tagline": "强大的macOS快速浏览扩展应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這款應用解決了一些文件無法在macOS Quick Look中預覽的問題，並提供了許多實用功能，如代碼高亮、Markdown & Jupyter渲染預覽等。幫助你大大提升macOS的使用體驗和工作效率。",
+      "tagline": "強大的macOS快速瀏覽擴展應用"
+    }
+  ]
 }

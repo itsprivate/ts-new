@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここに...あなたの毎日をアワアワにする"
+    },
+    {
+      "locale": "zh",
+      "title": "这里......你每天都会看到的 \"嗷\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這裏......你每天都會看到的 \"嗷\"。"
+    }
+  ]
 }
