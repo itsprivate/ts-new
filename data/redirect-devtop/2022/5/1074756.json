@@ -55,5 +55,22 @@
   "original_created_at": "2022-05-03T19:59:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i7LfrdTN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0fxf1mr3sme8l0n42xg.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVでDeepgramハッカソンの入賞を祝う!",
+      "title": "Deepgramハッカソン入賞者、おめでとうございます。"
+    },
+    {
+      "locale": "zh",
+      "description": "庆祝Deepgram黑客马拉松在DEV上的获胜者!",
+      "title": "祝贺Deepgram黑客马拉松获奖者。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "慶祝Deepgram黑客馬拉松在DEV上的獲勝者!",
+      "title": "祝賀Deepgram黑客馬拉松獲獎者。"
+    }
+  ]
 }
