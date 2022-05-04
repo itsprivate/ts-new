@@ -57,5 +57,22 @@
   "original_created_at": "2022-05-04T14:23:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oINEHjoC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggftr92zlpl2lb67af5j.png",
   "author": "Eldad A. Fux",
-  "author_url": "https://dev.to/eldadfux"
+  "author_url": "https://dev.to/eldadfux",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースソフトウェア(OSS)の構築・保守は、プロジェクトが大変です。もし、あなたのプロジェクトが...",
+      "title": "Appwrite OSS Fundの発表"
+    },
+    {
+      "locale": "zh",
+      "description": "构建和维护一个开源软件（OSS），这个项目是很难的。如果你的项目被...",
+      "title": "宣布Appwrite OSS基金的成立"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "構建和維護一個開源軟件（OSS），這個項目是很難的。如果你的項目被...",
+      "title": "宣佈Appwrite OSS基金的成立"
+    }
+  ]
 }
