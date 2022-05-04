@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界を旅したことのある人たちよ、訪れるのが一番嫌な国、訪問者に一番失礼な国はどこだろう？"
+    },
+    {
+      "locale": "zh",
+      "title": "那些走遍世界的人，哪个国家最不适合访问或对游客最粗鲁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那些走遍世界的人，哪個國家最不適合訪問或對遊客最粗魯？"
+    }
+  ]
 }
