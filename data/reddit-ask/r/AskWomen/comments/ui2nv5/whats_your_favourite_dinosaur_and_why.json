@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Mine is a megalodon, because they’re the biggest sea creature."
+  "the_new_excerpt": "Mine is a megalodon, because they’re the biggest sea creature.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私のはメガロドンです。海の生き物の中で一番大きいですからね。",
+      "title": "あなたの好きな恐竜とその理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我的是巨齿鲨，因为它们是最大的海洋生物。",
+      "title": "你最喜欢的恐龙是什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我的是巨齒鯊，因爲它們是最大的海洋生物。",
+      "title": "你最喜歡的恐龍是什麼，爲什麼？"
+    }
+  ]
 }
