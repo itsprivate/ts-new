@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1000フィートからのキャッチボール"
+    },
+    {
+      "locale": "zh",
+      "title": "从1000英尺处接球"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從1000英尺處接球"
+    }
+  ]
 }
