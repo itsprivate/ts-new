@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気分の悪さ"
+    },
+    {
+      "locale": "zh",
+      "title": "感觉不好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "感覺不好"
+    }
+  ]
 }
