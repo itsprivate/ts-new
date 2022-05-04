@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かに言われて、一瞬でその人を好きになったことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有人对你说过什么，让你一下子变得更喜欢他？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人對你說過什麼，讓你一下子變得更喜歡他？"
+    }
+  ]
 }
