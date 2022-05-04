@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-03T15:32:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gUhQNLc1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5hmf6x9dlyztnu0y05lt.jpg",
   "author": "Sneh Chauhan",
-  "author_url": "https://dev.to/sneh27"
+  "author_url": "https://dev.to/sneh27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 最近のパソコンでは、ログイン画面を表示させるために......ボタンを押すだけで、どうやってログインするのか不思議に思ったことはありませんか？",
+      "title": "舞台裏をご紹介します。電源ボタンを押してからログイン画面まで"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：你是否曾想过，你的现代PC是如何通过简单的按压就能进入登录界面的？",
+      "title": "幕后花絮。从按下电源按钮到进入登录屏幕"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：你是否曾想過，你的現代PC是如何通過簡單的按壓就能進入登錄界面的？",
+      "title": "幕後花絮。從按下電源按鈕到進入登錄屏幕"
+    }
+  ]
 }
