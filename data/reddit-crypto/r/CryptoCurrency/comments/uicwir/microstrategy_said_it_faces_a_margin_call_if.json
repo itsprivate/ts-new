@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マイクロストラテジーは、ビットコインが21,000ドルに下落した場合、マージンコールに直面すると述べた。"
+    },
+    {
+      "locale": "zh",
+      "title": "Microstrategy表示，如果比特币跌至21,000美元，它将面临保证金追缴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Microstrategy表示，如果比特幣跌至21,000美元，它將面臨保證金追繳。"
+    }
+  ]
 }
