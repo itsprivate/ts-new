@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを購入するタイミングだが、銀行残高がノーと言っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "购买比特币的正确时机，但我的银行余额说不。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "購買比特幣的正確時機，但我的銀行餘額說不。"
+    }
+  ]
 }
