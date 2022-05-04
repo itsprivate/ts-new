@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"やっと捕まえたんだ 彼は真夜中に起きて、私と一緒にベッドに潜り込むの。\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我终于抓住了他。他在半夜起床，和我一起爬到床上。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我終於抓住了他。他在半夜起牀，和我一起爬到牀上。\""
+    }
+  ]
 }
