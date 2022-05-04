@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BIP119 - あなたはそう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "BIP119 - 你同意吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BIP119 - 你同意嗎？"
+    }
+  ]
 }
