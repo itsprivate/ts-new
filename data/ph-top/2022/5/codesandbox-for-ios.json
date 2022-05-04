@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-04T07:01:00Z"
+  "original_createdAt": "2022-05-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CodeSandbox for iOSは、プロジェクトとサンドボックスをどこにでも持ち運ぶことができます。iPhoneやiPadを使用して、ネイティブのiOS IDEで快適に当社の新しいクラウド開発プラットフォームにアクセスできるようになりました。",
+      "tagline": "CodeSandbox for iOSで、いつでも、どこでも、一緒に創作。"
+    },
+    {
+      "locale": "zh",
+      "description": "iOS版的CodeSandbox让你无论走到哪里都能带着你的项目和沙盒。使用iPhone或iPad，你现在可以在舒适的原生iOS IDE中访问我们新的云开发平台。",
+      "tagline": "使用iOS版CodeSandbox随时随地进行创作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "iOS版的CodeSandbox讓你無論走到哪裏都能帶着你的項目和沙盒。使用iPhone或iPad，你現在可以在舒適的原生iOS IDE中訪問我們新的雲開發平臺。",
+      "tagline": "使用iOS版CodeSandbox隨時隨地進行創作"
+    }
+  ]
 }
