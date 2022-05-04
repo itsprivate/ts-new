@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゆっくり、そして一気に"
+    },
+    {
+      "locale": "zh",
+      "title": "慢慢地，然后一下子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "慢慢地，然後一下子"
+    }
+  ]
 }
