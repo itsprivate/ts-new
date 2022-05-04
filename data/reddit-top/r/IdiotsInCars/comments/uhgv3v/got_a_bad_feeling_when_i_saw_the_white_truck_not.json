@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "白いトラックがスピードを落とさないのを見て嫌な予感がして、動かなかったんだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "当我看到那辆白色卡车没有减速时，有一种不好的感觉，所以我没有动。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當我看到那輛白色卡車沒有減速時，有一種不好的感覺，所以我沒有動。"
+    }
+  ]
 }
