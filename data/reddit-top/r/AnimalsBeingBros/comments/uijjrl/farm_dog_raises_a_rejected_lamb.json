@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "不合格になった子羊を育てる牧場の犬"
+    },
+    {
+      "locale": "zh",
+      "title": "农场的狗养了一只被拒绝的小羊"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "農場的狗養了一隻被拒絕的小羊"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがいつも着ている人を判断する服は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你总是会因为某人的穿着而对其进行评判的一件衣服是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你總是會因爲某人的穿着而對其進行評判的一件衣服是什麼？"
+    }
+  ]
 }
