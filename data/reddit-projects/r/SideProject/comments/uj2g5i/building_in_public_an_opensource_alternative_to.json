@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twilioに代わるOpenSourceの公開構築"
+    },
+    {
+      "locale": "zh",
+      "title": "在公众中建立一个替代Twilio的开源项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在公衆中建立一個替代Twilio的開源項目"
+    }
+  ]
 }
