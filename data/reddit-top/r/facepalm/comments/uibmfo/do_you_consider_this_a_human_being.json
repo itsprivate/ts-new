@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これを人間だと思うか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为这是一个人吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲這是一個人嗎？"
+    }
+  ]
 }

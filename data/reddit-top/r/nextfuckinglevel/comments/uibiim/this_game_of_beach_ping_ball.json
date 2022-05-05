@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このビーチピンポンボールのゲーム"
+    },
+    {
+      "locale": "zh",
+      "title": "这个沙滩乒乓球游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個沙灘乒乓球遊戲"
+    }
+  ]
 }
