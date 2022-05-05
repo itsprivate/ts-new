@@ -66,5 +66,19 @@
   "retweet_count": 38,
   "favorite_count": 234,
   "possibly_sensitive": false,
-  "original_created_at": "Thu May 05 15:20:25 +0000 2022"
+  "original_created_at": "Thu May 05 15:20:25 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "welcome to hell $qqq https://t.co/RteaSRFSou"
+    },
+    {
+      "locale": "zh",
+      "full_text": "欢迎来到地狱 $qqq https://t.co/RteaSRFSou"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "歡迎來到地獄 $qqq https://t.co/RteaSRFSou"
+    }
+  ]
 }
