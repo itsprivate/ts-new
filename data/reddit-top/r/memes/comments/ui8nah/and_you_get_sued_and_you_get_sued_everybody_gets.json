@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そして、訴えられる！訴えられる！？みんな訴えられるんだ！"
+    },
+    {
+      "locale": "zh",
+      "title": "你被起诉了，你被起诉了! 每个人都会被起诉!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被起訴了，你被起訴了! 每個人都會被起訴!"
+    }
+  ]
 }
