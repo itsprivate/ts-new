@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "核廃棄物は核燃料よりも放射性物質が多いのですか、少ないのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "核废料的放射性比核燃料高还是低？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "核廢料的放射性比核燃料高還是低？"
+    }
+  ]
 }
