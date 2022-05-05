@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-03T19:42:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sTNP7E4u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ype7suwe1wjzz4x3idl.png",
   "author": "Julie Cherner",
-  "author_url": "https://dev.to/juliecherner"
+  "author_url": "https://dev.to/juliecherner",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UI開発を下から上へ、まずはデザインから始めたい...という悩みに直面することがよくあります。",
+      "title": "React.jsのためのストーリーブック"
+    },
+    {
+      "locale": "zh",
+      "description": "我经常面临的问题是，我想从底层到顶层开始进行UI开发：从设计开始...",
+      "title": "用于React.js的故事书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我經常面臨的問題是，我想從底層到頂層開始進行UI開發：從設計開始...",
+      "title": "用於React.js的故事書"
+    }
+  ]
 }
