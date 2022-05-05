@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アヒルがマラソンに出場し、メダルをゲット"
+    },
+    {
+      "locale": "zh",
+      "title": "鸭子参加马拉松比赛并获得奖牌"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鴨子參加馬拉松比賽並獲得獎牌"
+    }
+  ]
 }
