@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実際にプレイしたことはない"
+    },
+    {
+      "locale": "zh",
+      "title": "我从来没有真正玩过它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我從來沒有真正玩過它"
+    }
+  ]
 }
