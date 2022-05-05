@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "史上最高の観客"
+    },
+    {
+      "locale": "zh",
+      "title": "最好的观众"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最好的觀衆"
+    }
+  ]
 }

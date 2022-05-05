@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悪戯者"
+    },
+    {
+      "locale": "zh",
+      "title": "恶作剧者"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "惡作劇者"
+    }
+  ]
 }
