@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Unbreach: 不正アクセスされたアカウントを把握するのに役立ちます（私はこのサイドプロジェクトを立ち上げたばかりです）"
+    },
+    {
+      "locale": "zh",
+      "title": "Unbreach：它帮助你的公司保持在被攻破的账户之上（我刚刚启动了这个副业）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Unbreach：它幫助你的公司保持在被攻破的賬戶之上（我剛剛啓動了這個副業）。"
+    }
+  ]
 }
