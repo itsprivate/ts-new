@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バスケットボールチームの華麗なるゴール!"
+    },
+    {
+      "locale": "zh",
+      "title": "一个精彩的篮球队进球!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個精彩的籃球隊進球!"
+    }
+  ]
 }

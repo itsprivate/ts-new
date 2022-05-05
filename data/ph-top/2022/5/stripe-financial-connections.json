@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-04T16:14:47Z"
+  "original_createdAt": "2022-05-04T16:14:47Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stripe Financial Connectionsは、ユーザーが財務データを安全に共有できるようにします。一度統合すれば、財務データを取得し、決済の合理化、不正行為の削減、リスクの引き受け、新製品の構築に活用できます。",
+      "tagline": "ユーザーの金融口座に接続"
+    },
+    {
+      "locale": "zh",
+      "description": "Stripe Financial Connections可以让您的用户安全地与您分享他们的财务数据。整合一次就可以检索到财务数据，并利用它来简化支付，减少欺诈，承保风险，并建立新的产品。",
+      "tagline": "连接到你的用户的财务账户"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stripe Financial Connections可以讓您的用戶安全地與您分享他們的財務數據。整合一次就可以檢索到財務數據，並利用它來簡化支付，減少欺詐，承保風險，並建立新的產品。",
+      "tagline": "連接到你的用戶的財務賬戶"
+    }
+  ]
 }
