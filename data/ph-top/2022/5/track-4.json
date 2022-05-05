@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-05T07:01:00Z"
+  "original_createdAt": "2022-05-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "会議のスケジュールを簡単に設定できます。自然言語ベースの高度なイベント作成と共有可能性。無制限でカスタマイズ可能な予約リンク。Whatsapp、LinkedIn、iMessageを使用しながら、複数のアカウントとタイムゾーンのサポート。",
+      "tagline": "高速、直感的、美しいカレンダー体験"
+    },
+    {
+      "locale": "zh",
+      "description": "不费吹灰之力地安排会议。先进的基于自然语言的事件创建和共享可用性。无限和可定制的预订链接。多账户和支持时区。在使用Whatsapp、LinkedIn、iMessage时进行小组投票和安排。",
+      "tagline": "一个快速、直观和漂亮的日历体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不費吹灰之力地安排會議。先進的基於自然語言的事件創建和共享可用性。無限和可定製的預訂鏈接。多賬戶和支持時區。在使用Whatsapp、LinkedIn、iMessage時進行小組投票和安排。",
+      "tagline": "一個快速、直觀和漂亮的日曆體驗"
+    }
+  ]
 }
