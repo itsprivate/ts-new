@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-04T05:06:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dRyJJRQM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uru5srcv5d0vmumm96wm.jpg",
   "author": "Alex Kondrashov",
-  "author_url": "https://dev.to/kondrashov"
+  "author_url": "https://dev.to/kondrashov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は怠惰なソフトウェアエンジニアとして、必要なときだけコードを書きたいと思っています。もし私がコードを書くことになったら...",
+      "title": "ユニットテストではなく、インテグレーションテストを書け"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个懒惰的软件工程师，我只想在必要时写代码。如果我碰巧写了代码，我...",
+      "title": "写一个集成测试，而不是单元测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個懶惰的軟件工程師，我只想在必要時寫代碼。如果我碰巧寫了代碼，我...",
+      "title": "寫一個集成測試，而不是單元測試"
+    }
+  ]
 }
