@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-04T10:07:41Z",
   "image": "https://dev.to/social_previews/article/1075218.png",
   "author": "Mike Levan",
-  "author_url": "https://dev.to/thenjdevopsguy"
+  "author_url": "https://dev.to/thenjdevopsguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesでは、一部のアプリケーションは公開する必要があります。おそらく、Webアプリなどでしょうか...。",
+      "title": "Kubernetes Ingressです。Nginx Ingress編"
+    },
+    {
+      "locale": "zh",
+      "description": "在Kubernetes中，有些应用需要面向公众。也许它是一个网络应用或其他东西...",
+      "title": "Kubernetes Ingress。Nginx Ingress版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Kubernetes中，有些應用需要面向公衆。也許它是一個網絡應用或其他東西...",
+      "title": "Kubernetes Ingress。Nginx Ingress版"
+    }
+  ]
 }
