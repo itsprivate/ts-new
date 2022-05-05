@@ -12,5 +12,15 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "zh",
+      "title": "你在这个网站上读到的、真正让你困惑的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在這個網站上讀到的、真正讓你困惑的東西是什麼？"
+    }
+  ]
 }
