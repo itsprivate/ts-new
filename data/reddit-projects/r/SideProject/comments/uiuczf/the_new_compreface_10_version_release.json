@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If you are using Compreface, a free open-source facial recognition solution, it\nhas some new useful updates in the new version. It allows now to manage subjects\nand images collections without any scripts or code, now you can also test\nCompreFace REST endpoints right away with predefined methods,…"
+  "the_new_excerpt": "If you are using Compreface, a free open-source facial recognition solution, it\nhas some new useful updates in the new version. It allows now to manage subjects\nand images collections without any scripts or code, now you can also test\nCompreFace REST endpoints right away with predefined methods,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "オープンソースの無料顔認証ソリューション「Compreface」をご利用の方は、新バージョンをご利用ください。\n新しいバージョンでは、いくつかの便利なアップデートがあります。スクリプトやコードなしで、被写体や画像のコレクションを管理できるようになりました。\nと画像のコレクションをスクリプトやコードなしで管理できるようになりました。\nCompreFaceのRESTエンドポイントを、定義済みのメソッドですぐにテストすることができます。",
+      "title": "新バージョンCompreFace 1.0のリリースについて"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你正在使用Compreface，一个免费的开源面部识别解决方案，它\n在新版本中有一些新的有用的更新。它现在允许管理主题\n和图像集合，而不需要任何脚本或代码，现在你也可以用预定义的方法测试\nCompreFace REST端点的预定义方法。",
+      "title": "新的CompreFace 1.0版本发布"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你正在使用Compreface，一個免費的開源面部識別解決方案，它\n在新版本中有一些新的有用的更新。它現在允許管理主題\n和圖像集合，而不需要任何腳本或代碼，現在你也可以用預定義的方法測試\nCompreFace REST端點的預定義方法。",
+      "title": "新的CompreFace 1.0版本發佈"
+    }
+  ]
 }

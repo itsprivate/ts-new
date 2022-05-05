@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オープンソースのWebオートメーションで、サイドプロジェクトのダッシュボード/WebページのPDF生成を自動化する方法"
+    },
+    {
+      "locale": "zh",
+      "title": "如何用开源网络自动化为你的副业自动生成PDF文件/网页"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何用開源網絡自動化爲你的副業自動生成PDF文件/網頁"
+    }
+  ]
 }

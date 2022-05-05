@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "隔週というのは、週に2回ということですか、それとも2週間に1回ということですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "双周是指每周两次还是每两周一次？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "雙週是指每週兩次還是每兩週一次？"
+    }
+  ]
 }
