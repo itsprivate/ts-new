@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは今、毎秒250,000,000,000,000回の計算をしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币现在每秒钟做250,000,000,000,000次计算。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣現在每秒鐘做250,000,000,000,000次計算。"
+    }
+  ]
 }
