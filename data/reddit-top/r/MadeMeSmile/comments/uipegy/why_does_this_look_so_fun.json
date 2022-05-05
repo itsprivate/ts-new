@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どうしてこんなに楽しそうなんだろう？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么这看起来如此有趣？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼這看起來如此有趣？"
+    }
+  ]
 }
