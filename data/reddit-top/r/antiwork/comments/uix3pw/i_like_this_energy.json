@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このエネルギーが好きだ"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢这种能量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡這種能量"
+    }
+  ]
 }
