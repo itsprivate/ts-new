@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホッチキス止めをせずに提出したため、課題が0点となる"
+    },
+    {
+      "locale": "zh",
+      "title": "学生在没有装订的情况下交出作业，得到零分"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "學生在沒有裝訂的情況下交出作業，得到零分"
+    }
+  ]
 }
