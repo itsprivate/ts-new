@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポルトガルで初めて、フィアットに戻すことなくビットコインで住宅が本日売却されました"
+    },
+    {
+      "locale": "zh",
+      "title": "今天，葡萄牙的一栋房屋首次以比特币的价格出售，而没有转换回法币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天，葡萄牙的一棟房屋首次以比特幣的價格出售，而沒有轉換回法幣。"
+    }
+  ]
 }
