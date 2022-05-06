@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メディアプレーヤー「VLC」の生みの親、ジャン＝バティスト・ケンプフです。彼はVLCを広告なしにするために、何千万ドルものお金を拒否しました。ありがとう、Jean!"
+    },
+    {
+      "locale": "zh",
+      "title": "这是让-巴蒂斯特-坎普夫，VLC媒体播放器的创造者。为了保持VLC无广告，他拒绝了数千万美元的资金。谢谢你，让!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是讓-巴蒂斯特-坎普夫，VLC媒體播放器的創造者。爲了保持VLC無廣告，他拒絕了數千萬美元的資金。謝謝你，讓!"
+    }
+  ]
 }
