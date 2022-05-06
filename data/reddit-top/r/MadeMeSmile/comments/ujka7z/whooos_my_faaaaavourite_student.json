@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の大好きな学生です‽。"
+    },
+    {
+      "locale": "zh",
+      "title": "谁是我最喜欢的学生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰是我最喜歡的學生？"
+    }
+  ]
 }
