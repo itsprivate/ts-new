@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "🚀 ワンクリックでコードをチュートリアルに変換するオンラインコードエディタを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "🚀 我做了一个在线代码编辑器，只需点击一下就能把你的代码变成教程。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "🚀 我做了一個在線代碼編輯器，只需點擊一下就能把你的代碼變成教程。"
+    }
+  ]
 }
