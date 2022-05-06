@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは今、誘拐されました。移動中の車の中で、目隠しもされていません。あなたは誘拐犯に何と言いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你刚刚被绑架了，你在一辆移动的汽车里，而且没有被蒙住眼睛。你对你的绑架者说什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你剛剛被綁架了，你在一輛移動的汽車裏，而且沒有被矇住眼睛。你對你的綁架者說什麼？"
+    }
+  ]
 }
