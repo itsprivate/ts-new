@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし誰かがあなたのペットを買うために5万ドルを提供したとしたら、あなたはどう答えますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人给你5万美元来购买你的宠物，你会如何回应？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人給你5萬美元來購買你的寵物，你會如何回應？"
+    }
+  ]
 }

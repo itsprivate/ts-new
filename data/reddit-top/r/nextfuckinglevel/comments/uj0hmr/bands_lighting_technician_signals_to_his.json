@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バンドの照明技師が同僚に合図を送りながら、ステージのセットアップをテストし、観客もそれを真似る"
+    },
+    {
+      "locale": "zh",
+      "title": "乐队的灯光师在测试舞台设置时向他的同事发出信号，观众们也模仿他。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "樂隊的燈光師在測試舞臺設置時向他的同事發出信號，觀衆們也模仿他。"
+    }
+  ]
 }
