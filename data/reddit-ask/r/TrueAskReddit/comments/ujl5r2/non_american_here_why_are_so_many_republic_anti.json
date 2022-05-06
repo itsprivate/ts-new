@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Not trying to be political, just looking to understand how your system works."
+  "the_new_excerpt": "Not trying to be political, just looking to understand how your system works.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "政治的な意図はなく、ただ、あなたのシステムがどのように機能しているかを理解したいだけです。",
+      "title": "非アメリカ人ここにあり。民主党が大統領に選ばれたのに、なぜ多くの共和党の中絶禁止法が成立しているのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不是要搞政治，只是想了解你们的系统如何运作。",
+      "title": "非美国人在此。为什么有这么多共和国反堕胎法被通过，而你们却有一个民主党人当选总统？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不是要搞政治，只是想了解你們的系統如何運作。",
+      "title": "非美國人在此。爲什麼有這麼多共和國反墮胎法被通過，而你們卻有一個民主黨人當選總統？"
+    }
+  ]
 }
