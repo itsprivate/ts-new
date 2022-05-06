@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後の電話ボックス：割れたガラス、サイダーの缶、そして驚くべきことにダイヤルトーン"
+    },
+    {
+      "locale": "zh",
+      "title": "最后的电话盒：碎玻璃、苹果酒罐和--令人惊讶的--拨号音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最後的電話盒：碎玻璃、蘋果酒罐和--令人驚訝的--撥號音"
+    }
+  ]
 }
