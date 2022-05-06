@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Say you got a bacterial chest infection and was prescribed antibiotics to treat\nit. Would your immune system create some kind of resistance to it if you were to\ncome in contact with someone else who had the same infection after you'd\nrecovered?"
+  "the_new_excerpt": "Say you got a bacterial chest infection and was prescribed antibiotics to treat\nit. Would your immune system create some kind of resistance to it if you were to\ncome in contact with someone else who had the same infection after you'd\nrecovered?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、細菌性の胸部感染症にかかり、治療用に抗生物質が処方されたとします。\n治療するために抗生物質を処方されたとします。もし、その後に同じ感染症にかかった人と接触したら、あなたの免疫システムはその抗生物質に対してある種の耐性を作るでしょうか？\nもし、あなたが回復した後に、同じ感染症にかかった他の人と接触したら、あなたの免疫システムはその抗生物質に対してある種の耐性を作るでしょうか？\n抵抗力が生まれるでしょうか？",
+      "title": "免疫システムは、ウイルス感染と同じように、細菌感染に対する抵抗力を作り出すことができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "假设你得了细菌性胸部感染，被开了抗生素来治疗\n它。你的免疫系统是否会对它产生某种抗药性，如果你是在\n你的免疫系统会不会产生某种抗药性，如果你在康复后与其他有同样感染的人接触\n痊愈后，你的免疫系统是否会产生某种抗药性？",
+      "title": "你的免疫系统能否像对待病毒一样产生对细菌感染的抵抗力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "假設你得了細菌性胸部感染，被開了抗生素來治療\n它。你的免疫系統是否會對它產生某種抗藥性，如果你是在\n你的免疫系統會不會產生某種抗藥性，如果你在康復後與其他有同樣感染的人接觸\n痊癒後，你的免疫系統是否會產生某種抗藥性？",
+      "title": "你的免疫系統能否像對待病毒一樣產生對細菌感染的抵抗力？"
+    }
+  ]
 }
