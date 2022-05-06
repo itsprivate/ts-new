@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自動運転車のLIDARがレーザーを照射したら、何百台もの車がレーザーを照射する「LIDAR公害」が発生するのでは？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果自动驾驶汽车的激光雷达发射激光，会不会出现数百辆汽车发射激光的 \"激光雷达污染\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果自動駕駛汽車的激光雷達發射激光，會不會出現數百輛汽車發射激光的 \"激光雷達污染\"？"
+    }
+  ]
 }
