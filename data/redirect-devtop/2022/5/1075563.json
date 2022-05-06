@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-04T17:10:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HZgwxHYX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zfnjxxbo87mv3qlcl5k0.jpg",
   "author": "Marco",
-  "author_url": "https://dev.to/marplex"
+  "author_url": "https://dev.to/marplex",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の答えは？Gitです。",
+      "title": "たった一つのオープンソースプロジェクトが未来の人類のために救われる。あなたならどれを選びますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我的答案是？Git。",
+      "title": "只有一个开源项目可以为未来人类保存。你会选择哪一个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的答案是？Git。",
+      "title": "只有一個開源項目可以爲未來人類保存。你會選擇哪一個？"
+    }
+  ]
 }
