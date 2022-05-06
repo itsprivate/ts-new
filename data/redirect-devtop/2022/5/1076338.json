@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-05T13:46:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1knmp97m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n9zgr6xh59kuqclnt6u5.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、Wasm Buildersにスポットライトを当てました。 ワズムビルダーズは、\"深さ \"を提供するために存在します。",
+      "title": "ワズムビルダーズがどのような存在になるのか、とても楽しみです。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你错过了它，我们最近发现了Wasm Builders。 瓦斯姆建筑公司的存在是为了提供深度的服务。",
+      "title": "很高兴看到Wasm Builders正在成为的样子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你錯過了它，我們最近發現了Wasm Builders。 瓦斯姆建築公司的存在是爲了提供深度的服務。",
+      "title": "很高興看到Wasm Builders正在成爲的樣子。"
+    }
+  ]
 }
