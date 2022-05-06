@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-04T23:02:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NMVOdiG0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3vmnpgv24m31c4aqglcl.jpg",
   "author": "Diogo Rodrigues",
-  "author_url": "https://dev.to/diogorodrigues"
+  "author_url": "https://dev.to/diogorodrigues",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "10年ほど前に開発者としてのキャリアをスタートさせた方なら、どれほど複雑な作業だったかをご存知でしょう...",
+      "title": "Fetch APIはAJAXの新旧バージョンです。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在十年前开始了你的开发者生涯，你可能知道它是多么复杂。",
+      "title": "Fetch API是AJAX的新旧版本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在十年前開始了你的開發者生涯，你可能知道它是多麼複雜。",
+      "title": "Fetch API是AJAX的新舊版本"
+    }
+  ]
 }

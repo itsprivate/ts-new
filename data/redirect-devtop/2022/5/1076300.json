@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-05T12:36:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bRj_8Efw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04osw0d5fxhqmi9klho4.jpg",
   "author": "Mohammed Nadeem Shareef",
-  "author_url": "https://dev.to/shareef"
+  "author_url": "https://dev.to/shareef",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、デベロッパーズです🖐 今回は、私がLinkedInをあまり使わない理由と、あなたがLinkedInを使うべき理由についてお話します。",
+      "title": "私がLinkedInを使わない理由と、あなたも使うべき理由!"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开发者🖐🖐在这篇文章中，我将讨论为什么我不经常使用LinkedIn，以及为什么你应该使用。",
+      "title": "为什么我不使用LinkedIn，为什么你也应该使用!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開發者🖐🖐在這篇文章中，我將討論爲什麼我不經常使用LinkedIn，以及爲什麼你應該使用。",
+      "title": "爲什麼我不使用LinkedIn，爲什麼你也應該使用!"
+    }
+  ]
 }
