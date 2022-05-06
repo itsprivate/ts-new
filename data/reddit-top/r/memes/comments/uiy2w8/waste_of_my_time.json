@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の時間の無駄"
+    },
+    {
+      "locale": "zh",
+      "title": "浪费我的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "浪費我的時間"
+    }
+  ]
 }
