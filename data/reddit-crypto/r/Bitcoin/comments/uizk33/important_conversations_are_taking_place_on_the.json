@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジョー・ローガン・ショーで重要な会話が行われ、ビットコインが自由のお金であることが世界に理解され始めています。"
+    },
+    {
+      "locale": "zh",
+      "title": "重要的对话正在乔-罗根节目中进行，世界开始了解到比特币是自由货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "重要的對話正在喬-羅根節目中進行，世界開始瞭解到比特幣是自由貨幣。"
+    }
+  ]
 }
