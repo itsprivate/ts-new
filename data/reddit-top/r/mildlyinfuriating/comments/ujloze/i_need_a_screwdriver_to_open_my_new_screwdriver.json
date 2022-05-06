@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しいドライバーを開けるのに、ドライバーが必要です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我需要一把螺丝刀来打开我的新螺丝刀。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我需要一把螺絲刀來打開我的新螺絲刀。"
+    }
+  ]
 }
