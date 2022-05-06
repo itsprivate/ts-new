@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MRW The Satanic Templeは、中絶を禁止している州に宗教的な中絶センターを開設すると言っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "MRW 撒旦圣殿称他们将在禁止堕胎的州开设宗教堕胎中心"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MRW 撒旦聖殿稱他們將在禁止墮胎的州開設宗教墮胎中心"
+    }
+  ]
 }
