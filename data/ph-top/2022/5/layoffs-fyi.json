@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-06T07:01:00Z"
+  "original_createdAt": "2022-05-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "COVID-19以降のすべての技術系スタートアップのレイオフを追跡。データは公開されたレポートから集計されています。",
+      "tagline": "COVID-19以降、すべての技術系スタートアップのレイオフを追跡しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "追踪自COVID-19以来所有科技创业公司的裁员情况。数据是由公开报告汇编而成。",
+      "tagline": "追踪自COVID-19以来所有科技创业公司的裁员情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "追蹤自COVID-19以來所有科技創業公司的裁員情況。數據是由公開報告彙編而成。",
+      "tagline": "追蹤自COVID-19以來所有科技創業公司的裁員情況"
+    }
+  ]
 }
