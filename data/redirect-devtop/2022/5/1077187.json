@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-06T09:21:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OPtfkkaN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ddgdpktdbt9uwvijwt4.jpg",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パブリッククラウドへの移行を検討されている方、次のプロジェクトでクラウドの選択を最適化されたい方は、ぜひご覧ください。",
+      "title": "クラウド料金の比較。2022年におけるAWS vs. Azure vs. Google Cloud Platformの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在考虑迁移到公共云或为你的下一个项目优化选择，...",
+      "title": "云计算定价比较。2022年AWS vs. Azure vs. Google Cloud Platform"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在考慮遷移到公共雲或爲你的下一個項目優化選擇，...",
+      "title": "雲計算定價比較。2022年AWS vs. Azure vs. Google Cloud Platform"
+    }
+  ]
 }
