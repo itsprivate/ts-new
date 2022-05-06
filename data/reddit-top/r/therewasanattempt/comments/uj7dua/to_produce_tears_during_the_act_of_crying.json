@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "は、「泣く」という行為で涙を出すこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "在 \"哭 \"的行为中产生泪水。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在 \"哭 \"的行爲中產生淚水。"
+    }
+  ]
 }
