@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Spotifyの楽曲を表示し、類似度順に並べるための小さなツール"
+    },
+    {
+      "locale": "zh",
+      "title": "根据相似度查看和排列你的Spotify曲目的小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據相似度查看和排列你的Spotify曲目的小工具"
+    }
+  ]
 }
