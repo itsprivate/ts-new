@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミルク"
+    },
+    {
+      "locale": "zh",
+      "title": "牛奶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "牛奶"
+    }
+  ]
 }
