@@ -52,5 +52,22 @@
     },
     "retweet_count": 173,
     "favorite_count": 459
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DowdEdward: 葬儀社のCFO、SCI \n\n「また、COVIDだけでなく、Tomが再強調しているように、私たちが見ているのはCOVIDだけではありません。これは...",
+      "retweeted_status_full_text": "葬儀会社CFO SCI \n\n「また、Tomが再強調しているように、私たちが見ているのはCOVIDだけではありません。これは......COVIDを差し引いても、我々が予想していたよりも高い死亡率なのです。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DowdEdward: 殡仪馆公司的CFO SCI \n\n\"再说一遍，我们看到的不仅仅是COVID，因为汤姆只是为了再次强调这一点。这...",
+      "retweeted_status_full_text": "殡仪馆公司的CFO SCI \n\n\"再说一遍，我们看到的不仅仅是COVID，因为汤姆只是想再次强调这一点。这是......这些是超额死亡，死亡率水平高于我们的预期，甚至当你试图剔除COVID的时候。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DowdEdward: 殯儀館公司的CFO SCI \n\n\"再說一遍，我們看到的不僅僅是COVID，因爲湯姆只是爲了再次強調這一點。這...",
+      "retweeted_status_full_text": "殯儀館公司的CFO SCI \n\n\"再說一遍，我們看到的不僅僅是COVID，因爲湯姆只是想再次強調這一點。這是......這些是超額死亡，死亡率水平高於我們的預期，甚至當你試圖剔除COVID的時候。\""
+    }
+  ]
 }
