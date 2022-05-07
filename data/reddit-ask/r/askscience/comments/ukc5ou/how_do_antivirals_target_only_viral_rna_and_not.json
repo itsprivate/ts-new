@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "抗ウイルス剤は、どのようにしてウイルスRNAだけを標的にして、宿主のRNAは標的にしていないのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "抗病毒药物如何只针对病毒的RNA而不针对宿主的RNA？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "抗病毒藥物如何只針對病毒的RNA而不針對宿主的RNA？"
+    }
+  ]
 }
