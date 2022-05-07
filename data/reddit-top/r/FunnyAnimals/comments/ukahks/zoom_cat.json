@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ズーム猫"
+    },
+    {
+      "locale": "zh",
+      "title": "缩放猫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "縮放貓"
+    }
+  ]
 }
