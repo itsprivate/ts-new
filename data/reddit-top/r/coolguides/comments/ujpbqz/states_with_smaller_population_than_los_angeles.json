@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロサンゼルス郡より人口の少ない州"
+    },
+    {
+      "locale": "zh",
+      "title": "人口少于洛杉矶县的州"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人口少於洛杉磯縣的州"
+    }
+  ]
 }
