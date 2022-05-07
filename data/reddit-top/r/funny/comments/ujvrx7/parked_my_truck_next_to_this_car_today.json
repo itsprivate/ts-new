@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、この車の隣に私のトラックを停めました。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天把我的卡车停在这辆车旁边"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天把我的卡車停在這輛車旁邊"
+    }
+  ]
 }
