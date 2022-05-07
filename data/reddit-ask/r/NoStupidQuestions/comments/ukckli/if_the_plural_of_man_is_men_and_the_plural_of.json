@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "manの複数形がmenで、womanの複数形がwomenなら、なぜhumanの複数形はhumenではないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果男人的复数是男人，女人的复数是女人，为什么人类的复数不是humen？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果男人的複數是男人，女人的複數是女人，爲什麼人類的複數不是humen？"
+    }
+  ]
 }
