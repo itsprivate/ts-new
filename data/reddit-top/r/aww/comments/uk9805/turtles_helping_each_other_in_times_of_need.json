@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "困ったときに助け合うカメたち"
+    },
+    {
+      "locale": "zh",
+      "title": "海龟在需要时相互帮助"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "海龜在需要時相互幫助"
+    }
+  ]
 }
