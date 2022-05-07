@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウォーターパークでこの人のエネルギーは！？"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙在水上公园的能量!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙在水上公園的能量!"
+    }
+  ]
 }
