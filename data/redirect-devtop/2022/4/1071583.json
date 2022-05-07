@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-30T08:57:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gfOtAAsD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pe9aegtwlakn5wvs50y5.png",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSが解析され、CSSOMが作成されている間、JavaScriptファイルなど他のアセットが...",
+      "title": "Webブラウザの仕組み - Javascriptの実行（その5、図解付き）💻🌠。"
+    },
+    {
+      "locale": "zh",
+      "description": "在解析CSS和创建CSSOM的同时，其他资产，包括JavaScript文件，也在被解析。",
+      "title": "网络浏览器如何工作--执行Javascript（第5部分，有插图）💻🌠"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在解析CSS和創建CSSOM的同時，其他資產，包括JavaScript文件，也在被解析。",
+      "title": "網絡瀏覽器如何工作--執行Javascript（第5部分，有插圖）💻🌠"
+    }
+  ]
 }

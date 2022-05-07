@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友人が近所の猫を撫でたら、毎日寄ってくるようになった。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的朋友抚摸过邻居家的猫，现在它每天都会来找我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的朋友撫摸過鄰居家的貓，現在它每天都會來找我。"
+    }
+  ]
 }
