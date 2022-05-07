@@ -1,0 +1,83 @@
+{
+  "created_at": "Sat May 07 15:44:47 +0000 2022",
+  "id_str": "1522954605440643073",
+  "full_text": "What kinds of services does @WeatherWorks offer? You'd be surprised! https://t.co/7582CydL3y https://t.co/5UkSrppoGO",
+  "display_text_range": [
+    0,
+    92
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "WeatherWorks",
+        "name": "WeatherWorks",
+        "id": 175426542,
+        "id_str": "175426542",
+        "indices": [
+          28,
+          41
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/7582CydL3y",
+        "expanded_url": "https://www.quora.com/What-kinds-of-services-does-WeatherWorks-offer/answer/WeatherWorks",
+        "display_url": "quora.com/What-kinds-of-…",
+        "indices": [
+          69,
+          92
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1522954599677808600,
+        "id_str": "1522954599677808642",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/FSKfI7LX0AI7lAN.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FSKfI7LX0AI7lAN.jpg",
+        "url": "https://t.co/5UkSrppoGO",
+        "display_url": "pic.twitter.com/5UkSrppoGO",
+        "expanded_url": "https://twitter.com/Quora/status/1522954605440643073/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 453,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 800,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1365,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Quora",
+    "screen_name": "Quora",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1462834614087532549/Hz0hSqvy_normal.jpg"
+  },
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat May 07 15:00:47 +0000 2022"
+}
