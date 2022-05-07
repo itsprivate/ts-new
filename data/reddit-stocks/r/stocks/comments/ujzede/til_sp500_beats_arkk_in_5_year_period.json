@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1651877098,
-  "the_new_excerpt": "https://www.google.com/finance/quote/ARKK:NYSEARCA?sa=X&ved=2ahUKEwi9h-Xy-Mv3AhXpIUQIHVotDF4Q3ecFegQIHRAg&comparison=NYSEARCA%3ASPY&window=5Y\n\nSP500 5Y return: 72.12%\n\nARKK 5Y return 70.83%"
+  "the_new_excerpt": "https://www.google.com/finance/quote/ARKK:NYSEARCA?sa=X&ved=2ahUKEwi9h-Xy-Mv3AhXpIUQIHVotDF4Q3ecFegQIHRAg&comparison=NYSEARCA%3ASPY&window=5Y\n\nSP500 5Y return: 72.12%\n\nARKK 5Y return 70.83%",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://www.google.com/finance/quote/ARKK:NYSEARCA?sa=X&ved=2ahUKEwi9h-Xy-Mv3AhXpIUQIHVotDF4Q3ecFegQIHRAg&comparison=NYSEARCA%3ASPY&window=5Y\n\nSP500 5Y リターン 72.12%\n\nARKK 5Y リターン 70.83",
+      "title": "TIL：5年間で、SP500がARKKを上回った。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.google.com/finance/quote/ARKK:NYSEARCA?sa=X&ved=2ahUKEwi9h-Xy-Mv3AhXpIUQIHVotDF4Q3ecFegQIHRAg&comparison=NYSEARCA%3ASPY&window=5Y\n\nSP500 5Y回报率。72.12%\n\nARKK 5年回报率70.83",
+      "title": "TIL：SP500在5年内击败ARKK"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.google.com/finance/quote/ARKK:NYSEARCA?sa=X&ved=2ahUKEwi9h-Xy-Mv3AhXpIUQIHVotDF4Q3ecFegQIHRAg&comparison=NYSEARCA%3ASPY&window=5Y\n\nSP500 5Y回報率。72.12%\n\nARKK 5年回報率70.83",
+      "title": "TIL：SP500在5年內擊敗ARKK"
+    }
+  ]
 }

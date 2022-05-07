@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2014年の今日、ビル・ゲイツはビットコインを400ドルで擁護している。\"It's a techno tour de force. \"と。"
+    },
+    {
+      "locale": "zh",
+      "title": "2014年的今天，比尔-盖茨以400美元的价格为比特币辩护：\"它是一个技术性的巡回演出\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2014年的今天，比爾-蓋茨以400美元的價格爲比特幣辯護：\"它是一個技術性的巡迴演出\"。"
+    }
+  ]
 }

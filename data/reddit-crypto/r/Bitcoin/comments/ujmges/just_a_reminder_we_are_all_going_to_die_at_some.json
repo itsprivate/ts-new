@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは皆、いつかは死ぬということを忘れないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "只是提醒大家：我们都会在某个时刻死去。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是提醒大家：我們都會在某個時刻死去。"
+    }
+  ]
 }
