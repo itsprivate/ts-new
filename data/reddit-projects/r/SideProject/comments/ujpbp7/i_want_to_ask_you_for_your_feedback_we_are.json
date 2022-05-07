@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ご意見をお聞かせください。🙏 このAIメール作成アシスタントを開発中です。クロームの拡張機能です。あなたの感想はいかがですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我想征求你的反馈意见。🙏我们正在开发这个AI电子邮件写作助手。它是chrome的扩展。你有什么想法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想徵求你的反饋意見。🙏我們正在開發這個AI電子郵件寫作助手。它是chrome的擴展。你有什麼想法？"
+    }
+  ]
 }
