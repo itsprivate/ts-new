@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "左を見るべきだった..."
+    },
+    {
+      "locale": "zh",
+      "title": "应该向左看..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "應該向左看..."
+    }
+  ]
 }
