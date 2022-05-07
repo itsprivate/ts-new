@@ -43,5 +43,22 @@
   "original_created_at": "2022-05-05T02:09:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TYscHGbl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/devdevcharlie/image/upload/v1651638959/Group_30_qpyni4.png",
   "author": "Charlie Gerard",
-  "author_url": "https://dev.to/devdevcharlie"
+  "author_url": "https://dev.to/devdevcharlie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数週間前、私は小さなランサムウェアのスクリプトを作成する実験を行い、Node.jsモジュールでそれを実行する方法を調べました。この投稿は、私がどのように行ったかを説明したものです。",
+      "title": "Node.jsモジュールでランサムウェア攻撃を実行する"
+    },
+    {
+      "locale": "zh",
+      "description": "几周前，我尝试创建了一个小型的勒索软件脚本，并研究了如何在Node.js模块中运行它。这篇文章是一篇解释我如何去做的文章。",
+      "title": "在Node.js模块中运行勒索软件攻击"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾周前，我嘗試創建了一個小型的勒索軟件腳本，並研究瞭如何在Node.js模塊中運行它。這篇文章是一篇解釋我如何去做的文章。",
+      "title": "在Node.js模塊中運行勒索軟件攻擊"
+    }
+  ]
 }
