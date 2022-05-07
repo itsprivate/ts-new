@@ -50,5 +50,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この二人は、缶を積み上げてピラミッドを作り、誰かがボールでそれを倒すというゲームに明け暮れました。かわいそうな人たちだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这两个人用游戏的时间用堆叠的罐子做了一个金字塔，只是有人用球打翻了它。我为他们感到遗憾。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這兩個人用遊戲的時間用堆疊的罐子做了一個金字塔，只是有人用球打翻了它。我爲他們感到遺憾。"
+    }
+  ]
 }
