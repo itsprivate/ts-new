@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What happened the whole 194,000 years before that?"
+  "the_new_excerpt": "What happened the whole 194,000 years before that?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "その前の194,000年はどうだったのでしょうか？",
+      "title": "人類は20万年前から存在しているのに、なぜ最古の文明といわれるシュメール人は6000年前にしか存在しなかったのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在这之前的整整19.4万年里发生了什么？",
+      "title": "为什么人类已经存在了20万年，但已知最古老的文明，苏美尔人，只存在于6000年前？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在這之前的整整19.4萬年裏發生了什麼？",
+      "title": "爲什麼人類已經存在了20萬年，但已知最古老的文明，蘇美爾人，只存在於6000年前？"
+    }
+  ]
 }
