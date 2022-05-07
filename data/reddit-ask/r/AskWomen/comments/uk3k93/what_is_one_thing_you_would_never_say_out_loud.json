@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "絶対に口に出してはいけないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你永远不会大声说出来的一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你永遠不會大聲說出來的一件事是什麼？"
+    }
+  ]
 }
