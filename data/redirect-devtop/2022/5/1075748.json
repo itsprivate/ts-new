@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-04T21:49:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8ncNUdA9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sxk0ie3tm7jxdivs7y6g.jpg",
   "author": "Christian",
-  "author_url": "https://dev.to/a_chris"
+  "author_url": "https://dev.to/a_chris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは！dev.toに初めて投稿します。 今日は...",
+      "title": "Dockerイメージのサイズを小さくするための小さなヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，这是我在dev.to上的第一篇帖子，我希望以后能更活跃一些  今天我想解释一下...",
+      "title": "缩小Docker镜像尺寸的小建议"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，這是我在dev.to上的第一篇帖子，我希望以後能更活躍一些  今天我想解釋一下...",
+      "title": "縮小Docker鏡像尺寸的小建議"
+    }
+  ]
 }
