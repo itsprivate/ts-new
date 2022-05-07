@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-07T10:22:57Z"
+  "original_createdAt": "2022-05-07T10:22:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reshapedは、ReactとFigmaで日常的な製品開発を行うための専門的なデザインシステムです。通常、UIに取り掛かる前に、100万ものことをセットアップする必要があります。私たちはそれを引き受けたので、開発の最初の1年をスキップすることができます。",
+      "tagline": "ReactとFigmaで構築された規模に合わせたデザインシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "Reshaped是一个专业的设计系统，用于React和Figma的日常产品开发。通常情况下，在你开始进行UI工作之前，你必须设置无数的东西。我们照顾到了这一点，所以你可以跳过第一年的开发。",
+      "tagline": "在React和Figma中为你的规模建立的设计系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Reshaped是一個專業的設計系統，用於React和Figma的日常產品開發。通常情況下，在你開始進行UI工作之前，你必須設置無數的東西。我們照顧到了這一點，所以你可以跳過第一年的開發。",
+      "tagline": "在React和Figma中爲你的規模建立的設計系統"
+    }
+  ]
 }
