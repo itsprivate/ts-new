@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の車の中で盗みを働いたので捕まえました - その後、彼は逃げ始めました - アスピリンが必要かもしれない"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙在我的车里偷东西，我抓住了他--然后他开始逃跑--可能需要一些阿司匹林"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙在我的車裏偷東西，我抓住了他--然後他開始逃跑--可能需要一些阿司匹林"
+    }
+  ]
 }
