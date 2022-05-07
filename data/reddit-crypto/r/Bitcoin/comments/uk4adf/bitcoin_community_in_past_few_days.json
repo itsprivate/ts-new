@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここ数日のビットコインコミュニティ"
+    },
+    {
+      "locale": "zh",
+      "title": "过去几天的比特币社区"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過去幾天的比特幣社區"
+    }
+  ]
 }

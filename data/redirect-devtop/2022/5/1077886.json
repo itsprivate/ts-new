@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-06T23:25:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DLPakNIN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmreaamkgtzyfrm1sg64.jpeg",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "職種を投稿する 全部に名前をつけてもいい？ これはDEV Discussのスレッドです - それは、できるだけオープンエンドにすることができます...",
+      "title": "ITにはどんな仕事があるのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "贡献一个职位名称。我们能给他们都起个名字吗？ 这是一个讨论DEV的主题 - 它可以是开放式的...",
+      "title": "IT行业有哪些工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "貢獻一個職位名稱。我們能給他們都起個名字嗎？ 這是一個討論DEV的主題 - 它可以是開放式的...",
+      "title": "IT行業有哪些工作？"
+    }
+  ]
 }
