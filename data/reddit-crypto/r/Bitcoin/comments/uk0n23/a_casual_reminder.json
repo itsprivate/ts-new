@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さりげない気配り"
+    },
+    {
+      "locale": "zh",
+      "title": "随便提醒一下"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "隨便提醒一下"
+    }
+  ]
 }
