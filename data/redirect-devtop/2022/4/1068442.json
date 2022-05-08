@@ -45,5 +45,22 @@
   "original_created_at": "2022-04-27T08:15:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bqx5NzHV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l09s0w04d2tyovkcy1mt.png",
   "author": "Rustam Apay",
-  "author_url": "https://dev.to/apayrus"
+  "author_url": "https://dev.to/apayrus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項：これは、詳細なマニュアルを持つ、純粋な技術記事ではない。これは、次のような話です：...",
+      "title": "HTMLとCSSをマスターするための理想的なスタックを発見した方法 - Vue without build"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明：这不是一篇纯技术文章，有详细的手册。它是一个关于以下的故事：...",
+      "title": "我是如何发现掌握HTML和CSS的理想堆栈的--Vue without build"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明：這不是一篇純技術文章，有詳細的手冊。它是一個關於以下的故事：...",
+      "title": "我是如何發現掌握HTML和CSS的理想堆棧的--Vue without build"
+    }
+  ]
 }
