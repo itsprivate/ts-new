@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は狂っている"
+    },
+    {
+      "locale": "zh",
+      "title": "他是个疯子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他是個瘋子"
+    }
+  ]
 }
