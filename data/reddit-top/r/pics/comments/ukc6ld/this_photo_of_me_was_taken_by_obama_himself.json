@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真は、オバマ大統領自身が撮ったものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的这张照片是奥巴马亲自拍摄的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的這張照片是奧巴馬親自拍攝的"
+    }
+  ]
 }
