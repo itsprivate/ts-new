@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-08T07:16:48Z"
+  "original_createdAt": "2022-05-08T07:16:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "よりシンプルな静的サイトジェネレータです。Jekyllの代替。JavaScriptで書かれています。HTMLに（様々な種類の）テンプレートのディレクトリを変換します。HTML、マークダウン、JavaScript、リキッド、Nunjucks、ハンドルバー、マスターッシュ、EJS、Haml、およびPugで動作します。",
+      "tagline": "よりシンプルな静的サイトジェネレータ"
+    },
+    {
+      "locale": "zh",
+      "description": "一个更简单的静态网站生成器。是Jekyll的替代品。用JavaScript编写。将一个模板目录（不同的类型）转换成HTML。与HTML、Markdown、JavaScript、Liquid、Nunjucks、Handlebars、Mustache、EJS、Haml和Pug一起工作。",
+      "tagline": "一个更简单的静态网站生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個更簡單的靜態網站生成器。是Jekyll的替代品。用JavaScript編寫。將一個模板目錄（不同的類型）轉換成HTML。與HTML、Markdown、JavaScript、Liquid、Nunjucks、Handlebars、Mustache、EJS、Haml和Pug一起工作。",
+      "tagline": "一個更簡單的靜態網站生成器"
+    }
+  ]
 }
