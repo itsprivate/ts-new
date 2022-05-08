@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "雪崩を乗り越え、安全な場所に逃げ込む雪うさぎ。"
+    },
+    {
+      "locale": "zh",
+      "title": "雪兔跑过雪崩到达安全地带。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "雪兔跑過雪崩到達安全地帶。"
+    }
+  ]
 }
