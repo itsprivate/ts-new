@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ディップは一時的、インフレは永遠に続く"
+    },
+    {
+      "locale": "zh",
+      "title": "下跌是暂时的，通货膨胀是永远的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "下跌是暫時的，通貨膨脹是永遠的"
+    }
+  ]
 }
