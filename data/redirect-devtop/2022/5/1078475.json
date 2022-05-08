@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-07T17:25:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i0Jva8E6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkcu508jldw5s4zcidxi.png",
   "author": "Sahil Patel",
-  "author_url": "https://dev.to/smppatel99999"
+  "author_url": "https://dev.to/smppatel99999",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の投稿の概要 Birdle(バードル)は、Medium.comのクローンです...",
+      "title": "Birdle: Appwriteで作られたMediumクローン"
+    },
+    {
+      "locale": "zh",
+      "description": "我的投稿概述 Birdle（发音为'baerdle'）是Medium.com的一个克隆...",
+      "title": "Birdle：一个用Appwrite构建的Medium克隆体"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的投稿概述 Birdle（發音爲'baerdle'）是Medium.com的一個克隆...",
+      "title": "Birdle：一個用Appwrite構建的Medium克隆體"
+    }
+  ]
 }
