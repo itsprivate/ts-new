@@ -122,5 +122,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダーウィン事件"
+    },
+    {
+      "locale": "zh",
+      "title": "达尔文事件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "達爾文事件"
+    }
+  ]
 }
