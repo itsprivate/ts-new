@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これがフーズボールのルールに反するかどうかはわからないが、それでもナイスショットだった。"
+    },
+    {
+      "locale": "zh",
+      "title": "我不确定这是否违反了桌上足球的规则，但这仍然是一个不错的镜头。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我不確定這是否違反了桌上足球的規則，但這仍然是一個不錯的鏡頭。"
+    }
+  ]
 }
