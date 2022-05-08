@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "公式発表です。リモートワークが生産性に与える悪影響はゼロ"
+    },
+    {
+      "locale": "zh",
+      "title": "这是正式的。远程工作对你的生产力没有负面影响"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是正式的。遠程工作對你的生產力沒有負面影響"
+    }
+  ]
 }
