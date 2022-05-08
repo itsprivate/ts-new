@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-07T09:50:29Z",
   "image": "https://dev.to/social_previews/article/1078204.png",
   "author": "Medea",
-  "author_url": "https://dev.to/vulcanwm"
+  "author_url": "https://dev.to/vulcanwm",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "dev.toのフィードをスクロールしていたら、プログラミングの仕事に関連する多くの投稿を目にしました。 私は始めた...",
+      "title": "プログラミング：趣味か仕事か？"
+    },
+    {
+      "locale": "zh",
+      "description": "我在滚动浏览我的dev.to feed，我看到许多与编程工作有关的帖子。 我开始...",
+      "title": "编程：爱好还是工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在滾動瀏覽我的dev.to feed，我看到許多與編程工作有關的帖子。 我開始...",
+      "title": "編程：愛好還是工作？"
+    }
+  ]
 }
