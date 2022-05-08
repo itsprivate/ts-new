@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このAIが説明し、デバッグし、ドキュメントを書き、テストを提案し、質問に答えるのを見よう!"
+    },
+    {
+      "locale": "zh",
+      "title": "看这个人工智能的解释、调试、写文档+建议测试和回答问题!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看這個人工智能的解釋、調試、寫文檔+建議測試和回答問題!"
+    }
+  ]
 }
