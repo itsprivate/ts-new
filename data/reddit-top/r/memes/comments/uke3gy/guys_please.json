@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんな頼むよ..."
+    },
+    {
+      "locale": "zh",
+      "title": "伙计们，请..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夥計們，請..."
+    }
+  ]
 }

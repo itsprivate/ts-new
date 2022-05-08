@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界の食糧システムはすでに危機的状況にあった。ロシアの戦争はそれをさらに悪化させるだろう"
+    },
+    {
+      "locale": "zh",
+      "title": "我们的全球粮食系统已经陷入危机。俄罗斯的战争将使它变得更糟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們的全球糧食系統已經陷入危機。俄羅斯的戰爭將使它變得更糟"
+    }
+  ]
 }
