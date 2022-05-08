@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、パートナーが毎日あなたに「愛してる」と言うべきだと思いますか？ なぜ？または、なぜそうしないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你认为你的伴侣应该每天对你说 \"我爱你 \"吗？ 为什么？或者为什么不呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你認爲你的伴侶應該每天對你說 \"我愛你 \"嗎？ 爲什麼？或者爲什麼不呢？"
+    }
+  ]
 }
