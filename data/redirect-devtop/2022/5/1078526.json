@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-07T20:24:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SrFrxb2Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zhz3yu0krbv7tejpjt7x.png",
   "author": "JoelBonetR",
-  "author_url": "https://dev.to/joelbonetr"
+  "author_url": "https://dev.to/joelbonetr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今朝、暇だったので、「JSで電卓をやろう」と言われたんです。 やるつもりだったんだけど・・・。",
+      "title": "JavaScriptの計算機 - DOMの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "所以我今天早上很无聊，对我说：\"让我们用JS做一个计算器\"。 我打算这样做...",
+      "title": "JavaScript计算器 - DOM方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "所以我今天早上很無聊，對我說：\"讓我們用JS做一個計算器\"。 我打算這樣做...",
+      "title": "JavaScript計算器 - DOM方式"
+    }
+  ]
 }

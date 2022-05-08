@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCが史上最高値になるとき、多くの人々が暗号に殺到することになる。"
+    },
+    {
+      "locale": "zh",
+      "title": "当BTC达到历史最高点时，很多人都会急于进入加密货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當BTC達到歷史最高點時，很多人都會急於進入加密貨幣。"
+    }
+  ]
 }
