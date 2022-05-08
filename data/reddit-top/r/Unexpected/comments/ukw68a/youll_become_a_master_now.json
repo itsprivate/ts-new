@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これであなたも達人になれる!"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在就可以成为一个大师了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在就可以成爲一個大師了!"
+    }
+  ]
 }

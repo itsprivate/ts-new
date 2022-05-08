@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この素晴らしいカモフラージュ・アート"
+    },
+    {
+      "locale": "zh",
+      "title": "这种惊人的迷彩艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種驚人的迷彩藝術"
+    }
+  ]
 }
