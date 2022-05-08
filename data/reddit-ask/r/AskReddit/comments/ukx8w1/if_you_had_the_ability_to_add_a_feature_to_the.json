@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが人体に機能を追加できる能力があるとしたら、それは何でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有能力在人体上增加一个功能，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有能力在人體上增加一個功能，那會是什麼？"
+    }
+  ]
 }
