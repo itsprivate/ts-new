@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この子はエコーがあることを知ったばかりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个婴儿刚刚发现回声是一种东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個嬰兒剛剛發現回聲是一種東西。"
+    }
+  ]
 }
