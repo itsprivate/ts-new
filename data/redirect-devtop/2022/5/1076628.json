@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-05T18:50:06Z",
   "image": "https://dev.to/social_previews/article/1076628.png",
   "author": "Pascal Schilp",
-  "author_url": "https://dev.to/thepassle"
+  "author_url": "https://dev.to/thepassle",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サーバーサイドレンダリング(SSR)が流行っているようですね。水増し作戦が話題になっていますが、...",
+      "title": "サービスワーカーサイドレンダリング(SWSR)"
+    },
+    {
+      "locale": "zh",
+      "description": "服务器端渲染（SSR）似乎是风靡一时的。水合战略是镇上的话题，...",
+      "title": "服务工作者端渲染（SWSR）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "服務器端渲染（SSR）似乎是風靡一時的。水合戰略是鎮上的話題，...",
+      "title": "服務工作者端渲染（SWSR）。"
+    }
+  ]
 }

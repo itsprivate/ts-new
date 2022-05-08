@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-07T08:16:15Z",
   "image": "https://dev.to/social_previews/article/1078178.png",
   "author": "Pavel Keyzik",
-  "author_url": "https://dev.to/pavelkeyzik"
+  "author_url": "https://dev.to/pavelkeyzik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "やあ、みんな! 私は生産性を上げたいのですが、皆さんは普段何を使っているのか知りたいです。",
+      "title": "生産性を高めるために使っているツールは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们! 我想提高我的工作效率，我很想知道你通常用什么来作为我的工作。",
+      "title": "你用什么工具来提高生产力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們! 我想提高我的工作效率，我很想知道你通常用什麼來作爲我的工作。",
+      "title": "你用什麼工具來提高生產力？"
+    }
+  ]
 }
