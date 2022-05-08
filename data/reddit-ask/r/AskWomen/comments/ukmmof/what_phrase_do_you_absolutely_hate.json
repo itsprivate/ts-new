@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが絶対に嫌いな言葉は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你绝对讨厌哪句话？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你絕對討厭哪句話？"
+    }
+  ]
 }

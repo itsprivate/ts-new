@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "What is the difference between these waves that allows something like a camera\nto work or not work?"
+  "the_new_excerpt": "What is the difference between these waves that allows something like a camera\nto work or not work?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "カメラのようなものを動かす、動かさないは、これらの波の違いとは？\n何が違うのでしょうか？",
+      "title": "赤外線、可視光線、紫外線にはカメラがあるのに、なぜ電波を検出するためにアンテナを使うのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这些波之间的区别是什么，使像照相机这样的东西\n工作或不工作？",
+      "title": "为什么红外线、可见光和紫外线都有照相机，而我们却用天线来探测无线电波？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這些波之間的區別是什麼，使像照相機這樣的東西\n工作或不工作？",
+      "title": "爲什麼紅外線、可見光和紫外線都有照相機，而我們卻用天線來探測無線電波？"
+    }
+  ]
 }
