@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1,000BTC（取引時34,382,646ドル）がGeminiからBinanceに4.39ドルの手数料で送金されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "1,000 BTC（交易时为34,382,646美元）从Gemini转到Binance，收费4.39美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1,000 BTC（交易時爲34,382,646美元）從Gemini轉到Binance，收費4.39美元。"
+    }
+  ]
 }
