@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "焙煎されてる"
+    },
+    {
+      "locale": "zh",
+      "title": "该死的，他被烤焦了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該死的，他被烤焦了"
+    }
+  ]
 }
