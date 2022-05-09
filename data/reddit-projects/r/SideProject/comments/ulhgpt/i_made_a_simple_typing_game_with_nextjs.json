@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NextJSで簡単なタイピングゲームを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我用NextJS做了一个简单的打字游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用NextJS做了一個簡單的打字遊戲"
+    }
+  ]
 }
