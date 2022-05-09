@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-09T11:09:17Z"
+  "original_createdAt": "2022-05-09T11:09:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gravityを使うと、サーバーで定義された関数をクライアントで直接呼び出すことができます。Svelte、React、Solid、Vueなどのフロントエンドと統合することができるモダンなバックエンドフレームワークです。",
+      "tagline": "Svelte、React、Solid、VueのためのモダンなRPCフレームワーク"
+    },
+    {
+      "locale": "zh",
+      "description": "Gravity允许你在客户端直接调用服务器中定义的函数。它是一个现代的后端框架，可以与你的前端如Svelte、React、Solid和Vue整合。",
+      "tagline": "一个适用于Svelte、React、Solid和Vue的现代RPC框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gravity允許你在客戶端直接調用服務器中定義的函數。它是一個現代的後端框架，可以與你的前端如Svelte、React、Solid和Vue整合。",
+      "tagline": "一個適用於Svelte、React、Solid和Vue的現代RPC框架"
+    }
+  ]
 }
