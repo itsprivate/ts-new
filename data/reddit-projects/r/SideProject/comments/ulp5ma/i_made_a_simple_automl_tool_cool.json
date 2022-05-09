@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "簡単なAutoMLツールを作ってみました。かっこいい？"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个简单的AutoML工具。酷吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個簡單的AutoML工具。酷嗎？"
+    }
+  ]
 }
