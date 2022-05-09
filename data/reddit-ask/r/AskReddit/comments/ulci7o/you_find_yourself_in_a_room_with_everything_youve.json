@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは人生で失ったものすべてがある部屋にいることに気づきます。あなたはまず何を探しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你发现自己在一个房间里，里面有你一生中所失去的一切。你首先寻找的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你發現自己在一個房間裏，裏面有你一生中所失去的一切。你首先尋找的是什麼？"
+    }
+  ]
 }
