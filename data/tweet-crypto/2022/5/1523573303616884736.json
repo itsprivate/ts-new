@@ -52,5 +52,22 @@
     },
     "retweet_count": 96399,
     "favorite_count": 843823
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @elonmusk: もし私が謎の死を遂げたら、知り合いになれてよかったと思う。",
+      "retweeted_status_full_text": "もし俺が謎の死を遂げたら、お前と知り合えてよかったよ。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @elonmusk: 如果我在神秘的情况下死去，很高兴认识你。",
+      "retweeted_status_full_text": "如果我在神秘的情况下死去，很高兴认识你。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @elonmusk: 如果我在神祕的情況下死去，很高興認識你。",
+      "retweeted_status_full_text": "如果我在神祕的情況下死去，很高興認識你。"
+    }
+  ]
 }
