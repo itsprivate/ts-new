@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたもレジェンドになってくださいね。"
+    },
+    {
+      "locale": "zh",
+      "title": "我希望你也能成为一个传奇人物!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我希望你也能成爲一個傳奇人物!"
+    }
+  ]
 }

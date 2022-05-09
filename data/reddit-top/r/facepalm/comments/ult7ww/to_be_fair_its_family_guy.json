@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "公平に見て、ファミリーガイです。"
+    },
+    {
+      "locale": "zh",
+      "title": "公平地说，它是家庭式的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "公平地說，它是家庭式的。"
+    }
+  ]
 }
