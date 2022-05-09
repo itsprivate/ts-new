@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-09T07:08:02Z"
+  "original_createdAt": "2022-05-09T07:08:02Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Link Whisper バージョン 2.0 は、Google での上位表示を支援する内部リンクのプロセスを高速化する WordPress プラグインです。スマートなリンク提案、詳細なレポート、そしてサイト全体のリンク構造を素早くコントロールすることができます。",
+      "tagline": "スマートな内部リンクの構築がより簡単に"
+    },
+    {
+      "locale": "zh",
+      "description": "Link Whisper 2.0版是一个WordPress插件，它可以加快内部链接的进程，可以帮助你在谷歌中获得更好的排名。获得智能链接建议，深入报告，并迅速控制整个网站的链接结构。",
+      "tagline": "建立聪明的内部链接变得更容易了"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Link Whisper 2.0版是一個WordPress插件，它可以加快內部鏈接的進程，可以幫助你在谷歌中獲得更好的排名。獲得智能鏈接建議，深入報告，並迅速控制整個網站的鏈接結構。",
+      "tagline": "建立聰明的內部鏈接變得更容易了"
+    }
+  ]
 }

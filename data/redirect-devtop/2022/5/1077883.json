@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-06T23:10:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bgK23ch5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0gluacpux2f9mvo617w.png",
   "author": "Nitya Narasimhan",
-  "author_url": "https://dev.to/nitya"
+  "author_url": "https://dev.to/nitya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今こそ@AzureStaticAppsのセキュリティを確保する時です! 30DaysOfSWA では、@KarmarkarMitali と一緒に、認証とロールベースの認可を探求しましょう。",
+      "title": "#05: 静的なWebアプリケーションの保護"
+    },
+    {
+      "locale": "zh",
+      "description": "是时候保护我们的@AzureStaticApps了! 加入@KarmarkarMitali并在#30DaysOfSWA中探索认证和基于角色的授权 ",
+      "title": "#05：确保静态网络应用的安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是時候保護我們的@AzureStaticApps了! 加入@KarmarkarMitali並在#30DaysOfSWA中探索認證和基於角色的授權 ",
+      "title": "#05：確保靜態網絡應用的安全"
+    }
+  ]
 }
