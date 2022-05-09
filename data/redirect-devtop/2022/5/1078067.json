@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-07T05:37:15Z",
   "image": "https://dev.to/social_previews/article/1078067.png",
   "author": "Blogger and Programmer",
-  "author_url": "https://dev.to/freebeliever"
+  "author_url": "https://dev.to/freebeliever",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんなコードを書けと誰かに言われたことはありませんか？ something{ width: 100px; height: 100px; } ...",
+      "title": "CSSでピクセル(px)を使ってはいけない理由"
+    },
+    {
+      "locale": "zh",
+      "description": "有没有人告诉过你要这样编码？ something{ width: 100px; height: 100px; } ...",
+      "title": "为什么不应该在CSS中使用像素(px)？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有沒有人告訴過你要這樣編碼？ something{ width: 100px; height: 100px; } ...",
+      "title": "爲什麼不應該在CSS中使用像素(px)？"
+    }
+  ]
 }

@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-06T17:42:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dXwXyq0I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9sbnvyv22dhhuq83lnvk.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwrite Hackathon on DEVの最終週末です。参加するチャンスをお見逃しなく",
+      "title": "Appwrite Hackathon on DEVの最終週!"
+    },
+    {
+      "locale": "zh",
+      "description": "这是DEV上的Appwrite黑客马拉松的最后一个周末。不要错过你的参与机会!",
+      "title": "Appwrite黑客马拉松的最后一个周末在DEV!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是DEV上的Appwrite黑客馬拉松的最後一個週末。不要錯過你的參與機會!",
+      "title": "Appwrite黑客馬拉松的最後一個週末在DEV!"
+    }
+  ]
 }
