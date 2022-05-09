@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちが一緒にいることを忘れないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "请记住我们是在一起的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請記住我們是在一起的。"
+    }
+  ]
 }
