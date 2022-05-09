@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今のビットコインに関するセンチメント。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在对比特币的情绪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在對比特幣的情緒。"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Lyricle──単語帳的な歌詞のゲーム"
+    },
+    {
+      "locale": "zh",
+      "title": "Lyricle - 一个类似文字游戏的歌词游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Lyricle - 一個類似文字遊戲的歌詞遊戲"
+    }
+  ]
 }
