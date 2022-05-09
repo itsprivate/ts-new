@@ -74,5 +74,22 @@
     "retweet_count": 345,
     "favorite_count": 949,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DaxxTrader: LunaがBTCのリザーブウォレットを空にしてしまった...。14億円か...。\n\nhttps://t.co/tXyglC5VOj",
+      "retweeted_status_full_text": "LunaがBTCのリザーブウォレットを空にした...。14億円... \n\nhttps://t.co/tXyglC5VOj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DaxxTrader: Luna刚刚清空了他们的BTC储备钱包... 14亿... \n\nhttps://t.co/tXyglC5VOj",
+      "retweeted_status_full_text": "Luna刚刚清空了他们的BTC储备钱包... 14亿... \n\nhttps://t.co/tXyglC5VOj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DaxxTrader: Luna剛剛清空了他們的BTC儲備錢包... 14億... \n\nhttps://t.co/tXyglC5VOj",
+      "retweeted_status_full_text": "Luna剛剛清空了他們的BTC儲備錢包... 14億... \n\nhttps://t.co/tXyglC5VOj"
+    }
+  ]
 }
