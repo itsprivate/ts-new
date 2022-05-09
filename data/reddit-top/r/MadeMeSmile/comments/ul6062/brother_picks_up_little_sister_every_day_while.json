@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "兄は妹を毎日迎えに行き、妹を困らせながら2000年代初頭のヒット曲をぶつける。"
+    },
+    {
+      "locale": "zh",
+      "title": "哥哥每天接小妹妹，同时通过碰撞21世纪初的热门歌曲让她感到尴尬。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哥哥每天接小妹妹，同時通過碰撞21世紀初的熱門歌曲讓她感到尷尬。"
+    }
+  ]
 }
