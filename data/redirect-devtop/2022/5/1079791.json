@@ -41,5 +41,22 @@
   "original_created_at": "2022-05-09T10:07:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ckcnapuX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfezhi1p7m0zmffngjgy.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AppSeedを使ってシンプルなFlask Dashboardをすぐに生成 - ソースコードはGithubからダウンロードできます(MIT License)。",
+      "title": "App Generator - AppSeedを使ってシンプルなDashboardをコーディングする。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用AppSeed在短时间内生成一个简单的Flask仪表盘 - 源代码可从Github下载（MIT许可）。",
+      "title": "应用程序生成器 - 使用AppSeed编码一个简单的仪表板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用AppSeed在短時間內生成一個簡單的Flask儀表盤 - 源代碼可從Github下載（MIT許可）。",
+      "title": "應用程序生成器 - 使用AppSeed編碼一個簡單的儀表板"
+    }
+  ]
 }
