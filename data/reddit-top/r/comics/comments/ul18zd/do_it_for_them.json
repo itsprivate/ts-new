@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らのために行う"
+    },
+    {
+      "locale": "zh",
+      "title": "为他们做这件事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲他們做這件事"
+    }
+  ]
 }
