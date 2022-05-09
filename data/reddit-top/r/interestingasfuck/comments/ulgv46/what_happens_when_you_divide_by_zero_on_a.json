@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "機械式計算機でゼロで割るとどうなるか"
+    },
+    {
+      "locale": "zh",
+      "title": "在机械计算器上除以零会发生什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在機械計算器上除以零會發生什麼？"
+    }
+  ]
 }
