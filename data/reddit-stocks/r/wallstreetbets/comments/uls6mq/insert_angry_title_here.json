@@ -154,5 +154,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1652105590,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここに怒りのタイトルを挿入してください"
+    },
+    {
+      "locale": "zh",
+      "title": "在此插入愤怒的标题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在此插入憤怒的標題"
+    }
+  ]
 }
