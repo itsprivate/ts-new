@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-03T21:47:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bxwU_gK7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovhpgobsaov27krdoyrf.png",
   "author": "Grant",
-  "author_url": "https://dev.to/gweaths"
+  "author_url": "https://dev.to/gweaths",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜコードレビューを行うのか？  コードレビューとは、その名の通り、コードに書かれていることをレビューすることです。それは、...",
+      "title": "良いコードレビューとは何かについての私の意見。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们为什么要做代码审查？  代码审查就像它在罐子上写的那样。它是一种 \"以人为本 \"的方法。",
+      "title": "我对什么是好的代码审查的看法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們爲什麼要做代碼審查？  代碼審查就像它在罐子上寫的那樣。它是一種 \"以人爲本 \"的方法。",
+      "title": "我對什麼是好的代碼審查的看法。"
+    }
+  ]
 }
