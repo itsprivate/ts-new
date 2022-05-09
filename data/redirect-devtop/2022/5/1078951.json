@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-08T10:11:09Z",
   "image": "https://dev.to/social_previews/article/1078951.png",
   "author": "Bishwas Bhandari",
-  "author_url": "https://dev.to/developerbishwas"
+  "author_url": "https://dev.to/developerbishwas",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "半年前はReact JSが長くて嫌いで、「Reactは最悪」みたいな感じだったんですけど、急に......。",
+      "title": "React JSは嫌いでしたが、最近はこれなしでは生きていけない...。"
+    },
+    {
+      "locale": "zh",
+      "description": "六个月前，我讨厌React JS，因为它太冗长了，我当时想，\"React是最糟糕的\"，但突然...",
+      "title": "我讨厌React JS，但现在我已经离不开它了..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "六個月前，我討厭React JS，因爲它太冗長了，我當時想，\"React是最糟糕的\"，但突然...",
+      "title": "我討厭React JS，但現在我已經離不開它了..."
+    }
+  ]
 }
