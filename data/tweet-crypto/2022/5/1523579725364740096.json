@@ -52,5 +52,22 @@
     },
     "retweet_count": 4759,
     "favorite_count": 19048
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @NickAllen: ビットコインは1回2.70ドルまで下落。あの騒動で買わなくてよかった。",
+      "retweeted_status_full_text": "ビットコインは1枚2.70ドルまで下がりました。あの騒動で買わなくてよかった。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @NickAllen: 比特币跌至2.7美元一个。很高兴我没有买入那场混乱。",
+      "retweeted_status_full_text": "比特币跌至2.7美元一个。很高兴我没有买入那场混乱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @NickAllen: 比特幣跌至2.7美元一個。很高興我沒有買入那場混亂。",
+      "retweeted_status_full_text": "比特幣跌至2.7美元一個。很高興我沒有買入那場混亂。"
+    }
+  ]
 }

@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もが持っているこの友達..."
+    },
+    {
+      "locale": "zh",
+      "title": "每个人都有这样的朋友..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人都有這樣的朋友..."
+    }
+  ]
 }
