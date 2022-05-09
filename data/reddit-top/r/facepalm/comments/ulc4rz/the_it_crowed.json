@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ITが騒いだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "IT界人士纷纷表示。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "IT界人士紛紛表示。"
+    }
+  ]
 }
