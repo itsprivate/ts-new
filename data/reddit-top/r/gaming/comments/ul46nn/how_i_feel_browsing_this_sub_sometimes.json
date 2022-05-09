@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このサブを閲覧していると、時々感じること。"
+    },
+    {
+      "locale": "zh",
+      "title": "我有时浏览这个子的感觉如何。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我有時瀏覽這個子的感覺如何。"
+    }
+  ]
 }
