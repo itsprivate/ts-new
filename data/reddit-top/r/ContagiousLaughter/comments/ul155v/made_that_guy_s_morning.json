@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あの人の朝を飾った..."
+    },
+    {
+      "locale": "zh",
+      "title": "让那个家伙的早晨..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓那個傢伙的早晨..."
+    }
+  ]
 }
