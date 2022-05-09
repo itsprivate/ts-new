@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッカーが詐欺師を実名で呼び出す"
+    },
+    {
+      "locale": "zh",
+      "title": "黑客用真名称呼骗子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑客用真名稱呼騙子"
+    }
+  ]
 }
