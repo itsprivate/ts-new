@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は、みんなに最高のインスピレーションを与えてくれる"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人是对每个人最好的激励"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人是對每個人最好的激勵"
+    }
+  ]
 }

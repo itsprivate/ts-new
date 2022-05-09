@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-08T17:49:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EU1fvvk5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.pexels.com/photos/159872/book-open-pages-literature-159872.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1260%26h%3D750%26dpr%3D1",
   "author": "Mahmoud Harmouch",
-  "author_url": "https://dev.to/wiseai"
+  "author_url": "https://dev.to/wiseai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Pixabay この記事では、優れたソフトウェアになるために必要なスキルについて説明します...",
+      "title": "ソフトウェア工学の究極のガイド。"
+    },
+    {
+      "locale": "zh",
+      "description": "图片来源：Pixabay 本文将讨论成为一名优秀软件工程师所需的技能。",
+      "title": "软件工程终极指南》。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "圖片來源：Pixabay 本文將討論成爲一名優秀軟件工程師所需的技能。",
+      "title": "軟件工程終極指南》。"
+    }
+  ]
 }
