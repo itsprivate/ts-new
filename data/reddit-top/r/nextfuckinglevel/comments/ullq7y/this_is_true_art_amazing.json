@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これこそ真の芸術だ。驚き"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是真正的艺术。惊人的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是真正的藝術。驚人的"
+    }
+  ]
 }
