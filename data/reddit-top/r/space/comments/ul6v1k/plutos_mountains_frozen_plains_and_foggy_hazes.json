@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "冥王星の山、氷の平原、霧の霞 - NASAニュー・ホライズンズ宇宙探査機から"
+    },
+    {
+      "locale": "zh",
+      "title": "冥王星的山脉、冰冻平原和雾霾--来自美国宇航局的新视野号太空探测器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "冥王星的山脈、冰凍平原和霧霾--來自美國宇航局的新視野號太空探測器"
+    }
+  ]
 }
