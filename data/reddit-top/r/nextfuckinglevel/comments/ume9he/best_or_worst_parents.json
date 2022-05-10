@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベストペアレンツ、ワーストペアレンツ？"
+    },
+    {
+      "locale": "zh",
+      "title": "最佳或最差的父母？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最佳或最差的父母？"
+    }
+  ]
 }
