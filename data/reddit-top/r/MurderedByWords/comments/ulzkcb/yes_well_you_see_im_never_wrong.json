@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そうですね、ほら、私は決して間違ってはいませんから"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，你看，我从来没有错过"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，你看，我從來沒有錯過"
+    }
+  ]
 }
