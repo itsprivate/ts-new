@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "全員集合"
+    },
+    {
+      "locale": "zh",
+      "title": "他们都出现了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們都出現了"
+    }
+  ]
 }
