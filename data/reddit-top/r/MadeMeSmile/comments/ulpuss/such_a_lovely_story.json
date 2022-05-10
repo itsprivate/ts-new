@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんな素敵な物語"
+    },
+    {
+      "locale": "zh",
+      "title": "这样一个可爱的故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這樣一個可愛的故事"
+    }
+  ]
 }
