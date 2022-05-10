@@ -44,5 +44,22 @@
   "original_created_at": "2022-05-10T12:50:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V1LABZkj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4iwkfnezfvo4yid7d47.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "水和とは、ウェブデバイスの用語で、サーバーサイドでレンダリングされた要素に、後で水和処理を施すこと。",
+      "title": "水分補給を忘れずに"
+    },
+    {
+      "locale": "zh",
+      "description": "水合是webdev中的一个术语，与服务器端渲染的元素有关，这些元素后来被注入了...",
+      "title": "记得补水"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "水合是webdev中的一個術語，與服務器端渲染的元素有關，這些元素後來被注入了...",
+      "title": "記得補水"
+    }
+  ]
 }
