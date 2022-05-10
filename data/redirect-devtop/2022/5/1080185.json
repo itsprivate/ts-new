@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-09T17:22:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ajd0SXZG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cs3jmr3c750mqvtsi0k.png",
   "author": "logamill",
-  "author_url": "https://dev.to/logamill"
+  "author_url": "https://dev.to/logamill",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この3週間でjavascript、HTML、CSSの「裏技」を学び、...",
+      "title": "Reactを使った体験談"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的三周里，我花时间学习了javascript、HTML和CSS的 \"来龙去脉\"。",
+      "title": "我对React的体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的三週裏，我花時間學習了javascript、HTML和CSS的 \"來龍去脈\"。",
+      "title": "我對React的體驗"
+    }
+  ]
 }
