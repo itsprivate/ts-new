@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインを取引所や貸出プラットフォームに預けないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "让你的比特币远离交易所和借贷平台!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓你的比特幣遠離交易所和借貸平臺!"
+    }
+  ]
 }
