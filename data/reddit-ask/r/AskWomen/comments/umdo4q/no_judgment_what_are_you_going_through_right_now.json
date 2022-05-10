@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Noジャッジメント・・・あなたは今、どんな状況ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "没有评判......你现在正经历着什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有評判......你現在正經歷着什麼？"
+    }
+  ]
 }
