@@ -52,5 +52,22 @@
   "original_created_at": "2022-02-04T11:31:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bhk_5ShP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kj1lm3qjbgq0a1dn6di6.png",
   "author": "Luke Shiru",
-  "author_url": "https://dev.to/lukeshiru"
+  "author_url": "https://dev.to/lukeshiru",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactとTypeScriptを何年も使っていると、コンポーネントのパターンをたくさん見てきました。",
+      "title": "ペアフックパターン"
+    },
+    {
+      "locale": "zh",
+      "description": "经过多年与React和TypeScript的合作，我已经看到了很多组件的模式。",
+      "title": "成对的钩子模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "經過多年與React和TypeScript的合作，我已經看到了很多組件的模式。",
+      "title": "成對的鉤子模式"
+    }
+  ]
 }
