@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この女性は、困っている人たちが \"サイクルを断ち切る \"ことができるように、家の中をきれいにする手助けをしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位女士帮助有需要的人打扫房子，以便他们能够 \"打破循环\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位女士幫助有需要的人打掃房子，以便他們能夠 \"打破循環\""
+    }
+  ]
 }
