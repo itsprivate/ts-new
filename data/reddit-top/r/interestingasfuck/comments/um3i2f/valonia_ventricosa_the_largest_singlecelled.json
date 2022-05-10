@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球最大の単細胞生物「ヴァロニア・ヴェントリコサ」。そう、これは単細胞生物なのです"
+    },
+    {
+      "locale": "zh",
+      "title": "地球上最大的单细胞生物--Valonia Ventricosa。是的，这是一个单细胞生物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地球上最大的單細胞生物--Valonia Ventricosa。是的，這是一個單細胞生物"
+    }
+  ]
 }
