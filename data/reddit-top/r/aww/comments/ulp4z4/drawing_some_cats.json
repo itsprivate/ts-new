@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫を描く"
+    },
+    {
+      "locale": "zh",
+      "title": "画一些猫咪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "畫一些貓咪"
+    }
+  ]
 }
