@@ -44,5 +44,22 @@
   "original_created_at": "2022-05-09T08:25:03Z",
   "image": "https://dev.to/social_previews/article/1079668.png",
   "author": "Jan Küster",
-  "author_url": "https://dev.to/jankapunkt"
+  "author_url": "https://dev.to/jankapunkt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例えば、高度に訓練されたAIがスーパーコーディング能力を持ち、アプリを書くように訓練されていると想像してください...",
+      "title": "コミットメッセージを読むだけで、アプリが再構築されたらどうでしょう？"
+    },
+    {
+      "locale": "zh",
+      "description": "试想一下，一个受过高度训练的人工智能拥有超强的编码能力，被训练来编写一个应用程序，只是从...",
+      "title": "如果你的应用程序被重建，只是从阅读提交信息中得到的怎么办？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "試想一下，一個受過高度訓練的人工智能擁有超強的編碼能力，被訓練來編寫一個應用程序，只是從...",
+      "title": "如果你的應用程序被重建，只是從閱讀提交信息中得到的怎麼辦？"
+    }
+  ]
 }
