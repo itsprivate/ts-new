@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Spring Curve Editor for macOS、CSSキーフレームエクスポート機能付き"
+    },
+    {
+      "locale": "zh",
+      "title": "适用于macOS的Spring曲线编辑器(含CSS关键帧输出)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "適用於macOS的Spring曲線編輯器(含CSS關鍵幀輸出)"
+    }
+  ]
 }
