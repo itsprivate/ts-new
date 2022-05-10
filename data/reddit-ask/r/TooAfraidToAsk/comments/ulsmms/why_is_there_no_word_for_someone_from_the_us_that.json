@@ -12,5 +12,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "In Spanish they are called \"Estadounidenses\", which refers to the country itself\nnot the continent"
+  "the_new_excerpt": "In Spanish they are called \"Estadounidenses\", which refers to the country itself\nnot the continent",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "スペイン語では「Estadounidenses」と言いますが、これは大陸ではなく国そのものを指しています。\n大陸ではなく、国そのものを指しています。",
+      "title": "なぜ、アメリカから来た人を「アメリカ人」ではない、と言う言葉がないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么没有一个词形容来自美国的人不是 \"美国人\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "スペイン語では「Estadounidenses」と言いますが、これは大陸ではなく國そのものを指しています。\n大陸ではなく、國そのものを指しています。",
+      "title": "爲什麼沒有一個詞形容來自美國的人不是 \"美國人\"？"
+    }
+  ]
 }
