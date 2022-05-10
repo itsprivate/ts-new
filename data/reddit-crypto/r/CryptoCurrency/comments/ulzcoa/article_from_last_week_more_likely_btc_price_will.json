@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "先週の記事 \"ビットコインが30Kドルの安値を更新する前に、BTC価格が100Kドルに達する可能性が高い、との予測\"。今日のBTC価格。30K."
+    },
+    {
+      "locale": "zh",
+      "title": "上周的文章。\"预测说，在比特币扫荡30K低点之前，BTC价格更有可能达到10万美金\"。今天的BTC价格。30K."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "上週的文章。\"預測說，在比特幣掃蕩30K低點之前，BTC價格更有可能達到10萬美金\"。今天的BTC價格。30K."
+    }
+  ]
 }
