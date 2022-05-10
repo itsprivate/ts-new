@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私の心を揺さぶりました"
+    },
+    {
+      "locale": "zh",
+      "title": "这让我大吃一惊"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這讓我大喫一驚"
+    }
+  ]
 }
