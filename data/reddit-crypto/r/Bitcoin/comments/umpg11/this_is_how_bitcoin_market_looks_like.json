@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン市場はこうなっている"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是比特币市场的模样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是比特幣市場的模樣"
+    }
+  ]
 }
