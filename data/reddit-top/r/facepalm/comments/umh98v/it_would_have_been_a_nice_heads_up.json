@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは良い警告だったでしょう"
+    },
+    {
+      "locale": "zh",
+      "title": "这将是一个很好的提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這將是一個很好的提示"
+    }
+  ]
 }
