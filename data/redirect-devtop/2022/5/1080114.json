@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-09T14:39:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DS3G6_cy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pft5u2pj5tj04d24cnk6.png",
   "author": "Code Courses",
-  "author_url": "https://dev.to/codecoursessite"
+  "author_url": "https://dev.to/codecoursessite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "その他の無料かつ詳細なコースは、HTTPS://CODECOURSES.SITEをご覧ください 表...",
+      "title": "Reactでローディングコンポーネントを作る方法【DETAIL COURSE】(英語)"
+    },
+    {
+      "locale": "zh",
+      "description": "更多免费和详细的课程，请访问HTTPS://CODECOURSES.SITE 表...",
+      "title": "如何在React中构建加载组件 [详细课程]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "更多免費和詳細的課程，請訪問HTTPS://CODECOURSES.SITE 表...",
+      "title": "如何在React中構建加載組件 [詳細課程]"
+    }
+  ]
 }
