@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-08T23:31:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--74gtudrG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m0aaj8gcatuk0m5je6lu.jpg",
   "author": "Bruno Noriller",
-  "author_url": "https://dev.to/noriller"
+  "author_url": "https://dev.to/noriller",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "foo、bar、bazはみんな知っている。しかし、実際にプレースホルダー名が必要な人を見ると......。",
+      "title": "プレースホルダーネームは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都知道foo、bar和baz。但是，当我看到人们真正需要一个占位符的名字，为一个...",
+      "title": "你的占位名称是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都知道foo、bar和baz。但是，當我看到人們真正需要一個佔位符的名字，爲一個...",
+      "title": "你的佔位名稱是什麼？"
+    }
+  ]
 }
