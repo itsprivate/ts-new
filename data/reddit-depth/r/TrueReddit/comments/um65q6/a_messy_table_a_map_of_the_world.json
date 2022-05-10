@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "雑然としたテーブル、世界地図"
+    },
+    {
+      "locale": "zh",
+      "title": "混乱的桌子，世界的地图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "混亂的桌子，世界的地圖"
+    }
+  ]
 }
