@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そこで、ミツバチたちが窓とシャッターの間に巣を作ることにしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "于是一些蜜蜂决定在窗户和百叶窗之间做一个蜂巢。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "於是一些蜜蜂決定在窗戶和百葉窗之間做一個蜂巢。"
+    }
+  ]
 }
