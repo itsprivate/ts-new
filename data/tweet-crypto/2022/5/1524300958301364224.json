@@ -166,5 +166,22 @@
     "retweet_count": 184,
     "favorite_count": 1266,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @WhalePanda: #Bitcoin hit $10K ( $UST ) https://t.co/OehgFp3sfS",
+      "retweeted_status_full_text": "#Bitcoin hit $10K ( $UST ) https://t.co/OehgFp3sfS"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @WhalePanda: #Bitcoin hit $100K ( $UST) https://t.co/OehgFp3sfS",
+      "retweeted_status_full_text": "#比特币冲击10万美元 ( $UST) https://t.co/OehgFp3sfS"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @WhalePanda: #Bitcoin hit $100K ( $UST) https://t.co/OehgFp3sfS",
+      "retweeted_status_full_text": "#比特幣衝擊10萬美元 ( $UST) https://t.co/OehgFp3sfS"
+    }
+  ]
 }
