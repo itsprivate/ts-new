@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-11T07:01:00Z"
+  "original_createdAt": "2022-05-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべての仕事上のコミュニケーションを1つのツールでキャプチャ、フィルタリング、アクションすることができます。メールだけでなく、Slack、Notion、GitHub、Figma、Jira、Linearなど、さまざまなツールでInbox Zeroを想像してください。中断が少なくなり、FOMOが減り、より深い仕事のための時間が増えます。",
+      "tagline": "すべてのワークツールが集約されたインボックス"
+    },
+    {
+      "locale": "zh",
+      "description": "从一个单一的工具中捕捉、过滤和操作你所有的工作通信。想象一下，Inbox Zero不仅适用于电子邮件，还适用于Slack、Notion、GitHub、Figma、Jira、Linear等。更少的干扰，更少的FOMO，更多的时间用于深度工作。",
+      "tagline": "你所有工作工具的中央收件箱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從一個單一的工具中捕捉、過濾和操作你所有的工作通信。想象一下，Inbox Zero不僅適用於電子郵件，還適用於Slack、Notion、GitHub、Figma、Jira、Linear等。更少的干擾，更少的FOMO，更多的時間用於深度工作。",
+      "tagline": "你所有工作工具的中央收件箱"
+    }
+  ]
 }
