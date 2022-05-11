@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "I'm Colorblind. 友人が送ってくれたものです 私は普通のテストだと思い 9歳の従兄弟に何と書いてあるか尋ねました すると彼は私に怒りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我是色盲。我的朋友给我发了这个，我以为这是一个正常的测试，所以我问我9岁的表弟它说什么，对此他对我很不满。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是色盲。我的朋友給我發了這個，我以爲這是一個正常的測試，所以我問我9歲的表弟它說什麼，對此他對我很不滿。"
+    }
+  ]
 }
