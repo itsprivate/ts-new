@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-08T23:43:06Z",
   "image": "https://dev.to/social_previews/article/1079445.png",
   "author": "Josh Cole",
-  "author_url": "https://dev.to/saikojosh"
+  "author_url": "https://dev.to/saikojosh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TL;DR 環境変数は必ずしも期待通りにはならず、いちいち確認するのは骨が折れます。",
+      "title": "環境変数の使い方が間違っている - Node.jsの視点"
+    },
+    {
+      "locale": "zh",
+      "description": "TL;DR 环境变量并不总是你所期望的那样，而且检查每一个环境变量是很痛苦的。",
+      "title": "你对环境变量的处理是错误的--从Node.js的角度来看"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TL;DR 環境變量並不總是你所期望的那樣，而且檢查每一個環境變量是很痛苦的。",
+      "title": "你對環境變量的處理是錯誤的--從Node.js的角度來看"
+    }
+  ]
 }
