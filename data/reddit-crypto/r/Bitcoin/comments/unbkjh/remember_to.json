@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "忘れないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "记得要。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "記得要。"
+    }
+  ]
 }
