@@ -73,5 +73,22 @@
     },
     "retweet_count": 293,
     "favorite_count": 2747
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @adam3us: @stablekwon どうやら私が正しかったようです...。",
+      "retweeted_status_full_text": "@stablekwon どうやら私が正しかったようです...。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @adam3us: @stablekwon 显然我是对的...。",
+      "retweeted_status_full_text": "显然我是对的......。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @adam3us: @stablekwon 顯然我是對的...。",
+      "retweeted_status_full_text": "顯然我是對的......。"
+    }
+  ]
 }
