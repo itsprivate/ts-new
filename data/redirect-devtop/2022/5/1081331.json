@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-10T17:51:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VpJus5Iz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qfdmafsgdnygps1pruc.png",
   "author": "IsraelMitolu",
-  "author_url": "https://dev.to/israelmitolu"
+  "author_url": "https://dev.to/israelmitolu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactでアニメーションを作成するためのさまざまなオプションについて紹介し、その過程で...",
+      "title": "Reactでアニメーションをする（その方法はたくさんある！）。"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章向你介绍了在React中创建动画的不同选项，在这个过程中...",
+      "title": "在React中制作动画（多种方法！）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章向你介紹了在React中創建動畫的不同選項，在這個過程中...",
+      "title": "在React中製作動畫（多種方法！）。"
+    }
+  ]
 }
