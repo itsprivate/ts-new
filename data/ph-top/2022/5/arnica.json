@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-11T07:03:44Z"
+  "original_createdAt": "2022-05-11T07:03:44Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアサプライチェーン攻撃でセキュリティコミュニティが不意を突かれた。Arnicaは、GitHub & Azure DevOpsを皮切りに、2つの主要な根本原因に対処します。1) 🪄 開発者ツールへの過剰なアクセス権 2) 🥸 異常動作の検出の欠落",
+      "tagline": "行動ベースのソフトウェアサプライチェーンセキュリティ"
+    },
+    {
+      "locale": "zh",
+      "description": "软件供应链攻击让安全界措手不及。Arnica从GitHub和Azure DevOps开始，解决了两个主要的根本原因。1）🪄对开发者工具的过度权限 2）🥸缺乏异常行为检测",
+      "tagline": "基于行为的软件供应链安全"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "軟件供應鏈攻擊讓安全界措手不及。Arnica從GitHub和Azure DevOps開始，解決了兩個主要的根本原因。1）🪄對開發者工具的過度權限 2）🥸缺乏異常行爲檢測",
+      "tagline": "基於行爲的軟件供應鏈安全"
+    }
+  ]
 }
