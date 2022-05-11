@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人工知能でハイクオリティな作品を生み出す「Artificial Artist」。"
+    },
+    {
+      "locale": "zh",
+      "title": "人工艺术家 - 利用人工智能创造高质量的艺术作品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人工藝術家 - 利用人工智能創造高質量的藝術作品"
+    }
+  ]
 }

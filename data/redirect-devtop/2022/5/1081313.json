@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-10T17:05:31Z",
   "image": "https://dev.to/social_previews/article/1081313.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactの「key」属性は、おそらくReactで最も「自動操縦」的に使われる機能の1つです😅 私たちの中で誰が...",
+      "title": "Reactのキー属性: パフォーマンスの高いリストのためのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "React的 \"key \"属性可能是React中使用最多的 \"自动驾驶 \"功能之一😅我们中谁...",
+      "title": "React关键属性：高性能列表的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React的 \"key \"屬性可能是React中使用最多的 \"自動駕駛 \"功能之一😅我們中誰...",
+      "title": "React關鍵屬性：高性能列表的最佳實踐"
+    }
+  ]
 }
