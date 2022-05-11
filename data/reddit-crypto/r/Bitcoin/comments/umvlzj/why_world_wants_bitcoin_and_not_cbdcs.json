@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界がCBDCではなくBitcoinを求める理由"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么世界需要比特币而不是CBDC？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼世界需要比特幣而不是CBDC？"
+    }
+  ]
 }
