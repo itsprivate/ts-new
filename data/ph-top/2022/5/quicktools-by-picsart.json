@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-11T07:00:00Z"
+  "original_createdAt": "2022-05-11T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Picsartは、世界最高水準の編集ツールの一部を初めて無償で提供します。画像の透明背景作成、動画のトリミング、ファイルタイプの変換など、すべてQuicktoolsで行うことができます。",
+      "tagline": "写真、ビデオ、ドキュメント、デザインツールの無料スイート。"
+    },
+    {
+      "locale": "zh",
+      "description": "有史以来第一次，Picsart将其一些世界级的编辑工具免费提供。为图像创建透明背景、修剪视频和转换文件类型--用Quicktools做到这一切。",
+      "tagline": "一个免费的照片、视频、文档和设计工具套件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有史以來第一次，Picsart將其一些世界級的編輯工具免費提供。爲圖像創建透明背景、修剪視頻和轉換文件類型--用Quicktools做到這一切。",
+      "tagline": "一個免費的照片、視頻、文檔和設計工具套件"
+    }
+  ]
 }
