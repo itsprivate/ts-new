@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "わんこはちょっと頭が良すぎる"
+    },
+    {
+      "locale": "zh",
+      "title": "狗哥有点太聪明了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狗哥有點太聰明瞭"
+    }
+  ]
 }
