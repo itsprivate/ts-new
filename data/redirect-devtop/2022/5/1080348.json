@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-09T19:48:12Z",
   "image": "https://dev.to/social_previews/article/1080348.png",
   "author": "Rubem Vasconcelos",
-  "author_url": "https://dev.to/rubemfsv"
+  "author_url": "https://dev.to/rubemfsv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンピュータシステムの利用は、社会的にますます存在感を増し、必要不可欠なものとなっています。日常から...",
+      "title": "クリーンなアーキテクチャ。コードの背後にあるコンセプト"
+    },
+    {
+      "locale": "zh",
+      "description": "计算机系统的使用在社会中变得越来越重要。从日常...",
+      "title": "清洁的建筑。代码背后的概念"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "計算機系統的使用在社會中變得越來越重要。從日常...",
+      "title": "清潔的建築。代碼背後的概念"
+    }
+  ]
 }
