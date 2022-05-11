@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "鍵でもなく、小銭でもなく。コインベースによる最新の10Qファイリングの83ページ目"
+    },
+    {
+      "locale": "zh",
+      "title": "不是你的钥匙，不是你的硬币。Coinbase最新提交的10Q文件的第83页"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是你的鑰匙，不是你的硬幣。Coinbase最新提交的10Q文件的第83頁"
+    }
+  ]
 }

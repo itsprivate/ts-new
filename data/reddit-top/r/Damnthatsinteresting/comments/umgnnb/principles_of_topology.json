@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トポロジーの原理"
+    },
+    {
+      "locale": "zh",
+      "title": "拓扑学的原理"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拓撲學的原理"
+    }
+  ]
 }
