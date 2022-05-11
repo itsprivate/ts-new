@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-11T07:01:00Z"
+  "original_createdAt": "2022-05-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Motion DevToolsは、アニメーションのデザインと開発をスピードアップさせるChrome拡張機能です。CSSやMotion Oneで作られたアニメーションを、クラシックなタイムラインインターフェースを使って検査、編集、書き出しができます。",
+      "tagline": "Webアニメーションを作成するためのDevTools拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "Motion DevTools是一个Chrome扩展，可以加速你的动画设计和开发。使用一个经典的时间线界面来检查、编辑和导出用CSS或Motion One制作的动画。",
+      "tagline": "一个用于创建网页动画的DevTools扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Motion DevTools是一個Chrome擴展，可以加速你的動畫設計和開發。使用一個經典的時間線界面來檢查、編輯和導出用CSS或Motion One製作的動畫。",
+      "tagline": "一個用於創建網頁動畫的DevTools擴展程序"
+    }
+  ]
 }

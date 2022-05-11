@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未熟者であることを証明するもの"
+    },
+    {
+      "locale": "zh",
+      "title": "证明我们仍处于早期阶段"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "證明我們仍處於早期階段"
+    }
+  ]
 }
