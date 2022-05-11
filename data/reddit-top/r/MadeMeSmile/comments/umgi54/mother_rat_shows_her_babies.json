@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子ネズミを見せる母ネズミ"
+    },
+    {
+      "locale": "zh",
+      "title": "鼠妈妈向她的孩子们展示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鼠媽媽向她的孩子們展示"
+    }
+  ]
 }
