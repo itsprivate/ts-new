@@ -63,5 +63,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-11T07:01:00Z"
+  "original_createdAt": "2022-05-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カーボンファクトは、最新の環境科学を駆使し、アパレル・フットウェア製品のカーボンフットプリントを測定・比較します。http://www.carbonfact.com/request、アイテムのリンクを送信していただければ、分析結果をメールでお送りします。",
+      "tagline": "カーボンはどれくらい？"
+    },
+    {
+      "locale": "zh",
+      "description": "Carbonfact消化了最新的环境科学，测量和比较服装和鞋类产品的碳足迹。在http://www.carbonfact.com/request，提交一个项目链接，我们将通过电子邮件向您发送我们的分析。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Carbonfact消化了最新的環境科學，測量和比較服裝和鞋類產品的碳足跡。在http://www.carbonfact.com/request，提交一個項目鏈接，我們將通過電子郵件向您發送我們的分析。",
+      "tagline": "カーボンはどれくらい？"
+    }
+  ]
 }
