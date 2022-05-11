@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "階段を下りるときにみんな頭を打つので、注意書きの看板を掲げました。"
+    },
+    {
+      "locale": "zh",
+      "title": "每个人在走下我的楼梯时都不停地撞到自己的头，所以我挂了一个牌子作为警告。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個人在走下我的樓梯時都不停地撞到自己的頭，所以我掛了一個牌子作爲警告。"
+    }
+  ]
 }

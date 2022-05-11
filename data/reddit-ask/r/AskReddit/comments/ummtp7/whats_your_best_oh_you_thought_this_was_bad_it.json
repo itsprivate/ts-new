@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「これはヤバいと思ったら、もっとヤバい」ベストストーリーを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你最好的 \"哦，你以为这很糟糕，它变得更糟 \"的故事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最好的 \"哦，你以爲這很糟糕，它變得更糟 \"的故事是什麼？"
+    }
+  ]
 }
