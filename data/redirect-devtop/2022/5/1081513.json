@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-10T20:59:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h9q47eM9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrkoiomb5cy8jm312jqe.jpeg",
   "author": "Manuel Odendahl",
-  "author_url": "https://dev.to/wesen"
+  "author_url": "https://dev.to/wesen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、コマンドラインツールは、それらが生み出すコードのインパクトを倍増させる信じられない方法だと思います。  そうですか...",
+      "title": "素晴らしいCLIアプリケーションを作るための14の素晴らしいヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "我发现命令行工具是一种令人难以置信的方式，可以使其产生的代码的影响成倍增加。  难道...",
+      "title": "制作令人惊叹的CLI应用程序的14个伟大的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我發現命令行工具是一種令人難以置信的方式，可以使其產生的代碼的影響成倍增加。  難道...",
+      "title": "製作令人驚歎的CLI應用程序的14個偉大的技巧"
+    }
+  ]
 }
