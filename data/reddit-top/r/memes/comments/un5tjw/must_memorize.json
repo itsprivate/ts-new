@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "暗記必須"
+    },
+    {
+      "locale": "zh",
+      "title": "必须背诵"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "必須背誦"
+    }
+  ]
 }
