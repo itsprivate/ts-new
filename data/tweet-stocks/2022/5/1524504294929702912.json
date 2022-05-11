@@ -118,5 +118,19 @@
   },
   "retweet_count": 123,
   "favorite_count": 408,
-  "original_created_at": "Wed May 11 21:38:42 +0000 2022"
+  "original_created_at": "Wed May 11 21:38:42 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "高値以下の%。\nイーサリアム $ETH：-59%。\nビットコイン $BTC：-60%。\nトロン $TRX: -62\nバイナンス $BNB: -63\nポリゴン $MATIC：-80%。\nアバランチ $AVAX：-82\nXRP $XRP： -82\nソラナ $SOL： -84\nライトコイン $LTC：-85\nカルダノ $ADA： -85\nポルカドット $DOT -85%\n柴犬$SHIB：-85\nドージェ $DOGE: -90%\nテラ $LUNA: -99"
+    },
+    {
+      "locale": "zh",
+      "full_text": "低于高位的百分比\n以太坊 $ETH: -59%\n比特币 $BTC: -60%\nTron $TRX: -62\nBinance $BNB: -63\nPolygon $MATIC: -80%\nAvalanche $AVAX: -82\nXRP $XRP: -82\nSolana $SOL: -84\nLitecoin $LTC: -85\nCardano $ADA: -85\nPolkadot $DOT: -85%\nShiba Inu $SHIB: -85\nDoge $DOGE: -90%\n泰拉 $LUNA: -99"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "低於高位的百分比\n以太坊 $ETH: -59%\n比特幣 $BTC: -60%\nTron $TRX: -62\nBinance $BNB: -63\nPolygon $MATIC: -80%\nAvalanche $AVAX: -82\nXRP $XRP: -82\nSolana $SOL: -84\nLitecoin $LTC: -85\nCardano $ADA: -85\nPolkadot $DOT: -85%\nShiba Inu $SHIB: -85\nDoge $DOGE: -90%\n泰拉 $LUNA: -99"
+    }
+  ]
 }
