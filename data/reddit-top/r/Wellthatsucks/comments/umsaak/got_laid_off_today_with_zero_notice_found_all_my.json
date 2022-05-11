@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日、予告なしに解雇された。職場に行くと、私の荷物はすでに箱に入っていた。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天在没有任何通知的情况下被解雇了，当我去上班时发现我所有的东西都在一个箱子里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天在沒有任何通知的情況下被解僱了，當我去上班時發現我所有的東西都在一個箱子裏。"
+    }
+  ]
 }
