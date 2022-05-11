@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2100万ビットコインをセルフカストディする場合のみ"
+    },
+    {
+      "locale": "zh",
+      "title": "2,100万个比特币，只有在你自我监护的情况下才有。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2,100萬個比特幣，只有在你自我監護的情況下才有。"
+    }
+  ]
 }
