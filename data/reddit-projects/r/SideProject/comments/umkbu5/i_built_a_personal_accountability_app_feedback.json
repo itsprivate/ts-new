@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パーソナル・アカウンタビリティ・アプリを作りました。フィードバックをお待ちしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个个人责任制应用程序。希望得到反馈!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個個人責任制應用程序。希望得到反饋!"
+    }
+  ]
 }
