@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-11T12:09:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l6dQoqAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a2qmot4u7vyjg3j93vjq.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pythonを使ったことがないとします。Pythonistの皆さんは、Pythonをどのように使えばいいのか、簡単に説明できますか？",
+      "title": "Pythonで投げる"
+    },
+    {
+      "locale": "zh",
+      "description": "比方说，我以前从未使用过Python。所有的Pythonistas都能给我介绍一下什么是Python吗？",
+      "title": "向我推荐Python"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "比方說，我以前從未使用過Python。所有的Pythonistas都能給我介紹一下什麼是Python嗎？",
+      "title": "向我推薦Python"
+    }
+  ]
 }
