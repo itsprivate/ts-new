@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GPUシェーダーでパーティクルシミュレーターを自作してみた。この結果を気に入っていただけると思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "用GPU着色器编写我自己的粒子模拟器。我想你可能会喜欢一些结果!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用GPU着色器編寫我自己的粒子模擬器。我想你可能會喜歡一些結果!"
+    }
+  ]
 }
