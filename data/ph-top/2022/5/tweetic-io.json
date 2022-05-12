@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-12T07:01:00Z"
+  "original_createdAt": "2022-05-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tweetic.ioをご紹介します。ツイートを簡単に静的HTMLに変換するツールです! 静的HTMLに変換して、お客様の声ウォールを作成できます。",
+      "tagline": "ツイートを静的なHTMLに変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍一下Tweetic.io! 用这个工具可以轻松地将推文转换为静态HTML! 以静态的方式创建你的推荐墙，并以你想要的方式设计它",
+      "tagline": "将推文转换为静态HTML"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹一下Tweetic.io! 用這個工具可以輕鬆地將推文轉換爲靜態HTML! 以靜態的方式創建你的推薦牆，並以你想要的方式設計它",
+      "tagline": "將推文轉換爲靜態HTML"
+    }
+  ]
 }
