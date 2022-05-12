@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "適合するホストボディを発見し、同化を試みる..."
+    },
+    {
+      "locale": "zh",
+      "title": "找到一个兼容的宿主身体......尝试同化......。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "找到一個兼容的宿主身體......嘗試同化......。"
+    }
+  ]
 }
