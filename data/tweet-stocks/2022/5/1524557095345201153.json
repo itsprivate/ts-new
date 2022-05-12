@@ -68,5 +68,22 @@
     },
     "retweet_count": 153,
     "favorite_count": 1903
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Mrs_Skilling: coinbase $coinのコーポレートジェット機がオマハに向かうのを追跡しました。",
+      "retweeted_status_full_text": "コインベース社製ジェット機がオマハに向かうところを追跡される"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Mrs_Skilling: 币安公司$币安公司飞机被追踪，正向奥马哈进发",
+      "retweeted_status_full_text": "币安公司$币安公司飞机被追踪，正向奥马哈进发"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Mrs_Skilling: 幣安公司$幣安公司飛機被追蹤，正向奧馬哈進發",
+      "retweeted_status_full_text": "幣安公司$幣安公司飛機被追蹤，正向奧馬哈進發"
+    }
+  ]
 }

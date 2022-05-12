@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は教師です。私の生徒がおばあさんが死んだと言いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一名教师，我的学生告诉我她的祖母去世了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一名教師，我的學生告訴我她的祖母去世了。"
+    }
+  ]
 }
