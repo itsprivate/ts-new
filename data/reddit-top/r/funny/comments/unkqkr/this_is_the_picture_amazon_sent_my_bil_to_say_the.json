@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはAmazonがBILに送ってきた写真で、荷物は \"家族に直接届けられた \"と言っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是亚马逊发给我的BIL的照片，说包裹是 \"直接送到了一个家庭成员手中\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是亞馬遜發給我的BIL的照片，說包裹是 \"直接送到了一個家庭成員手中\""
+    }
+  ]
 }
