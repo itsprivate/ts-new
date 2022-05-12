@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "紙面が早すぎたんだろう"
+    },
+    {
+      "locale": "zh",
+      "title": "估计是论文写得太快了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "估計是論文寫得太快了"
+    }
+  ]
 }
