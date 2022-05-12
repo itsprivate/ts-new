@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "lbs \"が \"pound \"の略称であることを、いささか紛らわしいと思う人はいないだろうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有人认为，\"lbs \"是 \"pound \"的简称，这有点令人困惑？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有人認爲，\"lbs \"是 \"pound \"的簡稱，這有點令人困惑？"
+    }
+  ]
 }
