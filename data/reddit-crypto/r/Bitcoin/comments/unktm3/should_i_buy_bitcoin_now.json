@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Have never tried any crypto - is now a good time to buy bitcoin? 😀"
+  "the_new_excerpt": "Have never tried any crypto - is now a good time to buy bitcoin? 😀",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "暗号を試したことがない - ビットコインを買うには今がチャンス？",
+      "title": "今、ビットコインを買うべきですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "从未尝试过任何加密货币 - 现在是购买比特币的好时机吗？ 😀",
+      "title": "我现在应该购买比特币吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "從未嘗試過任何加密貨幣 - 現在是購買比特幣的好時機嗎？ 😀",
+      "title": "我現在應該購買比特幣嗎？"
+    }
+  ]
 }
