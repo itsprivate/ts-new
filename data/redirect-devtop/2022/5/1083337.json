@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-12T12:29:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_oXN7gHO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nb076elsgmmk4xcb3ty1.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私はVSCodeTips（Foremのコミュニティで、Tipsを共有するためのもの）で、いろいろと調べていました。",
+      "title": "VS Codeユーザーの皆様への呼びかけです。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天早些时候，我在VSCodeTips（--一个致力于分享技巧的Forem社区）上胡思乱想。",
+      "title": "呼吁所有VS代码用户采取行动!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天早些時候，我在VSCodeTips（--一個致力於分享技巧的Forem社區）上胡思亂想。",
+      "title": "呼籲所有VS代碼用戶採取行動!"
+    }
+  ]
 }
