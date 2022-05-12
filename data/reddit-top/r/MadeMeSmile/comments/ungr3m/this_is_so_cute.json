@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはとてもかわいい"
+    },
+    {
+      "locale": "zh",
+      "title": "这真是太可爱了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這真是太可愛了"
+    }
+  ]
 }
