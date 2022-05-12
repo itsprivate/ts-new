@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが思いつく、とてもヘルシーで、同時にとても美味しい食べ物は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你能想到什么食物是非常健康的，同时又是非常非常美味的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你能想到什麼食物是非常健康的，同時又是非常非常美味的？"
+    }
+  ]
 }
