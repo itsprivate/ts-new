@@ -91,5 +91,22 @@
     "retweet_count": 515,
     "favorite_count": 5184,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: Twitterのプロからのアドバイス：この小さな星のボタンを押すと、すべてのツイートが時系列で表示されます...",
+      "retweeted_status_full_text": "Twitterのプロからのアドバイス：この小さな星ボタンを押すと、Twitterのアルゴによって決定された順序ではなく、すべてのツイートが時系列で表示されます！これはTwitterのユーザーエクスペリエンスを100倍向上させます。これでTwitterのユーザーエクスペリエンスが100倍向上します🔥 https://t.co/UEtNV7ymDZ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: Twitter的专业提示：按下这个小星星按钮，你会看到所有的推文按时间顺序排列，而不是按顺序排列。",
+      "retweeted_status_full_text": "Twitter的专业提示：按下这个小星星按钮，你会看到所有的推文按时间顺序排列，而不是由Twitter算法决定的顺序。这将使Twitter的用户体验提高100倍🔥 https://t.co/UEtNV7ymDZ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: Twitter的專業提示：按下這個小星星按鈕，你會看到所有的推文按時間順序排列，而不是按順序排列。",
+      "retweeted_status_full_text": "Twitter的專業提示：按下這個小星星按鈕，你會看到所有的推文按時間順序排列，而不是由Twitter算法決定的順序。這將使Twitter的用戶體驗提高100倍🔥 https://t.co/UEtNV7ymDZ"
+    }
+  ]
 }
