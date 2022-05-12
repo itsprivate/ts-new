@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はデザイナーで、オンラインコースを作成・販売するためのツールを作っています。何かご意見はありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我是一名设计师，正在建立一个创建和销售在线课程的工具。有什么想法吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我是一名設計師，正在建立一個創建和銷售在線課程的工具。有什麼想法嗎？"
+    }
+  ]
 }
