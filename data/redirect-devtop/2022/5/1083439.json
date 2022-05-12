@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-12T16:25:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IphqPcb1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nspd0080d0oomd5xta2x.png",
   "author": "Benjamin C. Baker",
-  "author_url": "https://dev.to/benjamincohen123"
+  "author_url": "https://dev.to/benjamincohen123",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マージのコンフリクトを解決するのは楽しい! - とは誰も言っていない。誰も好きじゃないけど、事実は変わらない...。",
+      "title": "Mergeのコンフリクトを事前に解決できるか？💥"
+    },
+    {
+      "locale": "zh",
+      "description": "解决合并冲突是一件很有趣的事情! - 从来没有人这样说过。没有人喜欢它们，但这并不改变一个事实...",
+      "title": "你能在合并冲突发生之前解决吗？💥"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "解決合併衝突是一件很有趣的事情! - 從來沒有人這樣說過。沒有人喜歡它們，但這並不改變一個事實...",
+      "title": "你能在合併衝突發生之前解決嗎？💥"
+    }
+  ]
 }
