@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-12T03:01:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B-oxHQDB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ewpgr7usnjs3np2wi6vl.png",
   "author": "Stanislav Ilin",
-  "author_url": "https://dev.to/frezyx"
+  "author_url": "https://dev.to/frezyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "現在、Google I/Oが開催されています。このカンファレンスでのニュースの一つは、Flutterのバージョン3.0.0をリリースしたことです...",
+      "title": "Flutter リリース 3.0.0 What's new ?"
+    },
+    {
+      "locale": "zh",
+      "description": "谷歌I/O大会现在正在举行。这次会议的消息之一是发布了Flutter 3.0.0版本...",
+      "title": "Flutter发布3.0.0版本 有什么新内容？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "谷歌I/O大會現在正在舉行。這次會議的消息之一是發佈了Flutter 3.0.0版本...",
+      "title": "Flutter發佈3.0.0版本 有什麼新內容？"
+    }
+  ]
 }
