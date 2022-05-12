@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のiPhoneはどうしていつも「ヘイSiri」に反応するのですか？文字通り、私が話す言葉をすべて聞いているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我的iPhone怎么总是对 \"嘿，Siri \"做出反应？它真的在听我说的每一句话吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的iPhone怎麼總是對 \"嘿，Siri \"做出反應？它真的在聽我說的每一句話嗎？"
+    }
+  ]
 }
