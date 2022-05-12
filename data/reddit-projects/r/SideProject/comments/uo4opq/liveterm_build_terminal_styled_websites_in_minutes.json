@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "💻 端末スタイルのウェブサイトを数分で構築!"
+    },
+    {
+      "locale": "zh",
+      "title": "💻 LiveTerm - 在几分钟内建立终端风格的网站!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "💻 LiveTerm - 在幾分鐘內建立終端風格的網站!"
+    }
+  ]
 }
