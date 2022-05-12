@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-12T07:01:00Z"
+  "original_createdAt": "2022-05-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私たちはFlutter 3を紹介します。これはFlutterがサポートするプラットフォームを充実させるための私たちの旅の集大成です。Flutter 3では、1つのコードベースから6つのプラットフォーム向けの美しいエクスペリエンスを構築することができます。",
+      "tagline": "MacOSからAndroidまで、すべてのプラットフォームでFlutterを利用できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们推出Flutter 3，这是我们填补Flutter所支持的平台的旅程的高潮。有了Flutter 3，您可以从一个代码库中为六个平台构建美丽的体验。",
+      "tagline": "从MacOS到Android的所有平台上的Flutter"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們推出Flutter 3，這是我們填補Flutter所支持的平臺的旅程的高潮。有了Flutter 3，您可以從一個代碼庫中爲六個平臺構建美麗的體驗。",
+      "tagline": "從MacOS到Android的所有平臺上的Flutter"
+    }
+  ]
 }
