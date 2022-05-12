@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1652364982,
-  "the_new_excerpt": "Buy more"
+  "the_new_excerpt": "Buy more",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もっと見る",
+      "title": "SPYを440で買ってたんだけど、ウーン、これってつまり"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "购买更多",
+      "title": "我在440点买入SPY，哦，这意味着我不得不"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "購買更多",
+      "title": "我在440點買入SPY，哦，這意味着我不得不"
+    }
+  ]
 }
