@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メイクを部分的にしかしない場合、どの部分を優先しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你只做部分化妆时，你会优先考虑哪部分？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你只做部分化妝時，你會優先考慮哪部分？"
+    }
+  ]
 }
