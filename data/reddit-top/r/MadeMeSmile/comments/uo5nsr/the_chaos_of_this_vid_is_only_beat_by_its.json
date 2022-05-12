@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このビデオのカオスは、その健全さによってのみ打ち勝つことができる。"
+    },
+    {
+      "locale": "zh",
+      "title": "这段视频的混乱程度仅次于它的健康性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這段視頻的混亂程度僅次於它的健康性"
+    }
+  ]
 }
