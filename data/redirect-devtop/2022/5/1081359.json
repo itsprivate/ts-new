@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-10T18:37:53Z",
   "image": "https://dev.to/social_previews/article/1081359.png",
   "author": "Melissa Guachun ",
-  "author_url": "https://dev.to/melguachun"
+  "author_url": "https://dev.to/melguachun",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コールバックは、私がブートキャンプで初めて紹介されたときに、実装に苦労した概念です。I...",
+      "title": "JSにおける非同期と同期のコールバック"
+    },
+    {
+      "locale": "zh",
+      "description": "回调是一个概念，当我第一次在训练营中被介绍给他们的时候，我在实施中遇到了困难。I...",
+      "title": "JS中的异步与同步回调"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "回調是一個概念，當我第一次在訓練營中被介紹給他們的時候，我在實施中遇到了困難。I...",
+      "title": "JS中的異步與同步回調"
+    }
+  ]
 }
