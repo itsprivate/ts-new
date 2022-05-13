@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "DO NOT INVEST IN FACEBOOK it is highly speculative..."
+  "the_new_excerpt": "DO NOT INVEST IN FACEBOOK it is highly speculative...",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "FACEBOOKに投資しないでください。それは非常に投機的です。",
+      "title": "それは完全に破綻している。投資対象外です。技術は時代遅れで、価格は数ヶ月で50％以上下がっています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不要投资于FACEBOOK，它是高度投机性的。",
+      "title": "它是一个彻底的失败。它是不可投资的。该技术已经过时，其价格在几个月内下降了50%以上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不要投資於FACEBOOK，它是高度投機性的。",
+      "title": "它是一個徹底的失敗。它是不可投資的。該技術已經過時，其價格在幾個月內下降了50%以上。"
+    }
+  ]
 }
