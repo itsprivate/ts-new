@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パンデミックにより、アメリカの食卓はチェーン店による寡占状態に変貌した"
+    },
+    {
+      "locale": "zh",
+      "title": "这种大流行病已经将美国的餐饮业态转变为由连锁店主导的寡头垄断。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種大流行病已經將美國的餐飲業態轉變爲由連鎖店主導的寡頭壟斷。"
+    }
+  ]
 }
