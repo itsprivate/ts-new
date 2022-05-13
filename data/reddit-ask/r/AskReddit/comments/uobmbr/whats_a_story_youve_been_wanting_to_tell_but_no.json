@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが話したいと思っているけれど、まだ誰にも聞かれていない話は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么故事是你一直想讲但还没有人问的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼故事是你一直想講但還沒有人問的？"
+    }
+  ]
 }
