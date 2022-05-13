@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツ、ビットコイン、イーサリアムがステーキングに使われていても、保有1年後に売却した場合は課税しない。"
+    },
+    {
+      "locale": "zh",
+      "title": "德国不会对持有一年后出售的比特币和以太坊征税，即使它们被用来做赌注。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德國不會對持有一年後出售的比特幣和以太坊徵稅，即使它們被用來做賭注。"
+    }
+  ]
 }
