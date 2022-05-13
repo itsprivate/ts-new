@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "尊敬されるのはいいことだ"
+    },
+    {
+      "locale": "zh",
+      "title": "被人仰望的感觉很好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "被人仰望的感覺很好"
+    }
+  ]
 }
