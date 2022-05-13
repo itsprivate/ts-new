@@ -42,5 +42,22 @@
   "original_created_at": "2022-05-12T08:35:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZnKBqm5j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8obsgdm32mefu760w142.png",
   "author": "Sneh Chauhan",
-  "author_url": "https://dev.to/sneh27"
+  "author_url": "https://dev.to/sneh27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Linuxは、誰かの趣味から本格的なマルチユーザーコンピュータへと発展してきました。",
+      "title": "Linuxの/etc/passwdファイルの理解"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 Linux已经从某人的业余爱好发展成为一个成熟的多用户...",
+      "title": "了解Linux中的/etc/passwd文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 Linux已經從某人的業餘愛好發展成爲一個成熟的多用戶...",
+      "title": "瞭解Linux中的/etc/passwd文件"
+    }
+  ]
 }
