@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-04T21:44:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J9xZXt-n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/50698jdpsg4qsgkix5kt.png",
   "author": "Charlie Gerard",
-  "author_url": "https://dev.to/devdevcharlie"
+  "author_url": "https://dev.to/devdevcharlie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stripeは、Stripeのドキュメントウェブサイトを支えるMarkdownベースのオーサリングシステムであるMarkdocをオープンソース化しています。Markdocを使い始める方法をご覧ください。",
+      "title": "Next.jsでMarkdocをはじめよう"
+    },
+    {
+      "locale": "zh",
+      "description": "Stripe正在开源Markdoc，这是一个基于Markdown的创作系统，为Stripe文档网站提供动力。了解如何开始使用它!",
+      "title": "在Next.js中开始使用Markdoc"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stripe正在開源Markdoc，這是一個基於Markdown的創作系統，爲Stripe文檔網站提供動力。瞭解如何開始使用它!",
+      "title": "在Next.js中開始使用Markdoc"
+    }
+  ]
 }
