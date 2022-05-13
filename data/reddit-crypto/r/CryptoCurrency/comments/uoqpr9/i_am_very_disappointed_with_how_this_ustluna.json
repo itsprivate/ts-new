@@ -48,5 +48,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"今回のUST/LUNAの件、テラチームの対応（あるいは対応しなかったこと）に非常に失望しています。「LUNA/UST取引ペアの上場廃止に関するCZの声明"
+    },
+    {
+      "locale": "zh",
+      "title": "\"我对泰拉团队处理（或不处理）UST/LUNA这一事件的方式感到非常失望。\"--CZ关于LUNA/UST交易对退市的声明"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我對泰拉團隊處理（或不處理）UST/LUNA這一事件的方式感到非常失望。\"--CZ關於LUNA/UST交易對退市的聲明"
+    }
+  ]
 }
