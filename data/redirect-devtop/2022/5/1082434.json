@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-11T16:26:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--25wdC8hE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/azrfd2wdd5xqe2uzj7l6.png",
   "author": "keyvan",
-  "author_url": "https://dev.to/kevinkh89"
+  "author_url": "https://dev.to/kevinkh89",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは、リアルタイムでCryptoテーブルを構築しており、レスポンシブで、各項目に関する多くの情報を表示します。",
+      "title": "React, MUI(material-ui), coinmarket cap APIを使ったリアルタイム暗号通貨情報テーブルの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "我们正在建立一个实时的加密货币表，该表反应迅速，并显示有关每个人的大量信息。",
+      "title": "用React、MUI(material-ui)和coinmarket cap API建立一个实时加密货币信息表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們正在建立一個實時的加密貨幣表，該表反應迅速，並顯示有關每個人的大量信息。",
+      "title": "用React、MUI(material-ui)和coinmarket cap API建立一個實時加密貨幣信息表"
+    }
+  ]
 }
