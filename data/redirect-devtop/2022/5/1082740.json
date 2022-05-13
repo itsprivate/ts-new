@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-12T00:32:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aKK0vJQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7y18t0vu4w7u6q6q44n.png",
   "author": "Mustafif ",
-  "author_url": "https://dev.to/mustafif"
+  "author_url": "https://dev.to/mustafif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "好きなプログラミング言語は？難易度や学習曲線、仕事など、何か特別な理由があれば教えてください。",
+      "title": "あなたの好きなラングは？"
+    },
+    {
+      "locale": "zh",
+      "description": "你最喜欢的编程语言是什么？有什么特别的原因吗，比如难度/学习曲线，工作...",
+      "title": "你最喜欢的郎中是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你最喜歡的編程語言是什麼？有什麼特別的原因嗎，比如難度/學習曲線，工作...",
+      "title": "你最喜歡的郎中是什麼？"
+    }
+  ]
 }
