@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最初は褒められていたのに、時間が経つにつれて批判されるようになったあなたの性格の特徴は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有哪些个性特征，最初被人称赞，但随着时间的推移，后来又被人批评？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有哪些個性特徵，最初被人稱讚，但隨着時間的推移，後來又被人批評？"
+    }
+  ]
 }
