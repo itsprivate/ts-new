@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-13T07:20:19Z"
+  "original_createdAt": "2022-05-13T07:20:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gmailの特定のメールにワンクリックでコメントを追加でき、メールに含まれるチームメンバーには自動的に表示されますが、組織外の人には表示されません。",
+      "tagline": "GmailにGoogle Docsのようなコメントを追加"
+    },
+    {
+      "locale": "zh",
+      "description": "只需点击一下，就可以在Gmail内为特定的电子邮件添加评论，这些评论会自动对包括在电子邮件中的你的团队成员可见，但不会对你组织以外的人可见。",
+      "tagline": "在Gmail中添加类似Google Docs的评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只需點擊一下，就可以在Gmail內爲特定的電子郵件添加評論，這些評論會自動對包括在電子郵件中的你的團隊成員可見，但不會對你組織以外的人可見。",
+      "tagline": "在Gmail中添加類似Google Docs的評論"
+    }
+  ]
 }
