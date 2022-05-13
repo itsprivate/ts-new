@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-11T22:17:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fhP_DzLs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0t3czose6ltqftw7j0g.png",
   "author": "Mostafa Said",
-  "author_url": "https://dev.to/moose_said"
+  "author_url": "https://dev.to/moose_said",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "投稿の概要 まず最初に、複雑なバックエンドは、その機能を十分に発揮できない可能性があることをお伝えします。",
+      "title": "Tailwinderの紹介 - Tailwindファンのためのホーム - Powered with Appwrite 🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "我提交的概述 我想先说一下，复杂的后端...",
+      "title": "介绍一下Tailwinder--Tailwind粉丝之家--由Appwrite提供技术支持 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我提交的概述 我想先說一下，複雜的後端...",
+      "title": "介紹一下Tailwinder--Tailwind粉絲之家--由Appwrite提供技術支持 🚀"
+    }
+  ]
 }
