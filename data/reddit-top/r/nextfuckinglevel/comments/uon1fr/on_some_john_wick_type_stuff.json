@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジョン・ウィック的なものについて"
+    },
+    {
+      "locale": "zh",
+      "title": "关于一些约翰-威克类型的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於一些約翰-威克類型的東西"
+    }
+  ]
 }
