@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Problem:\n\nAs we all know, the crypto-space is flooded by spams, scams, shills, bots etc...\nand of course, r/CryptoCurrency [/r/CryptoCurrency] is no exception. While most\nusers don't see this spam due to our bots removing it, this affects our\ngovernance token by lowering the ratio as well as the…"
+  "the_new_excerpt": "Problem:\n\nAs we all know, the crypto-space is flooded by spams, scams, shills, bots etc...\nand of course, r/CryptoCurrency [/r/CryptoCurrency] is no exception. While most\nusers don't see this spam due to our bots removing it, this affects our\ngovernance token by lowering the ratio as well as the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "問題点\n\nご存知のように、暗号空間はスパム、詐欺、詐欺師、ボットなどであふれかえっています。\nもちろん、r/CryptoCurrency [/r/CryptoCurrency] も例外ではありません。ほとんどの\nボットがスパムを削除しているため、ほとんどのユーザーはこのスパムを見ませんが、これは私たちのガバナンス・トークンに影響を及ぼします。\nガバナンストークンに影響を及ぼします。",
+      "title": "CCIP-031 - スナップショットおよび配布から 10 karma 未満の Vaultless ユーザーを削除してください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "问题。\n\n我们都知道，加密空间充斥着垃圾邮件、骗局、骗子、机器人等等。\n当然，r/CryptoCurrency [/r/CryptoCurrency] 也不例外。虽然大多数\n用户不会看到这些垃圾邮件，因为我们的机器人会将其删除，这影响了我们的\n治理令牌，因为它降低了比率以及...",
+      "title": "CCIP-031 - 从快照和分发中删除低于10 karma的无穹顶用户。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "問題。\n\n我們都知道，加密空間充斥着垃圾郵件、騙局、騙子、機器人等等。\n當然，r/CryptoCurrency [/r/CryptoCurrency] 也不例外。雖然大多數\n用戶不會看到這些垃圾郵件，因爲我們的機器人會將其刪除，這影響了我們的\n治理令牌，因爲它降低了比率以及...",
+      "title": "CCIP-031 - 從快照和分發中刪除低於10 karma的無穹頂用戶。"
+    }
+  ]
 }
