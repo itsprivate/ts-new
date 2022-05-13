@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Googleマップが捉えた墜落した（滑走路からスピンした）B-2スピリットステルス爆撃機"
+    },
+    {
+      "locale": "zh",
+      "title": "谷歌地图捕捉到一架坠毁的（从跑道上旋转下来的）B-2精神隐形轰炸机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "谷歌地圖捕捉到一架墜毀的（從跑道上旋轉下來的）B-2精神隱形轟炸機"
+    }
+  ]
 }

@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "主なゲームプレイヤー"
+    },
+    {
+      "locale": "zh",
+      "title": "主要游戏玩家"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "主要遊戲玩家"
+    }
+  ]
 }
