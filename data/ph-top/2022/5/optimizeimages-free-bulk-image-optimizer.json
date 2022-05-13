@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-13T07:01:00Z"
+  "original_createdAt": "2022-05-13T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "画像をWebP & AVIFフォーマットに変換、JPEG、PNG、SVG、GIF画像を最適化してファイルサイズを縮小、画像にウォーターマークを一括適用、ウェブサイトをクロールして画像を検索して最適化できる無料のオンライン画像変換・最適化ツールです。",
+      "tagline": "画像を最大90%まで変換・圧縮、WebPとAVIFに対応"
+    },
+    {
+      "locale": "zh",
+      "description": "一个免费的在线图像转换器和优化器，允许你将你的图像转换成WebP和AVIF格式，优化JPEG、PNG、SVG和GIF图像以减少文件大小，将水印批量应用到图像上，并抓取网站以寻找和优化其中的图像。",
+      "tagline": "转换和压缩图像达90%，支持WebP和AVIF"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個免費的在線圖像轉換器和優化器，允許你將你的圖像轉換成WebP和AVIF格式，優化JPEG、PNG、SVG和GIF圖像以減少文件大小，將水印批量應用到圖像上，並抓取網站以尋找和優化其中的圖像。",
+      "tagline": "轉換和壓縮圖像達90%，支持WebP和AVIF"
+    }
+  ]
 }
