@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-11T14:05:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TJE2smk9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ngyiyrv9akenrgcigde.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "// これは記事の始まりです フルスクリーンモードに入る フルスクリーンモードを終了する ...",
+      "title": "コメントコードについて - How（どのように）ではなく、Why（なぜ）を説明する。"
+    },
+    {
+      "locale": "zh",
+      "description": "// 这就是文章的开头 进入全屏模式 退出全屏模式 ...",
+      "title": "我对注释代码的看法 - 解释为什么，而不是如何解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "// 這就是文章的開頭 進入全屏模式 退出全屏模式 ...",
+      "title": "我對註釋代碼的看法 - 解釋爲什麼，而不是如何解釋"
+    }
+  ]
 }
