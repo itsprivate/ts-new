@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "The length of a meter is defined by the speed of light, and not the other way\naround. So where/why specifically did we divide a second by 299,792,458 segments\nand then measure the distance light traveled in a one of those segments and\ncalled it a meter? Where did 299,792,458 come from?"
+  "the_new_excerpt": "The length of a meter is defined by the speed of light, and not the other way\naround. So where/why specifically did we divide a second by 299,792,458 segments\nand then measure the distance light traveled in a one of those segments and\ncalled it a meter? Where did 299,792,458 come from?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "メートルの長さは光の速さによって定義され、その逆はありえない\nその逆ではありません。では、具体的にどこで、なぜ、1秒を299,792,458分割して\n1秒を299,792,458分割して、そのうちの1分割で光が進む距離を測定し、それをメートルと呼ぶのでしょうか？\nそれをメートルと呼ぶのでしょうか？299,792,458はどこから来たのでしょうか？",
+      "title": "メートルとは、真空中で光が1/299792458秒間に進む距離と定義されています。この数字はどこから来たのだろう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一米的长度是由光速定义的，而不是反过来的\n左右。那么，我们在哪里/为什么要把一秒钟除以299,792,458段呢？\n然后测量光在其中一段所走过的距离，并称之为米？\n称之为 \"米\"？299,792,458是怎么来的？",
+      "title": "一米被定义为光在真空中以1/299792458秒的时间所能到达的距离。这个数字是怎么来的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一米的長度是由光速定義的，而不是反過來的\n左右。那麼，我們在哪裏/爲什麼要把一秒鐘除以299,792,458段呢？\n然後測量光在其中一段所走過的距離，並稱之爲米？\n稱之爲 \"米\"？299,792,458是怎麼來的？",
+      "title": "一米被定義爲光在真空中以1/299792458秒的時間所能到達的距離。這個數字是怎麼來的？"
+    }
+  ]
 }
