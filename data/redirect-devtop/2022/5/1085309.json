@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-14T14:34:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CE7aToU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05udzu3ahjvgtz3krw9r.jpeg",
   "author": "Snowciel",
-  "author_url": "https://dev.to/snowciel"
+  "author_url": "https://dev.to/snowciel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCodeのテーマで一番好きなもの、みんなに試してほしいものは何ですか？どのようなカラーテーマ/シンタックス...",
+      "title": "あなたのテーマは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你最喜欢的VSCode主题是什么，每个人都应该尝试一下？什么颜色的主题/语法...",
+      "title": "你的主题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你最喜歡的VSCode主題是什麼，每個人都應該嘗試一下？什麼顏色的主題/語法...",
+      "title": "你的主題是什麼？"
+    }
+  ]
 }
