@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ナマケモノは弾かない"
+    },
+    {
+      "locale": "zh",
+      "title": "树懒不流行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "樹懶不流行"
+    }
+  ]
 }
