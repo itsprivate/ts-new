@@ -27,5 +27,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サトシ時代のビットコインウォレットが8年半ぶりに覚醒、BTC1000が入った状態。"
+    },
+    {
+      "locale": "zh",
+      "title": "中本聪时代的比特币钱包在8.5年后苏醒，里面有1000个BTC。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中本聰時代的比特幣錢包在8.5年後甦醒，裏面有1000個BTC。"
+    }
+  ]
 }

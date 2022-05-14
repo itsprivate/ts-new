@@ -13,5 +13,19 @@
   ],
   "objectID": "31376241",
   "original_created_at": "2022-05-14T09:12:04.000Z",
-  "image": "https://dokku.com/assets/slack-logo.png"
+  "image": "https://dokku.com/assets/slack-logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Dokku - 無料のHerokuの代替品"
+    },
+    {
+      "locale": "zh",
+      "title": "Dokku - 免费的Heroku替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Dokku - 免費的Heroku替代品"
+    }
+  ]
 }
