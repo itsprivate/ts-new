@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "3人の小さな人間がそれぞれの言語で熱っぽく語る"
+    },
+    {
+      "locale": "zh",
+      "title": "三个小人用他们自己的语言滔滔不绝地说话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "三個小人用他們自己的語言滔滔不絕地說話"
+    }
+  ]
 }
