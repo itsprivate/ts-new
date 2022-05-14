@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-14T07:12:30Z"
+  "original_createdAt": "2022-05-14T07:12:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub CSSを使ったインスタントプレビューが可能なMarkdownエディタ。",
+      "tagline": "GitHub CSSを使ったインスタントプレビューが可能なMarkdownエディタ。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用GitHub CSS即时预览的Markdown编辑器。",
+      "tagline": "使用GitHub CSS即时预览的Markdown编辑器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用GitHub CSS即時預覽的Markdown編輯器。",
+      "tagline": "使用GitHub CSS即時預覽的Markdown編輯器。"
+    }
+  ]
 }
