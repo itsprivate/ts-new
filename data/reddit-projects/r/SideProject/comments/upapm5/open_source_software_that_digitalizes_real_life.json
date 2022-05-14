@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現実のチェス盤をデジタル化するオープンソースソフトウェア。"
+    },
+    {
+      "locale": "zh",
+      "title": "将现实生活中的国际象棋棋盘数字化的开放源码软件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將現實生活中的國際象棋棋盤數字化的開放源碼軟件。"
+    }
+  ]
 }
