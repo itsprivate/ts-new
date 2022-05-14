@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Windows用のジェスチャープログラムを作って、生まれて初めてsteamでリリースしました!!!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Windows的手势程序，我在steam上发布了它，这是我人生中的第一次！！。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Windows的手勢程序，我在steam上發佈了它，這是我人生中的第一次！！。"
+    }
+  ]
 }
