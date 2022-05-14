@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チャート上でビットコインが触れた場所を指差してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "指向图表上比特币触及你的地方。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "指向圖表上比特幣觸及你的地方。"
+    }
+  ]
 }
