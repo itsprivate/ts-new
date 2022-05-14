@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-14T09:54:26Z"
+  "original_createdAt": "2022-05-14T09:54:26Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ローカルに曲を追加できるオンラインローファイミュージックプレイヤー。Lofi FMは、youtubeのビデオ埋め込みとyoutubeのデータAPIのみを使用した完全なクライアントサイドのアプリです。",
+      "tagline": "オンラインローファイミュージックプレーヤー "
+    },
+    {
+      "locale": "zh",
+      "description": "在线Lofi音乐播放器，可选择在本地添加歌曲。Lofi FM是完整的客户端应用程序，只使用YouTube视频嵌入和YouTube数据API。",
+      "tagline": "在线LOFI音乐播放器 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在線Lofi音樂播放器，可選擇在本地添加歌曲。Lofi FM是完整的客戶端應用程序，只使用YouTube視頻嵌入和YouTube數據API。",
+      "tagline": "在線LOFI音樂播放器 "
+    }
+  ]
 }
