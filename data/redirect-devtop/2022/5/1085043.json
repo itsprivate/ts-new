@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-14T06:57:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BwL9jWxy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/59o8rvdrhr8xb18lfh7n.png",
   "author": "Sameer Kumar",
-  "author_url": "https://dev.to/sameer1612"
+  "author_url": "https://dev.to/sameer1612",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "三項演算子（x ? y : z）は、その日から教養あるプログラマの強迫神経症を誘発すると言われている。",
+      "title": "React JSXでの三項対立の解消"
+    },
+    {
+      "locale": "zh",
+      "description": "三元运算符(x ? y : z)据说从它出现的那天起，就会引发有教养的程序员的强迫症。",
+      "title": "在React JSX中清理三元组"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "三元運算符(x ? y : z)據說從它出現的那天起，就會引發有教養的程序員的強迫症。",
+      "title": "在React JSX中清理三元組"
+    }
+  ]
 }

@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドクター・ニャーと猫的多元宇宙"
+    },
+    {
+      "locale": "zh",
+      "title": "喵博士和猫的多元宇宙"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喵博士和貓的多元宇宙"
+    }
+  ]
 }
