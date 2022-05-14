@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あそこで一歩間違えたら、どうなっていたか分からない。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我在那里走错一步，不知道会发生什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我在那裏走錯一步，不知道會發生什麼。"
+    }
+  ]
 }
