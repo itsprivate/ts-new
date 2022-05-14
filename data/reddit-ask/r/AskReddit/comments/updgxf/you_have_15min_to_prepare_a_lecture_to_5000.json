@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "5,000人を対象に、15分間で何についての講演を準備しなければならない...あなたのテーマは何でしょう？なぜ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有15分钟的时间为5000人准备一个关于任何事情的讲座......你的题目是什么？为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有15分鐘的時間爲5000人準備一個關於任何事情的講座......你的題目是什麼？爲什麼？"
+    }
+  ]
 }
