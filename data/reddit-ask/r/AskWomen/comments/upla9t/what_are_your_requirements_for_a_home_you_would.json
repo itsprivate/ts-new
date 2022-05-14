@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが購入する住宅の条件は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对要买的房子有什么要求？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對要買的房子有什麼要求？"
+    }
+  ]
 }
