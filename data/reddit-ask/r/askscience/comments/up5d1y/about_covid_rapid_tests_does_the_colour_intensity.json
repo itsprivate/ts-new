@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "By intensity I'm referring to (for example) the case when the positive test\nstripe is very faint when compared to the control stripe."
+  "the_new_excerpt": "By intensity I'm referring to (for example) the case when the positive test\nstripe is very faint when compared to the control stripe.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "強さとは、例えば、陽性のテストストライプが、陰性のテストストライプと比較して、非常に淡い場合を指します。\n縞が対照縞と比較して非常に淡い場合です。",
+      "title": "COVID迅速検査について：色の濃さ（あるいは濃さのなさ）には意味があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我所说的强度是指（例如）当阳性测试的条纹比起其他测试的条纹非常模糊的情况。\n条纹与对照条纹相比非常微弱。",
+      "title": "关于COVID快速检测：颜色强度（或缺乏颜色）是否有意义？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我所說的強度是指（例如）當陽性測試的條紋比起其他測試的條紋非常模糊的情況。\n條紋與對照條紋相比非常微弱。",
+      "title": "關於COVID快速檢測：顏色強度（或缺乏顏色）是否有意義？"
+    }
+  ]
 }
