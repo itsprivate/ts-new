@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ギリアドを発明したのは私です。最高裁はそれを現実のものとしたのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我发明了吉利德。最高法院正在使它成为现实。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我發明了吉利德。最高法院正在使它成爲現實。"
+    }
+  ]
 }
