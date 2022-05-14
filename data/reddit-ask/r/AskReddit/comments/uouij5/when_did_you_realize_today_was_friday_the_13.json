@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日が13日の金曜日だと気づいたのはいつですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你什么时候意识到今天是13号星期五的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你什麼時候意識到今天是13號星期五的？"
+    }
+  ]
 }

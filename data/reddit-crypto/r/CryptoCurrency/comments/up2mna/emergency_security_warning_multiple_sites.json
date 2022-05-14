@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Looks like many sites have been hit with a front end attack. Some like Spirit\nSwap are reporting the attacker managed to change swap address by hacking into\nAWS..\n\nCoinGecko…"
+  "the_new_excerpt": "Looks like many sites have been hit with a front end attack. Some like Spirit\nSwap are reporting the attacker managed to change swap address by hacking into\nAWS..\n\nCoinGecko…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くのサイトがフロントエンドの攻撃を受けているようです。スピリットのようないくつかの\nSwapのようなサイトは、攻撃者がAWSに侵入してスワップアドレスを変更したことを報告している。\nAWS...\n\nCoinGecko...",
+      "title": "緊急セキュリティ警告 CoinGeckoを含む複数のサイトが危険にさらされているようです。Txnsを行う際はご注意ください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "看起来很多网站都受到了前端攻击。一些网站如Spirit\nSwap都报告说，攻击者通过入侵AWS成功地改变了交换地址。\nAWS...\n\nCoinGecko...",
+      "title": "紧急安全警告。包括CoinGecko在内的多个网站似乎已经被破坏。在进行任何交流时要小心。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "看起來很多網站都受到了前端攻擊。一些網站如Spirit\nSwap都報告說，攻擊者通過入侵AWS成功地改變了交換地址。\nAWS...\n\nCoinGecko...",
+      "title": "緊急安全警告。包括CoinGecko在內的多個網站似乎已經被破壞。在進行任何交流時要小心。"
+    }
+  ]
 }

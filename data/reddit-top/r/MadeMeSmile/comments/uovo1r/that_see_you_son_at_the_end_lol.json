@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後の「See you son！」は笑いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "最后那句 \"儿子再见！\"大笑。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最後那句 \"兒子再見！\"大笑。"
+    }
+  ]
 }
