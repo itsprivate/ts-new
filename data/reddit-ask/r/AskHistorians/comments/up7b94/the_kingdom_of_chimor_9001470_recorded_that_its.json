@@ -12,5 +12,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "According to Wikipedia (https://en.m.wikipedia.org/wiki/Chimor)\n\n> According to legend, its capital of Chan Chan was founded by Taycanamo, who\n> arrived in the area by sea."
+  "the_new_excerpt": "According to Wikipedia (https://en.m.wikipedia.org/wiki/Chimor)\n\n> According to legend, its capital of Chan Chan was founded by Taycanamo, who\n> arrived in the area by sea.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ウィキペディア(https://en.m.wikipedia.org/wiki/Chimor)によると\n\n> 伝説によると、その首都チャンチャンは、海路でこの地に到着したテイカナモによって築かれたという。\n> 海路でこの地に到着した。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "根据维基百科（https://en.m.wikipedia.org/wiki/Chimor）的说法\n\n> 根据传说，其首都陈陈是由Taycanamo建立的。\n> 从海上抵达该地区。",
+      "title": "奇莫尔王国（900-1470年）记载，它的第一位国王是从西方航行而来。历史学家认为这个故事是否有道理，如果有，他们的国王可能来自哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "根據維基百科（https://en.m.wikipedia.org/wiki/Chimor）的說法\n\n> 根據傳說，其首都陳陳是由Taycanamo建立的。\n> 從海上抵達該地區。",
+      "title": "奇莫爾王國（900-1470年）記載，它的第一位國王是從西方航行而來。歷史學家認爲這個故事是否有道理，如果有，他們的國王可能來自哪裏？"
+    }
+  ]
 }
