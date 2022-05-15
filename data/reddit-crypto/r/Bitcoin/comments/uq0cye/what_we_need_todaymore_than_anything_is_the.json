@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"今日必要なのは...何よりも、お金と国家の分離です。\" - Dave Smith on Bitcoin"
+    },
+    {
+      "locale": "zh",
+      "title": "\"我们今天所需要的......比任何东西都重要，是货币和国家的分离。\"--戴夫-史密斯谈比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我們今天所需要的......比任何東西都重要，是貨幣和國家的分離。\"--戴夫-史密斯談比特幣"
+    }
+  ]
 }
