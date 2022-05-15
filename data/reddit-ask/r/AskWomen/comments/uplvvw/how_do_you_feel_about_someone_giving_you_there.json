@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたに電話番号を教えることに対し、彼らがあなたの電話番号を尋ねることについてはどう思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对别人给你的号码和他们问你的号码有什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對別人給你的號碼和他們問你的號碼有什麼感覺？"
+    }
+  ]
 }

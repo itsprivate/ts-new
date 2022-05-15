@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "It's Made up."
+    },
+    {
+      "locale": "zh",
+      "title": "它是编造的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "它是編造的。"
+    }
+  ]
 }
