@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ご近所の方からメールでいただきました（コメントは文脈です）"
+    },
+    {
+      "locale": "zh",
+      "title": "从一个关心的邻居那里收到的邮件（评论中的背景）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從一個關心的鄰居那裏收到的郵件（評論中的背景）。"
+    }
+  ]
 }
