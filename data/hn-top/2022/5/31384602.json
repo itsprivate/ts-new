@@ -13,5 +13,19 @@
   ],
   "objectID": "31384602",
   "original_created_at": "2022-05-15T02:03:02.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロックフリーの並列32ビット汎用待ち行列"
+    },
+    {
+      "locale": "zh",
+      "title": "一个无锁的、并发的、32位的通用队列"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個無鎖的、併發的、32位的通用隊列"
+    }
+  ]
 }
