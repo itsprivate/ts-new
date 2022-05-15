@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-15T07:13:10Z"
+  "original_createdAt": "2022-05-15T07:13:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ローカルにクローンしたGitHubリポジトリに、プロジェクトのロゴを自動的に追加します。",
+      "tagline": "レポにフォルダアイコンを追加してくれるMacアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "自动添加项目标识到你本地克隆的GitHub仓库。",
+      "tagline": "为你的资料库添加文件夹图标的Mac应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自動添加項目標識到你本地克隆的GitHub倉庫。",
+      "tagline": "爲你的資料庫添加文件夾圖標的Mac應用程序"
+    }
+  ]
 }
