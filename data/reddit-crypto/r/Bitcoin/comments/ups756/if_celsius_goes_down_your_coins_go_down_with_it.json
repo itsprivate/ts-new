@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "摂氏が下がれば、コインも一緒に下がる。注意してください。コインは取引所から持ち出しましょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果摄氏度下降，你的硬币也会随之下降。请注意。把你的钱币从交易所拿出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果攝氏度下降，你的硬幣也會隨之下降。請注意。把你的錢幣從交易所拿出來。"
+    }
+  ]
 }
