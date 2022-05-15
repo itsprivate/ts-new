@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヒューマノイドロボットの進化"
+    },
+    {
+      "locale": "zh",
+      "title": "仿人机器人的演变"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "仿人機器人的演變"
+    }
+  ]
 }
