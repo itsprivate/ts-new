@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子猫を観客に"
+    },
+    {
+      "locale": "zh",
+      "title": "作为观众的小猫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "作爲觀衆的小貓"
+    }
+  ]
 }
