@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditのジャーナリストの皆さん、警察から記事を載せるなと言われたことはありますか？今話せるなら、それはどんな記事だったのでしょうか？[真剣]"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit的记者们，警察有没有告诉过你们不要报道一个故事？如果你现在能说说，是什么故事？[认真的]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit的記者們，警察有沒有告訴過你們不要報道一個故事？如果你現在能說說，是什麼故事？[認真的]"
+    }
+  ]
 }
