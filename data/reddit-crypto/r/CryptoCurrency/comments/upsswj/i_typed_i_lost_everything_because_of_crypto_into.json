@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AIイメージジェネレーターに「暗号のせいで全てを失った」と入力したら、こんなのが出てきた...。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在人工智能图像生成器中输入了 \"我因为加密货币而失去了一切\"，这就是我得到的结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在人工智能圖像生成器中輸入了 \"我因爲加密貨幣而失去了一切\"，這就是我得到的結果。"
+    }
+  ]
 }
