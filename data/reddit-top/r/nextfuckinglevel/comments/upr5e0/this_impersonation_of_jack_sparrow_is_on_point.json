@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このジャック・スパロウの物真似はポイント高いです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个模仿杰克-斯帕罗的动作很到位"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個模仿傑克-斯帕羅的動作很到位"
+    }
+  ]
 }
