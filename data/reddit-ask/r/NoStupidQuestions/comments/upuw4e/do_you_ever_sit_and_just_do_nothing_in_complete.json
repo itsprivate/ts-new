@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、完全な沈黙の中で何もせず、ただ座って楽しむことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否曾经坐下来，在完全沉默的情况下什么都不做，以获得享受？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否曾經坐下來，在完全沉默的情況下什麼都不做，以獲得享受？"
+    }
+  ]
 }
