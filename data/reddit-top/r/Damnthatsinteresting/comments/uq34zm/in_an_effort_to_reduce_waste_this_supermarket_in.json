@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スイスのスーパーマーケットでは、廃棄物を減らすために、清掃用具の詰め替え用ステーションを設置しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "为了减少浪费，瑞士的这家超市有一个清洁产品的补充站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了減少浪費，瑞士的這家超市有一個清潔產品的補充站"
+    }
+  ]
 }
