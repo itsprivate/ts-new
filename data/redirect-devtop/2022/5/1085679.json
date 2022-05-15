@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-15T05:12:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UyEte7MI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zix5r51m0ic8elxvmlp.png",
   "author": "Dhravya",
-  "author_url": "https://dev.to/dhravya"
+  "author_url": "https://dev.to/dhravya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はとても怠け者で、いつも画像を開くという些細なことを先延ばしにしてしまうのですが...。",
+      "title": "ブログのバナー作成に疲れたので、自動化しました"
+    },
+    {
+      "locale": "zh",
+      "description": "我是一个很懒的人，总是在最小的事情上拖拖拉拉--打开图片...",
+      "title": "我厌倦了为我的博客制作横幅，所以我把它自动化了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我是一個很懶的人，總是在最小的事情上拖拖拉拉--打開圖片...",
+      "title": "我厭倦了爲我的博客製作橫幅，所以我把它自動化了。"
+    }
+  ]
 }
