@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんだこれは！？蟻の橋か！？"
+    },
+    {
+      "locale": "zh",
+      "title": "这是什么？蚂蚁的桥？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是什麼？螞蟻的橋？"
+    }
+  ]
 }
