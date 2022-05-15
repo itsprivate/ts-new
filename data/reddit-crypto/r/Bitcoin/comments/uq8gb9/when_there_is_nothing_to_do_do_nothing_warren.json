@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "「やることがないときは、何もするな」 - ウォーレン・バフェット"
+    },
+    {
+      "locale": "zh",
+      "title": "\"当无事可做时，就不要做\"--沃伦-巴菲特"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"當無事可做時，就不要做\"--沃倫-巴菲特"
+    }
+  ]
 }
