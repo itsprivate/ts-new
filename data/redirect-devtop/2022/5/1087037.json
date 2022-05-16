@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-16T14:24:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VWqbG9KO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9diui70swcgalf1pffrs.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新連載の一部です 過去の質問にもお答えします。 例えば、私は一度も...",
+      "title": "TypeScriptについて教えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "一个新系列的一部分! 欢迎大家参与进来，对过去的问题进行评价。 比方说，我从来没有...",
+      "title": "向我推荐TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個新系列的一部分! 歡迎大家參與進來，對過去的問題進行評價。 比方說，我從來沒有...",
+      "title": "向我推薦TypeScript"
+    }
+  ]
 }
