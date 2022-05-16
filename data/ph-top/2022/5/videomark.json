@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-16T07:32:42Z"
+  "original_createdAt": "2022-05-16T07:32:42Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VideoMarkは、YouTubeでメモを取るのに便利なChrome拡張機能です。字幕やスクリーンショットを簡単に保存することができ、誰でも動画の重要な部分を学ぶことができる優れものです。メモのデータはGoogle Driveに保存され、私たちはあなたのメモを所有しません。",
+      "tagline": "オンラインビデオでメモを取る"
+    },
+    {
+      "locale": "zh",
+      "description": "VideoMark是一个Chrome扩展，可以帮助你在YouTube上做笔记。它可以轻松保存字幕和截图，对大家学习视频的重要部分很有帮助。我们不拥有你的笔记，你的数据存储在Google Drive中是私有的。",
+      "tagline": "对在线视频做笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "VideoMark是一個Chrome擴展，可以幫助你在YouTube上做筆記。它可以輕鬆保存字幕和截圖，對大家學習視頻的重要部分很有幫助。我們不擁有你的筆記，你的數據存儲在Google Drive中是私有的。",
+      "tagline": "對在線視頻做筆記"
+    }
+  ]
 }
