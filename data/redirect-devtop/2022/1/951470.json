@@ -43,5 +43,22 @@
   "original_created_at": "2022-01-11T12:17:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HtooI_JS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6w0c44mw4w6af0l6alhu.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HTMLとCSSで炎や燃え盛るマッチを描く作業です。",
+      "title": "CSSで炎を描く"
+    },
+    {
+      "locale": "zh",
+      "description": "用HTML和CSS绘制火焰或燃烧的火柴的过程。",
+      "title": "用CSS绘制火焰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用HTML和CSS繪製火焰或燃燒的火柴的過程。",
+      "title": "用CSS繪製火焰"
+    }
+  ]
 }

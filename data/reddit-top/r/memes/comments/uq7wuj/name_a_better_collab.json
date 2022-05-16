@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もっと良いコラボを挙げてください"
+    },
+    {
+      "locale": "zh",
+      "title": "说出一个更好的合作项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說出一個更好的合作項目"
+    }
+  ]
 }
