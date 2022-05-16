@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BudibaseでCRUDアプリを1分で作る - オープンソースのローコードプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "title": "用Budibase--我的开源低代码平台在一分钟内构建一个CRUD应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Budibase--我的開源低代碼平臺在一分鐘內構建一個CRUD應用程序"
+    }
+  ]
 }
