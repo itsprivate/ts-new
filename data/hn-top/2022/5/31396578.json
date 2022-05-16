@@ -12,5 +12,19 @@
   ],
   "objectID": "31396578",
   "original_created_at": "2022-05-16T13:08:11.000Z",
-  "image": "https://antonz.org/json-virtual-columns/cover.png"
+  "image": "https://antonz.org/json-virtual-columns/cover.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SQLiteにおけるJSONと仮想カラム"
+    },
+    {
+      "locale": "zh",
+      "title": "SQLite中的JSON和虚拟列"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "SQLite中的JSON和虛擬列"
+    }
+  ]
 }
