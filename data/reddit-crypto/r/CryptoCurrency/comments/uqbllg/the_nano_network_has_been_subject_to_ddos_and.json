@@ -1,0 +1,16 @@
+{
+  "author": "guitarbren",
+  "original_created_utc": 1652637566,
+  "title": "The Nano network has been subject to DDos and spam for weeks now, the attacker is a 14 year old kid. No ones talking about it on r/cc...",
+  "created_utc": 1652666058,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;From the Nano sub: Nodes on the network are being directly attacked with a heavy load of unchecked blocks that are slowing them down as it ties up disk write operations, causing node processes to spend time waiting for these writes to finish. Enough nodes are being targeted to cause settlement delays network-wide. Every targetted node is slower in processing, thus everything from block propagation to block confirmation is slower. Additionally, enough bandwidth is being used such that some targeted nodes may be at risk of filling up their disk (unchecked blocks get cleared every 4 hrs and on load — can also be cleared manually).&lt;/p&gt;\n\n&lt;p&gt;When the load subsides, the network will recover. The impact of this attack is settlement delays, no funds can be lost. According to my non-voting nodes, the average election duration is around 53 seconds currently (12:27 PM EST).&lt;/p&gt;\n\n&lt;p&gt;Developers are aware and have been working and discussing a variety of solutions (some new, some old). This is a good time to remind everyone of a few things:&lt;/p&gt;\n\n&lt;p&gt;• network resilience is not binary (fixed / not fixed) and much more than just dealing with &amp;quot;spam&amp;quot;.&lt;/p&gt;\n\n&lt;p&gt;• network resilience has been a focus, is a focus, and will continue to need to be a focus.&lt;/p&gt;\n\n&lt;p&gt;• settlement delays and disruptions are to be expected as this is an experimental network under active development. I recommend being aware of these basics.&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;s going to take a lot of time and contributions before the network is sufficiently resilient (on a variety of fronts). This is the nature of building an open and distributed network, there are currently a number of known ways a motivated attacker can disrupt (or even take down) the network. The network becomes resilient over time with each newly discovered vulnerability and subsequent contribution of solutions/fixes.&lt;/p&gt;\n\n&lt;p&gt;Over the years there have been 30+ disclosed ways to take down the Bitcoin network, which is simpler to defend in a number of ways. The nano network is not going to be any different.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 371,
+  "permalink": "/r/CryptoCurrency/comments/uqbllg/the_nano_network_has_been_subject_to_ddos_and/",
+  "subreddit": "CryptoCurrency",
+  "id": "uqbllg",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "From the Nano sub: Nodes on the network are being directly attacked with a heavy\nload of unchecked blocks that are slowing them down as it ties up disk write\noperations, causing node processes to spend time waiting for these writes to\nfinish. Enough nodes are being targeted to cause settlement…"
+}
