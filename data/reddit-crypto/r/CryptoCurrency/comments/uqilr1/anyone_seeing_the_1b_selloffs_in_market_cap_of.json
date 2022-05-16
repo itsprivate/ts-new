@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ここ数日のUSDTの時価総額1Bの売りを見ている人はいますか？毎日UTCの深夜に1段ずつ。"
+    },
+    {
+      "locale": "zh",
+      "title": "有人看到最近几天USDT的市值出现了1B的抛售吗？每天在UTC午夜都有一个阶梯。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人看到最近幾天USDT的市值出現了1B的拋售嗎？每天在UTC午夜都有一個階梯。"
+    }
+  ]
 }
