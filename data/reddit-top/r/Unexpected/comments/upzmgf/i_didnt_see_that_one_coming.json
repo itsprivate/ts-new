@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そう来るとは思わなかった"
+    },
+    {
+      "locale": "zh",
+      "title": "我没有看到这一幕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我沒有看到這一幕"
+    }
+  ]
 }
