@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こわいこわい"
+    },
+    {
+      "locale": "zh",
+      "title": "真吓人啊"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "真嚇人啊"
+    }
+  ]
 }
