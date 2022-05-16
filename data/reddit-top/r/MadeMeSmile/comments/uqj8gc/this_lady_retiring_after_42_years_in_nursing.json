@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "42年間看護師として働いてきた女性が退職する。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位女士在从事了42年的护理工作后即将退休。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位女士在從事了42年的護理工作後即將退休。"
+    }
+  ]
 }
