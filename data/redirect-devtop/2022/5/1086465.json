@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-15T21:22:09Z",
   "image": "https://dev.to/social_previews/article/1086465.png",
   "author": "Lou Willoughby",
-  "author_url": "https://dev.to/louiseann93"
+  "author_url": "https://dev.to/louiseann93",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "迷路のJavaScriptゲームを初めて作りました。使用したのは、Vue.Jsフレームワーク、JavaScript、CSSです。",
+      "title": "初めてJSゲームを作ってみた! 🎉"
+    },
+    {
+      "locale": "zh",
+      "description": "我建立了我的第一个Maze JavaScript游戏，我使用了；Vue.Js框架，JavaScript，CSS 我最近...",
+      "title": "我建立了我的第一个JS游戏! 🎉"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我建立了我的第一個Maze JavaScript遊戲，我使用了；Vue.Js框架，JavaScript，CSS 我最近...",
+      "title": "我建立了我的第一個JS遊戲! 🎉"
+    }
+  ]
 }
