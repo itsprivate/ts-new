@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースはトレーダーに暗号通貨を買わせていたが、急落し始めると（-80％）取引を凍結し、顧客は数百万ドルを失った。"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase允许交易者购买加密货币，但当它开始快速下跌（-80%）时，他们冻结了交易，客户损失了数百万。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase允許交易者購買加密貨幣，但當它開始快速下跌（-80%）時，他們凍結了交易，客戶損失了數百萬。"
+    }
+  ]
 }
