@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "From the Nano sub: Nodes on the network are being directly attacked with a heavy\nload of unchecked blocks that are slowing them down as it ties up disk write\noperations, causing node processes to spend time waiting for these writes to\nfinish. Enough nodes are being targeted to cause settlement…"
+  "the_new_excerpt": "From the Nano sub: Nodes on the network are being directly attacked with a heavy\nload of unchecked blocks that are slowing them down as it ties up disk write\noperations, causing node processes to spend time waiting for these writes to\nfinish. Enough nodes are being targeted to cause settlement…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ナノサブから ネットワーク上のノードが直接攻撃され、未チェックのブロックの負荷が大きく、ディスクの書き込みに時間がかかるため、速度が低下しています。\nブロックの負荷が大きく、ディスクの書き込みに時間がかかるため、速度が低下しています。\nノードプロセスが書き込みの終了を待つために時間を費やすことになります。\n終了するまでの待ち時間が発生します。このような状況下で、「Security(セトル)」は、「Security(セトル)」と呼ばれるようになりました。",
+      "title": "Nanoネットワークは数週間前からDDosとスパムにさらされており、攻撃者は14歳の子供です。r/ccでは誰もそのことについて話していません..."
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "来自纳米子。网络上的节点被直接攻击，有大量的\n负载的未检查的区块，这些区块会拖慢它们的速度，因为它束缚了磁盘写入\n操作，导致节点进程花时间等待这些写操作的完成。\n完成。足够多的节点被作为目标，导致结算...",
+      "title": "Nano网络遭受DDos和垃圾邮件已经有几个星期了，攻击者是一个14岁的孩子。没有人在r/cc上谈论它..."
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "來自納米子。網絡上的節點被直接攻擊，有大量的\n負載的未檢查的區塊，這些區塊會拖慢它們的速度，因爲它束縛了磁盤寫入\n操作，導致節點進程花時間等待這些寫操作的完成。\n完成。足夠多的節點被作爲目標，導致結算...",
+      "title": "Nano網絡遭受DDos和垃圾郵件已經有幾個星期了，攻擊者是一個14歲的孩子。沒有人在r/cc上談論它..."
+    }
+  ]
 }
