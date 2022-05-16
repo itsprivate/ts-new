@@ -33,5 +33,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "古いビットコインハードディスクを見つけたのですが... 復旧するための資金があるかどうか確認するにはどうしたらいいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "发现这个旧的比特币硬盘。我如何检查它是否有任何资金可以恢复？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發現這個舊的比特幣硬盤。我如何檢查它是否有任何資金可以恢復？"
+    }
+  ]
 }
