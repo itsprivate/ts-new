@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-13T17:05:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u_wySe8B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zm68o4la1zry6gx9tbws.png",
   "author": "Simon Egersand 🎈",
-  "author_url": "https://dev.to/simeg"
+  "author_url": "https://dev.to/simeg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vimは強力なテキストエディタで、この記事ではそれを使うことを納得させるでしょう。恐れられ、そして愛されている...",
+      "title": "Vim - なぜ使うべきなのか!"
+    },
+    {
+      "locale": "zh",
+      "description": "Vim是一个强大的文本编辑器，在这篇文章中，我将说服你使用它。它让人又怕又爱...",
+      "title": "Vim - 为什么你应该使用它!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vim是一個強大的文本編輯器，在這篇文章中，我將說服你使用它。它讓人又怕又愛...",
+      "title": "Vim - 爲什麼你應該使用它!"
+    }
+  ]
 }
