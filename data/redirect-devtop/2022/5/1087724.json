@@ -57,5 +57,22 @@
   "original_created_at": "2022-05-17T08:21:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lsGfWOrC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uqygnb62mgo12lgyv7m.jpg",
   "author": "Eldad A. Fux",
-  "author_url": "https://dev.to/eldadfux"
+  "author_url": "https://dev.to/eldadfux",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "我々はまた新たなAppwriteのリリースを携えて戻ってきた! Appwrite 0.14 はより多くの改良を加え、現在ライブ中です！...",
+      "title": "11のクラウド機能ランタイムを含むAppwrite 0.14を発表! 🥳"
+    },
+    {
+      "locale": "zh",
+      "description": "我们又一次发布了Appwrite! Appwrite 0.14现在已经上线，有了更多的改进！...",
+      "title": "发布Appwrite 0.14版本，包含11个云端功能运行机制! 🥳"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們又一次發佈了Appwrite! Appwrite 0.14現在已經上線，有了更多的改進！...",
+      "title": "發佈Appwrite 0.14版本，包含11個雲端功能運行機制! 🥳"
+    }
+  ]
 }
