@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アルゴリズムが追いつかず、別のステーブルコインがペグを失う"
+    },
+    {
+      "locale": "zh",
+      "title": "算法跟不上，又一稳定币失联"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "算法跟不上，又一穩定幣失聯"
+    }
+  ]
 }
