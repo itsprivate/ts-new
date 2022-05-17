@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "道の真ん中にある岩"
+    },
+    {
+      "locale": "zh",
+      "title": "道路中间的岩石"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "道路中間的岩石"
+    }
+  ]
 }
