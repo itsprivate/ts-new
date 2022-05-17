@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-17T07:01:00Z"
+  "original_createdAt": "2022-05-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Narrative BIは、Google Analytics 4のデータを実用的なインサイトに変換し、正しい意思決定を支援するノーコード・プラットフォームです。GA4アカウントをNarrative Biに接続すると、数分で最初のナラティブとレポートを入手できます。",
+      "tagline": "Google Analytics 4のデータを意味のある物語に変える"
+    },
+    {
+      "locale": "zh",
+      "description": "叙述性商业智能是一个无代码平台，它将你的Google Analytics 4数据转化为可操作的洞察力，帮助你做出正确的决策。将您的GA4账户连接到Narrative Bi，并在几分钟内获得您的第一份叙述和报告!",
+      "tagline": "将你的谷歌分析4的数据变成有意义的叙述"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "敘述性商業智能是一個無代碼平臺，它將你的Google Analytics 4數據轉化爲可操作的洞察力，幫助你做出正確的決策。將您的GA4賬戶連接到Narrative Bi，並在幾分鐘內獲得您的第一份敘述和報告!",
+      "tagline": "將你的谷歌分析4的數據變成有意義的敘述"
+    }
+  ]
 }
