@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-14T09:43:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zIKUKFei--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3aqbvgu25a07sehthot5.jpeg",
   "author": "Nilanth",
-  "author_url": "https://dev.to/nilanth"
+  "author_url": "https://dev.to/nilanth",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリの作成には、ほとんどの方がCreate React Appを使用されると思います。これは、すべての構成に対応しています...",
+      "title": "ReactアプリにはCRAの代わりにViteを使用する"
+    },
+    {
+      "locale": "zh",
+      "description": "我们大多数人都会使用Create React App来创建React App。它支持所有的配置...",
+      "title": "在React应用程序中使用Vite而不是CRA"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們大多數人都會使用Create React App來創建React App。它支持所有的配置...",
+      "title": "在React應用程序中使用Vite而不是CRA"
+    }
+  ]
 }
