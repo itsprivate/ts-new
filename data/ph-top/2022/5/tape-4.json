@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-17T07:01:00Z"
+  "original_createdAt": "2022-05-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Meet Less and Create More 👨 画面や顔の短いビデオを録画して交換することで、共有、議論、コラボレーションが可能 - 🚫 拡張機能は不要です。",
+      "tagline": "ビデオ通話をスレッド型ビデオメッセージングに置き換える"
+    },
+    {
+      "locale": "zh",
+      "description": "少见面，多创造 👨💻通过录制和交换屏幕和面部的短视频来分享、讨论和协作 - 🚫不需要扩展。",
+      "tagline": "用线程视频信息取代视频通话"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "少見面，多創造 👨💻通過錄制和交換屏幕和麪部的短視頻來分享、討論和協作 - 🚫不需要擴展。",
+      "tagline": "用線程視頻信息取代視頻通話"
+    }
+  ]
 }
