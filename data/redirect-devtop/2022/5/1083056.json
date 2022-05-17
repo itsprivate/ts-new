@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-12T07:58:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vD4ctG65--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2b48m46fk2i6nn0l7zbd.png",
   "author": "ThemeSelection",
-  "author_url": "https://dev.to/theme_selection"
+  "author_url": "https://dev.to/theme_selection",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プログラマーは、自分のワークスペースに適したモニターをお探しですか？さて、ここで私たちが集めたのは...",
+      "title": "開発者向けベストプログラミングモニター 👨🏻💻 2022年版"
+    },
+    {
+      "locale": "zh",
+      "description": "你是一名程序员，正在为你的工作空间寻找一个合适的显示器吗？那么，在这里，我们已经收集了...",
+      "title": "2022年为开发者提供的最佳编程显示器 👨🏻💻"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是一名程序員，正在爲你的工作空間尋找一個合適的顯示器嗎？那麼，在這裏，我們已經收集了...",
+      "title": "2022年爲開發者提供的最佳編程顯示器 👨🏻💻"
+    }
+  ]
 }
