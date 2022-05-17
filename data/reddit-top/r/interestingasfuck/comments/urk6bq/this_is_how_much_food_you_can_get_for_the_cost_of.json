@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オーストラリアでは、タバコ1箱の値段でこれだけの食べ物が手に入ります。"
+    },
+    {
+      "locale": "zh",
+      "title": "在澳大利亚，用一包烟的钱可以买到这么多的食物"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在澳大利亞，用一包煙的錢可以買到這麼多的食物"
+    }
+  ]
 }
