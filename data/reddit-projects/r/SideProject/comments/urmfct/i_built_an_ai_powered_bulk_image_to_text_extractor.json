@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AIで画像からテキストを一括抽出するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个由人工智能驱动的批量图像到文本的提取器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個由人工智能驅動的批量圖像到文本的提取器"
+    }
+  ]
 }
