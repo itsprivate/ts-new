@@ -100,5 +100,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-17T08:09:39Z"
+  "original_createdAt": "2022-05-17T08:09:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SlackからWebサイトにライブチャット。2種類の高度なSlack連携。WordPress、Drupal、Joomla、Shopify、HTML/JavaScriptプラグインを使用した簡単なセットアップ。モバイルアプリやConsoleを使った監査や設定。",
+      "tagline": "Slackから直接あなたのウェブサイトにライブチャット"
+    },
+    {
+      "locale": "zh",
+      "description": "从Slack为您的网站提供即时聊天。2种类型的高级Slack集成。通过使用WordPress、Drupal、Joomla、Shopify和HTML/JavaScript插件轻松设置。使用移动应用程序和控制台进行审计和配置。",
+      "tagline": "直接从Slack为您的网站提供即时聊天服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從Slack爲您的網站提供即時聊天。2種類型的高級Slack集成。通過使用WordPress、Drupal、Joomla、Shopify和HTML/JavaScript插件輕鬆設置。使用移動應用程序和控制檯進行審計和配置。",
+      "tagline": "直接從Slack爲您的網站提供即時聊天服務"
+    }
+  ]
 }
