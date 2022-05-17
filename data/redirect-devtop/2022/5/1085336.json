@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-14T15:33:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fDtqFBA7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kclds980qdjgg0qrxmu.png",
   "author": "Anurag Gharat",
-  "author_url": "https://dev.to/anuraggharat"
+  "author_url": "https://dev.to/anuraggharat",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React.jsを使っている人なら、クライアントサイドレンダリング(CSR)は知っているはずです。説明すると...",
+      "title": "Next.jsのデータフェッチ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你一直在使用React.js，你应该熟悉客户端渲染（CSR）。为了解释它...",
+      "title": "Next.js中的数据获取"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你一直在使用React.js，你應該熟悉客戶端渲染（CSR）。爲了解釋它...",
+      "title": "Next.js中的數據獲取"
+    }
+  ]
 }

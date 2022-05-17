@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グランドセフトインフレ"
+    },
+    {
+      "locale": "zh",
+      "title": "大规模盗窃通货膨胀"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "大規模盜竊通貨膨脹"
+    }
+  ]
 }
