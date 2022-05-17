@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-15T18:07:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5O3m1zt2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsqhc9hluvqkpnjofb3e.jpg",
   "author": "Imia Hazel",
-  "author_url": "https://dev.to/imiahazel"
+  "author_url": "https://dev.to/imiahazel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSS box-shadow は、CSS の素晴らしいプロパティです。HTML要素の周りに影の効果を追加します。追加する...",
+      "title": "100種類のCSSボックスシャドウプリセット"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS box-shadow是一个美妙的CSS属性。它可以在一个HTML元素周围添加阴影效果。添加...",
+      "title": "100个CSS盒式阴影预设"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS box-shadow是一個美妙的CSS屬性。它可以在一個HTML元素周圍添加陰影效果。添加...",
+      "title": "100個CSS盒式陰影預設"
+    }
+  ]
 }
