@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたはどれくらいの頻度でお酒を飲みますか？健康的・非健康的な量だと感じますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你多长时间喝一次酒？你觉得这是个健康/不健康的量吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你多長時間喝一次酒？你覺得這是個健康/不健康的量嗎？"
+    }
+  ]
 }
