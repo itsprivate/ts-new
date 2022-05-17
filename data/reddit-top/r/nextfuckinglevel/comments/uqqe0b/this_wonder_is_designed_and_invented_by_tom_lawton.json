@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このワンダーは、トム・ロートン氏が設計・考案したものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个奇迹是由汤姆-劳顿设计和发明的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個奇蹟是由湯姆-勞頓設計和發明的。"
+    }
+  ]
 }
