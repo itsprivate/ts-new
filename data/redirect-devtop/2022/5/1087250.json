@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-16T18:09:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RppuvpUD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tb88ix4z4s78st0vu07w.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bootstrap 5と軽量なCSSファイルを使って、シンプルなDashboardページをゼロからコーディングする方法を学びます - サンプルは、GHからダウンロードできます。",
+      "title": "初心者のためのBootstrap - シンプルなダッシュボードレイアウトのコード化"
+    },
+    {
+      "locale": "zh",
+      "description": "学习如何使用Bootstrap 5和一个轻量级的CSS文件从头开始编写一个简单的仪表盘页面 - 样本可以从GH下载。",
+      "title": "初学者的Bootstrap--编码一个简单的仪表盘布局"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學習如何使用Bootstrap 5和一個輕量級的CSS文件從頭開始編寫一個簡單的儀表盤頁面 - 樣本可以從GH下載。",
+      "title": "初學者的Bootstrap--編碼一個簡單的儀表盤佈局"
+    }
+  ]
 }
