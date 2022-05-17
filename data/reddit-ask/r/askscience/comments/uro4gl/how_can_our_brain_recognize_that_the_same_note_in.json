@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I don't know a lot about how sound works neither about how hearing works, so I\nhope this is not a dumb question."
+  "the_new_excerpt": "I don't know a lot about how sound works neither about how hearing works, so I\nhope this is not a dumb question.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "音のしくみも聴こえのしくみもよく知らないので\n馬鹿な質問でないことを祈ります。",
+      "title": "私たちの脳は、同じ音を異なるオクターブで鳴らしても同じ音だと認識することができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我对声音的工作原理了解不多，对听力的工作原理也不了解，所以我\n希望这不是一个愚蠢的问题。",
+      "title": "我们的大脑如何识别不同八度的同一个音符是同一个音符？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我對聲音的工作原理了解不多，對聽力的工作原理也不瞭解，所以我\n希望這不是一個愚蠢的問題。",
+      "title": "我們的大腦如何識別不同八度的同一個音符是同一個音符？"
+    }
+  ]
 }
