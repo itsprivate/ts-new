@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日の夜、初めてのデートをした。彼は私がいつ処女を失ったか尋ねた。私は答えず、ただ帰った。私は正しいことをしたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "昨晚进行了第一次约会。他问我什么时候失去处女之身。我没有回答，我只是离开了。我做得对吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨晚進行了第一次約會。他問我什麼時候失去處女之身。我沒有回答，我只是離開了。我做得對嗎？"
+    }
+  ]
 }
