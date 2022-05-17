@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Because you enjoy it? It helps you sleep? All of the above?? Or not at all!?"
+  "the_new_excerpt": "Because you enjoy it? It helps you sleep? All of the above?? Or not at all!?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "楽しいから？眠れるから？上記のすべて？それとも全くない！？",
+      "title": "大麻を吸う頻度を教えてください。また、その理由は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "因为你喜欢它？它有助于你的睡眠？以上都是？或者根本不是！?",
+      "title": "你多长时间吸一次大麻？以及为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "因爲你喜歡它？它有助於你的睡眠？以上都是？或者根本不是！?",
+      "title": "你多長時間吸一次大麻？以及爲什麼？"
+    }
+  ]
 }
