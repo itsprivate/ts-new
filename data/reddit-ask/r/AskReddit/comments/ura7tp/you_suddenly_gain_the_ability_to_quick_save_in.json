@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "突然、現実の世界で「クイックセーブ」ができるようになったら、あなたは最初に何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在现实生活中突然获得了 \"快速保存 \"的能力--你做的第一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在現實生活中突然獲得了 \"快速保存 \"的能力--你做的第一件事是什麼？"
+    }
+  ]
 }
