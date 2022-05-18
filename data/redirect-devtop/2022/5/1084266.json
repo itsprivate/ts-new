@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-13T10:44:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uwc9uSVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4ad4sdtpo9v0douknv4.png",
   "author": "Aniket Pal",
-  "author_url": "https://dev.to/aniket762"
+  "author_url": "https://dev.to/aniket762",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Git を使い始めてからしばらく経つと、Pull Requests を扱うことが当たり前のようになっていることでしょう。",
+      "title": "Mergifyでプロ並みのプルリクエストをマージする"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你已经使用Git有一段时间了，我相信使用Pull Requests已经是第二件事了。",
+      "title": "用Mergify像专业人士一样合并拉动请求"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你已經使用Git有一段時間了，我相信使用Pull Requests已經是第二件事了。",
+      "title": "用Mergify像專業人士一樣合併拉動請求"
+    }
+  ]
 }
