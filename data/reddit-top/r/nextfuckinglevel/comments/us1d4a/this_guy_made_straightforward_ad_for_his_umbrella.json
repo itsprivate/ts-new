@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は傘のためにまっすぐな広告を作った"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人为他的雨伞做了直接的广告"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人爲他的雨傘做了直接的廣告"
+    }
+  ]
 }
