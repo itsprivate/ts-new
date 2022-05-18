@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-18T03:22:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EZlrIlZQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc4igdnbnt6qn7ebs7nd.png",
   "author": "ashish ",
-  "author_url": "https://dev.to/asheeshh"
+  "author_url": "https://dev.to/asheeshh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードエディターやIDEを使わないコーディングは、メモ帳を使わない限り想像もつかない。さて、あなたは今、何を...",
+      "title": "現在のコードエディター/IDEはどのような設定になっていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在没有代码编辑器或IDE的情况下进行编码是难以想象的，除非你使用记事本。那么，你目前有什么...",
+      "title": "你目前的代码编辑器/IDE设置是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在沒有代碼編輯器或IDE的情況下進行編碼是難以想象的，除非你使用記事本。那麼，你目前有什麼...",
+      "title": "你目前的代碼編輯器/IDE設置是什麼？"
+    }
+  ]
 }
