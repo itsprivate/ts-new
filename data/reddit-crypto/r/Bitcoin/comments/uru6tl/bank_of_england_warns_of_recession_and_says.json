@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イングランド銀行は景気後退を警告し、インフレ率は10％に達すると述べた。"
+    },
+    {
+      "locale": "zh",
+      "title": "英格兰银行警告经济衰退，并称通胀率将达到10％。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "英格蘭銀行警告經濟衰退，並稱通脹率將達到10％。"
+    }
+  ]
 }
