@@ -72,5 +72,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"何かが裏庭の照明を点灯させた。おそらく猫だろう？\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"有东西引爆了后院的灯。可能只是一只猫，对吗？\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"有東西引爆了後院的燈。可能只是一隻貓，對嗎？\""
+    }
+  ]
 }
