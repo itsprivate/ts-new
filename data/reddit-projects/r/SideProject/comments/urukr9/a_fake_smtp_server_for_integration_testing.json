@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I made a fake SMTP server: See what emails your app would send, before you\nrelease to production.\n\nComments and criticism welcome.\n\nhttps://fakemail.stream"
+  "the_new_excerpt": "I made a fake SMTP server: See what emails your app would send, before you\nrelease to production.\n\nComments and criticism welcome.\n\nhttps://fakemail.stream",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "偽のSMTPサーバを作ってみました。アプリがどのようなメールを送信するか、実運用に移す前に確認できます。\nを見ることができます。\n\nコメントや批評をお待ちしています。\n\nhttps://fakemail.stream",
+      "title": "統合テスト用の偽のSMTPサーバー"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我做了一个假的SMTP服务器。在你发布到生产之前，看看你的应用程序会发送什么邮件。\n发布到生产中。\n\n欢迎提出意见和批评。\n\nhttps://fakemail.stream",
+      "title": "一个用于集成测试的假SMTP服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我做了一個假的SMTP服務器。在你發佈到生產之前，看看你的應用程序會發送什麼郵件。\n發佈到生產中。\n\n歡迎提出意見和批評。\n\nhttps://fakemail.stream",
+      "title": "一個用於集成測試的假SMTP服務器"
+    }
+  ]
 }
