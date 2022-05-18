@@ -53,5 +53,22 @@
   "original_created_at": "2022-05-17T22:50:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uPDLCO6J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jg2uevx3xy6yyowu3m7s.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたの想像力を働かせてください。あなたの生活をより良くすることができるのに、そうでない製品について説明できますか？",
+      "title": "存在するはずなのに、存在しない開発者向け製品/ツールは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "发挥你的想象力--你能否描述一种可以使你的生活更轻松的产品，但并没有。",
+      "title": "哪些开发者产品/工具应该存在，但没有？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發揮你的想象力--你能否描述一種可以使你的生活更輕鬆的產品，但並沒有。",
+      "title": "哪些開發者產品/工具應該存在，但沒有？"
+    }
+  ]
 }
