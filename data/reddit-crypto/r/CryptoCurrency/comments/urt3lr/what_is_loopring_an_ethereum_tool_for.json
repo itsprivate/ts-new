@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Loopringとは？分散型取引所・決済のためのEthereumツール"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是Loopring？一个用于去中心化交易所和支付的以太坊工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是Loopring？一個用於去中心化交易所和支付的以太坊工具"
+    }
+  ]
 }

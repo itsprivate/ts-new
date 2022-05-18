@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "質問をググって、質問の後に \"reddit \"と付け加えた人はいますか？意外にもredditは、迷惑なスパムサイトを経由することなく、答えに直接たどり着けるからです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你们中是否有人在谷歌上搜索过一个问题，并在问题后面加上 \"reddit\"，因为令人惊讶的是reddit会让你直接找到答案，而不是通过一个恼人的垃圾邮件网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們中是否有人在谷歌上搜索過一個問題，並在問題後面加上 \"reddit\"，因爲令人驚訝的是reddit會讓你直接找到答案，而不是通過一個惱人的垃圾郵件網站。"
+    }
+  ]
 }
