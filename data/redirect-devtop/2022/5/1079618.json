@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-09T06:15:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1d9PCQ7Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/da2hfeal3hhow50ra8u3.jpg",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "当初、ウェブサイトはすべてHTMLでできていて、テキストしか表示できませんでした（当時は......）。",
+      "title": "JavascriptでDOMを操作する - ノードを選択する方法 (part 1) 👨🏼Ἷ🎢🎢🎢"
+    },
+    {
+      "locale": "zh",
+      "description": "一开始，网站完全是由HTML构成的，它们只能显示文本（在...",
+      "title": "使用Javascript操作DOM - 如何选择节点（第一部分） 👨🏼🔬🎯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一開始，網站完全是由HTML構成的，它們只能顯示文本（在...",
+      "title": "使用Javascript操作DOM - 如何選擇節點（第一部分） 👨🏼🔬🎯"
+    }
+  ]
 }
