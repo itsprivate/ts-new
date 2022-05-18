@@ -12,5 +12,19 @@
   ],
   "objectID": "31420106",
   "original_created_at": "2022-05-18T07:26:13.000Z",
-  "image": "https://about.gitlab.com/images/blogimages/KubeCon2022.jpg"
+  "image": "https://about.gitlab.com/images/blogimages/KubeCon2022.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "KubernetesのPID 1を気にすることで502エラーを削減しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们通过关心Kubernetes中的PID 1来减少502错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們通過關心Kubernetes中的PID 1來減少502錯誤"
+    }
+  ]
 }
