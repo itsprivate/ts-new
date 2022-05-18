@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言うべきことは言うホットテイク"
+    },
+    {
+      "locale": "zh",
+      "title": "需要说的热门话题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "需要說的熱門話題"
+    }
+  ]
 }
