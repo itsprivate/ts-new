@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-16T18:56:25Z",
   "image": "https://dev.to/social_previews/article/1087265.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "マージンやパディングに0値を使用しない 多くの場合、マージンやパディングに0値を使用する習慣があります。",
+      "title": "CSSは魔法じゃない。私の好きなCSSのトリック3つ"
+    },
+    {
+      "locale": "zh",
+      "description": "没有0值的页边距和衬垫 很多时候，有一种做法是使用0值的页边距和衬垫。",
+      "title": "CSS并不神奇。我最喜欢的3个CSS技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "沒有0值的頁邊距和襯墊 很多時候，有一種做法是使用0值的頁邊距和襯墊。",
+      "title": "CSS並不神奇。我最喜歡的3個CSS技巧"
+    }
+  ]
 }
