@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-16T21:33:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--clWsoi8R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w75oqliannbz1dh8fnja.png",
   "author": "Erin Bensinger",
-  "author_url": "https://dev.to/erinposting"
+  "author_url": "https://dev.to/erinposting",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、DEVコミュニティです。エキサイティングなお知らせをお伝えします🗣‼️ ...",
+      "title": "コミュニティ・ウェルネス・バッジであなたのコメント連投をアピール"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，DEV社区! 我在这里与你分享一个令人兴奋的消息 🗣️ ...",
+      "title": "用社区健康徽章炫耀你的评论连连看"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，DEV社區! 我在這裏與你分享一個令人興奮的消息 🗣️ ...",
+      "title": "用社區健康徽章炫耀你的評論連連看"
+    }
+  ]
 }
