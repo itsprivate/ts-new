@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完全に間違っている楽しい事実はどれですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些有趣的事实是完全错误的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些有趣的事實是完全錯誤的？"
+    }
+  ]
 }
