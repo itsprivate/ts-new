@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-18T10:41:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y_ESKDJE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mhky0nnd12fbnvn8mkdl.png",
   "author": "haimantika mitra",
-  "author_url": "https://dev.to/haimantika"
+  "author_url": "https://dev.to/haimantika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたは、自分でブログを始めようと思うような状況になったことがありますか？ありますか？何があなたを止めるのでしょうか？その...",
+      "title": "AppwriteとHugoでオープンソース・ブログ・プラットフォームを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否遇到过这样的情况，想到要开自己的博客？有吗？是什么阻止了你？是的。",
+      "title": "用Appwrite和Hugo建立一个开源的博客平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否遇到過這樣的情況，想到要開自己的博客？有嗎？是什麼阻止了你？是的。",
+      "title": "用Appwrite和Hugo建立一個開源的博客平臺"
+    }
+  ]
 }

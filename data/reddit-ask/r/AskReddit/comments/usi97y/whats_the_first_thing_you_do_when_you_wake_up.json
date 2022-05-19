@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "朝起きて、最初にすることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你醒来后做的第一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你醒來後做的第一件事是什麼？"
+    }
+  ]
 }
