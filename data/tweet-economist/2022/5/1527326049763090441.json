@@ -101,5 +101,22 @@
     "retweet_count": 76,
     "favorite_count": 262,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @Birdyword: 日本はかつて超少子化で知られていた。それでもまだ低いのですが、実は今、先進国の中で最も高い出生率になっています。",
+      "retweeted_status_full_text": "日本はかつて超少子化で知られた国であった。しかし、現在では、東アジアの先進国の中で最も高い出生率となっており、出生率が低下している中国と同率となっています。\n\n住宅価格と収入の比率が20倍でないことも影響しているのだろう。\nhttps://t.co/dgu7pnTwdF https://t.co/4PeJGabSnD"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @Birdyword: 日本曾经以超低的出生率而闻名。虽然仍然很低，但它现在实际上是发达国家中生育率最高的国家。",
+      "retweeted_status_full_text": "日本曾经以超低的出生率而闻名。虽然仍然很低，但它现在实际上是东亚发达国家中生育率最高的国家，并与中国并列，而中国的生育率仍在下降。\n\n没有20倍的房价/收入可能有帮助。\nhttps://t.co/dgu7pnTwdF https://t.co/4PeJGabSnD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @Birdyword: 日本曾經以超低的出生率而聞名。雖然仍然很低，但它現在實際上是發達國家中生育率最高的國家。",
+      "retweeted_status_full_text": "日本曾經以超低的出生率而聞名。雖然仍然很低，但它現在實際上是東亞發達國家中生育率最高的國家，並與中國並列，而中國的生育率仍在下降。\n\n沒有20倍的房價/收入可能有幫助。\nhttps://t.co/dgu7pnTwdF https://t.co/4PeJGabSnD"
+    }
+  ]
 }
