@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-19T07:17:22Z"
+  "original_createdAt": "2022-05-19T07:17:22Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "統合するのに最適な API と SaaS 製品を見つけることができます。API 仕様、開発者の体験、API ドキュメント、SDK、開発者ドキュメント、IDE サポート、プラットフォームの強度、認証、および API スタイルを追跡します。",
+      "tagline": "世界最大級のAPI検索エンジン「IMDB for APIs"
+    },
+    {
+      "locale": "zh",
+      "description": "发现最好的API和SaaS产品，以便与之整合。追踪API规格、开发者经验、API文档、SDK、开发者文档、IDE支持、平台强度、认证和API风格。",
+      "tagline": "IMDB for APIs，世界上最大的API搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發現最好的API和SaaS產品，以便與之整合。追蹤API規格、開發者經驗、API文檔、SDK、開發者文檔、IDE支持、平臺強度、認證和API風格。",
+      "tagline": "IMDB for APIs，世界上最大的API搜索引擎"
+    }
+  ]
 }
