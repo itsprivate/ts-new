@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはもう、本当に悲しいことです"
+    },
+    {
+      "locale": "zh",
+      "title": "现在真的越来越悲哀了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在真的越來越悲哀了"
+    }
+  ]
 }
