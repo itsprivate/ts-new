@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは心の健康のために仕事を辞めますか？その理由または理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你会为了心理健康而辞去工作吗？为什么或为什么不呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會爲了心理健康而辭去工作嗎？爲什麼或爲什麼不呢？"
+    }
+  ]
 }
