@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヒストリーチャンネルで見た覚えはないのですが"
+    },
+    {
+      "locale": "zh",
+      "title": "我不记得在历史频道上看过这个节目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我不記得在歷史頻道上看過這個節目"
+    }
+  ]
 }
