@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-19T07:01:00Z"
+  "original_createdAt": "2022-05-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アンロックは、会員制NFTを利用した定期購読の仕組みを世界で初めて構築しました。このUnlock Protocolのアップグレードにより、集中型決済を用いるレガシーな定期購入システムを分散型Web3モデルで置き換える道が開かれます。",
+      "tagline": "NFTを利用した定期購読の開始"
+    },
+    {
+      "locale": "zh",
+      "description": "Unlock首次创建了使用会员制NFT的循环订阅机制。解锁协议的这一升级为用去中心化的Web3模式取代使用集中支付的传统订阅系统铺平了道路。",
+      "tagline": "使用NFT启动经常性订阅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Unlock首次創建了使用會員制NFT的循環訂閱機制。解鎖協議的這一升級爲用去中心化的Web3模式取代使用集中支付的傳統訂閱系統鋪平了道路。",
+      "tagline": "使用NFT啓動經常性訂閱"
+    }
+  ]
 }
