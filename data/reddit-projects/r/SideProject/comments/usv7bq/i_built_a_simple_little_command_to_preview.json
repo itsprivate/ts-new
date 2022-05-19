@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Markdownファイルをブラウザでプレビューするための簡単なコマンドを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个简单的小命令来在你的浏览器中预览Markdown文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個簡單的小命令來在你的瀏覽器中預覽Markdown文件"
+    }
+  ]
 }

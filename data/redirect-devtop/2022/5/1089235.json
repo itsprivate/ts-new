@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-18T19:31:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ehsLmyOa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zrxbbyftfcqrc9x875c.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週のDevDiscussでは、Foremチームから@aritdeveloperと@jeremyfをお迎えして、...",
+      "title": "DEV {% embed %} コードの作成方法 🎙。"
+    },
+    {
+      "locale": "zh",
+      "description": "在本周的DevDiscuss节目中，我们欢迎来自Forem团队的@aritdeveloper和@jeremyf参加。",
+      "title": "DEV {% embed %}代码是如何创建的 🎙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本週的DevDiscuss節目中，我們歡迎來自Forem團隊的@aritdeveloper和@jeremyf參加。",
+      "title": "DEV {% embed %}代碼是如何創建的 🎙"
+    }
+  ]
 }
