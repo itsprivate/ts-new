@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-19T00:48:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uvKc5KAo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxllm5v71qzvqhj8vv4c.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デジタルアクセスとインクルージョンの意識を高めることに特化したこの祭典のために、DEVの過去のa11y投稿の中から、お気に入りのものをご紹介します。",
+      "title": "グローバル・アクセシビリティ・アウェアネス・デーおめでとうございます。"
+    },
+    {
+      "locale": "zh",
+      "description": "本着为这个致力于提高数字访问和包容性的庆祝活动提高认识的精神，这里有一些我们最喜欢的过去在DEV上的a11y帖子。",
+      "title": "全球无障碍意识日快乐!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本着爲這個致力於提高數字訪問和包容性的慶祝活動提高認識的精神，這裏有一些我們最喜歡的過去在DEV上的a11y帖子。",
+      "title": "全球無障礙意識日快樂!"
+    }
+  ]
 }
