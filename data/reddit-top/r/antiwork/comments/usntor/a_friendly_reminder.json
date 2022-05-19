@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "親切な注意喚起"
+    },
+    {
+      "locale": "zh",
+      "title": "一个友好的提醒"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個友好的提醒"
+    }
+  ]
 }
