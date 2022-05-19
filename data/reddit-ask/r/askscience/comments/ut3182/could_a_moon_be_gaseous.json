@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is it possible for there to be a moon made out of gas like Jupiter or Saturn?"
+  "the_new_excerpt": "Is it possible for there to be a moon made out of gas like Jupiter or Saturn?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "木星や土星のように、ガスでできた月が存在する可能性はあるのでしょうか？",
+      "title": "月がガス状である可能性は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "是否有可能出现像木星或土星那样由气体组成的卫星？",
+      "title": "月球可能是气态的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "是否有可能出現像木星或土星那樣由氣體組成的衛星？",
+      "title": "月球可能是氣態的嗎？"
+    }
+  ]
 }
