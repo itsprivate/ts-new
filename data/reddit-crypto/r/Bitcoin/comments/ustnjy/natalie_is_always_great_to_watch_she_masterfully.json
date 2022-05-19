@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ナタリーはいつも見ていて素晴らしい。彼女はビットコインや最近の状況を見事に説明してくれます。"
+    },
+    {
+      "locale": "zh",
+      "title": "Natalie总是很值得一看。她巧妙地解释了比特币和最近发生的事情。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Natalie總是很值得一看。她巧妙地解釋了比特幣和最近發生的事情。"
+    }
+  ]
 }
