@@ -53,5 +53,22 @@
   "original_created_at": "2022-05-19T01:10:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qfKZ38Rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m4jn63dgidq2r1r2d9sh.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたの想像力を働かせてください。あなたの生活をより良くすることができるのに、そうでない製品について説明できますか？",
+      "title": "会社を設立しようと思ったことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "发挥你的想象力--你能否描述一种可以使你的生活更轻松的产品，但并没有。",
+      "title": "你是否考虑过开一家公司？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發揮你的想象力--你能否描述一種可以使你的生活更輕鬆的產品，但並沒有。",
+      "title": "你是否考慮過開一家公司？"
+    }
+  ]
 }
