@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Wordleで最適な推測を見つけるためのPythonスクリプトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个python脚本，帮助你在Wordle中找到最佳猜测。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個python腳本，幫助你在Wordle中找到最佳猜測。"
+    }
+  ]
 }
