@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-18T05:54:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eD8b2PQY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1ffxtms4paufvzkivrn.png",
   "author": "Pavan Belagatti",
-  "author_url": "https://dev.to/pavanbelagatti"
+  "author_url": "https://dev.to/pavanbelagatti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この短いステップバイステップのチュートリアルで、NodeアプリケーションのDocker化のすべてを学びましょう！...",
+      "title": "Node.jsアプリケーションのDocker化"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个简短而温馨的分步教程中，您可以了解到所有关于Dockerizing您的Node应用程序的信息。",
+      "title": "Dockerizing你的Node.js应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個簡短而溫馨的分步教程中，您可以瞭解到所有關於Dockerizing您的Node應用程序的信息。",
+      "title": "Dockerizing你的Node.js應用程序"
+    }
+  ]
 }
