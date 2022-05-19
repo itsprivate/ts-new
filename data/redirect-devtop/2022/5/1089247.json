@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-18T20:08:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QG_TRZZ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h77i5l7mlirg3471p55v.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web Components Communityの立ち上げに注目したいと思います。 これは、Web Componentsのための新しいForemです...",
+      "title": "Web Componentsをもっと深く知りたい方はこちら"
+    },
+    {
+      "locale": "zh",
+      "description": "我想强调一下网络组件社区的启动!  这是一个新的Forem，专门用于...",
+      "title": "对深入了解网络组件感兴趣吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想強調一下網絡組件社區的啓動!  這是一個新的Forem，專門用於...",
+      "title": "對深入瞭解網絡組件感興趣嗎？"
+    }
+  ]
 }

@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインにやる気を起こさせる歌を歌う。"
+    },
+    {
+      "locale": "zh",
+      "title": "给我的硬币唱励志歌曲。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給我的硬幣唱勵志歌曲。"
+    }
+  ]
 }
