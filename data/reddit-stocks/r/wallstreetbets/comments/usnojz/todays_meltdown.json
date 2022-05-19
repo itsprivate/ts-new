@@ -188,5 +188,19 @@
   },
   "is_video": true,
   "original_created_utc": 1652910410,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日のメルトダウン"
+    },
+    {
+      "locale": "zh",
+      "title": "今天的熔断"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天的熔斷"
+    }
+  ]
 }
