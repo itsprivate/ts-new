@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コードのエラーに基づいてDoomの「痛い顔」を表示するVS Codeエクステンションを作りました!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个VS代码扩展，它可以根据你的代码中的错误向你显示一个Doom'哎哟脸'!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個VS代碼擴展，它可以根據你的代碼中的錯誤向你顯示一個Doom'哎喲臉'!"
+    }
+  ]
 }
