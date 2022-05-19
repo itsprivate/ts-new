@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-19T07:01:00Z"
+  "original_createdAt": "2022-05-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "既存のスキーマ設計（Code/Schema first）、HTTPサーバーライブラリ（Express, Fastify, Next.js, SvelteKitなど）、デプロイ環境（Cloudflare Workers, Deno, AWS Lambdaなど）に対応し、GraphQLエコシステムを活用することが可能です。",
+      "tagline": "フル装備のGraphQLサーバー"
+    },
+    {
+      "locale": "zh",
+      "description": "通过与现有的模式设计（代码/模式优先）、HTTP服务器库（Express、Fastify、Next.js、SvelteKit等）和部署环境（Cloudflare Workers、Deno、AWS Lambda等）兼容，充分利用GraphQL生态系统。",
+      "tagline": "功能齐全的GraphQL服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過與現有的模式設計（代碼/模式優先）、HTTP服務器庫（Express、Fastify、Next.js、SvelteKit等）和部署環境（Cloudflare Workers、Deno、AWS Lambda等）兼容，充分利用GraphQL生態系統。",
+      "tagline": "功能齊全的GraphQL服務器"
+    }
+  ]
 }
