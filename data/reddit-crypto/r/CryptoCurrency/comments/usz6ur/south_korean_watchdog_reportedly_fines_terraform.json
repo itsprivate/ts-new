@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "韓国当局、Terraform Labsに脱税で7800万ドルの罰金と報道"
+    },
+    {
+      "locale": "zh",
+      "title": "据报道，韩国监察部门对Terraform实验室的逃税行为罚款7800万美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "據報道，韓國監察部門對Terraform實驗室的逃稅行爲罰款7800萬美元"
+    }
+  ]
 }
