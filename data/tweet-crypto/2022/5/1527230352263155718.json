@@ -138,5 +138,22 @@
     "retweet_count": 1751,
     "favorite_count": 3628,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JamesMelville: ここには見るべきものが全くない。何一つない。https://t.co/8ROX3z6nzr",
+      "retweeted_status_full_text": "見るべきものが全くない 何にもない。https://t.co/8ROX3z6nzr"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JamesMelville: 这里绝对没有什么可看的。什么都没有。https://t.co/8ROX3z6nzr",
+      "retweeted_status_full_text": "这里绝对没有什么可看的。什么都没有。https://t.co/8ROX3z6nzr"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JamesMelville: 這裏絕對沒有什麼可看的。什麼都沒有。https://t.co/8ROX3z6nzr",
+      "retweeted_status_full_text": "這裏絕對沒有什麼可看的。什麼都沒有。https://t.co/8ROX3z6nzr"
+    }
+  ]
 }
