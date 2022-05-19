@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この通りはとても暑いので、販売員の女性は子猫を店内に入れ、冷凍庫の上で寝かせます"
+    },
+    {
+      "locale": "zh",
+      "title": "街上很热，所以女售货员允许小猫进入商店，在冰柜上睡觉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "街上很熱，所以女售貨員允許小貓進入商店，在冰櫃上睡覺。"
+    }
+  ]
 }
