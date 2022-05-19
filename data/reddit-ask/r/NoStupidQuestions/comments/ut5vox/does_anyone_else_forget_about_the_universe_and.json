@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "宇宙のことを忘れていて、思い出して「ああ、そうだ、宇宙だ、すごいな。"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有人忘记了宇宙，然后想起并说：\"哦，是啊，该死的宇宙，这太疯狂了，这到底是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有人忘記了宇宙，然後想起並說：\"哦，是啊，該死的宇宙，這太瘋狂了，這到底是什麼？"
+    }
+  ]
 }
