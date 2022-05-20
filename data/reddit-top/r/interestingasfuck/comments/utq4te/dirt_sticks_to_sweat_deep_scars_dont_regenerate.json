@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "汗に汚れはつきもの。深い傷は汗の亀頭で再生されないため、汚れは付着しない"
+    },
+    {
+      "locale": "zh",
+      "title": "汗水粘附的污垢。深层疤痕不会随着汗液龟裂而再生，因此污垢不会粘附在它上面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "汗水粘附的污垢。深層疤痕不會隨着汗液龜裂而再生，因此污垢不會粘附在它上面"
+    }
+  ]
 }
