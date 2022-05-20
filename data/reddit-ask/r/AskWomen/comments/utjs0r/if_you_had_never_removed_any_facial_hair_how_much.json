@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、顔の毛を一切処理していなかったら、どれくらいになるのでしょうか？また、どの程度目立つでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你从未去除任何面部毛发，你会有多少？会有多明显？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你從未去除任何面部毛髮，你會有多少？會有多明顯？"
+    }
+  ]
 }
