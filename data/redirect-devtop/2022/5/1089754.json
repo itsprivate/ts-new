@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-19T11:08:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UMlDQfP3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hotyuti3n2a303id094m.jpg",
   "author": "Kuldeep Tarapara",
-  "author_url": "https://dev.to/kuldeeptarapara"
+  "author_url": "https://dev.to/kuldeeptarapara",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラスベースのコンポーネントは、これまでステートやライフサイクルのようなReactの機能にアクセスすることができました。",
+      "title": "2022年のReact Hooksのベストプラクティス"
+    },
+    {
+      "locale": "zh",
+      "description": "基于类的组件以前可以使用React的功能，如状态和生命周期。",
+      "title": "2022年的React Hooks最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基於類的組件以前可以使用React的功能，如狀態和生命週期。",
+      "title": "2022年的React Hooks最佳實踐"
+    }
+  ]
 }
