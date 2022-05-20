@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "保存していない連絡先にWhatsappメッセージを送信します。"
+    },
+    {
+      "locale": "zh",
+      "title": "向未保存的联系人号码发送Whatsapp信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "向未保存的聯繫人號碼發送Whatsapp信息。"
+    }
+  ]
 }
