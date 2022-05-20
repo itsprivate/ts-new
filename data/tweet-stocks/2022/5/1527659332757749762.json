@@ -1,0 +1,88 @@
+{
+  "created_at": "Fri May 20 19:37:9 +0000 2022",
+  "id_str": "1527659332757749762",
+  "full_text": "$TSLA is down 30% since $TWTR accepted @elonmusk's bid https://t.co/trv3lv9RcU",
+  "display_text_range": [
+    0,
+    54
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "TSLA",
+        "indices": [
+          0,
+          5
+        ]
+      },
+      {
+        "text": "TWTR",
+        "indices": [
+          24,
+          29
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "elonmusk",
+        "name": "Elon Musk",
+        "id": 44196397,
+        "id_str": "44196397",
+        "indices": [
+          39,
+          48
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1527659278504542200,
+        "id_str": "1527659278504542210",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/media/FTNWBRkXwAIcCSU.png",
+        "media_url_https": "https://pbs.twimg.com/media/FTNWBRkXwAIcCSU.png",
+        "url": "https://t.co/trv3lv9RcU",
+        "display_url": "pic.twitter.com/trv3lv9RcU",
+        "expanded_url": "https://twitter.com/Stocktwits/status/1527659332757749762/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 681,
+            "h": 456,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 455,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 681,
+            "h": 456,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Stocktwits",
+    "screen_name": "Stocktwits",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1464337316965720069/bZ4-cEg3_normal.jpg"
+  },
+  "retweet_count": 44,
+  "favorite_count": 218,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri May 20 14:35:42 +0000 2022"
+}
