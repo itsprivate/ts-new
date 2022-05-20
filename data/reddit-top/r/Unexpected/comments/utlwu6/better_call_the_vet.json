@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "獣医に電話したほうがいい"
+    },
+    {
+      "locale": "zh",
+      "title": "最好打电话给兽医"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最好打電話給獸醫"
+    }
+  ]
 }
