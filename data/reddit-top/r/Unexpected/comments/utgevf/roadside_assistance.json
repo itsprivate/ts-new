@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロードサイドアシスタンス"
+    },
+    {
+      "locale": "zh",
+      "title": "路边援助"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "路邊援助"
+    }
+  ]
 }
