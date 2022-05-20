@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"連邦準備銀行には無限の現金がある\" -ニール・カシュカリ連邦準備制度理事会ミネアポリス総裁"
+    },
+    {
+      "locale": "zh",
+      "title": "\"在美联储有无限量的现金。\" -尼尔-卡什卡利 美联储明尼阿波利斯主席"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"在美聯儲有無限量的現金。\" -尼爾-卡什卡利 美聯儲明尼阿波利斯主席"
+    }
+  ]
 }
