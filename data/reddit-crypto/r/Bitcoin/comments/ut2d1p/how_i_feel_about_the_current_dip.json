@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在のディップをどう感じているか"
+    },
+    {
+      "locale": "zh",
+      "title": "我对当前下跌的感受"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我對當前下跌的感受"
+    }
+  ]
 }

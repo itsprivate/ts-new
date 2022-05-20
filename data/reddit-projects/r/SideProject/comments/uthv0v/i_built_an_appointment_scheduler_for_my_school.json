@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DjangoとBootstrapを使って学校の予約スケジューラーを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用Django和Bootstrap为我的学校建立了一个预约调度器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用Django和Bootstrap爲我的學校建立了一個預約調度器"
+    }
+  ]
 }
