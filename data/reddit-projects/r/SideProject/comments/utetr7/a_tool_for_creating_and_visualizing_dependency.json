@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "依存関係ツリーをオンザフライで作成・視覚化するツール"
+    },
+    {
+      "locale": "zh",
+      "title": "一个用于快速创建和可视化依赖关系树的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個用於快速創建和可視化依賴關係樹的工具"
+    }
+  ]
 }
