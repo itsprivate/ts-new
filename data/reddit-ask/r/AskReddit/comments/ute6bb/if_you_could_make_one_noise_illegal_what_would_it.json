@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、1つだけ違法な音を出すことができるとしたら、それは何でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能制造一种非法的噪音，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能製造一種非法的噪音，那會是什麼？"
+    }
+  ]
 }
