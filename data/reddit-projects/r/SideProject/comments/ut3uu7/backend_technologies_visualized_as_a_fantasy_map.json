@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファンタジーマップとして可視化されたバックエンド技術 - もしPHP、ASP.NET、Ruby、Java、Scalaが国であったら"
+    },
+    {
+      "locale": "zh",
+      "title": "后台技术可视化的幻想地图 - 如果PHP、ASP.NET、Ruby、Java或Scala是国家的话"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "後臺技術可視化的幻想地圖 - 如果PHP、ASP.NET、Ruby、Java或Scala是國家的話"
+    }
+  ]
 }
