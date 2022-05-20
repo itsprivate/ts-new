@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロット：彼はシニアエンジニアである"
+    },
+    {
+      "locale": "zh",
+      "title": "剧情转折：他是一名高级工程师"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "劇情轉折：他是一名高級工程師"
+    }
+  ]
 }
