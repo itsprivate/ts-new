@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "[removed]"
+  "the_new_excerpt": "[removed]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "[削除されました]。",
+      "title": "なぜサーバーは、正当な賃金を払わない雇用主ではなく、チップを払わない客に怒るのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "[删除]",
+      "title": "为什么服务员会对不付小费的顾客发火，而不是对不给他们公平工资的雇主发火？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "[刪除]",
+      "title": "爲什麼服務員會對不付小費的顧客發火，而不是對不給他們公平工資的僱主發火？"
+    }
+  ]
 }
