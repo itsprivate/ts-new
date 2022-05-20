@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-19T14:36:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hwHEn9yi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d70zi1bhtdwpdv3samqb.png",
   "author": "Justin Schroeder",
-  "author_url": "https://dev.to/justinschroeder"
+  "author_url": "https://dev.to/justinschroeder",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザーインターフェースの構築では、ちょっとした動作が大きな意味を持ちます。例えば、...",
+      "title": "AutoAnimateの紹介 - 1行のコードであなたのアプリケーションにモーションを追加します。"
+    },
+    {
+      "locale": "zh",
+      "description": "当涉及到构建用户界面时，一个小小的动作就能起到很大的作用。无论你是在添加一个新产品，还是在添加一个新产品。",
+      "title": "介绍一下AutoAnimate--只需一行代码就能为你的应用程序添加动作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當涉及到構建用戶界面時，一個小小的動作就能起到很大的作用。無論你是在添加一個新產品，還是在添加一個新產品。",
+      "title": "介紹一下AutoAnimate--只需一行代碼就能爲你的應用程序添加動作。"
+    }
+  ]
 }
