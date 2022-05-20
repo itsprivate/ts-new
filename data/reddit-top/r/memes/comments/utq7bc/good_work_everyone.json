@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さん、お疲れ様でした"
+    },
+    {
+      "locale": "zh",
+      "title": "干得好，各位"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幹得好，各位"
+    }
+  ]
 }
