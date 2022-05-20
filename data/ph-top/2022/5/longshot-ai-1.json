@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-20T07:01:00Z"
+  "original_createdAt": "2022-05-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LongShotはAIを搭載した長文コンテンツアシスタントで、あなたのアイデアを数分でSEOに強いコンテンツに変えてくれます。LongShotは、新鮮で本物の、SEOに強いコンテンツを目指しています（ファクトチェックやセマンティックSEOスコアなどのユニークなツールを使用します）。",
+      "tagline": "アイデアから調査、SEOコンテンツまで数分で完了"
+    },
+    {
+      "locale": "zh",
+      "description": "LongShot是一个由人工智能驱动的长篇内容助手，可以在几分钟内将你的想法变成对搜索引擎友好的内容。LongShot致力于提供新鲜、真实、SEO友好的内容（有独特的工具，如事实核查和语义SEO评分）。",
+      "tagline": "在几分钟内完成从想法到研究到SEO内容的转变"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LongShot是一個由人工智能驅動的長篇內容助手，可以在幾分鐘內將你的想法變成對搜索引擎友好的內容。LongShot致力於提供新鮮、真實、SEO友好的內容（有獨特的工具，如事實覈查和語義SEO評分）。",
+      "tagline": "在幾分鐘內完成從想法到研究到SEO內容的轉變"
+    }
+  ]
 }
