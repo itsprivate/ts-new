@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-19T20:28:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sITPi3Ps--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ezm12g0dxk3wq63aekpd.png",
   "author": "Rich Kurtzman",
-  "author_url": "https://dev.to/richkurtzman"
+  "author_url": "https://dev.to/richkurtzman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトを構築している方であれば、お気に入りのJavaScriptフレームワークがあるのではないでしょうか。   そして、それは...",
+      "title": "React開発者がアーケードにSvelteを採用した理由"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你建立网站，你可能有一个你最喜欢的JavaScript框架。   而且它不应该...",
+      "title": "为什么一个React开发者使用Svelte做街机？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你建立網站，你可能有一個你最喜歡的JavaScript框架。   而且它不應該...",
+      "title": "爲什麼一個React開發者使用Svelte做街機？"
+    }
+  ]
 }
