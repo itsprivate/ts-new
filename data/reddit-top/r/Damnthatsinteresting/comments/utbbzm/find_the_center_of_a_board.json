@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ボードの中心を求める"
+    },
+    {
+      "locale": "zh",
+      "title": "寻找棋盘的中心"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "尋找棋盤的中心"
+    }
+  ]
 }

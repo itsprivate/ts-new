@@ -53,5 +53,22 @@
   "original_created_at": "2022-05-19T22:57:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f402qWfU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugc70n4pmhkfkf1h66ki.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、「メイフィールド＋DEV談義」シリーズの一部です。どうぞ、お気軽に戻ってお答えください。",
+      "title": "あなたが使っているお気に入りのソフトウェア製品トップ3を挙げてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "这个帖子是梅菲尔德+DEV讨论系列的一部分。请随时回去回答...",
+      "title": "说出你最喜欢使用的3个软件产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個帖子是梅菲爾德+DEV討論系列的一部分。請隨時回去回答...",
+      "title": "說出你最喜歡使用的3個軟件產品"
+    }
+  ]
 }
