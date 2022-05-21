@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-21T06:37:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CmPZVdAM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cbmk9vgy1w3zr7e2wd4l.jpg",
   "author": "Denyse",
-  "author_url": "https://dev.to/dmutoni"
+  "author_url": "https://dev.to/dmutoni",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは👋 デニーズです。このシリーズは、今後フラッターについて書きたい第一章です...。",
+      "title": "Dartの簡単な紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们 👋 我是Denyse，这个系列是我想在未来写的关于flutter的第一章。",
+      "title": "对Dart的简要介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們 👋 我是Denyse，這個系列是我想在未來寫的關於flutter的第一章。",
+      "title": "對Dart的簡要介紹"
+    }
+  ]
 }
