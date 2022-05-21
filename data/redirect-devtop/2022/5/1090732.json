@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-20T10:14:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CX6NYaV2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z09tf70qah4lawngdy2z.png",
   "author": "IsraelMitolu",
-  "author_url": "https://dev.to/israelmitolu"
+  "author_url": "https://dev.to/israelmitolu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "というわけで、以前から気になっていた企画なのですが、あまり考えもせず、努力もせず......。",
+      "title": "最小限のECショッピングアプリを作ることで、React Context APIの仕組みを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，这是一个在我心中已经有一段时间的项目，但我没有投入太多的思考和努力...",
+      "title": "通过建立一个最小的电子商务购物应用程序，了解React Context API是如何工作的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，這是一個在我心中已經有一段時間的項目，但我沒有投入太多的思考和努力...",
+      "title": "通過建立一個最小的電子商務購物應用程序，瞭解React Context API是如何工作的"
+    }
+  ]
 }
