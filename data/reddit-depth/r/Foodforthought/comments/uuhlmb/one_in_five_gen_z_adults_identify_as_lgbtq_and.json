@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ギャラップ社の世論調査によると、Z世代の成人の5人に1人がLGBTQであると認めており、この数はさらに増加すると予想されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据盖洛普民意调查，五分之一的Z世代成年人认定为LGBTQ--而且这一数字预计只会上升。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據蓋洛普民意調查，五分之一的Z世代成年人認定爲LGBTQ--而且這一數字預計只會上升。"
+    }
+  ]
 }
