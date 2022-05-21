@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トラックに乗るバカはカウントされるのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "卡车里的白痴也算吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "卡車裏的白癡也算嗎？"
+    }
+  ]
 }
