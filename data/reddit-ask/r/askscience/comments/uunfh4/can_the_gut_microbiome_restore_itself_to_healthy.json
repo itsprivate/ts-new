@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "腸内細菌は抗生物質投与後に健康な状態に戻すことができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "使用抗生素后，肠道微生物组能否自我恢复到健康水平，如果可以，这需要多长时间？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用抗生素後，腸道微生物組能否自我恢復到健康水平，如果可以，這需要多長時間？"
+    }
+  ]
 }
