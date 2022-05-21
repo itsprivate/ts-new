@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-20T10:48:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O2MYqsnq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6128choqhzrlfbvuykwj.png",
   "author": "Jasur Kurbanov",
-  "author_url": "https://dev.to/jasurkurbanovinit"
+  "author_url": "https://dev.to/jasurkurbanovinit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "以前、Reactを使ってapiからExcelにデータを書き出すという記事を書きましたが、その際にこんなコメントがありました。",
+      "title": "Reactを使ってApiからExcelにデータを書き出す方法（カスタムヘッダーを含む）"
+    },
+    {
+      "locale": "zh",
+      "description": "在我之前的文章中，关于使用React从api导出数据到Excel，有一些评论认为...",
+      "title": "如何使用React从Api导出数据到Excel（包括自定义标题）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我之前的文章中，關於使用React從api導出數據到Excel，有一些評論認爲...",
+      "title": "如何使用React從Api導出數據到Excel（包括自定義標題）。"
+    }
+  ]
 }

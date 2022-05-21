@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-19T15:43:27Z",
   "image": "https://dev.to/social_previews/article/1090037.png",
   "author": "Rahul Yadav",
-  "author_url": "https://dev.to/rahulyadav139"
+  "author_url": "https://dev.to/rahulyadav139",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NextJSとは？  NextJSは、NextJSの上に構築された、オープンソースのWeb開発フレームワークです。",
+      "title": "NextJSの初心者向けガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是NextJS？  NextJS是一个开源的网络开发框架，建立在...",
+      "title": "NextJS的初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是NextJS？  NextJS是一個開源的網絡開發框架，建立在...",
+      "title": "NextJS的初學者指南"
+    }
+  ]
 }
