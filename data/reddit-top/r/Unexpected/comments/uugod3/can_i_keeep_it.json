@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このままでいいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我可以保留它吗 🥺"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我可以保留它嗎 🥺"
+    }
+  ]
 }
