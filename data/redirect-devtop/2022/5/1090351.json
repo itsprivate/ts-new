@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-19T23:18:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P9oMSRq6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04w6qdisxz9lm9zzaovn.png",
   "author": "Ryosuke",
-  "author_url": "https://dev.to/whoisryosuke"
+  "author_url": "https://dev.to/whoisryosuke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BlenderやMayaからUnityやUnrealまで、3Dやゲーム開発にどっぷりハマっています...。",
+      "title": "React Three FiberとNextJSのスターターテンプレート"
+    },
+    {
+      "locale": "zh",
+      "description": "我一直在真正接触3D和游戏开发，从Blender和Maya到Unity和Unreal...",
+      "title": "React三纤维和NextJS入门模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一直在真正接觸3D和遊戲開發，從Blender和Maya到Unity和Unreal...",
+      "title": "React三纖維和NextJS入門模板"
+    }
+  ]
 }
