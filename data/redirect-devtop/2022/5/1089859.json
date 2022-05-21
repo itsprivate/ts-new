@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-19T14:03:02Z",
   "image": "https://dev.to/social_previews/article/1089859.png",
   "author": "Kithmini Indimagedara🌸",
-  "author_url": "https://dev.to/kithminiii"
+  "author_url": "https://dev.to/kithminiii",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "a11y」って何だろう🤔？ A11y - ACCESSIBILITY なぜ「a11y」と書くのでしょうか？ なぜなら、\"a \"の間に...。",
+      "title": "アクセシビリティ（A11y）なぜそんなに重要なのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是 \"a11y\" 🤔？ A11y - ACCESSIBILITY 为什么我们要写 \"a11y\"？ 因为在字母 \"a \"之间...",
+      "title": "无障碍环境（A11y）为何如此重要？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是 \"a11y\" 🤔？ A11y - ACCESSIBILITY 爲什麼我們要寫 \"a11y\"？ 因爲在字母 \"a \"之間...",
+      "title": "無障礙環境（A11y）爲何如此重要？"
+    }
+  ]
 }
