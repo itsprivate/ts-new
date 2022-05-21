@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんな気持ちでいいのだろうか...。"
+    },
+    {
+      "locale": "zh",
+      "title": "这样的感觉可以吗...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這樣的感覺可以嗎...."
+    }
+  ]
 }
