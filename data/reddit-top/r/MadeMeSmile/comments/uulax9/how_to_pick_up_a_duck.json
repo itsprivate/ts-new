@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カモの拾い方"
+    },
+    {
+      "locale": "zh",
+      "title": "如何捡起一只鸭子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何撿起一隻鴨子"
+    }
+  ]
 }
