@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロジェクトのストリームとビデオのためのオープンソースホーム、Progressを作りました。公開でビルドしよう"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了Progress：一个项目流和视频的开源家园。在公共场合建设!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了Progress：一個項目流和視頻的開源家園。在公共場合建設!"
+    }
+  ]
 }
