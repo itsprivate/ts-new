@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはすごい"
+    },
+    {
+      "locale": "zh",
+      "title": "这真是令人惊讶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這真是令人驚訝"
+    }
+  ]
 }

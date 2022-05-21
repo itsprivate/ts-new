@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Fonoster（TwilioのOSS代替品）の次期バージョンのティーザー映像が公開されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Fonoster（Twilio的OSS替代品）即将推出的版本的预告视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fonoster（Twilio的OSS替代品）即將推出的版本的預告視頻"
+    }
+  ]
 }
