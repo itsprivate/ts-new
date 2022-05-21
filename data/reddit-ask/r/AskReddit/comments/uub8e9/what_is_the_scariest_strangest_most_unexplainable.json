@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家で一人でいるときに起こった、最も怖く、最も奇妙で、最も説明のつかないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你独自在家时发生过的最可怕、最奇怪、最无法解释的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你獨自在家時發生過的最可怕、最奇怪、最無法解釋的事情是什麼？"
+    }
+  ]
 }
