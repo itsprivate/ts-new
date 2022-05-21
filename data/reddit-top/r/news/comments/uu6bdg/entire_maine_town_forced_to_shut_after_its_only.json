@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メイン州の町全体が、唯一の事務員が休暇を拒否されたことで辞め、閉鎖を余儀なくされる"
+    },
+    {
+      "locale": "zh",
+      "title": "缅因州唯一的书记员因被拒绝休假而辞职，整个缅因州的城镇被迫关闭"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "緬因州唯一的書記員因被拒絕休假而辭職，整個緬因州的城鎮被迫關閉"
+    }
+  ]
 }
