@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[Infinityplace] オンラインのリアルタイムキャンバスで、ミームや好きなものを描いて、他の人に見てもらうことができます。 https://infinityplace.io でチェックしてみてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "[infinityplace]一个在线实时画布，在那里你可以画出备忘录，或任何你想让别人看到的东西，没有任何限制！请查看https://infinityplace.io"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[infinityplace]一個在線實時畫布，在那裏你可以畫出備忘錄，或任何你想讓別人看到的東西，沒有任何限制！請查看https://infinityplace.io"
+    }
+  ]
 }
