@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが思う、一番かわいい言葉はなんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你看来，最漂亮的词是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你看來，最漂亮的詞是什麼？"
+    }
+  ]
 }
