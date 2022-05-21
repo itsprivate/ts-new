@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この週末は、クエリの記述に意味的に合致する単語を返すアプリ「Need Words?」に取り組んでいます。基本的には、舌先三寸問題（記憶から単語を取り出すのに失敗する現象）を解決するためのものです。このアプリは https://t.co/VPrl6oHgEw をフードに使っています。 https://t.co/9RBnjamc"
+    },
+    {
+      "locale": "zh",
+      "title": "这个周末在做 \"Need Words?\"，一个能返回与查询描述语义相符的单词的应用程序。基本上，它解决了舌尖上的问题，即无法从记忆中检索出一个词的现象。该应用在引擎盖下使用https://t.co/VPrl6oHgEw。https://t.co/9RBnjamc"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個週末在做 \"Need Words?\"，一個能返回與查詢描述語義相符的單詞的應用程序。基本上，它解決了舌尖上的問題，即無法從記憶中檢索出一個詞的現象。該應用在引擎蓋下使用https://t.co/VPrl6oHgEw。https://t.co/9RBnjamc"
+    }
+  ]
 }
