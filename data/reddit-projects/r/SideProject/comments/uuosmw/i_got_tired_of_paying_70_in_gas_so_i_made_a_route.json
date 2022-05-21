@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "70ドルのガソリン代が嫌になったので、Google Mapsのルート最適化ツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我厌倦了支付70美元的汽油，所以我为谷歌地图做了一个路线优化工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我厭倦了支付70美元的汽油，所以我爲谷歌地圖做了一個路線優化工具"
+    }
+  ]
 }
