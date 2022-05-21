@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-19T11:20:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kOjJxlDv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drp31lqsx9ep3lc4s4ej.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本連載の第1回では、Medusa Extenderについて、また、Medusa Extenderを使った...",
+      "title": "オープンソースのECマーケットプレイスを作る その2：ベンダースペシフィックオーダー"
+    },
+    {
+      "locale": "zh",
+      "description": "在本系列的第一部分中，你了解了Medusa扩展器，以及如何使用它来创建一个新的 \"新\"。",
+      "title": "创建开源电子商务市场第二部分：供应商的具体订单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本系列的第一部分中，你瞭解了Medusa擴展器，以及如何使用它來創建一個新的 \"新\"。",
+      "title": "創建開源電子商務市場第二部分：供應商的具體訂單"
+    }
+  ]
 }
