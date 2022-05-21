@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっといいですか。"
+    },
+    {
+      "locale": "zh",
+      "title": "让我来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我來。"
+    }
+  ]
 }
