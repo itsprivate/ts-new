@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "写真を撮らせてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "让我拍张照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我拍張照片"
+    }
+  ]
 }
