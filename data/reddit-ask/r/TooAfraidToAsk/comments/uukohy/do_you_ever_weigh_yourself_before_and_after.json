@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Mine was 1.2 kg today, I was impressed."
+  "the_new_excerpt": "Mine was 1.2 kg today, I was impressed.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私のは今日1.2kgでした、感動しました。",
+      "title": "ウンコの重さを知るために、ウンコをする前と後に体重を測ったことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "今天我的是1.2公斤，我印象深刻。",
+      "title": "你有没有在拉屎前后称过自己的体重，以了解你大便的重量？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "今天我的是1.2公斤，我印象深刻。",
+      "title": "你有沒有在拉屎前後稱過自己的體重，以瞭解你大便的重量？"
+    }
+  ]
 }
