@@ -53,5 +53,22 @@
   "original_created_at": "2022-05-20T15:37:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bD-_RFVo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dt0td2wfnul7ijc42ch6.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "比較的新しい技術に限って言えば、何が一番魅力的なのでしょうか？なぜ、そのようなことをしたいのですか？",
+      "title": "あなたが最も学びたい*新しい*技術は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "只谈相对较新的技术，什么对你最有吸引力？为什么你想...",
+      "title": "你最想学习的*新技术是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只談相對較新的技術，什麼對你最有吸引力？爲什麼你想...",
+      "title": "你最想學習的*新技術是什麼？"
+    }
+  ]
 }

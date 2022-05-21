@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2週間ぶりの帰郷"
+    },
+    {
+      "locale": "zh",
+      "title": "2周后回家"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "2周後回家"
+    }
+  ]
 }
