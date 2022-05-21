@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-18T21:01:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n9zoeNOt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nonibqivj15ewe8dtvoe.jpg",
   "author": "Andrew Bone",
-  "author_url": "https://dev.to/link2twenty"
+  "author_url": "https://dev.to/link2twenty",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "2年ほど前、私は「ポータルサイトの活用」という、今でもとても誇りに思っている記事を書きました。",
+      "title": "反応する ネイティブダイアログを使ってモーダルポップアップを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "大约两年前，我写了一篇文章，我仍然感到非常自豪，叫做 \"使用门户来制造一个新的世界\"。",
+      "title": "React: 使用本地对话框制作模态弹出窗口"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大約兩年前，我寫了一篇文章，我仍然感到非常自豪，叫做 \"使用門戶來製造一個新的世界\"。",
+      "title": "React: 使用本地對話框製作模態彈出窗口"
+    }
+  ]
 }
