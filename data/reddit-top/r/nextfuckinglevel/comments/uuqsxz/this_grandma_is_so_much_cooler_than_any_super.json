@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このおばあちゃんは、どんなスーパーモデルよりもカッコいい"
+    },
+    {
+      "locale": "zh",
+      "title": "这位奶奶比任何超级模特都要酷得多"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位奶奶比任何超級模特都要酷得多"
+    }
+  ]
 }
