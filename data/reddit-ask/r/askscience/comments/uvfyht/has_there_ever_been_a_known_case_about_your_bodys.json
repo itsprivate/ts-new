@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I have read something that says your eyes have a different immune system than\nthe rest of your body and if your body's immune system found out, than it will\nattack and you will go blind."
+  "the_new_excerpt": "I have read something that says your eyes have a different immune system than\nthe rest of your body and if your body's immune system found out, than it will\nattack and you will go blind.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "目には、目とは異なる免疫システムがあると何かで読んだことがあります。\nもし体の免疫システムがそれに気づいたら、攻撃して失明してしまうでしょう。\n攻撃され、失明してしまうそうです。",
+      "title": "体の免疫システムが、目とは別の免疫システムを感知することについては、これまで知られていたのでしょうか？また、その仕組みはどうなっているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我读过一些东西，说你的眼睛有一个与身体其他部分不同的免疫系统。\n如果你的身体的免疫系统发现了，它就会\n攻击，你就会失明。",
+      "title": "有没有已知的案例，关于你身体的免疫系统检测到你眼睛的独立免疫系统？那整个事情是如何进行的呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我讀過一些東西，說你的眼睛有一個與身體其他部分不同的免疫系統。\n如果你的身體的免疫系統發現了，它就會\n攻擊，你就會失明。",
+      "title": "有沒有已知的案例，關於你身體的免疫系統檢測到你眼睛的獨立免疫系統？那整個事情是如何進行的呢？"
+    }
+  ]
 }
