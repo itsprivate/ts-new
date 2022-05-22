@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そのうちのひとつが、他のものと似ていない......。"
+    },
+    {
+      "locale": "zh",
+      "title": "其中一个看起来不像其他....。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "其中一個看起來不像其他....。"
+    }
+  ]
 }
