@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "火星探査機「キュリオシティ」が捉えた火星の表面。"
+    },
+    {
+      "locale": "zh",
+      "title": "好奇号探测器拍摄的火星表面。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好奇號探測器拍攝的火星表面。"
+    }
+  ]
 }
