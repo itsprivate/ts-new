@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間関係について、以前は信じていたけれども、今は信じていないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "关于人际关系，你曾经相信什么，但现在不再相信了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於人際關係，你曾經相信什麼，但現在不再相信了？"
+    }
+  ]
 }
