@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Something that might be seem as common/desirable by other people."
+  "the_new_excerpt": "Something that might be seem as common/desirable by other people.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "他の人からは普通／望ましいと思われること。",
+      "title": "あなたがパートナーに期待しないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一些可能被其他人认为是普通/可取的东西。",
+      "title": "你不希望你的伴侣为你做什么事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一些可能被其他人認爲是普通/可取的東西。",
+      "title": "你不希望你的伴侶爲你做什麼事情？"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I always see posts like “My (29M) girlfriend (30F) left me for the milkman.”\n\nIt should be written “My girlfriend (30F) left me (29M) for the milkman.”"
+  "the_new_excerpt": "I always see posts like “My (29M) girlfriend (30F) left me for the milkman.”\n\nIt should be written “My girlfriend (30F) left me (29M) for the milkman.”",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "\"私の（29M）彼女（30F）は牛乳配達人のために私を捨てました \"のような投稿をいつも見ます。\n\n\"私の彼女(30F)は牛乳配達人のために私(29M)を捨てた \"と書くべきでしょう。",
+      "title": "なぜRedditではみんな年齢の書き方が間違っているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我总是看到 \"我（29M）的女朋友（30F）为了送奶工离开了我 \"这样的帖子。\n\n应该写成 \"我的女朋友（30F）为了送奶工离开了我（29M）\"。",
+      "title": "为什么每个人在Reddit上都把年龄写错了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我總是看到 \"我（29M）的女朋友（30F）爲了送奶工離開了我 \"這樣的帖子。\n\n應該寫成 \"我的女朋友（30F）爲了送奶工離開了我（29M）\"。",
+      "title": "爲什麼每個人在Reddit上都把年齡寫錯了？"
+    }
+  ]
 }
