@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コカ・コーラはおそらく世界最大の清涼飲料水である。その秘密の処方を、まだ誰もリバースエンジニアリングしていないのはどうしてだろう？"
+    },
+    {
+      "locale": "zh",
+      "title": "可口可乐可能是世界上最大的软饮料，怎么可能还没有人对其秘密配方进行逆向工程呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "可口可樂可能是世界上最大的軟飲料，怎麼可能還沒有人對其祕密配方進行逆向工程呢？"
+    }
+  ]
 }
