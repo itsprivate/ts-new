@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-08T19:20:08Z",
   "image": "https://dev.to/social_previews/article/1079294.png",
   "author": "Prudence97",
-  "author_url": "https://dev.to/prudence97"
+  "author_url": "https://dev.to/prudence97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レスポンシブWeb制作は、時に...       レスポンシブWebデザインのゴールは、...",
+      "title": "レスポンシブWebデザインの作成。"
+    },
+    {
+      "locale": "zh",
+      "description": "制作一个响应式的网页，有时可能会...       响应式网页设计的目标是关于...",
+      "title": "创建响应式网站设计。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "製作一個響應式的網頁，有時可能會...       響應式網頁設計的目標是關於...",
+      "title": "創建響應式網站設計。"
+    }
+  ]
 }

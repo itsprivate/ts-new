@@ -38,5 +38,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-21T07:01:00Z"
+  "original_createdAt": "2022-05-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GithubでPersonal Readme Fileを作成するのは頭が痛い。このソリューションでは、入力フィールドを埋めるだけで、Readmeファイルが完成します! 以下、コードです https://github.com/iamsatyajit05/GitHub-Profile-Page-Creator",
+      "tagline": "GithubプロファイルのReadmeファイルをちょっとだけ紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "在Github上创建个人自述文件是一个令人头痛的问题。这里有一个解决方案，你只需要填写输入字段，你的自述文件就准备好了! 下面是代码https://github.com/iamsatyajit05/GitHub-Profile-Page-Creator",
+      "tagline": "Github简介中的readme文件在位"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Github上創建個人自述文件是一個令人頭痛的問題。這裏有一個解決方案，你只需要填寫輸入字段，你的自述文件就準備好了! 下面是代碼https://github.com/iamsatyajit05/GitHub-Profile-Page-Creator",
+      "tagline": "Github簡介中的readme文件在位"
+    }
+  ]
 }
