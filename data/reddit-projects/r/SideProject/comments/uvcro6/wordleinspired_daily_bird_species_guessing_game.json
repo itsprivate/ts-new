@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "単語帳にヒントを得た日替わり鳥類当てゲーム（小さな写真の切り抜きによるもの）"
+    },
+    {
+      "locale": "zh",
+      "title": "受Wordle启发的每日鸟类物种猜测游戏（基于微小的照片裁剪）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "受Wordle啓發的每日鳥類物種猜測遊戲（基於微小的照片裁剪）。"
+    }
+  ]
 }
