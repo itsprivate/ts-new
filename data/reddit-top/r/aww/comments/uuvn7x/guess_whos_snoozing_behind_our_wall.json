@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちの壁の向こうで、誰がうたた寝していると思う？"
+    },
+    {
+      "locale": "zh",
+      "title": "猜猜谁在我们的墙后打瞌睡？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "猜猜誰在我們的牆後打瞌睡？"
+    }
+  ]
 }
