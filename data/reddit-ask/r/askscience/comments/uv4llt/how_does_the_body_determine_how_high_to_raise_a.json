@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is it simply just based on the severity of the illness?"
+  "the_new_excerpt": "Is it simply just based on the severity of the illness?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "単純に病気の重さだけで判断しているのでしょうか？",
+      "title": "身体はどのようにして熱の高さを決めているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "是否仅仅是基于疾病的严重程度？",
+      "title": "身体是如何确定发烧的高度的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "是否僅僅是基於疾病的嚴重程度？",
+      "title": "身體是如何確定發燒的高度的？"
+    }
+  ]
 }
