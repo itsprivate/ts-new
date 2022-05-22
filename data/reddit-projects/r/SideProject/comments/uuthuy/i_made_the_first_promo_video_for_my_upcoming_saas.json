@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "近々リリース予定のSaaS（Nuelink）の最初のプロモビデオを作りました - これについてはどう思われますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我为我即将推出的SaaS（Nuelink）制作了第一个宣传片--你觉得怎么样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲我即將推出的SaaS（Nuelink）製作了第一個宣傳片--你覺得怎麼樣？"
+    }
+  ]
 }
