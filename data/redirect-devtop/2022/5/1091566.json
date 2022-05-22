@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-20T23:42:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---mZGFk7R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r26bsvdelujg50eox2r8.png",
   "author": "Romeo Agbor Peter",
-  "author_url": "https://dev.to/romeopeter"
+  "author_url": "https://dev.to/romeopeter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デイリータイプを早わかり。  TypeScriptは、その中でも特に面白いのが...",
+      "title": "初心者のためのTypeScript"
+    },
+    {
+      "locale": "zh",
+      "description": "对日常类型的快速查看。  TypeScript一直是一个有趣的东西，其中...",
+      "title": "初学者的TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對日常類型的快速查看。  TypeScript一直是一個有趣的東西，其中...",
+      "title": "初學者的TypeScript"
+    }
+  ]
 }
