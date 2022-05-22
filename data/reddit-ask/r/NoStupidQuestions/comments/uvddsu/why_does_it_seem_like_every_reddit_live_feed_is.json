@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is there not anything else to stream?"
+  "the_new_excerpt": "Is there not anything else to stream?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "他に配信するものはないのでしょうか？",
+      "title": "なんでredditのライブ配信って全部ギター弾いてる奴に見えるんだ？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "难道就没有别的东西可以流了吗？",
+      "title": "为什么看起来每个reddit的直播都只是一些人在弹吉他？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "難道就沒有別的東西可以流了嗎？",
+      "title": "爲什麼看起來每個reddit的直播都只是一些人在彈吉他？"
+    }
+  ]
 }
