@@ -55,5 +55,22 @@
   "original_created_at": "2022-05-20T12:13:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eOdkCV67--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vve4qmxoeo8mn0wjqpt5.jpeg",
   "author": "Nick Taylor (he/him)",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいコードベースをどのようにナビゲートしますか？ これはあなたの経験レベルによって異なりますが、私たちは...",
+      "title": "新しいコードベースをナビゲートする"
+    },
+    {
+      "locale": "zh",
+      "description": "如何驾驭一个新的代码库？ 这可能取决于你的经验水平，但我们希望...",
+      "title": "浏览一个新的代码库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何駕馭一個新的代碼庫？ 這可能取決於你的經驗水平，但我們希望...",
+      "title": "瀏覽一個新的代碼庫"
+    }
+  ]
 }
