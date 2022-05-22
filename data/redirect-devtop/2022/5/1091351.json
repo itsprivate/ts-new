@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-20T18:51:05Z",
   "image": "https://dev.to/social_previews/article/1091351.png",
   "author": "Jonathan Irvin",
-  "author_url": "https://dev.to/sublimegeek"
+  "author_url": "https://dev.to/sublimegeek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードがどんなに雄弁でも、コードの束を一行で済ませたとしても、それは問題ではありません。もし...",
+      "title": "ひとつ、整理しておきましょう。コードは人間が読み、機械が解釈する"
+    },
+    {
+      "locale": "zh",
+      "description": "你的代码多么雄辩，或者你如何将一堆代码变成单行字，这都不重要。如果...",
+      "title": "让我们弄清楚一件事。代码由人类阅读，由机器解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你的代碼多麼雄辯，或者你如何將一堆代碼變成單行字，這都不重要。如果...",
+      "title": "讓我們弄清楚一件事。代碼由人類閱讀，由機器解釋"
+    }
+  ]
 }
