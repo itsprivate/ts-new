@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悪いレビューを残したのでデポジットを預かると脅したホテルのオーナーが、警察を呼ぶと脅してきた。"
+    },
+    {
+      "locale": "zh",
+      "title": "酒店老板因为我留了差评而威胁要扣留我的押金，并威胁我报警。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "酒店老闆因爲我留了差評而威脅要扣留我的押金，並威脅我報警。"
+    }
+  ]
 }
