@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "愚者の心は口にあり、この場合は親指にある。"
+    },
+    {
+      "locale": "zh",
+      "title": "傻瓜的心在他的嘴里，或者在这里，他的拇指。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "傻瓜的心在他的嘴裏，或者在這裏，他的拇指。"
+    }
+  ]
 }
