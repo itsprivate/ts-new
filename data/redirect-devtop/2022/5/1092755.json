@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-22T15:59:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xyTL4fiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v9ign0a2iz04q0dwwjpj.png",
   "author": "Sneh Chauhan",
-  "author_url": "https://dev.to/sneh27"
+  "author_url": "https://dev.to/sneh27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Linuxをインストールしたことがある人なら、きっと出会ったことがあるはず...。",
+      "title": "覚えておきたいVimのショートカットトップ15"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 如果你在生活中安装过Linux，我相信你可能会遇到...",
+      "title": "需要记住的15个Vim快捷键"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 如果你在生活中安裝過Linux，我相信你可能會遇到...",
+      "title": "需要記住的15個Vim快捷鍵"
+    }
+  ]
 }
