@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在抱いている疑惑で、今すぐには証明できないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你目前持有的怀疑是什么，但现在无法证明？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你目前持有的懷疑是什麼，但現在無法證明？"
+    }
+  ]
 }
