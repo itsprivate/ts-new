@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "という視点が重要である..."
+    },
+    {
+      "locale": "zh",
+      "title": "这都是关于视角的问题..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這都是關於視角的問題..."
+    }
+  ]
 }
