@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のビデオピッチは明確で魅力的ですか？あなたのフィードバックが必要です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的视频推介是否清晰和吸引人？我需要你的反馈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的視頻推介是否清晰和吸引人？我需要你的反饋。"
+    }
+  ]
 }
