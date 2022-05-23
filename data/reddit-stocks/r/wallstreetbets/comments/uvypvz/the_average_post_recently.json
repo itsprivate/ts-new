@@ -159,5 +159,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1653307716,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近の平均投稿"
+    },
+    {
+      "locale": "zh",
+      "title": "最近的平均帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最近的平均帖子"
+    }
+  ]
 }
