@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このメンバーに注意!"
+    },
+    {
+      "locale": "zh",
+      "title": "请注意这个成员!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請注意這個成員!"
+    }
+  ]
 }
