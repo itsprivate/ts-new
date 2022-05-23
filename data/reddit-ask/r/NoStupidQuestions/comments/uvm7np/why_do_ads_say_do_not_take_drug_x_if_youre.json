@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Who is this disclaimer for? Are there really people stupid enough that would\nknowingly take a drug to which they are allergic? Is all personal responsibility\ngone in our society?"
+  "the_new_excerpt": "Who is this disclaimer for? Are there really people stupid enough that would\nknowingly take a drug to which they are allergic? Is all personal responsibility\ngone in our society?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この免責事項は誰のためのものですか？本当にアレルギーのある薬を飲むほど愚かな人がいるのでしょうか？\nアレルギーのある薬を故意に服用するような愚かな人々が本当にいるのだろうか？すべての個人的な責任は\nないのでしょうか？",
+      "title": "なぜ広告には、\"【薬物x】にアレルギーのある人は服用しないでください \"と書かれているのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这个免责声明是为谁准备的？真的有足够愚蠢的人，会\n明知故犯地服用对其过敏的药物？难道在我们的社会中，所有的个人责任\n在我们的社会中消失了吗？",
+      "title": "为什么广告会说 \"如果你对[药物X]过敏，请不要服用[药物X]\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這個免責聲明是爲誰準備的？真的有足夠愚蠢的人，會\n明知故犯地服用對其過敏的藥物？難道在我們的社會中，所有的個人責任\n在我們的社會中消失了嗎？",
+      "title": "爲什麼廣告會說 \"如果你對[藥物X]過敏，請不要服用[藥物X]\"。"
+    }
+  ]
 }
