@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このレインボーチャートは何度も見たことがあります。役に立つのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我已经看过这个彩虹图很多次了。它有用吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我已經看過這個彩虹圖很多次了。它有用嗎？"
+    }
+  ]
 }

@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が仕事から帰ってくると、時々、彼の赤ん坊をくれる"
+    },
+    {
+      "locale": "zh",
+      "title": "有时我下班回家后，他把他的孩子给我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有時我下班回家後，他把他的孩子給我。"
+    }
+  ]
 }
