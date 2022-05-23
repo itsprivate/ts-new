@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Flash - お気に入りの技術ニュースをまとめて読むことができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "Flash - 在一个地方阅读所有你喜欢的科技新闻"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Flash - 在一個地方閱讀所有你喜歡的科技新聞"
+    }
+  ]
 }
