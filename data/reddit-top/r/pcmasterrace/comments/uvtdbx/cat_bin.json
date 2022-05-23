@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ねこばこ"
+    },
+    {
+      "locale": "zh",
+      "title": "猫仓"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "貓倉"
+    }
+  ]
 }
