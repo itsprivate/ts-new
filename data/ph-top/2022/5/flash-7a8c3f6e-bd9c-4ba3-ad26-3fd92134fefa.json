@@ -58,5 +58,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-23T07:09:37Z"
+  "original_createdAt": "2022-05-23T07:09:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TechCrunch、The Next Web、Hacker News、Product Hunt などの技術系ニュースをまとめて読むことができます。",
+      "tagline": "技術系ニュースをまとめて読む"
+    },
+    {
+      "locale": "zh",
+      "description": "在一个地方阅读所有的科技新闻（TechCrunch, The Next Web, Hacker News, Product Hunt等等）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在一個地方閱讀所有的科技新聞（TechCrunch, The Next Web, Hacker News, Product Hunt等等）。",
+      "tagline": "技術系ニュースをまとめて読む"
+    }
+  ]
 }
