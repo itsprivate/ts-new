@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ネコがオオヤマネコの檻に侵入した。今では最高の相棒に"
+    },
+    {
+      "locale": "zh",
+      "title": "这只猫闯入了一只山猫的笼子。现在它们是最好的伙伴"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻貓闖入了一隻山貓的籠子。現在它們是最好的夥伴"
+    }
+  ]
 }
