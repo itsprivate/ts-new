@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-23T11:37:23Z"
+  "original_createdAt": "2022-05-23T11:37:23Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ghost 5.0は、会員分析、複数のニュースレター、カスタム階層、シンプルなデザイン設定などに対応したGhostの最新メジャーリリースです。",
+      "tagline": "出版、ニュースレター、メンバーシップ＆サブスクリプション"
+    },
+    {
+      "locale": "zh",
+      "description": "Ghost 5.0是Ghost的最新主要版本，现在支持会员分析、多个新闻简报、自定义层级、简单设计设置等。",
+      "tagline": "出版、新闻通讯、会员资格和订阅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ghost 5.0是Ghost的最新主要版本，現在支持會員分析、多個新聞簡報、自定義層級、簡單設計設置等。",
+      "tagline": "出版、新聞通訊、會員資格和訂閱"
+    }
+  ]
 }

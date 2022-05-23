@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "木は大事にしないとね。"
+    },
+    {
+      "locale": "zh",
+      "title": "必须保留那块木头。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "必須保留那塊木頭。"
+    }
+  ]
 }
