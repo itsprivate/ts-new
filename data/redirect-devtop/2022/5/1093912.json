@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-23T19:53:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qalscu3j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7eli205al0pukm9c9tfk.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Meme Mondayの初回投稿へようこそ!  月曜日はかなり遅い時間になるので、ほとんどの人が...",
+      "title": "ミーム・マンデー"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到首届 \"备忘录星期一 \"的帖子！对大多数人来说，星期一是很晚的一天。 对于大多数人来说，星期一是很晚的一天。",
+      "title": "星期一的备忘录"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到首屆 \"備忘錄星期一 \"的帖子！對大多數人來說，星期一是很晚的一天。 對於大多數人來說，星期一是很晚的一天。",
+      "title": "星期一的備忘錄"
+    }
+  ]
 }
