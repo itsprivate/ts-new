@@ -43,5 +43,22 @@
   "original_created_at": "2022-03-27T05:06:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bWqWBjY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rv0t454dtao7ml73xeu9.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、いよいよです。 今日からNetlifyのOSSチームに参加することになり、とても嬉しく思っています。",
+      "title": "ネットリファイからフルタイムOSSを依頼されたら、「はい！」と答える。"
+    },
+    {
+      "locale": "zh",
+      "description": "嗯，就是这样。 我很高兴地宣布，从今天起，我已经加入了Netlify的OSS团队，成为了一名...",
+      "title": "当Netlify要求你做全职的OSS时，你会说是的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗯，就是這樣。 我很高興地宣佈，從今天起，我已經加入了Netlify的OSS團隊，成爲了一名...",
+      "title": "當Netlify要求你做全職的OSS時，你會說是的!"
+    }
+  ]
 }
