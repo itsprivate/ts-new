@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-20T20:09:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ib7Jmx3---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcidqz6uo6k1ceipj17n.png",
   "author": "Abayomi Ogunnusi",
-  "author_url": "https://dev.to/drsimplegraffiti"
+  "author_url": "https://dev.to/drsimplegraffiti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NestJSは、ExpressをベースにしたNode.jsのバックエンド開発フレームワークであり、Node.jsの強力な技術力を活用することができます。",
+      "title": "NestJs: 🐶パピース・アピ"
+    },
+    {
+      "locale": "zh",
+      "description": "NestJS是一个建立在Express基础上的Node.js后端开发框架，利用了Express的强大功能。",
+      "title": "NestJs: 🐶小狗Api"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "NestJS是一個建立在Express基礎上的Node.js後端開發框架，利用了Express的強大功能。",
+      "title": "NestJs: 🐶小狗Api"
+    }
+  ]
 }
