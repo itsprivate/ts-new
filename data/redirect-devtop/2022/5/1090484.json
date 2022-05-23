@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-20T01:30:03Z",
   "image": "https://dev.to/social_previews/article/1090484.png",
   "author": "Maurício Antunes",
-  "author_url": "https://dev.to/mauricioabreu"
+  "author_url": "https://dev.to/mauricioabreu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NGINXの基本を実践例で理解する",
+      "title": "NGINXの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "用一个实际的例子了解NGINX的基础知识",
+      "title": "对NGINX的介绍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "用一個實際的例子瞭解NGINX的基礎知識",
+      "title": "對NGINX的介紹"
+    }
+  ]
 }
