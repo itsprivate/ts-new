@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は目的（持続可能な開発目標）主導のジョブボードを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个目的（可持续发展目标）驱动的招聘网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個目的（可持續發展目標）驅動的招聘網站。"
+    }
+  ]
 }
