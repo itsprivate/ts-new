@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-23T11:45:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vTKTjPSd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bnr8zi5a3btotaeddvon.png",
   "author": "Manuel Odendahl",
-  "author_url": "https://dev.to/wesen"
+  "author_url": "https://dev.to/wesen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者サークルでは、マージするときに git --squash を使うべきか、それとも...という話題が繰り返し出てきます。",
+      "title": "有害と思われるコミットをスクワッシュする⛔。"
+    },
+    {
+      "locale": "zh",
+      "description": "开发者圈子里反复出现的一个话题是，在合并时是否应该使用git --squash，或者做...",
+      "title": "⛔ 壁球承诺被认为是有害的 ⛔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發者圈子裏反覆出現的一個話題是，在合併時是否應該使用git --squash，或者做...",
+      "title": "⛔ 壁球承諾被認爲是有害的 ⛔"
+    }
+  ]
 }
