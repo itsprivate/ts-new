@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RapidAPIにAPIを掲載しないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "不要把你的API列在RapidAPI上，永远不要!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要把你的API列在RapidAPI上，永遠不要!"
+    }
+  ]
 }
