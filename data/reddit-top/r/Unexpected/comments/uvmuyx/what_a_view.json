@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんという眺めでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "多么壮观的景色啊!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多麼壯觀的景色啊!"
+    }
+  ]
 }
