@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Virtually no jobs are cash-in-hand now. You need a bank account to get paid.\nWithout an address, you have no bank account. So even if a homeless person\nmanages to find work, they're not getting paid because they have no address thus\nno bank account."
+  "the_new_excerpt": "Virtually no jobs are cash-in-hand now. You need a bank account to get paid.\nWithout an address, you have no bank account. So even if a homeless person\nmanages to find work, they're not getting paid because they have no address thus\nno bank account.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今は事実上、現金が必要な仕事はない。給料をもらうためには、銀行口座が必要です。\n住所がなければ、銀行口座もない。だから、ホームレスが仕事を見つけても\nだから、ホームレスが仕事を見つけたとしても、住所がないために給料が支払われず、銀行口座もない。\n銀行口座がない。",
+      "title": "ホームレスの人たちは、どうやって自助努力すればいいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "现在几乎没有工作是现金交易。你需要一个银行账户来获得报酬。\n没有地址，你就没有银行账户。因此，即使一个无家可归的人\n找到工作，他们也不会得到报酬，因为他们没有地址，因此\n没有银行账户。",
+      "title": "无家可归的人应该如何帮助自己呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "現在幾乎沒有工作是現金交易。你需要一個銀行賬戶來獲得報酬。\n沒有地址，你就沒有銀行賬戶。因此，即使一個無家可歸的人\n找到工作，他們也不會得到報酬，因爲他們沒有地址，因此\n沒有銀行賬戶。",
+      "title": "無家可歸的人應該如何幫助自己呢？"
+    }
+  ]
 }
