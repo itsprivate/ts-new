@@ -68,5 +68,22 @@
     },
     "retweet_count": 249,
     "favorite_count": 1721
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BTC_Archive: バレンシアガ、米国で#ビットコインを受け入れる 💥💃👜。",
+      "retweeted_status_full_text": "バレンシアガ、米国で#ビットコイン受け入れへ💃 👜 ←今ここ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BTC_Archive: 💥爆料：Balenciaga将在美国接受#Bitcoin 💃👜",
+      "retweeted_status_full_text": "霹雳：Balenciaga将在美国接受#比特币 💃👜 💃👜"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BTC_Archive: 💥爆料：Balenciaga將在美國接受#Bitcoin 💃👜",
+      "retweeted_status_full_text": "霹靂：Balenciaga將在美國接受#比特幣 💃👜 💃👜"
+    }
+  ]
 }
