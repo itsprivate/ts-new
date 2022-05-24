@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-24T00:27:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J9me6oPa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85jykgocg5i8ux1yrx6f.png",
   "author": "Angel Daniel Munoz Gonzalez",
-  "author_url": "https://dev.to/tunaxor"
+  "author_url": "https://dev.to/tunaxor",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは！お久しぶりです。本日は、現在のフロントエンドの状況についてお話します。",
+      "title": "F#フロントエンドの展望"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，有一阵子没来了! 今天，我们将讨论什么是当前的前端景观。",
+      "title": "探索F#前端环境"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，有一陣子沒來了! 今天，我們將討論什麼是當前的前端景觀。",
+      "title": "探索F#前端環境"
+    }
+  ]
 }
