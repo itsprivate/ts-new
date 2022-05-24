@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本当に楽しそうに仕事をしている鉄道アナウンサー!"
+    },
+    {
+      "locale": "zh",
+      "title": "火车上的播音员，似乎真的很享受她的工作!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "火車上的播音員，似乎真的很享受她的工作!"
+    }
+  ]
 }
