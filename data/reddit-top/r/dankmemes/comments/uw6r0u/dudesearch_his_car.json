@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おいおい...車を調べろよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "伙计......搜查他的车。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夥計......搜查他的車。"
+    }
+  ]
 }
