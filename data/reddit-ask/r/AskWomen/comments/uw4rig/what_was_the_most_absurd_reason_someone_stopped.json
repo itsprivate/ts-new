@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたと話すのをやめたり、あなたが誰かと話すのをやめたりした、最も不合理な理由は何でしたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有人不再和你说话或你不再和别人说话的最荒唐的原因是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人不再和你說話或你不再和別人說話的最荒唐的原因是什麼？"
+    }
+  ]
 }

@@ -57,5 +57,22 @@
   "original_created_at": "2022-05-23T09:49:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HrLzKNoY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7s4xd1a15fs8m6dlngfn.jpg",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Medusaは、ヘッドレス・コマース・プラットフォームのために、Next.jsを使用したスターター・ストアフロントと、Next.jsを使用したスターター・ストアフロントの2つを提供します。",
+      "title": "Eコマースのストアフロントには、どのフロントエンドフレームワークを使用しますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Medusa为您的无头商务平台提供了2个启动店面，一个使用Next.js，一个使用...",
+      "title": "你会在电子商务店面中使用哪个前端框架？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Medusa爲您的無頭商務平臺提供了2個啓動店面，一個使用Next.js，一個使用...",
+      "title": "你會在電子商務店面中使用哪個前端框架？"
+    }
+  ]
 }
