@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "銀行口座を持たない米国人が高い確率で暗号を利用していることをFRBが発見"
+    },
+    {
+      "locale": "zh",
+      "title": "美联储发现无银行账户的美国人正以更高的速度转向使用加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美聯儲發現無銀行賬戶的美國人正以更高的速度轉向使用加密貨幣"
+    }
+  ]
 }
