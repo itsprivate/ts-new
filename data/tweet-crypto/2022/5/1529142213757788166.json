@@ -52,5 +52,22 @@
     },
     "retweet_count": 151,
     "favorite_count": 973
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: *FEDは9月に半ポイントの引き上げを行う可能性がある。",
+      "retweeted_status_full_text": "*FRBは9月に半ポイントの引き上げを行う可能性があると判断した。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: *美联储将9月加息半点的机会调低评级",
+      "retweeted_status_full_text": "*美联储调降9月加息半个点的机会"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: *美聯儲將9月加息半點的機會調低評級",
+      "retweeted_status_full_text": "*美聯儲調降9月加息半個點的機會"
+    }
+  ]
 }
