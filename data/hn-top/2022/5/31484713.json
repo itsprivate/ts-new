@@ -13,5 +13,19 @@
   ],
   "objectID": "31484713",
   "original_created_at": "2022-05-23T21:00:30.000Z",
-  "image": "https://docs.tinyusb.org/en/latest/_static/logo.svg"
+  "image": "https://docs.tinyusb.org/en/latest/_static/logo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TinyUSB: 組み込みシステム向けのオープンソース・クロスプラットフォームUSBホスト/デバイススタック"
+    },
+    {
+      "locale": "zh",
+      "title": "TinyUSB。用于嵌入式系统的开源跨平台USB主机/设备栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TinyUSB。用於嵌入式系統的開源跨平臺USB主機/設備棧"
+    }
+  ]
 }
