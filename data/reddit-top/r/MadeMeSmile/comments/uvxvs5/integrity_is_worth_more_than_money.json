@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誠実さはお金よりも価値がある"
+    },
+    {
+      "locale": "zh",
+      "title": "诚信比金钱更有价值"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誠信比金錢更有價值"
+    }
+  ]
 }

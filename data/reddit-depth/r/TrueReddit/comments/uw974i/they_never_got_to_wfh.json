@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らはWFHになれなかった。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们从来没能做到 \"白手起家\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們從來沒能做到 \"白手起家\"。"
+    }
+  ]
 }
