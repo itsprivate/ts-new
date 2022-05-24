@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-24T07:08:45Z"
+  "original_createdAt": "2022-05-24T07:08:45Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SystemFlow for Figmaは、数百ものコンポーネントとセクションを持ち、使いやすくカスタマイズしやすい、軽量のランディングページUIキットです。",
+      "tagline": "Figmaで美しいランディングページを超高速でデザインする"
+    },
+    {
+      "locale": "zh",
+      "description": "SystemFlow for Figma是一个轻量级的着陆页UI工具包，有数百个组件和部分，易于使用和定制。",
+      "tagline": "在Figma中设计漂亮的登陆页面，速度超快"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SystemFlow for Figma是一個輕量級的着陸頁UI工具包，有數百個組件和部分，易於使用和定製。",
+      "tagline": "在Figma中設計漂亮的登陸頁面，速度超快"
+    }
+  ]
 }

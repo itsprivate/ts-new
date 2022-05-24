@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-24T07:01:00Z"
+  "original_createdAt": "2022-05-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レビューを見逃すことはもうありません。ReviewflowzはカスタマーレビューをSlackに取り込みます： 👀&nbsp;顧客のフィードバックを簡単かつ苦痛なく読む 💬&nbsp;アイデアを交換し他のチームをタグ付けする ✅&nbsp;スレッドや投票を使って回答するかどうかを決める 🎯 それぞれのレビューを誰が書いたか知ることができる",
+      "tagline": "レビューモニターSlackbot"
+    },
+    {
+      "locale": "zh",
+      "description": "再也不会错过任何评论了。Reviewflowz将客户评论带入Slack： 👀&nbsp;轻松无痛地阅读客户的反馈 💬&nbsp;交流想法并标记其他团队 ✅&nbsp;决定是否以及如何用线程和投票来回答 🎯 找出每条评论的作者",
+      "tagline": "审查监测Slackbot"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "再也不會錯過任何評論了。Reviewflowz將客戶評論帶入Slack： 👀&nbsp;輕鬆無痛地閱讀客戶的反饋 💬&nbsp;交流想法並標記其他團隊 ✅&nbsp;決定是否以及如何用線程和投票來回答 🎯 找出每條評論的作者",
+      "tagline": "審查監測Slackbot"
+    }
+  ]
 }
