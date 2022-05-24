@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-23T14:18:18Z",
   "image": "https://dev.to/social_previews/article/1093620.png",
   "author": "Khokon M.",
-  "author_url": "https://dev.to/khokon"
+  "author_url": "https://dev.to/khokon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、Devコミュニティです。私は主にバックエンドの仕事をしています。しかし、時々、私自身の個人的なプロジェクトで、私は...",
+      "title": "私のランディングページのデザインを評価してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开发社区。我主要是做后台的工作。但有时，为了我自己的个人项目，我也会去做。",
+      "title": "请给我的登陆页设计打分，并帮助我改进!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開發社區。我主要是做後臺的工作。但有時，爲了我自己的個人項目，我也會去做。",
+      "title": "請給我的登陸頁設計打分，並幫助我改進!"
+    }
+  ]
 }
