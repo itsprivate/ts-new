@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この裏話がどうしても知りたい"
+    },
+    {
+      "locale": "zh",
+      "title": "我急切地想要知道这背后的故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我急切地想要知道這背後的故事"
+    }
+  ]
 }
