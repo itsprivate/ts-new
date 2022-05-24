@@ -43,5 +43,22 @@
   "original_created_at": "2022-05-23T16:34:01Z",
   "image": "https://dev.to/social_previews/article/1093688.png",
   "author": "Ridhwana Khan",
-  "author_url": "https://dev.to/ridhwana"
+  "author_url": "https://dev.to/ridhwana",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿は、@juliannatetreaultと@ridhwanaの共著です。           はじめに👋 こんにちは...",
+      "title": "Rubyの再発見」の紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是由@juliannatetreault和@ridhwana共同撰写的。           简介 👋 大家好...",
+      "title": "介绍 \"重新发现红宝石\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是由@juliannatetreault和@ridhwana共同撰寫的。           簡介 👋 大家好...",
+      "title": "介紹 \"重新發現紅寶石\"。"
+    }
+  ]
 }

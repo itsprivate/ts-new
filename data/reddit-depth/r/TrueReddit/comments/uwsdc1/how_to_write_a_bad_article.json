@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "悪い記事の書き方"
+    },
+    {
+      "locale": "zh",
+      "title": "如何写好一篇坏文章"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何寫好一篇壞文章"
+    }
+  ]
 }
