@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Slackからクラウドの支出を把握するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个工具，从Slack追踪你的云计算支出"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個工具，從Slack追蹤你的雲計算支出"
+    }
+  ]
 }
