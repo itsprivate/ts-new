@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼のリアクションは完璧です。"
+    },
+    {
+      "locale": "zh",
+      "title": "他的反应是完美的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他的反應是完美的"
+    }
+  ]
 }
