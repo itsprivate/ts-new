@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このクリップは12歳になったばかりです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个片段刚刚成为12年的历史"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個片段剛剛成爲12年的歷史"
+    }
+  ]
 }
