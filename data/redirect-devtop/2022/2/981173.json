@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-07T05:49:54Z",
   "image": "https://dev.to/social_previews/article/981173.png",
   "author": "Harsh Sinha",
-  "author_url": "https://dev.to/harshsinha17"
+  "author_url": "https://dev.to/harshsinha17",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに こんにちは、開発者の皆さん👋 今回もまた、このような記事をお届けします。",
+      "title": "次のプロジェクトのための8つの楽しいAPI [ PART-II ]。"
+    },
+    {
+      "locale": "zh",
+      "description": "简介 你好，开发人员👋，我又回来了，又是一篇文章，而且顺便说一下，这是一个很好的例子。",
+      "title": "为你的下一个项目提供8个有趣的API [ 第二部分 ]"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介 你好，開發人員👋，我又回來了，又是一篇文章，而且順便說一下，這是一個很好的例子。",
+      "title": "爲你的下一個項目提供8個有趣的API [ 第二部分 ]"
+    }
+  ]
 }
