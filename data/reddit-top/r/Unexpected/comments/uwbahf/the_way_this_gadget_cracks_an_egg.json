@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このガジェットが卵を割る様子"
+    },
+    {
+      "locale": "zh",
+      "title": "这个小工具裂开鸡蛋的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個小工具裂開雞蛋的方式"
+    }
+  ]
 }
