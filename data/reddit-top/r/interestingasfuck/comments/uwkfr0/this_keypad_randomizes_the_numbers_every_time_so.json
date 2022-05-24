@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このキーパッドは、手の動きからパスワードがわからないように、毎回数字をランダム化します。"
+    },
+    {
+      "locale": "zh",
+      "title": "这种键盘每次都会将数字随机化，这样就不会有人从手的动作中找出密码。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種鍵盤每次都會將數字隨機化，這樣就不會有人從手的動作中找出密碼。"
+    }
+  ]
 }
