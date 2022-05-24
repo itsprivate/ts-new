@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-21T00:17:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yRXKKB_j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqdnyrcnifo8ib9j3258.png",
   "author": "ryan forte",
-  "author_url": "https://dev.to/rdforte"
+  "author_url": "https://dev.to/rdforte",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Yo! マイクロフロントエンドとかMFEとかいう言葉を聞いて、なんじゃこりゃと思ったことはありませんか？さて、あなたは...",
+      "title": "マイクロフロントエンド101 👨🏻 🏫"
+    },
+    {
+      "locale": "zh",
+      "description": "哟! 你有没有在Micro Frontend或MFE之前听过这个词，并且觉得这是什么鬼东西？那么你...",
+      "title": "微型前端101 👨🏻🏫"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "喲! 你有沒有在Micro Frontend或MFE之前聽過這個詞，並且覺得這是什麼鬼東西？那麼你...",
+      "title": "微型前端101 👨🏻🏫"
+    }
+  ]
 }
