@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "IMF「ビットコイン名義のコインではお金にならない」。ビットコイン&gt;金&gt;不換紙幣。"
+    },
+    {
+      "locale": "zh",
+      "title": "国际货币基金组织 \"比特币名称中的硬币并不意味着它就是钱\"。比特币&gt;黄金&gt;法定货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "國際貨幣基金組織 \"比特幣名稱中的硬幣並不意味着它就是錢\"。比特幣&gt;黃金&gt;法定貨幣。"
+    }
+  ]
 }
