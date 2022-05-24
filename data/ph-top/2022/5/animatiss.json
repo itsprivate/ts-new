@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-24T07:16:42Z"
+  "original_createdAt": "2022-05-24T07:16:42Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AnimatiSSは、カスタムCSSアニメーションをプレビューし、クリックするだけでそのコードを取得し、自分のウェブプロジェクトに貼り付けることができるツールです。",
+      "tagline": "カラフルで素敵なCSSアニメーション集"
+    },
+    {
+      "locale": "zh",
+      "description": "AnimatiSS是一个预览自定义CSS动画的工具，并通过简单的点击抓取其代码，将其粘贴到你自己的网络项目中。",
+      "tagline": "一个漂亮的、丰富多彩的CSS动画集合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AnimatiSS是一個預覽自定義CSS動畫的工具，並通過簡單的點擊抓取其代碼，將其粘貼到你自己的網絡項目中。",
+      "tagline": "一個漂亮的、豐富多彩的CSS動畫集合"
+    }
+  ]
 }
