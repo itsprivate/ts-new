@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-24T07:02:00Z"
+  "original_createdAt": "2022-05-24T07:02:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "次回のAWS請求が50%OFFになります。Vantage Autopilotは、リザーブドインスタンスを自動的に売買することで、お客様に代わってコスト削減を適用します。インフラを変更する必要はありません。AWSアカウントに接続し、コスト削減を開始します。",
+      "tagline": "AWSのコストを自動的に50%削減"
+    },
+    {
+      "locale": "zh",
+      "description": "为您的下一次AWS账单节省50%。Vantage Autopilot通过自动购买和出售保留实例，代表您节约成本。没有任何前期承诺或基础设施变化。连接您的AWS账户，开始节约。",
+      "tagline": "自动降低你的AWS成本50%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲您的下一次AWS賬單節省50%。Vantage Autopilot通過自動購買和出售保留實例，代表您節約成本。沒有任何前期承諾或基礎設施變化。連接您的AWS賬戶，開始節約。",
+      "tagline": "自動降低你的AWS成本50%。"
+    }
+  ]
 }
