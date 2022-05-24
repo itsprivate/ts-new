@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニューヨーク・タイムズ アリスティドはフランスにハイチへの賠償を要求した。彼は亡命することになった..."
+    },
+    {
+      "locale": "zh",
+      "title": "纽约时报》。阿里斯蒂德要求法国向海地支付赔偿金。他最终被流放。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "紐約時報》。阿里斯蒂德要求法國向海地支付賠償金。他最終被流放。"
+    }
+  ]
 }
