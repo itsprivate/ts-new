@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "回を重ねるごとに悪くなる"
+    },
+    {
+      "locale": "zh",
+      "title": "每一个回合都比第一个回合更糟糕"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每一個回合都比第一個回合更糟糕"
+    }
+  ]
 }
