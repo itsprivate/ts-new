@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-25T12:51:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--knboFRlA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b9gexoc5zvs1a5beafc8.png",
   "author": "protium",
-  "author_url": "https://dev.to/protium"
+  "author_url": "https://dev.to/protium",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "若い頃、私は自分のプロフィール・サイトが本当にクールで、フル機能のものになると思っていました。",
+      "title": "プロフィールサイトが端末に"
+    },
+    {
+      "locale": "zh",
+      "description": "当我年轻的时候，我曾想过我的个人资料网站将是一个非常酷的，功能齐全的网站。",
+      "title": "我的个人资料网站现在是一个终端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我年輕的時候，我曾想過我的個人資料網站將是一個非常酷的，功能齊全的網站。",
+      "title": "我的個人資料網站現在是一個終端"
+    }
+  ]
 }
