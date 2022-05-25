@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-24T16:10:00Z"
+  "original_createdAt": "2022-05-24T16:10:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stripe Appsでは、Stripe Dashboardに直接カスタムユーザーエクスペリエンスを埋め込み、Stripe APIをオーケストレーションすることができます。お客様のチームだけでなく、Stripeを利用する100万以上の企業向けに、業務を効率化するアプリを作成できます。",
+      "tagline": "Stripeでアプリを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "Stripe Apps可以让您直接在Stripe仪表盘中嵌入自定义用户体验，并协调Stripe API。创建一个应用程序来简化您的团队或使用Stripe的100多万企业的操作。",
+      "tagline": "在Stripe上建立一个应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stripe Apps可以讓您直接在Stripe儀表盤中嵌入自定義用戶體驗，並協調Stripe API。創建一個應用程序來簡化您的團隊或使用Stripe的100多萬企業的操作。",
+      "tagline": "在Stripe上建立一個應用程序"
+    }
+  ]
 }
