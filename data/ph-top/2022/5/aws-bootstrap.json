@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-25T07:01:00Z"
+  "original_createdAt": "2022-05-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSは強力だが、構成が難しい。AWS Bootstrapを使えば、AWS上のフルスタックアプリケーションを数分でセットアップすることができます。好きなフレームワークを選び、AWSアカウントに接続し、デプロイするだけです!",
+      "tagline": "ワンクリックでAWSにフルスタック"
+    },
+    {
+      "locale": "zh",
+      "description": "AWS很强大，但很难配置。有了AWS Bootstrap，你可以在几分钟内在AWS上建立一个全栈应用程序。只需挑选你喜欢的框架，连接你的AWS账户，然后进行部署!",
+      "tagline": "一键完成AWS上的全栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWS很強大，但很難配置。有了AWS Bootstrap，你可以在幾分鐘內在AWS上建立一個全棧應用程序。只需挑選你喜歡的框架，連接你的AWS賬戶，然後進行部署!",
+      "tagline": "一鍵完成AWS上的全棧"
+    }
+  ]
 }
