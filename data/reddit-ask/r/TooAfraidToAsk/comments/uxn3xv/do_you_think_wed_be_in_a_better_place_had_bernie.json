@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "*Edit to clarify: The 2016 Election."
+  "the_new_excerpt": "*Edit to clarify: The 2016 Election.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "*編集部より：2016年の選挙について。",
+      "title": "バーニーが大統領になっていたら、私たちはもっといい場所にいたと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "*编辑澄清：2016年的选举。",
+      "title": "你认为如果伯尼成为总统，我们会有更好的处境吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "*編輯澄清：2016年的選舉。",
+      "title": "你認爲如果伯尼成爲總統，我們會有更好的處境嗎？"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Im only 13 so im not very smart but im also very curious about these things"
+  "the_new_excerpt": "Im only 13 so im not very smart but im also very curious about these things",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はまだ13歳なので、あまり賢くはないが、これらのことに非常に興味を持っている。",
+      "title": "平面上にランダムな3点があるとき、3点すべてに接することができる円は必ず存在するのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我只有13岁，所以我不是很聪明，但我也对这些事情非常好奇。",
+      "title": "如果在一个平面上有3个随机的点，是否总有一个圆能接触到这3个点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我只有13歲，所以我不是很聰明，但我也對這些事情非常好奇。",
+      "title": "如果在一個平面上有3個隨機的點，是否總有一個圓能接觸到這3個點？"
+    }
+  ]
 }
