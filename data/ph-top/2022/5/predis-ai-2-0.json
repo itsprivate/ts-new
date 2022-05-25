@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-25T07:12:38Z"
+  "original_createdAt": "2022-05-25T07:12:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Predis.ai 2.0をリリースしました。今、あなたはできる。1. 1行のテキスト入力で、すぐに使えるソーシャルメディア投稿を作成。AIが画像、キャプション、ハッシュタグを作成し、投稿に最適なタイミングを提案します。2. 2. 1クリックでInstagram、Facebook、Linkedinに公開。",
+      "tagline": "1行のテキストからInstagram、Facebookに対応した投稿を作成可能"
+    },
+    {
+      "locale": "zh",
+      "description": "推出Predis.ai 2.0! 现在你可以 1. 1.从1行文字输入创建随时可用的社交媒体帖子。我们的人工智能使图像，标题，标签和建议的最佳时间发布。2. 2. 一键发布到Instagram, Facebook, 和Linkedin。",
+      "tagline": "从一个单行文字创建Instagram、Facebook准备好的帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "推出Predis.ai 2.0! 現在你可以 1. 1.從1行文字輸入創建隨時可用的社交媒體帖子。我們的人工智能使圖像，標題，標籤和建議的最佳時間發佈。2. 2. 一鍵發佈到Instagram, Facebook, 和Linkedin。",
+      "tagline": "從一個單行文字創建Instagram、Facebook準備好的帖子"
+    }
+  ]
 }
