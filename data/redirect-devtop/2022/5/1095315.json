@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-25T06:29:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UpMX4Hjq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xe86wqir53ttpxc7zfbq.png",
   "author": "Marko Denic",
-  "author_url": "https://dev.to/denicmarko"
+  "author_url": "https://dev.to/denicmarko",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さあ、はじめましょう            1. concat() この配列と...を結合した新しい配列を返します。",
+      "title": "JavaScriptのArrayメソッドの説明"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们开始吧!            1. concat() 返回一个新的数组，该数组与...",
+      "title": "JavaScript数组方法解释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們開始吧!            1. concat() 返回一個新的數組，該數組與...",
+      "title": "JavaScript數組方法解釋"
+    }
+  ]
 }
