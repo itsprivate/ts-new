@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-25T11:47:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6X7bBwx7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88i2wd1ggupyor4zjstp.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テスト駆動開発とは？  テスト駆動開発、略してTDDは、本質的に...",
+      "title": "Reactのテストライブラリ、Jest、Cypressを使ってReactでテスト駆動開発を行う方法"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是测试驱动开发？  测试驱动开发或简称为TDD，本质上是一种...",
+      "title": "如何使用React测试库、Jest和Cypress在React中进行测试驱动开发"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是測試驅動開發？  測試驅動開發或簡稱爲TDD，本質上是一種...",
+      "title": "如何使用React測試庫、Jest和Cypress在React中進行測試驅動開發"
+    }
+  ]
 }
