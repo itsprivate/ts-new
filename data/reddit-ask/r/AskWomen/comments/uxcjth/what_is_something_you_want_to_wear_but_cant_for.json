@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "着たいけど着れないものって何ですか？(理由は問いません）"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你想穿但不能穿的东西？(由于任何原因)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你想穿但不能穿的東西？(由於任何原因)"
+    }
+  ]
 }
