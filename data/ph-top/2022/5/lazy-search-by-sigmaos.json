@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-25T07:01:00Z"
+  "original_createdAt": "2022-05-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レイジーサーチのご紹介 🔍タブ、検索、コマンド、ブックマーク...1つのツールで全てを検索、1つのツールで全てを支配 👑待機BSなし、 https://sigmaos.com 🤩です。",
+      "tagline": "ブラウザ用検索エンジン"
+    },
+    {
+      "locale": "zh",
+      "description": "满足懒人搜索 🔍 标签、搜索、命令、书签......一个工具来搜索它们，一个工具来统治它们 👑 没有等待名单BS，https://sigmaos.com 🤩",
+      "tagline": "浏览器的搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "滿足懶人搜索 🔍 標籤、搜索、命令、書籤......一個工具來搜索它們，一個工具來統治它們 👑 沒有等待名單BS，https://sigmaos.com 🤩",
+      "tagline": "瀏覽器的搜索引擎"
+    }
+  ]
 }
