@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、ここにいないなんて、あまりにも健全なことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这实在是太健康了，不能不在这里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這實在是太健康了，不能不在這裏。"
+    }
+  ]
 }

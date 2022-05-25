@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人が嫌いな人"
+    },
+    {
+      "locale": "zh",
+      "title": "憎恨人类的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "憎恨人類的人"
+    }
+  ]
 }

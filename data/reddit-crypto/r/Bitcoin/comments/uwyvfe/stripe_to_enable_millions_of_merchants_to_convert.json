@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Stripe、OpenNode経由で数百万社の加盟店が支払いをビットコインに変換可能に"
+    },
+    {
+      "locale": "zh",
+      "title": "Stripe将使数以百万计的商家通过OpenNode将付款转化为比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Stripe將使數以百萬計的商家通過OpenNode將付款轉化爲比特幣"
+    }
+  ]
 }
