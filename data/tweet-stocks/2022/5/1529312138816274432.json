@@ -1,0 +1,74 @@
+{
+  "created_at": "Wed May 25 22:49:41 +0000 2022",
+  "id_str": "1529312138816274432",
+  "full_text": "CANCEL ALERT: $NFLX\n https://t.co/j7sX5JG3lY",
+  "display_text_range": [
+    0,
+    44
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "NFLX",
+        "indices": [
+          14,
+          19
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1529025734114689000,
+        "id_str": "1529025734114689024",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529025734114689024/pu/img/J_CLR_XwVXspcHnp.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529025734114689024/pu/img/J_CLR_XwVXspcHnp.jpg",
+        "url": "https://t.co/j7sX5JG3lY",
+        "display_url": "pic.twitter.com/j7sX5JG3lY",
+        "expanded_url": "https://twitter.com/Aja02537920/status/1529025826712391681/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 480,
+            "h": 848,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 385,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 480,
+            "h": 848,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1529025826712391700,
+        "source_status_id_str": "1529025826712391681",
+        "source_user_id": 1184435921011261400,
+        "source_user_id_str": "1184435921011261440"
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 36,
+  "favorite_count": 229,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed May 25 04:03:21 +0000 2022"
+}
