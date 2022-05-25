@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "愛犬が舞台裏で寝ていて、アンコールで出てきて一緒に歌った。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的狗在后台睡觉，在安可的时候走出来和乐队一起唱歌。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的狗在後臺睡覺，在安可的時候走出來和樂隊一起唱歌。"
+    }
+  ]
 }
