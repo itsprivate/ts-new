@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-15T10:24:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IREhjX26--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4i466ovwzbp4axpnab6.jpeg",
   "author": "Mark Gatere",
-  "author_url": "https://dev.to/gateremark"
+  "author_url": "https://dev.to/gateremark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "基礎編 Part1 はじめに プログラミングって何だろう？簡単に言うと、プログラミングとは...",
+      "title": "Python from the word ...Go"
+    },
+    {
+      "locale": "zh",
+      "description": "基础知识 第一部分 简介 什么是编程？简单地说，编程是一种方法。",
+      "title": "蟒蛇从字...去"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "基礎知識 第一部分 簡介 什麼是編程？簡單地說，編程是一種方法。",
+      "title": "蟒蛇從字...去"
+    }
+  ]
 }
