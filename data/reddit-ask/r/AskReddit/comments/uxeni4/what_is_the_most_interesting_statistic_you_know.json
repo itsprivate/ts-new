@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている中で、最も興味深い統計は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道的最有趣的统计数字是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道的最有趣的統計數字是什麼？"
+    }
+  ]
 }
