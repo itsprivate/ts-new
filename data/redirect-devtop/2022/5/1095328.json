@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-25T07:02:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8q45SzoY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16t8rluspbwrvy4vm8bb.png",
   "author": "MvsKiran",
-  "author_url": "https://dev.to/mvskiran"
+  "author_url": "https://dev.to/mvskiran",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "主なアイデアは、（Leetcode、FreeCodeCamp）のようなものを作成し、挑戦的な問題を作成することです...",
+      "title": "Reactの課題を解決できるプラットフォームを作りました（https://reactchallenges.live） 🚀（PWA）"
+    },
+    {
+      "locale": "zh",
+      "description": "主要的想法是创建类似于（Leetcode ,FreeCodeCamp）和具有挑战性的问题。",
+      "title": "我创建了一个平台，你可以解决React的挑战（https://reactchallenges.live）🚀（PWA）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "主要的想法是創建類似於（Leetcode ,FreeCodeCamp）和具有挑戰性的問題。",
+      "title": "我創建了一個平臺，你可以解決React的挑戰（https://reactchallenges.live）🚀（PWA）。"
+    }
+  ]
 }
