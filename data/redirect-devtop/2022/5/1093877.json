@@ -55,5 +55,22 @@
   "original_created_at": "2022-05-23T18:37:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IProQBr3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://community.codenewbie.org/remoteimages/uploads/articles/xo14cqorfx5h2u8lcm5h.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CodeNewbie PodcastのS20E3を聴く!",
+      "title": "S20:E3 - CTOのような考え方をする方法 🎙。"
+    },
+    {
+      "locale": "zh",
+      "description": "听听CodeNewbie播客的S20E3!",
+      "title": "S20:E3 - 如何像CTO一样思考 🎙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "聽聽CodeNewbie播客的S20E3!",
+      "title": "S20:E3 - 如何像CTO一樣思考 🎙"
+    }
+  ]
 }
