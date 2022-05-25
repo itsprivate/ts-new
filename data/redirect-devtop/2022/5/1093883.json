@@ -43,5 +43,22 @@
   "original_created_at": "2022-05-23T18:57:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Moy6ZfIG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imr0p4oqm0n8h7w7yqu3.jpg",
   "author": "Andrei Molchanov",
-  "author_url": "https://dev.to/neodelf"
+  "author_url": "https://dev.to/neodelf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、dev.to! ここに私の最初の投稿があります。マインドゲームが好きな人がいたらいいなと思います。それで、私は...",
+      "title": "ルビークイズ"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，dev.to! 这是我在那里的第一个帖子。我希望有喜欢智力游戏的人。所以我想...",
+      "title": "红宝石测验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，dev.to! 這是我在那裏的第一個帖子。我希望有喜歡智力遊戲的人。所以我想...",
+      "title": "紅寶石測驗"
+    }
+  ]
 }
