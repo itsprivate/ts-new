@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-25T19:52:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0-UCetKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gvk5w98pwxe872hyx5a0.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "連載の続きです。過去の質問にも気軽に答えてください。 例えば、私は一度も...",
+      "title": "スウィフトで投げる"
+    },
+    {
+      "locale": "zh",
+      "description": "继续这个系列! 欢迎大家参与进来，对过去的问题进行评价。 比方说，我从来没有...",
+      "title": "向我推荐斯威夫特"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "繼續這個系列! 歡迎大家參與進來，對過去的問題進行評價。 比方說，我從來沒有...",
+      "title": "向我推薦斯威夫特"
+    }
+  ]
 }
