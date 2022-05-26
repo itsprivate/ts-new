@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "常に報道される恐ろしい悲劇を目の当たりにして、あなたはどのように日々を過ごしているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在目睹了不断报道的可怕悲剧之后，你如何继续过你的日子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在目睹了不斷報道的可怕悲劇之後，你如何繼續過你的日子？"
+    }
+  ]
 }
