@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキサス州庁舎に貼る。テキサスの政治家全員に、この文章をノンストップでFAX送信する。"
+    },
+    {
+      "locale": "zh",
+      "title": "把它贴在德克萨斯州的首都大楼上。把它不停地传真给每一个德克萨斯州的政治家。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "把它貼在德克薩斯州的首都大樓上。把它不停地傳真給每一個德克薩斯州的政治家。"
+    }
+  ]
 }

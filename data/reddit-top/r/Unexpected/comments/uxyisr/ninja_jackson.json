@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "忍者ジャクソン"
+    },
+    {
+      "locale": "zh",
+      "title": "忍者杰克逊"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "忍者傑克遜"
+    }
+  ]
 }
