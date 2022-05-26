@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "A big thing that made Uber popular is that they were cheaper and quicker than\ntaxis. I just saw the pricing for a taxi yesterday while I was in an uber did\nthe math and realized the trip was now the same price as my Uber."
+  "the_new_excerpt": "A big thing that made Uber popular is that they were cheaper and quicker than\ntaxis. I just saw the pricing for a taxi yesterday while I was in an uber did\nthe math and realized the trip was now the same price as my Uber.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Uberが普及したのは、安くて早いというのが大きなポイントです。\nタクシーよりも安くて早いことです。昨日、ユーバーに乗っている時にタクシーの料金を見たんです。\nを計算したら、Uberと同じ値段になっていました。",
+      "title": "Ubersがタクシーと同じくらい高くなったことに、なぜ誰も気づかないのだろう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "让Uber流行起来的一大原因是，他们的价格和速度都比\n出租车。我昨天看到了出租车的价格，而我在Uber里做了一个计算，并意识到这一价格比出租车便宜。\n计算了一下，发现现在的行程和我的Uber是一样的价格。",
+      "title": "为什么没有人注意到，现在的Uber和以前的出租车一样贵？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "讓Uber流行起來的一大原因是，他們的價格和速度都比\n出租車。我昨天看到了出租車的價格，而我在Uber裏做了一個計算，並意識到這一價格比出租車便宜。\n計算了一下，發現現在的行程和我的Uber是一樣的價格。",
+      "title": "爲什麼沒有人注意到，現在的Uber和以前的出租車一樣貴？"
+    }
+  ]
 }
