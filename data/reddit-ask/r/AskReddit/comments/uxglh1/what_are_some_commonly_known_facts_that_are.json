@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一般によく知られている「事実」で、実はまったく事実でないものを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "有哪些众所周知的 \"事实 \"实际上是完全不真实的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有哪些衆所周知的 \"事實 \"實際上是完全不真實的？"
+    }
+  ]
 }

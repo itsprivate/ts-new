@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今すぐOnionのホームページを見る"
+    },
+    {
+      "locale": "zh",
+      "title": "洋葱》的主页现在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "洋蔥》的主頁現在"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Crypto WhalesはStablecoinのパニックの後、USDCのためにTetherを捨てました。"
+    },
+    {
+      "locale": "zh",
+      "title": "稳定币恐慌后，加密货币鲸鱼放弃Tether转而选择USDC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "穩定幣恐慌後，加密貨幣鯨魚放棄Tether轉而選擇USDC"
+    }
+  ]
 }

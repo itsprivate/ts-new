@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはとてもピュアなことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是如此纯粹。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是如此純粹。"
+    }
+  ]
 }
