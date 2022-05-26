@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-26T07:01:00Z"
+  "original_createdAt": "2022-05-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Libsyn、Buzzsprout、Spreaker、Anchor、Soundcloudなどでホストしているかどうかにかかわらず、ポッドキャストのウェブサイトを作成する。番組を検索（またはRSSフィードを貼り付ける）するだけで、あなたのウェブサイトを自動的に生成します。",
+      "tagline": "RSSフィードからポッドキャスト用のウェブサイトを生成する"
+    },
+    {
+      "locale": "zh",
+      "description": "为你的播客创建一个网站，无论你是否在Libsyn、Buzzsprout、Spreaker、Anchor、Soundcloud等网站上托管。只要搜索你的节目（或粘贴你的RSS feed），我们就会为你自动生成一个网站。",
+      "tagline": "从你的RSS订阅中为你的播客生成一个网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲你的播客創建一個網站，無論你是否在Libsyn、Buzzsprout、Spreaker、Anchor、Soundcloud等網站上託管。只要搜索你的節目（或粘貼你的RSS feed），我們就會爲你自動生成一個網站。",
+      "tagline": "從你的RSS訂閱中爲你的播客生成一個網站"
+    }
+  ]
 }

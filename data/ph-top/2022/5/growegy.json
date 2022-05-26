@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-26T07:01:00Z"
+  "original_createdAt": "2022-05-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://www.growegy.com/ を使って、マーケティングや販売戦術に透明性を持たせます。カレンダー、表形式、タイムラインビューを接続することで、計画を視覚化します。Salesforce（その他のプラットフォームは近日公開）でデータを強化し、パフォーマンスの傾向を明らかにします。",
+      "tagline": "マーケティングチームのための合理化されたキャンペーントラッキング"
+    },
+    {
+      "locale": "zh",
+      "description": "通过https://www.growegy.com/，为营销和销售策略带来透明度。我们通过连接日历、表格和时间线视图，将您的计划可视化。用Salesforce（即将有更多平台）增强你的数据，并揭示业绩趋势。",
+      "tagline": "精简营销团队的活动跟踪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過https://www.growegy.com/，爲營銷和銷售策略帶來透明度。我們通過連接日曆、表格和時間線視圖，將您的計劃可視化。用Salesforce（即將有更多平臺）增強你的數據，並揭示業績趨勢。",
+      "tagline": "精簡營銷團隊的活動跟蹤"
+    }
+  ]
 }
