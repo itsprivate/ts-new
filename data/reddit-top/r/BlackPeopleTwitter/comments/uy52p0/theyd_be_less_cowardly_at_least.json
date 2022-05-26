@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "少なくとも臆病になることはないだろう。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们至少不会那么懦弱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們至少不會那麼懦弱"
+    }
+  ]
 }

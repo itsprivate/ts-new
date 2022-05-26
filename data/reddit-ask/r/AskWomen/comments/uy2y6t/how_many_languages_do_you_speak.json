@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何ヶ国語話せるんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会说多少种语言？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會說多少種語言？"
+    }
+  ]
 }

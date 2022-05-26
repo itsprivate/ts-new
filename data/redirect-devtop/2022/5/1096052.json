@@ -57,5 +57,22 @@
   "original_created_at": "2022-05-25T21:12:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t5aLvrNj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xta184hg63e9euvvswln.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週のDevDiscussは、今年初めのWhat's...というディスカッションスレッドに触発されてお送りします。",
+      "title": "今までで一番楽しいコーディング！？🎙"
+    },
+    {
+      "locale": "zh",
+      "description": "本周的DevDiscuss节目的灵感来自于今年早些时候的一个讨论线程，名为What's...",
+      "title": "我们有史以来最有趣的编码! 🎙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週的DevDiscuss節目的靈感來自於今年早些時候的一個討論線程，名爲What's...",
+      "title": "我們有史以來最有趣的編碼! 🎙"
+    }
+  ]
 }

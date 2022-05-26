@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I made a tool that removes annoying characters and references from Wikipedia\ntexts to make copy-pasting easier. I just made it so I haven't tested it much,\nbut for my needs, it worked…"
+  "the_new_excerpt": "I made a tool that removes annoying characters and references from Wikipedia\ntexts to make copy-pasting easier. I just made it so I haven't tested it much,\nbut for my needs, it worked…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Wikipediaの迷惑文字や参考文献を削除するツールを作ってみた\nを削除するツールを作りました。まだ作ったばかりなので、あまりテストしていません。\nまだ作ったばかりなので、あまりテストしていませんが、私のニーズには合っていました...",
+      "title": "wikipediaのテキストフォーマッターを作ったので、その必要はありません。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我做了一个工具，可以从维基百科的文本中删除讨厌的字符和参考文献，以使复制粘贴更容易。\n文本中删除恼人的字符和参考文献，以使复制粘贴更容易。我刚刚做了它，所以我还没怎么测试过它。\n但对于我的需要，它是有效的...",
+      "title": "我做了一个维基百科的文本格式化器，所以你不需要"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我做了一個工具，可以從維基百科的文本中刪除討厭的字符和參考文獻，以使複製粘貼更容易。\n文本中刪除惱人的字符和參考文獻，以使複製粘貼更容易。我剛剛做了它，所以我還沒怎麼測試過它。\n但對於我的需要，它是有效的...",
+      "title": "我做了一個維基百科的文本格式化器，所以你不需要"
+    }
+  ]
 }
