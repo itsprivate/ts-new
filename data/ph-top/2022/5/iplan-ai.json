@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-26T07:01:00Z"
+  "original_createdAt": "2022-05-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "旅程の作成は、簡単で楽しく、数秒以上かかるものではありません。",
+      "tagline": "人工知能を活用したスマートな旅程を実現"
+    },
+    {
+      "locale": "zh",
+      "description": "制定行程应该是简单而有趣的，不需要花费超过几秒钟的时间。iplan.ai的设计是为了节省你的时间",
+      "tagline": "在人工智能的帮助下的智能行程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "制定行程應該是簡單而有趣的，不需要花費超過幾秒鐘的時間。iplan.ai的設計是爲了節省你的時間",
+      "tagline": "在人工智能的幫助下的智能行程"
+    }
+  ]
 }
