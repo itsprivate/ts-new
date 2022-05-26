@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お父さん、ボールみたいでかわいい。"
+    },
+    {
+      "locale": "zh",
+      "title": "爸爸......这就像一个球......可爱的孩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爸爸......這就像一個球......可愛的孩子"
+    }
+  ]
 }
