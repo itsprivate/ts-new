@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの大切な人が亡くなった後、その人について何かわかったことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在你的某个亲人去世后发现了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在你的某個親人去世後發現了什麼？"
+    }
+  ]
 }

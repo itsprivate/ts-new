@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この港の水深は非常に深く、ザトウクジラでも事前に気づかれることなく侵入してくることがあるそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个港口的水非常深，即使是座头鲸也能从里面冲出来而不被事先发现。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個港口的水非常深，即使是座頭鯨也能從裏面衝出來而不被事先發現。"
+    }
+  ]
 }
