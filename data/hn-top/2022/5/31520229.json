@@ -13,5 +13,19 @@
   ],
   "objectID": "31520229",
   "original_created_at": "2022-05-26T16:20:54.000Z",
-  "image": "https://esphome.io/_images/logo.png"
+  "image": "https://esphome.io/_images/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ESPHome - センサー付きESP32をHomeAssistantに接続する"
+    },
+    {
+      "locale": "zh",
+      "title": "ESPHome - 将带有传感器的ESP32与HomeAssistant连接起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ESPHome - 將帶有傳感器的ESP32與HomeAssistant連接起來"
+    }
+  ]
 }
