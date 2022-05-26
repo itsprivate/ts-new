@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-25T12:24:10Z",
   "image": "https://dev.to/social_previews/article/1095551.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "それは、コンピュータサイエンスやコーディングブートキャンプの先生かもしれませんし、あなたの人生の中で本当に他の誰かかもしれません...",
+      "title": "あなたがこれまでに受けた最高の教師について説明してください。"
+    },
+    {
+      "locale": "zh",
+      "description": "它可能是计算机科学或编码训练营的老师--或者真的是你生活中的任何其他人，他们都是你的朋友。",
+      "title": "描述一下你所遇到的最好的老师"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "它可能是計算機科學或編碼訓練營的老師--或者真的是你生活中的任何其他人，他們都是你的朋友。",
+      "title": "描述一下你所遇到的最好的老師"
+    }
+  ]
 }
