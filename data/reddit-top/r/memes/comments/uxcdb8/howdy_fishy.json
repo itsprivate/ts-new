@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハウディ、フィッシー"
+    },
+    {
+      "locale": "zh",
+      "title": "你好啊，小鱼儿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你好啊，小魚兒"
+    }
+  ]
 }

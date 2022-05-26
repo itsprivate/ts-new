@@ -71,5 +71,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-25T07:10:42Z"
+  "original_createdAt": "2022-05-25T07:10:42Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chromaは、ウェブページから色を選び、共有可能なカラーパレットを簡単に構築することができる無料のブラウザ拡張機能です。現在、Chrome、Edge、Braveの各ブラウザで利用可能です。",
+      "tagline": "新しいお気に入りのスポイトツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Chroma是一个免费的浏览器扩展，它使人们能够轻松地从网页中挑选颜色并建立可共享的调色板。目前可用于Chrome、Edge和Brave浏览器。",
+      "tagline": "你最喜欢的滴管工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Chroma是一個免費的瀏覽器擴展，它使人們能夠輕鬆地從網頁中挑選顏色並建立可共享的調色板。目前可用於Chrome、Edge和Brave瀏覽器。",
+      "tagline": "你最喜歡的滴管工具"
+    }
+  ]
 }
