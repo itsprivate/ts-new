@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-25T16:39:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1H_w_Ody--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/znurzjlkw1qpdjy1ay7h.jpg",
   "author": "Kai Wenzel",
-  "author_url": "https://dev.to/kai_wenzel"
+  "author_url": "https://dev.to/kai_wenzel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正規表現に初めて出会ったとき、それはランダムなちんぷんかんぷんな文字列のように思えるかもしれません。しかし...",
+      "title": "Javascriptの正規表現(RegEx)をマスターする"
+    },
+    {
+      "locale": "zh",
+      "description": "当你第一次遇到正则表达式时，它们可能看起来像一串随机的胡言乱语。虽然...",
+      "title": "掌握Javascript中的正则表达式(RegEx)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你第一次遇到正則表達式時，它們可能看起來像一串隨機的胡言亂語。雖然...",
+      "title": "掌握Javascript中的正則表達式(RegEx)"
+    }
+  ]
 }
