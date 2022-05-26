@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-26T12:41:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_6WmqsNs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1f4x1q1mxizqmsun42gk.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいForemにスポットを当てることができ、とても嬉しく思います。Opsコミュニティです。これは、DevOpsに特化した新しいスペースで、...",
+      "title": "This is Exciting: あらゆるDevOpsのための新たな目的地"
+    },
+    {
+      "locale": "zh",
+      "description": "我非常高兴地强调一个新的Forem。Ops社区。这是一个专门针对DevOps的新空间，...",
+      "title": "这很令人激动。一个有关DevOps的新目的地"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我非常高興地強調一個新的Forem。Ops社區。這是一個專門針對DevOps的新空間，...",
+      "title": "這很令人激動。一個有關DevOps的新目的地"
+    }
+  ]
 }
