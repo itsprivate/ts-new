@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、ここに属しているような気がします。"
+    },
+    {
+      "locale": "zh",
+      "title": "这感觉就像它属于这里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這感覺就像它屬於這裏"
+    }
+  ]
 }
