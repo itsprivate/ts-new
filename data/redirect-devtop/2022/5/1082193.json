@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-11T14:17:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xC6mm7py--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5awfu6sqiueq0ijshd3.png",
   "author": "Abayomi Ogunnusi",
-  "author_url": "https://dev.to/drsimplegraffiti"
+  "author_url": "https://dev.to/drsimplegraffiti",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、体調を崩さずにお過ごしでしょうか？今回は、Continuous Developmentと...",
+      "title": "Jenkinsを用いたCI/CD"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，我希望你能保持良好的状态。我们来看看一个持续发展和...",
+      "title": "使用Jenkins进行CI/CD"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，我希望你能保持良好的狀態。我們來看看一個持續發展和...",
+      "title": "使用Jenkins進行CI/CD"
+    }
+  ]
 }
