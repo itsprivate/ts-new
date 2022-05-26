@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "好きな国はどこですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪个国家？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪個國家？"
+    }
+  ]
 }
