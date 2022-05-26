@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はもっと具体的に説明しなければならない"
+    },
+    {
+      "locale": "zh",
+      "title": "他必须更加具体"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他必須更加具體"
+    }
+  ]
 }
