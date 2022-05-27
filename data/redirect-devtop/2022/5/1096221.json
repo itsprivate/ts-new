@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-26T02:52:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uz10QjOc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bezwhas55xqlyut72q4b.jpeg",
   "author": "Maxi Contieri",
-  "author_url": "https://dev.to/mcsee"
+  "author_url": "https://dev.to/mcsee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "汎用的であること、未来を予見することは良いことだ。  TL;DR：一般化し過ぎないこと．",
+      "title": "Code Smell 135 - 実現が1つだけのインターフェイス"
+    },
+    {
+      "locale": "zh",
+      "description": "通用和预见未来是好事。  TL;DR: 不要过度泛化...",
+      "title": "代码嗅觉135 - 只有一个实现的接口"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通用和預見未來是好事。  TL;DR: 不要過度泛化...",
+      "title": "代碼嗅覺135 - 只有一個實現的接口"
+    }
+  ]
 }
