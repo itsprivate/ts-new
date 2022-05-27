@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警官に仕事をさせたければ、親切にしなさい"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你想让警察做他们的工作，请对他们好一点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你想讓警察做他們的工作，請對他們好一點"
+    }
+  ]
 }

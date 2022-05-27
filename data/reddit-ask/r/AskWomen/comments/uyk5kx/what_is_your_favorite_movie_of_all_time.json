@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "and why ?"
+  "the_new_excerpt": "and why ?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "その理由は？",
+      "title": "あなたの好きな映画は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "以及为什么？",
+      "title": "你最喜欢的电影是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "以及爲什麼？",
+      "title": "你最喜歡的電影是什麼？"
+    }
+  ]
 }
