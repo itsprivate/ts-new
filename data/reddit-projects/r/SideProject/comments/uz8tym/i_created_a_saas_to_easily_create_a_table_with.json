@@ -48,5 +48,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey!\n\nI've been working on a \"startup\" side project over the last few months to try\nout the Lean startup processes (ship fast, talk to users, repeat), and learn\nabout some new technologies (integrating with Stripe for payments and\nElasticsearch). This is the first time I've built something with the…"
+  "the_new_excerpt": "Hey!\n\nI've been working on a \"startup\" side project over the last few months to try\nout the Lean startup processes (ship fast, talk to users, repeat), and learn\nabout some new technologies (integrating with Stripe for payments and\nElasticsearch). This is the first time I've built something with the…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "おい！\n\n私はここ数ヶ月、「スタートアップ」のサイドプロジェクトに取り組んでいます。\nリーンスタートアップのプロセス（速く出荷し、ユーザーと話し、繰り返す）を試し、そして、そのプロセスについて学ぶために、この数ヶ月間、「スタートアップ」のサイドプロジェクトに取り組んできました。\n新しい技術(決済のためのStripeとの統合やElasticsearch)を学ぶためです。\nElasticsearchとの統合）。このプロジェクトは、私が初めて...",
+      "title": "JSONやCSVファイルからAPIアクセスで簡単にテーブルを作成するSaaSを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿!\n\n在过去的几个月里，我一直在做一个 \"创业 \"的辅助项目，以尝试\n试试精益创业的过程（快速发货，与用户交谈，重复），并学习一些新的技术（与Stripe集成支付）。\n一些新的技术（与Stripe的支付和Elasticsearch的整合）。\nElasticsearch）。这是我第一次用 \"大数据 \"来做项目。",
+      "title": "我创建了一个SaaS，可以轻松地从JSON或CSV文件中创建一个有API访问的表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿!\n\n在過去的幾個月裏，我一直在做一個 \"創業 \"的輔助項目，以嘗試\n試試精益創業的過程（快速發貨，與用戶交談，重複），並學習一些新的技術（與Stripe集成支付）。\n一些新的技術（與Stripe的支付和Elasticsearch的整合）。\nElasticsearch）。這是我第一次用 \"大數據 \"來做項目。",
+      "title": "我創建了一個SaaS，可以輕鬆地從JSON或CSV文件中創建一個有API訪問的表格"
+    }
+  ]
 }
