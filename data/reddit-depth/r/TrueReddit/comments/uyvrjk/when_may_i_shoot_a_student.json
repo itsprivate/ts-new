@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつ撮影してもいいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我何时可以拍摄学生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我何時可以拍攝學生？"
+    }
+  ]
 }

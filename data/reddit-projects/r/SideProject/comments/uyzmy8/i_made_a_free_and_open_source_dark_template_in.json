@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポートフォリオやブログに最適なAstro.jsとReactを使ったフリー＆オープンソースのダークテンプレートを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在Astro.js中用React制作了一个免费和开源的黑暗模板，非常适合用于投资组合或博客。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在Astro.js中用React製作了一個免費和開源的黑暗模板，非常適合用於投資組合或博客。"
+    }
+  ]
 }

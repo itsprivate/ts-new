@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子どもはすべての問題を解決する"
+    },
+    {
+      "locale": "zh",
+      "title": "孩子们解决了所有问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "孩子們解決了所有問題"
+    }
+  ]
 }
