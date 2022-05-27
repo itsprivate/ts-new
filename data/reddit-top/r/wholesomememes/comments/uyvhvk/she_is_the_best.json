@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は最高です"
+    },
+    {
+      "locale": "zh",
+      "title": "她是最棒的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她是最棒的"
+    }
+  ]
 }
