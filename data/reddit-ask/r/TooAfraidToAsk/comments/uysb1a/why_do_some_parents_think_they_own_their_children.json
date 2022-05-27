@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I see this often where I live though it's mostly the mothers"
+  "the_new_excerpt": "I see this often where I live though it's mostly the mothers",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私の住んでいるところでもよく見かけるのですが、ほとんどがお母さんたちです。",
+      "title": "なぜ、子どもを自分のものだと思う親がいるのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在我居住的地方，我经常看到这种情况，虽然主要是母亲。",
+      "title": "为什么有些父母认为他们拥有自己的孩子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在我居住的地方，我經常看到這種情況，雖然主要是母親。",
+      "title": "爲什麼有些父母認爲他們擁有自己的孩子？"
+    }
+  ]
 }
