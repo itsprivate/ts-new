@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは簡単なこと"
+    },
+    {
+      "locale": "zh",
+      "title": "就这么简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就這麼簡單"
+    }
+  ]
 }
