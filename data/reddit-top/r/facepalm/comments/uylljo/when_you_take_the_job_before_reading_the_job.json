@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "鵜呑みにすると"
+    },
+    {
+      "locale": "zh",
+      "title": "没看清工作内容就接受工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒看清工作內容就接受工作"
+    }
+  ]
 }
