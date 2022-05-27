@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソラーナのブロックチェーン時計が時間を見失い、現在30分遅れで稼働中"
+    },
+    {
+      "locale": "zh",
+      "title": "索拉纳的区块链时钟失去了时间轨道，现在落后30分钟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "索拉納的區塊鏈時鐘失去了時間軌道，現在落後30分鐘"
+    }
+  ]
 }
