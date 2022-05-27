@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スコット・ミナードは昨年、ビットコインを60万ドルと呼び、今週は8000ドルに修正した。以下は、彼が間違っていたすべての時間です。"
+    },
+    {
+      "locale": "zh",
+      "title": "Scott Minard去年称比特币为60万美元，本周又修改为8000美元。以下是他所有不正确的次数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Scott Minard去年稱比特幣爲60萬美元，本週又修改爲8000美元。以下是他所有不正確的次數"
+    }
+  ]
 }

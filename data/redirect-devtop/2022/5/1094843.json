@@ -46,5 +46,22 @@
   "original_created_at": "2022-05-24T19:12:09Z",
   "image": "https://dev.to/social_previews/article/1094843.png",
   "author": "Daniel Fyhr",
-  "author_url": "https://dev.to/danielfy"
+  "author_url": "https://dev.to/danielfy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チームで仕事をしていると、必ずと言っていいほど衝突が起こります。それは些細な意見の相違であったり、...",
+      "title": "仕事上のコンフリクトにどのように対処していますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你在一个团队中工作，冲突肯定会发生。它可以是一个小的意见分歧，关于...",
+      "title": "你如何处理工作中的冲突？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你在一個團隊中工作，衝突肯定會發生。它可以是一個小的意見分歧，關於...",
+      "title": "你如何處理工作中的衝突？"
+    }
+  ]
 }
