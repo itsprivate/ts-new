@@ -33,5 +33,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべての新規タブでサッカーニュースを表示するChrome拡張機能"
+    },
+    {
+      "locale": "zh",
+      "title": "在每个新标签中显示足球新闻的Chrome扩展程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在每個新標籤中顯示足球新聞的Chrome擴展程序"
+    }
+  ]
 }
