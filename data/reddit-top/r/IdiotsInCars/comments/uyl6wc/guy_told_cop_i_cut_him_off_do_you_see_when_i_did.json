@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男は私が切り出したと警官に言った。いつそんなことをしたか分かるか？"
+    },
+    {
+      "locale": "zh",
+      "title": "那家伙告诉警察我打断了他。你看到我什么时候做的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那傢伙告訴警察我打斷了他。你看到我什麼時候做的嗎？"
+    }
+  ]
 }

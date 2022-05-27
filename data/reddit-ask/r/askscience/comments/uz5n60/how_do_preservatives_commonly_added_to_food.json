@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "食品によく添加されている防腐剤は、私たちの腸内細菌叢にどのような影響を与えるのでしょうか？消化を助ける細菌を殺してしまうのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "通常添加到食品中的防腐剂如何影响我们的肠道生物群？它们是否会杀死有助于消化的细菌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通常添加到食品中的防腐劑如何影響我們的腸道生物羣？它們是否會殺死有助於消化的細菌？"
+    }
+  ]
 }
