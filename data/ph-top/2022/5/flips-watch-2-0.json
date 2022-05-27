@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-27T07:08:07Z"
+  "original_createdAt": "2022-05-27T07:08:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flips Watchは、ブロックチェーンからNFTの取引履歴を取得し、各利益/損失を計算します。OpenSea、LooksRare、X2Y2、Gem.xyz、NFT Traderなどでの取引に対応しています。また、複数のウォレットデータの集計にも対応しています。",
+      "tagline": "NFTの取引履歴と利益を分析する"
+    },
+    {
+      "locale": "zh",
+      "description": "Flips Watch从区块链上获取你的NFT交易历史，并计算出你的每一笔利润/亏损。OpenSea、LooksRare、X2Y2、Gem.xyz、NFT Trader等的交易都被支持。它还支持多个钱包数据的汇总。",
+      "tagline": "分析你的NFT交易历史和利润"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flips Watch從區塊鏈上獲取你的NFT交易歷史，並計算出你的每一筆利潤/虧損。OpenSea、LooksRare、X2Y2、Gem.xyz、NFT Trader等的交易都被支持。它還支持多個錢包數據的彙總。",
+      "tagline": "分析你的NFT交易歷史和利潤"
+    }
+  ]
 }
