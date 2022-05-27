@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サークル（USDC）が米FRBにデジタル・ドル立ち上げで足元をすくわれないよう要請"
+    },
+    {
+      "locale": "zh",
+      "title": "圈子（USDC）要求美国联邦调查局不要因推出数字美元而踩到自己的脚跟"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "圈子（USDC）要求美國聯邦調查局不要因推出數字美元而踩到自己的腳跟"
+    }
+  ]
 }
