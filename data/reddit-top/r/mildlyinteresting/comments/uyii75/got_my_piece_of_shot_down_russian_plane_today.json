@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "dronesforukraine.fundに寄付して、今日、撃墜されたロシア機の一部を手に入れました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在向乌克兰无人机基金捐款后，我今天得到了被击落的俄罗斯飞机的碎片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在向烏克蘭無人機基金捐款後，我今天得到了被擊落的俄羅斯飛機的碎片。"
+    }
+  ]
 }
