@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-25T16:41:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NnNA-nDj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dodc5me0prlkfne1zmqt.jpg",
   "author": "alesbe",
-  "author_url": "https://dev.to/alesbe"
+  "author_url": "https://dev.to/alesbe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Hooksは4年ほど前に登場し、現在作られているほとんどのReactプロジェクトでは、機能的な...",
+      "title": "ReactはReact Hooksにドキュメントを変更する必要がある"
+    },
+    {
+      "locale": "zh",
+      "description": "React Hooks大约在4年前问世，今天几乎所有的React项目都使用了功能性的...",
+      "title": "React应该把文档改为React Hooks"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React Hooks大約在4年前問世，今天幾乎所有的React項目都使用了功能性的...",
+      "title": "React應該把文檔改爲React Hooks"
+    }
+  ]
 }
