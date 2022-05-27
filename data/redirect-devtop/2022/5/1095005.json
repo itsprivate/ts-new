@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-24T20:45:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MK1GAMy2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ak4lofdd8r80jz606npv.png",
   "author": "Demola Malomo",
-  "author_url": "https://dev.to/malomz"
+  "author_url": "https://dev.to/malomz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この投稿では、Actix WebフレームワークとMongoDBを使ったRustによるユーザー管理アプリケーションの構築について説明します。",
+      "title": "RustとMongoDBでREST APIを構築する - アクティクスのWeb版"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章将讨论使用Actix网络框架和MongoDB用Rust构建一个用户管理应用程序。",
+      "title": "用Rust和MongoDB构建REST API - Actix网络版"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章將討論使用Actix網絡框架和MongoDB用Rust構建一個用戶管理應用程序。",
+      "title": "用Rust和MongoDB構建REST API - Actix網絡版"
+    }
+  ]
 }
