@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-25T17:14:21Z",
   "image": "https://dev.to/social_previews/article/1095820.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリをどのように構成するのが「正しい方法」なのかは、Reactが登場して以来、最近のホットトピックになっているようです。",
+      "title": "規模に応じたReactのプロジェクト構造：分解、レイヤー、階層化"
+    },
+    {
+      "locale": "zh",
+      "description": "如何以 \"正确的方式 \"构建React应用程序似乎是最近的热门话题，只要React...",
+      "title": "规模化的React项目结构：分解、层级和层次结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何以 \"正確的方式 \"構建React應用程序似乎是最近的熱門話題，只要React...",
+      "title": "規模化的React項目結構：分解、層級和層次結構"
+    }
+  ]
 }
