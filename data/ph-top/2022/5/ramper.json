@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-27T07:01:00Z"
+  "original_createdAt": "2022-05-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RamperはDAppsのための無料のWeb3 SDKで、ユーザーを迅速に取り込むことができます。ウォレットをまだ持っていないユーザーに対して、DAppsはRamperを統合し、電子メールを使って即座にオンボーディングし、アプリ内で直接暗号を購入させることができます。",
+      "tagline": "無料のweb3 SDKで、即座にユーザーを取り込む。"
+    },
+    {
+      "locale": "zh",
+      "description": "Ramper是一个免费的web3 SDK，供DApps快速加入用户。对于还没有设置钱包的用户，DApps可以整合Ramper，让他们立即使用电子邮件加入，并让他们在应用中直接购买加密货币。",
+      "tagline": "免费的web3 SDK，瞬间就能让用户上手"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Ramper是一個免費的web3 SDK，供DApps快速加入用戶。對於還沒有設置錢包的用戶，DApps可以整合Ramper，讓他們立即使用電子郵件加入，並讓他們在應用中直接購買加密貨幣。",
+      "tagline": "免費的web3 SDK，瞬間就能讓用戶上手"
+    }
+  ]
 }
