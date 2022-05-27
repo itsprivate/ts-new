@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間対機械"
+    },
+    {
+      "locale": "zh",
+      "title": "人类与机器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "人類與機器"
+    }
+  ]
 }

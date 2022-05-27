@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-26T14:06:09Z"
+  "original_createdAt": "2022-05-26T14:06:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "イラストレーターやSVGファイルをFigmaに取り込む。このプラグインは、以下のようなほとんどのインポートに関する問題を解決します。-Illustrator から Figma へのコピーペースト -&nbsp;SVGs using -&nbsp;SVGs using HSL/HSLa -&nbsp;SVGs with malformed width/height を含むほとんどのインポートの問題を修正します。",
+      "tagline": "イラストレーターやSVGファイルをFigmaに取り込む"
+    },
+    {
+      "locale": "zh",
+      "description": "将您的 illustrator 和 SVG 文件导入 Figma。此插件可解决大多数导入问题，包括。-&nbsp;从Illustrator复制粘贴到Figma -&nbsp;SVG使用 -&nbsp;SVG使用HSL/HSLa -&nbsp;SVG的宽度/高度畸形",
+      "tagline": "将你的插画师和SVG文件导入Figma"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將您的 illustrator 和 SVG 文件導入 Figma。此插件可解決大多數導入問題，包括。-&nbsp;從Illustrator複製粘貼到Figma -&nbsp;SVG使用 -&nbsp;SVG使用HSL/HSLa -&nbsp;SVG的寬度/高度畸形",
+      "tagline": "將你的插畫師和SVG文件導入Figma"
+    }
+  ]
 }

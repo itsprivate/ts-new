@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男は8階のアパートの窓から外に出て、無力な3歳の女の子を捕らえた。"
+    },
+    {
+      "locale": "zh",
+      "title": "这名男子从八楼的公寓窗户爬出来，抓住了这个无助的三岁女孩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這名男子從八樓的公寓窗戶爬出來，抓住了這個無助的三歲女孩。"
+    }
+  ]
 }
