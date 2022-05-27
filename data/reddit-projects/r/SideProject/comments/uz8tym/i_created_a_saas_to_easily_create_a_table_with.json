@@ -1,0 +1,52 @@
+{
+  "author": "bezoni-tablon",
+  "original_created_utc": 1653688504,
+  "title": "I created a SaaS to easily create a table with API access from a JSON or CSV file",
+  "created_utc": 1653692303,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey!&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;ve been working on a &amp;quot;startup&amp;quot; side project over the last few months to try out the Lean startup processes (ship fast, talk to users, repeat), and learn about some new technologies (integrating with Stripe for payments and Elasticsearch). This is the first time I&amp;#39;ve built something with the intention of charging. One of the points Y Combinator emphasizes is to charge users immediately (instead of using free trials, or having it free initially then pay later) to help gauge if you are really solving a problem they actually have, vs a problem the user thinks they have.&lt;/p&gt;\n\n&lt;p&gt;I created &lt;a href=\"https://www.bezonitablon.com\"&gt;Bezoni Tablon&lt;/a&gt; to help data science teams (or anyone who&amp;#39;s work product is JSON or CSV files) make their data accessible through an API.&lt;/p&gt;\n\n&lt;p&gt;Too many times I have seen data science crunch interesting calculations through a multi hour long ETL pipeline or whatever, and their work gets uploaded to S3 or google sheets to be forgotten and die. Other services might be interested in that data, but parsing the file from S3 or copying it into their project can get hairy fast when you want to update the data or have it synced among several projects. So I want to create something easy for data science teams to create and manage new versions of the data, and easy for the consuming services to get the data through RESTful API endpoints.&lt;/p&gt;\n\n&lt;p&gt;Interested in any feedback or thoughts on anything like the idea, features, pricing, etc. Thanks!&lt;/p&gt;\n\n&lt;p&gt;Bezoni tablon means &amp;quot;to need a table&amp;quot; in Esperanto. I&amp;#39;m not a fluent Esperanto speaker, but find the concept and history behind it extremely interesting.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/nXVDsf1GHaMHz2tyxMkdeBMmaCjI3FAaU-cGhYk-LQM.jpg?auto=webp&amp;s=23b3c06a8d514fce2378e2acd9dc09edd063a15c",
+          "width": 798,
+          "height": 442
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/nXVDsf1GHaMHz2tyxMkdeBMmaCjI3FAaU-cGhYk-LQM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=d32fb3807594e9e3db91481410d440ac284006b7",
+            "width": 108,
+            "height": 59
+          },
+          {
+            "url": "https://external-preview.redd.it/nXVDsf1GHaMHz2tyxMkdeBMmaCjI3FAaU-cGhYk-LQM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e24699e8498aecdcaecf7f75a2a8ae06d4518e0b",
+            "width": 216,
+            "height": 119
+          },
+          {
+            "url": "https://external-preview.redd.it/nXVDsf1GHaMHz2tyxMkdeBMmaCjI3FAaU-cGhYk-LQM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3f5986c8db0cf49c6efdec53d92c2c0f8dfb6f80",
+            "width": 320,
+            "height": 177
+          },
+          {
+            "url": "https://external-preview.redd.it/nXVDsf1GHaMHz2tyxMkdeBMmaCjI3FAaU-cGhYk-LQM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f3354b1b3a854c321782741d18ba1c121de76bb",
+            "width": 640,
+            "height": 354
+          }
+        ],
+        "variants": {},
+        "id": "6WDiVxIP3MPxleWymqlICuocwJlAJtBJsvuXy1bkDGQ"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/uz8tym/i_created_a_saas_to_easily_create_a_table_with/",
+  "subreddit": "SideProject",
+  "id": "uz8tym",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Hey!\n\nI've been working on a \"startup\" side project over the last few months to try\nout the Lean startup processes (ship fast, talk to users, repeat), and learn\nabout some new technologies (integrating with Stripe for payments and\nElasticsearch). This is the first time I've built something with the…"
+}
