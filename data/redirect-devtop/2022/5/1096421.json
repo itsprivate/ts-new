@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-26T09:12:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SxopQGPg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rg5ng05tlrnkdcpae29w.png",
   "author": "Sneh Chauhan",
-  "author_url": "https://dev.to/sneh27"
+  "author_url": "https://dev.to/sneh27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに もし、あなたが長い時間を要する大きなプロジェクトに取り組んでいるのなら、レポジトリ...",
+      "title": "Nexus Repository Manager : What is it & how to configure it on the Digital Ocean Droplet?"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：如果你正在做一个大的项目，这将需要很长的时间，存储库...",
+      "title": "Nexus存储库管理器：它是什么，如何在Digital Ocean Droplet上配置它？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：如果你正在做一個大的項目，這將需要很長的時間，存儲庫...",
+      "title": "Nexus存儲庫管理器：它是什麼，如何在Digital Ocean Droplet上配置它？"
+    }
+  ]
 }
