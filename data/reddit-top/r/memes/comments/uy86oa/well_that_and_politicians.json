@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはそうと、政治家"
+    },
+    {
+      "locale": "zh",
+      "title": "这和政治家一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這和政治家一樣"
+    }
+  ]
 }
