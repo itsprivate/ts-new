@@ -13,5 +13,19 @@
   ],
   "objectID": "31537319",
   "original_created_at": "2022-05-28T03:20:30.000Z",
-  "image": "https://www.bejarano.io/apple-touch-icon.png"
+  "image": "https://www.bejarano.io/apple-touch-icon.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Terraformはステートレスのままであるべきだった"
+    },
+    {
+      "locale": "zh",
+      "title": "Terraform应该保持无状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Terraform應該保持無狀態"
+    }
+  ]
 }
