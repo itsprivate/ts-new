@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1653670547,
-  "the_new_excerpt": "Thank you!"
+  "the_new_excerpt": "Thank you!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ありがとうございました。",
+      "title": "どなたかSPYの違いを説明していただけませんか？SPY、SPYバリュー。SPYグロースなど？SPYだけではダメなんでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "谢谢你!",
+      "title": "谁能解释一下SPY之间的区别？SPY, SPY Value. SPY增长型等？为什么不直接做SPY？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "謝謝你!",
+      "title": "誰能解釋一下SPY之間的區別？SPY, SPY Value. SPY增長型等？爲什麼不直接做SPY？"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたのペットが言葉を話すことができたら、あなたはどのような反応をしますか？「大好きだよ、いつもありがとう」と言ったらどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的宠物能够说话，并说：\"你会有什么反应？\"我非常爱你，谢谢你的一切。\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的寵物能夠說話，並說：\"你會有什麼反應？\"我非常愛你，謝謝你的一切。\"？"
+    }
+  ]
 }
