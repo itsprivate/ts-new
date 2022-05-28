@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつも聞かれるのが怖い、または心配な質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你总是害怕/担心被问到的一个问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你總是害怕/擔心被問到的一個問題是什麼？"
+    }
+  ]
 }
