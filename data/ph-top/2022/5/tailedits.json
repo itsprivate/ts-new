@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-28T07:01:00Z"
+  "original_createdAt": "2022-05-28T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Taileditsは、シンプルで使いやすいtailwindcssビジュアルエディタです。コンポーネントコードを貼り付けるだけで、コードの知識がなくても視覚的にテキストを編集することができます。",
+      "tagline": "シンプルで簡単なTailwind CSSビジュアルエディタ"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailedits是一个简单和易于使用的tailwindcss可视化编辑器。只需粘贴组件代码，就可以直观地编辑文本，不需要了解代码。",
+      "tagline": "简单易行的Tailwind CSS可视化编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailedits是一個簡單和易於使用的tailwindcss可視化編輯器。只需粘貼組件代碼，就可以直觀地編輯文本，不需要了解代碼。",
+      "tagline": "簡單易行的Tailwind CSS可視化編輯器"
+    }
+  ]
 }
