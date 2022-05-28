@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ようこそ当社へ"
+    },
+    {
+      "locale": "zh",
+      "title": "欢迎来到本所"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歡迎來到本所"
+    }
+  ]
 }

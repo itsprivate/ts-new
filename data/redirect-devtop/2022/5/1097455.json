@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-27T11:38:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VPsjpo2o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y03okbua68y4c4ersvt6.jpg",
   "author": "Bek Brace",
-  "author_url": "https://dev.to/bekbrace"
+  "author_url": "https://dev.to/bekbrace",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "友人[Javaプログラマー]と私の会話。私 - 私はPythonでコーディングしている 彼女 - 私は食べた...",
+      "title": "Pythonは過大評価されていると思いますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "一个朋友[Java程序员]和我之间的对话。我--我用Python编码 她--我吃了...",
+      "title": "你认为Python被高估了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個朋友[Java程序員]和我之間的對話。我--我用Python編碼 她--我吃了...",
+      "title": "你認爲Python被高估了嗎？"
+    }
+  ]
 }
