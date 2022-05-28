@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-28T07:05:00Z"
+  "original_createdAt": "2022-05-28T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Screenshots Proは、App StoreやGoogle Playでアプリの美しいプレゼンテーションを作成するためのアプリスクリーンショットメーカーです。主な機能は以下の通り：美しいエディターとデザイン、API統合、ローカライゼーション。",
+      "tagline": "App Store & Google Play用のパノラマアプリスクリーンショット作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Screenshots Pro是一个应用程序屏幕截图制作工具，可以帮助你在App Store和Google Play上为你的应用程序创建一个漂亮的演示。核心功能包括：美丽的编辑器和设计，API集成，本地化。",
+      "tagline": "为App Store和Google Play创建全景应用屏幕截图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Screenshots Pro是一個應用程序屏幕截圖製作工具，可以幫助你在App Store和Google Play上爲你的應用程序創建一個漂亮的演示。核心功能包括：美麗的編輯器和設計，API集成，本地化。",
+      "tagline": "爲App Store和Google Play創建全景應用屏幕截圖"
+    }
+  ]
 }
