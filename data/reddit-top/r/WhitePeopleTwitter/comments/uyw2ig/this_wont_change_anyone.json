@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これでは誰も変わらない"
+    },
+    {
+      "locale": "zh",
+      "title": "这不会改变任何人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不會改變任何人"
+    }
+  ]
 }

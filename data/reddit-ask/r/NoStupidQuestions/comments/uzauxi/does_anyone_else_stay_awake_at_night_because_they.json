@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "寝たら自由な時間がなくなる気がして、夜中に起きている人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人在晚上不睡觉，因为他们觉得如果他们去睡觉，就会失去他们的自由时间吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人在晚上不睡覺，因爲他們覺得如果他們去睡覺，就會失去他們的自由時間嗎？"
+    }
+  ]
 }

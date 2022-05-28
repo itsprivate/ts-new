@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-27T16:20:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7c7jfhbc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrxjet1xc0orldhxpanv.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "個人であれ、チームであれ、責任を負うことは、精神衛生上も、能力的にも良いことではありません...",
+      "title": "薄っぺらいコードが精神衛生に与える影響とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "无论是个人还是团队，负责任的态度对你的心理健康、能力都不会有好处。",
+      "title": "脆弱的代码如何影响你的心理健康？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論是個人還是團隊，負責任的態度對你的心理健康、能力都不會有好處。",
+      "title": "脆弱的代碼如何影響你的心理健康？"
+    }
+  ]
 }
