@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-08T11:10:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6rI0LBB2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6k5hkeeaj6pksjbu403a.png",
   "author": "Jon Randy",
-  "author_url": "https://dev.to/jonrandy"
+  "author_url": "https://dev.to/jonrandy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリックするとネタバレします Turbopropでは、配列のプロパティアクセサとして、取得と設定の両方を行うことができます...",
+      "title": "ターボプロップ JSの配列がプロパティアクセサに！？"
+    },
+    {
+      "locale": "zh",
+      "description": "点击查看破坏者 Turboprop允许你使用数组作为属性访问器来获取和设置...",
+      "title": "Turboprop: JS数组作为属性访问器！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "點擊查看破壞者 Turboprop允許你使用數組作爲屬性訪問器來獲取和設置...",
+      "title": "Turboprop: JS數組作爲屬性訪問器！？"
+    }
+  ]
 }
