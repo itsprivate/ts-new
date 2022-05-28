@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-26T06:30:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JxHg_T75--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gxkld5dgdl1ggvlze85i.jpg",
   "author": "Programming is a Joke",
-  "author_url": "https://dev.to/programmingisajoke"
+  "author_url": "https://dev.to/programmingisajoke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そこで今日は、私の夢のデスクセットアップをご紹介します。  というわけで。",
+      "title": "私の夢のデスクセットアップ、ないでござるの巻"
+    },
+    {
+      "locale": "zh",
+      "description": "因此，今天我将向你展示我的梦想办公桌上的东西。  请注意，我目前并不打算将这些东西放在我的办公桌上。",
+      "title": "我的梦想办公桌设置，我没有的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "因此，今天我將向你展示我的夢想辦公桌上的東西。  請注意，我目前並不打算將這些東西放在我的辦公桌上。",
+      "title": "我的夢想辦公桌設置，我沒有的"
+    }
+  ]
 }
