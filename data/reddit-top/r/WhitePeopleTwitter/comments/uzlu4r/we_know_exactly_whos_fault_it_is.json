@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰のせいかはよく分かっている"
+    },
+    {
+      "locale": "zh",
+      "title": "我们清楚地知道这是谁的错"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們清楚地知道這是誰的錯"
+    }
+  ]
 }
