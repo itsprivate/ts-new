@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アプリストアのスクリーンショットを作成するツールの構築（ソーシャルメディア用のアプリモックアップにも使用可能）"
+    },
+    {
+      "locale": "zh",
+      "title": "建立一个工具来创建应用商店的截图（也可用于社交媒体的应用模拟）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立一個工具來創建應用商店的截圖（也可用於社交媒體的應用模擬）。"
+    }
+  ]
 }
