@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-26T07:54:48Z",
   "image": "https://dev.to/social_previews/article/1096393.png",
   "author": "Rajesh Royal",
-  "author_url": "https://dev.to/rajeshroyal"
+  "author_url": "https://dev.to/rajeshroyal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MDNでProxyとReflectのドキュメントを読みましたが、あまり理解できませんでした。どなたか...",
+      "title": "JavaScriptにおけるProxyとReflectの使い分けは？"
+    },
+    {
+      "locale": "zh",
+      "description": "我读过MDN上的Proxy和Reflect的文档，但不太明白。谁能...",
+      "title": "JavaScript中的Proxy和Reflect有什么用？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我讀過MDN上的Proxy和Reflect的文檔，但不太明白。誰能...",
+      "title": "JavaScript中的Proxy和Reflect有什麼用？"
+    }
+  ]
 }
