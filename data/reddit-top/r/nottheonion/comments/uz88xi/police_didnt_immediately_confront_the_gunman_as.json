@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テキサス州の学校で銃乱射事件が起きたとき、警察がすぐに犯人と対峙しなかったのは「撃たれていたかもしれないから」。"
+    },
+    {
+      "locale": "zh",
+      "title": "德州学校枪击案发生时，警方没有立即与枪手对峙，因为他们 \"可能已经被枪杀\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德州學校槍擊案發生時，警方沒有立即與槍手對峙，因爲他們 \"可能已經被槍殺\"。"
+    }
+  ]
 }
