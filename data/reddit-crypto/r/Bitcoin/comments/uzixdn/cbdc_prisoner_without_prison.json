@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CBDC＝刑務所のない囚人"
+    },
+    {
+      "locale": "zh",
+      "title": "CBDC = 没有监狱的囚犯"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CBDC = 沒有監獄的囚犯"
+    }
+  ]
 }

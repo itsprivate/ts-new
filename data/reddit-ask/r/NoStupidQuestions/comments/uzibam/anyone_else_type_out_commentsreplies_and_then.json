@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コメントや返信をタイプして、誰も気にしないので投稿しない人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人打出评论/回复，然后不发表，因为没有人会在意？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人打出評論/回覆，然後不發表，因爲沒有人會在意？"
+    }
+  ]
 }
