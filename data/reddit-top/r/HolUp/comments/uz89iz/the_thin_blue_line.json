@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "細いブルーライン"
+    },
+    {
+      "locale": "zh",
+      "title": "薄薄的蓝线"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "薄薄的藍線"
+    }
+  ]
 }
