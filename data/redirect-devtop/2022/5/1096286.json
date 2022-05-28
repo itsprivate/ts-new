@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-26T06:08:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZInmmb6s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u9rf8pp5r69apwn47ov1.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アクティブ・ナビゲーションバーとは、ユーザーがアバウトページにいるときに、アバウトリンクが強調表示されるようにすることです...",
+      "title": "Next.jsのルートによるアクティブナビゲーションバー"
+    },
+    {
+      "locale": "zh",
+      "description": "主动导航条是指，当用户在有关页面上时，有关链接应突出显示在...",
+      "title": "使用Next.js路线的主动导航条"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "主動導航條是指，當用戶在有關頁面上時，有關鏈接應突出顯示在...",
+      "title": "使用Next.js路線的主動導航條"
+    }
+  ]
 }
