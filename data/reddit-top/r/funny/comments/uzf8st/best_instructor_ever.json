@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最高のインストラクター"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最好的教员"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最好的教員"
+    }
+  ]
 }
