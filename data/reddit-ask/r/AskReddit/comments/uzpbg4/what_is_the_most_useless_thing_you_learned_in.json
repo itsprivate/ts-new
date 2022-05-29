@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "学校で習ったことの中で、一番役に立たないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在学校学到的最无用的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在學校學到的最無用的東西是什麼？"
+    }
+  ]
 }
