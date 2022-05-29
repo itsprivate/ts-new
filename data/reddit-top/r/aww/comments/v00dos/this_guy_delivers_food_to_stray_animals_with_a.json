@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は、小さなリモコンカーで野良犬に餌を届けているんです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人用一辆小遥控车给流浪动物送食物。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人用一輛小遙控車給流浪動物送食物。"
+    }
+  ]
 }
