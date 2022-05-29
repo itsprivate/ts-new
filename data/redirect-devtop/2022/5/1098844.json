@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-29T07:35:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LRa6bw2L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrxghilmimwh5patx7pt.png",
   "author": "Sneh Chauhan",
-  "author_url": "https://dev.to/sneh27"
+  "author_url": "https://dev.to/sneh27",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Linuxはすごい! そう言わしめた理由を教えてあげましょう。 ある機能を実行するために複数の方法がある...。",
+      "title": "useradd vs adduser: どちらのコマンドを使うべきか？"
+    },
+    {
+      "locale": "zh",
+      "description": "Linux是惊人的! 让我告诉你是什么让我这么说的。 有多种方法来执行一项功能...",
+      "title": "useradd vs adduser。使用哪条命令？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Linux是驚人的! 讓我告訴你是什麼讓我這麼說的。 有多種方法來執行一項功能...",
+      "title": "useradd vs adduser。使用哪條命令？"
+    }
+  ]
 }
