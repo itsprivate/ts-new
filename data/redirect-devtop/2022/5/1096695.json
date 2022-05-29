@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-26T15:48:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--10hM2v-d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eo5gjohjxykl317rt2kh.jpg",
   "author": "Joel Olawanle",
-  "author_url": "https://dev.to/olawanle_joel"
+  "author_url": "https://dev.to/olawanle_joel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Reactは人気のあるフロントエンドフレームワークで、開発者はこのフレームワークを使用して...",
+      "title": "ReactでREST APIを消費するための初心者向けガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "导语：React是一个流行的前端框架，开发人员使用它来创建...",
+      "title": "在React中消耗REST API的初学者指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "導語：React是一個流行的前端框架，開發人員使用它來創建...",
+      "title": "在React中消耗REST API的初學者指南"
+    }
+  ]
 }
