@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-27T09:06:57Z",
   "image": "https://dev.to/social_previews/article/1097386.png",
   "author": "Christian Heilmann",
-  "author_url": "https://dev.to/codepo8"
+  "author_url": "https://dev.to/codepo8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "開発者として必要なスキルは、コードを学ぶことではありません。",
+      "title": "ウェブ開発者がしていると思われていることと、私たちが実際に行っていることの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "学会编码并不是你作为一个开发者需要的主要技能",
+      "title": "人们认为网站开发人员所做的与我们真正所做的对比"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "學會編碼並不是你作爲一個開發者需要的主要技能",
+      "title": "人們認爲網站開發人員所做的與我們真正所做的對比"
+    }
+  ]
 }
