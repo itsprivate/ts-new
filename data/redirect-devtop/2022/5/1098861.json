@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-29T08:51:18Z",
   "image": "https://dev.to/social_previews/article/1098861.png",
   "author": "Murtaza Nathani",
-  "author_url": "https://dev.to/mnathani"
+  "author_url": "https://dev.to/mnathani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、くだらないことは抜きにして、あなたが改善するために追加する必要がある2行のCSSに直接ジャンプします。",
+      "title": "2行のCSSでレンダリングパフォーマンスを7倍に向上！？"
+    },
+    {
+      "locale": "zh",
+      "description": "我就不说废话了，直接跳到你需要添加的两行css，以改善你的...",
+      "title": "两行CSS，提升了7倍的渲染性能!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我就不說廢話了，直接跳到你需要添加的兩行css，以改善你的...",
+      "title": "兩行CSS，提升了7倍的渲染性能!"
+    }
+  ]
 }
