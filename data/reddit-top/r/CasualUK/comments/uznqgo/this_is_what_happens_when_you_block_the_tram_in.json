@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シェフィールドでトラムを封鎖するとこうなる"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是在谢菲尔德堵住有轨电车的后果"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是在謝菲爾德堵住有軌電車的後果"
+    }
+  ]
 }
