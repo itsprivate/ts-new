@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-28T15:39:54Z",
   "image": "https://dev.to/social_previews/article/1098447.png",
   "author": "Sherry Day",
-  "author_url": "https://dev.to/sherrydays"
+  "author_url": "https://dev.to/sherrydays",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSは本当に難しいのですが、何がそうさせるのかを明確にするのは難しいですね。そうですか...",
+      "title": "CSSが難しいのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS可能真的很有挑战性--但我很难确定到底是什么让它如此。你会...",
+      "title": "是什么让CSS如此艰难？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS可能真的很有挑戰性--但我很難確定到底是什麼讓它如此。你會...",
+      "title": "是什麼讓CSS如此艱難？"
+    }
+  ]
 }
