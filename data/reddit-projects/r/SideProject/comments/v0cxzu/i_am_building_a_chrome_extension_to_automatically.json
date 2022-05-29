@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Google Meetの中でNotionに自動的に会議メモを取るためのChrome拡張機能を作っています。ぜひフィードバックをお願いします。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在建立一个Chrome扩展，以便在Google Meet中自动在Notion上做会议记录。我希望得到您的反馈!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在建立一個Chrome擴展，以便在Google Meet中自動在Notion上做會議記錄。我希望得到您的反饋!"
+    }
+  ]
 }
