@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウーファー端子"
+    },
+    {
+      "locale": "zh",
+      "title": "纬度终端"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "緯度終端"
+    }
+  ]
 }

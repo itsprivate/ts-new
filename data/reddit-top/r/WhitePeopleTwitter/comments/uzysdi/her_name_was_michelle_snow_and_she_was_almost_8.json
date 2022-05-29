@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女の名前はミシェル・スノウで、もうすぐ8歳になる。"
+    },
+    {
+      "locale": "zh",
+      "title": "她的名字叫Michelle Snow，当时她快8岁了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她的名字叫Michelle Snow，當時她快8歲了。"
+    }
+  ]
 }

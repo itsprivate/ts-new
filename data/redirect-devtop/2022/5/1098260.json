@@ -41,5 +41,22 @@
   "original_created_at": "2022-05-28T09:24:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--udES3TIW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4t9df382fcl1ls6tlo2g.png",
   "author": "Anurag Hazra",
-  "author_url": "https://dev.to/anuraghazra"
+  "author_url": "https://dev.to/anuraghazra",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！新しいTypeScriptブログポストシリーズの最初の投稿を歓迎します。  このシリーズでは...",
+      "title": "バイトサイズのTypeScript #1 - フィルタの種類"
+    },
+    {
+      "locale": "zh",
+      "description": "你好！欢迎来到我的新TypeScript博文系列的第一篇文章。  在这个系列中，我将...",
+      "title": "字节大小的TypeScript #1--过滤器类型"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好！歡迎來到我的新TypeScript博文系列的第一篇文章。  在這個系列中，我將...",
+      "title": "字節大小的TypeScript #1--過濾器類型"
+    }
+  ]
 }
