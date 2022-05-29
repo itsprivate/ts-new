@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "応募のたびにカバーレターを一から書くのに疲れたので、カバーレターライターを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我厌倦了为每份工作申请从头开始写求职信，所以我建立了一个求职信写手。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我厭倦了爲每份工作申請從頭開始寫求職信，所以我建立了一個求職信寫手。"
+    }
+  ]
 }
