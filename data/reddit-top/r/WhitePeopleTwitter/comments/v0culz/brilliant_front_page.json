@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "華やかなフロントページ"
+    },
+    {
+      "locale": "zh",
+      "title": "辉煌的头版"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "輝煌的頭版"
+    }
+  ]
 }
