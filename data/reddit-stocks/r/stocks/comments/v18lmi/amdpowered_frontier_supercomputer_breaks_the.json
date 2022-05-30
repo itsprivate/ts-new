@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1653941111,
-  "the_new_excerpt": "The AMD-powered Frontier supercomputer is now the first officially recognized\nexascale supercomputer in the world, topping 1.102 ExaFlop/s during a sustained\nLinpack run. That ranks first on the newly-released Top500 list of the world's\nfastest supercomputers as the number of AMD-powered systems on…"
+  "the_new_excerpt": "The AMD-powered Frontier supercomputer is now the first officially recognized\nexascale supercomputer in the world, topping 1.102 ExaFlop/s during a sustained\nLinpack run. That ranks first on the newly-released Top500 list of the world's\nfastest supercomputers as the number of AMD-powered systems on…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "AMDを搭載したスーパーコンピュータ「Frontier」が、初めて公式に認められた\n1.102エクサフロップ/秒を達成し、世界初のエクサスケール・スーパーコンピュータに認定されました。\nを記録しました。これは、新たに発表された世界のスーパーコンピュータランキング「Top500」において1位となりました。\nAMDを搭載したシステムの数は、世界最速のスーパーコンピュータであるTop500の中で1位となりました。",
+      "title": "AMD搭載スーパーコンピュータ「Frontier」がエクサスケールの壁を破り、世界最速を達成"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "由AMD驱动的Frontier超级计算机现在是世界上第一台被正式认可的\n在持续的Linpack运行中达到1.102 ExaFlop/s的最高速度，是世界上第一台正式认可的超大规模超级计算机。\nLinpack运行时达到1.102 ExaFlop/s。这在新发布的世界上最快的超级计算机Top500名单上排名第一。\n这在新发布的世界上最快的超级计算机Top500名单上排名第一，因为AMD驱动的系统在...",
+      "title": "由AMD驱动的Frontier超级计算机打破了Exascale障碍，现在是世界上最快的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "由AMD驅動的Frontier超級計算機現在是世界上第一臺被正式認可的\n在持續的Linpack運行中達到1.102 ExaFlop/s的最高速度，是世界上第一臺正式認可的超大規模超級計算機。\nLinpack運行時達到1.102 ExaFlop/s。這在新發布的世界上最快的超級計算機Top500名單上排名第一。\n這在新發布的世界上最快的超級計算機Top500名單上排名第一，因爲AMD驅動的系統在...",
+      "title": "由AMD驅動的Frontier超級計算機打破了Exascale障礙，現在是世界上最快的。"
+    }
+  ]
 }
