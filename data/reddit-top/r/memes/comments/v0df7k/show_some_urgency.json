@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "緊急性をアピールする"
+    },
+    {
+      "locale": "zh",
+      "title": "表现出一定的紧迫性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "表現出一定的緊迫性"
+    }
+  ]
 }
