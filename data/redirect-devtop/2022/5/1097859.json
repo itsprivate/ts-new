@@ -39,5 +39,22 @@
   "original_created_at": "2022-05-27T19:51:36Z",
   "image": "https://dev.to/social_previews/article/1097859.png",
   "author": "swyx",
-  "author_url": "https://dev.to/swyx"
+  "author_url": "https://dev.to/swyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ひどいUIを排除したDockerの良いところ",
+      "title": "Docker Desktopを使用しないDockerの実行"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker的优秀部分，但没有糟糕的用户界面",
+      "title": "在没有Docker桌面的情况下运行Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker的優秀部分，但沒有糟糕的用戶界面",
+      "title": "在沒有Docker桌面的情況下運行Docker"
+    }
+  ]
 }
