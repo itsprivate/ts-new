@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As well as other family members for example and say “that person right there,\nthat’s my mom/dad” for example"
+  "the_new_excerpt": "As well as other family members for example and say “that person right there,\nthat’s my mom/dad” for example",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "他の家族も同様で、例えば「あそこの人」と言う。\nあれは私のお母さん／お父さんです」。",
+      "title": "鏡を見て、「わあ、これが私だ、私がコントロールしているのはこれだ、私はこう見えているんだ」と思うことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "以及其他家庭成员，例如，说 \"那个人就在那里。\n那是我的妈妈/爸爸\"，比如说",
+      "title": "你是否曾经对着镜子说：\"哇，这就是我，这就是我控制的东西，这就是我的样子\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "以及其他家庭成員，例如，說 \"那個人就在那裏。\n那是我的媽媽/爸爸\"，比如說",
+      "title": "你是否曾經對着鏡子說：\"哇，這就是我，這就是我控制的東西，這就是我的樣子\"？"
+    }
+  ]
 }
