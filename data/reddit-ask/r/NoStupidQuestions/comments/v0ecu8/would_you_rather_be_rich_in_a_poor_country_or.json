@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "貧しい国で金持ちになるのと、金持ちの国で貧乏になるのと、どっちがいい？"
+    },
+    {
+      "locale": "zh",
+      "title": "你愿意在一个贫穷的国家成为富人，还是在一个富裕的国家成为穷人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你願意在一個貧窮的國家成爲富人，還是在一個富裕的國家成爲窮人？"
+    }
+  ]
 }
