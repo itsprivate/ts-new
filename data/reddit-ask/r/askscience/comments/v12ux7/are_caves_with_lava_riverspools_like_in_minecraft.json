@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Also could you survive in the same cave as a lava river?"
+  "the_new_excerpt": "Also could you survive in the same cave as a lava river?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、溶岩の川と同じ洞窟で生き延びることができたのでしょうか？",
+      "title": "溶岩の川や池がある洞窟（マインクラフトのようなもの）は現実的なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "另外，你能在与熔岩河相同的洞穴中生存吗？",
+      "title": "有熔岩河/池子的洞穴（像在Minecraft中）是现实的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "另外，你能在與熔岩河相同的洞穴中生存嗎？",
+      "title": "有熔岩河/池子的洞穴（像在Minecraft中）是現實的嗎？"
+    }
+  ]
 }

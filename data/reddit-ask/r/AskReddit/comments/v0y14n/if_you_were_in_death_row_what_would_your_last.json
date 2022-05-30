@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしあなたが死刑囚だったら、最後の食事のリクエストは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你在死囚区，你的最后一餐要求是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你在死囚區，你的最後一餐要求是什麼？"
+    }
+  ]
 }
