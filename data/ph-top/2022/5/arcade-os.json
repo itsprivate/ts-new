@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-29T13:00:02Z"
+  "original_createdAt": "2022-05-29T13:00:02Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notionのワークスペースにゲームを集めて収納できる、楽しいデジタルドロワーです。",
+      "tagline": "Notionでゲームをキャプチャして管理する"
+    },
+    {
+      "locale": "zh",
+      "description": "一个有趣的数字抽屉，在你的Notion工作区收集和存储你的游戏。",
+      "tagline": "在Notion中捕捉和管理你的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個有趣的數字抽屜，在你的Notion工作區收集和存儲你的遊戲。",
+      "tagline": "在Notion中捕捉和管理你的遊戲"
+    }
+  ]
 }
