@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-24T19:51:41Z",
   "image": "https://dev.to/social_previews/article/1094994.png",
   "author": "Avi Avinav",
-  "author_url": "https://dev.to/aviavinav"
+  "author_url": "https://dev.to/aviavinav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1991年の発売以来、テキストエディタ戦争で最も古い出場者の一人であるVim。その歴史は...",
+      "title": "Vim: 初心者のための入門書"
+    },
+    {
+      "locale": "zh",
+      "description": "Vim是文本编辑器战争中最古老的竞争者之一，自1991年发布以来。它已经...",
+      "title": "Vim: 初学者的指南，从初学者开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vim是文本編輯器戰爭中最古老的競爭者之一，自1991年發佈以來。它已經...",
+      "title": "Vim: 初學者的指南，從初學者開始"
+    }
+  ]
 }
