@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-30T01:40:08Z",
   "image": "https://dev.to/social_previews/article/1099442.png",
   "author": "Nnaji David",
-  "author_url": "https://dev.to/callmebobonwa"
+  "author_url": "https://dev.to/callmebobonwa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これで、プログラミングを始めた○年○月○日○週○○○○になる？",
+      "title": "プログラミングは何歳から？"
+    },
+    {
+      "locale": "zh",
+      "description": "这将使它成为_______years/month/week you starting programming?",
+      "title": "你在编程方面有多大？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這將使它成爲_______years/month/week you starting programming?",
+      "title": "你在編程方面有多大？"
+    }
+  ]
 }

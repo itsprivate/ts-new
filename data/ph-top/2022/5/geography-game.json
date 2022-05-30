@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-30T07:01:00Z"
+  "original_createdAt": "2022-05-30T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Mapbox GL JSで作る地理クイズサイト",
+      "tagline": "シンプルでモダンな地理のクイズサイト"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Mapbox GL JS建立的地理测验网站",
+      "tagline": "简单而现代的地理测验网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Mapbox GL JS建立的地理測驗網站",
+      "tagline": "簡單而現代的地理測驗網站"
+    }
+  ]
 }
