@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたには、人々にちょっとした便利さを与える力が与えられています。どうすれば彼らの生活を少しでも良くすることができるのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你已被授予权力，为人们提供小的便利。你如何让他们的生活稍微好一点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你已被授予權力，爲人們提供小的便利。你如何讓他們的生活稍微好一點？"
+    }
+  ]
 }
