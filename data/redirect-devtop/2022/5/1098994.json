@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-29T13:59:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JbHfhO5w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uowdjdiftxao5lexo165.png",
   "author": "Sumama Zaeem",
-  "author_url": "https://dev.to/sumamazaeem"
+  "author_url": "https://dev.to/sumamazaeem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "概要 このブログでは、継続的インテグレーションを追加するために必要な手順を説明します。",
+      "title": "AWS CodePipelineを使ったGithubからS3への静的Webサイトデプロイの自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "摘要 这篇博客描述了添加持续集成的必要步骤。",
+      "title": "使用AWS CodePipeline将静态网站从Github自动部署到S3"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "摘要 這篇博客描述了添加持續集成的必要步驟。",
+      "title": "使用AWS CodePipeline將靜態網站從Github自動部署到S3"
+    }
+  ]
 }
