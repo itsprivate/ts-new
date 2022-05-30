@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が今まで見た中で最高のベン図"
+    },
+    {
+      "locale": "zh",
+      "title": "我见过的最好的维恩图"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我見過的最好的維恩圖"
+    }
+  ]
 }
