@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "交流電線はたくさんの細い電線を巻いた複合線（撚り線）なのに、なぜ直流電線は1本の太い線（単線）なのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么交流电线是由许多细线缠绕在一起的复合线（绞合线），而直流电线却是一根粗线（实心线）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼交流電線是由許多細線纏繞在一起的複合線（絞合線），而直流電線卻是一根粗線（實心線）？"
+    }
+  ]
 }
