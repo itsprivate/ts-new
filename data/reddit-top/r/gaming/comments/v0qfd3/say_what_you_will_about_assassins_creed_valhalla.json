@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アサシン クリード ヴァルハラ』のことはともかく、少なくとも猫も犬もペットとして飼えるようになったんだから。"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以对《刺客信条-瓦尔哈拉》说三道四，但至少他们让你同时抚摸猫和狗。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以對《刺客信條-瓦爾哈拉》說三道四，但至少他們讓你同時撫摸貓和狗。"
+    }
+  ]
 }
