@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Mapbox GL JSを使って地理クイズサイトを構築してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用Mapbox GL JS建立了一个地理测验网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用Mapbox GL JS建立了一個地理測驗網站"
+    }
+  ]
 }
