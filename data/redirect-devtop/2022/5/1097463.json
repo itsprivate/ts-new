@@ -57,5 +57,22 @@
   "original_created_at": "2022-05-27T12:00:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uf6y3DQt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lddftfno9g8q1ldgd1nd.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Medusaは、Next.jsとGatsbyで構築された2つの公式ストアフロントを持ちます。Next.jsの意味は...",
+      "title": "Next.js Storefrontのホームページをカスタマイズして、メデューサのTシャツを当てよう!"
+    },
+    {
+      "locale": "zh",
+      "description": "Medusa有2个官方店面，一个用Next.js构建，一个用Gatsby。我们的Next.js是指...",
+      "title": "定制我们的Next.js店面的主页并赢得Medusa的T恤衫"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Medusa有2個官方店面，一個用Next.js構建，一個用Gatsby。我們的Next.js是指...",
+      "title": "定製我們的Next.js店面的主頁並贏得Medusa的T恤衫"
+    }
+  ]
 }
