@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "変な動機"
+    },
+    {
+      "locale": "zh",
+      "title": "奇怪的动机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "奇怪的動機"
+    }
+  ]
 }
