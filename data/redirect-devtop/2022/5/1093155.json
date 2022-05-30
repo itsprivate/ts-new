@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-23T05:27:43Z",
   "image": "https://dev.to/social_previews/article/1093155.png",
   "author": "Zell Liew 🤗",
-  "author_url": "https://dev.to/zellwk"
+  "author_url": "https://dev.to/zellwk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事には、CSRF攻撃に関する完全な（そしてステップバイステップの）情報が含まれています。",
+      "title": "CSRF攻撃について"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章包含关于CSRF攻击的完整（和逐步）信息。",
+      "title": "了解CSRF攻击"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章包含關於CSRF攻擊的完整（和逐步）信息。",
+      "title": "瞭解CSRF攻擊"
+    }
+  ]
 }
