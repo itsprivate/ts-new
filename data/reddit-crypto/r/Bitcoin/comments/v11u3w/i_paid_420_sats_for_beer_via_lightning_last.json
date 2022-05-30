@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "先週の土曜日、ドイツのビットコインミートアップで、ライトニング経由でビール代420サッツを支払いました。"
+    },
+    {
+      "locale": "zh",
+      "title": "上周六在德国的比特币聚会上，我通过闪电支付了420萨特的啤酒费"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "上週六在德國的比特幣聚會上，我通過閃電支付了420薩特的啤酒費"
+    }
+  ]
 }
