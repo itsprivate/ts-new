@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditに「誤って一番上までスクロールしてしまっても、元の場所に戻れる」ボタンがあったらどうでしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果Reddit有一个 \"如果你不小心滚动到顶部，你可以回到你原来的位置 \"的按钮，你会觉得如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果Reddit有一個 \"如果你不小心滾動到頂部，你可以回到你原來的位置 \"的按鈕，你會覺得如何？"
+    }
+  ]
 }
