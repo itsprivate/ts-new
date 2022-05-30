@@ -35,5 +35,22 @@
   "original_created_at": "2022-05-28T18:53:16Z",
   "image": "https://dev.to/social_previews/article/1098581.png",
   "author": "Julie Cherner",
-  "author_url": "https://dev.to/juliecherner"
+  "author_url": "https://dev.to/juliecherner",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TSを使いこなすには、型というトピックを掘り下げ、その全容を探る必要があります。",
+      "title": "Typescriptを上達させるための7つのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "为了掌握你的TS技能，你需要深入研究类型的主题，并探索其全部内容。",
+      "title": "7个技巧来提高你的Typescript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲了掌握你的TS技能，你需要深入研究類型的主題，並探索其全部內容。",
+      "title": "7個技巧來提高你的Typescript"
+    }
+  ]
 }

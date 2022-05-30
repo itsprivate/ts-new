@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-29T15:59:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dagjzx7G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1zx5imr2t9om6obkydpd.png",
   "author": "Atul Prajapati",
-  "author_url": "https://dev.to/atulcodex"
+  "author_url": "https://dev.to/atulcodex",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、親愛なる友人たち👋 🤞 皆さんのコーディングの旅が良いものであることを祈っています。 この投稿では、私は...を表示する必要があります。",
+      "title": "HTML CSSだけで上にスクロールするボタン"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，亲爱的朋友们 👋 🤞 希望你们在你们的编码旅程中都做得很好。 在这篇文章中，我将向大家展示一个 \"小 \"字。",
+      "title": "只用HTML CSS的滚动到顶部按钮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，親愛的朋友們 👋 🤞 希望你們在你們的編碼旅程中都做得很好。 在這篇文章中，我將向大家展示一個 \"小 \"字。",
+      "title": "只用HTML CSS的滾動到頂部按鈕"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警告のサインがあればいいのですが......。"
+    },
+    {
+      "locale": "zh",
+      "title": "啧啧，如果有警告标志就好了......。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘖嘖，如果有警告標誌就好了......。"
+    }
+  ]
 }
