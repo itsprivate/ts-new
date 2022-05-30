@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "さて、ついにターンが表われた"
+    },
+    {
+      "locale": "zh",
+      "title": "好了，转折点终于出现了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好了，轉折點終於出現了"
+    }
+  ]
 }
