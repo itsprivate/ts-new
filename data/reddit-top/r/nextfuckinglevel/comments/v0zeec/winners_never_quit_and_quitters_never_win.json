@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "勝ち組は辞めないし、辞めた人は勝てない"
+    },
+    {
+      "locale": "zh",
+      "title": "胜利者从不放弃，而放弃者永远不会赢"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "勝利者從不放棄，而放棄者永遠不會贏"
+    }
+  ]
 }
