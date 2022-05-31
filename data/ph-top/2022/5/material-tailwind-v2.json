@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-31T07:05:36Z"
+  "original_createdAt": "2022-05-31T07:05:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "全く新しい外観と機能で、https://www.material-tailwind.com/?ref=producthuntfeatures 複数のReactとHTMLコンポーネントは、すべてTailwindCSSクラスとMaterial Designガイドラインで記述されています。今すぐ無料でお使いください。",
+      "tagline": "Tailwind CSS & Material Designのためのコンポーネントライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "拥有全新的外观和功能，https://www.material-tailwind.com/?ref=producthuntfeatures 多个React和HTML组件，都是用TailwindCSS类和Material Design指南编写的。现在就免费使用它",
+      "tagline": "用于Tailwind CSS & Material Design的组件库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "擁有全新的外觀和功能，https://www.material-tailwind.com/?ref=producthuntfeatures 多個React和HTML組件，都是用TailwindCSS類和Material Design指南編寫的。現在就免費使用它",
+      "tagline": "用於Tailwind CSS & Material Design的組件庫"
+    }
+  ]
 }

@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-31T07:26:28Z"
+  "original_createdAt": "2022-05-31T07:26:28Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Snaplinkは、コードからWebページのカスタムリンクプレビュー画像を生成できます✨ 1 - HTML / CSSと{{vars}}でプレビューをデザイン 2 - 生成したSnaplinkのURLをコピー 3 - 自分のサイトに貼り付けます。",
+      "tagline": "ダイナミックなソーシャルプレビュー画像の生成"
+    },
+    {
+      "locale": "zh",
+      "description": "Snaplink让你从代码中为你的网页生成自定义链接预览图像✨ 1 - 用HTML/CSS和{{vars}}设计你的预览 2 - 复制你生成的Snaplink URL 3 - 将其粘贴到你的网站上",
+      "tagline": "生成动态社交预览图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Snaplink讓你從代碼中爲你的網頁生成自定義鏈接預覽圖像✨ 1 - 用HTML/CSS和{{vars}}設計你的預覽 2 - 複製你生成的Snaplink URL 3 - 將其粘貼到你的網站上",
+      "tagline": "生成動態社交預覽圖像"
+    }
+  ]
 }
