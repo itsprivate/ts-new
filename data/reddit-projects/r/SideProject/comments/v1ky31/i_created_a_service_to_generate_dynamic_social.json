@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソーシャルプレビューの画像をコードから動的に生成するサービスを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个服务，从代码中生成动态社交预览图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個服務，從代碼中生成動態社交預覽圖片"
+    }
+  ]
 }
