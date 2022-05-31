@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-31T12:27:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s44j0S5D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln15jyvk49bwfuc7irsm.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "仕事でも、学校でも、あるいは余暇でも、この分野を活用したことはありますか？",
+      "title": "AI/MLを使って何か面白いことをしたことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "无论是你的工作、学校，还是业余时间的一部分--你是否利用了我们这个领域的分支？",
+      "title": "你用AI/ML做了什么有趣的事吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論是你的工作、學校，還是業餘時間的一部分--你是否利用了我們這個領域的分支？",
+      "title": "你用AI/ML做了什麼有趣的事嗎？"
+    }
+  ]
 }
