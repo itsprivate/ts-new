@@ -134,5 +134,22 @@
     "retweet_count": 566,
     "favorite_count": 2627,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @dergigi: 二番煎じはない、ということを親切に教えてくれる https://t.co/ZyiJXocCrD.",
+      "retweeted_status_full_text": "二番煎じはないということを親切に教えてくれる https://t.co/ZyiJXocCrD"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @dergigi: 友情提醒，没有第二好的。https://t.co/ZyiJXocCrD",
+      "retweeted_status_full_text": "友好提醒，没有第二种最好的。https://t.co/ZyiJXocCrD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @dergigi: 友情提醒，沒有第二好的。https://t.co/ZyiJXocCrD",
+      "retweeted_status_full_text": "友好提醒，沒有第二種最好的。https://t.co/ZyiJXocCrD"
+    }
+  ]
 }

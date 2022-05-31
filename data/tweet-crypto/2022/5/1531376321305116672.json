@@ -150,5 +150,22 @@
     "retweet_count": 667,
     "favorite_count": 3725,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinMagazine: #ビットコイン のビルボードに「あなたの貯蓄が印刷されつつあります。計画的に」 👏 https://t.co/mhemiZ4c78",
+      "retweeted_status_full_text": "#ビットコイン のビルボードに「あなたの貯金が印刷されつつあります。プラン ₿」👏 https://t.co/mhemiZ4c78"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinMagazine: #比特币广告牌说：\"你的储蓄正在被印走。计划₿\" 👏 https://t.co/mhemiZ4c78",
+      "retweeted_status_full_text": "#比特币广告牌说：\"你的储蓄正在被印走。计划₿\" 👏 https://t.co/mhemiZ4c78"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinMagazine: #比特幣廣告牌說：\"你的儲蓄正在被印走。計劃₿\" 👏 https://t.co/mhemiZ4c78",
+      "retweeted_status_full_text": "#比特幣廣告牌說：\"你的儲蓄正在被印走。計劃₿\" 👏 https://t.co/mhemiZ4c78"
+    }
+  ]
 }
