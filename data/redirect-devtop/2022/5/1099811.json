@@ -43,5 +43,22 @@
   "original_created_at": "2022-05-30T11:13:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzFmN1j3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s349297i0vz2gm7tvj2u.jpg",
   "author": "Nathan Kallman",
-  "author_url": "https://dev.to/kallmanation"
+  "author_url": "https://dev.to/kallmanation",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "カバー写真：Ibrahim Boran on Unsplash これは、私が必要なときに存在することを望んでいた記事です...",
+      "title": "プログラマーのための複式簿記"
+    },
+    {
+      "locale": "zh",
+      "description": "封面照片：Ibrahim Boran on Unsplash 这是一篇我希望在我需要时存在的文章。",
+      "title": "程序员的复式记账法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "封面照片：Ibrahim Boran on Unsplash 這是一篇我希望在我需要時存在的文章。",
+      "title": "程序員的複式記賬法"
+    }
+  ]
 }
