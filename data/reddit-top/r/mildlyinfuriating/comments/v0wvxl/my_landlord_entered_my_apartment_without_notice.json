@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大家が私の部屋に無断で入り、糸くず取り器を掃除するように言ってきた（違法）。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的房东在没有通知我的情况下进入我的公寓（非法），告诉我清理我的棉絮收集器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的房東在沒有通知我的情況下進入我的公寓（非法），告訴我清理我的棉絮收集器"
+    }
+  ]
 }
