@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このスレが立つと懐かしい"
+    },
+    {
+      "locale": "zh",
+      "title": "我错过了这一主题，当这一主题上升时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我錯過了這一主題，當這一主題上升時"
+    }
+  ]
 }
