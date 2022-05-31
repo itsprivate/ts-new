@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "No Knock, who there?"
+    },
+    {
+      "locale": "zh",
+      "title": "没有敲门，谁在那里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有敲門，誰在那裏？"
+    }
+  ]
 }
