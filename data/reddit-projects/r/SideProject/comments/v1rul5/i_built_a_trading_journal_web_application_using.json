@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "VueJS + Tailwindcss + Firebaseで売買日記のWebアプリケーションを構築してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用VueJS+Tailwindcss+Firebase建立了一个交易日志网络应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用VueJS+Tailwindcss+Firebase建立了一個交易日誌網絡應用。"
+    }
+  ]
 }
