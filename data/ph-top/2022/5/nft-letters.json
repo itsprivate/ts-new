@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-31T07:01:00Z"
+  "original_createdAt": "2022-05-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "人は手紙を愛し、誰でも永遠に残しておきたいと思うものですが、今ならそれが可能です。受信者だけが読むことができる、暗号化された手紙です。Polygonで構築されています。",
+      "tagline": "暗号化された手紙をNFTとして大切な人に贈る「Mint Encrypted Letters"
+    },
+    {
+      "locale": "zh",
+      "description": "人们喜欢信件，任何人都愿意永远保留它们，现在你可以了。只有接收者才能阅读的薄荷加密信。建立在Polygon上。",
+      "tagline": "将加密的信件作为NFT送给你的爱人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "人們喜歡信件，任何人都願意永遠保留它們，現在你可以了。只有接收者才能閱讀的薄荷加密信。建立在Polygon上。",
+      "tagline": "將加密的信件作爲NFT送給你的愛人"
+    }
+  ]
 }

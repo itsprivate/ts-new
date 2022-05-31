@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今後20年以内に違法になると予想されるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你预计在未来20年内，哪件目前合法的事情会变成非法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你預計在未來20年內，哪件目前合法的事情會變成非法？"
+    }
+  ]
 }
