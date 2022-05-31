@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-09T04:21:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Iqw1I-NU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://danlebrero.com/images/blog/cto/day8/bye.jpg",
   "author": "Dan Lebrero",
-  "author_url": "https://dev.to/danlebrero"
+  "author_url": "https://dev.to/danlebrero",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハンドルに手を焼く。",
+      "title": "CTO最終日：反省、失敗、そしていくつかの学び"
+    },
+    {
+      "locale": "zh",
+      "description": "我的手在方向盘上烧伤了。",
+      "title": "CTO的最后一天：反思、错误和一些教训"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的手在方向盤上燒傷了。",
+      "title": "CTO的最後一天：反思、錯誤和一些教訓"
+    }
+  ]
 }
