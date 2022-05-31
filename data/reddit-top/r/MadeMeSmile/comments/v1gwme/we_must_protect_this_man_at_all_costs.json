@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人を何としても守らなければならない。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们必须不惜一切代价保护这个人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們必須不惜一切代價保護這個人。"
+    }
+  ]
 }

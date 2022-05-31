@@ -52,5 +52,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-05-31T08:18:52Z"
+  "original_createdAt": "2022-05-31T08:18:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tao of Nodeには、より良いアプリケーションを構築するためのルールとガイドラインが含まれています。アーキテクチャ、ツール、テスト、パフォーマンスについて詳しく知ることができます。",
+      "tagline": "Node.jsによるREST APIとアーキテクチャの本"
+    },
+    {
+      "locale": "zh",
+      "description": "Node之道包含了建立更好的应用程序的规则和准则。了解更多关于架构、工具、测试和性能的信息。",
+      "tagline": "一本关于REST APIs和Node.js架构的书"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Node之道包含了建立更好的應用程序的規則和準則。瞭解更多關於架構、工具、測試和性能的信息。",
+      "tagline": "一本關於REST APIs和Node.js架構的書"
+    }
+  ]
 }
