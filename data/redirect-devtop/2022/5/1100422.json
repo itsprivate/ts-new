@@ -43,5 +43,22 @@
   "original_created_at": "2022-05-31T06:13:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o3nbpiJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1629654291663-b91ad427698f%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1674%26q%3D80",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CassidyはZshプロンプトを更新して、楽しい色や日付、git情報を表示するようにしました。これがその方法です!",
+      "title": "Zshプロンプトをカスタマイズする"
+    },
+    {
+      "locale": "zh",
+      "description": "Cassidy更新了她的Zsh提示符，增加了一些有趣的颜色、日期和git信息。这就是方法!",
+      "title": "定制我的Zsh提示符"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cassidy更新了她的Zsh提示符，增加了一些有趣的顏色、日期和git信息。這就是方法!",
+      "title": "定製我的Zsh提示符"
+    }
+  ]
 }
