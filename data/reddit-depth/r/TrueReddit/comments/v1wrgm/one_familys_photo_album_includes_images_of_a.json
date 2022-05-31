@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある家族のアルバムには、休暇、結婚記念日、そしてテキサスでの黒人リンチの写真が収められていた"
+    },
+    {
+      "locale": "zh",
+      "title": "一个家庭的相册中包括度假、结婚纪念日和德克萨斯州对黑人实施私刑的图片。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個家庭的相冊中包括度假、結婚紀念日和德克薩斯州對黑人實施私刑的圖片。"
+    }
+  ]
 }
