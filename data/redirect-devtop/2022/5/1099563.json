@@ -50,5 +50,22 @@
   "original_created_at": "2022-05-30T05:50:00Z",
   "image": "https://dev.to/social_previews/article/1099563.png",
   "author": "James Palermo",
-  "author_url": "https://dev.to/james_palermo_bc208e463e4"
+  "author_url": "https://dev.to/james_palermo_bc208e463e4",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwindで実験してみる。それはとても... ばらばらで把握しにくい...。",
+      "title": "Tailwindで苦労するのが普通？"
+    },
+    {
+      "locale": "zh",
+      "description": "我正在尝试用Tailwind做实验。它似乎很... 分散的，难以追踪的....",
+      "title": "正常情况下，与Tailwind的斗争？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我正在嘗試用Tailwind做實驗。它似乎很... 分散的，難以追蹤的....",
+      "title": "正常情況下，與Tailwind的鬥爭？"
+    }
+  ]
 }
