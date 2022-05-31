@@ -1,0 +1,154 @@
+{
+  "created_at": "Tue May 31 1:15:28 +0000 2022",
+  "id_str": "1531376321305116672",
+  "full_text": "RT @BitcoinMagazine: #Bitcoin billboard says “Your savings are being printed away. Plan ₿” 👏 https://t.co/mhemiZ4c78",
+  "display_text_range": [
+    0,
+    116
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bitcoin",
+        "indices": [
+          21,
+          29
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "BitcoinMagazine",
+        "name": "Bitcoin Magazine",
+        "id": 361289499,
+        "id_str": "361289499",
+        "indices": [
+          3,
+          19
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1531366339457196000,
+        "id_str": "1531366339457196032",
+        "indices": [
+          93,
+          116
+        ],
+        "media_url": "http://pbs.twimg.com/media/FUCBknxWIAAHlNm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FUCBknxWIAAHlNm.jpg",
+        "url": "https://t.co/mhemiZ4c78",
+        "display_url": "pic.twitter.com/mhemiZ4c78",
+        "expanded_url": "https://twitter.com/BitcoinMagazine/status/1531366342535876610/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 442,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 1164,
+            "h": 757,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1164,
+            "h": 757,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1531366342535876600,
+        "source_status_id_str": "1531366342535876610",
+        "source_user_id": 361289499,
+        "source_user_id_str": "361289499"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 667,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon May 30 20:45:41 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Mon May 30 20:06:02 +0000 2022",
+    "id_str": "1531366342535876610",
+    "full_text": "#Bitcoin billboard says “Your savings are being printed away. Plan ₿” 👏 https://t.co/mhemiZ4c78",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Bitcoin",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1531366339457196000,
+          "id_str": "1531366339457196032",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/media/FUCBknxWIAAHlNm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FUCBknxWIAAHlNm.jpg",
+          "url": "https://t.co/mhemiZ4c78",
+          "display_url": "pic.twitter.com/mhemiZ4c78",
+          "expanded_url": "https://twitter.com/BitcoinMagazine/status/1531366342535876610/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 442,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1164,
+              "h": 757,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1164,
+              "h": 757,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Bitcoin Magazine",
+      "screen_name": "BitcoinMagazine",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg"
+    },
+    "retweet_count": 667,
+    "favorite_count": 3725,
+    "possibly_sensitive": false
+  }
+}
