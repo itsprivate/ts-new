@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Shower thought."
+  "the_new_excerpt": "Shower thought.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "シャワーは考えた。",
+      "title": "セラピストは自分のセラピストを持つか、セルフセラピーができるくらいになるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "淋浴的想法。",
+      "title": "治疗师有自己的治疗师吗？还是他们变得足够好，可以自我治疗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "淋浴的想法。",
+      "title": "治療師有自己的治療師嗎？還是他們變得足夠好，可以自我治療？"
+    }
+  ]
 }
