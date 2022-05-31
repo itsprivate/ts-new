@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTubeのプレイリストを作成し、タイムスタンプ付きのメモを追加できるオールインワンノート、Decksを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了Decks，一个多合一的笔记本，支持创建你自己的YouTube播放列表，你可以在其中添加带有时间戳的注释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了Decks，一個多合一的筆記本，支持創建你自己的YouTube播放列表，你可以在其中添加帶有時間戳的註釋。"
+    }
+  ]
 }
