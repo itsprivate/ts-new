@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "証拠を仕込んだ警官を現行犯で逮捕"
+    },
+    {
+      "locale": "zh",
+      "title": "警察栽赃被当场抓获"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "警察栽贓被當場抓獲"
+    }
+  ]
 }
