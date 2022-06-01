@@ -46,5 +46,22 @@
   "original_created_at": "2022-06-01T16:32:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LdJz-EYM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fzblrytf9yavlh9lzdlw.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LGBTQIA+の誇りを語るストーリーを集めてみませんか？",
+      "title": "LGBTQIA+のプライドを祝して、マーシャ・P・ジョンソン研究所に寄付💖。"
+    },
+    {
+      "locale": "zh",
+      "description": "加入我们收集LGBTQIA+骄傲的故事--每收到一个#devpride的故事，我们将捐出10美元。",
+      "title": "庆祝LGBTQIA+的骄傲，向Marsha P. Johnson研究所捐款 💖"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "加入我們收集LGBTQIA+驕傲的故事--每收到一個#devpride的故事，我們將捐出10美元。",
+      "title": "慶祝LGBTQIA+的驕傲，向Marsha P. Johnson研究所捐款 💖"
+    }
+  ]
 }
