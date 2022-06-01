@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-29T18:41:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JyY9Pkt9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kdj16xqf1lotj0s9snz.png",
   "author": "Andrei Chernykh",
-  "author_url": "https://dev.to/andreychernykh"
+  "author_url": "https://dev.to/andreychernykh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "動機 pnpmは依存関係の取得、解決、保存においてより高いパフォーマンスを発揮します。私の...",
+      "title": "yarn / npmからpnpmへの移行方法"
+    },
+    {
+      "locale": "zh",
+      "description": "动机 pnpm在获取、解析和存储依赖关系方面性能更强。我的...",
+      "title": "如何从yarn / npm迁移到pnpm"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "動機 pnpm在獲取、解析和存儲依賴關係方面性能更強。我的...",
+      "title": "如何從yarn / npm遷移到pnpm"
+    }
+  ]
 }
