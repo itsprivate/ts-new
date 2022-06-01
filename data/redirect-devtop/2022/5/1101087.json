@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-31T18:29:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FtT8x_eV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p2ed4668gnnm95a2c3bq.png",
   "author": "Shoubhit Dash",
-  "author_url": "https://dev.to/nexxeln"
+  "author_url": "https://dev.to/nexxeln",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、deoxysというリンク短縮ツールを作りました（本当に速いポケモンにちなんで）。これは、本当に、、、。",
+      "title": "エッジで動作する高速リンクショートナーの作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近做了一个名为deoxys的链接缩短器（以一种非常快的神奇宝贝命名）。它真的，...",
+      "title": "我如何制作一个真正快速的链接缩短器，并在边缘运行"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近做了一個名爲deoxys的鏈接縮短器（以一種非常快的神奇寶貝命名）。它真的，...",
+      "title": "我如何製作一個真正快速的鏈接縮短器，並在邊緣運行"
+    }
+  ]
 }
