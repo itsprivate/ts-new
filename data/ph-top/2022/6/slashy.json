@@ -106,5 +106,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-01T07:01:00Z"
+  "original_createdAt": "2022-06-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://slashy.app は、Notion 用のカスタムコマンドを作成するためのオープンソースの拡張機能です。カメラやオーディオの録音、描画、再利用可能なコンポーネントの作成など、さまざまな機能をすべて無料で利用できます。",
+      "tagline": "録音、描画などのコマンドでNotionをスーパーチャージできる"
+    },
+    {
+      "locale": "zh",
+      "description": "https://slashy.app 是一个开放源码的扩展，让你为Notion创建自定义命令。进行摄像和录音、绘图、创建可重复使用的组件以及更多--都是免费的。",
+      "tagline": "用命令为Notion充电，以记录、绘制和更多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://slashy.app 是一個開放源碼的擴展，讓你爲Notion創建自定義命令。進行攝像和錄音、繪圖、創建可重複使用的組件以及更多--都是免費的。",
+      "tagline": "用命令爲Notion充電，以記錄、繪製和更多。"
+    }
+  ]
 }
