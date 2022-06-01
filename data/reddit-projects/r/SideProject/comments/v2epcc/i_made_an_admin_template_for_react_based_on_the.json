@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最新のUIトレンドを元にReactの管理画面テンプレートを作ってみた! 無料でお使いいただけます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我根据最新的UI趋势为React做了一个管理模板! 免费使用它!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我根據最新的UI趨勢爲React做了一個管理模板! 免費使用它!"
+    }
+  ]
 }
