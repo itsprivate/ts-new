@@ -46,5 +46,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の好きな手品"
+    },
+    {
+      "locale": "zh",
+      "title": "我最喜欢的魔术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我最喜歡的魔術"
+    }
+  ]
 }

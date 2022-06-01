@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時は流れて"
+    },
+    {
+      "locale": "zh",
+      "title": "那是一个不同的时代"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那是一個不同的時代"
+    }
+  ]
 }
