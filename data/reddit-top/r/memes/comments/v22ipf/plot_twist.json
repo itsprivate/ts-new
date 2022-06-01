@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロットツイスト"
+    },
+    {
+      "locale": "zh",
+      "title": "剧情转折"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "劇情轉折"
+    }
+  ]
 }
