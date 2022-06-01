@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あのシーンはいつも私を元気づけてくれる"
+    },
+    {
+      "locale": "zh",
+      "title": "这一幕总是让我振作起来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這一幕總是讓我振作起來"
+    }
+  ]
 }

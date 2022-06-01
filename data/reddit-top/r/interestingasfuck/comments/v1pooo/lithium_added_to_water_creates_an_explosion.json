@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リチウムを水に加えると爆発する"
+    },
+    {
+      "locale": "zh",
+      "title": "锂添加到水中会产生爆炸"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鋰添加到水中會產生爆炸"
+    }
+  ]
 }
