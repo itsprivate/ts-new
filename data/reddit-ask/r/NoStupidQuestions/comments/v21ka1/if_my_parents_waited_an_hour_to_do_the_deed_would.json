@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、私の両親が1時間待っていたら、私の代わりに誰かが生まれていたのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我的父母等了一个小时才做这件事，会不会有其他人代替我出生？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我的父母等了一個小時才做這件事，會不會有其他人代替我出生？"
+    }
+  ]
 }
