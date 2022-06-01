@@ -146,5 +146,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1654058436,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゴールドマン・サックスによると、個人投資家は過去2年間に買った株をすべて売却しているとのことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据高盛的数据，散户投资者已经卖掉了他们在过去两年里买的所有股票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據高盛的數據，散戶投資者已經賣掉了他們在過去兩年裏買的所有股票。"
+    }
+  ]
 }
