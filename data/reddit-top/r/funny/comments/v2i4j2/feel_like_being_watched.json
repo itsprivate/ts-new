@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "監視されているような気がする"
+    },
+    {
+      "locale": "zh",
+      "title": "感觉被监视着"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "感覺被監視着"
+    }
+  ]
 }

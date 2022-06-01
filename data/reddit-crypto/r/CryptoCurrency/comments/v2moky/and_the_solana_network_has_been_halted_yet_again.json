@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Solana network is currently down yet again and is not producing blocks.\n\nAccording to Solscan, the last block was produced 5 hours ago. This is the 4th\nor 5th time the network is going down in recent months.\n\nSolscan - 5 hours…"
+  "the_new_excerpt": "Solana network is currently down yet again and is not producing blocks.\n\nAccording to Solscan, the last block was produced 5 hours ago. This is the 4th\nor 5th time the network is going down in recent months.\n\nSolscan - 5 hours…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Solanaネットワークは現在またもやダウンしており、ブロックが生成されていません。\n\nSolscanによると、最後のブロックは5時間前に生成されました。これはここ数カ月で4、5回目の\nネットワークがダウンしているのは、ここ数ヶ月で4、5回目です。\n\nSolscan - 5時間前...",
+      "title": "そして... ソラナネットワークはまたもや停止してしまった。開発者は \"再起動 \"の準備中"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "索拉纳网络目前再次出现故障，没有产生区块。\n\n根据Solscan的数据，最后一个区块是在5小时前产生的。这已经是近几个月来的第4\n这已经是近几个月来该网络第四次或第五次瘫痪了。\n\nSolscan - 5小时...",
+      "title": "而且... 索拉纳网络又一次被停止了。开发人员准备 \"重启\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "索拉納網絡目前再次出現故障，沒有產生區塊。\n\n根據Solscan的數據，最後一個區塊是在5小時前產生的。這已經是近幾個月來的第4\n這已經是近幾個月來該網絡第四次或第五次癱瘓了。\n\nSolscan - 5小時...",
+      "title": "而且... 索拉納網絡又一次被停止了。開發人員準備 \"重啓\"。"
+    }
+  ]
 }
