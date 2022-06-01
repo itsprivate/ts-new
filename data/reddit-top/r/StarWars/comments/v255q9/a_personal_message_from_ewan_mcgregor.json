@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ユアン・マクレガーからの直筆メッセージです。"
+    },
+    {
+      "locale": "zh",
+      "title": "伊万-麦格雷戈的个人致辞。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "伊萬-麥格雷戈的個人致辭。"
+    }
+  ]
 }
