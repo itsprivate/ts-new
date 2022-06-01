@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-31T19:59:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O5jw5gri--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ho8e984fnlt5ju1am74g.png",
   "author": "Arika O",
-  "author_url": "https://dev.to/arikaturika"
+  "author_url": "https://dev.to/arikaturika",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パース段階で構築されたツリー（DOM、CSSOM）は、レンダーツリーと呼ばれるものにまとめられる......。",
+      "title": "ウェブブラウザの仕組み - レンダーツリー（その7、図解付き）💻⏳。"
+    },
+    {
+      "locale": "zh",
+      "description": "在解析阶段建立的树（DOM、CSSOM）被组合成一种叫做渲染树的东西....。",
+      "title": "网络浏览器如何工作--渲染树（第7部分，有插图）💻 ⏳"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在解析階段建立的樹（DOM、CSSOM）被組合成一種叫做渲染樹的東西....。",
+      "title": "網絡瀏覽器如何工作--渲染樹（第7部分，有插圖）💻 ⏳"
+    }
+  ]
 }
