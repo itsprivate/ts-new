@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミームというより、ただの面白いツイートです。"
+    },
+    {
+      "locale": "zh",
+      "title": "不是真正的备忘录，只是一条有趣的推特"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是真正的備忘錄，只是一條有趣的推特"
+    }
+  ]
 }
