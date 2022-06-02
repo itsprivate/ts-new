@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソーシャルメディアをすべて削除した人はいますか？もしそうなら、それはあなたの精神衛生と自尊心を助けたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有没有人删除了所有的社交媒体，如果有的话，对你的心理健康和自尊心有帮助吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有沒有人刪除了所有的社交媒體，如果有的話，對你的心理健康和自尊心有幫助嗎？"
+    }
+  ]
 }
