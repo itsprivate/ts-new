@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Flutter + Firebaseを使ってiOS, Android, Webで予算管理アプリを作ってみた!"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用Flutter + Firebase在iOS、安卓和网络上建立了一个预算应用程序!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用Flutter + Firebase在iOS、安卓和網絡上建立了一個預算應用程序!"
+    }
+  ]
 }
