@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チクタク、ネクストブロック"
+    },
+    {
+      "locale": "zh",
+      "title": "滴答滴答，下一个街区"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "滴答滴答，下一個街區"
+    }
+  ]
 }
