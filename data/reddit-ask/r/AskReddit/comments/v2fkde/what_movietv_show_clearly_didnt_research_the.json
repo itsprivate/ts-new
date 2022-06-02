@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明らかに研究していない映画やテレビ番組があれば教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "什么电影/电视节目明显没有研究它所涉及的主题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼電影/電視節目明顯沒有研究它所涉及的主題？"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現金を使うたびに"
+    },
+    {
+      "locale": "zh",
+      "title": "每次我使用现金时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每次我使用現金時"
+    }
+  ]
 }

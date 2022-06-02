@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-02T07:03:11Z"
+  "original_createdAt": "2022-06-02T07:03:11Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリエイターが専門知識を必要とせず、開発者向けのAPIを自分で作ることができ、APIをマネタイズすることができるツールです。完全にNoCode!",
+      "tagline": "NotionでAPIを数分で作成"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个工具，创作者可以为开发者制作自己的API，而不需要技术知识，他们可以将API货币化。完全是NoCode!",
+      "tagline": "用Notion在几分钟内创建你的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個工具，創作者可以爲開發者製作自己的API，而不需要技術知識，他們可以將API貨幣化。完全是NoCode!",
+      "tagline": "用Notion在幾分鐘內創建你的API"
+    }
+  ]
 }
