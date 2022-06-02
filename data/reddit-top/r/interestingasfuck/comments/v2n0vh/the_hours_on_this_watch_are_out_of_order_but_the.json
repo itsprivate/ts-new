@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この時計は時間が狂っていますが、時針がそれを補っています"
+    },
+    {
+      "locale": "zh",
+      "title": "这块表的时针是错乱的，但时针可以弥补!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這塊表的時針是錯亂的，但時針可以彌補!"
+    }
+  ]
 }
