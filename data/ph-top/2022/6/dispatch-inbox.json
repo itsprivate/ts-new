@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-02T07:01:00Z"
+  "original_createdAt": "2022-06-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slackのメッセージに溺れていませんか？Dispatchは、最も重要なことに集中できるSlack用の&nbsp;Priority Inbox&nbsp;（優先受信ボックス）です。",
+      "tagline": "Slackのメッセージに溺れないためのSlack用優先受信ボックス"
+    },
+    {
+      "locale": "zh",
+      "description": "淹没在Slack消息中？Dispatch是Slack的一个优先收件箱，让你专注于最重要的事情。",
+      "tagline": "Slack的优先收件箱，不再淹没在Slack的信息中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "淹沒在Slack消息中？Dispatch是Slack的一個優先收件箱，讓你專注於最重要的事情。",
+      "tagline": "Slack的優先收件箱，不再淹沒在Slack的信息中"
+    }
+  ]
 }
