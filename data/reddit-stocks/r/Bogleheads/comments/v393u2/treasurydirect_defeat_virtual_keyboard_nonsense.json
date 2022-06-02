@@ -149,5 +149,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1654177159,
-  "the_new_excerpt": "TreasuryDirect forces you to use a Virtual, on-screen keyboard to type your\npassword. This is super annoying. Here's how to make the textbox typeable. I\nhave seen this mentioned in comments before.\n\n\n\nInspect password input, remove 'readonly' attribute entirely\n[https://i.redd.it/0lsk632ao7391.gif]"
+  "the_new_excerpt": "TreasuryDirect forces you to use a Virtual, on-screen keyboard to type your\npassword. This is super annoying. Here's how to make the textbox typeable. I\nhave seen this mentioned in comments before.\n\n\n\nInspect password input, remove 'readonly' attribute entirely\n[https://i.redd.it/0lsk632ao7391.gif]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "TreasuryDirectは、画面上の仮想キーボードで入力することを強制します。\nパスワードの入力に これは非常に迷惑な話です。そこで、テキストボックスを入力できるようにする方法を紹介します。I\n以前、コメントで紹介されていたのを見たことがあります。\n\n\n\nパスワードの入力を検査し、'readonly'属性を完全に削除する\n[https://i.redd.it/0lsk632ao7391.gif]",
+      "title": "TreasuryDirect - 仮想キーボードの無意味な敗北"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "TreasuryDirect迫使你使用一个虚拟的屏幕键盘来输入你的密码。\n密码。这是很烦人的。以下是如何使文本框可以输入。I\n之前在评论中提到过这个问题。\n\n\n\n检查密码输入，完全删除'只读'属性\n[https://i.redd.it/0lsk632ao7391.gif]",
+      "title": "TreasuryDirect - 失败的虚拟键盘废话连篇"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "TreasuryDirect迫使你使用一個虛擬的屏幕鍵盤來輸入你的密碼。\n密碼。這是很煩人的。以下是如何使文本框可以輸入。I\n之前在評論中提到過這個問題。\n\n\n\n檢查密碼輸入，完全刪除'只讀'屬性\n[https://i.redd.it/0lsk632ao7391.gif]",
+      "title": "TreasuryDirect - 失敗的虛擬鍵盤廢話連篇"
+    }
+  ]
 }
