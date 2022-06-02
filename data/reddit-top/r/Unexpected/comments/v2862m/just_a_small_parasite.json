@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただの小さな寄生虫"
+    },
+    {
+      "locale": "zh",
+      "title": "只是一个小的寄生虫"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是一個小的寄生蟲"
+    }
+  ]
 }

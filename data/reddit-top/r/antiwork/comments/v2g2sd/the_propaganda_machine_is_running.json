@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プロパガンダマシンが動いている"
+    },
+    {
+      "locale": "zh",
+      "title": "宣传机器正在运行!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "宣傳機器正在運行!"
+    }
+  ]
 }
