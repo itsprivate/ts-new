@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-01T18:29:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y3Ph0Npp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uh213e3n1awsf6p1i5kr.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近のForemのハイライトに共通するテーマは、DEVが実に効果的なタウンユースとして機能することです...",
+      "title": "LLVMによる高性能プログラミングに興味がありますか？あなたのための新しいコミュニティがあります。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们最近的Forem亮点的共同主题是，DEV可以作为一个真正有效的城镇。",
+      "title": "对LLVM上的高性能编程感兴趣？这里有一个新的社区适合你。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們最近的Forem亮點的共同主題是，DEV可以作爲一個真正有效的城鎮。",
+      "title": "對LLVM上的高性能編程感興趣？這裏有一個新的社區適合你。"
+    }
+  ]
 }
