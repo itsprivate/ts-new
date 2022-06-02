@@ -44,5 +44,22 @@
   "original_created_at": "2022-05-31T20:03:52Z",
   "image": "https://dev.to/social_previews/article/1101129.png",
   "author": "Sherry Day",
-  "author_url": "https://dev.to/sherrydays"
+  "author_url": "https://dev.to/sherrydays",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こうした脅迫観念は克服されたのでしょうか、それともまだあるのでしょうか？",
+      "title": "これまで怖いと思ったソフトウェアの概念やドメインは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你已经克服了这些恐吓的感觉，还是仍然是一个东西？",
+      "title": "你曾被哪些软件概念或领域所吓倒？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你已經克服了這些恐嚇的感覺，還是仍然是一個東西？",
+      "title": "你曾被哪些軟件概念或領域所嚇倒？"
+    }
+  ]
 }
