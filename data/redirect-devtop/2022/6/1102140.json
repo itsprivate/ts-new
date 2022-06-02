@@ -39,5 +39,22 @@
   "original_created_at": "2022-06-01T19:15:13Z",
   "image": "https://dev.to/social_previews/article/1102140.png",
   "author": "Sergey Smalkov",
-  "author_url": "https://dev.to/sergeysmalkov"
+  "author_url": "https://dev.to/sergeysmalkov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "計算数学において実用的に重要な問題は、ある物質の固有値を計算することである...",
+      "title": "固有値を求めるためのNumpyを使わないPython QRアルゴリズム"
+    },
+    {
+      "locale": "zh",
+      "description": "计算数学中的实际重要问题是计算一个人的特征值。",
+      "title": "没有Numpy的Python QR算法用于寻找特征值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "計算數學中的實際重要問題是計算一個人的特徵值。",
+      "title": "沒有Numpy的Python QR算法用於尋找特徵值"
+    }
+  ]
 }
