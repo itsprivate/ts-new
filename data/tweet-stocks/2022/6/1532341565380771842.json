@@ -134,5 +134,22 @@
     "retweet_count": 307,
     "favorite_count": 769,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 中小企業は潰された https://t.co/IJoR04sQrZ",
+      "retweeted_status_full_text": "中小企業潰し https://t.co/IJoR04sQrZ"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 小企业被击垮 https://t.co/IJoR04sQrZ",
+      "retweeted_status_full_text": "小企业被粉碎https://t.co/IJoR04sQrZ"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 小企業被擊垮 https://t.co/IJoR04sQrZ",
+      "retweeted_status_full_text": "小企業被粉碎https://t.co/IJoR04sQrZ"
+    }
+  ]
 }
