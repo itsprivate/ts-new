@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "TIL: コウモリは昆虫を食べるので、米国では農作物の被害と殺虫剤を年間10億ドル以上節約している。"
+    },
+    {
+      "locale": "zh",
+      "title": "TIL: 蝙蝠吃的昆虫足够为美国每年节省超过10亿美元的农作物损失和杀虫剂。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "TIL: 蝙蝠喫的昆蟲足夠爲美國每年節省超過10億美元的農作物損失和殺蟲劑。"
+    }
+  ]
 }

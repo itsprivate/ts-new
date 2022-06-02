@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React + Firebaseで個人的なモチベーションとビジョンセンターを構築してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用React + Firebase建立了一个个人动机和愿景中心"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用React + Firebase建立了一個個人動機和願景中心"
+    }
+  ]
 }

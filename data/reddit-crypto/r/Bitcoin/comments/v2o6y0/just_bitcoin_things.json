@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただ、#ビットコインのこと 😴。"
+    },
+    {
+      "locale": "zh",
+      "title": "只是#比特币的事情 😴"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是#比特幣的事情 😴"
+    }
+  ]
 }
