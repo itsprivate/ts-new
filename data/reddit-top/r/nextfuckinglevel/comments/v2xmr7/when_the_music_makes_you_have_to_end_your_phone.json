@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "音楽で電話を切らざるを得なくなったとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当音乐让你不得不结束你的电话时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當音樂讓你不得不結束你的電話時"
+    }
+  ]
 }
