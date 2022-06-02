@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-01T02:24:47Z",
   "image": "https://dev.to/social_previews/article/1101401.png",
   "author": "ashish ",
-  "author_url": "https://dev.to/asheeshh"
+  "author_url": "https://dev.to/asheeshh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ボタン、ドロップダウン、フォームコンポーネントなど、reactのプロジェクトではコンポーネントが重要な役割を担っています。",
+      "title": "次のプロジェクトで必要になるかもしれない25のReactコンポーネントライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "组件是任何反应项目的主要部分--从按钮到下拉菜单到表单组件....。",
+      "title": "25个React组件库，你可能需要在你的下一个项目中使用!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "組件是任何反應項目的主要部分--從按鈕到下拉菜單到表單組件....。",
+      "title": "25個React組件庫，你可能需要在你的下一個項目中使用!"
+    }
+  ]
 }
