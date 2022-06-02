@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはサイクルで動いているので、ベア（弱気）の後には必ずブル（強気）が来ます。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币的运行是有周期的，所以熊市之后总是会有牛市。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣的運行是有周期的，所以熊市之後總是會有牛市。"
+    }
+  ]
 }
