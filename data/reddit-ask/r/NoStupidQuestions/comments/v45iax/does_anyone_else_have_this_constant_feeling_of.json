@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "時間がない、何かに遅れをとっている、そんな気持ちを常に抱いている人はいないだろうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人有这种持续的感觉，即时间不够用，你在某些方面落后了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人有這種持續的感覺，即時間不夠用，你在某些方面落後了嗎？"
+    }
+  ]
 }
