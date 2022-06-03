@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1654223526,
-  "the_new_excerpt": "You live in a world with no ETF’s. You have $10,000 and are tasked to buy 10\ndifferent stocks and you can’t modify or sell them for 10 years. $1000 available\nfor each stock, fractional shares are ok. What do you buy and why?"
+  "the_new_excerpt": "You live in a world with no ETF’s. You have $10,000 and are tasked to buy 10\ndifferent stocks and you can’t modify or sell them for 10 years. $1000 available\nfor each stock, fractional shares are ok. What do you buy and why?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ETFのない世界に住んでいるんですね。あなたは1万ドルを持っていて、10種類の株を買うように命じられています。\n10年間は変更も売却もできない。使えるお金は1000ドル\n各銘柄に1000ドル、端株もOKです。あなたは何を買いますか、そしてなぜですか？",
+      "title": "今後10年の10銘柄"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你生活在一个没有ETF的世界里。你有10,000美元，被要求购买10只不同的股票\n不同的股票，而且10年内不能修改或出售。每只股票有1000美元\n每只股票有1000美元，小数点也可以。你买什么，为什么？",
+      "title": "未来10年的10只股票"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你生活在一個沒有ETF的世界裏。你有10,000美元，被要求購買10只不同的股票\n不同的股票，而且10年內不能修改或出售。每隻股票有1000美元\n每隻股票有1000美元，小數點也可以。你買什麼，爲什麼？",
+      "title": "未來10年的10只股票"
+    }
+  ]
 }
