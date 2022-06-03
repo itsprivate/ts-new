@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNNのレポーターが、ウバルデ警察署長を問い詰めた後、不法侵入で脅されている。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国有线电视新闻网（CNN）记者在对乌瓦尔德市警察局长的行为进行拷问后，被威胁说是非法入侵"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國有線電視新聞網（CNN）記者在對烏瓦爾德市警察局長的行爲進行拷問後，被威脅說是非法入侵"
+    }
+  ]
 }
