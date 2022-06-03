@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-03T07:01:00Z"
+  "original_createdAt": "2022-06-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sequinは、Stripe、Airtable、SalesforceなどのAPIからPostgresデータベースのテーブルやカラムにデータをリアルタイムに同期します。ポーリング、Webhooks、クエリパラメータ、HTTPエラーはもう必要ありません。この機能は、1時間以内に出荷されます。",
+      "tagline": "サードパーティーのAPIと連携する最速の方法です。"
+    },
+    {
+      "locale": "zh",
+      "description": "Sequin将来自Stripe、Airtable或Salesforce等API的数据实时同步到你的Postgres数据库的表和列。不再有轮询、webhooks、查询参数或HTTP错误。在接下来的一个小时里，我们将推出这一功能。",
+      "tagline": "与第三方API集成的最快方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sequin將來自Stripe、Airtable或Salesforce等API的數據實時同步到你的Postgres數據庫的表和列。不再有輪詢、webhooks、查詢參數或HTTP錯誤。在接下來的一個小時裏，我們將推出這一功能。",
+      "tagline": "與第三方API集成的最快方式。"
+    }
+  ]
 }
