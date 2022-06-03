@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人、2010年にバスに乗り遅れたと思ってたんだ。2022年にはまだ早いと思っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙认为他在2010年错过了公交车。猜猜看，我们在2022年还早着呢!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙認爲他在2010年錯過了公交車。猜猜看，我們在2022年還早着呢!"
+    }
+  ]
 }
