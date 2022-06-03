@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Cloud Outdated クラウドサービスの新バージョンをパーソナライズして通知してくれるサービス ⛅️。"
+    },
+    {
+      "locale": "zh",
+      "title": "Cloud Outdated 一种提供个性化的云服务新版本通知的服务⛅️"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Cloud Outdated 一種提供個性化的雲服務新版本通知的服務⛅️"
+    }
+  ]
 }
