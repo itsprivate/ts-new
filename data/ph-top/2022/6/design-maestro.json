@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-03T07:01:00Z"
+  "original_createdAt": "2022-06-03T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Design Maestroは、Keyboard Maestroアプリの無料エクステンションです。毎日の退屈な作業の時間を節約して、デザインキャリアのより重要な側面に集中しましょう。",
+      "tagline": "毎日何百回も繰り返す作業を自動化する。"
+    },
+    {
+      "locale": "zh",
+      "description": "Design Maestro是Keyboard Maestro应用程序的一个免费扩展。在你枯燥的日常工作中节省时间，把精力放在你的设计事业中更重要的方面。",
+      "tagline": "将你每天重复数百次的任务自动化。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Design Maestro是Keyboard Maestro應用程序的一個免費擴展。在你枯燥的日常工作中節省時間，把精力放在你的設計事業中更重要的方面。",
+      "tagline": "將你每天重複數百次的任務自動化。"
+    }
+  ]
 }
