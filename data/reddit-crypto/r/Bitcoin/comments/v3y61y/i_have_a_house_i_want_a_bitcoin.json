@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家がある、ビットコインが欲しい"
+    },
+    {
+      "locale": "zh",
+      "title": "我有一个房子，我想要一个比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我有一個房子，我想要一個比特幣"
+    }
+  ]
 }
