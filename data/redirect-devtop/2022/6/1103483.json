@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-03T01:20:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--71Cgx3oh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7pw6u3pyikgfkpkbbuc.jpg",
   "author": "Martin Zokov",
-  "author_url": "https://dev.to/martinzokov"
+  "author_url": "https://dev.to/martinzokov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は6年ほど前にSWEの学位を取得しました（ほぼ日付が変わっています）。私が通っていた大学は、そうではありませんでしたが...",
+      "title": "ソフトウェアエンジニアとしての技術者としてのキャリアに幻滅する"
+    },
+    {
+      "locale": "zh",
+      "description": "我大约在6年前从我的SWE学位毕业（几乎到了日期）。我去的大学并不是一个...",
+      "title": "对作为软件工程师的技术职业感到幻灭"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我大約在6年前從我的SWE學位畢業（幾乎到了日期）。我去的大學並不是一個...",
+      "title": "對作爲軟件工程師的技術職業感到幻滅"
+    }
+  ]
 }
