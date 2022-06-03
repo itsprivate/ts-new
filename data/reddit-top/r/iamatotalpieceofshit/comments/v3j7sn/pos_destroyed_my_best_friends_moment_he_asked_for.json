@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "POSは私の親友の瞬間を破壊した。彼は事前に許可を求めていました。"
+    },
+    {
+      "locale": "zh",
+      "title": "POS破坏了我最好的朋友的时刻。他事先征得了同意。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "POS破壞了我最好的朋友的時刻。他事先徵得了同意。"
+    }
+  ]
 }
