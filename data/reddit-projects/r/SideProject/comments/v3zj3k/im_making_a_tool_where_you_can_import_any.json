@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "任意のtailwindのcssサイトやテンプレートをインポートして、視覚的に編集できるツールを作っています。ご意見をお聞かせください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在制作一个工具，你可以导入任何tailwind css网站或模板并对其进行可视化编辑。感谢任何反馈!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在製作一個工具，你可以導入任何tailwind css網站或模板並對其進行可視化編輯。感謝任何反饋!"
+    }
+  ]
 }
