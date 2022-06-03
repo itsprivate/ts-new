@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "と、とても嬉しそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "他就是这么高兴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他就是這麼高興。"
+    }
+  ]
 }
