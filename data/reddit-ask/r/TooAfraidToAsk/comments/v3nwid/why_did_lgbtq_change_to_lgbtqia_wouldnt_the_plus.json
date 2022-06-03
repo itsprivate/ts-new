@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Text (optional)"
+  "the_new_excerpt": "Text (optional)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "テキスト（オプション）",
+      "title": "LGBTQ+はなぜLGBTQIA+に変わったのか？1のプラスはIとAもカバーするのでは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "文本（可选）",
+      "title": "为什么LGBTQ+改成LGBTQIA+？第一个中的加号不是也包括I和A吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "文本（可選）",
+      "title": "爲什麼LGBTQ+改成LGBTQIA+？第一個中的加號不是也包括I和A嗎？"
+    }
+  ]
 }
