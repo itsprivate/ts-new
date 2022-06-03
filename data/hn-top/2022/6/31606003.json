@@ -13,5 +13,19 @@
   ],
   "objectID": "31606003",
   "original_created_at": "2022-06-03T09:19:03.000Z",
-  "image": "https://www.mpfr.org/mpfr500.png"
+  "image": "https://www.mpfr.org/mpfr500.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "正しい丸め方をする多倍長浮動小数点演算のための C ライブラリ"
+    },
+    {
+      "locale": "zh",
+      "title": "具有正确四舍五入功能的多精度浮点运算C库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "具有正確四捨五入功能的多精度浮點運算C庫"
+    }
+  ]
 }
