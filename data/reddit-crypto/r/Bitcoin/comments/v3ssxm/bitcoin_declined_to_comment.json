@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはコメントを控えた。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币公司拒绝发表评论。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣公司拒絕發表評論。"
+    }
+  ]
 }

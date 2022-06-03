@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-02T14:23:52Z",
   "image": "https://dev.to/social_previews/article/1102988.png",
   "author": "Aleksandra Rodionova",
-  "author_url": "https://dev.to/arodionova"
+  "author_url": "https://dev.to/arodionova",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "外部ライブラリを利用する場合、必要なものが正確に見つからないことがありますし、そこに...",
+      "title": "仕事のプロジェクトで自分のlibを書くべきでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "当涉及到使用外部库时，有时你无法准确地找到你需要的东西，而有...",
+      "title": "我应该为一个工作项目写自己的lib吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當涉及到使用外部庫時，有時你無法準確地找到你需要的東西，而有...",
+      "title": "我應該爲一個工作項目寫自己的lib嗎？"
+    }
+  ]
 }
