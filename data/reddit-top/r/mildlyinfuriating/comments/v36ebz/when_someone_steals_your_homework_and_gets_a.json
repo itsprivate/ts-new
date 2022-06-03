@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたの宿題を盗み、より良い成績を取ったら... 信じられない"
+    },
+    {
+      "locale": "zh",
+      "title": "当有人偷了你的作业并获得更好的成绩时... 难以置信。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當有人偷了你的作業並獲得更好的成績時... 難以置信。"
+    }
+  ]
 }
