@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いい子のハイパー"
+    },
+    {
+      "locale": "zh",
+      "title": "乖巧的孩子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "乖巧的孩子"
+    }
+  ]
 }
