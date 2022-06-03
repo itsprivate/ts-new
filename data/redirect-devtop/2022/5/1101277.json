@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-31T23:57:05Z",
   "image": "https://dev.to/social_previews/article/1101277.png",
   "author": "Foyzul Karim",
-  "author_url": "https://dev.to/foyzulkarim"
+  "author_url": "https://dev.to/foyzulkarim",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、私が今度受講するudemyのコースのハイレベルプランです。          JavaScriptリフレッシャー 基本的な...",
+      "title": "MERNをプロ並みに学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我即将开设的udemy课程的高层次计划。          JavaScript的复习 基本...",
+      "title": "像专家一样学习MERN"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我即將開設的udemy課程的高層次計劃。          JavaScript的複習 基本...",
+      "title": "像專家一樣學習MERN"
+    }
+  ]
 }
