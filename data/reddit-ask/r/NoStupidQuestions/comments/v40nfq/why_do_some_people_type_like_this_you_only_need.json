@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜこのようなタイプになる人がいるのか？文の最初の単語だけ大文字にする必要があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么有些人这样打字？你只需要将句子的第一个词大写即可"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼有些人這樣打字？你只需要將句子的第一個詞大寫即可"
+    }
+  ]
 }
