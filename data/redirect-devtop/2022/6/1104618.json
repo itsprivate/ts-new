@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-04T07:24:39Z",
   "image": "https://dev.to/social_previews/article/1104618.png",
   "author": "Rajesh Joshi",
-  "author_url": "https://dev.to/rajeshj3"
+  "author_url": "https://dev.to/rajeshj3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、コーダーの皆さん👋 ここ数週間、Chromium Base用のWeb拡張機能🌎に取り組んでいます。",
+      "title": "同じサイトにいる人と話す 🌎｜Chrome Extension"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几个星期里，我一直在为Chromium Base开发一个网络扩展。",
+      "title": "与在同一网站的人交谈 🌎 | Chrome Extension"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾個星期裏，我一直在爲Chromium Base開發一個網絡擴展。",
+      "title": "與在同一網站的人交談 🌎 | Chrome Extension"
+    }
+  ]
 }
