@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FigmaのデザインをReactのコードに変換するプラットフォームを構築し、創業者、ビルダー、サイドハスラーたちが2倍速く出荷できるよう支援します。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们已经建立了一个平台，将Figma设计转换为React代码，以帮助创始人、建设者和amp; side-hustlers更快地发货。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們已經建立了一個平臺，將Figma設計轉換爲React代碼，以幫助創始人、建設者和amp; side-hustlers更快地發貨。"
+    }
+  ]
 }
