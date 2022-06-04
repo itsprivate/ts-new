@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、地球が反対方向に回転していたら、私たちの生活は何か変わっていたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果地球向另一个方向旋转，对我们来说，生活是否会有一些不同？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果地球向另一個方向旋轉，對我們來說，生活是否會有一些不同？"
+    }
+  ]
 }
