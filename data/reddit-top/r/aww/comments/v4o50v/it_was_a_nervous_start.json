@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "緊張のスタートでした...。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个紧张的开始..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個緊張的開始..."
+    }
+  ]
 }
