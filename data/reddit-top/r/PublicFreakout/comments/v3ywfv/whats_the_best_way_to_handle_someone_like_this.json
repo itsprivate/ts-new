@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような人にどう対処するのがベストなのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "处理这样的人的最好方法是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "處理這樣的人的最好方法是什麼？"
+    }
+  ]
 }
