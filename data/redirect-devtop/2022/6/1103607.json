@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-03T04:57:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WoziN1cN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ub1nbb6hmim38kh6d69.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "記事に飛びつく前に、ひとつだけ整理しておきましょう。 Divはボタンではありません。 そうです、Divは...",
+      "title": "A11Y 101：ボタンとリンクの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "在我们深入研究这篇文章之前，让我们把事情说清楚。 Divs不是按钮!  是的，它们...",
+      "title": "A11Y 101: 按钮与链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們深入研究這篇文章之前，讓我們把事情說清楚。 Divs不是按鈕!  是的，它們...",
+      "title": "A11Y 101: 按鈕與鏈接"
+    }
+  ]
 }
