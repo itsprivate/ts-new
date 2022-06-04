@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サンダースは、マリファナで逮捕するのをやめて、「ウォール街のペテン師を起訴する」ことを始めると言った。"
+    },
+    {
+      "locale": "zh",
+      "title": "桑德斯称停止因大麻而逮捕人，开始 \"起诉华尔街的骗子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "桑德斯稱停止因大麻而逮捕人，開始 \"起訴華爾街的騙子"
+    }
+  ]
 }
