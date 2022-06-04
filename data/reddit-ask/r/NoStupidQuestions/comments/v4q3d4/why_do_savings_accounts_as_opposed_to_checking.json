@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "金利が0.001％程度なのに、なぜ（当座預金ではなく）普通預金がもう存在するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么储蓄账户（相对于支票）还存在，因为利率大约为0.001%？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼儲蓄賬戶（相對於支票）還存在，因爲利率大約爲0.001%？"
+    }
+  ]
 }
