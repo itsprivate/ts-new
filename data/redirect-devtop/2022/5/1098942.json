@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-29T11:05:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9W4BbxxF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jukxe7yqp73mf3qtbs5i.png",
   "author": "Mohan Murali",
-  "author_url": "https://dev.to/_mohanmurali"
+  "author_url": "https://dev.to/_mohanmurali",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JWTとは JWTはJSONウェブトークンの略です。JWTは業界標準であり、ユーザーを識別するためのトークンを渡すことができます。",
+      "title": "JWTを理解する"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是JWT JWT是JSON网络令牌的缩写。它是一种工业标准，用于传递用户的信息。",
+      "title": "了解JWT"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是JWT JWT是JSON網絡令牌的縮寫。它是一種工業標準，用於傳遞用戶的信息。",
+      "title": "瞭解JWT"
+    }
+  ]
 }

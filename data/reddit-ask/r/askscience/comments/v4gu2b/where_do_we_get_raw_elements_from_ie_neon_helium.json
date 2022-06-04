@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "原材料の元素はどこから調達するのか？例えば、ネオン、ヘリウム。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们从哪里获得原始元素？例如，霓虹灯、氦气。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們從哪裏獲得原始元素？例如，霓虹燈、氦氣。"
+    }
+  ]
 }
