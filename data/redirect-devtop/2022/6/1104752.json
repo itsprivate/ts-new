@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-04T11:07:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--57Lbfflt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/24inb6dezrzl6srsokc7.gif",
   "author": "Stanislav Ilin",
-  "author_url": "https://dev.to/frezyx"
+  "author_url": "https://dev.to/frezyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例外、例外、例外...。私たちは、開発やサポートにおいて、常に例外を目にしてきました。",
+      "title": "dart/Flutterの例外処理とロギング - Talker"
+    },
+    {
+      "locale": "zh",
+      "description": "异常情况，异常情况，异常情况... 在开发和支持的过程中，我们不断地看到它们...",
+      "title": "dart/Flutter中的异常处理和日志记录 - Talker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "異常情況，異常情況，異常情況... 在開發和支持的過程中，我們不斷地看到它們...",
+      "title": "dart/Flutter中的異常處理和日誌記錄 - Talker"
+    }
+  ]
 }
