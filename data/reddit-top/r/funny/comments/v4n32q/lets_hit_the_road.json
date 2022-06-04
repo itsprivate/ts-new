@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レッツラゴー"
+    },
+    {
+      "locale": "zh",
+      "title": "让我们上路吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "讓我們上路吧"
+    }
+  ]
 }
