@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気をつけないと、ヴィランに、ヒーローがヴィランだと思わされる。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你不小心，村民们会让你认为英雄们就是村民。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你不小心，村民們會讓你認爲英雄們就是村民。"
+    }
+  ]
 }
