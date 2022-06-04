@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-03T08:24:46Z",
   "image": "https://dev.to/social_previews/article/1103676.png",
   "author": "Cess",
-  "author_url": "https://dev.to/cesscode"
+  "author_url": "https://dev.to/cesscode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このような状況下で、「ジェネラリスト・デベロッパー」と「ジェネラリスト・デベロッパー」のどちらが優れているのか？",
+      "title": "議論する 開発者として、あなたはスペシャリストとジェネラリストのどちらになりたいですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，所以我一直想问，作为一个通才的开发者和一个通才的开发者，哪个更好？",
+      "title": "讨论一下。作为一名开发人员，你愿意成为一名专家还是一名通才？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，所以我一直想問，作爲一個通才的開發者和一個通才的開發者，哪個更好？",
+      "title": "討論一下。作爲一名開發人員，你願意成爲一名專家還是一名通才？"
+    }
+  ]
 }
