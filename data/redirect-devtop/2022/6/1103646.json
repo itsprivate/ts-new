@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-03T07:09:09Z",
   "image": "https://dev.to/social_previews/article/1103646.png",
   "author": "Karan Batavia",
-  "author_url": "https://dev.to/kbatavia12"
+  "author_url": "https://dev.to/kbatavia12",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、このことでかなりイライラしています。既成概念にとらわれない開発をしたいのですが、目につくのは......。",
+      "title": "プロジェクトのアイデア!!! (フラストレーション)"
+    },
+    {
+      "locale": "zh",
+      "description": "最近我对这个问题很沮丧，我想开发一些出格的东西，但我在上面看到的都是...",
+      "title": " (挫折感)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近我對這個問題很沮喪，我想開發一些出格的東西，但我在上面看到的都是...",
+      "title": " (挫折感)"
+    }
+  ]
 }
