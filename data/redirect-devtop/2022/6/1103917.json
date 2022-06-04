@@ -45,5 +45,21 @@
   "original_created_at": "2022-06-03T14:06:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wtg0P8aS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n94fmz95x3s70dwyldjn.png",
   "author": "Brayan Narváez",
-  "author_url": "https://dev.to/prinick"
+  "author_url": "https://dev.to/prinick",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、私は最近、Goで書かれた六角形のアーキテクチャを持つTODOシステムをテストと一緒に書きました。",
+      "title": "囲碁の六角形アーキテクチャ"
+    },
+    {
+      "locale": "zh",
+      "title": "围棋中的六边形结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "こんにちは、私は最近、Goで書かれた六角形のアーキテクチャを持つTODOシステムをテストと一緒に書きました。",
+      "title": "圍棋中的六邊形結構"
+    }
+  ]
 }
