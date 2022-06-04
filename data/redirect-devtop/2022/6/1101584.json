@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-01T08:17:54Z",
   "image": "https://dev.to/social_previews/article/1101584.png",
   "author": "talent",
-  "author_url": "https://dev.to/talenttinaapi"
+  "author_url": "https://dev.to/talenttinaapi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "配列は、Javascriptの最も一般的な概念の1つであり、多くの可能性を与えてくれます...",
+      "title": "知っておくと便利なJavascriptの配列に関する4つのトリック"
+    },
+    {
+      "locale": "zh",
+      "description": "数组是Javascript中最常见的概念之一，它为我们提供了很多可能性。",
+      "title": "你应该知道的4个有用的Javascript阵列技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "數組是Javascript中最常見的概念之一，它爲我們提供了很多可能性。",
+      "title": "你應該知道的4個有用的Javascript陣列技巧"
+    }
+  ]
 }
