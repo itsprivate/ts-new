@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただ、今年も小さな赤い年。長い目で見れば問題ないはずだ。ワグミ"
+    },
+    {
+      "locale": "zh",
+      "title": "只是另一个小红年。如果你在这里长期工作，应该不会有什么问题。瓦格米"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是另一個小紅年。如果你在這裏長期工作，應該不會有什麼問題。瓦格米"
+    }
+  ]
 }
