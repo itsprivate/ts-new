@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この飼い主は、普通なら猫がやらないようなクールな芸を愛猫に教えることに成功しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "这位主人成功地教了他的猫一些通常猫不会做的很酷的技巧。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這位主人成功地教了他的貓一些通常貓不會做的很酷的技巧。"
+    }
+  ]
 }
