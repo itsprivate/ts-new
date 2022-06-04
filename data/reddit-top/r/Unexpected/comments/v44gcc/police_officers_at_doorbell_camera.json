@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドアベルカメラで警察官"
+    },
+    {
+      "locale": "zh",
+      "title": "门铃摄像头前的警察"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "門鈴攝像頭前的警察"
+    }
+  ]
 }
