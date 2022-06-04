@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カメラアングルでマジシャンが何をやっているのかが見える、素晴らしい手品です。すごい。"
+    },
+    {
+      "locale": "zh",
+      "title": "优秀的魔术师，用摄像机的角度让我们看清了魔术师在做什么，这一次。真棒。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "優秀的魔術師，用攝像機的角度讓我們看清了魔術師在做什麼，這一次。真棒。"
+    }
+  ]
 }
