@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-17T15:50:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mhSsZXd5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6v08a2ujkle631sbcxt5.png",
   "author": "Willian Frantz",
-  "author_url": "https://dev.to/wlsf"
+  "author_url": "https://dev.to/wlsf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近では、ElixirのバックエンドサービスがGraphQLエンドポイントを持つAPIを提供しているのをよく見かけるようになりました。",
+      "title": "ElixirでGraphQLを使う？"
+    },
+    {
+      "locale": "zh",
+      "description": "如今，在Elixir中为带有GraphQL端点的API提供服务的后端服务是非常常见的。",
+      "title": "使用GraphQL和Elixir？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如今，在Elixir中爲帶有GraphQL端點的API提供服務的後端服務是非常常見的。",
+      "title": "使用GraphQL和Elixir？"
+    }
+  ]
 }
