@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファクトリーリセット"
+    },
+    {
+      "locale": "zh",
+      "title": "工厂重置"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "工廠重置"
+    }
+  ]
 }
