@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-05T14:52:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VKRswr04--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zfi6q3mtmgop9dkkxtlt.png",
   "author": "Dennis Persson",
-  "author_url": "https://dev.to/perssondennis"
+  "author_url": "https://dev.to/perssondennis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるサイトがDEVに掲載された記事の負荷を組織的に盗んでいる、これはあなたができることであり、...",
+      "title": "あなたの記事を盗んだサイトを報告する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "一个网站正在系统地窃取DEV上发表的大量文章，这是你可以和...",
+      "title": "如何举报盗用你文章的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個網站正在系統地竊取DEV上發表的大量文章，這是你可以和...",
+      "title": "如何舉報盜用你文章的網站"
+    }
+  ]
 }
