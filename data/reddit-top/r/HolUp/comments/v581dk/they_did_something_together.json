@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らは一緒に何かをした :/。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们一起做了一些事情 :/"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們一起做了一些事情 :/"
+    }
+  ]
 }
