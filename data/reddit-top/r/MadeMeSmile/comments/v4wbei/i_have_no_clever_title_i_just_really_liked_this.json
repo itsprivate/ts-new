@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "気の利いたタイトルがあるわけでもなく、ただこの動画がとても気に入った。"
+    },
+    {
+      "locale": "zh",
+      "title": "我没有什么高明的标题，我只是非常喜欢这个视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我沒有什麼高明的標題，我只是非常喜歡這個視頻"
+    }
+  ]
 }
