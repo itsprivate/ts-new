@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このボードはどこにでも置くべきものだ。食べ物を無駄にしない 🙏。"
+    },
+    {
+      "locale": "zh",
+      "title": "这块板子应该放在任何地方。不要浪费食物。🙏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這塊板子應該放在任何地方。不要浪費食物。🙏"
+    }
+  ]
 }
