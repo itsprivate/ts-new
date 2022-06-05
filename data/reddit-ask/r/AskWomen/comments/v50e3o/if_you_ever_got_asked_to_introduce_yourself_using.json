@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが自己紹介をするように言われたら、どんなことを言いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人让你用一个关于自己的有趣的事实来介绍自己，你会怎么说？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人讓你用一個關於自己的有趣的事實來介紹自己，你會怎麼說？"
+    }
+  ]
 }
