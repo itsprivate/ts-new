@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブルース・リーを演じたこの子"
+    },
+    {
+      "locale": "zh",
+      "title": "这个孩子在表演李小龙"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個孩子在表演李小龍"
+    }
+  ]
 }
