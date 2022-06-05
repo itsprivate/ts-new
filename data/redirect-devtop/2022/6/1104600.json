@@ -50,5 +50,21 @@
   "original_created_at": "2022-06-04T06:13:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1_FCbIIq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r36l6k8mlucur5jbmnr0.png",
   "author": "Sam Zhang",
-  "author_url": "https://dev.to/samzhangjy"
+  "author_url": "https://dev.to/samzhangjy",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vue 3でターミナル的なポートフォリオを構築してみた"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们，我是Sam Zhang。 最近我更新了我的作品集网站。最初我使用LogTure作为我的网站。",
+      "title": "我用Vue 3建立了一个类似终端的投资组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們，我是Sam Zhang。 最近我更新了我的作品集網站。最初我使用LogTure作爲我的網站。",
+      "title": "我用Vue 3建立了一個類似終端的投資組合"
+    }
+  ]
 }
