@@ -13,5 +13,19 @@
   ],
   "objectID": "31628939",
   "original_created_at": "2022-06-05T08:03:13.000Z",
-  "image": "https://docs.gitea.io/images/gitea.png"
+  "image": "https://docs.gitea.io/images/gitea.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Gitea - 痛みのないセルフホスティングのGitサービス"
+    },
+    {
+      "locale": "zh",
+      "title": "Gitea - 一个无痛的自我托管的Git服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Gitea - 一個無痛的自我託管的Git服務"
+    }
+  ]
 }
