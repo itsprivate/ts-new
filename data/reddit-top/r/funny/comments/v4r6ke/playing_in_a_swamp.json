@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "沼で遊ぶ"
+    },
+    {
+      "locale": "zh",
+      "title": "在沼泽地里玩耍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在沼澤地裏玩耍"
+    }
+  ]
 }
