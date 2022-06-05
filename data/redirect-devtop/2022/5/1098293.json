@@ -45,5 +45,22 @@
   "original_created_at": "2022-05-28T10:55:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RQ2aK6xM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1529156069898-49953e39b3ac%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D2232%26q%3D80",
   "author": "arielbk",
-  "author_url": "https://dev.to/arielbk"
+  "author_url": "https://dev.to/arielbk",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "メンタリングは、世界に大きな影響を与えることができます。誰かのメンタルモデルやコードへのアプローチに影響を与えるなど、波及効果が生まれます。",
+      "title": "後輩開発者の指導の仕方"
+    },
+    {
+      "locale": "zh",
+      "description": "指导可以对世界产生巨大的影响。它创造了一种涟漪效应，在未来的岁月里，你会影响某人的心理模型和编码方法。",
+      "title": "如何指导初级开发人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "指導可以對世界產生巨大的影響。它創造了一種漣漪效應，在未來的歲月裏，你會影響某人的心理模型和編碼方法。",
+      "title": "如何指導初級開發人員"
+    }
+  ]
 }

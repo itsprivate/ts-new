@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビーチでフジツボが付着した貝殻を見つけた。"
+    },
+    {
+      "locale": "zh",
+      "title": "在海滩上发现了一个带有藤壶的贝壳，使它看起来像一个解剖学上正确的心脏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在海灘上發現了一個帶有藤壺的貝殼，使它看起來像一個解剖學上正確的心臟。"
+    }
+  ]
 }

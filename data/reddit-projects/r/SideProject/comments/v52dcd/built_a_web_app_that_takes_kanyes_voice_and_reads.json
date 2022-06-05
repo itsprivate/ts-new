@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://yeezus-gbertkim.vercel.app/\n\nHello! I'm a bootcamp coder and built this project to learn TypeScript. I call\non a Bible Api and Uberduck Api to generate audio of bible verses in the voice\nof Kanye. I did have to use a proxy as I was having CORS issues with Vercel and\nUberduck. Also, I…"
+  "the_new_excerpt": "https://yeezus-gbertkim.vercel.app/\n\nHello! I'm a bootcamp coder and built this project to learn TypeScript. I call\non a Bible Api and Uberduck Api to generate audio of bible verses in the voice\nof Kanye. I did have to use a proxy as I was having CORS issues with Vercel and\nUberduck. Also, I…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://yeezus-gbertkim.vercel.app/\n\nこんにちは！私はブートキャンプのコーダーです。私はブートキャンプのコーダーで、TypeScriptを学ぶためにこのプロジェクトを作りました。このプロジェクトでは\n聖書ApiとUberduck Apiを呼び出して、カニエの声で聖書の詩の音声を生成しています。\nカニエの声で聖書の聖句の音声を生成します。VercelとUberduckでCORSの問題が発生したため、プロキシを使用する必要がありました。\nUberduckでCORSの問題があったので、プロキシを使う必要がありました。また、私は...",
+      "title": "カニエの声でランダムに聖書の一節を読み上げるウェブアプリを構築。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://yeezus-gbertkim.vercel.app/\n\n你好! 我是一个训练营的程序员，建立这个项目是为了学习TypeScript。我调用\n圣经Api和Uberduck Api来生成坎耶声音的圣经经文的音频。\n坎耶的声音。我不得不使用一个代理，因为我与Vercel和\nUberduck。此外，我还...",
+      "title": "构建了一个网络应用，以坎耶的声音，随机阅读圣经经文"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://yeezus-gbertkim.vercel.app/\n\n你好! 我是一個訓練營的程序員，建立這個項目是爲了學習TypeScript。我調用\n聖經Api和Uberduck Api來生成坎耶聲音的聖經經文的音頻。\n坎耶的聲音。我不得不使用一個代理，因爲我與Vercel和\nUberduck。此外，我還...",
+      "title": "構建了一個網絡應用，以坎耶的聲音，隨機閱讀聖經經文"
+    }
+  ]
 }

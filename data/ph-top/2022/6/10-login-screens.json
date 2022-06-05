@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-04T07:00:00Z"
+  "original_createdAt": "2022-06-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "🔍 10種類のログイン画面 - UI Kit あらゆるアプリで再利用できる10種類のユニークなログイン処理のパッケージです。",
+      "tagline": "10個のユニークなログインフローをパッケージ化"
+    },
+    {
+      "locale": "zh",
+      "description": "🔍 10个登录屏幕 - UI Kit 10个独特的登录程序包，可在每个应用程序中重复使用。",
+      "tagline": "10个独特的登录流程包"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🔍 10個登錄屏幕 - UI Kit 10個獨特的登錄程序包，可在每個應用程序中重複使用。",
+      "tagline": "10個獨特的登錄流程包"
+    }
+  ]
 }
