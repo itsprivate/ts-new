@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヨーロッパ vs アメリカ"
+    },
+    {
+      "locale": "zh",
+      "title": "欧洲对美国"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歐洲對美國"
+    }
+  ]
 }
