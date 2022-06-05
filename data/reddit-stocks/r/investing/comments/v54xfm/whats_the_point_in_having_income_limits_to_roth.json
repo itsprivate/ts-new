@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1654399930,
-  "the_new_excerpt": "Seems pretty pointless to have an income limit then. Basically it means that if\nyou make too much money for the Roth outright, you have to get a tax deduction\n(from traditional contributions), then end up paying taxes for the conversion,\ntoo. So it's a pointless two-step process."
+  "the_new_excerpt": "Seems pretty pointless to have an income limit then. Basically it means that if\nyou make too much money for the Roth outright, you have to get a tax deduction\n(from traditional contributions), then end up paying taxes for the conversion,\ntoo. So it's a pointless two-step process.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それなら、所得制限を設けるのはかなり無意味な気がします。基本的には、もし\nRothをそのまま使うには収入が多すぎる場合、税金の控除を受けなければならない。\n(伝統的な寄付から）税控除を受け、変換のために税金を支払うことになる。\nということです。つまり、無意味な2段階プロセスなのです。",
+      "title": "伝統的なIRA（所得制限なし）に投資して、それをRothに転換すればよいのに、Roth IRAに所得制限を設ける意味はあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "那么，设置收入限制似乎很没有意义。基本上这意味着，如果\n你赚了太多的钱，你必须得到一个税收减免\n(从传统捐款中），然后最终为转换支付税款。\n也是如此。所以这是一个毫无意义的两步过程。",
+      "title": "如果你可以直接投资到传统IRA（没有收入限制），并将其转换为Roth IRA，那么对Roth IRA有收入限制的意义何在？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "那麼，設置收入限制似乎很沒有意義。基本上這意味着，如果\n你賺了太多的錢，你必須得到一個稅收減免\n(從傳統捐款中），然後最終爲轉換支付稅款。\n也是如此。所以這是一個毫無意義的兩步過程。",
+      "title": "如果你可以直接投資到傳統IRA（沒有收入限制），並將其轉換爲Roth IRA，那麼對Roth IRA有收入限制的意義何在？"
+    }
+  ]
 }
