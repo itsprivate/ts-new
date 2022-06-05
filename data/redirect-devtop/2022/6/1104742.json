@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-04T10:30:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6cvLmTTm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lsyjskm4ugvng5pw4rel.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Reactで画像や...に対応したファイルプレビューアを構築する方法を説明します。",
+      "title": "Reactでアップロード前にファイルをプレビューする"
+    },
+    {
+      "locale": "zh",
+      "description": "本文将解释如何在React中建立一个文件预览器，适用于图片和...",
+      "title": "在React中上传前预览文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文將解釋如何在React中建立一個文件預覽器，適用於圖片和...",
+      "title": "在React中上傳前預覽文件"
+    }
+  ]
 }
