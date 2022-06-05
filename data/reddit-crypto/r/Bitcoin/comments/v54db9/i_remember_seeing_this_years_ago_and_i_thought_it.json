@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何年か前に見て、詐欺だと思ったのを覚えている。今でも忘れられない。"
+    },
+    {
+      "locale": "zh",
+      "title": "我记得几年前看到这个，我认为这是一个骗局，它至今仍困扰着我。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我記得幾年前看到這個，我認爲這是一個騙局，它至今仍困擾着我。"
+    }
+  ]
 }
