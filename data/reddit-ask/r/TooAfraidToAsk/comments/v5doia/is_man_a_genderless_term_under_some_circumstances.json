@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男」は「過失致死」や「報道官」のように、ある状況下では性別のない言葉なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在某些情况下，\"人 \"是一个无性别的术语，如 \"过失杀人 \"或 \"代言人\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在某些情況下，\"人 \"是一個無性別的術語，如 \"過失殺人 \"或 \"代言人\"？"
+    }
+  ]
 }

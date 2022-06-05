@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "開発者やデザイナーのためのシンプルなリファレンス画像ビューアを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我为开发者和设计者建立了一个简单的参考图像查看器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爲開發者和設計者建立了一個簡單的參考圖像查看器"
+    }
+  ]
 }
