@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "を選択すると、30分延長されます。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你选择了错误的选项，它将给你一个额外的30分钟。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你選擇了錯誤的選項，它將給你一個額外的30分鐘。"
+    }
+  ]
 }
