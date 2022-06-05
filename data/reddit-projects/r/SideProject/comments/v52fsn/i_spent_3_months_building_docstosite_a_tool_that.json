@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Google DocsからWebサイトを構築できるツール「DocsToSite」を3ヶ月かけて作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我花了3个月的时间建立了DocsToSite，一个让你用谷歌文档建立网站的工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我花了3個月的時間建立了DocsToSite，一個讓你用谷歌文檔建立網站的工具。"
+    }
+  ]
 }
