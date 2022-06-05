@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-04T19:34:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PpFwi0yJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wkhk6upa1udyr55zt5g.png",
   "author": "Ashique Billa Molla",
-  "author_url": "https://dev.to/devash98"
+  "author_url": "https://dev.to/devash98",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ようやく、dev.to/dashboardのページで青い「Write your first post now」ボタンをクリックしました...。",
+      "title": "あなたの次のプロジェクトに役立つ10のクールなRest API"
+    },
+    {
+      "locale": "zh",
+      "description": "最后，我点击了dev.to/dashboard页面上的蓝色 \"现在就写你的第一篇文章 \"按钮....。",
+      "title": "为你的下一个项目提供10个很酷的Rest APIs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最後，我點擊了dev.to/dashboard頁面上的藍色 \"現在就寫你的第一篇文章 \"按鈕....。",
+      "title": "爲你的下一個項目提供10個很酷的Rest APIs"
+    }
+  ]
 }
