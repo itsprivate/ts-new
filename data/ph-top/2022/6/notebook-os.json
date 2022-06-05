@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-05T07:02:37Z"
+  "original_createdAt": "2022-06-05T07:02:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "すべてのメモをデジタルワークスペースに一元化する、パワフルで美しいメモシステムです。",
+      "tagline": "Notionでノートを取り込み、管理する"
+    },
+    {
+      "locale": "zh",
+      "description": "一个强大而美观的记事系统，将你所有的笔记集中到你的数字工作区。",
+      "tagline": "在Notion中捕捉和管理你的笔记"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個強大而美觀的記事系統，將你所有的筆記集中到你的數字工作區。",
+      "tagline": "在Notion中捕捉和管理你的筆記"
+    }
+  ]
 }
