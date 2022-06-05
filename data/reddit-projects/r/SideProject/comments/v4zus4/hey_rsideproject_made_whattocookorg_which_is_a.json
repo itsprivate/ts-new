@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "r/sideprojectでWhatToCook.orgというシンプルなレシピのウェブサイトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，r/sideproject，做了 WhatToCook.org，这是一个简单的食谱网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，r/sideproject，做了 WhatToCook.org，這是一個簡單的食譜網站。"
+    }
+  ]
 }
