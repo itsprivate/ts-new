@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルックアライクカム"
+    },
+    {
+      "locale": "zh",
+      "title": "看上去像一个凸轮"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看上去像一個凸輪"
+    }
+  ]
 }
