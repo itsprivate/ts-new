@@ -71,5 +71,15 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、今見ているページについて人々が何を言っているかを知りたかったので、そのページに関連するHN &; Redditのディスカッションを見つけることができるChrome拡張機能を作りました。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "私は、今見ているページについて人々が何を言っているかを知りたかったので、そのページに関連するHN &; Redditのディスカッションを見つけることができるChrome拡張機能を作りました。"
+    }
+  ]
 }
