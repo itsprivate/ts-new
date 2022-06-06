@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "野生のカラスは毎日救助者とコーヒーを飲んでいる"
+    },
+    {
+      "locale": "zh",
+      "title": "野生乌鸦每天都和它的救助者喝咖啡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "野生烏鴉每天都和它的救助者喝咖啡"
+    }
+  ]
 }
