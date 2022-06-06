@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちの世界の問題は、今、あなたの問題です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们世界的问题现在是你的问题，孩子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們世界的問題現在是你的問題，孩子。"
+    }
+  ]
 }
