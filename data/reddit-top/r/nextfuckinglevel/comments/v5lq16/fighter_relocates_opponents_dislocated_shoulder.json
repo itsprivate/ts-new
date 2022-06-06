@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファイターが相手の脱臼した肩を移し替え、試合を終わらせることができた"
+    },
+    {
+      "locale": "zh",
+      "title": "拳击手重新安置对手脱臼的肩膀，以便他们能够完成战斗"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拳擊手重新安置對手脫臼的肩膀，以便他們能夠完成戰鬥"
+    }
+  ]
 }
