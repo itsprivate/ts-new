@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フィールドに入った子供が警備員によってフィールドから排除されている間、その状況を見たアメフト選手が介入する。"
+    },
+    {
+      "locale": "zh",
+      "title": "当进入球场的孩子被保安人员护送出场时，足球运动员看到这种情况并进行了干预。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當進入球場的孩子被保安人員護送出場時，足球運動員看到這種情況並進行了干預。"
+    }
+  ]
 }

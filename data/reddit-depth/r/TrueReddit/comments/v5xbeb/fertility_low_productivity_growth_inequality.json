@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "少子化、生産性の低下、不平等、気候変動。これらすべてが、ある一つのこと、すなわち住宅の供給不足によって悪化しているのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "生育率、低生产力增长、不平等、气候变化。所有这些事情都因为一件事而变得更糟：住房供应不足。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生育率、低生產力增長、不平等、氣候變化。所有這些事情都因爲一件事而變得更糟：住房供應不足。"
+    }
+  ]
 }
