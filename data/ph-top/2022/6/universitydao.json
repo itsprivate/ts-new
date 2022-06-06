@@ -58,5 +58,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-05T07:13:52Z"
+  "original_createdAt": "2022-06-05T07:13:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UniversityDAOは、大学システムのトークン化を通じて、学生の負債をなくし、大学が自分たちの大学を所有できるようにすることを目指す分散型自律大学です。"
+    },
+    {
+      "locale": "zh",
+      "description": "UniversityDAO是一个去中心化的自治大学，旨在结束学生债务，并通过大学系统的代币化使大学拥有自己的大学。",
+      "tagline": "结束学生债务。拥有你的大学"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UniversityDAO是一個去中心化的自治大學，旨在結束學生債務，並通過大學系統的代幣化使大學擁有自己的大學。",
+      "tagline": "結束學生債務。擁有你的大學"
+    }
+  ]
 }
