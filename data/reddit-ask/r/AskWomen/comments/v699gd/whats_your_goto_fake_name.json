@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "よく使うフェイクネームは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你常用的假名字是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你常用的假名字是什麼？"
+    }
+  ]
 }
