@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の強さを示すために、壊れやすいと言われている物を壊してみる"
+    },
+    {
+      "locale": "zh",
+      "title": "为了显示我的力量，我将打破一个以脆弱著称的物体。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了顯示我的力量，我將打破一個以脆弱著稱的物體。"
+    }
+  ]
 }
