@@ -119,5 +119,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どういうことですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你是什么意思？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是什麼意思？"
+    }
+  ]
 }
