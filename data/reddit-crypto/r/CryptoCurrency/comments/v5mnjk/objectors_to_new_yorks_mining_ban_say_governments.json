@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニューヨークの採掘禁止に反対する人々は、政府が「エネルギーの有効利用」を指示することはできないと述べています。"
+    },
+    {
+      "locale": "zh",
+      "title": "反对纽约采矿禁令的人说，政府不能规定 \"能源的有效使用\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "反對紐約採礦禁令的人說，政府不能規定 \"能源的有效使用\"。"
+    }
+  ]
 }
