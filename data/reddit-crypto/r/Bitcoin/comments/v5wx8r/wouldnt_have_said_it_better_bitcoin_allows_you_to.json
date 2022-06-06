@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これ以上の言葉はないだろう。ビットコインを使えば 国家や中央銀行など 不換紙幣の乱用者から解放されるのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "没有比这更好的说法了。比特币让你摆脱了法币滥用者，包括民族国家和中央银行。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有比這更好的說法了。比特幣讓你擺脫了法幣濫用者，包括民族國家和中央銀行。"
+    }
+  ]
 }
