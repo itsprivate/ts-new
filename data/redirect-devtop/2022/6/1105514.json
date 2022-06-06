@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-05T14:36:35Z",
   "image": "https://dev.to/social_previews/article/1105514.png",
   "author": "Justice-hub",
-  "author_url": "https://dev.to/justice_hub"
+  "author_url": "https://dev.to/justice_hub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードを書いているとき、コーディングのやり方に気を配ることは重要です。これはつまり、...",
+      "title": "よりクリーンなコードを書くための5つのヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "当你在写代码时，重要的是要注意你的编码实践。这意味着要采取...",
+      "title": "编写更清洁的代码的5个技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你在寫代碼時，重要的是要注意你的編碼實踐。這意味着要採取...",
+      "title": "編寫更清潔的代碼的5個技巧"
+    }
+  ]
 }
