@@ -13,5 +13,19 @@
   ],
   "objectID": "31637910",
   "original_created_at": "2022-06-06T07:01:28.000Z",
-  "image": "http://akkartik.name/lines/cat2.png"
+  "image": "http://akkartik.name/lines/cat2.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "平文です。行数表示"
+    },
+    {
+      "locale": "zh",
+      "title": "纯文本。有行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "純文本。有行"
+    }
+  ]
 }

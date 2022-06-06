@@ -63,5 +63,22 @@
     "retweet_count": 167,
     "favorite_count": 505,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @olliecarroll: 「ウクライナのパルチザンの多くが、1957年のマニュアルをもとに訓練しているそうです。私の新作です。\nhttps://...",
+      "retweeted_status_full_text": "ウクライナのパルチザンの多くが訓練を受けている1957年のマニュアルには、「奴隷になるより死ね」と書かれている。私の新しい作品です。\nhttps://t.co/aSiuTCSvPM"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @olliecarroll: \"死亡而不是奴役\"，这是1957年许多乌克兰游击队训练时的手册内容。我的新作品。\nhttps://...",
+      "retweeted_status_full_text": "\"死亡而不是奴役\"，这是1957年许多乌克兰游击队员训练时的手册。我的新作品。\nhttps://t.co/aSiuTCSvPM"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @olliecarroll: \"死亡而不是奴役\"，這是1957年許多烏克蘭游擊隊訓練時的手冊內容。我的新作品。\nhttps://...",
+      "retweeted_status_full_text": "\"死亡而不是奴役\"，這是1957年許多烏克蘭游擊隊員訓練時的手冊。我的新作品。\nhttps://t.co/aSiuTCSvPM"
+    }
+  ]
 }
