@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Mon Jun 06 14:01:05 +0000 2022"
+  "original_created_at": "Mon Jun 06 14:01:05 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "\"うれし涙がたくさん出ました\"\n\n直腸癌患者18人だけの小さな試験で、全員が同じ薬を服用しました。\n\nしかし、結果は驚くべきものでした。https://t.co/OwTCoylWYl。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "\"有很多快乐的眼泪\"。\n\n这是一个小型试验，只有18名直肠癌患者，每个人都服用相同的药物。\n\n但结果是惊人的。每个病人的癌症都消失了。https://t.co/OwTCoylWYl"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "\"有很多快樂的眼淚\"。\n\n這是一個小型試驗，只有18名直腸癌患者，每個人都服用相同的藥物。\n\n但結果是驚人的。每個病人的癌症都消失了。https://t.co/OwTCoylWYl"
+    }
+  ]
 }
