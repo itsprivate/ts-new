@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このサブタイトルはなぜ \"tooafraidtoask \"なのでしょうか？もし今でも人々が簡単な、あるいは議論になるような質問をすると馬鹿にされるのであれば。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果人们问一些简单/有争议的问题仍然会被嘲笑，为什么这个子栏目会被命名为 \"不敢问\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果人們問一些簡單/有爭議的問題仍然會被嘲笑，爲什麼這個子欄目會被命名爲 \"不敢問\"？"
+    }
+  ]
 }
