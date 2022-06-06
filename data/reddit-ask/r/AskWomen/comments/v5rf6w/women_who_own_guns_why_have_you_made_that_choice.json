@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "NO JUDGEMENT HERE. I am genuinely curious."
+  "the_new_excerpt": "NO JUDGEMENT HERE. I am genuinely curious.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "批判はしません。純粋に興味があるのです。",
+      "title": "銃を持っている女性、なぜその選択をしたのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在此不作评判。我是真的很好奇。",
+      "title": "拥有枪支的女性，你们为什么做出这样的选择？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在此不作評判。我是真的很好奇。",
+      "title": "擁有槍支的女性，你們爲什麼做出這樣的選擇？"
+    }
+  ]
 }
