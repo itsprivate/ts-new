@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"誰もが私たちを非難しようとしている\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"每个人都在试图指责我们\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"每個人都在試圖指責我們\""
+    }
+  ]
 }
