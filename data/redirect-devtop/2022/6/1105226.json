@@ -46,5 +46,22 @@
   "original_created_at": "2022-06-05T04:47:01Z",
   "image": "https://dev.to/social_previews/article/1105226.png",
   "author": "Nick Taylor (he/him)",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "超オープンエンドですが、皆さんは現在何に悩んでいますか？コードである必要はないのですが...。",
+      "title": "現在、悩んでいることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是个超级开放的问题，但你们目前都在为什么而奋斗？不一定非得是代码...",
+      "title": "你目前在为什么而挣扎？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是個超級開放的問題，但你們目前都在爲什麼而奮鬥？不一定非得是代碼...",
+      "title": "你目前在爲什麼而掙扎？"
+    }
+  ]
 }
