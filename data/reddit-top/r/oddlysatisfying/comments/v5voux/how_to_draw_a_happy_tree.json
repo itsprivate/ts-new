@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハッピーツリーの描き方"
+    },
+    {
+      "locale": "zh",
+      "title": "如何画一棵快乐的树。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如何畫一棵快樂的樹。"
+    }
+  ]
 }
