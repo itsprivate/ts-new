@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼の目には、悲しみが宿っているのがわかる。"
+    },
+    {
+      "locale": "zh",
+      "title": "你可以看到他眼里的悲伤。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你可以看到他眼裏的悲傷。"
+    }
+  ]
 }
