@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-07T14:37:32Z"
+  "original_createdAt": "2022-06-07T14:37:32Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AirPods.WTF」を作ったので、AirPodsを通話時の入力デバイスと出力デバイスの両方として使っているだけで、会議でひどい声を出していることに人々が気づきます。ベストプラクティスは、MacBookの内蔵マイクを使い、AirPodsを出力デバイスとしてのみ使用することです。",
+      "tagline": "AirPodsのマイクの音は、通話中に非常に悪くなります。"
+    },
+    {
+      "locale": "zh",
+      "description": "我们建立了 \"AirPods.WTF\"，让人们意识到他们在会议中听起来很糟糕，只是因为在通话中同时使用AirPods作为输入和输出设备。最佳做法是使用你的MacBook的内置麦克风，然后使用AirPods作为你的输出设备。",
+      "tagline": "AirPods麦克风在通话中听起来很糟糕"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們建立了 \"AirPods.WTF\"，讓人們意識到他們在會議中聽起來很糟糕，只是因爲在通話中同時使用AirPods作爲輸入和輸出設備。最佳做法是使用你的MacBook的內置麥克風，然後使用AirPods作爲你的輸出設備。",
+      "tagline": "AirPods麥克風在通話中聽起來很糟糕"
+    }
+  ]
 }
