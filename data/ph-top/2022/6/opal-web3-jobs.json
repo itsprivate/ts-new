@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-07T07:01:00Z"
+  "original_createdAt": "2022-06-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web3の仕事を発見し、友人と一緒にビルドを開始します。",
+      "tagline": "web3 の求人を見る"
+    },
+    {
+      "locale": "zh",
+      "description": "发现web3的工作，并开始与朋友一起建设。",
+      "tagline": "发现web3的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "發現web3的工作，並開始與朋友一起建設。",
+      "tagline": "發現web3的工作"
+    }
+  ]
 }
