@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインの値動きに応じてシンセサイザーの音楽をオンザフライで生成するアプリを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序，可以根据比特币的价格走势，即时生成合成波音乐"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序，可以根據比特幣的價格走勢，即時生成合成波音樂"
+    }
+  ]
 }
