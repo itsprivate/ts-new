@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "意図した効果ではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "不是预期的效果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是預期的效果。"
+    }
+  ]
 }
