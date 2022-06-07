@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一生に一度は読むべき本とは？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的一生中，你应该至少读一次什么书？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的一生中，你應該至少讀一次什麼書？"
+    }
+  ]
 }
