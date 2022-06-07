@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-07T02:59:17Z",
   "image": "https://dev.to/social_previews/article/1106795.png",
   "author": "AkaraChen",
-  "author_url": "https://dev.to/akarachen"
+  "author_url": "https://dev.to/akarachen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ピラミッドを横に並べたようなif-elseのネストに遭遇したことはないだろうか：if...",
+      "title": "if-elseの使用を最適化し、より良い選択的な構造が必要です!"
+    },
+    {
+      "locale": "zh",
+      "description": "我不知道你是否遇到过像金字塔一样水平放置的if-else嵌套：if...",
+      "title": "优化if-else的使用，你需要一个更好的选择结构!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不知道你是否遇到過像金字塔一樣水平放置的if-else嵌套：if...",
+      "title": "優化if-else的使用，你需要一個更好的選擇結構!"
+    }
+  ]
 }
