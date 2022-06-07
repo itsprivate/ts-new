@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-05T04:52:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iZQpMa7e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bnxcyjlk07km3yjx7uta.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デバッグ中に、初心者が値を出力するためにconsole.log()メソッドを使うことがよくあります。しかし、このメソッドには...",
+      "title": "プロが使っている7つのコンソールメソッド"
+    },
+    {
+      "locale": "zh",
+      "description": "在调试时，初学者常常使用console.log()方法来打印出数值。但是，有一个...",
+      "title": "7种专业人员使用的控制台方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在調試時，初學者常常使用console.log()方法來打印出數值。但是，有一個...",
+      "title": "7種專業人員使用的控制檯方法"
+    }
+  ]
 }
