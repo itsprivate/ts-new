@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-06T13:39:03Z",
   "image": "https://dev.to/social_previews/article/1106273.png",
   "author": "Bas codes",
-  "author_url": "https://dev.to/bascodes"
+  "author_url": "https://dev.to/bascodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pythonで慣用的な、つまりpythonicなコードを書くには、Pythonをよく理解する必要があります。 しかし、何...",
+      "title": "Pythonのイディオムコードの書き方"
+    },
+    {
+      "locale": "zh",
+      "description": "在用Python写成语或pythonic代码之前，你需要很好地理解Python。 但是，什么...",
+      "title": "编写成语化的Python代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在用Python寫成語或pythonic代碼之前，你需要很好地理解Python。 但是，什麼...",
+      "title": "編寫成語化的Python代碼"
+    }
+  ]
 }
