@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "PayPal、ビットコインとイーサリアムの外部ウォレットへの送金を可能に"
+    },
+    {
+      "locale": "zh",
+      "title": "PayPal允许用户将比特币和以太坊转移到外部钱包"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "PayPal允許用戶將比特幣和以太坊轉移到外部錢包"
+    }
+  ]
 }

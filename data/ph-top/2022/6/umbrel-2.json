@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-07T16:02:17Z"
+  "original_createdAt": "2022-06-07T16:02:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Umbrel は、Nextcloud, Matrix, Bitcoin/Lightning node, Pi-hole, HomeAssistant などのセルフホスティングアプリを誰でも利用できるようにする美しいパーソナルサーバーOSです。Raspberry Pi や、Linux/Debian が動作するあらゆるハードウェア（またはクラウド）にインストールすることができます。",
+      "tagline": "セルフホスティングのための美しいパーソナルサーバーOS"
+    },
+    {
+      "locale": "zh",
+      "description": "Umbrel是一个漂亮的个人服务器操作系统，使每个人都可以使用Nextcloud、Matrix、Bitcoin/Lightning node、Pi-hole、HomeAssistant等自我托管的应用程序。安装在Raspberry Pi，或任何运行Linux/Debian的硬件（或云）上。",
+      "tagline": "一个用于自我托管的漂亮的个人服务器操作系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Umbrel是一個漂亮的個人服務器操作系統，使每個人都可以使用Nextcloud、Matrix、Bitcoin/Lightning node、Pi-hole、HomeAssistant等自我託管的應用程序。安裝在Raspberry Pi，或任何運行Linux/Debian的硬件（或雲）上。",
+      "tagline": "一個用於自我託管的漂亮的個人服務器操作系統"
+    }
+  ]
 }
