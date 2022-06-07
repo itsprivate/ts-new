@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは私の最新の鉛筆画です。この6週間、あまり外に出なかったのはこのためです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我最新的铅笔画。这是我在过去6个星期里没怎么出门的原因。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我最新的鉛筆畫。這是我在過去6個星期裏沒怎麼出門的原因。"
+    }
+  ]
 }
