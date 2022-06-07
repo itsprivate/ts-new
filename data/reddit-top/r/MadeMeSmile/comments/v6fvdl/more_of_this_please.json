@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もっともっとお願いします。"
+    },
+    {
+      "locale": "zh",
+      "title": "请再来点这个。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請再來點這個。"
+    }
+  ]
 }
