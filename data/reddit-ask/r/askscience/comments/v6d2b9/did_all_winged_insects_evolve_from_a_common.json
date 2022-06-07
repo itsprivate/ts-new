@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example, are winged beetles related to wasps through a winged common\nancestor?"
+  "the_new_excerpt": "For example, are winged beetles related to wasps through a winged common\nancestor?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、羽のある甲虫とスズメバチは、羽のある共通の祖先を通して関係があるのだろうか？\n共通の祖先なのだろうか？",
+      "title": "すべての翅を持つ昆虫は、共通の翅を持つ昆虫から進化したのか、それとも昆虫の中で何度も翅が進化してきたのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，有翼甲虫与黄蜂的关系是通过一个有翼的共同\n祖先？",
+      "title": "所有有翅膀的昆虫都是由一种常见的有翅膀的昆虫进化而来，还是翅膀在昆虫中进化了多次？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，有翼甲蟲與黃蜂的關係是通過一個有翼的共同\n祖先？",
+      "title": "所有有翅膀的昆蟲都是由一種常見的有翅膀的昆蟲進化而來，還是翅膀在昆蟲中進化了多次？"
+    }
+  ]
 }
