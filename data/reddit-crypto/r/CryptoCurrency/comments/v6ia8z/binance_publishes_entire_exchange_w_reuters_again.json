@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイナンス、再びロイターと取引所全体を公開。ロイターはバイナンスからの20ページにわたる回答を無視し、バイアスが全面に出ている。"
+    },
+    {
+      "locale": "zh",
+      "title": "Binance再次公布整个交易所和路透社。路透社无视Binance的20页回应，充分显示了偏见"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Binance再次公佈整個交易所和路透社。路透社無視Binance的20頁回應，充分顯示了偏見"
+    }
+  ]
 }
