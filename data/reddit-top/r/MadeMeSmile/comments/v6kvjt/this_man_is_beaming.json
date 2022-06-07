@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人は輝いている"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人满面春风"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人滿面春風"
+    }
+  ]
 }
