@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハイライズパラシュート安全装置"
+    },
+    {
+      "locale": "zh",
+      "title": "高空降落伞安全系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "高空降落傘安全系統"
+    }
+  ]
 }
