@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-07T14:26:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ffVv3inJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90r1dno420y1qpfgr5pu.png",
   "author": "Fredy Andrei",
-  "author_url": "https://dev.to/fredy"
+  "author_url": "https://dev.to/fredy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React &amp; Chakra UI用の管理画面テンプレートを作りました！最新のUIトレンドに基づいています。使ってみてね",
+      "title": "最新のUIトレンドを元にReact用の管理画面テンプレートを作ってみた! 無料でお使いいただけます。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们，我做了一个React &amp; Chakra UI的管理模板，基于最新的UI趋势! 使用它...",
+      "title": "我根据最新的UI趋势为React做了一个管理模板! 免费使用它!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們，我做了一個React &amp; Chakra UI的管理模板，基於最新的UI趨勢! 使用它...",
+      "title": "我根據最新的UI趨勢爲React做了一個管理模板! 免費使用它!"
+    }
+  ]
 }
