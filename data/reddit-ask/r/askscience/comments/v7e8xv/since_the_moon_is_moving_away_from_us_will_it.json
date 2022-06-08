@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "月は我々から遠ざかっていくので、このまま地球とタイダルロックされたままなのか、それともいつか自転が狂ってしまうのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "由于月球正在远离我们，它将继续被潮汐锁定在地球上，还是有一天它的旋转会与它的轨道不同步？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由於月球正在遠離我們，它將繼續被潮汐鎖定在地球上，還是有一天它的旋轉會與它的軌道不同步？"
+    }
+  ]
 }
