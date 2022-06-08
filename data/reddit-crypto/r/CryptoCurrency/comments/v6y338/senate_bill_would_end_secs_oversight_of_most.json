@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "上院の法案は、ほとんどの暗号に対するSECの監視を終了させ、200ドルの免税を創設する。"
+    },
+    {
+      "locale": "zh",
+      "title": "参议院法案将结束美国证券交易委员会对大多数加密货币的监督，建立200美元的免税制度"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "參議院法案將結束美國證券交易委員會對大多數加密貨幣的監督，建立200美元的免稅制度"
+    }
+  ]
 }
