@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-07T16:56:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uJgp7F12--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q41ofkh19js53kstmskv.png",
   "author": "Mozammel Haque",
-  "author_url": "https://dev.to/mozammelh"
+  "author_url": "https://dev.to/mozammelh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、私はフルスタックアプリケーションを構築することを計画しています。私は、アプリケーションをスケーリングし、それを作ることを計画しています...",
+      "title": "nextJSでバックエンドを構築するのは良いアイデアでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我正计划建立一个全栈式的应用程序。我计划扩大该应用程序的规模，并使其成为一个完整的应用程序。",
+      "title": "用 nextJS 构建后端是个好主意吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我正計劃建立一個全棧式的應用程序。我計劃擴大該應用程序的規模，並使其成爲一個完整的應用程序。",
+      "title": "用 nextJS 構建後端是個好主意嗎？"
+    }
+  ]
 }
