@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-06T05:33:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L3dTRng2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tu1af2bc0cb2w01cq50.jpg",
   "author": "Abhishek singh ",
-  "author_url": "https://dev.to/abhisheksrajput"
+  "author_url": "https://dev.to/abhisheksrajput",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NextJS、EsLint、prettier、huskyを使ったプロジェクトのセットアップのショートブログです。  Next.jsは...",
+      "title": "typescript, EsLint, prettier, huskyを使ったNextJSのセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一篇关于用NextJS、EsLint、prettier和husky设置项目的简短博客。  Next.js是一个在中国市场上很受欢迎的软件。",
+      "title": "用typecript、EsLint、prettier和husky设置NextJS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一篇關於用NextJS、EsLint、prettier和husky設置項目的簡短博客。  Next.js是一個在中國市場上很受歡迎的軟件。",
+      "title": "用typecript、EsLint、prettier和husky設置NextJS"
+    }
+  ]
 }
