@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-08T07:15:00Z"
+  "original_createdAt": "2022-06-08T07:15:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Preline UIは、ユーティリティファーストなTailwind CSSフレームワークをベースにした、プレビルドUIコンポーネントのオープンソース・セットです。",
+      "tagline": "オープンソースのTailwind CSS UIコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "Preline UI是一套开源的预建UI组件，基于实用至上的Tailwind CSS框架。",
+      "tagline": "开源的Tailwind CSS UI组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Preline UI是一套開源的預建UI組件，基於實用至上的Tailwind CSS框架。",
+      "tagline": "開源的Tailwind CSS UI組件"
+    }
+  ]
 }
