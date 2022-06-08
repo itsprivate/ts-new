@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その反省からか、明らかに"
+    },
+    {
+      "locale": "zh",
+      "title": "对这一点进行反思，很明显"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對這一點進行反思，很明顯"
+    }
+  ]
 }
