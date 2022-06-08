@@ -63,5 +63,22 @@
     "retweet_count": 90,
     "favorite_count": 506,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @KofmanMichael: 再評価は必要だと思うが、間違った教訓を学び、過剰に修正し、失敗するのは避けなければならない。",
+      "retweeted_status_full_text": "再評価は必要だと思いますが、間違った教訓を学び、過度に修正し、文脈の意味を理解しないことは避けなければなりません。また、難しい質問をするよりも、自己正当化する答えに手を伸ばす傾向があります。https://t.co/x4dWfHbDOG。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @KofmanMichael: 我认为重新评估是有必要的，但我们需要避免吸取错误的教训，过度的纠正，以及不能一...",
+      "retweeted_status_full_text": "我认为重新评估是有必要的，但我们需要避免吸取错误的教训，过度纠正，以及不了解背景的意义。还有一种倾向是，要达到自我验证的答案，而不是提出困难的问题。https://t.co/x4dWfHbDOG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @KofmanMichael: 我認爲重新評估是有必要的，但我們需要避免吸取錯誤的教訓，過度的糾正，以及不能一...",
+      "retweeted_status_full_text": "我認爲重新評估是有必要的，但我們需要避免吸取錯誤的教訓，過度糾正，以及不瞭解背景的意義。還有一種傾向是，要達到自我驗證的答案，而不是提出困難的問題。https://t.co/x4dWfHbDOG"
+    }
+  ]
 }

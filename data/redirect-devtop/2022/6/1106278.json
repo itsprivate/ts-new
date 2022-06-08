@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-06T13:47:34Z",
   "image": "https://dev.to/social_previews/article/1106278.png",
   "author": "Sloan",
-  "author_url": "https://dev.to/sloan"
+  "author_url": "https://dev.to/sloan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、名前を公開したくない会員から寄せられた匿名の投稿です。どうか...",
+      "title": "ジュニアデベロッパーとして解雇されたことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个不希望透露姓名的会员发来的匿名帖子。请注意...",
+      "title": "你曾经作为一个初级开发人员被解雇吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個不希望透露姓名的會員發來的匿名帖子。請注意...",
+      "title": "你曾經作爲一個初級開發人員被解僱嗎？"
+    }
+  ]
 }
