@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LYNXのセットアップをsplitgateでテストしてみる"
+    },
+    {
+      "locale": "zh",
+      "title": "在分裂门中测试LYNX设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在分裂門中測試LYNX設置"
+    }
+  ]
 }
