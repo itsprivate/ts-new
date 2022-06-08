@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Envy: 異なるマシン間で環境変数を同期させる (PoC)"
+    },
+    {
+      "locale": "zh",
+      "title": "Envy：在不同机器之间同步环境变量（PoC）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Envy：在不同機器之間同步環境變量（PoC）。"
+    }
+  ]
 }
