@@ -45,5 +45,22 @@
   "original_created_at": "2022-03-19T15:34:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FrHsGp5r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmg3997h7efdosy3gf4q.jpg",
   "author": "Taylor Hunt",
-  "author_url": "https://dev.to/tigt"
+  "author_url": "https://dev.to/tigt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブパフォーマンスは他人事。",
+      "title": "それがどうした？"
+    },
+    {
+      "locale": "zh",
+      "description": "网络表现是其他人。",
+      "title": "那又怎样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡表現是其他人。",
+      "title": "那又怎樣？"
+    }
+  ]
 }
