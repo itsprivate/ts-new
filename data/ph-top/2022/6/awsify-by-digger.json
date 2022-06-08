@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-08T08:51:56Z"
+  "original_createdAt": "2022-06-08T08:51:56Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWSifyはHerokuからAWSへの移行を容易にする。AWSifyはあなたのAWSアカウントを設定し、あなたのアプリを数分で移行することができます。高価なブラックボックスはAWSifyで置き去りにしてください。",
+      "tagline": "HerokuからAWSへワンクリックで移行可能"
+    },
+    {
+      "locale": "zh",
+      "description": "AWSify使得从Heroku迁移到AWS很容易。它可以配置您的AWS账户，使您的应用程序可以在几分钟内完成迁移。用AWSify把昂贵的黑匣子抛在身后--它就像魔术一样工作!",
+      "tagline": "一键从Heroku迁移到AWS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AWSify使得從Heroku遷移到AWS很容易。它可以配置您的AWS賬戶，使您的應用程序可以在幾分鐘內完成遷移。用AWSify把昂貴的黑匣子拋在身後--它就像魔術一樣工作!",
+      "tagline": "一鍵從Heroku遷移到AWS"
+    }
+  ]
 }
