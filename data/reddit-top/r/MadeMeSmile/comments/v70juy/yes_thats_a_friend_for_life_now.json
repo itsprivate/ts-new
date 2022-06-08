@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Yes! それはもう一生の友達です。"
+    },
+    {
+      "locale": "zh",
+      "title": "是的! 那是一个终身的朋友了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的! 那是一個終身的朋友了。"
+    }
+  ]
 }
