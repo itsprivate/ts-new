@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは発見された後の4歳のライカー・ウェブ君です。彼はモンタナの荒野で2日間も迷子になっていたのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是4岁的雷克-韦伯被发现后，他在蒙大拿州的旷野中迷失了两天。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是4歲的雷克-韋伯被發現後，他在蒙大拿州的曠野中迷失了兩天。"
+    }
+  ]
 }
