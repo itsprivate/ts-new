@@ -53,5 +53,22 @@
   "original_created_at": "2022-06-08T12:30:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kN06nDzn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u9oc1av3qlneesnmsljq.jpeg",
   "author": "Jeremy Friesen",
-  "author_url": "https://dev.to/jeremyf"
+  "author_url": "https://dev.to/jeremyf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVチームのメンバーとして、私はコミュニティが書いたものを読むのが大好きです。 キャリアのアドバイスや...",
+      "title": "DEVで見たい \"高度な \"トピックは？"
+    },
+    {
+      "locale": "zh",
+      "description": "作为DEV团队的一员，我喜欢阅读我们社区的文章。 这里有职业建议，也有对未来的展望。",
+      "title": "你希望在DEV上看到什么更 \"高级 \"的话题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲DEV團隊的一員，我喜歡閱讀我們社區的文章。 這裏有職業建議，也有對未來的展望。",
+      "title": "你希望在DEV上看到什麼更 \"高級 \"的話題？"
+    }
+  ]
 }
