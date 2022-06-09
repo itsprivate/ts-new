@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そうして、18匹の猫を飼うことになるわけです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是为什么你最终会有18只猫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是爲什麼你最終會有18只貓。"
+    }
+  ]
 }
