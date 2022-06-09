@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大統領の年齢を65歳に制限することは、あなたが支持することでしょうか？その理由と反対理由は？"
+    },
+    {
+      "locale": "zh",
+      "title": "将总统的年龄限制在65岁，你会支持吗？为什么或为什么不支持？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "將總統的年齡限制在65歲，你會支持嗎？爲什麼或爲什麼不支持？"
+    }
+  ]
 }
