@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニューヨークでは、ステーブルコインを発行者の運用資金から分離した資産で完全に裏付けすることを義務付ける予定です。"
+    },
+    {
+      "locale": "zh",
+      "title": "纽约将要求稳定币由与发行者的运营资金分离的资产完全支持。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "紐約將要求穩定幣由與發行者的運營資金分離的資產完全支持。"
+    }
+  ]
 }

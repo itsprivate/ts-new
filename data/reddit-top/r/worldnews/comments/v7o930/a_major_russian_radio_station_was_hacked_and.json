@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアの大手ラジオ局がハッキングされ、ウクライナの国歌や反戦歌を放送するようになった。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯一家大型广播电台被黑，开始播放乌克兰的国歌和反战歌曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯一家大型廣播電臺被黑，開始播放烏克蘭的國歌和反戰歌曲"
+    }
+  ]
 }
