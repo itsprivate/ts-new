@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんなに人気があっても、どうしても見たくない番組・映画があれば、その理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么节目/电影是你拒绝观看的，无论它多么受欢迎，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼節目/電影是你拒絕觀看的，無論它多麼受歡迎，爲什麼？"
+    }
+  ]
 }
