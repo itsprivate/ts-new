@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画史上、「この役はダメだろうなと思ったけど、絶対に成功させた」という人物は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "谁是电影史上一些最大的 \"他们在这个角色中会很糟糕，然后他们绝对会杀了它\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰是電影史上一些最大的 \"他們在這個角色中會很糟糕，然後他們絕對會殺了它\"？"
+    }
+  ]
 }
