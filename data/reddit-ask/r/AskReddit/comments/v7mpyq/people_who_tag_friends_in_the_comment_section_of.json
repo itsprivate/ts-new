@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミームのコメント欄で、DMで共有するのではなく、友達をタグ付けする人、なぜ？"
+    },
+    {
+      "locale": "zh",
+      "title": "那些在备忘录的评论区给朋友打上标签而不是通过DMs分享的人，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那些在備忘錄的評論區給朋友打上標籤而不是通過DMs分享的人，爲什麼？"
+    }
+  ]
 }
