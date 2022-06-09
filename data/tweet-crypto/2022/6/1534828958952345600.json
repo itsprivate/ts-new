@@ -154,5 +154,22 @@
     "retweet_count": 1198,
     "favorite_count": 5864,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @saylor: #ビットコインのマイナーは電力網を強化し安定させる https://t.co/CwiGhsWS72",
+      "retweeted_status_full_text": "#ビットコインマイナーが電力網を強化・安定化https://t.co/CwiGhsWS72。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @saylor: #比特币矿工加强和稳定了电网。https://t.co/CwiGhsWS72",
+      "retweeted_status_full_text": "#比特币矿工加强和稳定电网.https://t.co/CwiGhsWS72"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @saylor: #比特幣礦工加強和穩定了電網。https://t.co/CwiGhsWS72",
+      "retweeted_status_full_text": "#比特幣礦工加強和穩定電網.https://t.co/CwiGhsWS72"
+    }
+  ]
 }
