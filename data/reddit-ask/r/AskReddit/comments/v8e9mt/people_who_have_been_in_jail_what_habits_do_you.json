@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "刑務所に入ったことがある人は、刑務所に入ったことで学んだ習慣を今も続けていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有过坐牢经历的人，你今天还在做的哪些习惯是你在牢里学到的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有過坐牢經歷的人，你今天還在做的哪些習慣是你在牢裏學到的？"
+    }
+  ]
 }
