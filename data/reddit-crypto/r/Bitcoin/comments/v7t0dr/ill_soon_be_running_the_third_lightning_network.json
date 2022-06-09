@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はもうすぐ国内で3番目のLightning Networkノードを運営することになりますが、純粋に早いと感じています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我很快就会在我的国家运行第三个闪电网络节点，真正感觉到我们是早期。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我很快就會在我的國家運行第三個閃電網絡節點，真正感覺到我們是早期。"
+    }
+  ]
 }

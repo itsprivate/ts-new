@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-08T17:13:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---B_lP6Da--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/afbd7z97uwxzs5drxvj2.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、コントリビューター、メンテナ、そしてOSSの成功に捧げる新しいForemを紹介します...",
+      "title": "オープンソースのメンテナとコントリビュータのための新しいコミュニティスペース! 🚀"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我强调一个新的Forem，致力于贡献者、维护者和OSS的成功。",
+      "title": "为开源维护者和贡献者提供一个新的社区空间! 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我強調一個新的Forem，致力於貢獻者、維護者和OSS的成功。",
+      "title": "爲開源維護者和貢獻者提供一個新的社區空間! 🚀"
+    }
+  ]
 }

@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新しい研究により、T細胞療法前の化学療法や放射線療法の必要性を減らす可能性のある受容体が同定されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "一项新的研究发现了一种受体，可能会减少化疗和放疗前T细胞治疗的需要。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一項新的研究發現了一種受體，可能會減少化療和放療前T細胞治療的需要。"
+    }
+  ]
 }

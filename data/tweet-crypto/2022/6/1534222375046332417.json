@@ -52,5 +52,22 @@
     },
     "retweet_count": 151,
     "favorite_count": 1091
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @BitcoinIsSaving: Proof-of-stakeはダブルスペンド問題を解決しないので、proof-of-workの代わりにはならない。",
+      "retweeted_status_full_text": "プルーフ・オブ・ステークはダブルスペンド問題を解決できないので、プルーフ・オブ・ワークの代わりにはならない。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @BitcoinIsSaving: 赌注证明不能解决双重消费问题，所以它不能取代工作证明。",
+      "retweeted_status_full_text": "股权证明并不能解决双重消费问题，所以它不能取代工作证明。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @BitcoinIsSaving: 賭注證明不能解決雙重消費問題，所以它不能取代工作證明。",
+      "retweeted_status_full_text": "股權證明並不能解決雙重消費問題，所以它不能取代工作證明。"
+    }
+  ]
 }
