@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-08T11:04:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iev-fQgU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7rywg400mhgv1jiq64u.png",
   "author": "Dima Grossman",
-  "author_url": "https://dev.to/scopsy"
+  "author_url": "https://dev.to/scopsy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちが初めてNovu（オープンソースの通知インフラ）を世界に公開したとき、私たちは驚きました...",
+      "title": "オープンソースコントリビューターのためのステージ"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们第一次向世界展示Novu（一种开源的通知基础设施）时，我们对其感到惊奇。",
+      "title": "为我们的开放源码贡献者提供一个舞台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們第一次向世界展示Novu（一種開源的通知基礎設施）時，我們對其感到驚奇。",
+      "title": "爲我們的開放源碼貢獻者提供一個舞臺"
+    }
+  ]
 }
