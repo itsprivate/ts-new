@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男性を待ち伏せしていた13匹の子猫の最新情報。今朝、初めてお風呂に入るそうです。"
+    },
+    {
+      "locale": "zh",
+      "title": "伏击这名男子的13只小猫的最新情况。他们今天早上正在洗第一次澡。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "伏擊這名男子的13只小貓的最新情況。他們今天早上正在洗第一次澡。"
+    }
+  ]
 }
