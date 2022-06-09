@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホラー映画ではないけれど、怖い思いをした映画は？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪部电影让你感到害怕，但根本不是恐怖电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪部電影讓你感到害怕，但根本不是恐怖電影？"
+    }
+  ]
 }
