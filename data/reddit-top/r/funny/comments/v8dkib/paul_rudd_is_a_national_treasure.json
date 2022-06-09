@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ポール・ラッドは国宝です。"
+    },
+    {
+      "locale": "zh",
+      "title": "保罗-路德是个国宝。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "保羅-路德是個國寶。"
+    }
+  ]
 }

@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そうして、18匹の猫たちが、乗り物の中で余韻に浸っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是为什么你最终会有18只猫，在车辆上留下了痕迹。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是爲什麼你最終會有18只貓，在車輛上留下了痕跡。"
+    }
+  ]
 }
