@@ -58,5 +58,19 @@
   "retweet_count": 116,
   "favorite_count": 926,
   "possibly_sensitive": false,
-  "original_created_at": "Fri Jun 10 10:11:15 +0000 2022"
+  "original_created_at": "Fri Jun 10 10:11:15 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "自分のビットコインノードを運営している場合、素敵なトリックです。\n- 自分のノードがブロックを保存しているディレクトリに移動する\n- ターミナルを開く\n- type: hexdump -C -s 8 -n 285 blk00000.dat https://t.co/WZRofKpCnL"
+    },
+    {
+      "locale": "zh",
+      "full_text": "如果你运行自己的比特币节点，这是一个不错的技巧。\n- 转到你的节点存储区块的目录\n- 打开终端\n- 输入：hexdump -C -s 8 -n 285 blk00000.dat https://t.co/WZRofKpCnL"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "如果你運行自己的比特幣節點，這是一個不錯的技巧。\n- 轉到你的節點存儲區塊的目錄\n- 打開終端\n- 輸入：hexdump -C -s 8 -n 285 blk00000.dat https://t.co/WZRofKpCnL"
+    }
+  ]
 }

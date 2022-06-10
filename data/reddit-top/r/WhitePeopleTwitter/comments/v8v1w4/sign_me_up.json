@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サインアップ"
+    },
+    {
+      "locale": "zh",
+      "title": "给我报名"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "給我報名"
+    }
+  ]
 }
