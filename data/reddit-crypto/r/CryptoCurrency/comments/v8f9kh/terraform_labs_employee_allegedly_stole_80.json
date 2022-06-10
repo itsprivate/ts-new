@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Terraform Labsの社員が80ビットコインを盗んだ疑惑があり、韓国の警察が彼を追っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "Terraform实验室员工据称偷了80个比特币，韩国警方正在追捕他。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Terraform實驗室員工據稱偷了80個比特幣，韓國警方正在追捕他。"
+    }
+  ]
 }
