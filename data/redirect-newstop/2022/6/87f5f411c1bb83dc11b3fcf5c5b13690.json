@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-561436/social"
+  "image": "https://images.wsj.net/im-561436/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウクライナはロシアの進出に伴い、より多くの武器を必要としている、と当局者が述べている。"
+    },
+    {
+      "locale": "zh",
+      "title": "官员表示，由于俄罗斯的进步，乌克兰需要更多的武器来快速提升。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "官員表示，由於俄羅斯的進步，烏克蘭需要更多的武器來快速提升。"
+    }
+  ]
 }

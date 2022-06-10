@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "非常識な長時間露光写真"
+    },
+    {
+      "locale": "zh",
+      "title": "疯狂的长期曝光照片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瘋狂的長期曝光照片"
+    }
+  ]
 }
