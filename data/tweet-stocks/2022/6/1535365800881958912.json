@@ -134,5 +134,22 @@
     "retweet_count": 6585,
     "favorite_count": 66285,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @bloodberry_tart: この画像に夢中 https://t.co/loIz2aOiyD",
+      "retweeted_status_full_text": "この画像に夢中 https://t.co/loIz2aOiyD"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @bloodberry_tart: 痴迷于这个图片 https://t.co/loIz2aOiyD",
+      "retweeted_status_full_text": "痴迷于这个图像 https://t.co/loIz2aOiyD"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bloodberry_tart: 癡迷於這個圖片 https://t.co/loIz2aOiyD",
+      "retweeted_status_full_text": "癡迷於這個圖像 https://t.co/loIz2aOiyD"
+    }
+  ]
 }
