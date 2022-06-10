@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-09T14:11:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_uFrah83--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/osqr3o7xq0n7niov34mb.png",
   "author": "vedanth bora",
-  "author_url": "https://dev.to/vedanthb"
+  "author_url": "https://dev.to/vedanthb",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このブログでは、reactを使わずにreduxライブラリを説明しようと思います。Reduxだけです。  なぜか？というのも、もし私たちが",
+      "title": "Reactを使わないRedux"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇博客中，我将尝试解释没有react的redux库。只有Redux。  为什么？因为如果我们...",
+      "title": "没有React的Redux"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇博客中，我將嘗試解釋沒有react的redux庫。只有Redux。  爲什麼？因爲如果我們...",
+      "title": "沒有React的Redux"
+    }
+  ]
 }
