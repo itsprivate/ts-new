@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1654815886,
-  "the_new_excerpt": "DCA or Lump sum?"
+  "the_new_excerpt": "DCA or Lump sum?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "DCAか一括払いか？",
+      "title": "ガソリンを買うとき、1/4タンクごとに満タンにしたほうがいいのか、それとも必要なときに満タンにしたほうがいいのか、おかしな思考実験ですね。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "DCA还是一次性付款？",
+      "title": "有趣的思想实验，在购买汽油时，是每用四分之一的油箱就加满，还是需要时再加是更好的选择？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "DCA還是一次性付款？",
+      "title": "有趣的思想實驗，在購買汽油時，是每用四分之一的油箱就加滿，還是需要時再加是更好的選擇？"
+    }
+  ]
 }
