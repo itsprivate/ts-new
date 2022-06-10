@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Isn't it literally legalized bribery?"
+  "the_new_excerpt": "Isn't it literally legalized bribery?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "文字通り、贈収賄の合法化ではないか？",
+      "title": "なぜロビー活動は違法ではないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这不就是字面上的合法化贿赂吗？",
+      "title": "为什么游说不违法？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這不就是字面上的合法化賄賂嗎？",
+      "title": "爲什麼遊說不違法？"
+    }
+  ]
 }
