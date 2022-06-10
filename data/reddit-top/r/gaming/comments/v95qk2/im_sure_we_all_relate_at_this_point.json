@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この時点で、誰もが共感しているはずだ"
+    },
+    {
+      "locale": "zh",
+      "title": "我相信在这一点上我们都有同感"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我相信在這一點上我們都有同感"
+    }
+  ]
 }
