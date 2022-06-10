@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-09T07:38:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oQzQ2bin--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgvt4ft53sa6s8s8fibe.png",
   "author": "Swastik Yadav",
-  "author_url": "https://dev.to/swastikyadav"
+  "author_url": "https://dev.to/swastikyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは！今日はmap()とreduce()の配列メソッドを独自に実装してみましょう！...",
+      "title": "JavaScriptにおけるmap()およびreduce()Arrayメソッドのしくみ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我们来实现我们自己版本的map()和reduce()数组方法。",
+      "title": "map()和reduce()数组方法如何在JavaScript中工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我們來實現我們自己版本的map()和reduce()數組方法。",
+      "title": "map()和reduce()數組方法如何在JavaScript中工作。"
+    }
+  ]
 }
