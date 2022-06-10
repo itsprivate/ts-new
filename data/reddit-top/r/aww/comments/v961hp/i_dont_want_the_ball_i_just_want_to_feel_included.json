@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"ボールはいらない、仲間を感じたい\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我不想要球，我只想感受到被包容\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我不想要球，我只想感受到被包容\""
+    }
+  ]
 }
