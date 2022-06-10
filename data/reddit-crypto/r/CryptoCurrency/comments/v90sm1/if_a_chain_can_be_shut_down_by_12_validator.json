@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "There has been a surge in chains being halted for whatever reason. DDOS, network\ninstability, bug are common explanations given for why the chain was halted.\n\nIf you dig into these incidences, it seems all of them were halted after\ndiscussions on discord groups by the validators of the chain and…"
+  "the_new_excerpt": "There has been a surge in chains being halted for whatever reason. DDOS, network\ninstability, bug are common explanations given for why the chain was halted.\n\nIf you dig into these incidences, it seems all of them were halted after\ndiscussions on discord groups by the validators of the chain and…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "何らかの理由で停止されるチェーンが急増している。DDOS、ネットワークの不安定さ\nバグは、チェーンが停止された理由についての一般的な説明である。\n\nこれらの事例を掘り下げてみると、すべてvaliがdiscordグループで議論した後に停止されたようです。\nそのチェーンの検証者がDiscordグループで議論し、...",
+      "title": "もしあるチェーンが、Discord上で議論される12人のバリデーターによって停止させられるなら、それは最小限の努力で政府によって100％停止させられるだろう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不管是什么原因，连锁店被停止的情况一直在激增。DDOS、网络\n不稳定，bug是链子被停止的常见解释。\n\n如果你深入了解这些事件，似乎所有的事件都是在以下情况下被停止的\n链条上的验证者在discord群组上进行讨论后停止。",
+      "title": "如果一条链子可以被12个验证人在Discord上讨论的多数人关闭，那么它100%可以被政府以最小的努力关闭。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不管是什麼原因，連鎖店被停止的情況一直在激增。DDOS、網絡\n不穩定，bug是鏈子被停止的常見解釋。\n\n如果你深入瞭解這些事件，似乎所有的事件都是在以下情況下被停止的\n鏈條上的驗證者在discord羣組上進行討論後停止。",
+      "title": "如果一條鏈子可以被12個驗證人在Discord上討論的多數人關閉，那麼它100%可以被政府以最小的努力關閉。"
+    }
+  ]
 }
