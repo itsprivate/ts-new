@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This week I made colorwaze.com [https://colorwaze.com].\n\nIt's still a work in progress but it's usable at this point. You select a color\nand are provided with the closest matching color name, conversions to Hex,\nRGB/A, HSL, HSV, CMYK, and more. You can view all the shades, tints, tones,…"
+  "the_new_excerpt": "This week I made colorwaze.com [https://colorwaze.com].\n\nIt's still a work in progress but it's usable at this point. You select a color\nand are provided with the closest matching color name, conversions to Hex,\nRGB/A, HSL, HSV, CMYK, and more. You can view all the shades, tints, tones,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今週はcolorwaze.com [https://colorwaze.com]を作りました。\n\nまだ未完成ですが、この時点で使えるようになりました。色を選択すると\nを選択すると、最も近い色の名前、Hexへの変換、RGB/A、HSL、HSV、CMYKへの変換が提供されます。\nRGB/A、HSL、HSV、CMYK などへの変換が提供されます。すべてのシェード、ティント、トーン、...を表示することができます。",
+      "title": "43億色の詳細な色情報を提供するカラーツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这周我做了colorwaze.com[https://colorwaze.com]。\n\n它仍然是一个进展中的工作，但在这一点上它是可用的。你选择一种颜色\n并提供最接近的匹配颜色名称，转换为Hex。\nRGB/A、HSL、HSV、CMYK，等等。你可以查看所有的阴影、色调、音调、以及其他信息。",
+      "title": "我做了一个颜色工具，提供了关于~43亿种颜色的详细描述!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這周我做了colorwaze.com[https://colorwaze.com]。\n\n它仍然是一個進展中的工作，但在這一點上它是可用的。你選擇一種顏色\n並提供最接近的匹配顏色名稱，轉換爲Hex。\nRGB/A、HSL、HSV、CMYK，等等。你可以查看所有的陰影、色調、音調、以及其他信息。",
+      "title": "我做了一個顏色工具，提供了關於~43億種顏色的詳細描述!"
+    }
+  ]
 }
