@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アイコンで作るSVGテキストの実験"
+    },
+    {
+      "locale": "zh",
+      "title": "用图标组成的SVG文本的实验"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用圖標組成的SVG文本的實驗"
+    }
+  ]
 }
