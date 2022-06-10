@@ -81,5 +81,17 @@
       }
     ]
   },
-  "original_createdAt": "2014-10-23T12:34:30Z"
+  "original_createdAt": "2014-10-23T12:34:30Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Coolors是一个为设计师提供的超级快速的色彩方案生成器。在几秒钟内创建、保存和分享完美的调色板!",
+      "tagline": "为很酷的设计师提供的超快速色彩方案生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Coolors是一個爲設計師提供的超級快速的色彩方案生成器。在幾秒鐘內創建、保存和分享完美的調色板!",
+      "tagline": "爲很酷的設計師提供的超快速色彩方案生成器"
+    }
+  ]
 }

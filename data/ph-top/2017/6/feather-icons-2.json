@@ -72,5 +72,17 @@
       }
     ]
   },
-  "original_createdAt": "2017-06-01T15:49:44Z"
+  "original_createdAt": "2017-06-01T15:49:44Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Feather是一个简单漂亮的开源图标集。每个图标都是在24x24的网格上设计的，强调简单性、一致性和可读性。",
+      "tagline": "简单漂亮的开源图标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Feather是一個簡單漂亮的開源圖標集。每個圖標都是在24x24的網格上設計的，強調簡單性、一致性和可讀性。",
+      "tagline": "簡單漂亮的開源圖標"
+    }
+  ]
 }

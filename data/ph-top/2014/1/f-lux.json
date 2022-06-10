@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2014-01-07T00:54:05Z"
+  "original_createdAt": "2014-01-07T00:54:05Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "f.lux是使你的电脑显示屏的颜色适应一天中的时间，晚上是暖色调，白天则像阳光。",
+      "tagline": "调整你的计算机的显示，以适应一天中的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "f.lux是使你的電腦顯示屏的顏色適應一天中的時間，晚上是暖色調，白天則像陽光。",
+      "tagline": "調整你的計算機的顯示，以適應一天中的時間"
+    }
+  ]
 }

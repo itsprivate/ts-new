@@ -68,5 +68,17 @@
       }
     ]
   },
-  "original_createdAt": "2018-03-20T07:32:45Z"
+  "original_createdAt": "2018-03-20T07:32:45Z",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "Notion是一个多合一的工作空间。从笔记、任务、维基、到数据库，Notion是你所需要的一切。对团队和个人都有很好的作用。可在浏览器、iOS、Mac和Windows中使用。",
+      "tagline": "一体化的工作空间--笔记、任务、维基和数据库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notion是一個多合一的工作空間。從筆記、任務、維基、到數據庫，Notion是你所需要的一切。對團隊和個人都有很好的作用。可在瀏覽器、iOS、Mac和Windows中使用。",
+      "tagline": "一體化的工作空間--筆記、任務、維基和數據庫"
+    }
+  ]
 }
