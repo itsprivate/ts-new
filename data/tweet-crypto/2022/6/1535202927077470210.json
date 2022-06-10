@@ -1,0 +1,62 @@
+{
+  "created_at": "Fri Jun 10 11:37:17 +0000 2022",
+  "id_str": "1535202927077470210",
+  "full_text": "Nice trick if you run your own bitcoin node:\n- go to directory where your node stores blocks\n- open terminal\n- type: hexdump -C -s 8 -n 285 blk00000.dat https://t.co/WZRofKpCnL",
+  "display_text_range": [
+    0,
+    152
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1535202172098515000,
+        "id_str": "1535202172098514944",
+        "indices": [
+          153,
+          176
+        ],
+        "media_url": "http://pbs.twimg.com/media/FU4iPd5XEAAVCEs.png",
+        "media_url_https": "https://pbs.twimg.com/media/FU4iPd5XEAAVCEs.png",
+        "url": "https://t.co/WZRofKpCnL",
+        "display_url": "pic.twitter.com/WZRofKpCnL",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1535202927077470210/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 714,
+            "h": 366,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 349,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 714,
+            "h": 366,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 116,
+  "favorite_count": 926,
+  "possibly_sensitive": false,
+  "original_created_at": "Fri Jun 10 10:11:15 +0000 2022"
+}
