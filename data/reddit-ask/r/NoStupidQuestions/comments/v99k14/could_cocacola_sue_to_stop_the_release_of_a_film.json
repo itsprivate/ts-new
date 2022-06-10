@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title"
+  "the_new_excerpt": "Title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "映画の登場人物がコーラを一口飲んで「クソみたいな味だ」と言った場合、コカコーラは映画の公開中止や金銭的な損害賠償を求める訴訟を起こせるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题",
+      "title": "如果电影中的一个角色喝了一口可乐，说 \"这味道太差了\"，可口可乐公司是否可以起诉停止电影的发行，或要求赔偿金钱损失？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題",
+      "title": "如果電影中的一個角色喝了一口可樂，說 \"這味道太差了\"，可口可樂公司是否可以起訴停止電影的發行，或要求賠償金錢損失？"
+    }
+  ]
 }
