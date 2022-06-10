@@ -134,5 +134,22 @@
     "retweet_count": 382,
     "favorite_count": 1592,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @AWMCheung: https://t.co/VTq15tDrTn",
+      "retweeted_status_full_text": "https://t.co/VTq15tDrTn"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @AWMCheung: https://t.co/VTq15tDrTn",
+      "retweeted_status_full_text": "https://t.co/VTq15tDrTn"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @AWMCheung: https://t.co/VTq15tDrTn",
+      "retweeted_status_full_text": "https://t.co/VTq15tDrTn"
+    }
+  ]
 }
