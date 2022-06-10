@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球が丸いことを偶然にも証明した平板な地球学者"
+    },
+    {
+      "locale": "zh",
+      "title": "扁平疣患者在自己的实验中意外地证明了地球是圆的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "扁平疣患者在自己的實驗中意外地證明了地球是圓的"
+    }
+  ]
 }
