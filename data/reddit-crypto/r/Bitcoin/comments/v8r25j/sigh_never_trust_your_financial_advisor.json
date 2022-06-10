@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "*ファイナンシャル・アドバイザーを信じるな。"
+    },
+    {
+      "locale": "zh",
+      "title": "*叹息*永远不要相信你的财务顾问"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "*嘆息*永遠不要相信你的財務顧問"
+    }
+  ]
 }
