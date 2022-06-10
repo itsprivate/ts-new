@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "母が足首を骨折して..."
+    },
+    {
+      "locale": "zh",
+      "title": "妈妈的脚踝骨折了..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "媽媽的腳踝骨折了..."
+    }
+  ]
 }
