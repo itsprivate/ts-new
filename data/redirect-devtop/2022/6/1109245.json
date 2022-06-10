@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-09T13:15:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vVYb2Oz4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dz5f1x07cmal16dlf34l.jpg",
   "author": "Tia Eastwood",
-  "author_url": "https://dev.to/tiaeastwood"
+  "author_url": "https://dev.to/tiaeastwood",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デモサイトや練習用のプロジェクトを作る際に、そのためのデータが必要になることがよくあります。そのような場合、...",
+      "title": "JSONサーバーでプロジェクトのための偽のREST APIを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "通常情况下，你可能正在建立一个演示网站，或实践项目，你需要一些数据。作为一名普通人，你需要为它提供一些数据。",
+      "title": "如何用JSON服务器为你的项目创建一个假的REST API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通常情況下，你可能正在建立一個演示網站，或實踐項目，你需要一些數據。作爲一名普通人，你需要爲它提供一些數據。",
+      "title": "如何用JSON服務器爲你的項目創建一個假的REST API"
+    }
+  ]
 }
