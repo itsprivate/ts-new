@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "言葉を失うほど。"
+    },
+    {
+      "locale": "zh",
+      "title": "无言以对。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無言以對。"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メタ：このサブレディットの歴史はどうなっていますか？他のサブレディットと比べて、どうしてこんなに厳しく規制されるようになったのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "元：这个子论坛的历史是什么？与其他子版块相比，它是如何变得如此严重的管制？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "元：這個子論壇的歷史是什麼？與其他子版塊相比，它是如何變得如此嚴重的管制？"
+    }
+  ]
 }
