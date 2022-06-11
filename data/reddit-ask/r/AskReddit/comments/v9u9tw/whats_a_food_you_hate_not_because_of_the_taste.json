@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "味ではなく、食感で嫌いな食べ物は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你讨厌的食物，不是因为味道而是因为质地？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你討厭的食物，不是因爲味道而是因爲質地？"
+    }
+  ]
 }
