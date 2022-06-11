@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まだアノンを待っているのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还在等吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還在等嗎？"
+    }
+  ]
 }
