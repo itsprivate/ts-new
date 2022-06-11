@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これが私が教えたことなのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我教你的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我教你的嗎？"
+    }
+  ]
 }
