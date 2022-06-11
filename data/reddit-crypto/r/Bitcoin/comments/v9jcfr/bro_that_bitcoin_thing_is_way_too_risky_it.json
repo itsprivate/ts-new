@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bro そのBitcoinはリスクが高すぎる。50%も暴落したんだ。安全な預金口座に保管しておくよ...。"
+    },
+    {
+      "locale": "zh",
+      "title": "兄弟，比特币的事情太冒险了，它崩溃了50%，我不想失去我一半的钱。我只是把它放在一个安全的储蓄账户里...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兄弟，比特幣的事情太冒險了，它崩潰了50%，我不想失去我一半的錢。我只是把它放在一個安全的儲蓄賬戶裏...."
+    }
+  ]
 }
