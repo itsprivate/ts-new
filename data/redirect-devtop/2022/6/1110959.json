@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-11T04:26:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wEvx9BRl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ezz86jcspjb29qgaal51.png",
   "author": "Sanjay Singh Rajpoot",
-  "author_url": "https://dev.to/sanjaysinghrajpoot"
+  "author_url": "https://dev.to/sanjaysinghrajpoot",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Jsは、最近よく使われるフロントエンドフレームワークの一つです。 このフレームワークは、...",
+      "title": "だからみんなReactjsを使っているんだ"
+    },
+    {
+      "locale": "zh",
+      "description": "React Js是最近最流行的前端框架之一。 它正扮演着一个重要的角色。",
+      "title": "这就是为什么大家都在使用Reactjs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React Js是最近最流行的前端框架之一。 它正扮演着一個重要的角色。",
+      "title": "這就是爲什麼大家都在使用Reactjs"
+    }
+  ]
 }
