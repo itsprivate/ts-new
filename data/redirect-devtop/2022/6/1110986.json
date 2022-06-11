@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-11T06:22:16Z",
   "image": "https://dev.to/social_previews/article/1110986.png",
   "author": "Kausik Das ✪",
-  "author_url": "https://dev.to/ikausik"
+  "author_url": "https://dev.to/ikausik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もし、あなたが手動でCSSを書くのが苦手なら、Tailwindcssはあなたの時間を大幅に短縮してくれるでしょう。 そして、それは...",
+      "title": "Tailwindcssは綺麗ですね👌。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你不喜欢写手动css，那么Tailwindcss可以为你节省大量的时间。 而且它是...",
+      "title": "尾随者是美丽的 👌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你不喜歡寫手動css，那麼Tailwindcss可以爲你節省大量的時間。 而且它是...",
+      "title": "尾隨者是美麗的 👌"
+    }
+  ]
 }
