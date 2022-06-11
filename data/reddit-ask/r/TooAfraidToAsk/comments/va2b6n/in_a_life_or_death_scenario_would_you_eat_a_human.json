@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Say you're stranded on an island with no food and nothing but your buddy's\ncorpse, would you eat him/her?"
+  "the_new_excerpt": "Say you're stranded on an island with no food and nothing but your buddy's\ncorpse, would you eat him/her?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "食料のない島に取り残され、仲間の死体しかないとする。\nあなたはその人を食べますか？",
+      "title": "生きるか死ぬかの場面で、あなたは人間を食べますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "假设你被困在一个小岛上，没有食物，除了你的伙伴的\n的尸体，你会吃掉他/她吗？",
+      "title": "在生死攸关的情况下，你会吃掉一个人吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "假設你被困在一個小島上，沒有食物，除了你的夥伴的\n的屍體，你會喫掉他/她嗎？",
+      "title": "在生死攸關的情況下，你會喫掉一個人嗎？"
+    }
+  ]
 }
