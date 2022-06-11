@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インドでは象の誕生日を祝います"
+    },
+    {
+      "locale": "zh",
+      "title": "在印度，我们庆祝大象的生日"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在印度，我們慶祝大象的生日"
+    }
+  ]
 }
