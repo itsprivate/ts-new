@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-10T20:53:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YKgv9yNu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/inhxyru0d95vk4isois2.jpg",
   "author": "Vic",
-  "author_url": "https://dev.to/victoriarose"
+  "author_url": "https://dev.to/victoriarose",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。しばらく（数ヶ月）、私は自分のJavaScriptを開発することを思いつきました。",
+      "title": "自作JavaScriptランタイムの体験記 - その1"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，有一段时间（几个月），我想出了开发自己的JavaScript的想法。",
+      "title": "创建我自己的JavaScript运行时的经验 - #1"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，有一段時間（幾個月），我想出了開發自己的JavaScript的想法。",
+      "title": "創建我自己的JavaScript運行時的經驗 - #1"
+    }
+  ]
 }
