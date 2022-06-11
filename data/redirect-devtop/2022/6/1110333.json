@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-10T13:15:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FpVevXdn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/945pdx9na8u0uu1oy1yq.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週のポストでは、Jestのテストをデバッグするためのツールであるjest-previewを紹介します。",
+      "title": "ジェスト・プレビューを体験する"
+    },
+    {
+      "locale": "zh",
+      "description": "在本周的文章中，我将介绍jest-preview，这是一个用于调试Jest测试的工具。",
+      "title": "给予Jest-Preview一个旋转"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本週的文章中，我將介紹jest-preview，這是一個用於調試Jest測試的工具。",
+      "title": "給予Jest-Preview一個旋轉"
+    }
+  ]
 }
