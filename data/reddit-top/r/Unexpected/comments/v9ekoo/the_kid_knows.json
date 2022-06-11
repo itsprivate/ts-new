@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供は知っている"
+    },
+    {
+      "locale": "zh",
+      "title": "这孩子知道"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這孩子知道"
+    }
+  ]
 }
