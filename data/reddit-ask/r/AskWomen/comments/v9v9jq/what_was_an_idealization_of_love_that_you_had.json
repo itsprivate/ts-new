@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It could be about any kind of expectation you had"
+  "the_new_excerpt": "It could be about any kind of expectation you had",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "あなたが抱いた期待についてでもかまいません。",
+      "title": "初めての恋愛で変わった、恋愛の理想像とは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这可能是关于你的任何一种期望。",
+      "title": "你对爱情的理想化是什么，在你的第一段关系后发生了变化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這可能是關於你的任何一種期望。",
+      "title": "你對愛情的理想化是什麼，在你的第一段關係後發生了變化？"
+    }
+  ]
 }
