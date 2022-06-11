@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-08T23:09:37Z",
   "image": "https://dev.to/social_previews/article/1108722.png",
   "author": "Hannah Glazier",
-  "author_url": "https://dev.to/hannahglazier"
+  "author_url": "https://dev.to/hannahglazier",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は現在、コーディング・ブートキャンプから数週間が経過し、技術的な世界をナビゲートし始めています...",
+      "title": "JavaScriptの一般的な検索アルゴリズム"
+    },
+    {
+      "locale": "zh",
+      "description": "我目前是在编码训练营结束后的几个星期，开始在技术世界中摸索。",
+      "title": "JavaScript中常见的搜索算法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我目前是在編碼訓練營結束後的幾個星期，開始在技術世界中摸索。",
+      "title": "JavaScript中常見的搜索算法"
+    }
+  ]
 }
