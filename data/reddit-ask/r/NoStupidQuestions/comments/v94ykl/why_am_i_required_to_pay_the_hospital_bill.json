@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "病院へ行くことになったのは誰かのせいなのに、なぜ私が病院代を払わなければならないのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么我需要支付医院账单，尽管是别人导致我在那里结束的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼我需要支付醫院賬單，儘管是別人導致我在那裏結束的？"
+    }
+  ]
 }
