@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-10T09:01:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4_B9IC_p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3od5sphbfcfaj0pyx7zg.jpg",
   "author": "Charlie Say",
-  "author_url": "https://dev.to/charliesay"
+  "author_url": "https://dev.to/charliesay",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パッケージマネージャに関する古くからの議論 各々が長所と短所を持ち、私は...",
+      "title": "あなたはYARNerですか、それともNPMerですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "一场关于软件包管理器的古老辩论 每一个都有其优点&amp;其缺点I...",
+      "title": "你是YARNer还是NPMer？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一場關於軟件包管理器的古老辯論 每一個都有其優點&amp;其缺點I...",
+      "title": "你是YARNer還是NPMer？"
+    }
+  ]
 }
