@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インフレはコントロールされている..."
+    },
+    {
+      "locale": "zh",
+      "title": "通货膨胀得到控制..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通貨膨脹得到控制..."
+    }
+  ]
 }
