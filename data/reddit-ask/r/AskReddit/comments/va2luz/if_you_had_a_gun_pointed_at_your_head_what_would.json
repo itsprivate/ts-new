@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの頭に銃が向けられたら、最後にどんな言葉をかけますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有一把枪指着你的头，你的最后一句话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有一把槍指着你的頭，你的最後一句話是什麼？"
+    }
+  ]
 }
