@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-06T07:05:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mqrRZ_84--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p22jp6yvg4e5j2vx86cl.png",
   "author": "Amir-Lotfi",
-  "author_url": "https://dev.to/amirlotfi"
+  "author_url": "https://dev.to/amirlotfi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、CSSで「Scroll to Top」ボタンを作成する方法を簡単に説明します。",
+      "title": "バニラJS＆CSSでトップスクロールボタンを作成する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，你将在几个简短的步骤中学习如何用CSS创建一个滚动到顶部的按钮...",
+      "title": "如何用普通的JS和CSS创建一个滚动到顶部的按钮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，你將在幾個簡短的步驟中學習如何用CSS創建一個滾動到頂部的按鈕...",
+      "title": "如何用普通的JS和CSS創建一個滾動到頂部的按鈕"
+    }
+  ]
 }
