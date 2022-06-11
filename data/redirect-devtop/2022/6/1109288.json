@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-09T14:38:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AsuITtMK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z60lv3qacqgaqssq8hb4.png",
   "author": "Aditya Oberai",
-  "author_url": "https://dev.to/adityaoberai"
+  "author_url": "https://dev.to/adityaoberai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は楽しいことが大好きで、絶対的なオタクであるため、常に技術的な方法を探してきました...",
+      "title": "Appwrite、Twilio、および.NETを使用したRick Roll Your Friends"
+    },
+    {
+      "locale": "zh",
+      "description": "作为一个爱玩的人和绝对的极客，我一直在寻找使用科技的方法。",
+      "title": "使用Appwrite、Twilio和.NET的Rick Roll Your Friends"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲一個愛玩的人和絕對的極客，我一直在尋找使用科技的方法。",
+      "title": "使用Appwrite、Twilio和.NET的Rick Roll Your Friends"
+    }
+  ]
 }
