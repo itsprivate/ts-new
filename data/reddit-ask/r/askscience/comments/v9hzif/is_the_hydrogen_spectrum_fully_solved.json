@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As an undergrad student, I used the Schrödinger equation to solve the Hydrogen\natom, but the result would lead to missing transitions. The professor then said\nthat the Dirac equation would give a better result, but it would still lack some\ncorrections from the hyperfine structure and quantum field…"
+  "the_new_excerpt": "As an undergrad student, I used the Schrödinger equation to solve the Hydrogen\natom, but the result would lead to missing transitions. The professor then said\nthat the Dirac equation would give a better result, but it would still lack some\ncorrections from the hyperfine structure and quantum field…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "学部生の頃、水素原子を解くのにSchrödinger方程式を使っていましたが\nを解いたのですが、その結果、遷移が欠けてしまうのです。そこで教授が言ったのは\nDirac方程式を使えば、もっと良い結果が出るはずだ。\n超微細構造や量子場の補正が足りないから......」と。",
+      "title": "水素のスペクトルは完全に解明されたのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "作为一名本科生，我使用薛定谔方程来解决氢气问题。\n原子，但结果却导致了过渡的缺失。然后教授说\n狄拉克方程会给出一个更好的结果，但它仍然缺乏一些\n但它仍然缺乏一些来自超精细结构和量子场的修正......",
+      "title": "氢谱完全解决了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "作爲一名本科生，我使用薛定諤方程來解決氫氣問題。\n原子，但結果卻導致了過渡的缺失。然後教授說\n狄拉克方程會給出一個更好的結果，但它仍然缺乏一些\n但它仍然缺乏一些來自超精細結構和量子場的修正......",
+      "title": "氫譜完全解決了嗎？"
+    }
+  ]
 }

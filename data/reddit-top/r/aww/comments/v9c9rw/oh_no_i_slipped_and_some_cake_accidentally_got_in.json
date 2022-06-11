@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いやー、滑ってケーキを口に入れてしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，不，我滑倒了，一些蛋糕不小心进了我的嘴。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，不，我滑倒了，一些蛋糕不小心進了我的嘴。"
+    }
+  ]
 }
