@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし私がDiscordに招待され、そこに児童ポルノが含まれている可能性があることを発見し、すぐにDiscordを報告してサーバーを去った場合、私は問題になるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我被邀请参加一个讨论组，却发现它可能包含儿童色情内容，我立即报告了该讨论组并离开了服务器，我会有麻烦吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我被邀請參加一個討論組，卻發現它可能包含兒童色情內容，我立即報告了該討論組並離開了服務器，我會有麻煩嗎？"
+    }
+  ]
 }
