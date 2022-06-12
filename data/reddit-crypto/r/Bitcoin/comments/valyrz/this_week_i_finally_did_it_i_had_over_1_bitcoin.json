@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今週はついにやってしまいました。Gemini、Nexo、BlockFi...と、あちこちに1Bitcoin以上持っていたのですが。もうありません。全てはコールドストレージになりました。取引所でのビットコインの氾濫に貢献するのはやめて、自分で管理するようにしましょう!"
+    },
+    {
+      "locale": "zh",
+      "title": "这周我终于做到了。我有超过1个比特币，到处都是，Gemini, Nexo, BlockFi.... 现在没有了。现在所有的钱都在冷库里。不要再为交易所里大量的比特币做贡献了，要自我保管!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這周我終於做到了。我有超過1個比特幣，到處都是，Gemini, Nexo, BlockFi.... 現在沒有了。現在所有的錢都在冷庫裏。不要再爲交易所裏大量的比特幣做貢獻了，要自我保管!"
+    }
+  ]
 }
