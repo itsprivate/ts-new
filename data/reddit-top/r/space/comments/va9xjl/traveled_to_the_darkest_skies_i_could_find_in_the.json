@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "天の川を撮影するために、アメリカで最も暗い空へ旅した。その結果がこの写真です。"
+    },
+    {
+      "locale": "zh",
+      "title": "前往我在美国能找到的最黑暗的天空，拍摄银河系。这张照片就是结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "前往我在美國能找到的最黑暗的天空，拍攝銀河系。這張照片就是結果。"
+    }
+  ]
 }
