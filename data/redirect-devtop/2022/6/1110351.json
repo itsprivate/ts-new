@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-10T14:08:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KypugCXV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ifgf585uzoqpn96r7i86.png",
   "author": "Brittney Postma",
-  "author_url": "https://dev.to/brittneypostma"
+  "author_url": "https://dev.to/brittneypostma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ゼロから始める場合でも、他のプラットフォームから乗り換える場合でも、SolidJS を Netlify にデプロイする場合は、当社がサポートします。",
+      "title": "SolidJS のデプロイ方法"
+    },
+    {
+      "locale": "zh",
+      "description": "无论您是从头开始还是从另一个平台转换，在将 SolidJS 部署到 Netlify 时，我们都会为您提供帮助。",
+      "title": "如何部署SolidJS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論您是從頭開始還是從另一個平臺轉換，在將 SolidJS 部署到 Netlify 時，我們都會爲您提供幫助。",
+      "title": "如何部署SolidJS"
+    }
+  ]
 }

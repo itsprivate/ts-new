@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの仕事について、一般には知られていない事実は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "关于你的工作，有哪些事实是一般人不知道的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於你的工作，有哪些事實是一般人不知道的？"
+    }
+  ]
 }
