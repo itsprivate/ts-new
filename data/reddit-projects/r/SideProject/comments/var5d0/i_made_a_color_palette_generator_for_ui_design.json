@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "UIデザインのためのカラーパレットジェネレーターを作ってみた!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个用于UI设计的调色板生成器!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個用於UI設計的調色板生成器!"
+    }
+  ]
 }

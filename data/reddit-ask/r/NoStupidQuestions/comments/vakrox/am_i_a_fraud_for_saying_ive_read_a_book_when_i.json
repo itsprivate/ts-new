@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Honestly saying “Yeah I’ve listened to that book before” sounds so weird."
+  "the_new_excerpt": "Honestly saying “Yeah I’ve listened to that book before” sounds so weird.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "正直、「ああ、あの本、聴いたことあるよ」というのは、すごく変な感じがするんです。",
+      "title": "オーディオブックを聴いているのに、本を読んだと言う私は詐欺師なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "说实话，说 \"是的，我以前听过那本书 \"听起来很奇怪。",
+      "title": "我说我读过一本书，但实际上我听的是有声书，我是骗子吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "說實話，說 \"是的，我以前聽過那本書 \"聽起來很奇怪。",
+      "title": "我說我讀過一本書，但實際上我聽的是有聲書，我是騙子嗎？"
+    }
+  ]
 }
