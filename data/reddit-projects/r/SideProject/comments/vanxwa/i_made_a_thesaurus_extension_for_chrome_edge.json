@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Vue.jsを使って、Chrome / Edge用のシソーラス拡張を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我使用Vue.js为Chrome / Edge做了一个词库扩展。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我使用Vue.js爲Chrome / Edge做了一個詞庫擴展。"
+    }
+  ]
 }

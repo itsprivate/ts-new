@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-11T14:36:08Z",
   "image": "https://dev.to/social_previews/article/1111301.png",
   "author": "Clary",
-  "author_url": "https://dev.to/clarycodes"
+  "author_url": "https://dev.to/clarycodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これまで主にVanilla CSSとSASS/SCSSに頼ってきましたが、独自のコンポーネントやスタイルを持っているので、それを利用することができます。",
+      "title": "どのCSSフレームワークを使用しているか、またその理由は？"
+    },
+    {
+      "locale": "zh",
+      "description": "到目前为止，我主要依靠Vanilla CSS和SASS/SCSS，并且有自己的组件/样式，我可以...",
+      "title": "你在使用哪些CSS框架，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "到目前爲止，我主要依靠Vanilla CSS和SASS/SCSS，並且有自己的組件/樣式，我可以...",
+      "title": "你在使用哪些CSS框架，爲什麼？"
+    }
+  ]
 }
