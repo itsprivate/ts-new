@@ -13,5 +13,19 @@
   ],
   "objectID": "31702563",
   "original_created_at": "2022-06-11T07:00:53.000Z",
-  "image": "https://berrywm.org/assets/berry.png"
+  "image": "https://berrywm.org/assets/berry.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Berry は、Unix システムのために C で書かれた健全なバイトサイズのウィンドウマネージャです"
+    },
+    {
+      "locale": "zh",
+      "title": "Berry是一个健康的、用C语言编写的字节大小的窗口管理器，用于Unix系统。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Berry是一個健康的、用C語言編寫的字節大小的窗口管理器，用於Unix系統。"
+    }
+  ]
 }
