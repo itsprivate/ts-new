@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トランプの表カードによくある絵柄は、どこから来たのでしょうか？歴史上の人物にちなんだものなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "一副扑克牌面上常见的图像是怎么来的？它们是否指的是任何真实的历史人物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一副撲克牌面上常見的圖像是怎麼來的？它們是否指的是任何真實的歷史人物？"
+    }
+  ]
 }
