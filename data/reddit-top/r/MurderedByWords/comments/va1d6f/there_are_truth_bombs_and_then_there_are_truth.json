@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "真実の爆弾があり、真実のICBMがある"
+    },
+    {
+      "locale": "zh",
+      "title": "有真相炸弹，就有真相洲际弹道导弹"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有真相炸彈，就有真相洲際彈道導彈"
+    }
+  ]
 }
