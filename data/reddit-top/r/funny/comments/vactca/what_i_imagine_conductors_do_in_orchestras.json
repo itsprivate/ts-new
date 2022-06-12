@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オーケストラで指揮者がしていることをイメージしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想象中的指挥家在管弦乐队中的工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想象中的指揮家在管絃樂隊中的工作。"
+    }
+  ]
 }
