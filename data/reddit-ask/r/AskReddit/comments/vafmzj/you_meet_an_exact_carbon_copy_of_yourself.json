@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分自身と全く同じコピーに出会い、性格も全く同じ、ただ一つ違うのはそれが異性であるということです。"
+    },
+    {
+      "locale": "zh",
+      "title": "你遇到一个和你一模一样的人，性格也完全一样，唯一不同的是它是异性，你做的第一件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你遇到一個和你一模一樣的人，性格也完全一樣，唯一不同的是它是異性，你做的第一件事是什麼？"
+    }
+  ]
 }
