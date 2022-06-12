@@ -1,0 +1,62 @@
+{
+  "author": "kurta999",
+  "original_created_utc": 1655028781,
+  "title": "A project to improve my computer's experience - Second keyboard for macros, CAN-USB transreceiver, Window Explorer symlink creator, Graphs for Indoor Air Quality",
+  "created_utc": 1655035156,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;You can check this C++ project on my GitHub, it has a lot of other stuff which I use regulary:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://github.com/kurta999/CustomKeyboard\"&gt;https://github.com/kurta999/CustomKeyboard&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Features:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;CustomMacro&lt;/strong&gt; - Connect a second keyboard and binding macros to it&amp;#39;s keys - full GUI support for macro editing (WIP recording mode)&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;CAN-USB&lt;/strong&gt; - Send and receive CAN Frames to/from CAN bus from computer - see more info below&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;StructParser&lt;/strong&gt; - Generate offsets of C structures&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;ScreenshotSaver&lt;/strong&gt; - Saving screenshot to .png from clipboard&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;DirectoryBackup&lt;/strong&gt; - Backup folders to another place(s) from tray menu&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;LinkCreator&lt;/strong&gt; - Easy symlink &amp;amp; hardlink creator within Windows&amp;#39; file explorer&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sensors&lt;/strong&gt; - Backend for sensors with SQLite database for measurements &amp;amp; graphs generation to .html file&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;wxWidget&amp;#39;s GUI editor&lt;/strong&gt; - A very basic GUI editor with move &amp;amp; resize support&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AntiLock&lt;/strong&gt; - Bypass idle timeout for Windows to avoid lock screen by pressing SCROLL LOCK &amp;amp; moving mouse in given interval&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;AntiNumLock&lt;/strong&gt; - Doesn&amp;#39;t allow to disable NumLock, re-enables it immendiately when it&amp;#39;s disabled.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;TerminalHotkey&lt;/strong&gt; - Hotkey for terminal, like in Linux. Can be started from Windows Explorer and from Desktop&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;Explanation:&lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;&lt;strong&gt;CustomMacro&lt;/strong&gt; - Currently requires an external Nucleo L495ZG board with UART-TTL to USB adapter for transmitting keypresses to PC. The nucleo is just a simple USB Host, which receives key-presses from the connected keyboard and transmits it to PC via UART. It could be done with hooking in windows, but this solution always crashed the debugger in MSVC, so I went with the more expensive way. Macros can be added in configuration page or in settings.ini file directly. Firmware for Nucle board is available here: &lt;a href=\"https://github.com/kurta999/UsbHost\"&gt;https://github.com/kurta999/UsbHost&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;CAN-USB&lt;/strong&gt; - Requires NUCLEO-G474RE board with UART-TTL to USB adapter &amp;amp; Waveshare SN65HVD230 3.3v CAN Transreceiver. Firmware for nucleo board is available here: &lt;a href=\"https://github.com/kurta999/CANUSB\"&gt;https://github.com/kurta999/CANUSB&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;StructParser&lt;/strong&gt; - Paste the structure to input dialog and click on prarse. The application automatically calculates offsets for it&amp;#39;s members. It&amp;#39;s useful if you work with communication and had to calculate the offset of members in bytes manually. Supports embedded structures, struct alignment (fixed alignment supported, pragma pack implementation isn&amp;#39;t finished yet), preprocessor definitions &amp;amp; unions.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;ScreenshotSaver&lt;/strong&gt; - Press screenshot save key (F12 by default, on second keyboard) and screenshot from the clipboard will be saved to (app path)/Screenshots folder by default as .png file. Can be changed in configuration.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;DirectoryBackup&lt;/strong&gt; - Setup backups in configuration or in settings.ini manually and those will appear in tray menu of this application. Click on them, and backing up files will start. Supports ignore list &amp;amp; SHA-256 checksum for backed up files for more secure backups.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;LinkCreator&lt;/strong&gt; - Select desired files from File Explorer and click the mark key (key down on second keyboard by default) and files (directories too) will be marked for link creation. Go to target directory where you want to place the links for marked files, press symlink key (KEY UP) by default for symlink or hardlink key (KEY RIGHT) by default for hardlinks. That&amp;#39;s all, symlink or hardlink is created from marked files in target directory.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Sensors&lt;/strong&gt; - Backend means simple TCP server with boost asio where sensor conencts and sends measurements. Each measurement is inserted to a local SQLite database and a graph generated with last 30 measurements, last day &amp;amp; last week average data by default, this can be changed in settings.ini. Database is updated in every 10 minutes, but you can update manually by clicking on &amp;quot;Generate graphs&amp;quot; in front panel.&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;wxWidget&amp;#39;s GUI editor&lt;/strong&gt; - Oversimplified GUI editor which sometimes can be useful beside &lt;a href=\"https://github.com/wxFormBuilder/wxFormBuilder\"&gt;wxFormBuilder&lt;/a&gt;. GUI items are movable &amp;amp; resizable - directly without sizers. C++ code generation also implemented, current workspace can be saved &amp;amp; loaded to/from XML file.&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;Feel free to write agressive critics and ideas :) I&amp;#39;m working on this project for more than one year, it was just an idea to write something in modern C++ to learn the language, but now I can&amp;#39;t imagine my computer usage without this tool.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/60jaz2e416591.png?width=786&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1ada1a93f3c8d048af3ef3f6bd86ba8912ed2889\"&gt;Main Page&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/ru0qyvu616591.png?width=1010&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4f0f9146e3eceec34eef8eb35bc6109b9713f2a4\"&gt;CAN - USB Transreceiver&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/l1d20um816591.png?width=938&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8d806fed51c75f7efbe63f923abbb225c9b1a3df\"&gt;Indor air quality sensor&amp;#39;s measurement&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/fka5y8ra16591.png?width=938&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d3f6f1b3839a83b9870efdf2be7a6c4291ab77f5\"&gt;Structure offset generator for C structures&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/oo232d2d16591.png?width=786&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=88905c057ea82e2b16194fefed0fc78558b9bb0a\"&gt;Macro editor for 2nd keyboard&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/jsco232o16591.png?width=786&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c80f910076a99e4e08503276bb4b003185cbef1f\"&gt;Backup configuration&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?auto=webp&amp;s=d476772c5e794f4c27bc2c37af6474df8f0c77d6",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a57e6614c77629f9fc72a3b80063321fda7a227a",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=8da5c1c5907666fc2ebc66f2e54607aa3b91dbf2",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b102ed1d565b07cb6c8a82ec5312133ab31601ae",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b36f2a6b40afa77352b99f8a29a35454b5b50954",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=53beefd777b2bcc53c66db9470fc562dfe5f468f",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/9OGnQU2NWHQVBNhDuqeL26VynGFUOSTc0D_zLI_PX_k.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=3f7d62df49efe6e36607e4af57b18db8f952e6bc",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "hn9pEH9lV2b35N7_HooKEk8hUYs3pdp5X2e29lyyNYU"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/vaiyl9/a_project_to_improve_my_computers_experience/",
+  "subreddit": "SideProject",
+  "id": "vaiyl9",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "You can check this C++ project on my GitHub, it has a lot of other stuff which I\nuse regulary:\n\nhttps://github.com/kurta999/CustomKeyboard\n\nFeatures:\n\n 1.  CustomMacro - Connect a second keyboard and binding macros to it's keys -\n     full GUI support for macro editing (WIP recording mode)\n 2.  CAN…"
+}
