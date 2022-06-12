@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは、いわゆるセルフ・コレクティングの問題です"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是我们所说的自我纠正的问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是我們所說的自我糾正的問題"
+    }
+  ]
 }
