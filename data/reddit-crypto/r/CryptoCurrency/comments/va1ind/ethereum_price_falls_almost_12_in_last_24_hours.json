@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアム価格は過去24時間で約12％下落"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊价格在过去24小时内下跌了近12%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊價格在過去24小時內下跌了近12%。"
+    }
+  ]
 }
