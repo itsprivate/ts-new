@@ -1,0 +1,88 @@
+{
+  "created_at": "Sun Jun 12 21:45:2 +0000 2022",
+  "id_str": "1536058304128077824",
+  "full_text": "In August 2020, Exxon was removed from the Dow and Salesforce was added to the index.\n\nReturns since...\nExxon $XOM: +183%\nSalesforce $CRM: -37%\n\nCharting via @ycharts https://t.co/VIXao15KCK",
+  "display_text_range": [
+    0,
+    166
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "XOM",
+        "indices": [
+          110,
+          114
+        ]
+      },
+      {
+        "text": "CRM",
+        "indices": [
+          133,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "ycharts",
+        "name": "YCharts",
+        "id": 22869238,
+        "id_str": "22869238",
+        "indices": [
+          158,
+          166
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1536058210301489200,
+        "id_str": "1536058210301489156",
+        "indices": [
+          167,
+          190
+        ],
+        "media_url": "http://pbs.twimg.com/media/FVEszctXsAQ4BNn.png",
+        "media_url_https": "https://pbs.twimg.com/media/FVEszctXsAQ4BNn.png",
+        "url": "https://t.co/VIXao15KCK",
+        "display_url": "pic.twitter.com/VIXao15KCK",
+        "expanded_url": "https://twitter.com/charliebilello/status/1536058304128077824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 850,
+            "h": 562,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 850,
+            "h": 562,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "Charlie Bilello",
+    "screen_name": "charliebilello",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207655488168574976/N0sQdj76_normal.png"
+  },
+  "retweet_count": 111,
+  "favorite_count": 527,
+  "possibly_sensitive": false,
+  "original_created_at": "Sun Jun 12 18:50:12 +0000 2022"
+}
