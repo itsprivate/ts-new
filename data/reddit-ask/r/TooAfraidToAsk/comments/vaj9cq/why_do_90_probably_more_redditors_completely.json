@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "You can post about rainbows and people in the comments will go batshit crazy"
+  "the_new_excerpt": "You can post about rainbows and people in the comments will go batshit crazy",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "虹について投稿すると、コメント欄の人たちが発狂してくれるよ",
+      "title": "なぜ90％（おそらくそれ以上）のredditorはすべてのPostを完全に誤解しているのでしょうか？その上、いつも受動的で攻撃的、またはストレートに攻撃的なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你可以发表关于彩虹的帖子，评论中的人就会发疯。",
+      "title": "为什么90%（可能更多）的红人完全误解了每个帖子？此外，他们总是被动地攻击或直接攻击？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你可以發表關於彩虹的帖子，評論中的人就會發瘋。",
+      "title": "爲什麼90%（可能更多）的紅人完全誤解了每個帖子？此外，他們總是被動地攻擊或直接攻擊？"
+    }
+  ]
 }
