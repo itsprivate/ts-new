@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-10T01:28:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R_vqfx2f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/clbch42as2psrd11esyb.png",
   "author": "Sean Boult",
-  "author_url": "https://dev.to/hacksore"
+  "author_url": "https://dev.to/hacksore",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ローカルで動作しているアプリケーションを、まだ完成していない段階で他の人と共有したいと思うことがあります。",
+      "title": "ローカルホストをCloudflareのトンネルで共有する"
+    },
+    {
+      "locale": "zh",
+      "description": "有时你会想在你的本地运行应用程序准备好之前与一些人分享它。",
+      "title": "用Cloudflare隧道分享你的本地主机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時你會想在你的本地運行應用程序準備好之前與一些人分享它。",
+      "title": "用Cloudflare隧道分享你的本地主機"
+    }
+  ]
 }
