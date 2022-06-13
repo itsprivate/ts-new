@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-12T16:10:40Z",
   "image": "https://dev.to/social_previews/article/1112003.png",
   "author": "Jared White",
-  "author_url": "https://dev.to/jaredcwhite"
+  "author_url": "https://dev.to/jaredcwhite",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この👉この近く👈が現実になるのですが、今日、こっそり見ることができます。",
+      "title": "真の \"ビルドレス \"モダンWeb開発ワークフローとは？そうなんです"
+    },
+    {
+      "locale": "zh",
+      "description": "它离成为现实已经很近了，今天你可以先睹为快。",
+      "title": "真正的 \"无构建 \"的现代网络开发工作流程？哦，是的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "它離成爲現實已經很近了，今天你可以先睹爲快。",
+      "title": "真正的 \"無構建 \"的現代網絡開發工作流程？哦，是的!"
+    }
+  ]
 }

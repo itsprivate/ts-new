@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Raise your hand if you’re loving this price!!!"
+  "the_new_excerpt": "Raise your hand if you’re loving this price!!!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この価格が好きな人は手を挙げてください!!!",
+      "title": "今日も一日中買い続けています。1000ドル持っていて 一日中100ドル単位で買い続けていました 文字通り、私の自由を買っているのです。今日、自由を手放した人たちに哀悼の意を表します。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你喜欢这个价格，请举手！！。",
+      "title": "我已经买了一整天了。我有1,000美元，整天都在以100美元为单位购买。我实际上是在购买我的自由。向今天放弃自由的人表示哀悼。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你喜歡這個價格，請舉手！！。",
+      "title": "我已經買了一整天了。我有1,000美元，整天都在以100美元爲單位購買。我實際上是在購買我的自由。向今天放棄自由的人表示哀悼。"
+    }
+  ]
 }
