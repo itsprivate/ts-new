@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "毎週25k以下なら5000円は買うよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "我将在每周低于25000美元时买入5000美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我將在每週低於25000美元時買入5000美元。"
+    }
+  ]
 }
