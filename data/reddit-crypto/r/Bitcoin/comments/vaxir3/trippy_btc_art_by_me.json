@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCのアート"
+    },
+    {
+      "locale": "zh",
+      "title": "我的BTC艺术"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的BTC藝術"
+    }
+  ]
 }
