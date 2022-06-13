@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditギャラリーアプリを作りました。あなたがそれを好むことを願っています"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了这个Reddit Gallery App。希望你喜欢它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了這個Reddit Gallery App。希望你喜歡它"
+    }
+  ]
 }
