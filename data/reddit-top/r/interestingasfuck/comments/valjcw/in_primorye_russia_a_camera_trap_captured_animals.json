@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシア沿海州では、カメラトラップによって8種類の動物が一度に撮影されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "在俄罗斯滨海地区，一个摄像陷阱在一个地方捕捉到了八个不同种类的动物。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在俄羅斯濱海地區，一個攝像陷阱在一個地方捕捉到了八個不同種類的動物。"
+    }
+  ]
 }
