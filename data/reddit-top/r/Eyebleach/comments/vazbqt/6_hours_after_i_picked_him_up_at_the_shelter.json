@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シェルターで拾ってから6時間後"
+    },
+    {
+      "locale": "zh",
+      "title": "我在收容所捡到它的6小时后"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在收容所撿到它的6小時後"
+    }
+  ]
 }
