@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの鍵ではなく、あなたのコインでもない【セルシオ"
+    },
+    {
+      "locale": "zh",
+      "title": "不是你的钥匙不是你的硬币[摄氏度]"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是你的鑰匙不是你的硬幣[攝氏度]"
+    }
+  ]
 }
