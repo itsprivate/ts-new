@@ -57,5 +57,22 @@
   "original_created_at": "2022-06-12T10:23:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AJ0vcWGK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lltq5wvcklpu3ndu9kuk.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今すぐ取り入れたい10のJavaScript機能",
+      "title": "モダンなJavaScript、今日から使いたい10のこと"
+    },
+    {
+      "locale": "zh",
+      "description": "你今天应该采用的10个JavaScript特性",
+      "title": "现代JavaScript，你应该使用的10个东西，从今天开始"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你今天應該採用的10個JavaScript特性",
+      "title": "現代JavaScript，你應該使用的10個東西，從今天開始"
+    }
+  ]
 }

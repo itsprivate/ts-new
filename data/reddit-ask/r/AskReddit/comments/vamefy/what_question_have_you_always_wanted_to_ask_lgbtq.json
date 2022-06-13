@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "LGBTQ+の人たちに聞きたくても、怒らせたくないから聞かなかった質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你一直想问LGBTQ+人什么问题，但没有问，因为你不想冒犯他们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你一直想問LGBTQ+人什麼問題，但沒有問，因爲你不想冒犯他們？"
+    }
+  ]
 }
