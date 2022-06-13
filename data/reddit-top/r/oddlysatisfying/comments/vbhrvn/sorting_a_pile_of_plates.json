@@ -60,5 +60,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皿の山を仕分けする"
+    },
+    {
+      "locale": "zh",
+      "title": "对一堆盘子进行分类"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對一堆盤子進行分類"
+    }
+  ]
 }
