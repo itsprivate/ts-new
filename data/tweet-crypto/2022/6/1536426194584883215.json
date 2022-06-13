@@ -134,5 +134,22 @@
     "retweet_count": 1262,
     "favorite_count": 5509,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @kgreifeld: S&amp;P 500の全銘柄が今赤字です https://t.co/vhrfVc1NIz",
+      "retweeted_status_full_text": "S&amp;P 500のすべての銘柄が今赤字です https://t.co/vhrfVc1NIz"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @kgreifeld: S&amp;P 500中的每只股票现在都是红色的，https://t.co/vhrfVc1NIz。",
+      "retweeted_status_full_text": "S&amp;P 500中的每只股票现在都是红色的，https://t.co/vhrfVc1NIz。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @kgreifeld: S&amp;P 500中的每隻股票現在都是紅色的，https://t.co/vhrfVc1NIz。",
+      "retweeted_status_full_text": "S&amp;P 500中的每隻股票現在都是紅色的，https://t.co/vhrfVc1NIz。"
+    }
+  ]
 }
