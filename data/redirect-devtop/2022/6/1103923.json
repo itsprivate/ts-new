@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-03T14:17:24Z",
   "image": "https://dev.to/social_previews/article/1103923.png",
   "author": "Lody G Mtui",
-  "author_url": "https://dev.to/lodyne"
+  "author_url": "https://dev.to/lodyne",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "var、let、constの違い JavaScriptでは、変数は3つの方法で代入されます。",
+      "title": "JavaScriptでは'var'や'let'を作るか、'const'を維持するかのどちらかです。"
+    },
+    {
+      "locale": "zh",
+      "description": "var、let和const之间的区别 在JavaScript中，变量是用三种方式分配的。",
+      "title": "你可以在JavaScript中使用 \"var\"、\"let \"或者保留 \"const\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "var、let和const之間的區別 在JavaScript中，變量是用三種方式分配的。",
+      "title": "你可以在JavaScript中使用 \"var\"、\"let \"或者保留 \"const\"。"
+    }
+  ]
 }
