@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テオはまだローフをマスターしていませんが、その心意気と挑戦している姿がかわいいです。"
+    },
+    {
+      "locale": "zh",
+      "title": "西奥还没有完全掌握面包的制作方法，但他有这种精神，看起来很可爱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "西奧還沒有完全掌握麪包的製作方法，但他有這種精神，看起來很可愛。"
+    }
+  ]
 }
