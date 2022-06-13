@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メルマガを読むためのメールクライアントを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个阅读新闻简报的电子邮件客户端"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個閱讀新聞簡報的電子郵件客戶端"
+    }
+  ]
 }
