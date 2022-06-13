@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "暗号通貨の総市場規模が1兆円に。わずか7ヶ月前には3兆ドルでした。"
+    },
+    {
+      "locale": "zh",
+      "title": "加密货币总市值现在为1万亿美元。就在7个月前，它还是3万亿美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "加密貨幣總市值現在爲1萬億美元。就在7個月前，它還是3萬億美元。"
+    }
+  ]
 }
