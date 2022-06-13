@@ -55,5 +55,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このようなクールな方法で、人々とその文化について学ぶことができるのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这样一种了解人们和他们的文化的很酷的方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這樣一種瞭解人們和他們的文化的很酷的方式。"
+    }
+  ]
 }
