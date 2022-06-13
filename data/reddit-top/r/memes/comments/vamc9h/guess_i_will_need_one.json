@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "必要だろう"
+    },
+    {
+      "locale": "zh",
+      "title": "我想，我将需要一个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想，我將需要一個"
+    }
+  ]
 }

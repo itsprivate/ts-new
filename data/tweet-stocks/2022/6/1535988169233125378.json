@@ -27,5 +27,19 @@
   },
   "retweet_count": 30,
   "favorite_count": 250,
-  "original_created_at": "Sun Jun 12 14:11:31 +0000 2022"
+  "original_created_at": "Sun Jun 12 14:11:31 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$ethは前年同期比-61%。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "$eth是-61% ytd"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$eth是-61% ytd"
+    }
+  ]
 }
