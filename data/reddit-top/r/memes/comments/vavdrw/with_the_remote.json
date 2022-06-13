@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リモコンで"
+    },
+    {
+      "locale": "zh",
+      "title": "有了遥控器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有了遙控器"
+    }
+  ]
 }

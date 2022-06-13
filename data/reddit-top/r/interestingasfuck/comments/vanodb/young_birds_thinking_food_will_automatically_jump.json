@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "食わせ物"
+    },
+    {
+      "locale": "zh",
+      "title": "幼鸟认为食物会自动跳到它们的嘴里，因为它们的母亲这样喂它们"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幼鳥認爲食物會自動跳到它們的嘴裏，因爲它們的母親這樣餵它們"
+    }
+  ]
 }
