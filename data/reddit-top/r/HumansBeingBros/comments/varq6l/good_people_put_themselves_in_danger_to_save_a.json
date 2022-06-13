@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "善良な人々が危険を冒してまで熊を助ける。"
+    },
+    {
+      "locale": "zh",
+      "title": "善良的人们为了救一只熊而把自己置于危险之中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "善良的人們爲了救一隻熊而把自己置於危險之中"
+    }
+  ]
 }
