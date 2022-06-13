@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クジラが93K ETHを投棄し、Uniswapでイーサリアム価格フラッシュが950ドルに暴落"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊价格在Uniswap上闪崩至950美元，鲸鱼抛出93K ETH"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊價格在Uniswap上閃崩至950美元，鯨魚拋出93K ETH"
+    }
+  ]
 }

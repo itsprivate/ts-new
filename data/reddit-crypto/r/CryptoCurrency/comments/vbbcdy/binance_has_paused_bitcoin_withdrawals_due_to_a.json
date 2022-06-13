@@ -48,5 +48,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Binanceがビットコインの出金を一時停止 \"オンチェーントランザクションが停止しているため\""
+    },
+    {
+      "locale": "zh",
+      "title": "Binance \"因链上交易卡住 \"而暂停了比特币的提取"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Binance \"因鏈上交易卡住 \"而暫停了比特幣的提取"
+    }
+  ]
 }

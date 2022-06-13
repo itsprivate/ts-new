@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トップが外れると本格的になる"
+    },
+    {
+      "locale": "zh",
+      "title": "当顶端脱落时，情况就变得严重了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當頂端脫落時，情況就變得嚴重了"
+    }
+  ]
 }
