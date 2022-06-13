@@ -1,0 +1,138 @@
+{
+  "created_at": "Mon Jun 13 19:38:14 +0000 2022",
+  "id_str": "1536426194584883215",
+  "full_text": "RT @kgreifeld: every stock in the S&amp;P 500 is red right now https://t.co/vhrfVc1NIz",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "kgreifeld",
+        "name": "Katie Greifeld",
+        "id": 3420659128,
+        "id_str": "3420659128",
+        "indices": [
+          3,
+          13
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "id": 1536358789057749000,
+        "id_str": "1536358789057748995",
+        "indices": [
+          63,
+          86
+        ],
+        "media_url": "http://pbs.twimg.com/media/FVI-Lb1WIAMlBuU.png",
+        "media_url_https": "https://pbs.twimg.com/media/FVI-Lb1WIAMlBuU.png",
+        "url": "https://t.co/vhrfVc1NIz",
+        "display_url": "pic.twitter.com/vhrfVc1NIz",
+        "expanded_url": "https://twitter.com/kgreifeld/status/1536358799606431744/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 910,
+            "h": 754,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 563,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 910,
+            "h": 754,
+            "resize": "fit"
+          }
+        },
+        "source_status_id": 1536358799606431700,
+        "source_status_id_str": "1536358799606431744",
+        "source_user_id": 3420659128,
+        "source_user_id_str": "3420659128"
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407223894600302594/gBUVNH89_normal.jpg"
+  },
+  "retweet_count": 1262,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "original_created_at": "Mon Jun 13 19:12:04 +0000 2022",
+  "retweeted_status": {
+    "created_at": "Mon Jun 13 14:44:16 +0000 2022",
+    "id_str": "1536358799606431744",
+    "full_text": "every stock in the S&amp;P 500 is red right now https://t.co/vhrfVc1NIz",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1536358789057749000,
+          "id_str": "1536358789057748995",
+          "indices": [
+            48,
+            71
+          ],
+          "media_url": "http://pbs.twimg.com/media/FVI-Lb1WIAMlBuU.png",
+          "media_url_https": "https://pbs.twimg.com/media/FVI-Lb1WIAMlBuU.png",
+          "url": "https://t.co/vhrfVc1NIz",
+          "display_url": "pic.twitter.com/vhrfVc1NIz",
+          "expanded_url": "https://twitter.com/kgreifeld/status/1536358799606431744/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 910,
+              "h": 754,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 563,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 910,
+              "h": 754,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "Katie Greifeld",
+      "screen_name": "kgreifeld",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1453360495923240964/8TENF6-t_normal.jpg"
+    },
+    "retweet_count": 1262,
+    "favorite_count": 5509,
+    "possibly_sensitive": false
+  }
+}
