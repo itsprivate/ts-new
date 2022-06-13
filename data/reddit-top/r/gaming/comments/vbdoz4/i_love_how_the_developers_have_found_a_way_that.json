@@ -104,5 +104,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミニマップを見ずとも、\"フェイク \"の道路標識で道を教えてくれるのがいい（Mafia Definitve Edition）"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢开发者找到了一种方法，让我们不必一直看着小地图在路上找路，因为 \"假的 \"路标会弹出来指明方向（《黑手党》终极版）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡開發者找到了一種方法，讓我們不必一直看着小地圖在路上找路，因爲 \"假的 \"路標會彈出來指明方向（《黑手黨》終極版）。"
+    }
+  ]
 }
