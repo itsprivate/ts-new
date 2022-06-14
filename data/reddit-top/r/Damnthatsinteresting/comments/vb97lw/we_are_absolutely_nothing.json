@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは全くの無価値です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们绝对是一无所有。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們絕對是一無所有。"
+    }
+  ]
 }
