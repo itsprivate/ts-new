@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-13T09:42:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Trr9RbOU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rnn8sshpaggqoewtuidw.jpeg",
   "author": "Bobby Iliev",
-  "author_url": "https://dev.to/bobbyiliev"
+  "author_url": "https://dev.to/bobbyiliev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 本書は、Deno を利用したリアルタイムチャートの自己完結型サンプルです。",
+      "title": "Deno、WebSocket、Chart.js、Materializeを使ったライブチャートの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：这是一个由Deno提供的实时图表的独立例子，Web...",
+      "title": "用Deno、WebSockets、Chart.js和Materialize构建一个实时图表"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：這是一個由Deno提供的實時圖表的獨立例子，Web...",
+      "title": "用Deno、WebSockets、Chart.js和Materialize構建一個實時圖表"
+    }
+  ]
 }
