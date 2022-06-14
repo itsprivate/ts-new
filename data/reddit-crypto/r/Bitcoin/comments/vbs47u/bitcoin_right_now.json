@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "title": "现在的比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在的比特幣"
+    }
+  ]
 }

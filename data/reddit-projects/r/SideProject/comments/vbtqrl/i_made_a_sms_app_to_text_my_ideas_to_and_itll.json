@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm someone who always texts myself my ideas as I think of them at random\nmoments. I really enjoy the simplicity of texting ideas but I wanted a way to\nfind my old ideas so I made https://galaxi.me [https://galaxi.me/]. Try it out\nand let me know what you think!\n\nJust text an idea to:…"
+  "the_new_excerpt": "I'm someone who always texts myself my ideas as I think of them at random\nmoments. I really enjoy the simplicity of texting ideas but I wanted a way to\nfind my old ideas so I made https://galaxi.me [https://galaxi.me/]. Try it out\nand let me know what you think!\n\nJust text an idea to:…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はいつも、思いついたことを適当にメールしている人間です。\nいつもメールを送っています。アイデアをテキストで送るというシンプルな方法はとても気に入っているのですが\nhttps://galaxi.me [https://galaxi.me/]を作りました。試してみてください。\nそして、あなたの考えを教えてください!\n\nアイデアをテキストで送るだけ:...",
+      "title": "SMSアプリを作って、自分のアイデアをテキストで送ると、将来ランダムな間隔でテキストで返してくれる。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是一个总是给自己发短信的人，因为我在随机的时刻想到了这些想法。\n的时刻。我真的很喜欢发短信表达想法的简单方式，但我希望有一种方法来\n找到我以前的想法，所以我做了https://galaxi.me [https://galaxi.me/]。试试吧\n并让我知道你的想法!\n\n只要把想法发到：...",
+      "title": "我做了一个短信应用，把我的想法发给它，它就会在未来的随机时间段里给我回短信"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是一個總是給自己發短信的人，因爲我在隨機的時刻想到了這些想法。\n的時刻。我真的很喜歡發短信表達想法的簡單方式，但我希望有一種方法來\n找到我以前的想法，所以我做了https://galaxi.me [https://galaxi.me/]。試試吧\n並讓我知道你的想法!\n\n只要把想法發到：...",
+      "title": "我做了一個短信應用，把我的想法發給它，它就會在未來的隨機時間段裏給我回短信"
+    }
+  ]
 }
