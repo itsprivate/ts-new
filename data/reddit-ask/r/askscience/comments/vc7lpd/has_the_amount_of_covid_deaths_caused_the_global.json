@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVIDによる死亡の量は、他の原因による死亡と合わせて、世界の人口を減少させたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当与其他原因造成的死亡相结合时，COVID的死亡数量是否导致全球人口下降？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當與其他原因造成的死亡相結合時，COVID的死亡數量是否導致全球人口下降？"
+    }
+  ]
 }

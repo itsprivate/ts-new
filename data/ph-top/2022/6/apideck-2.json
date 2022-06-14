@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-14T07:06:37Z"
+  "original_createdAt": "2022-06-14T07:06:37Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Apideckは、B2B SaaS企業が1つのプラットフォームを通じてインテグレーションを構築し、販売できるようにするためのインフラ構築ブロックを提供します。私たちの統一APIは、より良い開発者体験のために異なるソフトウェアカテゴリ間でAPIを標準化しています。",
+      "tagline": "CRM、会計、HRIS、ATSの統合を構築するための1つのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "Apideck为B2B SaaS公司提供基础设施建设模块，使他们能够通过一个平台建立和销售集成。我们的统一API将不同软件类别的API标准化，以获得更好的开发者体验。",
+      "tagline": "用一个API来建立CRM、会计、HRIS和ATS的整合。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Apideck爲B2B SaaS公司提供基礎設施建設模塊，使他們能夠通過一個平臺建立和銷售集成。我們的統一API將不同軟件類別的API標準化，以獲得更好的開發者體驗。",
+      "tagline": "用一個API來建立CRM、會計、HRIS和ATS的整合。"
+    }
+  ]
 }

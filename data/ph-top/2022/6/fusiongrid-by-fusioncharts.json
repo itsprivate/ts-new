@@ -97,5 +97,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-14T07:10:30Z"
+  "original_createdAt": "2022-06-14T07:10:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FusionGridは、Webやモバイルアプリケーションのための、非常に直感的でカスタマイズ可能なJavaScriptデータグリッドコンポーネントです。FusionChartsと同じデータストアで動作するように設計されており、ダッシュボードのニーズに最適な追加コンポーネントです。",
+      "tagline": "ウェブ＆モバイルアプリケーション用JavaScriptデータグリッドコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "FusionGrid是高度直观和可定制的JavaScript数据网格组件，适用于Web和移动应用程序。它的设计与你已经使用的FusionCharts的数据存储相同，使它成为满足你的仪表盘需求的完美补充。",
+      "tagline": "用于网络和移动应用的JavaScript数据网格组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FusionGrid是高度直觀和可定製的JavaScript數據網格組件，適用於Web和移動應用程序。它的設計與你已經使用的FusionCharts的數據存儲相同，使它成爲滿足你的儀表盤需求的完美補充。",
+      "tagline": "用於網絡和移動應用的JavaScript數據網格組件"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Doodleは広告だらけでほとんど使えないので...ちょっと前にNopsieというシンプルな代用品を作りました。友人たちの間でも評判がいいようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "Doodle充满了广告，几乎无法使用......所以我不久前建立了一个简单的替代品，叫做Nopsie。它在朋友中得到了很好的评价。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Doodle充滿了廣告，幾乎無法使用......所以我不久前建立了一個簡單的替代品，叫做Nopsie。它在朋友中得到了很好的評價。"
+    }
+  ]
 }
