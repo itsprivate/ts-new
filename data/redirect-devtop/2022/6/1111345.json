@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-11T16:59:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e6xEEXiq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l8dq6hgnxvof839sps5a.png",
   "author": "Eagle Dev",
-  "author_url": "https://dev.to/eagle1309"
+  "author_url": "https://dev.to/eagle1309",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PNPMは最も効率的なパッケージマネージャと言われています。私も遅いnpmから...に乗り換えようと思っています。",
+      "title": "PNPMを使用していますか？使っている場合はその理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "据说PNPM是最有效的软件包管理器。我也在考虑从较慢的npm切换到...",
+      "title": "你是否使用PNPM？如果是，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "據說PNPM是最有效的軟件包管理器。我也在考慮從較慢的npm切換到...",
+      "title": "你是否使用PNPM？如果是，爲什麼？"
+    }
+  ]
 }
