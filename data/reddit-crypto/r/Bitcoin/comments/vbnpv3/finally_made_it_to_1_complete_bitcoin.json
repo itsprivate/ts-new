@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ようやくビットコイン1枚完成までこぎつけました。"
+    },
+    {
+      "locale": "zh",
+      "title": "终于做到了1个完整的比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "終於做到了1個完整的比特幣。"
+    }
+  ]
 }
