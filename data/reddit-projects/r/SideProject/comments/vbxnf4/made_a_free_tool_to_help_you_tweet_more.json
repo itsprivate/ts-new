@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "より安定したツイートをするための無料ツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "做了一个免费工具，帮助你更持续地发推特"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做了一個免費工具，幫助你更持續地發推特"
+    }
+  ]
 }
