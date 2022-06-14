@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-13T10:30:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NH4h6KOT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://roboleary.net/assets/img/blog/2022-06-13-migrate-from-vscode-to-vscodium-on-linux/cover.png",
   "author": "Rob OLeary",
-  "author_url": "https://dev.to/robole"
+  "author_url": "https://dev.to/robole",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VS Codiumへの切り替えは、それほど手間がかかるものではありません。ただ、インストールして、あなたの...",
+      "title": "LinuxでVS CodeからVS Codiumに簡単に移行する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "转换到VS Codium不需要太多的努力。你只需要安装它，并复制你的 \"小 \"字，就可以了。",
+      "title": "在Linux上无痛苦地从VS Code迁移到VS Codium"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "轉換到VS Codium不需要太多的努力。你只需要安裝它，並複製你的 \"小 \"字，就可以了。",
+      "title": "在Linux上無痛苦地從VS Code遷移到VS Codium"
+    }
+  ]
 }
