@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I missed the 2018-2019 vibes"
+  "the_new_excerpt": "I missed the 2018-2019 vibes",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "2018-2019のバイブスを懐かしむ",
+      "title": "このサブは、高揚感より落ち込みの方がずっといい。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我错过了2018-2019年的氛围",
+      "title": "这个孩子的抑郁症比高血压好得多。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我錯過了2018-2019年的氛圍",
+      "title": "這個孩子的抑鬱症比高血壓好得多。"
+    }
+  ]
 }

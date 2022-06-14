@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "This can be like an awkward phase or like a shy phase, just a phase you wished\nyou could go back and change"
+  "the_new_excerpt": "This can be like an awkward phase or like a shy phase, just a phase you wished\nyou could go back and change",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、気まずい段階のようでもあり、内気な段階のようでもあり、あなたが望んだ段階なのです。\n戻って変えることができたら",
+      "title": "人生でスキップしておけばよかったと思うような局面は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这可能是一个尴尬的阶段或像一个害羞的阶段，只是你希望的一个阶段\n你可以回到过去并改变",
+      "title": "你希望自己跳过的人生阶段是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這可能是一個尷尬的階段或像一個害羞的階段，只是你希望的一個階段\n你可以回到過去並改變",
+      "title": "你希望自己跳過的人生階段是什麼？"
+    }
+  ]
 }
