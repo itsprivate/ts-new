@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1655150496,
-  "the_new_excerpt": "Just tried to make a trade, but I kept getting an error message. The site also\nwasn't showing any amounts in settlement funds"
+  "the_new_excerpt": "Just tried to make a trade, but I kept getting an error message. The site also\nwasn't showing any amounts in settlement funds",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今、取引をしようとしたのですが、エラーメッセージが出続けています。また、サイトには\n決済資金が表示されない",
+      "title": "Vanguardのサイトがダウンした人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "刚刚试图进行交易，但我一直得到一个错误信息。该网站还\n没有显示任何结算资金的数额",
+      "title": "还有谁的Vanguard网站关闭了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "剛剛試圖進行交易，但我一直得到一個錯誤信息。該網站還\n沒有顯示任何結算資金的數額",
+      "title": "還有誰的Vanguard網站關閉了嗎？"
+    }
+  ]
 }

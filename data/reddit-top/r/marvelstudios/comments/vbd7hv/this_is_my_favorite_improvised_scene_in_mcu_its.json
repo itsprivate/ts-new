@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MCUで一番好きな即興のシーンです、絶対面白いです。あなたはどうですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我在MCU中最喜欢的即兴表演场景，它绝对是搞笑的。你的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我在MCU中最喜歡的即興表演場景，它絕對是搞笑的。你的是什麼？"
+    }
+  ]
 }
