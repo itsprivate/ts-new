@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-14T07:27:16Z"
+  "original_createdAt": "2022-06-14T07:27:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Type Studioは、ブラウザ上でオンライン動作するテキストベースのビデオエディターです。",
+      "tagline": "コンテンツにフォーカスした動画編集の最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Type Studio是一个基于文本的视频编辑器，在你的浏览器中在线运行。",
+      "tagline": "最简单的方法来编辑你的内容重点视频"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Type Studio是一個基於文本的視頻編輯器，在你的瀏覽器中在線運行。",
+      "tagline": "最簡單的方法來編輯你的內容重點視頻"
+    }
+  ]
 }

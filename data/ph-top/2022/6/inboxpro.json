@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-14T07:01:00Z"
+  "original_createdAt": "2022-06-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "InboxProは、Gmailを改善し、生産性を向上させるためのツール群です。AI搭載のメールアシスタント、カレンダーのスケジューリング、トラッキング、テンプレート、フォローアップ、メール分析...。",
+      "tagline": "生産性を向上させ、Gmailを強力なマシンに変身させる"
+    },
+    {
+      "locale": "zh",
+      "description": "InboxPro是一套用于改善你的Gmail和提高你的生产力的工具。人工智能驱动的电子邮件助理，日历调度，跟踪，模板，跟进，电子邮件分析...",
+      "tagline": "提高你的生产力，把Gmail变成一台强大的机器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "InboxPro是一套用於改善你的Gmail和提高你的生產力的工具。人工智能驅動的電子郵件助理，日曆調度，跟蹤，模板，跟進，電子郵件分析...",
+      "tagline": "提高你的生產力，把Gmail變成一臺強大的機器"
+    }
+  ]
 }
