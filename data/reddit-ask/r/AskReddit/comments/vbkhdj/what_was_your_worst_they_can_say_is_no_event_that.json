@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「相手が言う最悪はノー」よりも悪い結果になった出来事は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的 \"他们能说的最糟糕的拒绝 \"事件是什么，其结局比 \"拒绝 \"更糟糕？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的 \"他們能說的最糟糕的拒絕 \"事件是什麼，其結局比 \"拒絕 \"更糟糕？"
+    }
+  ]
 }
