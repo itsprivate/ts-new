@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "1945 election*"
+  "the_new_excerpt": "1945 election*",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "1945年選挙*。",
+      "title": "戦争に勝つために重要な役割を果たしたチャーチルは、なぜ1945年に敗れたのか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "1945年选举*",
+      "title": "丘吉尔在赢得战争的过程中发挥了重要的作用，他是如何失去1945年的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "1945年選舉*",
+      "title": "丘吉爾在贏得戰爭的過程中發揮了重要的作用，他是如何失去1945年的？"
+    }
+  ]
 }
