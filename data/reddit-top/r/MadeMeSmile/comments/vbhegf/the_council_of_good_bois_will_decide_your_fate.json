@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グッドボワの評議会があなたの運命を決定します"
+    },
+    {
+      "locale": "zh",
+      "title": "好博斯理事会将决定你的命运"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好博斯理事會將決定你的命運"
+    }
+  ]
 }
