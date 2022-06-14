@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが2万ドル突破の危機を迎え、過去24時間で130万ドル以上の暗号が清算されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "由于比特币有可能突破2万美元，过去24小时内有超过1,300,000,000美元的加密货币被清算。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由於比特幣有可能突破2萬美元，過去24小時內有超過1,300,000,000美元的加密貨幣被清算。"
+    }
+  ]
 }
