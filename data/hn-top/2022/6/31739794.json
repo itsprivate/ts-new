@@ -13,5 +13,19 @@
   ],
   "objectID": "31739794",
   "original_created_at": "2022-06-14T14:12:20.000Z",
-  "image": ""
+  "image": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大規模プログラムではexec()なしのfork()は危険(2016年)"
+    },
+    {
+      "locale": "zh",
+      "title": "没有exec()的Fork()在大型程序中是危险的(2016)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "沒有exec()的Fork()在大型程序中是危險的(2016)"
+    }
+  ]
 }
