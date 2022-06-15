@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-14T07:10:22Z",
   "image": "https://dev.to/social_previews/article/1113672.png",
   "author": "Dantechz",
-  "author_url": "https://dev.to/dantechnologics"
+  "author_url": "https://dev.to/dantechnologics",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フォローミー (https://github.com/dan3266)",
+      "title": "あなたのGitHubのプロフィールは？ここで共有しましょう"
+    },
+    {
+      "locale": "zh",
+      "description": "关注我 (https://github.com/dan3266)",
+      "title": "你的GitHub简介是什么？在这里分享吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關注我 (https://github.com/dan3266)",
+      "title": "你的GitHub簡介是什麼？在這裏分享吧!"
+    }
+  ]
 }
