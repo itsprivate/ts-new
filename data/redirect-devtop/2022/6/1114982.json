@@ -46,5 +46,22 @@
   "original_created_at": "2022-06-15T13:28:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T1KWi6Vb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u660dzthxcjp108m9qlv.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前置き 私たちは、DEVの優れた常緑樹のガイドをカタログ化する実験的なプロジェクトを実行しています。いくつかの...",
+      "title": "週末に複雑なgitコマンドを使う人はほとんどいませんし、それを証明するデータも持っています。"
+    },
+    {
+      "locale": "zh",
+      "description": "序言。我们一直在运行一个实验性项目，对DEV上的优秀常青指南进行分类。一些...",
+      "title": "人们很少在周末使用复杂的git命令，我有数据可以证明这一点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "序言。我們一直在運行一個實驗性項目，對DEV上的優秀常青指南進行分類。一些...",
+      "title": "人們很少在週末使用複雜的git命令，我有數據可以證明這一點。"
+    }
+  ]
 }
