@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-13T10:08:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Eir7h5e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/114rvipun5v434but0rs.jpg",
   "author": "Prashant Ghildiyal",
-  "author_url": "https://dev.to/pghildiyal"
+  "author_url": "https://dev.to/pghildiyal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新興のCloud-Native環境では、問答無用でKubernetesがあふれています。それは...",
+      "title": "Kubernetesの管理を容易にする7つのツール"
+    },
+    {
+      "locale": "zh",
+      "description": "在新兴的云-原生环境中，Kubernetes毫无疑问地无处不在。它已经...",
+      "title": "7个工具让Kubernetes管理变得简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在新興的雲-原生環境中，Kubernetes毫無疑問地無處不在。它已經...",
+      "title": "7個工具讓Kubernetes管理變得簡單"
+    }
+  ]
 }
