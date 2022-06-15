@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新記録達成! 855,000のビットコインウォレットが1BTCを超えるホドリング // 現在43日間で20,000の増加"
+    },
+    {
+      "locale": "zh",
+      "title": "新的记录! 855,000个比特币钱包闪耀在1个BTC以上 // 目前43天内增加了20,000个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "新的記錄! 855,000個比特幣錢包閃耀在1個BTC以上 // 目前43天內增加了20,000個"
+    }
+  ]
 }
