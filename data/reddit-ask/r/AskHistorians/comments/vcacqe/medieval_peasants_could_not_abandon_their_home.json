@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中世の農民は、土地に対する義務があったため、家を捨てることができなかった。鍛冶屋などの職人もそうだったのだろうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "中世纪的农民不能放弃他们的家，因为他们对土地有责任。这是否也适用于铁匠和其他商人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中世紀的農民不能放棄他們的家，因爲他們對土地有責任。這是否也適用於鐵匠和其他商人？"
+    }
+  ]
 }
