@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "価格が30K以上に戻るまで、1日100ドルずつ買っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我每天买100美元，直到价格回到30K以上。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我每天買100美元，直到價格回到30K以上。"
+    }
+  ]
 }
