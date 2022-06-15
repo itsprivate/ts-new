@@ -52,5 +52,22 @@
   "original_created_at": "2022-03-25T15:04:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iKpRwwTs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1sj28pomk4sxx911u5hk.jpg",
   "author": "Anthony Viard 🥑",
-  "author_url": "https://dev.to/avdev4j"
+  "author_url": "https://dev.to/avdev4j",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項 この記事はModSquad Communityの協力により執筆されたものです。The...",
+      "title": "Angularを使ってマイクロフロントエンドを作る"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明 这篇文章是在ModSquad社区的帮助下写的。这篇文章是由ModSquad社区帮助撰写的。",
+      "title": "使用Angular来创建一个微型前端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明 這篇文章是在ModSquad社區的幫助下寫的。這篇文章是由ModSquad社區幫助撰寫的。",
+      "title": "使用Angular來創建一個微型前端"
+    }
+  ]
 }
