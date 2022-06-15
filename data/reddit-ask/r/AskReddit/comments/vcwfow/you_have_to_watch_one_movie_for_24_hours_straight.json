@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一つの映画を24時間見続けないと、家族が死ぬ。スナック菓子は用意されています。何を選ぶんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你必须连续24小时观看一部电影，否则你的家人就会死亡。提供零食。你要选择什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你必須連續24小時觀看一部電影，否則你的家人就會死亡。提供零食。你要選擇什麼？"
+    }
+  ]
 }
