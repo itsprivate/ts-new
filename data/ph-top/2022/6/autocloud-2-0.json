@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-15T07:07:03Z"
+  "original_createdAt": "2022-06-15T07:07:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AutoCloudにより、DevOpsチームは、ビジネスニーズに合わせてカスタマイズされた、安全で本番環境に適したIACを自動的に生成することができます。デプロイ後は、詳細なダイアグラムとGraphQL APIによるマルチクラウドの可視化、さらにコンプライアンス、セキュリティ、およびネットワーク分析が可能になります。",
+      "tagline": "AWS、Azure、Google Cloudのための完全なCloudOps"
+    },
+    {
+      "locale": "zh",
+      "description": "AutoCloud允许DevOps团队自动生成安全的、生产就绪的IAC，并根据其业务需求进行定制。一旦部署，就可以通过详细的图表和GraphQL API获得多云可视性，以及合规性、安全性和网络分析。",
+      "tagline": "为AWS、Azure和Google云提供完整的云计算服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AutoCloud允許DevOps團隊自動生成安全的、生產就緒的IAC，並根據其業務需求進行定製。一旦部署，就可以通過詳細的圖表和GraphQL API獲得多雲可視性，以及合規性、安全性和網絡分析。",
+      "tagline": "爲AWS、Azure和Google雲提供完整的雲計算服務"
+    }
+  ]
 }
