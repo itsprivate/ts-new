@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-15T10:29:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ovWWHS_z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zex89464rgfil4pkqnu8.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerは、開発者がすべてのアプリケーションをコンテナ内にパッケージ化する能力を提供します。これらの...",
+      "title": "NodeとReactのアプリケーションでDockerを使用する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Docker为开发者提供了将其所有应用程序打包到容器内的能力。这些...",
+      "title": "如何在你的Node和React应用程序中使用Docker"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Docker爲開發者提供了將其所有應用程序打包到容器內的能力。這些...",
+      "title": "如何在你的Node和React應用程序中使用Docker"
+    }
+  ]
 }

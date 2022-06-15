@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの一番の魅力は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你身上最吸引人的地方是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你身上最吸引人的地方是什麼？"
+    }
+  ]
 }
