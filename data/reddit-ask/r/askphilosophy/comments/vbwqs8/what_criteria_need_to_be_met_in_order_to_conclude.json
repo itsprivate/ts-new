@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "As you’ve probably read in the news, a google engineer was recently fired after\nclaiming that google’s chatbot is sentient\n[https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine].\n\nGoogle denies the claim. A Google spokesperson says: “Our team,…"
+  "the_new_excerpt": "As you’ve probably read in the news, a google engineer was recently fired after\nclaiming that google’s chatbot is sentient\n[https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine].\n\nGoogle denies the claim. A Google spokesperson says: “Our team,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ニュースでご覧になった方も多いと思いますが、先日、あるgoogleのエンジニアが解雇されました。\nGoogleのチャットボットは知覚があると主張し、解雇されました。\n[https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine]。\n\nGoogleはこの主張を否定しています。Googleの広報担当者は、「私たちのチーム、...",
+      "title": "AIが感覚を持つと結論づけるには、あるいは持たないと結論づけるには、どのような基準を満たす必要があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "正如你可能在新闻中读到的那样，一名谷歌工程师最近被解雇了，因为他声称谷歌的聊天机器人是有智慧的。\n声称谷歌的聊天机器人是有知觉的\n[https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine]。\n\n谷歌否认了这一说法。谷歌的一位发言人说：\"我们的团队，...",
+      "title": "需要满足什么标准才能得出人工智能有知觉的结论，或者得出它没有知觉的结论？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "正如你可能在新聞中讀到的那樣，一名谷歌工程師最近被解僱了，因爲他聲稱谷歌的聊天機器人是有智慧的。\n聲稱谷歌的聊天機器人是有知覺的\n[https://amp.theguardian.com/technology/2022/jun/12/google-engineer-ai-bot-sentient-blake-lemoine]。\n\n谷歌否認了這一說法。谷歌的一位發言人說：\"我們的團隊，...",
+      "title": "需要滿足什麼標準才能得出人工智能有知覺的結論，或者得出它沒有知覺的結論？"
+    }
+  ]
 }
