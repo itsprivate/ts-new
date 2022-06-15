@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モグラは掘ることに特化しているため、あまりうまく歩けないのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "鼹鼠在挖掘方面非常专业，它们不能很好地行走。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鼴鼠在挖掘方面非常專業，它們不能很好地行走。"
+    }
+  ]
 }
