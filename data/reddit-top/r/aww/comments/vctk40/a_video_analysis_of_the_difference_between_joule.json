@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ジュールがケルビンに、ケルビンがジュールに接合することの違いを動画で解析しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "关于焦耳加入开尔文和开尔文加入焦耳的区别的视频分析。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "關於焦耳加入開爾文和開爾文加入焦耳的區別的視頻分析。"
+    }
+  ]
 }

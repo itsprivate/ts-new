@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "How often does that kind of thing really happen IRL?"
+  "the_new_excerpt": "How often does that kind of thing really happen IRL?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そういうことが、本当にIRLではよくあることなのでしょうか？",
+      "title": "いつか3Pをしたいと願うのは現実的なことなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这种事情在IRL中真正发生的频率是多少？",
+      "title": "希望有一天能有3人行，这是否现实？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這種事情在IRL中真正發生的頻率是多少？",
+      "title": "希望有一天能有3人行，這是否現實？"
+    }
+  ]
 }
