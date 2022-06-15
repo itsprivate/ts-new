@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-15T12:34:08Z"
+  "original_createdAt": "2022-06-15T12:34:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "190ページのeBook 👉 70以上の実際のユースケースと例のキュレーションリスト 👉 動作するデモを含むプライベートCodePenリンクへのアクセス。本書は、まず事例を提示し、その後コンセプトを学ぶ「Problem Based Learning」方式をとっています。",
+      "tagline": "CSS FlexboxとGridでコンポーネント構築のプロになる"
+    },
+    {
+      "locale": "zh",
+      "description": "👉 190页电子书 👉策划了70多个真实世界的使用案例和例子 👉访问带有工作演示的私人CodePen链接。本书采用了 \"基于问题的学习 \"方法，首先向你展示一个例子，然后再教你这个概念。",
+      "tagline": "成为使用CSS Flexbox和Grid构建组件的专家"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "👉 190頁電子書 👉策劃了70多個真實世界的使用案例和例子 👉訪問帶有工作演示的私人CodePen鏈接。本書採用了 \"基於問題的學習 \"方法，首先向你展示一個例子，然後再教你這個概念。",
+      "tagline": "成爲使用CSS Flexbox和Grid構建組件的專家"
+    }
+  ]
 }
