@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-14T08:55:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t7aYQJHU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjxms2f3zkxj0jxlai3p.png",
   "author": "Max Khamrovskyi",
-  "author_url": "https://dev.to/maksim36ua"
+  "author_url": "https://dev.to/maksim36ua",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "より少ないコードでフルスタックなWebアプリケーションを開発するための新しいプログラミング言語、Waspを紹介します。 Waspは...",
+      "title": "Wasp - 定型文のないフルスタックなJavascriptウェブアプリケーションを開発するための言語。"
+    },
+    {
+      "locale": "zh",
+      "description": "认识一下Wasp：一种新的编程语言，可以用更少的代码开发全栈式网络应用。 Wasp是一种新的编程语言。",
+      "title": "Wasp - 用于开发全栈式Javascript网络应用的语言，没有模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "認識一下Wasp：一種新的編程語言，可以用更少的代碼開發全棧式網絡應用。 Wasp是一種新的編程語言。",
+      "title": "Wasp - 用於開發全棧式Javascript網絡應用的語言，沒有模板"
+    }
+  ]
 }
