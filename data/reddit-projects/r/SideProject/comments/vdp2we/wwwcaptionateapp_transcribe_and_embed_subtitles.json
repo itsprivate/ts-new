@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "www.captionate.app - あなたのビデオに自動的に字幕を転写して埋め込みます。"
+    },
+    {
+      "locale": "zh",
+      "title": "www.captionate.app - 自动转录和嵌入字幕到你的视频。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "www.captionate.app - 自動轉錄和嵌入字幕到你的視頻。"
+    }
+  ]
 }
