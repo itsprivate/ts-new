@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの好きなテレビパパは誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢的电视爸爸是谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡的電視爸爸是誰？"
+    }
+  ]
 }

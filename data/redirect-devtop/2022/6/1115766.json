@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-16T08:58:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5VmfTP2z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hs1qmpz43vgedbbfgib5.png",
   "author": "Andrew Baisden",
-  "author_url": "https://dev.to/andrewbaisden"
+  "author_url": "https://dev.to/andrewbaisden",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ESLintとPrettierは、コード解析を行う上で、かなり有名なツールですが...。",
+      "title": "ESLintとPrettierを使ったコード解析と書式設定の方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当谈到做代码分析时，ESLint和Prettier几乎是两个最流行的工具...",
+      "title": "如何使用ESLint和Prettier进行代码分析和格式化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當談到做代碼分析時，ESLint和Prettier幾乎是兩個最流行的工具...",
+      "title": "如何使用ESLint和Prettier進行代碼分析和格式化"
+    }
+  ]
 }

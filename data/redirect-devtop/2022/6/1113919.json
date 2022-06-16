@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-14T12:18:56Z",
   "image": "https://dev.to/social_previews/article/1113919.png",
   "author": "Wulfi",
-  "author_url": "https://dev.to/wulfi"
+  "author_url": "https://dev.to/wulfi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、Django プロジェクトをセットアップして API を作成する方法を学びます。",
+      "title": "DjangoでAPIを構築するためのステップバイステップガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "本教程将教你如何设置一个Django项目，并创建一个API，以回报你的朋友。",
+      "title": "在Django中构建API的一步一步的指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本教程將教你如何設置一個Django項目，並創建一個API，以回報你的朋友。",
+      "title": "在Django中構建API的一步一步的指南"
+    }
+  ]
 }
