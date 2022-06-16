@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はまだ元気だ"
+    },
+    {
+      "locale": "zh",
+      "title": "他仍然很好，但"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他仍然很好，但"
+    }
+  ]
 }
