@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "e.g. routes like San Francisco to LA or New York to Boston for example."
+  "the_new_excerpt": "e.g. routes like San Francisco to LA or New York to Boston for example.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例）サンフランシスコからLA、ニューヨークからボストンなどのルートがあります。",
+      "title": "なぜアメリカは本当に高速鉄道をやらないのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，像旧金山到洛杉矶或纽约到波士顿这样的路线。",
+      "title": "为什么美国不真正做高铁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，像舊金山到洛杉磯或紐約到波士頓這樣的路線。",
+      "title": "爲什麼美國不真正做高鐵？"
+    }
+  ]
 }
