@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1,100人のコインベース社員が、仕事のメールからロックアウトされ、職を失うことを知りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "1,100名Coinbase员工在被锁住工作邮箱时得知他们将失去工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "1,100名Coinbase員工在被鎖住工作郵箱時得知他們將失去工作。"
+    }
+  ]
 }
