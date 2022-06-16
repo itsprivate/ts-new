@@ -70,5 +70,19 @@
   "retweet_count": 41,
   "favorite_count": 239,
   "possibly_sensitive": false,
-  "original_created_at": "Thu Jun 16 00:44:05 +0000 2022"
+  "original_created_at": "Thu Jun 16 00:44:05 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "BTC\n https://t.co/KY0kW1haKi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "$BTC\n https://t.co/KY0kW1haKi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$BTC\n https://t.co/KY0kW1haKi"
+    }
+  ]
 }
