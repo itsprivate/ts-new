@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたの家に、どこにでも通じるドアがあるとしたら、あなたはどこを選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在你的房子里有一扇额外的门，可以开到任何地方，你会选择让它通往哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在你的房子裏有一扇額外的門，可以開到任何地方，你會選擇讓它通往哪裏？"
+    }
+  ]
 }
