@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Trici - 開発者があらゆる中断から2分以内に回復できる生産性向上ツール!"
+    },
+    {
+      "locale": "zh",
+      "title": "Trici - 生产力工具，帮助开发人员在2分钟内从任何中断中恢复过来!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Trici - 生產力工具，幫助開發人員在2分鐘內從任何中斷中恢復過來!"
+    }
+  ]
 }
