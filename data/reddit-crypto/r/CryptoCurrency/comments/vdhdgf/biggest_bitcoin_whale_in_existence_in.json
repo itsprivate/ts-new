@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現存する最大のビットコインホエールが蓄積モードに、20,900,000ドルのBTCを備蓄"
+    },
+    {
+      "locale": "zh",
+      "title": "现存最大的比特币鲸鱼进入积累模式，储存了20,900,000美元的BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現存最大的比特幣鯨魚進入積累模式，儲存了20,900,000美元的BTC"
+    }
+  ]
 }
