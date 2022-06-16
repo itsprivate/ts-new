@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-13T15:42:24Z",
   "image": "https://dev.to/social_previews/article/1113080.png",
   "author": "Stas Melnikov",
-  "author_url": "https://dev.to/melnik909"
+  "author_url": "https://dev.to/melnik909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは。 今回はポジションプロパティについてお話したいと思います! 混乱させるようなニュアンスは全て考慮します...",
+      "title": "CSSは魔法ではありません。よくある失敗を避けるためのpositionプロパティの全知識"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，伙计们!  我想谈一谈位置属性! 我们将考虑所有使人困惑的细微差别...",
+      "title": "CSS并不神奇。关于位置属性的所有提示，避免常见错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，夥計們!  我想談一談位置屬性! 我們將考慮所有使人困惑的細微差別...",
+      "title": "CSS並不神奇。關於位置屬性的所有提示，避免常見錯誤"
+    }
+  ]
 }

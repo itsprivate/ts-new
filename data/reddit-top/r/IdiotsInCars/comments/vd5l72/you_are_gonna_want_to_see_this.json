@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "きっと見たくなるはず!"
+    },
+    {
+      "locale": "zh",
+      "title": "你会想看这个的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會想看這個的!"
+    }
+  ]
 }
