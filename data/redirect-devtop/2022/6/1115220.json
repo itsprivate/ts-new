@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-15T16:46:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b4LlzVZp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aadm5imbhedftzwnl8d2.png",
   "author": "Alvaro Montoro",
-  "author_url": "https://dev.to/alvaromontoro"
+  "author_url": "https://dev.to/alvaromontoro",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Internet Explorer終了記念スペシャルコミック",
+      "title": "IEの死（ウェブコミック）"
+    },
+    {
+      "locale": "zh",
+      "description": "为IE浏览器的终结而创作的特别漫画",
+      "title": "IE之死（网络漫画）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲IE瀏覽器的終結而創作的特別漫畫",
+      "title": "IE之死（網絡漫畫）"
+    }
+  ]
 }
