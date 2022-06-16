@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "津波のような印象を受けました。こんな雲は見たことがありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的印象是，这是一场海啸，我以前从未见过这样的云层。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的印象是，這是一場海嘯，我以前從未見過這樣的雲層。"
+    }
+  ]
 }
