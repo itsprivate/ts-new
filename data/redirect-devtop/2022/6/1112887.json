@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-13T13:38:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0jG4QU39--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0f8hdznf2rmkoyii3ayi.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptで反復処理を行う方法はたくさんあります。最も一般的なものを見てみましょう。",
+      "title": "JavaScriptでループを使う方法を学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，有许多迭代的方法。让我们看看最常见的几种。",
+      "title": "学习如何在JavaScript中使用循环"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，有許多迭代的方法。讓我們看看最常見的幾種。",
+      "title": "學習如何在JavaScript中使用循環"
+    }
+  ]
 }
