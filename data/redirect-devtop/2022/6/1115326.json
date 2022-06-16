@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-15T20:30:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v0ztwH-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bkiyz7lvdbrp2nr4plo.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私はすべてのCodeLandに参加したことがあります。それは最高のものでした...",
+      "title": "CodeLandは特別なんだ。"
+    },
+    {
+      "locale": "zh",
+      "description": "我已经参加了每一次CodeLand--在我正式参与其中之前。它是最好的地方之一...",
+      "title": "CodeLand很特别，我不是随便说说的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我已經參加了每一次CodeLand--在我正式參與其中之前。它是最好的地方之一...",
+      "title": "CodeLand很特別，我不是隨便說說的。"
+    }
+  ]
 }
