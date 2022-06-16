@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Note: I am not a vegan, just curious."
+  "the_new_excerpt": "Note: I am not a vegan, just curious.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "注：私は菜食主義者ではありません、ただ興味があるだけです。",
+      "title": "なぜ、牛や豚、鶏などの摂取は許されて、犬や猫の摂取は違法なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "注：我不是素食主义者，只是好奇。",
+      "title": "为什么食用牛、猪、鸡等可以接受，而食用狗和猫则是非法的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "注：我不是素食主義者，只是好奇。",
+      "title": "爲什麼食用牛、豬、雞等可以接受，而食用狗和貓則是非法的？"
+    }
+  ]
 }
