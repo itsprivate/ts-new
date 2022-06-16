@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-16T10:24:19Z"
+  "original_createdAt": "2022-06-16T10:24:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "No Code Pagesは、コード不要のツールで作成されたランディングページのライブラリーを提供します。",
+      "tagline": "ノーコード愛好家のためのライブラリ"
+    },
+    {
+      "locale": "zh",
+      "description": "无代码页面为你提供了一个用无代码工具创建的登陆页面库。",
+      "tagline": "无代码爱好者的图书馆"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無代碼頁面爲你提供了一個用無代碼工具創建的登陸頁面庫。",
+      "tagline": "無代碼愛好者的圖書館"
+    }
+  ]
 }
