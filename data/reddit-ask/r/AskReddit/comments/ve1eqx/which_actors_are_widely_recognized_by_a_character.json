@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "本名ではなく、演じたキャラクターで広く認知されている俳優は誰でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些演员是通过他们所扮演的角色而不是通过他们的真名被广泛认可的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些演員是通過他們所扮演的角色而不是通過他們的真名被廣泛認可的？"
+    }
+  ]
 }
