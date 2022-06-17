@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-17T07:00:00Z"
+  "original_createdAt": "2022-06-17T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Spreadlyは、ダイナミックなデジタル名刺を作成することができるツールです。物理的なNFCカードを入手するか、Apple walletにQRコードを追加して、他の人が簡単にあなたのリンクをチェックし、連絡先に追加できるようにします。",
+      "tagline": "NFC＋QR名刺"
+    },
+    {
+      "locale": "zh",
+      "description": "Spreadly是一个能让您创建动态、数字名片的工具。获得一张实体NFC卡或在苹果钱包上添加一个二维码，让别人轻松查看你的链接并将你加入他们的联系人。",
+      "tagline": "NFC+QR名片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Spreadly是一個能讓您創建動態、數字名片的工具。獲得一張實體NFC卡或在蘋果錢包上添加一個二維碼，讓別人輕鬆查看你的鏈接並將你加入他們的聯繫人。",
+      "tagline": "NFC+QR名片"
+    }
+  ]
 }

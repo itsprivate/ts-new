@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-17T07:05:16Z"
+  "original_createdAt": "2022-06-17T07:05:16Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Interval は、アカウント管理、コンテンツ管理、データベースレコードの編集といったタスクのためのウェブアプリケーションを構築することができます。バックエンドにビジネスロジックを記述するだけで、あとはIntervalが処理します。",
+      "tagline": "Node.jsでフロントエンドのコードなしで内部ツールを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "Interval让你为管理账户、审核内容和编辑数据库记录等任务建立网络应用。您只需在后端编写业务逻辑，其余部分由Interval处理。",
+      "tagline": "在Node.js中构建内部工具，其前端代码为零"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Interval讓你爲管理賬戶、審覈內容和編輯數據庫記錄等任務建立網絡應用。您只需在後端編寫業務邏輯，其餘部分由Interval處理。",
+      "tagline": "在Node.js中構建內部工具，其前端代碼爲零"
+    }
+  ]
 }

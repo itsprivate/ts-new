@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-16T20:23:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OY3VbLu2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ac3kl98s9502nuyg7k1q.png",
   "author": "Mohamed Achaq",
-  "author_url": "https://dev.to/triyanox"
+  "author_url": "https://dev.to/triyanox",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、新しいブログ記事へようこそ! 本日は、コンパイラについて、また、コンパイラを作成する方法についてお話します。",
+      "title": "コンパイラとその書き方 !"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，欢迎来到新的博客文章 ! 今天我们将讨论编译器，以及如何编写一个编译器...",
+      "title": "编译器，以及如何编写编译器 !"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，歡迎來到新的博客文章 ! 今天我們將討論編譯器，以及如何編寫一個編譯器...",
+      "title": "編譯器，以及如何編寫編譯器 !"
+    }
+  ]
 }
