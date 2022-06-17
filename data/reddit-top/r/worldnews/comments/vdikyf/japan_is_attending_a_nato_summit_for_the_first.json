@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアのウクライナ侵攻を受け、日本が初めてNATO首脳会議に出席することになった"
+    },
+    {
+      "locale": "zh",
+      "title": "日本有史以来第一次参加北约峰会，是由俄罗斯入侵乌克兰引发的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本有史以來第一次參加北約峯會，是由俄羅斯入侵烏克蘭引發的"
+    }
+  ]
 }
