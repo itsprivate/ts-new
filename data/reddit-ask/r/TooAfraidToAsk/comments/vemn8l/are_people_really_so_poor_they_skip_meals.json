@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Specifically in America"
+  "the_new_excerpt": "Specifically in America",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "具体的にはアメリカ",
+      "title": "本当に食事を抜くほど貧しいのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "特别是在美国",
+      "title": "人们真的穷到不吃饭吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "特別是在美國",
+      "title": "人們真的窮到不喫飯嗎？"
+    }
+  ]
 }
