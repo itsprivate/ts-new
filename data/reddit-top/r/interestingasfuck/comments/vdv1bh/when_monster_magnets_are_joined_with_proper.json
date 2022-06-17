@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モンスターマグネットを正しい技術で接合した場合と、モンスターマグネットを直接接合した場合。"
+    },
+    {
+      "locale": "zh",
+      "title": "当怪物磁铁以适当的技术连接时，与怪物磁铁直接连接时相比"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當怪物磁鐵以適當的技術連接時，與怪物磁鐵直接連接時相比"
+    }
+  ]
 }

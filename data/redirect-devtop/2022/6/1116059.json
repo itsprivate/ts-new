@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-16T15:37:14Z",
   "image": "https://dev.to/social_previews/article/1116059.png",
   "author": "Its Aomi",
-  "author_url": "https://dev.to/itsaomi"
+  "author_url": "https://dev.to/itsaomi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "では、ccTLDのドメイン名を無料で取得する方法をご紹介します。 (警告：これらのドメインは、以下の用途にのみ使用してください...",
+      "title": "プロジェクトに必要なドメイン名を無料で取得できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "好了，下面是你如何获得一个免费的ccTLD域名。 ( 警告：这些域名只能用于...",
+      "title": "为你的项目获得一个免费的域名。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好了，下面是你如何獲得一個免費的ccTLD域名。 ( 警告：這些域名只能用於...",
+      "title": "爲你的項目獲得一個免費的域名。"
+    }
+  ]
 }

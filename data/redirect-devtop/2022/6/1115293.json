@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-15T18:33:03Z",
   "image": "https://dev.to/social_previews/article/1115293.png",
   "author": "Ivan Jeremic",
-  "author_url": "https://dev.to/ivanjeremic"
+  "author_url": "https://dev.to/ivanjeremic",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCodeサイドバーを閉じることで生産性を高めることができます。",
+      "title": "VSCodeサイドバーを閉じることで生産性を高めることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "通过关闭VSCode侧边栏提高你的工作效率",
+      "title": "通过关闭VSCode侧边栏提高你的工作效率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過關閉VSCode側邊欄提高你的工作效率",
+      "title": "通過關閉VSCode側邊欄提高你的工作效率"
+    }
+  ]
 }
