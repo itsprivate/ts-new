@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "A full coin! Literally crying!"
+  "the_new_excerpt": "A full coin! Literally crying!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "フルコイン！？文字どおり泣ける!",
+      "title": "やったー！！！（笑"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "一枚完整的硬币! 简直是在哭!",
+      "title": "我成功了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "一枚完整的硬幣! 簡直是在哭!",
+      "title": "我成功了!"
+    }
+  ]
 }

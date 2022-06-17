@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Eg. getting better haircuts or dressing better"
+  "the_new_excerpt": "Eg. getting better haircuts or dressing better",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例：ヘアカットを良くする、服装を良くする。",
+      "title": "お金の問題がなければ、より良く見せるために何をしますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，剪更好的头发或穿更好的衣服",
+      "title": "如果钱不是问题，你会怎么做才能让自己看起来更好？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，剪更好的頭髮或穿更好的衣服",
+      "title": "如果錢不是問題，你會怎麼做才能讓自己看起來更好？"
+    }
+  ]
 }
