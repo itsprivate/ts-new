@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-15T11:40:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cf3Sn6CJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3t2j6d4gk2eocz5tmna.png",
   "author": "Jeremy Friesen",
-  "author_url": "https://dev.to/jeremyf"
+  "author_url": "https://dev.to/jeremyf",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Foremインスタンスにクエリを発行する際の作業内容を紹介します。 これは、Foremインスタンスのウォークスルーで行った作業を基にしたものです。",
+      "title": "SQLクエリを作成するための2番目のウォークスルー"
+    },
+    {
+      "locale": "zh",
+      "description": "显示我查询Forem实例时的工作 这是在我的Walk Through of...",
+      "title": "构成SQL查询的第二次演练"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "顯示我查詢Forem實例時的工作 這是在我的Walk Through of...",
+      "title": "構成SQL查詢的第二次演練"
+    }
+  ]
 }
