@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "寝起きにはまずどんなアプリを開きますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你从睡梦中醒来时，你会首先打开什么应用程序？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你從睡夢中醒來時，你會首先打開什麼應用程序？"
+    }
+  ]
 }
