@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And if I can, how much would it cost?"
+  "the_new_excerpt": "And if I can, how much would it cost?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、できるとしたら、いくらぐらいかかるのでしょうか？",
+      "title": "カーナビのホーンを「ブルッ」という効果音に合法的に変更することができます"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果我可以，要花多少钱？",
+      "title": "我可以合法地将我的汽车喇叭改为 \"bruh \"的声音效果吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果我可以，要花多少錢？",
+      "title": "我可以合法地將我的汽車喇叭改爲 \"bruh \"的聲音效果嗎？"
+    }
+  ]
 }
