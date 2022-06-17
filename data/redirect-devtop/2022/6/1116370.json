@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-16T18:58:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4KEEIFp7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ya3no7j5lzdc2ys0ewz4.png",
   "author": "Dhravya",
-  "author_url": "https://dev.to/dhravya"
+  "author_url": "https://dev.to/dhravya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数ヶ月前、私はブログで「Cakecutterを紹介します」と書きました。",
+      "title": "まったく新しい開発者エコシステム。CakeCutter 🍰（ケーキカッター"
+    },
+    {
+      "locale": "zh",
+      "description": "几个月前，我写了一篇博客，介绍了Cakecutter，从本质上讲，它是一个模块化版本。",
+      "title": "一个全新的开发者生态系统。CakeCutter 🍰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾個月前，我寫了一篇博客，介紹了Cakecutter，從本質上講，它是一個模塊化版本。",
+      "title": "一個全新的開發者生態系統。CakeCutter 🍰"
+    }
+  ]
 }
