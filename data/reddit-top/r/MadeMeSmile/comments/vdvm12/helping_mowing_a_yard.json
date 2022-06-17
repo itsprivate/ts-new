@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "庭の草刈りの手伝い"
+    },
+    {
+      "locale": "zh",
+      "title": "帮助修剪院子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幫助修剪院子"
+    }
+  ]
 }
