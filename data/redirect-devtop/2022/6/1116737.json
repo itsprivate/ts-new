@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-17T05:33:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CXve0ZkN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1km6630ml2hqy6ikqgt.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "もちろん、私の勤務先のロゴをCSSで再現しないわけにはいきません。もちろん、これは...",
+      "title": "CSSロゴ：デイリーデベロッパーズロゴ"
+    },
+    {
+      "locale": "zh",
+      "description": "当然，我忍不住要用CSS重现我雇主的标志。当然，我们正在谈论的是...",
+      "title": "CSS标志：每日开发标志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當然，我忍不住要用CSS重現我僱主的標誌。當然，我們正在談論的是...",
+      "title": "CSS標誌：每日開發標誌"
+    }
+  ]
 }
