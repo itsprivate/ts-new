@@ -46,5 +46,22 @@
   "original_created_at": "2022-06-17T16:27:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uVk6cAV_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkoceg4y6l3df79l6vb3.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは完全に議論の余地があることなので、お聞きしようと思いました。",
+      "title": "ライブラリとフレームワークの違いは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这完全是有待商榷的问题，所以我想我应该问问。",
+      "title": "库和框架之间有什么区别？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這完全是有待商榷的問題，所以我想我應該問問。",
+      "title": "庫和框架之間有什麼區別？"
+    }
+  ]
 }
