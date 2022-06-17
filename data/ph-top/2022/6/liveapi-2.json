@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-17T07:01:00Z"
+  "original_createdAt": "2022-06-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "LiveAPIは、開発者が簡単にライブ動画配信アプリを構築できるAPIプラットフォームです。ライブストリーミング、エンコーディング、ホスティングから Akamai CDN による配信まで、技術的な負担はすべて私たちが引き受けます。",
+      "tagline": "ライブビデオストリーミングアプリを数日で立ち上げる"
+    },
+    {
+      "locale": "zh",
+      "description": "LiveAPI是一个API平台，使开发者能够轻松地建立视频流媒体直播应用程序。我们将处理从直播流、编码、托管到利用Akamai CDN分发的所有技术重任。",
+      "tagline": "在几天内推出你的视频直播应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "LiveAPI是一個API平臺，使開發者能夠輕鬆地建立視頻流媒體直播應用程序。我們將處理從直播流、編碼、託管到利用Akamai CDN分發的所有技術重任。",
+      "tagline": "在幾天內推出你的視頻直播應用程序"
+    }
+  ]
 }
