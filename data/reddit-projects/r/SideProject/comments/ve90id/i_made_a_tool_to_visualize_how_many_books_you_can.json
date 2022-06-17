@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "読書スピードに合わせた毎日の習慣で、2022年に何冊読めるかを可視化するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个工具，根据你的阅读速度，将你在2022年能读多少本书的日常习惯可视化出来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個工具，根據你的閱讀速度，將你在2022年能讀多少本書的日常習慣可視化出來"
+    }
+  ]
 }
