@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この船の下にはクラゲの群れ(？)が集まっていた。"
+    },
+    {
+      "locale": "zh",
+      "title": "一群（？）水母聚集在这艘船下面。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一羣（？）水母聚集在這艘船下面。"
+    }
+  ]
 }
