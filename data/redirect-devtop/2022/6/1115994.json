@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-16T13:31:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3YCxZLbp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/gbx8wrnohpw6vt7f56fs.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "正規表現はとても強力ですが、どのように使い、何に使うかご存知ですか？この入門書では、最初の一歩から高度なパターンまで紹介します。",
+      "title": "JavaScriptのRegExを危険なほど学ぶ方法"
+    },
+    {
+      "locale": "zh",
+      "description": "正则表达式真的很强大，但你知道如何使用它们以及使用它们的目的吗？这篇入门读物将带领你从最初的步骤到一些真正高级的模式。",
+      "title": "你如何在JavaScript中学习足够多的RegEx以达到危险的程度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "正則表達式真的很強大，但你知道如何使用它們以及使用它們的目的嗎？這篇入門讀物將帶領你從最初的步驟到一些真正高級的模式。",
+      "title": "你如何在JavaScript中學習足夠多的RegEx以達到危險的程度"
+    }
+  ]
 }
