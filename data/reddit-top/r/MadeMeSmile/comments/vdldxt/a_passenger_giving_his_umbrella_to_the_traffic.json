@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "雨の日に交通警察に傘を渡す乗客 :)"
+    },
+    {
+      "locale": "zh",
+      "title": "一位乘客在雨天把伞给了交警 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一位乘客在雨天把傘給了交警 :)"
+    }
+  ]
 }
