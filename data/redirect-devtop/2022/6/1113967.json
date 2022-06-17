@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-14T14:17:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XK3J_ac5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b31jy73uebuag1hf3y26.png",
   "author": "Mateus Daniel",
-  "author_url": "https://dev.to/matteuus"
+  "author_url": "https://dev.to/matteuus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、皆さん、これは私の最初の記事ですので、どのように私は良くなることができますにコメントすること自由に感じなさい、私は...",
+      "title": "SonarQubeとFlutterによるCI - Part 1"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，这是我的第一篇文章，所以请随时评论我如何能做得更好，我将...",
+      "title": "使用SonarQube和Flutter的CI - 第一部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，這是我的第一篇文章，所以請隨時評論我如何能做得更好，我將...",
+      "title": "使用SonarQube和Flutter的CI - 第一部分"
+    }
+  ]
 }
