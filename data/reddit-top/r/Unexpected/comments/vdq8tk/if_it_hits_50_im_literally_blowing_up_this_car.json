@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"もし50になったら、この車を吹き飛ばす\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"如果它达到50，我真的会炸掉这辆车。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"如果它達到50，我真的會炸掉這輛車。"
+    }
+  ]
 }
