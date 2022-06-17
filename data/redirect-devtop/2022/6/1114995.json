@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-15T13:51:34Z",
   "image": "https://dev.to/social_previews/article/1114995.png",
   "author": "Vignesh Muthukumaran",
-  "author_url": "https://dev.to/vigneshm243"
+  "author_url": "https://dev.to/vigneshm243",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、Goを学び始めたんです。",
+      "title": "囲碁プログラムの解剖学"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近开始学习围棋，因为我看了很多关于围棋的文章，其中有很多关于围棋的精彩内容。",
+      "title": "剖析围棋项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近開始學習圍棋，因爲我看了很多關於圍棋的文章，其中有很多關於圍棋的精彩內容。",
+      "title": "剖析圍棋項目"
+    }
+  ]
 }
