@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは、Endgameがどうこう以前に、日本におけるAvengersに相当するものだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这是日本的《复仇者联盟》，甚至在《终结者》出现之前就已经存在了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是日本的《復仇者聯盟》，甚至在《終結者》出現之前就已經存在了。"
+    }
+  ]
 }
