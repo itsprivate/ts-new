@@ -3,7 +3,7 @@
   "title": "Fork() without exec() is dangerous in large programs (2016)",
   "url": "https://www.evanjones.ca/fork-is-dangerous.html",
   "author": "pcr910303",
-  "points": 103,
+  "points": 127,
   "num_comments": 88,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "沒有exec()的Fork()在大型程序中是危險的(2016)"
     }
-  ]
+  ],
+  "source_updated_at": 1655459246861
 }
