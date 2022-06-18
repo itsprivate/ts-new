@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "3Dプリントで作られた、アルデュイーノを搭載した自作セットアップをご覧ください。"
+    },
+    {
+      "locale": "zh",
+      "title": "嘿，看看我的自建装置。它是3D打印的，里面有一个Arduino。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嘿，看看我的自建裝置。它是3D打印的，裏面有一個Arduino。"
+    }
+  ]
 }
