@@ -134,5 +134,22 @@
     "retweet_count": 656,
     "favorite_count": 2090,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 住宅ローンの平均支払額 https://t.co/fhAysHGIMu",
+      "retweeted_status_full_text": "住宅ローンの平均支払額 https://t.co/fhAysHGIMu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 平均抵押贷款支付 https://t.co/fhAysHGIMu",
+      "retweeted_status_full_text": "平均抵押贷款支付 https://t.co/fhAysHGIMu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 平均抵押貸款支付 https://t.co/fhAysHGIMu",
+      "retweeted_status_full_text": "平均抵押貸款支付 https://t.co/fhAysHGIMu"
+    }
+  ]
 }
