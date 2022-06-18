@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey all some electrical and software engineering friends and I are developing\nweb-software that can interpret hand drawn electronic circuits, and instantly\nconvert them into a simulated digital schematic.\n\nSee the video for work in progress look (not at simulation stage yet!). Btw the\nfrontend is…"
+  "the_new_excerpt": "Hey all some electrical and software engineering friends and I are developing\nweb-software that can interpret hand drawn electronic circuits, and instantly\nconvert them into a simulated digital schematic.\n\nSee the video for work in progress look (not at simulation stage yet!). Btw the\nfrontend is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "電気工学とソフトウェア工学の友人と一緒に開発しています。\n手描きの電子回路を解釈して、即座にデジタル回路図に変換するウェブ・ソフトウェアを開発しています。\nデジタル回路図に変換しています。\n\nまだシミュレーションの段階ではないので、ビデオでご覧ください。ちなみに\nフロントエンドは...",
+      "title": "手描き電子回路シミュレーター（ニューラルネット）"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，我和一些电气和软件工程朋友正在开发\n网络软件，可以解释手绘的电子电路，并立即将其转换为模拟的数字原理图。\n将它们转换成模拟的数字原理图。\n\n请看视频中的工作进展情况（还没有到模拟阶段！）。顺便说一下\n前端是...",
+      "title": "手绘电子模拟器(神经网络)"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，我和一些電氣和軟件工程朋友正在開發\n網絡軟件，可以解釋手繪的電子電路，並立即將其轉換爲模擬的數字原理圖。\n將它們轉換成模擬的數字原理圖。\n\n請看視頻中的工作進展情況（還沒有到模擬階段！）。順便說一下\n前端是...",
+      "title": "手繪電子模擬器(神經網絡)"
+    }
+  ]
 }
