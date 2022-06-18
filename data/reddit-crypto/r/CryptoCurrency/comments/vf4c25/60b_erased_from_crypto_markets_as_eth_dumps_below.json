@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ETHが1Kドルを割り込み、BTCが19Kドルになることで、暗号市場から600Bドルが消却されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "ETH跌破1K美元，BTC跌至19K美元，加密货币市场被抹去600亿美元"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "ETH跌破1K美元，BTC跌至19K美元，加密貨幣市場被抹去600億美元"
+    }
+  ]
 }

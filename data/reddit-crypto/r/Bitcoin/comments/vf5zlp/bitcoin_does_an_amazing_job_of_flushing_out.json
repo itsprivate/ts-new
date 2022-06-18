@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは数年ごとにギャンブラーをあぶり出すという素晴らしい仕事をしている。救済措置はありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币做得很好，每隔几年就会把赌徒冲走。没有救助。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣做得很好，每隔幾年就會把賭徒沖走。沒有救助。"
+    }
+  ]
 }
