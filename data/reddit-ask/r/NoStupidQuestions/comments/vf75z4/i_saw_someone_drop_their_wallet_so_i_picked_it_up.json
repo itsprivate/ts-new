@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Well either way, that's the last time I go out of my way to help someone."
+  "the_new_excerpt": "Well either way, that's the last time I go out of my way to help someone.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "まあどっちにしろ、わざわざ人を助けるのはこれが最後だ。",
+      "title": "財布を落とした人がいたので拾って渡したら、キツくひったくられ、怒ったように睨まれて立ち去られました。これは普通の反応なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "好吧，无论如何，这是我最后一次不顾一切地帮助别人。",
+      "title": "我看到有人掉了钱包，于是我捡起来给他们，他们狠狠地抢了过来，生气地瞪了我一眼，然后就走了。这是一个正常的反应吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "好吧，無論如何，這是我最後一次不顧一切地幫助別人。",
+      "title": "我看到有人掉了錢包，於是我撿起來給他們，他們狠狠地搶了過來，生氣地瞪了我一眼，然後就走了。這是一個正常的反應嗎？"
+    }
+  ]
 }
