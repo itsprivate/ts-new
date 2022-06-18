@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "According to mining platform, Bitdeer, “After calculating by 0.075/kWh\nelectricity fee, 3% mining pool fee and service fee, we saw the need to remind\nyou that T17 and T17+ have reached the shutdown price.\n\nAnytime the output is less than the electricity cost, we advise miners to stop\nmining to…"
+  "the_new_excerpt": "According to mining platform, Bitdeer, “After calculating by 0.075/kWh\nelectricity fee, 3% mining pool fee and service fee, we saw the need to remind\nyou that T17 and T17+ have reached the shutdown price.\n\nAnytime the output is less than the electricity cost, we advise miners to stop\nmining to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "マイニングプラットフォームBitdeerによると、「0.075/kWhで計算した結果\n電気料金、3%のマイニングプール料金、サービス料金で計算した結果、T17とT17+がシャットダウン価格になったことをお知らせする必要があると考えました。\nT17とT17+がシャットダウン価格に達したことをお知らせします。\n\n出力が電気料金を下回る場合はいつでも、採掘を停止することをお勧めします。\nマイニングを停止することをお勧めします...",
+      "title": "鉱業者はこの価格では赤字にさえなっている"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "据挖矿平台Bitdeer称，\"在按0.075/千瓦时计算\n电费、3%的矿池费和服务费后，我们认为有必要提醒你\nT17和T17+已经达到停运价格。\n\n任何时候产量低于电费，我们建议矿工停止\n采矿，以...",
+      "title": "矿工在这个价格下甚至处于亏损状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "據挖礦平臺Bitdeer稱，\"在按0.075/千瓦時計算\n電費、3%的礦池費和服務費後，我們認爲有必要提醒你\nT17和T17+已經達到停運價格。\n\n任何時候產量低於電費，我們建議礦工停止\n採礦，以...",
+      "title": "礦工在這個價格下甚至處於虧損狀態"
+    }
+  ]
 }
