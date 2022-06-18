@@ -13,5 +13,19 @@
   ],
   "objectID": "31785556",
   "original_created_at": "2022-06-17T23:01:35.000Z",
-  "image": "https://raw.githubusercontent.com/fyne-io/fyne/master/img/widgets-dark.png"
+  "image": "https://raw.githubusercontent.com/fyne-io/fyne/master/img/widgets-dark.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Fyne, Goで書かれたクロスプラットフォームGUIツールキット"
+    },
+    {
+      "locale": "zh",
+      "title": "Fyne，一个用Go编写的跨平台GUI工具箱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fyne，一個用Go編寫的跨平臺GUI工具箱"
+    }
+  ]
 }
