@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これぞ真の愛"
+    },
+    {
+      "locale": "zh",
+      "title": "这就是真爱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這就是真愛"
+    }
+  ]
 }
