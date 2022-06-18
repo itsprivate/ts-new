@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日は父が夕食を作ると言って、買ってきた高価な弾丸ステーキを焼いてくれました。その結果がこれ"
+    },
+    {
+      "locale": "zh",
+      "title": "我爸爸说他今天要做晚饭，并烤了我买的昂贵的子弹头牛排。这就是结果"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我爸爸說他今天要做晚飯，並烤了我買的昂貴的子彈頭牛排。這就是結果"
+    }
+  ]
 }
