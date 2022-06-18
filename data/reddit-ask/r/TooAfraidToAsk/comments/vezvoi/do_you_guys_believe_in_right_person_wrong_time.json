@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "what do you guys think?"
+  "the_new_excerpt": "what do you guys think?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さんはどう思われますか？",
+      "title": "あなた方は、適材適所というものを信じているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你们怎么看？",
+      "title": "你们相信正确的人和错误的时间吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你們怎麼看？",
+      "title": "你們相信正確的人和錯誤的時間嗎？"
+    }
+  ]
 }
