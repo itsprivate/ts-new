@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ただ、フォローするために"
+    },
+    {
+      "locale": "zh",
+      "title": "只是要跟进一下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是要跟進一下。"
+    }
+  ]
 }
