@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-18T09:53:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7M3gWq4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqdsssbu19yjosez2eb1.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Chakra UI、react、そしてシンプルなNodeJS API Serverをベースに作られたオープンソースのフルスタックスターターです。",
+      "title": "React Horizon UI - オープンソース・フルスタック・スターター"
+    },
+    {
+      "locale": "zh",
+      "description": "在Chakra UI、react基础上精心打造的开源全栈启动器，由一个简单的NodeJS API服务器驱动。",
+      "title": "React Horizon UI - 开源的全栈式启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Chakra UI、react基礎上精心打造的開源全棧啓動器，由一個簡單的NodeJS API服務器驅動。",
+      "title": "React Horizon UI - 開源的全棧式啓動器"
+    }
+  ]
 }

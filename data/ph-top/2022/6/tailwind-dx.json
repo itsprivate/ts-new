@@ -43,5 +43,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-18T07:00:00Z"
+  "original_createdAt": "2022-06-18T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind DXは、開発者がより直感的な方法でTailwind CSSをデバッグし、作業できるようにします。",
+      "tagline": "Tailwind CSSのためのスマートツールを実現するDevTools拡張機能。"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwind DX让开发者以一种更直观的方式调试和使用Tailwind CSS。",
+      "tagline": "一个DevTools扩展，使Tailwind CSS的智能工具。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwind DX讓開發者以一種更直觀的方式調試和使用Tailwind CSS。",
+      "tagline": "一個DevTools擴展，使Tailwind CSS的智能工具。"
+    }
+  ]
 }
