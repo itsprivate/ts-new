@@ -57,5 +57,22 @@
   "original_created_at": "2022-06-17T01:07:07Z",
   "image": "https://dev.to/social_previews/article/1116583.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ヘイ、ヤール！ みんなに聞いたんだけど、どうやって人々との関係を保ってきたか、そして...",
+      "title": "オープンソースプロジェクトのスポンサーになってくれる人たちに、どのように価値を感じてもらうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，你们好!  我一直在和乡亲们谈论他们如何与乡亲们保持关系，并...",
+      "title": "你如何让赞助你的开源项目的人感到有价值？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，你們好!  我一直在和鄉親們談論他們如何與鄉親們保持關係，並...",
+      "title": "你如何讓贊助你的開源項目的人感到有價值？"
+    }
+  ]
 }
