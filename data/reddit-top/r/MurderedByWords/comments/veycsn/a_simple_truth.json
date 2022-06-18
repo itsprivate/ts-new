@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シンプルな真実"
+    },
+    {
+      "locale": "zh",
+      "title": "一个简单的事实"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個簡單的事實"
+    }
+  ]
 }
