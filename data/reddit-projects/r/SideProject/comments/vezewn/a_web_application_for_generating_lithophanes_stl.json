@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "There are a few others online already but I am trying to make this version as\nstreamlined and easy to use as possible. I'll be adding features slowly as well.\nYou can check out the landing page here: phane.pythonanywhere.com\n[https://phane.pythonanywhere.com/] and create your own…"
+  "the_new_excerpt": "There are a few others online already but I am trying to make this version as\nstreamlined and easy to use as possible. I'll be adding features slowly as well.\nYou can check out the landing page here: phane.pythonanywhere.com\n[https://phane.pythonanywhere.com/] and create your own…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "すでにオンラインではいくつか他のものがありますが、私はこのバージョンを次のようにしようとしています。\nできるだけ合理的で使いやすいものにしようと思っています。機能も徐々に追加していくつもりです。\nランディングページはこちらからご覧いただけます： phane.pythonanywhere.com\n[https://phane.pythonanywhere.com/]そしてあなた自身のものを作ってください...",
+      "title": "Lithophanesの.stlファイルをダウンロードして、3dプリンターで印刷するためのウェブアプリケーションです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "网上已经有一些其他的版本，但我正试图使这个版本尽可能简化和易于使用。\n尽可能地精简和易于使用。我也会慢慢增加功能。\n你可以在这里查看登陆页面：phane.pythonanywhere.com\n[https://phane.pythonanywhere.com/] 并创建你自己的...",
+      "title": "一个用于生成Lithophanes .stl文件的网络应用程序，你可以下载并使用3D打印机进行打印。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "網上已經有一些其他的版本，但我正試圖使這個版本儘可能簡化和易於使用。\n儘可能地精簡和易於使用。我也會慢慢增加功能。\n你可以在這裏查看登陸頁面：phane.pythonanywhere.com\n[https://phane.pythonanywhere.com/] 並創建你自己的...",
+      "title": "一個用於生成Lithophanes .stl文件的網絡應用程序，你可以下載並使用3D打印機進行打印。"
+    }
+  ]
 }
