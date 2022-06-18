@@ -134,5 +134,22 @@
     "retweet_count": 280,
     "favorite_count": 3018,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @JoinCommonstock: 誰か共感してくれませんか？https://t.co/jX6aidGEBU",
+      "retweeted_status_full_text": "どなたか共感していただける方はいらっしゃいますか？https://t.co/jX6aidGEBU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @JoinCommonstock: 有谁能体会到？https://t.co/jX6aidGEBU",
+      "retweeted_status_full_text": "https://t.co/jX6aidGEBU，有人能体会到吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @JoinCommonstock: 有誰能體會到？https://t.co/jX6aidGEBU",
+      "retweeted_status_full_text": "https://t.co/jX6aidGEBU，有人能體會到嗎？"
+    }
+  ]
 }
