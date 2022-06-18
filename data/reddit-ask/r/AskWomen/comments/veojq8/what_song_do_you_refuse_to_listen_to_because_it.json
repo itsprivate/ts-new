@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "聴くと絶対ダメだから聴かないという曲は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你拒绝听哪首歌，因为当你听到这首歌时，它绝对会让你崩溃？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你拒絕聽哪首歌，因爲當你聽到這首歌時，它絕對會讓你崩潰？"
+    }
+  ]
 }
