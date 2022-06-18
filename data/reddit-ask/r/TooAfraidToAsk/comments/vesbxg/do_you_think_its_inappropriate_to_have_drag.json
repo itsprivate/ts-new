@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Honest opinions only."
+  "the_new_excerpt": "Honest opinions only.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "正直な意見のみです。",
+      "title": "小学校にドラァグクイーンがいるのは不謹慎だと思いませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "仅限诚实的意见。",
+      "title": "你认为在小学里有变装皇后是不合适的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "僅限誠實的意見。",
+      "title": "你認爲在小學裏有變裝皇后是不合適的嗎？"
+    }
+  ]
 }

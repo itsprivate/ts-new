@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは起こった：ビットコインはちょうど2017年からの史上最高値を下回りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "事情发生了：比特币刚刚跌破了2017年的历史高点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "事情發生了：比特幣剛剛跌破了2017年的歷史高點。"
+    }
+  ]
 }
