@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "iRISC - ARMv7 アセンブリ言語インタプリタとコンピュータアーキテクチャシミュレータ"
+    },
+    {
+      "locale": "zh",
+      "title": "iRISC - ARMv7汇编语言解释器和计算机结构模拟器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "iRISC - ARMv7彙編語言解釋器和計算機結構模擬器"
+    }
+  ]
 }

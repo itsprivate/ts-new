@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで医者から言われた中で、最も常識はずれな言葉は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "医生对你说过的最过分的话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "醫生對你說過的最過分的話是什麼？"
+    }
+  ]
 }
