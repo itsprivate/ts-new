@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "学校での銃乱射事件で、犯人が再装填するところを生徒がタックル"
+    },
+    {
+      "locale": "zh",
+      "title": "学校枪击案中，学生在枪手重新装弹时将其制服"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "學校槍擊案中，學生在槍手重新裝彈時將其制服"
+    }
+  ]
 }
