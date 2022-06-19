@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React TypeScriptとDjango Rest Frameworkを使って、Dual N-Backのウェブサイト（初めてのオープンソースプロジェクト）を作りました。以前は、古いウェブサイトやソフトウェア、あるいはモバイルアプリでこの記憶ゲームを実践していましたが、より新しく、よりきれいなインターフェース（モバイル・レスポンシブ）を作ることにしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我用React TypeScript和Django Rest框架做了一个双N-Back网站（我的第一个开源项目）。我曾经用旧的网站、软件或一些移动应用来练习这种记忆游戏，然而我决定创建一个更新的、更干净的界面（移动响应）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用React TypeScript和Django Rest框架做了一個雙N-Back網站（我的第一個開源項目）。我曾經用舊的網站、軟件或一些移動應用來練習這種記憶遊戲，然而我決定創建一個更新的、更乾淨的界面（移動響應）。"
+    }
+  ]
 }
