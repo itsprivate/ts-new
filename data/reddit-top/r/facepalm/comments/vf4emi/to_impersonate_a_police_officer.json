@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察官になりすますこと"
+    },
+    {
+      "locale": "zh",
+      "title": "冒充警察"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "冒充警察"
+    }
+  ]
 }
