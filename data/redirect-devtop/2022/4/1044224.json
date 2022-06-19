@@ -43,5 +43,22 @@
   "original_created_at": "2022-04-04T12:55:48Z",
   "image": "https://dev.to/social_previews/article/1044224.png",
   "author": "João Victor Martins",
-  "author_url": "https://dev.to/j_a_o_v_c_t_r"
+  "author_url": "https://dev.to/j_a_o_v_c_t_r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の投稿では、ユニットテストについて、そしてユニットテストがどのように...",
+      "title": "[PT-BR] MySQLとRedisを組み合わせたテストコンテナ"
+    },
+    {
+      "locale": "zh",
+      "description": "在上一篇文章中，我谈到了单元测试，以及它们是如何帮助验证规则的。",
+      "title": "[PT-BR] MySQL和Redis的测试容器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在上一篇文章中，我談到了單元測試，以及它們是如何幫助驗證規則的。",
+      "title": "[PT-BR] MySQL和Redis的測試容器"
+    }
+  ]
 }

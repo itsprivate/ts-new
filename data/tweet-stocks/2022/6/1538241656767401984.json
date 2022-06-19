@@ -62,5 +62,19 @@
   "retweet_count": 42,
   "favorite_count": 256,
   "possibly_sensitive": false,
-  "original_created_at": "Sat Jun 18 19:26:04 +0000 2022"
+  "original_created_at": "Sat Jun 18 19:26:04 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "これは、あまり熟成されていない\n https://t.co/nUOFTPgcBc"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这不是一个很好的例子\n https://t.co/nUOFTPgcBc"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這不是一個很好的例子\n https://t.co/nUOFTPgcBc"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-18T10:04:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2PxujMiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rg157xmbs2uuuc7pv0sd.png",
   "author": "srishtikprasad",
-  "author_url": "https://dev.to/srishtikprasad"
+  "author_url": "https://dev.to/srishtikprasad",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hoisting JavaScriptにおけるHoistingとは？  JavaScriptエンジンが実行されるとき...",
+      "title": "JavaScriptのホイスト(変数と関数)"
+    },
+    {
+      "locale": "zh",
+      "description": "吊装 JavaScript中的吊装是什么？  当JavaScript引擎执行...",
+      "title": "JavaScript中的提升(变量和函数)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "吊裝 JavaScript中的吊裝是什麼？  當JavaScript引擎執行...",
+      "title": "JavaScript中的提升(變量和函數)"
+    }
+  ]
 }
