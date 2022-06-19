@@ -43,5 +43,22 @@
   "original_created_at": "2022-02-21T18:14:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n1miOEDR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/luii1hyk4yt3g0zc7j6m.jpg",
   "author": "Arya Prakasa",
-  "author_url": "https://dev.to/aryaprakasa"
+  "author_url": "https://dev.to/aryaprakasa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シングルページアプリケーション(SPA)を導入するための選択肢は数多くありますが、SPAを導入するためには、以下のような方法があります。",
+      "title": "Goで単一ページアプリケーションを単一のバイナリファイルで提供する"
+    },
+    {
+      "locale": "zh",
+      "description": "虽然有许多替代方案来部署单页应用程序（SPA），但你可能会发现一个...",
+      "title": "用Go在单个二进制文件中提供单页应用程序的服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雖然有許多替代方案來部署單頁應用程序（SPA），但你可能會發現一個...",
+      "title": "用Go在單個二進制文件中提供單頁應用程序的服務"
+    }
+  ]
 }
