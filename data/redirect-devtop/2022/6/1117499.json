@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-18T00:00:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQDtBJy7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/43hwhhvhtl2249bli6zj.jpeg",
   "author": "Hsabes",
-  "author_url": "https://dev.to/hsabes"
+  "author_url": "https://dev.to/hsabes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がコーディングを学び始めたとき、最初に学んだのはHTMLとCSSの2つの言語でした。ほとんどの人がそうであるように...",
+      "title": "CSS初心者のための3つのポイント"
+    },
+    {
+      "locale": "zh",
+      "description": "当我开始学习如何编码时，我最先学习的两种语言是HTML和CSS。像大多数人一样...",
+      "title": "三个初级CSS技巧让你的生活更轻松"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我開始學習如何編碼時，我最先學習的兩種語言是HTML和CSS。像大多數人一樣...",
+      "title": "三個初級CSS技巧讓你的生活更輕鬆"
+    }
+  ]
 }
