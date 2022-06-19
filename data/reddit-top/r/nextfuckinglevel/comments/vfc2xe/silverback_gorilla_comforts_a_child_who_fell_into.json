@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シルバーバック・ゴリラは、暴力的な行動を見せず、囲いに落ちた子供を慰める。"
+    },
+    {
+      "locale": "zh",
+      "title": "银背大猩猩安慰掉进围栏的孩子，而不是表现出暴力的行为"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "銀背大猩猩安慰掉進圍欄的孩子，而不是表現出暴力的行爲"
+    }
+  ]
 }
