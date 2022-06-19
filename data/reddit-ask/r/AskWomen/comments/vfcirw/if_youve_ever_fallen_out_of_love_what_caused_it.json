@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Extra question, what CAN make a woman fall out of love?"
+  "the_new_excerpt": "Extra question, what CAN make a woman fall out of love?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "番外編、女性を恋に落とすCANとは？",
+      "title": "恋をしたことがある人は、その原因を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "额外的问题，什么能让一个女人失恋？",
+      "title": "如果你曾经失恋过，是什么原因造成的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "額外的問題，什麼能讓一個女人失戀？",
+      "title": "如果你曾經失戀過，是什麼原因造成的？"
+    }
+  ]
 }
