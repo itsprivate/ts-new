@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-17T09:02:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EQFnk8Y3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/htl0ctz061hfqqles76s.jpg",
   "author": "Matti Bar-Zeev",
-  "author_url": "https://dev.to/mbarzeev"
+  "author_url": "https://dev.to/mbarzeev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週の投稿は、サイプレス10の部品テストをやってみましょう。ベータ版ではありますが、これは大きな...",
+      "title": "サイプレス10によるReactコンポーネントテスト"
+    },
+    {
+      "locale": "zh",
+      "description": "在本周的文章中，请和我一起尝试Cypress 10的组件测试。虽然处于测试阶段，但这是一个巨大的...",
+      "title": "用Cypress 10进行React组件测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本週的文章中，請和我一起嘗試Cypress 10的組件測試。雖然處於測試階段，但這是一個巨大的...",
+      "title": "用Cypress 10進行React組件測試"
+    }
+  ]
 }

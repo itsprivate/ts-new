@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-17T06:19:30Z",
   "image": "https://dev.to/social_previews/article/1116748.png",
   "author": "Doug Elkin",
-  "author_url": "https://dev.to/duhdugg"
+  "author_url": "https://dev.to/duhdugg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たちは皆、仕事に最適な道具を選ぼうとしますが、時として失敗することがあります。そんなとき、あなたは...",
+      "title": "プロジェクトで選んだことを後悔している技術は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "我们都试图为工作选择最好的工具，但偶尔也会有不足之处。你什么时候...",
+      "title": "你对为一个项目选择哪件技术感到后悔？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們都試圖爲工作選擇最好的工具，但偶爾也會有不足之處。你什麼時候...",
+      "title": "你對爲一個項目選擇哪件技術感到後悔？"
+    }
+  ]
 }
