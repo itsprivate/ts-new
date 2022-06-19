@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I have this problem, so I prefer to eat alone. Maybe I am not alone?"
+  "the_new_excerpt": "I have this problem, so I prefer to eat alone. Maybe I am not alone?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はこの問題があるので、一人で食べるのが好きなんです。もしかしたら、私は一人ではないのかも？",
+      "title": "会社での食事中、咀嚼音で嫌な思いをすることはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我有这个问题，所以我更喜欢一个人吃饭。也许我并不孤单？",
+      "title": "你是否对在公司吃饭时的咀嚼声感到厌恶？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我有這個問題，所以我更喜歡一個人喫飯。也許我並不孤單？",
+      "title": "你是否對在公司喫飯時的咀嚼聲感到厭惡？"
+    }
+  ]
 }
