@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "戸板が倒れる"
+    },
+    {
+      "locale": "zh",
+      "title": "门倒了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "門倒了"
+    }
+  ]
 }
