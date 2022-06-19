@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今回のクラッシュと過去のクラッシュの比較をしてみました"
+    },
+    {
+      "locale": "zh",
+      "title": "我对这次崩溃和以前的崩溃进行了比较"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我對這次崩潰和以前的崩潰進行了比較"
+    }
+  ]
 }
