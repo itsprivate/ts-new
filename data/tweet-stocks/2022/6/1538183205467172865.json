@@ -1,0 +1,110 @@
+{
+  "created_at": "Sun Jun 19 15:47:7 +0000 2022",
+  "id_str": "1538183205467172865",
+  "full_text": "THIS IS AMERICA https://t.co/b461p385vV",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/b461p385vV",
+        "expanded_url": "https://twitter.com/phillycrimeupd/status/1537518856456896513",
+        "display_url": "twitter.com/phillycrimeupd…",
+        "indices": [
+          16,
+          39
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 48,
+  "favorite_count": 205,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Jun 18 15:33:48 +0000 2022",
+  "quoted_status": {
+    "created_at": "Thu Jun 16 19:33:55 +0000 2022",
+    "id_str": "1537518856456896513",
+    "full_text": "WATCH: Vicious random attack on 3 women in South Philly last night.\n\n#Philadelphia #PhillyCrimeUpdate https://t.co/ZfUrWVBrFW",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Philadelphia",
+          "indices": [
+            69,
+            82
+          ]
+        },
+        {
+          "text": "PhillyCrimeUpdate",
+          "indices": [
+            83,
+            101
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1537518369783615500,
+          "id_str": "1537518369783615490",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1537518369783615490/pu/img/3c_TT1pQMrOJmfyD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1537518369783615490/pu/img/3c_TT1pQMrOJmfyD.jpg",
+          "url": "https://t.co/ZfUrWVBrFW",
+          "display_url": "pic.twitter.com/ZfUrWVBrFW",
+          "expanded_url": "https://twitter.com/PhillyCrimeUpd/status/1537518856456896513/video/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 858,
+              "h": 396,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 314,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 858,
+              "h": 396,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "PhillyCrimeUpdate",
+      "screen_name": "PhillyCrimeUpd",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1535067085948297221/p8dVIoYH_normal.jpg"
+    },
+    "retweet_count": 1201,
+    "favorite_count": 2097,
+    "possibly_sensitive": false
+  }
+}
