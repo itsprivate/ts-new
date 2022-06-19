@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Thank you. I’m sure I’m not the only one experiencing this currently."
+  "the_new_excerpt": "Thank you. I’m sure I’m not the only one experiencing this currently.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ありがとうございます。現在、このような経験をしているのは私だけではないでしょう。",
+      "title": "ニュースサイクルは、私の精神的な健康をますます損ねるようになっています。ニュースを読むのをやめる」以外に何かアドバイスがある方はいらっしゃいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "谢谢你。我相信我不是目前唯一遇到这种情况的人。",
+      "title": "新闻周期对我的精神健康的损害越来越大。除了 \"停止阅读新闻 \"之外，谁有什么建议？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "謝謝你。我相信我不是目前唯一遇到這種情況的人。",
+      "title": "新聞週期對我的精神健康的損害越來越大。除了 \"停止閱讀新聞 \"之外，誰有什麼建議？"
+    }
+  ]
 }

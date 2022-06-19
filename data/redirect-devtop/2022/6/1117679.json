@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-18T08:03:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_oRWpQGY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1idu5g3ao9z9j5cx6y4l.png",
   "author": "E.Michael",
-  "author_url": "https://dev.to/ezeanamichael"
+  "author_url": "https://dev.to/ezeanamichael",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数の定義 Pythonは、構造的なプログラミングと同様に、関数的なプログラミングにも使用することができます...",
+      "title": "Python：関数型プログラミング"
+    },
+    {
+      "locale": "zh",
+      "description": "定义函数 Python也可以用于函数式编程，因为它可以用于结构式编程。",
+      "title": "Python:函数式编程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "定義函數 Python也可以用於函數式編程，因爲它可以用於結構式編程。",
+      "title": "Python:函數式編程"
+    }
+  ]
 }
