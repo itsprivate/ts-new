@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これらの岩石には、何百万年も前から閉じ込められていた太古の水が含まれています。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些岩石包含了被困在其中数百万年的古水。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些岩石包含了被困在其中數百萬年的古水。"
+    }
+  ]
 }
