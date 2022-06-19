@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シャワーを浴びる時間はどのくらいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在洗澡时要花多长时间？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在洗澡時要花多長時間？"
+    }
+  ]
 }
