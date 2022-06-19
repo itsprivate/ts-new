@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "暗号の暴落でGPUの価格が希望小売価格を下回っています"
+    },
+    {
+      "locale": "zh",
+      "title": "由于加密货币崩溃，GPU价格正在跌至MSRP以下"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由於加密貨幣崩潰，GPU價格正在跌至MSRP以下"
+    }
+  ]
 }
