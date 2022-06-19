@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-19T07:34:09Z"
+  "original_createdAt": "2022-06-19T07:34:09Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VSCodeのテーマに飽きたことはありませんか？それならVSLookであなただけのVSCodeテーマを作りましょう。TailwindやMaterialのカラーを使ったり、独自のカラーを作成することもできます。",
+      "tagline": "VSCodeの外観をカスタマイズする 😎。"
+    },
+    {
+      "locale": "zh",
+      "description": "厌倦了你的VSCode主题吗？那就用VSLook创建你自己的VSCode主题。你可以使用Tailwind和Material的颜色，或者也可以创建你自己的颜色。",
+      "tagline": "定制你的VSCode的外观 😎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "厭倦了你的VSCode主題嗎？那就用VSLook創建你自己的VSCode主題。你可以使用Tailwind和Material的顏色，或者也可以創建你自己的顏色。",
+      "tagline": "定製你的VSCode的外觀 😎"
+    }
+  ]
 }
