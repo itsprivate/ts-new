@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-18T15:42:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zwk4el6y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/524uohcruo8lgn8zi8l5.png",
   "author": "Francisco Mendes",
-  "author_url": "https://dev.to/franciscomendes10866"
+  "author_url": "https://dev.to/franciscomendes10866",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Axiosは、コミュニティで非常に人気のあるhttpクライアントで、サードパーティにhttpリクエストを行う役割を担っています。",
+      "title": "Axios Interceptorsを使用してJson Web Token（JWT）をリフレッシュする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "Axios是社区中非常流行的http客户端，负责向第三方发出http请求。",
+      "title": "如何使用Axios拦截器刷新Json Web令牌（JWT）？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Axios是社區中非常流行的http客戶端，負責向第三方發出http請求。",
+      "title": "如何使用Axios攔截器刷新Json Web令牌（JWT）？"
+    }
+  ]
 }
