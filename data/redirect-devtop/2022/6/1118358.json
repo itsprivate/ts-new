@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-19T06:49:53Z",
   "image": "https://dev.to/social_previews/article/1118358.png",
   "author": "ashish ",
-  "author_url": "https://dev.to/asheeshh"
+  "author_url": "https://dev.to/asheeshh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フレームワークは過大評価されている、HTMLを使おう            はじめに 冗談はさておき、このブログは、まだ...",
+      "title": "JavaScriptフレームワークのパワーをHTMLファイル内で使いましょう!"
+    },
+    {
+      "locale": "zh",
+      "description": "框架被高估了，让我们使用HTML!            抛开笑话不谈，这个博客是关于尚未...",
+      "title": "在你的HTML文件中直接使用JavaScript框架的力量!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "框架被高估了，讓我們使用HTML!            拋開笑話不談，這個博客是關於尚未...",
+      "title": "在你的HTML文件中直接使用JavaScript框架的力量!"
+    }
+  ]
 }
