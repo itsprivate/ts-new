@@ -48,5 +48,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tether（$USDT）が身代金要求を受けてDDOS攻撃を受けています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Tether ($USDT)在收到赎金请求后遭到了DDOS攻击。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tether ($USDT)在收到贖金請求後遭到了DDOS攻擊。"
+    }
+  ]
 }
