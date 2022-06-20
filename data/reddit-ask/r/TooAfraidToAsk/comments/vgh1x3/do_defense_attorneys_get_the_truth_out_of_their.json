@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弁護人は被告から真実を聞き出し、それをもとに仕事をするのか、それとも被告が嘘をつき、それをもとに意味を考えようとするのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "辩护律师是否从被告那里获得真相并加以利用？ 还是被告给他们一个谎言，让他们试着去理解？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "辯護律師是否從被告那裏獲得真相併加以利用？ 還是被告給他們一個謊言，讓他們試着去理解？"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-19T19:12:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KycwTGbU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pq2dxu7ci22w25bjzt1b.jpg",
   "author": "Chris Noring",
-  "author_url": "https://dev.to/softchris"
+  "author_url": "https://dev.to/softchris",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "囲碁の新刊（無料）をご紹介します。LeanPubからダウンロードするか、オンラインで読むことができます。",
+      "title": "LeanPubとGitHubでGo/Golangの無料本をリリースしたばかりです。"
+    },
+    {
+      "locale": "zh",
+      "description": "这里有一本关于围棋的免费新书。你可以从LeanPub下载或在线阅读。",
+      "title": "刚刚在LeanPub和GitHub上发布了一本关于Go/Golang的免费书籍"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏有一本關於圍棋的免費新書。你可以從LeanPub下載或在線閱讀。",
+      "title": "剛剛在LeanPub和GitHub上發佈了一本關於Go/Golang的免費書籍"
+    }
+  ]
 }
