@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-20T13:15:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wOe0CapF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbkypz5itk5zubv0b7rl.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ミームマンデーの投稿へようこそ! 今日のカバー画像は、前回の投稿で私が一番気に入ったものです...",
+      "title": "ミーム・マンデー!!!"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到另一个Meme Monday帖子! 今天的封面图片来自于去年我最喜欢的作品。",
+      "title": "Meme周一！？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到另一個Meme Monday帖子! 今天的封面圖片來自於去年我最喜歡的作品。",
+      "title": "Meme週一！？"
+    }
+  ]
 }
