@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この1週間で、1BTC以上を含むビットコインウォレットのアドレスが13,091個も増加したのです"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的一周里，包含一个BTC或更多的比特币钱包地址的数量增加了13091个!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的一週裏，包含一個BTC或更多的比特幣錢包地址的數量增加了13091個!"
+    }
+  ]
 }
