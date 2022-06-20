@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真を2日前から待っていました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我一直在等待这张照片，已经等了两天。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我一直在等待這張照片，已經等了兩天。"
+    }
+  ]
 }
