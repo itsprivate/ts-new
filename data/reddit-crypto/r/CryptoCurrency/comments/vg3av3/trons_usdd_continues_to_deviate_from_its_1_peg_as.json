@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トロンのUSDDは0.96ドルを下回り、1ドルのペグから乖離し続ける"
+    },
+    {
+      "locale": "zh",
+      "title": "Tron的USDD继续偏离其1美元的目标，价值漂移到0.96美元以下"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tron的USDD繼續偏離其1美元的目標，價值漂移到0.96美元以下"
+    }
+  ]
 }
