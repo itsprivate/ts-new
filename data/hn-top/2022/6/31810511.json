@@ -13,5 +13,19 @@
   ],
   "objectID": "31810511",
   "original_created_at": "2022-06-20T14:07:19.000Z",
-  "image": "https://owncast.online/images/owncast-logo-1000x1000.png"
+  "image": "https://owncast.online/images/owncast-logo-1000x1000.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Owncastは、セルフホスティングのライブビデオおよびウェブチャットサーバーです。"
+    },
+    {
+      "locale": "zh",
+      "title": "Owncast是一个自我托管的实时视频和网络聊天服务器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Owncast是一個自我託管的實時視頻和網絡聊天服務器"
+    }
+  ]
 }
