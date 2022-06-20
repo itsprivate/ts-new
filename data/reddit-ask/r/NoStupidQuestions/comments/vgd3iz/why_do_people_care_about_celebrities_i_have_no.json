@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is it a problem that I don’t know much about celebrities because I don’t care?"
+  "the_new_excerpt": "Is it a problem that I don’t know much about celebrities because I don’t care?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "芸能人のことをよく知らないのは、興味がないからでしょうか？",
+      "title": "なぜ人は芸能人に興味を持つのだろう？私は全く興味がないのですが、世間話をするためには特定の有名人を知っていた方がいいようです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我对名人了解不多，是因为我不关心，这是一个问题吗？",
+      "title": "为什么人们关心名人？我完全没有兴趣，但似乎我应该知道某些名人，以便进行闲谈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我對名人瞭解不多，是因爲我不關心，這是一個問題嗎？",
+      "title": "爲什麼人們關心名人？我完全沒有興趣，但似乎我應該知道某些名人，以便進行閒談。"
+    }
+  ]
 }
