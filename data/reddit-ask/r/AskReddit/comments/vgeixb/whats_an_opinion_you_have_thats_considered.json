@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "社会通念上、受け入れられないと思われる意見は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么意见被认为是社会标准所不能接受的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼意見被認爲是社會標準所不能接受的？"
+    }
+  ]
 }
