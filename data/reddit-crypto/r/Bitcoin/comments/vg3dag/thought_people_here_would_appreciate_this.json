@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このようなことをすると、みんなに喜ばれると思ったからです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想这里的人们会喜欢这个。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想這裏的人們會喜歡這個。"
+    }
+  ]
 }
