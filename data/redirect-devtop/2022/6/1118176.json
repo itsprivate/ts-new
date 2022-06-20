@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-19T00:16:47Z",
   "image": "https://dev.to/social_previews/article/1118176.png",
   "author": "Dr DEV",
-  "author_url": "https://dev.to/heydrdev"
+  "author_url": "https://dev.to/heydrdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋、この記事を開いた方は、きっとFAMOUSという文字が気になったのではないでしょうか？そうなんです、、、。",
+      "title": "MakeMeFamous🤩.md"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，如果你打开这个帖子，肯定是FAMOUS这个词引起了你的注意。我知道，...",
+      "title": "MakeMeFamous🤩.md"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，如果你打開這個帖子，肯定是FAMOUS這個詞引起了你的注意。我知道，...",
+      "title": "MakeMeFamous🤩.md"
+    }
+  ]
 }
