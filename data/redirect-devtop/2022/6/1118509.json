@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-19T12:41:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ub7_RIPR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1fmlkeb1ww5mmfsgdyyb.png",
   "author": "Elly Loel",
-  "author_url": "https://dev.to/ellyloel"
+  "author_url": "https://dev.to/ellyloel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは 私はElly Loelです。私は開発者、デザイナー、ライターで、現在は...",
+      "title": "コンピュータサイエンスの学位を中退し、コーディングを学ぶ。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好 我的名字是Elly Loel。我是一名开发员、设计师和作家，目前在一家公司工作。",
+      "title": "我放弃了计算机科学学位来学习编码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好 我的名字是Elly Loel。我是一名開發員、設計師和作家，目前在一家公司工作。",
+      "title": "我放棄了計算機科學學位來學習編碼"
+    }
+  ]
 }

@@ -74,5 +74,22 @@
     "retweet_count": 153,
     "favorite_count": 492,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: ロシア、シリアで米軍を攻撃 アメリカの前哨基地で https://t.co/xF4DsMbUTC",
+      "retweeted_status_full_text": "ロシア、シリアで米軍に支援された戦闘機を攻撃 アメリカの前哨基地で https://t.co/xF4DsMbUTC"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 俄罗斯在叙利亚攻击美国支持的战士在美国的前哨 https://t.co/xF4DsMbUTC",
+      "retweeted_status_full_text": "俄罗斯在叙利亚袭击美国支持的战斗人员的美国前哨 https://t.co/xF4DsMbUTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 俄羅斯在敘利亞攻擊美國支持的戰士在美國的前哨 https://t.co/xF4DsMbUTC",
+      "retweeted_status_full_text": "俄羅斯在敘利亞襲擊美國支持的戰鬥人員的美國前哨 https://t.co/xF4DsMbUTC"
+    }
+  ]
 }
