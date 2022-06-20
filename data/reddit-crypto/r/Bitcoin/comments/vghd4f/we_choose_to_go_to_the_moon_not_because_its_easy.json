@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちが月へ行くことを選ぶのは、簡単だからではなく、難しいからなのです"
+    },
+    {
+      "locale": "zh",
+      "title": "我们选择去月球不是因为它很容易，而是因为它很难"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們選擇去月球不是因爲它很容易，而是因爲它很難"
+    }
+  ]
 }
