@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-19T14:51:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FEtFbjhn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gr9tkih7ea89kp7375yg.jpg",
   "author": "steffanboodhoo",
-  "author_url": "https://dev.to/steffanboodhoo"
+  "author_url": "https://dev.to/steffanboodhoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 Inspiration Prerequisites Setup Webpackの基本 Sample App and...",
+      "title": "WEBPACKの実践的な基礎知識。純粋なジャバスクリプトフロントエンド"
+    },
+    {
+      "locale": "zh",
+      "description": "目录 灵感 先决条件 设置Webpack基础知识 示例应用程序和...",
+      "title": "实用WEBPACK基础知识。纯粹的Javascript前台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄 靈感 先決條件 設置Webpack基礎知識 示例應用程序和...",
+      "title": "實用WEBPACK基礎知識。純粹的Javascript前臺"
+    }
+  ]
 }
