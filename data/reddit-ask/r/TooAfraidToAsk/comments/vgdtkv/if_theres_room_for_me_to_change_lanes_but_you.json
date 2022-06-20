@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm in the US. I usually do this on the freeway and only when the car in the\nlane I want to change to is at least a full car length behind."
+  "the_new_excerpt": "I'm in the US. I usually do this on the freeway and only when the car in the\nlane I want to change to is at least a full car length behind.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はアメリカにいます。私は通常フリーウェイで、車線を変更したい車が車一台分以上後ろにいるときのみ、この操作を行います。\n車線変更したい車が車一台分以上後ろにいるときだけです。",
+      "title": "車線変更するスペースがあるのに信号出した瞬間に加速されたらとりあえず車線変更する俺はアホなのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在美国。我通常在高速公路上这样做，而且只有当我想换的车道上的车\n我通常在高速公路上这样做，而且只有在我想换到的车道上的车至少在我后面整整一个车长的时候才这样做。",
+      "title": "如果有空间让我变道，但我一打信号你就加速，那我还是变道，是不是很混蛋？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在美國。我通常在高速公路上這樣做，而且只有當我想換的車道上的車\n我通常在高速公路上這樣做，而且只有在我想換到的車道上的車至少在我後面整整一個車長的時候才這樣做。",
+      "title": "如果有空間讓我變道，但我一打信號你就加速，那我還是變道，是不是很混蛋？"
+    }
+  ]
 }
