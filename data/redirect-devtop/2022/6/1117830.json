@@ -57,5 +57,22 @@
   "original_created_at": "2022-06-18T13:38:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8W4Q-OEX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzud4zejd2cbgdxktved.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの開発志望者は、標準的な技術を暗記することが重要だと誤解しているようです。",
+      "title": "開発者が学ぶべき10のアルゴリズム"
+    },
+    {
+      "locale": "zh",
+      "description": "很多有抱负的开发者似乎有一个很大的误解，认为背诵标准...",
+      "title": "每个开发者都应该学习的10种算法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "很多有抱負的開發者似乎有一個很大的誤解，認爲背誦標準...",
+      "title": "每個開發者都應該學習的10種算法"
+    }
+  ]
 }
