@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-20T08:14:01Z"
+  "original_createdAt": "2022-06-20T08:14:01Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリエイティブ・エディター・プラグインは、Bubbleアプリ内にHTML5 Canvasを追加して対話することができ、プラグインを使用して物を描き、画像を追加/編集し、SVGファイルを追加/編集し、デザインを保存/読み込み、これらのデザインを画像としてエクスポートできます。",
+      "tagline": "BubbleアプリにHTML5 Canvasでデザインエディタを構築"
+    },
+    {
+      "locale": "zh",
+      "description": "这个创意编辑器插件使你能够在你的Bubble应用程序内添加HTML5 Canvas并与之互动，使用该插件来绘制东西，添加/编辑图像，添加/编辑SVG文件，保存/加载你的设计，并将这些设计作为图像导出，与",
+      "tagline": "用HTML5画布在Bubble应用程序中建立设计编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個創意編輯器插件使你能夠在你的Bubble應用程序內添加HTML5 Canvas並與之互動，使用該插件來繪製東西，添加/編輯圖像，添加/編輯SVG文件，保存/加載你的設計，並將這些設計作爲圖像導出，與",
+      "tagline": "用HTML5畫布在Bubble應用程序中建立設計編輯器"
+    }
+  ]
 }
