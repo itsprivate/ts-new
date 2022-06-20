@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数週間前に放置していた「もうタブはいらない」ツールをシンプルに作ってみました。昨晩、泥棒に入られたので、起動することにしました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了这个简单的 \"不再有标签 \"的工具，几周前我放弃了。在我昨晚被抢劫后决定推出它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了這個簡單的 \"不再有標籤 \"的工具，幾周前我放棄了。在我昨晚被搶劫後決定推出它"
+    }
+  ]
 }
