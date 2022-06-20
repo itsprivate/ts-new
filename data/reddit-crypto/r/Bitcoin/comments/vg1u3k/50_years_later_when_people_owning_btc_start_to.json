@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "How will this affect the price of BTC?"
+  "the_new_excerpt": "How will this affect the price of BTC?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "BTCの価格にどのような影響を与えるのでしょうか。",
+      "title": "50年後、BTCを所有する人々が死に始めると、多くのBTCが使用不能になり、コールドウォレットで永遠に失われることになります。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这将如何影响BTC的价格？",
+      "title": "50年后，当拥有BTC的人开始死亡时，大量的BTC将无法使用，并在冰冷的钱包中永远消失。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這將如何影響BTC的價格？",
+      "title": "50年後，當擁有BTC的人開始死亡時，大量的BTC將無法使用，並在冰冷的錢包中永遠消失。"
+    }
+  ]
 }
