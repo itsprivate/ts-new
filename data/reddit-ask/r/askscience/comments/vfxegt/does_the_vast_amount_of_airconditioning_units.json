@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hope I used the correct flair."
+  "the_new_excerpt": "Hope I used the correct flair.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "正しいフレアを使えたかな。",
+      "title": "一年中大量に稼働しているエアコンは、地球温暖化に影響があるのでしょうか？冷気より熱のほうが多いような気がするし、世界的に気温が上がっているので、ますます多くなっている。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "希望我用的是正确的标语。",
+      "title": "全年运行的大量空调设备对全球变暖是否有影响？看起来它们产生的热量比冷空气多，而且随着全球气温的上升，它们越来越普遍。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "希望我用的是正確的標語。",
+      "title": "全年運行的大量空調設備對全球變暖是否有影響？看起來它們產生的熱量比冷空氣多，而且隨着全球氣溫的上升，它們越來越普遍。"
+    }
+  ]
 }
