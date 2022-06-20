@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-19T07:52:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r1Q7wSLs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cw7fjd1wbbw56k6g01en.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日の記事では、ナイキのアイコンであるスウッシュロゴを再現します。 参考までに、このロゴはこんな感じ...",
+      "title": "CSSのロゴマーク ナイキのロゴ"
+    },
+    {
+      "locale": "zh",
+      "description": "在今天的文章中，我们将重新创建标志性的耐克swoosh标志。 作为参考，这个标志是这样的...",
+      "title": "CSS标志。耐克标志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在今天的文章中，我們將重新創建標誌性的耐克swoosh標誌。 作爲參考，這個標誌是這樣的...",
+      "title": "CSS標誌。耐克標誌"
+    }
+  ]
 }
