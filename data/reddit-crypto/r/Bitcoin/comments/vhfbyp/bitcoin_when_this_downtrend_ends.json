@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはこの下降トレンドが終わると"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币的这一下跌趋势结束时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣的這一下跌趨勢結束時"
+    }
+  ]
 }
