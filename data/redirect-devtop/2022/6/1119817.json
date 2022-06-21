@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-20T22:29:21Z",
   "image": "https://dev.to/social_previews/article/1119817.png",
   "author": "Christian Heilmann",
-  "author_url": "https://dev.to/codepo8"
+  "author_url": "https://dev.to/codepo8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "html {color-scheme: dark light;} を使用すると、さまざまなモードを有効にしたユーザーに対して、ブラウザがページを異なる方法で表示するように強制することができます。",
+      "title": "基本的なダーク/ライトモードを追加する1行のCSS"
+    },
+    {
+      "locale": "zh",
+      "description": "使用html {color-scheme: dark light;}你可以强制浏览器为启用不同模式的用户显示不同的页面",
+      "title": "一行CSS来添加基本的黑暗/光明模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用html {color-scheme: dark light;}你可以強制瀏覽器爲啓用不同模式的用戶顯示不同的頁面",
+      "title": "一行CSS來添加基本的黑暗/光明模式"
+    }
+  ]
 }

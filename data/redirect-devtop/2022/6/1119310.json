@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-20T11:40:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tRzLKcjs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sf9lydft56emdsfofcaz.png",
   "author": "Rasaf Ibrahim",
-  "author_url": "https://dev.to/rasaf_ibrahim"
+  "author_url": "https://dev.to/rasaf_ibrahim",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "✅以下の4つの正規表現パターンで、ほぼ全てのパスワードが書けるようになります...",
+      "title": "パスワード検証のための正規表現パターンをプロ並みに書く"
+    },
+    {
+      "locale": "zh",
+      "description": "✅以下4个regex模式可以帮助你编写几乎任何密码...",
+      "title": "像专家一样编写密码验证的Regex模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "✅以下4個regex模式可以幫助你編寫幾乎任何密碼...",
+      "title": "像專家一樣編寫密碼驗證的Regex模式"
+    }
+  ]
 }
