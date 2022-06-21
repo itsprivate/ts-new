@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それはとても良い知らせか、それとも家を売らなければならないか、どちらかだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这要么是非常好的消息，要么我可能需要卖掉我的房子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這要麼是非常好的消息，要麼我可能需要賣掉我的房子。"
+    }
+  ]
 }
