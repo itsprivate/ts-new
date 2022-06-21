@@ -134,5 +134,22 @@
     "retweet_count": 635,
     "favorite_count": 5746,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @vijayprashad: This is the Time of the Ridiculous. https://t.co/6nBuRiP8xg",
+      "retweeted_status_full_text": "This is the Time of the Ridiculous. https://t.co/6nBuRiP8xg"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @vijayprashad: 这是一个荒唐的时代。https://t.co/6nBuRiP8xg",
+      "retweeted_status_full_text": "这是一个荒唐的时代。https://t.co/6nBuRiP8xg"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @vijayprashad: 這是一個荒唐的時代。https://t.co/6nBuRiP8xg",
+      "retweeted_status_full_text": "這是一個荒唐的時代。https://t.co/6nBuRiP8xg"
+    }
+  ]
 }
