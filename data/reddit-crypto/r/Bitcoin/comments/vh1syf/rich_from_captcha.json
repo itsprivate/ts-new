@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "キャプチャからリッチ"
+    },
+    {
+      "locale": "zh",
+      "title": "从验证码中获取财富"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從驗證碼中獲取財富"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-20T06:22:06Z",
   "image": "https://dev.to/social_previews/article/1119095.png",
   "author": "Boris K",
-  "author_url": "https://dev.to/bokub"
+  "author_url": "https://dev.to/bokub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あらゆるプロジェクトでPrettierをセットアップし、ESLintと統合するためのステップバイステップガイドです。",
+      "title": "2分以内にできるPrettierの正しい設定方法"
+    },
+    {
+      "locale": "zh",
+      "description": "我一步一步地指导你在任何项目中设置Prettier，并将其与ESLint和...",
+      "title": "如何在不到2分钟内正确设置Prettier"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我一步一步地指導你在任何項目中設置Prettier，並將其與ESLint和...",
+      "title": "如何在不到2分鐘內正確設置Prettier"
+    }
+  ]
 }
