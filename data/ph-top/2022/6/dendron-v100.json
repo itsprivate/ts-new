@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-21T07:02:19Z"
+  "original_createdAt": "2022-06-21T07:02:19Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dendronは、マークダウンのシンプルさとVSCodeのパワーを組み合わせることで、知識の管理を速く、効率的に、そして楽しくする、開発者向けのオープンソースのノート作成ツールです。",
+      "tagline": "開発者向けオープンソースメモ帳"
+    },
+    {
+      "locale": "zh",
+      "description": "Dendron是一个开源的笔记工具，针对开发者，通过结合Markdown的简单性和VSCode的强大功能，使知识管理变得快速、高效和令人愉悦。",
+      "tagline": "为开发者提供的开源记事本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Dendron是一個開源的筆記工具，針對開發者，通過結合Markdown的簡單性和VSCode的強大功能，使知識管理變得快速、高效和令人愉悅。",
+      "tagline": "爲開發者提供的開源記事本"
+    }
+  ]
 }
