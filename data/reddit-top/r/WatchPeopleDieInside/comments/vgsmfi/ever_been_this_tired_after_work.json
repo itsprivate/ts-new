@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "仕事帰りにこんなに疲れたことある？"
+    },
+    {
+      "locale": "zh",
+      "title": "下班后有没有这么累过？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "下班後有沒有這麼累過？"
+    }
+  ]
 }
