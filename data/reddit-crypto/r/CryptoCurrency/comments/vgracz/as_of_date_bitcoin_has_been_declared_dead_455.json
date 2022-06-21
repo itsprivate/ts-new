@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在までに、ビットコインは455回死亡宣告を受けている。"
+    },
+    {
+      "locale": "zh",
+      "title": "截至目前，比特币已被宣布死亡455次。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "截至目前，比特幣已被宣佈死亡455次。"
+    }
+  ]
 }
