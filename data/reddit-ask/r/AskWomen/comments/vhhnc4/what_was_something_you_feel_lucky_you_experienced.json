@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "体験してよかったと思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你觉得自己经历过什么事情是幸运的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你覺得自己經歷過什麼事情是幸運的？"
+    }
+  ]
 }
