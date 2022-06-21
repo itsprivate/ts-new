@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-21T07:01:00Z"
+  "original_createdAt": "2022-06-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UnionMLは、Webネイティブな機械学習アプリケーションを作成するために、Flyteの上に構築されたオープンソースのMLOpsフレームワークです。急速に発展しているMLとデータツールのエコシステムを統一し、Python関数をMLマイクロサービスにバンドルするための単一のインターフェイスを提供します。",
+      "tagline": "MLマイクロサービスの構築とデプロイを最も簡単に行う方法"
+    },
+    {
+      "locale": "zh",
+      "description": "UnionML是一个建立在Flyte之上的开源MLOps框架，用于创建网络原生机器学习应用。它将快速发展的ML和数据工具的生态系统统一到一个单一的接口中，将Python函数捆绑到ML微服务中。",
+      "tagline": "构建和部署ML微服务的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "UnionML是一個建立在Flyte之上的開源MLOps框架，用於創建網絡原生機器學習應用。它將快速發展的ML和數據工具的生態系統統一到一個單一的接口中，將Python函數捆綁到ML微服務中。",
+      "tagline": "構建和部署ML微服務的最簡單方法"
+    }
+  ]
 }

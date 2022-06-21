@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "簡単なビンゴカードジェネレーターを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个简单的宾果卡生成器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個簡單的賓果卡生成器"
+    }
+  ]
 }
