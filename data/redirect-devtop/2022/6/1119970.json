@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-21T05:25:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E7w0T2Uf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jviakcoewszglsut3e0h.png",
   "author": "Mr. Unity Buddy",
-  "author_url": "https://dev.to/unitybuddy"
+  "author_url": "https://dev.to/unitybuddy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ハロー、バディーズ! 私たち（開発者）の多くは、音楽を聴くのが好きです。しかし、なぜでしょうか？いろいろな答えがあるかもしれませんが...。",
+      "title": "私はコーディングの際に音楽を聴くのが好きです。あなたもそうしてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，伙伴们! 我们大多数人（开发者）都喜欢听音乐。但为什么呢？你可能有很多答案....",
+      "title": "我喜欢在编码时听音乐，你也应该这样做。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，夥伴們! 我們大多數人（開發者）都喜歡聽音樂。但爲什麼呢？你可能有很多答案....",
+      "title": "我喜歡在編碼時聽音樂，你也應該這樣做。"
+    }
+  ]
 }
