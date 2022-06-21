@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-21T16:01:00Z"
+  "original_createdAt": "2022-06-21T16:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zoom Apps SDKは、開発者がZoomで動作するアプリケーションを構築できるようにするものです。100以上のZoom Appsが開発者パートナーによって公開されており、会議の生産性、チームコラボレーション、ソーシャルネットワーキング、ゲームなど、さまざまな会議体験を豊かにしています。今、あなたはできる!",
+      "tagline": "Zoomで動作するZoomアプリの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "Zoom Apps SDK使开发者能够建立在Zoom中运行的应用程序。开发者合作伙伴已经发布了100多个Zoom Apps，以丰富会议体验，包括会议效率、团队协作、社交网络和游戏等。现在你可以",
+      "tagline": "构建可在Zoom中运行的Zoom应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zoom Apps SDK使開發者能夠建立在Zoom中運行的應用程序。開發者合作伙伴已經發布了100多個Zoom Apps，以豐富會議體驗，包括會議效率、團隊協作、社交網絡和遊戲等。現在你可以",
+      "tagline": "構建可在Zoom中運行的Zoom應用程序"
+    }
+  ]
 }
