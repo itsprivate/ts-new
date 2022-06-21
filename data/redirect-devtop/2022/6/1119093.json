@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-20T06:16:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M0_4kCO6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0jr42ju5joc8bgna3fb9.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こちらは前シリーズの時にリクエストされたものです。そして、リストに入れたものの、作成がおっくうに...。",
+      "title": "CSSのロゴマーク GitHubロゴ"
+    },
+    {
+      "locale": "zh",
+      "description": "这个人是在前一个系列中被要求的。我把它放在我的名单上，但害怕创建...",
+      "title": "CSS标志。GitHub的标志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個人是在前一個系列中被要求的。我把它放在我的名單上，但害怕創建...",
+      "title": "CSS標誌。GitHub的標誌"
+    }
+  ]
 }
