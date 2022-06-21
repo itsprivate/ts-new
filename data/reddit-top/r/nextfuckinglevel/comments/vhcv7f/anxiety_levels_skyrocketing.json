@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "不安のレベルが急上昇"
+    },
+    {
+      "locale": "zh",
+      "title": "焦虑水平急剧上升"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "焦慮水平急劇上升"
+    }
+  ]
 }
