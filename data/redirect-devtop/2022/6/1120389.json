@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-21T13:18:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--psALyF7c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mp2ulc6ci5amu4qsha88.png",
   "author": "Ben Brazier",
-  "author_url": "https://dev.to/bentorvo"
+  "author_url": "https://dev.to/bentorvo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "プルリクエストは、ソフトウェアの標準的なコード変更の一部として使用される場合、継続的デリバリーの速度を低下させる...",
+      "title": "プルリクエストがあなたの作業を遅くしている"
+    },
+    {
+      "locale": "zh",
+      "description": "当拉动请求作为软件中标准代码变更的一部分使用时，会减慢持续交付的速度...",
+      "title": "拉动请求会拖累你"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當拉動請求作爲軟件中標準代碼變更的一部分使用時，會減慢持續交付的速度...",
+      "title": "拉動請求會拖累你"
+    }
+  ]
 }
