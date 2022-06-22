@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "巧みなドライビング"
+    },
+    {
+      "locale": "zh",
+      "title": "这是很有技巧的驾驶"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是很有技巧的駕駛"
+    }
+  ]
 }
