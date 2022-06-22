@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "のような企業がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "公司是这样的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "公司是這樣的。"
+    }
+  ]
 }
