@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "見ているだけでいい。とても健全です"
+    },
+    {
+      "locale": "zh",
+      "title": "就看它吧。它是如此健康的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就看它吧。它是如此健康的"
+    }
+  ]
 }
