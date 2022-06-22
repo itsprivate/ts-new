@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-22T07:04:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u5ToZTIq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90mz9tjv7k13asojot1n.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラウド以前は、エンジニアは誰も関与せずにサーバーを割り当てることを夢見るしかなかった。",
+      "title": "Grafanaでクラウドコストをコントロールし、FinOpsカルチャーを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "在云计算之前，工程师只能梦想在不涉及任何人的情况下分配服务器。",
+      "title": "用Grafana控制云计算成本并建立FinOps文化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在雲計算之前，工程師只能夢想在不涉及任何人的情況下分配服務器。",
+      "title": "用Grafana控制雲計算成本並建立FinOps文化"
+    }
+  ]
 }
