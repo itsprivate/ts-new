@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-20T22:28:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uzTiKHM_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p1e92vbrdsohvfx1ru2k.png",
   "author": "Talabi Ayomide",
-  "author_url": "https://dev.to/ayo_dev"
+  "author_url": "https://dev.to/ayo_dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フックは、React 16.8やそれ以降のバージョンに組み込まれた新しい機能です。基本的に、この機能は...",
+      "title": "useEffectフックで立ち上げ、実行する。"
+    },
+    {
+      "locale": "zh",
+      "description": "钩子是React 16.8和更新版本中的新功能。它们基本上可以帮助你...",
+      "title": "使用useEffect钩子开始运行。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "鉤子是React 16.8和更新版本中的新功能。它們基本上可以幫助你...",
+      "title": "使用useEffect鉤子開始運行。"
+    }
+  ]
 }
