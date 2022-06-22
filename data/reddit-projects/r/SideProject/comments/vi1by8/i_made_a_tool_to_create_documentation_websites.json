@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Notionのページからドキュメントサイトを作成するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个工具，用Notion页面创建文档网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個工具，用Notion頁面創建文檔網站"
+    }
+  ]
 }
