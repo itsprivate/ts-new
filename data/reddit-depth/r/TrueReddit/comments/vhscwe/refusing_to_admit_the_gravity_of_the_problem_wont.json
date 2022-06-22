@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "問題の深刻さを認めないことは、問題を解決することにはならない"
+    },
+    {
+      "locale": "zh",
+      "title": "拒绝承认问题的严重性并不能使其消失"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拒絕承認問題的嚴重性並不能使其消失"
+    }
+  ]
 }
