@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-22T07:01:00Z"
+  "original_createdAt": "2022-06-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ɡ Stock Sync for WooCommerce with Google Sheet は、商品管理を効率的に行うための無料 WooCommerce 在庫管理プラグインです。超高速商品同期 ⚡ 可変商品対応 🎁 全商品データ更新 🔄 双方向自動同期",
+      "tagline": "Google SheetsからWooCommerceストアの在庫管理"
+    },
+    {
+      "locale": "zh",
+      "description": "🚀 Stock Sync for WooCommerce with Google Sheet 是一个免费的WooCommerce库存管理插件，可以帮助你有效地管理你的产品。⚡ 超快速的产品同步 💫 支持可变产品 🎁 更新每个产品数据 🔄 双向自动同步",
+      "tagline": "从谷歌表格对WooCommerce商店进行库存管理"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "🚀 Stock Sync for WooCommerce with Google Sheet 是一個免費的WooCommerce庫存管理插件，可以幫助你有效地管理你的產品。⚡ 超快速的產品同步 💫 支持可變產品 🎁 更新每個產品數據 🔄 雙向自動同步",
+      "tagline": "從谷歌表格對WooCommerce商店進行庫存管理"
+    }
+  ]
 }
