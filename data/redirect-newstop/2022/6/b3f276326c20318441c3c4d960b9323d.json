@@ -14,5 +14,19 @@
   "tags": [
     "CNN"
   ],
-  "image": "https://media.cnn.com/api/v1/images/stellar/prod/220622073819-02-afghanistan-earthquake-062222.jpg?c=16x9&q=w_800,c_fill"
+  "image": "https://media.cnn.com/api/v1/images/stellar/prod/220622073819-02-afghanistan-earthquake-062222.jpg?c=16x9&q=w_800,c_fill",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アフガニスタン東部でM5.9の地震が発生、900人以上が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "阿富汗东部发生5.9级地震，超过900人死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿富汗東部發生5.9級地震，超過900人死亡"
+    }
+  ]
 }
