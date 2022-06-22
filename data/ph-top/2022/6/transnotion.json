@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-22T07:01:00Z"
+  "original_createdAt": "2022-06-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TransNotionは、Notionのページを1クリックで翻訳してくれるChrome拡張機能です☝️ 🔁原文と翻訳ページの自動同期 🎨フォーマットを変更せずにページを翻訳 🌏 DeepL APIで操作し26ヶ国語をサポート",
+      "tagline": "Notionですべてを翻訳する"
+    },
+    {
+      "locale": "zh",
+      "description": "TransNotion是一个Chrome扩展，它可以在1次点击中翻译你的Notion页面☝️🔁自动同步原始和翻译的页面🎨翻译一个页面而不改变任何格式🌏通过操作DeepL API支持26种语言。",
+      "tagline": "在Notion中翻译一切"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "TransNotion是一個Chrome擴展，它可以在1次點擊中翻譯你的Notion頁面☝️🔁自動同步原始和翻譯的頁面🎨翻譯一個頁面而不改變任何格式🌏通過操作DeepL API支持26種語言。",
+      "tagline": "在Notion中翻譯一切"
+    }
+  ]
 }

@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-22T07:29:51Z"
+  "original_createdAt": "2022-06-22T07:29:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AnyEXIF | Photo Exif Editor (https://anyexif.com) は、Macコンピュータ上で写真のメタデータ情報を管理、編集することができる強力なアプリケーションです。それは、EXIFエディタ、EXIFリーダー、およびEXIFビューアとして機能します。",
+      "tagline": "プロフェッショナルなExifビューア、クリエーター、クリーナー、エディター（Mac用"
+    },
+    {
+      "locale": "zh",
+      "description": "AnyEXIF | Photo Exif Editor (https://anyexif.com) 是一个强大的应用程序，使你能够在你的Mac电脑上管理和编辑照片元数据信息。它可以作为一个EXIF编辑器、EXIF阅读器和EXIF浏览器。",
+      "tagline": "适用于Mac的专业Exif查看器、创建器、清理器、编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AnyEXIF | Photo Exif Editor (https://anyexif.com) 是一個強大的應用程序，使你能夠在你的Mac電腦上管理和編輯照片元數據信息。它可以作爲一個EXIF編輯器、EXIF閱讀器和EXIF瀏覽器。",
+      "tagline": "適用於Mac的專業Exif查看器、創建器、清理器、編輯器"
+    }
+  ]
 }
