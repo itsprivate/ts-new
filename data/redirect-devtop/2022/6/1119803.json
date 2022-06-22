@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-20T21:05:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bgmxuKxh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qt4o1onxtuqownlm7dyi.png",
   "author": "Jasmin Virdi",
-  "author_url": "https://dev.to/jasmin"
+  "author_url": "https://dev.to/jasmin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactでは、DOM更新後に実行されるuseEffectフックを使用したことがあるはずです。",
+      "title": "useEffectでasync関数を使用するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中，我们一定都使用过useEffect钩子，它在执行DOM更新后运行，帮助我们...",
+      "title": "如何在useEffect中使用异步函数？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中，我們一定都使用過useEffect鉤子，它在執行DOM更新後運行，幫助我們...",
+      "title": "如何在useEffect中使用異步函數？"
+    }
+  ]
 }
