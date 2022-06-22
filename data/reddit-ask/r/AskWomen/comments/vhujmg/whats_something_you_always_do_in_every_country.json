@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Could be a place you visit, a souvenir you always buy or just a tradition you\nkeep. Something more whimsical than practical."
+  "the_new_excerpt": "Could be a place you visit, a souvenir you always buy or just a tradition you\nkeep. Something more whimsical than practical.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "訪れた場所や、いつも買うお土産、あるいは伝統のようなもの。\n伝統のようなもの。実用的というよりも、もっと気まぐれなもの。",
+      "title": "旅先の国で必ずすることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "可能是你去的一个地方，你总是买的纪念品，或者只是你的一个传统。\n保持的传统。更多的是异想天开而不是实用的东西。",
+      "title": "在你旅行的每个国家，你都会做什么事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "可能是你去的一個地方，你總是買的紀念品，或者只是你的一個傳統。\n保持的傳統。更多的是異想天開而不是實用的東西。",
+      "title": "在你旅行的每個國家，你都會做什麼事情？"
+    }
+  ]
 }
