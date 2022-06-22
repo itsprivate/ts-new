@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Cloudflareは、暗号鍵を作成するためのランダム性を生成する方法として、壁一面の溶岩ランプをカメラで撮影しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Cloudflare有一堵墙，上面挂满了熔岩灯，他们把熔岩灯送入摄像头，以此来产生随机性，以创建加密密钥。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Cloudflare有一堵牆，上面掛滿了熔岩燈，他們把熔岩燈送入攝像頭，以此來產生隨機性，以創建加密密鑰。"
+    }
+  ]
 }
