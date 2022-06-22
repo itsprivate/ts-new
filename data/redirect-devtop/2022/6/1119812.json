@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-20T22:08:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8ZRGyVpQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gsw2jl53ye6aabdndqg.png",
   "author": "Mark Gatere",
-  "author_url": "https://dev.to/gateremark"
+  "author_url": "https://dev.to/gateremark",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そもそも、なぜデータ構造とアルゴリズムを学ぶ必要があるのでしょうか？自分の仕事で使うのだろうか？",
+      "title": "データ構造101：データ構造とアルゴリズムの入門。"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么我首先需要学习数据结构和算法？我是否会在我的工作中使用它们？",
+      "title": "数据结构101：数据结构和算法介绍。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼我首先需要學習數據結構和算法？我是否會在我的工作中使用它們？",
+      "title": "數據結構101：數據結構和算法介紹。"
+    }
+  ]
 }

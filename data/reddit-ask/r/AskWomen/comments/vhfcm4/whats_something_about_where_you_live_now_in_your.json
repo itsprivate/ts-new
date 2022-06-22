@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今住んでいる場所（自宅、市町村、郡、州など）で、あなたが嬉しい／喜びを感じることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在居住的地方（你的家、城市、县、州等）有什么东西让你高兴/给你带来快乐？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在居住的地方（你的家、城市、縣、州等）有什麼東西讓你高興/給你帶來快樂？"
+    }
+  ]
 }
