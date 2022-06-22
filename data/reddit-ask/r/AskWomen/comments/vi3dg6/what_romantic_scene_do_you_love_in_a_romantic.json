@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "恋愛映画で好きだけど、自分では恥ずかしくて体験できないようなロマンチックなシーンを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢浪漫电影中的哪个浪漫场景，但却不好意思亲自去体验？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡浪漫電影中的哪個浪漫場景，但卻不好意思親自去體驗？"
+    }
+  ]
 }
