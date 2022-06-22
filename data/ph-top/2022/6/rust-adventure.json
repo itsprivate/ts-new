@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-21T07:05:00Z"
+  "original_createdAt": "2022-06-21T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ラストアドベンチャーは、実際のプロジェクトを通じてRustを実用化することを目的としたコースで、現在も増え続けています。現在、JavaScript、Python、Elixirなどの言語を書いている人を対象にしたワークショップです。",
+      "tagline": "Rustで信頼性と効率性の高いソフトウェアを構築することを学ぶ"
+    },
+    {
+      "locale": "zh",
+      "description": "Rust Adventure是一个不断增长的课程集合，旨在帮助你通过真实世界的项目将Rust投入生产。这些研讨会是为目前编写JavaScript、Python或Elixir等语言的人设计的。",
+      "tagline": "学习用Rust构建可靠和高效的软件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Rust Adventure是一個不斷增長的課程集合，旨在幫助你通過真實世界的項目將Rust投入生產。這些研討會是爲目前編寫JavaScript、Python或Elixir等語言的人設計的。",
+      "tagline": "學習用Rust構建可靠和高效的軟件"
+    }
+  ]
 }
