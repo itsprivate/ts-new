@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-21T17:17:43Z",
   "image": "https://dev.to/social_previews/article/1120654.png",
   "author": "Its Aomi",
-  "author_url": "https://dev.to/itsaomi"
+  "author_url": "https://dev.to/itsaomi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブサイトの画像に無料のCDNを使わない人はいないでしょう。では、その方法をご紹介しましょう。 ただ...",
+      "title": "画像用無料CDN。"
+    },
+    {
+      "locale": "zh",
+      "description": "谁不希望自己的网站图像有一个免费的CDN。那么，这里是你如何获得它。 只要把...",
+      "title": "图片的免费CDN。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "誰不希望自己的網站圖像有一個免費的CDN。那麼，這裏是你如何獲得它。 只要把...",
+      "title": "圖片的免費CDN。"
+    }
+  ]
 }
