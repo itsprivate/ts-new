@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "それは、あなたが考えているような意味ではない。"
+    },
+    {
+      "locale": "zh",
+      "title": "这并不意味着你认为的那种意思"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這並不意味着你認爲的那種意思"
+    }
+  ]
 }
