@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ヘルプを送信してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "请发送帮助。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請發送幫助。"
+    }
+  ]
 }
