@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが何を食べても病気にならないとしたら、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果允许你吃任何东西而不生病，那会是什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果允許你喫任何東西而不生病，那會是什麼呢？"
+    }
+  ]
 }
