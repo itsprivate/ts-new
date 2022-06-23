@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインは死んだ...また...。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币已死...再次...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣已死...再次...."
+    }
+  ]
 }
