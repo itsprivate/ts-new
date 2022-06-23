@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フードでクエストを行う。"
+    },
+    {
+      "locale": "zh",
+      "title": "在大罩子里给人做任务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在大罩子裏給人做任務。"
+    }
+  ]
 }
