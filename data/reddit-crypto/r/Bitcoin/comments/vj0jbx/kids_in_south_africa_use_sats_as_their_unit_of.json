@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "南アフリカの子供たちは、サッツを単位に使っています。彼らは未来のお金に移行しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "南非的孩子们用萨特作为他们的记账单位。他们已经转移到未来的货币上了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "南非的孩子們用薩特作爲他們的記賬單位。他們已經轉移到未來的貨幣上了"
+    }
+  ]
 }
