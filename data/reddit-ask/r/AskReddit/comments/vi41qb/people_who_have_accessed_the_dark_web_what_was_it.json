@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダークウェブにアクセスしたことがある人、どんな感じだった？"
+    },
+    {
+      "locale": "zh",
+      "title": "访问过暗网的人，那是什么感觉？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "訪問過暗網的人，那是什麼感覺？"
+    }
+  ]
 }
