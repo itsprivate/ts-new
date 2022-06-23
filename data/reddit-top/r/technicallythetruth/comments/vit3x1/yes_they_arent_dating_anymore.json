@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ああ、もう付き合ってないんだ"
+    },
+    {
+      "locale": "zh",
+      "title": "是的，他们不再约会了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是的，他們不再約會了"
+    }
+  ]
 }
