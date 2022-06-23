@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "事実であることが証明されたのに、いまだにデマだと思われているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么被证明是真实的，但人们仍然认为是一个骗局？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼被證明是真實的，但人們仍然認爲是一個騙局？"
+    }
+  ]
 }
