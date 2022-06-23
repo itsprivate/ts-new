@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日はどうだった」以外に、配偶者からもっと意味のある質問をされたいことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "除了 \"你今天过得怎么样 \"之外，你喜欢从你的配偶那里得到哪些更有意义的问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "除了 \"你今天過得怎麼樣 \"之外，你喜歡從你的配偶那裏得到哪些更有意義的問題？"
+    }
+  ]
 }
