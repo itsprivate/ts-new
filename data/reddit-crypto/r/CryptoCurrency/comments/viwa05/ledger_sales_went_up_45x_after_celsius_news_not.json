@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "セルシオのニュース後、Ledgerの売上が4.5倍に - あなたの鍵ではなく、あなたの暗号でもなく"
+    },
+    {
+      "locale": "zh",
+      "title": "在Celsius新闻之后，Ledger的销售额上升了4.5倍 - 不是你的钥匙，不是你的加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Celsius新聞之後，Ledger的銷售額上升了4.5倍 - 不是你的鑰匙，不是你的加密貨幣"
+    }
+  ]
 }
