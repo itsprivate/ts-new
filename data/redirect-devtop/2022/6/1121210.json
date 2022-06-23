@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-22T10:25:57Z",
   "image": "https://dev.to/social_previews/article/1121210.png",
   "author": "Omer Elbaz",
-  "author_url": "https://dev.to/omerwow"
+  "author_url": "https://dev.to/omerwow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. TypeScriptはコードをより読みやすく、より理解しやすくします。  TypeScriptを使うと、...",
+      "title": "今すぐTypeScriptを学ぶべき理由"
+    },
+    {
+      "locale": "zh",
+      "description": "1. TypeScript使代码更容易阅读和理解。  当你使用TypeScript时，你可以...",
+      "title": "为什么你今天要学习TypeScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. TypeScript使代碼更容易閱讀和理解。  當你使用TypeScript時，你可以...",
+      "title": "爲什麼你今天要學習TypeScript"
+    }
+  ]
 }
