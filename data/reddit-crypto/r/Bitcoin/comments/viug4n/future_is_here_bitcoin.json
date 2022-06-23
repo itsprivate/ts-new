@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未来はここにある #ビットコイン"
+    },
+    {
+      "locale": "zh",
+      "title": "未来就在这里#比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "未來就在這裏#比特幣"
+    }
+  ]
 }
