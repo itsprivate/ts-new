@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-23T06:58:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0QPa1knf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dlfiqjghl01df5biu269.png",
   "author": "Ben Brazier",
-  "author_url": "https://dev.to/bentorvo"
+  "author_url": "https://dev.to/bentorvo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発は予測不可能なものですが、人々は毎週何時間もかけて開発期間を推測しているのです...。",
+      "title": "なぜ見積もりは無駄なのか"
+    },
+    {
+      "locale": "zh",
+      "description": "软件开发是不可预测的，但人们每周都要浪费几个小时来猜测多长时间。",
+      "title": "为什么说估算是浪费"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "軟件開發是不可預測的，但人們每週都要浪費幾個小時來猜測多長時間。",
+      "title": "爲什麼說估算是浪費"
+    }
+  ]
 }

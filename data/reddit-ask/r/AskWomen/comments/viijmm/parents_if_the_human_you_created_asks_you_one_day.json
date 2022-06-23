@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "両親のこと もし、あなたが作った人間が、ある日、なぜその人間を作ったのかと聞いてきたら、あなたはどう答えますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "父母。如果有一天你创造的人类问你为什么创造他们，你会怎么回答？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "父母。如果有一天你創造的人類問你爲什麼創造他們，你會怎麼回答？"
+    }
+  ]
 }
