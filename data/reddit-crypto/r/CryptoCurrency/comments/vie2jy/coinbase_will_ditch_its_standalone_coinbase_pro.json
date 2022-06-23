@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースは、独立した「コインベースプロ」取引所を捨て、メインアプリの下にある同様のサービス「アドバンストトレード」を採用します。"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinbase将抛弃其独立的 \"Coinbase Pro \"交易所，转而采用 \"Advanced Trade\"，这是主应用程序下的一项类似服务。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinbase將拋棄其獨立的 \"Coinbase Pro \"交易所，轉而採用 \"Advanced Trade\"，這是主應用程序下的一項類似服務。"
+    }
+  ]
 }
