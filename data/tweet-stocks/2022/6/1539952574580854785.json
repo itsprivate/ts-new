@@ -134,5 +134,22 @@
     "retweet_count": 178,
     "favorite_count": 503,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: 米国とロシアの経常収支 https://t.co/0RyWab4APN",
+      "retweeted_status_full_text": "米国 vs ロシア 経常収支 https://t.co/0RyWab4APN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: 美国与俄罗斯的经常账户余额 https://t.co/0RyWab4APN",
+      "retweeted_status_full_text": "美国对俄罗斯经常账户余额 https://t.co/0RyWab4APN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: 美國與俄羅斯的經常賬戶餘額 https://t.co/0RyWab4APN",
+      "retweeted_status_full_text": "美國對俄羅斯經常賬戶餘額 https://t.co/0RyWab4APN"
+    }
+  ]
 }
