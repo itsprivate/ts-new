@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メルボルンには、「カレン」をテーマにした食堂があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "实际上在墨尔本有一家以 \"卡伦 \"为主题的餐厅"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "實際上在墨爾本有一家以 \"卡倫 \"爲主題的餐廳"
+    }
+  ]
 }
