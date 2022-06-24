@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-23T13:01:46Z"
+  "original_createdAt": "2022-06-23T13:01:46Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSVやExcelのインポートをWebアプリに数分で追加できます。数行のJSとWebhookまたはコールバックで簡単に統合可能 💪 大きなインポートファイルを簡単に処理 💪 CSVとすべてのExcelフォーマットをサポートしています。",
+      "tagline": "アプリに楽しいデータインポートを数分で追加可能"
+    },
+    {
+      "locale": "zh",
+      "description": "在几分钟内将CSV和Excel导入到你的网络应用中。🤝 为您的用户提供愉快的数据导入体验 🧑💻 只需几行JS和一个webhook或回调就能轻松集成💪轻松处理大型导入文件 💯 支持CSV和所有Excel格式",
+      "tagline": "在几分钟内为你的应用程序添加令人愉快的数据导入"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在幾分鐘內將CSV和Excel導入到你的網絡應用中。🤝 爲您的用戶提供愉快的數據導入體驗 🧑💻 只需幾行JS和一個webhook或回調就能輕鬆集成💪輕鬆處理大型導入文件 💯 支持CSV和所有Excel格式",
+      "tagline": "在幾分鐘內爲你的應用程序添加令人愉快的數據導入"
+    }
+  ]
 }
