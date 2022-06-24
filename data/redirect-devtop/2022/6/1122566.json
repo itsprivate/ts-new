@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-23T15:42:14Z",
   "image": "https://dev.to/social_previews/article/1122566.png",
   "author": "Salma Alam-Naylor",
-  "author_url": "https://dev.to/whitep4nth3r"
+  "author_url": "https://dev.to/whitep4nth3r",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "毎週、約300の高速でゲームを変えるフルスタックJavaScriptフレームワークがリリースされています。",
+      "title": "新しいJavaScriptフレームワークを書くべきですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "每周都有大约300个速度极快、改变游戏规则的全栈式JavaScript框架被发布到网上。",
+      "title": "我应该写一个新的JavaScript框架吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每週都有大約300個速度極快、改變遊戲規則的全棧式JavaScript框架被髮布到網上。",
+      "title": "我應該寫一個新的JavaScript框架嗎？"
+    }
+  ]
 }
