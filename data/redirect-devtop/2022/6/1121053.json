@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-22T06:54:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h5eHk8hk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qi1qjdl7yb4fbq9dqjjx.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回の記事で紹介したStravaのロゴに触発されて、Vueのロゴを再現してみました。使用するのは...",
+      "title": "CSSのロゴマークです。Vueロゴ"
+    },
+    {
+      "locale": "zh",
+      "description": "上一篇文章中的Strava标志激发了我尝试重新创建Vue的标志。它使用了...",
+      "title": "CSS标志。Vue标志"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上一篇文章中的Strava標誌激發了我嘗試重新創建Vue的標誌。它使用了...",
+      "title": "CSS標誌。Vue標誌"
+    }
+  ]
 }
