@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1656016304,
-  "the_new_excerpt": "For stocks is seems fairly intuitive since each company is a certain size/value\nso the fund buys a certain amount based on that.\n\nBut for Bond funds I’m sort of confused how this would work since you’re mixing\ndifferent durations and bond types.\n\nHow does BND for example know how much to do in…"
+  "the_new_excerpt": "For stocks is seems fairly intuitive since each company is a certain size/value\nso the fund buys a certain amount based on that.\n\nBut for Bond funds I’m sort of confused how this would work since you’re mixing\ndifferent durations and bond types.\n\nHow does BND for example know how much to do in…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "株式の場合は、各企業が一定の規模・価値であるため、かなり直感的に理解できるようです。\nそれに基づいて、ファンドが一定量を購入します。\n\nしかし、債券ファンドの場合は、異なる期間と債券の種類が混在しているため、どのように機能するのかがよくわからないのです。\nしかし、債券ファンドの場合は、異なるデュレーションと債券の種類が混在しているため、どのように機能するのかがわからない。\n\n例えば、BNDは、どのようにして、どれだけの量を...",
+      "title": "BNDやGOVTのような異なるデュレーションを含む幅広い債券ETFにおいて、パッシブ/マーケットキャップ・ウェイトは具体的にどのように機能するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对于股票来说，似乎是相当直观的，因为每家公司都有一定的规模/价值\n所以基金在此基础上买入一定数量的股票。\n\n但对于债券基金，我有点困惑，因为你混合了\n不同的期限和债券类型。\n\n例如，BND是如何知道要在多大程度上做...",
+      "title": "被动/市值加权在包含不同期限的广义债券ETF（如BND或GOVT）中究竟是如何运作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對於股票來說，似乎是相當直觀的，因爲每家公司都有一定的規模/價值\n所以基金在此基礎上買入一定數量的股票。\n\n但對於債券基金，我有點困惑，因爲你混合了\n不同的期限和債券類型。\n\n例如，BND是如何知道要在多大程度上做...",
+      "title": "被動/市值加權在包含不同期限的廣義債券ETF（如BND或GOVT）中究竟是如何運作的？"
+    }
+  ]
 }
