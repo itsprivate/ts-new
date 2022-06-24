@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この人の「光速」の遊び方"
+    },
+    {
+      "locale": "zh",
+      "title": "这家伙玩光速游戏的方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這傢伙玩光速遊戲的方式"
+    }
+  ]
 }
