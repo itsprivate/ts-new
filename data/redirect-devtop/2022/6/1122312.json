@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-23T12:17:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XSidz7CF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvnb59dlmgz2jyubssar.png",
   "author": "Gulshan Aggarwal",
-  "author_url": "https://dev.to/gulshanaggarwal"
+  "author_url": "https://dev.to/gulshanaggarwal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は、Next.jと一緒にプロジェクトを進めてきました。",
+      "title": "本番環境からconsole.logにさよならを言う"
+    },
+    {
+      "locale": "zh",
+      "description": "我从上个月开始用Next.js做一个项目，在项目中使用了console.log语句。",
+      "title": "和生产环境中的console.log说再见"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我從上個月開始用Next.js做一個項目，在項目中使用了console.log語句。",
+      "title": "和生產環境中的console.log說再見"
+    }
+  ]
 }
