@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-24T07:01:00Z"
+  "original_createdAt": "2022-06-24T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "HotPizzaは、楽しくて簡単なアイスブレイク問題を毎日または毎週自動で送信します。チームの強い絆、信頼、フレンドリーな文化を維持する 🍕。",
+      "tagline": "Slackで楽しく簡単にバーチャルチーム構築"
+    },
+    {
+      "locale": "zh",
+      "description": "HotPizza每天或每周自动发送有趣和简单的破冰问题。保持强大的团队纽带、信任和友好的文化 🍕",
+      "tagline": "在Slack中进行有趣和简单的虚拟团队建设"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "HotPizza每天或每週自動發送有趣和簡單的破冰問題。保持強大的團隊紐帶、信任和友好的文化 🍕",
+      "tagline": "在Slack中進行有趣和簡單的虛擬團隊建設"
+    }
+  ]
 }
