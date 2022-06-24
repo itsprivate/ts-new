@@ -1,0 +1,62 @@
+{
+  "author": "kayabaNerve",
+  "original_created_utc": 1656082560,
+  "title": "I found a critical bug in software by Chain, the company behind $XCN (#34). They then scammed me out of their bug bounty. Immunefi is siding with them.",
+  "created_utc": 1656088782,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;On May 9th, I submitted a critical bug bounty to Chain via Immunefi, who offers up to 5m USD for criticals with &amp;quot;a minimum reward of &lt;strong&gt;USD 150 000&lt;/strong&gt;.&amp;quot; Chain immediately said that the repository I submitted a bug for was inactive (despite having merged a bug fix commit about a week ago), yet &amp;quot;this was in scope at time of submission we are still going to honor it upon verifying the details&amp;quot;. While that did mean I wouldn&amp;#39;t be able to claim 5m USD, due to the lack of impact, it should&amp;#39;ve still been worth 150k.&lt;/p&gt;\n\n&lt;p&gt;A couple of weeks go by and... nothing. Chain said they&amp;#39;d respond in 96 hours and just walked off. Immunefi automatically re-subscribed, as Chain was in breach of their resolution time frame, and got Chain to respond!&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;Because this impact does not have any significance to any users,  there is no business impact on this matter. We apologize for the delayed  response but this needed to be thoroughly reviewed.&lt;/p&gt;\n\n&lt;p&gt;We will award you $10,000.&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;&lt;strong&gt;Veda99646 (Chain)&lt;/strong&gt; changed severity from Critical to Informational&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;Out of scope but paying&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;How can you say you&amp;#39;ll honor something as in scope, just to later say it&amp;#39;s out of scope? Since when is a double spend, with proof of concept, solely informational? It was so outrageous I reached out to Immunefi, the arbitrators, because surely this in violation of not only their posted bug bounty, yet easily shown to be Chain lying in an attempt to keep their funds.&lt;/p&gt;\n\n&lt;p&gt;&amp;quot;We believe that there is no impact as the development and support for &lt;a href=\"https://github.com/chain/chain/\"&gt;&lt;strong&gt;https://github.com/chain/chain/&lt;/strong&gt;&lt;/a&gt;  has ended and it is now archived and therefore no users are at risk.  Project agreed that it was wrong of them to include this repository in  in-scope section, so we think that the payout offered by the project is  fair.&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;Immunefi acknowledged the repo was in-scope, didn&amp;#39;t contest this was a critical vulnerability on the repo, yet &amp;#39;company made a mistake and apologized so now you don&amp;#39;t get paid&amp;#39;. Also, it wasn&amp;#39;t archived. There was no notice on the GH repository, nor in the README, which I did point out.&lt;/p&gt;\n\n&lt;p&gt;Immunefi came back with a &lt;a href=\"https://github.com/chain/chain/commit/6f8f079ab44194ccacfe45d2e847c9e4c5808e02\"&gt;commit&lt;/a&gt; adding an archival notice from a few years ago (a commit which I&amp;#39;d assume was provided by Chain). Funnily enough, they didn&amp;#39;t also come back with the &lt;a href=\"https://github.com/chain/chain/commit/82682a361a4fa3200df76abd7198d69359337ffd\"&gt;commit deleting the archival notice&lt;/a&gt; from last year. While Chain has since archived the repository, and removed the last traces of Chain Core from their site (as I pointed those out to Immunefi) &lt;a href=\"https://web.archive.org/web/20220531183905/https://github.com/chain/chain/\"&gt;the Wayback Machine doesn&amp;#39;t lie&lt;/a&gt;, and I have &lt;a href=\"https://web.archive.org/web/20220223101920/https://chain.com/core/\"&gt;all of it saved&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;With their response though, they did say the following:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;&amp;quot;It was listed as in scope on Immunefi, with &amp;quot;Blockchain/DLT&amp;quot; explicitly marked as having a critical bug bounty&amp;quot;  &lt;/p&gt;\n\n&lt;p&gt;this is correct, both Immunefi and the project never said otherwise.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;How can Immunefi fully acknowledge it&amp;#39;s in scope, with a critical bug bounty, have no one be contesting the bug&amp;#39;s existence, and say it&amp;#39;s not eligible for a critical bug bounty? On what planet does any of this make sense?&lt;/p&gt;\n\n&lt;p&gt;After responding yet again, they then didn&amp;#39;t respond for weeks, despite following up, until I said I planned to publicly disclose this (as allowed), at which point they finally said said disclosure would cause them to void the offer for 10k.&lt;/p&gt;\n\n&lt;p&gt;Well. Here&amp;#39;s my disclosure. &lt;strong&gt;If you use Chain Core, there&amp;#39;s a trivial double spend possible, allowing exponentially minting funds. They don&amp;#39;t properly check you can&amp;#39;t spend the same coins multiple times in a single transaction.&lt;/strong&gt; Chain has claimed they have such no clients, yet if you, or your company, does use this (notably with an active B2B contract with Chain), PLEASE SPEAK UP. I&amp;#39;d also like to disclose Chain is a company which lies in their bug bounty process, and disclose Immunefi won&amp;#39;t hesitate to side with corporations, even while they actively acknowledge the corporation is at fault, to deprive legitimate disclosures their advertised payouts. I no longer believe Immunefi can be effective arbitrators and will not recommend them in the future.&lt;/p&gt;\n\n&lt;p&gt;As one final question, what even is $XCN? It&amp;#39;s #34, with a blog post from months ago saying it partnered with Alameda to be their &amp;quot;market maker&amp;quot;. It&amp;#39;s a basic token with what appears to be an unattributed fork of MasterChef from Sushiswap, along with some basic governance contract? Is it just the latest VC PnD using a company from 7 years ago to give it notoriety?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 373,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?auto=webp&amp;s=9b94cc75add8f2de3ebadf192945379587c9c5c7",
+          "width": 1200,
+          "height": 600
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=f0ae170c2b24543e17ed034a63dae42994562af7",
+            "width": 108,
+            "height": 54
+          },
+          {
+            "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ef114bf6b3cb80568ea8f8683005d30e5644547e",
+            "width": 216,
+            "height": 108
+          },
+          {
+            "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1c36ca9454c41ec3fc0a9606a54af9125af0651c",
+            "width": 320,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3cea849d4f08b8ff4821caeace89f8a397ad27f4",
+            "width": 640,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=a0c4ee57aed7ba17225f168a7924cc3ad92e0e79",
+            "width": 960,
+            "height": 480
+          },
+          {
+            "url": "https://external-preview.redd.it/pvoLiDcYUClqYdizyXJwGtumZe85jYkpJk2bK9jwd5c.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=658e344918a13fa508d105b79fdefab66f4dd5d2",
+            "width": 1080,
+            "height": 540
+          }
+        ],
+        "variants": {},
+        "id": "cx6vNWikUJ1SaHmQaoQy-Gis0VZkal2SUeGwl_yNlMI"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/vjqbt3/i_found_a_critical_bug_in_software_by_chain_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "vjqbt3",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "On May 9th, I submitted a critical bug bounty to Chain via Immunefi, who offers\nup to 5m USD for criticals with \"a minimum reward of USD 150 000.\" Chain\nimmediately said that the repository I submitted a bug for was inactive (despite\nhaving merged a bug fix commit about a week ago), yet \"this was…"
+}
