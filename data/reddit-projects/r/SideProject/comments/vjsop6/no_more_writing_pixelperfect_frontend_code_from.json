@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もう、ピクセル単位の完璧なフロントエンドコードをゼロから書く必要はありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "不用再从头开始写像素级的前端代码了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不用再從頭開始寫像素級的前端代碼了!"
+    }
+  ]
 }

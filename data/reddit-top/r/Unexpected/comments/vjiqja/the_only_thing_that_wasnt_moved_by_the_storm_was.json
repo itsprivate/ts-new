@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "嵐で動かなかったのは......。"
+    },
+    {
+      "locale": "zh",
+      "title": "唯一没有被风暴移动的东西是...."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "唯一沒有被風暴移動的東西是...."
+    }
+  ]
 }
