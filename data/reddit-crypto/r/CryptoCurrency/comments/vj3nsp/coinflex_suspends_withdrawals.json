@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインフレックス、出金停止"
+    },
+    {
+      "locale": "zh",
+      "title": "Coinflex暂停提款"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Coinflex暫停提款"
+    }
+  ]
 }
