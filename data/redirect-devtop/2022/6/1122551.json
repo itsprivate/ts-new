@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-23T15:00:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hmrQ1GJs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55xuzmb3jmctxy21wi1y.png",
   "author": "Filip Rakowski",
-  "author_url": "https://dev.to/filrakowski"
+  "author_url": "https://dev.to/filrakowski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブパフォーマンスは難しいという声をよく聞きます。正直、そんなことはないと思うんです。それは...",
+      "title": "ウェブパフォーマンスのすべてがわかる（5分で）"
+    },
+    {
+      "locale": "zh",
+      "description": "我听到很多人说，网络性能很难。老实说，我不认为那是真的。它...",
+      "title": "关于网络性能你需要知道的一切（5分钟内）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我聽到很多人說，網絡性能很難。老實說，我不認爲那是真的。它...",
+      "title": "關於網絡性能你需要知道的一切（5分鐘內）。"
+    }
+  ]
 }
