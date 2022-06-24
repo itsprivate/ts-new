@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-23T09:38:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qhX7Iv79--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kl0tunqmq0132hcrotq.png",
   "author": "Dariusz Cichorski",
-  "author_url": "https://dev.to/dcichorski"
+  "author_url": "https://dev.to/dcichorski",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "仕事をするためのコードを書くのは簡単。クリーンと呼ぶにふさわしい美しいコードを書くのは...。",
+      "title": "本格的な開発を始める前に知っておきたかった5つのこと（コード・パーフェクションへの旅）"
+    },
+    {
+      "locale": "zh",
+      "description": "写出能完成工作的代码很容易。写一个漂亮的代码，值得被称为干净的代码...",
+      "title": "我希望在开始严肃的开发之前知道的5件事（进入代码完善的旅程）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "寫出能完成工作的代碼很容易。寫一個漂亮的代碼，值得被稱爲乾淨的代碼...",
+      "title": "我希望在開始嚴肅的開發之前知道的5件事（進入代碼完善的旅程）"
+    }
+  ]
 }

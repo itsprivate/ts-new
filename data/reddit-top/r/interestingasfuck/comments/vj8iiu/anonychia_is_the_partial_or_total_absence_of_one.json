@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "無爪症とは、手足の指の爪の一部または全部がない状態のことです。"
+    },
+    {
+      "locale": "zh",
+      "title": "无指甲是指手指或脚趾上部分或全部没有一个或多个指甲。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無指甲是指手指或腳趾上部分或全部沒有一個或多個指甲。"
+    }
+  ]
 }
