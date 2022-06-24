@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-13T12:37:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--791LGDsK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8jyuk7bwtnfn37rrckt4.jpg",
   "author": "Nathan",
-  "author_url": "https://dev.to/nathan20"
+  "author_url": "https://dev.to/nathan20",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RUSTが学ぶのに良い言語である理由 RUSTは素晴らしいツールを備えている。RUSTのコンパイラであるCargoは、...",
+      "title": "2022年にRust Langを学ぶべきか!"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么RUST是一种好的学习语言 RUST有很好的工具。RUST的编译器，Cargo，是一个很好的工具。",
+      "title": "2022年，你应该学习Rust Lang吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼RUST是一種好的學習語言 RUST有很好的工具。RUST的編譯器，Cargo，是一個很好的工具。",
+      "title": "2022年，你應該學習Rust Lang嗎？"
+    }
+  ]
 }
