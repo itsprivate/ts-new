@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-21T17:08:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m66MXGQQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d3g5jtr12xguxz7s3cbk.png",
   "author": "James Sinkala",
-  "author_url": "https://dev.to/xinnks"
+  "author_url": "https://dev.to/xinnks",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "VueJs Javascriptフレームワークのコンセプト、ユースケース、サンプルスタートコードなどを紹介します。",
+      "title": "VueJsフレームワークの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "对VueJs Javascript框架的介绍，它的概念、使用案例和示例启动代码。",
+      "title": "VueJs框架简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對VueJs Javascript框架的介紹，它的概念、使用案例和示例啓動代碼。",
+      "title": "VueJs框架簡介"
+    }
+  ]
 }
