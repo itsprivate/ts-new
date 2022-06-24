@@ -1,0 +1,16 @@
+{
+  "author": "MilesPower",
+  "original_created_utc": 1656063707,
+  "title": "Over 6 months ago Vitalik Buterin explained the dangers of \"cross chain bridges\" - Following the $100m Harmony One Hack lets remind ourselves why they're dangerous.",
+  "created_utc": 1656096564,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;Harmony One just got hacked for over 100m as their cross chain bridge was almost entirely drained, leaving anyone holding the wrapped version of their tokens 1ETH, 1USDC etc completely up shit creek. Harmony have disabled the bridge for the time being and prices of various assets on Harmony have completely shit the bed.&lt;/p&gt;\n\n&lt;p&gt;In a post over 6 months ago Vitalik outlined the dangers of cross chain bridges:&amp;#39;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/\"&gt;https://www.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/&lt;/a&gt;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Now, imaging what happens if you move  100 ETH onto a bridge on Solana to get 100 Solana-WETH, and then  Ethereum gets 51% attacked. The attacker deposited a bunch of their own  ETH into Solana-WETH and then reverted that transaction on the Ethereum  side as soon as the Solana side confirmed it. The Solana-WETH contract  is now no longer fully backed, and perhaps your 100 Solana-WETH is now  only worth 60 ETH. Even if there&amp;#39;s a perfect ZK-SNARK-based bridge that  fully validates consensus, it&amp;#39;s still vulnerable to theft through 51%  attacks like this.  &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;For  this reason, it&amp;#39;s always safer to hold Ethereum-native assets on  Ethereum or Solana-native assets on Solana than it is to hold  Ethereum-native assets on Solana or Solana-native assets on Ethereum&lt;/strong&gt;.  &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;This is just an excerpt from the post but the whole thing is really worth a read. It explains the inherent risk and dangers involved in cross-chain bridges. Now more than ever I think it&amp;#39;s important to remind people that tokenized &amp;quot;wrapped&amp;quot; assets on other chains are *not* the same as having the token on the native chain.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 317,
+  "permalink": "/r/CryptoCurrency/comments/vjkl6m/over_6_months_ago_vitalik_buterin_explained_the/",
+  "subreddit": "CryptoCurrency",
+  "id": "vjkl6m",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Harmony One just got hacked for over 100m as their cross chain bridge was almost\nentirely drained, leaving anyone holding the wrapped version of their tokens\n1ETH, 1USDC etc completely up shit creek. Harmony have disabled the bridge for\nthe time being and prices of various assets on Harmony have…"
+}
