@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "On May 9th, I submitted a critical bug bounty to Chain via Immunefi, who offers\nup to 5m USD for criticals with \"a minimum reward of USD 150 000.\" Chain\nimmediately said that the repository I submitted a bug for was inactive (despite\nhaving merged a bug fix commit about a week ago), yet \"this was…"
+  "the_new_excerpt": "On May 9th, I submitted a critical bug bounty to Chain via Immunefi, who offers\nup to 5m USD for criticals with \"a minimum reward of USD 150 000.\" Chain\nimmediately said that the repository I submitted a bug for was inactive (despite\nhaving merged a bug fix commit about a week ago), yet \"this was…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "5月9日、Immunefi経由でChainに重大なバグバウンティを提出しました。\n5月9日、Immunefi社経由でChain社にクリティカルバグの懸賞金を提出しました。Chainは\nはすぐに、私がバグを提出したリポジトリは活動停止中だと言いました（にもかかわらず\nChainはすぐに、私がバグを提出したリポジトリは（1週間ほど前にバグ修正のコミットをマージしていたにもかかわらず）非アクティブで、しかも「これは...」と言いました。",
+      "title": "XCN (#34) を開発した Chain 社のソフトウェアに重大なバグを発見しました。その後、彼らはバグバウンティから私をだまし取りました。Immunefiは彼らに味方している。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "5月9日，我通过Immunefi向Chain提交了一个重要的bug赏金，他提供了\n该公司为关键性问题提供高达500万美元的赏金，\"最低赏金为150 000美元\"。Chain\n立即说我提交的bug的仓库是不活跃的（尽管\n尽管一周前合并了一个错误修复提交），但 \"这是...",
+      "title": "我在$XCN（#34）背后的公司Chain的软件中发现了一个关键的错误。然后他们骗取了我的漏洞赏金。Immunefi站在了他们一边。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "5月9日，我通過Immunefi向Chain提交了一個重要的bug賞金，他提供了\n該公司爲關鍵性問題提供高達500萬美元的賞金，\"最低賞金爲150 000美元\"。Chain\n立即說我提交的bug的倉庫是不活躍的（儘管\n儘管一週前合併了一個錯誤修復提交），但 \"這是...",
+      "title": "我在$XCN（#34）背後的公司Chain的軟件中發現了一個關鍵的錯誤。然後他們騙取了我的漏洞賞金。Immunefi站在了他們一邊。"
+    }
+  ]
 }
