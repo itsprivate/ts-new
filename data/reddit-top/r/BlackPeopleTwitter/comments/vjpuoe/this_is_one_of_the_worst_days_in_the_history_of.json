@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "我が国の歴史上、最悪の日の一つである。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是我们国家历史上最糟糕的日子之一。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是我們國家歷史上最糟糕的日子之一。"
+    }
+  ]
 }
