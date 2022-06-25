@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-23T20:53:52Z",
   "image": "https://dev.to/social_previews/article/1122822.png",
   "author": "Sloan",
-  "author_url": "https://dev.to/sloan"
+  "author_url": "https://dev.to/sloan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、名前を公開したくない会員から送られた匿名の投稿です。どうか...",
+      "title": "採用凍結で将来解雇される可能性がある中で、会社に残るべきか、転職活動を始めるべきか。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个不希望透露姓名的会员发来的匿名帖子。请注意...",
+      "title": "面对未来因招聘冻结而可能出现的裁员，我应该继续留在公司，还是开始寻找工作？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個不希望透露姓名的會員發來的匿名帖子。請注意...",
+      "title": "面對未來因招聘凍結而可能出現的裁員，我應該繼續留在公司，還是開始尋找工作？"
+    }
+  ]
 }
