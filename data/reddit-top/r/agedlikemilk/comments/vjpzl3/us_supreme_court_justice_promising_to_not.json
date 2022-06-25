@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国最高裁判事は、任命公聴会でロー対ウェイド（中絶権）を覆さないことを約束。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国最高法院法官在任命听证会上承诺不推翻Roe v. Wade（堕胎权）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國最高法院法官在任命聽證會上承諾不推翻Roe v. Wade（墮胎權）。"
+    }
+  ]
 }

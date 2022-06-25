@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのデートは10点ですが、あなたが興味を失い、立ち去るに十分な1つの嫌いな点があります。それは何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的约会是10分，但它有一件你不喜欢的事情，足以让你失去兴趣/走开。那件事是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的約會是10分，但它有一件你不喜歡的事情，足以讓你失去興趣/走開。那件事是什麼？"
+    }
+  ]
 }
