@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-21T20:58:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Sp3U1j5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ach2fr0jzg6szrhrp1a5.jpg",
   "author": "Brandon Charest",
-  "author_url": "https://dev.to/brandoncharest"
+  "author_url": "https://dev.to/brandoncharest",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TLDR: このエイリアスを .aliases/.zshrc/.bashrc などのエイリアスを保存している場所に作成します...",
+      "title": "ターミナル 現在のパスをコピーする"
+    },
+    {
+      "locale": "zh",
+      "description": "简而言之：在你的.aliases/.zshrc/.bashrc或你存储别名的地方创建这个别名。",
+      "title": "终端。复制当前路径"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡而言之：在你的.aliases/.zshrc/.bashrc或你存儲別名的地方創建這個別名。",
+      "title": "終端。複製當前路徑"
+    }
+  ]
 }
