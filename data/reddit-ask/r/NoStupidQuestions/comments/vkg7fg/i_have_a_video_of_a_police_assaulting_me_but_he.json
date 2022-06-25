@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I want to surprise him in court because he has denied hitting me and I have\neverything on film. Is this allowed?"
+  "the_new_excerpt": "I want to surprise him in court because he has denied hitting me and I have\neverything on film. Is this allowed?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "彼は私を打つことを否定しているので、私は法廷で彼を驚かせたい。\nを撮影しています。これは許されるのでしょうか？",
+      "title": "私は警察が私を暴行したビデオを持っていますが、彼はこれを知らない、私は裁判の日付が設定されており、弁護士に話をしようとしている、警察は打つことを否定したが、私はフィルムでそれを持って、私は裁判所に行く前にこの情報を開示しなければならないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我想在法庭上给他一个惊喜，因为他否认打过我，而且我有所有的录像。\n一切都在影片中。这允许吗？",
+      "title": "我有一段警察殴打我的视频，但他不知道这事，我已经确定了开庭日期，正要和律师谈，警察否认打人，但我有录像，在开庭前我是否要公开这些信息？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我想在法庭上給他一個驚喜，因爲他否認打過我，而且我有所有的錄像。\n一切都在影片中。這允許嗎？",
+      "title": "我有一段警察毆打我的視頻，但他不知道這事，我已經確定了開庭日期，正要和律師談，警察否認打人，但我有錄像，在開庭前我是否要公開這些信息？"
+    }
+  ]
 }
