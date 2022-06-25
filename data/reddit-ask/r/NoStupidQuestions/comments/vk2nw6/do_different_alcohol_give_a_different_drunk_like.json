@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: Different alcohol liquors"
+  "the_new_excerpt": "Edit: Different alcohol liquors",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：アルコール度数の違うお酒",
+      "title": "麻薬の種類によって酔い方が違うように、アルコールの種類によって酔い方が違うのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：不同的酒精酒",
+      "title": "不同的酒精会带来不同的 \"醉\"，就像不同的毒品会带来不同的高潮一样。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：不同的酒精酒",
+      "title": "不同的酒精會帶來不同的 \"醉\"，就像不同的毒品會帶來不同的高潮一樣。"
+    }
+  ]
 }
