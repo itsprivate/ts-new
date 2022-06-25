@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日のニュースを見て、男性である私が女性の権利をサポートするためにできることは何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在今天的新闻之后，作为一个男性，我可以做什么来帮助支持妇女的权利？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在今天的新聞之後，作爲一個男性，我可以做什麼來幫助支持婦女的權利？"
+    }
+  ]
 }
