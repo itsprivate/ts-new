@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-22T16:12:57Z",
   "image": "https://dev.to/social_previews/article/1121497.png",
   "author": "Nico Zerpa (he/him)",
-  "author_url": "https://dev.to/nicozerpa"
+  "author_url": "https://dev.to/nicozerpa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "一見、些細なことのように思えるが、実は、この話題は人々の間で議論を呼んでいる...。",
+      "title": "JavaScriptではセミコロンを使うべきですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个乍看之下可能微不足道的话题，但它实际上引起了一些争论。",
+      "title": "你应该在JavaScript中使用分号吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個乍看之下可能微不足道的話題，但它實際上引起了一些爭論。",
+      "title": "你應該在JavaScript中使用分號嗎？"
+    }
+  ]
 }
