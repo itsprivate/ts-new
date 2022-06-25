@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "やばい! 中止だ、中止...ああ、待てよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，不! 终止，终止--哦，等等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，不! 終止，終止--哦，等等。"
+    }
+  ]
 }
