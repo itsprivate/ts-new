@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-23T02:11:31Z",
   "image": "https://dev.to/social_previews/article/1121900.png",
   "author": "Gaurav Soni",
-  "author_url": "https://dev.to/gauravsoni97"
+  "author_url": "https://dev.to/gauravsoni97",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デベロッパーツールでは、ソースタブで任意のウェブサイトのソースコードにアクセスできることは周知の事実です...  では、教えてください...",
+      "title": "reactサイトのソースコードの安全性を確保するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "在开发工具中，我们都知道，我们可以在源代码标签中访问任何网站的源代码。 那么，请告诉...",
+      "title": "如何保护我们的反应网站源代码？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在開發工具中，我們都知道，我們可以在源代碼標籤中訪問任何網站的源代碼。 那麼，請告訴...",
+      "title": "如何保護我們的反應網站源代碼？"
+    }
+  ]
 }
