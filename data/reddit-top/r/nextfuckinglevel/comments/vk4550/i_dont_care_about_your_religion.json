@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"あなたの宗教はどうでもいい\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"我不关心你的宗教\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"我不關心你的宗教\""
+    }
+  ]
 }
