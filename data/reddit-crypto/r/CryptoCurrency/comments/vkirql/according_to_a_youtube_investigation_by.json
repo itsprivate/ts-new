@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CoffeezillaのYouTube調査によると、Justin SunのUSDDはポンジ詐欺の可能性があるとのこと。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据Coffeezilla在YouTube上的调查，孙正义的USDD可能是一个庞氏骗局"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據Coffeezilla在YouTube上的調查，孫正義的USDD可能是一個龐氏騙局"
+    }
+  ]
 }
