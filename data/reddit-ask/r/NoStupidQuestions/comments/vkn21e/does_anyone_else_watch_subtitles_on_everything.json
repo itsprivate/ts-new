@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I feel like it’s almost a comfort thing. Like it helps it be complete."
+  "the_new_excerpt": "I feel like it’s almost a comfort thing. Like it helps it be complete.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それは、ほとんど心地よさのような気がします。完成度を高めてくれるような。",
+      "title": "すでに見た番組や映画も含めて、何でもかんでも字幕で見ている人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得这几乎是一个安慰的事情。就像它帮助它完成。",
+      "title": "还有人在所有东西上都看字幕吗，包括他们已经看过的节目和电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得這幾乎是一個安慰的事情。就像它幫助它完成。",
+      "title": "還有人在所有東西上都看字幕嗎，包括他們已經看過的節目和電影？"
+    }
+  ]
 }
