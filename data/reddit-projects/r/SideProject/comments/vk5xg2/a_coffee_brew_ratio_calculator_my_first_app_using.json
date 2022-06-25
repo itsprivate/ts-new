@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コーヒーの抽出比率を計算するアプリ - SwiftUIを使った初めてのアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "一个咖啡冲泡比例计算器 - 我的第一个使用SwiftUI的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個咖啡沖泡比例計算器 - 我的第一個使用SwiftUI的應用程序"
+    }
+  ]
 }
