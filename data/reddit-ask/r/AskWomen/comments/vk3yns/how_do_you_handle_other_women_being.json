@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title^"
+  "the_new_excerpt": "Title^",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "他の女性があなたに対して消極的な態度をとった場合、どのように対処しますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "标题^",
+      "title": "你如何处理其他女性对你的被动攻击？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "標題^",
+      "title": "你如何處理其他女性對你的被動攻擊？"
+    }
+  ]
 }

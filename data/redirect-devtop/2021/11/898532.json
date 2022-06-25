@@ -50,5 +50,22 @@
   "original_created_at": "2021-11-15T08:39:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BGOiTdMo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yeybnvspzt5dsobuilck.png",
   "author": "Jon Randy",
-  "author_url": "https://dev.to/jonrandy"
+  "author_url": "https://dev.to/jonrandy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて - まず最初に... 私は決してクリーンなコードを否定しているわけではありませんし、それが必ずしも...と言っているわけでもありません。",
+      "title": "クリーンコード」を説くことが開発者の質を下げている"
+    },
+    {
+      "locale": "zh",
+      "description": "好的--首先是... 我绝不是反对干净的代码，我也不是说它一定是一个...",
+      "title": "宣扬 \"清洁代码 \"正在降低开发者的质量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "好的--首先是... 我絕不是反對乾淨的代碼，我也不是說它一定是一個...",
+      "title": "宣揚 \"清潔代碼 \"正在降低開發者的質量"
+    }
+  ]
 }
