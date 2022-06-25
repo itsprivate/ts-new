@@ -58,5 +58,19 @@
   "retweet_count": 20,
   "favorite_count": 291,
   "possibly_sensitive": false,
-  "original_created_at": "Sat Jun 25 12:13:05 +0000 2022"
+  "original_created_at": "Sat Jun 25 12:13:05 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "100kについて質問している人たちへ：pls lookup discussion that we had at the time (2019) about this topic, or listen to some 2019 interviews for more detail.このトピックについて、当時（2019年）私たちがした議論を調べてください。長い話ですが、もし100kモデルが極端なアウトオブサンプル（たった4つのデータポイントで作られた）であることが気に入らないなら、55kにこだわってください https://t.co/McZ3fMRFRK"
+    },
+    {
+      "locale": "zh",
+      "full_text": "对所有询问10万的人来说：请翻阅我们当时（2019年）关于这个话题的讨论，或者听一些2019年的采访，以了解更多细节。长话短说：如果你不喜欢10万模型是极端的样本外（只用4个数据点制作），那么坚持使用55万https://t.co/McZ3fMRFRK。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "對所有詢問10萬的人來說：請翻閱我們當時（2019年）關於這個話題的討論，或者聽一些2019年的採訪，以瞭解更多細節。長話短說：如果你不喜歡10萬模型是極端的樣本外（只用4個數據點製作），那麼堅持使用55萬https://t.co/McZ3fMRFRK。"
+    }
+  ]
 }
