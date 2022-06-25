@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CrawFish新しいトレントクライアントのリンクは、コメントで"
+    },
+    {
+      "locale": "zh",
+      "title": "CrawFish新洪流客户端的评论链接"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CrawFish新洪流客戶端的評論鏈接"
+    }
+  ]
 }
