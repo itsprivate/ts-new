@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ネットなしで種を売ると、ハトが侵入して餌付け騒ぎになるのが難点です。"
+    },
+    {
+      "locale": "zh",
+      "title": "卖种子没有网子的问题是，你会得到鸽子的入侵，变成喂食的狂潮。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "賣種子沒有網子的問題是，你會得到鴿子的入侵，變成餵食的狂潮。"
+    }
+  ]
 }

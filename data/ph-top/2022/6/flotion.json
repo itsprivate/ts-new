@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-25T07:08:49Z"
+  "original_createdAt": "2022-06-25T07:08:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flotionは、Notionのページ内で、動的にリンクされたビルド済みのビジネスコンポーネントをドラッグ＆ドロップで作成することができます。顧客ポータル、マーケティングハブ、CRMなど、Notionでカスタムビジネスソリューションを構築するのに役立ちます。",
+      "tagline": "ビジネスモデラーと思想家のためのNotionスーパーパワー"
+    },
+    {
+      "locale": "zh",
+      "description": "Flotion可以让你在Notion页面中拖放动态链接的、预先构建好的业务组件。客户门户、营销中心、CRM等等--帮助你在Notion中建立自定义的业务解决方案，而不需要强大的用户学习曲线。",
+      "tagline": "商业建模者和思考者的概念超能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Flotion可以讓你在Notion頁面中拖放動態鏈接的、預先構建好的業務組件。客戶門戶、營銷中心、CRM等等--幫助你在Notion中建立自定義的業務解決方案，而不需要強大的用戶學習曲線。",
+      "tagline": "商業建模者和思考者的概念超能力"
+    }
+  ]
 }
