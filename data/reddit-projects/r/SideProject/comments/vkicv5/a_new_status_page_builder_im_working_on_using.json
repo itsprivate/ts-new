@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Svelteを使って取り組んでいる新しいステータスページビルダー!"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在使用Svelte开发的一个新的状态页面构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在使用Svelte開發的一個新的狀態頁面構建器"
+    }
+  ]
 }
