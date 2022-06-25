@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-21T05:06:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lxWCep8X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqoz77avymg47odgx1i8.png",
   "author": "Rasaf Ibrahim",
-  "author_url": "https://dev.to/rasaf_ibrahim"
+  "author_url": "https://dev.to/rasaf_ibrahim",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JSXを条件付きでレンダリングすることは、Reactでは非常に一般的かつ不可欠な作業です。その方法は4つあります。",
+      "title": "ReactでJSXを条件付きでレンダリングする4つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在React中，有条件地渲染JSX是一项非常常见和必要的工作。有4种方法可以让我们的用户在使用JSX时有更多的选择...",
+      "title": "4种在React中有条件地渲染JSX的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在React中，有條件地渲染JSX是一項非常常見和必要的工作。有4種方法可以讓我們的用戶在使用JSX時有更多的選擇...",
+      "title": "4種在React中有條件地渲染JSX的方法"
+    }
+  ]
 }
