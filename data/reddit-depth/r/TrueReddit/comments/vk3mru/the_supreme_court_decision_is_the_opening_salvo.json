@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最高裁の判決は、支配階級によるあらゆる民主的権利に対する歴史的に前例のない攻撃の口火を切るものである。"
+    },
+    {
+      "locale": "zh",
+      "title": "最高法院的决定是统治阶级对所有民主权利进行的历史上前所未有的攻击的开场白"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最高法院的決定是統治階級對所有民主權利進行的歷史上前所未有的攻擊的開場白"
+    }
+  ]
 }

@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ナスダック：ビットコインは従来の銀行取引より50倍少ないエネルギーを使用"
+    },
+    {
+      "locale": "zh",
+      "title": "纳斯达克：比特币使用的能源比传统银行少50倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "納斯達克：比特幣使用的能源比傳統銀行少50倍"
+    }
+  ]
 }
