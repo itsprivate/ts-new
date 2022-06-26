@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-24T13:00:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jCK-Lrac--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aiw4tpa3nu78vx6yr47r.png",
   "author": "Emanuele Bartolesi",
-  "author_url": "https://dev.to/kasuken"
+  "author_url": "https://dev.to/kasuken",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": ".NETプロジェクトで良いアーキテクチャを持つ方法についてはよく読みますが、私はあまり読みません。",
+      "title": ".NETプロジェクトフォルダ構造"
+    },
+    {
+      "locale": "zh",
+      "description": "我们经常读到如何为一个.NET项目建立一个好的架构，但我并不经常读到...",
+      "title": ".NET项目文件夹结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們經常讀到如何爲一個.NET項目建立一個好的架構，但我並不經常讀到...",
+      "title": ".NET項目文件夾結構"
+    }
+  ]
 }
