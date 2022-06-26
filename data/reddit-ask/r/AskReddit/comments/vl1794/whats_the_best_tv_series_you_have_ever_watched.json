@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで観たテレビシリーズの中で一番良かったものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你看过的最好的电视连续剧是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你看過的最好的電視連續劇是什麼？"
+    }
+  ]
 }
