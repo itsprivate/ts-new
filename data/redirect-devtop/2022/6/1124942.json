@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-26T17:50:09Z",
   "image": "https://dev.to/social_previews/article/1124942.png",
   "author": "ashish ",
-  "author_url": "https://dev.to/asheeshh"
+  "author_url": "https://dev.to/asheeshh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "質問は簡単で、あなたはどのYouTubeチャンネルをフォローし、どのチャンネルを薦めますか？",
+      "title": "プログラマー/デベロッパーとしてフォローしているYouTubeチャンネルで、お勧めのものを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "description": "问题很简单，你关注哪些YouTube频道，并将其作为一种推荐。",
+      "title": "作为一个程序员/开发人员，你会关注和推荐哪些YouTube频道？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "問題很簡單，你關注哪些YouTube頻道，並將其作爲一種推薦。",
+      "title": "作爲一個程序員/開發人員，你會關注和推薦哪些YouTube頻道？"
+    }
+  ]
 }
