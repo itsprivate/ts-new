@@ -13,5 +13,19 @@
   ],
   "objectID": "31882512",
   "original_created_at": "2022-06-26T10:01:07.000Z",
-  "image": "https://eng.uber.com/wp-content/uploads/2022/06/CI-bog-post-cover.jpg"
+  "image": "https://eng.uber.com/wp-content/uploads/2022/06/CI-bog-post-cover.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Go MonorepoのCIビルド時間を半分に短縮"
+    },
+    {
+      "locale": "zh",
+      "title": "我们将Go Monorepo CI的构建时间减半"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們將Go Monorepo CI的構建時間減半"
+    }
+  ]
 }
