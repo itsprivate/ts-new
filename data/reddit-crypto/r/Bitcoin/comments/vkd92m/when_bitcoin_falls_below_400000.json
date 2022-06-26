@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインが40万円を下回るとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当比特币跌破400,000美元时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當比特幣跌破400,000美元時"
+    }
+  ]
 }
