@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いつかあなたの積み重ねがブロック報酬になる。"
+    },
+    {
+      "locale": "zh",
+      "title": "有一天，你的堆栈将成为街区的奖励。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有一天，你的堆棧將成爲街區的獎勵。"
+    }
+  ]
 }
