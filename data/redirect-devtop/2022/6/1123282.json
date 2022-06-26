@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-24T09:58:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wU8JBndi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6exct3owlxtxf28a74ps.png",
   "author": "Sujeet Gund",
-  "author_url": "https://dev.to/sujeetgund"
+  "author_url": "https://dev.to/sujeetgund",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、Node.jsでSMSやWhatsAppのメッセージを送信する方法について説明します。",
+      "title": "Node.jsアプリでSMSを送信する"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将学习如何用你的Node.js发送短信或WhatsApp消息。",
+      "title": "用Node.js应用程序发送短信"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將學習如何用你的Node.js發送短信或WhatsApp消息。",
+      "title": "用Node.js應用程序發送短信"
+    }
+  ]
 }
