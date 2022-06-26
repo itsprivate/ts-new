@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If so, what is it that makes you suddenly think that? Just interested."
+  "the_new_excerpt": "If so, what is it that makes you suddenly think that? Just interested.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もしそうなら、何がきっかけで急にそう思うようになったのでしょうか？ちょっと興味があります。",
+      "title": "ソーシャルメディアで誰かにコメントや返信をするとき、途中で「なんでこんなことで悩んでるんだろう」と思って、コメントを破棄したことはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果是这样，是什么让你突然这样想？只是感兴趣。",
+      "title": "你是否曾经在社交媒体上对某人的评论或回复进行到一半的时候，想到 \"我为什么要为这个问题费心呢？\"然后丢弃这条评论？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果是這樣，是什麼讓你突然這樣想？只是感興趣。",
+      "title": "你是否曾經在社交媒體上對某人的評論或回覆進行到一半的時候，想到 \"我爲什麼要爲這個問題費心呢？\"然後丟棄這條評論？"
+    }
+  ]
 }
