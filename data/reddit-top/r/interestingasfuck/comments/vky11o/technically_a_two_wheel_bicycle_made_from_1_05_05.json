@@ -72,5 +72,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "技術的には1＋0.5＋0.5の車輪で構成される2輪自転車"
+    },
+    {
+      "locale": "zh",
+      "title": "严格来说，是由1+0.5+0.5个车轮组成的双轮自行车。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嚴格來說，是由1+0.5+0.5個車輪組成的雙輪自行車。"
+    }
+  ]
 }

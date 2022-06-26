@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-24T15:37:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZxnuM_zH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gt5uusrgbc5uuxcpywqi.png",
   "author": "Khansa Mueen",
-  "author_url": "https://dev.to/khansa"
+  "author_url": "https://dev.to/khansa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactは、Facebookが作成・管理している人気の高い高性能なUIライブラリです。Reactは...",
+      "title": "Missing Introduction To React"
+    },
+    {
+      "locale": "zh",
+      "description": "React是一个流行的、高性能的UI库，由Facebook创建和维护。React被用于...",
+      "title": "遗漏的React简介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React是一個流行的、高性能的UI庫，由Facebook創建和維護。React被用於...",
+      "title": "遺漏的React簡介"
+    }
+  ]
 }
