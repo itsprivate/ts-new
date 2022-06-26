@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "鹿さんがんばれー"
+    },
+    {
+      "locale": "zh",
+      "title": "你走吧，小鹿！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你走吧，小鹿！"
+    }
+  ]
 }
