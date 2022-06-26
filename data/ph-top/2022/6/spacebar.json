@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-26T07:06:52Z"
+  "original_createdAt": "2022-06-26T07:06:52Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SpaceBarは、記録されたTwitter Spacesをダウンロードすることができます。",
+      "tagline": "収録されているTwitter Spacesをダウンロード"
+    },
+    {
+      "locale": "zh",
+      "description": "SpaceBar让你下载录制的Twitter空间。",
+      "tagline": "下载记录的Twitter空间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SpaceBar讓你下載錄製的Twitter空間。",
+      "tagline": "下載記錄的Twitter空間"
+    }
+  ]
 }
