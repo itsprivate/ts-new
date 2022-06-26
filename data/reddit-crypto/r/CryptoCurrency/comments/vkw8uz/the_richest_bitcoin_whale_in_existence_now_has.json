@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現存する最も裕福なビットコインホエールは、一連の大規模な取引を経て、現在27億6300万ドル以上のBTCを保有しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "现存最富有的比特币鲸鱼在一系列大规模的交易后，现在拥有超过27.63亿美元的BTC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現存最富有的比特幣鯨魚在一系列大規模的交易後，現在擁有超過27.63億美元的BTC"
+    }
+  ]
 }
