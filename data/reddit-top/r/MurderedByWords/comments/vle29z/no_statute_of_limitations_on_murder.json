@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "殺人の時効はない"
+    },
+    {
+      "locale": "zh",
+      "title": "谋杀没有时效"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "謀殺沒有時效"
+    }
+  ]
 }
