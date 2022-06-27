@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "クソ自然、恐るべし!"
+    },
+    {
+      "locale": "zh",
+      "title": "该死的大自然，你真吓人!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該死的大自然，你真嚇人!"
+    }
+  ]
 }
