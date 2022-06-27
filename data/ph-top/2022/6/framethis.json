@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-26T07:01:00Z"
+  "original_createdAt": "2022-06-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "つぶやきを美しい画像に変換、背景色も選べます。開発：writeonce.devチーム",
+      "tagline": "ツイートの美しい画像を作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "将Tweet转换为漂亮的图片，并有很酷的背景颜色选项。由writeonce.dev团队建立。",
+      "tagline": "创建美丽的鸣叫图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將Tweet轉換爲漂亮的圖片，並有很酷的背景顏色選項。由writeonce.dev團隊建立。",
+      "tagline": "創建美麗的鳴叫圖像"
+    }
+  ]
 }
