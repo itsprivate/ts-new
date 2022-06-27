@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CBDCの目的は一つ、すべての市民取引を絶対的に中央で管理・統制することです。だから彼らはBitcoinを嫌うのです"
+    },
+    {
+      "locale": "zh",
+      "title": "CBDCs只关心一件事：对所有公民交易进行绝对的中央控制和管理。这就是为什么他们讨厌比特币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CBDCs只關心一件事：對所有公民交易進行絕對的中央控制和管理。這就是爲什麼他們討厭比特幣"
+    }
+  ]
 }
