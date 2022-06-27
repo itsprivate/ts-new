@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-25T18:34:23Z",
   "image": "https://dev.to/social_previews/article/1124343.png",
   "author": "Savannah TechStack",
-  "author_url": "https://dev.to/tndungu"
+  "author_url": "https://dev.to/tndungu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに TypeScriptは、最も人気があり、広く利用されている技術の1つです。",
+      "title": "TypeScript with React チュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：TypeScript已经发展成为最流行和最广泛使用的工具之一。",
+      "title": "TypeScript与React教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：TypeScript已經發展成爲最流行和最廣泛使用的工具之一。",
+      "title": "TypeScript與React教程"
+    }
+  ]
 }
