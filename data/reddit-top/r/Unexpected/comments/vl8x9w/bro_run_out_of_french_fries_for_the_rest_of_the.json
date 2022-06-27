@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブロは今日一日フライドポテトを使い果たす...。"
+    },
+    {
+      "locale": "zh",
+      "title": "兄弟在今天剩下的时间里用完了炸薯条......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兄弟在今天剩下的時間裏用完了炸薯條......"
+    }
+  ]
 }
