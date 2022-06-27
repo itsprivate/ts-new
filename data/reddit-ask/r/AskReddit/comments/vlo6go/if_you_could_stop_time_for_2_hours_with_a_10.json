@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、10分のクールダウンで2時間時間を止められるとしたら、あなたはどのように日常を過ごしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能让时间停止2小时，并有10分钟的冷却时间。你会如何度过你的日常生活？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能讓時間停止2小時，並有10分鐘的冷卻時間。你會如何度過你的日常生活？"
+    }
+  ]
 }
