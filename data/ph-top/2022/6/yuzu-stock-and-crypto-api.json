@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-27T07:01:00Z"
+  "original_createdAt": "2022-06-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Yuzuは、マーケットデータで構築を始める最速の方法です：株式、暗号、ETF、ミューチュアルファンド、FX。🎁 デモAPIキー 'product-hunt' を使って今すぐ構築を開始（3日間有効） 🔑 サインアップして個人キーを取得（永久無料）し、ベータ版に参加しましょう",
+      "tagline": "GraphQLとライブプライスストリームでフロントエンドをより速く構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "Yuzu是利用市场数据开始构建的最快方式：股票、加密货币、ETF、共同基金、外汇。🎁 使用演示API密钥'product-hunt'现在就开始构建（有效期3天） 🔑 注册以获得你的个人密钥（永远免费）并加入我们的测试版",
+      "tagline": "利用GraphQL和实时价格流更快地构建前台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Yuzu是利用市場數據開始構建的最快方式：股票、加密貨幣、ETF、共同基金、外匯。🎁 使用演示API密鑰'product-hunt'現在就開始構建（有效期3天） 🔑 註冊以獲得你的個人密鑰（永遠免費）並加入我們的測試版",
+      "tagline": "利用GraphQL和實時價格流更快地構建前臺"
+    }
+  ]
 }
