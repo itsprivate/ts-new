@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼は道路を所有する必要があります"
+    },
+    {
+      "locale": "zh",
+      "title": "他必须拥有这条路"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他必須擁有這條路"
+    }
+  ]
 }
