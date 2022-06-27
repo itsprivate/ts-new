@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-27T07:01:00Z"
+  "original_createdAt": "2022-06-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubescapeは、リスク分析、セキュリティコンプライアンス、RBACビジュアライザー、イメージスキャンなど、マルチクラウドのK8s一枚ガラスを提供するKubernetesのオープンソースツールです。Kubescapeは、設定ミスやソフトウェアの脆弱性を検出するのに役立ちます。",
+      "tagline": "エンドツーエンドのKubernetesセキュリティオープンソースプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubescape是一个Kubernetes开源工具，提供多云K8s单窗格，包括风险分析、安全合规、RBAC可视化和图像扫描。Kubescape有助于检测错误配置和软件漏洞。",
+      "tagline": "端到端的Kubernetes安全开源平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubescape是一個Kubernetes開源工具，提供多雲K8s單窗格，包括風險分析、安全合規、RBAC可視化和圖像掃描。Kubescape有助於檢測錯誤配置和軟件漏洞。",
+      "tagline": "端到端的Kubernetes安全開源平臺"
+    }
+  ]
 }
