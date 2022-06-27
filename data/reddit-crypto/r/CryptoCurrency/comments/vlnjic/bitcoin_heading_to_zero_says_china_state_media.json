@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはゼロに向かう、世界的な暗号の低迷の中、中国国営メディアが発言"
+    },
+    {
+      "locale": "zh",
+      "title": "中国国家媒体称，在全球加密货币低迷的情况下，比特币将走向零。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國國家媒體稱，在全球加密貨幣低迷的情況下，比特幣將走向零。"
+    }
+  ]
 }

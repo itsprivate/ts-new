@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"ビットコインはクソだ、米ドルを持った方がいい、安全だ\"。現在と1950年の米ドル価値の比較。"
+    },
+    {
+      "locale": "zh",
+      "title": "\"比特币是垃圾，最好持有美元，它更安全\"。现在与1950年的美元价值相比。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"比特幣是垃圾，最好持有美元，它更安全\"。現在與1950年的美元價值相比。"
+    }
+  ]
 }
