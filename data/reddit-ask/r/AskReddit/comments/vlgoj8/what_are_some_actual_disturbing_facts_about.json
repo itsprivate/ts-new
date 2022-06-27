@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが知っている歴史の中で、実際に気になる事実は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你知道哪些关于历史的实际令人不安的事实？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你知道哪些關於歷史的實際令人不安的事實？"
+    }
+  ]
 }
