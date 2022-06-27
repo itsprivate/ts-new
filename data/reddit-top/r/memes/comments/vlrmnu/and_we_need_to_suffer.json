@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そして、私たちは苦しまなければならない :("
+    },
+    {
+      "locale": "zh",
+      "title": "而我们需要承受的是:("
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "而我們需要承受的是:("
+    }
+  ]
 }
