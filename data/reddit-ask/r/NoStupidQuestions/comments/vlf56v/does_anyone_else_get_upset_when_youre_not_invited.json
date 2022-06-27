@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どこかに誘われたわけでもないのに、いざ誘われたら最後、人と一緒に過ごすのが嫌になる人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有人在没有被邀请去某个地方时感到不安，但当你收到邀请时，你最不想做的事就是与人相处吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有人在沒有被邀請去某個地方時感到不安，但當你收到邀請時，你最不想做的事就是與人相處嗎？"
+    }
+  ]
 }
