@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-24T20:35:50Z",
   "image": "https://dev.to/social_previews/article/1123812.png",
   "author": "steffanboodhoo",
-  "author_url": "https://dev.to/steffanboodhoo"
+  "author_url": "https://dev.to/steffanboodhoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React Quickstart Tutorial Contents Inspiration Prerequisites Setup React...",
+      "title": "React クイックスタートチュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "React快速入门教程 内容 灵感 先决条件 设置 React...",
+      "title": "React快速入门教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "React快速入門教程 內容 靈感 先決條件 設置 React...",
+      "title": "React快速入門教程"
+    }
+  ]
 }
