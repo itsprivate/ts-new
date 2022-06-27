@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-27T12:00:00Z"
+  "original_createdAt": "2022-06-27T12:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFT価格を利用したゲームの構築、ENSの名前登録を追跡するツール、トークンの残高を表示するウォレット、コントラクトで発生する全てのイベントを即座に取得する必要がある場合など、Transposeは様々な用途に対応します。",
+      "tagline": "Web3データをプロジェクトに簡単に統合するためのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "无论你是用NFT价格建立一个游戏，一个跟踪ENS名称注册的工具，一个显示代币余额的钱包，还是需要即时检索合约引发的所有事件，Transpose都能满足你。",
+      "tagline": "将Web3数据毫不费力地整合到你的项目中的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "無論你是用NFT價格建立一個遊戲，一個跟蹤ENS名稱註冊的工具，一個顯示代幣餘額的錢包，還是需要即時檢索合約引發的所有事件，Transpose都能滿足你。",
+      "tagline": "將Web3數據毫不費力地整合到你的項目中的API"
+    }
+  ]
 }
