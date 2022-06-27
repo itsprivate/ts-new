@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カナダは、アメリカ人が中絶のために国境を越えることを許可する。トルドー"
+    },
+    {
+      "locale": "zh",
+      "title": "加拿大将允许美国人越过边境进行堕胎。特鲁多：加拿大将允许美国人越境堕胎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "加拿大將允許美國人越過邊境進行墮胎。特魯多：加拿大將允許美國人越境墮胎"
+    }
+  ]
 }

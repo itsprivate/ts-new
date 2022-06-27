@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "出産時の合併症など緊急事態が発生した場合、パートナーに自分と赤ちゃんのどちらを選んでもらいたいですか？なぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果出现分娩并发症或其他一些医疗紧急情况，你希望你的伴侣选择你还是宝宝？为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果出現分娩併發症或其他一些醫療緊急情況，你希望你的伴侶選擇你還是寶寶？爲什麼？"
+    }
+  ]
 }
