@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-27T07:01:00Z"
+  "original_createdAt": "2022-06-27T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Fortaは、ブロックチェーンの活動をセキュリティ＆運用監視するためのリアルタイム検知ネットワークです。分散型かつコミュニティベースのFortaは、DeFi、NFT、ガバナンス、ブリッジ、その他のWeb3システム上の脅威や異常を検出するために、トッププロトコルで使用されています。",
+      "tagline": "Web3のセキュリティと運用をリアルタイムに監視"
+    },
+    {
+      "locale": "zh",
+      "description": "Forta是一个实时检测网络，用于区块链活动的安全和运营监测。去中心化和基于社区，Forta被顶级协议用来检测DeFi、NFT、治理、桥梁和其他Web3系统上的威胁和异常情况。",
+      "tagline": "Web3的实时安全和运行监测"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Forta是一個實時檢測網絡，用於區塊鏈活動的安全和運營監測。去中心化和基於社區，Forta被頂級協議用來檢測DeFi、NFT、治理、橋樑和其他Web3系統上的威脅和異常情況。",
+      "tagline": "Web3的實時安全和運行監測"
+    }
+  ]
 }
