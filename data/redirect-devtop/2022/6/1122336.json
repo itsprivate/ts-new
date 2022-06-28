@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-23T13:15:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7aokmWMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dh1ccineti6c56o8db3a.png",
   "author": "Brandon Roberts",
-  "author_url": "https://dev.to/brandontroberts"
+  "author_url": "https://dev.to/brandontroberts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteはオープンソースのbackend-as-a-serviceであり、開発者にコアとなる一連の...",
+      "title": "AngularとAppwriteを使ったリアルタイムチャットアプリの構築 🤓。"
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite是一个开源的 \"后台即服务\"，为开发者提供了一套核心技术。",
+      "title": "使用Angular和Appwrite构建一个实时聊天应用程序 🤓"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite是一個開源的 \"後臺即服務\"，爲開發者提供了一套核心技術。",
+      "title": "使用Angular和Appwrite構建一個實時聊天應用程序 🤓"
+    }
+  ]
 }
