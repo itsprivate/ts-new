@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-28T03:51:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ryiVeXgu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/devdevcharlie/image/upload/v1655176460/Group_33_lu0wgr.png",
   "author": "Charlie Gerard",
-  "author_url": "https://dev.to/devdevcharlie"
+  "author_url": "https://dev.to/devdevcharlie",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私は最近、リバースシェルとは何かを学び、Node.jsのモジュールを使ってこの種の攻撃を実行する実験に興奮しました。この記事では、私の思考の過程と、私が試したさまざまなオプションについて説明します。",
+      "title": "Node.jsのリバースシェル攻撃でコンピュータにリモートアクセスする"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近知道了什么是反向外壳，并兴奋地尝试通过Node.js模块运行这种攻击。这篇文章将介绍我的思考过程和我尝试的不同方案。",
+      "title": "用Node.js中的反向外壳攻击获得对计算机的远程访问"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近知道了什麼是反向外殼，並興奮地嘗試通過Node.js模塊運行這種攻擊。這篇文章將介紹我的思考過程和我嘗試的不同方案。",
+      "title": "用Node.js中的反向外殼攻擊獲得對計算機的遠程訪問"
+    }
+  ]
 }
