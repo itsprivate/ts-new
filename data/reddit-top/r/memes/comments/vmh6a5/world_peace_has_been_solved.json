@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"世界平和が解決された...\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"世界和平已经解决了......\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"世界和平已經解決了......\""
+    }
+  ]
 }
