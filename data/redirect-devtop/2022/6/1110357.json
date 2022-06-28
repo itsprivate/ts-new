@@ -42,5 +42,22 @@
   "original_created_at": "2022-06-10T14:17:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aqoAfn3X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kdjfnpfdobofz7yhkt74.png",
   "author": "Arman",
-  "author_url": "https://dev.to/armannik"
+  "author_url": "https://dev.to/armannik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "キャッシュが嫌いな人なんていないでしょ？それでは、Svelte &amp; Appwriteを使ってデータをキャッシュする方法を見てみましょう。 私たちは...",
+      "title": "AppwriteとCachingによるカスタムSvelteストア"
+    },
+    {
+      "locale": "zh",
+      "description": "谁会不喜欢缓存，对吗？让我们来看看如何用Svelte &amp; Appwrite来缓存数据吧!  我们...",
+      "title": "带有Appwrite和缓存的自定义Svelte商店"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "誰會不喜歡緩存，對嗎？讓我們來看看如何用Svelte &amp; Appwrite來緩存數據吧!  我們...",
+      "title": "帶有Appwrite和緩存的自定義Svelte商店"
+    }
+  ]
 }
