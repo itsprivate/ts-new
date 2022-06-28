@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "名作"
+    },
+    {
+      "locale": "zh",
+      "title": "一部杰作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一部傑作"
+    }
+  ]
 }
