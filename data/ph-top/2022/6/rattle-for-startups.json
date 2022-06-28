@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-28T07:06:00Z"
+  "original_createdAt": "2022-06-28T07:06:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたがいつも必要としている営業アシスタント。リアルタイムアラート、処方箋に基づくフォローアップアクション、Salesforceの更新機能など、すべてを1つのSlackメッセージで行うことができます。摩擦をなくし、収益を上げることができます。",
+      "tagline": "営業サイクルを加速させる、SlackからCRMを管理する"
+    },
+    {
+      "locale": "zh",
+      "description": "你一直需要的销售助理。在一条Slack消息中就能获得实时提醒、规范的后续行动和更新Salesforce的能力。消除摩擦，增加收入。",
+      "tagline": "加快你的销售周期，从Slack管理你的CRM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你一直需要的銷售助理。在一條Slack消息中就能獲得實時提醒、規範的後續行動和更新Salesforce的能力。消除摩擦，增加收入。",
+      "tagline": "加快你的銷售週期，從Slack管理你的CRM"
+    }
+  ]
 }
