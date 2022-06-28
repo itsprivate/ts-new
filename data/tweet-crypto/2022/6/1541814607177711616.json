@@ -63,5 +63,22 @@
     "retweet_count": 175,
     "favorite_count": 588,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @orionwl: いずれBIP324（P2P暗号）をビットコインで着地させたい、あるいは実際に「暗号」をやってみたいという方がいらっしゃいましたら、ぜひ...。",
+      "retweeted_status_full_text": "BIP324（P2P暗号化）をいずれビットコインに搭載したい、あるいは実際の「暗号」をやってみたいという方がいらっしゃいましたら、仕様と実装の見直しにご協力ください。\nhttps://t.co/cUQbjg0uxw"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @orionwl: 如果有人对比特币的BIP324（P2P加密）在某个时间点登陆感兴趣，或者想做实际的 \"加密\"，请...",
+      "retweeted_status_full_text": "如果有人对比特币中的BIP324（P2P加密）感兴趣，或者想做实际的 \"加密\"，请帮助回顾一下规格和实现。\nhttps://t.co/cUQbjg0uxw"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @orionwl: 如果有人對比特幣的BIP324（P2P加密）在某個時間點登陸感興趣，或者想做實際的 \"加密\"，請...",
+      "retweeted_status_full_text": "如果有人對比特幣中的BIP324（P2P加密）感興趣，或者想做實際的 \"加密\"，請幫助回顧一下規格和實現。\nhttps://t.co/cUQbjg0uxw"
+    }
+  ]
 }
