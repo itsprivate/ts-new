@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "SDSLabs feels ecstatic to announce the release of Beast, an Open Source platform\nto host and manage deployment, lifecycle, and health check of CTF challenges.\n\nBeast provides features like container based isolation, easy configuration, SSH\nsupport for challenge instances to name a few.\n\nBeast is…"
+  "the_new_excerpt": "SDSLabs feels ecstatic to announce the release of Beast, an Open Source platform\nto host and manage deployment, lifecycle, and health check of CTF challenges.\n\nBeast provides features like container based isolation, easy configuration, SSH\nsupport for challenge instances to name a few.\n\nBeast is…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "SDSLabs、オープンソースプラットフォーム「Beast」のリリースを発表。\nCTFチャレンジのデプロイメント、ライフサイクル、ヘルスチェックをホストし、管理するためのオープンソースプラットフォームです。\n\nBeastは、コンテナベースの分離、簡単な設定、SSHのサポートなどの機能を提供します。\nサポートなど、様々な機能を提供します。\n\nBeastは...",
+      "title": "Beastを発表 - オープンソースのジョパディスタイルCTF作成・管理ツール!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "SDSLabs欣喜地宣布发布开源平台 \"野兽\"。\n来主持和管理CTF挑战的部署、生命周期和健康检查。\n\nBeast提供的功能包括基于容器的隔离、简单的配置、SSH\n挑战实例的支持等等。\n\nBeast是...",
+      "title": "宣布Beast - 一个开源的Jeopardy风格的CTF创建和管理工具!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "SDSLabs欣喜地宣佈發佈開源平臺 \"野獸\"。\n來主持和管理CTF挑戰的部署、生命週期和健康檢查。\n\nBeast提供的功能包括基於容器的隔離、簡單的配置、SSH\n挑戰實例的支持等等。\n\nBeast是...",
+      "title": "宣佈Beast - 一個開源的Jeopardy風格的CTF創建和管理工具!"
+    }
+  ]
 }
