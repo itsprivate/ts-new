@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Whether it’s about gender, equality, race, other social issues, etc.."
+  "the_new_excerpt": "Whether it’s about gender, equality, race, other social issues, etc..",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ジェンダー、平等、人種、その他の社会問題などに関するものであってもです。",
+      "title": "パートナーからの無知な発言にどう対処するか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "无论是关于性别、平等、种族，还是其他社会问题，等等。",
+      "title": "你如何处理你的伴侣发表的无知言论？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "無論是關於性別、平等、種族，還是其他社會問題，等等。",
+      "title": "你如何處理你的伴侶發表的無知言論？"
+    }
+  ]
 }
