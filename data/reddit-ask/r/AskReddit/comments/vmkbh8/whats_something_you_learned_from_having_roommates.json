@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルームメイトを持つことで学んだことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你从有室友那里学到了什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你從有室友那裏學到了什麼？"
+    }
+  ]
 }

@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "質問を投稿すると、先輩のノーコーダーが助けてくれますよ。"
+    },
+    {
+      "locale": "zh",
+      "title": "当你发布问题时，资深的无码者会帮助你!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你發佈問題時，資深的無碼者會幫助你!"
+    }
+  ]
 }
