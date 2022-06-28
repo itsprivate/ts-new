@@ -58,5 +58,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-28T17:18:00Z"
+  "original_createdAt": "2022-06-28T17:18:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウィジェットは、あなたとチームメイトが一緒に使える、キャンバス上のインタラクティブなオブジェクトです。Figma は、Asana、Jira、およびコミュニティの開発者と連携して、Figma にウィジェットを導入しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "小组件是画布上的互动对象，你和你的队友可以一起使用。Figma 与 Asana、Jira 和社区中的开发人员合作，将部件引入 Figma。",
+      "tagline": "在您的Figma设计上的互动对象"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "小組件是畫布上的互動對象，你和你的隊友可以一起使用。Figma 與 Asana、Jira 和社區中的開發人員合作，將部件引入 Figma。",
+      "tagline": "在您的Figma設計上的互動對象"
+    }
+  ]
 }
