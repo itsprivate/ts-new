@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一度犯した失敗の中で、二度と犯さないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是你曾经犯过的错误，你永远不会再犯？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是你曾經犯過的錯誤，你永遠不會再犯？"
+    }
+  ]
 }
