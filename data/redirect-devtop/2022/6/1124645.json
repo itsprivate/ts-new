@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-26T08:09:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MvA5DLvc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qihwautsexvvh36sint.jpg",
   "author": "Nicolas Frankel",
-  "author_url": "https://dev.to/nfrankel"
+  "author_url": "https://dev.to/nfrankel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IT業界で2年以上の経験をお持ちの方であれば、おそらくつまずいたことがあるのではないでしょうか。",
+      "title": "コンピュータサイエンスにおけるハードなこと"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你有几年以上的IT工作经验，你可能已经偶然发现了...",
+      "title": "计算机科学中的难事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你有幾年以上的IT工作經驗，你可能已經偶然發現了...",
+      "title": "計算機科學中的難事"
+    }
+  ]
 }
