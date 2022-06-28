@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-27T12:16:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eJjAkBcP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwolut5c3g4rxfsti1c9.png",
   "author": "Ritesh Kumar",
-  "author_url": "https://dev.to/nyctonio"
+  "author_url": "https://dev.to/nyctonio",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリーンなプロジェクトで開始する pnpm init または npm init -y フルスクリーンモードにする ...",
+      "title": "eslint、EJS、およびTypescriptサーバーの変更時に再起動するTypescript + NodeJS Expressプロジェクトの作成方法"
+    },
+    {
+      "locale": "zh",
+      "description": "从一个干净的项目开始 pnpm init 或 npm init -y 进入全屏模式 ...",
+      "title": "如何用eslint、EJS和Typescript服务器变更时重启来制作Typescript+NodeJS Express项目？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從一個乾淨的項目開始 pnpm init 或 npm init -y 進入全屏模式 ...",
+      "title": "如何用eslint、EJS和Typescript服務器變更時重啓來製作Typescript+NodeJS Express項目？"
+    }
+  ]
 }
