@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-28T08:32:03Z"
+  "original_createdAt": "2022-06-28T08:32:03Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NotionlyticsはNotionワークスペースのためのページ解析アプリです Notionのページにトラッキングウィジェットを埋め込むと、そのページを経由したトラフィックに関する情報が表示されます。💯&nbsp;Try it out! 👉&nbsp; https://notionlytics.com/ プライベートページとパブリックページの両方で動作します。",
+      "tagline": "Notionワークスペースのページ解析!"
+    },
+    {
+      "locale": "zh",
+      "description": "Notionlytics是一款为你的Notion工作区提供的页面分析应用! 在你的Notion页面中嵌入跟踪小部件，并显示通过该页面的流量信息。💯&nbsp;试试吧! 👉&nbsp; https://notionlytics.com/ 在私人和公共页面上都能工作。",
+      "tagline": "为你的Notion工作区提供页面分析!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notionlytics是一款爲你的Notion工作區提供的頁面分析應用! 在你的Notion頁面中嵌入跟蹤小部件，並顯示通過該頁面的流量信息。💯&nbsp;試試吧! 👉&nbsp; https://notionlytics.com/ 在私人和公共頁面上都能工作。",
+      "tagline": "爲你的Notion工作區提供頁面分析!"
+    }
+  ]
 }
