@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-27T13:14:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Jzg580q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5x0w5d320sqzbux72ye.png",
   "author": "Everly Precia Suresh",
-  "author_url": "https://dev.to/everlygif"
+  "author_url": "https://dev.to/everlygif",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteはオープンソースのbackend-as-a-serviceで、...に関わるすべての複雑さを抽象化する。",
+      "title": "各リソースに$createdAtと$updatedAtを導入する。"
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite是一个开源的后台即服务，它将所有涉及到的复杂性抽象化。",
+      "title": "在每个资源上引入$createdAt和$updatedAt"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite是一個開源的後臺即服務，它將所有涉及到的複雜性抽象化。",
+      "title": "在每個資源上引入$createdAt和$updatedAt"
+    }
+  ]
 }

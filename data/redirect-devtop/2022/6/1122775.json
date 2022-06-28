@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-23T18:34:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yD6-iQhZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wby85lk0f38qpt8t3hgn.png",
   "author": "Sumukhakb",
-  "author_url": "https://dev.to/sumukhakb210"
+  "author_url": "https://dev.to/sumukhakb210",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Next.jsのWebサイトのパフォーマンスを上げる方法をお教えします。これから...",
+      "title": "Next.jsのWebサイトのパフォーマンスを向上させるには？"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将教你如何提高你的Next.js网站的性能。我将会...",
+      "title": "如何提高Next.js网站的性能？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將教你如何提高你的Next.js網站的性能。我將會...",
+      "title": "如何提高Next.js網站的性能？"
+    }
+  ]
 }
