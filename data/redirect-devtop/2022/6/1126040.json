@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-27T23:33:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bBlKkNGt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjdqay031tdo3plpgq7b.png",
   "author": "𝐁𝐚𝐛𝐢 ✨",
-  "author_url": "https://dev.to/babib"
+  "author_url": "https://dev.to/babib",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "画像のさまざまな部分をクリックできるようにすることができます。 HTMLの&lt;map&gt;を使うと、画像...",
+      "title": "面白い! HTMLだけで異なる画像部分をクリックできるようにする（codepen preview）"
+    },
+    {
+      "locale": "zh",
+      "description": "你可以使图片的不同部分可以点击。 使用HTML的&lt;map&gt;，你可以创建图像。",
+      "title": "有趣的是! 只用HTML就可以点击不同的图片部分（代码预览）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可以使圖片的不同部分可以點擊。 使用HTML的&lt;map&gt;，你可以創建圖像。",
+      "title": "有趣的是! 只用HTML就可以點擊不同的圖片部分（代碼預覽）。"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-27T06:45:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4C99ciii--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h8umsk6jem0u7nist7d.png",
   "author": "Ben Brazier",
-  "author_url": "https://dev.to/bentorvo"
+  "author_url": "https://dev.to/bentorvo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Git は、長期間にわたるコードの変更を管理し、チームによるコードの統合を可能にする優れたツールです...",
+      "title": "避けるべきパーツ"
+    },
+    {
+      "locale": "zh",
+      "description": "Git是一个很好的工具，可以管理一段时间内的代码变化，并允许代码被团队整合...",
+      "title": "避免的部分"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Git是一個很好的工具，可以管理一段時間內的代碼變化，並允許代碼被團隊整合...",
+      "title": "避免的部分"
+    }
+  ]
 }
