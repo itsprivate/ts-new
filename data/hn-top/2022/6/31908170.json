@@ -13,5 +13,19 @@
   ],
   "objectID": "31908170",
   "original_created_at": "2022-06-28T14:32:02.000Z",
-  "image": "https://deno.com/fresh-is-stable/header.png"
+  "image": "https://deno.com/fresh-is-stable/header.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Freshは、Denoの新しいフルスタック・ウェブ・フレームワークです。"
+    },
+    {
+      "locale": "zh",
+      "title": "Fresh是Deno的一个新的全栈网络框架"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Fresh是Deno的一個新的全棧網絡框架"
+    }
+  ]
 }
