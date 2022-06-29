@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "給料の一部をビットコインにするDCAを始めて半年、ついに10分の1ビットコインに到達しました!"
+    },
+    {
+      "locale": "zh",
+      "title": "经过6个月的DCA将我的部分工资转化为比特币，我终于达到了1/10的比特币！这是我的梦想。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "經過6個月的DCA將我的部分工資轉化爲比特幣，我終於達到了1/10的比特幣！這是我的夢想。"
+    }
+  ]
 }
