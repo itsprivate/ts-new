@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-26T21:59:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_In_m5To--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtv047b1u1o5eiu5cxhn.jpg",
   "author": "Bruno Noriller",
-  "author_url": "https://dev.to/noriller"
+  "author_url": "https://dev.to/noriller",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンポーネントが必要とするものすべてに1つの状態を使用しないことは、おそらくご存じでしょう。しかし、それを避けるために...",
+      "title": "React - そんなに多くのステートは必要ないかもしれません!"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能知道不要用一个单一的状态来满足一个组件的所有需求。但在避免这一点的同时，...",
+      "title": "反应 - 你可能不需要那么多的状态!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能知道不要用一個單一的狀態來滿足一個組件的所有需求。但在避免這一點的同時，...",
+      "title": "反應 - 你可能不需要那麼多的狀態!"
+    }
+  ]
 }
