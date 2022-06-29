@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If I wanted to see post from different subs I’d go to the popular page, no\nreason for it to be on my homepage"
+  "the_new_excerpt": "If I wanted to see post from different subs I’d go to the popular page, no\nreason for it to be on my homepage",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "違うサブの投稿を見たかったら、人気ページを見に行くだろうし、いや\nトップページに表示する必要はない",
+      "title": "Redditがフォローしていないサブスクリプションを自分のホームページに表示し続けることに腹を立てているのは僕だけだろうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果我想看不同子的帖子，我会去看热门页面，不会的。\n没有理由让它出现在我的主页上",
+      "title": "难道只有我一个人对Reddit一直把我不关注的子网站放在我的主页上感到生气吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果我想看不同子的帖子，我會去看熱門頁面，不會的。\n沒有理由讓它出現在我的主頁上",
+      "title": "難道只有我一個人對Reddit一直把我不關注的子網站放在我的主頁上感到生氣嗎？"
+    }
+  ]
 }
