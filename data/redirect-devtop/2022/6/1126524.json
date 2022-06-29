@@ -46,5 +46,22 @@
   "original_created_at": "2022-06-28T13:31:29Z",
   "image": "https://dev.to/social_previews/article/1126524.png",
   "author": "Peter Kim Frank",
-  "author_url": "https://dev.to/peter"
+  "author_url": "https://dev.to/peter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本日早朝、社内の全員ミーティングを行い、ある人物とお別れすることを共有しました...",
+      "title": "DEVチーム最新情報"
+    },
+    {
+      "locale": "zh",
+      "description": "今天早些时候，我们举行了一次公司全体人员会议，在会上我们分享了我们将告别一个...",
+      "title": "DEV团队更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天早些時候，我們舉行了一次公司全體人員會議，在會上我們分享了我們將告別一個...",
+      "title": "DEV團隊更新"
+    }
+  ]
 }
