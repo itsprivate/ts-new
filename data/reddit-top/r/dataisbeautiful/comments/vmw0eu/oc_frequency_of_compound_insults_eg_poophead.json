@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[OC] Redditのコメントにおける複合侮辱語（例：\"poophead\"、\"scumwad\"）の頻度（接頭辞と接尾辞で整理）。"
+    },
+    {
+      "locale": "zh",
+      "title": "[OC] Reddit评论中的复合侮辱（如 \"poophead\"、\"scumwad\"）的频率，按前缀和后缀排列。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[OC] Reddit評論中的複合侮辱（如 \"poophead\"、\"scumwad\"）的頻率，按前綴和後綴排列。"
+    }
+  ]
 }
