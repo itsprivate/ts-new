@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "100ドルの価値しかなかった頃のビットコインを、誰もいない会場で説明する。"
+    },
+    {
+      "locale": "zh",
+      "title": "在比特币只值100美元的时候，向一个空房间解释比特币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在比特幣只值100美元的時候，向一個空房間解釋比特幣。"
+    }
+  ]
 }
