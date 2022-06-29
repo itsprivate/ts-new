@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ、ほとんどの携帯電話の充電器は、私にしか聞こえない高周波の音を発するのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么大多数手机充电器会发出一种显然只有我才能听到的高频声音？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼大多數手機充電器會發出一種顯然只有我才能聽到的高頻聲音？"
+    }
+  ]
 }
