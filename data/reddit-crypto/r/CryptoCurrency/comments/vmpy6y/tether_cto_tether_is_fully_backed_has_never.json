@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Tether CTO：「Tetherは完全にバックアップされており、\"一度も償還に失敗したことがない\"」。"
+    },
+    {
+      "locale": "zh",
+      "title": "Tether首席技术官：\"Tether有充分的支持，'从未发生过赎回失败'\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Tether首席技術官：\"Tether有充分的支持，'從未發生過贖回失敗'\""
+    }
+  ]
 }
