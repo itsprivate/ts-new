@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-28T15:39:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hkGwwbmn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wcepsul62da8tqejfus9.png",
   "author": "Stephanie Eckles",
-  "author_url": "https://dev.to/5t3ph"
+  "author_url": "https://dev.to/5t3ph",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数年、「ラーニングジャーニーがあればいいのに」という声を聞くことがあります。",
+      "title": "Modern CSS Challengesの発表"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去几年中，我听到的反馈是，人们希望有一个可用的学习旅程。",
+      "title": "宣布现代CSS挑战赛"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去幾年中，我聽到的反饋是，人們希望有一個可用的學習旅程。",
+      "title": "宣佈現代CSS挑戰賽"
+    }
+  ]
 }
