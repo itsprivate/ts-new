@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I see collapsed comments often that are deep in the negatives, but then I’ll see\nrandom collapsed comments throughout the thread that have a very normal amount\nof votes, like 43. I’m curious about this."
+  "the_new_excerpt": "I see collapsed comments often that are deep in the negatives, but then I’ll see\nrandom collapsed comments throughout the thread that have a very normal amount\nof votes, like 43. I’m curious about this.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ネガキャンに深入りしている崩壊コメントをよく見かけますが、その時は\nごく普通の投票数のコメントもランダムに表示されます。\nが43票とか。これは気になりますね。",
+      "title": "subredditのスレッドで、ダウンヴォートされてもいないのにコメントが崩れるものがあるのはなぜですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我经常看到崩溃的评论，深陷负面情绪，但我又会看到\n在整个主题中，随机的崩溃评论有一个非常正常的数量\n的票数，如43票。我对这个问题很好奇。",
+      "title": "为什么有些评论在subreddit线程中被折叠，而它们甚至没有被降权？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我經常看到崩潰的評論，深陷負面情緒，但我又會看到\n在整個主題中，隨機的崩潰評論有一個非常正常的數量\n的票數，如43票。我對這個問題很好奇。",
+      "title": "爲什麼有些評論在subreddit線程中被摺疊，而它們甚至沒有被降權？"
+    }
+  ]
 }
