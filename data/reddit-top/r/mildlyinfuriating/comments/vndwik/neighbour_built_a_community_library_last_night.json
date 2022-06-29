@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "隣人がコミュニティ図書館を建設 昨夜、誰かがチリやキャットフードを中に捨てました。"
+    },
+    {
+      "locale": "zh",
+      "title": "邻居建立了一个社区图书馆。昨晚有人把辣椒和猫粮倒在里面"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "鄰居建立了一個社區圖書館。昨晚有人把辣椒和貓糧倒在裏面"
+    }
+  ]
 }
