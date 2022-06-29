@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そして今、彼らは親友になった"
+    },
+    {
+      "locale": "zh",
+      "title": "而现在他们是最好的朋友"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "而現在他們是最好的朋友"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、1週間以上SOから連絡がなかったら、どうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有一个多星期没有你的SO的消息，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有一個多星期沒有你的SO的消息，你會怎麼做？"
+    }
+  ]
 }
