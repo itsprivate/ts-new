@@ -52,5 +52,22 @@
   "original_created_at": "2022-05-05T15:43:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cuPSf99h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6wxfizvc8rcdfobifw2g.png",
   "author": "Agnieszka Stec",
-  "author_url": "https://dev.to/stecagnieszka"
+  "author_url": "https://dev.to/stecagnieszka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitLiveの主要機能である早期マージコンフリクト検出機能が動作するようになったことをお知らせします...",
+      "title": "VS Codeで全ブランチにわたる早期マージ競合の検出"
+    },
+    {
+      "locale": "zh",
+      "description": "我们很高兴地宣布，GitLive的旗舰功能--早期合并冲突检测，现在可以工作了。",
+      "title": "VS代码中所有分支的早期合并冲突检测"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們很高興地宣佈，GitLive的旗艦功能--早期合併衝突檢測，現在可以工作了。",
+      "title": "VS代碼中所有分支的早期合併衝突檢測"
+    }
+  ]
 }

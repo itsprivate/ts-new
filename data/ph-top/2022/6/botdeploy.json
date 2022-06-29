@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-29T07:05:49Z"
+  "original_createdAt": "2022-06-29T07:05:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BotDeployは、Discord、Slack、TelegramのボットをワンクリックでAWSにデプロイすることができます。ボットを配置するアプリを選択し、AWS アカウントに接続して、デプロイするだけです。ほら! - 数分であなたのボットがデプロイされます。",
+      "tagline": "Telegram、Slack、Discordのボットをワンクリックで導入できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "BotDeploy帮助你一键将你的Discord、Slack或Telegram机器人部署到AWS。你所要做的就是选择你想要的机器人的应用，连接你的AWS账户，然后进行部署。Voila! - 你的机器人在几分钟内就被部署好了!",
+      "tagline": "一键部署你的Telegram、Slack或Discord机器人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BotDeploy幫助你一鍵將你的Discord、Slack或Telegram機器人部署到AWS。你所要做的就是選擇你想要的機器人的應用，連接你的AWS賬戶，然後進行部署。Voila! - 你的機器人在幾分鐘內就被部署好了!",
+      "tagline": "一鍵部署你的Telegram、Slack或Discord機器人"
+    }
+  ]
 }
