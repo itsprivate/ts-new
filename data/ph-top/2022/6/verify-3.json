@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-29T07:21:30Z"
+  "original_createdAt": "2022-06-29T07:21:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NFTの所有権を確認し、既存のコレクションにアンロック可能なコンテンツを追加することが、1行のJavascriptで、無料でできます。当社のSDKを使用すれば数分で統合でき、APIを使用すればカスタムUIを構築することも可能です。",
+      "tagline": "NFTにアンロックコンテンツを数秒で追加可能"
+    },
+    {
+      "locale": "zh",
+      "description": "验证NFT的所有权，并将可解锁的内容添加到现有的收藏中，只需一行Javascript，免费。通过我们的SDK在几分钟内完成整合，或通过我们的API建立一个自定义的用户界面。",
+      "tagline": "在几秒钟内为NFT添加可解锁内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "驗證NFT的所有權，並將可解鎖的內容添加到現有的收藏中，只需一行Javascript，免費。通過我們的SDK在幾分鐘內完成整合，或通過我們的API建立一個自定義的用戶界面。",
+      "tagline": "在幾秒鐘內爲NFT添加可解鎖內容"
+    }
+  ]
 }
