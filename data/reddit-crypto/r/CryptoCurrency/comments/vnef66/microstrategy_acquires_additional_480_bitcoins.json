@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MicroStrategy、480ビットコインを1,000万ドルで追加取得（1ビットコインあたりの平均価格：20,817ドル）。"
+    },
+    {
+      "locale": "zh",
+      "title": "微策略公司以每枚比特币约20,817美元的平均价格收购了另外480枚比特币，价格约为1000万美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "微策略公司以每枚比特幣約20,817美元的平均價格收購了另外480枚比特幣，價格約爲1000萬美元。"
+    }
+  ]
 }
