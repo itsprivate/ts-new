@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のせいではありません"
+    },
+    {
+      "locale": "zh",
+      "title": "这不是我的错！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這不是我的錯！"
+    }
+  ]
 }
