@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-24T02:17:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mA7lP7Tp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hhoj91wu9hxm12jbuvz.jpg",
   "author": "Ahmad Adillaumam",
-  "author_url": "https://dev.to/adillaumam"
+  "author_url": "https://dev.to/adillaumam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "意味のある変数名 良い名前を選ぶには時間がかかりますが、それ以上に節約になります。",
+      "title": "変数名の威力"
+    },
+    {
+      "locale": "zh",
+      "description": "有意义的变量名称 选择好的名称需要时间，但节省的时间比花费的时间多。",
+      "title": "变量名称的力量"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有意義的變量名稱 選擇好的名稱需要時間，但節省的時間比花費的時間多。",
+      "title": "變量名稱的力量"
+    }
+  ]
 }
