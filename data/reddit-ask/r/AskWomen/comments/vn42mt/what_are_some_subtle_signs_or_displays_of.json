@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Either internalized or overt."
+  "the_new_excerpt": "Either internalized or overt.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "内面的なもの、あからさまなもののどちらかです。",
+      "title": "恋愛関係における女性差別の微妙な兆候や表現には、どのようなものがあるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "要么是内化的，要么是公开的。",
+      "title": "在恋爱关系中，有哪些微妙的迹象或厌女症的表现？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "要麼是內化的，要麼是公開的。",
+      "title": "在戀愛關係中，有哪些微妙的跡象或厭女症的表現？"
+    }
+  ]
 }
