@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-28T09:19:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hjxG6E_S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l0iky7o5twb601c3n8t3.png",
   "author": "Bradley Schofield",
-  "author_url": "https://dev.to/ionicisere"
+  "author_url": "https://dev.to/ionicisere",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwriteが何であるか知らないのですか？  Appwrite はオープンソースの BaaS であり、複雑に聞こえるが...",
+      "title": "Appwrite 0.15でWebhookのセキュリティをレベルアップさせる"
+    },
+    {
+      "locale": "zh",
+      "description": "不知道什么是Appwrite？  Appwrite是一个开源的BaaS，它听起来很复杂，但其实是...",
+      "title": "用Appwrite 0.15提高你的Webhook安全级别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不知道什麼是Appwrite？  Appwrite是一個開源的BaaS，它聽起來很複雜，但其實是...",
+      "title": "用Appwrite 0.15提高你的Webhook安全級別"
+    }
+  ]
 }

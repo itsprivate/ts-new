@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-29T13:30:05Z"
+  "original_createdAt": "2022-06-29T13:30:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MicroAcquireは、Slack内で1,000社以上の買収可能なスタートアップとつながることができます。アプリを統合すると、新しいスタートアップが公開された際に即座にアラートを受け取ることができ、MicroAcquireで完璧な買収機会を見つけることができます。",
+      "tagline": "新しいスタートアップが公開されると、即座にアラートを受け取ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "MicroAcquire在Slack中为您连接了1000多家经过审查的可供收购的初创企业。整合该应用程序，当新的初创企业上线时，可以收到即时提醒，帮助你在MicroAcquire上找到完美的收购机会。",
+      "tagline": "当新的初创企业上线时，会收到即时提醒"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "MicroAcquire在Slack中爲您連接了1000多家經過審查的可供收購的初創企業。整合該應用程序，當新的初創企業上線時，可以收到即時提醒，幫助你在MicroAcquire上找到完美的收購機會。",
+      "tagline": "當新的初創企業上線時，會收到即時提醒"
+    }
+  ]
 }
