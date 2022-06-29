@@ -43,5 +43,22 @@
   "original_created_at": "2022-06-28T16:55:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RHTeaSH7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0b35cce8rr5bk6k6up57.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwind CSSとFlaskとDjangoによるソフトダッシュボード設計の上に作られたオープンソースのスターター",
+      "title": "Tailwind CSS - オープンソース・スターター"
+    },
+    {
+      "locale": "zh",
+      "description": "在Tailwind的基础上精心制作的开源启动器 CSS和Flask和Django的软仪表板设计",
+      "title": "Tailwind CSS - 开源的启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Tailwind的基礎上精心製作的開源啓動器 CSS和Flask和Django的軟儀表板設計",
+      "title": "Tailwind CSS - 開源的啓動器"
+    }
+  ]
 }
