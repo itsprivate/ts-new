@@ -14,5 +14,19 @@
   "tags": [
     "CNBC"
   ],
-  "image": "https://image.cnbcfm.com/api/v1/image/107082421-1656505577898-putin.jpg?v=1656505651&w=1920&h=1080"
+  "image": "https://image.cnbcfm.com/api/v1/image/107082421-1656505577898-putin.jpg?v=1656505651&w=1920&h=1080",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ロシアはNATO拡大協定を「不安定化させる」とし、ウクライナはショッピングモールでの致命的な攻撃の映像を公開した。"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯称北约扩张协议 \"破坏稳定\"；乌克兰公布致命商场袭击的录像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯稱北約擴張協議 \"破壞穩定\"；烏克蘭公佈致命商場襲擊的錄像"
+    }
+  ]
 }
