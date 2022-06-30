@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-28T23:08:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pSgT3ZUe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vkbw9dpsy30fbtev88eq.JPG",
   "author": "Nicolas Agudelo",
-  "author_url": "https://dev.to/nicolasagudelo"
+  "author_url": "https://dev.to/nicolasagudelo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hero's Journey V1.0 皆さん、こんにちは。    これは、Pythonの最初の実用的なバージョンです...",
+      "title": "ヒーローズジャーニー......テキストベースのRPGゲーム。"
+    },
+    {
+      "locale": "zh",
+      "description": "英雄之旅 V1.0 大家好!     这是Python的第一个工作版本...",
+      "title": "英雄之旅》是一款基于文本的RPG游戏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "英雄之旅 V1.0 大家好!     這是Python的第一個工作版本...",
+      "title": "英雄之旅》是一款基於文本的RPG遊戲。"
+    }
+  ]
 }
