@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-03T18:30:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5GYVDlpR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qdj5140lfounxm2hss92.png",
   "author": "Raphaël Huchet",
-  "author_url": "https://dev.to/rap2hpoutre"
+  "author_url": "https://dev.to/rap2hpoutre",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ほぼすべてをインデックス化し、早めにインデックス化する。インデックスを作成しない場合、パフォーマンスが低下する。インデックスを付けるのが遅すぎる...",
+      "title": "初心者のためのSQLのコツ；10年以上Web開発者として時々クエリやスキーマを書き続けてわかったこと"
+    },
+    {
+      "locale": "zh",
+      "description": "几乎所有的东西都有索引，早期索引。不编制索引的结果是表现不佳。索引太晚...",
+      "title": "初学者的SQL技巧；我在10多年的网络开发中偶尔编写查询和模式后学到的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾乎所有的東西都有索引，早期索引。不編制索引的結果是表現不佳。索引太晚...",
+      "title": "初學者的SQL技巧；我在10多年的網絡開發中偶爾編寫查詢和模式後學到的東西"
+    }
+  ]
 }
