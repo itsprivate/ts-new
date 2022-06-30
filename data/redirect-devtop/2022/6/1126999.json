@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-28T20:50:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WuWkvc8d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnz2knrjw6ncdi40wkpc.png",
   "author": "Juri Strumpflohner",
-  "author_url": "https://dev.to/juristr"
+  "author_url": "https://dev.to/juristr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nxはちょうど200万NPMダウンロード/週を越えました（npmの@nrwl/taoパッケージを参照）。 ...",
+      "title": "Nx - JSエコシステムで最も急成長しているモノレポーソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "Nx的NPM下载量刚刚突破200万/周（见@nrwl/tao的npm软件包）。 ...",
+      "title": "Nx - JS生态系统中增长最快的单层解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Nx的NPM下載量剛剛突破200萬/周（見@nrwl/tao的npm軟件包）。 ...",
+      "title": "Nx - JS生態系統中增長最快的單層解決方案"
+    }
+  ]
 }
