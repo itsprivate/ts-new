@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-29T14:25:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RiKqAfX3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2i1omgwwr71pz8ule3q9.png",
   "author": "Robert Schleinhege",
-  "author_url": "https://dev.to/roberts"
+  "author_url": "https://dev.to/roberts",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア開発において、ステージングとは、コードを本番環境でテストする前に...",
+      "title": "今すぐコードのステージングを始めるべき5つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "在软件开发中，暂存是在现场环境中测试你的代码的过程，然后再进行测试。",
+      "title": "现在就开始暂存你的代码的5个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在軟件開發中，暫存是在現場環境中測試你的代碼的過程，然後再進行測試。",
+      "title": "現在就開始暫存你的代碼的5個理由"
+    }
+  ]
 }
