@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これぞまさに人生のパートナー。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是一个真正的生活伴侣。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是一個真正的生活伴侶。"
+    }
+  ]
 }
