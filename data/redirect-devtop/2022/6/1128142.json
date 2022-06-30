@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-30T05:11:45Z",
   "image": "https://dev.to/social_previews/article/1128142.png",
   "author": "ashish ",
-  "author_url": "https://dev.to/asheeshh"
+  "author_url": "https://dev.to/asheeshh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まずは簡単な質問から。「reactを使ったことがありますか」「どんなJSを使ったことがありますか」。",
+      "title": "Reactはすごいけど、freshは試したことある？"
+    },
+    {
+      "locale": "zh",
+      "description": "让我先问你一个简单的问题--\"你用过react吗？\"或者你用过任何JS...",
+      "title": "React很厉害，但你试过fresh吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我先問你一個簡單的問題--\"你用過react嗎？\"或者你用過任何JS...",
+      "title": "React很厲害，但你試過fresh嗎？"
+    }
+  ]
 }
