@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本で忍者修行をするチンパンジー"
+    },
+    {
+      "locale": "zh",
+      "title": "一只黑猩猩在日本做忍者战士课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一隻黑猩猩在日本做忍者戰士課程"
+    }
+  ]
 }
