@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の考えややっていることを書き留めるのが好きで、それを簡単にできるようにアプリを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢写下我的想法和我正在做的事情；我正在制作一个应用程序，使之更容易做到这一点。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡寫下我的想法和我正在做的事情；我正在製作一個應用程序，使之更容易做到這一點。"
+    }
+  ]
 }
