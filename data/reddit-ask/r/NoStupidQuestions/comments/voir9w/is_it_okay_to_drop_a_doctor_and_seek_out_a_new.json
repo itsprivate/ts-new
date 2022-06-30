@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Every time I visit my doctor it seems as if she wants me out as soon as I come\nthrough the door."
+  "the_new_excerpt": "Every time I visit my doctor it seems as if she wants me out as soon as I come\nthrough the door.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "医者に行くたびに、まるで私が来たらすぐに出て行けと言われているようです。\nという感じです。",
+      "title": "今かかっている医者が、自分の健康上の不安を解消してくれないと感じたら、医者を「捨てて」新しい医者を探してもいいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "每次我去看医生的时候，好像我一来她就想让我离开。\n旦进门，她就想让我离开。",
+      "title": "如果你觉得现在的医生似乎对你的健康问题不屑一顾，那么 \"放弃 \"一个医生并寻找一个新的医生是否可以呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "每次我去看醫生的時候，好像我一來她就想讓我離開。\n旦進門，她就想讓我離開。",
+      "title": "如果你覺得現在的醫生似乎對你的健康問題不屑一顧，那麼 \"放棄 \"一個醫生並尋找一個新的醫生是否可以呢？"
+    }
+  ]
 }
