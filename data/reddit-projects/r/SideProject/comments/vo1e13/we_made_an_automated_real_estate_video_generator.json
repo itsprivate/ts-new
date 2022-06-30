@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは、魅力的なマーケティングビデオを作成する自動不動産ビデオジェネレータを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们做了一个自动的房地产视频生成器，可以根据地址创建吸引人的营销视频。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們做了一個自動的房地產視頻生成器，可以根據地址創建吸引人的營銷視頻。"
+    }
+  ]
 }
