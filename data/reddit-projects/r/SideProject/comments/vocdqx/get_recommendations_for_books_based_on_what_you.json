@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すでに読んだことのある本や、自分の興味に合った本を紹介してもらう。"
+    },
+    {
+      "locale": "zh",
+      "title": "根据你已经读过的书和你的兴趣，获得书籍的推荐。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "根據你已經讀過的書和你的興趣，獲得書籍的推薦。"
+    }
+  ]
 }
