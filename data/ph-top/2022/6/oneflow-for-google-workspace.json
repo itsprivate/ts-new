@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-06-29T13:10:08Z"
+  "original_createdAt": "2022-06-29T13:10:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Oneflowは、契約書の作成から電子署名、管理まで、すべてのプロセスを自動化します。不便で静的な契約書を、便利なデジタル契約書に変えます。GoogleワークスペースやCRMなどとOneflowの契約書ワークフローを連携させましょう。",
+      "tagline": "Google DocsやSlidesから文書を作成、送信、署名できる"
+    },
+    {
+      "locale": "zh",
+      "description": "Oneflow将整个合同流程自动化，从创建到电子签名和管理，都在一个地方进行。将笨重的、静态的协议变成有用的、数字化的合同。将你的谷歌工作区、CRM等与Oneflow合同工作流程相结合。",
+      "tagline": "从Google Docs或Slides创建、发送、签署你的文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Oneflow將整個合同流程自動化，從創建到電子簽名和管理，都在一個地方進行。將笨重的、靜態的協議變成有用的、數字化的合同。將你的谷歌工作區、CRM等與Oneflow合同工作流程相結合。",
+      "tagline": "從Google Docs或Slides創建、發送、簽署你的文件"
+    }
+  ]
 }
