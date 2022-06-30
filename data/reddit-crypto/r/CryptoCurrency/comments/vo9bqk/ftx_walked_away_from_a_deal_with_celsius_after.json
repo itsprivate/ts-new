@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FTXは、セルシオの財務状況を見て、セルシオとの取引から手を引いた。"
+    },
+    {
+      "locale": "zh",
+      "title": "FTX在看到Celsius的财务状况后放弃了与它的交易"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "FTX在看到Celsius的財務狀況後放棄了與它的交易"
+    }
+  ]
 }
