@@ -57,5 +57,22 @@
   "original_created_at": "2022-06-28T10:57:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--govVvKKw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6d5u7du6eri9xtzbj3ik.png",
   "author": "Torsten Dittmann",
-  "author_url": "https://dev.to/torstendittmann"
+  "author_url": "https://dev.to/torstendittmann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "本日、私たちはAppwrite 0.15の正式リリースを発表し、私たちの最も重要な機能の一つを含むことに興奮しています。",
+      "title": "電話認証を含むAppwrite 0.15を発表しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们很高兴地宣布Appwrite 0.15的正式发布，其中包括我们最重要的产品之一。",
+      "title": "宣布Appwrite 0.15版本加入电话认证等功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們很高興地宣佈Appwrite 0.15的正式發佈，其中包括我們最重要的產品之一。",
+      "title": "宣佈Appwrite 0.15版本加入電話認證等功能"
+    }
+  ]
 }
