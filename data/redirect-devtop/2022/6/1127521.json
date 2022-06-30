@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-29T12:18:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J4PhkP5l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovb51rvthkx2pvccr8fn.png",
   "author": "Christy Jacob",
-  "author_url": "https://dev.to/christyjacob4"
+  "author_url": "https://dev.to/christyjacob4",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Appwrite 0.15が発表され、最も期待されていたAppwriteの機能のひとつがもたらされた！ ...",
+      "title": "AppwriteとTwilioを使った電話認証について"
+    },
+    {
+      "locale": "zh",
+      "description": "Appwrite 0.15刚刚发布，它带来了最令人期待的Appwrite功能之一！...",
+      "title": "用Appwrite和Twilio进行电话认证"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Appwrite 0.15剛剛發佈，它帶來了最令人期待的Appwrite功能之一！...",
+      "title": "用Appwrite和Twilio進行電話認證"
+    }
+  ]
 }
