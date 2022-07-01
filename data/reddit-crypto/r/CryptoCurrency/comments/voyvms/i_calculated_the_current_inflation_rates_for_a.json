@@ -1,0 +1,47 @@
+{
+  "author": "gnarley_quinn",
+  "original_created_utc": 1656675940,
+  "title": "I calculated the current inflation rates for a number of tokens, to ascertain if any projects had minted more than their claimed amount",
+  "created_utc": 1656715362,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I tried unsuccessfully to find a good resource that regularly updates/calculates the current inflation rates for cryptocurrencies.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;What is inflation of a crypto?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;I am invested into a small number of projects, but one key factor I focus heavily on is the inflationary nature of the native token or coin for a project. At its core basis is the idea of supply and demand.  Simply put, if supply outstrips demand, then the price of the crypto will drop.&lt;/p&gt;\n\n&lt;p&gt;The Inflation of a coin is simply the rate at which it is currently increasing its supply every year. I.e. If a token has a 2% inflation rate, then one year from now, 2% more tokens are available to buy.&lt;/p&gt;\n\n&lt;p&gt;The circulating supply of a token can drop for a number of reasons such as a burning or lost keys. Supply can increase for minting, rewards, staking or token unlocks.&lt;/p&gt;\n\n&lt;p&gt;Inflation can be a good thing for some projects in early stages, but overall a low rate of inflation will keep the buying pressure high. For example, Bitcoin&amp;#39;s inflation rate in 2012 was 32% and halved the following year. So if the project is under a year old, you can cut it some slack for now. But if it&amp;#39;s still hitting double figure inflation after three years, it is not in good shape.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Max Supply:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;It is worth noting that some projects have a maximum number of tokens that can ever be put into circulation, whereas some projects have an infinite supply, meaning the number of tokens can increase forever. For example, Bitcoin can never exceed 21million coins.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Calculations:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;I have taken the numbers from coinmarketcap at &lt;a href=\"https://coinmarketcap.com/historical/20210627/\"&gt;30 June 2021&lt;/a&gt; and 30 June 2022 (today). Anyone can verify these if they wish.  I&amp;#39;ve calculated inflation simply as:&lt;/p&gt;\n\n&lt;p&gt;Inflation Rate % = (2022 Supply / 2021 Supply ) - 1&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Results:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"left\"&gt;TOKEN&lt;/th&gt;\n&lt;th align=\"left\"&gt;2021 Supply&lt;/th&gt;\n&lt;th align=\"left\"&gt;2022 Supply&lt;/th&gt;\n&lt;th align=\"left\"&gt;Inflation Rate&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Bitcoin&lt;/td&gt;\n&lt;td align=\"left\"&gt;18,743,675&lt;/td&gt;\n&lt;td align=\"left\"&gt;19,081,950&lt;/td&gt;\n&lt;td align=\"left\"&gt;1.80 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Ethereum&lt;/td&gt;\n&lt;td align=\"left\"&gt;116,465,803&lt;/td&gt;\n&lt;td align=\"left\"&gt;121,362,281&lt;/td&gt;\n&lt;td align=\"left\"&gt;4.20 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Cardano&lt;/td&gt;\n&lt;td align=\"left\"&gt;31,946,328,269&lt;/td&gt;\n&lt;td align=\"left\"&gt;33,752,565,071&lt;/td&gt;\n&lt;td align=\"left\"&gt;5.65 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Solana&lt;/td&gt;\n&lt;td align=\"left\"&gt;272,637,428&lt;/td&gt;\n&lt;td align=\"left\"&gt;343,285,004&lt;/td&gt;\n&lt;td align=\"left\"&gt;25.91 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Polkadot&lt;/td&gt;\n&lt;td align=\"left\"&gt;955,559,127&lt;/td&gt;\n&lt;td align=\"left\"&gt;987,579,315&lt;/td&gt;\n&lt;td align=\"left\"&gt;3.35 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Chainlink&lt;/td&gt;\n&lt;td align=\"left\"&gt;435,509,554&lt;/td&gt;\n&lt;td align=\"left\"&gt;467,099,971&lt;/td&gt;\n&lt;td align=\"left\"&gt;7.25 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Binance&lt;/td&gt;\n&lt;td align=\"left\"&gt;153,432,897&lt;/td&gt;\n&lt;td align=\"left\"&gt;163,276,975&lt;/td&gt;\n&lt;td align=\"left\"&gt;6.42 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Polygon&lt;/td&gt;\n&lt;td align=\"left\"&gt;6,303,422,325&lt;/td&gt;\n&lt;td align=\"left\"&gt;8,006,803,853&lt;/td&gt;\n&lt;td align=\"left\"&gt;27.02 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Avalanche&lt;/td&gt;\n&lt;td align=\"left\"&gt;172,418,164&lt;/td&gt;\n&lt;td align=\"left\"&gt;282,370,478&lt;/td&gt;\n&lt;td align=\"left\"&gt;63.77 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Luna Classic&lt;/td&gt;\n&lt;td align=\"left\"&gt;417,736,858&lt;/td&gt;\n&lt;td align=\"left\"&gt;6,906,227,164,875&lt;/td&gt;\n&lt;td align=\"left\"&gt;1653148.22 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Cronos&lt;/td&gt;\n&lt;td align=\"left\"&gt;25,263,013,692&lt;/td&gt;\n&lt;td align=\"left\"&gt;25,263,013,692&lt;/td&gt;\n&lt;td align=\"left\"&gt;0.00 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Ripple&lt;/td&gt;\n&lt;td align=\"left\"&gt;46,244,517,593&lt;/td&gt;\n&lt;td align=\"left\"&gt;48,343,101,197&lt;/td&gt;\n&lt;td align=\"left\"&gt;4.54 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;Some projects publish their expected inflation rate. For example, Bitcoin&amp;#39;s estimated inflation rate for the year was 1.77% - which was almost bang on.&lt;/p&gt;\n\n&lt;p&gt;I will reserve judgement for now as to which projects show more or less potential for value increase based on supply and demand only. How does your project choice measure up?&lt;/p&gt;\n\n&lt;p&gt;Please note that I don&amp;#39;t trust the numbers for Cronos, but that is what is stated on CMC.&lt;/p&gt;\n\n&lt;p&gt;EDIT: Wow, so many downvotes in 30 mins. People really hate math.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;Added on request:&lt;/p&gt;\n\n&lt;table&gt;&lt;thead&gt;\n&lt;tr&gt;\n&lt;th align=\"left\"&gt;TOKEN&lt;/th&gt;\n&lt;th align=\"left\"&gt;2021 Supply&lt;/th&gt;\n&lt;th align=\"left\"&gt;2022 Supply&lt;/th&gt;\n&lt;th align=\"left\"&gt;Inflation Rate&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Cosmos&lt;/td&gt;\n&lt;td align=\"left\"&gt;210,767,263&lt;/td&gt;\n&lt;td align=\"left\"&gt;286,370,297&lt;/td&gt;\n&lt;td align=\"left\"&gt;35.87 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Harmony&lt;/td&gt;\n&lt;td align=\"left\"&gt;10,214,146,276&lt;/td&gt;\n&lt;td align=\"left\"&gt;12,287,746,635&lt;/td&gt;\n&lt;td align=\"left\"&gt;20.30 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td align=\"left\"&gt;Loopring&lt;/td&gt;\n&lt;td align=\"left\"&gt;1,225,574,300&lt;/td&gt;\n&lt;td align=\"left\"&gt;1,330,088,530&lt;/td&gt;\n&lt;td align=\"left\"&gt;8.53 %&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;&lt;/table&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 318,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/ehupqy7WdAvlmVL4vtLRjBLLd5SddqQM1SsfO0AwPao.jpg?auto=webp&amp;s=17a15a2a0861f93f597a1c798394f0087b70d3f0",
+          "width": 600,
+          "height": 315
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/ehupqy7WdAvlmVL4vtLRjBLLd5SddqQM1SsfO0AwPao.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=cbe6f8e7ae5f056ce6d9543e3c2fc5a4e0b9d542",
+            "width": 108,
+            "height": 56
+          },
+          {
+            "url": "https://external-preview.redd.it/ehupqy7WdAvlmVL4vtLRjBLLd5SddqQM1SsfO0AwPao.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=5159c2981f72d4b7a1d513b789715d09af9c745c",
+            "width": 216,
+            "height": 113
+          },
+          {
+            "url": "https://external-preview.redd.it/ehupqy7WdAvlmVL4vtLRjBLLd5SddqQM1SsfO0AwPao.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ea98bd5918d7c16f51bd8e018f5fa5beb66eb3f1",
+            "width": 320,
+            "height": 168
+          }
+        ],
+        "variants": {},
+        "id": "2CglEyeRDgHuG1rCoeOwM7On4SgUk4WbdvFYrwIEeok"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/voyvms/i_calculated_the_current_inflation_rates_for_a/",
+  "subreddit": "CryptoCurrency",
+  "id": "voyvms",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "I tried unsuccessfully to find a good resource that regularly updates/calculates\nthe current inflation rates for cryptocurrencies.\n\nWhat is inflation of a crypto?\n\nI am invested into a small number of projects, but one key factor I focus\nheavily on is the inflationary nature of the native token or…"
+}
