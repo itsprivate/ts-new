@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "鍵でもなく、ビットコインでもない。あなたの銀行でもなく あなたのお金でもない"
+    },
+    {
+      "locale": "zh",
+      "title": "不是你的钥匙，不是你的比特币。不是你的银行，不是你的钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是你的鑰匙，不是你的比特幣。不是你的銀行，不是你的錢。"
+    }
+  ]
 }
