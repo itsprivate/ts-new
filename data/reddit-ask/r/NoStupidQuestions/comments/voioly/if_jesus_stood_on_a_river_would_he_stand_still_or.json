@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It’s 2:30 AM and I can’t sleep and i randomly had this thought. Please help me"
+  "the_new_excerpt": "It’s 2:30 AM and I can’t sleep and i randomly had this thought. Please help me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今、夜中の2時半ですが、眠れず、ふとこんなことを考えてしまいました。助けてください。",
+      "title": "もしイエスが川の上に立っていたら、じっと立っているのだろうか、それともベルトコンベアーに乗っているかのように下に移動するのだろうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "现在是凌晨2:30，我睡不着，我随机有了这个想法。请帮助我",
+      "title": "如果耶稣站在一条河上，他是站着不动，还是像在传送带上一样向下移动？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "現在是凌晨2:30，我睡不着，我隨機有了這個想法。請幫助我",
+      "title": "如果耶穌站在一條河上，他是站着不動，還是像在傳送帶上一樣向下移動？"
+    }
+  ]
 }

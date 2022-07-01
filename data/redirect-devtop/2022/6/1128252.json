@@ -48,5 +48,22 @@
   "original_created_at": "2022-06-30T06:23:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eps6-nu0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z12cj1qgsau19h5dmkq2.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くの人が私の記事や他の多くの人の記事を見て、「なりたい」と思っているのです。",
+      "title": "自分のための小さな一歩、自分のための大きな一歩"
+    },
+    {
+      "locale": "zh",
+      "description": "许多人都在关注我的文章和其他许多人的文章，因为他们想成为...",
+      "title": "你的一小步，你自己的一大跳"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "許多人都在關注我的文章和其他許多人的文章，因爲他們想成爲...",
+      "title": "你的一小步，你自己的一大跳"
+    }
+  ]
 }

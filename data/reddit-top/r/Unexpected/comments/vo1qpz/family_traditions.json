@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家族の伝統"
+    },
+    {
+      "locale": "zh",
+      "title": "家庭传统"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "家庭傳統"
+    }
+  ]
 }
