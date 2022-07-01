@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "大気圧の力で定規を割る"
+    },
+    {
+      "locale": "zh",
+      "title": "用大气压力的力量折断一把尺子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用大氣壓力的力量折斷一把尺子"
+    }
+  ]
 }

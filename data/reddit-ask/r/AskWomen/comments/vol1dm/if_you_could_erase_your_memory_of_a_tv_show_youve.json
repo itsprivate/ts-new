@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I barely watch tv shows so I have no idea what to get into. Thank you:)"
+  "the_new_excerpt": "I barely watch tv shows so I have no idea what to get into. Thank you:)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "テレビ番組をほとんど見ないので、何に手を出していいのかさっぱりわからない。ありがとうございます:)",
+      "title": "もし、観たテレビ番組の記憶を消して、もう一度観られるとしたら、どんな番組がいいですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我几乎不看电视节目，所以我不知道该进入什么。谢谢你:)",
+      "title": "如果你能抹去你看过的电视节目的记忆，以便你能重新观看，你会选择什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我幾乎不看電視節目，所以我不知道該進入什麼。謝謝你:)",
+      "title": "如果你能抹去你看過的電視節目的記憶，以便你能重新觀看，你會選擇什麼？"
+    }
+  ]
 }
