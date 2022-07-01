@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-01T08:07:29Z"
+  "original_createdAt": "2022-07-01T08:07:29Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Internxt Sendは、オンライン上で安全にファイル共有ができる暗号化ファイル共有サービスです。匿名で誰にでも無料で大容量ファイルを送ることができます。Internxt Send はプライバシー会社 Internxt のプロダクトです。",
+      "tagline": "大容量ファイルを完全なプライバシーで安全に共有することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Internxt Send是一个加密的文件共享服务，允许你安全地与在线共享文件。匿名地将大文件免费发送给任何人。Internxt Send是隐私公司Internxt的一个产品。",
+      "tagline": "免费在完全隐私的情况下安全地分享大文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Internxt Send是一個加密的文件共享服務，允許你安全地與在線共享文件。匿名地將大文件免費發送給任何人。Internxt Send是隱私公司Internxt的一個產品。",
+      "tagline": "免費在完全隱私的情況下安全地分享大文件"
+    }
+  ]
 }
