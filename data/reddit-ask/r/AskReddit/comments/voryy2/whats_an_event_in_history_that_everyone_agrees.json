@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "歴史上の出来事で、誰もがひどいと思いながらも、必要なことだったと納得するものは何でしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "历史上有什么事件是每个人都同意是可怕的，但也同意它是必要的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "歷史上有什麼事件是每個人都同意是可怕的，但也同意它是必要的？"
+    }
+  ]
 }
