@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自宅の静かなビットコインマイン"
+    },
+    {
+      "locale": "zh",
+      "title": "我在家里沉默的比特币矿场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在家裏沉默的比特幣礦場"
+    }
+  ]
 }

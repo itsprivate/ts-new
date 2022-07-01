@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-01T10:56:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X38T7qee--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qd9qsb2pa6h8nm95lvfu.png",
   "author": "Weston Walker 📚",
-  "author_url": "https://dev.to/wes_walke"
+  "author_url": "https://dev.to/wes_walke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bootstrapは、デザインやCSSに苦労している人、あるいは構築する必要がある人のための素晴らしいCSSフレームワークです。",
+      "title": "Bootstrap CSSはやっぱりクソ。でも、もっと良くすることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Bootstrap是一个了不起的CSS框架，适用于那些在设计、css方面挣扎的人，或者需要建立...",
+      "title": "Bootstrap CSS仍然是最棒的。但我们可以让它变得更好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bootstrap是一個了不起的CSS框架，適用於那些在設計、css方面掙扎的人，或者需要建立...",
+      "title": "Bootstrap CSS仍然是最棒的。但我們可以讓它變得更好。"
+    }
+  ]
 }
