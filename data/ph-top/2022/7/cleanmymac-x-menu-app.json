@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-01T07:02:31Z"
+  "original_createdAt": "2022-07-01T07:02:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "5つの詳細なヘルスモニターの助けを借りて、あなたのMacの寿命を延ばすことを目的とした、まったく新しいCleanMyMac Xメニューアプリを紹介します。あなたのMacのストレージ、保護状態、CPUパフォーマンス、RAM、バッテリーに関する情報を即座に得ることができます。",
+      "tagline": "Macの信頼性を確認する"
+    },
+    {
+      "locale": "zh",
+      "description": "迎接全新的CleanMyMac X菜单应用，它旨在通过五个详细的健康监测器来增加你的Mac的寿命。获取有关您的Mac的存储、保护状态、CPU性能、RAM和电池的即时信息。",
+      "tagline": "确保你可以信任你的Mac"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "迎接全新的CleanMyMac X菜單應用，它旨在通過五個詳細的健康監測器來增加你的Mac的壽命。獲取有關您的Mac的存儲、保護狀態、CPU性能、RAM和電池的即時信息。",
+      "tagline": "確保你可以信任你的Mac"
+    }
+  ]
 }
