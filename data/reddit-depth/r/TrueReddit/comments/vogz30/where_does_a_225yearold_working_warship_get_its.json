@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "225年前の現役軍艦は、どこで部品を調達しているのだろうか。もちろん、海軍の森である。"
+    },
+    {
+      "locale": "zh",
+      "title": "一艘有225年历史的工作战舰从哪里得到它的零件？当然是在海军的森林里。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一艘有225年曆史的工作戰艦從哪裏得到它的零件？當然是在海軍的森林裏。"
+    }
+  ]
 }
