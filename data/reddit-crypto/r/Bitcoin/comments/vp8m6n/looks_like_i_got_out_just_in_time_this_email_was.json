@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どうやらギリギリで脱出できたようだ。このメールはちょうど配信されたところです。"
+    },
+    {
+      "locale": "zh",
+      "title": "看来我出来得正是时候。这封邮件刚刚送达。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看來我出來得正是時候。這封郵件剛剛送達。"
+    }
+  ]
 }
