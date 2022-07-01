@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "20ドル程度の頃のビットコインの説明"
+    },
+    {
+      "locale": "zh",
+      "title": "解释比特币在20美元左右时的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "解釋比特幣在20美元左右時的情況"
+    }
+  ]
 }
