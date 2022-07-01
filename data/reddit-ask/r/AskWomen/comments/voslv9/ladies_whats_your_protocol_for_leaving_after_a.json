@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "If nothing is established from the beginning do you leave once the other person\nfalls asleep or do you wait until the morning to leave?"
+  "the_new_excerpt": "If nothing is established from the beginning do you leave once the other person\nfalls asleep or do you wait until the morning to leave?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最初から何も成立していない場合、相手が一旦離れるのか？\nそれとも朝まで待ちますか？",
+      "title": "女性の皆さん、一夜限りの恋の後、どのような手順でお別れしますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果从一开始就没有建立任何关系，你是否会在对方离开时\n就离开，还是等到早上再离开？",
+      "title": "女士们，你们在发生一夜情后离开的协议是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果從一開始就沒有建立任何關係，你是否會在對方離開時\n就離開，還是等到早上再離開？",
+      "title": "女士們，你們在發生一夜情後離開的協議是什麼？"
+    }
+  ]
 }
