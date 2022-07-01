@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このミームには更新が必要だと思った。"
+    },
+    {
+      "locale": "zh",
+      "title": "认为这个备忘录需要更新"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "認爲這個備忘錄需要更新"
+    }
+  ]
 }
