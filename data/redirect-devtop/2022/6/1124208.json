@@ -52,5 +52,22 @@
   "original_created_at": "2022-06-25T13:34:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z4p6aWQw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fhvwf27vpo2bxtysfj9.jpeg",
   "author": "Daniele Frasca",
-  "author_url": "https://dev.to/ymwjbxxq"
+  "author_url": "https://dev.to/ymwjbxxq",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、AWS Serverlessの状況について、考察と私見を述べたいと思います...",
+      "title": "AWSサーバーレス開発の現状"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我想分享我对AWS Serverless现状的考虑和个人看法...",
+      "title": "AWS无服务器开发的现状"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我想分享我對AWS Serverless現狀的考慮和個人看法...",
+      "title": "AWS無服務器開發的現狀"
+    }
+  ]
 }
