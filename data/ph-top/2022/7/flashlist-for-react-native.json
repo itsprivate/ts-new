@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-01T07:19:54Z"
+  "original_createdAt": "2022-07-01T07:19:54Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RNではリストが面倒です。また、空白のセルが好きな人はいないでしょう。今日、FlashListは以下を提供します。- UI スレッドで最大 5X FPS - JS スレッドで最大 10X FPS - 簡単なマイグレーション すでにいくつかのアプリに搭載されており、皆さんに試していただけるのを楽しみにしています。",
+      "tagline": "ShopifyによるReact Nativeでのリストのためのパフォーマンスライブラリ。"
+    },
+    {
+      "locale": "zh",
+      "description": "列表是RN的一个痛苦。它们可能是香水的噩梦，谁会喜欢空白单元格呢？今天，FlashList提供了。- 在UI线程中高达5倍的FPS - 在JS线程中高达10倍的FPS - 易于迁移 我们已经在一些应用程序中使用了它，我们很高兴你能尝试它",
+      "tagline": "Shopify为React Native中的列表提供了一个高性能的库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "列表是RN的一個痛苦。它們可能是香水的噩夢，誰會喜歡空白單元格呢？今天，FlashList提供了。- 在UI線程中高達5倍的FPS - 在JS線程中高達10倍的FPS - 易於遷移 我們已經在一些應用程序中使用了它，我們很高興你能嘗試它",
+      "tagline": "Shopify爲React Native中的列表提供了一個高性能的庫。"
+    }
+  ]
 }
