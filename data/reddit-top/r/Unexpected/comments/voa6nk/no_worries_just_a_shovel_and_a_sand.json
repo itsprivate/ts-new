@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "心配ご無用! シャベルと砂だけで..."
+    },
+    {
+      "locale": "zh",
+      "title": "不用担心! 只需一个铲子和一个沙子..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不用擔心! 只需一個鏟子和一個沙子..."
+    }
+  ]
 }

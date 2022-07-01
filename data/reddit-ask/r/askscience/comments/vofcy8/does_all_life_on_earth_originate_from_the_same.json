@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球上のすべての生命は、同じ源から生まれたのでしょうか？つまり、人間とキャベツの祖先は同じなのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "地球上的所有生命都源于同一来源吗？换句话说，人类和白菜是否有一个共同的祖先？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "地球上的所有生命都源於同一來源嗎？換句話說，人類和白菜是否有一個共同的祖先？"
+    }
+  ]
 }
