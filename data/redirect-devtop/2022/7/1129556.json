@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-01T15:42:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yippcOvj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iw0tcll4j9s1wxsm71oo.png",
   "author": "Helitha Rupasinghe",
-  "author_url": "https://dev.to/hr21don"
+  "author_url": "https://dev.to/hr21don",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "では、SvelteはAngular、React、vueといった他のフレームワークとどう違うのか、なぜ気にする必要があるのでしょうか。",
+      "title": "2022年、すべての新人Web開発者にスベルテを勧める理由はここにある。"
+    },
+    {
+      "locale": "zh",
+      "description": "那么，Svelte与Angular、React、vue等其他框架有什么不同，我们为什么要关心呢？",
+      "title": "以下是我为什么向2022年的每一位新的网络开发人员推荐Svelte的原因"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "那麼，Svelte與Angular、React、vue等其他框架有什麼不同，我們爲什麼要關心呢？",
+      "title": "以下是我爲什麼向2022年的每一位新的網絡開發人員推薦Svelte的原因"
+    }
+  ]
 }
