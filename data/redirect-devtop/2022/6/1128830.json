@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-30T17:30:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BCohA1z1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fu2ts7sw5xsvqqgfo5gl.jpg",
   "author": "Kai Wenzel",
-  "author_url": "https://dev.to/kai_wenzel"
+  "author_url": "https://dev.to/kai_wenzel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私たち開発者が日々直面する問題のほとんどは、より小さな問題の集合を解決することで解決することができるのです。",
+      "title": "あなたの毎日を快適にする20のJavascript snippets!"
+    },
+    {
+      "locale": "zh",
+      "description": "我们开发人员每天面临的几乎所有问题都可以通过解决一组较小的问题来解决--...",
+      "title": "20个Javascript片段将使你的日子更轻松!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們開發人員每天面臨的幾乎所有問題都可以通過解決一組較小的問題來解決--...",
+      "title": "20個Javascript片段將使你的日子更輕鬆!"
+    }
+  ]
 }
