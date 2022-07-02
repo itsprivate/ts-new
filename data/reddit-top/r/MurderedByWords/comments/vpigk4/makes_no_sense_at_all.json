@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "全く意味がない"
+    },
+    {
+      "locale": "zh",
+      "title": "完全没有意义"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "完全沒有意義"
+    }
+  ]
 }

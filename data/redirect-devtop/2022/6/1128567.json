@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-30T13:37:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Hqse-Dl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vgazolnh5lj1yjm28uv3.jpg",
   "author": "Maxi Contieri",
-  "author_url": "https://dev.to/mcsee"
+  "author_url": "https://dev.to/mcsee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読みやすさのショートカットとしてブール評価を使わないでください TL;DR: サイドのブール比較は使わないでください...",
+      "title": "Code Smell 145 - Short Circuit Hack（ショートサーキットハック"
+    },
+    {
+      "locale": "zh",
+      "description": "不要把布尔评价作为可读性的捷径 TL;DR: 不要用布尔比较来做旁证...",
+      "title": "代码嗅觉145 - 短路破解"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "不要把布爾評價作爲可讀性的捷徑 TL;DR: 不要用布爾比較來做旁證...",
+      "title": "代碼嗅覺145 - 短路破解"
+    }
+  ]
 }

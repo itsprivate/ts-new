@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Thank you Reddit, you just made a non-English speaking persons, linguistic life,\nmuch easier!"
+  "the_new_excerpt": "Thank you Reddit, you just made a non-English speaking persons, linguistic life,\nmuch easier!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redditのおかげで、非英語圏の人の言語的な生活が豊かになりました。\n楽になりました。",
+      "title": "と「みんな」の違いは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "谢谢Reddit，你刚刚让一个非英语国家的人，在语言上获得了生命。\n更加容易!",
+      "title": "\"每个人 \"和 \"所有人 \"之间有什么区别？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "謝謝Reddit，你剛剛讓一個非英語國家的人，在語言上獲得了生命。\n更加容易!",
+      "title": "\"每個人 \"和 \"所有人 \"之間有什麼區別？"
+    }
+  ]
 }
