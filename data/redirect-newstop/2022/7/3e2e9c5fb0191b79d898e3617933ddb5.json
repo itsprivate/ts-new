@@ -14,5 +14,19 @@
   "tags": [
     "Reuters.com"
   ],
-  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=100"
+  "image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=100",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イラン湾岸でM6.1の地震が発生、少なくとも5人が死亡"
+    },
+    {
+      "locale": "zh",
+      "title": "伊朗湾沿岸发生6.1级地震，至少5人死亡"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "伊朗灣沿岸發生6.1級地震，至少5人死亡"
+    }
+  ]
 }
