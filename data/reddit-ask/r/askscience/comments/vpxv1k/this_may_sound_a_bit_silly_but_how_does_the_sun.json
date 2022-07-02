@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっとバカバカしいかもしれませんが、太陽は全部ガスでできているのに、どうしてバラバラにならないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "这听起来可能有点傻，但如果太阳完全由气体构成，它怎么会不散？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這聽起來可能有點傻，但如果太陽完全由氣體構成，它怎麼會不散？"
+    }
+  ]
 }
