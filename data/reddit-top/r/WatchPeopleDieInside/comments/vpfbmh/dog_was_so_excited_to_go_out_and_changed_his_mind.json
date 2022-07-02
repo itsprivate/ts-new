@@ -65,5 +65,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "犬は外出を楽しみにしていたのに、一瞬で気持ちを切り替えてしまった。"
+    },
+    {
+      "locale": "zh",
+      "title": "狗狗很兴奋地想出去玩，但马上就改变了主意"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "狗狗很興奮地想出去玩，但馬上就改變了主意"
+    }
+  ]
 }
