@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-01T09:14:45Z",
   "image": "https://dev.to/social_previews/article/1129344.png",
   "author": "saurabh satapathy",
-  "author_url": "https://dev.to/saurabh190802"
+  "author_url": "https://dev.to/saurabh190802",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptのフレームワークを扱ったことがある人なら、npmパッケージが何なのか知っているのではないでしょうか？そして、それがどれだけ重要か？",
+      "title": "npmパッケージの簡単な公開方法"
+    },
+    {
+      "locale": "zh",
+      "description": "任何从事过JavaScript框架的人都知道什么是npm包？它又有多重要？",
+      "title": "发布npm包的简易指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "任何從事過JavaScript框架的人都知道什麼是npm包？它又有多重要？",
+      "title": "發佈npm包的簡易指南"
+    }
+  ]
 }
