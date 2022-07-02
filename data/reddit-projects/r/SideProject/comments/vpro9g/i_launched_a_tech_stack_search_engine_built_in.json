@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たった3日で作った技術スタック検索エンジンを立ち上げた!"
+    },
+    {
+      "locale": "zh",
+      "title": "我推出了一个只用了3天就建成的技术栈式搜索引擎!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我推出了一個只用了3天就建成的技術棧式搜索引擎!"
+    }
+  ]
 }
