@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-01T12:53:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pigY9ZF9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1qgxfdclfonziqo8ie7.jpg",
   "author": "Kai Wenzel",
-  "author_url": "https://dev.to/kai_wenzel"
+  "author_url": "https://dev.to/kai_wenzel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "いつも小さなことから始まり、興奮し、大きなことに発展し、後に......という具合です。",
+      "title": "🔥プロが好きなReactのトリックトップ3 😎コンポーネントのサイズを小さくするために使用すること"
+    },
+    {
+      "locale": "zh",
+      "description": "它总是从一些小事开始，然后你感到兴奋，它发展到大的东西，后来...",
+      "title": "🔥 3个React技巧专家😎喜欢使用来减少组件的大小"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "它總是從一些小事開始，然後你感到興奮，它發展到大的東西，後來...",
+      "title": "🔥 3個React技巧專家😎喜歡使用來減少組件的大小"
+    }
+  ]
 }
