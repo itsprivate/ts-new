@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example: Insulin binds to the insulin receptor, which causes a chain of\nevents to happen to ultimately move GLUT4.\n\nAfter insulin binds to the receptor, what happens to insulin itself? Does it get\nreleased from the receptor? Absorbed? Does it change/get recycled? Break down?"
+  "the_new_excerpt": "For example: Insulin binds to the insulin receptor, which causes a chain of\nevents to happen to ultimately move GLUT4.\n\nAfter insulin binds to the receptor, what happens to insulin itself? Does it get\nreleased from the receptor? Absorbed? Does it change/get recycled? Break down?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、こんな感じです。インスリンがインスリン受容体に結合することで、連鎖的に\n最終的にGLUT4が移動するイベントが発生する。\n\nインスリンが受容体に結合した後、インスリン自身はどうなるのでしょうか？受容体から放出されるのでしょうか？\n受容体から放出されるのか？吸収されるのか？変化・再利用される？分解されるのか？",
+      "title": "ホルモンが受容体と結合した後はどうなるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "比如说。胰岛素与胰岛素受体结合，导致一连串的事件发生，最终移动GLUT4。\n事件的发生，最终使GLUT4移动。\n\n胰岛素与受体结合后，胰岛素本身发生了什么？它是否被\n从受体上释放？被吸收？它是否会改变/被回收？分解？",
+      "title": "激素与受体结合后会发生什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "比如說。胰島素與胰島素受體結合，導致一連串的事件發生，最終移動GLUT4。\n事件的發生，最終使GLUT4移動。\n\n胰島素與受體結合後，胰島素本身發生了什麼？它是否被\n從受體上釋放？被吸收？它是否會改變/被回收？分解？",
+      "title": "激素與受體結合後會發生什麼？"
+    }
+  ]
 }
