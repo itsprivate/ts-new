@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-01T14:51:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NU4p7p1g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtxtj0ib54n50899a8kw.jpg",
   "author": "Sm0ke",
-  "author_url": "https://dev.to/sm0ke"
+  "author_url": "https://dev.to/sm0ke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ReactとFirebaseの上に構築されたオープンソースのスターター - Horizon UIはGoogle経由のソーシャルログインが付属しています。",
+      "title": "React Horizon UI - オープンソースのFirebase Starter"
+    },
+    {
+      "locale": "zh",
+      "description": "建立在React和Firebase之上的开源启动器--Horizon UI带有通过谷歌进行的社交登录。",
+      "title": "React Horizon UI - 开源的Firebase启动器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "建立在React和Firebase之上的開源啓動器--Horizon UI帶有通過谷歌進行的社交登錄。",
+      "title": "React Horizon UI - 開源的Firebase啓動器"
+    }
+  ]
 }
