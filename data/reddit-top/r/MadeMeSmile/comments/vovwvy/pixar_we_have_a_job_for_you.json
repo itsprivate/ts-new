@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ピクサー、あなたに仕事をあげます。"
+    },
+    {
+      "locale": "zh",
+      "title": "皮克斯，我们有一份工作给你。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "皮克斯，我們有一份工作給你。"
+    }
+  ]
 }

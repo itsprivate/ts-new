@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "社会的に保守的な国から進歩的な国へ移住した女性は、生活がどの程度大きく変わりましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "从一个社会保守的国家移民到一个进步的国家的妇女，你的生活有多大的变化？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從一個社會保守的國家移民到一個進步的國家的婦女，你的生活有多大的變化？"
+    }
+  ]
 }
