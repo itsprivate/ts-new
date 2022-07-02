@@ -13,5 +13,19 @@
   ],
   "objectID": "31961912",
   "original_created_at": "2022-07-02T20:08:38.000Z",
-  "image": "https://erikmcclure.com/img/avatar.png"
+  "image": "https://erikmcclure.com/img/avatar.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MSVCRTのWindows malloc()の実装が遅い"
+    },
+    {
+      "locale": "zh",
+      "title": "MSVCRT的Windows malloc()实现很慢"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "MSVCRT的Windows malloc()實現很慢"
+    }
+  ]
 }
