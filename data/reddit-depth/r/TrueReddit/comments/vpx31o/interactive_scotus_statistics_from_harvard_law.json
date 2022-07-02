@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハーバード・ロー・レビューによるインタラクティブなSCOTUS統計。裁判所についての興味深い考察です。"
+    },
+    {
+      "locale": "zh",
+      "title": "哈佛法律评论》的互动式上合组织统计。对法院的一个有趣的观察。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哈佛法律評論》的互動式上合組織統計。對法院的一個有趣的觀察。"
+    }
+  ]
 }
