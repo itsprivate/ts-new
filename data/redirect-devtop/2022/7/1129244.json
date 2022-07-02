@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-01T07:11:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tQIwJJsb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v538fetfgmkrm9vc8z9l.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "読者の中にはご存知の方もいらっしゃるかもしれませんが、私はウェブの最適化が大の苦手なんです。 その中で述べたように...",
+      "title": "ウェブを再び高速化する"
+    },
+    {
+      "locale": "zh",
+      "description": "你们中的一些忠实读者可能知道，我是一个优化网络的大粉丝。 如同在《中国日报》上提到的那样。",
+      "title": "让网络再次变得快速"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你們中的一些忠實讀者可能知道，我是一個優化網絡的大粉絲。 如同在《中國日報》上提到的那樣。",
+      "title": "讓網絡再次變得快速"
+    }
+  ]
 }
