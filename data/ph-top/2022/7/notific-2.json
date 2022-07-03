@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-03T07:05:08Z"
+  "original_createdAt": "2022-07-03T07:05:08Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Notificは、暗号ウォレット（Ethereumとpolygon）のためのマルチチェーン、マルチプラットフォーム通知サービスです。ユーザーはWhatsAppやTelegram上でウォレットのアクティビティをリアルタイムで取得することができます。",
+      "tagline": "暗号化ウォレットのWhatsapp通知機能"
+    },
+    {
+      "locale": "zh",
+      "description": "Notific是一个多链、多平台的通知服务，为您的加密货币钱包（Ethereum和polygon）提供服务。用户可以在WhatsApp和Telegram上直接获得其钱包活动的实时更新。",
+      "tagline": "为你的加密货币钱包提供Whatsapp通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Notific是一個多鏈、多平臺的通知服務，爲您的加密貨幣錢包（Ethereum和polygon）提供服務。用戶可以在WhatsApp和Telegram上直接獲得其錢包活動的實時更新。",
+      "tagline": "爲你的加密貨幣錢包提供Whatsapp通知"
+    }
+  ]
 }
