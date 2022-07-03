@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番衝撃的だったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的生活中，你见过的最令人震惊的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的生活中，你見過的最令人震驚的事情是什麼？"
+    }
+  ]
 }
