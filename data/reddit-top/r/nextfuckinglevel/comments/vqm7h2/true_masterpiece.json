@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "真のマスターピース"
+    },
+    {
+      "locale": "zh",
+      "title": "真正的杰作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "真正的傑作"
+    }
+  ]
 }
