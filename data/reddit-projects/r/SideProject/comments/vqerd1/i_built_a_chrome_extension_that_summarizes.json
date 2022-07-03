@@ -38,5 +38,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey guys! 👋🏽\n\nSo I've always been pretty lazy. Some months ago, I was working on a pretty\nboring report that consisted mainly of summarizing articles. As a good hacker, I\nrealized that I could automate it. So I made a very simple script using GPT-3 to\nsummarize texts. It worked well. Actually,…"
+  "the_new_excerpt": "Hey guys! 👋🏽\n\nSo I've always been pretty lazy. Some months ago, I was working on a pretty\nboring report that consisted mainly of summarizing articles. As a good hacker, I\nrealized that I could automate it. So I made a very simple script using GPT-3 to\nsummarize texts. It worked well. Actually,…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "みんなー! 👋🏽\n\nだから、私はいつもかなり怠け者なんだ。数ヶ月前、私は記事の要約を中心とした退屈なレポートを作成していました。\n主に記事の要約で構成された、かなり退屈なレポートに取り組んでいました。優秀なハッカーとして、私は\nそれを自動化できることに気がつきました。そこで、GPT-3を使って非常に簡単なスクリプトを作り、文章を要約するようにした。\nを使った簡単なスクリプトを作った。これはうまくいった。実は...",
+      "title": "GPT-3で記事を要約するChrome Extensionを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "嘿，伙计们! 👋🏽\n\n我一直都很懒惰。几个月前，我在做一份相当\n无聊的报告，其中主要是总结文章。作为一个优秀的黑客，我\n我意识到，我可以把它自动化。所以我做了一个非常简单的脚本，使用GPT-3来\n对文本进行总结。它运行得很好。实际上，...",
+      "title": "我建立了一个Chrome扩展，用GPT-3来总结文章。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嘿，夥計們! 👋🏽\n\n我一直都很懶惰。幾個月前，我在做一份相當\n無聊的報告，其中主要是總結文章。作爲一個優秀的黑客，我\n我意識到，我可以把它自動化。所以我做了一個非常簡單的腳本，使用GPT-3來\n對文本進行總結。它運行得很好。實際上，...",
+      "title": "我建立了一個Chrome擴展，用GPT-3來總結文章。"
+    }
+  ]
 }
