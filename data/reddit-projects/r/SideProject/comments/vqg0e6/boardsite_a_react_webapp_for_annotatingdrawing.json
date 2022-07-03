@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Boardsite - React Webapp for annotating/drawing + sharing/collaborating with friends（友人とアノテーション/ドローイングを共有するためのReactウェブアプリ"
+    },
+    {
+      "locale": "zh",
+      "title": "Boardsite - 一个用于注释/绘图+与朋友分享/协作的React Web应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Boardsite - 一個用於註釋/繪圖+與朋友分享/協作的React Web應用"
+    }
+  ]
 }
