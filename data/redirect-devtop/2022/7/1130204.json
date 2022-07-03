@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-02T12:44:23Z",
   "image": "https://dev.to/social_previews/article/1130204.png",
   "author": "Amitav Mishra",
-  "author_url": "https://dev.to/amitavmishra99"
+  "author_url": "https://dev.to/amitavmishra99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ショートハンドのコツなどを確認してみましょう。ただし、これらの中には関係ないと思われるものもあります。",
+      "title": "JavaScriptの省略記法のヒントとコツ"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来看看一些速记技巧和其他窍门。请记住，其中一些可能并不相关...",
+      "title": "JavaScript速记技巧和窍门"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來看看一些速記技巧和其他竅門。請記住，其中一些可能並不相關...",
+      "title": "JavaScript速記技巧和竅門"
+    }
+  ]
 }
