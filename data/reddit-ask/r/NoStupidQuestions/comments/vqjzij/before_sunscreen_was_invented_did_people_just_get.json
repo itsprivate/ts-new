@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日焼け止めが発明される前は、人はいつも火傷や皮膚がんになっていたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在防晒霜被发明之前，人们是不是一直都会被烧伤和患皮肤癌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在防曬霜被髮明之前，人們是不是一直都會被燒傷和患皮膚癌？"
+    }
+  ]
 }
