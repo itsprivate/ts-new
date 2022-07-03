@@ -57,5 +57,22 @@
   "original_created_at": "2022-07-01T11:21:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dSmJWmUe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0px1p6g1gcg1j6txuzk6.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいJavascriptフレームワークを評価する時が再びやってきた...が、待てよ。でも、ちょっと待ってください。",
+      "title": "Fresh - この新しいJavascriptフレームワークは、Nodeキラーになるか？"
+    },
+    {
+      "locale": "zh",
+      "description": "又到了评估一个新的Javascript框架的时候了......但是，等等。这并不是你所要做的...",
+      "title": "新鲜 - 这个新的Javascript框架是Node的杀手吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "又到了評估一個新的Javascript框架的時候了......但是，等等。這並不是你所要做的...",
+      "title": "新鮮 - 這個新的Javascript框架是Node的殺手嗎？"
+    }
+  ]
 }
