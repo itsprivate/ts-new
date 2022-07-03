@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "連邦準備制度からの独立を宣言する必要がある。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们需要宣布从美联储中独立出来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們需要宣佈從美聯儲中獨立出來"
+    }
+  ]
 }
