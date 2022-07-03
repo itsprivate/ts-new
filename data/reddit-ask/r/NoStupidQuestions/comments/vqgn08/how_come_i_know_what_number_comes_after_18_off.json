@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どうして、18の次に来る数字が頭に入っているのに、Tの次に来る文字が、アルファベットを全部調べないと分からないのでしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么我知道18后面是什么数字，但我不知道T后面是什么字母，也不知道整个字母表？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼我知道18後面是什麼數字，但我不知道T後面是什麼字母，也不知道整個字母表？"
+    }
+  ]
 }
