@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I feel spoiled and ungrateful to even ask this question"
+  "the_new_excerpt": "I feel spoiled and ungrateful to even ask this question",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "この質問をすることすら、甘えであり、恩知らずであると感じています。",
+      "title": "年収3万2千円なのに、まだ貧乏なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得自己被宠坏了，连问这个问题都不知道。",
+      "title": "我一年赚了3万2千美元，还觉得很穷？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得自己被寵壞了，連問這個問題都不知道。",
+      "title": "我一年賺了3萬2千美元，還覺得很窮？"
+    }
+  ]
 }
