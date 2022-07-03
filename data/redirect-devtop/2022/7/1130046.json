@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-02T04:36:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JuNuo0Iz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69wp0748qrx9fnb5u55r.png",
   "author": "Sandeep",
-  "author_url": "https://dev.to/deepakjaiswal"
+  "author_url": "https://dev.to/deepakjaiswal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "mongooseコレクションでデータを検索すると、mongooseドキュメントが表示されることがあるのですが、leanを使用すると...",
+      "title": "NodeJsでリーン関数を使ってMongoDBのデータを10倍小さく、速くする"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，我在mongoose集合中寻找数据，它给出了mongoose文档，但当我们使用Lean...",
+      "title": "在NodeJs中使用精简函数，使MongoDB的数据缩小10倍，速度更快"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，我在mongoose集合中尋找數據，它給出了mongoose文檔，但當我們使用Lean...",
+      "title": "在NodeJs中使用精簡函數，使MongoDB的數據縮小10倍，速度更快"
+    }
+  ]
 }
