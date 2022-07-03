@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソフトウェアエンジニアの求人掲示板を作り、16,000件の求人をインデックス化しました。働きたいスキル、年功序列、業界、勤務地で検索できます｜echojobs.io"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个软件工程师的招聘网站，索引了16,000个工作。你可以按你想工作的技能、资历、行业和地点进行搜索| echojobs.io"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個軟件工程師的招聘網站，索引了16,000個工作。你可以按你想工作的技能、資歷、行業和地點進行搜索| echojobs.io"
+    }
+  ]
 }
