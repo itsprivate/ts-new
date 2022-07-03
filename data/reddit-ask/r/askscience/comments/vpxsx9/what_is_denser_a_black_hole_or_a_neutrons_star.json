@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Thank you."
+  "the_new_excerpt": "Thank you.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ありがとうございます。",
+      "title": "何が濃くなったか。ブラックホールと中性子星はどちらが密度が高いのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "谢谢你。",
+      "title": "什么是密度大。黑洞还是中子星？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "謝謝你。",
+      "title": "什麼是密度大。黑洞還是中子星？"
+    }
+  ]
 }
