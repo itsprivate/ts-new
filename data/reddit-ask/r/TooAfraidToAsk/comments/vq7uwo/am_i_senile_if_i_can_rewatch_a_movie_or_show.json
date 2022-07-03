@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "All in the title. I'm in my forties."
+  "the_new_excerpt": "All in the title. I'm in my forties.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "全てはタイトルにあり。40代になりました。",
+      "title": "10年、15年経ってから映画や番組を見直すと、プロットの詳細を忘れていて、また楽しめるとしたら、私は老人なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "都在标题中。我已经四十多岁了。",
+      "title": "如果我可以在10年或15年后重新观看一部电影或节目，并且忘记了足够的情节细节来再次享受它，我是不是很衰老？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "都在標題中。我已經四十多歲了。",
+      "title": "如果我可以在10年或15年後重新觀看一部電影或節目，並且忘記了足夠的情節細節來再次享受它，我是不是很衰老？"
+    }
+  ]
 }
