@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんな、問題が起きた後は自殺願望があり、たまに起きると元に戻るのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是否每个人在遇到问题后都会有自杀的念头，然后有时又会恢复正常？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否每個人在遇到問題後都會有自殺的念頭，然後有時又會恢復正常？"
+    }
+  ]
 }
