@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これで健全になった。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在这是很健康的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在這是很健康的。"
+    }
+  ]
 }
