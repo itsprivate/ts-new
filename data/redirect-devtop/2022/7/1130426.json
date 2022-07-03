@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-02T20:33:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vXJO7igz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hq0cho9nzrbvjpffuf2y.jpg",
   "author": "Roseline Bassey",
-  "author_url": "https://dev.to/roselinebassey"
+  "author_url": "https://dev.to/roselinebassey",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerとは？  Dockerは、オープンソースのコンテナ化プラットフォームで、ビルド、テスト、...などに使用されます。",
+      "title": "Dockerのコンセプト、コンテナなどの紹介 "
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Docker？  Docker是一个开源的容器化平台，用于构建、测试和使用。",
+      "title": "介绍Docker的概念、容器等 "
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Docker？  Docker是一個開源的容器化平臺，用於構建、測試和使用。",
+      "title": "介紹Docker的概念、容器等 "
+    }
+  ]
 }
