@@ -57,5 +57,22 @@
   "original_created_at": "2022-07-01T18:20:43Z",
   "image": "https://dev.to/social_previews/article/1129785.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVでは、2つのオリジナルポッドキャストを多くの方に知っていただき、ご愛用いただいています。この2つのポッドキャストが大好きです。",
+      "title": "DevDiscussとDevNewsのアップデートについて"
+    },
+    {
+      "locale": "zh",
+      "description": "在DEV上，你们中的许多人已经认识并喜爱我们的两个原始播客。DevDiscuss 和...",
+      "title": "更新DevDiscuss和DevNews"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在DEV上，你們中的許多人已經認識並喜愛我們的兩個原始播客。DevDiscuss 和...",
+      "title": "更新DevDiscuss和DevNews"
+    }
+  ]
 }
