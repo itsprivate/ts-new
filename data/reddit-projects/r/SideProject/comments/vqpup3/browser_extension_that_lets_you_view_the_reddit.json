@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "YouTubeの動画やウェブページのRedditコメントを閲覧できるブラウザ拡張機能"
+    },
+    {
+      "locale": "zh",
+      "title": "浏览器扩展，让你查看任何YouTube视频或网页的Reddit评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "瀏覽器擴展，讓你查看任何YouTube視頻或網頁的Reddit評論"
+    }
+  ]
 }
