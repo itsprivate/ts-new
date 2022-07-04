@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-03T15:20:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UuAd6xhj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xb7x118t57bx4xnr45ob.png",
   "author": "Nick Taylor",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今週のVS Code Tip off the Weekは、Thunder Clientエクステンションです。  Thunder Clientは...",
+      "title": "今週のVSコードヒント Thunderクライアントエクステンション"
+    },
+    {
+      "locale": "zh",
+      "description": "本周的VS Code Tip off the week是Thunder Client扩展。  雷霆客户端是一个新功能，它可以让你的应用程序更强大。",
+      "title": "本周的VS代码提示。雷霆客户端扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本週的VS Code Tip off the week是Thunder Client擴展。  雷霆客戶端是一個新功能，它可以讓你的應用程序更強大。",
+      "title": "本週的VS代碼提示。雷霆客戶端擴展"
+    }
+  ]
 }
