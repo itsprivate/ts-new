@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-03T08:58:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zaqt8JEd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8zhpupq0ui11ag2zgehu.jpg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これを口に出して言うのは、今日レプラにかかったと公言するようなもので、なぜなら、すべての...",
+      "title": "SQLはNoSQLよりも（ほとんど）常に優れている"
+    },
+    {
+      "locale": "zh",
+      "description": "大声说出上述内容，几乎等于公开承认你今天得了麻风病，因为所有的...",
+      "title": "SQL（几乎）总是优于NoSQL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大聲說出上述內容，幾乎等於公開承認你今天得了麻風病，因爲所有的...",
+      "title": "SQL（幾乎）總是優於NoSQL"
+    }
+  ]
 }
