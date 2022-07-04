@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-03T07:04:38Z"
+  "original_createdAt": "2022-07-03T07:04:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Terminal Gif Makerは、ターミナルインターフェースでコードサンプルを作成するためのツールです。プロジェクトのGIFを作成することができ、それをプロジェクトのREADMEに表示することができます。GithubやGitlabのようなgitプロバイダでGIFを使用することができます。",
+      "tagline": "簡易端末インターフェースでのコードサンプル作成"
+    },
+    {
+      "locale": "zh",
+      "description": "Terminal Gif Maker是一个在终端界面创建代码样本的工具。你可以为你的项目创建gif，你可以在你的项目的README中显示。你可以在Git提供商如Github和Gitlab中使用GIF。",
+      "tagline": "在简单的终端界面创建代码样本"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Terminal Gif Maker是一個在終端界面創建代碼樣本的工具。你可以爲你的項目創建gif，你可以在你的項目的README中顯示。你可以在Git提供商如Github和Gitlab中使用GIF。",
+      "tagline": "在簡單的終端界面創建代碼樣本"
+    }
+  ]
 }
