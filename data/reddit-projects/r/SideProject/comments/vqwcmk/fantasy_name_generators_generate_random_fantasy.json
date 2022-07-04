@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ファンタジー名ジェネレータ - ランダムなファンタジー名を生成する"
+    },
+    {
+      "locale": "zh",
+      "title": "幻想名称生成器 - 生成随机的幻想名称"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "幻想名稱生成器 - 生成隨機的幻想名稱"
+    }
+  ]
 }
