@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "世界の終わりまであと1時間。"
+    },
+    {
+      "locale": "zh",
+      "title": "你有整整1个小时的时间，直到世界末日，这是无法阻止的，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有整整1個小時的時間，直到世界末日，這是無法阻止的，你會怎麼做？"
+    }
+  ]
 }
