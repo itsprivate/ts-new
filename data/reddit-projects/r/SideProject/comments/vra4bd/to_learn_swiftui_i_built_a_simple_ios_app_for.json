@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SwiftUIを学ぶために、冷水シャワー運動の簡単なiOSアプリを作ってみた! Wim Hofについて学んだ後、インスピレーションを得ました。"
+    },
+    {
+      "locale": "zh",
+      "title": "为了学习SwiftUI，我建立了一个简单的iOS应用来进行冷水浴锻炼 在了解了Wim Hof之后得到了灵感"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲了學習SwiftUI，我建立了一個簡單的iOS應用來進行冷水浴鍛鍊 在瞭解了Wim Hof之後得到了靈感"
+    }
+  ]
 }
