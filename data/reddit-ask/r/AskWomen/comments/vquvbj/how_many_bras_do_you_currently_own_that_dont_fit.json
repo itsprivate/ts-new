@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "現在、サイズの合わないブラジャーを何枚持っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你目前拥有多少件不合身的胸罩？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你目前擁有多少件不合身的胸罩？"
+    }
+  ]
 }
