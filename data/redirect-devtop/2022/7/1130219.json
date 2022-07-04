@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-02T13:14:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sNRH_jon--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fw0vpsw3lboooha1wtok.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "EnumはEnumerationsの略で、開発者があらかじめ定義して使用する定数である。",
+      "title": "Typescript Enums の仕組み"
+    },
+    {
+      "locale": "zh",
+      "description": "Enums是Enumerations的缩写，是预设的常量，可以由开发者定义，用于...",
+      "title": "类型脚本枚举是如何工作的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Enums是Enumerations的縮寫，是預設的常量，可以由開發者定義，用於...",
+      "title": "類型腳本枚舉是如何工作的"
+    }
+  ]
 }

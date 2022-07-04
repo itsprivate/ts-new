@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんて素敵なんでしょう xx"
+    },
+    {
+      "locale": "zh",
+      "title": "多么甜蜜啊 xx"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多麼甜蜜啊 xx"
+    }
+  ]
 }
