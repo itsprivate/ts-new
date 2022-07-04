@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ゲーム開発者はこうなる"
+    },
+    {
+      "locale": "zh",
+      "title": "游戏开发者要像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "遊戲開發者要像"
+    }
+  ]
 }
