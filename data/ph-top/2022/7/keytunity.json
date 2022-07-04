@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-04T07:05:07Z"
+  "original_createdAt": "2022-07-04T07:05:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Keytunityは、Google Search Consoleのデータと、お客様のWebサイトのクロールを収集し、新しい、独自のキーワードを提案します。これらの提案には、新しい記事のアイデアやコンテンツの追加トピックが含まれ、トラフィックとサイトを成長させるように設計されています。",
+      "tagline": "Google Search Consoleから取得したデータを使ってサイトを成長させる"
+    },
+    {
+      "locale": "zh",
+      "description": "Keytunity挖掘你的Google Search Console数据，加上对你网站的抓取，产生新的、独特的关键词建议。这些建议包括新的文章创意和内容附加主题，旨在增加你的流量和网站。",
+      "tagline": "使用从Google Search Console挖掘的数据来发展你的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Keytunity挖掘你的Google Search Console數據，加上對你網站的抓取，產生新的、獨特的關鍵詞建議。這些建議包括新的文章創意和內容附加主題，旨在增加你的流量和網站。",
+      "tagline": "使用從Google Search Console挖掘的數據來發展你的網站"
+    }
+  ]
 }
