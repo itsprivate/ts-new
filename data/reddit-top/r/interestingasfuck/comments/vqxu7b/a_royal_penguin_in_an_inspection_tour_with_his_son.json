@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "息子と視察中のロイヤルペンギン。"
+    },
+    {
+      "locale": "zh",
+      "title": "一只皇家企鹅在和他的儿子一起巡视。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一隻皇家企鵝在和他的兒子一起巡視。"
+    }
+  ]
 }
