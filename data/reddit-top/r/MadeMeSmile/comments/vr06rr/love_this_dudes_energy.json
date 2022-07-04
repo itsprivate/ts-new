@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この男のエネルギーが好きだ"
+    },
+    {
+      "locale": "zh",
+      "title": "喜欢这家伙的能量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喜歡這傢伙的能量"
+    }
+  ]
 }
