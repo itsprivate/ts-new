@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-02T21:49:56Z",
   "image": "https://dev.to/social_previews/article/1130439.png",
   "author": "Rakshit",
-  "author_url": "https://dev.to/rakshit"
+  "author_url": "https://dev.to/rakshit",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptを学び始めた頃、私はいつもある点に衝撃を受けていました...。",
+      "title": "Javascriptでオブジェクトを反復処理する方法は？"
+    },
+    {
+      "locale": "zh",
+      "description": "就在我学习Javascript的最初几天，我总是在一个点上受到打击。",
+      "title": "如何在Javascript中对一个对象进行迭代？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "就在我學習Javascript的最初幾天，我總是在一個點上受到打擊。",
+      "title": "如何在Javascript中對一個對象進行迭代？"
+    }
+  ]
 }
