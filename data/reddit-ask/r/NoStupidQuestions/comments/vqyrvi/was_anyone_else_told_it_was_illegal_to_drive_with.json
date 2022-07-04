@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I ask because I’ve been told by many they were told it was illegal and I have\nnever been told this."
+  "the_new_excerpt": "I ask because I’ve been told by many they were told it was illegal and I have\nnever been told this.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "多くの人から違法だと言われたので聞いているのですが、私はそんなことは言われたことがありません。\n言われたことがないからです。",
+      "title": "夜間、車内灯を点けて運転するのは違法だと言われた人はいますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我问是因为很多人告诉我，他们被告知这是非法的，而我有\n我从来没有被告知这一点。",
+      "title": "还有人被告知在夜间开着车内灯开车是违法的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我問是因爲很多人告訴我，他們被告知這是非法的，而我有\n我從來沒有被告知這一點。",
+      "title": "還有人被告知在夜間開着車內燈開車是違法的嗎？"
+    }
+  ]
 }
