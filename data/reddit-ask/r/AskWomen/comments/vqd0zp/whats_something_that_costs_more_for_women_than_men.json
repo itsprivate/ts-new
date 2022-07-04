@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Ex: some beauty products make shampoo’s more expensive for women than vice versa"
+  "the_new_excerpt": "Ex: some beauty products make shampoo’s more expensive for women than vice versa",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例：ある美容製品は、シャンプーを女性用より高価にする。",
+      "title": "男性より女性の方がお金がかかるものってなんだろう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如：一些美容产品使女性的洗发水比女性的更贵，反之亦然。",
+      "title": "什么东西是女性比男性花费更多？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如：一些美容產品使女性的洗髮水比女性的更貴，反之亦然。",
+      "title": "什麼東西是女性比男性花費更多？"
+    }
+  ]
 }
