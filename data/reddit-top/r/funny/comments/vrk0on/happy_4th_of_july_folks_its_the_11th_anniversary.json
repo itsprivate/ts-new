@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "7月4日おめでとうございます。サンディエゴの有名な花火大会の11周年記念です。"
+    },
+    {
+      "locale": "zh",
+      "title": "7月4日快乐，这是臭名昭著的圣地亚哥烟花表演的11周年纪念日，所有的烟花都同时爆炸了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "7月4日快樂，這是臭名昭著的聖地亞哥煙花表演的11週年紀念日，所有的煙花都同時爆炸了。"
+    }
+  ]
 }
