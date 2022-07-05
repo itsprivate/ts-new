@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "redditの動画・画像ビューアーをtiktok風に作ってみました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个reddit视频和图片查看器，tiktok风格。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個reddit視頻和圖片查看器，tiktok風格。"
+    }
+  ]
 }
