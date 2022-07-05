@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "発売記念ビデオをご覧ください"
+    },
+    {
+      "locale": "zh",
+      "title": "请看我们的启动视频!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請看我們的啓動視頻!"
+    }
+  ]
 }
