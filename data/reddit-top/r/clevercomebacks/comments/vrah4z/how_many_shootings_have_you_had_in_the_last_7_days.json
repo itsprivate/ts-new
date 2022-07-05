@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この7日間で何件の撮影がありましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在过去的7天里，你们有多少次枪击事件？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在過去的7天裏，你們有多少次槍擊事件？"
+    }
+  ]
 }
