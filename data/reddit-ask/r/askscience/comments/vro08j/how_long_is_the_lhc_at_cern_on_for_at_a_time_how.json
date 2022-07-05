@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Does it take a long time to actually charge up? Somebody told me it’ll take\nmonths before anything actually happens after they turn it on today, but I\nwanted to ask here if that’s how it works."
+  "the_new_excerpt": "Does it take a long time to actually charge up? Somebody told me it’ll take\nmonths before anything actually happens after they turn it on today, but I\nwanted to ask here if that’s how it works.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "実際に充電するのに時間がかかるのでしょうか？ある人が、「実際に何かが起こるまでには\nと言われたのですが、そういうものなのでしょうか？\nそういうものなのか、ここで聞いてみたかったんです。",
+      "title": "CERNのLHCは、一度にどれくらいの時間、稼働しているのでしょうか？テストが行われるまでの時間はどれくらいですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它需要很长时间才能真正充电吗？有人告诉我需要\n几个月后才会真正发生任何事情，但我想在这里问一下，如果是这样的话，你会怎么做？\n我想在这里问一下，它是否是这样工作的。",
+      "title": "欧洲核子研究中心的大型强子对撞机一次开机多长时间？需要多长时间才能完成一个测试？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它需要很長時間才能真正充電嗎？有人告訴我需要\n幾個月後纔會真正發生任何事情，但我想在這裏問一下，如果是這樣的話，你會怎麼做？\n我想在這裏問一下，它是否是這樣工作的。",
+      "title": "歐洲核子研究中心的大型強子對撞機一次開機多長時間？需要多長時間才能完成一個測試？"
+    }
+  ]
 }
