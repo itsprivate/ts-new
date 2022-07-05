@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、亡くなったミュージシャンの人生を10年延ばせるとしたら、誰を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在任何已故音乐家的生命中增加10年的生产力，你会选择谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在任何已故音樂家的生命中增加10年的生產力，你會選擇誰？"
+    }
+  ]
 }
