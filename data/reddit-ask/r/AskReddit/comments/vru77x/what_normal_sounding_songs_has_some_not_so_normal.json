@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "普通の音」の曲で、「普通じゃない」歌詞があるのは？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么 \"听起来很正常 \"的歌曲有一些 \"不那么正常 \"的歌词？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼 \"聽起來很正常 \"的歌曲有一些 \"不那麼正常 \"的歌詞？"
+    }
+  ]
 }
