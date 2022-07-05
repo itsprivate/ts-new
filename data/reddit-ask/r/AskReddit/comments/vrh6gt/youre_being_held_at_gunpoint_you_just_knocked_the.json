@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "銃を突きつけられていますね。あなたは相手の手から銃を奪い、そして今、立場は逆転した。最初に何を言うんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被人用枪指着。你刚刚打掉了对方手中的枪，现在情况发生了变化。你说的第一句话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被人用槍指着。你剛剛打掉了對方手中的槍，現在情況發生了變化。你說的第一句話是什麼？"
+    }
+  ]
 }
