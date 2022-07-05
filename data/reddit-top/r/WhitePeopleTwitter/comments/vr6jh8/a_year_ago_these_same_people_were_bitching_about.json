@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1年前は同じ人たちが夏にマスクをすることに文句を言っていた。今、彼らは臆病者のように隠れるためにマスクを使っている。"
+    },
+    {
+      "locale": "zh",
+      "title": "一年前，这些人还在抱怨在夏天戴口罩。现在，他们用它们来躲避，像个懦夫。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一年前，這些人還在抱怨在夏天戴口罩。現在，他們用它們來躲避，像個懦夫。"
+    }
+  ]
 }
