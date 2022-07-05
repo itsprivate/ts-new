@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-05T06:29:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Riqjhf5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vwvdmt790eblu4lk2n6v.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あるオブジェクトが特定のプロパティを保持しているかどうかを判断する必要がある場合があります。 例えば、あるユーザーが...",
+      "title": "オブジェクトにプロパティが存在するかどうかをチェックするJavaScript"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能需要确定一个对象是否持有一个特定的属性。 比方说，我们有一个用户...",
+      "title": "JavaScript检查属性是否存在于Object中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能需要確定一個對象是否持有一個特定的屬性。 比方說，我們有一個用戶...",
+      "title": "JavaScript檢查屬性是否存在於Object中"
+    }
+  ]
 }
