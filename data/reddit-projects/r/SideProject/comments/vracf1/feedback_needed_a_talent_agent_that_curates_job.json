@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ご意見をお聞かせください。求人案件をキュレーションしてくれるタレントエージェント"
+    },
+    {
+      "locale": "zh",
+      "title": "需要反馈。一个为你策划工作岗位的人才代理人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "需要反饋。一個爲你策劃工作崗位的人才代理人"
+    }
+  ]
 }

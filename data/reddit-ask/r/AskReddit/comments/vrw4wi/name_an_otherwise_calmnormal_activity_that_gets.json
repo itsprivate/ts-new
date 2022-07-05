@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "シャツを脱ぐと途端に激しくなるような、普段は平静な行動を挙げてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "说出一项原本平静/正常的活动，当你脱掉衣服时，会立即变得更加激烈？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說出一項原本平靜/正常的活動，當你脫掉衣服時，會立即變得更加激烈？"
+    }
+  ]
 }
