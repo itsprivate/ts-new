@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカ以外の国に住んでいる人。あなたの住んでいるところでは、世界が終わりつつあるように感じますか、それとも私たちだけでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "住在美国以外的人。在你生活的地方是否感觉到世界末日，还是只有我们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "住在美國以外的人。在你生活的地方是否感覺到世界末日，還是隻有我們？"
+    }
+  ]
 }
