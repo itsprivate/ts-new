@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-04T11:25:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KedE_4wl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nb71f1jf14435q1azwic.png",
   "author": "Talabi Ayomide",
-  "author_url": "https://dev.to/ayo_dev"
+  "author_url": "https://dev.to/ayo_dev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactアプリケーションにはステートが不可欠であり、そのため、さまざまなコンポーネントに渡す必要がある......。",
+      "title": "Context APIで苦労している？あなたは一人ではありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "状态是我们React应用程序的一个重要组成部分，因此，需要传递给不同的组件....。",
+      "title": "挣扎着使用上下文API？你不是一个人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "狀態是我們React應用程序的一個重要組成部分，因此，需要傳遞給不同的組件....。",
+      "title": "掙扎着使用上下文API？你不是一個人。"
+    }
+  ]
 }
