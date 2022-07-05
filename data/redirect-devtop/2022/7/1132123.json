@@ -46,5 +46,22 @@
   "original_created_at": "2022-07-05T05:45:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HwVlsexR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/19ge8v4mgwb3gqrb25k8.jpeg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項 - 社員を解雇する前に、この記事をすべてお読みください。 ソフトウェア会社のCEOとして...",
+      "title": "最高のソフトウェア開発者を解雇すべきです。"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明--请在开始解雇员工之前阅读整篇文章!  作为一家软件公司的首席执行官，我认为这是很重要的。",
+      "title": "你应该（可能）解雇你最好的软件开发人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明--請在開始解僱員工之前閱讀整篇文章!  作爲一家軟件公司的首席執行官，我認爲這是很重要的。",
+      "title": "你應該（可能）解僱你最好的軟件開發人員"
+    }
+  ]
 }
