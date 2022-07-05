@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サンディエゴで7000発の花火が一斉に打ち上げられた日のことを、私たちは決して忘れることはないでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "愿我们永远不要忘记圣地亚哥一次放7000个烟花的日子，这是个意外。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "願我們永遠不要忘記聖地亞哥一次放7000個煙花的日子，這是個意外。"
+    }
+  ]
 }
