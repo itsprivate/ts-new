@@ -13,5 +13,19 @@
   ],
   "objectID": "31993429",
   "original_created_at": "2022-07-05T20:41:53.000Z",
-  "image": "https://bun.sh/logo@2x.png"
+  "image": "https://bun.sh/logo@2x.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Bun: Zig で書かれた高速な JavaScript ランタイム、トランスパイラ、および npm クライアント"
+    },
+    {
+      "locale": "zh",
+      "title": "馒头。用Zig编写的快速JavaScript运行时、转码器和npm客户端"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "饅頭。用Zig編寫的快速JavaScript運行時、轉碼器和npm客戶端"
+    }
+  ]
 }
