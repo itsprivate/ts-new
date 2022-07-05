@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-03T17:38:10Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_aqzHjNS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/psbvvi0443rb3o4sdq5d.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptで最も頻繁に行う作業の1つは、特定の項目を削除することです。",
+      "title": "配列から特定の項目を削除する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在Javascript中，我们最常执行的任务之一是将某一特定项目从...",
+      "title": "如何从一个数组中删除一个特定的项"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Javascript中，我們最常執行的任務之一是將某一特定項目從...",
+      "title": "如何從一個數組中刪除一個特定的項"
+    }
+  ]
 }

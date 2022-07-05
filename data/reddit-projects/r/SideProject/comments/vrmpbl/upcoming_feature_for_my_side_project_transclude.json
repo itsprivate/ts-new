@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Slackのスレッドをドラッグ＆ドロップでNotionに転送する機能を追加しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的副业即将推出的功能：通过拖放将Slack线程转为Notion!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的副業即將推出的功能：通過拖放將Slack線程轉爲Notion!"
+    }
+  ]
 }

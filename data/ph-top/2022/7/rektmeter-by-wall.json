@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-05T07:01:00Z"
+  "original_createdAt": "2022-07-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ethereum上の任意のNFT Walletの統計情報をチェックアウトするための楽しいツールです。ポートフォリオの価値、ATH、利益、ベスト＆ワーストパフォーマンスのNFTs、ハイライトフリップ、取引統計など。あなたのdegen frens Walletがどのようにされているかを見てみましょう!",
+      "tagline": "NFTフレンズがREKTかどうかを見る"
+    },
+    {
+      "locale": "zh",
+      "description": "一个有趣的工具来检查以太坊上任何NFT钱包的统计数据。投资组合价值，ATH，利润，表现最好和最差的NFTs，亮点翻转，交易统计等。看看你的Degen frens钱包是如何做的!",
+      "tagline": "看看你的NFT朋友是否是REKT。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個有趣的工具來檢查以太坊上任何NFT錢包的統計數據。投資組合價值，ATH，利潤，表現最好和最差的NFTs，亮點翻轉，交易統計等。看看你的Degen frens錢包是如何做的!",
+      "tagline": "看看你的NFT朋友是否是REKT。"
+    }
+  ]
 }
