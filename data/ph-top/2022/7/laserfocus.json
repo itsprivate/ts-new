@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-05T07:01:00Z"
+  "original_createdAt": "2022-07-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Laserfocusはセールスプロセスを可能な限りシンプルに、しかしシンプルにならないようにします。お客様が注力すべきことを示し、すべてがSalesforceに集約されるようにします。",
+      "tagline": "Salesforceユーザーのための美しいUX"
+    },
+    {
+      "locale": "zh",
+      "description": "Laserfocus使你的销售过程尽可能简单，但不是更简单。我们展示你需要关注的内容，并确保一切都在Salesforce中。",
+      "tagline": "为Salesforce用户提供漂亮的用户体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Laserfocus使你的銷售過程儘可能簡單，但不是更簡單。我們展示你需要關注的內容，並確保一切都在Salesforce中。",
+      "tagline": "爲Salesforce用戶提供漂亮的用戶體驗"
+    }
+  ]
 }

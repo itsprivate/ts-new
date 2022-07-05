@@ -103,5 +103,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-05T07:01:00Z"
+  "original_createdAt": "2022-07-05T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ruttlは、生きているWebサイトに直接コメントを残したり、リアルタイムにCSSの編集を行うことができるWebサイトフィードバックツールで、的確なデザインフィードバックをチームで共有することができます。https://www.youtube.com/watch?v=vkx366sknD4&t=65s&ab_channel=Ruttl こちらをチェック",
+      "tagline": "Webサイト、PDF、画像に直接、ビジュアルフィードバックを収集できる"
+    },
+    {
+      "locale": "zh",
+      "description": "ruttl是一个网站反馈工具，它允许你直接在实时网站上留言并进行实时的CSS编辑，这样你就可以与你的团队分享精确的设计反馈。在此查看https://www.youtube.com/watch?v=vkx366sknD4&t=65s&ab_channel=Ruttl",
+      "tagline": "直接在网站、PDF和图像上收集视觉反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ruttl是一個網站反饋工具，它允許你直接在實時網站上留言並進行實時的CSS編輯，這樣你就可以與你的團隊分享精確的設計反饋。在此查看https://www.youtube.com/watch?v=vkx366sknD4&t=65s&ab_channel=Ruttl",
+      "tagline": "直接在網站、PDF和圖像上收集視覺反饋"
+    }
+  ]
 }
