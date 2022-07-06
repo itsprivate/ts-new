@@ -41,5 +41,22 @@
   "original_created_at": "2022-06-29T04:50:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BdrXcOQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bk0il92crwckwsh2ohz0.png",
   "author": "Jane Ori",
-  "author_url": "https://dev.to/janeori"
+  "author_url": "https://dev.to/janeori",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "inherit(--var)またはparent(--var)は、CSSの機能として長い間望まれていたもので、CSS.comでも議論されてきました。",
+      "title": "CSS --var: inherit(--var) + 2; はい、できますよ! JSなしで!"
+    },
+    {
+      "locale": "zh",
+      "description": "inherit(--var)或parent(--var)是一个长期需要的CSS特性，已经被CSS讨论过。",
+      "title": "CSS --var: inherit(--var) + 2; 是的，你可以! 没有JS!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "inherit(--var)或parent(--var)是一個長期需要的CSS特性，已經被CSS討論過。",
+      "title": "CSS --var: inherit(--var) + 2; 是的，你可以! 沒有JS!"
+    }
+  ]
 }
