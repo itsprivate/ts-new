@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-05T09:01:00Z"
+  "original_createdAt": "2022-07-05T09:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "過去と今後のマーベル映画とシリーズを、公開順、年代順、Official Disney+ In-Unverse Timeline順などで把握できます。",
+      "tagline": "マーベル映画の年表をオープンソースで毎日更新しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "追踪以往和即将上映的漫威电影和剧集，按发行时间、时间顺序、官方迪士尼+宇宙时间线等排序。",
+      "tagline": "开源的Marvel电影时间表，每天更新。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "追蹤以往和即將上映的漫威電影和劇集，按發行時間、時間順序、官方迪士尼+宇宙時間線等排序。",
+      "tagline": "開源的Marvel電影時間表，每天更新。"
+    }
+  ]
 }
