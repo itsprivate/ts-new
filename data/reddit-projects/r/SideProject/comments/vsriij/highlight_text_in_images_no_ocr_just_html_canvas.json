@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "画像内のテキストをハイライト表示する。OCRなし。HTMLキャンバスだけです✨。"
+    },
+    {
+      "locale": "zh",
+      "title": "突出图片中的文字。没有OCR。只有HTML画布。✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "突出圖片中的文字。沒有OCR。只有HTML畫布。✨"
+    }
+  ]
 }
