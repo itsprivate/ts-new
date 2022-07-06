@@ -13,5 +13,19 @@
   ],
   "objectID": "31994774",
   "original_created_at": "2022-07-05T22:58:38.000Z",
-  "image": "https://static.lwn.net/images/logo/barepenguin-70.png"
+  "image": "https://static.lwn.net/images/logo/barepenguin-70.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Ubuntuカーネルのバグによるコンテナのクラッシュ"
+    },
+    {
+      "locale": "zh",
+      "title": "乌班图的一个内核错误导致容器崩溃"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烏班圖的一個內核錯誤導致容器崩潰"
+    }
+  ]
 }
