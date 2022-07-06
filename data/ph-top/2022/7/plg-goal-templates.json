@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-06T07:01:00Z"
+  "original_createdAt": "2022-07-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PLG Goal templatesは、Slack、Sentry、Airtable Zoomなど、製品主導型のトップ企業で使用されている、既製のビジネス指標テンプレートです。チーム横断的に企業のステージに応じた適切なPLGゴールを設定することができます。",
+      "tagline": "成果重視のチームのための製品主導のゴールテンプレートが実証されています。"
+    },
+    {
+      "locale": "zh",
+      "description": "PLG目标模板是预制的业务指标模板，被Slack、Sentry、Airtable Zoom等顶级产品主导型组织使用。它可以帮助你根据你公司的阶段在你的团队中设置正确的PLG目标。",
+      "tagline": "为注重结果的团队提供经过验证的产品主导的目标模板"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PLG目標模板是預製的業務指標模板，被Slack、Sentry、Airtable Zoom等頂級產品主導型組織使用。它可以幫助你根據你公司的階段在你的團隊中設置正確的PLG目標。",
+      "tagline": "爲注重結果的團隊提供經過驗證的產品主導的目標模板"
+    }
+  ]
 }
