@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんなトレーニングでも、彼は準備ができている。"
+    },
+    {
+      "locale": "zh",
+      "title": "无论他在训练什么......他都准备好了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "無論他在訓練什麼......他都準備好了"
+    }
+  ]
 }
