@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-06T07:01:00Z"
+  "original_createdAt": "2022-07-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SQLの学習時間を短縮し、短期間で習得する方法をお探しですか？Notion SQL Learningは、SQLの学習を素早く開始できるように、シンプルでわかりやすい設計になっています。",
+      "tagline": "Notion SQL Learningで、SQLを高速に学習できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否在寻找一种节省时间和快速学习SQL的方法？Notion SQL Learning的设计简单易行，让你可以快速开始学习SQL。",
+      "tagline": "通过Notion SQL Learning，以快速的方式学习SQL。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否在尋找一種節省時間和快速學習SQL的方法？Notion SQL Learning的設計簡單易行，讓你可以快速開始學習SQL。",
+      "tagline": "通過Notion SQL Learning，以快速的方式學習SQL。"
+    }
+  ]
 }
