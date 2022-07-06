@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-06T07:00:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p3TUC2Rl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9slaerm6gor1cl8g13b.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptではObjectsを扱うことが多く、Objectsのデータを一部修正する必要があります...",
+      "title": "JavaScriptでObjectにプロパティを上書きする"
+    },
+    {
+      "locale": "zh",
+      "description": "在JavaScript中，我们经常与Objects打交道，而你必须修改一些对象数据，从...",
+      "title": "在一个对象中重写属性"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在JavaScript中，我們經常與Objects打交道，而你必須修改一些對象數據，從...",
+      "title": "在一個對象中重寫屬性"
+    }
+  ]
 }
