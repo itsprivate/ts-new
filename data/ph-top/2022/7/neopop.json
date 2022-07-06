@@ -84,5 +84,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-06T07:36:38Z"
+  "original_createdAt": "2022-07-06T07:36:38Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "地域社会のために、地域社会とともに発展していくことが、私たちCREDの原動力です。NeoPOPを立ち上げたとき、私たちは開発者コミュニティのためにオープンソースにすることを計画しました。なぜなら、アートはみんなのものだからです。今日、私たちはNeoPOP UIフレームワークをWeb、Android、iOS、Flutter向けにオープンソース化しました。",
+      "tagline": "NeoPOPがオープンソースで「ハローワールド」と語る"
+    },
+    {
+      "locale": "zh",
+      "description": "为社区建设并与社区一起建设是推动我们CRED的原因。当我们推出NeoPOP时，我们计划将其开源给开发者社区。因为艺术是为所有人服务的。今天，我们已经将NeoPOP UI框架开放给Web、Android、iOS和Flutter。",
+      "tagline": "NeoPOP在开放源代码中说 \"你好，世界\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲社區建設並與社區一起建設是推動我們CRED的原因。當我們推出NeoPOP時，我們計劃將其開源給開發者社區。因爲藝術是爲所有人服務的。今天，我們已經將NeoPOP UI框架開放給Web、Android、iOS和Flutter。",
+      "tagline": "NeoPOP在開放源代碼中說 \"你好，世界\"。"
+    }
+  ]
 }
