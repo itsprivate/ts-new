@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ユーザー名が正規表現にマッチしたらtwitterのプロフィール画像を回転させるという無意味なchrome拡張を作りました。ひどいだろ？）"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了这个毫无意义的chrome扩展，如果用户名与一个重合词相匹配，就会使twitter的简介图片旋转。很可怕吧？）"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了這個毫無意義的chrome擴展，如果用戶名與一個重合詞相匹配，就會使twitter的簡介圖片旋轉。很可怕吧？）"
+    }
+  ]
 }
