@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-05T18:00:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--05xtSveE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lj58njkogz4bc8te6t7p.jpg",
   "author": "Kai Wenzel",
-  "author_url": "https://dev.to/kai_wenzel"
+  "author_url": "https://dev.to/kai_wenzel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 日々、フォロワーを増やしているTypescript。タイプセーフのいとこである...",
+      "title": "Javascript プロジェクトを Typescript に変換する"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：Typescript的追随者与日俱增。这个类型安全的表弟，是一个在中国市场上很受欢迎的语言。",
+      "title": "将一个Javascript项目转换为Typescript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：Typescript的追隨者與日俱增。這個類型安全的表弟，是一個在中國市場上很受歡迎的語言。",
+      "title": "將一個Javascript項目轉換爲Typescript"
+    }
+  ]
 }
