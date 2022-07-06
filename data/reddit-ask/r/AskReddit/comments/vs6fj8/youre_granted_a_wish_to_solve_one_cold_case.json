@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは、ある未解決事件の謎を解くために、願いを託されました。あなたはどんな謎を解きたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被授予一个愿望，以解决一个悬案之谜。你想解开什么谜团？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被授予一個願望，以解決一個懸案之謎。你想解開什麼謎團？"
+    }
+  ]
 }
