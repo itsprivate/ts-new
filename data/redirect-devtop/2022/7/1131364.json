@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-04T05:43:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HotTpMVq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lkuf60jqrswdx2mnazjh.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "アストロでホームページを書き換えたとき、オープンソースにすることにしました。 しかし、飛び込んでみると...",
+      "title": "本サイトはオープンソースです"
+    },
+    {
+      "locale": "zh",
+      "description": "当我用Astro重写我的网站时，我决定让它成为一个开源项目。 但让我们深入了解一下...",
+      "title": "本网站是开源的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我用Astro重寫我的網站時，我決定讓它成爲一個開源項目。 但讓我們深入瞭解一下...",
+      "title": "本網站是開源的"
+    }
+  ]
 }
