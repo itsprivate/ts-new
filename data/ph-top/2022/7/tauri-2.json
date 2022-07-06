@@ -71,5 +71,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-06T07:01:00Z"
+  "original_createdAt": "2022-07-06T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tauriは、すべての主要なデスクトップ・プラットフォーム用の小型で超高速なバイナリを構築するためのフレームワークです。開発者は、HTML、JS、CSSにコンパイル可能なあらゆるフロントエンドフレームワークを統合して、ユーザーインターフェースを構築することができます。",
+      "tagline": "Rust で書かれた Electron の代替品"
+    },
+    {
+      "locale": "zh",
+      "description": "Tauri是一个框架，用于为所有主要的桌面平台构建微小的、快得惊人的二进制文件。开发人员可以整合任何可以编译成HTML、JS和CSS的前端框架，以构建他们的用户界面。",
+      "tagline": "用Rust编写的Electron替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tauri是一個框架，用於爲所有主要的桌面平臺構建微小的、快得驚人的二進制文件。開發人員可以整合任何可以編譯成HTML、JS和CSS的前端框架，以構建他們的用戶界面。",
+      "tagline": "用Rust編寫的Electron替代品"
+    }
+  ]
 }
