@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いやー次は私の番かな？"
+    },
+    {
+      "locale": "zh",
+      "title": "哦，不，下一个就轮到我了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哦，不，下一個就輪到我了嗎？"
+    }
+  ]
 }
