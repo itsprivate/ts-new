@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "友人と一緒に、サイドプロジェクトを支援するプロジェクトに取り組んでいます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的朋友和我正在做一个帮助你从事副业的项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的朋友和我正在做一個幫助你從事副業的項目。"
+    }
+  ]
 }
