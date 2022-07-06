@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ、CTEは解剖によってしか診断できないのか、また、それがすぐにでも変わる可能性はあるのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么CTE只能通过尸检来诊断，这是否有可能很快改变？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼CTE只能通過屍檢來診斷，這是否有可能很快改變？"
+    }
+  ]
 }
