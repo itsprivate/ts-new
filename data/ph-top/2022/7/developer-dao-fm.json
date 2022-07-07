@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-07T07:00:00Z"
+  "original_createdAt": "2022-07-07T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Developer Dao FMは、クールなものを作りながら、Lofiミュージックを聴くことができる場所です。",
+      "tagline": "ロフィー・ミュージックを聴きながら、クールなものを作る。"
+    },
+    {
+      "locale": "zh",
+      "description": "开发者Dao FM是你可以在那里放松，听Lofi音乐，同时建造很酷的东西",
+      "tagline": "一边听着Lofi音乐，一边建造很酷的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開發者Dao FM是你可以在那裏放鬆，聽Lofi音樂，同時建造很酷的東西",
+      "tagline": "一邊聽着Lofi音樂，一邊建造很酷的東西"
+    }
+  ]
 }
