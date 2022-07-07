@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T12:23:59Z",
   "image": "https://dev.to/social_previews/article/1134440.png",
   "author": "Omer Elbaz",
-  "author_url": "https://dev.to/omerwow"
+  "author_url": "https://dev.to/omerwow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事を読んで、まだTypeScriptを試していない人が納得してくれれば幸いです。これは本当に...",
+      "title": "TypeScriptを使い始めたきっかけ"
+    },
+    {
+      "locale": "zh",
+      "description": "我希望这篇文章能说服你去尝试一下TypeScript，如果你还没有的话。它真的是一个很好的工具。",
+      "title": "我是如何开始使用TypeScript的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我希望這篇文章能說服你去嘗試一下TypeScript，如果你還沒有的話。它真的是一個很好的工具。",
+      "title": "我是如何開始使用TypeScript的"
+    }
+  ]
 }
