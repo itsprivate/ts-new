@@ -46,5 +46,22 @@
   "original_created_at": "2022-07-07T14:29:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q3OE-jlb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9em6zzctp5m034gn7jg7.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのキャリアにおいて、方向性が間違っていたことが判明し、やむを得ず選択したことは何ですか？",
+      "title": "あなたのキャリアで間違った方向に進んでしまったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的职业生涯中，有什么方向被证明是错误的，而你不得不去做。",
+      "title": "你在职业生涯中的一个错误转折是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的職業生涯中，有什麼方向被證明是錯誤的，而你不得不去做。",
+      "title": "你在職業生涯中的一個錯誤轉折是什麼？"
+    }
+  ]
 }
