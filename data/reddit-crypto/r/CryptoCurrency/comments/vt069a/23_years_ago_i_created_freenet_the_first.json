@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "23年前、私は初の分散型ピアツーピアネットワークであるFreenetを作りました。明日は、分散型アプリケーションのための新しいオペレーティングシステム、Locutusを紹介するZoomトークをします。ぜひご参加ください。"
+    },
+    {
+      "locale": "zh",
+      "title": "23年前，我创建了Freenet，第一个分布式、去中心化的点对点网络。明天我将在Zoom上发表演讲，介绍Locutus，一个用于去中心化应用的新操作系统。希望能在那里见到你!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "23年前，我創建了Freenet，第一個分佈式、去中心化的點對點網絡。明天我將在Zoom上發表演講，介紹Locutus，一個用於去中心化應用的新操作系統。希望能在那裏見到你!"
+    }
+  ]
 }
