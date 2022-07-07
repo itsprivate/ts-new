@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-07T07:01:00Z"
+  "original_createdAt": "2022-07-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誰も取引手数料を払いたくはないのです。Zelle、CashApp、Venmoなどのマーチャントツールは、取引手数料なしで取引を行うことができますが、顧客に請求書を発行する際には、プロフェッショナルではありません。Bloomの新しいインボイスジェネレーターは、これをエレガントな新しい方法で解決します。",
+      "tagline": "Zelle、Venmo、Cash Appで支払ってもらうための最初の請求書"
+    },
+    {
+      "locale": "zh",
+      "description": "没有人愿意支付交易费用。Zelle、CashApp和Venmo等商户工具允许进行无交易费的交易，但它们在向客户开具发票时并不专业。Bloom的新发票生成器以一种优雅的新方式解决了这个问题。",
+      "tagline": "第一张发票，让你通过Zelle、Venmo、Cash App获得付款"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "沒有人願意支付交易費用。Zelle、CashApp和Venmo等商戶工具允許進行無交易費的交易，但它們在向客戶開具發票時並不專業。Bloom的新發票生成器以一種優雅的新方式解決了這個問題。",
+      "tagline": "第一張發票，讓你通過Zelle、Venmo、Cash App獲得付款"
+    }
+  ]
 }
