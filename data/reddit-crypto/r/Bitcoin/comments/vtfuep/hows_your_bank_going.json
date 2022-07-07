@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "銀行の調子はどうですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的银行怎么样了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的銀行怎麼樣了？"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、子供向け映画を1本R指定にできるとしたら、どの映画を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能让一部儿童电影达到R级，你会选择哪部电影？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能讓一部兒童電影達到R級，你會選擇哪部電影？"
+    }
+  ]
 }
