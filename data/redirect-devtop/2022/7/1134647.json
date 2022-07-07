@@ -55,5 +55,22 @@
   "original_created_at": "2022-07-07T15:48:06Z",
   "image": "https://dev.to/social_previews/article/1134647.png",
   "author": "Michael Tharrington",
-  "author_url": "https://dev.to/michaeltharrington"
+  "author_url": "https://dev.to/michaeltharrington",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVに1つ機能を追加できるとしたら、それは何ですか？ 既存の機能を利用して、自由に...",
+      "title": "DEVに1つ機能を追加できるとしたら、それは何でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你能为DEV增加一项功能，那会是什么？ 请自由选择一个现有的功能并...",
+      "title": "如果你能为DEV增加一个功能，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你能爲DEV增加一項功能，那會是什麼？ 請自由選擇一個現有的功能並...",
+      "title": "如果你能爲DEV增加一個功能，那會是什麼？"
+    }
+  ]
 }
