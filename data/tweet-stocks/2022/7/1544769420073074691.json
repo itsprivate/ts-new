@@ -134,5 +134,22 @@
     "retweet_count": 151,
     "favorite_count": 1245,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @TikTokInvestors: 全く信じられない。https://t.co/h5Qd8cGmRN",
+      "retweeted_status_full_text": "絶対に信じられない。https://t.co/h5Qd8cGmRN"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @TikTokInvestors: 绝对不可思议。https://t.co/h5Qd8cGmRN",
+      "retweeted_status_full_text": "绝对不可思议。https://t.co/h5Qd8cGmRN"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @TikTokInvestors: 絕對不可思議。https://t.co/h5Qd8cGmRN",
+      "retweeted_status_full_text": "絕對不可思議。https://t.co/h5Qd8cGmRN"
+    }
+  ]
 }
