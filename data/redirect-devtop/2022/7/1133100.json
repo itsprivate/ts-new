@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-06T06:39:59Z",
   "image": "https://dev.to/social_previews/article/1133100.png",
   "author": "Maximillian Arruda",
-  "author_url": "https://dev.to/dearrudam"
+  "author_url": "https://dev.to/dearrudam",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この「Javaによる関数型プログラミング」シリーズを続けていて、ふと疑問に思ったことがあります。",
+      "title": "[ラムダ式は匿名クラスではない？"
+    },
+    {
+      "locale": "zh",
+      "description": "在 \"Java函数式编程 \"的系列文章之后，我发现自己有一个问题，可能不...",
+      "title": "[Lambda表达式不是匿名类？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在 \"Java函數式編程 \"的系列文章之後，我發現自己有一個問題，可能不...",
+      "title": "[Lambda表達式不是匿名類？"
+    }
+  ]
 }
