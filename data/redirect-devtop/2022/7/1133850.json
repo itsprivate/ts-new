@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-06T18:06:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hw8BhiO6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36ktj6j76sjqx59mvfku.png",
   "author": "Marinsborg.com",
-  "author_url": "https://dev.to/marinsborg"
+  "author_url": "https://dev.to/marinsborg",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 「あのポケモンは誰だっけ...」と思い出す人も多いはず。もし、そうでないなら...。",
+      "title": "70行のJavaScriptでポケモンゲームを再現する"
+    },
+    {
+      "locale": "zh",
+      "description": "导语：\"那只口袋妖怪是谁？\"应该会给大多数人带来回忆。如果你不知道...",
+      "title": "用70行的JavaScript重现口袋妖怪游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "導語：\"那隻口袋妖怪是誰？\"應該會給大多數人帶來回憶。如果你不知道...",
+      "title": "用70行的JavaScript重現口袋妖怪遊戲"
+    }
+  ]
 }
