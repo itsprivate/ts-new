@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、何かを違法にできるとしたら、それは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能使某些东西成为非法，那会是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能使某些東西成爲非法，那會是什麼？"
+    }
+  ]
 }
