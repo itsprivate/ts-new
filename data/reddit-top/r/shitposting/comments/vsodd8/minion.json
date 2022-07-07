@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミニオン"
+    },
+    {
+      "locale": "zh",
+      "title": "奴才"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "奴才"
+    }
+  ]
 }

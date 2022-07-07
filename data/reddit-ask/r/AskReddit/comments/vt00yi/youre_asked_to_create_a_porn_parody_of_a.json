@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メインストリームのAVパロディを作れってことだろ？どの映画をパロディにするのか、そしてパロディのタイトルは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你被要求创作一部主流电影的色情模仿片。你要模仿哪部电影，模仿的标题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你被要求創作一部主流電影的色情模仿片。你要模仿哪部電影，模仿的標題是什麼？"
+    }
+  ]
 }
