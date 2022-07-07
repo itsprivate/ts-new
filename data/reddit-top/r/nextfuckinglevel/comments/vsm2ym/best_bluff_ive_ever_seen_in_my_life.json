@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで見た中で最高のハッタリ"
+    },
+    {
+      "locale": "zh",
+      "title": "我这辈子见过的最好的虚张声势"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我這輩子見過的最好的虛張聲勢"
+    }
+  ]
 }
