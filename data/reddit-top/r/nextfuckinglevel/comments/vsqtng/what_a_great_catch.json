@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんという大漁？"
+    },
+    {
+      "locale": "zh",
+      "title": "多么好的收获？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "多麼好的收穫？"
+    }
+  ]
 }
