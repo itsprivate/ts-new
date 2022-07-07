@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは、このように早くから"
+    },
+    {
+      "locale": "zh",
+      "title": "我们是这么早"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們是這麼早"
+    }
+  ]
 }

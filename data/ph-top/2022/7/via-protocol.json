@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-07T07:09:13Z"
+  "original_createdAt": "2022-07-07T07:09:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Via Protocolは、53のDEX、15のブリッジ、5つのプロバイダーを使用し、13のСhainで高速かつ効率的でシームレスなスワップ体験を実現するために設計されたクロスチェーン流動性アグリゲーション・プロトコルです。Viaは、暗号の世界におけるVisaとMastercardのようなものと考えることができます。",
+      "tagline": "すべてのクロスチェーンブリッジとDEXを1つのUIで、最高のUXを実現"
+    },
+    {
+      "locale": "zh",
+      "description": "Via协议是一个跨链流动性聚合协议，旨在通过53个DEX、15个桥接器和5个供应商，在13个链上创造快速、高效和无缝的互换体验。Via可以被认为是加密货币世界中的Visa和Mastercard。",
+      "tagline": "所有跨链桥和DEX都在一个用户界面中，具有最好的用户体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Via協議是一個跨鏈流動性聚合協議，旨在通過53個DEX、15個橋接器和5個供應商，在13個鏈上創造快速、高效和無縫的互換體驗。Via可以被認爲是加密貨幣世界中的Visa和Mastercard。",
+      "tagline": "所有跨鏈橋和DEX都在一個用戶界面中，具有最好的用戶體驗"
+    }
+  ]
 }
