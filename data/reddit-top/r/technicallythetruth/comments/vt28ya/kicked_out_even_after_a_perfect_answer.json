@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "完答しても退場させられる"
+    },
+    {
+      "locale": "zh",
+      "title": "即使是完美的答案也会被踢出局"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "即使是完美的答案也會被踢出局"
+    }
+  ]
 }
