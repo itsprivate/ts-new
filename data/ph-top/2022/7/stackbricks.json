@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-07T07:01:31Z"
+  "original_createdAt": "2022-07-07T07:01:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あらかじめ構築されたスタックから始め、後からカスタマイズする。AWSとGitHubを接続するだけで、あなたのスタックは数分で稼動します。JAMstack、API、マイクロサービス、データベースなどをデプロイできます。",
+      "tagline": "レゴのようにスタックを組み立てる"
+    },
+    {
+      "locale": "zh",
+      "description": "从预建的堆栈开始，以后再进行定制。只需连接您的AWS和GitHub，您的堆栈就可以在几分钟内上线。部署JAMstack、API、微服务、数据库和更多。",
+      "tagline": "像乐高积木一样建立你的堆栈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從預建的堆棧開始，以後再進行定製。只需連接您的AWS和GitHub，您的堆棧就可以在幾分鐘內上線。部署JAMstack、API、微服務、數據庫和更多。",
+      "tagline": "像樂高積木一樣建立你的堆棧"
+    }
+  ]
 }

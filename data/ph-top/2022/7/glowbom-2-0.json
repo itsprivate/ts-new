@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-07T07:01:00Z"
+  "original_createdAt": "2022-07-07T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Glowbomは、世の中で最も人気のあるプラットフォーム向けのアプリやゲームを構築するためのノーコードツールです。ゲーム、ストア、チャットボット、アンケートなど、自由に組み合わせて、あなただけのオリジナルを作りましょう。Flutter、Unity、SwiftUI、Jetpack Compose、またはWeb3としてコードを書き出すことができます。",
+      "tagline": "コーディングの知識がなくても、素晴らしいアプリやゲームを作ることができる"
+    },
+    {
+      "locale": "zh",
+      "description": "Glowbom是一个无需编码的工具，可以为最流行的平台建立应用程序和游戏。建立一个游戏，商店，聊天机器人，调查，或混合和匹配来创建真正属于你的东西。将代码导出为Flutter、Unity、SwiftUI、Jetpack Compose或Web3。",
+      "tagline": "不懂代码也能创造出惊人的应用程序和游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Glowbom是一個無需編碼的工具，可以爲最流行的平臺建立應用程序和遊戲。建立一個遊戲，商店，聊天機器人，調查，或混合和匹配來創建真正屬於你的東西。將代碼導出爲Flutter、Unity、SwiftUI、Jetpack Compose或Web3。",
+      "tagline": "不懂代碼也能創造出驚人的應用程序和遊戲"
+    }
+  ]
 }
