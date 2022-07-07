@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "様々なデザインの斧を見せるこの男。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个人在展示他的各种斧头设计。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個人在展示他的各種斧頭設計。"
+    }
+  ]
 }

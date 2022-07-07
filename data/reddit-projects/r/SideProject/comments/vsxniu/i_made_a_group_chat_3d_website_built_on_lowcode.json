@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ローコードで作るグループチャット3Dウェブサイトを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个群聊3D网站，用低代码构建的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個羣聊3D網站，用低代碼構建的"
+    }
+  ]
 }
