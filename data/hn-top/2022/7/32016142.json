@@ -13,5 +13,19 @@
   ],
   "objectID": "32016142",
   "original_created_at": "2022-07-07T16:34:31.000Z",
-  "image": "https://meshtastic.org/design/logo/svg/Mesh_Logo_Black.svg"
+  "image": "https://meshtastic.org/design/logo/svg/Mesh_Logo_Black.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MeshtasticはLora RFプロトコルの暗号化通信プラットフォームです"
+    },
+    {
+      "locale": "zh",
+      "title": "Meshtastic是一个用于Lora RF协议的加密通信平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Meshtastic是一個用於Lora RF協議的加密通信平臺"
+    }
+  ]
 }

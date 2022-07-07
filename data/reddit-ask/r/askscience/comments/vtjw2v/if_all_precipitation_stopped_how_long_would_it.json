@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、すべての降水が止まったら、すべての川が海に流れ込むまでどれくらいの時間がかかるのでしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果所有的降水都停止了，那么所有的河流需要多长时间才能排入海洋？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果所有的降水都停止了，那麼所有的河流需要多長時間才能排入海洋？"
+    }
+  ]
 }
