@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-06T15:41:47Z"
+  "original_createdAt": "2022-07-06T15:41:47Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FAIR（Facebook AI Research）は、現在200の異なる言語間の翻訳を行う最先端のAIモデルを構築し、オープンソース化しました。そのコードとモデルは、本日、Fairseqパッケージの一部として公開されています。",
+      "tagline": "200言語に対応したオープンソースの言語翻訳システム"
+    },
+    {
+      "locale": "zh",
+      "description": "FAIR（Facebook AI Research）建立并开源了一个最先进的AI模型，现在可以在200种不同语言之间进行翻译。这些代码和模型今天作为Fairseq软件包的一部分提供。",
+      "tagline": "一个适用于200种语言的开源语言翻译系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FAIR（Facebook AI Research）建立並開源了一個最先進的AI模型，現在可以在200種不同語言之間進行翻譯。這些代碼和模型今天作爲Fairseq軟件包的一部分提供。",
+      "tagline": "一個適用於200種語言的開源語言翻譯系統"
+    }
+  ]
 }

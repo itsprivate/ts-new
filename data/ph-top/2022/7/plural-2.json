@@ -77,5 +77,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-07T07:38:13Z"
+  "original_createdAt": "2022-07-07T07:38:13Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Pluralは、管理のオーバーヘッドなしにKubernetes上でアプリケーションをセルフホスティングするためのオープンソースのDevOpsプラットフォームです。SSO、自動アップグレード、秘密の暗号化が組み込まれており、マネージドサービスのすべての利点を、ロックインやコストなしで手に入れることができます。",
+      "tagline": "オープンソースソフトウェアをKubernetes上に記録的な速さでデプロイする 🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "Plural是一个开源的DevOps平台，用于在Kubernetes上自我托管应用程序，没有管理费用。通过内置的SSO、自动升级和秘密加密，你可以获得管理服务的所有好处，而没有任何锁定或成本。",
+      "tagline": "在Kubernetes上以创纪录的时间部署开源软件 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Plural是一個開源的DevOps平臺，用於在Kubernetes上自我託管應用程序，沒有管理費用。通過內置的SSO、自動升級和祕密加密，你可以獲得管理服務的所有好處，而沒有任何鎖定或成本。",
+      "tagline": "在Kubernetes上以創紀錄的時間部署開源軟件 🚀"
+    }
+  ]
 }
