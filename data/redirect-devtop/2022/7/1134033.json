@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T00:30:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kTiu0tQC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpx106gd9swvwalot9bg.png",
   "author": "Peter Boling",
-  "author_url": "https://dev.to/pboling"
+  "author_url": "https://dev.to/pboling",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "抗議を受けてGitHubを使っています Githubがスポンサーになることが決まったのは最近のことなので、...",
+      "title": "Githubを離れることになりました"
+    },
+    {
+      "locale": "zh",
+      "description": "我在抗议下使用GitHub Github决定赞助我是最近的事，我...",
+      "title": "我将离开Github"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我在抗議下使用GitHub Github決定贊助我是最近的事，我...",
+      "title": "我將離開Github"
+    }
+  ]
 }
