@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-03T20:53:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vxj8WmRT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4zl43f4fcduanc6tfzqn.png",
   "author": "Michael Owolabi",
-  "author_url": "https://dev.to/imichaelowolabi"
+  "author_url": "https://dev.to/imichaelowolabi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "待てよ、タイトルはちゃんと読んだのかって思うでしょ？Node.jsでイベントマネージャを構築して...",
+      "title": "Node.js + React on Redisでイベント管理アプリケーションを構築する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能在想，等等，我没看错标题吧？在Node.js中建立一个事件管理器，并且...",
+      "title": "如何在Redis上用Node.js+React构建一个事件管理应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能在想，等等，我沒看錯標題吧？在Node.js中建立一個事件管理器，並且...",
+      "title": "如何在Redis上用Node.js+React構建一個事件管理應用程序"
+    }
+  ]
 }
