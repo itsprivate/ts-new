@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-06T13:54:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I02SXb4r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ta1ixnj6qvnyw2fqprfm.png",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vanilla JavaScriptでTodoアプリを作る方法 このビデオでは、Todoアプリを作る方法を紹介します...",
+      "title": "バニラJavaScriptでTodoアプリを作る方法"
+    },
+    {
+      "locale": "zh",
+      "description": "如何用Vanilla JavaScript建立Todo应用程序 本视频将向你展示如何建立一个Todo应用程序。",
+      "title": "如何用Vanilla JavaScript构建Todo应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何用Vanilla JavaScript建立Todo應用程序 本視頻將向你展示如何建立一個Todo應用程序。",
+      "title": "如何用Vanilla JavaScript構建Todo應用程序"
+    }
+  ]
 }

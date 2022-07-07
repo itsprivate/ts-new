@@ -75,5 +75,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-06T19:05:50Z"
+  "original_createdAt": "2022-07-06T19:05:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "TazapayはShopify、WooCommerce、MagentoなどのプラットフォームでAPIとプラグインを介して越境チェックアウトを提供します。173以上の市場でローカルコレクション（カードとカード以外）。シームレスなオンボーディングとノーコードの支払いリンクを作成するためのオプションを備えたダッシュボード。",
+      "tagline": "173以上の市場で現地回収によるクロスボーダー決済を実現"
+    },
+    {
+      "locale": "zh",
+      "description": "Tazapay通过API和插件在Shopify、WooCommerce、Magento等平台提供跨境结账服务。在超过173个市场的本地收款（卡和非卡）。具有无缝入职的仪表板和创建无代码支付链接的选项。",
+      "tagline": "在173个以上的市场进行跨境支付并在当地收款"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tazapay通過API和插件在Shopify、WooCommerce、Magento等平臺提供跨境結賬服務。在超過173個市場的本地收款（卡和非卡）。具有無縫入職的儀表板和創建無代碼支付鏈接的選項。",
+      "tagline": "在173個以上的市場進行跨境支付並在當地收款"
+    }
+  ]
 }
