@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Git unwrap: gitのブランチをフォルダ構造に変換する"
+    },
+    {
+      "locale": "zh",
+      "title": "Git解包：将git分支转化为文件夹结构"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Git解包：將git分支轉化爲文件夾結構"
+    }
+  ]
 }
