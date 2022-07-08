@@ -62,5 +62,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I usually find it a bit inconvenient to browse NSFW content via Reddit itself,\nbecause it forces you to either login or use their mobile app. That's why I made\nmy own NSFW client to comfortably browse NSFW content.\n\nIt features a responsive design and you can browse new, hot and top content…"
+  "the_new_excerpt": "I usually find it a bit inconvenient to browse NSFW content via Reddit itself,\nbecause it forces you to either login or use their mobile app. That's why I made\nmy own NSFW client to comfortably browse NSFW content.\n\nIt features a responsive design and you can browse new, hot and top content…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "普段、Reddit自体でNSFWコンテンツを閲覧するのは少し不便だと感じています。\nなぜなら、ログインするか、モバイルアプリを使わざるを得ないからです。そのため、私は\nNSFWコンテンツを快適に閲覧するために、私独自のNSFWクライアントを作りました。\n\nレスポンシブデザインを採用し、新しいコンテンツ、ホットなコンテンツ、トップコンテンツを閲覧することができます...",
+      "title": "[NSFW] Reddit NSFWクライアントを作ってみた。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我通常觉得通过Reddit本身浏览NSFW内容有点不方便。\n因为它迫使你要么登录，要么使用他们的移动应用程序。这就是为什么我做了\n我自己的NSFW客户端来舒适地浏览NSFW内容。\n\n它采用了响应式设计，你可以浏览新的、热门的和顶级的内容...",
+      "title": "[NSFW] 我做了一个基于网络的Reddit NSFW客户端，可以在桌面和移动设备上舒适地浏览NSFW内容。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我通常覺得通過Reddit本身瀏覽NSFW內容有點不方便。\n因爲它迫使你要麼登錄，要麼使用他們的移動應用程序。這就是爲什麼我做了\n我自己的NSFW客戶端來舒適地瀏覽NSFW內容。\n\n它採用了響應式設計，你可以瀏覽新的、熱門的和頂級的內容...",
+      "title": "[NSFW] 我做了一個基於網絡的Reddit NSFW客戶端，可以在桌面和移動設備上舒適地瀏覽NSFW內容。"
+    }
+  ]
 }
