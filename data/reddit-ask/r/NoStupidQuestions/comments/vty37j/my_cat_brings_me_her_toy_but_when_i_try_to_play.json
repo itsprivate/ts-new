@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の猫がおもちゃを持ってくるのですが、おもちゃで一緒に遊ぼうとすると、ただ座って私をじっと見ています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的猫给我带来了她的玩具，但当我试图用玩具和她玩时，她只是坐在那里，盯着我看。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的貓給我帶來了她的玩具，但當我試圖用玩具和她玩時，她只是坐在那裏，盯着我看。"
+    }
+  ]
 }
