@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T07:03:24Z",
   "image": "https://dev.to/social_previews/article/1134219.png",
   "author": "Saar Ryan Cohen",
-  "author_url": "https://dev.to/saar_memphis"
+  "author_url": "https://dev.to/saar_memphis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事を読み終わる頃には、その重要性が理解できているといいのですが...。",
+      "title": "メッセージブローカーが必要な理由は以下の通りです。"
+    },
+    {
+      "locale": "zh",
+      "description": "希望在本文结束时，你能够了解...",
+      "title": "以下是你为什么需要一个信息中介"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "希望在本文結束時，你能夠了解...",
+      "title": "以下是你爲什麼需要一個信息中介"
+    }
+  ]
 }
