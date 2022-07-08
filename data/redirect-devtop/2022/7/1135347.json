@@ -44,5 +44,22 @@
   "original_created_at": "2022-07-08T10:22:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lf1v3ccV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hjn8q27ci055xlr80w1i.jpg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CQRSは頭文字をとったもので、「Command Query Responsibility Segregation」（コマンド・クエリ責任分離）を意味します。",
+      "title": "CQRSはソフトウェア開発統合失調症"
+    },
+    {
+      "locale": "zh",
+      "description": "CQRS是一个缩写，它意味着 \"命令查询责任隔离\" - 这又只是...",
+      "title": "CQRS是软件开发的精神分裂症"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CQRS是一個縮寫，它意味着 \"命令查詢責任隔離\" - 這又只是...",
+      "title": "CQRS是軟件開發的精神分裂症"
+    }
+  ]
 }
