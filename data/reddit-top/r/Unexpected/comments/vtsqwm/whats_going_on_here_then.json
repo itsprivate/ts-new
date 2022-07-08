@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "じゃあ、どうなっているんだ......。"
+    },
+    {
+      "locale": "zh",
+      "title": "那么这里发生了什么..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那麼這裏發生了什麼..."
+    }
+  ]
 }

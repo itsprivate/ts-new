@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "playinhuman.com - スキルベースのシングルプレイヤー用ミニゲーム、リーダーボード付き"
+    },
+    {
+      "locale": "zh",
+      "title": "playinhuman.com - 基于技能的单人迷你游戏与排行榜"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "playinhuman.com - 基於技能的單人迷你遊戲與排行榜"
+    }
+  ]
 }
