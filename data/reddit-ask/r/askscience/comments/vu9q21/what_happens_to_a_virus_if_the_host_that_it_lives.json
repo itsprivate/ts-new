@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウイルスが住んでいる宿主が死んだら、ウイルスはどうなるのでしょうか？死体とともに分解されるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果一个病毒所处的宿主死亡，它会发生什么？它是否与身体一起分解？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果一個病毒所處的宿主死亡，它會發生什麼？它是否與身體一起分解？"
+    }
+  ]
 }
