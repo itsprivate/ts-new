@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "疲れたけど自慢のママ"
+    },
+    {
+      "locale": "zh",
+      "title": "一个疲惫但自豪的母亲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個疲憊但自豪的母親"
+    }
+  ]
 }

@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スポンジ・ボブのように「アイム・レディ・アイム・レディ」みたいに毎日顔を出す。"
+    },
+    {
+      "locale": "zh",
+      "title": "我每天都会像海绵宝宝一样出现，\"我准备好了，我准备好了，我准备好了\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我每天都會像海綿寶寶一樣出現，\"我準備好了，我準備好了，我準備好了\""
+    }
+  ]
 }
