@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-08T07:03:49Z"
+  "original_createdAt": "2022-07-08T07:03:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PocketBase はオープンソースの Go バックエンドで、リアルタイムデータベース、ファイル、ユーザー管理、管理者 UI、REST-ish API を内蔵し、すべて 1 つのポータブルな実行ファイルにコンパイルされています。FirebaseやSupabaseに代わる軽量なバックエンドと考えることができます。",
+      "tagline": "オープンソースのリアルタイムバックエンドを1ファイルで実現"
+    },
+    {
+      "locale": "zh",
+      "description": "PocketBase是一个开源的Go后端，它具有嵌入式实时数据库、文件和用户管理、管理界面和REST-ish API，所有这些都被编译在一个可移植的可执行文件中。你可以把它看作是Firebase或Supabase的一个轻量级替代品。",
+      "tagline": "1个文件中的开源实时后端"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PocketBase是一個開源的Go後端，它具有嵌入式實時數據庫、文件和用戶管理、管理界面和REST-ish API，所有這些都被編譯在一個可移植的可執行文件中。你可以把它看作是Firebase或Supabase的一個輕量級替代品。",
+      "tagline": "1個文件中的開源實時後端"
+    }
+  ]
 }
