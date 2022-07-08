@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ルックアライクカムでそっくりさんを探す"
+    },
+    {
+      "locale": "zh",
+      "title": "长相酷似的凸轮找到一些长相酷似的人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "長相酷似的凸輪找到一些長相酷似的人"
+    }
+  ]
 }
