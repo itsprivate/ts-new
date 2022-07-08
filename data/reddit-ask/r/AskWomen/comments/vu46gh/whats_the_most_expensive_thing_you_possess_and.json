@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが所有する最も高価なものは何ですか、そしてそれはそれだけの価値がありましたか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你拥有的最昂贵的东西是什么，它值得吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你擁有的最昂貴的東西是什麼，它值得嗎？"
+    }
+  ]
 }
