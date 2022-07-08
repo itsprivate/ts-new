@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターネットで見たり読んだりしたものの中で、最も気になるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在互联网上看到或读到的最令人不安的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在互聯網上看到或讀到的最令人不安的事情是什麼？"
+    }
+  ]
 }
