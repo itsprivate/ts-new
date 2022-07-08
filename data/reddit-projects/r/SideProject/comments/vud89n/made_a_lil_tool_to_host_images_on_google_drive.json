@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Google Driveで画像をホストするlilツールを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "做了一个lil工具，在Google Drive上托管图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "做了一個lil工具，在Google Drive上託管圖片"
+    }
+  ]
 }
