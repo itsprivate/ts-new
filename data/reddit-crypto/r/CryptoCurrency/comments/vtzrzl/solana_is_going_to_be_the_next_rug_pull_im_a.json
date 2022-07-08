@@ -1,0 +1,62 @@
+{
+  "author": "random_af_guy",
+  "original_created_utc": 1657247188,
+  "title": "Solana is going to be the next rug pull - I'm a Solana developer and I've discovered a glaring vulnerability.",
+  "created_utc": 1657259157,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;em&gt;For the average investor, if you are not technical, I&amp;#39;ve supplied notes in bold that might make more sense.&lt;/em&gt;&lt;/p&gt;\n\n&lt;h1&gt;Solana is a ticking time bomb&lt;/h1&gt;\n\n&lt;p&gt;(&lt;strong&gt;Hackers, Raiders, and Thieves are coming for your moneys.&lt;/strong&gt;)&lt;/p&gt;\n\n&lt;p&gt;Solana decided to build their smart contracts on Rust and C++. The crypto craze caused &lt;a href=\"https://www.efinancialcareers.com/news/2022/02/rust-programming-language\"&gt;the demand for these developers to spike&lt;/a&gt;. When the demand exceeds the supply of experienced developers, companies start hiring anyone off the street regardless of their background. New developers typically write insecure code.  (&lt;strong&gt;Radicalists known as Newbies are building smart contracts on Solana.&lt;/strong&gt;).&lt;/p&gt;\n\n&lt;p&gt;Most of the Solana protocols are closed source. Nobody knows what the code is doing. This means there&amp;#39;s no transparency to investors. Instead, it requires a lot of trust. Because of this, they focused heavily on yield farming and high interest lending which is a common trap. (&lt;strong&gt;Security is not a concern for Newbies. These contracts are stored in tombs built by an ancient civilization. They believe this will protect them. Purists claim the Prophecy has been misinterpreted. Research suggests they may be correct.&lt;/strong&gt;)&lt;/p&gt;\n\n&lt;p&gt;Solana developers compile their human readable code into machine code that runs on Solana. This obscures the logic and makes temporarily impossible to fully understand what exactly is happening. This does not stop hackers, it just slows them down. It also creates false security. &amp;quot;Security through obscurity&amp;quot;. They opted to use &lt;a href=\"https://docs.solana.com/developing/on-chain-programs/overview\"&gt;BPF&lt;/a&gt; as their runtime bytecode. Sure, it makes their system run fast, but I think they cherry picked this variation so they could cut corners on security. Decompilers have not yet been created for BPF. Historically the incentive to do this was non existent. ( &lt;strong&gt;Blockchain explorers have discovered code scribed on the walls within the entrance of these tombs. Incantations written by tribal leaders during the early internet ages to protect Solana.&lt;/strong&gt;)&lt;/p&gt;\n\n&lt;p&gt;There is currently a large community of developers working to build a decompiler for BPF. Decompilers translate machine code back into human readable code. Institutional investors want that transparency. They want to know what is happening when they sign transactions with their wallet. Hackers want to see that code because thats how the reverse engineer exploits.  (&lt;strong&gt;Philologist are piecing together clues to understand how the ancient tribes communicated. They believe history will unlock the secrets of the blockchain.&lt;/strong&gt;)&lt;/p&gt;\n\n&lt;p&gt;When someone finally nails this down, smart contracts will become open source. All the contracts written by crappy developers that skipped proper validation will be instantly exposed before retail even wakes up. They will likely launch a blockchain scanner similar to Ethereum, where anyone can read the contracts on-chain. This is why institutional investors use Ethereum. They can audit the code in full transparency. Hackers find exploits by looking through code to see where developers overlooked risk. Solana security is a vail. (&lt;strong&gt;If hackers discover these secrets first, they will destroy the blockchain, stealing all the treasure within.&lt;/strong&gt;).&lt;/p&gt;\n\n&lt;p&gt;This is a recipe for disaster. Open source is a critical part of crypto, especially when it comes to smart contracts. Code is law? That doesn&amp;#39;t matter if you make it difficult to read the law? Thats not security. The system has never had the opportunity to be truly battle tested when there were less consequences on the table. They have too much TVL right now. It&amp;#39;s literally begging to be tested. (&lt;strong&gt;Purists are warning that we must not tamper with the blockchain, fearing it will open Pandoras Box causing death and destruction to all&lt;/strong&gt;)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;h1&gt;Proof, Sources, References&lt;/h1&gt;\n\n&lt;p&gt;&lt;strong&gt;Developers already knew this was a problem&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[No easy way to verify source of on-chain programs · Issue #12232 · solana-labs/solana · GitHub](&lt;a href=\"https://github.com/solana-labs/solana/issues/12232\"&gt;https://github.com/solana-labs/solana/issues/12232&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;*&lt;em&gt;Kinda suspicious that they picked the most obscure format they could find *&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;[BPF - the forgotten bytecode](&lt;a href=\"https://blog.cloudflare.com/bpf-the-forgotten-bytecode/\"&gt;https://blog.cloudflare.com/bpf-the-forgotten-bytecode/&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;[Overview | Solana Docs](&lt;a href=\"https://docs.solana.com/developing/on-chain-programs/overview\"&gt;https://docs.solana.com/developing/on-chain-programs/overview&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;There are serious consequences&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[Hack Solidity: Reentrancy Attack | HackerNoon](&lt;a href=\"https://hackernoon.com/hack-solidity-reentrancy-attack\"&gt;https://hackernoon.com/hack-solidity-reentrancy-attack&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Ethereum understand that&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[Reentrancy - Ethereum Smart Contract Best Practices](&lt;a href=\"https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/\"&gt;https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Examples for those in the back&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[What is Reentrancy? - Reentrancy Smart Contract Example » Moralis » The Web3 Development Workflow](&lt;a href=\"https://moralis.io/what-is-reentrancy-reentrancy-smart-contract-example/\"&gt;https://moralis.io/what-is-reentrancy-reentrancy-smart-contract-example/&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;People are already asking questions&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.reddit.com/r/rust/comments/q5u8rz/is_there_berkley_packer_filter_bpf_decompiler/\"&gt;https://www.reddit.com/r/rust/comments/q5u8rz/is_there_berkley_packer_filter_bpf_decompiler/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://twitter.com/firefly_sol/status/1528601901184569344\"&gt;https://twitter.com/firefly_sol/status/1528601901184569344&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Open Source Projects already making headway&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[GitHub - aya-rs/aya: Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.](&lt;a href=\"https://github.com/aya-rs/aya\"&gt;https://github.com/aya-rs/aya&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;[GitHub - kentik/convis](&lt;a href=\"https://github.com/kentik/convis\"&gt;https://github.com/kentik/convis&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;[Implement an eBPF decompiler/disassembler · Issue #838 · capstone-engine/capstone · GitHub](&lt;a href=\"https://github.com/capstone-engine/capstone/issues/838\"&gt;https://github.com/capstone-engine/capstone/issues/838&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;People are creating tutorials&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[Kevin K&amp;#39;s Blog - eBPF and Rust (Part 1)](&lt;a href=\"https://kbknapp.dev/ebpf-part-i/index.html\"&gt;https://kbknapp.dev/ebpf-part-i/index.html&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Why its a problem&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;[Smart contracts and the inherent lack of security in trusting compiled byte code - Ethereum Stack Exchange](&lt;a href=\"https://ethereum.stackexchange.com/questions/45951/smart-contracts-and-the-inherent-lack-of-security-in-trusting-compiled-byte-code\"&gt;https://ethereum.stackexchange.com/questions/45951/smart-contracts-and-the-inherent-lack-of-security-in-trusting-compiled-byte-code&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;[Advantages Of Open Source &amp;amp; Closed Source In Cryptocurrency | by Damilola Stephen Debel | AirGap | Medium](&lt;a href=\"https://medium.com/airgap-it/advantages-of-open-source-closed-source-in-cryptocurrency-e14abab57a24\"&gt;https://medium.com/airgap-it/advantages-of-open-source-closed-source-in-cryptocurrency-e14abab57a24&lt;/a&gt;)&lt;/p&gt;\n\n&lt;p&gt;[What is your opinion on DAapps with closed source smart contracts? : ethdev](&lt;a href=\"https://www.reddit.com/r/ethdev/comments/r5ex1m/what_is_your_opinion_on_daapps_with_closed_source/\"&gt;https://www.reddit.com/r/ethdev/comments/r5ex1m/what_is_your_opinion_on_daapps_with_closed_source/&lt;/a&gt;)&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 489,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?auto=webp&amp;s=ecc2936697971c49701bf79120d5246aedf882df",
+          "width": 1266,
+          "height": 785
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=a3482c4ca6bdab7dc56ab6816790226326f0ef3b",
+            "width": 108,
+            "height": 66
+          },
+          {
+            "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b5a71bff695c0f1fe9cd1c8f3f894a3b5eb34755",
+            "width": 216,
+            "height": 133
+          },
+          {
+            "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a1ccf097f93856b66ed92ad2a9e6d654fc920dc7",
+            "width": 320,
+            "height": 198
+          },
+          {
+            "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e6ddab319d941a8e35da0f693004a8c06b0b074",
+            "width": 640,
+            "height": 396
+          },
+          {
+            "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=5d01d90b825d8d1e315f131ac3bcb5038e8b790e",
+            "width": 960,
+            "height": 595
+          },
+          {
+            "url": "https://external-preview.redd.it/QhiQWpvwAm_8hXKG_MsSCyFjOvn3EY0uJa94sDI3zzY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=b50eb4f35e274d249554748d3293805f75cf8abf",
+            "width": 1080,
+            "height": 669
+          }
+        ],
+        "variants": {},
+        "id": "zirez3rv6bWeO36Lz13j1eYKZLxlQ9YZ1uaUrE2vGAs"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/vtzrzl/solana_is_going_to_be_the_next_rug_pull_im_a/",
+  "subreddit": "CryptoCurrency",
+  "id": "vtzrzl",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "For the average investor, if you are not technical, I've supplied notes in bold\nthat might make more sense.\n\n\nSOLANA IS A TICKING TIME BOMB\n\n(Hackers, Raiders, and Thieves are coming for your moneys.)\n\nSolana decided to build their smart contracts on Rust and C++. The crypto craze\ncaused the demand…"
+}
