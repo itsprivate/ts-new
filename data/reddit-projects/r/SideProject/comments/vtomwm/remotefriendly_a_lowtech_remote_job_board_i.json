@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RemoteFriendly - 私の個人的な就職活動の経験に基づいて作成した \"ローテク \"リモートジョブボードです。"
+    },
+    {
+      "locale": "zh",
+      "title": "RemoteFriendly - 我根据个人求职经验创建的一个 \"低技术含量 \"的远程招聘网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "RemoteFriendly - 我根據個人求職經驗創建的一個 \"低技術含量 \"的遠程招聘網站。"
+    }
+  ]
 }
