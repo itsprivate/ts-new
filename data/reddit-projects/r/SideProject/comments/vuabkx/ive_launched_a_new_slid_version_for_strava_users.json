@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Stravaユーザー向けにSlidの新バージョンを発売しました"
+    },
+    {
+      "locale": "zh",
+      "title": "我已经为Strava用户推出了一个新的Slid版本"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我已經爲Strava用戶推出了一個新的Slid版本"
+    }
+  ]
 }
