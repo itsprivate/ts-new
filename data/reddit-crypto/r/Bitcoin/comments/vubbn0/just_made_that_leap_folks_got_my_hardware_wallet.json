@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "皆さん、飛躍を遂げましたね ハードウェアウォレットをようやくセットアップしたところです"
+    },
+    {
+      "locale": "zh",
+      "title": "刚刚实现了这一飞跃，伙计们! 我的硬件钱包终于设置好了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "剛剛實現了這一飛躍，夥計們! 我的硬件錢包終於設置好了!"
+    }
+  ]
 }
