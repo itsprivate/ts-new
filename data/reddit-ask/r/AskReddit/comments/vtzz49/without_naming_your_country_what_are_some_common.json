@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国の名前を出さずに、あなたの国でよく使われる人の名前を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在不说出你的国家的情况下，你的国家有哪些常见的人名？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不說出你的國家的情況下，你的國家有哪些常見的人名？"
+    }
+  ]
 }
