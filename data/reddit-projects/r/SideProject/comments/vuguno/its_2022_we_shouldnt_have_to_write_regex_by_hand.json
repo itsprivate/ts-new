@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "その2022年、私たちは手でRegExを書く必要はないはずです。GPT-3で、私は人生をずっと簡単にする無料の英語からRegExへのコンバータを作りました： https://www.autoregex.xyz"
+    },
+    {
+      "locale": "zh",
+      "title": "其2022年，我们不应该手写RegEx；通过GPT-3，我建立了一个免费的英语到RegEx的转换器，使生活变得更加容易：https://www.autoregex.xyz。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "其2022年，我們不應該手寫RegEx；通過GPT-3，我建立了一個免費的英語到RegEx的轉換器，使生活變得更加容易：https://www.autoregex.xyz。"
+    }
+  ]
 }
