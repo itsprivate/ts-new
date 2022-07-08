@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どうやら成功したようだ..."
+    },
+    {
+      "locale": "zh",
+      "title": "看来我们成功了..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看來我們成功了..."
+    }
+  ]
 }
