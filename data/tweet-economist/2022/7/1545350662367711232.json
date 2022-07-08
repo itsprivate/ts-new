@@ -63,5 +63,22 @@
     "retweet_count": 110,
     "favorite_count": 228,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @NoahSneider: 1/1安倍晋三元首相狙撃事件は、日本に衝撃を与えた。この事件は、日本という国を再構築する可能性がある。",
+      "retweeted_status_full_text": "1/ 安倍晋三・元首相の射殺事件は、日本に衝撃を与えた。この事件は、私たちが想像もつかないような形で、この国を再構築する可能性がある。この悲劇的な出来事を振り返る。https://t.co/qroMhU5KcB。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @NoahSneider: 1/ 日本前首相安倍晋三被枪杀，震惊了日本。它可能会重塑这个国家的形象。",
+      "retweeted_status_full_text": "1/ 日本前首相安倍晋三被枪杀的事件令日本感到震惊。它可能会以我们无法想象的方式重塑这个国家。我的文章对当天的悲惨事件进行了总结：https://t.co/qroMhU5KcB"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @NoahSneider: 1/ 日本前首相安倍晉三被槍殺，震驚了日本。它可能會重塑這個國家的形象。",
+      "retweeted_status_full_text": "1/ 日本前首相安倍晉三被槍殺的事件令日本感到震驚。它可能會以我們無法想象的方式重塑這個國家。我的文章對當天的悲慘事件進行了總結：https://t.co/qroMhU5KcB"
+    }
+  ]
 }
