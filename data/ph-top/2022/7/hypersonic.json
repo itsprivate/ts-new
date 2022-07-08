@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-08T07:01:00Z"
+  "original_createdAt": "2022-07-08T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hypersonicは、NotionでのToDoの作成、完了、ナビゲーションをこれまで以上に高速に行うことができるRaycastの拡張機能です。あなたのちょっとした思いつきやタスクが、ショートカット1つで可能になります。",
+      "tagline": "Notion史上最速のToDoアプリ"
+    },
+    {
+      "locale": "zh",
+      "description": "Hypersonic是一个Raycast扩展，让你在Notion中创建、完成和浏览待办事项的速度比以往更快。你所有的快速想法和任务现在只需一个快捷键就能完成。",
+      "tagline": "最快的Notion待办事项应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Hypersonic是一個Raycast擴展，讓你在Notion中創建、完成和瀏覽待辦事項的速度比以往更快。你所有的快速想法和任務現在只需一個快捷鍵就能完成。",
+      "tagline": "最快的Notion待辦事項應用程序"
+    }
+  ]
 }
