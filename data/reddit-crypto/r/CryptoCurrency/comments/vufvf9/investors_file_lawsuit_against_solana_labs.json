@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SOLは「高度に集中化された」無登録証券であるとして、投資家がSolana Labs社を提訴"
+    },
+    {
+      "locale": "zh",
+      "title": "投资者对Solana实验室提起诉讼，指称SOL是 \"高度集中 \"的未注册证券"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "投資者對Solana實驗室提起訴訟，指稱SOL是 \"高度集中 \"的未註冊證券"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I’m not asking to be funny or snide, but actually wondering wtf is happening and\nhow?"
+  "the_new_excerpt": "I’m not asking to be funny or snide, but actually wondering wtf is happening and\nhow?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は面白いとか悪口を言っているのではなく、実際に何が起こっているのか不思議に思っているのです。\nどのように？",
+      "title": "アメリカは大丈夫なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不是想搞笑或冷嘲热讽，而是想知道到底发生了什么事，并且\n如何发生的？",
+      "title": "美国还好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不是想搞笑或冷嘲熱諷，而是想知道到底發生了什麼事，並且\n如何發生的？",
+      "title": "美國還好嗎？"
+    }
+  ]
 }
