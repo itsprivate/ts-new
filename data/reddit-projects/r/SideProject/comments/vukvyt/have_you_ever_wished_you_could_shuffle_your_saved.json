@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "保存したRedditの投稿をシャッフルできたらと思ったことはありませんか？おそらくないと思いますが、私はSvelt JSを学びたいと思い、そのためのツールを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "你是否曾希望能将你保存的Reddit帖子进行洗牌？可能没有--但我想学习Svelt JS，并为此做了一个工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你是否曾希望能將你保存的Reddit帖子進行洗牌？可能沒有--但我想學習Svelt JS，併爲此做了一個工具"
+    }
+  ]
 }
