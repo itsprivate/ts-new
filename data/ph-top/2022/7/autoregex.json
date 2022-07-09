@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-08T17:28:48Z"
+  "original_createdAt": "2022-07-08T17:28:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "その2022年、RegExを手で書く必要はないはずです。AutoRegExはOpenAIのGPT-3を利用して、平易な英語から正規表現を生成します。",
+      "tagline": "自然言語処理による英語からRegExへの変換"
+    },
+    {
+      "locale": "zh",
+      "description": "其2022年，我们不应该用手写RegEx。AutoRegEx使用OpenAI的GPT-3，从普通英语中产生正则表达式。",
+      "tagline": "用自然语言处理将英语转换为RegEx"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "其2022年，我們不應該用手寫RegEx。AutoRegEx使用OpenAI的GPT-3，從普通英語中產生正則表達式。",
+      "tagline": "用自然語言處理將英語轉換爲RegEx"
+    }
+  ]
 }
