@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-09T07:01:00Z"
+  "original_createdAt": "2022-07-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Keyshoは、軽量なオムニボックス検索体験をあなたのウェブアプリケーションに簡単に統合する方法です。Notion、Linear、Rampなどの業界のリーダーからインスピレーションを受け、Keyshoはインターネット上のWebサイトに⌘+K&nbsp;のパラダイムをもたらすことを目的としています。🚀⚡️",
+      "tagline": "Reactアプリに⌘＋Kを数分で追加可能"
+    },
+    {
+      "locale": "zh",
+      "description": "Keysho是一种将轻量级全能搜索体验整合到你的网络应用中的简单方法。受Notion、Linear、Ramp和其他行业领导者的启发，Keysho将把⌘+K&nbsp; 范式带到整个互联网的网站上。🚀⚡️",
+      "tagline": "在几分钟内为你的React应用添加⌘+K"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Keysho是一種將輕量級全能搜索體驗整合到你的網絡應用中的簡單方法。受Notion、Linear、Ramp和其他行業領導者的啓發，Keysho將把⌘+K&nbsp; 範式帶到整個互聯網的網站上。🚀⚡️",
+      "tagline": "在幾分鐘內爲你的React應用添加⌘+K"
+    }
+  ]
 }

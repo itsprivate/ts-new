@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は偽物を作っているのですが、今日は「ジュエルクーラー」を作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我制造假货，今天我创造了宝石冷却器。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我製造假貨，今天我創造了寶石冷卻器。"
+    }
+  ]
 }
