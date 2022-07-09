@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "高速道路への不時着"
+    },
+    {
+      "locale": "zh",
+      "title": "在高速公路上紧急着陆"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在高速公路上緊急着陸"
+    }
+  ]
 }
