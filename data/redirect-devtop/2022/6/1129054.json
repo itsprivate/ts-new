@@ -45,5 +45,22 @@
   "original_created_at": "2022-06-30T23:47:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SZ94zHuD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vsktf6htv2n79fhbj5h.png",
   "author": "Sam aghapour",
-  "author_url": "https://dev.to/samaghapour"
+  "author_url": "https://dev.to/samaghapour",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、リアクトプロジェクトを実現するためのコツやテクニックをご紹介します...",
+      "title": "Reactプロジェクトにおけるパフォーマンス最適化のヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我们将谈论使我们的反应项目的技巧和技术。",
+      "title": "React项目的性能优化技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我們將談論使我們的反應項目的技巧和技術。",
+      "title": "React項目的性能優化技巧"
+    }
+  ]
 }
