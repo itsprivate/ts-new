@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実話に基づく"
+    },
+    {
+      "locale": "zh",
+      "title": "基于一个真实的故事"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "基於一個真實的故事"
+    }
+  ]
 }
