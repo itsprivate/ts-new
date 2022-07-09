@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T02:54:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VZl4niBi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7n6yny4pnv9zm58vbsc.gif",
   "author": "Franklin Martinez",
-  "author_url": "https://dev.to/franklin030601"
+  "author_url": "https://dev.to/franklin030601",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ダークモードは、アプリに実装すると非常に便利な機能の1つであり、...",
+      "title": "リアクトアプリでダークモードを使おう 🌙"
+    },
+    {
+      "locale": "zh",
+      "description": "黑暗模式是在你的应用程序中实现的一个很好的功能，因为它将是一个很好的选择。",
+      "title": "在你的react应用中使用黑暗模式! 🌙"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "黑暗模式是在你的應用程序中實現的一個很好的功能，因爲它將是一個很好的選擇。",
+      "title": "在你的react應用中使用黑暗模式! 🌙"
+    }
+  ]
 }
