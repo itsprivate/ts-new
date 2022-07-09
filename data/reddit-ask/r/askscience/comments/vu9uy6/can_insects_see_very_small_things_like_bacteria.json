@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Can they see smaller things than us? How small?"
+  "the_new_excerpt": "Can they see smaller things than us? How small?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私たちよりも小さいものが見えるのでしょうか？どのくらい小さいのか？",
+      "title": "昆虫はバクテリアのような非常に小さなものを見ることができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "他们能看到比我们更小的东西吗？有多小？",
+      "title": "昆虫能看到像细菌这样非常小的东西吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "他們能看到比我們更小的東西嗎？有多小？",
+      "title": "昆蟲能看到像細菌這樣非常小的東西嗎？"
+    }
+  ]
 }

@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中国にあるストリーム工場"
+    },
+    {
+      "locale": "zh",
+      "title": "在中国的溪流工厂。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在中國的溪流工廠。"
+    }
+  ]
 }
