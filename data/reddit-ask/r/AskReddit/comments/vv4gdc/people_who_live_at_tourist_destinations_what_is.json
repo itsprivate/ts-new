@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "観光地に住んでいる人が、観光客が訪れる際にやめてほしいことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "住在旅游景点的人，你希望游客在游览时不要再做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "住在旅遊景點的人，你希望遊客在遊覽時不要再做什麼？"
+    }
+  ]
 }
