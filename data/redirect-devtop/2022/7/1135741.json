@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-08T20:04:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rPfYyef6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5dbcibbws4mbmeky5ecj.png",
   "author": "Tome Karkalashev",
-  "author_url": "https://dev.to/tomek_21"
+  "author_url": "https://dev.to/tomek_21",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. リファクタリングとは？           1.1. リファクタリングの概念 コードリファクタリングとは...",
+      "title": "リファクタリング"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 什么是重构？           1.1. 重构的概念 代码重构是...",
+      "title": "重构"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 什麼是重構？           1.1. 重構的概念 代碼重構是...",
+      "title": "重構"
+    }
+  ]
 }
