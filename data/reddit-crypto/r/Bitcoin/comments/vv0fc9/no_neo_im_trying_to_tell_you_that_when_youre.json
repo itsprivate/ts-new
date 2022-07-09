@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いいえ、ネオです。私が言いたいのは...準備が整えば..."
+    },
+    {
+      "locale": "zh",
+      "title": "不，尼奥。我是想告诉你，当你准备好了，你就不必"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不，尼奧。我是想告訴你，當你準備好了，你就不必"
+    }
+  ]
 }
