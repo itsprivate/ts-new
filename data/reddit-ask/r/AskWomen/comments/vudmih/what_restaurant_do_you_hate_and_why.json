@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "sorry! i’ll word it differently lol what restaurant will you never eat at again?"
+  "the_new_excerpt": "sorry! i’ll word it differently lol what restaurant will you never eat at again?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "すみません！言い方を変えます(笑) 二度と食べられないお店は？",
+      "title": "嫌いなレストランとその理由は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对不起！我会用不同的方式来表达，你再也不会在哪个餐厅吃饭了？",
+      "title": "你讨厌哪家餐厅，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對不起！我會用不同的方式來表達，你再也不會在哪個餐廳喫飯了？",
+      "title": "你討厭哪家餐廳，爲什麼？"
+    }
+  ]
 }

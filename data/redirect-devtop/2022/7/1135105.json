@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-08T04:57:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ugoAh6Zc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfhzayrwrs02h5g6kos9.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. gitでローカルファイルの変更を破棄する プログラマとして、毎日のように起こる...",
+      "title": "4つの最も一般的なGitの間違い"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 在git中丢弃对本地文件的修改 作为一个程序员，每天都会发生...",
+      "title": "4个最常见的Git错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 在git中丟棄對本地文件的修改 作爲一個程序員，每天都會發生...",
+      "title": "4個最常見的Git錯誤"
+    }
+  ]
 }

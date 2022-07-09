@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホッケー選手は、リプレイを見るまでは、自分のペナルティは「でたらめ」だと思っている :D"
+    },
+    {
+      "locale": "zh",
+      "title": "冰球运动员认为他的罚球是 \"狗屁\"，直到他看了回放。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "冰球運動員認爲他的罰球是 \"狗屁\"，直到他看了回放。"
+    }
+  ]
 }
