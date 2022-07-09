@@ -13,5 +13,19 @@
   ],
   "objectID": "32028752",
   "original_created_at": "2022-07-08T22:50:59.000Z",
-  "image": "https://ocrmypdf.readthedocs.io/en/latest/_images/logo.svg"
+  "image": "https://ocrmypdf.readthedocs.io/en/latest/_images/logo.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "OCRmyPDFです。スキャンしたPDFファイルにOCRテキストレイヤーを追加する"
+    },
+    {
+      "locale": "zh",
+      "title": "OCRmyPDF。为扫描的PDF文件添加OCR文本层"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "OCRmyPDF。爲掃描的PDF文件添加OCR文本層"
+    }
+  ]
 }
