@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "3Dレンダリングを含むDoodle 0.8.0がリリースされました。"
+    },
+    {
+      "locale": "zh",
+      "title": "Doodle 0.8.0版发布，含3D渲染功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Doodle 0.8.0版發佈，含3D渲染功能"
+    }
+  ]
 }
