@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたはどのように魅力的だと思いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你说你有多大的吸引力？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你說你有多大的吸引力？"
+    }
+  ]
 }

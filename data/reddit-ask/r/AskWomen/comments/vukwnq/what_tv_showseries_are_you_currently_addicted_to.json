@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、ハマっているテレビ番組・シリーズを教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你目前沉迷于什么电视节目/系列？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你目前沉迷於什麼電視節目/系列？"
+    }
+  ]
 }

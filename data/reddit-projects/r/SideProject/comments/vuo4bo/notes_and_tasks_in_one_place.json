@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "メモとタスクの一元化"
+    },
+    {
+      "locale": "zh",
+      "title": "笔记和任务在一个地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "筆記和任務在一個地方"
+    }
+  ]
 }
