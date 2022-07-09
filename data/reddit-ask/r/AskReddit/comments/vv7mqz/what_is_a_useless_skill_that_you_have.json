@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが持っている無駄なスキルは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么无用的技能？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼無用的技能？"
+    }
+  ]
 }
