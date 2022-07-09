@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "タブを離れずに瞬時にブックマークを閲覧できるツールを作成"
+    },
+    {
+      "locale": "zh",
+      "title": "创建了一个无需离开标签就能立即浏览书签的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建了一個無需離開標籤就能立即瀏覽書籤的工具"
+    }
+  ]
 }
