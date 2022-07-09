@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何度も繰り返しているのに聞いてもらえないことはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你厌倦了重复什么，但似乎从未被听到？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你厭倦了重複什麼，但似乎從未被聽到？"
+    }
+  ]
 }
