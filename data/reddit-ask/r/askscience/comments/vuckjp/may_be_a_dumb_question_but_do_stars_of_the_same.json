@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Given that stars are mostly made of the same stuff (hydrogen and helium) and\ngravity is only dependent on mass, I figured equal stellar masses would have\nsimilar densities."
+  "the_new_excerpt": "Given that stars are mostly made of the same stuff (hydrogen and helium) and\ngravity is only dependent on mass, I figured equal stellar masses would have\nsimilar densities.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "星がほとんど同じもの（水素とヘリウム）でできていることを考えると、そして\n重力は質量にしか依存しないので、恒星の質量が同じであれば\n同じような密度になるはずです。",
+      "title": "馬鹿な質問かもしれませんが、同じ質量の星は同じ体積を持つのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "鉴于恒星大多是由相同的东西（氢和氦）组成，而\n引力只与质量有关，我想同等质量的恒星会有\n密度相似。",
+      "title": "可能是一个愚蠢的问题，但相同质量的恒星是否也有相同的体积？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "鑑於恆星大多是由相同的東西（氫和氦）組成，而\n引力只與質量有關，我想同等質量的恆星會有\n密度相似。",
+      "title": "可能是一個愚蠢的問題，但相同質量的恆星是否也有相同的體積？"
+    }
+  ]
 }
