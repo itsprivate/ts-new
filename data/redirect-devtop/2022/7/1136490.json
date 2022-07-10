@@ -39,5 +39,22 @@
   "original_created_at": "2022-07-10T04:16:34Z",
   "image": "https://dev.to/social_previews/article/1136490.png",
   "author": "Nick Taylor",
-  "author_url": "https://dev.to/nickytonline"
+  "author_url": "https://dev.to/nickytonline",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この数ヶ月の間に、Typescriptのリソースについて何度か質問されたことがあるので、もしかしたら...",
+      "title": "TypeScriptのラーニングリソース"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几个月里，有一些人向我要Typescript的资源，所以我可能...",
+      "title": "TypeScript的学习资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾個月裏，有一些人向我要Typescript的資源，所以我可能...",
+      "title": "TypeScript的學習資源"
+    }
+  ]
 }
