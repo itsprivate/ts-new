@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハーヴィーは養子縁組のため保留中 :)"
+    },
+    {
+      "locale": "zh",
+      "title": "搁置的哈维将被收养 :)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "擱置的哈維將被收養 :)"
+    }
+  ]
 }

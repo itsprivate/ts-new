@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供の頃、親が本当だと言い張るが、自分ではそうでないと分かっていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的父母坚持认为你童年的哪一部分是真实的，但你知道不是这样的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的父母堅持認爲你童年的哪一部分是真實的，但你知道不是這樣的？"
+    }
+  ]
 }
