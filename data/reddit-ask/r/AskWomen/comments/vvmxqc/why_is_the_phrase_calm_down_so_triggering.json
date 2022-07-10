@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This drives me insane esp if I am calm"
+  "the_new_excerpt": "This drives me insane esp if I am calm",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "特に冷静な時は、気が狂いそうです。",
+      "title": "なぜ、calm downというフレーズが引き金になるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这让我发疯，特别是在我平静的时候。",
+      "title": "为什么 \"冷静下来 \"这个短语如此具有触发性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這讓我發瘋，特別是在我平靜的時候。",
+      "title": "爲什麼 \"冷靜下來 \"這個短語如此具有觸發性？"
+    }
+  ]
 }
