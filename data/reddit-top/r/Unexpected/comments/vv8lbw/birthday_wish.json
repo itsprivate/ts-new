@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誕生日の願い事"
+    },
+    {
+      "locale": "zh",
+      "title": "生日愿望。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生日願望。"
+    }
+  ]
 }
