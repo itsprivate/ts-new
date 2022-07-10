@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どっちなんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你们中的哪一个是？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你們中的哪一個是？"
+    }
+  ]
 }
