@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どの国も動物です。あなたの国はどんな動物ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "每个国家都是一种动物。你的国家是什么动物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "每個國家都是一種動物。你的國家是什麼動物？"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このアドレスからビットコイン身代金要求。どうするんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "这个地址的比特币赎金需求。你是怎么做的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個地址的比特幣贖金需求。你是怎麼做的？"
+    }
+  ]
 }
