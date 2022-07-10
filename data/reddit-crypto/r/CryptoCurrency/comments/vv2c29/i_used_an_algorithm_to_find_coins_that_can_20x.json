@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I've ran an algorithm to find coins that have a 20x or even 50x potential.\nFirst, I took a list of all coins from CoinGecko API, and I filtered them to\nexclude leveraged tokens like \"SPDR S&P 500 ETF tokenized stock FTX\" and of\ncourse shitcoins. This step eliminated 7302 out of 13403 coins, leaving…"
+  "the_new_excerpt": "I've ran an algorithm to find coins that have a 20x or even 50x potential.\nFirst, I took a list of all coins from CoinGecko API, and I filtered them to\nexclude leveraged tokens like \"SPDR S&P 500 ETF tokenized stock FTX\" and of\ncourse shitcoins. This step eliminated 7302 out of 13403 coins, leaving…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "20倍、50倍の可能性を秘めたコインを探すためにアルゴリズムを走らせました。\nまず、CoinGecko APIから全コインのリストを取得し、フィルターをかけました。\nSPDR S&P 500 ETF トークン化株式 FTX」のようなレバレッジ・トークンや、もちろんクソコインを除外しました。\nもちろんクソコインもです。このステップでは、13403個のコインのうち7302個が除外され、残るは...",
+      "title": "20倍になるコインをアルゴリズムで探してみた。その結果がこちらです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我已经运行了一种算法来寻找有20倍甚至50倍潜力的硬币。\n首先，我从CoinGecko API中获取了一份所有硬币的列表，并对其进行了过滤，以\n排除像 \"SPDR S&P 500 ETF tokenized stock FTX \"这样的杠杆代币，当然还有狗屎币。\n当然还有狗屎币。这一步排除了13403个硬币中的7302个，剩下的就是...",
+      "title": "我用一种算法来寻找可以20倍的硬币。下面是结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我已經運行了一種算法來尋找有20倍甚至50倍潛力的硬幣。\n首先，我從CoinGecko API中獲取了一份所有硬幣的列表，並對其進行了過濾，以\n排除像 \"SPDR S&P 500 ETF tokenized stock FTX \"這樣的槓桿代幣，當然還有狗屎幣。\n當然還有狗屎幣。這一步排除了13403個硬幣中的7302個，剩下的就是...",
+      "title": "我用一種算法來尋找可以20倍的硬幣。下面是結果。"
+    }
+  ]
 }

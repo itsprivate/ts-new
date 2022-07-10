@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "給料日が来たらすぐ私"
+    },
+    {
+      "locale": "zh",
+      "title": "发薪日一到，我就去了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發薪日一到，我就去了"
+    }
+  ]
 }
