@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Needl - ウェブアプリケーション間でドキュメントの検索、アクセス、整理を瞬時に実行"
+    },
+    {
+      "locale": "zh",
+      "title": "Needl - 即时搜索、访问和组织跨网络应用的文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Needl - 即時搜索、訪問和組織跨網絡應用的文件"
+    }
+  ]
 }
