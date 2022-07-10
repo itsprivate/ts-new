@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-10T06:49:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--laY2NiDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w1whtt7qqswaicdk331y.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザー用のオブジェクトがあるとします。プロパティが変更されたとき、どのように検出するのでしょうか？ const user =...",
+      "title": "JavaScript Proxyでオブジェクトの変更を検出する"
+    },
+    {
+      "locale": "zh",
+      "description": "假设我们有一个用户的对象。我们怎样才能检测到一个属性的变化？ const user =...",
+      "title": "用JavaScript Proxy检测对象的变化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "假設我們有一個用戶的對象。我們怎樣才能檢測到一個屬性的變化？ const user =...",
+      "title": "用JavaScript Proxy檢測對象的變化"
+    }
+  ]
 }
