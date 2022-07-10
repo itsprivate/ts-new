@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T11:01:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mhYXf39C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3746ohjfk2jbtny1u7es.png",
   "author": "Jordan Soo Yen Yih",
-  "author_url": "https://dev.to/yenyih"
+  "author_url": "https://dev.to/yenyih",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "新しいJavascriptランタイムであるBunは、最初のベータリリースを発表し、次のような主張をしています。",
+      "title": "Bun - 最速のJavascriptランタイム"
+    },
+    {
+      "locale": "zh",
+      "description": "Bun--新的Javascript运行时刚刚宣布了它的第一个测试版本，并声称...",
+      "title": "Bun - 最快的Javascript运行时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Bun--新的Javascript運行時剛剛宣佈了它的第一個測試版本，並聲稱...",
+      "title": "Bun - 最快的Javascript運行時間"
+    }
+  ]
 }
