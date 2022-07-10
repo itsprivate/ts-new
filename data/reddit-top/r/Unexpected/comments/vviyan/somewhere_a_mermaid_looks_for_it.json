@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どこかで、人魚が探している。"
+    },
+    {
+      "locale": "zh",
+      "title": "在某个地方，一条美人鱼在寻找它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在某個地方，一條美人魚在尋找它。"
+    }
+  ]
 }

@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こんなチームメイトに敵はいらない"
+    },
+    {
+      "locale": "zh",
+      "title": "你不需要有这样的队友的敌人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你不需要有這樣的隊友的敵人"
+    }
+  ]
 }
