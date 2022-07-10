@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが嫌だと思うことで、社会が平気だと思えることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么东西是你觉得恶心的，但社会似乎没有意见的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼東西是你覺得噁心的，但社會似乎沒有意見的？"
+    }
+  ]
 }
