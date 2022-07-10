@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-10T07:01:00Z"
+  "original_createdAt": "2022-07-10T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIsListは、さまざまなオープンソースからコンパイルされたすべてのパブリックAPIのディレクトリで、APIsListパージングエンジンによってデータが強化されています。この製品は、最も楽しいものから最も生産的なものまで、さまざまなAPIを発見することができます。",
+      "tagline": "更新された公開APIの一覧です。"
+    },
+    {
+      "locale": "zh",
+      "description": "APIsList是所有公共API的目录，由不同的开放资源编译而成，并通过APIsList解析引擎增强其数据。这个产品允许你发现不同的API，从最有趣的开始到最有成效的。",
+      "tagline": "最新的公共API列表。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "APIsList是所有公共API的目錄，由不同的開放資源編譯而成，並通過APIsList解析引擎增強其數據。這個產品允許你發現不同的API，從最有趣的開始到最有成效的。",
+      "tagline": "最新的公共API列表。"
+    }
+  ]
 }
