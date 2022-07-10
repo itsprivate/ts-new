@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウイルスに感染したとき、実際にウイルスが含まれているのは体内の細胞の何パーセントでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你感染了一种病毒，你身体的细胞中真正含有病毒的比例是多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你感染了一種病毒，你身體的細胞中真正含有病毒的比例是多少？"
+    }
+  ]
 }

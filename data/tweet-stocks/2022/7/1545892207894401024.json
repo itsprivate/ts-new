@@ -130,5 +130,19 @@
     "retweet_count": 1234,
     "favorite_count": 2592,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "ジェット燃料がハワイの主要な水道に流出 https://t.co/fDr9u6ImRU"
+    },
+    {
+      "locale": "zh",
+      "full_text": "喷气燃料泄漏到夏威夷的主要供水点 https://t.co/fDr9u6ImRU"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "噴氣燃料泄漏到夏威夷的主要供水點 https://t.co/fDr9u6ImRU"
+    }
+  ]
 }
