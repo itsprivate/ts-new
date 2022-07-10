@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-09T07:05:14Z"
+  "original_createdAt": "2022-07-09T07:05:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Timeline Hero ウェブアプリでプロジェクトのTimelineを簡単に作成できます。ガントチャートのような感覚で、タスクを依存関係でアレンジしてください。完成したTimelineはPowerPointにエクスポートして、プレゼンテーションに埋め込めます。",
+      "tagline": "オンラインで簡単にタイムラインを作成し、PowerPointに書き出すことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Timeline Hero网络应用程序为您的项目轻松创建时间线。用依赖关系安排你的任务，以获得类似甘特图的感觉。将你完成的时间线导出到PowerPoint，以嵌入你的演示文稿中。",
+      "tagline": "轻松地在线创建时间线并将其导出到PowerPoint中"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Timeline Hero網絡應用程序爲您的項目輕鬆創建時間線。用依賴關係安排你的任務，以獲得類似甘特圖的感覺。將你完成的時間線導出到PowerPoint，以嵌入你的演示文稿中。",
+      "tagline": "輕鬆地在線創建時間線並將其導出到PowerPoint中"
+    }
+  ]
 }

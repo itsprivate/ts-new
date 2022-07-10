@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-09T14:45:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7rQRgoPl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0c6fpe8hnbalcge65wqw.jpg",
   "author": "Sadee",
-  "author_url": "https://dev.to/codewithsadee"
+  "author_url": "https://dev.to/codewithsadee",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Html CSS JavaScriptを使った旅行サイト このビデオでは、レスポンシブな旅行サイトを作成する方法を紹介します...",
+      "title": "Html CSS JavaScriptによる旅行サイト"
+    },
+    {
+      "locale": "zh",
+      "description": "旅游网站使用Html CSS JavaScript 在这个视频中，我将向你展示如何创建响应式网站。",
+      "title": "使用Html CSS JavaScript的旅游网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "旅遊網站使用Html CSS JavaScript 在這個視頻中，我將向你展示如何創建響應式網站。",
+      "title": "使用Html CSS JavaScript的旅遊網站"
+    }
+  ]
 }
