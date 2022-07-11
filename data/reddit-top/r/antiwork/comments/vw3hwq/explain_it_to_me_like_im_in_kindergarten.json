@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "幼稚園児のように説明してくれ"
+    },
+    {
+      "locale": "zh",
+      "title": "解释给我听，就像我在幼儿园一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "解釋給我聽，就像我在幼兒園一樣"
+    }
+  ]
 }
