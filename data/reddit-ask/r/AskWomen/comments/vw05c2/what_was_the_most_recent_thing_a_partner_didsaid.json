@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近、パートナーからされた/言われたことで赤面したことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "伙伴最近做的/说的让你脸红的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夥伴最近做的/說的讓你臉紅的事情是什麼？"
+    }
+  ]
 }
