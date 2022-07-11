@@ -27,5 +27,19 @@
   },
   "retweet_count": 85,
   "favorite_count": 392,
-  "original_created_at": "Mon Jul 11 03:25:19 +0000 2022"
+  "original_created_at": "Mon Jul 11 03:25:19 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "coinbase $coin ***からの出金に問題があるとの報告がある。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "关于用户从coinbase $coin *** 提款出现问题的报告"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "關於用戶從coinbase $coin *** 提款出現問題的報告"
+    }
+  ]
 }
