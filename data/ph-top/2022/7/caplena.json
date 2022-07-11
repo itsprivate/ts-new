@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-11T09:25:17Z"
+  "original_createdAt": "2022-07-11T09:25:17Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "面倒なテキスト解析作業を自動化する。実用的な洞察を得て、結果をダッシュボードで共有します。Augmented Intelligenceを搭載。オールインワン・プラットフォーム。",
+      "tagline": "テキストのフィードバックからインサイトへ。"
+    },
+    {
+      "locale": "zh",
+      "description": "将繁琐的文本分析过程自动化。获得可操作的洞察力，并在仪表板上分享你的结果。由Augmented Intelligence支持。所有这些都在一个平台上。",
+      "tagline": "从文本反馈到洞察力。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "將繁瑣的文本分析過程自動化。獲得可操作的洞察力，並在儀表板上分享你的結果。由Augmented Intelligence支持。所有這些都在一個平臺上。",
+      "tagline": "從文本反饋到洞察力。"
+    }
+  ]
 }
