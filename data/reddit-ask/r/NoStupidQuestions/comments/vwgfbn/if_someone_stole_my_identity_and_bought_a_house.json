@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かが私のIDを盗んで、それを使って家を買ったとしたら、その家は私のものでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果有人盗用我的身份，用它买了一栋房子，我是否拥有那栋房子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果有人盜用我的身份，用它買了一棟房子，我是否擁有那棟房子？"
+    }
+  ]
 }
