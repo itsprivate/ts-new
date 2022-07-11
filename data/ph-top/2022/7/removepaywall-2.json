@@ -48,5 +48,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-11T07:01:00Z"
+  "original_createdAt": "2022-07-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "RemovePaywallは、あらゆるニュース記事やブログからソフトペイウォールや広告を削除することができるサイトです。無料で簡単に利用できます。記事のURLを入力するだけです。",
+      "tagline": "迷惑なペイウォールを使わずに記事を読む"
+    },
+    {
+      "locale": "zh",
+      "description": "RemovePaywall是一个网站，允许用户从任何新闻文章或博客中删除软性付费墙和广告。它是免费的，易于使用。你所要做的就是输入文章的URL。",
+      "tagline": "阅读没有恼人的付费墙的文章"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "RemovePaywall是一個網站，允許用戶從任何新聞文章或博客中刪除軟性付費牆和廣告。它是免費的，易於使用。你所要做的就是輸入文章的URL。",
+      "tagline": "閱讀沒有惱人的付費牆的文章"
+    }
+  ]
 }
