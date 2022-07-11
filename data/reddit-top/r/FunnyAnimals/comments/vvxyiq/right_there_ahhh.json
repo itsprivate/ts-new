@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "を、すぐそこに。"
+    },
+    {
+      "locale": "zh",
+      "title": "就在那里。 啊哈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "就在那裏。 啊哈。"
+    }
+  ]
 }
