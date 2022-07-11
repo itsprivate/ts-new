@@ -70,5 +70,19 @@
   "retweet_count": 115,
   "favorite_count": 465,
   "possibly_sensitive": false,
-  "original_created_at": "Mon Jul 11 01:15:38 +0000 2022"
+  "original_created_at": "Mon Jul 11 01:15:38 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "$pfeはこのビデオを嫌っている\n https://t.co/sIcjb0cgSb"
+    },
+    {
+      "locale": "zh",
+      "full_text": "$pfe 讨厌这个视频\n https://t.co/sIcjb0cgSb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "$pfe 討厭這個視頻\n https://t.co/sIcjb0cgSb"
+    }
+  ]
 }
