@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビルの屋上で瓶の蓋を使ってスノーボードをするカラスです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只乌鸦在建筑物的屋顶上用罐子盖子滑雪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻烏鴉在建築物的屋頂上用罐子蓋子滑雪。"
+    }
+  ]
 }
