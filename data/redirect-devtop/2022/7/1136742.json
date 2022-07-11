@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-10T14:22:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XrysWvcK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m6ig7xjdx0wh5d7zqtqi.png",
   "author": "Dennis Persson",
-  "author_url": "https://dev.to/perssondennis"
+  "author_url": "https://dev.to/perssondennis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたが望むなら、私を信じて、しかし、ここで10最も有名な有名人は、としてのキャリアを持っています...",
+      "title": "コードを書く有名人トップ10"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你想相信我，但这里有十个最著名的名人，他们也有自己的职业。",
+      "title": "10位编码的名人"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你想相信我，但這裏有十個最著名的名人，他們也有自己的職業。",
+      "title": "10位編碼的名人"
+    }
+  ]
 }
