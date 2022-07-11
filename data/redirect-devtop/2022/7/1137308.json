@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-11T07:51:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yyxu_Oo1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e5qj1difls2mdmf0mu6x.png",
   "author": "Jakub Andrzejewski",
-  "author_url": "https://dev.to/jacobandrewsky"
+  "author_url": "https://dev.to/jacobandrewsky",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "初めて「DevRel」という言葉を聞いたとき、具体的にどういう意味なのかよく分かりませんでした。Vueに入社する前...",
+      "title": "DevRelとは何か、そして今日からどうすればいいのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "当我第一次听到 \"DevRel \"这个词时，我并不确定它的确切含义。在我加入Vue...",
+      "title": "什么是DevRel，你今天怎么能开始做呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我第一次聽到 \"DevRel \"這個詞時，我並不確定它的確切含義。在我加入Vue...",
+      "title": "什麼是DevRel，你今天怎麼能開始做呢？"
+    }
+  ]
 }
