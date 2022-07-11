@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "And how do you work on fixing it?"
+  "the_new_excerpt": "And how do you work on fixing it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "そして、それを修正するためにどのように取り組んでいますか？",
+      "title": "恋愛関係で一番不安なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你又是如何致力于解决这个问题的呢？",
+      "title": "你在恋爱关系中最大的不安全感是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你又是如何致力於解決這個問題的呢？",
+      "title": "你在戀愛關係中最大的不安全感是什麼？"
+    }
+  ]
 }

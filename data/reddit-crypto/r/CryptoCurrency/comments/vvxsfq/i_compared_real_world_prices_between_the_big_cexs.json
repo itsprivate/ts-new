@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "We keep hearing that prices are significantly different between exchanges,\nespecially with free commission which people are claiming that the spread will\nbe much higher? But is it really?\n\nHere I tested the price difference, the real price that you would buy at and not\ntheoretical price, between:…"
+  "the_new_excerpt": "We keep hearing that prices are significantly different between exchanges,\nespecially with free commission which people are claiming that the spread will\nbe much higher? But is it really?\n\nHere I tested the price difference, the real price that you would buy at and not\ntheoretical price, between:…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "取引所によって価格が大きく違うという話をよく聞きます。\n特に手数料が無料の場合は、スプレッドが大きくなると言われています。\nははるかに高いのですか？しかし、それは本当にあるのでしょうか？\n\nここで私は、価格差、あなたがで購入する実際の価格ではなく、テストしてみました\n理論上の価格ではなく、実際に購入する価格です。",
+      "title": "大手CEXの実勢価格を、手数料ゼロのところとそうでないところとで比較してみたところ、以下のような結果になりました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们一直听说不同交易所之间的价格有很大差异。\n特别是免费的佣金，人们称其价差将\n高得多？但真的是这样吗？\n\n在这里，我测试了价格差异，你会买的真实价格，而不是\n理论价格，在：...",
+      "title": "我比较了各大交易所的实际价格，有些是零佣金，有些没有，结果如下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們一直聽說不同交易所之間的價格有很大差異。\n特別是免費的佣金，人們稱其價差將\n高得多？但真的是這樣嗎？\n\n在這裏，我測試了價格差異，你會買的真實價格，而不是\n理論價格，在：...",
+      "title": "我比較了各大交易所的實際價格，有些是零佣金，有些沒有，結果如下。"
+    }
+  ]
 }
