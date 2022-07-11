@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-09T13:18:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T4dmYfmI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9by2f7ujonta86vkm4l7.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascriptでは、関数に4つのパラメータがあっても、3つしか使わなかったとしても、大した問題ではありません。",
+      "title": "TypeScriptオプションのパラメータ"
+    },
+    {
+      "locale": "zh",
+      "description": "在Javascript中，如果一个函数有4个参数，而我们只用了3个，这没什么大不了的--Javascript只是...",
+      "title": "TypeScript可选参数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Javascript中，如果一個函數有4個參數，而我們只用了3個，這沒什麼大不了的--Javascript只是...",
+      "title": "TypeScript可選參數"
+    }
+  ]
 }
