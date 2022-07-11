@@ -48,5 +48,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Our website - https://readybot.io/\n\nWe are in early alpha release targeting a really specific use case with RSS.\nSending RSS feeds straight to your discord server!\n\nAll for free! We do have a paid option, but that's more targeted towards power\nusers and mostly everyone else should be able to use…"
+  "the_new_excerpt": "Our website - https://readybot.io/\n\nWe are in early alpha release targeting a really specific use case with RSS.\nSending RSS feeds straight to your discord server!\n\nAll for free! We do have a paid option, but that's more targeted towards power\nusers and mostly everyone else should be able to use…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私たちのウェブサイト - https://readybot.io/\n\n私たちは、RSSの特定のユースケースをターゲットにした初期アルファ・リリースを実施しています。\nRSSフィードをあなたのDiscordサーバーに直接送信します!\n\nすべて無料です。有料オプションもありますが、こちらはよりパワーユーザーをターゲットにしています。\n有料オプションもありますが、それはパワーユーザーを対象としており、他のほとんどの人は使用できるはずです。",
+      "title": "[App - Readybot.io]サイドプロジェクトとして新たに立ち上げたdiscordにRSSフィードを配信!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们的网站 - https://readybot.io/\n\n我们在早期alpha版本中针对RSS的一个真正的特定用例。\n直接向你的迪斯科服务器发送RSS提要!\n\n所有这些都是免费的! 我们确实有一个付费选项，但这更多地是针对强大的\n用户，其他大多数人都可以使用...",
+      "title": "[App - Readybot.io] RSS订阅到discord，一个新推出的副业项目!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們的網站 - https://readybot.io/\n\n我們在早期alpha版本中針對RSS的一個真正的特定用例。\n直接向你的迪斯科服務器發送RSS提要!\n\n所有這些都是免費的! 我們確實有一個付費選項，但這更多地是針對強大的\n用戶，其他大多數人都可以使用...",
+      "title": "[App - Readybot.io] RSS訂閱到discord，一個新推出的副業項目!"
+    }
+  ]
 }
