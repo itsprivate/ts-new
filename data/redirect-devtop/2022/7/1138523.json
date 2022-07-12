@@ -39,5 +39,22 @@
   "original_created_at": "2022-07-12T14:11:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IRfMm9i7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4lu9u8lhw7vcxlparkd.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "精神的な複雑さ、ファイルの整理、コンテキストの切り替えなど、どのように管理しているのか...。",
+      "title": "複数のプロジェクト/コードベースを同時に管理するにはどうすればよいのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "description": "你如何管理精神上的复杂性、文件组织、上下文切换等等，当你在...",
+      "title": "你是如何同时管理多个项目/代码库的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你如何管理精神上的複雜性、文件組織、上下文切換等等，當你在...",
+      "title": "你是如何同時管理多個項目/代碼庫的？"
+    }
+  ]
 }
