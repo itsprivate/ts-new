@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Slackと連動したGDPR対応ライブチャットを構築してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个符合GDPR标准的即时聊天工具，可与Slack一起使用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個符合GDPR標準的即時聊天工具，可與Slack一起使用"
+    }
+  ]
 }
