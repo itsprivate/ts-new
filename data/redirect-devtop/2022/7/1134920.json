@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-07T22:12:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ThTMCvXz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z4i80q5jmdylml8dej7e.png",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時には、普遍的に良い解決策がない問題があります。何らかのトレードオフが必要なのです。",
+      "title": "UIフレームワークの一貫性という代償"
+    },
+    {
+      "locale": "zh",
+      "description": "有时，有些问题没有普遍的好办法。有一些折衷的办法需要...",
+      "title": "UI框架中一致性的代价"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時，有些問題沒有普遍的好辦法。有一些折衷的辦法需要...",
+      "title": "UI框架中一致性的代價"
+    }
+  ]
 }
