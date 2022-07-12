@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-11T06:07:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UxjgAjMV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bsnekw9lqebdvo6hot7.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScript Proxyでググると、コアな部分を説明した記事がたくさん出てきます。",
+      "title": "JavaScript による Fetch API のプロキシ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你去谷歌搜索JavaScript Proxy，你会看到很多解释核心内容的文章...",
+      "title": "JavaScript代理Fetch API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你去谷歌搜索JavaScript Proxy，你會看到很多解釋核心內容的文章...",
+      "title": "JavaScript代理Fetch API"
+    }
+  ]
 }

@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-12T07:01:00Z"
+  "original_createdAt": "2022-07-12T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Zoom to Summary converter」は、Typeformの新しい会話型製品「Relayed.ai」のプレビューです。あらゆるZoomミーティング（またはあらゆるミーティングファイル）をインポートし、AIが生成した美しいサマリーを出力します。これはRelayedができることのほんの一例です。https://relayed.ai。",
+      "tagline": "どんなZoom会議でも（どんなファイルでも）美しい要約にする"
+    },
+    {
+      "locale": "zh",
+      "description": "Zoom to Summary converter \"是Typeform新的对话式产品Relayed.ai的一个预览。导入任何Zoom会议（或任何会议文件）并输出一个漂亮的AI生成的摘要。这只是Relayed能做的事情的一小部分：https://relayed.ai。",
+      "tagline": "将任何Zoom会议（或任何文件）变成一个漂亮的摘要"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Zoom to Summary converter \"是Typeform新的對話式產品Relayed.ai的一個預覽。導入任何Zoom會議（或任何會議文件）並輸出一個漂亮的AI生成的摘要。這只是Relayed能做的事情的一小部分：https://relayed.ai。",
+      "tagline": "將任何Zoom會議（或任何文件）變成一個漂亮的摘要"
+    }
+  ]
 }
