@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Google confuses me."
+  "the_new_excerpt": "Google confuses me.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "グーグルは私を混乱させる。",
+      "title": "ガスライティング」とはどういう意味ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "谷歌让我感到困惑。",
+      "title": "什么是 \"气导\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "谷歌讓我感到困惑。",
+      "title": "什麼是 \"氣導\"？"
+    }
+  ]
 }
