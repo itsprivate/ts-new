@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NASAが公開したジェームス・ウェッブ宇宙望遠鏡による初のフルカラー画像（4K映像）"
+    },
+    {
+      "locale": "zh",
+      "title": "美国宇航局披露詹姆斯-韦伯太空望远镜拍摄的首张深空全彩图片（4K）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國宇航局披露詹姆斯-韋伯太空望遠鏡拍攝的首張深空全綵圖片（4K）。"
+    }
+  ]
 }
