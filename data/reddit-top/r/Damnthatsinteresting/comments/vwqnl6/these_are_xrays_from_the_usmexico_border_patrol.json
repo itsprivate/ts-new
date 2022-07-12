@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはアメリカとメキシコの国境警備隊のX線写真です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些是美国-墨西哥边境巡逻队的X光片..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些是美國-墨西哥邊境巡邏隊的X光片..."
+    }
+  ]
 }
