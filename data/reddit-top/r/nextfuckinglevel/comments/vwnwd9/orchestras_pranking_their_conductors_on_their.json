@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "指揮者の誕生日にイタズラするオーケストラ"
+    },
+    {
+      "locale": "zh",
+      "title": "交响乐团在其指挥的生日上进行恶作剧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "交響樂團在其指揮的生日上進行惡作劇"
+    }
+  ]
 }
