@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-11T08:37:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--04CpXkpn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://roboleary.net/assets/img/blog/2022-07-11-best-password-manager-on-linux/cover.jpg",
   "author": "Rob OLeary",
-  "author_url": "https://dev.to/robole"
+  "author_url": "https://dev.to/robole",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "KeePassは私が最初に選んだパスワードマネージャーでしたが、時間が経つにつれて、いくつかの問題があることに気づきました...",
+      "title": "Linuxで最高のパスワードマネージャ？"
+    },
+    {
+      "locale": "zh",
+      "description": "KeePass是我的首选密码管理器，但随着时间的推移，我发现它有一些...",
+      "title": "Linux上最好的密码管理器？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "KeePass是我的首選密碼管理器，但隨着時間的推移，我發現它有一些...",
+      "title": "Linux上最好的密碼管理器？"
+    }
+  ]
 }
