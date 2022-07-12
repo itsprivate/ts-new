@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-09T03:32:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jF5WJwT6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qjf031wq3sbkgklp9l0h.jpeg",
   "author": "Philipp Renoth",
-  "author_url": "https://dev.to/daaitch"
+  "author_url": "https://dev.to/daaitch",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この2年間、AndroidとiOS向けのReactNative（RN）アプリを開発していて、ますます...",
+      "title": "さようならReactNative、こんにちはIonic。"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的两年里，我为安卓和iOS开发了一个ReactNative（RN）应用程序，我有越来越多的...",
+      "title": "再见了ReactNative，你好，Ionic。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的兩年裏，我爲安卓和iOS開發了一個ReactNative（RN）應用程序，我有越來越多的...",
+      "title": "再見了ReactNative，你好，Ionic。"
+    }
+  ]
 }
