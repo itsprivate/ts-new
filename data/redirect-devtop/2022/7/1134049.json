@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T02:35:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b6EwXgAK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smo7zeztspsqmhwk0kfc.jpeg",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードレビューは苦痛です。ソフトウェア・エンジニアはしばしば、レビュー・プロセスが遅い、...と不満を漏らします。",
+      "title": "コードレビューの時間を劇的に短縮する7つの方法"
+    },
+    {
+      "locale": "zh",
+      "description": "代码审查可能是痛苦的。软件工程师经常抱怨审查过程很慢，...",
+      "title": "大幅减少代码审查时间的7种方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "代碼審查可能是痛苦的。軟件工程師經常抱怨審查過程很慢，...",
+      "title": "大幅減少代碼審查時間的7種方法"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I built a full-stack app: Roomie [https://roomiee.netlify.app/home] to manage\nhousework for roommates in a shared apartment. The app allows users to create\ntasks and assign them to apartment members. Then, from the calendar, every user\ncan view what all members need to do in the selected week. Here…"
+  "the_new_excerpt": "I built a full-stack app: Roomie [https://roomiee.netlify.app/home] to manage\nhousework for roommates in a shared apartment. The app allows users to create\ntasks and assign them to apartment members. Then, from the calendar, every user\ncan view what all members need to do in the selected week. Here…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "フルスタックアプリを作りました。Roomie [https://roomiee.netlify.app/home]を開発しました。\nルームメイトの家事を管理するアプリを作りました。このアプリでは、ユーザーがタスクを作成し\nこのアプリでは、ユーザーがタスクを作成し、それをアパートのメンバーに割り当てることができます。そして、カレンダーから、すべてのユーザが\nカレンダーから、メンバー全員がその週に何をすべきかを確認できます。ここで...",
+      "title": "Roomie：シェアアパートのルームメイトのためのタスクシェアアプリ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我建立了一个全堆栈的应用程序。Roomie[https://roomiee.netlify.app/home]来管理\n的室友们的家务事。该应用程序允许用户创建\n任务并将其分配给公寓成员。然后，从日历中，每个用户\n可以查看所有成员在选定的一周内需要做什么。这里...",
+      "title": "Roomie：共享公寓中室友的任务分享应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我建立了一個全堆棧的應用程序。Roomie[https://roomiee.netlify.app/home]來管理\n的室友們的家務事。該應用程序允許用戶創建\n任務並將其分配給公寓成員。然後，從日曆中，每個用戶\n可以查看所有成員在選定的一週內需要做什麼。這裏...",
+      "title": "Roomie：共享公寓中室友的任務分享應用"
+    }
+  ]
 }
