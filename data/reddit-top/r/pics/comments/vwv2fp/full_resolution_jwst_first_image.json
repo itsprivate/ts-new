@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フル解像度JWST初画像"
+    },
+    {
+      "locale": "zh",
+      "title": "全分辨率JWST第一张图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "全分辨率JWST第一張圖片"
+    }
+  ]
 }
