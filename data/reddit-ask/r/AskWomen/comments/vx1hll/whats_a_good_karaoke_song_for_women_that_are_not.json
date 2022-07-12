@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Bonus points if it’s not a predictable choice."
+  "the_new_excerpt": "Bonus points if it’s not a predictable choice.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "予想通りの選択でなければボーナスポイント。",
+      "title": "声量がない女性におすすめのカラオケの曲は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果这不是一个可预测的选择，则可获得奖励。",
+      "title": "有什么好的卡拉OK歌曲适合那些没有声乐天赋的女性？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果這不是一個可預測的選擇，則可獲得獎勵。",
+      "title": "有什麼好的卡拉OK歌曲適合那些沒有聲樂天賦的女性？"
+    }
+  ]
 }
