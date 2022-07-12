@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弁護士は、依頼人が犯罪を犯したことを内緒で知っていた場合、起訴されることがあるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果律师知道他们的客户在没有告诉任何人的情况下犯了罪，他们会被起诉吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果律師知道他們的客戶在沒有告訴任何人的情況下犯了罪，他們會被起訴嗎？"
+    }
+  ]
 }
