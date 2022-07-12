@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-10T15:09:50Z",
   "image": "https://dev.to/social_previews/article/1136753.png",
   "author": "talent",
-  "author_url": "https://dev.to/talenttinaapi"
+  "author_url": "https://dev.to/talenttinaapi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "どれが一番いいと思う？",
+      "title": "JavascriptでAPIを呼び出す4つの方法。"
+    },
+    {
+      "locale": "zh",
+      "description": "你认为哪一个是最好的？",
+      "title": "在Javascript中调用API的4种方法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你認爲哪一個是最好的？",
+      "title": "在Javascript中調用API的4種方法。"
+    }
+  ]
 }
