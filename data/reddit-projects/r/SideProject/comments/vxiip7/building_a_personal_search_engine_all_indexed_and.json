@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "個人用検索エンジンを構築、すべてインデックス化しローカルに検索可能"
+    },
+    {
+      "locale": "zh",
+      "title": "建立一个个人搜索引擎，所有的索引和搜索都在本地进行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立一個個人搜索引擎，所有的索引和搜索都在本地進行"
+    }
+  ]
 }
