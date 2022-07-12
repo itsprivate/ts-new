@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドコモのような仕組みのホームページビルダーを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站建设者，它的工作方式就像一个文档。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站建設者，它的工作方式就像一個文檔。"
+    }
+  ]
 }
