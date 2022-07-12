@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最優秀品質"
+    },
+    {
+      "locale": "zh",
+      "title": "优质的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "優質的"
+    }
+  ]
 }
