@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らは米国にもっと給料を払っていない。このインフレは不自然です"
+    },
+    {
+      "locale": "zh",
+      "title": "他们甚至没有向美国支付更多的钱。这种通货膨胀是不自然的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們甚至沒有向美國支付更多的錢。這種通貨膨脹是不自然的。"
+    }
+  ]
 }
