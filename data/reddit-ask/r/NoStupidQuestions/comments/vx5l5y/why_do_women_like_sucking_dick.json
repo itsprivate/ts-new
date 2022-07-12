@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Serious question"
+  "the_new_excerpt": "Serious question",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "真面目な質問",
+      "title": "なぜ女性はフェラチオが好きなのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "严肃的问题",
+      "title": "为什么女人喜欢吹箫？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "嚴肅的問題",
+      "title": "爲什麼女人喜歡吹簫？"
+    }
+  ]
 }
