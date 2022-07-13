@@ -39,5 +39,22 @@
   "original_created_at": "2022-07-13T19:22:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8B5eS_pQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1514511885945-e7faec0e3eaf%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1770%26q%3D80",
   "author": "Cassidy Williams",
-  "author_url": "https://dev.to/cassidoo"
+  "author_url": "https://dev.to/cassidoo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "キャシディはムースについて多くを学び、人々、すなわちあなたに伝える必要があるのです",
+      "title": "ヘラジカの生息地"
+    },
+    {
+      "locale": "zh",
+      "description": "卡西迪学到了很多关于麋鹿的知识，并需要告诉人们，也就是你，关于它们的事情。",
+      "title": "麋鹿的事实"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "卡西迪學到了很多關於麋鹿的知識，並需要告訴人們，也就是你，關於它們的事情。",
+      "title": "麋鹿的事實"
+    }
+  ]
 }
