@@ -58,5 +58,19 @@
   "retweet_count": 32,
   "favorite_count": 301,
   "possibly_sensitive": false,
-  "original_created_at": "Wed Jul 13 09:11:37 +0000 2022"
+  "original_created_at": "Wed Jul 13 09:11:37 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "実現価格は、平均原価価格のようなものです。移動平均のように考えてください。しかし、月を均等に重み付けするのではなく、その月に何BTCがオンチェーンで動いたかによって重み付けされます。つまり、5ヶ月の実現価格は、過去5ヶ月のBTC移動量で加重されたもので、2年間およびすべてのBTCについて同じです。https://t.co/61vklK2iLG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "变现价格是平均成本价格的一种。可以把它想象成移动平均数，但不是平均加权的月份，而是根据当月链上移动的BTC数量加权的月份。因此，5个月的变现价格是过去5M的价格，由过去5M移动的BTC加权，2年和所有BTC的价格也是如此 https://t.co/61vklK2iLG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "變現價格是平均成本價格的一種。可以把它想象成移動平均數，但不是平均加權的月份，而是根據當月鏈上移動的BTC數量加權的月份。因此，5個月的變現價格是過去5M的價格，由過去5M移動的BTC加權，2年和所有BTC的價格也是如此 https://t.co/61vklK2iLG"
+    }
+  ]
 }
