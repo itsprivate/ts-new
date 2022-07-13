@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そして、これは2014年に行われた、プルーフ・オブ・ワークがなぜ安全なのかを説明するものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "而这是在2014年，解释为什么工作证明是安全的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "而這是在2014年，解釋爲什麼工作證明是安全的"
+    }
+  ]
 }
