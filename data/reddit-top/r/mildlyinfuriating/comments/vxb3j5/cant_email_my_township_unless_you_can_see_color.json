@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カラーが見えないと、私の町内会にメールできない。"
+    },
+    {
+      "locale": "zh",
+      "title": "不能给我的乡镇发电子邮件，除非你能看到颜色，而我不能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不能給我的鄉鎮發電子郵件，除非你能看到顏色，而我不能。"
+    }
+  ]
 }
