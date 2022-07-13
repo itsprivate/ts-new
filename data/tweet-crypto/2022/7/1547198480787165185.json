@@ -134,5 +134,22 @@
     "retweet_count": 1560,
     "favorite_count": 4424,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @bitstein: SATのスタックに失敗することは選択肢にない！取り残されないように。取り残されないように！ https://t.co/vwv4qVES37",
+      "retweeted_status_full_text": "サッツの積み重ねに失敗は許されない! 取り残されないように！ https://t.co/vwv4qVES37"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @bitstein: 不叠加卫星是不可能的! 不要被甩在后面！https://t.co/vwv4qVES37",
+      "retweeted_status_full_text": "不堆放卫星是不可能的! 不要被落下！https://t.co/vwv4qVES37"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @bitstein: 不疊加衛星是不可能的! 不要被甩在後面！https://t.co/vwv4qVES37",
+      "retweeted_status_full_text": "不堆放衛星是不可能的! 不要被落下！https://t.co/vwv4qVES37"
+    }
+  ]
 }
