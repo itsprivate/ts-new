@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このツイートはとても的確です。"
+    },
+    {
+      "locale": "zh",
+      "title": "这条推文是如此的准确。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這條推文是如此的準確。"
+    }
+  ]
 }
