@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "6月の米消費者物価指数、前年同月比9.1%上昇、予想8.8%。8.8％、前回8.6"
+    },
+    {
+      "locale": "zh",
+      "title": "美国6月消费者价格通胀率同比增长9.1%，预期8.8%，前值8.6%。8.8%；前值8.6%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國6月消費者價格通脹率同比增長9.1%，預期8.8%，前值8.6%。8.8%；前值8.6%。"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が乗っている飛行機は、なぜか超霧がかかっている"
+    },
+    {
+      "locale": "zh",
+      "title": "我所在的飞机由于某种原因有超级大的雾气"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我所在的飛機由於某種原因有超級大的霧氣"
+    }
+  ]
 }

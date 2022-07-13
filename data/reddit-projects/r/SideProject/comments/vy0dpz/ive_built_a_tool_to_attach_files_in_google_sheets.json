@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "FileDrop is a free Google Sheets add-on that allows you to insert a file into a\nspreadsheet cell [https://getfiledrop.com/attach-pdf-file-google-sheets-cell/]\nwith automatic linking and adding it to Google Drive. You can add images, pdf's,\nword documents or any other file.\n\nSee it working…"
+  "the_new_excerpt": "FileDrop is a free Google Sheets add-on that allows you to insert a file into a\nspreadsheet cell [https://getfiledrop.com/attach-pdf-file-google-sheets-cell/]\nwith automatic linking and adding it to Google Drive. You can add images, pdf's,\nword documents or any other file.\n\nSee it working…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "FileDropは、Google Sheetsの無料アドオンで、ファイルを挿入することで\nスプレッドシートのセル[https://getfiledrop.com/attach-pdf-file-google-sheets-cell/]にファイルを挿入できます。\nにファイルを挿入し、自動リンクでGoogle Driveに追加することができます。画像、pdfを追加することができます。\nワード文書など、どんなファイルでも追加できます。\n\n動作を確認する...",
+      "title": "Google Sheetsのセルにファイルを添付するツールを作ってみた - FileDrop"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "FileDrop是一个免费的谷歌表格插件，允许你将文件插入到\n电子表格单元[https://getfiledrop.com/attach-pdf-file-google-sheets-cell/]\n自动链接并将其添加到Google Drive。你可以添加图片、pdf。\nword文档或任何其他文件。\n\n查看它的工作情况...",
+      "title": "我建立了一个在谷歌表格单元格中附加文件的工具 - FileDrop"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "FileDrop是一個免費的谷歌表格插件，允許你將文件插入到\n電子表格單元[https://getfiledrop.com/attach-pdf-file-google-sheets-cell/]\n自動鏈接並將其添加到Google Drive。你可以添加圖片、pdf。\nword文檔或任何其他文件。\n\n查看它的工作情況...",
+      "title": "我建立了一個在谷歌表格單元格中附加文件的工具 - FileDrop"
+    }
+  ]
 }
