@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Girl's just going with the vibes"
+    },
+    {
+      "locale": "zh",
+      "title": "女孩只是随波逐流"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "女孩只是隨波逐流"
+    }
+  ]
 }
