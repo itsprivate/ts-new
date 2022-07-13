@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-08T12:03:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1cdcjeNx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/klw16914lnsvxbz6lzh9.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": ".NET 6が正式にリリースされて以来、.NET 7とそれがもたらす新機能に関する噂が絶えませんでした...。",
+      "title": ".NET 7の最新新機能が噂を裏付ける。史上最速の.NET？"
+    },
+    {
+      "locale": "zh",
+      "description": "自从.NET 6正式发布以来，关于.NET 7和它将带来的新功能的传言就不绝于耳。",
+      "title": ".NET 7的最新新功能证实了这些传言。史上最快的.NET？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "自從.NET 6正式發佈以來，關於.NET 7和它將帶來的新功能的傳言就不絕於耳。",
+      "title": ".NET 7的最新新功能證實了這些傳言。史上最快的.NET？"
+    }
+  ]
 }

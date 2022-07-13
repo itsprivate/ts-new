@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-13T07:01:30Z"
+  "original_createdAt": "2022-07-13T07:01:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Ember Fundは、専門家が作成したテーマ別の暗号ポートフォリオと戦略に個人投資家がアクセスできるようにするセルフカストディ暗号投資アプリです。Bored ApesやCryptoPunksのような優良なNFT、メタバースのトップ資産であるBitcoinやEthereumに投資することができます。",
+      "tagline": "ガス代無料、低投資分。あなたの鍵、あなたの暗号。"
+    },
+    {
+      "locale": "zh",
+      "description": "微光基金是一个自我监管的加密货币投资应用程序，使零售投资者能够获得由专家精心设计的主题加密货币投资组合和战略。投资于蓝筹NFTs，如Bored Apes和CryptoPunks，顶级Metaverse资产，比特币和以太坊。",
+      "tagline": "没有汽油费和低投资额度。你的钥匙，你的加密货币。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "微光基金是一個自我監管的加密貨幣投資應用程序，使零售投資者能夠獲得由專家精心設計的主題加密貨幣投資組合和戰略。投資於藍籌NFTs，如Bored Apes和CryptoPunks，頂級Metaverse資產，比特幣和以太坊。",
+      "tagline": "沒有汽油費和低投資額度。你的鑰匙，你的加密貨幣。"
+    }
+  ]
 }
