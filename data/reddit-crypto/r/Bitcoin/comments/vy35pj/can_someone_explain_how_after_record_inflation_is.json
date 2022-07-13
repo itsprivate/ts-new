@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "記録的なインフレが報告された後、ビットコインが下落することを誰か説明してください。"
+    },
+    {
+      "locale": "zh",
+      "title": "谁能解释一下，在报告了创纪录的通货膨胀之后，比特币是如何下跌的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "誰能解釋一下，在報告了創紀錄的通貨膨脹之後，比特幣是如何下跌的？"
+    }
+  ]
 }
