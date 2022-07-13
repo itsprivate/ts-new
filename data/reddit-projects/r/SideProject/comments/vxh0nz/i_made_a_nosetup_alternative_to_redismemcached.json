@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redis/Memcachedの代替となる無設定を作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个无需设置的Redis/Memcached的替代品"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個無需設置的Redis/Memcached的替代品"
+    }
+  ]
 }

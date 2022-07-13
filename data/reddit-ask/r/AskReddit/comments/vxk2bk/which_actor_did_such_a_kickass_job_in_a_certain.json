@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある役柄で、他の人が演じるとは思えないほど素晴らしい演技をした俳優は誰ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪位演员在某一角色中表现得如此出色，以至于你永远无法想象别人会扮演这个角色？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪位演員在某一角色中表現得如此出色，以至於你永遠無法想象別人會扮演這個角色？"
+    }
+  ]
 }
