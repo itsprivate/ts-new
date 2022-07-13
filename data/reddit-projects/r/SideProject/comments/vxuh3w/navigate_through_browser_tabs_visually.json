@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブラウザのタブをビジュアルに操作できます。"
+    },
+    {
+      "locale": "zh",
+      "title": "通过浏览器标签进行导航，可视化!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通過瀏覽器標籤進行導航，可視化!"
+    }
+  ]
 }
