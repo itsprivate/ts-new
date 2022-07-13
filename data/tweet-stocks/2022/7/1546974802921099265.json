@@ -74,5 +74,22 @@
     "retweet_count": 166,
     "favorite_count": 519,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @kateconger: 訴訟の全容はこちら https://t.co/fjohEuniWk",
+      "retweeted_status_full_text": "以下、訴訟の全文です。https://t.co/fjohEuniWk"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @kateconger: 这里有完整的诉讼: https://t.co/fjohEuniWk",
+      "retweeted_status_full_text": "以下是诉讼全文：https://t.co/fjohEuniWk"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @kateconger: 這裏有完整的訴訟: https://t.co/fjohEuniWk",
+      "retweeted_status_full_text": "以下是訴訟全文：https://t.co/fjohEuniWk"
+    }
+  ]
 }
