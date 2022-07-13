@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-11T03:10:37Z",
   "image": "https://dev.to/social_previews/article/1137062.png",
   "author": "Shehab Sha'lan",
-  "author_url": "https://dev.to/shehabshalan"
+  "author_url": "https://dev.to/shehabshalan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さんこんにちは👋、2日前から個人ポートフォリオに取り組んでいます。デザインは...",
+      "title": "ミニマルなReactポートフォリオ"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好👋，我已经在我的个人作品集上工作了两天了。我设计它时使用的是...",
+      "title": "最小的React组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好👋，我已經在我的個人作品集上工作了兩天了。我設計它時使用的是...",
+      "title": "最小的React組合"
+    }
+  ]
 }
