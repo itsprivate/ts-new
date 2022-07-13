@@ -137,5 +137,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ウェッブの新しい画像とハッブルを比較するツールを作ってみた！？"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个工具来比较韦伯的新图像和哈勃的图像!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個工具來比較韋伯的新圖像和哈勃的圖像!"
+    }
+  ]
 }
