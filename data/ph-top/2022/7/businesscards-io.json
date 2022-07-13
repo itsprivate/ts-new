@@ -92,5 +92,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-12T19:56:49Z"
+  "original_createdAt": "2022-07-12T19:56:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Businesscards.ioは、Apple Walletに名刺を入れておくことができるデジタル名刺サービスです。名刺をApple Walletに保存しておけば、誰かに会ったときに名刺を取り出し、QRコードを読み取ってもらうだけで、あなたの名刺のプロフィールが読み込まれます。",
+      "tagline": "Apple Walletの中に入れている名刺"
+    },
+    {
+      "locale": "zh",
+      "description": "Businesscards.io是一个数字名片服务，让你能够把名片放在你的苹果钱包里。当你遇到某人时，只需掏出你的名片，让他们扫描你的二维码，它就会加载你的名片资料。",
+      "tagline": "你放在苹果钱包里的一张名片"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Businesscards.io是一個數字名片服務，讓你能夠把名片放在你的蘋果錢包裏。當你遇到某人時，只需掏出你的名片，讓他們掃描你的二維碼，它就會加載你的名片資料。",
+      "tagline": "你放在蘋果錢包裏的一張名片"
+    }
+  ]
 }
