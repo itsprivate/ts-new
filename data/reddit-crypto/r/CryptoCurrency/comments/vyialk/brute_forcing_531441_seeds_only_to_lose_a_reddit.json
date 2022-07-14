@@ -1,0 +1,47 @@
+{
+  "author": "kuilin",
+  "original_created_utc": 1657758207,
+  "title": "Brute forcing 531,441 seeds only to lose a Reddit challenge",
+  "created_utc": 1657794810,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This challenge was posted 5 hours ago: &lt;a href=\"https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/how_to_remember_your_12_word_seed_by_spreading_it/ig27rrv/\"&gt;https://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/how_to_remember_your_12_word_seed_by_spreading_it/ig27rrv/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;After setting up an elaborate social game where individual words of the seed are trickled out to commenters who must work with each other, the OP writes as a hint:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Last note: I will periodically give out hints below if the seed is not discovered before the time limit.&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Hint 1 - The entire seed is made up of three randomly repeating words. If you try and bruteforce it - the odds of getting it correct are 1 in 531,441\n\n&lt;ul&gt;\n&lt;li&gt;Moon&lt;/li&gt;\n&lt;li&gt;System&lt;/li&gt;\n&lt;li&gt;Dog&lt;/li&gt;\n&lt;/ul&gt;&lt;/li&gt;\n&lt;li&gt;&lt;del&gt;Hint 2 - Post age 9 hours&lt;/del&gt;&lt;/li&gt;\n&lt;li&gt;&lt;del&gt;Hint 3 - Post age 24 hours&lt;/del&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;With the right tools, this hint makes the entire challenge irrelevant. A normal consumer GPU can brute force 500k seeds in under a minute, and I&amp;#39;m going to show you how in this post.&lt;/p&gt;\n\n&lt;p&gt;First, we&amp;#39;re going to use the open source tool &lt;a href=\"https://btcrecover.readthedocs.io/en/latest/\"&gt;btcrecover&lt;/a&gt; to handle the brute forcing and dictate what format the data we need to collect should be in.&lt;/p&gt;\n\n&lt;p&gt;Reading through the btcrecover documentation, it seems like we&amp;#39;ll need an AddressDB (which is a list of addresses in a binary format) that includes the target address, and also a seedlist.&lt;/p&gt;\n\n&lt;h2&gt;Getting address list&lt;/h2&gt;\n\n&lt;p&gt;We need an AddressDB because one in ten seeds correspond to real addresses, but almost all of those addresses will have a zero balance. The OP said that the correct seed will have an amount of Dogecoin in it, so we need to get a list of Dogecoin addresses. &lt;/p&gt;\n\n&lt;p&gt;To get the AddressDB, we could &lt;a href=\"https://cryptoguide.tips/btcrecover-addressdbs/\"&gt;download the pre-made AddressDBs&lt;/a&gt; but note that it was last generated on 2021-04-17 - if the OP created and funded the account after that date, it won&amp;#39;t be on the list. So, we&amp;#39;ll need to generate a list ourselves, and the easiest way to do that is to head over to Google BigQuery.&lt;/p&gt;\n\n&lt;p&gt;Google BigQuery maintains a public dataset of balance-holding Dogecoin addresses, and small queries like this are essentially free:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;SELECT\n  addresses[OFFSET(0)] AS address\nFROM\n  `bigquery-public-data.crypto_dogecoin.outputs`\nWHERE\n  addresses[OFFSET(0)] NOT LIKE &amp;#39;nonstandard%&amp;#39;\n  AND\n  block_timestamp &amp;gt; TIMESTAMP_SUB(CURRENT_TIMESTAMP(), INTERVAL 200 DAY)\nGROUP BY\n  address\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;This will return a list of addresses that have sent or received Dogecoin in the last 200 days. This dataset is 136 MB with 4,068,290 addresses. Getting the full list of all addresses that have ever had any activity would&amp;#39;ve been a lot larger (~8GB) but still doable. &lt;/p&gt;\n\n&lt;p&gt;Next, we export this as a list of addresses. I saved it as &lt;code&gt;addrs.txt&lt;/code&gt; and then we use btcrecover to convert it into an AddressDB, which is the format that btcrecover wants it in:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;python3 create-address-db.py --inputlistfile addrs.txt --dbfilename addrs.db\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;h2&gt;Getting seed list&lt;/h2&gt;\n\n&lt;p&gt;Next, we just need a list of the 531,441 valid seeds. I messed around with the &lt;code&gt;tokenlist&lt;/code&gt; feature of btcrecover before deciding to give up and just generate a file with all of the seeds. This is fast because, again, 500k is not that much:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;k = [0] * 12\nfor i in range(3**12):\n  print(&amp;quot; &amp;quot;.join([[&amp;quot;moon&amp;quot;, &amp;quot;system&amp;quot;, &amp;quot;dog&amp;quot;][x] for x in k]))\n  if i == 3**12-1:\n    break\n  k[0] += 1\n  for p in range(12):\n    if k[p] == 3:\n      k[p+1] += 1\n      k[p] = 0\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;This outputs to stdout a file 33 MB that starts and ends like this: &lt;a href=\"https://i.imgur.com/ZS0R7Gj.png\"&gt;https://i.imgur.com/ZS0R7Gj.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;h2&gt;Putting it all together&lt;/h2&gt;\n\n&lt;p&gt;Now, we can just run btcrecover on the seedlist and AddressDB we created:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;python3 seedrecover.py --dsw --seedlist seeds.txt --addressdb addrs.db --no-dupchecks --mnemonic-length 12 --language EN --addr-limit 1 --wallet-type dogecoin --enable-opencl\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;And we get the correct seed in a few seconds. &lt;a href=\"https://i.imgur.com/nLz8uMu.png\"&gt;https://i.imgur.com/nLz8uMu.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;This is seed number 399339 of 531441 we&amp;#39;re brute forcing:&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;Seed found: moon moon system moon system dog system dog moon dog moon dog\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;Unfortunately, I got the seed 35 minutes after the challenge ended - if I had seen the post earlier, anytime after the first hint was posted, I would&amp;#39;ve won. But I hope this post was informative and can help people in the future.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 344,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/YlCKBhgUe0KvIdUI7PhFuSk6l31rMFS9TB84ONRFaxY.png?auto=webp&amp;s=f68c98207961583c009a4e83d1b59916e6a04ca6",
+          "width": 527,
+          "height": 382
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/YlCKBhgUe0KvIdUI7PhFuSk6l31rMFS9TB84ONRFaxY.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=737f01abfbe497c0d31632f590e311432ad068a7",
+            "width": 108,
+            "height": 78
+          },
+          {
+            "url": "https://external-preview.redd.it/YlCKBhgUe0KvIdUI7PhFuSk6l31rMFS9TB84ONRFaxY.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=da50b6c0d8525a7237812072e806728b1f64882c",
+            "width": 216,
+            "height": 156
+          },
+          {
+            "url": "https://external-preview.redd.it/YlCKBhgUe0KvIdUI7PhFuSk6l31rMFS9TB84ONRFaxY.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=cc6a4224f27c9a12b09a23d38709e2d4ee4bed21",
+            "width": 320,
+            "height": 231
+          }
+        ],
+        "variants": {},
+        "id": "labcFLt0FoDfIoxbdVJFarE_yB4ikgBbO9-JilNIXrk"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/vyialk/brute_forcing_531441_seeds_only_to_lose_a_reddit/",
+  "subreddit": "CryptoCurrency",
+  "id": "vyialk",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "This challenge was posted 5 hours ago:\nhttps://www.reddit.com/r/CryptoCurrency/comments/vyaj4t/how_to_remember_your_12_word_seed_by_spreading_it/ig27rrv/\n\nAfter setting up an elaborate social game where individual words of the seed are\ntrickled out to commenters who must work with each other, the…"
+}
