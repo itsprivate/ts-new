@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-14T07:04:05Z"
+  "original_createdAt": "2022-07-14T07:04:05Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Revenue Watcherは、スタートアップやインディーズプロジェクトの創業者から直接報告された収益数字を、慎重にキュレーションしてデータベース化したものです。数字は、Twitter、Hacker News、YouTube、Starter Story、Indie Hackersなどのプラットフォームから取得されています。",
+      "tagline": "2000以上のスタートアップとインディーズプロジェクトの収益データを見ることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "收入观察者是一个精心策划的数据库，由初创企业和独立项目的创始人直接报告收入数字。数字的来源是Twitter、Hacker News、YouTube、Starter Story和Indie Hackers等平台。",
+      "tagline": "发现2000多个初创企业和独立项目的收入数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "收入觀察者是一個精心策劃的數據庫，由初創企業和獨立項目的創始人直接報告收入數字。數字的來源是Twitter、Hacker News、YouTube、Starter Story和Indie Hackers等平臺。",
+      "tagline": "發現2000多個初創企業和獨立項目的收入數據"
+    }
+  ]
 }
