@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AIテキストから画像への「プロンプト当て」チャットボットゲームを作ってみた（リンクはコメント欄へ）"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个人工智能文本到图像的 \"猜测提示 \"聊天机器人游戏（评论中的链接）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個人工智能文本到圖像的 \"猜測提示 \"聊天機器人遊戲（評論中的鏈接）。"
+    }
+  ]
 }
