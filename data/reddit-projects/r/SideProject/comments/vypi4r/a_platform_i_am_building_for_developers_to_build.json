@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "This is my biggest project as of yet and has been in the making for 18 months!\nPERN (NextJS) on AWS and Azure (for Serverless).\n\nskillShack(⚡️); [https://skillshack.dev/] is a community for software\nprofessionals looking to share the projects they are working on and get\nfeedback. From side projects…"
+  "the_new_excerpt": "This is my biggest project as of yet and has been in the making for 18 months!\nPERN (NextJS) on AWS and Azure (for Serverless).\n\nskillShack(⚡️); [https://skillshack.dev/] is a community for software\nprofessionals looking to share the projects they are working on and get\nfeedback. From side projects…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは私の現時点での最大のプロジェクトで、1年半前から制作しています\nPERN (NextJS) on AWS and Azure (for Serverless)です。\n\nskillShack(⚡️); [https://skillshack.dev/]は、ソフトウェア専門家のためのコミュニティです。\nプロフェッショナルのためのコミュニティで、現在取り組んでいるプロジェクトを共有し\nフィードバックが得られます。サイドプロジェクトから...",
+      "title": "開発者が公開で作って育てるプラットフォーム - skillShack(⚡️)を作っています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是我目前最大的项目，已经有18个月的时间了。\nPERN（NextJS）在AWS和Azure（用于无服务器）上。\n\nskillShack(⚡️); [https://skillshack.dev/]是一个软件社区。\n的社区，他们希望分享他们正在进行的项目并获得\n反馈。从辅助项目...",
+      "title": "我正在为开发者建立一个平台，让他们在公共场合建立和成长 - skillShack(⚡️)。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是我目前最大的項目，已經有18個月的時間了。\nPERN（NextJS）在AWS和Azure（用於無服務器）上。\n\nskillShack(⚡️); [https://skillshack.dev/]是一個軟件社區。\n的社區，他們希望分享他們正在進行的項目並獲得\n反饋。從輔助項目...",
+      "title": "我正在爲開發者建立一個平臺，讓他們在公共場合建立和成長 - skillShack(⚡️)。"
+    }
+  ]
 }
