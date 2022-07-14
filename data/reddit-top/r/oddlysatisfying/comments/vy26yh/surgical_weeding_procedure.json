@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "外科的除草法"
+    },
+    {
+      "locale": "zh",
+      "title": "手术除草程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "手術除草程序"
+    }
+  ]
 }
