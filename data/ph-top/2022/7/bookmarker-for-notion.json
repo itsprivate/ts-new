@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-14T07:01:00Z"
+  "original_createdAt": "2022-07-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンテンツに合わせた率直なURLプレビューで、Notionワークスペースにコンテンツを保存する新しい方法を解き放ちます。画像、テキストの抜粋、記事など、あらゆるものを保存することができます。",
+      "tagline": "目の保養になるブックマークがNotionに直行"
+    },
+    {
+      "locale": "zh",
+      "description": "开启了将内容保存到Notion工作区的新方式，具有坦率的URL预览，可以适应内容。保存图片、文本摘录、文章等任何内容!",
+      "tagline": "直接进入Notion的眼球书签"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開啓了將內容保存到Notion工作區的新方式，具有坦率的URL預覽，可以適應內容。保存圖片、文本摘錄、文章等任何內容!",
+      "tagline": "直接進入Notion的眼球書籤"
+    }
+  ]
 }
