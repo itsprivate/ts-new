@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-14T07:01:00Z"
+  "original_createdAt": "2022-07-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PlusIdentityは、最新の機能であるブラウザ拡張機能をご紹介します! Slackアプリ＋ウェブアプリと合わせて、自動ログインや自動入力などの新機能をお届けします。",
+      "tagline": "SlackからWebサイトに自動ログイン！？"
+    },
+    {
+      "locale": "zh",
+      "description": "PlusIdentity很高兴与大家分享他们的最新功能--浏览器扩展! 与Slack应用+网页应用一起，它为你带来了新的功能，如自动登录和自动填充。",
+      "tagline": "从Slack中自动登录到网站!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "PlusIdentity很高興與大家分享他們的最新功能--瀏覽器擴展! 與Slack應用+網頁應用一起，它爲你帶來了新的功能，如自動登錄和自動填充。",
+      "tagline": "從Slack中自動登錄到網站!"
+    }
+  ]
 }
