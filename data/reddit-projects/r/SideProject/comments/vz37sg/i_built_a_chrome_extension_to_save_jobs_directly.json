@@ -33,5 +33,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hey all - I built a Chrome extension\n[https://chrome.google.com/webstore/detail/resumary-oneclick-save-jo/mkjedhephckpdnpadogmilejdbgbbdfm?hl=en]\nthat adds a button to LinkedIn, Indeed, and Lever to autosave the job's title,\ncompany, and link in a Google Sheet so you can organize all your…"
+  "the_new_excerpt": "Hey all - I built a Chrome extension\n[https://chrome.google.com/webstore/detail/resumary-oneclick-save-jo/mkjedhephckpdnpadogmilejdbgbbdfm?hl=en]\nthat adds a button to LinkedIn, Indeed, and Lever to autosave the job's title,\ncompany, and link in a Google Sheet so you can organize all your…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "皆さん、こんにちは - Chromeの拡張機能を作りました。\n[https://chrome.google.com/webstore/detail/resumary-oneclick-save-jo/mkjedhephckpdnpadogmilejdbgbbdfm?hl=en]\nLinkedIn、Indeed、Leverに求人情報のタイトルを自動保存するボタンを追加するChrome拡張機能です。\nを自動保存するボタンを追加します。",
+      "title": "LinkedInとIndeedからGoogle Sheetsに直接求人情報を保存するChrome拡張機能を作ったので、求人応募を簡単に整理することができます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好 - 我建立了一个Chrome扩展\n[https://chrome.google.com/webstore/detail/resumary-oneclick-save-jo/mkjedhephckpdnpadogmilejdbgbbdfm?hl=en]\n可以在LinkedIn、Indeed和Lever上添加一个按钮，自动保存工作的标题。\n公司，并将其链接到Google Sheet中，这样你就可以组织你的所有工作。",
+      "title": "我建立了一个Chrome扩展，可以直接从LinkedIn和Indeed保存工作到Google Sheets，这样你就可以轻松地组织你的工作申请。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好 - 我建立了一個Chrome擴展\n[https://chrome.google.com/webstore/detail/resumary-oneclick-save-jo/mkjedhephckpdnpadogmilejdbgbbdfm?hl=en]\n可以在LinkedIn、Indeed和Lever上添加一個按鈕，自動保存工作的標題。\n公司，並將其鏈接到Google Sheet中，這樣你就可以組織你的所有工作。",
+      "title": "我建立了一個Chrome擴展，可以直接從LinkedIn和Indeed保存工作到Google Sheets，這樣你就可以輕鬆地組織你的工作申請。"
+    }
+  ]
 }
