@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React / Three.jsで作るポートフォリオサイト - ご意見・ご感想お待ちしています。👾"
+    },
+    {
+      "locale": "zh",
+      "title": "由React / Three.js支持的投资组合网站 - 欢迎反馈! 👾"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由React / Three.js支持的投資組合網站 - 歡迎反饋! 👾"
+    }
+  ]
 }
