@@ -154,5 +154,22 @@
     "retweet_count": 151,
     "favorite_count": 517,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @charliebilello: 新しい投稿です。\n\nダウンサイドのアップサイド...\n\nhttps://t.co/6SFvp2lqa0 https://t.co/qbNlpCFjyb",
+      "retweeted_status_full_text": "新しい投稿\n\nダウンサイドのアップサイド...\n\nhttps://t.co/6SFvp2lqa0 https://t.co/qbNlpCFjyb"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @charliebilello: 新文章。\n\n跌宕起伏的颠覆性...\n\nhttps://t.co/6SFvp2lqa0 https://t.co/qbNlpCFjyb",
+      "retweeted_status_full_text": "新职位。\n\n下坡路的上坡路......\n\nhttps://t.co/6SFvp2lqa0 https://t.co/qbNlpCFjyb"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @charliebilello: 新文章。\n\n跌宕起伏的顛覆性...\n\nhttps://t.co/6SFvp2lqa0 https://t.co/qbNlpCFjyb",
+      "retweeted_status_full_text": "新職位。\n\n下坡路的上坡路......\n\nhttps://t.co/6SFvp2lqa0 https://t.co/qbNlpCFjyb"
+    }
+  ]
 }
