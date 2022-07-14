@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-14T07:03:31Z"
+  "original_createdAt": "2022-07-14T07:03:31Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Serveは、開発者が自分のデータを使ったAPIを超高速で生成するためのツールです。SQLデータベース（PostgreSQL + MySQL）からGoogleシート、さらにはCSVやJSONまで、あらゆるデータをローコードソリューションによって認証されたAPIエンドポイントに変えることができるのです。",
+      "tagline": "ローコードプラットフォームによるREST APIエンドポイントの生成"
+    },
+    {
+      "locale": "zh",
+      "description": "Serve是一个让开发者用他们的数据超级快速地生成API的工具。从SQL数据库（PostgreSQL+MySQL）到谷歌表格，甚至CSV和JSON--你可以通过一个低代码解决方案将你的任何数据变成一个认证的API终端。",
+      "tagline": "通过一个低代码平台生成REST API端点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Serve是一個讓開發者用他們的數據超級快速地生成API的工具。從SQL數據庫（PostgreSQL+MySQL）到谷歌表格，甚至CSV和JSON--你可以通過一個低代碼解決方案將你的任何數據變成一個認證的API終端。",
+      "tagline": "通過一個低代碼平臺生成REST API端點"
+    }
+  ]
 }
