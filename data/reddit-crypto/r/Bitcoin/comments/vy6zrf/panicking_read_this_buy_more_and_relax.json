@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パニック？これを読んで、買い足して、リラックスしてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "惊慌失措？读读这个，多买点，放松一下。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "驚慌失措？讀讀這個，多買點，放鬆一下。"
+    }
+  ]
 }
