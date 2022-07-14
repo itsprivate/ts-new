@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライトニング・ネットワークを60秒以内で解説。"
+    },
+    {
+      "locale": "zh",
+      "title": "闪电网络，在60秒内解释。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "閃電網絡，在60秒內解釋。"
+    }
+  ]
 }
