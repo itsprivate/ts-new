@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-13T15:45:20Z",
   "image": "https://dev.to/social_previews/article/1139596.png",
   "author": "Omer Elbaz",
-  "author_url": "https://dev.to/omerwow"
+  "author_url": "https://dev.to/omerwow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "使いやすく、豊富な機能を持つReactフレームワークをお探しなら、Next.jsは最適なフレームワークです。",
+      "title": "Next.jsを使用する5つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在寻找一个易于使用且具有大量功能的React框架，那么Next.js就是你的首选。",
+      "title": "使用Next.js的5个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在尋找一個易於使用且具有大量功能的React框架，那麼Next.js就是你的首選。",
+      "title": "使用Next.js的5個理由"
+    }
+  ]
 }
