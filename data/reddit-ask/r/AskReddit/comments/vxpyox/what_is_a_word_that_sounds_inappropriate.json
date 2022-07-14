@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "というのは、不適切に聞こえる言葉です。"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是听起来不合适的词？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是聽起來不合適的詞？"
+    }
+  ]
 }
