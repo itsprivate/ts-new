@@ -52,5 +52,22 @@
     },
     "retweet_count": 344,
     "favorite_count": 1461
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: FRBのウォラー氏：分散型金融は結局、伝統的な金融市場を変革する可能性がある。",
+      "retweeted_status_full_text": "FRBのウォラー氏：分散型金融は伝統的な金融市場を変革することになる可能性がある。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: 美联储的沃勒：去中心化的金融可能最终改变传统金融市场",
+      "retweeted_status_full_text": "美联储的沃勒：去中心化的金融可能最终改变传统金融市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: 美聯儲的沃勒：去中心化的金融可能最終改變傳統金融市場",
+      "retweeted_status_full_text": "美聯儲的沃勒：去中心化的金融可能最終改變傳統金融市場"
+    }
+  ]
 }
