@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[DevTool] カスタマイズ可能な無料カーソルライブラリ＋ジェネレータ、あなたのプロジェクトにコードを貼り付けてみてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "[DevTool] 免费的可定制光标库和生成器，试着把代码粘贴到你的项目中去吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[DevTool] 免費的可定製光標庫和生成器，試着把代碼粘貼到你的項目中去吧"
+    }
+  ]
 }
