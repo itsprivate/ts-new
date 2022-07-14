@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ちょっと気になったのですが、台帳を紛失したり、盗まれたり、水害や火災に遭った場合はどうなるのでしょうか？🙄"
+    },
+    {
+      "locale": "zh",
+      "title": "只是想知道如果账本丢失、被盗、被水或被火烧毁会怎样？🙄"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是想知道如果賬本丟失、被盜、被水或被火燒燬會怎樣？🙄"
+    }
+  ]
 }
