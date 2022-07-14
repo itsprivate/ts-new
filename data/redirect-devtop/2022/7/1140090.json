@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-14T08:22:22Z",
   "image": "https://dev.to/social_previews/article/1140090.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "javascriptで配列の宣言と初期化を行う 和、最小、最大値を求める...",
+      "title": "Javascriptのベストプラクティス🔥。"
+    },
+    {
+      "locale": "zh",
+      "description": "在javascript中声明和初始化数组 找出数组的总和、最小和最大值。",
+      "title": "脚本的最佳实践"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在javascript中聲明和初始化數組 找出數組的總和、最小和最大值。",
+      "title": "腳本的最佳實踐"
+    }
+  ]
 }
