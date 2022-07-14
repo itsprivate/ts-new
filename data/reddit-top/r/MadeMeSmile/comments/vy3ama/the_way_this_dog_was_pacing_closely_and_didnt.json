@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この犬がじっと歩を進め、友人が救出されるまで置き去りにしない様子。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只狗紧紧地踱着步子，没有留下他的朋友，直到他的朋友被救出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻狗緊緊地踱着步子，沒有留下他的朋友，直到他的朋友被救出來。"
+    }
+  ]
 }
