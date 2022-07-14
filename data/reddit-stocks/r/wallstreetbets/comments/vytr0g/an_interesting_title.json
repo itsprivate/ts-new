@@ -149,5 +149,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1657798639,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "興味深いタイトル"
+    },
+    {
+      "locale": "zh",
+      "title": "一个有趣的标题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個有趣的標題"
+    }
+  ]
 }
