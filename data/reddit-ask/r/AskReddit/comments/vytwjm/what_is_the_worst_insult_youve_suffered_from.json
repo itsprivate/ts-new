@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが受けた、侮辱のつもりもない相手からの最悪の侮辱は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你所遭受的最严重的侮辱是什么，是来自一个甚至没有侮辱之意的人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你所遭受的最嚴重的侮辱是什麼，是來自一個甚至沒有侮辱之意的人？"
+    }
+  ]
 }
