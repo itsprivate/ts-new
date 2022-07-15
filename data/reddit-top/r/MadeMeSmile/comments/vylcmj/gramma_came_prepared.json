@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "おばあちゃんが用意してくれた"
+    },
+    {
+      "locale": "zh",
+      "title": "奶奶有备而来"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "奶奶有備而來"
+    }
+  ]
 }
