@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit or just a bit cheaper"
+  "the_new_excerpt": "Edit or just a bit cheaper",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集またはほんの少し安い",
+      "title": "もし、男性に生理があったら、生理用品は無料になると思う？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑或只是便宜了一点",
+      "title": "你认为如果男人有月经，月经产品会免费吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯或只是便宜了一點",
+      "title": "你認爲如果男人有月經，月經產品會免費嗎？"
+    }
+  ]
 }
