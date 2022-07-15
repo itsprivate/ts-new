@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I feel like my local pizza place is ripping me off. It's good pizza but that\njust seems too much."
+  "the_new_excerpt": "I feel like my local pizza place is ripping me off. It's good pizza but that\njust seems too much.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "近所のピザ屋にぼったくられてる気がする。おいしいピザなんだけど、ちょっと\nは多すぎる気がする。",
+      "title": "10インチの小さなハワイアンピザに20ドルは高すぎますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我觉得我当地的比萨饼店在欺骗我。它的比萨饼很好，但这\n只是看起来太多。",
+      "title": "20美元对于一个小的10英寸夏威夷披萨来说是不是太贵了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我覺得我當地的比薩餅店在欺騙我。它的比薩餅很好，但這\n只是看起來太多。",
+      "title": "20美元對於一個小的10英寸夏威夷披薩來說是不是太貴了？"
+    }
+  ]
 }
