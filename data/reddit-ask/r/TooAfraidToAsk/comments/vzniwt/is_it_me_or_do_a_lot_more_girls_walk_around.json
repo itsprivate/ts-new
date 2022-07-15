@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I’m not complaining, just observing."
+  "the_new_excerpt": "I’m not complaining, just observing.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "文句を言うわけではなく、観察しているだけです。",
+      "title": "最近、ノーブラで歩く女の子が増えたと思うのは私だけでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我不是在抱怨，只是在观察。",
+      "title": "是我的问题，还是这些天有更多的女孩不穿胸罩走动？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我不是在抱怨，只是在觀察。",
+      "title": "是我的問題，還是這些天有更多的女孩不穿胸罩走動？"
+    }
+  ]
 }
