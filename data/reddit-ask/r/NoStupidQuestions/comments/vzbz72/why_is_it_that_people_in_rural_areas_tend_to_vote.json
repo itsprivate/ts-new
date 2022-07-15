@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なぜ、地方に住む人は赤に投票し、都市部に住む人は青に投票する傾向があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "为什么农村地区的人倾向于投红票，而居住在城市地区的人倾向于投蓝票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲什麼農村地區的人傾向於投紅票，而居住在城市地區的人傾向於投藍票？"
+    }
+  ]
 }
