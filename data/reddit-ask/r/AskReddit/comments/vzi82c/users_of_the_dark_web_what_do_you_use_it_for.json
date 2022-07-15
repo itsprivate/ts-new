@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダークウェブのユーザー、どんなことに使っていますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "暗网的用户，你用它做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "暗網的用戶，你用它做什麼？"
+    }
+  ]
 }
