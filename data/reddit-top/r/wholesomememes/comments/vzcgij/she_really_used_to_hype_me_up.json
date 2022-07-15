@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女は本当によく私を励ましてくれた。"
+    },
+    {
+      "locale": "zh",
+      "title": "她真的曾经把我炒得沸沸扬扬。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她真的曾經把我炒得沸沸揚揚。"
+    }
+  ]
 }
