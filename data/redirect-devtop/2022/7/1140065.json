@@ -46,5 +46,22 @@
   "original_created_at": "2022-07-14T07:18:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sWFw6Sbd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fdno2fs48ceh0mlf0pio.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "テクニカルライティングを中心にブログの世界を開拓し始めると、こんな疑問にぶつかることがあります...。",
+      "title": "ブログの記事の長さはどれくらいがいいのか"
+    },
+    {
+      "locale": "zh",
+      "description": "当你开始探索博客世界，主要是技术写作时，你会遇到这个问题...",
+      "title": "博客文章应该有多长"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你開始探索博客世界，主要是技術寫作時，你會遇到這個問題...",
+      "title": "博客文章應該有多長"
+    }
+  ]
 }
