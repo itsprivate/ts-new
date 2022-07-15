@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-14T08:23:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UjW-vft5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enwbf3pc2kgy2sxj0f9b.png",
   "author": "Taher Fattahi",
-  "author_url": "https://dev.to/taherfattahi"
+  "author_url": "https://dev.to/taherfattahi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "まず、Webassemblyとは何かというと、簡単に言うと、言語をコンパイルして実行することです。",
+      "title": "GoLangとWebAssemblyを使ったチャットサービスの構築(その1)"
+    },
+    {
+      "locale": "zh",
+      "description": "首先，我想解释一下什么是Webassembly？ 简而言之，编译和运行语言。",
+      "title": "使用GoLang和WebAssembly建立一个聊天服务（第一部分）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "首先，我想解釋一下什麼是Webassembly？ 簡而言之，編譯和運行語言。",
+      "title": "使用GoLang和WebAssembly建立一個聊天服務（第一部分）"
+    }
+  ]
 }
