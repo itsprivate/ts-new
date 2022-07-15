@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-13T13:45:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---PCx2qv2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ijvfue6cl2e33gqzl9a7.png",
   "author": "Saji Wang",
-  "author_url": "https://dev.to/sewangco"
+  "author_url": "https://dev.to/sewangco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここ数年、ライアン・ダール氏の「Deno」をめぐって、信じられないほどの議論が交わされている。",
+      "title": "DenoやNodeと競合する新しいJavascriptランタイム、Bun"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的几年里，人们对德诺、瑞安-达尔（Ryan Dahl）的作品进行了令人难以置信的讨论。",
+      "title": "Bun，与Deno和Node竞争的新Javascript运行时"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的幾年裏，人們對德諾、瑞安-達爾（Ryan Dahl）的作品進行了令人難以置信的討論。",
+      "title": "Bun，與Deno和Node競爭的新Javascript運行時"
+    }
+  ]
 }
