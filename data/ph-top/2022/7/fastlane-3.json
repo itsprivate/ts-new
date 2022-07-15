@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-15T12:24:48Z"
+  "original_createdAt": "2022-07-15T12:24:48Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "fastlaneは、AndroidとiOSのデプロイメントを簡素化することを目的としたオープンソースのプラットフォームで、開発とリリースワークフローのあらゆる面を自動化します。",
+      "tagline": "iOS/Androidアプリのデプロイメントを自動化する最も簡単な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "fastlane是一个开源平台，旨在简化Android和iOS的部署，使你的开发和发布工作流程的每个方面都自动化。",
+      "tagline": "实现iOS和Android应用自动化部署的最简单方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "fastlane是一個開源平臺，旨在簡化Android和iOS的部署，使你的開發和發佈工作流程的每個方面都自動化。",
+      "tagline": "實現iOS和Android應用自動化部署的最簡單方法"
+    }
+  ]
 }
