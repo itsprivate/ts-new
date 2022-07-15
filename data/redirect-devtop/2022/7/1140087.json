@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-14T08:12:46Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oESMYaZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69skadfedyvngielunop.png",
   "author": "Amy Lin",
-  "author_url": "https://dev.to/amyatforem"
+  "author_url": "https://dev.to/amyatforem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVコミュニティの皆様、こんにちは。 本日は簡単でエキサイティングなアップデートをお届けします。",
+      "title": "機能アップデート：コメントエディタにMarkdownツールバーが追加されました。"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，亲爱的DEV社区!  今天我有一个快速和令人兴奋的更新：我们已经把...",
+      "title": "功能更新：Markdown工具条即将进入评论编辑器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，親愛的DEV社區!  今天我有一個快速和令人興奮的更新：我們已經把...",
+      "title": "功能更新：Markdown工具條即將進入評論編輯器"
+    }
+  ]
 }
