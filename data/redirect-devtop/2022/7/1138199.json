@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-12T07:01:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oRfDfhj0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a5pp3aaxv0xa3fpyeo9y.jpg",
   "author": "Nicolas Frankel",
-  "author_url": "https://dev.to/nfrankel"
+  "author_url": "https://dev.to/nfrankel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIゲートウェイとも呼ばれるAPI管理ソリューションは、APIが普及した現代では必須と言えるでしょう。しかし、...",
+      "title": "APIゲートウェイによるWebアプリケーションのセキュリティ確保"
+    },
+    {
+      "locale": "zh",
+      "description": "API管理解决方案，也被称为API网关，是API时代的必经之路。然而，...",
+      "title": "用API网关保护你的网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "API管理解決方案，也被稱爲API網關，是API時代的必經之路。然而，...",
+      "title": "用API網關保護你的網絡應用程序"
+    }
+  ]
 }
