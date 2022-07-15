@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Or is that just me"
+  "the_new_excerpt": "Or is that just me",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "それとも僕だけ？",
+      "title": "人は普段、自分との会話を誰かとしているようにシミュレーションしているのだろうか"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "或者只是我的问题",
+      "title": "人们通常会把与自己的对话模拟成与别人的对话吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "或者只是我的問題",
+      "title": "人們通常會把與自己的對話模擬成與別人的對話嗎？"
+    }
+  ]
 }
