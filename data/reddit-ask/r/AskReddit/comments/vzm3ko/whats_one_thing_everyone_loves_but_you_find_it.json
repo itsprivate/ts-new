@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みんなが大好きなもので、あなたが絶対に嫌だと思うものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "有什么东西是大家都喜欢的，但你却觉得绝对恶心的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有什麼東西是大家都喜歡的，但你卻覺得絕對噁心的？"
+    }
+  ]
 }
