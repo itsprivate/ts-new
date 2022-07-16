@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニュースを読むのをやめました。問題は私なのか、それとも製品なのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我不再看新闻了。是我的问题--还是产品的问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我不再看新聞了。是我的問題--還是產品的問題？"
+    }
+  ]
 }
