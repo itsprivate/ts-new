@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トモダチ Always On Top/PIP モードを備えたポモドーロタイマーのウェブアプリで、アプリをインストールすることなく、ブラウザ上で使用できます。"
+    },
+    {
+      "locale": "zh",
+      "title": "托莫多罗。一款具有永远在顶部/PIP模式的pomodoro计时器网络应用，就在你的浏览器中，无需安装任何应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "託莫多羅。一款具有永遠在頂部/PIP模式的pomodoro計時器網絡應用，就在你的瀏覽器中，無需安裝任何應用。"
+    }
+  ]
 }
