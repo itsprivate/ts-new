@@ -39,5 +39,22 @@
   "original_created_at": "2022-07-14T17:50:35Z",
   "image": "https://dev.to/social_previews/article/1140628.png",
   "author": "AmabDev",
-  "author_url": "https://dev.to/amabdev"
+  "author_url": "https://dev.to/amabdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "同じユーザーで複数のGitコンフィグを持つには？  この記事では、以下の方法を紹介します。",
+      "title": "同じユーザーに対して複数のGitコンフィグを設定するには？"
+    },
+    {
+      "locale": "zh",
+      "description": "如何为同一个用户拥有多个 Git 配置？  在这篇文章中，我们将看到如何...",
+      "title": "如何为同一个用户拥有多个 Git 配置？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何爲同一個用戶擁有多個 Git 配置？  在這篇文章中，我們將看到如何...",
+      "title": "如何爲同一個用戶擁有多個 Git 配置？"
+    }
+  ]
 }
