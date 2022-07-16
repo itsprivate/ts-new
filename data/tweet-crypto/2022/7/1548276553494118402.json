@@ -58,5 +58,19 @@
   "retweet_count": 19,
   "favorite_count": 312,
   "possibly_sensitive": false,
-  "original_created_at": "Sat Jul 16 12:01:10 +0000 2022"
+  "original_created_at": "Sat Jul 16 12:01:10 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "最新モデル T=f(m)。月(m)のみを入力変数として、ドバイの気温(T)を予測するモデル。現在、ドバイの気温は29-41℃と予測されている。このモデルは、雲、気象データ、需要、マクロなどが入力として使われていないため、あるいは範囲が広いため、「失敗」していないことに注意。/s https://t.co/s1VYzQcZHE"
+    },
+    {
+      "locale": "zh",
+      "full_text": "最新的模型。T=f(m)。模型预测迪拜的温度（T），只有月份（m）是输入变量。目前，它预测迪拜的温度在29-41C之间。注意这个模型不是 \"失败 \"的，因为云层、气象数据、需求、宏观等没有被用作输入，或者因为范围很广。/s https://t.co/s1VYzQcZHE"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "最新的模型。T=f(m)。模型預測迪拜的溫度（T），只有月份（m）是輸入變量。目前，它預測迪拜的溫度在29-41C之間。注意這個模型不是 \"失敗 \"的，因爲雲層、氣象數據、需求、宏觀等沒有被用作輸入，或者因爲範圍很廣。/s https://t.co/s1VYzQcZHE"
+    }
+  ]
 }
