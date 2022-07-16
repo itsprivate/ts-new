@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "米国のCOVID-19の症例で優勢なomicron亜種は、よりワクチン耐性が高い"
+    },
+    {
+      "locale": "zh",
+      "title": "在美国COVID-19病例中占主导地位的Omicron亚变体更具疫苗抗性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在美國COVID-19病例中占主導地位的Omicron亞變體更具疫苗抗性"
+    }
+  ]
 }
