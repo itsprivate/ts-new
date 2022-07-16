@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今、夢中になっている曲は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你现在迷恋的是什么歌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你現在迷戀的是什麼歌？"
+    }
+  ]
 }
