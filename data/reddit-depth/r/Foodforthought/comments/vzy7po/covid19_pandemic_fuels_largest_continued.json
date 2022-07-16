@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "COVID-19の大流行により、過去30年間で最大のワクチン接種の後退が続いている。"
+    },
+    {
+      "locale": "zh",
+      "title": "COVID-19大流行助长了三十年来疫苗接种的最大持续倒退"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "COVID-19大流行助長了三十年來疫苗接種的最大持續倒退"
+    }
+  ]
 }
