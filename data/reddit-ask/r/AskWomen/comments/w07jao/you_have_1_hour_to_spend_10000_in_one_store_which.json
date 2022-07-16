@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1時間以内にONE STOREで1万円を使ってください。あなたはどのお店を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有1个小时的时间在一家商店消费10,000美元。你会选择哪家商店？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有1個小時的時間在一家商店消費10,000美元。你會選擇哪家商店？"
+    }
+  ]
 }
