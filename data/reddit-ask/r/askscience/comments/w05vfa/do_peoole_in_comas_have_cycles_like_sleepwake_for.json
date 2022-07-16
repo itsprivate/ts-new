@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昏睡状態の人は、睡眠と覚醒のようなサイクルで脳が活動しているのでしょうか、それとも、ずっと脳の活動が鈍っているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "昏迷中的人的大脑活动是否有睡眠/觉醒这样的周期，还是整个过程中大脑活动都是静止的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昏迷中的人的大腦活動是否有睡眠/覺醒這樣的週期，還是整個過程中大腦活動都是靜止的？"
+    }
+  ]
 }
