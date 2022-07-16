@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "単語が丸く包まれるWordleのパクリを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个Wordle的翻版，其中的单词被包裹在一个圆圈中"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個Wordle的翻版，其中的單詞被包裹在一個圓圈中"
+    }
+  ]
 }
