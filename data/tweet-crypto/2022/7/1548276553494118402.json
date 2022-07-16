@@ -1,0 +1,62 @@
+{
+  "created_at": "Sat Jul 16 13:0:56 +0000 2022",
+  "id_str": "1548276553494118402",
+  "full_text": "Latest model: T=f(m). Model predicts temperature in Dubai (T), with only month (m) as input variable. Currently it predicts Dubai temp between 29-41C. Note this model is not \"failed\" because clouds, meteo data, demand, macro etc is not used as input, or because range is wide. /s https://t.co/s1VYzQcZHE",
+  "display_text_range": [
+    0,
+    279
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1548273842283376600,
+        "id_str": "1548273842283376643",
+        "indices": [
+          280,
+          303
+        ],
+        "media_url": "http://pbs.twimg.com/media/FXyS20BUcAMFQ_i.png",
+        "media_url_https": "https://pbs.twimg.com/media/FXyS20BUcAMFQ_i.png",
+        "url": "https://t.co/s1VYzQcZHE",
+        "display_url": "pic.twitter.com/s1VYzQcZHE",
+        "expanded_url": "https://twitter.com/100trillionUSD/status/1548276553494118402/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 800,
+            "h": 500,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 500,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 425,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541188633163595776/DB1plS2K_normal.jpg"
+  },
+  "retweet_count": 19,
+  "favorite_count": 312,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Jul 16 12:01:10 +0000 2022"
+}
