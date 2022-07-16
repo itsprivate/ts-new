@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エコムサイトの作成は複雑ですが、私たちはシンプルで、しかも無料で利用できます。"
+    },
+    {
+      "locale": "zh",
+      "title": "创建一个电子通信网站可能很复杂，我们让它变得简单......而且可以免费使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建一個電子通信網站可能很複雜，我們讓它變得簡單......而且可以免費使用。"
+    }
+  ]
 }
