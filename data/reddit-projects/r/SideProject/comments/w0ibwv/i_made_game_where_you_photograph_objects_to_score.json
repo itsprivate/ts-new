@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "モノを撮影して得点を稼ぐゲームを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个游戏，你拍摄物体以获得分数"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個遊戲，你拍攝物體以獲得分數"
+    }
+  ]
 }
