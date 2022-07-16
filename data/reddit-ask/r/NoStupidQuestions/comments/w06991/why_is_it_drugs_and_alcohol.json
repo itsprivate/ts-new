@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Shouldn’t it just be drugs? Alcohol is literally a drug is it not?"
+  "the_new_excerpt": "Shouldn’t it just be drugs? Alcohol is literally a drug is it not?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ドラッグだけではダメなのか？アルコールは文字通り薬物です そうではありませんか？",
+      "title": "なぜ「薬物とアルコール」なのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不应该只是毒品吗？酒精在字面上是一种毒品，不是吗？",
+      "title": "为什么是 \"毒品和酒精\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不應該只是毒品嗎？酒精在字面上是一種毒品，不是嗎？",
+      "title": "爲什麼是 \"毒品和酒精\"？"
+    }
+  ]
 }
