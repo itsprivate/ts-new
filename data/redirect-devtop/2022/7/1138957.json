@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-13T00:39:55Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3Yh_uvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs7ms80f544icyyzqjzf.png",
   "author": "Ashirbad Panigrahi",
-  "author_url": "https://dev.to/ashirbadgudu"
+  "author_url": "https://dev.to/ashirbadgudu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "次のリアクトプロジェクトに饅頭を使ってみませんか？              bunのインストール 最初に...を実行します。",
+      "title": "bunでreactアプリを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "想在你的下一个反应项目中使用包子吗？              安装bun 首先运行...",
+      "title": "用bun创建一个react应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想在你的下一個反應項目中使用包子嗎？              安裝bun 首先運行...",
+      "title": "用bun創建一個react應用"
+    }
+  ]
 }
