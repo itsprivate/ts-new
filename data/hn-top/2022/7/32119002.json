@@ -13,5 +13,19 @@
   ],
   "objectID": "32119002",
   "original_created_at": "2022-07-16T15:22:06.000Z",
-  "image": "https://kerkour.com/imgs/og_image.jpg"
+  "image": "https://kerkour.com/imgs/og_image.jpg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "非同期ラスト。ランタイムって何？tokioがどのように動作しているのかを紹介します。"
+    },
+    {
+      "locale": "zh",
+      "title": "异步Rust。什么是运行时？以下是tokio在引擎盖下的工作方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "異步Rust。什麼是運行時？以下是tokio在引擎蓋下的工作方式"
+    }
+  ]
 }

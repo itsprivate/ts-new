@@ -39,5 +39,22 @@
   "original_created_at": "2022-07-16T06:24:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I1FZeB0f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkxb2naac55yaljtyb6k.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユーザーの配列があるとすると、各ユーザーも配列になります。 この例では、...",
+      "title": "JavaScript 配列の配列から最小値/最大値を求める"
+    },
+    {
+      "locale": "zh",
+      "description": "假设我们有一个用户数组，但每个用户也是一个数组。 在这个例子中，我们将使用...",
+      "title": "JavaScript从数组的数组中找到最小/最大值"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "假設我們有一個用戶數組，但每個用戶也是一個數組。 在這個例子中，我們將使用...",
+      "title": "JavaScript從數組的數組中找到最小/最大值"
+    }
+  ]
 }
