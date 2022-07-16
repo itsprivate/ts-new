@@ -46,5 +46,22 @@
   "original_created_at": "2022-07-15T08:37:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TLaNlCMW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8nrmjx5ysvyb7swbm6o.png",
   "author": "Sadeedpv",
-  "author_url": "https://dev.to/sadeedpv"
+  "author_url": "https://dev.to/sadeedpv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先週、ある人が私のソースコードをGithubからコピーして、私がソースに書いたコメントまで...",
+      "title": "誰かがGithubで私のコードをコピーして、自分のプロジェクトだと主張しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "上周，一个人从Github上复制了我的源代码，甚至连我写在源代码上的评论也复制了。",
+      "title": "有人在Github上复制了我的代码，并声称这是他自己的项目。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上週，一個人從Github上覆制了我的源代碼，甚至連我寫在源代碼上的評論也複製了。",
+      "title": "有人在Github上覆制了我的代碼，並聲稱這是他自己的項目。"
+    }
+  ]
 }

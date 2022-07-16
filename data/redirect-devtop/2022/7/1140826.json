@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-14T21:28:47Z",
   "image": "https://dev.to/social_previews/article/1140826.png",
   "author": "Gajus Kuizinas",
-  "author_url": "https://dev.to/gajus"
+  "author_url": "https://dev.to/gajus",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "お聞きします。このコードは何をするものだと思いますか？ resizeImage(imagePath, 300, 200, true, true,...)",
+      "title": "ESLint の最も重要なルール: max-params"
+    },
+    {
+      "locale": "zh",
+      "description": "让我问你。你认为这段代码有什么作用？ resizeImage(imagePath, 300, 200, true, true,...",
+      "title": "最重要的ESLint规则：max-params"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我問你。你認爲這段代碼有什麼作用？ resizeImage(imagePath, 300, 200, true, true,...",
+      "title": "最重要的ESLint規則：max-params"
+    }
+  ]
 }
