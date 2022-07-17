@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-15T04:40:39Z",
   "image": "https://dev.to/social_previews/article/1140981.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "BitBucket GitHubと同様に、BitBucketもまた、プロジェクトの管理を支援するアプリケーションである。",
+      "title": "使用するDevOpsツール"
+    },
+    {
+      "locale": "zh",
+      "description": "BitBucket 与GitHub一样，BitBucket也是一个帮助管理项目的应用程序。",
+      "title": "将要使用的DevOps工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "BitBucket 與GitHub一樣，BitBucket也是一個幫助管理項目的應用程序。",
+      "title": "將要使用的DevOps工具"
+    }
+  ]
 }
