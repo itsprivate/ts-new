@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-17T15:34:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5AtY3vhS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1os7kbahw52o0c7bs64.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたの近況を聞かせてください。以前にもプロジェクトを紹介したことがある方は、新しい情報を教えてください。",
+      "title": "サイドプロジェクト・サンデー! あなたは何をやっていますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们来听听你的情况吧! 如果你以前分享过你的项目，有什么新消息？",
+      "title": "侧面项目的星期天! 你有什么打算？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們來聽聽你的情況吧! 如果你以前分享過你的項目，有什麼新消息？",
+      "title": "側面項目的星期天! 你有什麼打算？"
+    }
+  ]
 }
