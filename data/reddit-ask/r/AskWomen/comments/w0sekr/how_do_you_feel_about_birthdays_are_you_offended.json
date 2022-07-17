@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誕生日について、どのように感じていますか？友達から誕生日を祝ってもらえなかった場合、あなたは気分を害しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对生日的感觉如何？如果你的 \"朋友 \"不祝你生日快乐，你是否感到不快？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對生日的感覺如何？如果你的 \"朋友 \"不祝你生日快樂，你是否感到不快？"
+    }
+  ]
 }
