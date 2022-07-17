@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Could be more subtle signs"
+  "the_new_excerpt": "Could be more subtle signs",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "もっと微妙なサインかもしれない",
+      "title": "この人たちは一緒にいてはいけない」と思うようなことを目撃したことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "可能是更微妙的迹象",
+      "title": "你目睹了什么，使你认为 \"这些人不应该在一起\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "可能是更微妙的跡象",
+      "title": "你目睹了什麼，使你認爲 \"這些人不應該在一起\"？"
+    }
+  ]
 }
