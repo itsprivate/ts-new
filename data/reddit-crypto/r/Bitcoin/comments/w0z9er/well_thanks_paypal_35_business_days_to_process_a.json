@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Well Thanks Paypal! 購入手続きには3-5営業日かかりますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "谢谢支付宝! 3-5个工作日内处理一次购买？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "謝謝支付寶! 3-5個工作日內處理一次購買？"
+    }
+  ]
 }
