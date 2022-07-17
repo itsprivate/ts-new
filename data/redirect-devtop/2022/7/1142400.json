@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-16T18:58:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9esHzl7U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mn6xrbenwiq9lh5bl2k1.jpg",
   "author": "João Maranhão",
-  "author_url": "https://dev.to/joaomaranhao"
+  "author_url": "https://dev.to/joaomaranhao",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がコーディングを始めたとき、新しい知識を実践するために最初にしたことは、あるアプリケーションを自動化することでした。",
+      "title": "Youtubeチャンネルを自動化するためにPythonを使った方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当我开始编码时，我把我的新知识付诸实践的第一件事就是把它自动化。",
+      "title": "我如何使用Python实现Youtube频道的自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我開始編碼時，我把我的新知識付諸實踐的第一件事就是把它自動化。",
+      "title": "我如何使用Python實現Youtube頻道的自動化"
+    }
+  ]
 }
