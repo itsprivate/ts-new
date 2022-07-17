@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-15T08:04:22Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--exEarV6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mj5wx5go1308lxq876f.png",
   "author": "Elijah Trillionz",
-  "author_url": "https://dev.to/elijahtrillionz"
+  "author_url": "https://dev.to/elijahtrillionz",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"JavaScriptはシングルスレッドでノンブロッキングな言語です\"。そう聞いたことがある人は多いでしょう...",
+      "title": "なぜJavaScriptはシングルスレッドでノンブロッキングなのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "\"JavaScript是一种单线程和非阻塞的语言\"。你有可能听说过这句话...",
+      "title": "为什么JavaScript是单线程和非阻塞的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"JavaScript是一種單線程和非阻塞的語言\"。你有可能聽說過這句話...",
+      "title": "爲什麼JavaScript是單線程和非阻塞的？"
+    }
+  ]
 }
