@@ -45,5 +45,22 @@
   "original_created_at": "2022-01-27T18:29:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QBvmRYSo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l68fcmugmvsaoz8ug14c.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CSSボックスモデルは、CSSの用語として、ほとんど脈絡なく使用されていますが、おそらく、最も重要な用語です。",
+      "title": "CSSボックスモデルのしくみ"
+    },
+    {
+      "locale": "zh",
+      "description": "CSS盒状模型是一个在CSS中被扔来扔去的术语，其背景很少，但可能是最...",
+      "title": "CSS盒式模型如何工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CSS盒狀模型是一個在CSS中被扔來扔去的術語，其背景很少，但可能是最...",
+      "title": "CSS盒式模型如何工作"
+    }
+  ]
 }
