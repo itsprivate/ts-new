@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Lightning⚡️を生み出す17,000のノードと89,000のチャネルのマップ。"
+    },
+    {
+      "locale": "zh",
+      "title": "创建Lightning⚡️的17,000个节点和89,000个通道的地图。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建Lightning⚡️的17,000個節點和89,000個通道的地圖。"
+    }
+  ]
 }
