@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "I understand the answers probably vary based on each STD but regardless I am\nvery curious."
+  "the_new_excerpt": "I understand the answers probably vary based on each STD but regardless I am\nvery curious.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "おそらくそれぞれのSTDによって答えは異なると思いますが、とにかく私は\nとても気になります。",
+      "title": "性病が性行為によって感染するものであるならば、そもそも患者0はどうやって感染したのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我知道答案可能根据每种性病而有所不同，但无论如何，我是\n非常好奇。",
+      "title": "如果性病是通过性行为传播的，那么0号病人一开始是怎么得的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我知道答案可能根據每種性病而有所不同，但無論如何，我是\n非常好奇。",
+      "title": "如果性病是通過性行爲傳播的，那麼0號病人一開始是怎麼得的？"
+    }
+  ]
 }
