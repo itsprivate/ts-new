@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-17T12:02:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MIfRgMl8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k305heu45xuooqonszz9.png",
   "author": "Dennis Persson",
-  "author_url": "https://dev.to/perssondennis"
+  "author_url": "https://dev.to/perssondennis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "useRunOnceは、ある関数が実行されたときに、その関数を一度だけ実行するフックです。",
+      "title": "Reactフック：useRunOnce"
+    },
+    {
+      "locale": "zh",
+      "description": "有时我们需要只运行一次代码。 useRunOnce是一个钩子，当一个函数运行时，只运行一次。",
+      "title": "React Hook: useRunOnce"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有時我們需要只運行一次代碼。 useRunOnce是一個鉤子，當一個函數運行時，只運行一次。",
+      "title": "React Hook: useRunOnce"
+    }
+  ]
 }
