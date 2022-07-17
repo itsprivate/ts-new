@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ソーシャルメディアサイトをブロックする基本的なサイトブロッカーとして、初めてのクローム拡張機能を作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "创建了我的第一个chrome扩展--一个基本的网站屏蔽器，用于屏蔽社交媒体网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "創建了我的第一個chrome擴展--一個基本的網站屏蔽器，用於屏蔽社交媒體網站。"
+    }
+  ]
 }

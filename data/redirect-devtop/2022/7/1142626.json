@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-17T05:47:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YdmVca7---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04hjfkugtirw1xcovx5t.png",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クリーンなコードとは、ただ動くだけのコードではありません。読みやすく、きれいに整理されたコードのことです。",
+      "title": "知っておきたい、きれいなReact TypeScriptコードのための7つのヒント🧹✨。"
+    },
+    {
+      "locale": "zh",
+      "description": "干净的代码并不是仅仅工作的代码。它指的是组织整齐的代码，易于阅读，...",
+      "title": "你必须知道的7个干净的React TypeScript代码的提示 🧹✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "乾淨的代碼並不是僅僅工作的代碼。它指的是組織整齊的代碼，易於閱讀，...",
+      "title": "你必須知道的7個乾淨的React TypeScript代碼的提示 🧹✨"
+    }
+  ]
 }
