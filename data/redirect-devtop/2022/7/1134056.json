@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-07T02:59:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8yPyftbW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0z7v09t644mhyl4nss1i.gif",
   "author": "Franklin Martinez",
-  "author_url": "https://dev.to/franklin030601"
+  "author_url": "https://dev.to/franklin030601",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ウェブページでGIFのような要素を見かけると、とても目を引く......ということはないだろうか。",
+      "title": "¿Cómo usar Lottie animations & React JS? 🖌️"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能在网页上看到过一些类似GIF的元素，真的很吸引你的眼球....。",
+      "title": "如何使用Lottie动画和React JS？🖌️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能在網頁上看到過一些類似GIF的元素，真的很吸引你的眼球....。",
+      "title": "如何使用Lottie動畫和React JS？🖌️"
+    }
+  ]
 }
