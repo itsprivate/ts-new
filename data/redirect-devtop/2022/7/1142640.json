@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-17T06:09:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XiEZNlVW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fl9m4gwwyh0hb06ibmoh.jpg",
   "author": "Jelle Smeets",
-  "author_url": "https://dev.to/smeetsmeister"
+  "author_url": "https://dev.to/smeetsmeister",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "よくある質問に「プログラミングで数学はどのくらい重要ですか？このブログ記事で、私たちは...",
+      "title": "プログラミングにおける数学の重要性とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "一个经常被问到的问题是，数学在编程中的重要性如何？在这篇博文中，我们将深入探讨...",
+      "title": "数学在编程中的重要性如何？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個經常被問到的問題是，數學在編程中的重要性如何？在這篇博文中，我們將深入探討...",
+      "title": "數學在編程中的重要性如何？"
+    }
+  ]
 }
