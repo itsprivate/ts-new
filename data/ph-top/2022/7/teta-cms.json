@@ -91,5 +91,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-18T07:12:36Z"
+  "original_createdAt": "2022-07-18T07:12:36Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Teta CMSは、CouchDBデータベース、ソーシャルOAuthプロバイダによるユーザー認証、リアルタイム購読、Ayayaによるカスタムクエリ、自動生成ドキュメント、使いやすく反応の良いユーザーインターフェイスを提供する、弊社のインハウスプラットフォームです。",
+      "tagline": "素晴らしい製品を作るためのローコード・バックエンド・ソリューション"
+    },
+    {
+      "locale": "zh",
+      "description": "Teta CMS是我们的内部平台，提供CouchDB数据库，通过社会OAuth提供者进行用户认证，实时订阅，通过Ayaya进行自定义查询，自动生成文档，以及一个易于使用和响应的用户界面。",
+      "tagline": "构建惊人产品的低代码后端解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Teta CMS是我們的內部平臺，提供CouchDB數據庫，通過社會OAuth提供者進行用戶認證，實時訂閱，通過Ayaya進行自定義查詢，自動生成文檔，以及一個易於使用和響應的用戶界面。",
+      "tagline": "構建驚人產品的低代碼後端解決方案"
+    }
+  ]
 }
