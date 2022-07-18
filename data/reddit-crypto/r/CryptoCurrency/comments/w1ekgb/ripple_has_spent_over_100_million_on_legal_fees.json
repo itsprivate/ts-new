@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "リップル社は「SECとの戦いで1億円以上の訴訟費用を費やした」とCEOが語る"
+    },
+    {
+      "locale": "zh",
+      "title": "首席执行官表示，瑞波公司已经花费了 \"超过1亿美元的法律费用与美国证券交易委员会对抗\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "首席執行官表示，瑞波公司已經花費了 \"超過1億美元的法律費用與美國證券交易委員會對抗\"。"
+    }
+  ]
 }
