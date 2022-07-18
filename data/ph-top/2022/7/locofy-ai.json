@@ -112,5 +112,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-18T07:01:00Z"
+  "original_createdAt": "2022-07-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Locofy.aiは、デザインをプロダクションレディなコードに変換することで、ビルダーを3～4倍速く立ち上げることを支援します。FigmaからReact, React Native, HTML-CSS, Next.js, Gatsbyへの変換を無料ベータ版でお試しください! レスポンシブデザインをタグ付けし、コンポーネントを作成し、ライブプロトタイプを取得し、コードをエクスポートするか、直接デプロイします。",
+      "tagline": "Figmaのデザインをコード化する"
+    },
+    {
+      "locale": "zh",
+      "description": "Locofy.ai通过将设计转换为可生产的代码，帮助建设者以3-4倍的速度推出。免费试用Figma to React, React Native, HTML-CSS, Next.js, Gatsby! 标记响应式设计，制作组件，获得实时原型，输出代码或直接部署",
+      "tagline": "将Figma设计变成代码"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Locofy.ai通過將設計轉換爲可生產的代碼，幫助建設者以3-4倍的速度推出。免費試用Figma to React, React Native, HTML-CSS, Next.js, Gatsby! 標記響應式設計，製作組件，獲得實時原型，輸出代碼或直接部署",
+      "tagline": "將Figma設計變成代碼"
+    }
+  ]
 }
