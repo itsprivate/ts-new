@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AIでビデオオブジェクトのトラッキングを行う最もシンプルなツールを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我们建立了最简单的人工智能视频物体追踪工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們建立了最簡單的人工智能視頻物體追蹤工具"
+    }
+  ]
 }
