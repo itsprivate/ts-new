@@ -44,5 +44,22 @@
   "original_created_at": "2022-07-17T20:03:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bbCJz3xI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/33knhddc0x87y9w3qziu.jpeg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub のアカウントに関連するメールアドレスを変更する前は、7,500 件のコミットがありました。",
+      "title": "10倍速のソフトウェア開発者"
+    },
+    {
+      "locale": "zh",
+      "description": "在我改变与GitHub账户相关的电子邮件地址之前，我有7500个提交给...",
+      "title": "10倍的软件开发人员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我改變與GitHub賬戶相關的電子郵件地址之前，我有7500個提交給...",
+      "title": "10倍的軟件開發人員"
+    }
+  ]
 }
