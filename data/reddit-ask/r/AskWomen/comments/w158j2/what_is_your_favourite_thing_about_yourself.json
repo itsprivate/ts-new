@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ご自身の好きなことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢自己的哪一点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡自己的哪一點？"
+    }
+  ]
 }
