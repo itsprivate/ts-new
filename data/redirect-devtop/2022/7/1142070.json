@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-16T08:20:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V8udveck--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p42j8ugjfc6u0x1ble8x.png",
   "author": "Stanislav Silin",
-  "author_url": "https://dev.to/byme8"
+  "author_url": "https://dev.to/byme8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "昨今、Webサーバーを構築するための技術として、GraphQLはますます注目されています。それと同時に...",
+      "title": "ZeroQL - C#フレンドリなGraphQL"
+    },
+    {
+      "locale": "zh",
+      "description": "如今，GraphQL已经成为一种越来越流行的构建网络服务器的技术。在同一时间...",
+      "title": "ZeroQL - C#友好的GraphQL"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如今，GraphQL已經成爲一種越來越流行的構建網絡服務器的技術。在同一時間...",
+      "title": "ZeroQL - C#友好的GraphQL"
+    }
+  ]
 }
