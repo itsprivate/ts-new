@@ -44,5 +44,22 @@
   "original_created_at": "2022-07-19T07:10:49Z",
   "image": "https://dev.to/social_previews/article/1144524.png",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "我々の業界では、開発者を測るのにLOC数は関係ないという迷信があるのですが...。",
+      "title": "LOCは開発者の生産性を測る重要な指標です"
+    },
+    {
+      "locale": "zh",
+      "description": "在我们的行业中，有这样一种迷信，认为LOC的数量与衡量开发者无关。",
+      "title": "LOC是衡量开发者生产力的一个重要指标"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我們的行業中，有這樣一種迷信，認爲LOC的數量與衡量開發者無關。",
+      "title": "LOC是衡量開發者生產力的一個重要指標"
+    }
+  ]
 }
