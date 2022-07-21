@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "すべてのチップに値する"
+    },
+    {
+      "locale": "zh",
+      "title": "伙计应该得到所有的提示"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "夥計應該得到所有的提示"
+    }
+  ]
 }
