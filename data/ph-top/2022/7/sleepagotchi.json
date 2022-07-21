@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-21T07:01:00Z"
+  "original_createdAt": "2022-07-21T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sleepagotchiは、一定の睡眠時間を保つことで、無料のNFTとSHEEPと呼ばれる暗号トークンでユーザーに報酬を与えるアプリです。ユーザーは毎朝1個の無料NFTと、よく眠れた場合は2個の無料NFTを得ることができます。",
+      "tagline": "睡眠をゲーム化し、多くの人々の生活を改善する"
+    },
+    {
+      "locale": "zh",
+      "description": "Sleepagotchi是一个应用，通过免费的NFT和名为SHEEP的加密代币来奖励用户保持稳定的睡眠时间。用户每天早上可以得到1个免费的NFT，如果睡得好，还可以得到2个免费的NFT。",
+      "tagline": "游戏化睡眠，改善数百万人的生活"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sleepagotchi是一個應用，通過免費的NFT和名爲SHEEP的加密代幣來獎勵用戶保持穩定的睡眠時間。用戶每天早上可以得到1個免費的NFT，如果睡得好，還可以得到2個免費的NFT。",
+      "tagline": "遊戲化睡眠，改善數百萬人的生活"
+    }
+  ]
 }
