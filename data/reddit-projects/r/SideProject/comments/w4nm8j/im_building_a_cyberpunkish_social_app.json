@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サイバーパンク的なソーシャルアプリを作っています"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在建立一个赛博朋克式的社交应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在建立一個賽博朋克式的社交應用程序"
+    }
+  ]
 }
