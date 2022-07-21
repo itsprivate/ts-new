@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-21T08:01:00Z"
+  "original_createdAt": "2022-07-21T08:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Radix UIは、高品質でアクセシブルなUI、デザインシステム、Webアプリケーションを構築するための26個のスタイルなしReactコンポーネントのセットです。",
+      "tagline": "UIを構築するための非スタイリッシュなReactコンポーネント"
+    },
+    {
+      "locale": "zh",
+      "description": "Radix UI是一套26个无风格的React组件，用于构建高质量、无障碍的UI、设计系统和网络应用。",
+      "tagline": "用于构建用户界面的无样式的React组件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Radix UI是一套26個無風格的React組件，用於構建高質量、無障礙的UI、設計系統和網絡應用。",
+      "tagline": "用於構建用戶界面的無樣式的React組件"
+    }
+  ]
 }
