@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "愛は最大の薬"
+    },
+    {
+      "locale": "zh",
+      "title": "爱是最大的药"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "愛是最大的藥"
+    }
+  ]
 }
