@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-20T13:10:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3c9239-D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/av31c2tdy6eokwzczmd0.png",
   "author": "Dotnetsafer",
-  "author_url": "https://dev.to/dotnetsafer"
+  "author_url": "https://dev.to/dotnetsafer",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Microsoftが.NET 7で新しい.NET Rate Limiterをリリースしました。これは驚くべきことで、今後...",
+      "title": "マイクロソフト、.NET 7で新しい.NETレートリミッターをリリース - そしてそれは驚くべきものだ！🤯。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是官方的--微软已经在.NET 7中发布了新的.NET速率限制器! 它是惊人的，而且它将...",
+      "title": "微软在.NET 7中发布了新的.NET速率限制器--它很惊人！🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是官方的--微軟已經在.NET 7中發佈了新的.NET速率限制器! 它是驚人的，而且它將...",
+      "title": "微軟在.NET 7中發佈了新的.NET速率限制器--它很驚人！🤯"
+    }
+  ]
 }
