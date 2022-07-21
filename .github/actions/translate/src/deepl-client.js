@@ -33,9 +33,9 @@ module.exports = class DeeplClient {
     }
     const setence = params.SourceText;
     const source = params.Source;
-    let target = params.Target === "zh" ? "zh-ZH" : params.Target;
+    let target = params.Target === "zh" ? "zh" : params.Target;
     if (params.Target === "ja") {
-      target = "ja-JA";
+      target = "ja";
     }
     // console.log("setence", source, target, setence);
     return await translate(this.page, setence, source, target).then((data) => {
