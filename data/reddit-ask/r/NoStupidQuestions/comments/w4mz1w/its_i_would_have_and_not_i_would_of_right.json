@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "I would have」であって、「I would of」ではないですよね？"
+    },
+    {
+      "locale": "zh",
+      "title": "是 \"我本来\"，而不是 \"我本来\"，对吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是 \"我本來\"，而不是 \"我本來\"，對嗎？"
+    }
+  ]
 }
