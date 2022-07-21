@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: And why do you know about it/want to learn about it?"
+  "the_new_excerpt": "Edit: And why do you know about it/want to learn about it?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：そして、なぜそれを知っているのか／知りたいと思うのか？",
+      "title": "あなたが異常に多くの情報を知っている、奇妙な/ランダム/アウトランド的なトピックは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：那你为什么知道它/想了解它？",
+      "title": "什么是你知道的信息量异常大的古怪/随机/偏僻的话题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：那你爲什麼知道它/想了解它？",
+      "title": "什麼是你知道的信息量異常大的古怪/隨機/偏僻的話題？"
+    }
+  ]
 }

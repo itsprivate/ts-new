@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画やテレビ番組でいつも間違って描かれているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么东西在电影和电视节目中总是被错误地描绘出来？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼東西在電影和電視節目中總是被錯誤地描繪出來？"
+    }
+  ]
 }

@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-18T20:37:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3gItBgbI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kvwfeyu0wju9qoww1hhy.jpg",
   "author": "Renato Pozzi",
-  "author_url": "https://dev.to/itsrennyman"
+  "author_url": "https://dev.to/itsrennyman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React開発者なら誰もが陥る問題があります。それは、どのように...",
+      "title": "2030年のようなReactアプリのアーキテクチャー"
+    },
+    {
+      "locale": "zh",
+      "description": "有一个问题是每个React开发者在他的旅程中都会陷入的。这就是如何...",
+      "title": "架构React应用程序就像2030年一样"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一個問題是每個React開發者在他的旅程中都會陷入的。這就是如何...",
+      "title": "架構React應用程序就像2030年一樣"
+    }
+  ]
 }

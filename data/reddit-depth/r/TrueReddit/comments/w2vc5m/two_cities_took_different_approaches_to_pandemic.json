@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パンデミックによる裁判所閉鎖について、2都市で異なるアプローチをとった。異なる結果を得ました。"
+    },
+    {
+      "locale": "zh",
+      "title": "两个城市对大流行病法院的关闭采取了不同的做法。他们得到了不同的结果。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "兩個城市對大流行病法院的關閉採取了不同的做法。他們得到了不同的結果。"
+    }
+  ]
 }

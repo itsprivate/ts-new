@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-18T08:27:18Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JJY-oS5C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bif3krr40zkofxkw07l.png",
   "author": "nevo-david",
-  "author_url": "https://dev.to/nevodavid"
+  "author_url": "https://dev.to/nevodavid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトの仕組み    ユーザーがウェブブラウザに URL を提供します。ブラウザが送信するのは...",
+      "title": "Node.jsでSocket.ioを使ってリアルタイムに通知を送信する"
+    },
+    {
+      "locale": "zh",
+      "description": "网站是如何运作的？   用户向网络浏览器提供一个URL。浏览器会向用户发送一个URL。",
+      "title": "在Node.js中用Socket.io发送实时通知"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網站是如何運作的？   用戶向網絡瀏覽器提供一個URL。瀏覽器會向用戶發送一個URL。",
+      "title": "在Node.js中用Socket.io發送實時通知"
+    }
+  ]
 }

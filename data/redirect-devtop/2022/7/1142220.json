@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-16T13:10:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bbJ_q0Da--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55fpgzkmem7ccb3xgrm5.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オプショナル・チェイニングとは、Javascriptの機能で、あるオブジェクトの子プロパティにアクセスできる機能です。",
+      "title": "JavascriptのOptional Chainingはどのように機能するのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "可选链是Javascript中的一项功能，它让我们可以访问一个对象的子属性，甚至...",
+      "title": "可选链在Javascript中是如何工作的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "可選鏈是Javascript中的一項功能，它讓我們可以訪問一個對象的子屬性，甚至...",
+      "title": "可選鏈在Javascript中是如何工作的？"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日が私の誕生日であることを忘れて、友達グループが私抜きで見る予定だった映画を見に行った。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的朋友团忘记了今天是我的生日，在没有我的陪同下，去看了我们计划要看的电影。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的朋友團忘記了今天是我的生日，在沒有我的陪同下，去看了我們計劃要看的電影。"
+    }
+  ]
 }

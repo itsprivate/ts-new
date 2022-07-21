@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あの葉っぱ、めっちゃかっこよかったんだろうな。"
+    },
+    {
+      "locale": "zh",
+      "title": "那片叶子一定很他妈的酷。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "那片葉子一定很他媽的酷。"
+    }
+  ]
 }

@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-18T08:48:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4lWOwg_t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k25113vemhej5aegqpar.jpg",
   "author": "Maina Wycliffe",
-  "author_url": "https://dev.to/mainawycliffe"
+  "author_url": "https://dev.to/mainawycliffe",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScript/Typescriptのコードを読んでいて、インポートパッケージに遭遇したとき、そのパッケージの内容を確認したいと思ったことはありませんか？",
+      "title": "VS Code Extension - NPM Imported Packages Lensを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "description": "当你阅读JavaScript/Typescript代码时，你是否遇到过一个导入的包，并想...",
+      "title": "我创建了一个VS代码扩展--NPM导入包的镜头"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你閱讀JavaScript/Typescript代碼時，你是否遇到過一個導入的包，並想...",
+      "title": "我創建了一個VS代碼擴展--NPM導入包的鏡頭"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが本当に知らなければよかったと思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你真正希望自己不知道的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你真正希望自己不知道的事情是什麼？"
+    }
+  ]
 }

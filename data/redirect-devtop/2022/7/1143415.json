@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-18T07:12:04Z",
   "image": "https://dev.to/social_previews/article/1143415.png",
   "author": "Coco",
-  "author_url": "https://dev.to/chokcoco"
+  "author_url": "https://dev.to/chokcoco",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "リニアグラデーションを用いたスクロールインジケータの効果的な実装",
+      "title": "ピュアなCSSスクロールインジケータの効果に驚き"
+    },
+    {
+      "locale": "zh",
+      "description": "使用线性梯度实现滚动指示器效果",
+      "title": "惊人的纯CSS滚动指示器效果"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用線性梯度實現滾動指示器效果",
+      "title": "驚人的純CSS滾動指示器效果"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-18T14:58:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--efyGdZXT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62ifph4i2uwav2stq881.jpg",
   "author": "Gulshan Aggarwal",
-  "author_url": "https://dev.to/gulshanaggarwal"
+  "author_url": "https://dev.to/gulshanaggarwal",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドラッグ＆ドロップは、グラフィックを構築する際に、ユーザーの体験を向上させることができるものです。",
+      "title": "ReactアプリのDrag&Dropに使える5つのNPMパッケージ🙌。"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你正在构建图形，拖放是可以提高你的用户体验的东西。",
+      "title": "5个NPM包，你可以在你的React应用中使用拖放功能 🙌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你正在構建圖形，拖放是可以提高你的用戶體驗的東西。",
+      "title": "5個NPM包，你可以在你的React應用中使用拖放功能 🙌"
+    }
+  ]
 }

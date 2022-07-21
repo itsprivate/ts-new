@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Why can't people just wait for someone who knows to answer? Why do they think\nthey need to chime in? It's not like I'm asking them personally."
+  "the_new_excerpt": "Why can't people just wait for someone who knows to answer? Why do they think\nthey need to chime in? It's not like I'm asking them personally.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "どうしてみんな知っている人が答えてくれるのを待てないんだろう？なぜ、彼らは\nなぜ、彼らは発言する必要があるのでしょうか？個人的に聞いているわけでもないのに。",
+      "title": "redditで質問をすると、なぜみんな「よくわからない」「知らない」と答えるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "为什么人们不能等待知道的人回答？为什么他们认为\n他们需要插话？这又不是我亲自问他们。",
+      "title": "当你在reddit上问一个问题时，为什么人们回复说 \"我不确定 \"或 \"我不知道\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "爲什麼人們不能等待知道的人回答？爲什麼他們認爲\n他們需要插話？這又不是我親自問他們。",
+      "title": "當你在reddit上問一個問題時，爲什麼人們回覆說 \"我不確定 \"或 \"我不知道\"？"
+    }
+  ]
 }

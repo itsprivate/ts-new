@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何重ものイタズラ...。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个多层次的恶作剧..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個多層次的惡作劇..."
+    }
+  ]
 }

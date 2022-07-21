@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫にとっては不思議なことだが、我々にとっては恐ろしいことだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "对猫来说很好奇......对我们来说很可怕。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對貓來說很好奇......對我們來說很可怕。"
+    }
+  ]
 }

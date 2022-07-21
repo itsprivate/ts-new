@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-15T07:08:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4hKTvVvD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvgfjnfrg4vumwbxousd.png",
   "author": "Jakub Andrzejewski",
-  "author_url": "https://dev.to/jacobandrewsky"
+  "author_url": "https://dev.to/jacobandrewsky",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最初の記事は、コードにはあまり関係なく、開発者について書いたものでした。",
+      "title": "デベロッパーエクスペリエンスとは？"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的第一篇文章之后，这篇文章与代码没有多大关系，更多的是与开发者有关...",
+      "title": "什么是开发者体验？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的第一篇文章之後，這篇文章與代碼沒有多大關係，更多的是與開發者有關...",
+      "title": "什麼是開發者體驗？"
+    }
+  ]
 }

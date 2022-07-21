@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "積み重ねのマイルストーンを喜んでいる方もいらっしゃると思いますが、最初のルールを忘れないでください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我知道你们中的一些人对叠加里程碑感到高兴，但请记住第一条规则。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我知道你們中的一些人對疊加里程碑感到高興，但請記住第一條規則。"
+    }
+  ]
 }

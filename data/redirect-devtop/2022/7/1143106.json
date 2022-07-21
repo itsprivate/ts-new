@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-17T19:57:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KJRIW2Iw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/40nrltcuqsktstrtp8rz.png",
   "author": "Jane Ori",
-  "author_url": "https://dev.to/janeori"
+  "author_url": "https://dev.to/janeori",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "gitの履歴に埋もれている、製品化されていないアイデアはありませんか？ そのような場合は、...",
+      "title": "生産に至らなかったアイデアを共有する"
+    },
+    {
+      "locale": "zh",
+      "description": "在你的git历史中，有什么想法被埋没了，但却没有进入生产阶段？ 给它一个机会，在...",
+      "title": "分享你那些从未进入生产的想法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在你的git歷史中，有什麼想法被埋沒了，但卻沒有進入生產階段？ 給它一個機會，在...",
+      "title": "分享你那些從未進入生產的想法"
+    }
+  ]
 }
