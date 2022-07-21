@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I thought hand sanitizer was supposed to completely sterilize your hands by\ndenaturing proteins that make up the outer layer of all viruses and bacteria?\nWhat is it about noroviruses specifically that make them resistant?"
+  "the_new_excerpt": "I thought hand sanitizer was supposed to completely sterilize your hands by\ndenaturing proteins that make up the outer layer of all viruses and bacteria?\nWhat is it about noroviruses specifically that make them resistant?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ハンドサニタイザーは、手を完全に殺菌するものだと思っていたのですが、実際は\nウイルスやバクテリアの外層を構成するタンパク質を変性させるのでは？\nノロウイルスに耐性があるのは、具体的にどういうことですか？",
+      "title": "ノロウイルスによる胃腸炎から回復するために、トイレの床で丸くなって一日を過ごしました。ノロウイルスはアルコール系の除菌剤に耐性があることを最近知りました。そんなことがあるのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我以为洗手液应该通过以下方式对你的手进行完全消毒\n使构成所有病毒和细菌外层的蛋白质变性？\n诺如病毒有什么特别之处，使其具有抗性？",
+      "title": "花了一天时间蜷缩在浴室的地板上，从诺沃克胃流感感染中恢复过来。最近发现诺瓦克病毒对基于酒精的消毒剂有抵抗力。这怎么可能呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我以爲洗手液應該通過以下方式對你的手進行完全消毒\n使構成所有病毒和細菌外層的蛋白質變性？\n諾如病毒有什麼特別之處，使其具有抗性？",
+      "title": "花了一天時間蜷縮在浴室的地板上，從諾沃克胃流感感染中恢復過來。最近發現諾瓦克病毒對基於酒精的消毒劑有抵抗力。這怎麼可能呢？"
+    }
+  ]
 }
