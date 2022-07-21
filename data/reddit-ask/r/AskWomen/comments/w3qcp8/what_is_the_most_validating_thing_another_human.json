@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまでに他の人から言われた言葉で、最も納得したものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "另一个人曾经对你说过的最有说服力的话是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "另一個人曾經對你說過的最有說服力的話是什麼？"
+    }
+  ]
 }

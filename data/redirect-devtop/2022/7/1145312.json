@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-20T02:30:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iHqeKleY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o6px3t41gbrir1ybkhxk.gif",
   "author": "Franklin Martinez",
-  "author_url": "https://dev.to/franklin030601"
+  "author_url": "https://dev.to/franklin030601",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドラッグ＆ドロップのアプリケーションは、現在では非常に一般的なものとなっており、アプリケーション内のユーザーエクスペリエンスを向上させるのに効果的です。",
+      "title": "Reactでライブラリを使わずDrag&Dropでアプリを作る👆!"
+    },
+    {
+      "locale": "zh",
+      "description": "现在，拖放应用程序非常普遍，它们对用户的内部体验非常好。",
+      "title": "使用React的拖放功能创建应用程序，无需库👆!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在，拖放應用程序非常普遍，它們對用戶的內部體驗非常好。",
+      "title": "使用React的拖放功能創建應用程序，無需庫👆!"
+    }
+  ]
 }
