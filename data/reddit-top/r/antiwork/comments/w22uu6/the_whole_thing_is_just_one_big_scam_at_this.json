@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このままではただの大掛かりな詐欺だ。"
+    },
+    {
+      "locale": "zh",
+      "title": "整个事情就是一个大骗局，在这一点上我们需要摆脱它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "整個事情就是一個大騙局，在這一點上我們需要擺脫它。"
+    }
+  ]
 }

@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ノーチラス・クリプトマインを見よ! 完成時には300MWに達する見込みです。"
+    },
+    {
+      "locale": "zh",
+      "title": "看哪，鹦鹉螺号隐蔽性很强! 该设施完成后预计将达到300兆瓦。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看哪，鸚鵡螺號隱蔽性很強! 該設施完成後預計將達到300兆瓦。"
+    }
+  ]
 }

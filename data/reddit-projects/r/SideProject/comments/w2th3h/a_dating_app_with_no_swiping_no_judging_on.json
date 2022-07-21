@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "外見で判断せず、同じ趣味を持つ人と公平にマッチングできる出会い系アプリ。"
+    },
+    {
+      "locale": "zh",
+      "title": "一款没有抽签、不看外表的约会软件，每个人都有平等的机会与有共同兴趣的人配对。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一款沒有抽籤、不看外表的約會軟件，每個人都有平等的機會與有共同興趣的人配對。"
+    }
+  ]
 }

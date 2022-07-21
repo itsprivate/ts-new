@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "良い点です。"
+    },
+    {
+      "locale": "zh",
+      "title": "说得好。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "說得好。"
+    }
+  ]
 }

@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-13T13:29:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9g_bTqoI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mhe8k12fmqanltus73s.png",
   "author": "Pascal Thormeier",
-  "author_url": "https://dev.to/thormeier"
+  "author_url": "https://dev.to/thormeier",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "(表紙はDall-E miniで作成、キャプションは「おかしな帽子をかぶったAI」、です。",
+      "title": "おかしな帽子の日! ウェブカメラとJavaScriptで顔検出をする方法 👒📸 ↪So_1F9E0"
+    },
+    {
+      "locale": "zh",
+      "description": "(封面图片由Dall-E mini创作，标题为 \"一个戴着有趣的高帽的人工智能\"--你知道，...",
+      "title": "有趣的帽子日! 👒🎩如何用你的网络摄像头和JavaScript进行人脸检测 📸🧠"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "(封面圖片由Dall-E mini創作，標題爲 \"一個戴着有趣的高帽的人工智能\"--你知道，...",
+      "title": "有趣的帽子日! 👒🎩如何用你的網絡攝像頭和JavaScript進行人臉檢測 📸🧠"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今週、あなたが本当に楽しみにしていることは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在未来的一周里，有什么事情是你真正感到兴奋的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在未來的一週裏，有什麼事情是你真正感到興奮的？"
+    }
+  ]
 }

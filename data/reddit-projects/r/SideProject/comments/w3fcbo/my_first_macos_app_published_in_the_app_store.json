@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の初めてのmacOSアプリがapp storeに公開されました。AppReadyは、デザイナーと開発者がアプリストアのプロセスの最終段階であるスクリーンショット画像を作成するのを助けることを目的としたデザイナーツールです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的第一个macOS应用在应用商店发布。AppReady是一个设计师工具，旨在帮助设计师和开发者完成应用商店流程的最后阶段，即创建屏幕截图图像。让我知道你的想法吧"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的第一個macOS應用在應用商店發佈。AppReady是一個設計師工具，旨在幫助設計師和開發者完成應用商店流程的最後階段，即創建屏幕截圖圖像。讓我知道你的想法吧"
+    }
+  ]
 }

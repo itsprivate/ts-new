@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "屋敷を突破する特殊作戦部隊。"
+    },
+    {
+      "locale": "zh",
+      "title": "特别行动小组突破了一个院落。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "特別行動小組突破了一個院落。"
+    }
+  ]
 }

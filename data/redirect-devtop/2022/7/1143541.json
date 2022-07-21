@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-18T09:53:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xmtljTue--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1l6wmbzlulg2sujqrirz.png",
   "author": "Johannes Hötter",
-  "author_url": "https://dev.to/jhoetter"
+  "author_url": "https://dev.to/jhoetter",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースの世界よ、こんにちは。  私たちはこの日のために、長い間、たゆまぬ努力を続けてきました...",
+      "title": "私たちはオープンソースです VS Codeのデータ中心の兄弟製品"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，开源世界!   为了这一天，我们已经不知疲倦地工作了很久。",
+      "title": "我们是开源的! VS Code的以数据为中心的兄弟姐妹"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，開源世界!   爲了這一天，我們已經不知疲倦地工作了很久。",
+      "title": "我們是開源的! VS Code的以數據爲中心的兄弟姐妹"
+    }
+  ]
 }

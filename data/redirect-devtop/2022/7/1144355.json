@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-18T23:57:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4DSNzLJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mooe0y4lju8ba7yjwco.png",
   "author": "𝐁𝐚𝐛𝐢 ✨",
-  "author_url": "https://dev.to/babib"
+  "author_url": "https://dev.to/babib",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JSXとは JSX（JavaScript XML）は、Reactを記述するために使用されるJavaScriptの拡張機能です。",
+      "title": "初心者のためのJSX（HTMLとの違いも解説）"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是JSX JSX或JavaScript XML是JavaScript的一个扩展，用于编写React...",
+      "title": "初学者的JJSX（以及它与HTML的区别）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是JSX JSX或JavaScript XML是JavaScript的一個擴展，用於編寫React...",
+      "title": "初學者的JJSX（以及它與HTML的區別）"
+    }
+  ]
 }

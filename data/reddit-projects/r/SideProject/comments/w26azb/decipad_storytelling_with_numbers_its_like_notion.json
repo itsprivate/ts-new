@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I've been working on Decipad. It's a low-code notebook to tell stories with\nnumbers and build interactive models. It's like Notion with spreadsheet-like\ncapabilities. You can build and publish interactive notebooks for things like:\nforecasting, burn rate, a mortgage calculator, or just something…"
+  "the_new_excerpt": "I've been working on Decipad. It's a low-code notebook to tell stories with\nnumbers and build interactive models. It's like Notion with spreadsheet-like\ncapabilities. You can build and publish interactive notebooks for things like:\nforecasting, burn rate, a mortgage calculator, or just something…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "デキパドに取り組んできました。これは、数字を使ってストーリーを語ったり、インタラクティブなモデルを構築するためのローコードノートブックです。\nローコードノートブックで、数字でストーリーを語り、インタラクティブなモデルを構築します。Notionにスプレッドシートのような機能を持たせたようなものです。\nのようなものです。インタラクティブなノートブックを構築し、公開することができます。\n予測、燃焼率、住宅ローン計算機、または単に何か...",
+      "title": "Decipad - Storytelling with Numbers. 問題解決能力を持ったNotionのようなものです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我一直在做Decipad的工作。它是一个低代码的笔记本，可以用数字讲故事并建立互动模型。\n数字讲故事并建立互动模型。它就像具有电子表格功能的Notion一样\n功能。你可以建立和发布交互式笔记本，例如。\n预测，燃烧率，抵押贷款计算器，或只是一些...",
+      "title": "Decipad - 用数字讲故事。它就像具有解决问题能力的Notion。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我一直在做Decipad的工作。它是一個低代碼的筆記本，可以用數字講故事並建立互動模型。\n數字講故事並建立互動模型。它就像具有電子表格功能的Notion一樣\n功能。你可以建立和發佈交互式筆記本，例如。\n預測，燃燒率，抵押貸款計算器，或只是一些...",
+      "title": "Decipad - 用數字講故事。它就像具有解決問題能力的Notion。"
+    }
+  ]
 }

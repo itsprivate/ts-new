@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditを使うことはないと思っていたのに、不幸にもデフォルトのユーザー名で生活している人が他にいるだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "还有谁认为他们永远不会使用Reddit，现在却带着一个不幸的默认用户名生活？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "還有誰認爲他們永遠不會使用Reddit，現在卻帶着一個不幸的默認用戶名生活？"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10年前の高校の同窓会には行かれましたか？また、行ったこと/行かなかったことを後悔した理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你参加了你的10年高中同学聚会吗？你为什么后悔去/不去？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你參加了你的10年高中同學聚會嗎？你爲什麼後悔去/不去？"
+    }
+  ]
 }

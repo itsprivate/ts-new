@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Ever wondered how much time you spend on Netflix? Now you can easily find out\nwith https://netflixcalculator.com."
+  "the_new_excerpt": "Ever wondered how much time you spend on Netflix? Now you can easily find out\nwith https://netflixcalculator.com.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Netflixにどれだけの時間を費やしているか、気になったことはありませんか？今、あなたは簡単に知ることができます\nhttps://netflixcalculator.com。",
+      "title": "Netflix CalculatorでNetflixに費やす時間を調べよう"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有没有想过，你在Netflix上花了多少时间？现在你可以很容易地发现\n与https://netflixcalculator.com。",
+      "title": "用Netflix计算器找出你在Netflix上花费的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有沒有想過，你在Netflix上花了多少時間？現在你可以很容易地發現\n與https://netflixcalculator.com。",
+      "title": "用Netflix計算器找出你在Netflix上花費的時間"
+    }
+  ]
 }

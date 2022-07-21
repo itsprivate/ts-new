@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "5歳児、自主的に50冊を読みました。この度、小学校から「50冊のご褒美」が贈られました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的5岁孩子，独立阅读了50本书。我向你们介绍他的小学的 \"50本书奖励\"..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的5歲孩子，獨立閱讀了50本書。我向你們介紹他的小學的 \"50本書獎勵\"..."
+    }
+  ]
 }

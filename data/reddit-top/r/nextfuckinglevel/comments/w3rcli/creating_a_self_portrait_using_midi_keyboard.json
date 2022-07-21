@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "MIDIキーボードによる自画像の作成"
+    },
+    {
+      "locale": "zh",
+      "title": "用MIDI键盘创作自画像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用MIDI鍵盤創作自畫像"
+    }
+  ]
 }

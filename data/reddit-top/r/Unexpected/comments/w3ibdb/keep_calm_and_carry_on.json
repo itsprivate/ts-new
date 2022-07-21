@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "落ち着いて、続けてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "保持冷静，继续前进。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "保持冷靜，繼續前進。"
+    }
+  ]
 }

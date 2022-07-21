@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-18T16:22:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--No2ZvdGz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wdcxtmum0obzaygw2qj8.png",
   "author": "The Coding Mermaid 🧜‍♀️",
-  "author_url": "https://dev.to/monicafidalgo"
+  "author_url": "https://dev.to/monicafidalgo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptの初心者の方、または、クールで楽しくて、コーディングスキルを向上させたい方。",
+      "title": "ゲームをしながらJavaScriptを学ぶ👾。"
+    },
+    {
+      "locale": "zh",
+      "description": "你是JavaScript的初学者，还是想在一个很酷、很有趣的地方提高你的编码技能？",
+      "title": "🎮 在玩游戏的同时学习JavaScript👾。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是JavaScript的初學者，還是想在一個很酷、很有趣的地方提高你的編碼技能？",
+      "title": "🎮 在玩遊戲的同時學習JavaScript👾。"
+    }
+  ]
 }

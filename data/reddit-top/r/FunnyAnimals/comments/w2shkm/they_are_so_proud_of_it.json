@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼らはそれをとても誇りに思っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "他们是如此的自豪。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他們是如此的自豪。"
+    }
+  ]
 }

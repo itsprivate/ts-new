@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "icanhazdadjoke.com/apiを使って作られたジョークウェブアプリ。"
+    },
+    {
+      "locale": "zh",
+      "title": "使用icanhazdadjoke.com/api建立的笑话网络应用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用icanhazdadjoke.com/api建立的笑話網絡應用。"
+    }
+  ]
 }

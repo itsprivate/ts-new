@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ライブ中、レジェンドが障害者のファンを励ましたこと"
+    },
+    {
+      "locale": "zh",
+      "title": "在他们的现场表演中，一位传奇人物鼓励他的残疾粉丝"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在他們的現場表演中，一位傳奇人物鼓勵他的殘疾粉絲"
+    }
+  ]
 }

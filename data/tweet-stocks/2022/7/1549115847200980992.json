@@ -175,5 +175,22 @@
     "retweet_count": 162,
     "favorite_count": 1279,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @ExitMultiple: CapitalShipyard @Upper20sStCap https://t.co/oJQKqEkCSj",
+      "retweeted_status_full_text": "@CapitalShipyard @Upper20sStCap https://t.co/oJQKqEkCSj"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @ExitMultiple: @CapitalShipyard @Upper20sStCap https://t.co/oJQKqEkCSj",
+      "retweeted_status_full_text": "@CapitalShipyard @Upper20sStCap https://t.co/oJQKqEkCSj"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @ExitMultiple: @CapitalShipyard @Upper20sStCap https://t.co/oJQKqEkCSj",
+      "retweeted_status_full_text": "@CapitalShipyard @Upper20sStCap https://t.co/oJQKqEkCSj"
+    }
+  ]
 }
