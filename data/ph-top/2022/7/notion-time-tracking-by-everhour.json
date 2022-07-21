@@ -58,5 +58,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-19T07:01:00Z"
+  "original_createdAt": "2022-07-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "NotionやEverhourブラウザエクステンションから、労力をかけずに時間を記録することができます。EverhourはNotionのインターフェースにコントロールを組み込み、多くの便利な機能で拡張します。タイマーを使って時間を記録したり、手動で時間を記録したりすることができます。ProductHuntの皆さんには特別割引があります。☝️"
+    },
+    {
+      "locale": "zh",
+      "description": "从Notion或Everhour浏览器扩展中直接跟踪时间，无需费力。Everhour将控件嵌入Notion界面，并通过许多有用的功能对其进行扩展。使用计时器追踪时间或手动记录时间。为ProductHunt的朋友提供特别折扣 ☝️",
+      "tagline": "用于报告、预算和工资的Notion时间跟踪器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "從Notion或Everhour瀏覽器擴展中直接跟蹤時間，無需費力。Everhour將控件嵌入Notion界面，並通過許多有用的功能對其進行擴展。使用計時器追蹤時間或手動記錄時間。爲ProductHunt的朋友提供特別折扣 ☝️",
+      "tagline": "用於報告、預算和工資的Notion時間跟蹤器"
+    }
+  ]
 }

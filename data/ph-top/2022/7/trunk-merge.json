@@ -63,5 +63,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-19T07:01:50Z"
+  "original_createdAt": "2022-07-19T07:01:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Trunk Merge は、プルリクエストのマージをオーケストレーションして、常にテストに合格するコードのリポジトリを維持するインテリジェントなサービスです。"
+    },
+    {
+      "locale": "zh",
+      "description": "Trunk Merge是一个智能服务，它协调合并拉动请求，以维护一个始终通过测试的代码库。",
+      "tagline": "不要再破坏你的建设"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Trunk Merge是一個智能服務，它協調合並拉動請求，以維護一個始終通過測試的代碼庫。",
+      "tagline": "不要再破壞你的建設"
+    }
+  ]
 }
