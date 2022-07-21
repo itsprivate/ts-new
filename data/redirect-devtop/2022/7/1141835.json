@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-15T23:47:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c-Pw_7Pu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zzl7n1nshgh2gxwuoul.png",
   "author": "Arian Hamdi",
-  "author_url": "https://dev.to/arianhamdi"
+  "author_url": "https://dev.to/arianhamdi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SSRのデータ取得＋キャッシュの仕組みは、next jsではちょっと厄介です。 この記事では、どのように...",
+      "title": "React Query v4 + Next JSのSSR"
+    },
+    {
+      "locale": "zh",
+      "description": "在Next js中，SSR数据获取+缓存机制有点棘手。 在这篇文章中，我们将学习如何...",
+      "title": "React Query v4 + SSR in Next JS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在Next js中，SSR數據獲取+緩存機制有點棘手。 在這篇文章中，我們將學習如何...",
+      "title": "React Query v4 + SSR in Next JS"
+    }
+  ]
 }
