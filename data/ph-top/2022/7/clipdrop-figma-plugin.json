@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-21T07:01:30Z"
+  "original_createdAt": "2022-07-21T07:01:30Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ClipDropの最先端の画像処理ツールをFigmaで直接使用することができます。背景、オブジェクト、テキスト、人物、不具合などを1クリックで削除できます。また、画像を自動的に複数のレイヤーに分解することもできます。",
+      "tagline": "Figmaで画像を複数のレイヤーに魔法のように分解する"
+    },
+    {
+      "locale": "zh",
+      "description": "在 Figma 中直接使用 ClipDrop 最先进的图像处理工具。只需点击一下，就能去除背景、物体、文字、人物或缺陷。并自动将图像分解成多个图层!",
+      "tagline": "在Figma中神奇地将图像分解成多个层次"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在 Figma 中直接使用 ClipDrop 最先進的圖像處理工具。只需點擊一下，就能去除背景、物體、文字、人物或缺陷。並自動將圖像分解成多個圖層!",
+      "tagline": "在Figma中神奇地將圖像分解成多個層次"
+    }
+  ]
 }
