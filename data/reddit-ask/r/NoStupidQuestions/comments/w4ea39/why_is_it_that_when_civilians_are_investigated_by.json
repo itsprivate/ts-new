@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: I mean the police spilling the beans on the civilian investigation, not\nthe civilians themselves. For example in press conferences."
+  "the_new_excerpt": "Edit: I mean the police spilling the beans on the civilian investigation, not\nthe civilians themselves. For example in press conferences.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：警察が民間人の捜査をバラしたという意味であって、民間人そのものをバラしたわけではありません。\n民間人そのものではなく 例えば記者会見で。",
+      "title": "どうして一般人が警察に捜査されると、何でもかんでも白状してしまうのでしょう。しかし、政治家や警察自身が捜査されると、「現在捜査中なのでコメントできません」と言うのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：我指的是警察对平民调查的泄密，而不是\n而不是平民自己。例如在新闻发布会上。",
+      "title": "为什么当平民被警察调查时，他们会泄露一切。但当政治家或警察自己被调查时，他们却 \"因正在进行的调查而无法评论\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：我指的是警察對平民調查的泄密，而不是\n而不是平民自己。例如在新聞發佈會上。",
+      "title": "爲什麼當平民被警察調查時，他們會泄露一切。但當政治家或警察自己被調查時，他們卻 \"因正在進行的調查而無法評論\"？"
+    }
+  ]
 }
