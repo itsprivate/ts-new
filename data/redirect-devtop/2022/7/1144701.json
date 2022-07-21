@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-19T12:12:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mtAlvPM5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y79u5n3gonq9oxzon96k.png",
   "author": "Dr DEV",
-  "author_url": "https://dev.to/heydrdev"
+  "author_url": "https://dev.to/heydrdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのベストな記事をお待ちしています🤩。 下にドロップしてください👇 (あなたは、Ctrl + Shiftを使用することができます...)",
+      "title": "あなたのベスト記事をここに投下してください👇。"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿......我们正在等待🤩你最好的文章来阅读！!  把它们放在下面👇（你可以用ctrl + Shift...",
+      "title": "把你的好文章放在这里👇"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿......我們正在等待🤩你最好的文章來閱讀！!  把它們放在下面👇（你可以用ctrl + Shift...",
+      "title": "把你的好文章放在這裏👇"
+    }
+  ]
 }

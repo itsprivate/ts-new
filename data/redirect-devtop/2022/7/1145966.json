@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-20T17:09:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8RJmen_F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ek3zts4dsfmq1ajw43c.png",
   "author": "Dominika Zając (she/her) 🇵🇱",
-  "author_url": "https://dev.to/domizajac"
+  "author_url": "https://dev.to/domizajac",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードにコメントを使うのをやめるべき理由についての私の短いコメント（特別な場合を除く） ...",
+      "title": "コード中のコメントについてひとこと"
+    },
+    {
+      "locale": "zh",
+      "description": "我的短评：为什么你应该停止在代码中使用注释（除非在特殊情况下） ...",
+      "title": "关于代码中的评论的简短评论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的短評：爲什麼你應該停止在代碼中使用註釋（除非在特殊情況下） ...",
+      "title": "關於代碼中的評論的簡短評論"
+    }
+  ]
 }

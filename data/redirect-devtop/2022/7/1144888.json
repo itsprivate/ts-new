@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-19T15:57:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XJROWG8r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p4wdsswexo040vcfhr41.png",
   "author": "Vinicius Brasil",
-  "author_url": "https://dev.to/vinibrsl"
+  "author_url": "https://dev.to/vinibrsl",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何時間も何時間もかけてコードを書いたんですね。あなたはコードレビューのために変更を提出する準備ができています....",
+      "title": "コードを保護しない"
+    },
+    {
+      "locale": "zh",
+      "description": "你花了好几个小时来写代码。你已经准备好提交你的修改以进行代码审查....。",
+      "title": "不要对你的代码进行保护"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你花了好幾個小時來寫代碼。你已經準備好提交你的修改以進行代碼審查....。",
+      "title": "不要對你的代碼進行保護"
+    }
+  ]
 }
