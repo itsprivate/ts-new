@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-21T07:05:00Z"
+  "original_createdAt": "2022-07-21T07:05:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Bananaは3つの簡単なステップと1行のコードでMLモデルの推論ホストを提供します。サーバーレスGPUインフラで、アイドルGPU時間に対する支払いを止め、モデルを即座に本番環境にデプロイします。Bananaを利用してスケールを拡大しましょう。🍌",
+      "tagline": "機械学習推論のためのサーバーレスGPU"
+    },
+    {
+      "locale": "zh",
+      "description": "Banana通过三个简单的步骤和一行代码为ML模型提供推理托管。不再为闲置的GPU时间付费，并通过我们的无服务器GPU基础设施立即将模型部署到生产中。使用Banana的规模。🍌",
+      "tagline": "用于机器学习推理的无服务器GPU"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Banana通過三個簡單的步驟和一行代碼爲ML模型提供推理託管。不再爲閒置的GPU時間付費，並通過我們的無服務器GPU基礎設施立即將模型部署到生產中。使用Banana的規模。🍌",
+      "tagline": "用於機器學習推理的無服務器GPU"
+    }
+  ]
 }
