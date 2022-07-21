@@ -96,5 +96,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-19T07:15:33Z"
+  "original_createdAt": "2022-07-19T07:15:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Payloadは、CMSの世界でより良い選択肢を開発者に提供するために作られた、開発者ファーストのヘッドレスCMSとアプリケーションフレームワークです。ドキュメントからデザインまで、PayloadはCMSの現状を変えようとしています。"
+    },
+    {
+      "locale": "zh",
+      "description": "Payload是一个开发者优先的无头CMS和应用框架，它的建立最终为开发者在CMS世界中提供了更好的选择。从文件到设计，Payload正在改变CMS的现状。",
+      "tagline": "最好的TypeScript CMS开发者体验"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Payload是一個開發者優先的無頭CMS和應用框架，它的建立最終爲開發者在CMS世界中提供了更好的選擇。從文件到設計，Payload正在改變CMS的現狀。",
+      "tagline": "最好的TypeScript CMS開發者體驗"
+    }
+  ]
 }

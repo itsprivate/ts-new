@@ -58,5 +58,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-19T07:04:18Z"
+  "original_createdAt": "2022-07-19T07:04:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Inspect Element」にさよなら - カーソルを合わせた要素のCSSを瞬時にチェックし、そのルール全体をワンクリックでコピー ⚡."
+    },
+    {
+      "locale": "zh",
+      "description": "告别 \"检查元素\"--立即检查你悬停在上面的任何元素的CSS，并且只需点击一下就可以复制其全部规则。",
+      "tagline": "检查、复制和编辑CSS的最快和最简单的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "告別 \"檢查元素\"--立即檢查你懸停在上面的任何元素的CSS，並且只需點擊一下就可以複製其全部規則。",
+      "tagline": "檢查、複製和編輯CSS的最快和最簡單的方法"
+    }
+  ]
 }

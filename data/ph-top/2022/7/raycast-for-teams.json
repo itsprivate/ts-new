@@ -63,5 +63,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-20T07:01:00Z"
+  "original_createdAt": "2022-07-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "レイキャストは、Macの生産性を向上させるためのワンストップソリューションです。Raycast for Teamsで、この体験を企業に提供できることを嬉しく思います。コマンド、クイックリンク、スニペットを組織内で共有し、社内のワークフローをスピードアップします。"
+    },
+    {
+      "locale": "zh",
+      "description": "Raycast是在Mac上提高生产力的一站式解决方案。我们很高兴通过Raycast for Teams将这种体验带给公司。在你的组织中分享命令、快速链接和片段，以加快内部工作流程。",
+      "tagline": "加快内部工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Raycast是在Mac上提高生產力的一站式解決方案。我們很高興通過Raycast for Teams將這種體驗帶給公司。在你的組織中分享命令、快速鏈接和片段，以加快內部工作流程。",
+      "tagline": "加快內部工作流程"
+    }
+  ]
 }

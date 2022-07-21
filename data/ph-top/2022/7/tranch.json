@@ -58,5 +58,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-19T07:01:00Z"
+  "original_createdAt": "2022-07-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tranchは、組み込み型のB2B Buy Now, Pay Laterソリューションです。Tranchは、SaaSプロバイダーやサービスプロバイダーに前払いを可能にし、顧客には柔軟な支払いを提供します。お客様は、1万ドルから25万ドルの請求書を3ヶ月から12ヶ月に渡って支払うことができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Tranch是嵌入式B2B先买后付解决方案。Tranch使SaaS和服务提供商能够获得预付款，同时为他们的客户提供付款的灵活性。客户可以将1万美元到25万美元的发票分摊到3-12个月。",
+      "tagline": "软件和服务的B2B先买后付"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tranch是嵌入式B2B先買後付解決方案。Tranch使SaaS和服務提供商能夠獲得預付款，同時爲他們的客戶提供付款的靈活性。客戶可以將1萬美元到25萬美元的發票分攤到3-12個月。",
+      "tagline": "軟件和服務的B2B先買後付"
+    }
+  ]
 }

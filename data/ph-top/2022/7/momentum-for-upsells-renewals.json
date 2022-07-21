@@ -68,5 +68,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-20T07:01:00Z"
+  "original_createdAt": "2022-07-20T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Momentum for Upsells & Renewalsは、Slackのアカウントルームとカスタマーチャンネル、Zendesk、Gainsight、Catalystとの統合により、オンボーディング、アップセル、更新のプロセスを自動化し、営業チームの純金維持率を向上させることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "Momentum for Upsells & Renewals使销售团队能够通过Slack中的Account Rooms和Customer Channels，以及与Zendesk、Gainsight和Catalyst的集成，实现入职、追加销售和续约流程的自动化，从而提高他们的净收入保留率。",
+      "tagline": "利用Slack和自动化来提高净值保留率"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Momentum for Upsells & Renewals使銷售團隊能夠通過Slack中的Account Rooms和Customer Channels，以及與Zendesk、Gainsight和Catalyst的集成，實現入職、追加銷售和續約流程的自動化，從而提高他們的淨收入保留率。",
+      "tagline": "利用Slack和自動化來提高淨值保留率"
+    }
+  ]
 }

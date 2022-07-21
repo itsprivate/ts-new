@@ -114,5 +114,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-19T07:01:00Z"
+  "original_createdAt": "2022-07-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouCode by You.comは、開発者のための検索エンジンです。スニペットをコピーし、AIでコードを書き、JSONを検証し、ドキュメント、ヒント、トリック、ユーティリティを従来の検索エンジンの10倍速く見つけることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "YouCode by You.com是为开发者提供的搜索引擎。复制代码片段，用人工智能编写代码，验证JSON，并以比传统搜索引擎快10倍的速度找到文档、技巧、窍门和实用工具。",
+      "tagline": "You.com为你编码的搜索引擎"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "YouCode by You.com是爲開發者提供的搜索引擎。複製代碼片段，用人工智能編寫代碼，驗證JSON，並以比傳統搜索引擎快10倍的速度找到文檔、技巧、竅門和實用工具。",
+      "tagline": "You.com爲你編碼的搜索引擎"
+    }
+  ]
 }
