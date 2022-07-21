@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "海へ行く途中で動けなくなったカメを、このお兄さんが助けてくれた（ホンジュラス・ウティラ）"
+    },
+    {
+      "locale": "zh",
+      "title": "海龟在出海的路上被卡住了，这位兄弟在这里帮它解了围（洪都拉斯，乌提拉）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "海龜在出海的路上被卡住了，這位兄弟在這裏幫它解了圍（洪都拉斯，烏提拉）。"
+    }
+  ]
 }
