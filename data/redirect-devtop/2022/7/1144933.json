@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-19T17:10:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zh5k_D_K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vmj5qfj7eaanmow6gfhr.png",
   "author": "Peron",
-  "author_url": "https://dev.to/mperon"
+  "author_url": "https://dev.to/mperon",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "問題点 Webアプリケーションで何かを見るのに、あまりに待たされるのは誰でも嫌なものです。その...",
+      "title": "ロードステータスの追加方法"
+    },
+    {
+      "locale": "zh",
+      "description": "问题 每个人都讨厌在网络应用程序中需要等待太长时间才能看到的东西。这是个问题。",
+      "title": "如何添加一个加载状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "問題 每個人都討厭在網絡應用程序中需要等待太長時間才能看到的東西。這是個問題。",
+      "title": "如何添加一個加載狀態"
+    }
+  ]
 }

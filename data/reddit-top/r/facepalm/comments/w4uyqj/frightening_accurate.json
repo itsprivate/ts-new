@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "恐ろしいほどの正確さ"
+    },
+    {
+      "locale": "zh",
+      "title": "令人恐惧的准确性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "令人恐懼的準確性"
+    }
+  ]
 }
