@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の文化では普通でも、別の場所では変なことだと思うことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么事情在你的文化中是正常的，但在另一个地方却是一件奇怪的事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼事情在你的文化中是正常的，但在另一個地方卻是一件奇怪的事情？"
+    }
+  ]
 }
