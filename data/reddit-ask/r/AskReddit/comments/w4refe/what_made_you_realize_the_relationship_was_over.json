@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "関係が終わったと認識したきっかけは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是什么让你意识到这段关系已经结束？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是什麼讓你意識到這段關係已經結束？"
+    }
+  ]
 }

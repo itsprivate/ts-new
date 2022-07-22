@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-21T05:20:36Z",
   "image": "https://dev.to/social_previews/article/1147334.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ここでは、プログラミングを始める際に気をつけるべき5つのことを紹介します。          1. 言語とは、あくまで...",
+      "title": "プログラマーとして心がけるべき5つのこと"
+    },
+    {
+      "locale": "zh",
+      "description": "这里列出了开始编程时需要记住的5件事。          1. 语言只是...",
+      "title": "作为一个程序员要记住的5件事"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這裏列出了開始編程時需要記住的5件事。          1. 語言只是...",
+      "title": "作爲一個程序員要記住的5件事"
+    }
+  ]
 }
