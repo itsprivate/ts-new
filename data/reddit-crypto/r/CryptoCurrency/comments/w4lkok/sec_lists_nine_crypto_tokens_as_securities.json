@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECはCoinbaseのインサイダー取引容疑を受けて、9つの暗号トークンを有価証券としてリストアップしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在Coinbase内幕交易指控后，SEC将九种加密代币列为证券"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在Coinbase內幕交易指控後，SEC將九種加密代幣列爲證券"
+    }
+  ]
 }
