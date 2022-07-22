@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-19T13:06:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n1Iboi3B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cao4tv8jehg1i8l5ml71.png",
   "author": "André Silva",
-  "author_url": "https://dev.to/alousilva"
+  "author_url": "https://dev.to/alousilva",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "目次 はじめに セットアップ プロジェクトのフォルダ構成 サーバースクリプト ルーター Vue...",
+      "title": "Vue3 + TS + Vue Query + Express + tRPC: セットアップ例"
+    },
+    {
+      "locale": "zh",
+      "description": "目录简介 设置 项目文件夹结构 服务器脚本 Router Vue...",
+      "title": "Vue3 + TS + Vue Query + Express + tRPC：设置实例"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "目錄簡介 設置 項目文件夾結構 服務器腳本 Router Vue...",
+      "title": "Vue3 + TS + Vue Query + Express + tRPC：設置實例"
+    }
+  ]
 }
