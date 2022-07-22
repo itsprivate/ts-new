@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ダブルユー」の「w」を別のものに改名するとしたら、どんなものにしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有机会将 \"W \"这个字母从 \"Double you \"改名为其他的东西，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有機會將 \"W \"這個字母從 \"Double you \"改名爲其他的東西，你會怎麼做？"
+    }
+  ]
 }
