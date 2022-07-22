@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-22T10:11:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bXKk-1uC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdrh7p1cgi3x2of6j7sa.png",
   "author": "CAST AI",
-  "author_url": "https://dev.to/castai"
+  "author_url": "https://dev.to/castai",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesは、コスト配分とレポーティングに関する多くの課題をもたらします。",
+      "title": "プラグアンドプレイの無料Kubernetesコストモニタリング"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes围绕成本分配和报告提出了许多挑战--从了解哪个团队增加了...",
+      "title": "免费的即插即用的Kubernetes成本监控"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes圍繞成本分配和報告提出了許多挑戰--從瞭解哪個團隊增加了...",
+      "title": "免費的即插即用的Kubernetes成本監控"
+    }
+  ]
 }
