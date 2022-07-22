@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "赤ちゃん向けの本で、レベルが違う。"
+    },
+    {
+      "locale": "zh",
+      "title": "为婴儿提供的书籍，是另一个他妈的水平。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲嬰兒提供的書籍，是另一個他媽的水平。"
+    }
+  ]
 }
