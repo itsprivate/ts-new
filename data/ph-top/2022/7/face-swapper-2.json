@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-22T07:01:00Z"
+  "original_createdAt": "2022-07-22T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "FaceSwapper (https://faceswapper.ai)は、顔を好きな他の顔に入れ替えることができるオンラインツールです。手動で顔を入れ替える必要はなく、顔写真をアップロードするだけで、AIシステムが自動的に処理します。",
+      "tagline": "高度なAIを搭載し、写真から顔を自動で入れ替え"
+    },
+    {
+      "locale": "zh",
+      "description": "FaceSwapper (https://faceswapper.ai)是一个在线换脸工具，可以让你用你选择的其他脸来替换脸。不需要手动换脸，只要上传脸部图片，我们的AI系统就会自动处理。",
+      "tagline": "在先进的人工智能的支持下，自动从照片中调换脸部"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "FaceSwapper (https://faceswapper.ai)是一個在線換臉工具，可以讓你用你選擇的其他臉來替換臉。不需要手動換臉，只要上傳臉部圖片，我們的AI系統就會自動處理。",
+      "tagline": "在先進的人工智能的支持下，自動從照片中調換臉部"
+    }
+  ]
 }
