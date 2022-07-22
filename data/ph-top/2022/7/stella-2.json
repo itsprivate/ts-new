@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-22T07:38:10Z"
+  "original_createdAt": "2022-07-22T07:38:10Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stellaは、Slack、Notion、Google Suiteなどに存在する企業情報を取り込み、それらに基づいたサマリーをリーダーシップチーム向けに毎日作成するAIソリューションです。",
+      "tagline": "会社の最新情報をキャッチアップする時間を短縮"
+    },
+    {
+      "locale": "zh",
+      "description": "Stella是一个人工智能解决方案，它摄取生活在Slack、Notion、Google Suite等的公司信息，并根据这些输入为领导团队准备每日总结。",
+      "tagline": "节省追赶公司更新的时间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stella是一個人工智能解決方案，它攝取生活在Slack、Notion、Google Suite等的公司信息，並根據這些輸入爲領導團隊準備每日總結。",
+      "tagline": "節省追趕公司更新的時間"
+    }
+  ]
 }
