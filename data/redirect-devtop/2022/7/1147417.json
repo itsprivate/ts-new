@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-21T06:48:51Z",
   "image": "https://dev.to/social_previews/article/1147417.png",
   "author": "Emre Savcı",
-  "author_url": "https://dev.to/mstryoda"
+  "author_url": "https://dev.to/mstryoda",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、開発者、特に駆け出しの開発者が、このような状況に置かれていることを実感しています。",
+      "title": "ソフトウェア開発者よ、完璧である必要はない"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我观察到开发人员，特别是那些刚起步的人--在...",
+      "title": "软件开发人员，你不需要太完美"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我觀察到開發人員，特別是那些剛起步的人--在...",
+      "title": "軟件開發人員，你不需要太完美"
+    }
+  ]
 }
