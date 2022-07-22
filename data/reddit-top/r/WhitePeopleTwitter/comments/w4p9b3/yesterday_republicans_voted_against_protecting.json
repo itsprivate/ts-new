@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昨日は共和党が結婚の平等を守ることに反対票を投じ、今日はこれ。中間選挙は11月です。"
+    },
+    {
+      "locale": "zh",
+      "title": "昨天共和党人投票反对保护婚姻平等，今天又是这样。中期选举是在11月。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "昨天共和黨人投票反對保護婚姻平等，今天又是這樣。中期選舉是在11月。"
+    }
+  ]
 }
