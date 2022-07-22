@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女が扇風機を描いてくれた..."
+    },
+    {
+      "locale": "zh",
+      "title": "我的女朋友给我们的风扇刷了漆..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的女朋友給我們的風扇刷了漆..."
+    }
+  ]
 }
