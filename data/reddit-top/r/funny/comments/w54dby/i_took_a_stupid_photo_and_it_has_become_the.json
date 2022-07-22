@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バカな写真を撮ったので、今では家族が「いいよ」の代わりに送り合うデフォルトの写真になっています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我拍了一张愚蠢的照片，它已经成为我的家人现在互相发送的默认照片，而不是 \"OK\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我拍了一張愚蠢的照片，它已經成爲我的家人現在互相發送的默認照片，而不是 \"OK\"。"
+    }
+  ]
 }
