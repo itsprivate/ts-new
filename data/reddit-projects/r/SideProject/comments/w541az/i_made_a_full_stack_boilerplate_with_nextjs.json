@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Next.js、Prisma、Dockerを使ったフルスタックボイラープレートを作ってみたので、自分のプロジェクトに再利用してください"
+    },
+    {
+      "locale": "zh",
+      "title": "我用Next.js、Prisma和Docker做了一个全栈模板，你可以在你自己的项目中重复使用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我用Next.js、Prisma和Docker做了一個全棧模板，你可以在你自己的項目中重複使用。"
+    }
+  ]
 }
