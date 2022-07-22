@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "猫が見ていない時だけ、彼女は勇敢になる...。"
+    },
+    {
+      "locale": "zh",
+      "title": "只有在猫不看她的时候，她才是勇敢的......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只有在貓不看她的時候，她纔是勇敢的......"
+    }
+  ]
 }
