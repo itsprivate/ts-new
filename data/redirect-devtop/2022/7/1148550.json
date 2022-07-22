@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-22T08:49:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OhNJj6OG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6fkkda7e8fx5dl1ynzjo.png",
   "author": "Hayk Baghdasaryan",
-  "author_url": "https://dev.to/haykerman"
+  "author_url": "https://dev.to/haykerman",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwindのようなツールは、趣味のプロジェクトをより早く開発するのに役立つかもしれませんが、問題は... ...",
+      "title": "Tailwindをやめ、プレーンなCSSを採用。"
+    },
+    {
+      "locale": "zh",
+      "description": "像Tailwind这样的工具可能会帮助你更快地开发你的爱好项目，但问题是... ...",
+      "title": "对Tailwind说不，拥抱普通CSS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "像Tailwind這樣的工具可能會幫助你更快地開發你的愛好項目，但問題是... ...",
+      "title": "對Tailwind說不，擁抱普通CSS"
+    }
+  ]
 }
