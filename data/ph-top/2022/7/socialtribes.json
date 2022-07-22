@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-22T07:20:07Z"
+  "original_createdAt": "2022-07-22T07:20:07Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この拡張機能を使うと、Facebookグループから自動的に回答を引き出すことができるので、バーチャル・アシスタントにお金を払ったり、回答をコピーペーストして時間を浪費したりする必要がなくなります。1. Facebookグループメンバーのデータを収集する 2. 新しいFacebookグループメンバーのデータをGoogleシートに送る",
+      "tagline": "Facebookグループメンバーをリードに変換する最も安全な方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这个扩展帮助你自动从你的Facebook群组中提取答案，这样你就可以避免支付虚拟助理或浪费时间复制答案。1. 收集Facebook群组成员数据 2. 发送新的Facebook群组成员数据到你的Google Sheet",
+      "tagline": "将Facebook群组成员转化为线索的最安全方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個擴展幫助你自動從你的Facebook羣組中提取答案，這樣你就可以避免支付虛擬助理或浪費時間複製答案。1. 收集Facebook羣組成員數據 2. 發送新的Facebook羣組成員數據到你的Google Sheet",
+      "tagline": "將Facebook羣組成員轉化爲線索的最安全方式"
+    }
+  ]
 }
