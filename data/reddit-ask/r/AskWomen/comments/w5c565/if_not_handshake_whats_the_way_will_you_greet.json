@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "握手でなければ、どのような挨拶をするのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果不握手，你会用什么方式问候别人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果不握手，你會用什麼方式問候別人？"
+    }
+  ]
 }
