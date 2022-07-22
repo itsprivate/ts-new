@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCの総アドレスが10億を突破"
+    },
+    {
+      "locale": "zh",
+      "title": "BTC总地址突破10亿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "BTC總地址突破10億"
+    }
+  ]
 }
