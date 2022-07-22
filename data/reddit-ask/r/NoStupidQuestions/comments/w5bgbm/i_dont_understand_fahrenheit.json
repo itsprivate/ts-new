@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I'm European, I use Celsius. Can you explain me Fahrenheit by telling me what\ntemperature you wear what kind of clothes, pls"
+  "the_new_excerpt": "I'm European, I use Celsius. Can you explain me Fahrenheit by telling me what\ntemperature you wear what kind of clothes, pls",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私はヨーロッパ人なので、摂氏を使います。華氏について教えてください。\nどのような服を着ているのか、その温度を教えてください。",
+      "title": "華氏を理解できない"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是欧洲人，我使用摄氏度。你能给我解释一下华氏温度，告诉我你穿什么温度的衣服吗？\n你穿什么温度的衣服，请告诉我。",
+      "title": "我不明白华氏的意思"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是歐洲人，我使用攝氏度。你能給我解釋一下華氏溫度，告訴我你穿什麼溫度的衣服嗎？\n你穿什麼溫度的衣服，請告訴我。",
+      "title": "我不明白華氏的意思"
+    }
+  ]
 }
