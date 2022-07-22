@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サトシ・ナカモトがこのメールを送ったかどうかはわからないが、ポイントは変わらない。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们永远不会知道中本聪是否发送了这封电子邮件，但问题仍然存在"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們永遠不會知道中本聰是否發送了這封電子郵件，但問題仍然存在"
+    }
+  ]
 }
