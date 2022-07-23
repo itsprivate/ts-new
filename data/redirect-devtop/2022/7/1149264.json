@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-23T05:23:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v5TvF2NK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/syekkr7llse4m9avf53q.png",
   "author": "Bibek",
-  "author_url": "https://dev.to/bibekkakati"
+  "author_url": "https://dev.to/bibekkakati",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "数日前、Webでシステムテーマがダークなのかライトなのかを知るにはどうしたらいいかと考えていたところ...。",
+      "title": "システムカラーテーマ チェックイン JavaScript"
+    },
+    {
+      "locale": "zh",
+      "description": "几天前，我想知道如何知道系统主题在网络上是深色还是浅色，使用...",
+      "title": "系统颜色主题检查的JavaScript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "幾天前，我想知道如何知道系統主題在網絡上是深色還是淺色，使用...",
+      "title": "系統顏色主題檢查的JavaScript"
+    }
+  ]
 }
