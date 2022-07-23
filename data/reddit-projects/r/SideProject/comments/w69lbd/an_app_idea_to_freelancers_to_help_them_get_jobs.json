@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "フリーランスに向けた、仕事を獲得するためのアプリのアイデア。皆さんはどう思われますか？(2分)"
+    },
+    {
+      "locale": "zh",
+      "title": "为自由职业者提供一个帮助他们获得工作的应用程序的想法。你们有什么看法？(2 min.)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲自由職業者提供一個幫助他們獲得工作的應用程序的想法。你們有什麼看法？(2 min.)"
+    }
+  ]
 }
