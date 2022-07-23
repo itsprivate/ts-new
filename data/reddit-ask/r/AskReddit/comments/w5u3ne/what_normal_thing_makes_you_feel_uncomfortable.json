@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どんな普通のことが不快に感じますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么正常的事情让你感到不舒服？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼正常的事情讓你感到不舒服？"
+    }
+  ]
 }
