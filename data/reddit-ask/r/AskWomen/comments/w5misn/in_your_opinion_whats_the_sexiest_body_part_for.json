@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの考える、最もセクシーな体の部位はどこですか。例えば、背中、肩、顔など？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你看来，什么是最性感的身体部位。例如，背部、肩部、面部？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你看來，什麼是最性感的身體部位。例如，背部、肩部、面部？"
+    }
+  ]
 }

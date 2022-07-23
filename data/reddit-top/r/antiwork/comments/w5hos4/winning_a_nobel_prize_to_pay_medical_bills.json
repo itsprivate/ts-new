@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ノーベル賞受賞で医療費支払いへ"
+    },
+    {
+      "locale": "zh",
+      "title": "赢得诺贝尔奖以支付医疗费用"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "贏得諾貝爾獎以支付醫療費用"
+    }
+  ]
 }
