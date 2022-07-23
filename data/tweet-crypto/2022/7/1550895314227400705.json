@@ -134,5 +134,22 @@
     "retweet_count": 24335,
     "favorite_count": 287363,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @aIIegoricaI: 一日中カフェの外に座っていて、本当に何もしていない状態を正常化する https://t.co/vEwdEM1VLA",
+      "retweeted_status_full_text": "一日中カフェの外に座っていて、実際には何もしていない状態を常態化する https://t.co/vEwdEM1VLA"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @aIIegoricaI: 正常化，整天坐在咖啡馆外，并没有真正做什么https://t.co/vEwdEM1VLA。",
+      "retweeted_status_full_text": "整天坐在咖啡馆外，没有真正做任何事情的正常化https://t.co/vEwdEM1VLA。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @aIIegoricaI: 正常化，整天坐在咖啡館外，並沒有真正做什麼https://t.co/vEwdEM1VLA。",
+      "retweeted_status_full_text": "整天坐在咖啡館外，沒有真正做任何事情的正常化https://t.co/vEwdEM1VLA。"
+    }
+  ]
 }

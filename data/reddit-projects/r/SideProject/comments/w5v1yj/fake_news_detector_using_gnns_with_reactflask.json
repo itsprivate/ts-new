@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "React/FlaskによるGNNを用いたフェイクニュース検出器"
+    },
+    {
+      "locale": "zh",
+      "title": "使用GNN与React/Flask的假新闻检测器"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用GNN與React/Flask的假新聞檢測器"
+    }
+  ]
 }
