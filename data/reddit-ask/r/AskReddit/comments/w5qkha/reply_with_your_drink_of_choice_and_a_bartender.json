@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの好きなお酒を返信すると、バーテンダーがあなたのことを教えてくれます。"
+    },
+    {
+      "locale": "zh",
+      "title": "用你选择的饮料来回复，酒保会告诉你这说明了什么；你的饮料是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用你選擇的飲料來回復，酒保會告訴你這說明了什麼；你的飲料是什麼？"
+    }
+  ]
 }
