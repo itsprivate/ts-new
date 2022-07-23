@@ -42,5 +42,22 @@
   "original_created_at": "2022-07-21T10:33:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--InLSzO0y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qlyi9q8adzjwm7chlk79.png",
   "author": "Alex Booker",
-  "author_url": "https://dev.to/bookercodes"
+  "author_url": "https://dev.to/bookercodes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web制作を学んでいると、どうしてもターミナルを使いたい...という人に出くわすことがあります。",
+      "title": "ウェブ開発者のためのmacOSのターミナル活用ガイド"
+    },
+    {
+      "locale": "zh",
+      "description": "在学习网络开发时，你很可能会遇到有人坚持使用终端....。",
+      "title": "网络开发者在macOS上使用终端的终极指南"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在學習網絡開發時，你很可能會遇到有人堅持使用終端....。",
+      "title": "網絡開發者在macOS上使用終端的終極指南"
+    }
+  ]
 }
