@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "プレイヤーは、自分が犬の仕事を盗みかけたことに気づく。"
+    },
+    {
+      "locale": "zh",
+      "title": "玩家意识到，他几乎偷走了狗的工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "玩家意識到，他幾乎偷走了狗的工作"
+    }
+  ]
 }
