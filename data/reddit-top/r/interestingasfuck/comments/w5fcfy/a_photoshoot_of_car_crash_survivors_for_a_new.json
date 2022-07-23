@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニュージーランドの交通安全キャンペーンのために、交通事故の生存者を撮影し、シートベルトがいかに彼らの命を救ったかをアピールした作品。"
+    },
+    {
+      "locale": "zh",
+      "title": "为新西兰道路安全活动拍摄车祸幸存者的照片，展示安全带如何拯救他们的生命。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爲新西蘭道路安全活動拍攝車禍倖存者的照片，展示安全帶如何拯救他們的生命。"
+    }
+  ]
 }
