@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-20T22:07:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jc4wwyjv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/59odkg66a7yycfct8744.jpeg",
   "author": "Max Zhuk",
-  "author_url": "https://dev.to/zhukmax"
+  "author_url": "https://dev.to/zhukmax",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "次回は、PHPのデザインパターンについてお話したいと思います。そして、私はこの言語がとても好きです...",
+      "title": "PHP 8のデザインパターン：シングルトンとマルチトン"
+    },
+    {
+      "locale": "zh",
+      "description": "我想在接下来的几篇文章中谈一谈php中的设计模式。我真的很喜欢这种语言...",
+      "title": "PHP 8中的设计模式：单子和多子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我想在接下來的幾篇文章中談一談php中的設計模式。我真的很喜歡這種語言...",
+      "title": "PHP 8中的設計模式：單子和多子"
+    }
+  ]
 }
