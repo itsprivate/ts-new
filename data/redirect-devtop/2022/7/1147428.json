@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-21T07:09:20Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ea8rJNCA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xkrko3xbl0468aw9raem.png",
   "author": "Maurer Krisztián",
-  "author_url": "https://dev.to/maurerkrisztian"
+  "author_url": "https://dev.to/maurerkrisztian",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "YouTubeの動画ダウンロードサイトに出会ったことがある方も多いと思いますが、この記事では...",
+      "title": "Youtubeダウンローダー（cliラッパー）"
+    },
+    {
+      "locale": "zh",
+      "description": "你可能已经遇到了一个YouTube视频下载网站，在这篇文章中，我将向你展示...",
+      "title": "Youtube下载器(cli包装器)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你可能已經遇到了一個YouTube視頻下載網站，在這篇文章中，我將向你展示...",
+      "title": "Youtube下載器(cli包裝器)"
+    }
+  ]
 }
