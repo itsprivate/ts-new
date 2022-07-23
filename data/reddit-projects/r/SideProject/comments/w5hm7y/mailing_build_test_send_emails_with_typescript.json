@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Mailing: TypeScriptとReactでメールをビルド、テスト、送信する"
+    },
+    {
+      "locale": "zh",
+      "title": "邮件：用TypeScript和React构建、测试、发送邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "郵件：用TypeScript和React構建、測試、發送郵件"
+    }
+  ]
 }
