@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたのSOは、あなたの携帯電話や様々なアカウントにフルアクセスできますか？ソーシャルメディア、銀行、電子メールなど。"
+    },
+    {
+      "locale": "zh",
+      "title": "你的SO是否能完全访问你的手机和你所有的各种账户？包括社交媒体、银行、电子邮件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的SO是否能完全訪問你的手機和你所有的各種賬戶？包括社交媒體、銀行、電子郵件。"
+    }
+  ]
 }
