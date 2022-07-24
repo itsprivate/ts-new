@@ -72,5 +72,19 @@
     "retweet_count": 31,
     "favorite_count": 47,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "データ流出やハッキング、その原因のひとつは\n- Twitterのようなソーシャルメディアプラットフォームでは匿名性を保つ（個人情報を大量に保有する他の企業、別名「ハニーポット」）。\n- Bybit https://t.co/8OI2agrLDD https://t.co/1nbzDjgyBu のようなメールのみのノーKYC取引所を使っている。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "数据泄露和黑客攻击，是其中的原因之一\n- 我在Twitter等社交媒体平台上保持匿名（以及其他拥有大型中央数据库、充满个人数据的公司，又称 \"蜜罐\"）。\n- 我使用纯电子邮件的无KYC交易所，如Bybit https://t.co/8OI2agrLDD https://t.co/1nbzDjgyBu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "數據泄露和黑客攻擊，是其中的原因之一\n- 我在Twitter等社交媒體平臺上保持匿名（以及其他擁有大型中央數據庫、充滿個人數據的公司，又稱 \"蜜罐\"）。\n- 我使用純電子郵件的無KYC交易所，如Bybit https://t.co/8OI2agrLDD https://t.co/1nbzDjgyBu"
+    }
+  ]
 }
