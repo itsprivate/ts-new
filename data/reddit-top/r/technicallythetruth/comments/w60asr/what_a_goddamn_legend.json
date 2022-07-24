@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんという神々しい伝説"
+    },
+    {
+      "locale": "zh",
+      "title": "真是一个该死的传奇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "真是一個該死的傳奇"
+    }
+  ]
 }
