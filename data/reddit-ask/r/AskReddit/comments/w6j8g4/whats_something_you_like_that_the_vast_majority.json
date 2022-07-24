@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが好きなもので、大多数の人が嫌っているものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢的东西是什么，而绝大多数人都讨厌？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡的東西是什麼，而絕大多數人都討厭？"
+    }
+  ]
 }
