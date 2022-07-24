@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-15T22:08:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--765foORi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g0eutg95zrlncumwwi1a.png",
   "author": "Abdjalil Brihoum",
-  "author_url": "https://dev.to/brihoum"
+  "author_url": "https://dev.to/brihoum",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに AngularでアプリケーションやWebサイトを構築する場合、常に欠点が発生します。",
+      "title": "Angularウェブサイトを最適化した方法"
+    },
+    {
+      "locale": "zh",
+      "description": "导语：用Angular构建应用程序/网站总是有一个缺点，那就是：在使用Angular的过程中，会出现一些问题。",
+      "title": "我如何优化我的Angular网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "導語：用Angular構建應用程序/網站總是有一個缺點，那就是：在使用Angular的過程中，會出現一些問題。",
+      "title": "我如何優化我的Angular網站"
+    }
+  ]
 }
