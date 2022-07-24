@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "For example, waterslides and smooth concrete get very slippery when wet, while\nvery thin plastic bags are easier to open if your fingers are wet, and wet\nclothing is harder to remove than dry."
+  "the_new_excerpt": "For example, waterslides and smooth concrete get very slippery when wet, while\nvery thin plastic bags are easier to open if your fingers are wet, and wet\nclothing is harder to remove than dry.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "例えば、ウォータースライダーや滑らかなコンクリートは濡れると非常に滑りやすくなりますが、一方\n薄いビニール袋は指が濡れると開けやすくなります。\n衣服は乾いた状態よりも脱げにくくなります。",
+      "title": "なぜ、水分によって滑りやすくなる面と滑りにくくなる面があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "例如，滑水道和光滑的混凝土在潮湿时变得非常滑，而\n如果你的手指是湿的，非常薄的塑料袋就更容易打开，而湿的\n湿衣服比干衣服更难脱掉。",
+      "title": "为什么水分会使一些表面更滑，而另一些表面则不那么滑？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "例如，滑水道和光滑的混凝土在潮溼時變得非常滑，而\n如果你的手指是溼的，非常薄的塑料袋就更容易打開，而溼的\n溼衣服比干衣服更難脫掉。",
+      "title": "爲什麼水分會使一些表面更滑，而另一些表面則不那麼滑？"
+    }
+  ]
 }

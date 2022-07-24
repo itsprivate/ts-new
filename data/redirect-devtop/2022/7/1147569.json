@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-21T10:15:26Z",
   "image": "https://dev.to/social_previews/article/1147569.png",
   "author": "Omer Elbaz",
-  "author_url": "https://dev.to/omerwow"
+  "author_url": "https://dev.to/omerwow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptフレームワークとは何ですか？  JavaScriptフレームワークとは、開発者が...",
+      "title": "あなたにぴったりのJavaScriptフレームワークは？Next.jsとReact.jsの比較"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是JavaScript框架？  JavaScript框架是一种工具，它可以帮助开发人员在开发过程中，将其作为一个整体来考虑。",
+      "title": "哪个JavaScript框架适合你？Next.js vs React.js"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是JavaScript框架？  JavaScript框架是一種工具，它可以幫助開發人員在開發過程中，將其作爲一個整體來考慮。",
+      "title": "哪個JavaScript框架適合你？Next.js vs React.js"
+    }
+  ]
 }
