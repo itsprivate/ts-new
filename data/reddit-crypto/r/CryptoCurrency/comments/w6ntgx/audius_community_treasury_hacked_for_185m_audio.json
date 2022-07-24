@@ -1,0 +1,57 @@
+{
+  "author": "SurenRongyao",
+  "original_created_utc": 1658639498,
+  "title": "Audius Community Treasury Hacked for ~18.5M AUDIO Tokens. $6M Worth of Stolen Tokens Dumped for Just $1.1M, Due to High Slippage on Uniswap",
+  "created_utc": 1658669992,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;h1&gt;About Audius Project:&lt;/h1&gt;\n\n&lt;p&gt;Audius is a decentralised music streaming service, built on POA Network, an Ethereum sidechain, and later moved some services to the Solana blockchain. It lets artists upload their tunes to the app and connects fans directly with artists and exclusive new music.&lt;/p&gt;\n\n&lt;h1&gt;Hack Recap:&lt;/h1&gt;\n\n&lt;p&gt;The attacker called the &amp;quot;initialize&amp;quot; function in the Audius governance contract to modify configurations (through re-initialization) such as &amp;quot;voting period&amp;quot;, &amp;quot;execution delay&amp;quot;, and &amp;quot;guardian address&amp;quot;.&lt;/p&gt;\n\n&lt;p&gt;The attacker created and passed a malicious governance proposal to transfer out 18.5M AUDIO tokens from the community treasury.&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://dashboard.audius.org/#/governance/proposal/85\"&gt;The Proposal:&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://preview.redd.it/om7o9bkr5gd91.png?width=995&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f3562bff0ba12904449cb28c53c3961cef4df0d4\"&gt;https://preview.redd.it/om7o9bkr5gd91.png?width=995&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=f3562bff0ba12904449cb28c53c3961cef4df0d4&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Then, they successfully swapped these $6M worth of tokens on &lt;a href=\"https://etherscan.io/tx/0x82fc23992c7433fffad0e28a1b8d11211dc4377de83e88088d79f24f4a3f28b3\"&gt;Uniswap&lt;/a&gt; for only $705 ETH (~$1.1 Million), due to high slippage.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Audius Team Response:&lt;/strong&gt;&lt;/p&gt;\n\n&lt;pre&gt;&lt;code&gt;The issue has been found and fixes are in progress to get things back to a stable state.\n\nTo prevent further damage, all Audius smart contracts on Ethereum had to be halted, including the token.\n\nWe do not believe any further funds are at risk.\n\nMore updates / post-mortem soon.\n\nWhile these fixes are being completed, token balances, transfers, etc will be temporarily unavailable\n&lt;/code&gt;&lt;/pre&gt;\n\n&lt;p&gt;The Stolen funds are currently at this address:&lt;/p&gt;\n\n&lt;p&gt;0xa0c7BD318D69424603CBf91e9969870F21B8ab4c&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 350,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/yCQl4SKRPSpTDa2-Iqf17Mp8a_oH5DNmxAAiO2prU3U.png?auto=webp&amp;s=340364a08b857add8f7790e5835d942b4b1f459c",
+          "width": 995,
+          "height": 670
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/yCQl4SKRPSpTDa2-Iqf17Mp8a_oH5DNmxAAiO2prU3U.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=060dcbeabab1d86c0c47b579448029840e3c0428",
+            "width": 108,
+            "height": 72
+          },
+          {
+            "url": "https://external-preview.redd.it/yCQl4SKRPSpTDa2-Iqf17Mp8a_oH5DNmxAAiO2prU3U.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=8935a58eab22d61d093f345a3b8dddc1facb5f1d",
+            "width": 216,
+            "height": 145
+          },
+          {
+            "url": "https://external-preview.redd.it/yCQl4SKRPSpTDa2-Iqf17Mp8a_oH5DNmxAAiO2prU3U.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d106214678de5ef77366707e8add23169d7d1376",
+            "width": 320,
+            "height": 215
+          },
+          {
+            "url": "https://external-preview.redd.it/yCQl4SKRPSpTDa2-Iqf17Mp8a_oH5DNmxAAiO2prU3U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e03629e206883ce1b3e175fb10c4de183b427ed6",
+            "width": 640,
+            "height": 430
+          },
+          {
+            "url": "https://external-preview.redd.it/yCQl4SKRPSpTDa2-Iqf17Mp8a_oH5DNmxAAiO2prU3U.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=daa3cce050f10906c13743e7e88a1b053a8df785",
+            "width": 960,
+            "height": 646
+          }
+        ],
+        "variants": {},
+        "id": "qtgfqs94_72W8QaeDidz2lXWoucPW2MKrh-pRX8C0K0"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/w6ntgx/audius_community_treasury_hacked_for_185m_audio/",
+  "subreddit": "CryptoCurrency",
+  "id": "w6ntgx",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "ABOUT AUDIUS PROJECT:\n\nAudius is a decentralised music streaming service, built on POA Network, an\nEthereum sidechain, and later moved some services to the Solana blockchain. It\nlets artists upload their tunes to the app and connects fans directly with\nartists and exclusive new music.\n\n\nHACK…"
+}
