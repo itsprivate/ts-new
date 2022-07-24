@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私の小さなF1メニューバーアプリがついに完成しました その名も「GPカレンダー」。"
+    },
+    {
+      "locale": "zh",
+      "title": "我的F1菜单栏小程序终于可以使用了! 我把它叫做GP日历"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的F1菜單欄小程序終於可以使用了! 我把它叫做GP日曆"
+    }
+  ]
 }
