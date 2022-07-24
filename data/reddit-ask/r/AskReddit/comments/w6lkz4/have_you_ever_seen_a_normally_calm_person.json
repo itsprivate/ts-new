@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "普段は冷静な人が完全にキレているのを見たことがありますか？何があったんですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有没有见过一个平时很冷静的人完全失去了理智？发生了什么事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有沒有見過一個平時很冷靜的人完全失去了理智？發生了什麼事？"
+    }
+  ]
 }
