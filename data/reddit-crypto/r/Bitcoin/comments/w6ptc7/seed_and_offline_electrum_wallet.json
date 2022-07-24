@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エレクトラムウォレットのシードおよびオフライン"
+    },
+    {
+      "locale": "zh",
+      "title": "种子和离线电子货币钱包"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "種子和離線電子貨幣錢包"
+    }
+  ]
 }
