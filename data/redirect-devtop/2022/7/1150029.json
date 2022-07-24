@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-24T06:17:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OqRyoudS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pf1rc1ll1ngkca9qwsej.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptについては、オブジェクトからプロパティを抽出する非常に便利な方法を得ることができます。  注：...",
+      "title": "JavaScriptオブジェクトの再構築のヒント"
+    },
+    {
+      "locale": "zh",
+      "description": "关于JavaScript，我们得到了一种极其有用的从对象中提取属性的方法。  注意：...",
+      "title": "JavaScript对象重构的技巧"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於JavaScript，我們得到了一種極其有用的從對象中提取屬性的方法。  注意：...",
+      "title": "JavaScript對象重構的技巧"
+    }
+  ]
 }
