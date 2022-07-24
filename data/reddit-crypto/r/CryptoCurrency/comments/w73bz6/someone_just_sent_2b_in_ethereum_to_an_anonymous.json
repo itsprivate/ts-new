@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かが20億ドルのイーサリアムを匿名のウォレットに送った。"
+    },
+    {
+      "locale": "zh",
+      "title": "有人刚把20亿美元的以太币送到一个匿名钱包里"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有人剛把20億美元的以太幣送到一個匿名錢包裏"
+    }
+  ]
 }
