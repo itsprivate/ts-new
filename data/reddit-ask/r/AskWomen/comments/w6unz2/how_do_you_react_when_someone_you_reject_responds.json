@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが拒絶している相手が攻撃的に反応した場合、どのように反応しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当你拒绝的人做出激烈的反应时，你会有什么反应？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你拒絕的人做出激烈的反應時，你會有什麼反應？"
+    }
+  ]
 }
