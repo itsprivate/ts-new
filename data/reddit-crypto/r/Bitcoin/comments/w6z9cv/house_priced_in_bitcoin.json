@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインで表示される家"
+    },
+    {
+      "locale": "zh",
+      "title": "以比特币定价的房子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以比特幣定價的房子"
+    }
+  ]
 }
