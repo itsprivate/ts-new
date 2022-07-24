@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "余命5分、最後の1曲を聴くことができます。あなたはどの曲を選びますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你还有5分钟的生命，可以听最后一首音乐。你选择哪首音乐？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你還有5分鐘的生命，可以聽最後一首音樂。你選擇哪首音樂？"
+    }
+  ]
 }
