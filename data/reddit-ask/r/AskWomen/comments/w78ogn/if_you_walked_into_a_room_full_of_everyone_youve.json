@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが今までに会った人たち全員を集めた部屋に入るとしたら、誰を探しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你走进一个房间，里面全是你见过的人，你会找谁？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你走進一個房間，裏面全是你見過的人，你會找誰？"
+    }
+  ]
 }
