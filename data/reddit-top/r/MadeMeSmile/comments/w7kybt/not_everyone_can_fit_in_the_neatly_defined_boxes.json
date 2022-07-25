@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もが、社会が作ったきちんとした箱に収まるわけではない。"
+    },
+    {
+      "locale": "zh",
+      "title": "不是每个人都能适应社会为他们制定的整齐划一的盒子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是每個人都能適應社會爲他們制定的整齊劃一的盒子"
+    }
+  ]
 }
