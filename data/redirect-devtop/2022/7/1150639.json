@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-25T05:35:35Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zy7ANGaC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qh6ssz9fheec1jgc2za6.png",
   "author": "nevo-david",
-  "author_url": "https://dev.to/nevodavid"
+  "author_url": "https://dev.to/nevodavid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、Novuを使ってアプリ内やメールに通知を送る方法をご案内します。",
+      "title": "アプリ内（ベルアイコン）とメールによる通知システムの構築"
+    },
+    {
+      "locale": "zh",
+      "description": "在这篇文章中，我将指导你通过使用Novu在应用程序中和通过电子邮件发送通知。",
+      "title": "使用应用内（铃铛图标）和电子邮件创建一个通知系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這篇文章中，我將指導你通過使用Novu在應用程序中和通過電子郵件發送通知。",
+      "title": "使用應用內（鈴鐺圖標）和電子郵件創建一個通知系統"
+    }
+  ]
 }
