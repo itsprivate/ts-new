@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Algorandの創設者Silvio Micaliが、敵だらけの世界で高速かつ安全なブロックチェーンを構築する方法について解説します。"
+    },
+    {
+      "locale": "zh",
+      "title": "Algorand创始人Silvio Micali分析了如何在充满对手的世界中构建快速安全的区块链"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Algorand創始人Silvio Micali分析瞭如何在充滿對手的世界中構建快速安全的區塊鏈"
+    }
+  ]
 }
