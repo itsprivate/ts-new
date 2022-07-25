@@ -93,5 +93,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-25T07:01:00Z"
+  "original_createdAt": "2022-07-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Undakuは、モダンなシステムのための、最もオープンソースでノーコードのSaaS型プラットフォームです。Undakuで構築できるもの - B2B SaaSネイティブアプリケーション - Webアプリケーション - モバイルアプリケーション - 社内ツール/ビジネスプロセスオートメーション - Webサイト",
+      "tagline": "SaaS \"を代表するオープンソースのノーコードプラットフォーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Undaku是最 \"SaaS \"的现代系统的开源无代码平台。使用Undaku，您可以建立 - B2B SaaS本地应用程序 - Web应用程序 - 移动应用程序 - 内部工具/业务流程自动化 - 网站",
+      "tagline": "SaaS\"--最开放的无代码平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Undaku是最 \"SaaS \"的現代系統的開源無代碼平臺。使用Undaku，您可以建立 - B2B SaaS本地應用程序 - Web應用程序 - 移動應用程序 - 內部工具/業務流程自動化 - 網站",
+      "tagline": "SaaS\"--最開放的無代碼平臺"
+    }
+  ]
 }
