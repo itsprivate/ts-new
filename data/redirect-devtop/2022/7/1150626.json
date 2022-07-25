@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-25T04:39:57Z",
   "image": "https://dev.to/social_previews/article/1150626.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptはフロントエンド言語であり、現在、開発者がWebデザインを行う上で最も活用されている言語です。",
+      "title": "知っておきたいJavaScriptの機能"
+    },
+    {
+      "locale": "zh",
+      "description": "JavaScript是一种前端语言，是目前开发人员在设计网页时使用最多的语言。",
+      "title": "你应该知道的JavaScript的特点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JavaScript是一種前端語言，是目前開發人員在設計網頁時使用最多的語言。",
+      "title": "你應該知道的JavaScript的特點"
+    }
+  ]
 }
