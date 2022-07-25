@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-25T07:00:00Z"
+  "original_createdAt": "2022-07-25T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CoSchoolは、複数のレッスンとインタラクティブなクイズでダイナミックなコースを作成できるWordPressのLMSプラグインです。公式アドオンを活用して、WooCommerce、EDD、Stripe、PayPalなどの多数の支払いソリューションを使用してコースを販売しましょう。",
+      "tagline": "今までとは違う新しいWordPress LMSプラグイン"
+    },
+    {
+      "locale": "zh",
+      "description": "CoSchool是一个WordPress LMS插件，可以帮助你创建具有多个课程和互动测验的动态课程。利用官方插件的优势，使用众多的支付解决方案如WooCommerce、EDD、Stripe、PayPal等销售课程。",
+      "tagline": "一个新的和不同的WordPress LMS插件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CoSchool是一個WordPress LMS插件，可以幫助你創建具有多個課程和互動測驗的動態課程。利用官方插件的優勢，使用衆多的支付解決方案如WooCommerce、EDD、Stripe、PayPal等銷售課程。",
+      "tagline": "一個新的和不同的WordPress LMS插件"
+    }
+  ]
 }
