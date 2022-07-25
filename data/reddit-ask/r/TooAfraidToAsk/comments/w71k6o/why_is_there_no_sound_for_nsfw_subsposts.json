@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "When I'm scrolling through NSFW subs, videos have no sound on mobile phone\napplication, why is that? Any solutions?"
+  "the_new_excerpt": "When I'm scrolling through NSFW subs, videos have no sound on mobile phone\napplication, why is that? Any solutions?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "NSFWのサブセクションをスクロールしているとき、携帯電話では動画に音が出ません\nなぜでしょうか？何か解決策はありますか？",
+      "title": "NSFWサブ/ポストにはなぜ音が出ないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "当我在滚动浏览NSFW字幕时，手机上的视频没有声音。\n应用，这是为什么呢？有什么解决办法吗？",
+      "title": "为什么NSFW子/帖子没有声音？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "當我在滾動瀏覽NSFW字幕時，手機上的視頻沒有聲音。\n應用，這是爲什麼呢？有什麼解決辦法嗎？",
+      "title": "爲什麼NSFW子/帖子沒有聲音？"
+    }
+  ]
 }
