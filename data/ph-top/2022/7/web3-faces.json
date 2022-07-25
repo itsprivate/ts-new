@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-25T07:01:00Z"
+  "original_createdAt": "2022-07-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "web3の自分のプロフィール写真とtwitterのハンドルネームをアップロードして、twitterのハンドルネームで検索すれば、誰でもあなたのpfpステッカーが見つかります。",
+      "tagline": "Web3ステッカーツール（デジェンヌ用"
+    },
+    {
+      "locale": "zh",
+      "description": "上传一张你的web3的个人照片和你的twitter账号，任何人都可以通过搜索你的twitter账号找到你的pfp贴纸。",
+      "tagline": "Web3贴纸工具，适用于Degens"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "上傳一張你的web3的個人照片和你的twitter賬號，任何人都可以通過搜索你的twitter賬號找到你的pfp貼紙。",
+      "tagline": "Web3貼紙工具，適用於Degens"
+    }
+  ]
 }
