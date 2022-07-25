@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ミシガン大学の白衣授与式で、基調講演者が中絶反対を公言したため、新入医学生が退席。"
+    },
+    {
+      "locale": "zh",
+      "title": "密歇根大学的白大褂仪式上，由于主讲人公开反对堕胎，即将入学的医学生走出会场。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "密歇根大學的白大褂儀式上，由於主講人公開反對墮胎，即將入學的醫學生走出會場。"
+    }
+  ]
 }
