@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パートナーが安定した収入源を持っていない、あるいは持っていない場合、あなたは結婚しますか？その理由、またはそう考えない理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你的伴侣没有稳定的收入来源或没有收入来源，你会和他结婚吗？为什么或为什么不呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你的伴侶沒有穩定的收入來源或沒有收入來源，你會和他結婚嗎？爲什麼或爲什麼不呢？"
+    }
+  ]
 }
