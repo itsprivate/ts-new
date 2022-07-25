@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インスタントスリープ"
+    },
+    {
+      "locale": "zh",
+      "title": "即时睡眠"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "即時睡眠"
+    }
+  ]
 }
