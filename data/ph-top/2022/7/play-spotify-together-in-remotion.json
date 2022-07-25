@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-25T07:01:00Z"
+  "original_createdAt": "2022-07-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Spotify macOSアプリの音楽を同期させる軽量なオーディオルーム。話すと音楽がフェードアウトします。そして何より、誰でも無料で使えます。Spotify Premiumは必要ありません。",
+      "tagline": "横に並んでいるような感覚で話したり、音楽を聴いたり。"
+    },
+    {
+      "locale": "zh",
+      "description": "轻量级的音频室，在你的Spotify macOS应用程序中同步音乐。你说话的时候，音乐就会消逝。最重要的是，它对所有人都是免费的。不需要Spotify Premium。",
+      "tagline": "谈话和听音乐，就像你们并肩作战。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "輕量級的音頻室，在你的Spotify macOS應用程序中同步音樂。你說話的時候，音樂就會消逝。最重要的是，它對所有人都是免費的。不需要Spotify Premium。",
+      "tagline": "談話和聽音樂，就像你們並肩作戰。"
+    }
+  ]
 }
