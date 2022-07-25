@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-24T08:42:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JOoqU8dI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dukr532chr8vmcp74umq.png",
   "author": "Mads Stoumann",
-  "author_url": "https://dev.to/madsstoumann"
+  "author_url": "https://dev.to/madsstoumann",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "何色もある製品の場合、取るのが面倒でコストがかかることも...。",
+      "title": "CSSとSVGを使った商品画像のマスキングとカラーリング"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你的产品有几种颜色，那么采取这种方式可能会很麻烦，也很昂贵。",
+      "title": "使用CSS和SVG对产品图像进行屏蔽和着色"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你的產品有幾種顏色，那麼採取這種方式可能會很麻煩，也很昂貴。",
+      "title": "使用CSS和SVG對產品圖像進行屏蔽和着色"
+    }
+  ]
 }
