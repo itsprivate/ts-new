@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-25T07:32:18Z"
+  "original_createdAt": "2022-07-25T07:32:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Abbotは、チームがSlackで顧客との会話を記録し、手作業を自動化することを支援します。ビルトインのレポートと強力な統合レイヤーを備えたAbbotは、チームの作業時間を短縮し、終わりのない頭痛の種を減らすことができます。",
+      "tagline": "Slackでの顧客対応チームの自動化"
+    },
+    {
+      "locale": "zh",
+      "description": "Abbot帮助团队跟踪Slack中的客户对话，并将人工工作自动化。凭借内置的报告和强大的集成层，Abbot可以为您的团队节省工作时间和无尽的烦恼。",
+      "tagline": "Slack中面向客户的团队的自动化"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Abbot幫助團隊跟蹤Slack中的客戶對話，並將人工工作自動化。憑藉內置的報告和強大的集成層，Abbot可以爲您的團隊節省工作時間和無盡的煩惱。",
+      "tagline": "Slack中面向客戶的團隊的自動化"
+    }
+  ]
 }
