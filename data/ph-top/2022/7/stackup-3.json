@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-25T07:01:00Z"
+  "original_createdAt": "2022-07-25T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stackupは、初心者でも簡単に暗号を使えるようにするモバイルウォレットです。Stackupを使えば、誰でもどんな暗号トークンやNFTでも即座に購入することができます。",
+      "tagline": "暗号を楽にするモバイルウォレット"
+    },
+    {
+      "locale": "zh",
+      "description": "Stackup是一个移动钱包，使初学者能够轻松使用加密货币。通过Stackup，任何人都可以立即购买任何加密货币代币或NFT。",
+      "tagline": "一个移动钱包，让加密货币不费吹灰之力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Stackup是一個移動錢包，使初學者能夠輕鬆使用加密貨幣。通過Stackup，任何人都可以立即購買任何加密貨幣代幣或NFT。",
+      "tagline": "一個移動錢包，讓加密貨幣不費吹灰之力"
+    }
+  ]
 }
