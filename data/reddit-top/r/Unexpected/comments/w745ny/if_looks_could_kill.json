@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "みかけによらず"
+    },
+    {
+      "locale": "zh",
+      "title": "如果外表可以杀人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果外表可以殺人"
+    }
+  ]
 }
