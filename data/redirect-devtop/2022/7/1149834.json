@@ -42,5 +42,22 @@
   "original_created_at": "2022-07-23T23:24:23Z",
   "image": "https://dev.to/social_previews/article/1149834.png",
   "author": "Matt Van Itallie",
-  "author_url": "https://dev.to/vanitallie_matt"
+  "author_url": "https://dev.to/vanitallie_matt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "****Writer's Note: This is Learningからこの作品を出版することを光栄に思います。  This is Learning...",
+      "title": "コードは技術であり、競争ではない - そして、なぜそれが重要なのか。"
+    },
+    {
+      "locale": "zh",
+      "description": "****Writer's Note: 我很荣幸能在This is Learning发表这篇文章。  这就是学习...",
+      "title": "代码是一种手艺，而不是一种竞争--以及为什么它很重要。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "****Writer's Note: 我很榮幸能在This is Learning發表這篇文章。  這就是學習...",
+      "title": "代碼是一種手藝，而不是一種競爭--以及爲什麼它很重要。"
+    }
+  ]
 }

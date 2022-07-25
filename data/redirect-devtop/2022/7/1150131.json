@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-24T10:36:37Z",
   "image": "https://dev.to/social_previews/article/1150131.png",
   "author": "Puput Tallulah",
-  "author_url": "https://dev.to/puputtallulah"
+  "author_url": "https://dev.to/puputtallulah",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オラ！というわけで、これは私が最近気づいたことなのですが、もしあなたが初心者で...",
+      "title": "すべてのHTML要素でIDやクラスを使うのはやめよう!"
+    },
+    {
+      "locale": "zh",
+      "description": "奥拉! 所以，这是我最近刚刚意识到的事情，如果你是一个新手，在...",
+      "title": "停止在每个HTML元素中使用ID和类别"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "奧拉! 所以，這是我最近剛剛意識到的事情，如果你是一個新手，在...",
+      "title": "停止在每個HTML元素中使用ID和類別"
+    }
+  ]
 }
