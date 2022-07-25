@@ -50,5 +50,22 @@
   "original_created_at": "2022-06-06T10:57:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OELPFrbJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/257a9z9336g2e10pej4t.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは👋 今日も素敵な一日をお過ごしでしょうか？今日はあるプロジェクトの発表の日なので、私はそう思います...。",
+      "title": "一応作ってみたけど、使えるかどうかわからない...。😅"
+    },
+    {
+      "locale": "zh",
+      "description": "嘿，👋希望你今天过得很好！我是一个很好的人。我想我是的，因为今天是我宣布一个项目的日子...",
+      "title": "我做了一个东西，但不知道它是否有用... 😅"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嘿，👋希望你今天過得很好！我是一個很好的人。我想我是的，因爲今天是我宣佈一個項目的日子...",
+      "title": "我做了一個東西，但不知道它是否有用... 😅"
+    }
+  ]
 }
