@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが好きな架空のバンドは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪个虚构的乐队？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪個虛構的樂隊？"
+    }
+  ]
 }
