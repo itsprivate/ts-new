@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-24T11:55:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hoX3qy2W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5wejenfavyzupwjbloo.png",
   "author": "Rakesh Potnuru",
-  "author_url": "https://dev.to/itsrakesh"
+  "author_url": "https://dev.to/itsrakesh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "MERNスタックを使ったフルスタックWeb開発の学習を始めたばかりのころは、きっと...。",
+      "title": "フルスタックのMERNウェブアプリケーションを構築してデプロイしてみよう"
+    },
+    {
+      "locale": "zh",
+      "description": "我相信，当你第一次开始学习使用MERN堆栈的全堆栈网络开发时，你...",
+      "title": "让我们建立和部署一个全堆栈的MERN网络应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我相信，當你第一次開始學習使用MERN堆棧的全堆棧網絡開發時，你...",
+      "title": "讓我們建立和部署一個全堆棧的MERN網絡應用程序"
+    }
+  ]
 }
