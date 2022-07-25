@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-23T08:20:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ki-LcZKK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52bwoi874at38aozj14m.png",
   "author": "José Miguel Álvarez Vañó",
-  "author_url": "https://dev.to/jmalvarez"
+  "author_url": "https://dev.to/jmalvarez",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ある要素がユーザー画面上に表示されているかどうかを確認するには、Intersection Observerを使用すると非常に簡単です...",
+      "title": "Reactフックで要素が表示されているかどうかを確認する"
+    },
+    {
+      "locale": "zh",
+      "description": "使用交叉点观察器检查一个元素在用户屏幕上是否可见是非常容易的...。",
+      "title": "用React钩子检查一个元素是否可见"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用交叉點觀察器檢查一個元素在用戶屏幕上是否可見是非常容易的...。",
+      "title": "用React鉤子檢查一個元素是否可見"
+    }
+  ]
 }

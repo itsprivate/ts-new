@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これまでに友人から頼まれた最悪の/変な頼み事は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "朋友曾经向你要求的最糟糕/最古怪的帮助是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "朋友曾經向你要求的最糟糕/最古怪的幫助是什麼？"
+    }
+  ]
 }
