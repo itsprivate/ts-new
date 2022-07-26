@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "CNNの独占取材。FBIの調査により、中国製のファーウェイ製機器が米国の核兵器通信を妨害する可能性があると判断された。"
+    },
+    {
+      "locale": "zh",
+      "title": "CNN独家报道。联邦调查局调查确定中国制造的华为设备可能破坏美国核武库的通信"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "CNN獨家報道。聯邦調查局調查確定中國製造的華爲設備可能破壞美國核武庫的通信"
+    }
+  ]
 }

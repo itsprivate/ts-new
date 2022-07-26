@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-26T07:01:00Z"
+  "original_createdAt": "2022-07-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "企業の銀行口座（Brex、Mercury、AmExなど）に接続し、各購入の影響を推定することで、スタートアップ企業の二酸化炭素排出量測定を支援します。さらに、開発者向けのAPIアクセスも可能です。",
+      "tagline": "スタートアップのための1クリック炭素会計"
+    },
+    {
+      "locale": "zh",
+      "description": "我们通过连接你的公司银行账户（Brex、Mercury、AmEx等），帮助初创企业测量他们的碳排放，然后估计每次购买的影响。再加上为开发者提供的API访问。",
+      "tagline": "为初创企业提供一键式碳核算"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們通過連接你的公司銀行賬戶（Brex、Mercury、AmEx等），幫助初創企業測量他們的碳排放，然後估計每次購買的影響。再加上爲開發者提供的API訪問。",
+      "tagline": "爲初創企業提供一鍵式碳覈算"
+    }
+  ]
 }
