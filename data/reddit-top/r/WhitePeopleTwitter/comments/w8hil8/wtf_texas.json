@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんだ、テキサスか。"
+    },
+    {
+      "locale": "zh",
+      "title": "怎么了，德克萨斯？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "怎麼了，德克薩斯？"
+    }
+  ]
 }
