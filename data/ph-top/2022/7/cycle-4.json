@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-26T07:01:00Z"
+  "original_createdAt": "2022-07-26T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Cycleは究極の製品管理ハブです。様々なソースから顧客インサイトを取得し、製品提供ワークフローに接続し、製品イニシアティブでコラボレーションし、リリースごとに顧客とのループを閉じます👉 https://www.cycle.app",
+      "tagline": "製品のフィードバックをお客様の愛に変える"
+    },
+    {
+      "locale": "zh",
+      "description": "Cycle是最终的产品管理中心。从各种来源获取客户洞察力，将其与产品交付工作流程联系起来，在产品计划上进行合作，并在每次发布时与客户进行闭环。👉https://www.cycle.app",
+      "tagline": "将产品反馈转化为客户的爱"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Cycle是最終的產品管理中心。從各種來源獲取客戶洞察力，將其與產品交付工作流程聯繫起來，在產品計劃上進行合作，並在每次發佈時與客戶進行閉環。👉https://www.cycle.app",
+      "tagline": "將產品反饋轉化爲客戶的愛"
+    }
+  ]
 }
