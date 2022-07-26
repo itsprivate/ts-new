@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インセプションのアートはとても良い。こんなにかっこいいものを作るには、それなりの時間がかかったに違いない。"
+    },
+    {
+      "locale": "zh",
+      "title": "盗梦空间》的艺术效果很好，一定是花了很长时间才做了这么酷的东西。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "盜夢空間》的藝術效果很好，一定是花了很長時間才做了這麼酷的東西。"
+    }
+  ]
 }
