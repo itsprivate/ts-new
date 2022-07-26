@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "会話の最後に「よろしくね！」と言われたら、その人に「よろしくね！」と伝えるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当有人在谈话接近尾声时说：\"好的，代我向某某问好！\"你是否真的要把他们的问候转达给那个人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當有人在談話接近尾聲時說：\"好的，代我向某某問好！\"你是否真的要把他們的問候轉達給那個人？"
+    }
+  ]
 }
