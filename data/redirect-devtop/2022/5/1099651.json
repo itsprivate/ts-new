@@ -48,5 +48,22 @@
   "original_created_at": "2022-05-30T08:37:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1bgYbZLW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ih8hagzh6qawif1sz1fz.png",
   "author": "Arman",
-  "author_url": "https://dev.to/armannik"
+  "author_url": "https://dev.to/armannik",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "オープンソースは、私たちがAppwriteで行うすべてのことの❤️であり、私たちはそれを可能にし、育みたいのです...",
+      "title": "Appwriteはオープンソースを愛している。Flow-Launcherをサポートすることにした理由"
+    },
+    {
+      "locale": "zh",
+      "description": "开放源代码是我们在Appwrite所做的一切的❤️，我们希望能够促成和促进...",
+      "title": "Appwrite爱上了开放源代码。为什么我选择支持Flow-Launcher？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "開放源代碼是我們在Appwrite所做的一切的❤️，我們希望能夠促成和促進...",
+      "title": "Appwrite愛上了開放源代碼。爲什麼我選擇支持Flow-Launcher？"
+    }
+  ]
 }
