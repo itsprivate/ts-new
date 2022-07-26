@@ -41,5 +41,19 @@
   "original_created_at": "2022-07-25T06:54:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uetFZlmn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1gnbusja6szfim2epxrh.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Next.jsには、出力バンドルサイズを分析するオプションがあることをご存知でしょうか？ 作成中の..."
+    },
+    {
+      "locale": "zh",
+      "description": "你知道Next.js为我们提供了一个选项，可以分析我们的输出包的大小吗？ 当我们创建我们的..."
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你知道Next.js爲我們提供了一個選項，可以分析我們的輸出包的大小嗎？ 當我們創建我們的..."
+    }
+  ]
 }
