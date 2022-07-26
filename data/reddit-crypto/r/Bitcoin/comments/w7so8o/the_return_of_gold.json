@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "金の復活!"
+    },
+    {
+      "locale": "zh",
+      "title": "黄金的回归!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黃金的迴歸!"
+    }
+  ]
 }

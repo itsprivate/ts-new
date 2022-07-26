@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "弟がボイスメールを残してくれたので、それをアニメ化しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我哥哥给我留了一个语音邮件，说我们有多惨，我把它做成了动画。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我哥哥給我留了一個語音郵件，說我們有多慘，我把它做成了動畫。"
+    }
+  ]
 }
