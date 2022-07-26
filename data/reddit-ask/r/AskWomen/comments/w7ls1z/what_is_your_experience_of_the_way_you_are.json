@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "化粧をしているときと、していないときとでは、どのような扱いを受けるか、あなたの経験を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你对化妆和不化妆时的待遇有什么体会？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對化妝和不化妝時的待遇有什麼體會？"
+    }
+  ]
 }

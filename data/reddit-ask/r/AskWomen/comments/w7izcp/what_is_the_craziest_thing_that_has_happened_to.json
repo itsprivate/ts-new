@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの身に起こった最もクレイジーな出来事で、まったく作り話に聞こえるものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "发生在你身上的最疯狂的事情是什么，而且听起来完全是编造的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "發生在你身上的最瘋狂的事情是什麼，而且聽起來完全是編造的？"
+    }
+  ]
 }
