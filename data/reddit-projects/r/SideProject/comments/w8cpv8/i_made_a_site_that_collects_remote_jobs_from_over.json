@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "11以上のソースからリモートジョブを収集するサイトを作ったので、サイトを切り替える必要がありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，从超过11个来源收集远程工作，这样我就不必从一个网站切换到另一个网站。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，從超過11個來源收集遠程工作，這樣我就不必從一個網站切換到另一個網站。"
+    }
+  ]
 }
