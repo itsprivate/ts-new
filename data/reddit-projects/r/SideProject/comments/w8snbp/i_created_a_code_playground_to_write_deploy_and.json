@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "関数を数秒で書き、配備し、実行するためのコードプレイグラウンドを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个代码游乐场，可以在几秒钟内编写、部署和运行功能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個代碼遊樂場，可以在幾秒鐘內編寫、部署和運行功能。"
+    }
+  ]
 }
