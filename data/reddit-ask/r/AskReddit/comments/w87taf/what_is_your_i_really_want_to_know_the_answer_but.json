@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの「本当は答えを知りたいけど、ググったらリストに載ってしまう」質問は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的 \"我真的很想知道答案，但如果我用谷歌搜索这个问题，我就会被列入名单 \"的问题是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的 \"我真的很想知道答案，但如果我用谷歌搜索這個問題，我就會被列入名單 \"的問題是什麼？"
+    }
+  ]
 }
