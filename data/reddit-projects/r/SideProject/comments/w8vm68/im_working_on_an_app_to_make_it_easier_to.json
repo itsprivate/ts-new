@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の取り分を簡単に計算できるアプリを開発中です。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在开发一个应用程序，使之更容易计算你的账单份额。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在開發一個應用程序，使之更容易計算你的賬單份額。"
+    }
+  ]
 }
