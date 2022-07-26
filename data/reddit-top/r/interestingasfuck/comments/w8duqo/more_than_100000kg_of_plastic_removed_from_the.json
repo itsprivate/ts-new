@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "太平洋ゴミベルト（GPGP）から10万kg以上のプラスチックが除去されました。"
+    },
+    {
+      "locale": "zh",
+      "title": "从大太平洋垃圾场（GPGP）中清除了超过100,000公斤的塑料。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從大太平洋垃圾場（GPGP）中清除了超過100,000公斤的塑料。"
+    }
+  ]
 }
