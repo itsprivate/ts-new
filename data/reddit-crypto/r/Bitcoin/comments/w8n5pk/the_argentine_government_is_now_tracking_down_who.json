@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アルゼンチン政府は今、ビットコインを所有している人を追跡し、ドルの入手を禁止しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "阿根廷政府现在正在追踪谁拥有比特币并禁止他们获得美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿根廷政府現在正在追蹤誰擁有比特幣並禁止他們獲得美元。"
+    }
+  ]
 }
