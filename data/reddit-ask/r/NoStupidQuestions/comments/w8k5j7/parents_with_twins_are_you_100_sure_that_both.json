@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Do you think there was a day when you mixed up their names and it just stuck?"
+  "the_new_excerpt": "Do you think there was a day when you mixed up their names and it just stuck?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "名前をごちゃ混ぜにしたら、そのまま定着してしまった日があったと思いませんか？",
+      "title": "双子を持つ親御さん、2人のお子さんの名前は、最初につけた名前と100％同じでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你认为是否有一天你把他们的名字搞混了，就这样坚持了下来？",
+      "title": "有双胞胎的父母，你是否100%确定两个孩子的名字和他们开始时一样？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你認爲是否有一天你把他們的名字搞混了，就這樣堅持了下來？",
+      "title": "有雙胞胎的父母，你是否100%確定兩個孩子的名字和他們開始時一樣？"
+    }
+  ]
 }
