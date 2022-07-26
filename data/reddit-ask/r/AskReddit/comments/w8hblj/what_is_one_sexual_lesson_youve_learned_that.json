@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが学んだ、誰もが遅かれ早かれ学ぶべき性の教訓は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你学到的一个性教训是什么，每个人都应该尽早学会，而不是晚些时候？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你學到的一個性教訓是什麼，每個人都應該儘早學會，而不是晚些時候？"
+    }
+  ]
 }
