@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "兄弟について、どのようにお考えですか？嫌いですか？好きですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对你的兄弟姐妹有什么看法？你恨他们吗？喜欢他们吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對你的兄弟姐妹有什麼看法？你恨他們嗎？喜歡他們嗎？"
+    }
+  ]
 }
