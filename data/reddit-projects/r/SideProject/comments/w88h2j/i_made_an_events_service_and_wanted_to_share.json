@@ -53,5 +53,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Think EventBridge without max number of rulesets, Event Grid or Eventarc but you\ncan integrate with anyone, or SQS without limiting DelaySeconds on events.\n[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]\n\nI made a service to make…"
+  "the_new_excerpt": "Think EventBridge without max number of rulesets, Event Grid or Eventarc but you\ncan integrate with anyone, or SQS without limiting DelaySeconds on events.\n[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]\n\nI made a service to make…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "最大ルールセット数のないEventBridge、Event Grid、Eventarcを考えてみてください。\nイベントグリッド、イベントアーク、SQSを考えてみてください。\n[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]\n\nこのようなサービスを作ってみました。",
+      "title": "イベントサービスを作ったので、共有したい"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "想想看，EventBridge没有最大数量的规则集，Event Grid或Eventarc，但你可以与任何人集成。\n或SQS，但不限制事件的延迟秒数。\n[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]\n\n我做了一个服务，使...",
+      "title": "我做了一个活动服务，想分享一下"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "想想看，EventBridge沒有最大數量的規則集，Event Grid或Eventarc，但你可以與任何人集成。\n或SQS，但不限制事件的延遲秒數。\n[https://preview.redd.it/zkip052zvtd91.png?width=756&format=png&auto=webp&s=5a41aad779dc88fb2f9e92c088f241148025410d]\n\n我做了一個服務，使...",
+      "title": "我做了一個活動服務，想分享一下"
+    }
+  ]
 }
