@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-25T13:16:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2Qson0Wh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://rogovoy.me/articles/i-quit-my-business-to-start-dev-tool/meta.jpg",
   "author": "Kirill Rogovoy",
-  "author_url": "https://dev.to/kirillrogovoy"
+  "author_url": "https://dev.to/kirillrogovoy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、私がウェブ開発の仕事を辞め、最初のSaaSを立ち上げ、貯金をすべて使い果たし、本当にやりたいことを見つけるまでの物語です。",
+      "title": "会社を辞めて、オープンソースの開発ツールを立ち上げました"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个关于我辞去网络开发的工作，开始我的第一个SaaS，烧掉我所有的储蓄，并找到我真正想做的事情的故事。",
+      "title": "我辞去工作，创办一个开源的开发工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個關於我辭去網絡開發的工作，開始我的第一個SaaS，燒掉我所有的儲蓄，並找到我真正想做的事情的故事。",
+      "title": "我辭去工作，創辦一個開源的開發工具"
+    }
+  ]
 }
