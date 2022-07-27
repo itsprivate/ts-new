@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "reactで位置と向きを自動調整するドラッグ可能なスマートメニューを作ってみた。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在react中做了一个可拖动的智能菜单，可以自动调整其位置&amp; 方向"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在react中做了一個可拖動的智能菜單，可以自動調整其位置&amp; 方向"
+    }
+  ]
 }
