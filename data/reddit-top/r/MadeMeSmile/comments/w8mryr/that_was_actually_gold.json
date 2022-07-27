@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "実はこれ、ゴールドだったんです"
+    },
+    {
+      "locale": "zh",
+      "title": "这实际上是黄金"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這實際上是黃金"
+    }
+  ]
 }
