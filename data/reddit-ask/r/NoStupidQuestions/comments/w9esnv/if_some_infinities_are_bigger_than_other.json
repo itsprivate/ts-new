@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ある無限大が他の無限大より大きい場合、あるゼロは他のゼロより小さいということでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果一些无穷大比其他无穷大，是否意味着一些零比其他零小。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果一些無窮大比其他無窮大，是否意味着一些零比其他零小。"
+    }
+  ]
 }
