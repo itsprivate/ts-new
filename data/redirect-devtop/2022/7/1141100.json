@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-15T07:12:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dEQWN1fg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwvgbfkcj86rod7lfkxv.png",
   "author": "Jakub Andrzejewski",
-  "author_url": "https://dev.to/jacobandrewsky"
+  "author_url": "https://dev.to/jacobandrewsky",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私にとって、ドキュメントを書くことは、ほとんど原点に戻るようなものです。もしあなたが、あるビデオを再生したことがあるなら...",
+      "title": "なぜ開発者にとって良い文書が重要なのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "对我来说，写文档几乎就像回到了根上。如果你玩过一些视频...",
+      "title": "为什么好的文档对开发者很重要？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對我來說，寫文檔幾乎就像回到了根上。如果你玩過一些視頻...",
+      "title": "爲什麼好的文檔對開發者很重要？"
+    }
+  ]
 }

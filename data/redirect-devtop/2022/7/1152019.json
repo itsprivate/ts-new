@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-26T15:50:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HI7W8lLq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0c3qnqr2t8slgkmcbio2.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今月は、GitHub Copilotでツイートを送信する方法を学びました。とてもクールでした! と期待しています...",
+      "title": "GitHub Copilotでツイートを送信する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "这个月，我学会了如何用GitHub Copilot发送一条推文。这真是太酷了! 我期待着...",
+      "title": "如何用GitHub Copilot发送Twitter"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這個月，我學會了如何用GitHub Copilot發送一條推文。這真是太酷了! 我期待着...",
+      "title": "如何用GitHub Copilot發送Twitter"
+    }
+  ]
 }
