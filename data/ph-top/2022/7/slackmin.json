@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-27T07:09:41Z"
+  "original_createdAt": "2022-07-27T07:09:41Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Slackminを使えば、チーム全員がSlackの中で簡単に管理機能を使うことができます。ウェブサイトのコンテンツ更新、顧客からのクレーム、注文履歴の確認、払い戻しなど、Slackminを使えば様々なことが可能になります。",
+      "tagline": "ビジネスオペレーションのためのSlackのスーパーパワー"
+    },
+    {
+      "locale": "zh",
+      "description": "Slackmin使你的整个团队能够在Slack中轻松地执行强大的管理功能 使用Slackmin来更新你的网站内容，检查客户投诉，订单历史，发布退款，以及更多。",
+      "tagline": "业务运营的Slack超能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Slackmin使你的整個團隊能夠在Slack中輕鬆地執行強大的管理功能 使用Slackmin來更新你的網站內容，檢查客戶投訴，訂單歷史，發佈退款，以及更多。",
+      "tagline": "業務運營的Slack超能力"
+    }
+  ]
 }
