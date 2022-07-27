@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"全世界がビットコインを使うようになる。ただの数学です\""
+    },
+    {
+      "locale": "zh",
+      "title": "\"整个世界都将使用比特币。这只是数学而已。\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"整個世界都將使用比特幣。這只是數學而已。\""
+    }
+  ]
 }
