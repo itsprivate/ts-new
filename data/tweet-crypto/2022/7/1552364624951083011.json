@@ -52,5 +52,22 @@
     },
     "retweet_count": 174,
     "favorite_count": 1133
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DeItaone: パウエル：金利がより制限的になるにつれて、引き上げペースを遅くするのが適切であろう。",
+      "retweeted_status_full_text": "パウエル：金利がより制限的になるにつれて、引き上げペースを遅くすることが適切となる可能性が高い。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DeItaone: 美联储的鲍威尔：随着利率变得更加严格，放慢增加的步伐可能是适当的。",
+      "retweeted_status_full_text": "美联储鲍威尔：随着利率变得更加严格，放慢加息步伐可能是合适的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DeItaone: 美聯儲的鮑威爾：隨着利率變得更加嚴格，放慢增加的步伐可能是適當的。",
+      "retweeted_status_full_text": "美聯儲鮑威爾：隨着利率變得更加嚴格，放慢加息步伐可能是合適的。"
+    }
+  ]
 }
