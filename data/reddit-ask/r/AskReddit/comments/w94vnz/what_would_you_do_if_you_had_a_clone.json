@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしクローンがいたらどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有一个克隆人，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有一個克隆人，你會怎麼做？"
+    }
+  ]
 }

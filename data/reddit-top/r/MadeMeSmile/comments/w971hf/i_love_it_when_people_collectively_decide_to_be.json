@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、人々が集団で愚かであることを決定するのが好きです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢人们集体决定犯傻的时候"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡人們集體決定犯傻的時候"
+    }
+  ]
 }
