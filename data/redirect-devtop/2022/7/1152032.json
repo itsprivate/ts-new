@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-26T16:19:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--octXqS99--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ynyn3v04ikn2c6cwt9g.png",
   "author": "Hung Vu",
-  "author_url": "https://dev.to/hunghvu"
+  "author_url": "https://dev.to/hunghvu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これから導入するヘッドレスコンテンツマネジメントシステム（ヘッドレスCMS）を12社ほど検討した結果、...",
+      "title": "オープンソースのヘッドレスCMSレビュー 🍂。Strapi、Directus、Payloadの3つ。"
+    },
+    {
+      "locale": "zh",
+      "description": "在为我即将推出的无头内容管理系统(headless CMSs)看了十几家之后，我发现它是一个非常好的选择。",
+      "title": "🍂开源的无头CMS回顾。Strapi, Directus, and Payload"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在爲我即將推出的無頭內容管理系統(headless CMSs)看了十幾家之後，我發現它是一個非常好的選擇。",
+      "title": "🍂開源的無頭CMS回顧。Strapi, Directus, and Payload"
+    }
+  ]
 }
