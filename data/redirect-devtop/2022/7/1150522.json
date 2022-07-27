@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-25T00:46:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2zCIn2qb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xp2d7w2j0azlsr9254r2.jpg",
   "author": "Dennis Ivy",
-  "author_url": "https://dev.to/dennisivy11"
+  "author_url": "https://dev.to/dennisivy11",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このチュートリアルでは、関数ベースビュー（FBV）で構築されたシンプルなノートアプリを使用して、...",
+      "title": "Django の関数ベースのビューをクラスベースのビューに簡単に変換できます。"
+    },
+    {
+      "locale": "zh",
+      "description": "在本教程中，我将使用基于函数的视图（FBV）构建一个简单的笔记应用程序，并将其转换为基于函数的视图。",
+      "title": "轻松地将Django基于函数的视图转换为基于类的视图"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在本教程中，我將使用基於函數的視圖（FBV）構建一個簡單的筆記應用程序，並將其轉換爲基於函數的視圖。",
+      "title": "輕鬆地將Django基於函數的視圖轉換爲基於類的視圖"
+    }
+  ]
 }

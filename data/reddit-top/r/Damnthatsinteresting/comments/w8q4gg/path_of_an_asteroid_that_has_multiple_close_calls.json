@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球に何度も接近する小惑星の経路"
+    },
+    {
+      "locale": "zh",
+      "title": "与地球有多次亲密接触的小行星的路径"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與地球有多次親密接觸的小行星的路徑"
+    }
+  ]
 }
