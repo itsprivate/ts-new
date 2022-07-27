@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-27T10:43:56Z",
   "image": "https://dev.to/social_previews/article/1152671.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Javascript ライブラリ Particles.js - 美しいフローティングパーティクルを作成するためのライブラリ...",
+      "title": "開発のスピードアップに役立つツールやライブラリ、開発者向けリソースなど"
+    },
+    {
+      "locale": "zh",
+      "description": "Javascript库 Particles.js - 一个用于创建美丽的浮动粒子的库。",
+      "title": "为开发者提供有用的工具、库和资源以加快开发速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Javascript庫 Particles.js - 一個用於創建美麗的浮動粒子的庫。",
+      "title": "爲開發者提供有用的工具、庫和資源以加快開發速度"
+    }
+  ]
 }
