@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "子供が言い争いをしたとき"
+    },
+    {
+      "locale": "zh",
+      "title": "当孩子们发生争执时"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當孩子們發生爭執時"
+    }
+  ]
 }
