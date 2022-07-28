@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、恐怖心がなく、失敗が許されないとしたら、あなたはどうしますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果恐惧不是一个因素，你不会失败，你会怎么做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果恐懼不是一個因素，你不會失敗，你會怎麼做？"
+    }
+  ]
 }

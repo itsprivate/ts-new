@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが18歳以上のテーマパークを所有するとしたら、どんなアトラクションを設置しますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你拥有一个18岁以上的主题公园，你会在里面放什么景点？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你擁有一個18歲以上的主題公園，你會在裏面放什麼景點？"
+    }
+  ]
 }

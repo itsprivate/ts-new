@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Boneless wings are better then bone wings"
+  "the_new_excerpt": "Boneless wings are better then bone wings",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "骨なし手羽先は骨付き手羽先より美味しいです。",
+      "title": "レストランで骨なし手羽先を注文したとき、なぜか皆に見られてしまった。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "无骨鸡翅比有骨鸡翅好",
+      "title": "为什么我在餐馆点了无骨鸡翅后，所有人都看着我？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "無骨雞翅比有骨雞翅好",
+      "title": "爲什麼我在餐館點了無骨雞翅後，所有人都看着我？"
+    }
+  ]
 }
