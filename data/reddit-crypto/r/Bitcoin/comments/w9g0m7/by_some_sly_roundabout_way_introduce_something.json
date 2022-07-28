@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "止められないものを、遠回しに紹介する。"
+    },
+    {
+      "locale": "zh",
+      "title": "通过一些狡猾的迂回方式引入他们无法阻止的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "通過一些狡猾的迂迴方式引入他們無法阻止的東西"
+    }
+  ]
 }

@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコイン嫌いの人が、政府が銃を使って強制的に使えるから不換紙幣の方がいいと主張する。"
+    },
+    {
+      "locale": "zh",
+      "title": "讨厌比特币的人认为法币更好，因为政府可以用枪逼迫你使用它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "討厭比特幣的人認爲法幣更好，因爲政府可以用槍逼迫你使用它"
+    }
+  ]
 }
