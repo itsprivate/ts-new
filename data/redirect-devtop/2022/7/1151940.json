@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-26T14:30:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hM7wQS97--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ngjl8r60wvh0zkfze3nq.png",
   "author": "Anna Baker",
-  "author_url": "https://dev.to/annabaker"
+  "author_url": "https://dev.to/annabaker",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私がTypeScriptで最も気に入っていることのひとつは、それがJavaScriptのスーパーセットであることです。これは...",
+      "title": "私がTypescriptを学ぶ理由"
+    },
+    {
+      "locale": "zh",
+      "description": "我最喜欢TypeScript的一点是，它是JavaScript的一个超集。这...",
+      "title": "我为什么要学习Typescript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最喜歡TypeScript的一點是，它是JavaScript的一個超集。這...",
+      "title": "我爲什麼要學習Typescript"
+    }
+  ]
 }
