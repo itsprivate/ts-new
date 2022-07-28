@@ -116,5 +116,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1659011900,
-  "the_new_excerpt": "The U.S. economy shrank at a 0.9% annual rate last quarter (Q2). That marks a\nsecond straight quarterly decline in GDP - a common definition of recession.\n\nSource: https://www.bea.gov/data/gdp/gross-domestic-product"
+  "the_new_excerpt": "The U.S. economy shrank at a 0.9% annual rate last quarter (Q2). That marks a\nsecond straight quarterly decline in GDP - a common definition of recession.\n\nSource: https://www.bea.gov/data/gdp/gross-domestic-product",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "米国経済は、前期（第2四半期）に年率0.9%の縮小を記録しました。これは、2四半期連続でGDPが減少したことを意味します。\nこれは2四半期連続でGDPが減少したことを意味し、一般的な景気後退の定義とされています。\n\n出所： https://www.bea.gov/data/gdp/gross-domestic-product",
+      "title": "第2四半期のGDPは-0.9%の減少となった。これは2四半期連続のマイナスで、景気後退を示唆しています。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "美国经济在上个季度（第二季度）以0.9%的年率缩减。这标志着\n这标志着国内生产总值连续第二个季度下降--这是经济衰退的一个常见定义。\n\n资料来源：https://www.bea.gov/data/gdp/gross-domestic-product",
+      "title": "第二季度GDP下降率为-0.9%。这标志着连续第二个季度的季度下降表明经济衰退。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "美國經濟在上個季度（第二季度）以0.9%的年率縮減。這標誌着\n這標誌着國內生產總值連續第二個季度下降--這是經濟衰退的一個常見定義。\n\n資料來源：https://www.bea.gov/data/gdp/gross-domestic-product",
+      "title": "第二季度GDP下降率爲-0.9%。這標誌着連續第二個季度的季度下降表明經濟衰退。"
+    }
+  ]
 }
