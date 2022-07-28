@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今までで一番暗かったことで、後悔していないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你做过的最黑暗的事情是什么，而且不后悔？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你做過的最黑暗的事情是什麼，而且不後悔？"
+    }
+  ]
 }
