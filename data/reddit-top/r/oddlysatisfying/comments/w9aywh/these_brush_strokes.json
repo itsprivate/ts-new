@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これらの筆跡は"
+    },
+    {
+      "locale": "zh",
+      "title": "这些笔触"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些筆觸"
+    }
+  ]
 }
