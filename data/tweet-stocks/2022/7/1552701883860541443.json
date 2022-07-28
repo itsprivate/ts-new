@@ -134,5 +134,22 @@
     "retweet_count": 560,
     "favorite_count": 2282,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @zerohedge: *バイデンは、台湾の独立を支持しないと習近平に言った。GLOBAL TIMES https://t.co/R0KFkFcjSu",
+      "retweeted_status_full_text": "*バイデンは台湾の独立を支持しないと習近平に言った。GLOBAL TIMES https://t.co/R0KFkFcjSu"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @zerohedge: *拜登告诉习近平我们不支持台湾独立。全球时报》https://t.co/R0KFkFcjSu",
+      "retweeted_status_full_text": "*拜登告诉习近平，美国不支持台湾独立。环球时报》 https://t.co/R0KFkFcjSu"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @zerohedge: *拜登告訴習近平我們不支持臺灣獨立。全球時報》https://t.co/R0KFkFcjSu",
+      "retweeted_status_full_text": "*拜登告訴習近平，美國不支持臺灣獨立。環球時報》 https://t.co/R0KFkFcjSu"
+    }
+  ]
 }
