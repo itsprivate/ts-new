@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-27T07:01:47Z"
+  "original_createdAt": "2022-07-27T07:01:47Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Movicornは、アプリケーションを他のクラウドプロバイダーからAWSに簡単に移行させることができます。お客様のコードを分析し、それに適したインフラを自動で構成します。GithubとAWSのアカウントを接続するだけで、あとはMovicornがやってくれます。",
+      "tagline": "ワンクリックでAWSに移行"
+    },
+    {
+      "locale": "zh",
+      "description": "Movicorn使你可以很容易地将你的应用程序从任何其他云供应商转移到AWS。它自动分析你的代码并为其配置合适的基础设施。你所需要做的就是连接你的Github和AWS账户，剩下的就交给Movicorn了。",
+      "tagline": "一键迁移到AWS"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Movicorn使你可以很容易地將你的應用程序從任何其他雲供應商轉移到AWS。它自動分析你的代碼併爲其配置合適的基礎設施。你所需要做的就是連接你的Github和AWS賬戶，剩下的就交給Movicorn了。",
+      "tagline": "一鍵遷移到AWS"
+    }
+  ]
 }
