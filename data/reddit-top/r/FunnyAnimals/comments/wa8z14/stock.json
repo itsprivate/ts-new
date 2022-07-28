@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "在庫"
+    },
+    {
+      "locale": "zh",
+      "title": "股票"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "股票"
+    }
+  ]
 }

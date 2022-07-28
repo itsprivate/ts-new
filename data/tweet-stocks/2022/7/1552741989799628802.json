@@ -52,5 +52,22 @@
     },
     "retweet_count": 1843,
     "favorite_count": 13523
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @dougboneparth: 不景気だが、強気相場と認定する。",
+      "retweeted_status_full_text": "不景気だが、強気相場と認識する。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @dougboneparth: 经济衰退，但它被认定为是一个牛市。",
+      "retweeted_status_full_text": "衰退，但它认定是一个牛市。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @dougboneparth: 經濟衰退，但它被認定爲是一個牛市。",
+      "retweeted_status_full_text": "衰退，但它認定是一個牛市。"
+    }
+  ]
 }
