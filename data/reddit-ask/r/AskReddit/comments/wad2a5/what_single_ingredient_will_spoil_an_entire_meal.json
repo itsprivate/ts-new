@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "たったひとつの食材が含まれているだけで、その料理が台無しになってしまうようなものは？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果包含哪种单一的成分会破坏你的整顿饭？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果包含哪種單一的成分會破壞你的整頓飯？"
+    }
+  ]
 }
