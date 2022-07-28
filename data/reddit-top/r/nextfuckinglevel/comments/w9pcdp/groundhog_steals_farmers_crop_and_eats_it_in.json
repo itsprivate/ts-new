@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グラウンドホッグが農家の作物を盗み、防犯カメラの前で食べてしまう。"
+    },
+    {
+      "locale": "zh",
+      "title": "土拨鼠偷了农民的庄稼，并在他的监控摄像头前吃了它"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "土撥鼠偷了農民的莊稼，並在他的監控攝像頭前吃了它"
+    }
+  ]
 }
