@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この写真に写っているのは私ですが、私は好きではありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "我在这张照片里，我不喜欢它。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在這張照片裏，我不喜歡它。"
+    }
+  ]
 }
