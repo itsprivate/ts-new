@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "売った後、私はこの🤔を受け取ります。"
+    },
+    {
+      "locale": "zh",
+      "title": "卖出后，我收到这个🤔。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "賣出後，我收到這個🤔。"
+    }
+  ]
 }
