@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-28T12:35:41Z"
+  "original_createdAt": "2022-07-28T12:35:41Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "チケットを管理する。WordPressのダッシュボードから直接チケットを作成できます。サードパーティのウェブサイトや余分なチケット処理手数料は必要ありません。Stripeを使えば、他のイベントページも必要ありません。",
+      "tagline": "WordPressサイトでのチケット販売を強化"
+    },
+    {
+      "locale": "zh",
+      "description": "掌控你的门票。从你的WordPress仪表板上直接创建门票--没有第三方网站，没有额外的门票处理费。使用Stripe，不需要其他活动页面。",
+      "tagline": "为你的WordPress网站的票务销售增光添彩"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "掌控你的門票。從你的WordPress儀表板上直接創建門票--沒有第三方網站，沒有額外的門票處理費。使用Stripe，不需要其他活動頁面。",
+      "tagline": "爲你的WordPress網站的票務銷售增光添彩"
+    }
+  ]
 }
