@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "6ビットコインを所有することは、今とても困難です。買えるだけ買うか、後悔するか。"
+    },
+    {
+      "locale": "zh",
+      "title": "现在拥有6个比特币是很难的。但我们都没有迟到。能买多少就买多少，否则就会后悔。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "現在擁有6個比特幣是很難的。但我們都沒有遲到。能買多少就買多少，否則就會後悔。"
+    }
+  ]
 }
