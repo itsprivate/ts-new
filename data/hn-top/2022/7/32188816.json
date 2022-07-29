@@ -3,7 +3,7 @@
   "title": "Arbitrary file execution in TZinfo (Ruby)",
   "url": "https://github.com/tzinfo/tzinfo/security/advisories/GHSA-5cm2-9h8c-rvfx",
   "author": "Ichaelus",
-  "points": 100,
+  "points": 106,
   "num_comments": 23,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "TZinfo中的任意文件執行（Ruby）。"
     }
-  ]
+  ],
+  "source_updated_at": 1659087952279
 }
