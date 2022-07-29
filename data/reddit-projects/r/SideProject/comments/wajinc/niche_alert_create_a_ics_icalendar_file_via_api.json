@@ -1,0 +1,62 @@
+{
+  "author": "thekenturner",
+  "original_created_utc": 1659038068,
+  "title": "Niche alert: Create a .ics (iCalendar) file via API",
+  "created_utc": 1659094934,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone! &lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m a small business automation expert and I&amp;#39;ve been helping companies set up automation and tools via API for the past few years. I needed a tool for one client and couldn&amp;#39;t find anything so I built it, cleaned it up, and now host it on RapidAPI as well -- a true side-project! &lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Check it out:&lt;/strong&gt; &lt;a href=\"https://easyics.com\"&gt;easyics.com&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;In short, it&amp;#39;s got a pretty simple JSON input allowing for time, location, guests, description, etc. Fill out the fields and then you can download/send the returned file to your client or user. &lt;/p&gt;\n\n&lt;p&gt;Working elements: &lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Title&lt;/li&gt;\n&lt;li&gt;Start time&lt;/li&gt;\n&lt;li&gt;End time&lt;/li&gt;\n&lt;li&gt;Description&lt;/li&gt;\n&lt;li&gt;URL&lt;/li&gt;\n&lt;li&gt;Location&lt;/li&gt;\n&lt;li&gt;Organizer&lt;/li&gt;\n&lt;li&gt;Guests&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Coming soon (if anyone uses this)&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Time-zone support&lt;/li&gt;\n&lt;li&gt;All-day events&lt;/li&gt;\n&lt;li&gt;Languages&lt;/li&gt;\n&lt;li&gt;Make/Zapier Integration&lt;/li&gt;\n&lt;li&gt;Other &lt;a href=\"https://icalendar.org/\"&gt;supported&lt;/a&gt; features&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Most standard use case would be sending these files to customers for an event or appointment without having to send a calendar invite. If you have a concert with 500 people, you don&amp;#39;t want 500 separate calendar invites in your own calendar. &lt;/p&gt;\n\n&lt;p&gt;Let me know if you have any questions! 🙂&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?auto=webp&amp;s=325649ebf1be6c03b14aae35c142401c040a4791",
+          "width": 2000,
+          "height": 2968
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2c16f5d3ccaf096d4b2d19c93982411003b53b97",
+            "width": 108,
+            "height": 160
+          },
+          {
+            "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=92509803514fa3d6e3dc8043a82a3cfa6728cfd8",
+            "width": 216,
+            "height": 320
+          },
+          {
+            "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0d1e311b8913c04e58a64a0dce2008d64b42e802",
+            "width": 320,
+            "height": 474
+          },
+          {
+            "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8225362fff059ec199ca9f8c08d4a501caf9eb2",
+            "width": 640,
+            "height": 949
+          },
+          {
+            "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=811ec78459b1187aa4cd01570f5b11eab954c673",
+            "width": 960,
+            "height": 1424
+          },
+          {
+            "url": "https://external-preview.redd.it/I7QRmCZADP_z5Nls2wX3BcM7qKsTgkGo_H2TqE6zmZU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=e68c079437f191988af4da9e1998ed60ab93efe1",
+            "width": 1080,
+            "height": 1602
+          }
+        ],
+        "variants": {},
+        "id": "UxcpJ0m5mvfWeJpWnf1QSkkvB5m5XzeVopaZ50VD48c"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/wajinc/niche_alert_create_a_ics_icalendar_file_via_api/",
+  "subreddit": "SideProject",
+  "id": "wajinc",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Hey everyone!\n\nI'm a small business automation expert and I've been helping companies set up\nautomation and tools via API for the past few years. I needed a tool for one\nclient and couldn't find anything so I built it, cleaned it up, and now host it\non RapidAPI as well -- a true side…"
+}
