@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-24T12:26:17Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bdIWo_BT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1t9e92q4ekhosxzjjce.png",
   "author": "Kolapo Damola Usman ",
-  "author_url": "https://dev.to/damkols"
+  "author_url": "https://dev.to/damkols",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドのプロジェクトにおいてルーティングは重要であり、以前のバージョンのReact Routerはその役割を担っていました...",
+      "title": "ReactアプリをReact Router v6に移行する"
+    },
+    {
+      "locale": "zh",
+      "description": "路由在任何前端项目中都很重要，React Router的前几个版本发挥了它们的作用。",
+      "title": "将你的React应用迁移到React Router v6上"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "路由在任何前端項目中都很重要，React Router的前幾個版本發揮了它們的作用。",
+      "title": "將你的React應用遷移到React Router v6上"
+    }
+  ]
 }
