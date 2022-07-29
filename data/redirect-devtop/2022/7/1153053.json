@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-27T18:14:15Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BFu7OTDa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mrguz89b6gaczh2vxvsc.jpg",
   "author": "Santosh Yadav",
-  "author_url": "https://dev.to/santoshyadav198613"
+  "author_url": "https://dev.to/santoshyadav198613",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Photo by Nick Morrison on Unsplash 私は長い間、コミュニティのためのAngularコースを計画していました...。",
+      "title": "Angular入門のマイコース"
+    },
+    {
+      "locale": "zh",
+      "description": "照片：Nick Morrison on Unsplash 我计划为社区开设Angular课程已经很久了。",
+      "title": "我的Angular入门课程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "照片：Nick Morrison on Unsplash 我計劃爲社區開設Angular課程已經很久了。",
+      "title": "我的Angular入門課程"
+    }
+  ]
 }
