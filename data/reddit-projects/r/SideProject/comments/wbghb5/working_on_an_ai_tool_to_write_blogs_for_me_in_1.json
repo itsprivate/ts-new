@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "1クリックでブログを書いてくれるAIツールに取り組んでいます。完璧ではないが、時間の節約になる。"
+    },
+    {
+      "locale": "zh",
+      "title": "正在开发一个人工智能工具，一键为我写博客。不是很完美，但可以节省时间。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "正在開發一個人工智能工具，一鍵爲我寫博客。不是很完美，但可以節省時間。"
+    }
+  ]
 }
