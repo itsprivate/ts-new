@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "BTCがまだ9000を超えていることをお知らせします。"
+    },
+    {
+      "locale": "zh",
+      "title": "只是想让你们知道BTC仍然在9000以上"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只是想讓你們知道BTC仍然在9000以上"
+    }
+  ]
 }
