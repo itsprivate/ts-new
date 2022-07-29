@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "help\n\nedit: ive done the deed i will now go home early"
+  "the_new_excerpt": "help\n\nedit: ive done the deed i will now go home early",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ヘルプ\n\nEdit: 行動を起こしたので、早く家に帰ります。",
+      "title": "上司に爆発的な下痢をしたため、家に帰りたいのですが、どのように伝えればよいですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "帮助\n\n编辑：我已经完成了任务，现在要提前回家了。",
+      "title": "我如何告诉我的老板我需要回家，因为我有爆炸性腹泻？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "幫助\n\n編輯：我已經完成了任務，現在要提前回家了。",
+      "title": "我如何告訴我的老闆我需要回家，因爲我有爆炸性腹瀉？"
+    }
+  ]
 }
