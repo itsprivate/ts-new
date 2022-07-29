@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-29T07:27:06Z"
+  "original_createdAt": "2022-07-29T07:27:06Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "devrelとは何か、devrelを使った仕事を得るにはどうしたらよいか、devrelの3つのタイプ、devrelのリソースとアドバイスなど、開発者支援のためのリソースです。",
+      "tagline": "開発者リレーションを始めるためのリソース"
+    },
+    {
+      "locale": "zh",
+      "description": "一个关于开发者宣传的资源，包括什么是devrel，如何获得一份工作，三种devrel，以及devrel资源和建议。",
+      "tagline": "开发商关系入门的资源"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個關於開發者宣傳的資源，包括什麼是devrel，如何獲得一份工作，三種devrel，以及devrel資源和建議。",
+      "tagline": "開發商關係入門的資源"
+    }
+  ]
 }
