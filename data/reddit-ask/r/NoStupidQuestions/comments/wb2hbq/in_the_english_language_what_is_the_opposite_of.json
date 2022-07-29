@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Not a native speaker.\n\nI know that yes is the opposite of no.\n\nBut I can't find a translation for the opposite of not.\n\n\"I do not eat veggies, but I do ___ eat meat.\"\n\n\"This is not possible. But that is ___ possible.\"\n\n\"A: You are tall. B: No, I am not.\" -> \"A: You aren't tall. B: ___.\""
+  "the_new_excerpt": "Not a native speaker.\n\nI know that yes is the opposite of no.\n\nBut I can't find a translation for the opposite of not.\n\n\"I do not eat veggies, but I do ___ eat meat.\"\n\n\"This is not possible. But that is ___ possible.\"\n\n\"A: You are tall. B: No, I am not.\" -> \"A: You aren't tall. B: ___.\"",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ネイティブスピーカーではありません。\n\nyesがnoの反対語であることは知っています。\n\nでも、notの反対語の訳が見つからないんです。\n\n\"私は野菜を食べませんが、肉は○○します。\"\n\n\"これは不可能です。でも、それは＿＿可能です。\"\n\n\"A:あなたは背が高いですね。B：いいえ、そうではありません。\" → \"A:あなたは背が高くない。B: ___.\"",
+      "title": "英語では、「not」の反対語は何でしょう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "不是母语者。\n\n我知道yes是no的反义词。\n\n但我找不到 \"不 \"的反义词的翻译。\n\n\"我不吃蔬菜，但我_____吃肉。\"\n\n\"这是不可能的。但这是_____可能的。\"\n\n\"A：你很高。乙：不，我不是。\" -> \"A：你不高。B: ___.\"",
+      "title": "在英语中，\"不 \"的反义词是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "不是母語者。\n\n我知道yes是no的反義詞。\n\n但我找不到 \"不 \"的反義詞的翻譯。\n\n\"我不喫蔬菜，但我_____喫肉。\"\n\n\"這是不可能的。但這是_____可能的。\"\n\n\"A：你很高。乙：不，我不是。\" -> \"A：你不高。B: ___.\"",
+      "title": "在英語中，\"不 \"的反義詞是什麼？"
+    }
+  ]
 }
