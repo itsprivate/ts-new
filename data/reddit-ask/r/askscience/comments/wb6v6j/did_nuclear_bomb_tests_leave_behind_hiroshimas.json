@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "核実験が残したものは、ヒロシマ・ナガサキから人的被害を除いたものだったのか？実験場は居住可能か？"
+    },
+    {
+      "locale": "zh",
+      "title": "核弹试验是否留下了广岛和长崎的痕迹，但没有造成人员伤亡？试验场地是否适合居住？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "核彈試驗是否留下了廣島和長崎的痕跡，但沒有造成人員傷亡？試驗場地是否適合居住？"
+    }
+  ]
 }
