@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-27T01:23:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---J_GoaL6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dloc9qe0z0nbrt0v3vi5.png",
   "author": "Richard Rembert",
-  "author_url": "https://dev.to/rembertdesigns"
+  "author_url": "https://dev.to/rembertdesigns",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "メディアクエリとは、レスポンシブなページを作成する際に利用できるCSSのテクニックです。 使用するのは...",
+      "title": "CSSメディアクエリチュートリアル"
+    },
+    {
+      "locale": "zh",
+      "description": "媒体查询是一种CSS技术，我们可以在使我们的网页具有响应性时加以利用。 我们使用...",
+      "title": "CSS媒体查询教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "媒體查詢是一種CSS技術，我們可以在使我們的網頁具有響應性時加以利用。 我們使用...",
+      "title": "CSS媒體查詢教程"
+    }
+  ]
 }
