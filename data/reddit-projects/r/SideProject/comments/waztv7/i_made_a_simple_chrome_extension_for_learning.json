@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Youtubeの動画にループを作って曲を早く覚えるための簡単なchrome拡張機能を作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个简单的chrome扩展，通过在Youtube视频上创建循环来快速学习歌曲"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個簡單的chrome擴展，通過在Youtube視頻上創建循環來快速學習歌曲"
+    }
+  ]
 }
