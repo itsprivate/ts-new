@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最高の気分。"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最伟大的感觉。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最偉大的感覺。"
+    }
+  ]
 }
