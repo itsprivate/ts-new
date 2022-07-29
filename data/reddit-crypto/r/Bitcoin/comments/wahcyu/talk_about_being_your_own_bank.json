@@ -48,5 +48,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Wowwww"
+  "the_new_excerpt": "Wowwww",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ワオワオ",
+      "title": "自分の銀行であることを語る! 😂"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "哇哦",
+      "title": "谈谈做自己的银行！! 😂"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "哇哦",
+      "title": "談談做自己的銀行！! 😂"
+    }
+  ]
 }
