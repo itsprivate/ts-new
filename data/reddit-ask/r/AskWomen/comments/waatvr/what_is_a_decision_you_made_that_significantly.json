@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの人生の軌道を大きく変えた決断は何ですか？もしその選択をしていなかったら、あなたはどうなっていたのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你所做的一个大大改变了你生活轨迹的决定是什么，如果你没有做出这个选择，你会在哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你所做的一個大大改變了你生活軌跡的決定是什麼，如果你沒有做出這個選擇，你會在哪裏？"
+    }
+  ]
 }
