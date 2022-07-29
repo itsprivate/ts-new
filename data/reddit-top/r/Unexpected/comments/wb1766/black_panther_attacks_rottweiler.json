@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "黒豹がロットワイラーを襲う。"
+    },
+    {
+      "locale": "zh",
+      "title": "黑豹袭击罗威纳犬。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "黑豹襲擊羅威納犬。"
+    }
+  ]
 }
