@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストレートキーで高速にモールス信号で通信するベテラン選手"
+    },
+    {
+      "locale": "zh",
+      "title": "退伍军人在直键上用摩尔斯电码进行高速通信"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "退伍軍人在直鍵上用摩爾斯電碼進行高速通信"
+    }
+  ]
 }
