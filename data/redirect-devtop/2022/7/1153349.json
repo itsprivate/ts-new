@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-28T04:42:19Z",
   "image": "https://dev.to/social_previews/article/1153349.png",
   "author": "simc dev",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "21世紀、プログラミングはどこにでもある。プログラミング言語に熱中する人もいれば......。",
+      "title": "プログラマーのためのコーディングスキルを高速化する7つのデイリーハック"
+    },
+    {
+      "locale": "zh",
+      "description": "在21世纪，编程无处不在。有些人热衷于编程语言....。",
+      "title": "程序员的7个日常黑客，让编码技能更快。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在21世紀，編程無處不在。有些人熱衷於編程語言....。",
+      "title": "程序員的7個日常黑客，讓編碼技能更快。"
+    }
+  ]
 }

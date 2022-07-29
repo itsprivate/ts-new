@@ -41,5 +41,22 @@
   "original_created_at": "2022-07-29T01:40:08Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cm_AxQIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6j29uyhu1j891iaprlx4.jpg",
   "author": "Shinji Nakamatsu",
-  "author_url": "https://dev.to/snaka"
+  "author_url": "https://dev.to/snaka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "車や自転車を買うとき、まず自分の体格に合わせてシートポジションやサドルの高さを調整しますよね。　gitの設定もこれと同じです。",
+      "title": "新しい環境を用意するときに必ずgitでセットアップする10以上のこと"
+    },
+    {
+      "locale": "zh",
+      "description": "当你购买汽车或自行车时，你首先要调整座椅位置和鞍座高度以适应你的身体尺寸。　这与Git配置是一样的。",
+      "title": "当我准备一个新的环境时，我总是在git中设置10多个东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你購買汽車或自行車時，你首先要調整座椅位置和鞍座高度以適應你的身體尺寸。　這與Git配置是一樣的。",
+      "title": "當我準備一個新的環境時，我總是在git中設置10多個東西"
+    }
+  ]
 }
