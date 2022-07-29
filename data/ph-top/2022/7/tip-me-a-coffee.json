@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-29T07:05:35Z"
+  "original_createdAt": "2022-07-29T07:05:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tip Me A Coffeeは、ブロックチェーン上のソーシャルメディアであり、ユーザーが共有することで暗号を獲得することができます。",
+      "tagline": "シェアして暗号を稼ぐ"
+    },
+    {
+      "locale": "zh",
+      "description": "Tip Me A Coffee是一个区块链上的社交媒体，用户通过分享来赚取加密货币。",
+      "tagline": "边分享边赚取加密货币"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tip Me A Coffee是一個區塊鏈上的社交媒體，用戶通過分享來賺取加密貨幣。",
+      "tagline": "邊分享邊賺取加密貨幣"
+    }
+  ]
 }
