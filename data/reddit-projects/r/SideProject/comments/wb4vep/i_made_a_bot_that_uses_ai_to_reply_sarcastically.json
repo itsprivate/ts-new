@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この記事のすべてのコメントに皮肉を返すAIを使ったボットを作りました：がんばってください。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个机器人，使用人工智能对这篇文章中的每一条评论进行讽刺性的回复：请尽力而为吧!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個機器人，使用人工智能對這篇文章中的每一條評論進行諷刺性的回覆：請盡力而爲吧!"
+    }
+  ]
 }
