@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-29T07:20:33Z"
+  "original_createdAt": "2022-07-29T07:20:33Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Gum は高度に設定可能で、すぐに使えるユーティリティを提供し、bash のコードを数行書くだけで、便利なシェルスクリプトや ドットファイルのエイリアスを作成できるようにします。",
+      "tagline": "華麗なシェルスクリプトを構築するためのツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Gum提供了高度可配置的、随时可用的实用程序，帮助你编写有用的shell脚本和dotfiles别名，只需几行bash代码。",
+      "tagline": "构建迷人的shell脚本的工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Gum提供了高度可配置的、隨時可用的實用程序，幫助你編寫有用的shell腳本和dotfiles別名，只需幾行bash代碼。",
+      "tagline": "構建迷人的shell腳本的工具"
+    }
+  ]
 }
