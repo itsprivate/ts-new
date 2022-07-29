@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインはお金です。"
+    },
+    {
+      "locale": "zh",
+      "title": "比特币就是钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "比特幣就是錢。"
+    }
+  ]
 }
