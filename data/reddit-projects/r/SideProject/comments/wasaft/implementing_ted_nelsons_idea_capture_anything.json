@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "テッド・ネルソンのアイデアを実現する。インターネット上のあらゆるものを、ドラッグ＆ドロップで簡単に元のソースへの参照リンク付きでキャプチャできます。"
+    },
+    {
+      "locale": "zh",
+      "title": "实施Ted Nelson的想法。从互联网上抓取任何东西，并提供原始来源的参考链接，只需用拖放的方式。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "實施Ted Nelson的想法。從互聯網上抓取任何東西，並提供原始來源的參考鏈接，只需用拖放的方式。"
+    }
+  ]
 }
