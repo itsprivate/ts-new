@@ -48,5 +48,22 @@
   "original_created_at": "2022-07-29T08:21:25Z",
   "image": "https://dev.to/social_previews/article/1154404.png",
   "author": "Keff",
-  "author_url": "https://dev.to/nombrekeff"
+  "author_url": "https://dev.to/nombrekeff",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "例えば、クライアントから新しい開発/機能の依頼があった場合、どのように計算/見積もりをすれば...",
+      "title": "クライアントに提供する新機能のコストは、どのように見積もり/計算するのですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "比方说，一个客户要求一个新的发展/功能，你如何计算或估计要多少钱？",
+      "title": "你是如何为客户估算/计算新功能的成本的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "比方說，一個客戶要求一個新的發展/功能，你如何計算或估計要多少錢？",
+      "title": "你是如何爲客戶估算/計算新功能的成本的？"
+    }
+  ]
 }
