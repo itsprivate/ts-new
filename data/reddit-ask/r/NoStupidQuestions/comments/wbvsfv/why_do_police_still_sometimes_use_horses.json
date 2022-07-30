@@ -12,5 +12,21 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Wouldn't motorcycles make horses obsolete?"
+  "the_new_excerpt": "Wouldn't motorcycles make horses obsolete?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "バイクは馬を廃れさせるのでは？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "摩托车不是会使马匹过时吗？",
+      "title": "为什么警察有时仍然使用马匹？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "摩托車不是會使馬匹過時嗎？",
+      "title": "爲什麼警察有時仍然使用馬匹？"
+    }
+  ]
 }
