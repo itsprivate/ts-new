@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Any examples of what you've heard other women say?"
+  "the_new_excerpt": "Any examples of what you've heard other women say?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "他の女性が言っているのを聞いた例があれば教えてください。",
+      "title": "あなたが耳にしたInternalised Misogynyは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有没有听到其他女性说过的例子？",
+      "title": "你听到过哪些内部化的厌女症？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有沒有聽到其他女性說過的例子？",
+      "title": "你聽到過哪些內部化的厭女症？"
+    }
+  ]
 }
