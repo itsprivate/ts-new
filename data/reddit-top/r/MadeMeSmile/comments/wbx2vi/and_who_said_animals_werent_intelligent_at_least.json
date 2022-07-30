@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "動物に知性がないなんて、誰が言ったの？"
+    },
+    {
+      "locale": "zh",
+      "title": "而且谁说动物没有智慧，至少是大多数动物没有智慧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "而且誰說動物沒有智慧，至少是大多數動物沒有智慧？"
+    }
+  ]
 }
