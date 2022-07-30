@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "redditで一番好きな投稿"
+    },
+    {
+      "locale": "zh",
+      "title": "我在reddit上最喜欢的帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我在reddit上最喜歡的帖子"
+    }
+  ]
 }
