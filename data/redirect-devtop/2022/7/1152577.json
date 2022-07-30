@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-27T08:14:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ytao42l_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8u6r86ujof1lpisrnqwa.jpg",
   "author": "WebPajooh",
-  "author_url": "https://dev.to/webpajooh"
+  "author_url": "https://dev.to/webpajooh",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この連載では、Telegramのボットを一緒に作ってみましょう PHPに慣れている方は投稿にしたがってください...",
+      "title": "PHPでフィードリーダーボットを作成する (1)"
+    },
+    {
+      "locale": "zh",
+      "description": "在这个系列中，我们将一起建立一个Telegram机器人! 如果你熟悉PHP，请跟帖...",
+      "title": "用PHP创建一个feed reader bot (1)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在這個系列中，我們將一起建立一個Telegram機器人! 如果你熟悉PHP，請跟帖...",
+      "title": "用PHP創建一個feed reader bot (1)"
+    }
+  ]
 }
