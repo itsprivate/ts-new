@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイデン大統領の再定義した「不景気」は、私がこれまで経験した中で最もシュールな現実の否定である。"
+    },
+    {
+      "locale": "zh",
+      "title": "拜登总统重新定义的 \"非经济衰退 \"是我所经历过的最超现实的否认现实的做法。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拜登總統重新定義的 \"非經濟衰退 \"是我所經歷過的最超現實的否認現實的做法。"
+    }
+  ]
 }
