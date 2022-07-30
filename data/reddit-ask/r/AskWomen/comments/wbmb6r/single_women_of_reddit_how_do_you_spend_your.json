@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "also if not working."
+  "the_new_excerpt": "also if not working.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "また、動作しない場合。",
+      "title": "redditの独身女性たちよ、金曜の夜はどう過ごしているのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "也是如果不工作。",
+      "title": "reddit的单身女性，你们是如何度过你们的星期五晚上的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "也是如果不工作。",
+      "title": "reddit的單身女性，你們是如何度過你們的星期五晚上的？"
+    }
+  ]
 }

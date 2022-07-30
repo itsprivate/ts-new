@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Webサイトのデザインをチームとリアルタイムで共同制作するツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个工具，用于与你的团队实时合作设计你的网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個工具，用於與你的團隊實時合作設計你的網站"
+    }
+  ]
 }
