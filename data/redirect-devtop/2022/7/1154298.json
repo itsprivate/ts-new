@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-29T05:56:39Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m--TiZ74--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f6dq6ok9h8yqypis322n.jpg",
   "author": "Harshal Suthar",
-  "author_url": "https://dev.to/ifourtechnolab"
+  "author_url": "https://dev.to/ifourtechnolab",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Nodeとは？  Nodeは、JavaScriptの優れた実行環境であり、しばしば...と勘違いされることがあります。",
+      "title": "Node vs Go。2022年、バックエンド開発で選ぶべきはどちらか？"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是Node？  Node是一个突出的JavaScript运行环境，经常被误认为是...",
+      "title": "Node vs Go。2022年的后端开发选择哪一个？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是Node？  Node是一個突出的JavaScript運行環境，經常被誤認爲是...",
+      "title": "Node vs Go。2022年的後端開發選擇哪一個？"
+    }
+  ]
 }
