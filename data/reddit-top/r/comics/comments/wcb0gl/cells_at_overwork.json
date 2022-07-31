@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オーバーワークの細胞"
+    },
+    {
+      "locale": "zh",
+      "title": "过度工作的细胞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "過度工作的細胞"
+    }
+  ]
 }

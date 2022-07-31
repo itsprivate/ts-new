@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-31T07:01:00Z"
+  "original_createdAt": "2022-07-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Apple Music & Spotify用の美しいデザインのウィジェットです。ミュージックアプリで再生している曲をウィジェットに同期して表示します。",
+      "tagline": "Apple MusicとSpotifyのためのヴァイナルウィジェット"
+    },
+    {
+      "locale": "zh",
+      "description": "一个设计精美的苹果音乐和Spotify的小工具。它将你在音乐应用中播放的歌曲同步到小工具中显示。",
+      "tagline": "苹果音乐和Spotify的乙烯基小工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個設計精美的蘋果音樂和Spotify的小工具。它將你在音樂應用中播放的歌曲同步到小工具中顯示。",
+      "tagline": "蘋果音樂和Spotify的乙烯基小工具"
+    }
+  ]
 }
