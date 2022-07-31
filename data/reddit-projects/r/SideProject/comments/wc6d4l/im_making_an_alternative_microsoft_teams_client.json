@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Microsoft Teamsの代替クライアントを作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在制作一个可供选择的微软团队客户端，并能实际工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在製作一個可供選擇的微軟團隊客戶端，並能實際工作。"
+    }
+  ]
 }
