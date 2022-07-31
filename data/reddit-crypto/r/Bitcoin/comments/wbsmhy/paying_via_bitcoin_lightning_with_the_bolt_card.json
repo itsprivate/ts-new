@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "The Bolt CardでBitcoin Lightningで支払う ⚡️ AndroidスマホをPOSとして利用する"
+    },
+    {
+      "locale": "zh",
+      "title": "用Bolt卡通过比特币闪电支付 ⚡️ 使用安卓手机作为POS机"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "用Bolt卡通過比特幣閃電支付 ⚡️ 使用安卓手機作爲POS機"
+    }
+  ]
 }
