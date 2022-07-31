@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-30T05:35:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PhdKDK2I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fe1wa33j5isif2j0t6lq.jpeg",
   "author": "𝐁𝐚𝐛𝐢 ✨",
-  "author_url": "https://dev.to/babib"
+  "author_url": "https://dev.to/babib",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、あるTwitterの投稿で、「この違いを知っているか」というチャレンジがありました。",
+      "title": "Javascriptのチートシートです。.slice()と.splice()"
+    },
+    {
+      "locale": "zh",
+      "description": "我最近看到一个微博帖子，用户挑战其他人是否知道区别......",
+      "title": "脚本小抄。.slice()和.splice()。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我最近看到一個微博帖子，用戶挑戰其他人是否知道區別......",
+      "title": "腳本小抄。.slice()和.splice()。"
+    }
+  ]
 }
