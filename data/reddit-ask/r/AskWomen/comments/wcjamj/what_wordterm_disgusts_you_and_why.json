@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが嫌悪感を抱く言葉／用語とその理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "哪个词/术语让你感到厌恶，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪個詞/術語讓你感到厭惡，爲什麼？"
+    }
+  ]
 }
