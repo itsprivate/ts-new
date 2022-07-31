@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-07-31T07:01:00Z"
+  "original_createdAt": "2022-07-31T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GPT3で1ライナーアイデアからピッチデッキを生成する 以上です。",
+      "tagline": "GPT3で1ライナーのアイデアからピッチデッキを作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "使用GPT3从1个衬垫的想法中生成Pitch decks。这就是了。",
+      "tagline": "使用GPT3从1个衬垫的想法中生成Pitch decks"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用GPT3從1個襯墊的想法中生成Pitch decks。這就是了。",
+      "tagline": "使用GPT3從1個襯墊的想法中生成Pitch decks"
+    }
+  ]
 }
