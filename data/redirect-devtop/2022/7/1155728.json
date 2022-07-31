@@ -44,5 +44,22 @@
   "original_created_at": "2022-07-31T06:11:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d6ma9VMF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1vgpfkeyfb55xy5sdwpd.jpg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ユニットテストが好き Magicとそのサテライトプロジェクトには1,000以上のユニットテストがあり、いくつかのサテライト...",
+      "title": "フロントエンドのコードのユニットテストは（おそらく）無駄である"
+    },
+    {
+      "locale": "zh",
+      "description": "我喜欢单元测试。Magic和它的卫星项目有1,000多个单元测试，其中一些卫星...",
+      "title": "单元测试前台代码（可能）是无用的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我喜歡單元測試。Magic和它的衛星項目有1,000多個單元測試，其中一些衛星...",
+      "title": "單元測試前臺代碼（可能）是無用的"
+    }
+  ]
 }
