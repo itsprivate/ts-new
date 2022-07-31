@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はMovyDickという映画・番組推薦アプリを作っているのですが、最近、V2を起動する前に見出しと背景色を変更したところです。どうでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在建立MovyDick--一个电影/节目推荐应用程序，最近我只是在启动V2之前改变了标题和背景颜色。你怎么看？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在建立MovyDick--一個電影/節目推薦應用程序，最近我只是在啓動V2之前改變了標題和背景顏色。你怎麼看？"
+    }
+  ]
 }

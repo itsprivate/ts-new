@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Sometimes I notice a post that’s been posted for some time and it looks like\nthey put effort into it, yet it has no upvotes, so I upvote it because I feel\nbad for them"
+  "the_new_excerpt": "Sometimes I notice a post that’s been posted for some time and it looks like\nthey put effort into it, yet it has no upvotes, so I upvote it because I feel\nbad for them",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "時々、投稿から時間が経っている投稿に気がつくと、以下のようになっています。\nにもかかわらず、アップボートがない。\nアップしてしまう。",
+      "title": "人の投稿に同情してアップヴォートすることはないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有时我注意到一个已经发布了一段时间的帖子，它看起来像\n他们付出了努力，但却没有得到赞许，所以我就给它加了赞许，因为我觉得\n为他们感到难过",
+      "title": "你是否曾经怜悯地给别人的帖子投过票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有時我注意到一個已經發布了一段時間的帖子，它看起來像\n他們付出了努力，但卻沒有得到讚許，所以我就給它加了讚許，因爲我覺得\n爲他們感到難過",
+      "title": "你是否曾經憐憫地給別人的帖子投過票？"
+    }
+  ]
 }
