@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-28T19:49:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3tovMLgX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gcjfh7tk1qo8j2apj3eq.jpg",
   "author": "Rishita Shaw",
-  "author_url": "https://dev.to/rishitashaw"
+  "author_url": "https://dev.to/rishitashaw",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "IPv4、CIDR、CIDR Block、Subnettingとは何か、その計算方法について学びます...  IPv4の概要...",
+      "title": "CIDR：概要とサブネットの計算方法"
+    },
+    {
+      "locale": "zh",
+      "description": "了解什么是IPv4、CIDR、CIDR块、子网以及如何计算它...  IPv4概述",
+      "title": "CIDR：简要概述和子网计算"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解什麼是IPv4、CIDR、CIDR塊、子網以及如何計算它...  IPv4概述",
+      "title": "CIDR：簡要概述和子網計算"
+    }
+  ]
 }
