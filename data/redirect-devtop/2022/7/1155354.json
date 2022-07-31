@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-30T11:11:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NNJkBQLY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyfjk3cka1tl7s8a9k9g.png",
   "author": "Abhishek Keshri",
-  "author_url": "https://dev.to/2kabhishek"
+  "author_url": "https://dev.to/2kabhishek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Projectsの紹介 カスタマイズ可能なウェブアプリで、すべてのプロジェクトをスタイリッシュに紹介します！...",
+      "title": "GitHubの全プロジェクトを紹介するWebアプリを作ってみた😍✨。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍项目 用一个超级可定制的网络应用程序来展示你所有的项目！...",
+      "title": "我做了一个Web App来展示你所有的GitHub项目😍✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹項目 用一個超級可定製的網絡應用程序來展示你所有的項目！...",
+      "title": "我做了一個Web App來展示你所有的GitHub項目😍✨"
+    }
+  ]
 }
