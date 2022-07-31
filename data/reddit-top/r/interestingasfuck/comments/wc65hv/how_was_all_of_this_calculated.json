@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どのように計算されたのか"
+    },
+    {
+      "locale": "zh",
+      "title": "这一切是如何计算出来的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這一切是如何計算出來的"
+    }
+  ]
 }
