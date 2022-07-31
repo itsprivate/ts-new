@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カマキリを捕まえて、ハエを食べさせる。そのハエの中に何が入っているかは予想外だった。"
+    },
+    {
+      "locale": "zh",
+      "title": "抓到一只螳螂，给它喂了一只苍蝇。我没有想到那只苍蝇里面会有什么。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "抓到一隻螳螂，給它餵了一隻蒼蠅。我沒有想到那隻蒼蠅裏面會有什麼。"
+    }
+  ]
 }
