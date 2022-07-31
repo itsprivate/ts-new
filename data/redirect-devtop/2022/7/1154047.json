@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-28T19:31:04Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SR3M0dj_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xu9rmuedt7dl5ruz7cip.png",
   "author": "Archit Sharma",
-  "author_url": "https://dev.to/iarchitsharma"
+  "author_url": "https://dev.to/iarchitsharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜKubernetesを学ぶべきなのか？Kubernetesは100個のDockerをデプロイできるため🤔...",
+      "title": "今すぐKubernetesを学ぶべき! 🚀"
+    },
+    {
+      "locale": "zh",
+      "description": "我为什么要学习Kubernetes？🤔 因为Kubernetes可以部署100个Docker...",
+      "title": "你现在就需要学习Kubernetes！! 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我爲什麼要學習Kubernetes？🤔 因爲Kubernetes可以部署100個Docker...",
+      "title": "你現在就需要學習Kubernetes！! 🚀"
+    }
+  ]
 }
