@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私にはとても明白に思える"
+    },
+    {
+      "locale": "zh",
+      "title": "对我来说似乎很明显"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對我來說似乎很明顯"
+    }
+  ]
 }
