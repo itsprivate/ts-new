@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I've seen this many times, including in my own family."
+  "the_new_excerpt": "I've seen this many times, including in my own family.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自分の家族も含め、何度も見てきました。",
+      "title": "なぜ母親は、料理や掃除の手伝いはいらないと言いながら、後で誰も家のことを手伝ってくれないと文句を言うのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我见过很多次这样的情况，包括在我自己的家里。",
+      "title": "为什么母亲们说她们不需要帮助做饭/打扫卫生，后来又抱怨没有人帮助她们在家里做任何事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我見過很多次這樣的情況，包括在我自己的家裏。",
+      "title": "爲什麼母親們說她們不需要幫助做飯/打掃衛生，後來又抱怨沒有人幫助她們在家裏做任何事情？"
+    }
+  ]
 }
