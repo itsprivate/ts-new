@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I’ve never smoked a cigarette so I don’t know any cigaretiquette"
+  "the_new_excerpt": "I’ve never smoked a cigarette so I don’t know any cigaretiquette",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タバコを吸ったことがないので、シガレットのことはよくわからない。",
+      "title": "なぜ人々はタバコをブラントやジョイントのように共有しないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我从来没有抽过烟，所以我不知道任何香烟礼仪。",
+      "title": "为什么人们不像分享烟头/接头那样分享香烟？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我從來沒有抽過煙，所以我不知道任何香菸禮儀。",
+      "title": "爲什麼人們不像分享菸頭/接頭那樣分享香菸？"
+    }
+  ]
 }
