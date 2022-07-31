@@ -56,5 +56,22 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": "Wait till sec 28, shit goes down, molten steel everywhere. The workers are so\ncalm cause this does happen sometimes and they are well trained for these\nsituations."
+  "the_new_excerpt": "Wait till sec 28, shit goes down, molten steel everywhere. The workers are so\ncalm cause this does happen sometimes and they are well trained for these\nsituations.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "28秒まで待てば、溶けた鉄が飛び散る。作業員はとても落ち着いています。\nこのような事態を想定して訓練されているので、作業員はとても冷静です。\n訓練されているからです。",
+      "title": "ドイツの製鉄所での事故はこんな感じです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "等到第28秒时，就完蛋了，到处都是熔化的钢铁。工人们是如此\n因为这种情况有时确实会发生，而且他们受过良好的训练，可以应对这些\n情况。",
+      "title": "德国钢厂的事故就是这样的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "等到第28秒時，就完蛋了，到處都是熔化的鋼鐵。工人們是如此\n因爲這種情況有時確實會發生，而且他們受過良好的訓練，可以應對這些\n情況。",
+      "title": "德國鋼廠的事故就是這樣的。"
+    }
+  ]
 }
