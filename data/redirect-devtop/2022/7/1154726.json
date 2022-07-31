@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-29T15:08:39Z",
   "image": "https://dev.to/social_previews/article/1154726.png",
   "author": "Vincent A. Cicirello",
-  "author_url": "https://dev.to/cicirello"
+  "author_url": "https://dev.to/cicirello",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVがLiquid Tagsを使った様々な埋め込みに対応していることは、DEVの常連ユーザーには広く知られていることですが...",
+      "title": "ウェブサイトからページのDEV Post Embedsを有効にする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "对于DEV的普通用户来说，大家都知道DEV支持使用液体标签的各种嵌入，...",
+      "title": "如何为你的网站上的页面启用DEV帖子嵌入功能"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "對於DEV的普通用戶來說，大家都知道DEV支持使用液體標籤的各種嵌入，...",
+      "title": "如何爲你的網站上的頁面啓用DEV帖子嵌入功能"
+    }
+  ]
 }
