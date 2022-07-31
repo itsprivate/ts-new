@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Blokforge 10000 TH/sのMiner。"
+    },
+    {
+      "locale": "zh",
+      "title": "Blokforge 10000 TH/s 采矿机。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Blokforge 10000 TH/s 採礦機。"
+    }
+  ]
 }
