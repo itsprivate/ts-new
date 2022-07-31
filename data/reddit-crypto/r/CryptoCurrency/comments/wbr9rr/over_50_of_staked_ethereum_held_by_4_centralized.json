@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ステークされたイーサリアムの50％以上を4つの \"中央集権的 \"事業体が保有。グラスノード"
+    },
+    {
+      "locale": "zh",
+      "title": "超过50%的抵押以太坊被4个 \"中心化 \"的实体所持有。玻璃节点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "超過50%的抵押以太坊被4個 \"中心化 \"的實體所持有。玻璃節點"
+    }
+  ]
 }
