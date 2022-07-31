@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "One of my friends at Nasa told me that there were existing images of exoplanets,\nis this true? Surely that’s not possible yet right?"
+  "the_new_excerpt": "One of my friends at Nasa told me that there were existing images of exoplanets,\nis this true? Surely that’s not possible yet right?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Nasaの友人の一人が、太陽系外惑星の画像が現存していると教えてくれました。\nこれは本当ですか？確かにそれはまだあり得ないですよね？",
+      "title": "太陽系外惑星を撮影することは可能か？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在美国国家航空航天局的一个朋友告诉我，有现有的系外行星的图像。\n这是真的吗？当然，这还不可能吧？",
+      "title": "科学家可以拍摄系外行星吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在美國國家航空航天局的一個朋友告訴我，有現有的系外行星的圖像。\n這是真的嗎？當然，這還不可能吧？",
+      "title": "科學家可以拍攝系外行星嗎？"
+    }
+  ]
 }
