@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I am a new account but I am able to post in most other subs"
+  "the_new_excerpt": "I am a new account but I am able to post in most other subs",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私は新しいアカウントですが、他のほとんどのサブで投稿することができます。",
+      "title": "なぜAskredditに投稿できないのですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是一个新的账户，但我能够在大多数其他子网站上发帖。",
+      "title": "为什么我不能在Askreddit上发帖？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是一個新的賬戶，但我能夠在大多數其他子網站上發帖。",
+      "title": "爲什麼我不能在Askreddit上發帖？"
+    }
+  ]
 }
