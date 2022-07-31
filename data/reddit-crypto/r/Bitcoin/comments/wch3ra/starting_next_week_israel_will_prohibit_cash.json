@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Good thing that it could never happen here in the U.S., right?"
+  "the_new_excerpt": "Good thing that it could never happen here in the U.S., right?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ここアメリカでは絶対に起こりえないことなので、よかったですね。",
+      "title": "来週から、イスラエルでは4,400ドル以上の現金取引と1,760ドル以上の商取引が禁止されます。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "好在这在美国不可能发生，对吗？",
+      "title": "从下周开始，以色列将禁止超过4400美元的现金交易和超过1760美元的商业交易。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "好在這在美國不可能發生，對嗎？",
+      "title": "從下週開始，以色列將禁止超過4400美元的現金交易和超過1760美元的商業交易。"
+    }
+  ]
 }
