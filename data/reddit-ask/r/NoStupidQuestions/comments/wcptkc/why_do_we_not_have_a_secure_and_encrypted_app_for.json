@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Something like the amber alert system, where the entire country gets a\nnotification on their phones or computer and you have to vote."
+  "the_new_excerpt": "Something like the amber alert system, where the entire country gets a\nnotification on their phones or computer and you have to vote.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "琥珀色の警報システムのようなもので、国全体が\n携帯電話やコンピューターに通知が来て、投票しなければならない。",
+      "title": "なぜ、直接投票用の安全で暗号化されたアプリがないのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "类似于琥珀色警报系统的东西，整个国家都会收到一个\n在他们的手机或电脑上收到通知，你必须投票。",
+      "title": "为什么我们没有一个安全和加密的应用程序来直接投票？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "類似於琥珀色警報系統的東西，整個國家都會收到一個\n在他們的手機或電腦上收到通知，你必須投票。",
+      "title": "爲什麼我們沒有一個安全和加密的應用程序來直接投票？"
+    }
+  ]
 }
