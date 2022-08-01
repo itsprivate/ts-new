@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、迷子にならずに自分の考えを探求できるマークダウンノート作成アプリ「Tangent」を作っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在做Tangent，一个标记性的笔记写作应用，帮助你探索你的想法而不迷失方向。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在做Tangent，一個標記性的筆記寫作應用，幫助你探索你的想法而不迷失方向。"
+    }
+  ]
 }

@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-29T15:40:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NJ2O0k6L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8lzv981bsw7knrh7gajb.png",
   "author": "Abhik Banerjee",
-  "author_url": "https://dev.to/abhikbanerjee99"
+  "author_url": "https://dev.to/abhikbanerjee99",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Rustでコーディングすると天才になったような気分になれる」と、どこかで誰かが正論を言った。私はそうは思いませんが...",
+      "title": "Rust - ファーストインプレッション"
+    },
+    {
+      "locale": "zh",
+      "description": "在某个地方，有人很正确地说过--\"用Rust编码让你觉得自己是个天才\"。我不认为...",
+      "title": "锈》--第一印象"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在某個地方，有人很正確地說過--\"用Rust編碼讓你覺得自己是個天才\"。我不認爲...",
+      "title": "鏽》--第一印象"
+    }
+  ]
 }
