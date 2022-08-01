@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このカメはホースで遊んでいるようです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这只乌龟正享受着水管带来的生活乐趣!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這隻烏龜正享受着水管帶來的生活樂趣!"
+    }
+  ]
 }
