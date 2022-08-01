@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "森で迷子になってお腹が空いたら、草や葉っぱなど「食べられないもの」を食べた方がいいのか、それともまったく食べない方がいいのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果我在森林里迷路了，而且很饿，是吃草或树叶等 \"不能吃 \"的东西好呢，还是根本不吃？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果我在森林裏迷路了，而且很餓，是喫草或樹葉等 \"不能喫 \"的東西好呢，還是根本不喫？"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It happened to a friend of mine and it just happened to me. Wondering if this is\na common thing."
+  "the_new_excerpt": "It happened to a friend of mine and it just happened to me. Wondering if this is\na common thing.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "友人に起こったことなんですが、ちょうど私にも起こりました。これはよくあることなのでしょうか？\nよくあることなのでしょうか。",
+      "title": "親族や大切な人にIDを盗まれたことがありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它发生在我的一个朋友身上，也刚刚发生在我身上。想知道这是否是\n一个常见的事情。",
+      "title": "你是否曾有亲戚或重要的人盗用你的身份？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它發生在我的一個朋友身上，也剛剛發生在我身上。想知道這是否是\n一個常見的事情。",
+      "title": "你是否曾有親戚或重要的人盜用你的身份？"
+    }
+  ]
 }
