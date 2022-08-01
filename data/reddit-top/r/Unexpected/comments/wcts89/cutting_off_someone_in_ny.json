@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "NYで人を斬る"
+    },
+    {
+      "locale": "zh",
+      "title": "在纽约切断某人的联系"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在紐約切斷某人的聯繫"
+    }
+  ]
 }
