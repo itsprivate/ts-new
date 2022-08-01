@@ -52,5 +52,22 @@
   "original_created_at": "2022-07-31T09:26:27Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E0KDo2uo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53ei7g8ziowxzvd8rshw.png",
   "author": "Nevo David",
-  "author_url": "https://dev.to/nevodavid"
+  "author_url": "https://dev.to/nevodavid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は何についてですか？  実際のオークションのように、商品を入札すると、...",
+      "title": "Socket.ioとReact.jsで作るリアルタイムオークションシステム🤯の作り方"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是关于什么的？  像实际的拍卖一样，如果你为一个产品出价，你会得到...",
+      "title": "如何用Socket.io和React.js建立一个实时拍卖系统 🤯"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是關於什麼的？  像實際的拍賣一樣，如果你爲一個產品出價，你會得到...",
+      "title": "如何用Socket.io和React.js建立一個實時拍賣系統 🤯"
+    }
+  ]
 }

@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Pretty much what the question says."
+  "the_new_excerpt": "Pretty much what the question says.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "質問の内容とほぼ同じです。",
+      "title": "セフレになっている方、どんな感じですか？どうすれば執着せず、FWBから恋愛を望むことができるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "和问题说的差不多。",
+      "title": "对于那些有利益关系的朋友，它是什么样的？你如何不依恋并希望从你的fwb中获得一段关系？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "和問題說的差不多。",
+      "title": "對於那些有利益關係的朋友，它是什麼樣的？你如何不依戀並希望從你的fwb中獲得一段關係？"
+    }
+  ]
 }
