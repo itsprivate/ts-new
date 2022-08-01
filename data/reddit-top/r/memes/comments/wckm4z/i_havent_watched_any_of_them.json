@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "どれも見ていない"
+    },
+    {
+      "locale": "zh",
+      "title": "我一个都没看"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我一個都沒看"
+    }
+  ]
 }
