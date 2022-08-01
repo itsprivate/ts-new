@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "欲しいけど、今持っていないものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你想要什么，但目前还没有？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你想要什麼，但目前還沒有？"
+    }
+  ]
 }

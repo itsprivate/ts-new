@@ -13,5 +13,19 @@
   ],
   "objectID": "32301936",
   "original_created_at": "2022-08-01T04:04:40.000Z",
-  "image": "https://docs.gitea.io/images/gitea.png"
+  "image": "https://docs.gitea.io/images/gitea.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Gitea 1.17.0 リリース - パッケージレジストリのサポートが含まれます。"
+    },
+    {
+      "locale": "zh",
+      "title": "Gitea 1.17.0发布 - 包括软件包注册表支持"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Gitea 1.17.0發佈 - 包括軟件包註冊表支持"
+    }
+  ]
 }
