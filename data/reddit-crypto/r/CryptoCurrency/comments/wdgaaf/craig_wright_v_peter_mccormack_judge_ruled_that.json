@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Craig Wright v Peter McCormack: 裁判官は、ビットコイン発明者Satoshi Nakamotoを名乗るCraig Wrightが虚偽の証拠を提出したとの判決を下した。"
+    },
+    {
+      "locale": "zh",
+      "title": "Craig Wright诉Peter McCormack案：法官裁定，声称是比特币发明人中本聪的Craig Wright提出了虚假证据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Craig Wright訴Peter McCormack案：法官裁定，聲稱是比特幣發明人中本聰的Craig Wright提出了虛假證據。"
+    }
+  ]
 }
