@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It is estimated that 1 SEU occurs per 256 MB of RAM per month. As we now have\norders of magnitude more memory due to miniaturisation, won't SEU's get more\ncommon until it becomes a big problem?"
+  "the_new_excerpt": "It is estimated that 1 SEU occurs per 256 MB of RAM per month. As we now have\norders of magnitude more memory due to miniaturisation, won't SEU's get more\ncommon until it becomes a big problem?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "1ヶ月に256MBのRAMにつき1SEUが発生すると推定される。現在、私たちは\n大きな問題になるまでSEUが頻発するのではないでしょうか？\n大問題になるのでは？",
+      "title": "マイクロチップが小さくなると、宇宙線によるシングルイベントアップセット（SEU）が起こりやすくなるのでは？メーカーは、宇宙線に対するチップの硬化を考えているのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "据估计，每月每256MB的RAM会发生1个SEU。由于我们现在有\n由于小型化，我们现在拥有数量级更高的内存，SEU不会变得更加普遍，直到成为大问题吗？\n越来越多，直到成为一个大问题？",
+      "title": "随着微芯片变得越来越小，由宇宙辐射引起的单一事件颠覆（SEU）的可能性不会越来越大吗？制造商是否考虑过对芯片进行加固，以抵御它们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "據估計，每月每256MB的RAM會發生1個SEU。由於我們現在有\n由於小型化，我們現在擁有數量級更高的內存，SEU不會變得更加普遍，直到成爲大問題嗎？\n越來越多，直到成爲一個大問題？",
+      "title": "隨着微芯片變得越來越小，由宇宙輻射引起的單一事件顛覆（SEU）的可能性不會越來越大嗎？製造商是否考慮過對芯片進行加固，以抵禦它們？"
+    }
+  ]
 }
