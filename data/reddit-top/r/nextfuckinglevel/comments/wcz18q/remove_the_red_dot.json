@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "レッドドットを外す"
+    },
+    {
+      "locale": "zh",
+      "title": "移除红点"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "移除紅點"
+    }
+  ]
 }
