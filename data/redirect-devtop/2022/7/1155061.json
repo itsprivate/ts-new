@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-29T22:31:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OLAco30n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xwqicvkl5aqhfjxve5qp.jpeg",
   "author": "Yohanes Setiawan",
-  "author_url": "https://dev.to/yohanesss"
+  "author_url": "https://dev.to/yohanesss",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は、プログラミングでよく使われるもう一つのデザインパターンであるFacadeについて説明します...",
+      "title": "JavascriptにおけるFacadeパターンの紹介"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们将讨论编程中另一种流行的设计模式，Facade。",
+      "title": "介绍Javascript中的Facade模式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們將討論編程中另一種流行的設計模式，Facade。",
+      "title": "介紹Javascript中的Facade模式"
+    }
+  ]
 }
