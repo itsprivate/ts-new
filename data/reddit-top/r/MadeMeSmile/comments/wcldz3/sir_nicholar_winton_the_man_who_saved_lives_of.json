@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ホロコーストから多くの人々の命を救ったニコラー・ウィントン卿。"
+    },
+    {
+      "locale": "zh",
+      "title": "尼古拉-温顿爵士，这位从大屠杀中拯救了许多人生命的人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "尼古拉-溫頓爵士，這位從大屠殺中拯救了許多人生命的人。"
+    }
+  ]
 }
