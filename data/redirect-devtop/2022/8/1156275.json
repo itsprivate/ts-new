@@ -57,5 +57,22 @@
   "original_created_at": "2022-08-01T04:29:34Z",
   "image": "https://dev.to/social_previews/article/1156275.png",
   "author": "MD Sarfaraj",
-  "author_url": "https://dev.to/yourmdsarfaraj"
+  "author_url": "https://dev.to/yourmdsarfaraj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ご存知の通り、Flutterは市場でブームになっており、誰もがその話題で持ちきりです。ほとんどの企業が...",
+      "title": "Flutter開発者になるためのロードマップ。"
+    },
+    {
+      "locale": "zh",
+      "description": "众所周知，Flutter在市场上正蓬勃发展，每个人都在谈论它。大多数公司...",
+      "title": "成为Flutter开发者的路线图。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "衆所周知，Flutter在市場上正蓬勃發展，每個人都在談論它。大多數公司...",
+      "title": "成爲Flutter開發者的路線圖。"
+    }
+  ]
 }
