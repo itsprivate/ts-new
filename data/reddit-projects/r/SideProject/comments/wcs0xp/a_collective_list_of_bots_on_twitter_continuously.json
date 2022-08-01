@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Twitter上のボットの集合リスト（継続的に更新されます。）"
+    },
+    {
+      "locale": "zh",
+      "title": "推特上的机器人集体列表（持续更新，欢迎参与）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "推特上的機器人集體列表（持續更新，歡迎參與）。"
+    }
+  ]
 }

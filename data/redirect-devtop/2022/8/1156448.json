@@ -45,5 +45,22 @@
   "original_created_at": "2022-08-01T10:19:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5EudukEi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6keuxvcmfka9mrbrv4e6.png",
   "author": "Kuvam Bhardwaj",
-  "author_url": "https://dev.to/kuvambhardwaj"
+  "author_url": "https://dev.to/kuvambhardwaj",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに サインアップフォームを作るとき、何十個も作っていることに気がつきました。",
+      "title": "React.jsでずっと間違った方法でFormsを作成していた🤔。"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍：当我在创建一个注册表格时，我发现自己创建了几十个...",
+      "title": "我在React.js中创建表单的方式一直是错误的 🤔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹：當我在創建一個註冊表格時，我發現自己創建了幾十個...",
+      "title": "我在React.js中創建表單的方式一直是錯誤的 🤔"
+    }
+  ]
 }
