@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-01T07:09:14Z"
+  "original_createdAt": "2022-08-01T07:09:14Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日、私たちはライブラリ（別名：Relumeライブラリ2.0）を発表します！このライブラリには、以下のようなものが含まれます。その内容は？- 独自のWebflowコンポーネントライブラリを作成、保存、共有できるようになりました。- 275のUntiled UI Webflowコンポーネントへのアクセス - コミュニティが作った最初のライブラリです。",
+      "tagline": "独自のWebflowコンポーネントライブラリを作成し、共有することができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "今天，我们推出了图书馆（又称：Relume图书馆2.0）! 这包括什么？- 您现在可以创建、保存和分享您自己的Webflow组件库。- 可以访问275个Untiled UI Webflow组件--我们的第一个社区自制库。",
+      "tagline": "创建和分享你自己的Webflow组件库。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天，我們推出了圖書館（又稱：Relume圖書館2.0）! 這包括什麼？- 您現在可以創建、保存和分享您自己的Webflow組件庫。- 可以訪問275個Untiled UI Webflow組件--我們的第一個社區自制庫。",
+      "tagline": "創建和分享你自己的Webflow組件庫。"
+    }
+  ]
 }
