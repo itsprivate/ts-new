@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あるおばあさんが買い物に来るたびに、スーパーの店員と立ち話をしている。"
+    },
+    {
+      "locale": "zh",
+      "title": "一位年长的女士和杂货店员工每次来购物时都会发生冲突。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一位年長的女士和雜貨店員工每次來購物時都會發生衝突。"
+    }
+  ]
 }
