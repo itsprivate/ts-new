@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まさにAWESOME MAN!"
+    },
+    {
+      "locale": "zh",
+      "title": "一个真正了不起的人!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個真正了不起的人!"
+    }
+  ]
 }
