@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "超凄いカラーパレットを生成するサイトを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，用于生成超级棒的调色板"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，用於生成超級棒的調色板"
+    }
+  ]
 }
