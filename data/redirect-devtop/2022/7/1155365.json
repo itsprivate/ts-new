@@ -43,5 +43,22 @@
   "original_created_at": "2022-07-30T11:45:21Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W2sx7OMb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gjdnju0qrmpagw6llmoz.png",
   "author": "Vipin Chandra",
-  "author_url": "https://dev.to/easyvipin"
+  "author_url": "https://dev.to/easyvipin",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "時代とともに、Webのフロントエンドを構築する方法には多くの変化があります。",
+      "title": "Reactプロジェクトにおける5つのベストプラクティス。"
+    },
+    {
+      "locale": "zh",
+      "description": "随着时间的推移，我们在如何构建网络前端的方式上有了很多变化。",
+      "title": "5个React项目的最佳实践。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "隨着時間的推移，我們在如何構建網絡前端的方式上有了很多變化。",
+      "title": "5個React項目的最佳實踐。"
+    }
+  ]
 }

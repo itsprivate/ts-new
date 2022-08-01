@@ -50,5 +50,22 @@
   "original_created_at": "2022-07-31T07:21:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEtxdAR1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nljhs6rm8xmddw1x6s37.jpeg",
   "author": "Ethan",
-  "author_url": "https://dev.to/ethand91"
+  "author_url": "https://dev.to/ethand91",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに こんにちは。最近、PlanetScale X Hashnodeハッカソンの話を聞いたので...",
+      "title": "シンプルな1to1ミーティングツールを作ってみた"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 你好! 我最近听说了PlanetScale X Hashnode黑客马拉松，所以我...",
+      "title": "我创建了一个简单的1对1会议工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 你好! 我最近聽說了PlanetScale X Hashnode黑客馬拉松，所以我...",
+      "title": "我創建了一個簡單的1對1會議工具"
+    }
+  ]
 }
