@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "昔（何年も前）にやったことで、今でも思い出すようなクレージーなアフォは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在很久以前（多年以前）做过什么令人讨厌的事情，而你今天还在想这个问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在很久以前（多年以前）做過什麼令人討厭的事情，而你今天還在想這個問題？"
+    }
+  ]
 }
