@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-01T07:01:00Z"
+  "original_createdAt": "2022-08-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "https://docusaurus.io/、一流のドキュメントサイトをあっという間に完成させることができます！ &nbsp; コンテンツに集中しましょう： Markdownファイルを書くだけです！ 5分でサイトを公開しましょう。プラグイン、テーマ、検索、ブログ、バージョニング、国際化、React...など、充実の機能。",
+      "tagline": "優れたドキュメントサイトを構築し、コンテンツに集中する - by Meta"
+    },
+    {
+      "locale": "zh",
+      "description": "https://docusaurus.io/，帮助你在短时间内推出一个一流的文档网站！ &nbsp; 专注于你的内容：只需编写Markdown文件即可 &nbsp; 功能齐全：插件、主题、搜索、博客、版本管理、i18n、React...",
+      "tagline": "建立优秀的文档网站，关注你的内容 - by Meta"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "https://docusaurus.io/，幫助你在短時間內推出一個一流的文檔網站！ &nbsp; 專注於你的內容：只需編寫Markdown文件即可 &nbsp; 功能齊全：插件、主題、搜索、博客、版本管理、i18n、React...",
+      "tagline": "建立優秀的文檔網站，關注你的內容 - by Meta"
+    }
+  ]
 }
