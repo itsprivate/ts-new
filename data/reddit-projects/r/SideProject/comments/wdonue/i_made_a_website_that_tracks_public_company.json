@@ -38,5 +38,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "上場企業の財務データを追跡して未公開企業の評価を推定するサイトを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，跟踪上市公司的财务数据来估计私人公司的估值"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，跟蹤上市公司的財務數據來估計私人公司的估值"
+    }
+  ]
 }
