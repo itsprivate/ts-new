@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後にお金をかけすぎて買ったものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最后买的东西是什么，你花了太多的钱？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最後買的東西是什麼，你花了太多的錢？"
+    }
+  ]
 }
