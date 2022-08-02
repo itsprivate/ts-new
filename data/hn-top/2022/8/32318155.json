@@ -13,5 +13,19 @@
   ],
   "objectID": "32318155",
   "original_created_at": "2022-08-02T13:23:08.000Z",
-  "image": "https://www.openwall.com/logo.png"
+  "image": "https://www.openwall.com/logo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Rsync のクライアントサイドでの任意のファイル書き込みの脆弱性"
+    },
+    {
+      "locale": "zh",
+      "title": "Rsync客户端任意文件写入漏洞"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Rsync客戶端任意文件寫入漏洞"
+    }
+  ]
 }
