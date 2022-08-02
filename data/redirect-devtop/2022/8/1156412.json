@@ -45,5 +45,22 @@
   "original_created_at": "2022-08-01T09:12:00Z",
   "image": "https://dev.to/social_previews/article/1156412.png",
   "author": "Omer Elbaz",
-  "author_url": "https://dev.to/omerwow"
+  "author_url": "https://dev.to/omerwow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "良いGithubコミットの重要性 良いコミットがなぜ必要なのか、それにはいくつかの理由があります。",
+      "title": "良いGithubコミットを作るために必要なこと、してはいけないこと"
+    },
+    {
+      "locale": "zh",
+      "description": "良好的Github提交的重要性 良好的提交有几个原因。",
+      "title": "创建良好的Github提交的注意事项"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "良好的Github提交的重要性 良好的提交有幾個原因。",
+      "title": "創建良好的Github提交的注意事項"
+    }
+  ]
 }
