@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-01T07:01:00Z"
+  "original_createdAt": "2022-08-01T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vibesitionは、Spotifyを使って、ある曲のヴァイブから別の曲のヴァイブに遷移するプレイリストを作成することができます。",
+      "tagline": "バイブス間を移行するSpotifyプレイリストを生成する"
+    },
+    {
+      "locale": "zh",
+      "description": "Vibesition允许你使用Spotify创建播放列表，从一首歌曲的氛围过渡到另一首歌曲的氛围。",
+      "tagline": "生成Spotify播放列表，在不同的氛围之间进行转换"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vibesition允許你使用Spotify創建播放列表，從一首歌曲的氛圍過渡到另一首歌曲的氛圍。",
+      "tagline": "生成Spotify播放列表，在不同的氛圍之間進行轉換"
+    }
+  ]
 }
