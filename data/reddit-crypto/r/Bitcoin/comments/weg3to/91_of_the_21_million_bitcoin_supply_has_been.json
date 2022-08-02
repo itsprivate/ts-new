@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "2100万ビットコインの供給量の91%が本日採掘された。残りの9%は今後118年間かけて採掘される予定です。"
+    },
+    {
+      "locale": "zh",
+      "title": "今天，2100万枚比特币供应中的91%已经被开采出来。剩下的9%将在未来118年内被开采出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天，2100萬枚比特幣供應中的91%已經被開採出來。剩下的9%將在未來118年內被開採出來。"
+    }
+  ]
 }
