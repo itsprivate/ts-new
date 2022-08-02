@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰かがあなたの信用情報を見るという行為そのものが、あなたの信用を低下させるということを、私たちはいつから受け入れていたのでしょう。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们什么时候接受了有人看你的信用报告这一行为，降低了你的信用。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們什麼時候接受了有人看你的信用報告這一行爲，降低了你的信用。"
+    }
+  ]
 }
