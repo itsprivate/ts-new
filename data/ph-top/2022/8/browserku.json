@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-02T07:01:00Z"
+  "original_createdAt": "2022-08-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webスクレイピング、スクリーンショット、PDF生成は、シンプルなHTTPリクエストと同じくらい簡単で、メンテナンスコストもかからないはずです。Browserkuは、これを誰にでも可能にします。",
+      "tagline": "ウェブスクレイピング、スクリーンショット、PDF生成などのためのAPI"
+    },
+    {
+      "locale": "zh",
+      "description": "网络抓取、截图、生成PDF应该像一个简单的HTTP请求一样容易，而且没有维护成本。Browserku使每个人都能做到这一点。",
+      "tagline": "用于网络搜刮、屏幕截图、PDF生成等的API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "網絡抓取、截圖、生成PDF應該像一個簡單的HTTP請求一樣容易，而且沒有維護成本。Browserku使每個人都能做到這一點。",
+      "tagline": "用於網絡搜刮、屏幕截圖、PDF生成等的API"
+    }
+  ]
 }
