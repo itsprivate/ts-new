@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムの取引手数料で35万円を支払いました。取引は失敗し 手数料がなくなった。"
+    },
+    {
+      "locale": "zh",
+      "title": "支付了35万美元的以太坊交易费。交易失败。费用没了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "支付了35萬美元的以太坊交易費。交易失敗。費用沒了。"
+    }
+  ]
 }
