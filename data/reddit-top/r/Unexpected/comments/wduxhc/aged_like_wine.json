@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワインのように熟成させる"
+    },
+    {
+      "locale": "zh",
+      "title": "像酒一样陈酿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "像酒一樣陳釀"
+    }
+  ]
 }
