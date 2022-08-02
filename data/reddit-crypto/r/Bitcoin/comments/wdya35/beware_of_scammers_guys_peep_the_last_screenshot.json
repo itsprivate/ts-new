@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "詐欺師たちに気をつけろ 最後のスクリーンショットをご覧ください。デバイスからの指示に従うだけで、これ以上何もする必要はありません。"
+    },
+    {
+      "locale": "zh",
+      "title": "谨防骗子，伙计们。请看最后一张截图。只需遵循你的设备的指示，你不需要做更多事情。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "謹防騙子，夥計們。請看最後一張截圖。只需遵循你的設備的指示，你不需要做更多事情。"
+    }
+  ]
 }
