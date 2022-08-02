@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は、ある特定の戦略やパターンに基づいて株式を売買するプログラムを書いています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我写了一个程序，将根据某些书面策略和模式买入或卖出股票。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我寫了一個程序，將根據某些書面策略和模式買入或賣出股票。"
+    }
+  ]
 }
