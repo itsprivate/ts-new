@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本の戦国時代の名前「戦国時代」は、それ以前の中国の同名の時代「戰国時代」を意図的に引用していると考えていいのでしょうか。いつ、どのように、誰が命名したのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我认为日本战国时代的名称（Sengoku Jidai 戦国时代）是对更早的中国同名时期（Zhànguó Shídài 戰国时代）的有意影射，这样说对吗？这个时期是何时、如何、由谁命名的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我認爲日本戰國時代的名稱（Sengoku Jidai 戦國時代）是對更早的中國同名時期（Zhànguó Shídài 戰國時代）的有意影射，這樣說對嗎？這個時期是何時、如何、由誰命名的？"
+    }
+  ]
 }
