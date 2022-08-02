@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ワークフローを実現するTwitterデッキ、ドラッグ＆ドロップでコンテンツに注釈をつけることができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个用于工作流程的Twitter甲板，以及用拖放方式注释内容。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個用於工作流程的Twitter甲板，以及用拖放方式註釋內容。"
+    }
+  ]
 }
