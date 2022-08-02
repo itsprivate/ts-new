@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの変わった体の特徴を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "你有什么不寻常的身体特征？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有什麼不尋常的身體特徵？"
+    }
+  ]
 }
