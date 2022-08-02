@@ -52,5 +52,22 @@
   "original_created_at": "2022-04-11T16:34:23Z",
   "image": "https://dev.to/social_previews/article/1051935.png",
   "author": "Tom Milner",
-  "author_url": "https://dev.to/tom_millner"
+  "author_url": "https://dev.to/tom_millner",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 先日、AWS認定ソリューションアーキテクト - プロフェッショナル試験に合格しました...。",
+      "title": "AWS認定ソリューションアーキテクト - プロフェッショナル試験の合格を目指す"
+    },
+    {
+      "locale": "zh",
+      "description": "简介：我最近通过了AWS认证解决方案架构师--专业考试....",
+      "title": "通过AWS认证解决方案架构师--专业考试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "簡介：我最近通過了AWS認證解決方案架構師--專業考試....",
+      "title": "通過AWS認證解決方案架構師--專業考試"
+    }
+  ]
 }
