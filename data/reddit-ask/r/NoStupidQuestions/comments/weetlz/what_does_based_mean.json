@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ベースとは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "\"基于 \"是什么意思？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"基於 \"是什麼意思？"
+    }
+  ]
 }

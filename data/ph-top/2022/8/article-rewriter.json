@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-02T07:01:00Z"
+  "original_createdAt": "2022-08-02T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AISEOのArticle rewriterは、コンテンツの意味を保ちながらリライトすることをシンプルにサポートします。GPT-3をはじめとするAIエンジンを使って、圧倒的なスピードでこれを実現します。",
+      "tagline": "業界最高峰のAI記事リライター"
+    },
+    {
+      "locale": "zh",
+      "description": "AISEO的文章改写器只是帮助你在保留内容意义的前提下改写内容。它使用GPT-3和其他人工智能引擎，以极快的速度完成这项工作。",
+      "tagline": "业界最复杂的AI文章改写者"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AISEO的文章改寫器只是幫助你在保留內容意義的前提下改寫內容。它使用GPT-3和其他人工智能引擎，以極快的速度完成這項工作。",
+      "tagline": "業界最複雜的AI文章改寫者"
+    }
+  ]
 }
