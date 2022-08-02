@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアムのマージが近づく中、主要なマイナーがプルーフ・オブ・ワーク・フォークを推進しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "随着以太坊合并的临近，一个关键的矿工正在推送一个工作证明分叉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "隨着以太坊合併的臨近，一個關鍵的礦工正在推送一個工作證明分叉"
+    }
+  ]
 }
