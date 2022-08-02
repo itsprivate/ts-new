@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Add in any fun details, e.g. comparing it to the women’s rights of your home\ncountry, why you feel the way you do, any things that particularly stick out,\netc."
+  "the_new_excerpt": "Add in any fun details, e.g. comparing it to the women’s rights of your home\ncountry, why you feel the way you do, any things that particularly stick out,\netc.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "自国の女性の権利と比較するなど、楽しい内容があれば追加してください。\nなぜそのように感じたのか、特に印象に残っていること。\nなど。",
+      "title": "アメリカ以外の女性-アメリカ国内での女性の権利の状況をどのように見ていますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "添加任何有趣的细节，例如将其与你本国的妇女权利进行比较。\n国家的妇女权利进行比较，你为什么有这样的感觉，任何特别突出的事情。\n等等。",
+      "title": "美国以外的妇女--你如何看待美国境内的妇女权利状况？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "添加任何有趣的細節，例如將其與你本國的婦女權利進行比較。\n國家的婦女權利進行比較，你爲什麼有這樣的感覺，任何特別突出的事情。\n等等。",
+      "title": "美國以外的婦女--你如何看待美國境內的婦女權利狀況？"
+    }
+  ]
 }
