@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Pretty much the title, I've never been to a psychologist, and I'm feeling a\nlittle sad lately but I don't know why, I don't want to go there without any\nreal problem and make them waste their time."
+  "the_new_excerpt": "Pretty much the title, I've never been to a psychologist, and I'm feeling a\nlittle sad lately but I don't know why, I don't want to go there without any\nreal problem and make them waste their time.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "かなりタイトル、心療内科に行ったことがなく、気分は\n最近少し悲しい気持ちになっているのですが、なぜでしょうか？\n本当に困っているのに行って、無駄な時間を過ごさせるのは嫌です。",
+      "title": "気分が悪いけど、なぜそう感じるのか分からないので、心理カウンセラーの予約をお願いしてもいいでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "差不多就是这个题目，我从来没有看过心理医生，而且我觉得\n最近有点难过，但我不知道为什么，我不想在没有任何实际问题的情况下去那里，让他们浪费时间。\n我不想在没有任何实际问题的情况下去那里，让他们浪费自己的时间。",
+      "title": "因为我感觉不好，但我不知道为什么会有这种感觉，所以要求预约心理医生可以吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "差不多就是這個題目，我從來沒有看過心理醫生，而且我覺得\n最近有點難過，但我不知道爲什麼，我不想在沒有任何實際問題的情況下去那裏，讓他們浪費時間。\n我不想在沒有任何實際問題的情況下去那裏，讓他們浪費自己的時間。",
+      "title": "因爲我感覺不好，但我不知道爲什麼會有這種感覺，所以要求預約心理醫生可以嗎？"
+    }
+  ]
 }

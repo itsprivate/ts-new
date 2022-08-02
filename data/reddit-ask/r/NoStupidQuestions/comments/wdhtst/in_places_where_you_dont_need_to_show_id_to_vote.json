@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It seems so easy to vote many times in different places, giving them incorrect\nnames each time."
+  "the_new_excerpt": "It seems so easy to vote many times in different places, giving them incorrect\nnames each time.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "いろいろな場所で何度も投票するのは簡単なようで、不正確な情報を与えてしまう。\nその都度、間違った名前をつけて",
+      "title": "身分証明書を提示しなくても投票できるところでは、どうして大きな問題が起きないのでしょうか。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "似乎很容易在不同的地方多次投票，给他们带来不正确的\n的名字。",
+      "title": "在那些不需要出示身份证就能投票的地方，怎么会不造成巨大的问题？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "似乎很容易在不同的地方多次投票，給他們帶來不正確的\n的名字。",
+      "title": "在那些不需要出示身份證就能投票的地方，怎麼會不造成巨大的問題？"
+    }
+  ]
 }

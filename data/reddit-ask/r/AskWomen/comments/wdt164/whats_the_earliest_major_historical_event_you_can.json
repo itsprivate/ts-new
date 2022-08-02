@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが記憶している最も古い歴史的な大事件は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在你印象中，最早发生的重大历史事件是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你印象中，最早發生的重大歷史事件是什麼？"
+    }
+  ]
 }

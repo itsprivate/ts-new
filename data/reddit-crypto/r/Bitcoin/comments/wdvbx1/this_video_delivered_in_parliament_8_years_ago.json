@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "8年前に国会で配信されたこの映像は、ビットコインが必然であることを象徴している"
+    },
+    {
+      "locale": "zh",
+      "title": "8年前在议会发表的这段视频象征着，比特币是不可避免的"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "8年前在議會發表的這段視頻象徵着，比特幣是不可避免的"
+    }
+  ]
 }
