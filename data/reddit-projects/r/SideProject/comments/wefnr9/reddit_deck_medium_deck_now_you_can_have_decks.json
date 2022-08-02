@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditデッキ、Mediumデッキなど、TwitterDeckのようにあらゆるウェブサイトのデッキを作成することができます。"
+    },
+    {
+      "locale": "zh",
+      "title": "Reddit甲板，Medium甲板，现在你可以像TwitterDeck一样，为任何网站提供甲板。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Reddit甲板，Medium甲板，現在你可以像TwitterDeck一樣，爲任何網站提供甲板。"
+    }
+  ]
 }
