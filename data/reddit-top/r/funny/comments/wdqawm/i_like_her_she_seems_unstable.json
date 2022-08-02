@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "不安定な感じがして好き"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢她，她看起来很不稳定"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡她，她看起來很不穩定"
+    }
+  ]
 }
