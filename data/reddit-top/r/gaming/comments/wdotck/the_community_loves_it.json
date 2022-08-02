@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地域から愛されています"
+    },
+    {
+      "locale": "zh",
+      "title": "社区喜欢它!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "社區喜歡它!"
+    }
+  ]
 }
