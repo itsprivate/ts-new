@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-31T07:56:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7oFYw6oC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g28sddwwke94ey3jvtb8.png",
   "author": "Osama",
-  "author_url": "https://dev.to/osam1010"
+  "author_url": "https://dev.to/osam1010",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Redisを使用して頻繁にフェッチされたデータをキャッシュすることにより、サーバーのパフォーマンスを向上させることができます。          ...",
+      "title": "Node.jsの上級者向けトピック。 キャッシング"
+    },
+    {
+      "locale": "zh",
+      "description": "通过使用Redis缓存经常获取的数据来提高你的服务器性能。          ...",
+      "title": "高级Node.js主题。 缓存。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過使用Redis緩存經常獲取的數據來提高你的服務器性能。          ...",
+      "title": "高級Node.js主題。 緩存。"
+    }
+  ]
 }
