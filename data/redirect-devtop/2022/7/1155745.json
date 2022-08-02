@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-31T07:16:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l0YMDNOJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/415rlk1crspbvmapb5tj.png",
   "author": "Archit Sharma",
-  "author_url": "https://dev.to/iarchitsharma"
+  "author_url": "https://dev.to/iarchitsharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Kubernetesは、デプロイメントやアップデートを簡単に自動化することで、開発プロセスをスピードアップすることができます...",
+      "title": "Kubernetesの歴史⏱️。"
+    },
+    {
+      "locale": "zh",
+      "description": "Kubernetes可以通过简单、自动化的部署、更新来加速开发过程。",
+      "title": "Kubernetes的历史⏱️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Kubernetes可以通過簡單、自動化的部署、更新來加速開發過程。",
+      "title": "Kubernetes的歷史⏱️"
+    }
+  ]
 }
