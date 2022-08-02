@@ -45,5 +45,22 @@
   "original_created_at": "2022-07-31T13:14:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NjWvut2w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mpxwjcfu31lc93k9w5k.png",
   "author": "Johnny Simpson",
-  "author_url": "https://dev.to/smpnjn"
+  "author_url": "https://dev.to/smpnjn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": ".webp形式は、広くサポートされている圧縮画像形式で、ますます一般的になってきています...",
+      "title": "ターミナルから画像をWebPに変換してWebサイトを高速化しよう"
+    },
+    {
+      "locale": "zh",
+      "description": ".webp格式是一种被广泛支持的压缩图像格式，正变得越来越普遍。",
+      "title": "通过从终端将您的图片转换为WebP来加快您的网站速度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": ".webp格式是一種被廣泛支持的壓縮圖像格式，正變得越來越普遍。",
+      "title": "通過從終端將您的圖片轉換爲WebP來加快您的網站速度"
+    }
+  ]
 }
