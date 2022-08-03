@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "GitやDockerからクラウド上でプロジェクトを実行するためのローコードデプロイメントを構築しました"
+    },
+    {
+      "locale": "zh",
+      "title": "我们已经建立了一个低代码部署器，可以从Git或Docker在云端运行项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們已經建立了一個低代碼部署器，可以從Git或Docker在雲端運行項目"
+    }
+  ]
 }

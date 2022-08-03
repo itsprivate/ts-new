@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-01T22:12:24Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BF946ESW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7cck8oa8oxbwtgu8m6wn.png",
   "author": "Michael Salim",
-  "author_url": "https://dev.to/michaelsalim"
+  "author_url": "https://dev.to/michaelsalim",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はい、その数字で合っています。そして、すごいんです! ほんの数年前まではあり得なかったことです...。",
+      "title": "ブラウザのタブを218個開いている"
+    },
+    {
+      "locale": "zh",
+      "description": "是的，这个数字是正确的。而且这很了不起! 这在短短的几年内是不可能的......",
+      "title": "我有218个浏览器标签打开"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "是的，這個數字是正確的。而且這很了不起! 這在短短的幾年內是不可能的......",
+      "title": "我有218個瀏覽器標籤打開"
+    }
+  ]
 }
