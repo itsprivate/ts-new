@@ -45,5 +45,22 @@
   "original_created_at": "2022-08-03T09:10:37Z",
   "image": "https://dev.to/social_previews/article/1158202.png",
   "author": "Omer Elbaz",
-  "author_url": "https://dev.to/omerwow"
+  "author_url": "https://dev.to/omerwow",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜTypeScriptなのか？  別の記事でTypeScriptについていろいろ説明していますが、TypeScriptとは...",
+      "title": "TypeScript - Reactでの最適な使用方法"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么是TypeScript？  我有另一篇文章，解释了很多关于TypeScript的内容，它是什么...",
+      "title": "TypeScript - 在React中使用它的最佳方式"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼是TypeScript？  我有另一篇文章，解釋了很多關於TypeScript的內容，它是什麼...",
+      "title": "TypeScript - 在React中使用它的最佳方式"
+    }
+  ]
 }
