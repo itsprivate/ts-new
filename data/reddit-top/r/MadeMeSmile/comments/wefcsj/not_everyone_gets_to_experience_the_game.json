@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "誰もがゲームを体験できるわけではない"
+    },
+    {
+      "locale": "zh",
+      "title": "不是每个人都能体验到这一游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不是每個人都能體驗到這一遊戲"
+    }
+  ]
 }
