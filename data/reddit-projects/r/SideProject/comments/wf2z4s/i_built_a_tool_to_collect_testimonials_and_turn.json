@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "証言を集めて、コードなしで美しいソーシャル画像にするツールを作りました🦄🐙🦄。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个工具来收集推荐信，并把它们变成美丽的社交图片，而不需要代码🦄🐙。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個工具來收集推薦信，並把它們變成美麗的社交圖片，而不需要代碼🦄🐙。"
+    }
+  ]
 }
