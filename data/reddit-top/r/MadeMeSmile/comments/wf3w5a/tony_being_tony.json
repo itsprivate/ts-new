@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トニーはトニーである"
+    },
+    {
+      "locale": "zh",
+      "title": "托尼是托尼"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "託尼是託尼"
+    }
+  ]
 }
