@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: i love reading everyone’s meet cute so far."
+  "the_new_excerpt": "Edit: i love reading everyone’s meet cute so far.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集部：今までのみんなのミートキュート読んでて楽しかったです。",
+      "title": "今まで経験した中で一番かわいい「ミート・キュート」は？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：我喜欢看大家的见面会，到目前为止都很可爱。",
+      "title": "你经历过的最可爱的 \"见面萌 \"是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：我喜歡看大家的見面會，到目前爲止都很可愛。",
+      "title": "你經歷過的最可愛的 \"見面萌 \"是什麼？"
+    }
+  ]
 }

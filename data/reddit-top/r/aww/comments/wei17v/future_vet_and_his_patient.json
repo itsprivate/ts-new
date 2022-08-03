@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未来の獣医師とその患者"
+    },
+    {
+      "locale": "zh",
+      "title": "未来的兽医和他的病人"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "未來的獸醫和他的病人"
+    }
+  ]
 }
