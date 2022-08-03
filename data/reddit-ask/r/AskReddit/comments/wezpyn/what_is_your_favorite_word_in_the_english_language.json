@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "英語の中で一番好きな言葉は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在英语中你最喜欢的词是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在英語中你最喜歡的詞是什麼？"
+    }
+  ]
 }
