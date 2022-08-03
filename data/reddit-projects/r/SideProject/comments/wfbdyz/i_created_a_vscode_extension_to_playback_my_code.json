@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分のコードを再生するためにVSCodeの拡張機能を作り、コーディングのチュートリアルを改善するのに役立てました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我创建了一个VSCode扩展来回放我的代码，帮助我提高我的编码教程"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我創建了一個VSCode擴展來回放我的代碼，幫助我提高我的編碼教程"
+    }
+  ]
 }
