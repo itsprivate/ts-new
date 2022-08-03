@@ -45,5 +45,22 @@
   "original_created_at": "2022-08-01T13:16:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--geKR_Ob5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gb66zz76js6x5ox6yp0j.jpg",
   "author": "Manuel Odendahl",
-  "author_url": "https://dev.to/wesen"
+  "author_url": "https://dev.to/wesen",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この20年間、私はC言語からCommon Lispまで、十数種類の言語を専門的に使ってきました。",
+      "title": "20年以上のキャリアを持つ私は、今でもPHPとJavascriptを愛しています。"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去的二十年里，我在专业上使用了十几种语言，从C到Common Lisp，...",
+      "title": "在我职业生涯的20多年里，我仍然热爱PHP和Javascript"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去的二十年裏，我在專業上使用了十幾種語言，從C到Common Lisp，...",
+      "title": "在我職業生涯的20多年裏，我仍然熱愛PHP和Javascript"
+    }
+  ]
 }
