@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたにとって、料理を台無しにしてしまう食材は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么成分会自动毁掉一道菜？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼成分會自動毀掉一道菜？"
+    }
+  ]
 }
