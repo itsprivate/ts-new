@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが考える、労力がかからず、高いリターンを得られるが、見落とされがちなことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在您看来，您所做的一件低强度的事情是什么，它具有巨大的高层次回报，但却经常被忽视？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在您看來，您所做的一件低強度的事情是什麼，它具有巨大的高層次回報，但卻經常被忽視？"
+    }
+  ]
 }
