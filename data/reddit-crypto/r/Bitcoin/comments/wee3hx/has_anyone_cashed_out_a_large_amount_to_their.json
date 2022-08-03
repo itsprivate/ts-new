@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "I mean from exchanges such as Coinbase, kraken or crypto.com start to their\nbanks"
+  "the_new_excerpt": "I mean from exchanges such as Coinbase, kraken or crypto.com start to their\nbanks",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "つまり、Coinbase、kraken、crypto.comなどの取引所から、彼らの銀行まで。\n銀行",
+      "title": "5万円～10万円などの大金を銀行にキャッシングした方、銀行から何か質問されたことはありますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我是指从Coinbase、Kraken或crypto.com等交易所开始到他们的\n银行",
+      "title": "有没有人向银行兑现了大笔资金，如5万至10万，银行有没有质疑？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我是指從Coinbase、Kraken或crypto.com等交易所開始到他們的\n銀行",
+      "title": "有沒有人向銀行兌現了大筆資金，如5萬至10萬，銀行有沒有質疑？"
+    }
+  ]
 }
