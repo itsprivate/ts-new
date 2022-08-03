@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "毎日1冊のアクティビティブック（印刷物）を公開するウェブサイトを作りました"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网站，每天发布一本活动手册（可打印的）！\"。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網站，每天發佈一本活動手冊（可打印的）！\"。"
+    }
+  ]
 }
