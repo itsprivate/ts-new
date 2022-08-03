@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-03T07:45:21Z"
+  "original_createdAt": "2022-08-03T07:45:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Sitekickは、AIランディングページビルダーです。コーディングやデザイン、コピーライティングのスキルを必要とせず、美しいランディングページを作成することができます。",
+      "tagline": "AIランディングページビルダー、GPT-3搭載"
+    },
+    {
+      "locale": "zh",
+      "description": "Sitekick是一个人工智能着陆页构建器。它允许你创建漂亮的着陆页，而不需要编码、设计或文案写作技巧。",
+      "tagline": "由GPT-3提供的AI着陆页构建器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Sitekick是一個人工智能着陸頁構建器。它允許你創建漂亮的着陸頁，而不需要編碼、設計或文案寫作技巧。",
+      "tagline": "由GPT-3提供的AI着陸頁構建器"
+    }
+  ]
 }
