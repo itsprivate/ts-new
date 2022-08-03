@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-03T07:24:35Z"
+  "original_createdAt": "2022-08-03T07:24:35Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OpenBB Botは、高品質なマーケットデータ（例：「SBI-Market」）へのアクセスを簡素化することで、投資リサーチコミュニティをひとつにまとめています。",
+      "tagline": "コミュニティと一緒に投資調査をすることが、これまでになく簡単になりました"
+    },
+    {
+      "locale": "zh",
+      "description": "OpenBB Bot通过简化对高质量市场数据（如期权、黑池等）的访问，将投资研究社区聚集在一起，自定义图表并设置警报--直接从您的首选聊天平台（如Discord）。",
+      "tagline": "与社区的投资研究从未如此简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "OpenBB Bot通過簡化對高質量市場數據（如期權、黑池等）的訪問，將投資研究社區聚集在一起，自定義圖表並設置警報--直接從您的首選聊天平臺（如Discord）。",
+      "tagline": "與社區的投資研究從未如此簡單"
+    }
+  ]
 }
