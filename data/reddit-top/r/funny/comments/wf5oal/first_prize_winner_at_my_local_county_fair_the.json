@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地元のカウンティ・フェアで一等賞を受賞しました。これほどまでに多くの大人がすり抜けたことに、私は驚きを隠せません。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我当地的县集市上获得了一等奖。有那么多的成年人从我身边溜走，这让我很吃惊。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我當地的縣集市上獲得了一等獎。有那麼多的成年人從我身邊溜走，這讓我很喫驚。"
+    }
+  ]
 }
