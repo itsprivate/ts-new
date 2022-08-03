@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Googleで製品が言及されている場所をすべて取得するスクリプトを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个脚本，可以获得你的产品在谷歌上被提及的所有地方。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個腳本，可以獲得你的產品在谷歌上被提及的所有地方。"
+    }
+  ]
 }
