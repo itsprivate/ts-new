@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "火には火を"
+    },
+    {
+      "locale": "zh",
+      "title": "以火攻火"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以火攻火"
+    }
+  ]
 }
