@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの周りの変なWifiの名前は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你周围最奇怪的Wifi名称是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你周圍最奇怪的Wifi名稱是什麼？"
+    }
+  ]
 }
