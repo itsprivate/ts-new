@@ -50,5 +50,22 @@
   "original_created_at": "2022-08-02T03:39:32Z",
   "image": "https://dev.to/social_previews/article/1157123.png",
   "author": "Ben Brazier",
-  "author_url": "https://dev.to/bentorvo"
+  "author_url": "https://dev.to/bentorvo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "環境変数は、ソフトウェアを設定するための簡単な方法です。環境変数は、ソフトウェアの設定を行う簡単な方法です。",
+      "title": "環境変数を使用しない4つの理由"
+    },
+    {
+      "locale": "zh",
+      "description": "环境变量是配置软件的一种简单方法。它们让你在软件中设置一个变量。",
+      "title": "不使用环境变量的4个理由"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "環境變量是配置軟件的一種簡單方法。它們讓你在軟件中設置一個變量。",
+      "title": "不使用環境變量的4個理由"
+    }
+  ]
 }
