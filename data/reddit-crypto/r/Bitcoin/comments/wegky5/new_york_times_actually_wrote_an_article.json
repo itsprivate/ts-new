@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ニューヨークタイムズは、実際にビットコインと \"クリプト \"の違いを強調する記事を書いています。"
+    },
+    {
+      "locale": "zh",
+      "title": "纽约时报》实际上写了一篇文章，强调比特币和 \"加密货币 \"之间的区别"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "紐約時報》實際上寫了一篇文章，強調比特幣和 \"加密貨幣 \"之間的區別"
+    }
+  ]
 }
