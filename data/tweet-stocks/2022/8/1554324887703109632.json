@@ -1,0 +1,103 @@
+{
+  "created_at": "Wed Aug 03 3:5:55 +0000 2022",
+  "id_str": "1554324887703109632",
+  "full_text": "👀 https://t.co/vqXyvZdfNA",
+  "display_text_range": [
+    0,
+    1
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/vqXyvZdfNA",
+        "expanded_url": "https://twitter.com/intelcrab/status/1554324644924104704",
+        "display_url": "twitter.com/intelcrab/stat…",
+        "indices": [
+          2,
+          25
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "The_Real_Fly",
+    "screen_name": "The_Real_Fly",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1365459205453471751/LL4GKo3m_normal.jpg"
+  },
+  "retweet_count": 57,
+  "favorite_count": 189,
+  "possibly_sensitive": false,
+  "original_created_at": "Tue Aug 02 04:35:05 +0000 2022",
+  "quoted_status": {
+    "created_at": "Tue Aug 02 04:34:07 +0000 2022",
+    "id_str": "1554324644924104704",
+    "full_text": "Almost all flights departing from the coastal #Fujian region have suddenly been cancelled. https://t.co/ZdNyLhn0uT",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Fujian",
+          "indices": [
+            46,
+            53
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1554324641778368500,
+          "id_str": "1554324641778368512",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZISBsrWAAAWm9g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZISBsrWAAAWm9g.jpg",
+          "url": "https://t.co/ZdNyLhn0uT",
+          "display_url": "pic.twitter.com/ZdNyLhn0uT",
+          "expanded_url": "https://twitter.com/IntelCrab/status/1554324644924104704/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "The Intel Crab",
+      "screen_name": "IntelCrab",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541174342163259393/0hIw2LsE_normal.jpg"
+    },
+    "retweet_count": 609,
+    "favorite_count": 2199,
+    "possibly_sensitive": false
+  }
+}
