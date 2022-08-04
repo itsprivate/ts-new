@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-03T06:31:46Z",
   "image": "https://dev.to/social_previews/article/1158084.png",
   "author": "simc dev CSM®",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コードレビューは、効果的なソフトウェアエンジニアリングチームの接着剤です。コードレビューとは...",
+      "title": "コードレビューに必要な5つのルール"
+    },
+    {
+      "locale": "zh",
+      "description": "代码审查是任何有效的软件工程团队的粘合剂。代码审查是一个阶段。",
+      "title": "每一次代码审查的5个规则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "代碼審查是任何有效的軟件工程團隊的粘合劑。代碼審查是一個階段。",
+      "title": "每一次代碼審查的5個規則"
+    }
+  ]
 }
