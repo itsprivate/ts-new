@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは教会への課税を支持しますか？その理由またはそう考えない理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会支持对教会征税吗？为什么或为什么不呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會支持對教會徵稅嗎？爲什麼或爲什麼不呢？"
+    }
+  ]
 }

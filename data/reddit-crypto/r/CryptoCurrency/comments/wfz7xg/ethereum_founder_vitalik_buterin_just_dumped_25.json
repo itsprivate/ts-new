@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "イーサリアム創設者ヴィタリック・ブテリンは25兆のクソトークンをUniswapに投棄した。"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊创始人Vitalik Buterin刚刚在Uniswap上抛出了25万亿个狗屎代币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊創始人Vitalik Buterin剛剛在Uniswap上拋出了25萬億個狗屎代幣"
+    }
+  ]
 }
