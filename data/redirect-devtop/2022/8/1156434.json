@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-01T09:49:50Z",
   "image": "https://dev.to/social_previews/article/1156434.png",
   "author": "Roy",
-  "author_url": "https://dev.to/roy8"
+  "author_url": "https://dev.to/roy8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AWS DynamoDBとは？  AWS DynamoDBは、高速でスケーラブル、かつフルマネージドなNoSQLデータベースです...",
+      "title": "DynamoDBの長所と短所"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是AWS DynamoDB？  AWS DynamoDB是一个快速、可扩展、完全可管理的NoSQL数据库...",
+      "title": "DynamoDB的优点和缺点"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是AWS DynamoDB？  AWS DynamoDB是一個快速、可擴展、完全可管理的NoSQL數據庫...",
+      "title": "DynamoDB的優點和缺點"
+    }
+  ]
 }
