@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-04T07:00:00Z"
+  "original_createdAt": "2022-08-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "CodeShieldは、AWSのIAM権限を保護するのに役立ちます。これは、過剰な特権を持つIAM権限と特権の昇格を識別します。発見されたすべてのエスカレーション、危険にさらされているリソース、および推奨される修正について、ステップバイステップの悪用ウォークスルーを得ることができます。",
+      "tagline": "AWSアカウントにおけるIAM権限昇格の検出と修正"
+    },
+    {
+      "locale": "zh",
+      "description": "CodeShield帮助你保护你的AWS IAM权限。它可以识别过度授权的IAM权限和权限升级。你会得到所有被发现的升级的一步步的利用演练，有风险的资源，以及修复建议。",
+      "tagline": "检测并修复AWS账户中的IAM权限升级问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "CodeShield幫助你保護你的AWS IAM權限。它可以識別過度授權的IAM權限和權限升級。你會得到所有被發現的升級的一步步的利用演練，有風險的資源，以及修復建議。",
+      "tagline": "檢測並修復AWS賬戶中的IAM權限升級問題"
+    }
+  ]
 }
