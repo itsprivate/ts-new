@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "持っている色からアクリル絵の具のレシピを生成するWebアプリを作ってみた🎨 🖌️。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个网络应用，可以根据你拥有的颜色生成丙烯酸颜料的配方🎨🖌️。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個網絡應用，可以根據你擁有的顏色生成丙烯酸顏料的配方🎨🖌️。"
+    }
+  ]
 }
