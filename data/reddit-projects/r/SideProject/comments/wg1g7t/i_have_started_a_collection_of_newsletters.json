@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It's called Future Ready and all the newsletters are free. You can subscribe by\ngoing to https://futureready.substack.com/ ."
+  "the_new_excerpt": "It's called Future Ready and all the newsletters are free. You can subscribe by\ngoing to https://futureready.substack.com/ .",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Future Readyという名前で、メルマガはすべて無料です。購読するには\nhttps://futureready.substack.com/ にアクセスしてください。",
+      "title": "AI、ブロックチェーン、ロボティクス、AR、VR、XR、IoT、Web 3.0の最新動向を短いニュースバイトでカバーするニュースレター集を始めました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "它被称为 \"未来准备\"，所有的新闻简报都是免费的。你可以通过以下方式订阅\n到 https://futureready.substack.com/ 。",
+      "title": "我已经开始收集新闻简报，通过简短的新闻剪辑，涵盖人工智能、区块链、机器人、AR、VR、XR、物联网和Web 3.0的最新发展。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "它被稱爲 \"未來準備\"，所有的新聞簡報都是免費的。你可以通過以下方式訂閱\n到 https://futureready.substack.com/ 。",
+      "title": "我已經開始收集新聞簡報，通過簡短的新聞剪輯，涵蓋人工智能、區塊鏈、機器人、AR、VR、XR、物聯網和Web 3.0的最新發展。"
+    }
+  ]
 }
