@@ -44,5 +44,17 @@
   "original_created_at": "2020-10-20T19:05:36Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NrbySORy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l3vh4qz6j9whbvtvdpwg.jpg",
   "author": "Andrey Smolko",
-  "author_url": "https://dev.to/smlka"
+  "author_url": "https://dev.to/smlka",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "包装函数（又称高阶函数）是增强你的其他行为的一个好方法。",
+      "title": "透明地包裹一个函数"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "包裝函數（又稱高階函數）是增強你的其他行爲的一個好方法。",
+      "title": "透明地包裹一個函數"
+    }
+  ]
 }
