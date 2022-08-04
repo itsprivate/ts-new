@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "To me, a chicken sandwich is pieces of chicken between regular sliced bread. If\nit’s fried chicken in a burger bun, it’s a chicken burger"
+  "the_new_excerpt": "To me, a chicken sandwich is pieces of chicken between regular sliced bread. If\nit’s fried chicken in a burger bun, it’s a chicken burger",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "私にとってのチキンサンドは、普通のスライスしたパンにチキンのピースを挟んだものです。もし\nフライドチキンをバーガーパンで挟んだものなら、それはチキンバーガーです。",
+      "title": "アメリカ人はなぜ、チキンバーガーを「チキンサンド」と呼ぶのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对我来说，鸡肉三明治是夹在普通切片面包之间的鸡肉块。如果\n如果是汉堡包里的炸鸡，那就是鸡肉汉堡。",
+      "title": "为什么美国人把鸡肉汉堡称为 \"鸡肉三明治\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對我來說，雞肉三明治是夾在普通切片面包之間的雞肉塊。如果\n如果是漢堡包裏的炸雞，那就是雞肉漢堡。",
+      "title": "爲什麼美國人把雞肉漢堡稱爲 \"雞肉三明治\"？"
+    }
+  ]
 }
