@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-03T14:38:20Z",
   "image": "https://dev.to/social_previews/article/1158427.png",
   "author": "Peter Shershov",
-  "author_url": "https://dev.to/petershershov"
+  "author_url": "https://dev.to/petershershov",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "UIプロジェクトの開発では、コンポーネントの実行とデバッグを高速に行えることが...",
+      "title": "ビジュアルツールを活用してReactの開発経験を向上させた方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们在开发一个用户界面项目时，能够快速地运行和调试我们的组件是获得成功的关键。",
+      "title": "我是如何通过利用可视化工具改善我的React开发经验的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們在開發一個用戶界面項目時，能夠快速地運行和調試我們的組件是獲得成功的關鍵。",
+      "title": "我是如何通過利用可視化工具改善我的React開發經驗的"
+    }
+  ]
 }
