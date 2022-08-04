@@ -76,5 +76,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-04T07:03:11Z"
+  "original_createdAt": "2022-08-04T07:03:11Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SAML Jacksonを使えば、1週間以内に導入できるSAMLへの素直な統合を構築するだけです これは、SAMLログイン・フローをOAuth 2.0またはOpenID Connectフローとして実装し、SAMLプロトコルの複雑さをすべて取り除くことによって実現されています。",
+      "tagline": "わずか数行のコードでエンタープライズSSOを統合可能"
+    },
+    {
+      "locale": "zh",
+      "description": "SAML Jackson允许你只建立一个直接的集成到SAML，可以在一个星期内部署完毕! 我们通过将SAML登录流程实现为OAuth 2.0或OpenID Connect流程，摆脱了SAML协议的所有复杂性。",
+      "tagline": "只需几行代码就能整合企业SSO"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SAML Jackson允許你只建立一個直接的集成到SAML，可以在一個星期內部署完畢! 我們通過將SAML登錄流程實現爲OAuth 2.0或OpenID Connect流程，擺脫了SAML協議的所有複雜性。",
+      "tagline": "只需幾行代碼就能整合企業SSO"
+    }
+  ]
 }

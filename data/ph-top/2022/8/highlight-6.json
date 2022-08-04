@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-04T07:01:00Z"
+  "original_createdAt": "2022-08-04T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Highlightは、お客様の問題を理解し、デバッグすることを容易にします。セッション再生、エラースタックのトレース、ユーザーコンソールの可視化により、Highlightはデバッグの謎を解き明かします。",
+      "tagline": "お客様の問題を迅速に理解し、デバッグする"
+    },
+    {
+      "locale": "zh",
+      "description": "突出显示使其易于理解和调试客户问题。通过会话回放、错误堆栈跟踪和用户控制台可见性，Highlight消除了调试的神秘性。",
+      "tagline": "迅速了解并调试客户问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "突出顯示使其易於理解和調試客戶問題。通過會話回放、錯誤堆棧跟蹤和用戶控制檯可見性，Highlight消除了調試的神祕性。",
+      "tagline": "迅速瞭解並調試客戶問題"
+    }
+  ]
 }
