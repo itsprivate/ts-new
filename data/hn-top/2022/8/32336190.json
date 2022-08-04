@@ -13,5 +13,19 @@
   ],
   "objectID": "32336190",
   "original_created_at": "2022-08-03T20:11:57.000Z",
-  "image": "https://gitlab.alpinelinux.org/uploads/-/system/project/avatar/1319/alogo.png"
+  "image": "https://gitlab.alpinelinux.org/uploads/-/system/project/avatar/1319/alogo.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Alpine LinuxはBusyboxへの依存を減らしています。"
+    },
+    {
+      "locale": "zh",
+      "title": "Alpine Linux正在减少对Busybox的依赖性"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Alpine Linux正在減少對Busybox的依賴性"
+    }
+  ]
 }
