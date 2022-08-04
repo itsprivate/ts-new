@@ -60,5 +60,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私はyoutubeチャンネルを開始したいです🎢そして私はReactでタイピング速度アプリケーションを作成する方法について、このビデオを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想开一个YouTube频道🎬，所以我创建了这个视频，介绍如何用React创建一个打字速度的应用程序。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想開一個YouTube頻道🎬，所以我創建了這個視頻，介紹如何用React創建一個打字速度的應用程序。"
+    }
+  ]
 }
