@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-03T07:00:00Z"
+  "original_createdAt": "2022-08-03T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hacker Newsであなたの会社・製品が紹介されたら、Slackで通知してくれるボットです。Powered by Vercel Functions & Upstash.",
+      "tagline": "HNメンションをSlackに通知する"
+    },
+    {
+      "locale": "zh",
+      "description": "只要你的公司/产品在Hacker News上被提及，机器人就会在Slack上通知你。由Vercel Functions和Upstash提供。",
+      "tagline": "获取Slack通知，了解HN的提及情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "只要你的公司/產品在Hacker News上被提及，機器人就會在Slack上通知你。由Vercel Functions和Upstash提供。",
+      "tagline": "獲取Slack通知，瞭解HN的提及情況"
+    }
+  ]
 }
