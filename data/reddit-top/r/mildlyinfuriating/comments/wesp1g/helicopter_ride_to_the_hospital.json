@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "My mom was flown to another hospital in a helicopter and this is how much it\ncosts?!"
+  "the_new_excerpt": "My mom was flown to another hospital in a helicopter and this is how much it\ncosts?!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "母がヘリコプターで他の病院に運ばれたのですが、これだけ\nがかかるんです。",
+      "title": "ヘリコプターで病院へ"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我妈妈被用直升机运到另一家医院，这就是它的价值。\n昂贵的费用？",
+      "title": "乘坐直升飞机前往医院"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我媽媽被用直升機運到另一家醫院，這就是它的價值。\n昂貴的費用？",
+      "title": "乘坐直升飛機前往醫院"
+    }
+  ]
 }
