@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが違法なものをひとつ合法にできるとしたら、それは何ですか？なぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能把一件非法的事情变成合法的，那会是什么，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能把一件非法的事情變成合法的，那會是什麼，爲什麼？"
+    }
+  ]
 }
