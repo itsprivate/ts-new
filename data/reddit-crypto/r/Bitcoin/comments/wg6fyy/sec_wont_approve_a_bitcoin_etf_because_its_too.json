@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "SECがビットコインETFを承認しないのは、リスクが高すぎるからだ。一方、彼らは以下のような-100%下落したETFを大量に承認しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "美国证券交易委员会不会批准比特币ETF，因为其风险太大。同时，他们批准了大量的ETF，这些ETF已经下跌了-100%，比如这个"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國證券交易委員會不會批准比特幣ETF，因爲其風險太大。同時，他們批准了大量的ETF，這些ETF已經下跌了-100%，比如這個"
+    }
+  ]
 }
