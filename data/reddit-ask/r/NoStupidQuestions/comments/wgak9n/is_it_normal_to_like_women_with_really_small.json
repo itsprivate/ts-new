@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "title"
+  "the_new_excerpt": "title",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトル",
+      "title": "本当に胸が小さくても大人っぽい女性が好きなのは普通なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "职称",
+      "title": "喜欢乳房非常小但看起来仍像成年人的女人，这正常吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "職稱",
+      "title": "喜歡乳房非常小但看起來仍像成年人的女人，這正常嗎？"
+    }
+  ]
 }

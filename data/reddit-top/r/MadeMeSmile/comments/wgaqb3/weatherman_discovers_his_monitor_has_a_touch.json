@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "天気予報士がモニターにタッチパネルがあることを発見し、すぐに子供に変身する。"
+    },
+    {
+      "locale": "zh",
+      "title": "气象员发现他的显示器有一个触摸屏......立即变成了一个孩子。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "氣象員發現他的顯示器有一個觸摸屏......立即變成了一個孩子。"
+    }
+  ]
 }
