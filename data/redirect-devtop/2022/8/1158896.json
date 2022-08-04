@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-04T04:44:44Z",
   "image": "https://dev.to/social_previews/article/1158896.png",
   "author": "simc dev CSM®",
-  "author_url": "https://dev.to/devsimc"
+  "author_url": "https://dev.to/devsimc",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "1. 複数のOR(||)条件を含むifの省略形 if (car === 'audi' || car === 'BMW'...)",
+      "title": "JavaScriptコードの書き方を変える - Shorthand's for JavaScript Code"
+    },
+    {
+      "locale": "zh",
+      "description": "1. 多个OR(||)条件下if的简写，如果(car === 'audi' || car === 'BMW'...",
+      "title": "改变你以前写JavaScript代码的方法--JavaScript代码的速记法"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "1. 多個OR(||)條件下if的簡寫，如果(car === 'audi' || car === 'BMW'...",
+      "title": "改變你以前寫JavaScript代碼的方法--JavaScript代碼的速記法"
+    }
+  ]
 }

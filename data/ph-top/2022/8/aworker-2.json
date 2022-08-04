@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-04T07:00:00Z"
+  "original_createdAt": "2022-08-04T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Coinbase、OpenSea、Polygonなど、Web3領域で活躍する企業への就職を支援するサイトです。web3企業で仕事を探しながら、トークンを入手することができます。",
+      "tagline": "Web3 求人情報"
+    },
+    {
+      "locale": "zh",
+      "description": "一个帮助你在Web3领域的公司找到工作的网站，如Coinbase、OpenSea和Polygon。在web3公司中寻找工作，并在寻找工作的同时获得代币。",
+      "tagline": "Web3 工作"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個幫助你在Web3領域的公司找到工作的網站，如Coinbase、OpenSea和Polygon。在web3公司中尋找工作，並在尋找工作的同時獲得代幣。",
+      "tagline": "Web3 工作"
+    }
+  ]
 }
