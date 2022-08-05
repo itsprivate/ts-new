@@ -43,5 +43,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Reddit have released a new feature allowing all users to post GIF comments:\n\nAnnouncing Inline GIFs in Comments available to all SFW subreddits\n[https://np.reddit.com/r/modnews/comments/vs5ne7/announcing_inline_gifs_in_comments_available_to/]\n\n> Users in enabled subreddits will be able to search…"
+  "the_new_excerpt": "Reddit have released a new feature allowing all users to post GIF comments:\n\nAnnouncing Inline GIFs in Comments available to all SFW subreddits\n[https://np.reddit.com/r/modnews/comments/vs5ne7/announcing_inline_gifs_in_comments_available_to/]\n\n> Users in enabled subreddits will be able to search…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Redditは、すべてのユーザーがGIFコメントを投稿できる新機能をリリースしました。\n\nすべてのSFWサブレディットで利用可能なコメント内のインラインGIFの発表\n[https://np.reddit.com/r/modnews/comments/vs5ne7/announcing_inline_gifs_in_comments_available_to/]\n\n> この機能により、SFWサブレディットのユーザーは、GIFを検索することができます。",
+      "title": "CCIP-034 - すべてのユーザーに対してコメントで GIF を使用可能にする"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Reddit发布了一项新功能，允许所有用户发布GIF评论。\n\n宣布所有SFW子版块都可以在评论中使用内联GIF\n[https://np.reddit.com/r/modnews/comments/vs5ne7/announcing_inline_gifs_in_comments_available_to/]\n\n> 已启用的子版块的用户将能够搜索...",
+      "title": "CCIP-034 - 在评论中为所有用户启用GIF图片"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Reddit發佈了一項新功能，允許所有用戶發佈GIF評論。\n\n宣佈所有SFW子版塊都可以在評論中使用內聯GIF\n[https://np.reddit.com/r/modnews/comments/vs5ne7/announcing_inline_gifs_in_comments_available_to/]\n\n> 已啓用的子版塊的用戶將能夠搜索...",
+      "title": "CCIP-034 - 在評論中爲所有用戶啓用GIF圖片"
+    }
+  ]
 }
