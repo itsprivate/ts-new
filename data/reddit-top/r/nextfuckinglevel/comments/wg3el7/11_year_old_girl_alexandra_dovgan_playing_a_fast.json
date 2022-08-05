@@ -71,5 +71,22 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": "If you're a pianist, this is just like a slap to the face."
+  "the_new_excerpt": "If you're a pianist, this is just like a slap to the face.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ピアニストの方なら、これはもう平手打ちのようなものです。",
+      "title": "11歳の少女アレクサンドラ・ドブガンが、速いテンポで演奏するピアノ協奏曲は、透明度が高く、ミスはゼロに等しい。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果你是一个钢琴家，这就像一个耳光打在脸上。",
+      "title": "11岁的女孩亚历山德拉-多夫根在弹奏快节奏的钢琴协奏曲时思路清晰，几乎没有任何错误。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果你是一個鋼琴家，這就像一個耳光打在臉上。",
+      "title": "11歲的女孩亞歷山德拉-多夫根在彈奏快節奏的鋼琴協奏曲時思路清晰，幾乎沒有任何錯誤。"
+    }
+  ]
 }
