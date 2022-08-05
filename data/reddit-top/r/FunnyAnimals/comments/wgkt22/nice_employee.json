@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "優秀な社員"
+    },
+    {
+      "locale": "zh",
+      "title": "不错的员工"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不錯的員工"
+    }
+  ]
 }
