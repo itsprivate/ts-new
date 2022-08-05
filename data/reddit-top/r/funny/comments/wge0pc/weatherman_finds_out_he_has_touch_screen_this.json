@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "天気予報士は、自分がずっとタッチスクリーンであることに気づく。"
+    },
+    {
+      "locale": "zh",
+      "title": "天气预报员发现他一直都有触摸屏。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "天氣預報員發現他一直都有觸摸屏。"
+    }
+  ]
 }
