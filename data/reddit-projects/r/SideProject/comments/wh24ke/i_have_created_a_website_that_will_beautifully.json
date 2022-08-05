@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "You. can check it here https://prettyslackthread.xyz/\n\nExample [https://i.redd.it/zmxrko31qxf91.gif]"
+  "the_new_excerpt": "You. can check it here https://prettyslackthread.xyz/\n\nExample [https://i.redd.it/zmxrko31qxf91.gif]",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こちらで確認できます https://prettyslackthread.xyz/\n\n例[https://i.redd.it/zmxrko31qxf91.gif]",
+      "title": "Slackからコピーしたメッセージを美しく表示し、Slackの外で共有できるようにするウェブサイトを作りました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你。可以在这里查看https://prettyslackthread.xyz/\n\n例子 [https://i.redd.it/zmxrko31qxf91.gif]",
+      "title": "我创建了一个网站，可以漂亮地显示从Slack复制的信息，这样你就可以在Slack之外分享这些信息。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你。可以在這裏查看https://prettyslackthread.xyz/\n\n例子 [https://i.redd.it/zmxrko31qxf91.gif]",
+      "title": "我創建了一個網站，可以漂亮地顯示從Slack複製的信息，這樣你就可以在Slack之外分享這些信息。"
+    }
+  ]
 }
