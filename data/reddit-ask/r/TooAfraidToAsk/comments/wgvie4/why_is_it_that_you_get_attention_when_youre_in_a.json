@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": "Think title speaks for itself."
+  "the_new_excerpt": "Think title speaks for itself.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "Think title is speaks of itself.",
+      "title": "付き合っているときは注目されるのに、独身になった途端、好ましくない存在になったような気がするのはなぜでしょう？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "认为标题不言自明。",
+      "title": "为什么你在恋爱的时候会受到关注，而一旦你成为单身，就好像你变得不受欢迎了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "認爲標題不言自明。",
+      "title": "爲什麼你在戀愛的時候會受到關注，而一旦你成爲單身，就好像你變得不受歡迎了？"
+    }
+  ]
 }
