@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この文章をどのように仕上げますか？\"死と税と...... \"以外、確かなものは何もない？"
+    },
+    {
+      "locale": "zh",
+      "title": "你会如何完成这句话？\"除了死亡、税收和.....，没有什么是确定的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你會如何完成這句話？\"除了死亡、稅收和.....，沒有什麼是確定的？"
+    }
+  ]
 }
