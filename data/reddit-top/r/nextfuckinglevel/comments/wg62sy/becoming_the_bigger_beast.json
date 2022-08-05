@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "より大きな獣になる"
+    },
+    {
+      "locale": "zh",
+      "title": "成为更大的野兽"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "成爲更大的野獸"
+    }
+  ]
 }
