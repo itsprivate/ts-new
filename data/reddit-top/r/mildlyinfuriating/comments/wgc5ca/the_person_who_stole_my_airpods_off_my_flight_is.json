@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私のフライトからAirPodsを盗んだ人は、私から2ブロック離れたホテルに泊まっています。"
+    },
+    {
+      "locale": "zh",
+      "title": "在我的航班上偷了我的AirPods的人，就住在离我两个街区的酒店。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在我的航班上偷了我的AirPods的人，就住在離我兩個街區的酒店。"
+    }
+  ]
 }
