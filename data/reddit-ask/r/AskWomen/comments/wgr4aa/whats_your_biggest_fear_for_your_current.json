@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今の人間関係で一番心配なことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对于你目前的关系，你最担心的是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於你目前的關係，你最擔心的是什麼？"
+    }
+  ]
 }
