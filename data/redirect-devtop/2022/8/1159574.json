@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-04T21:40:45Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m4VlqW1i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/44vwxitfoa9d1xy6wpl5.png",
   "author": "Leonardo Montini",
-  "author_url": "https://dev.to/balastrong"
+  "author_url": "https://dev.to/balastrong",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに この記事では、私がnpmで見つけたnpkillというクールなツールについてお話します。",
+      "title": "未使用のnode_modulesを一瞬で削除して、空き容量を楽しんでください。♻️"
+    },
+    {
+      "locale": "zh",
+      "description": "介绍 在这篇文章中，我将告诉你我刚刚在npm上发现的一个很酷的工具，叫做npkill，...",
+      "title": "在一秒钟内删除未使用的node_modules，并享受一些自由空间! ♻️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "介紹 在這篇文章中，我將告訴你我剛剛在npm上發現的一個很酷的工具，叫做npkill，...",
+      "title": "在一秒鐘內刪除未使用的node_modules，並享受一些自由空間! ♻️"
+    }
+  ]
 }

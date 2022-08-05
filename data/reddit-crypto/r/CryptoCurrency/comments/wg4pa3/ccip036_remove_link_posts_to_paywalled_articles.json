@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Summary\n\nModerators should remove link posts to paywalled articles unless a paywall\nfeatures an easy to notice and use cryptocurrency payment option.\n\nProblem Statement\n\nYou all know the feeling, you see an interesting title of a link post you open\nit up only to find out the article is behind a…"
+  "the_new_excerpt": "Summary\n\nModerators should remove link posts to paywalled articles unless a paywall\nfeatures an easy to notice and use cryptocurrency payment option.\n\nProblem Statement\n\nYou all know the feeling, you see an interesting title of a link post you open\nit up only to find out the article is behind a…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "概要\n\nモデレーターは、有料記事へのリンク投稿を削除すべきです。\n暗号通貨の支払いオプションがない限り、リンク投稿を削除する必要があります。\n\n問題提起\n\n皆さんは、面白いタイトルのリンク投稿を見て、開いてみたものの、記事が有料であること\nた後、その記事がペイウォールの内側にあることに気づく...",
+      "title": "CCIP-036 - 有料記事へのリンク投稿を削除する。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "摘要\n\n版主应该删除指向付费墙文章的链接帖子，除非付费墙\n有一个易于注意和使用的加密货币支付选项。\n\n问题声明\n\n你们都知道这种感觉，你们看到一个有趣的链接帖子的标题，你们打开了\n却发现这篇文章的背后是一个......",
+      "title": "CCIP-036 - 删除指向付费文章的链接帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "摘要\n\n版主應該刪除指向付費牆文章的鏈接帖子，除非付費牆\n有一個易於注意和使用的加密貨幣支付選項。\n\n問題聲明\n\n你們都知道這種感覺，你們看到一個有趣的鏈接帖子的標題，你們打開了\n卻發現這篇文章的背後是一個......",
+      "title": "CCIP-036 - 刪除指向付費文章的鏈接帖子"
+    }
+  ]
 }
