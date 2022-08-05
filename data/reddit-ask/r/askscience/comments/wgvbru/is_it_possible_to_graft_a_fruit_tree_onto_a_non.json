@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Is it possible to grow a maple apple tree?"
+  "the_new_excerpt": "Is it possible to grow a maple apple tree?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "メイプルリンゴの木を育てることは可能ですか？",
+      "title": "果樹に接ぎ木することは可能ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有可能种植枫叶苹果树吗？",
+      "title": "是否可以将果树嫁接到非果树上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有可能種植楓葉蘋果樹嗎？",
+      "title": "是否可以將果樹嫁接到非果樹上？"
+    }
+  ]
 }
