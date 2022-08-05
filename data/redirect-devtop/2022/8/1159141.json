@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-04T11:56:47Z",
   "image": "https://dev.to/social_previews/article/1159141.png",
   "author": "Martin Adams",
-  "author_url": "https://dev.to/martinageradams"
+  "author_url": "https://dev.to/martinageradams",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Reactを使い始めたばかりの方は、この記事を読んでブックマークする価値がありますよ...。",
+      "title": "Reactマスターになるための20のGitHubレポジトリ"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你刚刚开始使用React，这篇文章很值得你花时间去阅读，bookmark....。",
+      "title": "成为React大师的20个GitHub存储库"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你剛剛開始使用React，這篇文章很值得你花時間去閱讀，bookmark....。",
+      "title": "成爲React大師的20個GitHub存儲庫"
+    }
+  ]
 }

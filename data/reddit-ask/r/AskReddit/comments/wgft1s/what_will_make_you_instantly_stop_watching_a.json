@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "映画や番組を見るのを即座にやめさせるものとその理由を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "什么会让你立即停止观看一部电影或节目，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼會讓你立即停止觀看一部電影或節目，爲什麼？"
+    }
+  ]
 }
