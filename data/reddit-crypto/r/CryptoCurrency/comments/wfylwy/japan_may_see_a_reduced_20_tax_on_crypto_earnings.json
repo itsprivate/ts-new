@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "日本では新提案により暗号の収益に20％の軽減税率が適用される可能性がある"
+    },
+    {
+      "locale": "zh",
+      "title": "日本可能会出现对加密货币收入减征20%的新提案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日本可能會出現對加密貨幣收入減徵20%的新提案"
+    }
+  ]
 }
