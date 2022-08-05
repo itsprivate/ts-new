@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Problem:\n\nr/CryptoCurrency [/r/CryptoCurrency] is spammed with low effort external links\nthat are made into a post. 45 out of the top 100 post this month are just links.\nPosting a link takes little to no effort (just copy and paste) and should not be\nrewarded as much as posting a written comment or…"
+  "the_new_excerpt": "Problem:\n\nr/CryptoCurrency [/r/CryptoCurrency] is spammed with low effort external links\nthat are made into a post. 45 out of the top 100 post this month are just links.\nPosting a link takes little to no effort (just copy and paste) and should not be\nrewarded as much as posting a written comment or…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "問題あり\n\nr/CryptoCurrency [/r/CryptoCurrency] が労力の少ない外部リンクでスパムにされています。\nされる。今月のトップ100の投稿のうち45は、ただのリンクです。\nリンクの投稿にはほとんど何の努力も必要なく（コピー＆ペーストするだけ）、Wikipediaの投稿ほど報われるべきではないでしょう。\nコメントや...と同じように報われるべきではありません。",
+      "title": "CCIP-038 - リンク投稿のカルマを1倍から0.5倍に減らしました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "问题。\n\nr/CryptoCurrency [/r/CryptoCurrency]被滥发低力度的外部链接。\n被制作成帖子。这个月的前100个帖子中，有45个只是链接。\n发布一个链接几乎不需要任何努力（只是复制和粘贴），而且不应该是\n奖励，而不应该像张贴书面评论或...",
+      "title": "CCIP-038 - 将链接帖子的因果关系从1倍减少到0.5倍"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "問題。\n\nr/CryptoCurrency [/r/CryptoCurrency]被濫發低力度的外部鏈接。\n被製作成帖子。這個月的前100個帖子中，有45個只是鏈接。\n發佈一個鏈接幾乎不需要任何努力（只是複製和粘貼），而且不應該是\n獎勵，而不應該像張貼書面評論或...",
+      "title": "CCIP-038 - 將鏈接帖子的因果關係從1倍減少到0.5倍"
+    }
+  ]
 }
