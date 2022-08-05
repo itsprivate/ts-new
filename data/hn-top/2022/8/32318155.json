@@ -3,7 +3,7 @@
   "title": "Rsync client-side arbitrary file write vulnerability",
   "url": "https://www.openwall.com/lists/oss-security/2022/08/02/1",
   "author": "jwilk",
-  "points": 100,
+  "points": 135,
   "num_comments": 31,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "Rsync客戶端任意文件寫入漏洞"
     }
-  ]
+  ],
+  "source_updated_at": 1659692703031
 }
