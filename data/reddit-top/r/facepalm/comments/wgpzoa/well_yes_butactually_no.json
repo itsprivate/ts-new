@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "よくあること! でも...実は違うんです...。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯，是的! 但是......实际上没有......"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯，是的! 但是......實際上沒有......"
+    }
+  ]
 }
