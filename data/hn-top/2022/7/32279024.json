@@ -3,7 +3,7 @@
   "title": "Linux RNG RFC Patch: implement getrandom() in vDSO",
   "url": "https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/",
   "author": "zx2c4",
-  "points": 100,
+  "points": 102,
   "num_comments": 66,
   "_tags": [
     "story",
@@ -26,5 +26,6 @@
       "locale": "zh-Hant",
       "title": "Linux RNG RFC補丁：在vDSO中實現getrandom（）。"
     }
-  ]
+  ],
+  "source_updated_at": 1659692702186
 }

@@ -3,7 +3,7 @@
   "title": "Run FreeBSD 13.1 for ARM64 in QEMU on Apple Silicon Mac with HVF Acceleration",
   "url": "https://gist.github.com/ctsrc/a1f57933a2cde9abc0f07be12889f97f",
   "author": "codetrotter",
-  "points": 101,
+  "points": 133,
   "num_comments": 27,
   "_tags": [
     "story",
@@ -27,5 +27,6 @@
       "locale": "zh-Hant",
       "title": "使用HVF加速，在蘋果Silicon Mac上的QEMU中運行適用於ARM64的FreeBSD 13.1。"
     }
-  ]
+  ],
+  "source_updated_at": 1659692703246
 }
