@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-04T17:37:56Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JZTBI_d1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ucs3vbpgt28x37stvdtd.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "そのストーリーをご紹介します。          GitLabが無料アカウントの休眠プロジェクトを削除することを計画している 彼らは...",
+      "title": "GitLabは休眠プロジェクトを削除する予定です。"
+    },
+    {
+      "locale": "zh",
+      "description": "故事是这样的。          GitLab计划删除免费账户中的休眠项目 他们计划在...",
+      "title": "GitLab将删除休眠的项目"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "故事是這樣的。          GitLab計劃刪除免費賬戶中的休眠項目 他們計劃在...",
+      "title": "GitLab將刪除休眠的項目"
+    }
+  ]
 }
