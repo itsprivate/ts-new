@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼女はどんなNBAの試合を見ているのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "她在看什么样的NBA比赛？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "她在看什麼樣的NBA比賽？"
+    }
+  ]
 }
