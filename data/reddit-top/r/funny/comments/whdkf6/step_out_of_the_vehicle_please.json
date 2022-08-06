@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "車から降りてください"
+    },
+    {
+      "locale": "zh",
+      "title": "请走出车外。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "請走出車外。"
+    }
+  ]
 }

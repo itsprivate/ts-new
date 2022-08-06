@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自己管理・改善に専念するため、半年間業界から離れた。その傍らでReact Nativeを学ぶことになった。このアプリは、私が軌道に乗るために作ったものです。あなたのご意見をお聞かせください。"
+    },
+    {
+      "locale": "zh",
+      "title": "从这个行业休息了半年，专注于自我护理/改善。最终也在一边学习React Native。分享我建立的应用程序，以帮助我保持正轨。希望听到你的想法!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從這個行業休息了半年，專注於自我護理/改善。最終也在一邊學習React Native。分享我建立的應用程序，以幫助我保持正軌。希望聽到你的想法!"
+    }
+  ]
 }
