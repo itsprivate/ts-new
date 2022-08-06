@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察官は、自分の家が危険だと感じると言えば、数時間署内で座らせてくれるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你告诉他们你在家里感到不安全，警察会让你在警察局坐几个小时吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你告訴他們你在家裏感到不安全，警察會讓你在警察局坐幾個小時嗎？"
+    }
+  ]
 }
