@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが絶対に嫌だと思う食べ物で、他の人はそうではないと思うものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你觉得什么食物是绝对恶心的，而其他人认为不恶心？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你覺得什麼食物是絕對噁心的，而其他人認爲不噁心？"
+    }
+  ]
 }
