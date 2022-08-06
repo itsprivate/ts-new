@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "わずか15分"
+    },
+    {
+      "locale": "zh",
+      "title": "只有15分钟。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只有15分鐘。"
+    }
+  ]
 }
