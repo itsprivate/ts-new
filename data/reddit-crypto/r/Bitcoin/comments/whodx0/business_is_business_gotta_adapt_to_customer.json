@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビジネスはビジネスです。お金を稼ぐためには、顧客のニーズに適応しなければならない。"
+    },
+    {
+      "locale": "zh",
+      "title": "生意就是生意。必须适应客户需求才能赚钱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生意就是生意。必須適應客戶需求才能賺錢。"
+    }
+  ]
 }
