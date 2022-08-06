@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私が作っているツールは現在稼働中です。あなたの取り分を計算してくれます。"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在做的工具现在已经上线。它将计算出你的账单份额。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在做的工具現在已經上線。它將計算出你的賬單份額。"
+    }
+  ]
 }
