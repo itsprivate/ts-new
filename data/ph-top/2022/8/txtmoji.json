@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-06T07:03:00Z"
+  "original_createdAt": "2022-08-06T07:03:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Txtmojiは、テキストを絵文字に暗号化し、パスワードで絵文字をテキストに復号化することができます。",
+      "tagline": "テキストを絵文字に暗号化"
+    },
+    {
+      "locale": "zh",
+      "description": "Txtmoji让你把你的文字加密成表情符号，并通过密码把表情符号解密成文字。",
+      "tagline": "加密文本到表情符号"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Txtmoji讓你把你的文字加密成表情符號，並通過密碼把表情符號解密成文字。",
+      "tagline": "加密文本到表情符號"
+    }
+  ]
 }
