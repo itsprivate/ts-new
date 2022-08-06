@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-04T14:24:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cL3sFuRS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6y5fw6f028ujajhlmutw.png",
   "author": "Archit Sharma",
-  "author_url": "https://dev.to/iarchitsharma"
+  "author_url": "https://dev.to/iarchitsharma",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "注：コメント欄での議論 TypeScriptとJavaScriptの比較は、最も議論を呼ぶものの1つです...",
+      "title": "TypeScriptとJavaScriptの比較🤔。"
+    },
+    {
+      "locale": "zh",
+      "description": "注意：评论区的辩论 TypeScript与JavaScript是最有争议的问题之一...",
+      "title": "TypeScript vs JavaScript🤔"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "注意：評論區的辯論 TypeScript與JavaScript是最有爭議的問題之一...",
+      "title": "TypeScript vs JavaScript🤔"
+    }
+  ]
 }
