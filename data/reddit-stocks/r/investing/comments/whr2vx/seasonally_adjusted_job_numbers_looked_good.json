@@ -103,5 +103,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1659800106,
-  "the_new_excerpt": "The headline on Friday was that job numbers went up +528,000... but seasonally\nadjusted, the actual break down was:\n\n * Full Time -71,000\n * Part Time +384,000\n * Multiple Jobs +92,000\n\nUnemployment rate slipped to 3.5 from 3.6, but labor force participation rate\nalso moved down slightly from 62.1%…"
+  "the_new_excerpt": "The headline on Friday was that job numbers went up +528,000... but seasonally\nadjusted, the actual break down was:\n\n * Full Time -71,000\n * Part Time +384,000\n * Multiple Jobs +92,000\n\nUnemployment rate slipped to 3.5 from 3.6, but labor force participation rate\nalso moved down slightly from 62.1%…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "金曜日のヘッドラインは、雇用者数が＋528,000人というものでしたが、季節調整済みで\n調整済みで、実際の内訳は\n\n * フルタイム -71,000人\n * パートタイム +384,000\n * 複数職種の雇用者数 +92,000\n\n失業率は3.6から3.5に低下したが、労働力人口比率も3.6から3.5に低下した。\n労働力率も62.1%からやや低下...。",
+      "title": "季節調整済み雇用者数は、パートタイム労働者が+38.4万人なので良さそうだが、フルタイム労働者は2ヶ月連続の減少である。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "周五的头条新闻是就业人数增加了52.8万......但经季节性调整后，实际情况是：就业人数增加了52.8万。\n但经季节性调整后，实际情况是。\n\n * 全职工作 -7.1万\n * 非全职 +38.4万\n * 多重工作 +92,000\n\n失业率从3.6滑落到3.5，但劳动力参与率\n也从62.1%略微下降...",
+      "title": "经季节性调整的就业数字看起来不错，因为有+38.4万名兼职工人，但全职工人连续第二个月下降。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "週五的頭條新聞是就業人數增加了52.8萬......但經季節性調整後，實際情況是：就業人數增加了52.8萬。\n但經季節性調整後，實際情況是。\n\n * 全職工作 -7.1萬\n * 非全職 +38.4萬\n * 多重工作 +92,000\n\n失業率從3.6滑落到3.5，但勞動力參與率\n也從62.1%略微下降...",
+      "title": "經季節性調整的就業數字看起來不錯，因爲有+38.4萬名兼職工人，但全職工人連續第二個月下降。"
+    }
+  ]
 }
