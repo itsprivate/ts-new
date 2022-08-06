@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最古のトリック？"
+    },
+    {
+      "locale": "zh",
+      "title": "书中最古老的技巧？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "書中最古老的技巧？"
+    }
+  ]
 }
