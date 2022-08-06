@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ブルームバーグ・インテリジェンスの最新レポートでは、ビットコインはこの10年間「最もパフォーマンスの高い資産」であり続けると予測されています。"
+    },
+    {
+      "locale": "zh",
+      "title": "彭博智库最新报告预测，比特币将继续成为这十年来 \"表现最好的资产\""
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "彭博智庫最新報告預測，比特幣將繼續成爲這十年來 \"表現最好的資產\""
+    }
+  ]
 }
