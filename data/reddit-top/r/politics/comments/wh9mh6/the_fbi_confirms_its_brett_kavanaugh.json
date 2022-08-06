@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FBI、ブレット・カバノー氏に関する調査が全くの欺瞞であったことを認める"
+    },
+    {
+      "locale": "zh",
+      "title": "美国联邦调查局证实其对布雷特-卡瓦诺的调查是一个完全的骗局"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國聯邦調查局證實其對佈雷特-卡瓦諾的調查是一個完全的騙局"
+    }
+  ]
 }
