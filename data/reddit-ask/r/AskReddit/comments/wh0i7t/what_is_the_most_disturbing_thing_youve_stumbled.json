@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "インターネットを見ていて、最も気になったことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在浏览互联网时偶然发现的最令人不安的事情是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在瀏覽互聯網時偶然發現的最令人不安的事情是什麼？"
+    }
+  ]
 }
