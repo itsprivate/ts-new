@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-03T18:18:45Z",
   "image": "https://dev.to/social_previews/article/1158594.png",
   "author": "Mahesh",
-  "author_url": "https://dev.to/urstrulyvishwak"
+  "author_url": "https://dev.to/urstrulyvishwak",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンセプトを知れば、同じことを言うはずです。そうですね。このあたりは、いくつかのケースがあるのですが......。",
+      "title": "リラックスして、JS `this` はとても簡単です。"
+    },
+    {
+      "locale": "zh",
+      "description": "一旦你知道了这个概念，那么你也会这么说。是的。围绕这个问题有几个案例....",
+      "title": "放轻松，JS`这`很容易。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一旦你知道了這個概念，那麼你也會這麼說。是的。圍繞這個問題有幾個案例....",
+      "title": "放輕鬆，JS`這`很容易。"
+    }
+  ]
 }
