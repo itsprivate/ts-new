@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チーターに日陰はない"
+    },
+    {
+      "locale": "zh",
+      "title": "猎豹没有找到阴凉处"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獵豹沒有找到陰涼處"
+    }
+  ]
 }
