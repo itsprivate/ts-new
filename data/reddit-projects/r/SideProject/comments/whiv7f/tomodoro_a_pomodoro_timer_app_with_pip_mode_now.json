@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "トモダチ PIPモード搭載のポモドーロタイマーアプリに、カラーテーマ、ホワイトノイズ生成、タスク、統計などが追加され、ブラウザ上で使えるようになりました!"
+    },
+    {
+      "locale": "zh",
+      "title": "托莫多罗。一个具有PIP模式的Pomodoro计时器应用程序，现在具有彩色主题、白噪声生成、任务、统计和更多的功能，就在你的浏览器中!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "託莫多羅。一個具有PIP模式的Pomodoro計時器應用程序，現在具有彩色主題、白噪聲生成、任務、統計和更多的功能，就在你的瀏覽器中!"
+    }
+  ]
 }
