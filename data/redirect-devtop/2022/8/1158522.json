@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-03T17:06:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YUN6ynyq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yzr72d10jr9u1qrhgdrq.png",
   "author": "John Finley",
-  "author_url": "https://dev.to/jtfinley"
+  "author_url": "https://dev.to/jtfinley",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェア・エンジニアとしてキャリアをスタートした当初、私が最初に抱いた疑問の1つは、データをどのように保存すればよいのかということでした...",
+      "title": "ローカルストレージの基礎知識"
+    },
+    {
+      "locale": "zh",
+      "description": "在我的软件工程生涯早期，我遇到的第一个问题是如何将数据存储在...",
+      "title": "本地存储的基础知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我的軟件工程生涯早期，我遇到的第一個問題是如何將數據存儲在...",
+      "title": "本地存儲的基礎知識"
+    }
+  ]
 }
