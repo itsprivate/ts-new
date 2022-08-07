@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの中の鳥を解き放つ"
+    },
+    {
+      "locale": "zh",
+      "title": "解锁你内心的鸟儿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "解鎖你內心的鳥兒"
+    }
+  ]
 }
