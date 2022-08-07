@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "激流で流されそうになっている人を助ける"
+    },
+    {
+      "locale": "zh",
+      "title": "拯救一个正在挣扎的人免于被汹涌的河流冲走"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拯救一個正在掙扎的人免於被洶湧的河流沖走"
+    }
+  ]
 }
