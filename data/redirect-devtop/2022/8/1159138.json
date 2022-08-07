@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-04T11:48:29Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PrWoUZiu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2s1z3juyncjwvsr3ots7.png",
   "author": "Mysterio",
-  "author_url": "https://dev.to/shubhamtiwari909"
+  "author_url": "https://dev.to/shubhamtiwari909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、今日はJSで1次元の配列を回転させる方法を紹介します。",
+      "title": "JSにおける配列の回転"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我将向大家展示如何在JS中旋转左边的1-d数组，旋转的方式将视情况而定。",
+      "title": "JS中的数组旋转"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我將向大家展示如何在JS中旋轉左邊的1-d數組，旋轉的方式將視情況而定。",
+      "title": "JS中的數組旋轉"
+    }
+  ]
 }
