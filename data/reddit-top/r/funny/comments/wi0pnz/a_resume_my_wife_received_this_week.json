@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今週、妻が受け取った履歴書"
+    },
+    {
+      "locale": "zh",
+      "title": "本周我妻子收到的一份简历"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "本週我妻子收到的一份簡歷"
+    }
+  ]
 }
