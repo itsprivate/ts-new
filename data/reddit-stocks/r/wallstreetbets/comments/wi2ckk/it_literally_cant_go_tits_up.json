@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1659831702,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "文字通り、破綻することはないのです。"
+    },
+    {
+      "locale": "zh",
+      "title": "字面上讲，它不可能出现破绽。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "字面上講，它不可能出現破綻。"
+    }
+  ]
 }
