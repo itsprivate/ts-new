@@ -77,5 +77,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "まあ、それはすぐにエスカレートした。"
+    },
+    {
+      "locale": "zh",
+      "title": "嗯，很快就升级了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "嗯，很快就升級了"
+    }
+  ]
 }
