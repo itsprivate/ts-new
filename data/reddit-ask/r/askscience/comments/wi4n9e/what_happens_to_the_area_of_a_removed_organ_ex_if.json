@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "摘出した臓器の部分はどうなるのですか？例 肺を切除したら？"
+    },
+    {
+      "locale": "zh",
+      "title": "被切除的器官的区域会发生什么？例如。如果他们切除了一个肺？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "被切除的器官的區域會發生什麼？例如。如果他們切除了一個肺？"
+    }
+  ]
 }
