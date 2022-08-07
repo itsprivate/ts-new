@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アラスカでの平均的な一日。ガレージにヘラジカがいるのを見つけた男"
+    },
+    {
+      "locale": "zh",
+      "title": "阿拉斯加的平均一天。伙计醒来时发现车库里有一只麋鹿"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "阿拉斯加的平均一天。夥計醒來時發現車庫裏有一隻麋鹿"
+    }
+  ]
 }
