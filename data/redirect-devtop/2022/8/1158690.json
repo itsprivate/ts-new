@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-03T21:38:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T79FJ0eB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xkzrv18f1dtwwzibhv3e.jpg",
   "author": "Seraph 天 ",
-  "author_url": "https://dev.to/seraph776"
+  "author_url": "https://dev.to/seraph776",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに Pythonの開発者であれば、pipをご存じでしょう。しかし、あなたは...",
+      "title": "Pipはマルウェアをインストールするのか!"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 如果你是一个Python开发者，那么你就会知道pip。然而，你是否...",
+      "title": "管道安装恶意软件？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 如果你是一個Python開發者，那麼你就會知道pip。然而，你是否...",
+      "title": "管道安裝惡意軟件？"
+    }
+  ]
 }
