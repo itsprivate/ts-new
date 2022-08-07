@@ -53,5 +53,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello,\n\nI have created this application: https://cronit.app\n\nThe goal of this is to have a simple way to execute recurring tasks online,\nright from your browser, using a cron-like syntax.\n\nDo you want to have a look? Any feedback is more than welcome"
+  "the_new_excerpt": "Hello,\n\nI have created this application: https://cronit.app\n\nThe goal of this is to have a simple way to execute recurring tasks online,\nright from your browser, using a cron-like syntax.\n\nDo you want to have a look? Any feedback is more than welcome",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n私はこのアプリケーションを作成しました： https://cronit.app\n\nこのアプリケーションの目標は、定期的なタスクをオンラインで実行する簡単な方法を持つことです。\nブラウザからcronのような構文で実行する簡単な方法です。\n\n見てみたいですか？どんなフィードバックでも大歓迎です。",
+      "title": "オンラインクーロンスケジューリングシステムを作成しました。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你好。\n\n我已经创建了这个应用程序：https://cronit.app\n\n其目的是要有一个简单的方法来在线执行经常性的任务。\n使用一个类似于cron的语法，从你的浏览器中直接执行循环任务。\n\n你想看一下吗？我们非常欢迎任何反馈",
+      "title": "我已经创建了一个在线cron调度系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你好。\n\n我已經創建了這個應用程序：https://cronit.app\n\n其目的是要有一個簡單的方法來在線執行經常性的任務。\n使用一個類似於cron的語法，從你的瀏覽器中直接執行循環任務。\n\n你想看一下嗎？我們非常歡迎任何反饋",
+      "title": "我已經創建了一個在線cron調度系統"
+    }
+  ]
 }
