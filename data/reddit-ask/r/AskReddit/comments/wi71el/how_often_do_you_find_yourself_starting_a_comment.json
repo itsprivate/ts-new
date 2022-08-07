@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コメントを始めてから「なーんだ」と思って削除してしまうことがよくありますが、その理由は？"
+    },
+    {
+      "locale": "zh",
+      "title": "你有多少次发现自己开始发表评论，然后 \"不\"，然后删除，为什么呢？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你有多少次發現自己開始發表評論，然後 \"不\"，然後刪除，爲什麼呢？"
+    }
+  ]
 }

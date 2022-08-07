@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はベストを尽くしているんだ"
+    },
+    {
+      "locale": "zh",
+      "title": "他已经尽力了，好吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他已經盡力了，好嗎？"
+    }
+  ]
 }
