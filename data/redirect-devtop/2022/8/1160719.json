@@ -42,5 +42,22 @@
   "original_created_at": "2022-08-06T05:52:02Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XPgduwMK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5bn4kaqoq6uks7rb5r36.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "先日、外部ソースの画像が読み込まれないという問題が発生しました。 リンクを保存したところ...",
+      "title": "エラー時のHTMLフォールバックイメージ"
+    },
+    {
+      "locale": "zh",
+      "description": "有一天，我遇到了一些外部来源的图像无法加载的问题。 我保存了一个链接...",
+      "title": "错误时的HTML回退图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有一天，我遇到了一些外部來源的圖像無法加載的問題。 我保存了一個鏈接...",
+      "title": "錯誤時的HTML回退圖像"
+    }
+  ]
 }
