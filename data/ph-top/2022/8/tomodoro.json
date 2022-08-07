@@ -72,5 +72,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-06T07:01:39Z"
+  "original_createdAt": "2022-08-06T07:01:39Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Always On Top PIPモード、ホワイトノイズ生成、タスク、クールなテーマなど、クールな機能を備えたポモドーロ・ウェブアプリを、お気に入りのブラウザでお楽しみください。しかも、無料でオープンソースです。",
+      "tagline": "Web用簡易ポモドーロタイマー"
+    },
+    {
+      "locale": "zh",
+      "description": "一个具有酷炫功能的Pomodoro网络应用，如Always On Top PIP模式、白噪声生成、任务、酷炫主题等，就在你最喜欢的浏览器中。而且它是免费和开源的。",
+      "tagline": "简单的Pomodoro网络定时器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個具有酷炫功能的Pomodoro網絡應用，如Always On Top PIP模式、白噪聲生成、任務、酷炫主題等，就在你最喜歡的瀏覽器中。而且它是免費和開源的。",
+      "tagline": "簡單的Pomodoro網絡定時器"
+    }
+  ]
 }
