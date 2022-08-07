@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ランボ不足で不自由なオーストラリア。暗号利用者はさらに1年半の待機を余儀なくされる。"
+    },
+    {
+      "locale": "zh",
+      "title": "澳大利亚因兰博车短缺而陷入瘫痪。加密货币用户被迫再等18个月才能拿到货。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "澳大利亞因蘭博車短缺而陷入癱瘓。加密貨幣用戶被迫再等18個月才能拿到貨。"
+    }
+  ]
 }
