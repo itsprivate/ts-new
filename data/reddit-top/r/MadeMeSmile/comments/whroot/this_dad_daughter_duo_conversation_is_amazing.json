@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "この父娘二人の会話はすごいですね。"
+    },
+    {
+      "locale": "zh",
+      "title": "这个爸爸女儿二人组的对话令人惊叹。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這個爸爸女兒二人組的對話令人驚歎。"
+    }
+  ]
 }

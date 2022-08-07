@@ -46,5 +46,21 @@
   "original_created_at": "2022-08-06T21:18:55Z",
   "image": "https://dev.to/social_previews/article/1161099.png",
   "author": "Chris Simmons",
-  "author_url": "https://dev.to/endigo9740"
+  "author_url": "https://dev.to/endigo9740",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の新しいポートフォリオ サイトはこちら： endigodesign.com 私は最近、新しいバージョンを立ち上げました..."
+    },
+    {
+      "locale": "zh",
+      "description": "我的新作品集 在这里查看网站：endigodesign.com 我最近推出了一个新版本...",
+      "title": "我如何使用Pixi.js建立我的新投资组合"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我的新作品集 在這裏查看網站：endigodesign.com 我最近推出了一個新版本...",
+      "title": "我如何使用Pixi.js建立我的新投資組合"
+    }
+  ]
 }
