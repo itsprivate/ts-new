@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-07T08:43:38Z",
   "image": "https://dev.to/social_previews/article/1161289.png",
   "author": "Stanislav Ilin",
-  "author_url": "https://dev.to/frezyx"
+  "author_url": "https://dev.to/frezyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "エラー処理は複雑です。とても退屈で、多くの時間がかかります。問題のひとつは...",
+      "title": "Flutterのカスタムエラーメッセージを表示する"
+    },
+    {
+      "locale": "zh",
+      "description": "错误处理是一个复杂的过程。它非常枯燥，而且需要大量的时间。其中一个问题是...",
+      "title": "显示Flutter的自定义错误信息"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "錯誤處理是一個複雜的過程。它非常枯燥，而且需要大量的時間。其中一個問題是...",
+      "title": "顯示Flutter的自定義錯誤信息"
+    }
+  ]
 }
