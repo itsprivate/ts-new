@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-05T01:54:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---y53jow6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55w6rc45pxjqx0wqfm3t.png",
   "author": "Franklin Martinez",
-  "author_url": "https://dev.to/franklin030601"
+  "author_url": "https://dev.to/franklin030601",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今回は、React JSを使って無限スクロールを実装します。実装するアプリケーションは...",
+      "title": "React JSで無限スクロールを作る! ♾️"
+    },
+    {
+      "locale": "zh",
+      "description": "这次我们要用React JS实现一个无限的滚动。一个实现了无限滚动的应用程序。",
+      "title": "用React JS创建一个无限的滚动! ♾️"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這次我們要用React JS實現一個無限的滾動。一個實現了無限滾動的應用程序。",
+      "title": "用React JS創建一個無限的滾動! ♾️"
+    }
+  ]
 }
