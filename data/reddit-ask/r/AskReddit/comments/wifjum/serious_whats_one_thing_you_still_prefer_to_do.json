@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[技術に関係なく、昔ながらのやり方でやってみたいことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "[严肃的]你仍然喜欢用老式方法做的一件事是什么--不管技术如何，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[嚴肅的]你仍然喜歡用老式方法做的一件事是什麼--不管技術如何，爲什麼？"
+    }
+  ]
 }
