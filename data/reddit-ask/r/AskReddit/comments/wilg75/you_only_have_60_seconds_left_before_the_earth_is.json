@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "地球が核で破壊されるまで、あと60秒しかない、その最後の1分をどう過ごすか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在地球被核爆之前，你只剩下60秒，你如何度过你生命中的最后一分钟？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在地球被核爆之前，你只剩下60秒，你如何度過你生命中的最後一分鐘？"
+    }
+  ]
 }
