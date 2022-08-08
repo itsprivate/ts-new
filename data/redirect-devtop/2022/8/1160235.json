@@ -49,5 +49,22 @@
   "original_created_at": "2022-08-05T13:40:57Z",
   "image": "https://dev.to/social_previews/article/1160235.png",
   "author": "Sloan",
-  "author_url": "https://dev.to/sloan"
+  "author_url": "https://dev.to/sloan",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、名前を公開したくない会員から寄せられた匿名の投稿です。どうか...",
+      "title": "フロントエンドとバックエンドの開発の違いは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "description": "这是一个不希望透露姓名的会员发来的匿名帖子。请注意...",
+      "title": "前端和后端开发之间有什么区别？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是一個不希望透露姓名的會員發來的匿名帖子。請注意...",
+      "title": "前端和後端開發之間有什麼區別？"
+    }
+  ]
 }

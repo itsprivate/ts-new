@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T12:09:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5uXfiKtG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dlqk4119e9acrm6njrhf.jpeg",
   "author": "Stanislav Ilin",
-  "author_url": "https://dev.to/frezyx"
+  "author_url": "https://dev.to/frezyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Flutterアプリの通常のナビゲーションソリューションにうんざりしていませんか？私はあなたにお見せしたいものがあります😎 ...",
+      "title": "非標準のFlutterカスタムボトムナビゲーションバー"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否厌倦了Flutter应用程序中常见的导航方案？我有东西要给你看 😎 ...",
+      "title": "非标准的Flutter自定义底部导航栏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否厭倦了Flutter應用程序中常見的導航方案？我有東西要給你看 😎 ...",
+      "title": "非標準的Flutter自定義底部導航欄"
+    }
+  ]
 }
