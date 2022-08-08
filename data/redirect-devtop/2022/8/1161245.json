@@ -45,5 +45,22 @@
   "original_created_at": "2022-08-07T05:18:58Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QhnsTKcD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z06g2fzcxx7qbmzqlia1.jpg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は、私の神話を打ち破るシリーズの最初の記事で、結論は私のものではありません。実は、この記事...",
+      "title": "プロジェクトに多くの開発者を加えると遅くなる"
+    },
+    {
+      "locale": "zh",
+      "description": "这是 \"破除神话 \"系列的第一篇文章，结论不是我的。事实上，在这篇文章中，我们可以看到",
+      "title": "在你的项目中增加更多的开发人员会使它变得更慢"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是 \"破除神話 \"系列的第一篇文章，結論不是我的。事實上，在這篇文章中，我們可以看到",
+      "title": "在你的項目中增加更多的開發人員會使它變得更慢"
+    }
+  ]
 }
