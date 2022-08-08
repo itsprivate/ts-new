@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T02:14:18Z",
   "image": "https://dev.to/social_previews/article/1161752.png",
   "author": "Its Aomi",
-  "author_url": "https://dev.to/itsaomi"
+  "author_url": "https://dev.to/itsaomi",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "シンプルなホバー効果を持つベーシックな3D cssボタンです。  より多くのコード例については、こちらをご覧ください - リンク 作成するために...",
+      "title": "CSS 3Dボタン（ホバー効果付き"
+    },
+    {
+      "locale": "zh",
+      "description": "一个基本的3D css按钮，具有简单的悬停效果。  更多的代码实例请访问这里 - link 要创建...",
+      "title": "具有悬停效果的CSS 3D按钮"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個基本的3D css按鈕，具有簡單的懸停效果。  更多的代碼實例請訪問這裏 - link 要創建...",
+      "title": "具有懸停效果的CSS 3D按鈕"
+    }
+  ]
 }
