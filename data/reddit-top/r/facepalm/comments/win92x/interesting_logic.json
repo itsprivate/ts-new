@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "興味深いロジック"
+    },
+    {
+      "locale": "zh",
+      "title": "有趣的逻辑"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有趣的邏輯"
+    }
+  ]
 }
