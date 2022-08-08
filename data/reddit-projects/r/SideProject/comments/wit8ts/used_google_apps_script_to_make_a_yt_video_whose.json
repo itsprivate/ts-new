@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Google Apps Scriptを使って、10分ごとにサムネイルが変わるYTビデオを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "使用谷歌应用程序脚本制作了一个YT视频，其缩略图每10分钟就会改变一次!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "使用谷歌應用程序腳本製作了一個YT視頻，其縮略圖每10分鐘就會改變一次!"
+    }
+  ]
 }
