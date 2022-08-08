@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最後にググったやつをヤるんだよ。なんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你必须操起你在谷歌上搜索的最后一件事。那是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你必須操起你在谷歌上搜索的最後一件事。那是什麼？"
+    }
+  ]
 }
