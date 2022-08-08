@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-05T23:03:01Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MFjHbypk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ta2169imdpy4mtgse2z.png",
   "author": "Ryosuke",
-  "author_url": "https://dev.to/whoisryosuke"
+  "author_url": "https://dev.to/whoisryosuke",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "最近、私はUIのクロスプラットフォーム・レンダリングに魅了され、この問題に取り組んでいます。",
+      "title": "SolidJS と Skia CanvasKit で DOM を捨てる"
+    },
+    {
+      "locale": "zh",
+      "description": "最近，我对UI的跨平台渲染非常着迷，并从以下几个方面着手处理这个问题。",
+      "title": "用SolidJS和Skia CanvasKit甩掉DOM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "最近，我對UI的跨平臺渲染非常着迷，並從以下幾個方面着手處理這個問題。",
+      "title": "用SolidJS和Skia CanvasKit甩掉DOM"
+    }
+  ]
 }
