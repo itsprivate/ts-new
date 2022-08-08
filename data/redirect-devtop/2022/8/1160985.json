@@ -42,5 +42,22 @@
   "original_created_at": "2022-08-06T17:31:51Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fYDSwOni--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpcvdc74jgzduk0t3ohb.png",
   "author": "Anas Nabil",
-  "author_url": "https://dev.to/anasnmu"
+  "author_url": "https://dev.to/anasnmu",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "特定のサイトを検索する サイトやドメインの前に「site:」を入れる。 例：...",
+      "title": "プロに学ぶGoogleの使い方"
+    },
+    {
+      "locale": "zh",
+      "description": "搜索一个特定的网站 在一个网站或域名前面加上 \"site:\"。 例如：...",
+      "title": "如何像专业人士一样使用谷歌"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "搜索一個特定的網站 在一個網站或域名前面加上 \"site:\"。 例如：...",
+      "title": "如何像專業人士一樣使用谷歌"
+    }
+  ]
 }
