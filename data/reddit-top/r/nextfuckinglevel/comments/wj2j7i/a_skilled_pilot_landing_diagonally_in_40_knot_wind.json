@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "40ノットの風の中、斜めに着陸する熟練パイロット。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个熟练的飞行员在40节的风中斜向降落。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個熟練的飛行員在40節的風中斜向降落。"
+    }
+  ]
 }
