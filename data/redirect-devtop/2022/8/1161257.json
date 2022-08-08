@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-07T05:58:52Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XyKfaZrG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tqa9qzyrc2xlx4epcvnc.png",
   "author": "Saurabh Sharma",
-  "author_url": "https://dev.to/itsjzt"
+  "author_url": "https://dev.to/itsjzt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、私がフルスタックのウェブ開発者として物事を成し遂げるために毎日使っている設定です。私は、...について知ることが大好きです。",
+      "title": "私の最小限のウェブ開発セットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "这是我作为一个全栈式网络开发人员每天用来完成工作的设置。我喜欢了解...",
+      "title": "我的最低限度的网络开发设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是我作爲一個全棧式網絡開發人員每天用來完成工作的設置。我喜歡瞭解...",
+      "title": "我的最低限度的網絡開發設置"
+    }
+  ]
 }
