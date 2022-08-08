@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これでよいのだろうか？かなりの時間を費やして"
+    },
+    {
+      "locale": "zh",
+      "title": "这是个好主意吗？在这上面花了不少时间。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個好主意嗎？在這上面花了不少時間。"
+    }
+  ]
 }
