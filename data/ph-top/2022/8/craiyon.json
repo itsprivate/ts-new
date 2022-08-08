@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-08T09:01:21Z"
+  "original_createdAt": "2022-08-08T09:01:21Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Craiyon（旧DALL-E mini）は、任意のテキストプロンプトから画像を描画することができるAIモデルです。",
+      "tagline": "任意のプロンプトから画像を描画するAIモデル"
+    },
+    {
+      "locale": "zh",
+      "description": "Craiyon，原名DALL-E mini，是一个人工智能模型，可以从任何文本提示中绘制图像。",
+      "tagline": "AI模型从任何提示中绘制图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Craiyon，原名DALL-E mini，是一個人工智能模型，可以從任何文本提示中繪製圖像。",
+      "tagline": "AI模型從任何提示中繪製圖像"
+    }
+  ]
 }
