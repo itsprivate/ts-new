@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "チェーンリンクは、マージ後にメインのイーサリアムチェーンのみをサポートすることを確認しています。これは、ほとんどのDeFiアプリがどのフォークチェーンでも完全に壊れてしまうことを意味します。"
+    },
+    {
+      "locale": "zh",
+      "title": "Chainlink确认，他们在合并后将只支持以太坊主链。这意味着大多数DeFi应用在任何分叉链上都会被完全破坏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Chainlink確認，他們在合併後將只支持以太坊主鏈。這意味着大多數DeFi應用在任何分叉鏈上都會被完全破壞"
+    }
+  ]
 }
