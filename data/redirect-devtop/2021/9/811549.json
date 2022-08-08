@@ -40,5 +40,22 @@
   "original_created_at": "2021-09-02T16:27:27Z",
   "image": "https://dev.to/social_previews/article/811549.png",
   "author": "Bentil Shadrack",
-  "author_url": "https://dev.to/qbentil"
+  "author_url": "https://dev.to/qbentil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ID属性とCLASS属性の追加 ID attr htmlタグ div#info 👇 &lt;div id=\"info\"&gt;&lt;/div&gt; ・・・・・・・。",
+      "title": "知っておきたい開発者向けVSCODEショートカット7️🧵。"
+    },
+    {
+      "locale": "zh",
+      "description": "ID和CLASS属性 添加ID attr html标签 div#info 👇 &lt;div id=\"info\"&gt;&lt;/div&gt; ...",
+      "title": "7️⃣开发者应该知道的VSCODE快捷方式 Thread🧵"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "ID和CLASS屬性 添加ID attr html標籤 div#info 👇 &lt;div id=\"info\"&gt;&lt;/div&gt; ...",
+      "title": "7️⃣開發者應該知道的VSCODE快捷方式 Thread🧵"
+    }
+  ]
 }

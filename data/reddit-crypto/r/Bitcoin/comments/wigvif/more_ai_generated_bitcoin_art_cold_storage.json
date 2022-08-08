@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AIが生成したビットコインアート（コールドストレージ）をもっと見る"
+    },
+    {
+      "locale": "zh",
+      "title": "更多人工智能生成的比特币艺术（冷库）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "更多人工智能生成的比特幣藝術（冷庫）。"
+    }
+  ]
 }
