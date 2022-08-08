@@ -58,5 +58,22 @@
   "original_created_at": "2022-07-28T05:16:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MTHUOdxL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15ynnl6l8c1s2pau96m0.jpeg",
   "author": "Ryan Carniato",
-  "author_url": "https://dev.to/ryansolid"
+  "author_url": "https://dev.to/ryansolid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JavaScriptほど嫌われつつも広く使われている言語があったでしょうか。 私は...",
+      "title": "JavaScriptのパラドックス"
+    },
+    {
+      "locale": "zh",
+      "description": "我不确定是否有一种语言像JavaScript一样被人厌恶，但又被广泛使用。 我是...",
+      "title": "JavaScript的悖论"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我不確定是否有一種語言像JavaScript一樣被人厭惡，但又被廣泛使用。 我是...",
+      "title": "JavaScript的悖論"
+    }
+  ]
 }
