@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T00:02:38Z",
   "image": "https://dev.to/social_previews/article/1161664.png",
   "author": "Bentil Shadrack",
-  "author_url": "https://dev.to/qbentil"
+  "author_url": "https://dev.to/qbentil",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "コンソールは、開発者がブラウザのデバッグコンソールにアクセスすることを許可するJavaScriptオブジェクトです。   ...",
+      "title": "デバッグ力がアップするJavaScriptコンソールメソッド5選🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "控制台是一个JavaScript对象，授予开发者访问浏览器调试控制台的权利。   ...",
+      "title": "5种能提高你调试技能的JavaScript控制台方法🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "控制檯是一個JavaScript對象，授予開發者訪問瀏覽器調試控制檯的權利。   ...",
+      "title": "5種能提高你調試技能的JavaScript控制檯方法🚀"
+    }
+  ]
 }
