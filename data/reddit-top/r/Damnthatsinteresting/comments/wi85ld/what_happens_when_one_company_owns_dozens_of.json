@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一つの会社が何十もの地方ニュース局を所有するとどうなるか"
+    },
+    {
+      "locale": "zh",
+      "title": "当一家公司拥有几十家地方新闻台时会发生什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當一家公司擁有幾十家地方新聞臺時會發生什麼？"
+    }
+  ]
 }
