@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "意外と知られていない"
+    },
+    {
+      "locale": "zh",
+      "title": "不足为奇"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不足爲奇"
+    }
+  ]
 }
