@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もしバンド名が文字通りのものだとしたら、参加するのに一番嫌なコンサートは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果乐队名称是字面意思，参加什么音乐会是最糟糕的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果樂隊名稱是字面意思，參加什麼音樂會是最糟糕的？"
+    }
+  ]
 }

@@ -13,5 +13,19 @@
   ],
   "objectID": "32386323",
   "original_created_at": "2022-08-08T15:06:20.000Z",
-  "image": "https://docs.gitlab.com/assets/images/gitlab-logo-header.svg"
+  "image": "https://docs.gitlab.com/assets/images/gitlab-logo-header.svg",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10月19日より、すべてのGitlab Freeアカウントでストレージの制限が実施されます。"
+    },
+    {
+      "locale": "zh",
+      "title": "从10月19日开始，所有Gitlab免费账户都将强制执行存储限制"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "從10月19日開始，所有Gitlab免費賬戶都將強制執行存儲限制"
+    }
+  ]
 }
