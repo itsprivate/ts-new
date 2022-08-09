@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-08T09:14:25Z"
+  "original_createdAt": "2022-08-08T09:14:25Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Figmaのプラグインで、あなたの生活を便利にします。Easier gradientsは、グラデーションの反転や、正確な角度の選択など、いつも面倒に思っていることを手助けしてくれます。Figmaのグラデーションを、もっと簡単に。",
+      "tagline": "Figma でグラデーションをより簡単に扱えるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "description": "这是Figma的一个插件，让你的生活更轻松。Easier gradients 可以帮助您解决那些您一直希望不必经历的恼人的部分，比如翻转梯度，或者选择您想要的确切角度。让Figma渐变，更容易。",
+      "tagline": "让Figma中的梯度工作变得更加简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是Figma的一個插件，讓你的生活更輕鬆。Easier gradients 可以幫助您解決那些您一直希望不必經歷的惱人的部分，比如翻轉梯度，或者選擇您想要的確切角度。讓Figma漸變，更容易。",
+      "tagline": "讓Figma中的梯度工作變得更加簡單"
+    }
+  ]
 }
