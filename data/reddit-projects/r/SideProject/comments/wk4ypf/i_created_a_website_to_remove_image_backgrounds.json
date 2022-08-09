@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi everyone, I recently launched bgsub.com [https://bgsub.com], a website that\nautomatically removes backgrounds from images. But unlike other similar sites,\nthe whole process does not require uploading your images, so you don't have to\nworry about your privacy being compromised.\n\n * No download:…"
+  "the_new_excerpt": "Hi everyone, I recently launched bgsub.com [https://bgsub.com], a website that\nautomatically removes backgrounds from images. But unlike other similar sites,\nthe whole process does not require uploading your images, so you don't have to\nworry about your privacy being compromised.\n\n * No download:…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。最近、bgsub.com [https://bgsub.com]という、画像の背景を自動的に削除するウェブサイトを立ち上げました。\n画像から背景を自動的に削除するサイトです。しかし、他の類似のサイトとは異なります。\n画像のアップロードを必要としないので、プライバシーが侵害される心配はありません。\nしかし、他の類似のサイトとは異なり、すべてのプロセスは、あなたのプライバシーが侵害されていることを心配する必要はありません。\n\n * ダウンロードなし:...",
+      "title": "画像の背景を消すサイトを作った。ログインも支払いもアップロードもなし"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好，我最近推出了bgsub.com [https://bgsub.com]，一个可以\n自动删除图片的背景。但与其他类似的网站不同。\n整个过程不需要上传你的图片，所以你不需要\n担心你的隐私被泄露。\n\n * 无需下载：...",
+      "title": "我创建了一个网站来删除图像背景。无需登录，无需付费，无需上传"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好，我最近推出了bgsub.com [https://bgsub.com]，一個可以\n自動刪除圖片的背景。但與其他類似的網站不同。\n整個過程不需要上傳你的圖片，所以你不需要\n擔心你的隱私被泄露。\n\n * 無需下載：...",
+      "title": "我創建了一個網站來刪除圖像背景。無需登錄，無需付費，無需上傳"
+    }
+  ]
 }
