@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T09:53:42Z",
   "image": "https://dev.to/social_previews/article/1161954.png",
   "author": "Nadia Makarevich",
-  "author_url": "https://dev.to/adevnadia"
+  "author_url": "https://dev.to/adevnadia",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これは、Reactのリレンダリングに関する完全なガイドのパート1およびパート2です。このガイドでは、Reactのリレンダリングとは何か？",
+      "title": "React再レンダリングガイド: Reactコンポーネントが再レンダリングする理由"
+    },
+    {
+      "locale": "zh",
+      "description": "这是第一部分&amp；第二部分关于React re-renders的完整指南。该指南解释了什么是...",
+      "title": "React重新渲染指南：为什么React组件会重新渲染"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是第一部分&amp；第二部分關於React re-renders的完整指南。該指南解釋了什麼是...",
+      "title": "React重新渲染指南：爲什麼React組件會重新渲染"
+    }
+  ]
 }
