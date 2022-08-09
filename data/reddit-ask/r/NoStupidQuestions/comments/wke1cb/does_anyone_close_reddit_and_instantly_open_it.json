@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Redditを閉じて、すぐに再開して、さっきまでやっていたことを忘れて、自分にがっかりしている人はいませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "是否有人在关闭Reddit后马上又打开，忘记自己刚刚上过它，然后对自己感到失望？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "是否有人在關閉Reddit後馬上又打開，忘記自己剛剛上過它，然後對自己感到失望？"
+    }
+  ]
 }
