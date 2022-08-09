@@ -1,0 +1,96 @@
+{
+  "author": "CommunityPoints",
+  "original_created_utc": 1660061121,
+  "title": "Pack your Moons, we’re moving to mainnet!",
+  "created_utc": 1660071187,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello hello everyone in &lt;a href=\"/r/cryptocurrency\"&gt;r/cryptocurrency&lt;/a&gt;!&lt;/p&gt;\n\n&lt;p&gt;For those of you who have been following Reddit’s &lt;a href=\"https://www.reddit.com/community-points/\"&gt;Community Points&lt;/a&gt; project, you may be aware that the system behind Moons has been living on something called a “testnet”. After a couple years of development and iteration with the community, we’re taking the plunge and moving Reddit Community Points to &lt;a href=\"https://media1.giphy.com/media/gui67fZ3xIneM/200w.webp?cid=ecf05e479eoa2k3ye4zp2s9z1j92gofxnqcyzewdqj2gil6z&amp;amp;rid=200w.webp&amp;amp;ct=g\"&gt;mainnet&lt;/a&gt;!&lt;/p&gt;\n\n&lt;p&gt;There are a number of reasons why we’re doing this and it will have both long-term and short-term implications for those of you with Moons.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Community Points are being migrated to &lt;a href=\"https://nova.arbitrum.io/\"&gt;Arbitrum Nova&lt;/a&gt;, a scaling network on the Ethereum mainnet.&lt;/li&gt;\n&lt;li&gt;Mainnet requires network fees (“gas”). For now, Reddit will pay gas fees for distributing Points and spending them on Special Memberships and other premium features. Users will need to pay gas fees to gift or tip Points to other users. In order to pay for these gas costs, users can buy ETH on the Reddit platform through FTX, our crypto exchange partner.&lt;/li&gt;\n&lt;li&gt;Moon balances in Vaults will be automatically migrated to mainnet. After the migration is complete, we will provide a bridge that can be used to migrate other Moons.&lt;/li&gt;\n&lt;li&gt;The migration may take several days to complete. During that time, Moons will not be available to use. We will update this post when the migration is complete.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;Uh, so what is mainnet?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Blockchains are valuable because of the security and ownership they provide. This is part of what make Moons special – because they are on the blockchain, they are truly yours.&lt;/p&gt;\n\n&lt;p&gt;Until now, Moons have been on a test blockchain (testnet). This allows low-risk iterating, testing, and staging for blockchain applications prior to launching on mainnet. However, testnets do not have the same security or performance guarantees of a production blockchain (mainnet). The particular testnet that Moons have been on is also nearing its end of life. For your Moons to remain secure, it is necessary to move them to a mainnet blockchain.&lt;/p&gt;\n\n&lt;p&gt;Moving Moons to mainnet is a big step in the evolution of this project. Community Points were created as a first step towards extending community independence. Autonomy and interoperability are aspects of the digital community that keep the internet human, a core value at Reddit. To this end, building this karma-backed system on a blockchain allows users to easily participate in the governance of their communities and carry their reputation with them online.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Cool, where are Moons going?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;We are excited to announce that Community Points are moving to &lt;a href=\"https://nova.arbitrum.io/\"&gt;Arbitrum Nova&lt;/a&gt;, a scaling network on the Ethereum blockchain which provides much higher capacity at lower costs. The Reddit Crypto team has been working closely with Offchain Labs, the team behind Arbitrum technology, for well over a year. Offchain Labs participated in the &lt;a href=\"https://www.reddit.com/r/ethereum/comments/hbjx25/the_great_reddit_scaling_bakeoff/\"&gt;Scaling Bake-off&lt;/a&gt; we held two years ago, and in 2021 we &lt;a href=\"https://www.reddit.com/r/ethereum/comments/opi5rg/scaling_reddits_community_points_with_arbitrum/\"&gt;announced&lt;/a&gt; that we are working with them on scaling solutions.&lt;/p&gt;\n\n&lt;p&gt;Arbitrum Nova leverages &lt;a href=\"https://developer.arbitrum.io/docs/anytrust\"&gt;AnyTrust technology&lt;/a&gt;. Not only does the AnyTrust technology reduce costs, but it also provides a more energy-efficient solution. Unlike traditional blockchains which use a heavy form of computation known as Proof-Of-Work, Arbitrum AnyTrust technology runs with a committee of nodes, which is significantly more efficient and scalable.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;What changes?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Mainnet blockchains require network fees (“gas”) to use. Specifically, these fees are incurred when Points are distributed, spent, or transferred between users. These costs are paid in the Ether cryptocurrency “ETH&amp;quot;.&lt;/p&gt;\n\n&lt;p&gt;While Arbitrum Nova has significantly lower fees than other networks, there are still fees that need to be paid to use Community Points on mainnet. For now, Reddit will cover gas costs for distributing Points to users and allowing them to spend Points on features such as Special Memberships. Users will pay gas costs to gift or tip Points to other users.&lt;/p&gt;\n\n&lt;p&gt;In order to pay for these gas costs, users will need to acquire ETH. To enable this, we are working with FTX to provide a way for users to buy ETH and use it within supported Reddit apps to pay gas costs. FTX is one of the world’s leading crypto exchanges and provides a safe and secure purchase experience. Currently, iOS does not support the ability to purchase ETH within the app directly. However, ETH purchased on any platform, including web, can be used from any app. For more details, please visit the documentation &lt;a href=\"https://www.reddit.com/community-points/documentation/points-on-the-blockchain\"&gt;here&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;When ETH is purchased through this flow and stored in the Vault, it can be used from any Reddit platform that supports Vault. However, note that ETH stored in Vault can only be used on gas and cannot be transferred or used for other purposes. While there may be limited support for purchasing ETH on some platforms and geographic regions, we hope to expand the reach over time.&lt;/p&gt;\n\n&lt;p&gt;One final change for mainnet. To ensure this change does not disrupt communities, users will only be able to gift and tip Points to other users within the Reddit app and will no longer be able to transfer Points to blockchain addresses. In general, please be sure to follow our &lt;a href=\"https://www.redditinc.com/policies/previews-terms\"&gt;terms of service&lt;/a&gt; for blockchain features.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;What do you need to do?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;Moons in Vaults will be migrated to mainnet on your behalf. This process is currently underway and may take several days to complete. During that time, Moons will be unavailable for use. We will update this post when the migration is complete.&lt;/p&gt;\n\n&lt;p&gt;To make sure you are able to use Moons once they are migrated, make sure you have updated to the latest version of the apps from your app store.&lt;/p&gt;\n\n&lt;p&gt;For Moons that are not in Vaults, we will provide a new bridge that you can use to migrate them on your own to mainnet. We will share the bridge as an update on this post when it is ready.&lt;/p&gt;\n\n&lt;p&gt;Both this new bridge to mainnet and the &lt;a href=\"https://www.reddit.com/web/points-migration\"&gt;previous bridge&lt;/a&gt; to move Moons from Ethereum Rinkeby to our Arbitrum testnet will be available for the following 3 months. Please be sure to migrate your Moons during that time or else you risk losing access to them.&lt;/p&gt;\n\n&lt;p&gt;We will share updates on the migration on this post as we make progress. The current distribution round will be airdropped after the migration is complete. If you have feedback about Community Points/Special Memberships, we’d love to hear your thoughts &lt;a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe7176lGMfw-Eq155GiNBfzf8dalJObllx1ks-y2DyinTdJMg/viewform?usp=sf_link\"&gt;here&lt;/a&gt;!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 330,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?format=png8&amp;s=ebe61cce597893f608f7d3817184906a2e32c7f1",
+          "width": 480,
+          "height": 270
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=6da3bd08d090a2dcf427ae8b1817600c144d20fb",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=784507766a63068135e5744da71c68b79d1cd73e",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=cad64c09a80c3489adcb8642355d7f235e62976d",
+            "width": 320,
+            "height": 180
+          }
+        ],
+        "variants": {
+          "gif": {
+            "source": {
+              "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?s=df2eaed53eb204637e6cb353adf1c4c863397de9",
+              "width": 480,
+              "height": 270
+            },
+            "resolutions": [
+              {
+                "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=108&amp;crop=smart&amp;s=469c93b59564926d36edc932fe07078a448ec38b",
+                "width": 108,
+                "height": 60
+              },
+              {
+                "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=216&amp;crop=smart&amp;s=d7afce42f851e7f07d0f15e57019101de771115d",
+                "width": 216,
+                "height": 121
+              },
+              {
+                "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=320&amp;crop=smart&amp;s=e9719e0b7b49bad1214d8b97024d78da40c2e4ce",
+                "width": 320,
+                "height": 180
+              }
+            ]
+          },
+          "mp4": {
+            "source": {
+              "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?format=mp4&amp;s=04b2856581302479bca94acfa51768a0ffa707ea",
+              "width": 480,
+              "height": 270
+            },
+            "resolutions": [
+              {
+                "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=108&amp;format=mp4&amp;s=c84332aaf500fc5add586849a29f465e41c8237f",
+                "width": 108,
+                "height": 60
+              },
+              {
+                "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=216&amp;format=mp4&amp;s=bbd5207cd9946e8648b10aa05b72171a6b008bc5",
+                "width": 216,
+                "height": 121
+              },
+              {
+                "url": "https://external-preview.redd.it/KKF0o8ioBXXsP9-Nkt9QptFA8AxdkkGGN83qk7dE-8A.gif?width=320&amp;format=mp4&amp;s=1a29267017bfbdbd88cf6d82c00683e8cf1149ea",
+                "width": 320,
+                "height": 180
+              }
+            ]
+          }
+        },
+        "id": "DZpGBIjPuKdV-tFUFKfnQ0NyZ7vfsyg7C-XCFVz-XKI"
+      }
+    ],
+    "enabled": true
+  },
+  "permalink": "/r/CryptoCurrency/comments/wk75p2/pack_your_moons_were_moving_to_mainnet/",
+  "subreddit": "CryptoCurrency",
+  "id": "wk75p2",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Hello hello everyone in r/cryptocurrency [/r/cryptocurrency]!\n\nFor those of you who have been following Reddit’s Community Points\n[https://www.reddit.com/community-points/] project, you may be aware that the\nsystem behind Moons has been living on something called a “testnet”. After a\ncouple years…"
+}
