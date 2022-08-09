@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分自身について、認めたくないことは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对自己有什么认识，而你又不愿意承认的事情？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對自己有什麼認識，而你又不願意承認的事情？"
+    }
+  ]
 }
