@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-09T06:10:42Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---YWaKvGI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vcvntqk6goh2aygwhqfs.png",
   "author": "Nevo David",
-  "author_url": "https://dev.to/nevodavid"
+  "author_url": "https://dev.to/nevodavid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "皆さん、こんにちは！おかえりなさい           実際のオークションと同じように、入札すると...",
+      "title": "リアルタイムオークションシステムの作り方～Socket.ioとReactの接続～🔥（後編）"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，欢迎回来!           小小的回顾 像实际的拍卖一样，如果你竞标的是一个...",
+      "title": "如何建立一个实时拍卖系统--用React连接Socket.io 🔥 (第二部分)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，歡迎回來!           小小的回顧 像實際的拍賣一樣，如果你競標的是一個...",
+      "title": "如何建立一個實時拍賣系統--用React連接Socket.io 🔥 (第二部分)"
+    }
+  ]
 }
