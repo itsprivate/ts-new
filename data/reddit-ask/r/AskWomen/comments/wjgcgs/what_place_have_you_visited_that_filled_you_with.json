@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたがこれまでに訪れた場所で、畏敬の念を抱いた場所はどこですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你去过哪个地方，让你充满敬畏？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你去過哪個地方，讓你充滿敬畏？"
+    }
+  ]
 }
