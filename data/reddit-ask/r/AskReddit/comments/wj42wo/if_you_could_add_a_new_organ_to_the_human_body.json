@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、人体に新しい臓器を追加できるとしたら、それは何で、どんな働きをするのでしょう？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在人体中增加一个新的器官，它将是什么，它将做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在人體中增加一個新的器官，它將是什麼，它將做什麼？"
+    }
+  ]
 }
