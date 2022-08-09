@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "スターバックスの全従業員が退社"
+    },
+    {
+      "locale": "zh",
+      "title": "星巴克团队全体退场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "星巴克團隊全體退場"
+    }
+  ]
 }
