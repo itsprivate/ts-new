@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hello Everyone,\n\nWe just created a new SaaS solution (ecom2json [https://ecom2json.com/]) for\nextracting product data in JSON format without dealing with proxies, captchas,\nHTML parsing, etc. Ecom2json takes the product URL as input via API call and\noutputs the product data in JSON format.…"
+  "the_new_excerpt": "Hello Everyone,\n\nWe just created a new SaaS solution (ecom2json [https://ecom2json.com/]) for\nextracting product data in JSON format without dealing with proxies, captchas,\nHTML parsing, etc. Ecom2json takes the product URL as input via API call and\noutputs the product data in JSON format.…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "みなさん、こんにちは。\n\n私たちは、プロキシを使わずに商品データを JSON 形式で抽出する新しい SaaS ソリューション (ecom2json [https://ecom2json.com/]) を作成しました。\nプロキシやキャプチャを使用せずに商品データをJSON形式で抽出するための新しいSaaSソリューション(ecom2json)を作成しました。\nHTML パースなどを使用せずに、商品データを JSON 形式で抽出する新しい SaaS ソリューションを開発しました。ecom2json は、API 呼び出しにより商品 URL を入力として受け取り\n商品データをJSON形式で出力する...。",
+      "title": "ecom2json - 簡単なAPIコールでeコマースの商品ページをJSONに変換する。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "大家好。\n\n我们刚刚创建了一个新的SaaS解决方案（ecom2json[https://ecom2json.com/]），用于\n提取JSON格式的产品数据，无需处理代理、验证码。\nHTML解析，等等。Ecom2json通过API调用将产品的URL作为输入，并且\n输出JSON格式的产品数据....",
+      "title": "ecom2json - 通过简单的API调用将电子商务产品页面转换为JSON文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "大家好。\n\n我們剛剛創建了一個新的SaaS解決方案（ecom2json[https://ecom2json.com/]），用於\n提取JSON格式的產品數據，無需處理代理、驗證碼。\nHTML解析，等等。Ecom2json通過API調用將產品的URL作爲輸入，並且\n輸出JSON格式的產品數據....",
+      "title": "ecom2json - 通過簡單的API調用將電子商務產品頁面轉換爲JSON文件"
+    }
+  ]
 }
