@@ -114,5 +114,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1659995344,
-  "the_new_excerpt": "I bought 1500 shares of AMTD at $9.55. Do you think the price will come back\neventually for me to at least break even or am I screwed lol"
+  "the_new_excerpt": "I bought 1500 shares of AMTD at $9.55. Do you think the price will come back\neventually for me to at least break even or am I screwed lol",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "AMTD を 9.55 ドルで 1500 株買いました。価格が戻ってくると思いますか？\nるのか、それとももうだめなのか(笑)。",
+      "title": "もうダメなのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我在9.55美元买了1500股AMTD。你认为价格会回来吗？\n最终让我至少实现收支平衡，还是我被坑了？",
+      "title": "我是不是完蛋了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我在9.55美元買了1500股AMTD。你認爲價格會回來嗎？\n最終讓我至少實現收支平衡，還是我被坑了？",
+      "title": "我是不是完蛋了？"
+    }
+  ]
 }
