@@ -44,5 +44,22 @@
   "original_created_at": "2022-06-29T10:51:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0lGZUizW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9wlogswq1fd8utg4ig5.png",
   "author": "okeken",
-  "author_url": "https://dev.to/okeken"
+  "author_url": "https://dev.to/okeken",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "React jsの学習は、すでにいくつかの概念に慣れていれば、それほど難しくはないはずです。",
+      "title": "Reactjsのために知っておくべきJavascript"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你已经熟悉了一些概念，学习React js应该不是那么困难。",
+      "title": "应对Reactjs的Javascript知识"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你已經熟悉了一些概念，學習React js應該不是那麼困難。",
+      "title": "應對Reactjs的Javascript知識"
+    }
+  ]
 }
