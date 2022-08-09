@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Just for the giggles"
+  "the_new_excerpt": "Just for the giggles",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "笑い話にどうぞ",
+      "title": "マクドナルドのソフトウェア・エンジニアとして働いていても、「マクドナルドで働いている」と言えるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "只是为了笑一笑",
+      "title": "如果你是为麦当劳工作的软件工程师，你能说你 \"在麦当劳工作 \"吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "只是爲了笑一笑",
+      "title": "如果你是爲麥當勞工作的軟件工程師，你能說你 \"在麥當勞工作 \"嗎？"
+    }
+  ]
 }
