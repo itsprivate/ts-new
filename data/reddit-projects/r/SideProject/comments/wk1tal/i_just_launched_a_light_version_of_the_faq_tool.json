@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "You can try it out at https://lite.webcomet.io/\n\nAny feedback is appreciated."
+  "the_new_excerpt": "You can try it out at https://lite.webcomet.io/\n\nAny feedback is appreciated.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://lite.webcomet.io/ でお試しいただけます。\n\nご意見・ご感想をお待ちしております。",
+      "title": "私が作成したFAQツールの登録不要のライト版を公開しました"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你可以在https://lite.webcomet.io/。\n\n希望得到任何反馈。",
+      "title": "我刚刚推出了一个我创建的不需要注册的轻量级FAQ工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你可以在https://lite.webcomet.io/。\n\n希望得到任何反饋。",
+      "title": "我剛剛推出了一個我創建的不需要註冊的輕量級FAQ工具"
+    }
+  ]
 }
