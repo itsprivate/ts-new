@@ -223,5 +223,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Tue Aug 09 17:00:16 +0000 2022"
+  "original_created_at": "Tue Aug 09 17:00:16 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "このサラダは、作り方がとても簡単で、しかもとても贅沢な味わいです。アボカドからビロードのようなコクが生まれます。\nhttps://t.co/H0xU9JKmra https://t.co/AdBFE20fWH"
+    },
+    {
+      "locale": "zh",
+      "full_text": "这道沙拉制作起来非常简单，而且味道非常鲜美。它从鳄梨中获得了天鹅绒般的丰富口感。\nhttps://t.co/H0xU9JKmra https://t.co/AdBFE20fWH"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "這道沙拉制作起來非常簡單，而且味道非常鮮美。它從鱷梨中獲得了天鵝絨般的豐富口感。\nhttps://t.co/H0xU9JKmra https://t.co/AdBFE20fWH"
+    }
+  ]
 }
