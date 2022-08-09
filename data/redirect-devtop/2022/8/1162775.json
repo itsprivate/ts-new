@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-09T07:39:59Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4pVyS5Hv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajh2cbj9sbq3g2sdqmli.png",
   "author": "Takuya Matsuyama",
-  "author_url": "https://dev.to/craftzdog"
+  "author_url": "https://dev.to/craftzdog",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、タクヤです。ご存知の通り、私は主にNeovimを使ってInkdropというアプリをコーディングしています。",
+      "title": "React、TypeScript、Tailwind CSSなどのための私のNeovimセットアップ"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，我是拓也。正如你可能知道的，我主要使用Neovim来编码我的应用程序，名为Inkdrop，这是一个非常重要的应用程序。",
+      "title": "我对React、TypeScript、Tailwind CSS等的Neovim设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，我是拓也。正如你可能知道的，我主要使用Neovim來編碼我的應用程序，名爲Inkdrop，這是一個非常重要的應用程序。",
+      "title": "我對React、TypeScript、Tailwind CSS等的Neovim設置"
+    }
+  ]
 }
