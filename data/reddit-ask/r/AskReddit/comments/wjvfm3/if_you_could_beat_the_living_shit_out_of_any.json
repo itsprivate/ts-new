@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、何の影響もなく、どんな有名人でも殴り倒せるとしたら、それは誰で、なぜですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在没有任何影响的情况下把任何名人打得屁滚尿流，那会是谁，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在沒有任何影響的情況下把任何名人打得屁滾尿流，那會是誰，爲什麼？"
+    }
+  ]
 }

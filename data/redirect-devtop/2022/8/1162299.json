@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T17:26:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6agMCMog--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/649bfpen4s3cuul5c7u9.jpg",
   "author": "Anna Baker",
-  "author_url": "https://dev.to/annabaker"
+  "author_url": "https://dev.to/annabaker",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "前回のTypescriptに関する記事の後、私は前に進んで、Typescriptの構築を開始することにしました。",
+      "title": "初めてのホームページの準備中 正しいプラットフォームの選択"
+    },
+    {
+      "locale": "zh",
+      "description": "在我上一篇关于Typescript的文章之后，我决定继续前进并开始建立一个...",
+      "title": "为我的第一个网站做准备。选择正确的平台"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在我上一篇關於Typescript的文章之後，我決定繼續前進並開始建立一個...",
+      "title": "爲我的第一個網站做準備。選擇正確的平臺"
+    }
+  ]
 }
