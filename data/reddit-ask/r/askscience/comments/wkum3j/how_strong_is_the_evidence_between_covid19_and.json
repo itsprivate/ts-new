@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "The media has reported COVID19 has been associated with shrinking of the brain\neven in the case of mild infections."
+  "the_new_excerpt": "The media has reported COVID19 has been associated with shrinking of the brain\neven in the case of mild infections.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "COVID19が脳の縮小と関連しているとメディアで報道されましたが\nと報道されましたが、軽度の感染症であっても",
+      "title": "COVID19と脳の萎縮の関係はどの程度強いのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "媒体报道COVID19与大脑萎缩有关\n甚至在轻度感染的情况下。",
+      "title": "COVID19与脑萎缩之间的证据有多强？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "媒體報道COVID19與大腦萎縮有關\n甚至在輕度感染的情況下。",
+      "title": "COVID19與腦萎縮之間的證據有多強？"
+    }
+  ]
 }

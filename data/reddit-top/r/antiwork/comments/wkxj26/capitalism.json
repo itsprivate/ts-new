@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "資本主義..."
+    },
+    {
+      "locale": "zh",
+      "title": "资本主义..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "資本主義..."
+    }
+  ]
 }
