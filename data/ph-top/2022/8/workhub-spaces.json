@@ -88,5 +88,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-10T07:01:00Z"
+  "original_createdAt": "2022-08-10T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WorkHub Spacesを使えば、同僚や顧客との会話を1つの場所で継続することができます。",
+      "tagline": "社外と社内のコミュニケーションを1つのソリューションで実現"
+    },
+    {
+      "locale": "zh",
+      "description": "有了WorkHub Spaces，你可以在一个地方与你的同事和客户保持对话。",
+      "tagline": "为您的外部和内部沟通提供一个解决方案"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "有了WorkHub Spaces，你可以在一個地方與你的同事和客戶保持對話。",
+      "tagline": "爲您的外部和內部溝通提供一個解決方案"
+    }
+  ]
 }
