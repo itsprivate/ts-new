@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エスケープルーム"
+    },
+    {
+      "locale": "zh",
+      "title": "逃生室"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "逃生室"
+    }
+  ]
 }
