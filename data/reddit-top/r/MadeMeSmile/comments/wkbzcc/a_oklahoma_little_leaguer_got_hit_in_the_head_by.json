@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "オクラホマ州のリトルリーガーが投球を頭に受け、ピッチャーにハグをして応えた。"
+    },
+    {
+      "locale": "zh",
+      "title": "一个俄克拉荷马州的小球员被投球击中头部，他的反应是给投手一个拥抱。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個俄克拉荷馬州的小球員被投球擊中頭部，他的反應是給投手一個擁抱。"
+    }
+  ]
 }
