@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "無名の投資家が30億円を投じてビットコインを購入 . このユーザーは約133 000 BTCを購入し、平均価格は23 000ドルだった。"
+    },
+    {
+      "locale": "zh",
+      "title": "不知名投资者花30亿美元购买比特币 . 该用户购买了大约133 000个BTC，平均价格为23 000美元。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不知名投資者花30億美元購買比特幣 . 該用戶購買了大約133 000個BTC，平均價格爲23 000美元。"
+    }
+  ]
 }
