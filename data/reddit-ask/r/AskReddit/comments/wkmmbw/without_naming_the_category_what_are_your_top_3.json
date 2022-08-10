@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カテゴリー名を伏せて、あなたのベスト3を教えてください。"
+    },
+    {
+      "locale": "zh",
+      "title": "在不点名的情况下，你的前三名是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在不點名的情況下，你的前三名是什麼？"
+    }
+  ]
 }
