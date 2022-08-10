@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Aug 10 23:43:1 +0000 2022",
+  "id_str": "1557485570728857601",
+  "full_text": "My latest RSI trading rule now on TradingView (pine script)\nhttps://t.co/N5ZKFqCKDK https://t.co/59clc30fpu",
+  "display_text_range": [
+    0,
+    83
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/N5ZKFqCKDK",
+        "expanded_url": "https://planbtc.com/20220807QuantInvesting101.pdf",
+        "display_url": "planbtc.com/20220807QuantI…",
+        "indices": [
+          60,
+          83
+        ]
+      },
+      {
+        "url": "https://t.co/59clc30fpu",
+        "expanded_url": "https://twitter.com/fillippone1/status/1557098932706099200",
+        "display_url": "twitter.com/fillippone1/st…",
+        "indices": [
+          84,
+          107
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541188633163595776/DB1plS2K_normal.jpg"
+  },
+  "retweet_count": 33,
+  "favorite_count": 277,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Aug 10 21:54:31 +0000 2022",
+  "quoted_status": {
+    "created_at": "Tue Aug 09 20:18:09 +0000 2022",
+    "id_str": "1557098932706099200",
+    "full_text": "I built an indicator in Tradingview with the latest @100trillionUSD strategy. \nIt is my first experiment! Suggestions are more than welcome. https://t.co/xkU1IRUv69",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "100trillionUSD",
+          "name": "PlanB",
+          "id": 918804624303382500,
+          "id_str": "918804624303382528",
+          "indices": [
+            52,
+            67
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1557098928381874200,
+          "id_str": "1557098928381874184",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/FZvtObpX0AgSshv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FZvtObpX0AgSshv.jpg",
+          "url": "https://t.co/xkU1IRUv69",
+          "display_url": "pic.twitter.com/xkU1IRUv69",
+          "expanded_url": "https://twitter.com/fillippone1/status/1557098932706099200/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 587,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1036,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "user": {
+      "name": "fillippone",
+      "screen_name": "fillippone1",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1407642624731852802/rC0_hWTg_normal.jpg"
+    },
+    "retweet_count": 12,
+    "favorite_count": 105,
+    "possibly_sensitive": false
+  }
+}
