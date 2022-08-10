@@ -44,5 +44,22 @@
   "original_created_at": "2022-08-05T15:03:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rnoQ3ScE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ew43bwaar2r13b0ghfy.jpg",
   "author": "Andrey Smolko",
-  "author_url": "https://dev.to/smlka"
+  "author_url": "https://dev.to/smlka",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "免責事項 JSで1000000記事あります。私は全く問題ないと思っています...",
+      "title": "JS関数の'this'にデフォルト値はありますか？"
+    },
+    {
+      "locale": "zh",
+      "description": "免责声明 关于这个问题，在JS中有1000000篇文章。我认为这完全可以...",
+      "title": "JS函数的'this'是否有默认值？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "免責聲明 關於這個問題，在JS中有1000000篇文章。我認爲這完全可以...",
+      "title": "JS函數的'this'是否有默認值？"
+    }
+  ]
 }
