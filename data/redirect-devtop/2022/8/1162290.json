@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T16:55:55Z",
   "image": "https://dev.to/social_previews/article/1162290.png",
   "author": "Cristian Estarlich",
-  "author_url": "https://dev.to/crisoncode"
+  "author_url": "https://dev.to/crisoncode",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Hello world!  これは私がいくつかの間違いを犯したら申し訳ありませんdev.toで私の最初のポストです:D ...",
+      "title": "2022年のWeb Devとしての私の設定"
+    },
+    {
+      "locale": "zh",
+      "description": "你好，世界!  这是我在dev.to的第一篇帖子，如果我犯了一些错误，请原谅 ...",
+      "title": "我在2022年作为一名网络工程师的设置"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好，世界!  這是我在dev.to的第一篇帖子，如果我犯了一些錯誤，請原諒 ...",
+      "title": "我在2022年作爲一名網絡工程師的設置"
+    }
+  ]
 }
