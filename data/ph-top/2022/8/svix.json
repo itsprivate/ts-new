@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-10T07:01:00Z"
+  "original_createdAt": "2022-08-10T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webhookは面倒だ。開発者は配信の可否、再試行、監視、セキュリティについて心配する必要があります。Svixを使えば、最先端のWebhooksソリューションを数分で構築できるので、ビジネスに集中できます。",
+      "tagline": "エンタープライズ対応のWebhook送信サービス"
+    },
+    {
+      "locale": "zh",
+      "description": "Webhooks是一种痛苦。开发人员需要担心交付能力、重试、监控和安全问题。Svix让你在几分钟内建立一个最先进的Webhooks解决方案，这样你就可以专注于你的业务。",
+      "tagline": "企业准备好的webhook发送服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Webhooks是一種痛苦。開發人員需要擔心交付能力、重試、監控和安全問題。Svix讓你在幾分鐘內建立一個最先進的Webhooks解決方案，這樣你就可以專注於你的業務。",
+      "tagline": "企業準備好的webhook發送服務"
+    }
+  ]
 }
