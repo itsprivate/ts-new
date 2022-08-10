@@ -193,5 +193,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660059123,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "最近のNASDAQ市場"
+    },
+    {
+      "locale": "zh",
+      "title": "最近的纳斯达克市场"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "最近的納斯達克市場"
+    }
+  ]
 }

@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-05T20:58:00Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_jwkBMQi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/505gfcu2sw0c8vx3yx8p.png",
   "author": "Tyler Hawkins",
-  "author_url": "https://dev.to/thawkin3"
+  "author_url": "https://dev.to/thawkin3",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ソフトウェアエンジニアとして、私たちは自動化が大好きです。しかし、コードレビューは、しばしばかなり手作業で行われ、...",
+      "title": "GitHubのコードレビューを大幅に改善するツールとインテグレーション"
+    },
+    {
+      "locale": "zh",
+      "description": "作为软件工程师，我们喜欢自动化。然而，代码审查往往是一个相当手动的过程，它是一个非常复杂的过程。",
+      "title": "大幅提高GitHub中代码审查的工具和集成度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "作爲軟件工程師，我們喜歡自動化。然而，代碼審查往往是一個相當手動的過程，它是一個非常複雜的過程。",
+      "title": "大幅提高GitHub中代碼審查的工具和集成度"
+    }
+  ]
 }
