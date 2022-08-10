@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-10T11:37:09Z",
   "image": "https://dev.to/social_previews/article/1163902.png",
   "author": "Stanislav Ilin",
-  "author_url": "https://dev.to/frezyx"
+  "author_url": "https://dev.to/frezyx",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SidebarX - 美しくて便利なサイドバーナビゲーションウィジェットを簡単に作成できるパッケージ。",
+      "title": "Flutterマルチプラットフォームナビゲーションサイドバー/ドロワーウィジェット"
+    },
+    {
+      "locale": "zh",
+      "description": "SidebarX - 包创建美丽和方便的侧边栏导航部件容易。",
+      "title": "Flutter多平台导航侧边栏/抽屉式小部件"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "SidebarX - 包創建美麗和方便的側邊欄導航部件容易。",
+      "title": "Flutter多平臺導航側邊欄/抽屜式小部件"
+    }
+  ]
 }
