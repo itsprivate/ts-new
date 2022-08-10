@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コード付きメールを受信できるメールテストプラットフォームを構築してみた"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个电子邮件测试平台，让你用代码接收电子邮件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個電子郵件測試平臺，讓你用代碼接收電子郵件"
+    }
+  ]
 }
