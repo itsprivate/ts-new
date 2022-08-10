@@ -74,5 +74,22 @@
     "retweet_count": 251,
     "favorite_count": 907,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @duncanrobinson: 英国へようこそ。何もかもがうまくいかない。https://t.co/YfDluYf22V",
+      "retweeted_status_full_text": "イギリスへようこそ 何もかもがうまくいかない。https://t.co/YfDluYf22V"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @duncanrobinson: 欢迎来到英国。没有什么是有效的。https://t.co/YfDluYf22V",
+      "retweeted_status_full_text": "欢迎来到英国。没有什么是有效的。https://t.co/YfDluYf22V"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @duncanrobinson: 歡迎來到英國。沒有什麼是有效的。https://t.co/YfDluYf22V",
+      "retweeted_status_full_text": "歡迎來到英國。沒有什麼是有效的。https://t.co/YfDluYf22V"
+    }
+  ]
 }
