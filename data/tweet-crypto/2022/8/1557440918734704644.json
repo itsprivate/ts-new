@@ -1,0 +1,87 @@
+{
+  "created_at": "Wed Aug 10 21:42:10 +0000 2022",
+  "id_str": "1557440918734704644",
+  "full_text": "Great replication of this quant model in Google Docs spreadsheet! Complete with RSI calculation.\nhttps://t.co/N5ZKFqCKDK https://t.co/CbUIAKlVIS",
+  "display_text_range": [
+    0,
+    120
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/N5ZKFqCKDK",
+        "expanded_url": "https://planbtc.com/20220807QuantInvesting101.pdf",
+        "display_url": "planbtc.com/20220807QuantI…",
+        "indices": [
+          97,
+          120
+        ]
+      },
+      {
+        "url": "https://t.co/CbUIAKlVIS",
+        "expanded_url": "https://twitter.com/ameleri/status/1556957852777971713",
+        "display_url": "twitter.com/ameleri/status…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  "user": {
+    "name": "PlanB",
+    "screen_name": "100trillionUSD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1541188633163595776/DB1plS2K_normal.jpg"
+  },
+  "retweet_count": 38,
+  "favorite_count": 249,
+  "possibly_sensitive": false,
+  "original_created_at": "Wed Aug 10 18:57:05 +0000 2022",
+  "quoted_status": {
+    "created_at": "Tue Aug 09 10:57:33 +0000 2022",
+    "id_str": "1556957852777971713",
+    "full_text": "@100trillionUSD Very interesting and simple rule,I made it work using Google Numbers (just update with BTC monthly closing value): https://t.co/1SWKbJLMdR",
+    "display_text_range": [
+      16,
+      154
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "100trillionUSD",
+          "name": "PlanB",
+          "id": 918804624303382500,
+          "id_str": "918804624303382528",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1SWKbJLMdR",
+          "expanded_url": "https://docs.google.com/spreadsheets/d/1dhff0qKYsAakbZTbRpu2S3SS038tqLyndCMuK4_uTbY/edit?usp=sharing",
+          "display_url": "docs.google.com/spreadsheets/d…",
+          "indices": [
+            131,
+            154
+          ]
+        }
+      ]
+    },
+    "user": {
+      "name": "Andrea Meleri",
+      "screen_name": "ameleri",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254462826229399558/pq9AQOsv_normal.jpg"
+    },
+    "retweet_count": 21,
+    "favorite_count": 96,
+    "possibly_sensitive": false
+  }
+}
