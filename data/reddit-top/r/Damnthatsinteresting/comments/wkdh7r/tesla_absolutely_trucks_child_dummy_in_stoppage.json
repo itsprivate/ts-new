@@ -61,5 +61,22 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": "We probably shouldn't be laughing, but come on now, Tesla."
+  "the_new_excerpt": "We probably shouldn't be laughing, but come on now, Tesla.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "笑っちゃいけないんだろうけど、さあ、テスラ。",
+      "title": "テスラ、停止試験で子供用ダミーを絶対にトラックで運ぶ。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我们也许不应该笑，但现在来吧，特斯拉。",
+      "title": "特斯拉在停车测试中绝对是卡车儿童假人。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我們也許不應該笑，但現在來吧，特斯拉。",
+      "title": "特斯拉在停車測試中絕對是卡車兒童假人。"
+    }
+  ]
 }
