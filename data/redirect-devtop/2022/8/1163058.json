@@ -49,5 +49,22 @@
   "original_created_at": "2022-08-09T14:42:06Z",
   "image": "https://dev.to/social_previews/article/1163058.png",
   "author": "Michael Tharrington",
-  "author_url": "https://dev.to/michaeltharrington"
+  "author_url": "https://dev.to/michaeltharrington",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "情報開示：私はソフトウェア開発者ではないので、この件に関して特に意見はありません。ただ、興味があるだけです...",
+      "title": "コードは詩的でありうるか？"
+    },
+    {
+      "locale": "zh",
+      "description": "披露：我不是一个软件开发者，我对这个问题并没有什么看法。我只是好奇...",
+      "title": "代码可以是诗意的吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "披露：我不是一個軟件開發者，我對這個問題並沒有什麼看法。我只是好奇...",
+      "title": "代碼可以是詩意的嗎？"
+    }
+  ]
 }
