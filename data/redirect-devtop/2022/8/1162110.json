@@ -44,5 +44,22 @@
   "original_created_at": "2022-08-08T12:57:38Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4TmJwPkE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otql3f3y7cs13uw3dk21.png",
   "author": "Nathan",
-  "author_url": "https://dev.to/nathan20"
+  "author_url": "https://dev.to/nathan20",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "はじめに 一般に、問題解決はソフトウェアにとって必須のスキルであることが知られている。",
+      "title": "ソフトウェア開発者としての強い問題解決能力を身につけるには"
+    },
+    {
+      "locale": "zh",
+      "description": "引言 众所周知，解决问题是软件的一项基本技能。",
+      "title": "作为一名软件开发人员，如何培养强大的问题解决能力"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "引言 衆所周知，解決問題是軟件的一項基本技能。",
+      "title": "作爲一名軟件開發人員，如何培養強大的問題解決能力"
+    }
+  ]
 }
