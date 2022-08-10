@@ -112,5 +112,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660134750,
-  "the_new_excerpt": "Analysys expected 8.7% for this period. This is the first time Inflation has\nfallen in the US since April earlier this year."
+  "the_new_excerpt": "Analysys expected 8.7% for this period. This is the first time Inflation has\nfallen in the US since April earlier this year.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "アナリシスはこの期間を8.7％と予想していた。これは、今年の4月以来、米国で初めてインフレ率が低下したことを意味します。\n米国では今年4月以降、初めてインフレ率が低下した。",
+      "title": "7月の前年同月比インフレ率は8.5％であった"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "Analysys预计这一时期为8.7%。这是自今年4月以来美国通货膨胀率首次出现\n今年早些时候4月以来，美国的通货膨胀率首次下降。",
+      "title": "7月份的同比通胀率为8.5%。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "Analysys預計這一時期爲8.7%。這是自今年4月以來美國通貨膨脹率首次出現\n今年早些時候4月以來，美國的通貨膨脹率首次下降。",
+      "title": "7月份的同比通脹率爲8.5%。"
+    }
+  ]
 }
