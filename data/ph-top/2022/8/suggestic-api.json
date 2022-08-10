@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-09T07:01:00Z"
+  "original_createdAt": "2022-08-09T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "SuggesticのAPIは、GraphQLをベースとした料理、レシピ、レストラン、食事計画の統一APIです。パーソナライズされた食事計画、USDA食品データベース検索、パーソナライズされたジャーニーにより、Suggesticは素晴らしい食品と健康アプリを簡単に構築することができます。",
+      "tagline": "料理、レシピ、レストラン、ミールプランニングの統一API。"
+    },
+    {
+      "locale": "zh",
+      "description": "Suggestic的API是一个基于GraphQL的统一的食品、食谱、餐厅和膳食计划API。通过个性化的膳食计划、美国农业部食品数据库搜索和个性化的旅程，Suggestic使您能够轻松地建立令人惊叹的食品和健康应用程序。",
+      "tagline": "统一的食品、食谱、餐厅和膳食计划API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Suggestic的API是一個基於GraphQL的統一的食品、食譜、餐廳和膳食計劃API。通過個性化的膳食計劃、美國農業部食品數據庫搜索和個性化的旅程，Suggestic使您能夠輕鬆地建立令人驚歎的食品和健康應用程序。",
+      "tagline": "統一的食品、食譜、餐廳和膳食計劃API"
+    }
+  ]
 }
