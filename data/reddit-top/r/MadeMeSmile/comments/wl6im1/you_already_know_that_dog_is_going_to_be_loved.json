@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたはもう、その犬が愛されることを知っています。"
+    },
+    {
+      "locale": "zh",
+      "title": "你已经知道那只狗将会被人喜爱"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你已經知道那隻狗將會被人喜愛"
+    }
+  ]
 }

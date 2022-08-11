@@ -107,5 +107,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明らかに食物繊維が不足している"
+    },
+    {
+      "locale": "zh",
+      "title": "明显缺乏纤维素"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "明顯缺乏纖維素"
+    }
+  ]
 }
