@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが好きだけど、相手が気取らないように内緒にしているSOの特徴や癖は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢你的SO的什么特征或怪癖，但没有告诉他们，以免他们变得自以为是？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡你的SO的什麼特徵或怪癖，但沒有告訴他們，以免他們變得自以爲是？"
+    }
+  ]
 }
