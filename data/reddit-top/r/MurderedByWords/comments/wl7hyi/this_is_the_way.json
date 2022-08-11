@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このように"
+    },
+    {
+      "locale": "zh",
+      "title": "这是个办法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是個辦法"
+    }
+  ]
 }
