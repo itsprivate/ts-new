@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドイツの警察では、ナイフで襲われた場合のために、特殊な防護服を用意しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "德国警方有一套特殊的保护服，用于处理持刀袭击的案件。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "德國警方有一套特殊的保護服，用於處理持刀襲擊的案件。"
+    }
+  ]
 }
