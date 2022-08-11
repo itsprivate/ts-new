@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-11T06:33:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q87juUnn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0w52ffce6ikcynhjf2qr.jpg",
   "author": "Chris Bongers",
-  "author_url": "https://dev.to/dailydevtips1"
+  "author_url": "https://dev.to/dailydevtips1",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "さて、拡張機能の種類を学んだところで、最初のブラウザを作成する方法を見てみましょう...。",
+      "title": "ブラウザの拡張機能 - 私たちの最初の拡張機能"
+    },
+    {
+      "locale": "zh",
+      "description": "现在我们了解了不同类型的扩展，让我们看看如何创建我们的第一个浏览器...",
+      "title": "浏览器扩展--我们的第一个扩展"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "現在我們瞭解了不同類型的擴展，讓我們看看如何創建我們的第一個瀏覽器...",
+      "title": "瀏覽器擴展--我們的第一個擴展"
+    }
+  ]
 }
