@@ -150,5 +150,22 @@
     "retweet_count": 205,
     "favorite_count": 787,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @DocumentingBTC: #BTCはESGである-世界最大の投資運用会社が語る https://t.co/Rgo48alHIi",
+      "retweeted_status_full_text": "#BTC はESG - 世界最大の投資運用会社が語る https://t.co/Rgo48alHIi"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @DocumentingBTC: #BTC是ESG--世界上最大的投资经理说 https://t.co/Rgo48alHIi",
+      "retweeted_status_full_text": "#BTC是ESG--世界上最大的投资经理说 https://t.co/Rgo48alHIi"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @DocumentingBTC: #BTC是ESG--世界上最大的投資經理說 https://t.co/Rgo48alHIi",
+      "retweeted_status_full_text": "#BTC是ESG--世界上最大的投資經理說 https://t.co/Rgo48alHIi"
+    }
+  ]
 }
