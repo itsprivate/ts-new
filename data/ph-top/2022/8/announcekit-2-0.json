@@ -82,5 +82,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-11T07:11:00Z"
+  "original_createdAt": "2022-08-11T07:11:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "AnnounceKitは、製品チームが製品のアップデートやニュースを顧客に伝え、機能の採用を増やし、顧客の信頼を構築することを支援します。",
+      "tagline": "製品アップデートを告知するセントラルハブ"
+    },
+    {
+      "locale": "zh",
+      "description": "AnnounceKit帮助产品团队将产品更新和新闻传达给他们的客户，提高功能采用率并建立客户信任。",
+      "tagline": "宣布产品更新的中央枢纽"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "AnnounceKit幫助產品團隊將產品更新和新聞傳達給他們的客戶，提高功能採用率並建立客戶信任。",
+      "tagline": "宣佈產品更新的中央樞紐"
+    }
+  ]
 }
