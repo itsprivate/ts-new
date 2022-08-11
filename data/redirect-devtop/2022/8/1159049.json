@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-04T09:26:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sN1IP9FM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yyprszhkqxpcv3hr4zs.png",
   "author": "Roy",
-  "author_url": "https://dev.to/roy8"
+  "author_url": "https://dev.to/roy8",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "APIとは何か アプリケーション・プログラミング・インターフェース（API）は、ルーチンのセットであり、...",
+      "title": "APIの利用を始めるには"
+    },
+    {
+      "locale": "zh",
+      "description": "应用程序接口和它们是什么 应用程序接口，或称API，是一组例程，它是由一个或多个程序组成的。",
+      "title": "如何开始使用API"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "應用程序接口和它們是什麼 應用程序接口，或稱API，是一組例程，它是由一個或多個程序組成的。",
+      "title": "如何開始使用API"
+    }
+  ]
 }
