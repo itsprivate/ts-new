@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660174404,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "明日まで"
+    },
+    {
+      "locale": "zh",
+      "title": "到明天为止"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "到明天爲止"
+    }
+  ]
 }

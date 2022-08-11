@@ -42,5 +42,22 @@
   "original_created_at": "2022-08-09T14:06:33Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RDXWswC8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo1298mntfqp27qkomlv.png",
   "author": "Leandro Proença",
-  "author_url": "https://dev.to/leandronsp"
+  "author_url": "https://dev.to/leandronsp",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Dockerコンテナは、多くのソフトウェア開発者の日常生活において、どれほど普及したかは否定できません...。",
+      "title": "容器のように考える"
+    },
+    {
+      "locale": "zh",
+      "description": "我们不能否认Docker容器在许多软件开发人员的日常工作中变得多么流行。",
+      "title": "像容器一样思考问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我們不能否認Docker容器在許多軟件開發人員的日常工作中變得多麼流行。",
+      "title": "像容器一樣思考問題"
+    }
+  ]
 }
