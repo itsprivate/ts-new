@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-11T07:01:00Z"
+  "original_createdAt": "2022-08-11T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Maindropは、ウォレットの有無にかかわらず、楽しく簡単にNFTを作成し、誰にでも送ることができる方法です。特別な日、Web3のオンボーディング、新しいプロジェクトに招待するとき、または単に「gm」と言うときにもお使いください。",
+      "tagline": "NFTを電子メールやテキストで誰にでも送信"
+    },
+    {
+      "locale": "zh",
+      "description": "Maindrop是一种有趣和简单的方式来创建和发送NFTs给任何有或没有钱包的人。用它来处理特殊场合、加入web3、邀请参加新项目或只是说 \"gm\"。",
+      "tagline": "向任何人发送电子邮件和短信NFTs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Maindrop是一種有趣和簡單的方式來創建和發送NFTs給任何有或沒有錢包的人。用它來處理特殊場合、加入web3、邀請參加新項目或只是說 \"gm\"。",
+      "tagline": "向任何人發送電子郵件和短信NFTs"
+    }
+  ]
 }

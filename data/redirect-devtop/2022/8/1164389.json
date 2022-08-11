@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-10T20:49:19Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UCVzW8RW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drkjr64u87wgzong3k1j.png",
   "author": "Intesar Shannan Mohammed",
-  "author_url": "https://dev.to/intesar"
+  "author_url": "https://dev.to/intesar",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "なぜアプリケーション/APIをセキュリティテストするのか？   ガートナー社によると、アプリケーション/APIは...",
+      "title": "ノーコードでREST APIのセキュリティテストを行う"
+    },
+    {
+      "locale": "zh",
+      "description": "为什么要对你的应用程序/API进行安全测试？   根据Gartner公司的报告，应用程序/API是...",
+      "title": "使用无代码的REST API安全测试"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "爲什麼要對你的應用程序/API進行安全測試？   根據Gartner公司的報告，應用程序/API是...",
+      "title": "使用無代碼的REST API安全測試"
+    }
+  ]
 }
