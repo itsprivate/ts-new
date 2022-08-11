@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "一生モノの思い出を集める猿人。"
+    },
+    {
+      "locale": "zh",
+      "title": "猴人收集记忆，以珍惜他的余生。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "猴人收集記憶，以珍惜他的餘生。"
+    }
+  ]
 }
