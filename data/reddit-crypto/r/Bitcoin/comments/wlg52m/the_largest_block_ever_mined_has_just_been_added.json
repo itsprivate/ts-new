@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ビットコインのブロックチェーンに、これまで採掘された中で最大のブロックが追加されたところです。2.77MB!"
+    },
+    {
+      "locale": "zh",
+      "title": "有史以来最大的区块刚刚被添加到比特币区块链上。2.77MB!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "有史以來最大的區塊剛剛被添加到比特幣區塊鏈上。2.77MB!"
+    }
+  ]
 }
