@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-11T20:11:14Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5qR4DR0M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/be43c0s9kiu5p8i3agk9.png",
   "author": "Red Ochsenbein",
-  "author_url": "https://dev.to/syeo66"
+  "author_url": "https://dev.to/syeo66",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Typescriptは、型を定義し、クラスや関数がその型に準拠するようにすることができる、すばらしいものです。",
+      "title": "タイプライターです。実際に型を検証しているわけではありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "Typescript是个好东西：它让你定义类型并确保你的类和函数遵守...",
+      "title": "排印稿。它实际上没有验证你的类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Typescript是個好東西：它讓你定義類型並確保你的類和函數遵守...",
+      "title": "排印稿。它實際上沒有驗證你的類型。"
+    }
+  ]
 }
