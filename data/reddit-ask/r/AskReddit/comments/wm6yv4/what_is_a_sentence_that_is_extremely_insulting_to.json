@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたにとって極めて侮辱的な文章とは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "什么是对你极度侮辱的句子？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "什麼是對你極度侮辱的句子？"
+    }
+  ]
 }
