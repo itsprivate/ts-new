@@ -49,5 +49,22 @@
   "original_created_at": "2022-08-11T10:20:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ImDfiW01--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vay8lu4skrxcwim17ivk.jpeg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "上記の文章を理解するためには、記事全体を読む必要があり、実際、あなたは...",
+      "title": "AngularはReactよりもほぼ常に優れている"
+    },
+    {
+      "locale": "zh",
+      "description": "要理解上面这句话，你必须阅读整篇文章，事实上你需要...",
+      "title": "Angular几乎总是比React好"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "要理解上面這句話，你必須閱讀整篇文章，事實上你需要...",
+      "title": "Angular幾乎總是比React好"
+    }
+  ]
 }
