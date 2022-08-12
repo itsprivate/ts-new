@@ -58,5 +58,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "https://www.theguardian.com/global/video/2022/aug/10/joe-biden-hails-zero-inflation-july-us-video\n\n(The official CPI number is 8.5% for July)"
+  "the_new_excerpt": "https://www.theguardian.com/global/video/2022/aug/10/joe-biden-hails-zero-inflation-july-us-video\n\n(The official CPI number is 8.5% for July)",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "https://www.theguardian.com/global/video/2022/aug/10/joe-biden-hails-zero-inflation-july-us-video\n\n(7月のCPIは8.5％です。）",
+      "title": "バイデン氏、インフレ率0％を発表。ミッション・アコンプリート!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "https://www.theguardian.com/global/video/2022/aug/10/joe-biden-hails-zero-inflation-july-us-video\n\n(7月份的官方CPI数字为8.5%)",
+      "title": "拜登宣布通货膨胀率为0%。任务完成了!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "https://www.theguardian.com/global/video/2022/aug/10/joe-biden-hails-zero-inflation-july-us-video\n\n(7月份的官方CPI數字爲8.5%)",
+      "title": "拜登宣佈通貨膨脹率爲0%。任務完成了!"
+    }
+  ]
 }
