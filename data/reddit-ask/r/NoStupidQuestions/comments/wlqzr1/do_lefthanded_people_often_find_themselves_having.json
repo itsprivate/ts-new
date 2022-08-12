@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "左利きの人は、利き手ではない方の手（右手）で握手をすることが多い？その場合、イライラすることはありませんか？"
+    },
+    {
+      "locale": "zh",
+      "title": "左撇子是否经常发现自己不得不用非主导的手（右手）来握手？如果是这样，这是否令人恼火？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "左撇子是否經常發現自己不得不用非主導的手（右手）來握手？如果是這樣，這是否令人惱火？"
+    }
+  ]
 }
