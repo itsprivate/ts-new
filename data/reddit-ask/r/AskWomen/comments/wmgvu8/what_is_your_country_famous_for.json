@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国は何で有名ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你的国家以什么闻名？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你的國家以什麼聞名？"
+    }
+  ]
 }
