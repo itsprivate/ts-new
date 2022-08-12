@@ -53,5 +53,22 @@
   "original_created_at": "2022-06-26T19:08:12Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEJLwPN4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/cloudx-labs/posts/main/posts/navarroaxel/assets/git-multi-users.jpg",
   "author": "Axel Navarro",
-  "author_url": "https://dev.to/navarroaxel"
+  "author_url": "https://dev.to/navarroaxel",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "同じマシンで複数のSSH鍵を使用してGitを使用する方法。",
+      "title": "2人以上のユーザーでGitを使う"
+    },
+    {
+      "locale": "zh",
+      "description": "如何在同一台机器上用多个 SSH 密钥使用 Git。",
+      "title": "在两个或多个用户中使用Git"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如何在同一臺機器上用多個 SSH 密鑰使用 Git。",
+      "title": "在兩個或多個用戶中使用Git"
+    }
+  ]
 }
