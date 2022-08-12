@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "[アップデート] - ユーザーが独自のYouTube URLを追加できるようになりました。"
+    },
+    {
+      "locale": "zh",
+      "title": "[更新] - 用户现在可以添加自己的YouTube URLs"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "[更新] - 用戶現在可以添加自己的YouTube URLs"
+    }
+  ]
 }
