@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-04T00:49:37Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nVOE8r2U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5b9mbn217ia0n7w4nzql.png",
   "author": "Sebastian Tiedtke",
-  "author_url": "https://dev.to/sourishkrout"
+  "author_url": "https://dev.to/sourishkrout",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ドキュメンテーションは常に、非自明なシステムへのオンボードにおいて重要な役割を担っています。このため...",
+      "title": "ターミナルでREADME.mdを実行します。"
+    },
+    {
+      "locale": "zh",
+      "description": "文档一直是入职一个非微不足道的系统的关键部分。对于这一点...",
+      "title": "在你的终端运行README.md"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "文檔一直是入職一個非微不足道的系統的關鍵部分。對於這一點...",
+      "title": "在你的終端運行README.md"
+    }
+  ]
 }

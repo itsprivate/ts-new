@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "FBIはトランプ大統領のマー・ア・ラゴの自宅を捜索する際、「核の機密文書」を探していたと報道される"
+    },
+    {
+      "locale": "zh",
+      "title": "报道称FBI在搜查特朗普的马拉戈住宅时正在寻找 \"机密核文件"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "報道稱FBI在搜查特朗普的馬拉戈住宅時正在尋找 \"機密核文件"
+    }
+  ]
 }
