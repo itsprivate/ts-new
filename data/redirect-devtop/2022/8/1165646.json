@@ -42,5 +42,22 @@
   "original_created_at": "2022-08-12T02:36:05Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cmmDnixh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxmuall737iok5vukwuf.jpg",
   "author": "Sebastian",
-  "author_url": "https://dev.to/chucks1093"
+  "author_url": "https://dev.to/chucks1093",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "デバッグを高速化するコンソールオブジェクトの機能を知る。",
+      "title": "コンソールAPIです。"
+    },
+    {
+      "locale": "zh",
+      "description": "了解控制台对象的功能，使调试的速度大大加快。",
+      "title": "控制台API。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "瞭解控制檯對象的功能，使調試的速度大大加快。",
+      "title": "控制檯API。"
+    }
+  ]
 }
