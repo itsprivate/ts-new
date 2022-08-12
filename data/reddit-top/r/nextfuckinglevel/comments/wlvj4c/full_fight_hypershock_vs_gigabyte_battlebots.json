@@ -61,5 +61,22 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": "Credit to BattleBots Facebook, https://m.facebook.com/battlebots/"
+  "the_new_excerpt": "Credit to BattleBots Facebook, https://m.facebook.com/battlebots/",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "クレジット：BattleBots Facebook, https://m.facebook.com/battlebots/",
+      "title": "Full Fight: Hypershock vs Gigabyte｜バトルボッツ・チャンピオンズ 2022"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "归功于BattleBots Facebook，https://m.facebook.com/battlebots/",
+      "title": "完整的战斗：Hypershock vs Gigabyte | BattleBots Champions 2022"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "歸功於BattleBots Facebook，https://m.facebook.com/battlebots/",
+      "title": "完整的戰鬥：Hypershock vs Gigabyte | BattleBots Champions 2022"
+    }
+  ]
 }
