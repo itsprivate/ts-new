@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "It seems like an absurd amount of time to me unless you're trying to become a\ndoctor/lawyer/physicist etc."
+  "the_new_excerpt": "It seems like an absurd amount of time to me unless you're trying to become a\ndoctor/lawyer/physicist etc.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "になろうとするのでなければ、私には無茶な時間に思える。\n医者、弁護士、物理学者などを目指しているのでなければ。",
+      "title": "大学では、授業1時間につき、約2〜3時間の勉強をすることが望ましいとされています。実際、みんなはそうしているのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "对我来说，这似乎是一个荒谬的时间量，除非你想成为一个\n医生/律师/物理学家等。",
+      "title": "大学声称，学生在课堂上每花一小时，就应该花大约2-3小时学习。人们真的这样做了吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "對我來說，這似乎是一個荒謬的時間量，除非你想成爲一個\n醫生/律師/物理學家等。",
+      "title": "大學聲稱，學生在課堂上每花一小時，就應該花大約2-3小時學習。人們真的這樣做了嗎？"
+    }
+  ]
 }
