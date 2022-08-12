@@ -57,5 +57,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-11T16:34:50Z"
+  "original_createdAt": "2022-08-11T16:34:50Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "System.cssは、1984年から1991年まで稼働していたAppleのMonochrome System OSをベースにしたレトロなUIを構築するためのCSSライブラリです",
+      "tagline": "レトロなAppleのUIを構築するためのデザインシステム"
+    },
+    {
+      "locale": "zh",
+      "description": "System.css是一个CSS库，用于构建基于1984-1991年运行的苹果单色系统操作系统的复古UI。",
+      "tagline": "构建复古苹果UI的设计系统"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "System.css是一個CSS庫，用於構建基於1984-1991年運行的蘋果單色系統操作系統的復古UI。",
+      "tagline": "構建復古蘋果UI的設計系統"
+    }
+  ]
 }
