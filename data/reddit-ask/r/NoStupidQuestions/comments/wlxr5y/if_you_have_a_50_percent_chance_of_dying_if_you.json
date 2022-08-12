@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あるボタンをクリックしたとき、50％の確率で死ぬとしたら、2回クリックしたとき、死ぬ確率は何％でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你有50%的死亡机会，如果你点击一个按钮，你点击两次，你的死亡机会是多少？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你有50%的死亡機會，如果你點擊一個按鈕，你點擊兩次，你的死亡機會是多少？"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの好きな理解できない言語は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你最喜欢哪种你听不懂的语言？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你最喜歡哪種你聽不懂的語言？"
+    }
+  ]
 }
