@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "グローバル通貨は持っているが、ローカル通貨が必要な場合。ベトナムのピッツェリアにビットコインATM!"
+    },
+    {
+      "locale": "zh",
+      "title": "当你拥有全球货币但需要本地货币时。越南披萨店的比特币自动提款机!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你擁有全球貨幣但需要本地貨幣時。越南披薩店的比特幣自動提款機!"
+    }
+  ]
 }
