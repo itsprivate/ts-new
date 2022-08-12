@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "マネープリンターを所有している人は少なく、お金を印刷するためのコストはかかりません。知的」文明の貨幣システム"
+    },
+    {
+      "locale": "zh",
+      "title": "很少有人拥有印钞机，而且印钞机没有任何成本。一个 \"智能 \"文明的货币体系"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "很少有人擁有印鈔機，而且印鈔機沒有任何成本。一個 \"智能 \"文明的貨幣體系"
+    }
+  ]
 }
