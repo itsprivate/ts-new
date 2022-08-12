@@ -105,5 +105,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660246931,
-  "the_new_excerpt": "This is a list of everything I can invest into. I’m just taking my employee\nmatch from them."
+  "the_new_excerpt": "This is a list of everything I can invest into. I’m just taking my employee\nmatch from them.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "これは、私が投資できるすべてのもののリストです。私は従業員から\nからのマッチを",
+      "title": "勤め先の銀行が信用できないので、401kを何に入れるか選ぶのを手伝ってほしい。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "这是我可以投资的所有东西的清单。我只是把我的雇员\n从他们那里得到匹配。",
+      "title": "我需要帮助选择将我的401k投入什么，因为我不信任我工作的银行"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "這是我可以投資的所有東西的清單。我只是把我的僱員\n從他們那裏得到匹配。",
+      "title": "我需要幫助選擇將我的401k投入什麼，因爲我不信任我工作的銀行"
+    }
+  ]
 }
