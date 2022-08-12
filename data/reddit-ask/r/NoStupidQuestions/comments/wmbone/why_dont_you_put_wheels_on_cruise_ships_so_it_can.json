@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Edit: this is called no stupid questions I feel really attacked"
+  "the_new_excerpt": "Edit: this is called no stupid questions I feel really attacked",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "編集：これは、愚かな質問はありませんと呼ばれ、私は本当に攻撃された感じです。",
+      "title": "クルーズ船に車輪をつけて、氷の上も走れるようにしたらどうでしょう。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：这就是所谓的没有愚蠢的问题，我觉得真的被攻击了",
+      "title": "为什么不在游轮上装上轮子，这样它就可以在冰面上行驶，等等。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：這就是所謂的沒有愚蠢的問題，我覺得真的被攻擊了",
+      "title": "爲什麼不在遊輪上裝上輪子，這樣它就可以在冰面上行駛，等等。"
+    }
+  ]
 }
