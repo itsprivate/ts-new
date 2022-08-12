@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "新たに印刷されたドルは6兆3千億ドル。M2マネーサプライとCPI。"
+    },
+    {
+      "locale": "zh",
+      "title": "6.3万亿美元的新印刷美元。M2货币供应量和CPI。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "6.3萬億美元的新印刷美元。M2貨幣供應量和CPI。"
+    }
+  ]
 }
