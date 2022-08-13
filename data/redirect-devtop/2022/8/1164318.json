@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-10T19:59:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_RwD60tE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xo4st0wvwplcqrk324h.png",
   "author": "Shahed Nasser",
-  "author_url": "https://dev.to/shahednasser"
+  "author_url": "https://dev.to/shahednasser",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "個人ブログに掲載されたものです。 JavaScriptのイベントによって、開発者は...",
+      "title": "JavaScriptのイベントとその扱い方とは？"
+    },
+    {
+      "locale": "zh",
+      "description": "原文发表于我的个人博客。 JavaScript中的事件允许开发者监听...",
+      "title": "什么是JavaScript中的事件以及如何处理它们？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "原文發表於我的個人博客。 JavaScript中的事件允許開發者監聽...",
+      "title": "什麼是JavaScript中的事件以及如何處理它們？"
+    }
+  ]
 }

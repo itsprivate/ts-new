@@ -91,5 +91,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-12T07:05:49Z"
+  "original_createdAt": "2022-08-12T07:05:49Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Trackabiは、ゲーミフィケーションの手法を用いた従業員モニタリング、タイムトラッキング、休暇管理ソフトウェアで、退屈なことを楽しくしてくれます。Trackabiには、Web版、Windows、Linux、macOS用のデスクトップアプリ、iOS、Android用のモバイルアプリがあります。",
+      "tagline": "ゲーミフィケーションでタイムトラッキングを再発明"
+    },
+    {
+      "locale": "zh",
+      "description": "Trackabi是员工监控、时间跟踪和休假管理软件，利用游戏化方法使枯燥的事情变得有趣。Trackabi包括一个网络版本，一个用于Windows、Linux和macOS的桌面应用程序，以及一个用于iOS和Android的移动应用程序。",
+      "tagline": "用游戏化重塑时间追踪"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Trackabi是員工監控、時間跟蹤和休假管理軟件，利用遊戲化方法使枯燥的事情變得有趣。Trackabi包括一個網絡版本，一個用於Windows、Linux和macOS的桌面應用程序，以及一個用於iOS和Android的移動應用程序。",
+      "tagline": "用遊戲化重塑時間追蹤"
+    }
+  ]
 }
