@@ -51,5 +51,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "サングラスを発見したオランウータン"
+    },
+    {
+      "locale": "zh",
+      "title": "猩猩发现了太阳镜"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "猩猩發現了太陽鏡"
+    }
+  ]
 }

@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたを妊娠する前に、お父さんとお母さんにそれぞれ一言ずつ言えるとしたら、どんなことを言いたいですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你能在你的爸爸妈妈怀上你之前对他们各说一句话，你会怎么说？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你能在你的爸爸媽媽懷上你之前對他們各說一句話，你會怎麼說？"
+    }
+  ]
 }
