@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-12T00:50:30Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s---0VoTEHK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p9ymgdgmolsyarbapm41.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GitHub Pages では、カスタマイズ可能な GitHub Action ワークフローを使用してコードをビルドおよびデプロイするため、...",
+      "title": "Hugo や Next.js のサイトを GitHub Pages でホストする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "GitHub Pages现在使用可定制的GitHub Action工作流程来构建和部署你的代码，以便...",
+      "title": "如何在GitHub页面上托管Hugo或Next.js网站"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GitHub Pages現在使用可定製的GitHub Action工作流程來構建和部署你的代碼，以便...",
+      "title": "如何在GitHub頁面上託管Hugo或Next.js網站"
+    }
+  ]
 }
