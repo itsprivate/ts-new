@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-12T13:03:28Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--41QYdRlH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.escape.tech/content/images/size/w2000/2022/08/--Landscape---GraphQL.Security--3-.png",
   "author": "Gautier",
-  "author_url": "https://dev.to/gauben"
+  "author_url": "https://dev.to/gauben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "GraphQL Bombsは、GraphQLエンドポイント上のファイルアップロードを悪用する新しい広範な脆弱性です。",
+      "title": "Zip Bombsの2022年版であるGraphQL Bombsを鍛造する。"
+    },
+    {
+      "locale": "zh",
+      "description": "GraphQL Bombs是一个新的、广泛的漏洞，利用GraphQL端点上的文件上传进行攻击",
+      "title": "锻造GraphQL炸弹，2022年版本的Zip Bombs"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "GraphQL Bombs是一個新的、廣泛的漏洞，利用GraphQL端點上的文件上傳進行攻擊",
+      "title": "鍛造GraphQL炸彈，2022年版本的Zip Bombs"
+    }
+  ]
 }
