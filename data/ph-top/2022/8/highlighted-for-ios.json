@@ -87,5 +87,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-13T07:00:00Z"
+  "original_createdAt": "2022-08-13T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "\"App of the Day\" - Apple, Inc. 本のハイライトを強力にサポートし、読んだことを忘れるのを防ぎます。Highlightedは、本の重要な部分を簡単に記録、整理、再表示、エクスポートできます。",
+      "tagline": "読んだことを忘れるのはやめましょう。"
+    },
+    {
+      "locale": "zh",
+      "description": "\"今天的应用程序\" - 苹果公司。制作强大的书籍亮点，不再忘记你所读的内容。Highlighted让你轻松捕捉、组织、重温和导出你的书籍的重要部分。",
+      "tagline": "不要再忘记你读过的东西了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "\"今天的應用程序\" - 蘋果公司。製作強大的書籍亮點，不再忘記你所讀的內容。Highlighted讓你輕鬆捕捉、組織、重溫和導出你的書籍的重要部分。",
+      "tagline": "不要再忘記你讀過的東西了。"
+    }
+  ]
 }
