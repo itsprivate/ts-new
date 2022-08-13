@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-12T22:36:25Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sM6EiU2J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e15bgthu4x0eei6mejor.png",
   "author": "Abhishek Keshri",
-  "author_url": "https://dev.to/2kabhishek"
+  "author_url": "https://dev.to/2kabhishek",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "あなたのプロフィールやリンクがきれいに整理され、簡単に使える場所を知りたいと思ったことはありませんか？",
+      "title": "プロフィールを全部紹介するWebアプリを作りました🔮✨。"
+    },
+    {
+      "locale": "zh",
+      "description": "你是否曾想过有一个地方可以使你所有的档案和链接很好地组织起来，很容易。",
+      "title": "我做了一个网络应用程序来展示你所有的配置文件 🔮✨"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你是否曾想過有一個地方可以使你所有的檔案和鏈接很好地組織起來，很容易。",
+      "title": "我做了一個網絡應用程序來展示你所有的配置文件 🔮✨"
+    }
+  ]
 }
