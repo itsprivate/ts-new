@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アニメファンの皆さんは、アニメ界のどのような部分にクヨクヨしてしまうのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "动漫迷们，你们觉得动漫界的哪一部分令人扼腕叹息？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "動漫迷們，你們覺得動漫界的哪一部分令人扼腕嘆息？"
+    }
+  ]
 }
