@@ -113,5 +113,19 @@
   "retweeted": false,
   "possibly_sensitive": false,
   "lang": "en",
-  "original_created_at": "Sat Aug 13 12:32:06 +0000 2022"
+  "original_created_at": "Sat Aug 13 12:32:06 +0000 2022",
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "FDAは、家庭用Covidテストを使用している無症状の人は、偽陰性の確率を減らすために、48時間間隔で少なくとも3回のテストを受けるよう新たに勧告した。https://t.co/viTcQsVk6u。"
+    },
+    {
+      "locale": "zh",
+      "full_text": "美国食品和药物管理局发布了一项新的建议，即无症状者在使用家用Covid测试时至少进行三次测试，每次间隔48小时，以减少假阴性的概率。https://t.co/viTcQsVk6u。"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "美國食品和藥物管理局發佈了一項新的建議，即無症狀者在使用家用Covid測試時至少進行三次測試，每次間隔48小時，以減少假陰性的概率。https://t.co/viTcQsVk6u。"
+    }
+  ]
 }
