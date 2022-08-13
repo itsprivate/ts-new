@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "目先の値段に惑わされないで!"
+    },
+    {
+      "locale": "zh",
+      "title": "不要让短期的价格分散你的注意力!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不要讓短期的價格分散你的注意力!"
+    }
+  ]
 }
