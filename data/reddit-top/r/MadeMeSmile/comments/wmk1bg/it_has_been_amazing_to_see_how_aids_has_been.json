@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "エイズがどのようにコントロールされてきたかを見るのは驚くべきことで、間違いなく人類の勝利です。"
+    },
+    {
+      "locale": "zh",
+      "title": "看到艾滋病如何得到控制已经很了不起了，这绝对是人类的胜利。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "看到艾滋病如何得到控制已經很了不起了，這絕對是人類的勝利。"
+    }
+  ]
 }
