@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-10T17:20:34Z",
   "image": "https://dev.to/social_previews/article/1164249.png",
   "author": "Deselikem",
-  "author_url": "https://dev.to/deselikem"
+  "author_url": "https://dev.to/deselikem",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "サマーインターンでは、GitHubのContainerにdockerイメージを公開することについて学びました。",
+      "title": "GitHubのコンテナレジストリにDocker Imageを公開する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "在暑期实习期间，我学习了如何将docker镜像发布到GitHub的Container...",
+      "title": "如何将Docker镜像发布到GitHub的容器注册处"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在暑期實習期間，我學習瞭如何將docker鏡像發佈到GitHub的Container...",
+      "title": "如何將Docker鏡像發佈到GitHub的容器註冊處"
+    }
+  ]
 }
