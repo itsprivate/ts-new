@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "JumpOn - 非同期チームがマイクロビデオディスカッションを開始し、発見するのを助ける"
+    },
+    {
+      "locale": "zh",
+      "title": "JumpOn - 帮助异步团队启动+发现微视频讨论"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "JumpOn - 幫助異步團隊啓動+發現微視頻討論"
+    }
+  ]
 }
