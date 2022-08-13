@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし不老不死の申し出があったら、あなたはそれを受け入れるか、受け入れるとしたらその理由は？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果提供给你永生，你会接受吗，如果会，为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果提供給你永生，你會接受嗎，如果會，爲什麼？"
+    }
+  ]
 }

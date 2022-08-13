@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "\"Doing something is better than nothing\", I will accomplish anything doing 10 pushup a day?"
+    },
+    {
+      "locale": "zh",
+      "title": "\"做事总比不做事好\"，我每天做10个俯卧撑会有什么成就吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "\"做事總比不做事好\"，我每天做10個俯臥撐會有什麼成就嗎？"
+    }
+  ]
 }
