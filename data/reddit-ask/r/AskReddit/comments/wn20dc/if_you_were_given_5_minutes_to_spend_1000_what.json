@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、あなたが5分間で1000ドルを使えるとしたら、何を買いますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果给你5分钟时间花1000美元，你会买什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果給你5分鐘時間花1000美元，你會買什麼？"
+    }
+  ]
 }
