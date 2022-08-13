@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "作品証明"
+    },
+    {
+      "locale": "zh",
+      "title": "工作证明"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "工作證明"
+    }
+  ]
 }
