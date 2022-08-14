@@ -1,0 +1,42 @@
+{
+  "author": "TNGSystems",
+  "original_created_utc": 1660430795,
+  "title": "Shitcoins - NOT EVEN ONCE. Man turned $500,000 into just $17,400",
+  "created_utc": 1660452532,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;You ever hear the expression &amp;quot;Throwing good money after bad?&amp;quot;  &lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;Technically&lt;/em&gt;, this was his second transaction, where he followed his 1BNB purchase of Safemoon on the 17th April 2021 with another 151 BNB, and then apparently found another 1.84BNB underneath the couch cushions and lobbed that in as well.  &lt;/p&gt;\n\n&lt;p&gt;I am talking about a Twitter user called &amp;quot;Unknown_Whale&amp;quot;, known as &amp;quot;Safemoon Whale&amp;quot;&lt;/p&gt;\n\n&lt;p&gt;But don&amp;#39;t tune out just yet, this isn&amp;#39;t really a Safemoon story, it&amp;#39;s actually &lt;strong&gt;much ruggier&lt;/strong&gt;.  &lt;/p&gt;\n\n&lt;p&gt;So my guy eventually spends a snifter over $514,000 on Safemoon on a handful of purchases between March 2021 and March 2022, I guess he is unimpressed by the &amp;quot;Birthday month filled with gifts&amp;quot; and stops buying. Then Safemoon list a new shit token on their swap a couple weeks ago...  &lt;/p&gt;\n\n&lt;h2&gt;Blockbusters Tech Family&lt;/h2&gt;\n\n&lt;p&gt;Ya, straight away leveraging the &amp;quot;family&amp;quot; just to hook in those desperate suckers.  &lt;/p&gt;\n\n&lt;p&gt;What does this token even do? To be honest, I didn&amp;#39;t give it the time of day. I immediately discarded it as another stack of bollocks ram-packed with scam &amp;quot;developers&amp;quot;  &lt;/p&gt;\n\n&lt;p&gt;Turns out my tingling TNG-senses were right on the money, as you will quickly discover.  &lt;/p&gt;\n\n&lt;p&gt;Let&amp;#39;s come back to Unknown Whale. On the 5th, he turned his unrealised loss into realised loss and sold pretty much his entire Safemoon bag for $177,000 - that&amp;#39;s a whopping &lt;strong&gt;-65.5% loss&lt;/strong&gt;.&lt;/p&gt;\n\n&lt;p&gt;And what did he do with this still impressive wodge of cash. Invest it wisely? Make a play on Ethereum or Bitcoin? Look at some interesting L2&amp;#39;s? &lt;strong&gt;BUY MOONS?!&lt;/strong&gt;.  &lt;/p&gt;\n\n&lt;p&gt;No, he bought BBTF token, just before the contract &amp;quot;somehow&amp;quot; broke right at the top of a massive run up where people weren&amp;#39;t really able to sell, and then one sell got through &lt;a href=\"https://bscscan.com/tx/0x858361c4d666a8e7c949f13e6ff85b2440851180522bde6539c9096a7cbc1164\"&gt;where &lt;strong&gt;ONE&lt;/strong&gt; person was able to dump $1.5m on the market all at once&lt;/a&gt;, making the price tumble -98.5% in like, one minute flat. Immediately rekking thousands of investors.  &lt;/p&gt;\n\n&lt;h3&gt;&lt;a href=\"https://i.imgur.com/D0qgNiT.jpg\"&gt;Bloodbath chart&lt;/a&gt;&lt;/h3&gt;\n\n&lt;p&gt;And this isn&amp;#39;t even the good bit...  &lt;/p&gt;\n\n&lt;p&gt;So apparently our whale here bought early enough that even after the mega dump he was still in profit, good for him. Didn&amp;#39;t want to take his profit out even though on paper he had recovered his entire Safemoon losses, and even fired off some snarky tweets about how he will be rich rich rich. He flashed a video of his wallet with $778,000 BBTF tokens - a 51% gain on his total Safemoon purchase costs.&lt;/p&gt;\n\n&lt;h3&gt;And then, yesterday, alas...&lt;/h3&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;So turns out when you get a bunch of yoo-ha&amp;#39;s to cobble together random offcuts of barely-functional smart contracts, you end up with something so catastrophically amateur, some of the most bare-faced mistakes fly under the radar.  &lt;/p&gt;\n\n&lt;p&gt;When you try and send more tokens than you have in a Smart Contract, there&amp;#39;s usually a line of code that checks you can execute the transaction. If not, it errors out.  &lt;/p&gt;\n\n&lt;p&gt;Not with BBTF.  &lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;The transferFromWithPermit function did not check for underflow&lt;/p&gt;\n\n&lt;p&gt;Meaning if you transferred someone 1 more token than you owned, the contract would let you, and instead of you having 0 tokens left over, you&amp;#39;d have 2&lt;sup&gt;256&lt;/sup&gt; - 1 tokens.  &lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;This attacker created  &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://bscscan.com/token/0xe7057B10E2B59F46D151588d9C8694B4b8328F44?a=0xc02b8cdfe74f0487782b7dc1e387d10518429616\"&gt;115,792,089,237,316,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 BBTF tokens.&lt;/a&gt;  &lt;/p&gt;\n\n&lt;p&gt;To understand how catastrophic this is, BBTF was meant to have a 10 Billion supply .  &lt;/p&gt;\n\n&lt;p&gt;The attacker created  &lt;/p&gt;\n\n&lt;h2&gt;One hundred fifteen octodecillion seven hundred ninety-two septendecillion eighty-nine sexdecillion two hundred thirty-seven quindecillion three hundred sixteen quattuordecillion tokens.&lt;/h2&gt;\n\n&lt;p&gt;And then he sold as much as he could before the LP was emptied - and made off with about $530,000.  &lt;/p&gt;\n\n&lt;hr/&gt;\n\n&lt;p&gt;Remember, this story is about Unknown Whale. He started with $514,000 and lost $337,000 of it due to theft &amp;amp; incompetence of the Safemoon team. Then he bought $170,000 worth of another shitcoin made by another dodgy team of incompetent nobodies (who are stationed a few miles away from Safemoon HQ weird that) and that&amp;#39;s now worth $17,400.  &lt;/p&gt;\n\n&lt;p&gt;From $514,000 to $17,400 - a 96.6% loss courtesy of Safemoon and BBTF.  &lt;/p&gt;\n\n&lt;h1&gt;Shitcoins - NOT EVEN ONCE.&lt;/h1&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 324,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/H8yRXBSQamS1TkRYHryvDh29-rsaQG-o3s22buwXdjQ.jpg?auto=webp&amp;s=29107656b9aeb10e5eb4e36b928a102ff345e1f3",
+          "width": 273,
+          "height": 698
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/H8yRXBSQamS1TkRYHryvDh29-rsaQG-o3s22buwXdjQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=810232b0833dc328f917ee01d80bd5e7143ca8b2",
+            "width": 108,
+            "height": 216
+          },
+          {
+            "url": "https://external-preview.redd.it/H8yRXBSQamS1TkRYHryvDh29-rsaQG-o3s22buwXdjQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ef82358e9fb09136ae26cad0598cad18d8aa64f6",
+            "width": 216,
+            "height": 432
+          }
+        ],
+        "variants": {},
+        "id": "rGA28lHuIP0DVuG0TH6THbYI2bU1_kCmRHEHTOeQOkc"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/CryptoCurrency/comments/wnqske/shitcoins_not_even_once_man_turned_500000_into/",
+  "subreddit": "CryptoCurrency",
+  "id": "wnqske",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "You ever hear the expression \"Throwing good money after bad?\"\n\nTechnically, this was his second transaction, where he followed his 1BNB\npurchase of Safemoon on the 17th April 2021 with another 151 BNB, and then\napparently found another 1.84BNB underneath the couch cushions and lobbed that\nin as…"
+}
