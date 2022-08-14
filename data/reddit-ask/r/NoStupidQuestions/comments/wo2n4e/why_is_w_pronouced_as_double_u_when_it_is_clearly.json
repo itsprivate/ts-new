@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "w」は明らかに「double v」なのに、なぜ「double u」と発音するのですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "明明是 \"双v\"，为什么 \"w \"会被读成 \"双u\"？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "明明是 \"雙v\"，爲什麼 \"w \"會被讀成 \"雙u\"？"
+    }
+  ]
 }
