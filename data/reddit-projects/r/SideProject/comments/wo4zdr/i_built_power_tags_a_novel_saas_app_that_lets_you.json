@@ -1,0 +1,16 @@
+{
+  "author": "powertags",
+  "original_created_utc": 1660479233,
+  "title": "I built Power Tags, a novel SaaS app that lets you use your calendar to schedule and send alarms, emails, SMS, phone calls, Teams messages and call APIs/webhooks!",
+  "created_utc": 1660519164,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Web app: &lt;a href=\"http://www.powertags.com/?via=sideproject\"&gt;https://www.powertags.com&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Quick video demo:  &lt;a href=\"https://youtu.be/csyDUcQ0LX4\"&gt;https://youtu.be/csyDUcQ0LX4&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;At first, I just wanted to build myself an app where I can quickly set hard-to-miss alarms and reminders by writing some keywords in my important calendar events – I found built-in reminders easy to miss when I&amp;#39;m focused on or distracted by other things.&lt;/p&gt;\n\n&lt;p&gt;Then I realized that calendars are very good at scheduling both spontaneous and recurring events, and they also provide context/contents on the things we want to do: via the event subject and body.&lt;/p&gt;\n\n&lt;p&gt;So when these &amp;quot;to-do things&amp;quot; involve tasks such as sending some emails, SMS, reminder phone calls, Teams messages, etc,  why not just let a calendar event execute them on its own when possible, in a &amp;quot;set and forget&amp;quot; manner?&lt;/p&gt;\n\n&lt;p&gt;Another thing is that with many automation tools such as Microsoft Flow/Zapier/IFTTT, when it comes to schedule/time-based triggers (instead of event-based), the scheduling options are often limited and you&amp;#39;d have to schedule them separately at each tool.&lt;/p&gt;\n\n&lt;p&gt;With Power Tags, you can call any HTTP triggers/APIs/webhooks directly from your calendar, in a single-pane-view, with all the scheduling convenience and flexibilities a calendar offers. &lt;/p&gt;\n\n&lt;p&gt;The app is written in C# and .NET, with Blazor front end, and Azure Functions + Event Hubs + Storage Queues + Azure PostgreSQL backend. It has a a companion mobile alarm app, too.&lt;/p&gt;\n\n&lt;p&gt;Would love your feedback and hopefully you can try it out, too!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 5,
+  "permalink": "/r/SideProject/comments/wo4zdr/i_built_power_tags_a_novel_saas_app_that_lets_you/",
+  "subreddit": "SideProject",
+  "id": "wo4zdr",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Web app: https://www.powertags.com [http://www.powertags.com/?via=sideproject]\n\nQuick video demo: https://youtu.be/csyDUcQ0LX4\n\nAt first, I just wanted to build myself an app where I can quickly set\nhard-to-miss alarms and reminders by writing some keywords in my important\ncalendar events – I found…"
+}
