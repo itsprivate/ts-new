@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ネコは好きですか？なぜ？"
+    },
+    {
+      "locale": "zh",
+      "title": "你喜欢猫吗？为什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你喜歡貓嗎？爲什麼？"
+    }
+  ]
 }
