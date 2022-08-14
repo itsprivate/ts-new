@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストリートアーティストが描く漫画版少女。"
+    },
+    {
+      "locale": "zh",
+      "title": "一位街头艺术家画了一个卡通版的女孩。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一位街頭藝術家畫了一個卡通版的女孩。"
+    }
+  ]
 }

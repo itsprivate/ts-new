@@ -65,5 +65,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ガレージで車のバックアップを取る"
+    },
+    {
+      "locale": "zh",
+      "title": "在车库里备份你的汽车"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在車庫裏備份你的汽車"
+    }
+  ]
 }
