@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、満員のスタジアムが一斉に同じ言葉をささやいたら、スタジアムの中でどれくらいの音量に聞こえるでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果一个体育场挤满了人，都在同一时间轻声说着同一个词，那么在体育场内的声音会有多大？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果一個體育場擠滿了人，都在同一時間輕聲說着同一個詞，那麼在體育場內的聲音會有多大？"
+    }
+  ]
 }
