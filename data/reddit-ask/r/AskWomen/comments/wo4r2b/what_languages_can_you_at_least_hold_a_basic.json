@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "基本的な会話くらいはできる言語とは？"
+    },
+    {
+      "locale": "zh",
+      "title": "你至少能用哪些语言进行基本对话？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你至少能用哪些語言進行基本對話？"
+    }
+  ]
 }
