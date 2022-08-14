@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-13T10:26:34Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3JDKOJEf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4zb5mrwqt5rrgcs372n2.jpg",
   "author": "JoelBonetR",
-  "author_url": "https://dev.to/joelbonetr"
+  "author_url": "https://dev.to/joelbonetr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "多くのプロジェクトで、私はこのスタックを使って、最小のコストで迅速に物事を成し遂げるようにしています...。",
+      "title": "拡張可能なJavaScriptモノリス"
+    },
+    {
+      "locale": "zh",
+      "description": "在许多项目中，我使用这个堆栈，以最低的成本快速完成事情。",
+      "title": "一个准备好扩展的JavaScript单片机"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在許多項目中，我使用這個堆棧，以最低的成本快速完成事情。",
+      "title": "一個準備好擴展的JavaScript單片機"
+    }
+  ]
 }
