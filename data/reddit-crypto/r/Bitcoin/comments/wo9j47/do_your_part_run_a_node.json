@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "自分の役割を果たし、ノードを走らせよう"
+    },
+    {
+      "locale": "zh",
+      "title": "尽你的职责，运行一个节点!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "盡你的職責，運行一個節點!"
+    }
+  ]
 }
