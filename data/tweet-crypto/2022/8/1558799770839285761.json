@@ -154,5 +154,22 @@
     "retweet_count": 246,
     "favorite_count": 1406,
     "possibly_sensitive": false
-  }
+  },
+  "localize": [
+    {
+      "locale": "ja",
+      "full_text": "RT @100trillionUSD: クオンツ投資に関する最新記事です\nhttps://t.co/N5ZKFqCKDK https://t.co/vYBeaYr6GG",
+      "retweeted_status_full_text": "クオンツ投資に関する最新記事!\nhttps://t.co/N5ZKFqCKDK https://t.co/vYBeaYr6GG"
+    },
+    {
+      "locale": "zh",
+      "full_text": "RT @100trillionUSD: 我关于量化投资的最新文章!\nhttps://t.co/N5ZKFqCKDK https://t.co/vYBeaYr6GG",
+      "retweeted_status_full_text": "我关于量化投资的最新文章!\nhttps://t.co/N5ZKFqCKDK https://t.co/vYBeaYr6GG"
+    },
+    {
+      "locale": "zh-Hant",
+      "full_text": "RT @100trillionUSD: 我關於量化投資的最新文章!\nhttps://t.co/N5ZKFqCKDK https://t.co/vYBeaYr6GG",
+      "retweeted_status_full_text": "我關於量化投資的最新文章!\nhttps://t.co/N5ZKFqCKDK https://t.co/vYBeaYr6GG"
+    }
+  ]
 }
