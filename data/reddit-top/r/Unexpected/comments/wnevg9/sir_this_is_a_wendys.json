@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "こちらはウェンディーズです。"
+    },
+    {
+      "locale": "zh",
+      "title": "先生，这是一家温迪餐厅"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "先生，這是一家溫迪餐廳"
+    }
+  ]
 }

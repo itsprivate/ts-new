@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "飲酒は精神力を阻害し、初めて飲むとクソみたいな味がする酒が多いのに、なぜこんなに人気があるのか。"
+    },
+    {
+      "locale": "zh",
+      "title": "喝酒会抑制你的精神能力，而且许多饮料在第一次喝的时候味道很差，为什么会如此受欢迎？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "喝酒會抑制你的精神能力，而且許多飲料在第一次喝的時候味道很差，爲什麼會如此受歡迎？"
+    }
+  ]
 }
