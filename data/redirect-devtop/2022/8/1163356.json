@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-09T20:02:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U7-k_qta--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h07plnz7uakokjkv7dzq.png",
   "author": "Adebayo Olamilekan",
-  "author_url": "https://dev.to/oleanji"
+  "author_url": "https://dev.to/oleanji",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは🖐 これは、いくつかのWeb3を使用したフルスタック分散型アプリケーションの書かれたチュートリアルです...",
+      "title": "Next JS、Tailwind CSS、The graphを使ったFullStack Dappの作り方。(前編)"
+    },
+    {
+      "locale": "zh",
+      "description": "你好🖐🏽，这是一个全栈式分散应用的书面教程，使用了一些web3.0的技术。",
+      "title": "如何使用Next JS、Tailwind CSS和The graph创建一个全栈Dapp。(第一部分)"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你好🖐🏽，這是一個全棧式分散應用的書面教程，使用了一些web3.0的技術。",
+      "title": "如何使用Next JS、Tailwind CSS和The graph創建一個全棧Dapp。(第一部分)"
+    }
+  ]
 }
