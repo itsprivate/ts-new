@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ストレッチ・アームストロングが保持できる水の量"
+    },
+    {
+      "locale": "zh",
+      "title": "弹力阿姆斯特朗能容纳的水的数量"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "彈力阿姆斯特朗能容納的水的數量"
+    }
+  ]
 }
