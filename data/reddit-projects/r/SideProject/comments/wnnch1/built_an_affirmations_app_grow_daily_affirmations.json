@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アファメーションアプリを作りました。Grow - デイリーアファメーション"
+    },
+    {
+      "locale": "zh",
+      "title": "建立了一个肯定的应用程序。成长--每日肯定语"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "建立了一個肯定的應用程序。成長--每日肯定語"
+    }
+  ]
 }
