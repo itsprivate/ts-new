@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "彼はとても誇らしげだった"
+    },
+    {
+      "locale": "zh",
+      "title": "他看起来很自豪"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他看起來很自豪"
+    }
+  ]
 }
