@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-14T02:08:23Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--roCkytHq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zf9abzi2zdrs4jdrq6jq.jpg",
   "author": "Tapajyoti Bose",
-  "author_url": "https://dev.to/ruppysuppy"
+  "author_url": "https://dev.to/ruppysuppy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Regexは便利だけど、使いこなすのが大変なんですね。これはチートです...",
+      "title": "正規表現(RegEx)チートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "我明白了，尽管Regex非常有用，但它却非常难掌握! 这是个作弊器...",
+      "title": "你一直想要的正则表达式(RegEx)小抄"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我明白了，儘管Regex非常有用，但它卻非常難掌握! 這是個作弊器...",
+      "title": "你一直想要的正則表達式(RegEx)小抄"
+    }
+  ]
 }
