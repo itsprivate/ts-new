@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-14T07:01:00Z"
+  "original_createdAt": "2022-08-14T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "srty.link は、長い URL を他の人と共有するために設計されたリンクショートナーです。srty.linkを使えば、GoogleドキュメントやYouTubeの動画を同僚やクラスメートと共有する際に、リンク先を全部書き出す必要がなくなります。",
+      "tagline": "言語による迅速な共有のために作られた、本当に小さなリンク短縮ツールです。"
+    },
+    {
+      "locale": "zh",
+      "description": "srty.link是一个链接缩短器，旨在帮助你与他人分享长的URL。使用srty.link可以帮助你与同事或同学分享谷歌文档或YouTube视频，而不必拼出整个链接。",
+      "tagline": "为快速口头分享而建立的真正微小的链接缩短器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "srty.link是一個鏈接縮短器，旨在幫助你與他人分享長的URL。使用srty.link可以幫助你與同事或同學分享谷歌文檔或YouTube視頻，而不必拼出整個鏈接。",
+      "tagline": "爲快速口頭分享而建立的真正微小的鏈接縮短器"
+    }
+  ]
 }
