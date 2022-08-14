@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-12T15:22:49Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4GDFhaVq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nae9ao84uyivm5kfuuvo.png",
   "author": "Mysterio",
-  "author_url": "https://dev.to/shubhamtiwari909"
+  "author_url": "https://dev.to/shubhamtiwari909",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは、みんな。今日は、あなたが気づいていないかもしれない非常に小さなことを議論するつもりです...",
+      "title": "同じ値の2つの配列は、JSでは等しくありません。"
+    },
+    {
+      "locale": "zh",
+      "description": "大家好，今天我将讨论一件你们可能没有注意到的小事。",
+      "title": "在JS中，两个相同值的数组是不相等的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "大家好，今天我將討論一件你們可能沒有注意到的小事。",
+      "title": "在JS中，兩個相同值的數組是不相等的。"
+    }
+  ]
 }
