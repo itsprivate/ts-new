@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "八角形の辺が8で、タコの足が8なら、なぜ10月は10月なのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果八角形有8条边，章鱼有8条腿，为什么十月是第十个月？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果八角形有8條邊，章魚有8條腿，爲什麼十月是第十個月？"
+    }
+  ]
 }

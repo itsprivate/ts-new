@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Web app: https://www.powertags.com [http://www.powertags.com/?via=sideproject]\n\nQuick video demo: https://youtu.be/csyDUcQ0LX4\n\nAt first, I just wanted to build myself an app where I can quickly set\nhard-to-miss alarms and reminders by writing some keywords in my important\ncalendar events – I found…"
+  "the_new_excerpt": "Web app: https://www.powertags.com [http://www.powertags.com/?via=sideproject]\n\nQuick video demo: https://youtu.be/csyDUcQ0LX4\n\nAt first, I just wanted to build myself an app where I can quickly set\nhard-to-miss alarms and reminders by writing some keywords in my important\ncalendar events – I found…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "ウェブアプリ： https://www.powertags.com [http://www.powertags.com/?via=sideproject]\n\nクイックビデオデモ: https://youtu.be/csyDUcQ0LX4\n\n最初は、見逃しにくいアラームやリマインダーを素早く設定できるアプリを自分で作りたかったんです。\nを設定できるアプリを作りたいと思っていました。\nを見つけたんです。",
+      "title": "カレンダーを使って、アラーム、メール、SMS、電話、Teamsメッセージ、API/webhooksの呼び出しなどをスケジュールして送信できる斬新なSaaSアプリ、Power Tagsを作りました!"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "网络应用：https://www.powertags.com [http://www.powertags.com/?via=sideproject]\n\n快速视频演示：https://youtu.be/csyDUcQ0LX4\n\n起初，我只是想为自己建立一个应用程序，在那里我可以快速设置\n在我的重要日历事件中写上一些关键词，就可以快速设置难以错过的闹钟和提醒事项。\n日历事件 - 我发现...",
+      "title": "我建立了Power Tags，一个新颖的SaaS应用程序，让你使用你的日历来安排和发送警报、电子邮件、短信、电话、团队消息和调用API/webhooks!"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "網絡應用：https://www.powertags.com [http://www.powertags.com/?via=sideproject]\n\n快速視頻演示：https://youtu.be/csyDUcQ0LX4\n\n起初，我只是想爲自己建立一個應用程序，在那裏我可以快速設置\n在我的重要日曆事件中寫上一些關鍵詞，就可以快速設置難以錯過的鬧鐘和提醒事項。\n日曆事件 - 我發現...",
+      "title": "我建立了Power Tags，一個新穎的SaaS應用程序，讓你使用你的日曆來安排和發送警報、電子郵件、短信、電話、團隊消息和調用API/webhooks!"
+    }
+  ]
 }
