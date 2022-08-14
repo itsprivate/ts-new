@@ -44,5 +44,22 @@
   "original_created_at": "2022-08-12T04:27:39Z",
   "image": "https://dev.to/social_previews/article/1165673.png",
   "author": "Shoubhit Dash",
-  "author_url": "https://dev.to/nexxeln"
+  "author_url": "https://dev.to/nexxeln",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちわ 今日は、T3スタックを使ってアプリケーションを構築します。これから作るのは...",
+      "title": "create-t3-appでフルスタックアプリを構築する"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨，你们好! 今天我们将用T3堆栈构建一个应用程序。我们将构建一个新的应用程序。",
+      "title": "用create-t3-app建立一个全栈的应用程序"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨，你們好! 今天我們將用T3堆棧構建一個應用程序。我們將構建一個新的應用程序。",
+      "title": "用create-t3-app建立一個全棧的應用程序"
+    }
+  ]
 }
