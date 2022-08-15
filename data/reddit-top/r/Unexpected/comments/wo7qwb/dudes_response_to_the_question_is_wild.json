@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "デュードの回答はワイルド"
+    },
+    {
+      "locale": "zh",
+      "title": "老兄对这个问题的反应很狂野"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "老兄對這個問題的反應很狂野"
+    }
+  ]
 }

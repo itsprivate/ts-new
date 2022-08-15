@@ -105,5 +105,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660527016,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このsubredditに投稿された質問のうち、この2冊を読めば答えられるものは何％でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "在这个分论坛上发布的问题中，有多大比例可以通过阅读这两本书来回答？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在這個分論壇上發佈的問題中，有多大比例可以通過閱讀這兩本書來回答？"
+    }
+  ]
 }
