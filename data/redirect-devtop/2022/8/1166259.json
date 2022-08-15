@@ -42,5 +42,22 @@
   "original_created_at": "2022-08-12T19:29:40Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bC5qAhhK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shlh6dw8itumpz6yio13.png",
   "author": "Awosise Oluwaseun",
-  "author_url": "https://dev.to/jhhornn"
+  "author_url": "https://dev.to/jhhornn",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "上記のマージの通知を受けた時の喜びは言葉では言い表せないほどで、そのおかげで...。",
+      "title": "初めてPull Requestをマージしてもらったよ。"
+    },
+    {
+      "locale": "zh",
+      "description": "当我收到关于上述合并的通知时，语言无法表达我的喜悦，我欠下了充分的...",
+      "title": "我的第一个Pull Request被合并了。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我收到關於上述合併的通知時，語言無法表達我的喜悅，我欠下了充分的...",
+      "title": "我的第一個Pull Request被合併了。"
+    }
+  ]
 }

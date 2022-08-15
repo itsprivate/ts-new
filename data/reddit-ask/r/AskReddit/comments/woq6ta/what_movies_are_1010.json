@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "10/10はどんな映画？"
+    },
+    {
+      "locale": "zh",
+      "title": "哪些电影是10/10？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "哪些電影是10/10？"
+    }
+  ]
 }
