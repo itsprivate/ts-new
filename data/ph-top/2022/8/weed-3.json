@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-15T13:07:51Z"
+  "original_createdAt": "2022-08-15T13:07:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "WEED = What EEs different by Apono.ioは、Asaf Alima [@asaflima]とDima Gayets [@dimdimi4]の発案によるものである。WEEDは、ある環境で要求されたパーミッションと現在の環境との間のパーミッションの違いをチェックするCLIツールです。",
+      "tagline": "本番でのランタイムエラーを事前に防ぐことができる"
+    },
+    {
+      "locale": "zh",
+      "description": "WEED = What EEs different by Apono.io，是Asaf Alima [@asaflima] 和 Dima Gayets [@dimdimi4] 的心血结晶。WEED是一个CLI工具，用于检查环境中请求的权限与当前环境的权限之间的差异。",
+      "tagline": "提前预防生产中的运行时错误"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "WEED = What EEs different by Apono.io，是Asaf Alima [@asaflima] 和 Dima Gayets [@dimdimi4] 的心血結晶。WEED是一個CLI工具，用於檢查環境中請求的權限與當前環境的權限之間的差異。",
+      "tagline": "提前預防生產中的運行時錯誤"
+    }
+  ]
 }

@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-15T10:15:18Z"
+  "original_createdAt": "2022-08-15T10:15:18Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Tailwindhelperはtailwindcssを使ったスタイリングをアシストします。tailwindの設定を視覚化したり、値をtailwindのクラスに変換したり、16進数で最も近い色を求めたりすることができます。GitHub https://github.com/seb-graf/tailwind-helper でオープンソース化されています。",
+      "tagline": "追い風クラスの変換と可視化"
+    },
+    {
+      "locale": "zh",
+      "description": "Tailwindhelper协助你使用tailwindcss进行造型设计。你可以将tailwind设置可视化，将你的值转换成tailwind类，用十六进制值计算出最接近的颜色等等。在GitHub上开放源代码 https://github.com/seb-graf/tailwind-helper",
+      "tagline": "转换和可视化你的尾风类"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Tailwindhelper協助你使用tailwindcss進行造型設計。你可以將tailwind設置可視化，將你的值轉換成tailwind類，用十六進制值計算出最接近的顏色等等。在GitHub上開放源代碼 https://github.com/seb-graf/tailwind-helper",
+      "tagline": "轉換和可視化你的尾風類"
+    }
+  ]
 }
