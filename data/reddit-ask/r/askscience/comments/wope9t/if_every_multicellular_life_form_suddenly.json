@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もし、すべての多細胞生物が突然いなくなったとしたら、単細胞生物はいずれまた多細胞生物に再進化するのだろうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "如果每一种多细胞的生命形式都突然消失了，单细胞的生命形式最终会不会又重新演化成多细胞的？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果每一種多細胞的生命形式都突然消失了，單細胞的生命形式最終會不會又重新演化成多細胞的？"
+    }
+  ]
 }
