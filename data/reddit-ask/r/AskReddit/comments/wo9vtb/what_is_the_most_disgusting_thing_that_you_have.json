@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": true,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今まで人前で見た中で一番嫌なものは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你在公共场合见过的最恶心的东西是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你在公共場合見過的最噁心的東西是什麼？"
+    }
+  ]
 }
