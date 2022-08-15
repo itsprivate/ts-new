@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "沈みゆく船にとどまるより、ビットコインの船に乗ったほうがいい。"
+    },
+    {
+      "locale": "zh",
+      "title": "与其呆在一艘不断下沉的船上，不如登上一艘比特币的船。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "與其呆在一艘不斷下沉的船上，不如登上一艘比特幣的船。"
+    }
+  ]
 }
