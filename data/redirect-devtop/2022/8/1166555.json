@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-13T08:16:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--prnPFzEh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l18g69tjzzzgof01s85d.png",
   "author": "ajcwebdev",
-  "author_url": "https://dev.to/ajcwebdev"
+  "author_url": "https://dev.to/ajcwebdev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フルスタックでタイプセーフなReactフレームワークに、Next.js、tRPC、Prisma、TailwindがVercel上にデプロイされたものです。",
+      "title": "create-t3-appの初見"
+    },
+    {
+      "locale": "zh",
+      "description": "一个全栈式、类型安全的React框架，带有Next.js、tRPC、Prisma和Tailwind，部署在Vercel上。",
+      "title": "初步了解create-t3-app的情况"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個全棧式、類型安全的React框架，帶有Next.js、tRPC、Prisma和Tailwind，部署在Vercel上。",
+      "title": "初步瞭解create-t3-app的情況"
+    }
+  ]
 }
