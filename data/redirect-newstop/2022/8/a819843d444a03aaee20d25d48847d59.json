@@ -14,5 +14,19 @@
   "tags": [
     "The Wall Street Journal"
   ],
-  "image": "https://images.wsj.net/im-603866/social"
+  "image": "https://images.wsj.net/im-603866/social",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "原発攻撃はロシアの狙い。ウクライナの発表によると、電気を奪うことが目的"
+    },
+    {
+      "locale": "zh",
+      "title": "俄罗斯袭击核电站的目标。乌克兰称其目标是夺取电力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "俄羅斯襲擊核電站的目標。烏克蘭稱其目標是奪取電力"
+    }
+  ]
 }
