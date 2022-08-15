@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "男性にどのようにコミュニケーションをとってほしいですか？他の人よりもあなたを怒らせる特定のものがありますか？(例：マンスプレイニング)"
+    },
+    {
+      "locale": "zh",
+      "title": "你希望男人如何与你沟通？是否有某些事情让你比其他人更生气？(例如：男人的抱怨声)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你希望男人如何與你溝通？是否有某些事情讓你比其他人更生氣？(例如：男人的抱怨聲)"
+    }
+  ]
 }
