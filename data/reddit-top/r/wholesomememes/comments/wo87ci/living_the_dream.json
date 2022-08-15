@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "夢を生きる"
+    },
+    {
+      "locale": "zh",
+      "title": "生活的梦想"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "生活的夢想"
+    }
+  ]
 }
