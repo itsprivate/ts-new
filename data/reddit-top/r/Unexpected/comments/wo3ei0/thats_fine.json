@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "そうこなくっちゃ"
+    },
+    {
+      "locale": "zh",
+      "title": "这很好"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這很好"
+    }
+  ]
 }

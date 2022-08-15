@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-14T19:16:06Z",
   "image": "https://dev.to/social_previews/article/1167409.png",
   "author": "Nathaniel",
-  "author_url": "https://dev.to/shadowfaxrodeo"
+  "author_url": "https://dev.to/shadowfaxrodeo",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "冗長な &lt;head&gt; タグに関するシリーズの第一弾です。",
+      "title": "私はすべてのソーシャルメディアとメッセージングアプリのリンクプレビューのメタタグをテストしました。超つまらなかったです。"
+    },
+    {
+      "locale": "zh",
+      "description": "关于多余的&lt;head&gt;标签系列的第一部分--你可以在这里阅读：滚出我的...",
+      "title": "我测试了每个社交媒体和消息应用程序上的每个链接预览元标签--所以你不必这样做! 这超级无聊!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "關於多餘的&lt;head&gt;標籤系列的第一部分--你可以在這裏閱讀：滾出我的...",
+      "title": "我測試了每個社交媒體和消息應用程序上的每個鏈接預覽元標籤--所以你不必這樣做! 這超級無聊!"
+    }
+  ]
 }

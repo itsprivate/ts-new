@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "数学、理科、歴史、コンピュータサイエンスに対応した会話型AIアプリを作ってみた!"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个对话式的人工智能应用，帮助你学习数学、科学、历史和计算机科学!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個對話式的人工智能應用，幫助你學習數學、科學、歷史和計算機科學!"
+    }
+  ]
 }
