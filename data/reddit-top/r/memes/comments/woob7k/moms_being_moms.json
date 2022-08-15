@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ママはママで。"
+    },
+    {
+      "locale": "zh",
+      "title": "妈妈们是妈妈。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "媽媽們是媽媽。"
+    }
+  ]
 }
