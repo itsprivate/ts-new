@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "両親がDCエリアのニュースキャスターの場合。(ジャネット・レイズとロバート・バートン)"
+    },
+    {
+      "locale": "zh",
+      "title": "当你的父母都是华盛顿地区的新闻主播。(珍妮特-雷耶斯和罗伯特-伯顿)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當你的父母都是華盛頓地區的新聞主播。(珍妮特-雷耶斯和羅伯特-伯頓)"
+    }
+  ]
 }
