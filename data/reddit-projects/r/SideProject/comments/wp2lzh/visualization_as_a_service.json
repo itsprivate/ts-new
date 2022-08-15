@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Hi there,\n\nI'm building a SAAS to serve one single API: visualization as a service.\n\nI talked to a bunch of people, looks like there is a need, one company uses SQL\nServer Cube to handle intermediate dataset exploring for their customers, but\nit's not flexible, fast, and scalable. I would like to…"
+  "the_new_excerpt": "Hi there,\n\nI'm building a SAAS to serve one single API: visualization as a service.\n\nI talked to a bunch of people, looks like there is a need, one company uses SQL\nServer Cube to handle intermediate dataset exploring for their customers, but\nit's not flexible, fast, and scalable. I would like to…",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "こんにちは。\n\n私は、1つのAPIを提供するSAASを構築しています: サービスとしての可視化。\n\n私は多くの人々と話し、ニーズがあるように見えます、ある会社はSQL Serverを使用しています。\nServer Cubeを使用して、顧客のために中間データセット探索を処理しています。\n柔軟性、高速性、スケーラビリティがありません。私は...",
+      "title": "サービスとしてのビジュアライゼーション"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "你们好。\n\n我正在建立一个SAAS，为一个单一的API服务：可视化服务。\n\n我和很多人谈过，看起来有这样的需求，一家公司使用SQL\n一家公司使用SQL Server Cube为他们的客户处理中间数据集的探索，但是\n但它并不灵活、快速和可扩展。我想...",
+      "title": "视觉化作为一种服务"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "你們好。\n\n我正在建立一個SAAS，爲一個單一的API服務：可視化服務。\n\n我和很多人談過，看起來有這樣的需求，一家公司使用SQL\n一家公司使用SQL Server Cube爲他們的客戶處理中間數據集的探索，但是\n但它並不靈活、快速和可擴展。我想...",
+      "title": "視覺化作爲一種服務"
+    }
+  ]
 }
