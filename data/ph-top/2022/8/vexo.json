@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-15T07:06:20Z"
+  "original_createdAt": "2022-08-15T07:06:20Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Vexoは、開発者や管理者がReact Nativeの分析に関するあらゆるニーズを解決できるよう支援します。シームレスな統合により、美しいインターフェイスを通じて、すぐにデータを提供します。",
+      "tagline": "React Nativeのための解析ツール"
+    },
+    {
+      "locale": "zh",
+      "description": "Vexo帮助开发者和管理者解决他们所有的React Native分析需求。通过无缝集成，它通过一个漂亮的界面提供了开箱即用的数据。",
+      "tagline": "用于React Native的分析工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Vexo幫助開發者和管理者解決他們所有的React Native分析需求。通過無縫集成，它通過一個漂亮的界面提供了開箱即用的數據。",
+      "tagline": "用於React Native的分析工具"
+    }
+  ]
 }
