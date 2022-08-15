@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-15T06:37:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GzOmxpon--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ylxpg8dsaos9a1flawq.png",
   "author": "Nevo David",
-  "author_url": "https://dev.to/nevodavid"
+  "author_url": "https://dev.to/nevodavid",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事は何ですか？  私たちは皆、ウェブ上のチャットに遭遇したことがあります。それは、...",
+      "title": "Socket.ioとReactでチャットアプリを作る🚀。"
+    },
+    {
+      "locale": "zh",
+      "description": "这篇文章是关于什么的？  我们都遇到过网络上的聊天，这可能是...",
+      "title": "用Socket.io和React构建一个聊天应用 🚀"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這篇文章是關於什麼的？  我們都遇到過網絡上的聊天，這可能是...",
+      "title": "用Socket.io和React構建一個聊天應用 🚀"
+    }
+  ]
 }
