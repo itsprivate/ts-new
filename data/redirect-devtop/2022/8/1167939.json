@@ -49,5 +49,22 @@
   "original_created_at": "2022-08-15T14:49:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m7sCEs35--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0cpoo21vtvxqbltybhs.png",
   "author": "Ben Halpern",
-  "author_url": "https://dev.to/ben"
+  "author_url": "https://dev.to/ben",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "ミームマンデーの投稿へようこそ! 今日のカバー画像は、先週のスレッドからです。 DEVは...",
+      "title": "ミーム・マンデー! 🤑"
+    },
+    {
+      "locale": "zh",
+      "description": "欢迎来到另一个Meme Monday帖子 今天的封面图片来自于上周的主题。 DEV是一个 \"小 \"字。",
+      "title": "Meme Monday! 🤑"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "歡迎來到另一個Meme Monday帖子 今天的封面圖片來自於上週的主題。 DEV是一個 \"小 \"字。",
+      "title": "Meme Monday! 🤑"
+    }
+  ]
 }
