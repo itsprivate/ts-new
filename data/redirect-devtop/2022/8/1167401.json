@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-14T19:00:48Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RhFeJzeO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qsmxy0i0352331x105w6.jpg",
   "author": "Elves Sousa",
-  "author_url": "https://dev.to/elvessousa"
+  "author_url": "https://dev.to/elvessousa",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今までNeovimをメインのコードエディターとして使っていましたが、今のところその考えは変わっていません...。",
+      "title": "ネオビムを月に連れて行く"
+    },
+    {
+      "locale": "zh",
+      "description": "我使用Neovim作为我的主要代码编辑器已经有一段时间了，到目前为止，我还没有改变主意....。",
+      "title": "将Neovim带入月球"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我使用Neovim作爲我的主要代碼編輯器已經有一段時間了，到目前爲止，我還沒有改變主意....。",
+      "title": "將Neovim帶入月球"
+    }
+  ]
 }
