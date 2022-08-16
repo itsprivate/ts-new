@@ -104,5 +104,22 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660664144,
-  "the_new_excerpt": "Anyone go 100%?"
+  "the_new_excerpt": "Anyone go 100%?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "100％行く人？",
+      "title": "貯蓄の何パーセントを投資していますか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "有谁去了100%？",
+      "title": "你的储蓄有多少百分比用于投资？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "有誰去了100%？",
+      "title": "你的儲蓄有多少百分比用於投資？"
+    }
+  ]
 }
