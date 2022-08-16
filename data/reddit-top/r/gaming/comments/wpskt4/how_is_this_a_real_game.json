@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これのどこがゲームなんだ"
+    },
+    {
+      "locale": "zh",
+      "title": "这怎么可能是一个真正的游戏"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這怎麼可能是一個真正的遊戲"
+    }
+  ]
 }
