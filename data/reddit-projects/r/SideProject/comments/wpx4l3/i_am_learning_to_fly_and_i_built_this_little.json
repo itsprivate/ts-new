@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私は飛行を学んでおり、各レッスン飛行中の時間を追跡するために、この小さなプロジェクトを作りました(www.propeler.ca)"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在学习飞行，我建立了这个小项目来帮助跟踪我在每次飞行课程中的时间（www.propeler.ca）。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在學習飛行，我建立了這個小項目來幫助跟蹤我在每次飛行課程中的時間（www.propeler.ca）。"
+    }
+  ]
 }
