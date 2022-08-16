@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "料理教室の様子。"
+    },
+    {
+      "locale": "zh",
+      "title": "烹饪课。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "烹飪課。"
+    }
+  ]
 }

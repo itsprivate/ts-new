@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "中世の王様を感激させなければならない。あなたなら、どんな未来食を持っていきますか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你需要给一个来自中世纪的国王留下深刻印象，你会给他带来哪些来自未来的食物？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你需要給一個來自中世紀的國王留下深刻印象，你會給他帶來哪些來自未來的食物？"
+    }
+  ]
 }
