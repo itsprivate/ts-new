@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コンサートでの寝起き"
+    },
+    {
+      "locale": "zh",
+      "title": "在音乐会上睡觉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在音樂會上睡覺"
+    }
+  ]
 }
