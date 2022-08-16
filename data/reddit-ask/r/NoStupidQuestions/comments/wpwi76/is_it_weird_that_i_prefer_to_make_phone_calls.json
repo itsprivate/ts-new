@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家の中で人と話すより、外で電話をする方が好きなのは変でしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "我喜欢在屋外打电话，而不是在屋里和周围的人打电话，这很奇怪吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我喜歡在屋外打電話，而不是在屋裏和周圍的人打電話，這很奇怪嗎？"
+    }
+  ]
 }
