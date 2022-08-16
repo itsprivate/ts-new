@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660667721,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "システムが機能する!"
+    },
+    {
+      "locale": "zh",
+      "title": "该系统是有效的!"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "該系統是有效的!"
+    }
+  ]
 }
