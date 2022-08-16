@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "じゃあ、私はもう助からないね"
+    },
+    {
+      "locale": "zh",
+      "title": "好吧，我想我永远不会帮助你"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "好吧，我想我永遠不會幫助你"
+    }
+  ]
 }

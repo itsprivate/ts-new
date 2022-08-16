@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-15T08:39:06Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GXUbQMTQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/myz5gysywchigkdqojww.png",
   "author": "JoelBonetR",
-  "author_url": "https://dev.to/joelbonetr"
+  "author_url": "https://dev.to/joelbonetr",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "パスワードを忘れた」ことについて明示する。 この小さな問題は 毎回登場する...",
+      "title": "この機能について教えてください。お願いします"
+    },
+    {
+      "locale": "zh",
+      "description": "明确地说，关于 \"忘记密码 \"的事情。 这个小问题出现在每一个...",
+      "title": "我们能谈谈这个功能吗？请"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "明確地說，關於 \"忘記密碼 \"的事情。 這個小問題出現在每一個...",
+      "title": "我們能談談這個功能嗎？請"
+    }
+  ]
 }
