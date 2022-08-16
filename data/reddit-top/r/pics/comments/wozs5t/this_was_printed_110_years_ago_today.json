@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これは110年前の今日に印刷されたものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是在110年前的今天印制的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是在110年前的今天印製的。"
+    }
+  ]
 }
