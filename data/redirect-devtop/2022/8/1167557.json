@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-15T02:58:31Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ECBQO4Cw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ie7rbzfj73jrv89g1kz.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "今日は8月15日、インドが独立した日です。そこで、インド人として祝うのは...",
+      "title": "CSSフラッグ：インド"
+    },
+    {
+      "locale": "zh",
+      "description": "今天是8月15日，这是印度独立的日子。因此，我们作为印度人庆祝...",
+      "title": "CSS旗帜: 印度"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "今天是8月15日，這是印度獨立的日子。因此，我們作爲印度人慶祝...",
+      "title": "CSS旗幟: 印度"
+    }
+  ]
 }
