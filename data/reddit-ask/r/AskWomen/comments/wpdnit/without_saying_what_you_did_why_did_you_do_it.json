@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "何をしたかは言わずに、なぜそれをしたのか？"
+    },
+    {
+      "locale": "zh",
+      "title": "不说你做了什么，你为什么要这样做？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不說你做了什麼，你爲什麼要這樣做？"
+    }
+  ]
 }
