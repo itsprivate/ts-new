@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-14T14:25:07Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p2Y9lCqY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vulhv6ixe5ngfcbxtpe0.png",
   "author": "Dennis Persson",
-  "author_url": "https://dev.to/perssondennis"
+  "author_url": "https://dev.to/perssondennis",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この記事では、React 18の新フックuseDeferredValueとuseTransitionについて説明し、React 18の新フックuseDeferredValueとの比較をしています。",
+      "title": "React Hooks: useThrottledValue および useThrottledFunction"
+    },
+    {
+      "locale": "zh",
+      "description": "本文解释了新的React 18钩子useDeferredValue和useTransition，并将它们与...",
+      "title": "React钩子：useThrottledValue和useThrottledFunction"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "本文解釋了新的React 18鉤子useDeferredValue和useTransition，並將它們與...",
+      "title": "React鉤子：useThrottledValue和useThrottledFunction"
+    }
+  ]
 }
