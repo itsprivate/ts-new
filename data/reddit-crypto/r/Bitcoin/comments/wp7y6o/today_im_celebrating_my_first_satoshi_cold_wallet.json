@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "今日は、サトシコールドの初ウォレット記念です。(Tails OS + Electrum)"
+    },
+    {
+      "locale": "zh",
+      "title": "今天，我正在庆祝我的第一个中本聪冷钱包。(Tails OS + Electrum)"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "今天，我正在慶祝我的第一個中本聰冷錢包。(Tails OS + Electrum)"
+    }
+  ]
 }

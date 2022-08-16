@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "restful apiから任意のjsonデータを保存するアプリを作りました。"
+    },
+    {
+      "locale": "zh",
+      "title": "我做了一个应用程序来存储来自restful api的任何json数据。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我做了一個應用程序來存儲來自restful api的任何json數據。"
+    }
+  ]
 }
