@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "AIが創り出すエジプトの王と王妃の顔"
+    },
+    {
+      "locale": "zh",
+      "title": "由人工智能创造的埃及国王和王后的面孔"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "由人工智能創造的埃及國王和王后的面孔"
+    }
+  ]
 }
