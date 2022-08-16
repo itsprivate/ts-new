@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-15T10:31:02Z"
+  "original_createdAt": "2022-08-15T10:31:02Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Twitterでフォローしている休眠アカウントは何個ですか？このアプリケーションで素早くそれらを特定し、フォローを解除してください。",
+      "tagline": "Twitterでフォローしているアカウントを整理する"
+    },
+    {
+      "locale": "zh",
+      "description": "你在Twitter上关注了多少个休眠账户？用这个应用程序快速识别它们并取消关注。",
+      "tagline": "清理你在Twitter上关注的账户"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你在Twitter上關注了多少個休眠賬戶？用這個應用程序快速識別它們並取消關注。",
+      "tagline": "清理你在Twitter上關注的賬戶"
+    }
+  ]
 }

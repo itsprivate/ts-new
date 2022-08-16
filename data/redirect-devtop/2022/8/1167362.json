@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-14T17:21:44Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ERFds5hf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4cgjhi7xchwal6duazs1.png",
   "author": "Sachin Chaurasiya",
-  "author_url": "https://dev.to/sachinchaurasiya"
+  "author_url": "https://dev.to/sachinchaurasiya",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Webサイトの解析といえば、真っ先に思い浮かぶのがGoogle Analyticsですが...。",
+      "title": "Umamiでウェブサイト解析をセルフホスティングする方法"
+    },
+    {
+      "locale": "zh",
+      "description": "当我们谈及网站分析时，首先想到的是谷歌分析....。",
+      "title": "如何用Umami自我托管你自己的网站分析"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當我們談及網站分析時，首先想到的是谷歌分析....。",
+      "title": "如何用Umami自我託管你自己的網站分析"
+    }
+  ]
 }
