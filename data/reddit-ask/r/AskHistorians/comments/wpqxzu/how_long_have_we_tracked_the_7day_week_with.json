@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Today is Tuesday. Yesterday was Monday. Day before was Sunday. How far back can\nyou go for that to still be accurate and tracked by some cultures, even if it\nwas in a different language?"
+  "the_new_excerpt": "Today is Tuesday. Yesterday was Monday. Day before was Sunday. How far back can\nyou go for that to still be accurate and tracked by some cultures, even if it\nwas in a different language?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "今日は火曜日です。昨日は月曜日。一昨日は日曜日。どこまでさかのぼって\nどこまでさかのぼれば、たとえ言語が違っても、ある文化圏では正確で追跡可能なのでしょうか。\nどこまで遡ることができるのでしょうか。",
+      "title": "週7日制をいつまで継続的に追跡してきたか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "今天是星期二。昨天是星期一。前天是星期天。你能追溯到多远\n你可以追溯到多远，以使其仍然是准确的，并被某些文化所追踪，即使它是用不同的语言表达的。\n是用不同的语言？",
+      "title": "我们连续跟踪7天工作制有多长时间了？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "今天是星期二。昨天是星期一。前天是星期天。你能追溯到多遠\n你可以追溯到多遠，以使其仍然是準確的，並被某些文化所追蹤，即使它是用不同的語言表達的。\n是用不同的語言？",
+      "title": "我們連續跟蹤7天工作制有多長時間了？"
+    }
+  ]
 }
