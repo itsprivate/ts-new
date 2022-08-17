@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "山の頂上にある岩石は、麓にある岩石より古いのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "title": "山顶的岩石是否比位于山脚的岩石更古老？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "山頂的岩石是否比位於山腳的岩石更古老？"
+    }
+  ]
 }
