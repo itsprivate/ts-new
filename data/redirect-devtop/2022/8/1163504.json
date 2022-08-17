@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-09T23:57:11Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pva0wfZt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k0yen0qgod7vm837qn5j.png",
   "author": "Spencer Forrest",
-  "author_url": "https://dev.to/spencer_forrest_opt"
+  "author_url": "https://dev.to/spencer_forrest_opt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "OpenAPIとは？  定義：APIの記述方法に関する標準[...]で、...に焦点を当てたもの。",
+      "title": "OpenApi - より良いAPIドキュメンテーションのためのJavaアノテーション"
+    },
+    {
+      "locale": "zh",
+      "description": "什么是OpenAPI？  定义：关于如何描述API的标准[...]，重点是...",
+      "title": "OpenApi - 更好的Api文档的Java注释"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "什麼是OpenAPI？  定義：關於如何描述API的標準[...]，重點是...",
+      "title": "OpenApi - 更好的Api文檔的Java註釋"
+    }
+  ]
 }
