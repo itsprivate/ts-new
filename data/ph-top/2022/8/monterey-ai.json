@@ -67,5 +67,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-17T07:01:00Z"
+  "original_createdAt": "2022-08-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Monterey AIは、製品開発のためのCopilotです。製品要件ドキュメントを、コラボレーションと再現性のあるワークフローに変えることができます。さらに、生成的な製品仕様、ワイヤーフレーム、および依存関係のチェックを使用すると、さらに良くなります。",
+      "tagline": "製品開発のためのコパイロット"
+    },
+    {
+      "locale": "zh",
+      "description": "Monterey AI是产品开发的Copilot。它帮助团队将产品需求文件转化为协作性和可重复的工作流程。它通过生成产品规格、线框和依赖性检查变得更好。",
+      "tagline": "产品开发的副驾驶员"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Monterey AI是產品開發的Copilot。它幫助團隊將產品需求文件轉化爲協作性和可重複的工作流程。它通過生成產品規格、線框和依賴性檢查變得更好。",
+      "tagline": "產品開發的副駕駛員"
+    }
+  ]
 }
