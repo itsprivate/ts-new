@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "コインベースはイーサリアムマージ期間中、ETHの入出金を一時停止します。"
+    },
+    {
+      "locale": "zh",
+      "title": "以太坊合并期间，Coinbase将暂停ETH存款和提款"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "以太坊合併期間，Coinbase將暫停ETH存款和提款"
+    }
+  ]
 }
