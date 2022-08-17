@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "もうチームのSlackで面倒なやりとりをする必要はありません"
+    },
+    {
+      "locale": "zh",
+      "title": "在你的团队的Slack中，不再有混乱的Slack对话了"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在你的團隊的Slack中，不再有混亂的Slack對話了"
+    }
+  ]
 }

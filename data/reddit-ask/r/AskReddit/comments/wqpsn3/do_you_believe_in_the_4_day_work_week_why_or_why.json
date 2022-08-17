@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたは週休4日制を信じますか？その理由またはそう考えない理由は何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你相信每周4天工作制吗？为什么或为什么不？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你相信每週4天工作制嗎？爲什麼或爲什麼不？"
+    }
+  ]
 }
