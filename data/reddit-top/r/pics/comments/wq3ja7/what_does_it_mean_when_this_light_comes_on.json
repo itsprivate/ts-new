@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このランプが点灯するのはどういう意味ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "当这个灯亮起时是什么意思？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "當這個燈亮起時是什麼意思？"
+    }
+  ]
 }
