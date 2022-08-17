@@ -53,5 +53,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-17T07:01:00Z"
+  "original_createdAt": "2022-08-17T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Unfluffは、フィラーやAIで書かれたコンテンツを検出し、コンテンツチームがより責任を持てるようにする無料のWPプラグインとツールです。",
+      "tagline": "フワフワ＆AIで書かれたコンテンツを検出する無料WPプラグイン"
+    },
+    {
+      "locale": "zh",
+      "description": "Unfluff是一个免费的WP插件和工具，可以检测填充物和人工智能编写的内容，并使你的内容团队更加负责任。",
+      "tagline": "免费的WP插件，可以检测出花哨和AI编写的内容"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Unfluff是一個免費的WP插件和工具，可以檢測填充物和人工智能編寫的內容，並使你的內容團隊更加負責任。",
+      "tagline": "免費的WP插件，可以檢測出花哨和AI編寫的內容"
+    }
+  ]
 }
