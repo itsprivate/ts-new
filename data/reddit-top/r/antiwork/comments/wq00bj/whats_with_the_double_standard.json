@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "なんだ、このダブルスタンダードは？"
+    },
+    {
+      "locale": "zh",
+      "title": "这种双重标准是怎么回事？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這種雙重標準是怎麼回事？"
+    }
+  ]
 }

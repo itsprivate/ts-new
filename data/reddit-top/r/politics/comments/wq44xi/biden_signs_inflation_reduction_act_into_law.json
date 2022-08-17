@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "バイデンがインフレ抑制法に署名し、法人税の最低税率を15％に設定"
+    },
+    {
+      "locale": "zh",
+      "title": "拜登签署《减少通货膨胀法》成为法律，规定15%的最低公司税率"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "拜登簽署《減少通貨膨脹法》成爲法律，規定15%的最低公司稅率"
+    }
+  ]
 }
