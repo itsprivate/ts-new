@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このような人たちは、もっと評価されるべきです。"
+    },
+    {
+      "locale": "zh",
+      "title": "这些人需要更多的赞赏，因为他们是世界的一个巨大部分，但却根本没有被注意到。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這些人需要更多的讚賞，因爲他們是世界的一個巨大部分，但卻根本沒有被注意到。"
+    }
+  ]
 }
