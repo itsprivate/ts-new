@@ -47,5 +47,22 @@
   "original_created_at": "2022-08-16T20:07:03Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
   "author": "Gracie Gregory (she/her)",
-  "author_url": "https://dev.to/graciegregory"
+  "author_url": "https://dev.to/graciegregory",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この一週間で最も読まれ、最も愛されたコミュニティからの投稿を一挙にご紹介します。",
+      "title": "過去1週間のDEV注目記事トップ7"
+    },
+    {
+      "locale": "zh",
+      "description": "过去一周社区中阅读量最大和最受喜爱的贡献的综述",
+      "title": "过去一周的7个特色DEV帖子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "過去一週社區中閱讀量最大和最受喜愛的貢獻的綜述",
+      "title": "過去一週的7個特色DEV帖子"
+    }
+  ]
 }
