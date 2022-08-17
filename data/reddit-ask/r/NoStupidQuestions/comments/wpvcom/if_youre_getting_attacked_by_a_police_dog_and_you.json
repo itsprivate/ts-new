@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "警察犬に襲われたとき、蹴りを入れて逃がそうとしたら、警察官への暴行罪に問われる可能性があります。"
+    },
+    {
+      "locale": "zh",
+      "title": "如果你被一只警犬攻击，你踢它，试图让它离开你，你会不会因为攻击警察而惹上麻烦？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "如果你被一隻警犬攻擊，你踢它，試圖讓它離開你，你會不會因爲攻擊警察而惹上麻煩？"
+    }
+  ]
 }

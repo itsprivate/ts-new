@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "触っちゃうぞ、お魚さん！？"
+    },
+    {
+      "locale": "zh",
+      "title": "我就摸摸你，鱼！"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我就摸摸你，魚！"
+    }
+  ]
 }
