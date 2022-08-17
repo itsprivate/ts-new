@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "If they are genetically identical, does that mean that they can freely donate\norgans to each other with no negative consequences?"
+  "the_new_excerpt": "If they are genetically identical, does that mean that they can freely donate\norgans to each other with no negative consequences?",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "遺伝的に同じであれば、自由に寄付ができるということでしょうか？\n臓器を提供することができるのでしょうか？",
+      "title": "一卵性双生児の間で臓器移植が行われた場合、免疫抑制剤を服用する必要があるのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "如果他们的基因相同，这是否意味着他们可以自由地捐献\n器官给对方，而不产生任何负面影响？",
+      "title": "如果同卵双胞胎之间发生器官移植，是否需要服用免疫抑制剂？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "如果他們的基因相同，這是否意味着他們可以自由地捐獻\n器官給對方，而不產生任何負面影響？",
+      "title": "如果同卵雙胞胎之間發生器官移植，是否需要服用免疫抑制劑？"
+    }
+  ]
 }
