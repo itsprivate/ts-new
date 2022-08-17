@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ターンシグナルってなんだ？"
+    },
+    {
+      "locale": "zh",
+      "title": "转向灯是什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "轉向燈是什麼？"
+    }
+  ]
 }
