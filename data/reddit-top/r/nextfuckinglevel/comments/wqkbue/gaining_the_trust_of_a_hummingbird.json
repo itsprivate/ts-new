@@ -66,5 +66,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ハチドリの信頼を得る"
+    },
+    {
+      "locale": "zh",
+      "title": "获得蜂鸟的信任"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "獲得蜂鳥的信任"
+    }
+  ]
 }
