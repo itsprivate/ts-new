@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-16T18:41:09Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qiOaXWf0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwouinnnmk8yhnxrx8kv.png",
   "author": "Jatin Sharma",
-  "author_url": "https://dev.to/j471n"
+  "author_url": "https://dev.to/j471n",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "これはWindowsコマンドのチートシートです。すべてのコマンドと簡単な説明があります。",
+      "title": "あなたに必要なWindowsコマンドのチートシート"
+    },
+    {
+      "locale": "zh",
+      "description": "这是《Windows命令小抄》。它为你提供了所有的命令和简短的描述。",
+      "title": "您需要的Windows命令小册子"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "這是《Windows命令小抄》。它爲你提供了所有的命令和簡短的描述。",
+      "title": "您需要的Windows命令小冊子"
+    }
+  ]
 }
