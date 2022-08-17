@@ -46,5 +46,22 @@
   "original_created_at": "2022-07-20T18:53:32Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kzYqS-XB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xsgjg16u5t90chrq576h.jpeg",
   "author": "Shubham Yadav",
-  "author_url": "https://dev.to/shubhamyadav"
+  "author_url": "https://dev.to/shubhamyadav",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "JWTは何のために使うのですか？  JWTは認可のために使用されます。認可とは、...",
+      "title": "JWT（JSONウェブトークン）"
+    },
+    {
+      "locale": "zh",
+      "description": "JWT的用途是什么？  JWT是用来授权的，授权是确保...",
+      "title": "JWT（JSON网络令牌）"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "JWT的用途是什麼？  JWT是用來授權的，授權是確保...",
+      "title": "JWT（JSON網絡令牌）"
+    }
+  ]
 }
