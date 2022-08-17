@@ -63,5 +63,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-16T07:01:00Z"
+  "original_createdAt": "2022-08-16T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Stracは、ZendeskのコメントやチケットからSSN、銀行明細、身分証明書、医療メモなどの機密性の高い顧客データを自動的に検出し、摩擦のない方法で削除することで、ビジネスを保護します。Stracは、Zendeskからセキュリティリスクを排除します。",
+      "tagline": "Zendeskから機密性の高い個人データを検出・削除する"
+    },
+    {
+      "locale": "zh",
+      "description": "Strac通过自动检测和删除Zendesk评论和票据中的敏感客户数据，如SSN、银行对账单、身份文件和医疗笔记等，以无摩擦的方式保护企业。Strac消除了Zendesk的安全风险。",
+      "tagline": "从Zendesk中检测并删除敏感的个人数据"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Strac通過自動檢測和刪除Zendesk評論和票據中的敏感客戶數據，如SSN、銀行對賬單、身份文件和醫療筆記等，以無摩擦的方式保護企業。Strac消除了Zendesk的安全風險。",
+      "tagline": "從Zendesk中檢測並刪除敏感的個人數據"
+    }
+  ]
 }

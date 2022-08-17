@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "心臓は悪くても動いている。"
+    },
+    {
+      "locale": "zh",
+      "title": "他的心脏可能很差，但仍然在工作。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "他的心臟可能很差，但仍然在工作。"
+    }
+  ]
 }

@@ -42,5 +42,22 @@
   "original_created_at": "2022-08-16T15:53:54Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mcK3eBfB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ue2ce6py0dpz3m4pdd5k.png",
   "author": "Shoubhit Dash",
-  "author_url": "https://dev.to/nexxeln"
+  "author_url": "https://dev.to/nexxeln",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんにちは！今日は、私が毎日行っている開発ワークフローと、開発ワークフローのセットアップに使用しているすべてのツールについてお話したいと思います。",
+      "title": "WSL、tmux、Neovimを使用した私の開発ワークフロー"
+    },
+    {
+      "locale": "zh",
+      "description": "嗨！今天我要谈一谈我的日常开发工作流程，以及我用来设置的所有工具。",
+      "title": "我使用WSL、tmux和Neovim的开发者工作流程"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "嗨！今天我要談一談我的日常開發工作流程，以及我用來設置的所有工具。",
+      "title": "我使用WSL、tmux和Neovim的開發者工作流程"
+    }
+  ]
 }
