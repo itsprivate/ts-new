@@ -13,5 +13,19 @@
   ],
   "objectID": "32498435",
   "original_created_at": "2022-08-17T16:28:45.000Z",
-  "image": "https://www.crunchydata.com/card.png"
+  "image": "https://www.crunchydata.com/card.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "遊び場で学ぶPostgres - ブラウザで動くWASMにコンパイルされたPostgres"
+    },
+    {
+      "locale": "zh",
+      "title": "在游乐场学习Postgres - Postgres编译成WASM在浏览器中运行"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "在遊樂場學習Postgres - Postgres編譯成WASM在瀏覽器中運行"
+    }
+  ]
 }

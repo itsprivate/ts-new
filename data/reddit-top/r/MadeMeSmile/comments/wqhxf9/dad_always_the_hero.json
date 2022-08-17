@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "お父さんがいつもヒーロー"
+    },
+    {
+      "locale": "zh",
+      "title": "爸爸永远是英雄"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "爸爸永遠是英雄"
+    }
+  ]
 }
