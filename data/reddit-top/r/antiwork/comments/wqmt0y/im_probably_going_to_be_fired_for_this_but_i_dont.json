@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "多分、これでクビになるんだろうなぁ...でも、気にしない"
+    },
+    {
+      "locale": "zh",
+      "title": "我可能会因此被解雇...但我不在乎"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我可能會因此被解僱...但我不在乎"
+    }
+  ]
 }
