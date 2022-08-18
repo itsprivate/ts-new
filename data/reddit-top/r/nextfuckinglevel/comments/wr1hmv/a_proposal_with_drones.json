@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ドローンを使った提案"
+    },
+    {
+      "locale": "zh",
+      "title": "一个有无人机的提案"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一個有無人機的提案"
+    }
+  ]
 }
