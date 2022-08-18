@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "データアナリストのためのAI搭載アシスタント/コパイロットを作っています"
+    },
+    {
+      "locale": "zh",
+      "title": "我正在为数据分析师建立一个由人工智能驱动的助手/副驾驶员"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我正在爲數據分析師建立一個由人工智能驅動的助手/副駕駛員"
+    }
+  ]
 }
