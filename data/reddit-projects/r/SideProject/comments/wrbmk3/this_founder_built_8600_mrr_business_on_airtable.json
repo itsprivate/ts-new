@@ -1,0 +1,62 @@
+{
+  "author": "jayscript12",
+  "original_created_utc": 1660802455,
+  "title": "This founder built $8600 MRR business on Airtable 😱😱",
+  "created_utc": 1660827411,
+  "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Notion and Airtable are two favorite tools for most people here. Anyone building products around these two niches excite me.&lt;/p&gt;\n\n&lt;p&gt;I was connected with Andy building DataFetcher for some time on Twitter but never got into conversation with him.&lt;/p&gt;\n\n&lt;p&gt;When I started &lt;a href=\"https://founderbeats.com\"&gt;Founder Beats - Founder Insights&lt;/a&gt;, Andy is one of the people who I have in mind to get on an interview.&lt;/p&gt;\n\n&lt;p&gt;Every IndieHacker has a strong story to share and I wanted to bring that story out.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Some interesting notes&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;How long did it take you to acquire your first 50 customers, and what was your growth strategy?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;It took about six months to reach the first 50 customers. Initially, I launched on forums, Product Hunt, Reddit etc. which got a handful of users.&lt;/p&gt;\n\n&lt;p&gt;Being early to a marketplace like Airtable means you get a handful of new users each day, even without doing any marketing. I think a big factor in converting these people was choosing a freemium pricing model. Some people would try Data Fetcher out on the free plan for months, then finally convert when they had a concrete use case.&lt;/p&gt;\n\n&lt;p&gt;A few months in, I realised Data Fetcher wasn&amp;#39;t going to grow properly unless I found a more scalable marketing channel. As for many bootstrapped products, this turned out to be SEO. Specifically, I would take common Data Fetcher use cases and create YouTube videos &amp;amp; written tutorials.&lt;/p&gt;\n\n&lt;p&gt;Today, 30%-40% of my customers come through our YouTube videos or blog posts, and this % has steadily increased. The interesting thing is the number of views on the videos/ blog posts is tiny (e.g. &amp;lt;1000 total views for most videos), but the intent is super high, so the conversion rate is high.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Which technology stack are you using and what challenges and limitations does it pose?&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;The backend is written in Node.js, TypeScript, PostgresQL, GraphQL and hosted on Heroku. The frontend is React.js, TypeScript and Airtable&amp;#39;s Blocks SDK.&lt;/p&gt;\n\n&lt;p&gt;I chose this stack because I was already familiar with it, which is the approach I&amp;#39;d advise anyone to take.&lt;/p&gt;\n\n&lt;p&gt;There haven&amp;#39;t been any serious limitations, but there have certainly been some Heroku growing pains, now that Data Fetcher users are doing 10,000s of runs (an import/export) per day. I&amp;#39;ve had to upgrade Heroku servers/ database in a hurry and add lots of monitoring to try and see this coming.&lt;/p&gt;\n\n&lt;p&gt;The backend relies on Airtable&amp;#39;s REST API. It&amp;#39;s solid enough but has some quirks I&amp;#39;ve had to build around. e.g. it uses names for tables rather than ids, which means when a user changes a table name their scheduled runs start failing. So gracious error handling and alerting the user has been very important.&lt;/p&gt;\n\n&lt;p&gt;More founder insights around building profitable Micro SaaS around Airtable from Andy &lt;a href=\"https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr\"&gt;here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+  "score": 6,
+  "preview": {
+    "images": [
+      {
+        "source": {
+          "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?auto=webp&amp;s=c721295a3a7c9147e975b6aafad6ffd3c2156c2e",
+          "width": 1366,
+          "height": 768
+        },
+        "resolutions": [
+          {
+            "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=626bb666ac36d22a91e8669fc5a647bbe5e21307",
+            "width": 108,
+            "height": 60
+          },
+          {
+            "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c9640704ad23c61cd9bda94d5b1b0626f7e9f3cd",
+            "width": 216,
+            "height": 121
+          },
+          {
+            "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c2c689ff70fc7b33427f5dbb512e741a8c969d79",
+            "width": 320,
+            "height": 179
+          },
+          {
+            "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=45ae5aa212c990bd42d4d0f7210c0491d59322e9",
+            "width": 640,
+            "height": 359
+          },
+          {
+            "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=678b4c662af70c401bb4ccfad08ee46bd3829281",
+            "width": 960,
+            "height": 539
+          },
+          {
+            "url": "https://external-preview.redd.it/ciTkantpvWtmouh3qkdYscDlCOOe2bnxWC7xXoAV8Ww.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=ce5ea7d3ed516a953c74f036578dc885c8cb0f6d",
+            "width": 1080,
+            "height": 607
+          }
+        ],
+        "variants": {},
+        "id": "QTD-wkrqZq_cFvqKy2TRb8hYpj3_c7tALPJV0gbhZbM"
+      }
+    ],
+    "enabled": false
+  },
+  "permalink": "/r/SideProject/comments/wrbmk3/this_founder_built_8600_mrr_business_on_airtable/",
+  "subreddit": "SideProject",
+  "id": "wrbmk3",
+  "is_self": true,
+  "media": null,
+  "is_video": false,
+  "sensitive": false,
+  "the_new_excerpt": "Notion and Airtable are two favorite tools for most people here. Anyone building\nproducts around these two niches excite me.\n\nI was connected with Andy building DataFetcher for some time on Twitter but\nnever got into conversation with him.\n\nWhen I started Founder Beats - Founder Insights…"
+}
