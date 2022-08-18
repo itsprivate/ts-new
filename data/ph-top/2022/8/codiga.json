@@ -89,5 +89,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-18T07:01:00Z"
+  "original_createdAt": "2022-08-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Codigaは、スマートなコードスニペットを作成、共有、使用することができるコーディングアシスタントです。IDEから15以上の言語のスニペットをワンクリックで作成、検索、使用することができます。Codigaは無料で、VS Code、IntelliJ、およびChromeで動作します。",
+      "tagline": "コードスニペットの管理を簡単に"
+    },
+    {
+      "locale": "zh",
+      "description": "Codiga是一个编码助手，让你创建、分享和使用智能代码片段。只需一次点击，就可以从你的IDE中创建、搜索和使用15种以上语言的代码片段。Codiga是免费的，可用于VS Code、IntelliJ和Chrome。",
+      "tagline": "代码片断管理变得简单"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Codiga是一個編碼助手，讓你創建、分享和使用智能代碼片段。只需一次點擊，就可以從你的IDE中創建、搜索和使用15種以上語言的代碼片段。Codiga是免費的，可用於VS Code、IntelliJ和Chrome。",
+      "tagline": "代碼片斷管理變得簡單"
+    }
+  ]
 }
