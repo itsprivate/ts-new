@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "パンチが効いていると言わざるを得ない"
+    },
+    {
+      "locale": "zh",
+      "title": "不得不说，他确实很有魅力"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不得不說，他確實很有魅力"
+    }
+  ]
 }
