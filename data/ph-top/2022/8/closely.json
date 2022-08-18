@@ -78,5 +78,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-18T07:01:00Z"
+  "original_createdAt": "2022-08-18T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Closelyは、LinkedInのセールスインテリジェンスプラットフォームです。自動運転で何千ものリードと簡単につながり、LinkedInネットワークやコミュニケーションを大規模に管理することができます。また、CloselyはB2Bコンタクトデータベースでもあります。CRM機能とInboxは無料で使用することができます。",
+      "tagline": "LinkedInをCRM化し、すべてのアウトリーチを自動運転にする"
+    },
+    {
+      "locale": "zh",
+      "description": "Closely是一个LinkedIn销售智能平台。它可以让你轻松地与成千上万的潜在客户自动联系，大规模地管理你的LinkedIn网络和通信。Closely也是一个B2B联系人数据库。CRM功能和收件箱可以免费使用。",
+      "tagline": "将LinkedIn变成一个CRM，并将所有的外联工作置于自动驾驶状态"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Closely是一個LinkedIn銷售智能平臺。它可以讓你輕鬆地與成千上萬的潛在客戶自動聯繫，大規模地管理你的LinkedIn網絡和通信。Closely也是一個B2B聯繫人數據庫。CRM功能和收件箱可以免費使用。",
+      "tagline": "將LinkedIn變成一個CRM，並將所有的外聯工作置於自動駕駛狀態"
+    }
+  ]
 }
