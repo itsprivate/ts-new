@@ -43,5 +43,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "開発者なら誰でも直面することだと思います。"
+    },
+    {
+      "locale": "zh",
+      "title": "我想每个开发者都会面临这个问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我想每個開發者都會面臨這個問題"
+    }
+  ]
 }
