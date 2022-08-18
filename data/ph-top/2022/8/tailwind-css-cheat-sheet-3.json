@@ -58,5 +58,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-18T07:06:00Z"
+  "original_createdAt": "2022-08-18T07:06:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "このインタラクティブなチートシートで、すべてのクラス名とCSSプロパティをすばやく見つけることができます。Tailwindのチートシートはこれだけです。",
+      "tagline": "Tailwind CSSのクラス名とCSSプロパティをすべて一箇所にまとめることができます。"
+    },
+    {
+      "locale": "zh",
+      "description": "通过这个交互式小抄，可以快速找到所有的类名和CSS属性。这是你唯一需要的Tailwind作弊表!",
+      "tagline": "所有Tailwind的CSS类名和CSS属性都在一个地方"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "通過這個交互式小抄，可以快速找到所有的類名和CSS屬性。這是你唯一需要的Tailwind作弊表!",
+      "tagline": "所有Tailwind的CSS類名和CSS屬性都在一個地方"
+    }
+  ]
 }
