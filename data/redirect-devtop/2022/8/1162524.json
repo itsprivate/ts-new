@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-08T23:18:22Z",
   "image": "https://dev.to/social_previews/article/1162524.png",
   "author": "Tech Tim (@TechTim42)",
-  "author_url": "https://dev.to/timhub"
+  "author_url": "https://dev.to/timhub",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "こんな風に始まる会話を想像してみてください。  あ、これ、チームからのフィードバックなんだけど、こんなの作ったんだけど・・・。",
+      "title": "フィードバックの与え方、受け取り方"
+    },
+    {
+      "locale": "zh",
+      "description": "想象一下，对话是这样开始的。  哦，这是团队对你的反馈，我做了一个...",
+      "title": "如何给予反馈和接受反馈"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "想象一下，對話是這樣開始的。  哦，這是團隊對你的反饋，我做了一個...",
+      "title": "如何給予反饋和接受反饋"
+    }
+  ]
 }
