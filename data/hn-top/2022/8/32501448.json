@@ -13,5 +13,19 @@
   ],
   "objectID": "32501448",
   "original_created_at": "2022-08-17T20:43:26.000Z",
-  "image": "https://nixpacks.com/images/getting-started.png"
+  "image": "https://nixpacks.com/images/getting-started.png",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "Nixpacksはソースディレクトリを受け取り、OCIに準拠したイメージを生成する"
+    },
+    {
+      "locale": "zh",
+      "title": "Nixpacks接收一个源目录并生成一个符合OCI标准的图像"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "Nixpacks接收一個源目錄並生成一個符合OCI標準的圖像"
+    }
+  ]
 }
