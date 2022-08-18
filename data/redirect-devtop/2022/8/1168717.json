@@ -44,5 +44,22 @@
   "original_created_at": "2022-08-16T13:38:16Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CtBs_2zW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gucfmv9t4edb3i2onys1.jpg",
   "author": "Dom (dcode)",
-  "author_url": "https://dev.to/dcodeyt"
+  "author_url": "https://dev.to/dcodeyt",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "誰にでも好きなJavaScriptのイベントがあるはずです。ない？僕だけ？まあ、どちらにしても、ここに5つ追加しておきます...",
+      "title": "知っておきたいJavaScriptの5つのイベント🌏。"
+    },
+    {
+      "locale": "zh",
+      "description": "每个人都有他们最喜欢的JavaScript事件。不是吗？只有我？好吧，不管怎样，这里还有5个要补充...",
+      "title": "5个你必须知道的JavaScript事件 🌏"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "每個人都有他們最喜歡的JavaScript事件。不是嗎？只有我？好吧，不管怎樣，這裏還有5個要補充...",
+      "title": "5個你必須知道的JavaScript事件 🌏"
+    }
+  ]
 }
