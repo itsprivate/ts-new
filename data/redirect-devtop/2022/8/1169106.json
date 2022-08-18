@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-16T21:54:00Z",
   "image": "https://dev.to/social_previews/article/1169106.png",
   "author": "Shloka",
-  "author_url": "https://dev.to/chicken_biryani"
+  "author_url": "https://dev.to/chicken_biryani",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "この1年間、私はたくさんのドキュメンテーションの仕事をしました。その中で、ちょっとした知識を伝授します。",
+      "title": "docsに貢献する!"
+    },
+    {
+      "locale": "zh",
+      "description": "在过去一年中，我做了大量的文件工作。我在此传授一点知识。",
+      "title": "为文档做贡献!"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "在過去一年中，我做了大量的文件工作。我在此傳授一點知識。",
+      "title": "爲文檔做貢獻!"
+    }
+  ]
 }
