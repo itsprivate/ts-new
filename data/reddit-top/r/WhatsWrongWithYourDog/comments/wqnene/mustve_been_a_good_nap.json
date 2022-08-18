@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "いい昼寝だったんだろうな"
+    },
+    {
+      "locale": "zh",
+      "title": "一定是睡了个好觉"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "一定是睡了個好覺"
+    }
+  ]
 }
