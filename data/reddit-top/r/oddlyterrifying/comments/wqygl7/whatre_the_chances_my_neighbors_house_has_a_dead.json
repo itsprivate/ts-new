@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "隣の家に死体がある可能性は？"
+    },
+    {
+      "locale": "zh",
+      "title": "我的邻居家有一具尸体的几率有多大？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我的鄰居家有一具屍體的幾率有多大？"
+    }
+  ]
 }
