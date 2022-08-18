@@ -62,5 +62,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-18T07:18:51Z"
+  "original_createdAt": "2022-08-18T07:18:51Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "snoopForms は、オープンソースのフルスタックフォームソリューションです。No-Code エディタや React Lib を使って、フォームを素早く作成できます。No-CodeエディタやReact Libを使用して、フォームを迅速に作成できます。送信されたデータを1つの中央データハブにパイプし、必要なデータを管理および転送します。プライバシーに関する規制に対応するため、セルフホスティングが可能です。",
+      "tagline": "オープンソースのTypeformの代替品、他多数"
+    },
+    {
+      "locale": "zh",
+      "description": "snoopForms是全栈式的开源表单解决方案。使用No-Code编辑器或React Lib来快速创建表单。将你提交的数据输送到一个中央数据中心，以管理和转发你需要的数据。自我托管以符合隐私法规。",
+      "tagline": "开源的Typeform替代品，以及更多的东西"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "snoopForms是全棧式的開源表單解決方案。使用No-Code編輯器或React Lib來快速創建表單。將你提交的數據輸送到一箇中央數據中心，以管理和轉發你需要的數據。自我託管以符合隱私法規。",
+      "tagline": "開源的Typeform替代品，以及更多的東西"
+    }
+  ]
 }
