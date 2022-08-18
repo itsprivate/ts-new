@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "初めて通訳の声を聞くコーチ"
+    },
+    {
+      "locale": "zh",
+      "title": "教练第一次听到他的翻译的声音"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "教練第一次聽到他的翻譯的聲音"
+    }
+  ]
 }
