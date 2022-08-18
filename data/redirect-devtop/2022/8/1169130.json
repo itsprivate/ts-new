@@ -53,5 +53,22 @@
   "original_created_at": "2022-08-16T23:55:53Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rBtDzZU4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/orxbylv04z8364vu8ilk.png",
   "author": "Rizèl Scarlett",
-  "author_url": "https://dev.to/blackgirlbytes"
+  "author_url": "https://dev.to/blackgirlbytes",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Codespacesを使って、初心者の開発者にHTML、CSS、JavaScriptを教える 2018年以降、私は...",
+      "title": "Codespacesでフロントエンドのワークショップを開催する方法"
+    },
+    {
+      "locale": "zh",
+      "description": "使用Codespaces向初级开发人员教授HTML、CSS和JavaScript 自2018年以来，我...",
+      "title": "如何在Codespaces中运行一个前端车间"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "使用Codespaces向初級開發人員教授HTML、CSS和JavaScript 自2018年以來，我...",
+      "title": "如何在Codespaces中運行一個前端車間"
+    }
+  ]
 }
