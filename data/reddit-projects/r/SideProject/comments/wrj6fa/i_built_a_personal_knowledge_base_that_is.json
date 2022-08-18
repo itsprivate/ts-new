@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "技術者に特化したパーソナルナレッジベースを構築した"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个专门为科技人员设计的个人知识库"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個專門爲科技人員設計的個人知識庫"
+    }
+  ]
 }
