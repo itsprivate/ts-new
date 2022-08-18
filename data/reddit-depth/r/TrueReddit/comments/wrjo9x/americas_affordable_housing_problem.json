@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "アメリカの住宅問題"
+    },
+    {
+      "locale": "zh",
+      "title": "美国的负担得起的住房问题"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "美國的負擔得起的住房問題"
+    }
+  ]
 }
