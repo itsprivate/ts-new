@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたが時間をかけて習得した自慢のスキルは何ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "你对花时间学习什么随机技能感到自豪？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "你對花時間學習什麼隨機技能感到自豪？"
+    }
+  ]
 }
