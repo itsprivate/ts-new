@@ -45,5 +45,17 @@
   "original_created_at": "2020-04-14T17:02:10Z",
   "image": "https://dev.to/social_previews/article/309153.png",
   "author": "Peter Kim Frank",
-  "author_url": "https://dev.to/peter"
+  "author_url": "https://dev.to/peter",
+  "localize": [
+    {
+      "locale": "zh",
+      "description": "一个讨论GitHub现在对团队免费的消息的主题。",
+      "title": "GitHub现在对团队是免费的"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個討論GitHub現在對團隊免費的消息的主題。",
+      "title": "GitHub現在對團隊是免費的"
+    }
+  ]
 }
