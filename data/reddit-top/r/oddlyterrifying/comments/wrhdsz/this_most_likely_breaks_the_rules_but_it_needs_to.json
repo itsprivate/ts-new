@@ -58,5 +58,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "これはルール違反になる可能性が高いのですが、言わなければならないことがあります。"
+    },
+    {
+      "locale": "zh",
+      "title": "这很可能违反了规则，但需要说出来。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這很可能違反了規則，但需要說出來。"
+    }
+  ]
 }
