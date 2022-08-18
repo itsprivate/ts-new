@@ -61,5 +61,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "人間のタイヤ移動を手伝う賢い犬、一口で4つのタイヤを運ぶ方法を考案"
+    },
+    {
+      "locale": "zh",
+      "title": "聪明的狗帮助它的主人搬运轮胎，并想出一口气搬运四个轮胎的方法"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "聰明的狗幫助它的主人搬運輪胎，並想出一口氣搬運四個輪胎的方法"
+    }
+  ]
 }
