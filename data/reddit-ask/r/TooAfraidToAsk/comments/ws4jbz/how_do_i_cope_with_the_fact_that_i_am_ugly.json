@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "On a scale of 1-10 I ain't at the very bottom, but still damn close like\nprobably a 2-3."
+  "the_new_excerpt": "On a scale of 1-10 I ain't at the very bottom, but still damn close like\nprobably a 2-3.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "1～10のスケールで見ると、私は最下位ではありませんが、それでもかなり近いです。\nおそらく2-3点だろう。",
+      "title": "自分が醜いという事実にどう対処すればいいのか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "在1-10的范围内，我不是在最底层，但仍然非常接近，如\n可能是2-3。",
+      "title": "我如何应对我很丑的事实？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "在1-10的範圍內，我不是在最底層，但仍然非常接近，如\n可能是2-3。",
+      "title": "我如何應對我很醜的事實？"
+    }
+  ]
 }
