@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-18T19:54:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lYKT7GQm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4iw23nfjnplbup1fzp6.png",
   "author": "dev.to staff",
-  "author_url": "https://dev.to/thepracticaldev"
+  "author_url": "https://dev.to/thepracticaldev",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "DEVで開催されるRedisハッカソン、まだ間に合いますよ! ",
+      "title": "Redis x DEV Hackathon リマインダー ⏰。"
+    },
+    {
+      "locale": "zh",
+      "description": "你仍然有时间参加DEV上的Redis黑客马拉松活动! ",
+      "title": "Redis x DEV黑客马拉松提醒 ⏰"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "你仍然有時間參加DEV上的Redis黑客馬拉松活動! ",
+      "title": "Redis x DEV黑客馬拉松提醒 ⏰"
+    }
+  ]
 }

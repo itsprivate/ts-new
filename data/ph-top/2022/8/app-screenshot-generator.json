@@ -68,5 +68,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-19T07:07:57Z"
+  "original_createdAt": "2022-08-19T07:07:57Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Google Play、App Store、Product Hunt向けにアプリやPWAのスクリーンショットをキャプチャしてデザインするための無料ツールです。最近のスマートフォンのモックアップを収録：iPhone 14、iPhone 13、Google Pixel 6、Samsung Galaxy S22。100％無料です。ウォーターマークはありません。ペイウォールなし。",
+      "tagline": "アプリストアのスクリーンショットを作成するための100％無料のツール"
+    },
+    {
+      "locale": "zh",
+      "description": "一个免费的工具，用于捕捉和设计你的应用程序或PWA的屏幕截图，用于Google Play、App Store或Product Hunt。包括最近的智能手机模型：iPhone 14、iPhone 13、谷歌Pixel 6和三星Galaxy S22。100%免费。没有水印。没有付费墙。",
+      "tagline": "用于创建应用程序商店截图的100%免费工具"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個免費的工具，用於捕捉和設計你的應用程序或PWA的屏幕截圖，用於Google Play、App Store或Product Hunt。包括最近的智能手機模型：iPhone 14、iPhone 13、谷歌Pixel 6和三星Galaxy S22。100%免費。沒有水印。沒有付費牆。",
+      "tagline": "用於創建應用程序商店截圖的100%免費工具"
+    }
+  ]
 }
