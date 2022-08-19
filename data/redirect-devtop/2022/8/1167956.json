@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-15T15:35:26Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8iyWE8-l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yojtdogy2hmwr187xv69.png",
   "author": "José Thomaz",
-  "author_url": "https://dev.to/josethz00"
+  "author_url": "https://dev.to/josethz00",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "PrismaとTypeORMは、おそらく2022年のJavaScriptエコシステムにおける主要なORMの選択肢になると思いますので、私は...",
+      "title": "ベンチマーク プリズマVSタイプーム"
+    },
+    {
+      "locale": "zh",
+      "description": "Prisma和TypeORM可能是2022年JavaScript生态系统的主要ORM选择，所以我有...",
+      "title": "基准。Prisma VS TypeORM"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Prisma和TypeORM可能是2022年JavaScript生態系統的主要ORM選擇，所以我有...",
+      "title": "基準。Prisma VS TypeORM"
+    }
+  ]
 }
