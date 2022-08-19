@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "edit: agreed, it looks cool"
+  "the_new_excerpt": "edit: agreed, it looks cool",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "edit: 同意、カッコいい",
+      "title": "実生活では（パリィ以外の）何の価値もないのに、なぜ格闘ゲームやショーでは2つの同じ武器を二刀流するのが普通なのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "编辑：同意，它看起来很酷",
+      "title": "如果在现实生活中没有任何真正的价值（除了招架），为什么在格斗游戏/节目中双持两种同等的武器如此普遍？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "編輯：同意，它看起來很酷",
+      "title": "如果在現實生活中沒有任何真正的價值（除了招架），爲什麼在格鬥遊戲/節目中雙持兩種同等的武器如此普遍？"
+    }
+  ]
 }
