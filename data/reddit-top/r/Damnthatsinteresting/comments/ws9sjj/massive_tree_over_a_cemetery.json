@@ -67,5 +67,19 @@
   },
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "墓地の上にある巨大な木。"
+    },
+    {
+      "locale": "zh",
+      "title": "墓地上方的巨大树木。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "墓地上方的巨大樹木。"
+    }
+  ]
 }
