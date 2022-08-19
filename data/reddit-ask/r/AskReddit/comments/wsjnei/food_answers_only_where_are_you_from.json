@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "食品のみ回答、出身地は？"
+    },
+    {
+      "locale": "zh",
+      "title": "只回答食物问题，你来自哪里？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只回答食物問題，你來自哪裏？"
+    }
+  ]
 }
