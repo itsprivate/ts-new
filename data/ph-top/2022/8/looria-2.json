@@ -73,5 +73,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-19T07:01:00Z"
+  "original_createdAt": "2022-08-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Looriaは、信頼できる製品レビューを探し出し、分析します。だから、あなたは必要ないのです。",
+      "tagline": "次の買い物を探す"
+    },
+    {
+      "locale": "zh",
+      "description": "Looria发现并分析可信的产品评论。所以你不必。",
+      "tagline": "寻找您的下一次购买"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Looria發現並分析可信的產品評論。所以你不必。",
+      "tagline": "尋找您的下一次購買"
+    }
+  ]
 }
