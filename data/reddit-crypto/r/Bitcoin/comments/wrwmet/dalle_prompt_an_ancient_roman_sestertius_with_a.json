@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "DALL-E Prompt: ビットコインのロゴが裏面に描かれた古代ローマのセステルティウス像"
+    },
+    {
+      "locale": "zh",
+      "title": "DALL-E提示：一个正面有比特币标志的古罗马塞斯特罗硬币"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "DALL-E提示：一個正面有比特幣標誌的古羅馬塞斯特羅硬幣"
+    }
+  ]
 }

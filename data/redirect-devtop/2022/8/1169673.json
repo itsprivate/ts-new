@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-17T15:15:25Z",
   "image": "https://dev.to/social_previews/article/1169673.png",
   "author": "José Miguel Álvarez Vañó",
-  "author_url": "https://dev.to/jmalvarez"
+  "author_url": "https://dev.to/jmalvarez",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "クラスが変わる理由は、たったひとつでいいはずです。  コードの中のすべてのクラスは、責任を持つべきです...",
+      "title": "TypeScriptにおける単一責任原則（Single Responsibility Principle"
+    },
+    {
+      "locale": "zh",
+      "description": "一个班级应该只有一个改变的理由。  我们代码中的每个类都应该负责...",
+      "title": "TypeScript中的单一责任原则"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個班級應該只有一個改變的理由。  我們代碼中的每個類都應該負責...",
+      "title": "TypeScript中的單一責任原則"
+    }
+  ]
 }
