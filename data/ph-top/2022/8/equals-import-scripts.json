@@ -83,5 +83,22 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-19T07:00:00Z"
+  "original_createdAt": "2022-08-19T07:00:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Equalsは、SQL、JavaScript、Pythonスクリプトがネイティブに組み込まれた唯一の表計算ソフトです。カスタムスクリプトを作成して、あらゆるデータベースやAPIからデータを自動的にインポートすることができます。スプレッドシートを使って快適にデータを操作できます。",
+      "tagline": "SQL、JavaScript、Pythonを組み込んだ表計算ソフト"
+    },
+    {
+      "locale": "zh",
+      "description": "Equals是唯一一个原生内置SQL、JavaScript和Python脚本的电子表格。编写自定义脚本，自动从任何数据库或任何API导入数据。在电子表格的舒适环境中处理你的数据。",
+      "tagline": "一个内置了SQL、JavaScript和Python的电子表格"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "Equals是唯一一個原生內置SQL、JavaScript和Python腳本的電子表格。編寫自定義腳本，自動從任何數據庫或任何API導入數據。在電子表格的舒適環境中處理你的數據。",
+      "tagline": "一個內置了SQL、JavaScript和Python的電子表格"
+    }
+  ]
 }
