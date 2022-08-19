@@ -63,5 +63,21 @@
       }
     ]
   },
-  "original_createdAt": "2022-08-19T07:01:00Z"
+  "original_createdAt": "2022-08-19T07:01:00Z",
+  "localize": [
+    {
+      "locale": "ja",
+      "tagline": "インターネットがあなたの製品を話題にするときを知る"
+    },
+    {
+      "locale": "zh",
+      "description": "一个可以通知你在谷歌上提到的关键词的Slackbot 🎣 Powered by chunk.run",
+      "tagline": "了解互联网何时谈论你的产品"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "一個可以通知你在谷歌上提到的關鍵詞的Slackbot 🎣 Powered by chunk.run",
+      "tagline": "瞭解互聯網何時談論你的產品"
+    }
+  ]
 }
