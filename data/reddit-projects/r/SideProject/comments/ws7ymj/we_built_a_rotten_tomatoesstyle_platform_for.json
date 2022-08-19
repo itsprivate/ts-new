@@ -53,5 +53,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "私たちは、Rotten Tomatoesのような製品のプラットフォームを構築しました。Reddit、Youtube、専門家のブログなど、最も信頼できるソースからのレビューを集約しています。"
+    },
+    {
+      "locale": "zh",
+      "title": "我们为产品建立了一个烂番茄式的平台。它从最值得信赖的来源（如Reddit、Youtube或专家博客）聚合评论。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我們爲產品建立了一個爛番茄式的平臺。它從最值得信賴的來源（如Reddit、Youtube或專家博客）聚合評論。"
+    }
+  ]
 }
