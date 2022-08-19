@@ -44,5 +44,22 @@
   "original_created_at": "2022-08-18T10:50:41Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A9BEZooq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6o8tijivj6lg1o3jzt2.jpeg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "フロントエンドの検証ロジックを信用するのは、財布を盗まないと言っている泥棒を信用するようなもの......。",
+      "title": "フロントエンドのバリデーターを信用してはいけない"
+    },
+    {
+      "locale": "zh",
+      "description": "相信前端验证逻辑，就像相信小偷说他不会偷你的钱包一样....。",
+      "title": "不要相信你的前台验证器"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "相信前端驗證邏輯，就像相信小偷說他不會偷你的錢包一樣....。",
+      "title": "不要相信你的前臺驗證器"
+    }
+  ]
 }
