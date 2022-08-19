@@ -92,5 +92,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "カレンダーの上にワークスペースを設け、会議のメモやToDoの管理を効率的に行うことが可能"
+    },
+    {
+      "locale": "zh",
+      "title": "日历上面的工作区，可以做会议记录，有效管理待办事项"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "日曆上面的工作區，可以做會議記錄，有效管理待辦事項"
+    }
+  ]
 }
