@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "There's like infinite levels, so Idk if they have some sort of computer program\nthat makes the levels, or if it's actual game designers."
+  "the_new_excerpt": "There's like infinite levels, so Idk if they have some sort of computer program\nthat makes the levels, or if it's actual game designers.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "無限のレベルがあるんだから、コンピュータプログラムでもあるのかな？\nなのか、それとも実際のゲームデザイナーが作っているのかはわかりません。",
+      "title": "キャンディークラッシュのようなゲームでは、人がレベルをデザインするのでしょうか、それともコンピューターがデザインするのでしょうか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "好像有无限的水平，所以不知道他们是否有某种计算机程序。\n制作关卡，还是真正的游戏设计师。",
+      "title": "在Candy Crush这样的游戏中，是由人设计关卡，还是由电脑设计？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "好像有無限的水平，所以不知道他們是否有某種計算機程序。\n製作關卡，還是真正的遊戲設計師。",
+      "title": "在Candy Crush這樣的遊戲中，是由人設計關卡，還是由電腦設計？"
+    }
+  ]
 }
