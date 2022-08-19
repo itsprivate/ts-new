@@ -48,5 +48,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "読み書きのテストを復活させる（ただし、あなたが考えているようなやり方ではない）。"
+    },
+    {
+      "locale": "zh",
+      "title": "恢复识字测试（但不是你所想的那种方式）"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "恢復識字測試（但不是你所想的那種方式）"
+    }
+  ]
 }
