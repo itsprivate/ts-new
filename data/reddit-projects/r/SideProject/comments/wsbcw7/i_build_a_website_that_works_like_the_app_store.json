@@ -71,5 +71,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "App Storeのように、モバイルアプリではなく、WebAppsのために動作するWebサイトを構築しています。ウェブアプリケーションは、ウェブサイトのようにどのデバイスからもアクセスでき、素晴らしいコラボレーション機能を提供することができるので、素晴らしいものです。"
+    },
+    {
+      "locale": "zh",
+      "title": "我建立了一个类似于App Store的网站，但不是针对移动应用程序，而是针对WebApps。WebApps是伟大的，因为它们可以从任何设备上访问，就像一个网站，并提供伟大的协作功能。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "我建立了一個類似於App Store的網站，但不是針對移動應用程序，而是針對WebApps。WebApps是偉大的，因爲它們可以從任何設備上訪問，就像一個網站，並提供偉大的協作功能。"
+    }
+  ]
 }
