@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Inquiring minds want to know."
+  "the_new_excerpt": "Inquiring minds want to know.",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "知りたいんです。",
+      "title": "私は内斜視なので、自分では気づかないうちに眼球が内側を向いているのです。具体的にはどのような現象なのでしょうか？手動で目を交差させると、筋肉が引っ張られる感じがするのですが、無意識に行うと、かなり内側を向いているにもかかわらず、全く感じないのです。"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "询问的人想知道。",
+      "title": "我有内斜肌症，所以我的眼睛在不知不觉中向内转动。这到底是怎么发生的？当我用手划过眼睛时，我能感觉到肌肉的拉力，但当我无意识地划过眼睛时，我却没有任何感觉，尽管它是非常向内的。"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "詢問的人想知道。",
+      "title": "我有內斜肌症，所以我的眼睛在不知不覺中向內轉動。這到底是怎麼發生的？當我用手劃過眼睛時，我能感覺到肌肉的拉力，但當我無意識地劃過眼睛時，我卻沒有任何感覺，儘管它是非常向內的。"
+    }
+  ]
 }
