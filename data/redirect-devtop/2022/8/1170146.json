@@ -46,5 +46,21 @@
   "original_created_at": "2022-08-18T03:18:47Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R6atjjJg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r7oo9vomncp2qkysstf.png",
   "author": "ashish ",
-  "author_url": "https://dev.to/asheeshh"
+  "author_url": "https://dev.to/asheeshh",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ViteでReactアプリを新規作成する"
+    },
+    {
+      "locale": "zh",
+      "description": "虽然每个React应用都是独一无二的，但它们都是从同一个地方开始的。  你需要一个index.js，...",
+      "title": "用Vite创建一个新的React应用"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "雖然每個React應用都是獨一無二的，但它們都是從同一個地方開始的。  你需要一個index.js，...",
+      "title": "用Vite創建一個新的React應用"
+    }
+  ]
 }
