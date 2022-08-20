@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "家にいるのが好きな人、またはあまり社会的な生活を送っていない人は、週末に何をすることが多いですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "对于那些喜欢呆在家里（或没有大的社会生活）的人，你通常在周末做什么？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "對於那些喜歡呆在家裏（或沒有大的社會生活）的人，你通常在週末做什麼？"
+    }
+  ]
 }
