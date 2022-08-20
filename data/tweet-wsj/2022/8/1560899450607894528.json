@@ -1,0 +1,80 @@
+{
+  "created_at": "Sat Aug 20 9:44:4 +0000 2022",
+  "id_str": "1560899450607894528",
+  "full_text": "Stars Coffee is Russia’s answer to Starbucks after the coffee giant exited the country following Moscow’s invasion of Ukraine https://t.co/bEC8xkLTx0 #WSJWhatsNow https://t.co/jWf893Vkvz",
+  "display_text_range": [
+    0,
+    162
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "text": "WSJWhatsNow",
+        "indices": [
+          150,
+          162
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/bEC8xkLTx0",
+        "expanded_url": "https://on.wsj.com/3SVWy9g",
+        "display_url": "on.wsj.com/3SVWy9g",
+        "indices": [
+          126,
+          149
+        ]
+      }
+    ],
+    "media": [
+      {
+        "id": 1560770111509774300,
+        "id_str": "1560770111509774337",
+        "indices": [
+          163,
+          186
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1560770111509774337/img/vOKLRqhSc9G_kCig.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1560770111509774337/img/vOKLRqhSc9G_kCig.jpg",
+        "url": "https://t.co/jWf893Vkvz",
+        "display_url": "pic.twitter.com/jWf893Vkvz",
+        "expanded_url": "https://twitter.com/WSJ/status/1560899450607894528/video/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 720,
+            "h": 720,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "user": {
+    "name": "The Wall Street Journal",
+    "screen_name": "WSJ",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971415515754266624/zCX0q9d5_normal.jpg"
+  },
+  "retweet_count": 28,
+  "favorite_count": 104,
+  "possibly_sensitive": false,
+  "original_created_at": "Sat Aug 20 08:00:03 +0000 2022"
+}
