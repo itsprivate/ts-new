@@ -51,5 +51,22 @@
   "original_created_at": "2022-08-19T13:09:50Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ULF3pZIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u068vok7pm5t5qd12st8.png",
   "author": "Sadeedpv",
-  "author_url": "https://dev.to/sadeedpv"
+  "author_url": "https://dev.to/sadeedpv",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "みんなでGitHubでProfileをシェアして繋がりましょう! あなたのプロフィールを下にリンクしてください。",
+      "title": "GitHubのプロフィールを共有し、みんなでつながろう"
+    },
+    {
+      "locale": "zh",
+      "description": "让我们在GitHub上通过分享我们的Profiles联系起来吧！! 在下面链接你的资料，我感兴趣...",
+      "title": "分享你的GitHub资料，让我们一起交流。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "讓我們在GitHub上通過分享我們的Profiles聯繫起來吧！! 在下面鏈接你的資料，我感興趣...",
+      "title": "分享你的GitHub資料，讓我們一起交流。"
+    }
+  ]
 }
