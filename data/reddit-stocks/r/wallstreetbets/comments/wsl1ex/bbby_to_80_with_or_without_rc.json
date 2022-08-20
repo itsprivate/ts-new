@@ -144,5 +144,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660933283,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "RCあり/なし $BBBY～80"
+    },
+    {
+      "locale": "zh",
+      "title": "$BBBY至80，含或不含RC"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "$BBBY至80，含或不含RC"
+    }
+  ]
 }
