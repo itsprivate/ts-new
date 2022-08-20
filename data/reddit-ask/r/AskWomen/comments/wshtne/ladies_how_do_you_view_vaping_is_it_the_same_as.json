@@ -12,5 +12,22 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": "Title says it all I think!"
+  "the_new_excerpt": "Title says it all I think!",
+  "localize": [
+    {
+      "locale": "ja",
+      "the_new_excerpt": "タイトルが全てを物語っていると思います",
+      "title": "女性の皆さん、VAPEをどのように捉えていますか？タバコと同じですか？VAPEはあなたにとって破格の存在ですか？"
+    },
+    {
+      "locale": "zh",
+      "the_new_excerpt": "我认为标题说明了一切!",
+      "title": "女士们，你们如何看待吸食毒品？它和吸烟一样吗？吸烟对你来说是一个交易障碍吗？"
+    },
+    {
+      "locale": "zh-Hant",
+      "the_new_excerpt": "我認爲標題說明了一切!",
+      "title": "女士們，你們如何看待吸食毒品？它和吸菸一樣嗎？吸菸對你來說是一個交易障礙嗎？"
+    }
+  ]
 }
