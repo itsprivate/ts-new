@@ -15,8 +15,8 @@ on:
         description: "--verbose: debug workflow, true or false"
         required: false
         default: "false"
-  schedule:
-    - cron: "*/5 * * * *"
+  # schedule:
+  #   - cron: "*/5 * * * *"
   # push:
 jobs:
   run:
