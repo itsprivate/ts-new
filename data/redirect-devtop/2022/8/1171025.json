@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-19T03:08:57Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g6PsYJtc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ariysc4jtiw7d020or2n.png",
   "author": "SeongKuk Han",
-  "author_url": "https://dev.to/lico"
+  "author_url": "https://dev.to/lico",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "関数をpropsとして渡すときは型を繰り返さず、その型を使う。  例えば、以下のような関数があるとします。",
+      "title": "React TS：関数をpropとして渡すときは型を繰り返さず、その型を使う。"
+    },
+    {
+      "locale": "zh",
+      "description": "当你把函数作为道具传递时，不要重复类型，使用它们的类型。  我们假设，有一个...",
+      "title": "React TS：当你把函数作为道具传递时，不要重复类型，使用它们的类型。"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "當你把函數作爲道具傳遞時，不要重複類型，使用它們的類型。  我們假設，有一個...",
+      "title": "React TS：當你把函數作爲道具傳遞時，不要重複類型，使用它們的類型。"
+    }
+  ]
 }
