@@ -161,5 +161,19 @@
   "media": null,
   "is_video": false,
   "original_created_utc": 1660943804,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "ご覧になったかどうか分かりませんが"
+    },
+    {
+      "locale": "zh",
+      "title": "不知道你是否看到了这个..."
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "不知道你是否看到了這個..."
+    }
+  ]
 }
