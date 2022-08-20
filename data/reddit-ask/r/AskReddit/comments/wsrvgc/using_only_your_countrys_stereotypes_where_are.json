@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "あなたの国のステレオタイプだけで言うと、どこの国の人ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "只用你的国家的刻板印象，你是哪里人？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "只用你的國家的刻板印象，你是哪裏人？"
+    }
+  ]
 }
