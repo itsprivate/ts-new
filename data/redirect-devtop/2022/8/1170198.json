@@ -46,5 +46,22 @@
   "original_created_at": "2022-08-18T06:07:13Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZIgmBGPV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rr229dw0adhdsywlhz4.png",
   "author": "Arnav Chauhan",
-  "author_url": "https://dev.to/foxy17"
+  "author_url": "https://dev.to/foxy17",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "Web開発の現場で様々な技術を試すのが好きな方なら、きっとアストロは...",
+      "title": "なぜ、みんながアストロとアイランド・アーキテクチャーを話題にするのか？"
+    },
+    {
+      "locale": "zh",
+      "description": "如果你喜欢在网络开发的海洋中探索不同的技术，我相信Astro一定有。",
+      "title": "为什么每个人都在谈论Astro和岛屿建筑？"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "如果你喜歡在網絡開發的海洋中探索不同的技術，我相信Astro一定有。",
+      "title": "爲什麼每個人都在談論Astro和島嶼建築？"
+    }
+  ]
 }
