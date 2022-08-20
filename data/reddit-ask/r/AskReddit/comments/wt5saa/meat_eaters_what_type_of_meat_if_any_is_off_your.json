@@ -12,5 +12,19 @@
   "media": null,
   "is_video": false,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "肉食系：倫理的な理由でメニューから外している肉があるとすれば、どのような肉ですか？"
+    },
+    {
+      "locale": "zh",
+      "title": "肉食者：出于道德原因，哪种类型的肉（如果有的话）不在你的菜单上？"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "肉食者：出於道德原因，哪種類型的肉（如果有的話）不在你的菜單上？"
+    }
+  ]
 }
