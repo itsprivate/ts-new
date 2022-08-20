@@ -44,5 +44,22 @@
   "original_created_at": "2022-08-19T13:30:43Z",
   "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ASwVpuZY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hnodqrqfqliml0deuzw5.jpg",
   "author": "Thomas Hansen",
-  "author_url": "https://dev.to/polterguy"
+  "author_url": "https://dev.to/polterguy",
+  "localize": [
+    {
+      "locale": "ja",
+      "description": "私の記事のほとんどに異論が出るのと同じように、この記事にも異論が出るだろう。もし...",
+      "title": "GraphQLは熱い煙のようなゴミの山"
+    },
+    {
+      "locale": "zh",
+      "description": "我可能会收到反对意见，就像我的大多数文章收到反对意见一样。如果...",
+      "title": "GraphQL是一个冒着热气的垃圾堆"
+    },
+    {
+      "locale": "zh-Hant",
+      "description": "我可能會收到反對意見，就像我的大多數文章收到反對意見一樣。如果...",
+      "title": "GraphQL是一個冒着熱氣的垃圾堆"
+    }
+  ]
 }
