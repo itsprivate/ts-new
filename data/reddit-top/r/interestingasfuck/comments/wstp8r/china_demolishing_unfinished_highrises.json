@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "未完成の高層ビルを取り壊す中国"
+    },
+    {
+      "locale": "zh",
+      "title": "中国正在拆除未完工的高楼大厦"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "中國正在拆除未完工的高樓大廈"
+    }
+  ]
 }
