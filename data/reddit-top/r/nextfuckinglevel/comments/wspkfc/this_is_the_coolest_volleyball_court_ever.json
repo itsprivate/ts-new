@@ -56,5 +56,19 @@
   },
   "is_video": true,
   "sensitive": false,
-  "the_new_excerpt": ""
+  "the_new_excerpt": "",
+  "localize": [
+    {
+      "locale": "ja",
+      "title": "このバレーボールコートは最高にクールだ。"
+    },
+    {
+      "locale": "zh",
+      "title": "这是最酷的排球场。"
+    },
+    {
+      "locale": "zh-Hant",
+      "title": "這是最酷的排球場。"
+    }
+  ]
 }
